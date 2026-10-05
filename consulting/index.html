@@ -51,7 +51,7 @@
     <ul class="terms">
       <li>諮詢時段於<strong>款項確認後</strong>安排；未付款不開諮詢。</li>
       <li>購買後請於六個月內用完（方案另有註明者除外）；未用完可轉讓，原則不退費。</li>
-      <li>金額依參考匯率換算，顯示四捨五入至小數第二位；<strong>實收以入帳為準</strong>。</li>
+      <li>各幣種為整數參考標價；<strong>實收以入帳／付款指示為準</strong>。</li>
     </ul>
   </section>
 
@@ -72,29 +72,31 @@
 </main>
 <script>
 (function () {
-  var RATES = { CNY: 1, USD: 0.149316, EUR: 0.1325, TWD: 4.7445 };
   var SYMBOL = { CNY: '¥', USD: '$', EUR: '€', TWD: 'NT$' };
+  // Comfortable integer list prices (not live FX × CNY). Reference only; settlement as confirmed.
   var PACKAGES = [
-    { id: 'hours10', title: '10 小時諮詢', meta: '最小購買單位 · 參考 ¥1,000／小時', cny: 10000 },
-    { id: 'project', title: '單設計項目輔導', meta: '約 25 小時 · 單一設計案', cny: 20000 },
-    { id: 'm3', title: '三個月設計諮詢', meta: '不限課時 · 三個月', cny: 60000 },
-    { id: 'm6', title: '六個月設計諮詢', meta: '不限課時 · 六個月', cny: 99000 }
+    { id: 'hours10', title: '10 小時諮詢', meta: '最小購買單位 · 參考 ¥1,000／小時',
+      price: { CNY: 10000, USD: 1500, EUR: 1300, TWD: 47500 } },
+    { id: 'project', title: '單設計項目輔導', meta: '約 25 小時 · 單一設計案',
+      price: { CNY: 20000, USD: 3000, EUR: 2700, TWD: 95000 } },
+    { id: 'm3', title: '三個月設計諮詢', meta: '不限課時 · 三個月',
+      price: { CNY: 60000, USD: 9000, EUR: 8000, TWD: 285000 } },
+    { id: 'm6', title: '六個月設計諮詢', meta: '不限課時 · 六個月',
+      price: { CNY: 99000, USD: 15000, EUR: 13000, TWD: 470000 } }
   ];
   var cur = 'CNY';
   var selected = null;
   var CONTACT = 'b94501087@berkeley.edu';
 
   function fmt(n) {
-    return (Math.round(n * 100) / 100).toFixed(2);
+    return Math.round(n).toLocaleString('en-US');
   }
-  function amount(cny) {
-    return fmt(cny * RATES[cur]);
+  function amount(p) {
+    return fmt(p.price[cur]);
   }
   function renderRate() {
     document.getElementById('rateNote').textContent =
-      '參考匯率（以 CNY 為基準）：1 CNY ≈ ' +
-      fmt(RATES.USD) + ' USD · ' + fmt(RATES.EUR) + ' EUR · ' + fmt(RATES.TWD) +
-      ' TWD。顯示金額四捨五入至小數第二位；實收以入帳為準。';
+      '標價為各幣種整數參考價（非即時匯率逐筆乘算）；實收以入帳／付款指示為準。';
   }
   function renderPkgs() {
     var root = document.getElementById('pkgs');
@@ -104,8 +106,8 @@
         '<div class="row' + on + '" data-id="' + p.id + '">' +
         '<div><h2>' + p.title + '</h2><p class="meta">' + p.meta + '</p></div>' +
         '<div class="right">' +
-        '<div class="price">' + SYMBOL[cur] + ' ' + amount(p.cny) +
-        '<small>' + cur + ' · 基準 CNY ' + fmt(p.cny) + '</small></div>' +
+        '<div class="price">' + SYMBOL[cur] + ' ' + amount(p) +
+        '<small>' + cur + ' · 基準 CNY ' + fmt(p.price.CNY) + '</small></div>' +
         '<button type="button" class="pick" data-pick="' + p.id + '">選擇此方案</button>' +
         '</div></div>'
       );
@@ -119,8 +121,8 @@
     }
     var pay = (document.querySelector('input[name="pay"]:checked') || {}).value || '';
     el.textContent =
-      selected.title + ' · ' + SYMBOL[cur] + ' ' + amount(selected.cny) + ' ' + cur +
-      '（基準 CNY ' + fmt(selected.cny) + '）· 支付偏好：' + pay;
+      selected.title + ' · ' + SYMBOL[cur] + ' ' + amount(selected) + ' ' + cur +
+      '（基準 CNY ' + fmt(selected.price.CNY) + '）· 支付偏好：' + pay;
   }
   document.querySelector('.curr').addEventListener('click', function (e) {
     var btn = e.target.closest('button[data-cur]');
@@ -156,14 +158,15 @@
     }
     var pay = (document.querySelector('input[name="pay"]:checked') || {}).value || '';
     var subject = encodeURIComponent('[Consulting] ' + selected.title);
+    var nl = String.fromCharCode(10);
     var body = encodeURIComponent(
-      '姓名：' + name + '\n' +
-      'Email：' + email + '\n' +
-      '方案：' + selected.title + '\n' +
-      '金額：' + SYMBOL[cur] + ' ' + amount(selected.cny) + ' ' + cur +
-      '（基準 CNY ' + fmt(selected.cny) + '）\n' +
-      '支付偏好：' + pay + '\n' +
-      '需求：' + (note || '（無）') + '\n\n' +
+      '姓名：' + name + nl +
+      'Email：' + email + nl +
+      '方案：' + selected.title + nl +
+      '金額：' + SYMBOL[cur] + ' ' + amount(selected) + ' ' + cur +
+      '（基準 CNY ' + fmt(selected.price.CNY) + '）' + nl +
+      '支付偏好：' + pay + nl +
+      '需求：' + (note || '（無）') + nl + nl +
       '備註：尚未開通線上收款；請回覆付款指示。先付費後諮詢。'
     );
     location.href = 'mailto:' + CONTACT + '?subject=' + subject + '&body=' + body;
