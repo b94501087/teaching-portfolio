@@ -2,6 +2,7 @@
 body{margin:0;background:#f0f0f0;color:#111;font:14px/1.4 "Iowan Old Style", Palatino, "Songti TC", Georgia, serif}
 .bar{position:sticky;top:0;z-index:2;background:#fff;padding:14px 20px;display:flex;gap:20px;align-items:baseline;border-bottom:1px solid #e5e5e5}
 .bar strong{font-weight:400;letter-spacing:.02em;font-size:15px}
+.bar strong a{color:inherit;text-decoration:none}
 .bar nav{display:flex;gap:14px}
 .bar a{color:#888;text-decoration:none;font-size:13px}
 .bar a:hover,.bar a.on{color:#111}
