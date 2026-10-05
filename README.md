@@ -1,2 +1,4 @@
-# teaching-portfolio
-Teaching site preview: letter index and pin board
+# Teaching portfolio preview
+
+- Letter index: [ksteinfe/](./ksteinfe/)
+- Pin board: [pins/](./pins/)
