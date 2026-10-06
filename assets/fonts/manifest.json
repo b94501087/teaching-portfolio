@@ -9,16 +9,16 @@
   "files": 290,
   "regular": {
     "files": 145,
-    "bytes": 5367732,
-    "min": 1732,
-    "max": 118172,
+    "bytes": 5367768,
+    "min": 1712,
+    "max": 118200,
     "latin_chunk_bytes": 16084
   },
   "bold": {
     "files": 145,
-    "bytes": 5503060,
+    "bytes": 5502676,
     "min": 1744,
-    "max": 122808,
-    "latin_chunk_bytes": 16116
+    "max": 122828,
+    "latin_chunk_bytes": 16132
   }
 }
