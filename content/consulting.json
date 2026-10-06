@@ -1,0 +1,31 @@
+{
+  "title": "Design consulting",
+  "lead": "建築／空間設計諮詢與作品集輔導。選定方案與支付偏好後，先完成付款，確認入帳再開諮詢時段。",
+  "notice": "**先付費，後諮詢。**\n參考單價 ¥1,000 CNY／小時；最小購買單位 10 小時。\n**尚未開通線上收款**——商戶號／收款碼就緒前，會以 Email 回覆付款指示。",
+  "rateNote": "標價為各幣種整數參考價（非即時匯率逐筆乘算）；實收以入帳／付款指示為準。",
+  "plans": [
+    { "id": "hours10", "title": "10 小時諮詢", "meta": "最小購買單位 · 參考 ¥1,000／小時",
+      "price": { "CNY": 10000, "USD": 1500, "EUR": 1300, "TWD": 47500 } },
+    { "id": "project", "title": "單設計項目輔導", "meta": "約 25 小時 · 單一設計案",
+      "price": { "CNY": 20000, "USD": 3000, "EUR": 2700, "TWD": 95000 } },
+    { "id": "m3", "title": "三個月設計諮詢", "meta": "不限課時 · 三個月",
+      "price": { "CNY": 60000, "USD": 9000, "EUR": 8000, "TWD": 285000 } },
+    { "id": "m6", "title": "六個月設計諮詢", "meta": "不限課時 · 六個月",
+      "price": { "CNY": 99000, "USD": 15000, "EUR": 13000, "TWD": 470000 } }
+  ],
+  "payments": [
+    { "value": "WeChat Pay", "label": "WeChat Pay 微信支付", "enabled": true },
+    { "value": "Alipay", "label": "Alipay 支付寶", "enabled": true },
+    { "value": "LINE Pay", "label": "LINE Pay", "enabled": true },
+    { "value": "Visa", "label": "Visa", "enabled": true },
+    { "value": "Mastercard", "label": "Mastercard", "enabled": true },
+    { "value": "Bank transfer", "label": "銀行轉帳", "enabled": true }
+  ],
+  "terms": [
+    "諮詢時段於**款項確認後**安排；未付款不開諮詢。",
+    "購買後請於六個月內用完（方案另有註明者除外）；未用完可轉讓，原則不退費。",
+    "各幣種為整數參考標價；**實收以入帳／付款指示為準**。"
+  ],
+  "checkoutHint": "會開啟 Email 草稿。線上收款開通前，僅能依回覆完成付款。",
+  "mailNote": "備註：尚未開通線上收款；請回覆付款指示。先付費後諮詢。"
+}
