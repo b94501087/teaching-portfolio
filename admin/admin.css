@@ -1,7 +1,8 @@
 /* Admin look: plain, matches the site (white, underlined rows, outlined buttons, radius 4–6px). */
+@import url(/assets/fonts/taipei-sans-tc.css); /* 台北黑體 Taipei Sans TC (self-hosted, unicode-range chunks) */
 *{box-sizing:border-box}
 html,body{margin:0;background:#fff;color:#222}
-body{font:14px/1.55 "Iowan Old Style",Palatino,"Songti TC",Georgia,serif;padding-bottom:86px}
+body{font:14px/1.55 'Taipei Sans TC','Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif;padding-bottom:86px}
 .bar{position:sticky;top:0;z-index:5;background:#fff;padding:14px 20px;display:flex;gap:20px;align-items:baseline;border-bottom:1px solid #e8e8e8;flex-wrap:wrap}
 .bar strong{font-weight:400;font-size:15px}
 .bar nav{display:flex;gap:14px;flex-wrap:wrap}
@@ -46,7 +47,7 @@ button.small:hover{border-color:#111}
 .thumb{width:56px;height:56px;object-fit:cover;border-radius:4px;background:#f0f0f0;flex-shrink:0}
 .row.hidden .thumb{opacity:.35}
 .tag{font-size:11px;color:#999;border:1px solid #ddd;border-radius:4px;padding:0 4px}
-.letter{font-style:italic;color:#9a9a9a;font-size:20px;margin:18px 0 0;font-family:"Source Serif Pro","Liberation Serif",serif}
+.letter{font-style:italic;color:#9a9a9a;font-size:20px;margin:18px 0 0;font-family:'Taipei Sans TC','Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif}
 .card{padding:6px 0 12px;border-bottom:1px solid #e8e8e8}
 .card .head{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
 .prices{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:6px}
