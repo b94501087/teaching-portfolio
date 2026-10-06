@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>網站管理 — YU CHUN TSAI</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+<header class="bar">
+  <strong>網站管理</strong>
+  <nav id="tabs" aria-label="編輯項目"></nav>
+  <span class="who" id="who"></span>
+</header>
+<p class="status" id="status">載入中…</p>
+<div class="layout">
+  <main class="editor" id="editor"></main>
+  <section class="preview">
+    <div class="preview-head">
+      <span>預覽</span>
+      <select id="previewPage" aria-label="預覽頁面">
+        <option value="board">作品板</option>
+        <option value="az">A–Z</option>
+        <option value="teaching">教學</option>
+        <option value="consulting">諮詢</option>
+      </select>
+      <select id="previewWidth" aria-label="預覽寬度">
+        <option value="1280">桌機寬度</option>
+        <option value="fit">符合視窗</option>
+        <option value="390">手機寬度</option>
+      </select>
+      <span class="muted">儲存後的樣子，跟網站用同一套版型</span>
+    </div>
+    <div class="stage" id="stage"><iframe id="preview" title="預覽"></iframe></div>
+  </section>
+</div>
+<footer class="savebar">
+  <div class="msg" id="saveMsg"></div>
+  <div class="actions">
+    <button type="button" id="revertBtn">還原未儲存的變更</button>
+    <button type="button" id="saveBtn" class="primary">儲存並發布…</button>
+  </div>
+</footer>
+<script type="module" src="admin.js"></script>
+</body>
+</html>
