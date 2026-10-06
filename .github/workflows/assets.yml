@@ -1,5 +1,5 @@
 # One-off asset generation (binary files cannot be committed through the CMS / API tools):
-#  - fonts: slice the official Taipei Sans TC Beta Light + Regular into unicode-range WOFF2 chunks
+#  - fonts: slice the official Taipei Sans TC Beta Regular + Bold into unicode-range WOFF2 chunks
 #  - board samples: fetch, resize and credit the sample images listed in build/samples/images.json
 # Runs only when its inputs change; commits the results to main, then redeploys Pages.
 name: Generate assets (fonts, sample images)
