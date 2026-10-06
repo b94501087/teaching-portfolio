@@ -1,5 +1,5 @@
 # Cloudflare Worker for the /admin save service.
-# Deploy:  cd worker && npx wrangler deploy
+# Deploy:  cd worker && npx wrangler deploy   (bundles ../admin/render.js for the shared pin validation)
 # Secret:  npx wrangler secret put GITHUB_TOKEN   (fine-grained PAT: b94501087/teaching-portfolio only, Contents: Read and write)
 name = "yuchuntsai-cms"
 main = "worker.js"
@@ -17,10 +17,9 @@ GITHUB_REPO = "teaching-portfolio"
 GITHUB_BRANCH = "main"
 ALLOWED_EMAIL = "yuchuntsai@sjarchdesign.page"
 ALLOWED_ORIGIN = "https://yuchuntsai.com"
-# Fill in after creating the Access application (Zero Trust → Access → Applications):
-#   TEAM_DOMAIN = "<team-name>.cloudflareaccess.com"
-#   POLICY_AUD  = "<Application Audience (AUD) Tag>"
-# With both set, the Cf-Access-Jwt-Assertion JWT is fully verified. Left empty, the Worker falls back to
-# checking the Cf-Access-Authenticated-User-Email header (still requires Access in front of /api/*).
-TEAM_DOMAIN = ""
-POLICY_AUD = ""
+# Cloudflare Access (Zero Trust → Access → Applications). Both values are public identifiers, not secrets.
+# With both set, every request must carry a valid Cf-Access-Jwt-Assertion JWT: RS256 signature checked
+# against https://<TEAM_DOMAIN>/cdn-cgi/access/certs, plus aud, iss, exp/nbf, and email == ALLOWED_EMAIL.
+# Works with any Access login method (currently One-time PIN; Google later needs no change here).
+TEAM_DOMAIN = "blue-rain-ed1c.cloudflareaccess.com"
+POLICY_AUD = "cb1a54c8cfda326ec34ddaafd41dbbb746b07880b68265f7a03f1cb7e7f2b6d2"
