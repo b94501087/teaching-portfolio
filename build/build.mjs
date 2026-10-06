@@ -1,6 +1,7 @@
 // Build the GitHub Pages artifact into _site/.
 //  1. copy the repo (minus build-only / private folders) into _site/
-//  2. render board (site root /index.html), A–Z, teaching and consulting pages from content/*.json
+//  2. render the landing page (site root /index.html), the board (/board/), one detail page per
+//     visible pin (/board/<slug>/), A–Z, teaching and consulting pages from content/*.json
 //  3. fill {{name}} / {{email}} in the static doc pages (cv/, A-Z/*.html)
 //  4. write the lowercase /a-z/ redirect (generated here, not committed, because
 //     a-z/ and A-Z/ would collide on case-insensitive file systems such as macOS)
@@ -35,7 +36,8 @@ if (errs.length) { console.error('Content validation failed:\n- ' + errs.join('\
 await fs.rm(out, { recursive: true, force: true });
 await copyDir(root, out);
 
-for (const [rel, html] of Object.entries(renderAll(all))) {
+const pages = renderAll(all);
+for (const [rel, html] of Object.entries(pages)) {
   await fs.mkdir(path.dirname(path.join(out, rel)), { recursive: true });
   await fs.writeFile(path.join(out, rel), html);
   console.log('rendered', rel);
@@ -54,4 +56,5 @@ await fs.writeFile(path.join(out, 'a-z', 'index.html'),
   '<meta http-equiv="refresh" content="0; url=../A-Z/">\n' +
   '<link rel="canonical" href="https://yuchuntsai.com/A-Z/">\n' +
   '</head><body>\n<p><a href="../A-Z/">A–Z</a></p>\n</body></html>\n');
+console.log('detail pages:', Object.keys(pages).filter(k => /^board\/[^/]+\/index\.html$/.test(k)).length);
 console.log('build ok →', path.relative(process.cwd(), out) || '.');

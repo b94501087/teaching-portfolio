@@ -5,13 +5,15 @@ Static site on GitHub Pages. Pages are rendered from `content/*.json` at deploy 
 
 | URL | Source |
 | --- | --- |
-| `/` | pin board — `content/board.json` (template in `admin/render.js`, CSS `style.css`) |
+| `/` | landing page: name + links (name and link labels from `content/site.json`; layout fixed) |
+| `/board/` | pin board — `content/board.json` (template in `admin/render.js`, CSS `style.css`) |
+| `/board/<slug>/` | one detail page per visible pin: title, optional description, up to 10 images (first = board cover) |
 | `/A-Z/` | A–Z index — `content/az.json` (letters grouped automatically); `/a-z/` redirects here |
 | `/teaching/` | teaching page — `content/teaching.json` |
 | `/consulting/` | price list — `content/consulting.json` |
 | `/cv/`, `/A-Z/*.html` | static pages (`{{name}}` / `{{email}}` filled from `content/site.json`) |
 | `/admin/` | editor with live preview; saves through the Worker in `worker/` (behind Cloudflare Access) |
-| `/pins/`, `/board/`, `/ksteinfe/*` | redirect stubs to the new paths |
+| `/pins/` → `/board/`, `/ksteinfe/*` | redirect stubs to the new paths |
 
 Site-wide name, nav labels and contact email: `content/site.json`.
 Fonts, colours, spacing, radius and column count live only in the CSS files and are not editable from /admin.

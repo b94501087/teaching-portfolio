@@ -5,15 +5,35 @@
 // Locked design (fonts, colours, spacing, radius, column count) lives in the page CSS files,
 // not in content, and cannot be changed from /admin.
 
-// Output paths. The board is the site root (https://yuchuntsai.com/).
+// Output paths. The site root (https://yuchuntsai.com/) is a minimal landing page;
+// the pin board lives at /board/ and each visible pin gets a detail page at /board/<slug>/.
 export const PAGES = {
-  board: 'index.html',
+  landing: 'index.html',
+  board: 'board/index.html',
   az: 'A-Z/index.html',
   teaching: 'teaching/index.html',
   consulting: 'consulting/index.html'
 };
 // Directory of each page relative to the site root (used for <base> in the admin preview).
-export const PAGE_DIRS = { board: '', az: 'A-Z/', teaching: 'teaching/', consulting: 'consulting/' };
+export const PAGE_DIRS = { landing: '', board: 'board/', az: 'A-Z/', teaching: 'teaching/', consulting: 'consulting/' };
+export const detailPath = slug => 'board/' + slug + '/index.html';
+export const detailDir = slug => 'board/' + slug + '/';
+
+export const MAX_PIN_IMAGES = 10;
+export const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+
+// "Studio model" -> "studio-model". Non-Latin titles give '' (caller supplies a fallback).
+export function slugify(s) {
+  return String(s || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60).replace(/-+$/, '');
+}
+// Unique slug among `taken` (a Set): base, base-2, base-3, ...
+export function uniqueSlug(base, taken) {
+  base = slugify(base) || 'work';
+  let s = base, k = 2;
+  while (taken.has(s)) s = base + '-' + k++;
+  return s;
+}
 
 export const CURRENCIES = ['CNY', 'USD', 'EUR', 'TWD'];
 
@@ -56,33 +76,93 @@ export function letterOf(title) {
   return m ? m[0].toLowerCase() : '#';
 }
 
-/* ---------- board ---------- */
-export function renderBoard(site, board, opts) {
+/* ---------- landing (site root) ---------- */
+// Layout is fixed; only the name and the link labels come from content/site.json.
+export function renderLanding(site, opts) {
   const n = site.nav;
-  const pins = (board.pins || []).filter(p => p.visible !== false);
-  const anyBig = pins.some(p => p.big);
-  let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.board) + '</title>\n' +
+  return '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/">\n' +
-    '<link rel="stylesheet" href="style.css"></head><body>\n' +
-    '<header class="bar">\n' +
-    '  <strong><a href="./">' + esc(site.name) + '</a></strong>\n' +
+    '<link rel="stylesheet" href="style.css"></head><body class="landing">\n' +
+    '<main>\n' +
+    '  <h1>' + esc(site.name) + '</h1>\n' +
     '  <nav>\n' +
-    '    <a class="on" href="./">' + esc(n.board) + '</a>\n' +
+    '    <a href="board/">' + esc(n.board) + '</a>\n' +
     '    <a href="A-Z/">' + esc(n.az) + '</a>\n' +
     '    <a href="teaching/">' + esc(n.teaching) + '</a>\n' +
     '    <a href="consulting/">' + esc(n.consulting) + '</a>\n' +
     '    <a href="cv/">' + esc(n.cv) + '</a>\n' +
     '  </nav>\n' +
-    '</header>\n' +
+    '</main>\n' +
+    '</body></html>\n';
+}
+
+/* ---------- board (/board/) and pin detail pages (/board/<slug>/) ---------- */
+// Top bar shared by the board and its detail pages. depth = directory depth below the root.
+function topBar(site, depth) {
+  const n = site.nav, up = '../'.repeat(depth);
+  return '<header class="bar">\n' +
+    '  <strong><a href="' + up + '">' + esc(site.name) + '</a></strong>\n' +
+    '  <nav>\n' +
+    '    <a class="on" href="' + (depth === 1 ? './' : '../'.repeat(depth - 1)) + '">' + esc(n.board) + '</a>\n' +
+    '    <a href="' + up + 'A-Z/">' + esc(n.az) + '</a>\n' +
+    '    <a href="' + up + 'teaching/">' + esc(n.teaching) + '</a>\n' +
+    '    <a href="' + up + 'consulting/">' + esc(n.consulting) + '</a>\n' +
+    '    <a href="' + up + 'cv/">' + esc(n.cv) + '</a>\n' +
+    '  </nav>\n' +
+    '</header>\n';
+}
+
+export const pinImages = p => (Array.isArray(p.images) ? p.images : []).filter(x => String(x || '').trim());
+export const visiblePins = board => (board.pins || []).filter(p => p.visible !== false);
+
+export function renderBoard(site, board, opts) {
+  const n = site.nav;
+  const pins = visiblePins(board);
+  const anyBig = pins.some(p => p.big);
+  let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.board) + '</title>\n' +
+    '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
+    '<link rel="canonical" href="https://yuchuntsai.com/board/">\n' +
+    '<link rel="stylesheet" href="../style.css"></head><body>\n' +
+    topBar(site, 1) +
     '<div class="board">\n';
   for (const p of pins) {
-    h += '  <a class="pin' + (p.big ? ' big' : '') + '" href="' + esc(safeUrl(p.link)) + '"><img src="' + esc(assetUrl(p.src, 0)) + '" alt=""><span class="cap">' + esc(p.caption) + '</span></a>\n';
+    h += '  <a class="pin' + (p.big ? ' big' : '') + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span></a>\n';
   }
   h += '</div>\n';
   if (board.foot) h += '<p class="foot">' + inline(board.foot) + '</p>\n';
   if (anyBig) h += BOARD_MASONRY;
   h += '</body></html>\n';
+  return h;
+}
+
+// Plain-text description: blank line = new paragraph, single newline = line break. No markup.
+export function paragraphs(text) {
+  return String(text || '').replace(/\r\n?/g, '\n').split(/\n[ \t]*\n+/).map(x => x.trim()).filter(Boolean)
+    .map(x => '<p>' + esc(x).replace(/\n/g, '<br>\n') + '</p>\n').join('');
+}
+
+export function renderDetail(site, board, pin, opts) {
+  const n = site.nav;
+  const imgs = pinImages(pin).slice(0, MAX_PIN_IMAGES);
+  let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(pin.title) + ' — ' + esc(site.name) + '</title>\n' +
+    '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
+    '<link rel="canonical" href="https://yuchuntsai.com/board/' + esc(pin.slug) + '/">\n' +
+    '<link rel="stylesheet" href="../../style.css"></head><body class="detail">\n' +
+    topBar(site, 2) +
+    '<main>\n' +
+    '  <p class="back"><a href="../">← ' + esc(n.board) + '</a></p>\n' +
+    '  <h1>' + esc(pin.title) + '</h1>\n';
+  const desc = paragraphs(pin.description);
+  if (desc) h += '<div class="desc">\n' + desc + '</div>\n';
+  h += '<div class="gallery">\n';
+  imgs.forEach((src, i) => {
+    const u = esc(assetUrl(src, 2));
+    h += '  <a href="' + u + '"><img src="' + u + '" alt="' + esc(pin.title) + (imgs.length > 1 ? '（' + (i + 1) + '／' + imgs.length + '）' : '') + '"' + (i ? ' loading="lazy"' : '') + '></a>\n';
+  });
+  h += '</div>\n' +
+    '<p class="back end"><a href="../">← ' + esc(n.board) + '</a></p>\n' +
+    '</main>\n</body></html>\n';
   return h;
 }
 
@@ -143,7 +223,7 @@ function sideNav(site, withEmail, here) {
   return '<aside>\n' +
     '  <h1><a href="../">' + esc(site.name) + '</a></h1>\n' +
     '  <nav>\n' +
-    '    <a href="../">' + esc(n.board) + '</a>\n' +
+    '    <a href="../board/">' + esc(n.board) + '</a>\n' +
     '    <a href="' + (here === 'az' ? './' : '../A-Z/') + '">' + esc(n.az) + '</a>\n' +
     '    <a href="' + (here === 'teaching' ? './' : '../teaching/') + '">' + esc(n.teaching) + '</a>\n' +
     '    <a href="../consulting/">' + esc(n.consulting) + '</a>\n' +
@@ -219,7 +299,7 @@ export function renderConsulting(site, c, opts) {
 <header class="bar">
   <strong><a href="../">${esc(site.name)}</a></strong>
   <nav>
-    <a href="../">${esc(n.board)}</a>
+    <a href="../board/">${esc(n.board)}</a>
     <a href="../A-Z/">${esc(n.az)}</a>
     <a href="../teaching/">${esc(n.teaching)}</a>
     <a class="on" href="./">${esc(n.consulting)}</a>
@@ -378,7 +458,30 @@ export function fillPlaceholders(html, site) {
   return html.replace(/\{\{name\}\}/g, esc(site.name)).replace(/\{\{email\}\}/g, esc(site.email));
 }
 
-/* ---------- validation (shared by build, admin and mirrored in the Worker) ---------- */
+/* ---------- validation (shared by build and admin; the Worker mirrors the rest) ---------- */
+// Board pins: imported by worker/worker.js too (wrangler bundles this file), so all three agree.
+export function validatePins(pins) {
+  const errs = [], seen = new Set();
+  pins.forEach((p, i) => {
+    const who = '作品 ' + (i + 1) + (p && p.title ? '「' + p.title + '」' : '');
+    if (!p || typeof p !== 'object') { errs.push(who + ' 格式錯誤'); return; }
+    if (typeof p.title !== 'string' || !p.title.trim()) errs.push(who + ' 標題不能空白');
+    if (typeof p.slug !== 'string' || !SLUG_RE.test(p.slug) || p.slug.length > 60) errs.push(who + ' 的網址代稱只能用小寫英文、數字和 -（例如 studio-model）');
+    else if (seen.has(p.slug)) errs.push(who + ' 的網址代稱「' + p.slug + '」重複了');
+    else seen.add(p.slug);
+    if (p.description != null && typeof p.description !== 'string') errs.push(who + ' 說明格式錯誤');
+    else if (String(p.description || '').length > 20000) errs.push(who + ' 說明太長（上限 20000 字）');
+    const imgs = Array.isArray(p.images) ? p.images : null;
+    if (!imgs || !imgs.length) errs.push(who + ' 至少要有一張圖片');
+    else {
+      if (imgs.length > MAX_PIN_IMAGES) errs.push(who + ' 最多 ' + MAX_PIN_IMAGES + ' 張圖片（現在 ' + imgs.length + ' 張）');
+      if (imgs.some(x => typeof x !== 'string' || !x.trim())) errs.push(who + ' 有空白的圖片');
+      else if (imgs.some(x => /^(data|blob|javascript):/i.test(x))) errs.push(who + ' 有圖片還沒上傳');
+    }
+  });
+  return errs;
+}
+
 export function validate(all) {
   const errs = [];
   const { site, board, az, teaching, consulting } = all;
@@ -386,7 +489,7 @@ export function validate(all) {
   if (site && !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(site.email || '')) errs.push('聯絡 Email 格式不正確');
   if (site) for (const k of ['board', 'az', 'teaching', 'consulting', 'cv', 'email']) if (!site.nav || !String(site.nav[k] || '').trim()) errs.push('導覽文字「' + k + '」不能空白');
   if (!board || !Array.isArray(board.pins)) errs.push('作品板資料格式錯誤');
-  else board.pins.forEach((p, i) => { if (!p.src) errs.push('作品板第 ' + (i + 1) + ' 張沒有圖片'); });
+  else errs.push(...validatePins(board.pins));
   if (!az || !Array.isArray(az.entries)) errs.push('A–Z 資料格式錯誤');
   if (!teaching || !Array.isArray(teaching.sections) || !teaching.sections.length) errs.push('教學頁至少要有一個段落');
   if (!consulting || !Array.isArray(consulting.plans) || consulting.plans.length !== 4) errs.push('諮詢方案必須是 4 個');
@@ -401,10 +504,13 @@ export function validate(all) {
 }
 
 export function renderAll(all, opts) {
-  return {
+  const out = {
+    [PAGES.landing]: renderLanding(all.site, opts),
     [PAGES.board]: renderBoard(all.site, all.board, opts),
     [PAGES.az]: renderAZ(all.site, all.az, opts),
     [PAGES.teaching]: renderTeaching(all.site, all.teaching, opts),
     [PAGES.consulting]: renderConsulting(all.site, all.consulting, opts)
   };
+  for (const p of visiblePins(all.board)) out[detailPath(p.slug)] = renderDetail(all.site, all.board, p, opts);
+  return out;
 }
