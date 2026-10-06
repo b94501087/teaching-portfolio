@@ -4,9 +4,12 @@
 //   GET  /api/health              → { ok, user }
 //   GET  /api/content             → { ok, files: { site, board, az, teaching, consulting } }  (live from GitHub main)
 //   PUT  /api/content/:name       → body = JSON for content/:name.json  → one commit
-//   POST /api/upload              → multipart "file" (jpg/png/webp/gif ≤ 8 MB) → commits assets/pins/<file> → { ok, path }
+//   POST /api/upload              → multipart "file" × 1–10 (jpg/png/webp/gif, each ≤ 8 MB)
+//                                   → ONE commit adding assets/pins/<file>… → { ok, paths, path, commit }
+//   (The admin uploads all new images first, then PUTs content/board.json.)
 //
-// Every commit goes through the GitHub Contents API with env.GITHUB_TOKEN
+// Content files are committed through the GitHub Contents API, image batches through the Git Data API
+// (blobs → tree → commit → ref), all with env.GITHUB_TOKEN
 // (fine-grained token: this repo only, Contents read/write). No secrets live in this file.
 //
 // Auth: if TEAM_DOMAIN + POLICY_AUD are set, the Cf-Access-Jwt-Assertion JWT is fully verified
@@ -14,11 +17,15 @@
 // If they are not set, the Worker still requires Cf-Access-Authenticated-User-Email == ALLOWED_EMAIL
 // (only trustworthy because Access sits in front of the route). Anything else → 403.
 
+import { validatePins, MAX_PIN_IMAGES } from '../admin/render.js';
+
 const CONTENT_FILES = ['site', 'board', 'az', 'teaching', 'consulting'];
 const CURRENCIES = ['CNY', 'USD', 'EUR', 'TWD'];
 const IMAGE_TYPES = { 'image/jpeg': 'jpg', 'image/png': 'png', 'image/webp': 'webp', 'image/gif': 'gif' };
 const MAX_IMAGE = 8 * 1024 * 1024;
 const MAX_JSON = 512 * 1024;
+const MAX_UPLOAD_FILES = MAX_PIN_IMAGES;       // one pin's worth of images per request
+const MAX_UPLOAD_TOTAL = 40 * 1024 * 1024;
 
 export default {
   async fetch(request, env) {
@@ -74,21 +81,32 @@ async function handle(request, env) {
   }
 
   if (path === '/api/upload' && request.method === 'POST') {
+    const len = Number(request.headers.get('Content-Length') || 0);
+    if (len > MAX_UPLOAD_TOTAL + 64 * 1024) throw err(413, '一次上傳的圖片太大（上限 40 MB）');
     const form = await request.formData();
-    const file = form.get('file');
-    if (!file || typeof file === 'string') throw err(400, '沒有收到檔案');
-    const ext = IMAGE_TYPES[file.type];
-    if (!ext) throw err(415, '只接受 JPG／PNG／WebP／GIF');
-    if (file.size > MAX_IMAGE) throw err(413, '圖片超過 8 MB');
-    const buf = new Uint8Array(await file.arrayBuffer());
-    if (!sniffImage(buf, ext)) throw err(415, '檔案內容不是有效的圖片');
-    const stem = String(file.name || 'image').replace(/\.[^.]*$/, '').toLowerCase()
-      .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 40) || 'image';
+    const list = form.getAll('file').filter(f => f && typeof f !== 'string');
+    if (!list.length) throw err(400, '沒有收到檔案');
+    if (list.length > MAX_UPLOAD_FILES) throw err(413, '一次最多上傳 ' + MAX_UPLOAD_FILES + ' 張圖片');
     const stamp = new Date().toISOString().replace(/[-:T]/g, '').slice(0, 14);
-    const rand = crypto.getRandomValues(new Uint8Array(3)).reduce((s, b) => s + b.toString(16).padStart(2, '0'), '');
-    const repoPath = 'assets/pins/' + stamp + '-' + rand + '-' + stem + '.' + ext;
-    const commit = await ghPutFile(env, repoPath, bytesToBase64(buf), 'CMS: upload ' + repoPath, user);
-    return json({ ok: true, path: repoPath, commit });
+    const files = [];
+    let total = 0;
+    for (const file of list) {
+      const ext = IMAGE_TYPES[file.type];
+      if (!ext) throw err(415, '只接受 JPG／PNG／WebP／GIF：' + (file.name || ''));
+      if (file.size > MAX_IMAGE) throw err(413, '圖片超過 8 MB：' + (file.name || ''));
+      total += file.size;
+      if (total > MAX_UPLOAD_TOTAL) throw err(413, '一次上傳的圖片太大（上限 40 MB）');
+      const buf = new Uint8Array(await file.arrayBuffer());
+      if (!sniffImage(buf, ext)) throw err(415, '檔案內容不是有效的圖片：' + (file.name || ''));
+      const stem = String(file.name || 'image').replace(/\.[^.]*$/, '').toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 40) || 'image';
+      const rand = crypto.getRandomValues(new Uint8Array(3)).reduce((s, b) => s + b.toString(16).padStart(2, '0'), '');
+      files.push({ path: 'assets/pins/' + stamp + '-' + rand + '-' + stem + '.' + ext, b64: bytesToBase64(buf) });
+    }
+    const paths = files.map(f => f.path);
+    const message = files.length === 1 ? 'CMS: upload ' + paths[0] : 'CMS: upload ' + files.length + ' images';
+    const commit = await ghCommitFiles(env, files, message, user);
+    return json({ ok: true, paths, path: paths[0], commit });
   }
 
   throw err(404, '找不到這個 API');
@@ -144,7 +162,7 @@ async function verifyAccessJwt(token, env) {
   return payload;
 }
 
-/* ---------------- validation (mirrors admin/render.js validate) ---------------- */
+/* ---------------- validation (mirrors admin/render.js validate; board pins use the shared validatePins) ---------------- */
 function validate(name, d) {
   const e = [];
   const isObj = v => v && typeof v === 'object' && !Array.isArray(v);
@@ -157,10 +175,7 @@ function validate(name, d) {
     else for (const k of ['board', 'az', 'teaching', 'consulting', 'cv', 'email']) if (!str(d.nav[k]) || !d.nav[k].trim()) e.push('導覽文字 ' + k + ' 不能空白');
   } else if (name === 'board') {
     if (!Array.isArray(d.pins)) e.push('缺少 pins');
-    else d.pins.forEach((p, i) => {
-      if (!isObj(p) || !str(p.src) || !p.src) e.push('第 ' + (i + 1) + ' 張沒有圖片');
-      else if (/^(data|javascript):/i.test(p.src)) e.push('第 ' + (i + 1) + ' 張圖片還沒上傳');
-    });
+    else e.push(...validatePins(d.pins)); // same rules as the admin and the build (admin/render.js)
   } else if (name === 'az') {
     if (!Array.isArray(d.entries)) e.push('缺少 entries');
     else d.entries.forEach((x, i) => { if (!isObj(x) || !str(x.title)) e.push('第 ' + (i + 1) + ' 條格式錯誤'); });
@@ -218,6 +233,33 @@ async function ghPutFile(env, repoPath, contentB64, message, user) {
     if (r.ok) return (await r.json()).commit.sha;
     if ((r.status === 409 || r.status === 422) && attempt < 2) continue; // sha race: retry with fresh sha
     throw err(502, 'GitHub 寫入失敗（' + r.status + '）');
+  }
+  throw err(502, 'GitHub 寫入衝突，請再試一次');
+}
+
+// Add several files in a single commit (Git Data API). Retries if main moved in the meantime.
+async function ghCommitFiles(env, files, message, user) {
+  const branch = env.GITHUB_BRANCH || 'main';
+  const call = async (path, init, what) => {
+    const r = await gh(env, path, init ? { method: init.method, body: JSON.stringify(init.body), headers: { 'Content-Type': 'application/json' } } : {});
+    if (!r.ok) { const e = err(502, 'GitHub ' + what + '失敗（' + r.status + '）'); e.ghStatus = r.status; throw e; }
+    return r.json();
+  };
+  const blobs = [];
+  for (const f of files) blobs.push((await call('/git/blobs', { method: 'POST', body: { content: f.b64, encoding: 'base64' } }, '上傳圖片')).sha);
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const ref = await call('/git/ref/heads/' + encodeURIComponent(branch), null, '讀取分支');
+    const head = ref.object.sha;
+    const base = await call('/git/commits/' + head, null, '讀取版本');
+    const tree = await call('/git/trees', { method: 'POST', body: { base_tree: base.tree.sha, tree: files.map((f, k) => ({ path: f.path, mode: '100644', type: 'blob', sha: blobs[k] })) } }, '建立檔案樹');
+    const commit = await call('/git/commits', { method: 'POST', body: { message, tree: tree.sha, parents: [head], author: { name: 'yuchuntsai.com CMS', email: user }, committer: { name: 'yuchuntsai.com CMS', email: user } } }, '建立版本');
+    try {
+      await call('/git/refs/heads/' + encodeURIComponent(branch), { method: 'PATCH', body: { sha: commit.sha, force: false } }, '更新分支');
+      return commit.sha;
+    } catch (e) {
+      if ((e.ghStatus === 409 || e.ghStatus === 422) && attempt < 2) continue; // main moved: rebuild on the new head
+      throw e;
+    }
   }
   throw err(502, 'GitHub 寫入衝突，請再試一次');
 }
