@@ -3,7 +3,7 @@
 import { renderLanding, renderBoard, renderDetail, renderAZ, renderTeaching, renderConsulting, groupAZ, validate, CURRENCIES, PAGE_DIRS, detailDir, pinImages, uniqueSlug, SLUG_RE, MAX_PIN_IMAGES } from './render.js';
 
 const FILES = ['site', 'board', 'az', 'teaching', 'consulting'];
-const LABEL = { site: '網站', board: '作品板', az: 'A–Z', teaching: '教學', consulting: '諮詢' };
+const LABEL = { site: '網站', board: '項目', az: 'A–Z', teaching: '教學', consulting: '諮詢' };
 const PREVIEW_FOR = { site: 'landing', board: 'board', az: 'az', teaching: 'teaching', consulting: 'consulting' };
 const API = '/api';
 const MAX_IMAGE = 8 * 1024 * 1024;
@@ -111,7 +111,7 @@ function changed(rerender) {
 
 /* site */
 function editSite(s) {
-  const navNames = { board: '作品板', az: 'A–Z 索引', teaching: '教學', consulting: '諮詢', cv: '履歷', email: 'Email 連結' };
+  const navNames = { board: '項目', az: 'A–Z 索引', teaching: '教學', consulting: '諮詢', cv: '履歷', email: 'Email 連結' };
   return [
     el('h2', {}, '網站'),
     el('p', { class: 'hint' }, '名稱、導覽列文字和聯絡 Email 會套用到所有頁面。首頁（yuchuntsai.com）只顯示這個名稱和前五個導覽連結，版面固定。字型、顏色、間距、圓角和欄數固定不能改。'),
@@ -139,7 +139,7 @@ function editBoard(b) {
     } });
     title.value = p.title || '';
     const row = el('div', { class: 'row' + (p.visible === false ? ' hidden' : '') + (open ? ' open' : ''), draggable: 'true' },
-      el('span', { class: 'handle', title: '拖曳排序' }, '⋮⋮'),
+      el('span', { class: 'handle', title: '拖曳排序' }, '≡'),
       el('img', { class: 'thumb', src: thumbSrc(imgs[0]), alt: '' }),
       el('div', { class: 'grow' },
         title,
@@ -152,7 +152,7 @@ function editBoard(b) {
         el('button', { type: 'button', class: 'small', title: '上移', disabled: i === 0, onclick: () => { move(b.pins, i, i - 1); changed(true); } }, '↑'),
         el('button', { type: 'button', class: 'small', title: '下移', disabled: i === b.pins.length - 1, onclick: () => { move(b.pins, i, i + 1); changed(true); } }, '↓'),
         el('button', { type: 'button', class: 'small' + (open ? ' on' : ''), 'aria-expanded': open ? 'true' : 'false', onclick: () => { state.openPin = open ? null : p; if (!open) showDetail(p); renderEditor(); } }, open ? '收合' : '編輯內頁'),
-        el('button', { type: 'button', class: 'small', title: '刪除', onclick: () => { if (confirm('從作品板移除「' + (p.title || '這件作品') + '」和它的內頁？（圖檔本身不會被刪除）')) { b.pins.splice(i, 1); changed(true); } } }, '刪除')));
+        el('button', { type: 'button', class: 'small', title: '刪除', onclick: () => { if (confirm('從「項目」頁移除「' + (p.title || '這件作品') + '」和它的內頁？（圖檔本身不會被刪除）')) { b.pins.splice(i, 1); changed(true); } } }, '刪除')));
     row.addEventListener('dragstart', e => { dragFrom = i; row.classList.add('dragging'); e.dataTransfer.effectAllowed = 'move'; e.dataTransfer.setData('text/plain', String(i)); });
     row.addEventListener('dragend', () => row.classList.remove('dragging'));
     row.addEventListener('dragover', e => { if (dragFrom == null) return; e.preventDefault(); row.classList.add('over'); });
@@ -163,8 +163,8 @@ function editBoard(b) {
   });
   const file = el('input', { type: 'file', accept: 'image/jpeg,image/png,image/webp,image/gif', multiple: true, style: 'display:none', onchange: e => { newPin(b, e.target.files); e.target.value = ''; } });
   return [
-    el('h2', {}, '作品板'),
-    el('p', { class: 'hint' }, '每件作品在作品板上是一張圖，點進去是它的內頁（標題、說明、最多 ' + MAX_PIN_IMAGES + ' 張圖）。拖曳或用 ↑↓ 排序（由左上往下排）。按「編輯內頁」改網址、說明和圖片。取消「顯示」會先藏起來（內頁也不發布），不會刪掉。'),
+    el('h2', {}, '項目'),
+    el('p', { class: 'hint' }, '每件作品在「項目」頁上是一張圖，點進去是它的內頁（標題、說明、最多 ' + MAX_PIN_IMAGES + ' 張圖）。拖曳或用 ↑↓ 排序（由左上往下排）。按「編輯內頁」改網址、說明和圖片。取消「顯示」會先藏起來（內頁也不發布），不會刪掉。'),
     el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => file.click() }, '新增作品…'), file,
       el('span', { class: 'muted' }, '可一次選多張圖（第一張當封面）。共 ' + b.pins.length + ' 件，顯示 ' + b.pins.filter(p => p.visible !== false).length + ' 件')),
     ...rows,
@@ -200,12 +200,12 @@ function pinEditor(b, p, i) {
     el('div', { class: 'tbtn' },
       el('button', { type: 'button', class: 'small', title: '往前', disabled: k === 0, onclick: () => { move(imgs, k, k - 1); changed(true); } }, '←'),
       el('button', { type: 'button', class: 'small', title: '往後', disabled: k === imgs.length - 1, onclick: () => { move(imgs, k, k + 1); changed(true); } }, '→'),
-      el('button', { type: 'button', class: 'small', title: '移除這張', disabled: imgs.length === 1, onclick: () => { imgs.splice(k, 1); changed(true); } }, '✕'))));
+      el('button', { type: 'button', class: 'small', title: '移除這張', disabled: imgs.length === 1, onclick: () => { imgs.splice(k, 1); changed(true); } }, '×'))));
   return el('div', { class: 'pinedit' },
     el('label', { class: 'field' }, el('span', {}, '網址代稱'), slugIn, el('p', { class: 'hint' }, '內頁網址：', url, '。發布後最好不要再改，舊連結會失效。'), slugMsg),
     field('說明（選填）', p.description, v => { p.description = v; changed(); }, { multiline: true, rows: 6, hint: '純文字。空一行分段，換行會照樣顯示。留白就只顯示標題和圖片。' }),
     el('div', { class: 'field' },
-      el('span', {}, '圖片（' + imgs.length + '／' + MAX_PIN_IMAGES + '）第一張是作品板上的封面'),
+      el('span', {}, '圖片（' + imgs.length + '／' + MAX_PIN_IMAGES + '）第一張是「項目」頁上的封面'),
       el('div', { class: 'tiles' }, ...tiles),
       el('div', { class: 'addbar' },
         el('button', { type: 'button', disabled: full, onclick: () => file.click() }, '新增圖片…'), file,
@@ -346,7 +346,7 @@ function editConsulting(c) {
 /* ---------- preview ---------- */
 let previewTimer = null;
 function schedulePreview() { clearTimeout(previewTimer); previewTimer = setTimeout(() => updatePreview(false), 250); }
-// The pin shown in the "作品內頁" preview: the one being edited, else the last one viewed, else the first.
+// The pin shown in the "項目內頁" preview: the one being edited, else the last one viewed, else the first.
 function previewPin() {
   const pins = state.data.board ? state.data.board.pins : [];
   if (pins.includes(state.detailPin)) return state.detailPin;
@@ -358,7 +358,7 @@ function updatePreview(resetScroll) {
   const d = state.data;
   const pin = previewPin();
   const opt = sel.querySelector('option[value=detail]');
-  opt.textContent = '作品內頁' + (pin ? '：' + (pin.title || pin.slug || '') : '');
+  opt.textContent = '項目內頁' + (pin ? '：' + (pin.title || pin.slug || '') : '');
   opt.disabled = !pin;
   const dir = page === 'detail' ? (pin ? detailDir(pin.slug || 'preview') : 'board/') : PAGE_DIRS[page];
   const base = new URL('../' + dir, location.href).pathname; // admin lives at /admin/
@@ -418,7 +418,7 @@ function confirmSave() {
     updateSaveMsg([el('span', { class: 'err' }, '還不能儲存，請先修正：'), el('ul', {}, ...errs.map(x => el('li', { class: 'err' }, x)))]);
     return;
   }
-  const pages = [...new Set(d.map(n => ({ site: '首頁、作品板和內頁、A–Z、教學、諮詢', board: '作品板和作品內頁', az: 'A–Z', teaching: '教學', consulting: '諮詢' }[n])))].join('、');
+  const pages = [...new Set(d.map(n => ({ site: '首頁、項目和內頁、A–Z、教學、諮詢', board: '項目和項目內頁', az: 'A–Z', teaching: '教學', consulting: '諮詢' }[n])))].join('、');
   updateSaveMsg([
     el('div', {}, '要儲存：' + d.map(n => LABEL[n]).join('、') + '。會更新的頁面：' + pages + '。請先在右側預覽確認（可切換頁面）。'),
     el('div', { class: 'dl' },
@@ -493,7 +493,7 @@ function offlineSave(d) {
   updateSaveMsg([
     el('div', {}, el('strong', {}, '儲存服務還沒連線，這次沒有存到網站。'), ' 可以先下載 JSON 備份，保存這次的修改：'),
     downloadLinks(d),
-    hasPending ? el('div', { class: 'muted' }, '新加入的圖片需要儲存服務才能上傳，下載的作品板 JSON 不含這幾張新圖（只有新圖的作品也不含）。') : null
+    hasPending ? el('div', { class: 'muted' }, '新加入的圖片需要儲存服務才能上傳，下載的項目 JSON 不含這幾張新圖（只有新圖的作品也不含）。') : null
   ]);
 }
 

@@ -488,7 +488,7 @@ export function validate(all) {
   if (!site || !String(site.name || '').trim()) errs.push('網站名稱不能空白');
   if (site && !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(site.email || '')) errs.push('聯絡 Email 格式不正確');
   if (site) for (const k of ['board', 'az', 'teaching', 'consulting', 'cv', 'email']) if (!site.nav || !String(site.nav[k] || '').trim()) errs.push('導覽文字「' + k + '」不能空白');
-  if (!board || !Array.isArray(board.pins)) errs.push('作品板資料格式錯誤');
+  if (!board || !Array.isArray(board.pins)) errs.push('項目資料格式錯誤');
   else errs.push(...validatePins(board.pins));
   if (!az || !Array.isArray(az.entries)) errs.push('A–Z 資料格式錯誤');
   if (!teaching || !Array.isArray(teaching.sections) || !teaching.sections.length) errs.push('教學頁至少要有一個段落');
