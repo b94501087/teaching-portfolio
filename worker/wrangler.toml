@@ -1,0 +1,26 @@
+# Cloudflare Worker for the /admin save service.
+# Deploy:  cd worker && npx wrangler deploy
+# Secret:  npx wrangler secret put GITHUB_TOKEN   (fine-grained PAT: b94501087/teaching-portfolio only, Contents: Read and write)
+name = "yuchuntsai-cms"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+workers_dev = false
+
+# Requires the yuchuntsai.com DNS records to be proxied (orange cloud).
+routes = [
+  { pattern = "yuchuntsai.com/api/*", zone_name = "yuchuntsai.com" }
+]
+
+[vars]
+GITHUB_OWNER = "b94501087"
+GITHUB_REPO = "teaching-portfolio"
+GITHUB_BRANCH = "main"
+ALLOWED_EMAIL = "yuchuntsai@sjarchdesign.page"
+ALLOWED_ORIGIN = "https://yuchuntsai.com"
+# Fill in after creating the Access application (Zero Trust → Access → Applications):
+#   TEAM_DOMAIN = "<team-name>.cloudflareaccess.com"
+#   POLICY_AUD  = "<Application Audience (AUD) Tag>"
+# With both set, the Cf-Access-Jwt-Assertion JWT is fully verified. Left empty, the Worker falls back to
+# checking the Cf-Access-Authenticated-User-Email header (still requires Access in front of /api/*).
+TEAM_DOMAIN = ""
+POLICY_AUD = ""
