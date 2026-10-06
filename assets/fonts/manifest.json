@@ -3,22 +3,22 @@
   "fonttools": "4.65.0",
   "chunks": 145,
   "source": {
-    "TaipeiSansTCBeta-Light.ttf": "d69a9ea6a77f694c3a1a1fb766c764aa74cb3e2c4c69f1b532edf98b3f2bb662",
-    "TaipeiSansTCBeta-Regular.ttf": "8cc967e1e428c552701c461e8169e6ae76c7a23694ea1a6a786d6746adec53c4"
+    "TaipeiSansTCBeta-Regular.ttf": "8cc967e1e428c552701c461e8169e6ae76c7a23694ea1a6a786d6746adec53c4",
+    "TaipeiSansTCBeta-Bold.ttf": "5249d3bdda9c9f4c62840e804b4d2530b7f4dfab6d68fb508c120b0e7e600419"
   },
   "files": 290,
-  "light": {
-    "files": 145,
-    "bytes": 5317000,
-    "min": 1768,
-    "max": 116620,
-    "latin_chunk_bytes": 15968
-  },
   "regular": {
     "files": 145,
     "bytes": 5367732,
-    "min": 1756,
-    "max": 118228,
+    "min": 1732,
+    "max": 118172,
     "latin_chunk_bytes": 16084
+  },
+  "bold": {
+    "files": 145,
+    "bytes": 5503060,
+    "min": 1744,
+    "max": 122808,
+    "latin_chunk_bytes": 16116
   }
 }
