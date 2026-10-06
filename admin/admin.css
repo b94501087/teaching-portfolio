@@ -62,6 +62,19 @@ button.small:hover{border-color:#111}
 .savebar .msg ul{margin:4px 0 0;padding-left:1.2em}
 .savebar .msg .err{color:#b00020}
 .dl{display:inline-flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.row.open{border-bottom-color:transparent}
+button.small.on{border-color:#222;color:#222}
+.pinedit{margin:0 0 6px 26px;padding:0 0 10px 14px;border-left:1px solid #e8e8e8;border-bottom:1px solid #e8e8e8}
+.hint.err{color:#b00020;margin:4px 0 0}
+.hint.err:empty{display:none}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:10px;margin-top:8px}
+.tile{border:1px solid #e8e8e8;border-radius:6px;padding:4px;background:#fff}
+.tile.cover{border-color:#222}
+.tile img{display:block;width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;background:#f0f0f0}
+.tile .cap{display:block;font-size:11px;color:#888;margin:3px 0 2px}
+.tile.cover .cap{color:#222}
+.tile .tbtn{display:flex;gap:3px}
+.tile .tbtn button{padding:0 5px}
 @media(max-width:900px){
   .layout{flex-direction:column}
   .editor{width:100%;border-right:0}

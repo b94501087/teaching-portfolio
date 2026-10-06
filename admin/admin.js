@@ -1,14 +1,21 @@
 // /admin — edit content/*.json, preview with the site's own templates, save via the Worker (/api).
 // Without the Worker ("no Worker yet" mode) editing + preview work; save offers JSON download instead.
-import { renderBoard, renderAZ, renderTeaching, renderConsulting, groupAZ, letterOf, validate, CURRENCIES, PAGE_DIRS } from './render.js';
+import { renderLanding, renderBoard, renderDetail, renderAZ, renderTeaching, renderConsulting, groupAZ, validate, CURRENCIES, PAGE_DIRS, detailDir, pinImages, uniqueSlug, SLUG_RE, MAX_PIN_IMAGES } from './render.js';
 
 const FILES = ['site', 'board', 'az', 'teaching', 'consulting'];
 const LABEL = { site: '網站', board: '作品板', az: 'A–Z', teaching: '教學', consulting: '諮詢' };
-const PREVIEW_FOR = { site: 'board', board: 'board', az: 'az', teaching: 'teaching', consulting: 'consulting' };
+const PREVIEW_FOR = { site: 'landing', board: 'board', az: 'az', teaching: 'teaching', consulting: 'consulting' };
 const API = '/api';
 const MAX_IMAGE = 8 * 1024 * 1024;
+const UPLOAD_BATCH_FILES = 10;               // images per /api/upload request (one commit each)
+const UPLOAD_BATCH_BYTES = 24 * 1024 * 1024; // keep each request well under Cloudflare's body limit
+// data: URL of a not-yet-uploaded image -> { name, type } (original file name / MIME type)
+const pending = new Map();
+const isPending = src => String(src).startsWith('data:');
+// repo path of a just-uploaded image -> its data: URL, so admin thumbnails show before Pages redeploys
+const uploaded = new Map();
 
-const state = { mode: 'offline', user: '', tab: 'board', data: {}, saved: {}, busy: false };
+const state = { mode: 'offline', user: '', tab: 'board', data: {}, saved: {}, busy: false, openPin: null, detailPin: null };
 const $ = id => document.getElementById(id);
 
 /* ---------- helpers ---------- */
@@ -107,7 +114,7 @@ function editSite(s) {
   const navNames = { board: '作品板', az: 'A–Z 索引', teaching: '教學', consulting: '諮詢', cv: '履歷', email: 'Email 連結' };
   return [
     el('h2', {}, '網站'),
-    el('p', { class: 'hint' }, '名稱、導覽列文字和聯絡 Email 會套用到所有頁面。字型、顏色、間距、圓角和欄數固定不能改。'),
+    el('p', { class: 'hint' }, '名稱、導覽列文字和聯絡 Email 會套用到所有頁面。首頁（yuchuntsai.com）只顯示這個名稱和前五個導覽連結，版面固定。字型、顏色、間距、圓角和欄數固定不能改。'),
     field('名稱', s.name, v => { s.name = v; changed(); }),
     field('聯絡 Email', s.email, v => { s.email = v; changed(); }, { type: 'email', hint: '諮詢頁「索取付款指示」和 A–Z、履歷頁的 email 連結都寄到這裡。' }),
     el('h3', {}, '導覽列文字'),
@@ -116,53 +123,140 @@ function editSite(s) {
 }
 
 /* board */
+// Each pin = one work: title, URL slug, optional plain-text description, 1–10 images (first = cover).
+// Pin objects are tracked by identity (state.openPin / state.detailPin), so reordering keeps the editor open.
 let dragFrom = null;
 function editBoard(b) {
-  const rows = b.pins.map((p, i) => {
-    const row = el('div', { class: 'row' + (p.visible === false ? ' hidden' : ''), draggable: 'true' },
+  if (!b.pins.includes(state.openPin)) state.openPin = null;
+  const rows = [];
+  b.pins.forEach((p, i) => {
+    const imgs = pinImages(p);
+    const open = state.openPin === p;
+    const title = el('input', { type: 'text', placeholder: '標題', 'aria-label': '標題', oninput: e => {
+      p.title = e.target.value;
+      if (p._autoSlug) { p.slug = uniqueSlug(p.title, otherSlugs(b, p)); const s = document.querySelector('[data-slug-for="' + i + '"]'); if (s) s.value = p.slug; }
+      changed();
+    } });
+    title.value = p.title || '';
+    const row = el('div', { class: 'row' + (p.visible === false ? ' hidden' : '') + (open ? ' open' : ''), draggable: 'true' },
       el('span', { class: 'handle', title: '拖曳排序' }, '⋮⋮'),
-      el('img', { class: 'thumb', src: thumbSrc(p.src), alt: '' }),
+      el('img', { class: 'thumb', src: thumbSrc(imgs[0]), alt: '' }),
       el('div', { class: 'grow' },
-        (() => { const i2 = el('input', { type: 'text', placeholder: '圖說', oninput: e => { p.caption = e.target.value; changed(); } }); i2.value = p.caption || ''; return i2; })(),
-        el('div', { class: 'ctl', style: 'margin-top:6px;gap:12px' },
+        title,
+        el('div', { class: 'ctl', style: 'margin-top:6px;gap:12px;flex-wrap:wrap' },
           el('label', { class: 'chk' }, el('input', { type: 'checkbox', checked: p.visible !== false, onchange: e => { p.visible = e.target.checked; changed(true); } }), '顯示'),
           el('label', { class: 'chk' }, el('input', { type: 'checkbox', checked: !!p.big, onchange: e => { p.big = e.target.checked; changed(); } }), '大圖（跨兩欄）'),
-          p._upload ? el('span', { class: 'tag' }, '新圖，儲存時上傳') : null)),
+          el('span', { class: 'muted' }, imgs.length + ' 張圖'),
+          imgs.some(isPending) ? el('span', { class: 'tag' }, '有新圖，儲存時上傳') : null)),
       el('div', { class: 'ctl' },
         el('button', { type: 'button', class: 'small', title: '上移', disabled: i === 0, onclick: () => { move(b.pins, i, i - 1); changed(true); } }, '↑'),
         el('button', { type: 'button', class: 'small', title: '下移', disabled: i === b.pins.length - 1, onclick: () => { move(b.pins, i, i + 1); changed(true); } }, '↓'),
-        el('button', { type: 'button', class: 'small', title: '刪除', onclick: () => { if (confirm('從作品板移除這張圖？（圖檔本身不會被刪除）')) { b.pins.splice(i, 1); changed(true); } } }, '刪除')));
+        el('button', { type: 'button', class: 'small' + (open ? ' on' : ''), 'aria-expanded': open ? 'true' : 'false', onclick: () => { state.openPin = open ? null : p; if (!open) showDetail(p); renderEditor(); } }, open ? '收合' : '編輯內頁'),
+        el('button', { type: 'button', class: 'small', title: '刪除', onclick: () => { if (confirm('從作品板移除「' + (p.title || '這件作品') + '」和它的內頁？（圖檔本身不會被刪除）')) { b.pins.splice(i, 1); changed(true); } } }, '刪除')));
     row.addEventListener('dragstart', e => { dragFrom = i; row.classList.add('dragging'); e.dataTransfer.effectAllowed = 'move'; e.dataTransfer.setData('text/plain', String(i)); });
     row.addEventListener('dragend', () => row.classList.remove('dragging'));
-    row.addEventListener('dragover', e => { e.preventDefault(); row.classList.add('over'); });
+    row.addEventListener('dragover', e => { if (dragFrom == null) return; e.preventDefault(); row.classList.add('over'); });
     row.addEventListener('dragleave', () => row.classList.remove('over'));
-    row.addEventListener('drop', e => { e.preventDefault(); row.classList.remove('over'); if (dragFrom != null && dragFrom !== i) { move(b.pins, dragFrom, i); dragFrom = null; changed(true); } });
-    return row;
+    row.addEventListener('drop', e => { e.preventDefault(); row.classList.remove('over'); if (dragFrom != null && dragFrom !== i) { move(b.pins, dragFrom, i); changed(true); } dragFrom = null; });
+    rows.push(row);
+    if (open) rows.push(pinEditor(b, p, i));
   });
-  const file = el('input', { type: 'file', accept: 'image/jpeg,image/png,image/webp,image/gif', multiple: true, style: 'display:none', onchange: e => addImages(b, e.target.files) });
+  const file = el('input', { type: 'file', accept: 'image/jpeg,image/png,image/webp,image/gif', multiple: true, style: 'display:none', onchange: e => { newPin(b, e.target.files); e.target.value = ''; } });
   return [
     el('h2', {}, '作品板'),
-    el('p', { class: 'hint' }, '拖曳或用 ↑↓ 排序（由左上往下排）。圖片原樣上傳，不裁切；單張 8 MB 以內。取消「顯示」會先藏起來，不會刪掉。'),
-    el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => file.click() }, '新增圖片…'), file, el('span', { class: 'muted' }, '共 ' + b.pins.length + ' 張，顯示 ' + b.pins.filter(p => p.visible !== false).length + ' 張')),
+    el('p', { class: 'hint' }, '每件作品在作品板上是一張圖，點進去是它的內頁（標題、說明、最多 ' + MAX_PIN_IMAGES + ' 張圖）。拖曳或用 ↑↓ 排序（由左上往下排）。按「編輯內頁」改網址、說明和圖片。取消「顯示」會先藏起來（內頁也不發布），不會刪掉。'),
+    el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => file.click() }, '新增作品…'), file,
+      el('span', { class: 'muted' }, '可一次選多張圖（第一張當封面）。共 ' + b.pins.length + ' 件，顯示 ' + b.pins.filter(p => p.visible !== false).length + ' 件')),
     ...rows,
     field('頁尾說明', b.foot, v => { b.foot = v; changed(); }, { multiline: true, rows: 2, hint: '留白就不顯示。' + MARKUP_HINT })
   ];
 }
+
+function otherSlugs(b, p) { return new Set(b.pins.filter(x => x !== p).map(x => x.slug)); }
+function slugProblem(b, p) {
+  if (!SLUG_RE.test(p.slug || '') || p.slug.length > 60) return '只能用小寫英文、數字和 -，例如 studio-model';
+  if (otherSlugs(b, p).has(p.slug)) return '跟另一件作品重複了';
+  return '';
+}
+
+function pinEditor(b, p, i) {
+  if (!Array.isArray(p.images)) p.images = [];
+  const imgs = p.images;
+  const slugMsg = el('p', { class: 'hint err' }, slugProblem(b, p));
+  const slugIn = el('input', { type: 'text', 'data-slug-for': String(i), spellcheck: 'false', autocapitalize: 'off', oninput: e => {
+    p.slug = e.target.value.trim(); delete p._autoSlug;
+    const prob = slugProblem(b, p); slugMsg.textContent = prob; e.target.classList.toggle('bad', !!prob);
+    url.textContent = 'yuchuntsai.com/board/' + (p.slug || '…') + '/';
+    changed();
+  } });
+  slugIn.value = p.slug || '';
+  if (slugProblem(b, p)) slugIn.classList.add('bad');
+  const url = el('span', {}, 'yuchuntsai.com/board/' + (p.slug || '…') + '/');
+  const file = el('input', { type: 'file', accept: 'image/jpeg,image/png,image/webp,image/gif', multiple: true, style: 'display:none', onchange: e => { addPinImages(p, e.target.files); e.target.value = ''; } });
+  const full = imgs.length >= MAX_PIN_IMAGES;
+  const tiles = imgs.map((src, k) => el('div', { class: 'tile' + (k === 0 ? ' cover' : '') },
+    el('img', { src: thumbSrc(src), alt: '' }),
+    el('span', { class: 'cap' }, k === 0 ? '封面' : String(k + 1), isPending(src) ? ' · 新' : ''),
+    el('div', { class: 'tbtn' },
+      el('button', { type: 'button', class: 'small', title: '往前', disabled: k === 0, onclick: () => { move(imgs, k, k - 1); changed(true); } }, '←'),
+      el('button', { type: 'button', class: 'small', title: '往後', disabled: k === imgs.length - 1, onclick: () => { move(imgs, k, k + 1); changed(true); } }, '→'),
+      el('button', { type: 'button', class: 'small', title: '移除這張', disabled: imgs.length === 1, onclick: () => { imgs.splice(k, 1); changed(true); } }, '✕'))));
+  return el('div', { class: 'pinedit' },
+    el('label', { class: 'field' }, el('span', {}, '網址代稱'), slugIn, el('p', { class: 'hint' }, '內頁網址：', url, '。發布後最好不要再改，舊連結會失效。'), slugMsg),
+    field('說明（選填）', p.description, v => { p.description = v; changed(); }, { multiline: true, rows: 6, hint: '純文字。空一行分段，換行會照樣顯示。留白就只顯示標題和圖片。' }),
+    el('div', { class: 'field' },
+      el('span', {}, '圖片（' + imgs.length + '／' + MAX_PIN_IMAGES + '）第一張是作品板上的封面'),
+      el('div', { class: 'tiles' }, ...tiles),
+      el('div', { class: 'addbar' },
+        el('button', { type: 'button', disabled: full, onclick: () => file.click() }, '新增圖片…'), file,
+        el('span', { class: 'muted' }, full ? '已達 ' + MAX_PIN_IMAGES + ' 張上限，要換圖請先移除一張。' : '還可以加 ' + (MAX_PIN_IMAGES - imgs.length) + ' 張。原樣上傳，不裁切；單張 8 MB 以內。'))));
+}
+
 function thumbSrc(src) {
   src = String(src || '');
+  if (uploaded.has(src)) return uploaded.get(src);
   if (/^(https?:|data:|blob:|\/)/.test(src)) return src;
   return '../' + src;
 }
-function addImages(b, files) {
+
+// Read files as data: URLs (kept in the browser until "儲存並發布"). Returns [] for rejected files.
+async function readImages(files, room) {
   const list = Array.from(files || []);
   const bad = list.filter(f => !/^image\/(jpeg|png|webp|gif)$/.test(f.type) || f.size > MAX_IMAGE);
-  if (bad.length) alert('這些檔案沒有加入（只接受 JPG／PNG／WebP／GIF，8 MB 以內）：\n' + bad.map(f => f.name).join('\n'));
   const ok = list.filter(f => !bad.includes(f));
-  Promise.all(ok.map(f => new Promise((res, rej) => { const r = new FileReader(); r.onload = () => res({ f, url: r.result }); r.onerror = rej; r.readAsDataURL(f); })))
-    .then(items => {
-      items.reverse().forEach(({ f, url }) => b.pins.unshift({ src: url, caption: f.name.replace(/\.[^.]+$/, ''), link: '#', visible: true, big: false, _upload: { name: f.name, type: f.type } }));
-      changed(true);
-    });
+  const msgs = [];
+  if (bad.length) msgs.push('這些檔案沒有加入（只接受 JPG／PNG／WebP／GIF，8 MB 以內）：\n' + bad.map(f => f.name).join('\n'));
+  if (ok.length > room) msgs.push('每件作品最多 ' + MAX_PIN_IMAGES + ' 張圖，這次只加入前 ' + room + ' 張，沒加入：\n' + ok.slice(room).map(f => f.name).join('\n'));
+  if (msgs.length) alert(msgs.join('\n\n'));
+  const take = ok.slice(0, Math.max(0, room));
+  const items = await Promise.all(take.map(f => new Promise((res, rej) => { const r = new FileReader(); r.onload = () => res({ f, url: r.result }); r.onerror = rej; r.readAsDataURL(f); })));
+  for (const { f, url } of items) pending.set(url, { name: f.name, type: f.type });
+  return items;
+}
+
+async function newPin(b, files) {
+  const items = await readImages(files, MAX_PIN_IMAGES);
+  if (!items.length) return;
+  const title = items[0].f.name.replace(/\.[^.]+$/, '');
+  const p = { title, slug: uniqueSlug(title, otherSlugs(b, null)), description: '', images: items.map(x => x.url), visible: true, big: false, _autoSlug: true };
+  b.pins.unshift(p);
+  state.openPin = p;
+  showDetail(p);
+  changed(true);
+}
+
+async function addPinImages(p, files) {
+  const items = await readImages(files, MAX_PIN_IMAGES - p.images.length);
+  if (!items.length) return;
+  p.images.push(...items.map(x => x.url));
+  changed(true);
+}
+
+// Switch the preview to a pin's detail page.
+function showDetail(p) {
+  state.detailPin = p;
+  $('previewPage').value = 'detail';
+  updatePreview(true);
 }
 
 /* A–Z */
@@ -252,11 +346,30 @@ function editConsulting(c) {
 /* ---------- preview ---------- */
 let previewTimer = null;
 function schedulePreview() { clearTimeout(previewTimer); previewTimer = setTimeout(() => updatePreview(false), 250); }
+// The pin shown in the "作品內頁" preview: the one being edited, else the last one viewed, else the first.
+function previewPin() {
+  const pins = state.data.board ? state.data.board.pins : [];
+  if (pins.includes(state.detailPin)) return state.detailPin;
+  return pins.find(p => p.visible !== false) || pins[0] || null;
+}
 function updatePreview(resetScroll) {
-  const page = $('previewPage').value;
+  const sel = $('previewPage');
+  const page = sel.value;
   const d = state.data;
-  const base = new URL('../' + PAGE_DIRS[page], location.href).pathname; // admin lives at /admin/
-  const fn = { board: () => renderBoard(d.site, d.board, { base }), az: () => renderAZ(d.site, d.az, { base }), teaching: () => renderTeaching(d.site, d.teaching, { base }), consulting: () => renderConsulting(d.site, d.consulting, { base }) }[page];
+  const pin = previewPin();
+  const opt = sel.querySelector('option[value=detail]');
+  opt.textContent = '作品內頁' + (pin ? '：' + (pin.title || pin.slug || '') : '');
+  opt.disabled = !pin;
+  const dir = page === 'detail' ? (pin ? detailDir(pin.slug || 'preview') : 'board/') : PAGE_DIRS[page];
+  const base = new URL('../' + dir, location.href).pathname; // admin lives at /admin/
+  const fn = {
+    landing: () => renderLanding(d.site, { base }),
+    board: () => renderBoard(d.site, d.board, { base }),
+    detail: () => pin ? renderDetail(d.site, d.board, pin, { base }) : '<p>還沒有作品。</p>',
+    az: () => renderAZ(d.site, d.az, { base }),
+    teaching: () => renderTeaching(d.site, d.teaching, { base }),
+    consulting: () => renderConsulting(d.site, d.consulting, { base })
+  }[page];
   const fr = $('preview');
   let y = 0;
   try { y = resetScroll ? 0 : fr.contentWindow.scrollY; } catch (e) { /* ignore */ }
@@ -264,8 +377,21 @@ function updatePreview(resetScroll) {
     try {
       const w = fr.contentWindow;
       if (y) w.scrollTo(0, y);
-      // Keep the preview in place: links inside it don't navigate away.
-      w.document.addEventListener('click', e => { const a = e.target.closest && e.target.closest('a[href]'); if (a) e.preventDefault(); }, true);
+      // Links inside the preview don't leave /admin. Board pins open their detail preview,
+      // and the detail page's board links go back to the board preview.
+      w.document.addEventListener('click', e => {
+        const a = e.target.closest && e.target.closest('a[href]');
+        if (!a) return;
+        e.preventDefault();
+        const href = a.getAttribute('href');
+        if (page === 'board' && a.classList.contains('pin')) {
+          const slug = href.replace(/\/$/, '');
+          const p = d.board.pins.find(x => x.slug === slug);
+          if (p) showDetail(p);
+        } else if (page === 'detail' && (href === '../' || a.closest('.back'))) {
+          sel.value = 'board'; updatePreview(true);
+        }
+      }, true);
     } catch (e) { /* ignore */ }
   };
   fr.srcdoc = fn();
@@ -284,12 +410,15 @@ function updateSaveMsg(extra) {
 
 function confirmSave() {
   const d = dirtyFiles();
-  const errs = validate(clean(state.data));
+  // New images are still data: URLs here; they get uploaded during save, so check them as if uploaded.
+  const check = clean(state.data);
+  for (const p of check.board.pins || []) if (Array.isArray(p.images)) p.images = p.images.map(x => (isPending(x) ? 'assets/pins/pending' : x));
+  const errs = validate(check);
   if (errs.length) {
     updateSaveMsg([el('span', { class: 'err' }, '還不能儲存，請先修正：'), el('ul', {}, ...errs.map(x => el('li', { class: 'err' }, x)))]);
     return;
   }
-  const pages = [...new Set(d.map(n => ({ site: '作品板、A–Z、教學、諮詢', board: '作品板', az: 'A–Z', teaching: '教學', consulting: '諮詢' }[n])))].join('、');
+  const pages = [...new Set(d.map(n => ({ site: '首頁、作品板和內頁、A–Z、教學、諮詢', board: '作品板和作品內頁', az: 'A–Z', teaching: '教學', consulting: '諮詢' }[n])))].join('、');
   updateSaveMsg([
     el('div', {}, '要儲存：' + d.map(n => LABEL[n]).join('、') + '。會更新的頁面：' + pages + '。請先在右側預覽確認（可切換頁面）。'),
     el('div', { class: 'dl' },
@@ -305,18 +434,30 @@ async function doSave() {
   $('saveBtn').disabled = $('revertBtn').disabled = true;
   const msg = $('saveMsg');
   try {
-    // 1) upload new images (each becomes assets/pins/<file>)
-    const pins = state.data.board.pins.filter(p => p._upload);
-    for (let k = 0; k < pins.length; k++) {
-      msg.textContent = '上傳圖片 ' + (k + 1) + '／' + pins.length + '…';
-      const p = pins[k];
-      const blob = await (await fetch(p.src)).blob();
+    // 1) upload new images (batches of up to 10 → one commit per batch), then swap the data: URLs for repo paths
+    const todo = [...new Set(state.data.board.pins.flatMap(p => pinImages(p).filter(isPending)))];
+    const done = new Map();
+    let batch = [], bytes = 0;
+    const flush = async () => {
+      if (!batch.length) return;
+      msg.textContent = '上傳圖片 ' + (done.size + 1) + '–' + (done.size + batch.length) + '／' + todo.length + '…';
       const fd = new FormData();
-      fd.append('file', blob, p._upload.name);
+      for (const x of batch) fd.append('file', x.blob, x.name);
       const r = await apiFetch('/upload', { method: 'POST', body: fd });
-      p.src = r.path;
-      delete p._upload;
+      const paths = r.paths || (r.path ? [r.path] : []);
+      if (paths.length !== batch.length) throw new Error('上傳回應不完整');
+      batch.forEach((x, k) => { done.set(x.src, paths[k]); uploaded.set(paths[k], x.src); });
+      batch = []; bytes = 0;
+    };
+    for (const src of todo) {
+      const blob = await (await fetch(src)).blob();
+      if (batch.length >= UPLOAD_BATCH_FILES || (batch.length && bytes + blob.size > UPLOAD_BATCH_BYTES)) await flush();
+      const meta = pending.get(src) || { name: 'image.' + (blob.type.split('/')[1] || 'jpg') };
+      batch.push({ src, blob, name: meta.name }); bytes += blob.size;
     }
+    await flush();
+    for (const p of state.data.board.pins) if (Array.isArray(p.images)) p.images = p.images.map(x => done.get(x) || x);
+    for (const k of done.keys()) pending.delete(k);
     // 2) commit changed JSON files one by one (Contents API, sequential to avoid conflicts)
     const commits = [];
     for (const n of dirtyFiles()) {
@@ -348,11 +489,11 @@ async function apiFetch(path, init) {
 }
 
 function offlineSave(d) {
-  const hasPending = state.data.board.pins.some(p => p._upload);
+  const hasPending = state.data.board.pins.some(p => pinImages(p).some(isPending));
   updateSaveMsg([
     el('div', {}, el('strong', {}, '儲存服務還沒連線，這次沒有存到網站。'), ' 可以先下載 JSON 備份，保存這次的修改：'),
     downloadLinks(d),
-    hasPending ? el('div', { class: 'muted' }, '新加入的圖片需要儲存服務才能上傳，下載的作品板 JSON 不含這幾張新圖。') : null
+    hasPending ? el('div', { class: 'muted' }, '新加入的圖片需要儲存服務才能上傳，下載的作品板 JSON 不含這幾張新圖（只有新圖的作品也不含）。') : null
   ]);
 }
 
@@ -360,7 +501,7 @@ function downloadLinks(names) {
   const box = el('span', { class: 'dl' });
   for (const n of names) {
     let data = clean(state.data[n]);
-    if (n === 'board') data.pins = data.pins.filter(p => !String(p.src).startsWith('data:'));
+    if (n === 'board') data.pins = data.pins.map(p => Object.assign(p, { images: pinImages(p).filter(x => !isPending(x)) })).filter(p => p.images.length);
     const url = URL.createObjectURL(new Blob([JSON.stringify(data, null, 2) + '\n'], { type: 'application/json' }));
     box.append(el('a', { href: url, download: n + '.json' }, el('button', { type: 'button', tabindex: '-1' }, '下載 ' + n + '.json')));
   }
@@ -372,6 +513,7 @@ $('saveBtn').addEventListener('click', confirmSave);
 $('revertBtn').addEventListener('click', () => {
   if (!confirm('放棄所有未儲存的變更？')) return;
   for (const n of FILES) state.data[n] = JSON.parse(state.saved[n]);
+  state.openPin = state.detailPin = null;
   changed(true);
 });
 $('previewPage').addEventListener('change', () => updatePreview(true));
@@ -388,5 +530,5 @@ addEventListener('resize', sizePreview);
 sizePreview();
 addEventListener('beforeunload', e => { if (dirtyFiles().length) { e.preventDefault(); e.returnValue = ''; } });
 
-load().then(() => { renderTabs(); renderEditor(); updatePreview(true); updateSaveMsg(); })
+load().then(() => { $('previewPage').value = PREVIEW_FOR[state.tab]; renderTabs(); renderEditor(); updatePreview(true); updateSaveMsg(); })
   .catch(e => { $('status').className = 'status warn'; $('status').textContent = '載入失敗：' + e.message; });
