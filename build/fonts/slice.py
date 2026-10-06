@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Slice Taipei Sans TC Beta (Light + Regular) into unicode-range WOFF2 chunks.
+"""Slice Taipei Sans TC Beta (Regular + Bold) into unicode-range WOFF2 chunks.
 
 Run once (by .github/workflows/assets.yml, or locally); the output in assets/fonts/ is committed
 and served as static files, so normal deploys never re-subset:
@@ -23,10 +23,13 @@ from fontTools.ttLib import TTFont
 FAMILY = 'Taipei Sans TC'
 # official files: JT Foundry Drive folder 1OJOOly6jo9RID3EE2f7S3N7T-8ZWPv6N (sites.google.com/view/jtfoundry)
 WEIGHTS = [
-    ('light', 300, 'TaipeiSansTCBeta-Light.ttf', '1QdaqR8Setf4HEulrIW79UEV_Lg_fuoWz',
-     'd69a9ea6a77f694c3a1a1fb766c764aa74cb3e2c4c69f1b532edf98b3f2bb662'),
     ('regular', 400, 'TaipeiSansTCBeta-Regular.ttf', '1eGAsTN1HBpJAkeVM57_C7ccp7hbgSz3_',
      '8cc967e1e428c552701c461e8169e6ae76c7a23694ea1a6a786d6746adec53c4'),
+    ('bold', 700, 'TaipeiSansTCBeta-Bold.ttf', '1Om8izPz02Msc15onhS_ki1lrlAIf05Pd',
+     '5249d3bdda9c9f4c62840e804b4d2530b7f4dfab6d68fb508c120b0e7e600419'),
+    # Light (300) is not used by the site's CSS; add it here if a light weight is ever needed:
+    # ('light', 300, 'TaipeiSansTCBeta-Light.ttf', '1QdaqR8Setf4HEulrIW79UEV_Lg_fuoWz',
+    #  'd69a9ea6a77f694c3a1a1fb766c764aa74cb3e2c4c69f1b532edf98b3f2bb662'),
 ]
 NOTO = ['https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400',
         'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400']
@@ -205,7 +208,7 @@ def main():
             sizes[os.path.basename(out)] = size
     with open(os.path.join(a.out, 'taipei-sans-tc.css'), 'w') as f:
         f.write('/* 台北黑體 Taipei Sans TC Beta (JT Foundry 翰字鑄造), SIL OFL 1.1 — see OFL.txt.\n'
-                '   Light 300 + Regular 400, sliced into unicode-range WOFF2 chunks by build/fonts/slice.py. */\n')
+                '   Regular 400 + Bold 700, sliced into unicode-range WOFF2 chunks by build/fonts/slice.py. */\n')
         f.write('\n'.join(faces) + '\n')
     summary = {'family': FAMILY, 'fonttools': fontTools.version, 'chunks': len(plan),
                'source': {n: w for _, _, n, _, w in WEIGHTS}, 'files': len(sizes)}

@@ -1,4 +1,4 @@
-台北黑體 Taipei Sans TC Beta (Light, Regular)
+台北黑體 Taipei Sans TC Beta (Regular, Bold)
 Copyright (c) JT Foundry 翰字鑄造 — https://sites.google.com/view/jtfoundry/
 "Taipei Sans TC is a modified font of Source Han Sans." (font name table)
 
@@ -8,7 +8,7 @@ Name 'Source'. Source is a trademark of Adobe in the United States
 and/or other countries.
 
 The *.woff2 files in this folder are unmodified-outline subsets of the
-official TaipeiSansTCBeta-Light.ttf and TaipeiSansTCBeta-Regular.ttf
+official TaipeiSansTCBeta-Regular.ttf and TaipeiSansTCBeta-Bold.ttf
 (sha256 in manifest.json), split by Unicode range and converted to WOFF2
 by build/fonts/slice.py for web use. Font names are unchanged.
 
