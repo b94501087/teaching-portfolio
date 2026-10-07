@@ -36,27 +36,24 @@ body.detail{background:#fff}
 .detail .gallery{display:flex;flex-direction:column;gap:18px;margin-top:22px}
 .detail .gallery a{display:block;align-self:flex-start;max-width:100%}
 .detail .gallery img{display:block;max-width:100%;height:auto;border-radius:6px;background:#f0f0f0}
-/* interleaved text + images on detail pages that use sections (pin.sections). Other pages and plain detail pages unchanged. */
-.detail main.has-sections{max-width:1160px}
+/* detail pages that use sections (pin.sections): one centred column. Section text and images share the
+   same width, and every image sits in the same 4:3 box (whole image shown, letterboxed on a neutral
+   background), on desktop and phones alike. Other pages and plain detail pages are unchanged. */
+.detail main.has-sections{max-width:800px}
+.detail main.has-sections .desc{max-width:none}
 .detail figure{margin:0}
-.detail .sec{margin-top:44px}
+.detail .sec{margin-top:40px}
 .detail .sec h2{font-weight:400;font-size:19px;line-height:1.35;margin:0 0 10px}
 .detail .sec-text p{margin:0 0 1em;font-size:15px;line-height:1.75;color:#333}
 .detail .sec-text p:last-child{margin-bottom:0}
-.detail .sec.text .sec-text{max-width:680px}
-.detail .sec.split{display:grid;grid-template-columns:3fr 2fr;gap:40px;align-items:center}
-.detail .sec.split .sec-media{order:-1}
-.detail .sec.split.flip{grid-template-columns:2fr 3fr}
-.detail .sec.split.flip .sec-media{order:1}
-.detail .sec-imgs{display:flex;gap:12px;align-items:flex-start}
-.detail .sec-imgs > *{flex:1 1 0;min-width:0}
-.detail .sec-imgs a{display:block}
-.detail .sec-imgs img{display:block;width:100%;height:auto;border-radius:6px;background:#f0f0f0}
+.detail .sec-text + .sec-media{margin-top:16px}
+.detail .sec-imgs{display:flex;flex-direction:column;gap:16px}
+.detail .sec-imgs a{display:block;width:100%;aspect-ratio:4/3;background:#f0f0f0;border-radius:6px;overflow:hidden}
+.detail .sec-imgs img{display:block;width:100%;height:100%;object-fit:contain}
 .detail .sec-media figcaption{margin-top:8px;font-size:13px;line-height:1.5;color:#888}
-@media(max-width:760px){
-  .detail .sec{margin-top:32px}
-  .detail .sec.split,.detail .sec.split.flip{grid-template-columns:1fr;gap:14px}
-  .detail .sec.split .sec-media,.detail .sec.split.flip .sec-media{order:0}
-  .detail .sec-imgs{flex-direction:column}
-  .detail .sec-imgs > *{flex:none;width:100%}
-}
+.detail .lang-row{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+.detail .langs{display:flex;gap:12px}
+.detail .langs button{appearance:none;border:0;background:none;padding:0;font:inherit;font-size:13px;color:#888;cursor:pointer}
+.detail .langs button:hover,.detail .langs button.on{color:#111}
+.detail .langs button.on{text-decoration:underline;text-underline-offset:3px}
+@media(max-width:760px){.detail .sec{margin-top:32px}}

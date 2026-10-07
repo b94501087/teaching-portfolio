@@ -88,6 +88,7 @@ button.small.on{border-color:#222;color:#222}
 .seccap{display:flex;gap:6px;align-items:center;margin:4px 0}
 .seccap img{width:36px;height:36px;object-fit:cover;border-radius:3px;background:#f0f0f0;flex-shrink:0}
 .seccap input{flex:1;min-width:0}
+.seg{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 2px}
 @media(max-width:900px){
   .layout{flex-direction:column}
   .editor{width:100%;border-right:0}

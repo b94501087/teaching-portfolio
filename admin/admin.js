@@ -1,6 +1,6 @@
 // /admin — edit content/*.json, preview with the site's own templates, save via the Worker (/api).
 // Without the Worker ("no Worker yet" mode) editing + preview work; save offers JSON download instead.
-import { renderLanding, renderBoard, renderDetail, renderAZ, renderTeaching, renderConsulting, groupAZ, validate, CURRENCIES, PAGE_DIRS, detailDir, pinImages, uniqueSlug, SLUG_RE, MAX_PIN_IMAGES } from './render.js';
+import { renderLanding, renderBoard, renderDetail, renderAZ, renderTeaching, renderConsulting, groupAZ, validate, CURRENCIES, PAGE_DIRS, detailDir, pinImages, uniqueSlug, SLUG_RE, MAX_PIN_IMAGES, LANGS, LANG_NAME } from './render.js';
 
 const FILES = ['site', 'board', 'az', 'teaching', 'consulting'];
 const LABEL = { site: '網站', board: '項目', az: 'A–Z', teaching: '教學', consulting: '諮詢' };
@@ -15,7 +15,7 @@ const isPending = src => String(src).startsWith('data:');
 // repo path of a just-uploaded image -> its data: URL, so admin thumbnails show before Pages redeploys
 const uploaded = new Map();
 
-const state = { mode: 'offline', user: '', tab: 'board', data: {}, saved: {}, busy: false, openPin: null, detailPin: null };
+const state = { mode: 'offline', user: '', tab: 'board', data: {}, saved: {}, busy: false, openPin: null, detailPin: null, editLang: 'en' };
 const $ = id => document.getElementById(id);
 
 /* ---------- helpers ---------- */
@@ -45,6 +45,7 @@ function field(label, value, oninput, opts = {}) {
     ? el('textarea', { rows: opts.rows || 3, oninput: e => oninput(e.target.value, e.target) })
     : el('input', { type: opts.type || 'text', inputmode: opts.inputmode, oninput: e => oninput(e.target.value, e.target) });
   input.value = value == null ? '' : value;
+  if (opts.placeholder) input.placeholder = opts.placeholder;
   return el('label', { class: 'field' }, el('span', {}, label), input, opts.hint ? el('p', { class: 'hint' }, opts.hint) : null);
 }
 const MARKUP_HINT = '可用 **粗體** 和 [文字](連結)。';
@@ -164,7 +165,7 @@ function editBoard(b) {
   const file = el('input', { type: 'file', accept: 'image/jpeg,image/png,image/webp,image/gif', multiple: true, style: 'display:none', onchange: e => { newPin(b, e.target.files); e.target.value = ''; } });
   return [
     el('h2', {}, '項目'),
-    el('p', { class: 'hint' }, '每件作品在「項目」頁上是一張圖，點進去是它的內頁（標題、說明、最多 ' + MAX_PIN_IMAGES + ' 張圖，可選擇用圖文段落交錯排）。拖曳或用 ↑↓ 排序（由左上往下排）。按「編輯內頁」改網址、說明和圖片。取消「顯示」會先藏起來（內頁也不發布），不會刪掉。'),
+    el('p', { class: 'hint' }, '每件作品在「項目」頁上是一張圖，點進去是它的內頁（標題、說明、最多 ' + MAX_PIN_IMAGES + ' 張圖，可選擇加上圖文段落）。拖曳或用 ↑↓ 排序（由左上往下排）。按「編輯內頁」改網址、說明和圖片。取消「顯示」會先藏起來（內頁也不發布），不會刪掉。'),
     el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => file.click() }, '新增作品…'), file,
       el('span', { class: 'muted' }, '可一次選多張圖（第一張當封面）。共 ' + b.pins.length + ' 件，顯示 ' + b.pins.filter(p => p.visible !== false).length + ' 件')),
     ...rows,
@@ -181,6 +182,7 @@ function slugProblem(b, p) {
 
 function pinEditor(b, p, i) {
   if (!Array.isArray(p.images)) p.images = [];
+  const L = state.editLang, LT = L === 'en' ? '' : '・' + LANG_NAME[L];
   const imgs = p.images;
   const slugMsg = el('p', { class: 'hint err' }, slugProblem(b, p));
   const slugIn = el('input', { type: 'text', 'data-slug-for': String(i), spellcheck: 'false', autocapitalize: 'off', oninput: e => {
@@ -203,7 +205,9 @@ function pinEditor(b, p, i) {
       el('button', { type: 'button', class: 'small', title: '移除這張', disabled: imgs.length === 1, onclick: () => { imgs.splice(k, 1); dropFromSections(p, src); changed(true); } }, '×'))));
   return el('div', { class: 'pinedit' },
     el('label', { class: 'field' }, el('span', {}, '網址代稱'), slugIn, el('p', { class: 'hint' }, '內頁網址：', url, '。發布後最好不要再改，舊連結會失效。'), slugMsg),
-    field('說明（選填）', p.description, v => { p.description = v; changed(); }, { multiline: true, rows: 6, hint: '純文字。空一行分段，換行會照樣顯示。留白就只顯示標題和圖片。' }),
+    langPicker(),
+    L !== 'en' ? field('標題' + LT, tget(p, L, 'title'), v => { tset(p, L, 'title', v); changed(); }, { placeholder: p.title || '', hint: '留白就顯示英文標題。「項目」頁上的卡片一律用英文標題。' }) : null,
+    field('說明（選填）' + LT, tget(p, L, 'description'), v => { tset(p, L, 'description', v); changed(); }, { multiline: true, rows: 6, placeholder: L !== 'en' ? p.description || '' : '', hint: L !== 'en' ? '留白就顯示英文說明。純文字，空一行分段。' : '純文字。空一行分段，換行會照樣顯示。留白就只顯示標題和圖片。' }),
     el('div', { class: 'field' },
       el('span', {}, '圖片（' + imgs.length + '／' + MAX_PIN_IMAGES + '）第一張是「項目」頁上的封面'),
       el('div', { class: 'tiles' }, ...tiles),
@@ -217,37 +221,79 @@ function pinEditor(b, p, i) {
 function dropFromSections(p, src) {
   for (const s of Array.isArray(p.sections) ? p.sections : []) {
     if (!s || !Array.isArray(s.images)) continue;
-    for (let k = s.images.length - 1; k >= 0; k--) if (s.images[k] === src) { s.images.splice(k, 1); if (Array.isArray(s.captions)) s.captions.splice(k, 1); }
+    for (let k = s.images.length - 1; k >= 0; k--) if (s.images[k] === src) { for (const a of capLists(s)) a.splice(k, 1); s.images.splice(k, 1); }
+    tprune(s);
   }
 }
+
+/* translations: English lives in the plain keys, other languages in o.i18n[lang] (an empty field falls back to English) */
+const tget = (o, l, k) => (l === 'en' ? o[k] : o.i18n && o.i18n[l] && o.i18n[l][k]) || '';
+function tset(o, l, k, v) {
+  if (l === 'en') { o[k] = v; return; }
+  o.i18n = o.i18n || {};
+  const t = o.i18n[l] = o.i18n[l] || {};
+  if (String(v).trim()) t[k] = v; else delete t[k];
+  tprune(o);
+}
+function tprune(o) {
+  if (!o.i18n) return;
+  for (const l of Object.keys(o.i18n)) {
+    const t = o.i18n[l];
+    if (Array.isArray(t.captions) && !t.captions.some(c => String(c || '').trim())) delete t.captions;
+    if (!Object.keys(t).length) delete o.i18n[l];
+  }
+  if (!Object.keys(o.i18n).length) delete o.i18n;
+}
+// Every caption list of a section (English + translations), padded to the image count, so image moves keep them aligned.
+function capLists(s) {
+  if (!Array.isArray(s.captions)) s.captions = [];
+  const out = [s.captions];
+  for (const t of Object.values(s.i18n || {})) if (t && Array.isArray(t.captions)) out.push(t.captions);
+  for (const a of out) while (a.length < s.images.length) a.push('');
+  return out;
+}
+function capList(s, l) {
+  if (l === 'en') return s.captions;
+  s.i18n = s.i18n || {};
+  const t = s.i18n[l] = s.i18n[l] || {};
+  if (!Array.isArray(t.captions)) t.captions = [];
+  while (t.captions.length < s.images.length) t.captions.push('');
+  return t.captions;
+}
+function langPicker() {
+  return el('div', { class: 'field' }, el('span', {}, '編輯語言'),
+    el('div', { class: 'seg' }, ...LANGS.map(l => el('button', { type: 'button', class: 'small' + (state.editLang === l ? ' on' : ''), 'aria-pressed': state.editLang === l ? 'true' : 'false', onclick: () => { state.editLang = l; renderEditor(); updatePreview(false); } }, LANG_NAME[l] || l))),
+    el('p', { class: 'hint' }, '英文是原文。切換到其他語言後，標題、說明、段落標題、內文和圖說都可以另外填；留白的欄位會顯示英文。網址、圖片和排列各語言共用。有翻譯時，內頁右上角會出現語言切換，記住訪客上次的選擇。'));
+}
 function sectionsEditor(p) {
+  const L = state.editLang, LT = L === 'en' ? '' : '・' + LANG_NAME[L];
   const secs = Array.isArray(p.sections) ? p.sections : [];
   const pool = p.images;
   const box = el('div', { class: 'field secs' },
     el('span', {}, '圖文段落（選填，' + secs.length + ' 段）'),
-    el('p', { class: 'hint' }, '有段落時，內頁改成圖文交錯：上面的「說明」當導言放最前面；有字也有圖的段落一左一右交替（手機上字在上、圖在下）；只有圖的段落滿版；只有字的段落是純文字。圖片從這件作品的圖片裡選，跟上面共用 ' + MAX_PIN_IMAGES + ' 張上限。每張圖下面一行圖說；同一段有多張圖、只填第一個圖說，就當成整排共用的圖說。沒被段落用到的圖會排在最後。'));
+    el('p', { class: 'hint' }, '有段落時，內頁改成單欄：上面的「說明」當導言放最前面，每段先文字、後圖片，文字和圖片同寬；每張圖都放在同樣大小的 4:3 框裡（整張顯示，不裁切），電腦和手機都一樣。圖片從這件作品的圖片裡選，跟上面共用 ' + MAX_PIN_IMAGES + ' 張上限。每張圖下面一行圖說；同一段有多張圖、只填第一個圖說，就當成整排共用的圖說。沒被段落用到的圖會排在最後。'));
   secs.forEach((s, k) => {
     if (!Array.isArray(s.images)) s.images = [];
-    if (!Array.isArray(s.captions)) s.captions = [];
-    while (s.captions.length < s.images.length) s.captions.push('');
+    capLists(s);
     const file = el('input', { type: 'file', accept: 'image/jpeg,image/png,image/webp,image/gif', multiple: true, style: 'display:none', onchange: async e => {
       const items = await readImages(e.target.files, MAX_PIN_IMAGES - pool.length); e.target.value = '';
       if (!items.length) return;
-      for (const x of items) { pool.push(x.url); s.images.push(x.url); s.captions.push(''); }
+      for (const x of items) { pool.push(x.url); s.images.push(x.url); }
+      capLists(s); tprune(s);
       changed(true);
     } });
     const pick = el('div', { class: 'secpick' }, ...pool.map(src => {
       const at = s.images.indexOf(src);
       return el('button', { type: 'button', class: at >= 0 ? 'on' : null, title: at >= 0 ? '從這段拿掉' : '放進這段', onclick: () => {
-        if (at >= 0) { s.images.splice(at, 1); s.captions.splice(at, 1); } else { s.images.push(src); s.captions.push(''); }
-        changed(true);
+        if (at >= 0) { for (const a of capLists(s)) a.splice(at, 1); s.images.splice(at, 1); } else { s.images.push(src); capLists(s); }
+        tprune(s); changed(true);
       } }, el('img', { src: thumbSrc(src), alt: '' }), at >= 0 ? el('span', {}, String(at + 1)) : null);
     }));
     const caps = s.images.map((src, j) => el('div', { class: 'seccap' },
       el('img', { src: thumbSrc(src), alt: '' }),
-      el('input', { type: 'text', placeholder: j === 0 ? '圖說（一行）' : '圖說（留白 = 用第一個當共用圖說）', 'aria-label': '圖 ' + (j + 1) + ' 圖說', value: s.captions[j] || '', oninput: e => { s.captions[j] = e.target.value.replace(/[\r\n]+/g, ' '); changed(); } }),
-      el('button', { type: 'button', class: 'small', title: '往前', disabled: j === 0, onclick: () => { move(s.images, j, j - 1); move(s.captions, j, j - 1); changed(true); } }, '←'),
-      el('button', { type: 'button', class: 'small', title: '往後', disabled: j === s.images.length - 1, onclick: () => { move(s.images, j, j + 1); move(s.captions, j, j + 1); changed(true); } }, '→')));
+      el('input', { type: 'text', placeholder: L !== 'en' ? (s.captions[j] || (j === 0 ? '圖說' + LT : '')) : (j === 0 ? '圖說（一行）' : '圖說（留白 = 用第一個當共用圖說）'), 'aria-label': '圖 ' + (j + 1) + ' 圖說' + LT, value: (L === 'en' ? s.captions[j] : tget(s, L, 'captions')[j]) || '', oninput: e => { const a = capList(s, L); a[j] = e.target.value.replace(/[\r\n]+/g, ' '); if (L !== 'en') tprune(s); changed(); } }),
+      el('button', { type: 'button', class: 'small', title: '往前', disabled: j === 0, onclick: () => { const ls = capLists(s); move(s.images, j, j - 1); ls.forEach(a => move(a, j, j - 1)); changed(true); } }, '←'),
+      el('button', { type: 'button', class: 'small', title: '往後', disabled: j === s.images.length - 1, onclick: () => { const ls = capLists(s); move(s.images, j, j + 1); ls.forEach(a => move(a, j, j + 1)); changed(true); } }, '→')));
     box.append(el('div', { class: 'card sec' },
       el('div', { class: 'head' }, el('h3', {}, '段落 ' + (k + 1) + (s.heading ? '：' + s.heading : '')),
         el('div', { class: 'ctl' },
@@ -257,8 +303,8 @@ function sectionsEditor(p) {
             if (!confirm('刪除段落 ' + (k + 1) + (s.heading ? '「' + s.heading + '」' : '') + '？（圖片還會留在這件作品裡）')) return;
             secs.splice(k, 1); if (!secs.length) delete p.sections; changed(true);
           } }, '刪除'))),
-      field('標題（可留白）', s.heading, v => { s.heading = v; changed(); }),
-      field('內文（可留白）', s.body, v => { s.body = v; changed(); }, { multiline: true, rows: 4, hint: '純文字。空一行分段，換行會照樣顯示。' }),
+      field('標題（可留白）' + LT, tget(s, L, 'heading'), v => { tset(s, L, 'heading', v); changed(); }, { placeholder: L !== 'en' ? s.heading || '' : '' }),
+      field('內文（可留白）' + LT, tget(s, L, 'body'), v => { tset(s, L, 'body', v); changed(); }, { multiline: true, rows: 4, placeholder: L !== 'en' ? s.body || '' : '', hint: L !== 'en' ? '留白就顯示英文內文。' : '純文字。空一行分段，換行會照樣顯示。' }),
       el('div', { class: 'secimgs' },
         el('span', { class: 'muted' }, '這段的圖（點選放進／拿掉）：'), pick,
         ...caps,
@@ -424,7 +470,7 @@ function updatePreview(resetScroll) {
   const fn = {
     landing: () => renderLanding(d.site, { base }),
     board: () => renderBoard(d.site, d.board, { base }),
-    detail: () => pin ? renderDetail(d.site, d.board, pin, { base }) : '<p>還沒有作品。</p>',
+    detail: () => pin ? renderDetail(d.site, d.board, pin, { base, lang: state.editLang }) : '<p>還沒有作品。</p>',
     az: () => renderAZ(d.site, d.az, { base }),
     teaching: () => renderTeaching(d.site, d.teaching, { base }),
     consulting: () => renderConsulting(d.site, d.consulting, { base })
@@ -571,6 +617,7 @@ function downloadLinks(names) {
       if (Array.isArray(p.sections)) for (const s of p.sections) if (s && Array.isArray(s.images)) {
         const keep = s.images.map(x => !isPending(x));
         if (Array.isArray(s.captions)) s.captions = s.captions.filter((c, k) => keep[k] !== false);
+        for (const t of Object.values(s.i18n || {})) if (t && Array.isArray(t.captions)) t.captions = t.captions.filter((c, k) => keep[k] !== false);
         s.images = s.images.filter((x, k) => keep[k]);
       }
       return Object.assign(p, { images: pinImages(p).filter(x => !isPending(x)) });

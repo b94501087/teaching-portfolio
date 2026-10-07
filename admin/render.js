@@ -83,7 +83,7 @@ export function renderLanding(site, opts) {
   return '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/">\n' +
-    '<link rel="stylesheet" href="style.css"></head><body class="landing">\n' +
+    '<link rel="stylesheet" href="style.css' + cssV(opts) + '"></head><body class="landing">\n' +
     '<main>\n' +
     '  <h1>' + esc(site.name) + '</h1>\n' +
     '  <nav>\n' +
@@ -123,7 +123,7 @@ export function renderBoard(site, board, opts) {
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.board) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/board/">\n' +
-    '<link rel="stylesheet" href="../style.css"></head><body>\n' +
+    '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body>\n' +
     topBar(site, 1) +
     '<div class="board">\n';
   for (const p of pins) {
@@ -142,19 +142,46 @@ export function paragraphs(text) {
     .map(x => '<p>' + esc(x).replace(/\n/g, '<br>\n') + '</p>\n').join('');
 }
 
-// Optional interleaved layout: pin.sections = [{ heading, body, images: [paths from pin.images], captions: [one line each] }].
-// A section with text + images alternates image-left/text-right, then text-left/image-right (stacked on phones);
-// images only = full width; text only = a plain text block. One caption for several images = a shared caption.
+// Languages a detail page can be read in. English is the source text (pin.title, pin.description,
+// section heading/body/captions); other languages are optional translations in pin.i18n[lang] and
+// section.i18n[lang] with the same keys. Any empty translated field falls back to English.
+// The language switch only appears on pages that actually have a translation. To add a language
+// (e.g. 'zh-Hans'), add it here with its labels; admin, validation and the switch follow.
+export const LANGS = ['en', 'zh-Hant'];
+export const LANG_LABEL = { en: 'EN', 'zh-Hant': '繁中' };
+export const LANG_NAME = { en: 'English', 'zh-Hant': '繁體中文' };
+const str = v => (typeof v === 'string' ? v : '');
+const tr = (o, l, k) => str(o && o.i18n && o.i18n[l] && o.i18n[l][k]);
+
+// Optional sections layout: pin.sections = [{ heading, body, images: [paths from pin.images], captions: [one line each], i18n }].
+// One centred column: each section's text, then its images, all at the same width; every image sits in
+// the same 4:3 box (whole image shown). One caption for several images = a shared caption under them.
 // Images of the pin that no section uses still appear in the plain gallery after the sections.
 export function pinSections(pin) {
   const pool = new Set(pinImages(pin));
   return (Array.isArray(pin.sections) ? pin.sections : []).filter(s => s && typeof s === 'object').map(s => {
-    const imgs = [], caps = [];
+    const imgs = [], caps = {};
+    for (const l of LANGS) caps[l] = [];
     (Array.isArray(s.images) ? s.images : []).forEach((src, k) => {
-      if (pool.has(src)) { imgs.push(src); caps.push(String((Array.isArray(s.captions) && s.captions[k]) || '').trim()); }
+      if (!pool.has(src)) return;
+      imgs.push(src);
+      for (const l of LANGS) {
+        const arr = l === 'en' ? s.captions : s.i18n && s.i18n[l] && s.i18n[l].captions;
+        caps[l].push(str(Array.isArray(arr) ? arr[k] : '').trim());
+      }
     });
-    return { heading: String(s.heading || '').trim(), body: String(s.body || ''), images: imgs, captions: caps };
-  }).filter(s => s.heading || s.body.trim() || s.images.length);
+    const heading = {}, body = {};
+    for (const l of LANGS) { heading[l] = (l === 'en' ? str(s.heading) : tr(s, l, 'heading')).trim(); body[l] = l === 'en' ? str(s.body) : tr(s, l, 'body'); }
+    return { heading, body, images: imgs, captions: caps };
+  }).filter(s => s.heading.en || s.body.en.trim() || s.images.length);
+}
+
+// Languages with at least one translated field on this pin (English always first).
+export function pinLangs(pin) {
+  const has = l => [tr(pin, l, 'title'), tr(pin, l, 'description')].some(x => x.trim()) ||
+    (Array.isArray(pin.sections) ? pin.sections : []).some(s => s && [tr(s, l, 'heading'), tr(s, l, 'body')].some(x => x.trim()) ||
+      (s && s.i18n && s.i18n[l] && Array.isArray(s.i18n[l].captions) ? s.i18n[l].captions : []).some(c => str(c).trim()));
+  return LANGS.filter(l => l === 'en' || has(l));
 }
 
 function galleryImg(src, alt, lazy) {
@@ -162,41 +189,74 @@ function galleryImg(src, alt, lazy) {
   return '<a href="' + u + '"><img src="' + u + '" alt="' + esc(alt) + '"' + (lazy ? ' loading="lazy"' : '') + '></a>';
 }
 
+// One value per language (empty = English). Identical values are written once, untagged;
+// otherwise one copy per language tagged data-l, and the page CSS shows only the chosen one.
+function perLang(langs, get, wrap) {
+  const vals = langs.map(l => get(l) || get('en'));
+  if (vals.every(v => v === vals[0])) return vals[0] ? wrap(vals[0], '') : '';
+  return langs.map((l, i) => vals[i] ? wrap(vals[i], ' data-l="' + l + '" lang="' + l + '"') : '').join('');
+}
+
+// Picks the language before first paint: ?lang= (remembered), else the remembered choice, else the browser's.
+function langHead(langs) {
+  return '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' +
+    '<script>(function(){var L=' + JSON.stringify(langs) + ',d=document.documentElement,q=(/[?&]lang=([A-Za-z-]+)/.exec(location.search)||[])[1],s=null;' +
+    'try{s=localStorage.getItem("lang")}catch(e){}' +
+    'var n=(navigator.languages||[navigator.language||""]).join(",").toLowerCase(),z=L.filter(function(x){return x.indexOf("zh")===0})[0];' +
+    'var l=L.indexOf(q)>=0?q:L.indexOf(s)>=0?s:(z&&/(^|,)zh/.test(n)?z:"en");' +
+    'if(L.indexOf(q)>=0){try{localStorage.setItem("lang",q)}catch(e){}}d.setAttribute("data-lang",l);d.lang=l})();</script>\n';
+}
+const LANG_SWITCH_JS = '<script>(function(){var d=document.documentElement;function mark(){[].forEach.call(document.querySelectorAll("[data-set-lang]"),function(b){var on=b.getAttribute("data-set-lang")===d.getAttribute("data-lang");b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")})}' +
+  'document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("[data-set-lang]");if(!b)return;var l=b.getAttribute("data-set-lang");d.setAttribute("data-lang",l);d.lang=l;try{localStorage.setItem("lang",l)}catch(x){}mark()});mark()})();</script>\n';
+
+// ?v=<hash of style.css> (passed by build/build.mjs) so returning visitors fetch the new stylesheet.
+const cssV = opts => (opts && opts.v ? '?v=' + esc(opts.v) : '');
+
 export function renderDetail(site, board, pin, opts) {
   const n = site.nav;
   const imgs = pinImages(pin).slice(0, MAX_PIN_IMAGES);
   const secs = pinSections(pin);
+  const langs = secs.length ? pinLangs(pin) : ['en'];
+  const multi = langs.length > 1;
+  const forced = multi && opts && langs.includes(opts.lang) ? opts.lang : '';
   const alt = src => pin.title + (imgs.length > 1 ? '（' + (imgs.indexOf(src) + 1) + '／' + imgs.length + '）' : '');
-  let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(pin.title) + ' — ' + esc(site.name) + '</title>\n' +
+  let h = (multi ? '<!doctype html><html lang="' + (forced || 'en') + '" data-lang="' + (forced || 'en') + '"><head>' : '<!doctype html><html lang="zh-Hant"><head>') +
+    headExtra(opts) + '<meta charset="utf-8"><title>' + esc(pin.title) + ' — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/board/' + esc(pin.slug) + '/">\n' +
-    '<link rel="stylesheet" href="../../style.css"></head><body class="detail">\n' +
+    (multi ? (forced ? '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' : langHead(langs)) : '') +
+    '<link rel="stylesheet" href="../../style.css' + cssV(opts) + '"></head><body class="detail">\n' +
     topBar(site, 2) +
-    '<main' + (secs.length ? ' class="has-sections"' : '') + '>\n' +
-    '  <p class="back"><a href="../">← ' + esc(n.board) + '</a></p>\n' +
-    '  <h1>' + esc(pin.title) + '</h1>\n';
-  const desc = paragraphs(pin.description);
-  if (desc) h += '<div class="desc">\n' + desc + '</div>\n';
+    '<main' + (secs.length ? ' class="has-sections"' : '') + '>\n';
+  const back = '<p class="back"><a href="../">← ' + esc(n.board) + '</a></p>';
+  if (multi) {
+    h += '  <div class="lang-row">' + back + '<div class="langs" role="group" aria-label="Language">' +
+      langs.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l] || l) + '">' + esc(LANG_LABEL[l] || l) + '</button>').join('') + '</div></div>\n';
+  } else h += '  ' + back + '\n';
+  if (secs.length) {
+    h += '  <h1>' + perLang(langs, l => (l === 'en' ? str(pin.title) : tr(pin, l, 'title')).trim(), (v, a) => (a ? '<span' + a + '>' + esc(v) + '</span>' : esc(v))) + '</h1>\n';
+    h += perLang(langs, l => paragraphs(l === 'en' ? pin.description : tr(pin, l, 'description')), (v, a) => '<div class="desc"' + a + '>\n' + v + '</div>\n');
+  } else {
+    h += '  <h1>' + esc(pin.title) + '</h1>\n';
+    const desc = paragraphs(pin.description);
+    if (desc) h += '<div class="desc">\n' + desc + '</div>\n';
+  }
   let rest = imgs, shown = 0;
   if (secs.length) {
     const used = new Set();
-    let flip = false;
+    const cap = (s, k) => perLang(langs, l => s.captions[l][k], (v, a) => '<figcaption' + a + '>' + esc(v) + '</figcaption>');
     for (const s of secs) {
-      const text = s.heading || s.body.trim();
-      const kind = text && s.images.length ? 'split' + (flip ? ' flip' : '') : s.images.length ? 'wide' : 'text';
-      if (text && s.images.length) flip = !flip;
-      h += '<section class="sec ' + kind + '">\n';
-      if (text) h += '<div class="sec-text">\n' + (s.heading ? '<h2>' + esc(s.heading) + '</h2>\n' : '') + paragraphs(s.body) + '</div>\n';
+      h += '<section class="sec">\n';
+      const head = perLang(langs, l => s.heading[l], (v, a) => '<h2' + a + '>' + esc(v) + '</h2>\n');
+      const body = perLang(langs, l => paragraphs(s.body[l]), (v, a) => (a ? '<div' + a + '>\n' + v + '</div>\n' : v));
+      if (head || body) h += '<div class="sec-text">\n' + head + body + '</div>\n';
       if (s.images.length) {
-        const caps = s.captions.filter(Boolean);
-        const shared = s.images.length > 1 && caps.length === 1 && s.captions[0];
-        const many = ' n' + Math.min(s.images.length, 3);
-        if (shared || s.images.length === 1) {
-          h += '<figure class="sec-media"><div class="sec-imgs' + many + '">' + s.images.map(src => galleryImg(src, alt(src), shown++ > 0)).join('') + '</div>' +
-            (caps[0] ? '<figcaption>' + esc(caps[0]) + '</figcaption>' : '') + '</figure>\n';
+        const filled = s.captions.en.map((c, k) => langs.some(l => s.captions[l][k]));
+        const shared = s.images.length === 1 || (filled[0] && filled.filter(Boolean).length === 1);
+        if (shared) {
+          h += '<figure class="sec-media"><div class="sec-imgs">' + s.images.map(src => galleryImg(src, alt(src), shown++ > 0)).join('') + '</div>' + cap(s, 0) + '</figure>\n';
         } else {
-          h += '<div class="sec-media"><div class="sec-imgs' + many + '">' + s.images.map((src, k) => '<figure>' + galleryImg(src, alt(src), shown++ > 0) +
-            (s.captions[k] ? '<figcaption>' + esc(s.captions[k]) + '</figcaption>' : '') + '</figure>').join('') + '</div></div>\n';
+          h += '<div class="sec-media"><div class="sec-imgs">' + s.images.map((src, k) => '<figure>' + galleryImg(src, alt(src), shown++ > 0) + cap(s, k) + '</figure>').join('') + '</div></div>\n';
         }
         s.images.forEach(x => used.add(x));
       }
@@ -210,7 +270,7 @@ export function renderDetail(site, board, pin, opts) {
     h += '</div>\n';
   }
   h += '<p class="back end"><a href="../">← ' + esc(n.board) + '</a></p>\n' +
-    '</main>\n</body></html>\n';
+    '</main>\n' + (multi ? LANG_SWITCH_JS : '') + '</body></html>\n';
   return h;
 }
 
@@ -508,6 +568,25 @@ export function fillPlaceholders(html, site) {
 
 /* ---------- validation (shared by build and admin; the Worker mirrors the rest) ---------- */
 // Board pins: imported by worker/worker.js too (wrangler bundles this file), so all three agree.
+// Translations: o.i18n = { <lang>: { <text key>: string, captions?: [one line each] } } for the non-English LANGS.
+function checkI18n(o, keys, nCaps, who, errs) {
+  if (o.i18n == null) return;
+  if (typeof o.i18n !== 'object' || Array.isArray(o.i18n)) { errs.push(who + ' 的翻譯格式錯誤'); return; }
+  for (const [l, t] of Object.entries(o.i18n)) {
+    const wl = who + '（' + (LANG_NAME[l] || l) + '）';
+    if (l === 'en' || !LANGS.includes(l)) { errs.push(who + ' 有不支援的語言「' + l + '」'); continue; }
+    if (!t || typeof t !== 'object' || Array.isArray(t)) { errs.push(wl + ' 翻譯格式錯誤'); continue; }
+    for (const k of Object.keys(t)) {
+      if (k === 'captions' && nCaps >= 0) {
+        const c = t.captions;
+        if (!Array.isArray(c) || c.some(x => typeof x !== 'string' || x.length > 300 || /[\r\n]/.test(x))) errs.push(wl + ' 圖說要是單行文字（上限 300 字）');
+        else if (c.length > nCaps) errs.push(wl + ' 圖說比圖片多');
+      } else if (!(k in keys)) errs.push(wl + ' 有不認得的欄位「' + k + '」');
+      else if (typeof t[k] !== 'string' || t[k].length > keys[k]) errs.push(wl + ' 的' + k + '格式錯誤（上限 ' + keys[k] + ' 字）');
+    }
+  }
+}
+
 export function validatePins(pins) {
   const errs = [], seen = new Set();
   pins.forEach((p, i) => {
@@ -526,6 +605,7 @@ export function validatePins(pins) {
       if (imgs.some(x => typeof x !== 'string' || !x.trim())) errs.push(who + ' 有空白的圖片');
       else if (imgs.some(x => /^(data|blob|javascript):/i.test(x))) errs.push(who + ' 有圖片還沒上傳');
     }
+    checkI18n(p, { title: 200, description: 20000 }, -1, who, errs);
     if (p.sections != null) {
       if (!Array.isArray(p.sections)) errs.push(who + ' 的圖文段落格式錯誤');
       else {
@@ -540,6 +620,7 @@ export function validatePins(pins) {
           else if ((s.images || []).some(x => !pool.has(x))) errs.push(sw + ' 用了不在這件作品圖片裡的圖');
           if (s.captions != null && (!Array.isArray(s.captions) || s.captions.some(x => typeof x !== 'string' || x.length > 300 || /[\r\n]/.test(x)))) errs.push(sw + ' 圖說要是單行文字（上限 300 字）');
           else if ((s.captions || []).length > (s.images || []).length) errs.push(sw + ' 圖說比圖片多');
+          checkI18n(s, { heading: 200, body: 20000 }, (s.images || []).length, sw, errs);
         });
       }
     }

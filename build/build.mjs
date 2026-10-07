@@ -8,6 +8,7 @@
 // Run locally with: node build/build.mjs   (then serve _site/)
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
+import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { renderAll, fillPlaceholders, validate } from '../admin/render.js';
 
@@ -36,7 +37,9 @@ if (errs.length) { console.error('Content validation failed:\n- ' + errs.join('\
 await fs.rm(out, { recursive: true, force: true });
 await copyDir(root, out);
 
-const pages = renderAll(all);
+// ?v= on the root stylesheet link changes whenever style.css changes, so returning visitors get the new CSS.
+const v = createHash('sha256').update(await fs.readFile(path.join(root, 'style.css'))).digest('hex').slice(0, 10);
+const pages = renderAll(all, { v });
 for (const [rel, html] of Object.entries(pages)) {
   await fs.mkdir(path.dirname(path.join(out, rel)), { recursive: true });
   await fs.writeFile(path.join(out, rel), html);

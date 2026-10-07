@@ -5,6 +5,12 @@
       "title": "Chimera Haven — From Lefebvre to Lingnan Gardens",
       "slug": "chimera-haven",
       "description": "Space is not frozen once it is drawn; it is made by the people who use it.\n\nGuangzhou, China | Campus architecture | Nov–Dec 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Chimera Haven — 從列斐伯爾到嶺南園林",
+          "description": "空間不是畫完就定格，而是由使用它的人創造出來的。\n\n中國廣州｜校園建築｜2022 年 11–12 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
       "images": [
         "assets/board/chimera-haven/01-original-evolution.webp",
         "assets/board/chimera-haven/02-case-analysis-axonometric.webp",
@@ -12,7 +18,7 @@
         "assets/board/chimera-haven/04-moon-gate-courtyard.webp",
         "assets/board/chimera-haven/05-corridor-system-model.webp",
         "assets/board/chimera-haven/06-sectional-perspective.webp",
-        "assets/board/chimera-haven/07-section-vignettes.webp"
+        "assets/board/chimera-haven/08-section-vignettes-grid.webp"
       ],
       "sections": [
         {
@@ -23,7 +29,14 @@
           ],
           "captions": [
             "Original and Evolution — the same facade before and after use and planting."
-          ]
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "原始與演變——同一立面在使用與植栽前後的樣貌。"
+              ]
+            }
+          }
         },
         {
           "heading": "Problem",
@@ -33,7 +46,16 @@
           ],
           "captions": [
             "Case analysis — oversized 9000 mm corridors and an excessive plaza."
-          ]
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "「如畫」式的觀看方法把建築像一幅畫一樣定格，沒有留給人改變它的餘地。原有方案缺乏敘事與人的尺度，功能也難以辨識。",
+              "captions": [
+                "案例分析——過寬的 9000 mm 廊道與過大的廣場。"
+              ]
+            }
+          }
         },
         {
           "heading": "Research",
@@ -43,7 +65,16 @@
           ],
           "captions": [
             "Eight prototypes — stairs, holes, partition, aperture, sash window, foot path, uninhibited, framing."
-          ]
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "列斐伯爾的空間三元論——感知空間、構想空間與生活空間——重新界定了問題。以三種尺度研究嶺南園林的庭院，從中提煉出八種空間原型。",
+              "captions": [
+                "八種空間原型——階梯、孔洞、隔斷、開口、推拉窗、小徑、自由、框景。"
+              ]
+            }
+          }
         },
         {
           "heading": "Development",
@@ -55,7 +86,16 @@
           "captions": [
             "Moon-gate sketch and corridor model — folding the garden threshold.",
             ""
-          ]
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以工作模型測試空間的折疊如何改變空間給人的感受。量體之間的空隙逐漸發展成廊道系統，連結尺度更小、更細緻的空間。",
+              "captions": [
+                "月洞門草圖與廊道模型——折疊園林的門檻。"
+              ]
+            }
+          }
         },
         {
           "heading": "Outcome",
@@ -65,23 +105,45 @@
           ],
           "captions": [
             "Sectional view — the route from A to F through the building."
-          ]
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一條剖面上的路徑，標出自發活動可能發生的地方。隨著時間推移，使用與植栽改變了這棟建築。",
+              "captions": [
+                "剖面圖——穿過建築、從 A 到 F 的路徑。"
+              ]
+            }
+          }
         },
         {
           "heading": "",
           "body": "",
           "images": [
-            "assets/board/chimera-haven/07-section-vignettes.webp"
+            "assets/board/chimera-haven/08-section-vignettes-grid.webp"
           ],
           "captions": [
             "\"A Dream Stirs in the Garden\" — vignettes A–E, generation of spontaneity."
-          ]
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "「A Dream Stirs in the Garden」——A 至 E 場景，自發性的生成。"
+              ]
+            }
+          }
         },
         {
           "heading": "How I Teach This Method",
           "body": "1. Read a theory and use it to question a familiar design method.\n2. Survey precedents at several scales and extract spatial prototypes from them.\n3. Test the prototypes with working models, folding and refining the forms by hand.\n4. Verify the design with a section that traces how people move and gather, and with a before/after comparison of the space in use.",
           "images": [],
-          "captions": []
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 讀一套理論，用它來質疑一種熟悉的設計方法。\n2. 研究不同尺度的先例，並從中提煉空間原型。\n3. 用工作模型測試這些原型，以手作折疊、修整形體。\n4. 用一張追蹤人如何移動與聚集的剖面，以及空間使用前後的對照，來驗證設計。"
+            }
+          }
         }
       ],
       "visible": true,
