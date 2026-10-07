@@ -2,6 +2,22 @@
   "foot": "範例內容：封面為 Unsplash 佔位圖，內頁圖片取自 Wikimedia Commons（CC0／公有領域／CC BY／CC BY-SA，[來源與授權](https://github.com/b94501087/teaching-portfolio/blob/main/assets/board/CREDITS.md)），說明文字為範例。皆非本人作品，之後換成真實作品。",
   "pins": [
     {
+      "title": "Chimera Haven — From Lefebvre to Lingnan Gardens",
+      "slug": "chimera-haven",
+      "description": "Space is not frozen once it is drawn; it is made by the people who use it.\n\nGuangzhou, China | Campus architecture | Nov–Dec 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)\n\nProblem\nThe traditional \"picturesque viewing method\" treats architecture as a painting of space: once completed, it stays unchanged, leaving no room for human-driven transformation. The case analysis identified an imbalanced general layout, oversized corridors (9000 mm), a disproportionate scale of plaza and building mass, and a raw copy of traditional Lingnan elements. The result lacks spatial narrative and human scale, and its functions are hard to read.\n\nResearch\nThe project starts from Henri Lefebvre's triad of space: perceived (spatial practice), conceived (representations of space) and lived (representational space). It then studies Lingnan garden courtyards at three scales, small, medium and large, tracing how the relationship between courtyard and building shifts. From this it catalogues the Eight Small Features of Lingnan Gardens and extracts eight spatial prototypes: stairs, holes, partition, aperture, sash window, foot path, uninhibited and framing.\n\nDevelopment\nWorking models were used to test spatial folding, comparing ambiguous, floating and solid volumes to see how the shape and structure of a space change the way it feels. Spatial Folding Forms 1 and 2 explore connections across height differences. Through successive model refinement, the spaces between the volumes became a corridor system integrated with smaller, detailed spaces.\n\nOutcome\nThe sectional perspective \"A Dream Stirs in the Garden: Generation of spontaneity\" follows a route from A to F through courtyards, corridors and upper levels where spontaneous activity can take place; vignettes A–E show moments along the way. The Original / Evolution facade comparison shows the building transformed by use and planting.\n\nHow I Teach This Method\n1. Read a theory and use it to question a familiar design method.\n2. Survey precedents at several scales and extract spatial prototypes from them.\n3. Test the prototypes with working models, folding and refining the forms by hand.\n4. Verify the design with a section that traces how people move and gather, and with a before/after comparison of the space in use.",
+      "images": [
+        "assets/board/chimera-haven/01-original-evolution.webp",
+        "assets/board/chimera-haven/02-case-analysis-axonometric.webp",
+        "assets/board/chimera-haven/03-spatial-prototypes.webp",
+        "assets/board/chimera-haven/04-moon-gate-courtyard.webp",
+        "assets/board/chimera-haven/05-corridor-system-model.webp",
+        "assets/board/chimera-haven/06-sectional-perspective.webp",
+        "assets/board/chimera-haven/07-section-vignettes.webp"
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
       "title": "Studio model",
       "slug": "studio-model",
       "description": "【範例文字，待替換】\n以實體模型推敲量體與屋頂的比例關係，先用卡紙快速做出幾個方案，再挑一個做成較精細的版本。立面開口的節奏和屋頂斜面在模型上比在圖面上更容易判斷。\nStudy model: massing and roof proportions tested in card before refining one option.",
