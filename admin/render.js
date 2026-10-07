@@ -142,26 +142,74 @@ export function paragraphs(text) {
     .map(x => '<p>' + esc(x).replace(/\n/g, '<br>\n') + '</p>\n').join('');
 }
 
+// Optional interleaved layout: pin.sections = [{ heading, body, images: [paths from pin.images], captions: [one line each] }].
+// A section with text + images alternates image-left/text-right, then text-left/image-right (stacked on phones);
+// images only = full width; text only = a plain text block. One caption for several images = a shared caption.
+// Images of the pin that no section uses still appear in the plain gallery after the sections.
+export function pinSections(pin) {
+  const pool = new Set(pinImages(pin));
+  return (Array.isArray(pin.sections) ? pin.sections : []).filter(s => s && typeof s === 'object').map(s => {
+    const imgs = [], caps = [];
+    (Array.isArray(s.images) ? s.images : []).forEach((src, k) => {
+      if (pool.has(src)) { imgs.push(src); caps.push(String((Array.isArray(s.captions) && s.captions[k]) || '').trim()); }
+    });
+    return { heading: String(s.heading || '').trim(), body: String(s.body || ''), images: imgs, captions: caps };
+  }).filter(s => s.heading || s.body.trim() || s.images.length);
+}
+
+function galleryImg(src, alt, lazy) {
+  const u = esc(assetUrl(src, 2));
+  return '<a href="' + u + '"><img src="' + u + '" alt="' + esc(alt) + '"' + (lazy ? ' loading="lazy"' : '') + '></a>';
+}
+
 export function renderDetail(site, board, pin, opts) {
   const n = site.nav;
   const imgs = pinImages(pin).slice(0, MAX_PIN_IMAGES);
+  const secs = pinSections(pin);
+  const alt = src => pin.title + (imgs.length > 1 ? '（' + (imgs.indexOf(src) + 1) + '／' + imgs.length + '）' : '');
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(pin.title) + ' — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/board/' + esc(pin.slug) + '/">\n' +
     '<link rel="stylesheet" href="../../style.css"></head><body class="detail">\n' +
     topBar(site, 2) +
-    '<main>\n' +
+    '<main' + (secs.length ? ' class="has-sections"' : '') + '>\n' +
     '  <p class="back"><a href="../">← ' + esc(n.board) + '</a></p>\n' +
     '  <h1>' + esc(pin.title) + '</h1>\n';
   const desc = paragraphs(pin.description);
   if (desc) h += '<div class="desc">\n' + desc + '</div>\n';
-  h += '<div class="gallery">\n';
-  imgs.forEach((src, i) => {
-    const u = esc(assetUrl(src, 2));
-    h += '  <a href="' + u + '"><img src="' + u + '" alt="' + esc(pin.title) + (imgs.length > 1 ? '（' + (i + 1) + '／' + imgs.length + '）' : '') + '"' + (i ? ' loading="lazy"' : '') + '></a>\n';
-  });
-  h += '</div>\n' +
-    '<p class="back end"><a href="../">← ' + esc(n.board) + '</a></p>\n' +
+  let rest = imgs, shown = 0;
+  if (secs.length) {
+    const used = new Set();
+    let flip = false;
+    for (const s of secs) {
+      const text = s.heading || s.body.trim();
+      const kind = text && s.images.length ? 'split' + (flip ? ' flip' : '') : s.images.length ? 'wide' : 'text';
+      if (text && s.images.length) flip = !flip;
+      h += '<section class="sec ' + kind + '">\n';
+      if (text) h += '<div class="sec-text">\n' + (s.heading ? '<h2>' + esc(s.heading) + '</h2>\n' : '') + paragraphs(s.body) + '</div>\n';
+      if (s.images.length) {
+        const caps = s.captions.filter(Boolean);
+        const shared = s.images.length > 1 && caps.length === 1 && s.captions[0];
+        const many = ' n' + Math.min(s.images.length, 3);
+        if (shared || s.images.length === 1) {
+          h += '<figure class="sec-media"><div class="sec-imgs' + many + '">' + s.images.map(src => galleryImg(src, alt(src), shown++ > 0)).join('') + '</div>' +
+            (caps[0] ? '<figcaption>' + esc(caps[0]) + '</figcaption>' : '') + '</figure>\n';
+        } else {
+          h += '<div class="sec-media"><div class="sec-imgs' + many + '">' + s.images.map((src, k) => '<figure>' + galleryImg(src, alt(src), shown++ > 0) +
+            (s.captions[k] ? '<figcaption>' + esc(s.captions[k]) + '</figcaption>' : '') + '</figure>').join('') + '</div></div>\n';
+        }
+        s.images.forEach(x => used.add(x));
+      }
+      h += '</section>\n';
+    }
+    rest = imgs.filter(x => !used.has(x));
+  }
+  if (rest.length || !secs.length) {
+    h += '<div class="gallery">\n';
+    rest.forEach(src => { h += '  ' + galleryImg(src, alt(src), shown++ > 0) + '\n'; });
+    h += '</div>\n';
+  }
+  h += '<p class="back end"><a href="../">← ' + esc(n.board) + '</a></p>\n' +
     '</main>\n</body></html>\n';
   return h;
 }
@@ -477,6 +525,23 @@ export function validatePins(pins) {
       if (imgs.length > MAX_PIN_IMAGES) errs.push(who + ' 最多 ' + MAX_PIN_IMAGES + ' 張圖片（現在 ' + imgs.length + ' 張）');
       if (imgs.some(x => typeof x !== 'string' || !x.trim())) errs.push(who + ' 有空白的圖片');
       else if (imgs.some(x => /^(data|blob|javascript):/i.test(x))) errs.push(who + ' 有圖片還沒上傳');
+    }
+    if (p.sections != null) {
+      if (!Array.isArray(p.sections)) errs.push(who + ' 的圖文段落格式錯誤');
+      else {
+        if (p.sections.length > 30) errs.push(who + ' 最多 30 個圖文段落');
+        const pool = new Set(imgs || []);
+        p.sections.forEach((s, k) => {
+          const sw = who + ' 段落 ' + (k + 1);
+          if (!s || typeof s !== 'object') { errs.push(sw + ' 格式錯誤'); return; }
+          if (s.heading != null && (typeof s.heading !== 'string' || s.heading.length > 200)) errs.push(sw + ' 標題格式錯誤（上限 200 字）');
+          if (s.body != null && (typeof s.body !== 'string' || s.body.length > 20000)) errs.push(sw + ' 內文格式錯誤（上限 20000 字）');
+          if (s.images != null && (!Array.isArray(s.images) || s.images.some(x => typeof x !== 'string'))) errs.push(sw + ' 圖片格式錯誤');
+          else if ((s.images || []).some(x => !pool.has(x))) errs.push(sw + ' 用了不在這件作品圖片裡的圖');
+          if (s.captions != null && (!Array.isArray(s.captions) || s.captions.some(x => typeof x !== 'string' || x.length > 300 || /[\r\n]/.test(x)))) errs.push(sw + ' 圖說要是單行文字（上限 300 字）');
+          else if ((s.captions || []).length > (s.images || []).length) errs.push(sw + ' 圖說比圖片多');
+        });
+      }
     }
   });
   return errs;

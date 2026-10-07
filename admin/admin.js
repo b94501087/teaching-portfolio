@@ -164,7 +164,7 @@ function editBoard(b) {
   const file = el('input', { type: 'file', accept: 'image/jpeg,image/png,image/webp,image/gif', multiple: true, style: 'display:none', onchange: e => { newPin(b, e.target.files); e.target.value = ''; } });
   return [
     el('h2', {}, '項目'),
-    el('p', { class: 'hint' }, '每件作品在「項目」頁上是一張圖，點進去是它的內頁（標題、說明、最多 ' + MAX_PIN_IMAGES + ' 張圖）。拖曳或用 ↑↓ 排序（由左上往下排）。按「編輯內頁」改網址、說明和圖片。取消「顯示」會先藏起來（內頁也不發布），不會刪掉。'),
+    el('p', { class: 'hint' }, '每件作品在「項目」頁上是一張圖，點進去是它的內頁（標題、說明、最多 ' + MAX_PIN_IMAGES + ' 張圖，可選擇用圖文段落交錯排）。拖曳或用 ↑↓ 排序（由左上往下排）。按「編輯內頁」改網址、說明和圖片。取消「顯示」會先藏起來（內頁也不發布），不會刪掉。'),
     el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => file.click() }, '新增作品…'), file,
       el('span', { class: 'muted' }, '可一次選多張圖（第一張當封面）。共 ' + b.pins.length + ' 件，顯示 ' + b.pins.filter(p => p.visible !== false).length + ' 件')),
     ...rows,
@@ -200,7 +200,7 @@ function pinEditor(b, p, i) {
     el('div', { class: 'tbtn' },
       el('button', { type: 'button', class: 'small', title: '往前', disabled: k === 0, onclick: () => { move(imgs, k, k - 1); changed(true); } }, '←'),
       el('button', { type: 'button', class: 'small', title: '往後', disabled: k === imgs.length - 1, onclick: () => { move(imgs, k, k + 1); changed(true); } }, '→'),
-      el('button', { type: 'button', class: 'small', title: '移除這張', disabled: imgs.length === 1, onclick: () => { imgs.splice(k, 1); changed(true); } }, '×'))));
+      el('button', { type: 'button', class: 'small', title: '移除這張', disabled: imgs.length === 1, onclick: () => { imgs.splice(k, 1); dropFromSections(p, src); changed(true); } }, '×'))));
   return el('div', { class: 'pinedit' },
     el('label', { class: 'field' }, el('span', {}, '網址代稱'), slugIn, el('p', { class: 'hint' }, '內頁網址：', url, '。發布後最好不要再改，舊連結會失效。'), slugMsg),
     field('說明（選填）', p.description, v => { p.description = v; changed(); }, { multiline: true, rows: 6, hint: '純文字。空一行分段，換行會照樣顯示。留白就只顯示標題和圖片。' }),
@@ -209,7 +209,66 @@ function pinEditor(b, p, i) {
       el('div', { class: 'tiles' }, ...tiles),
       el('div', { class: 'addbar' },
         el('button', { type: 'button', disabled: full, onclick: () => file.click() }, '新增圖片…'), file,
-        el('span', { class: 'muted' }, full ? '已達 ' + MAX_PIN_IMAGES + ' 張上限，要換圖請先移除一張。' : '還可以加 ' + (MAX_PIN_IMAGES - imgs.length) + ' 張。原樣上傳，不裁切；單張 8 MB 以內。'))));
+        el('span', { class: 'muted' }, full ? '已達 ' + MAX_PIN_IMAGES + ' 張上限，要換圖請先移除一張。' : '還可以加 ' + (MAX_PIN_IMAGES - imgs.length) + ' 張。原樣上傳，不裁切；單張 8 MB 以內。'))),
+    sectionsEditor(p));
+}
+
+/* interleaved sections (optional): heading, text, images picked from the pin's own images, one caption per image */
+function dropFromSections(p, src) {
+  for (const s of Array.isArray(p.sections) ? p.sections : []) {
+    if (!s || !Array.isArray(s.images)) continue;
+    for (let k = s.images.length - 1; k >= 0; k--) if (s.images[k] === src) { s.images.splice(k, 1); if (Array.isArray(s.captions)) s.captions.splice(k, 1); }
+  }
+}
+function sectionsEditor(p) {
+  const secs = Array.isArray(p.sections) ? p.sections : [];
+  const pool = p.images;
+  const box = el('div', { class: 'field secs' },
+    el('span', {}, '圖文段落（選填，' + secs.length + ' 段）'),
+    el('p', { class: 'hint' }, '有段落時，內頁改成圖文交錯：上面的「說明」當導言放最前面；有字也有圖的段落一左一右交替（手機上字在上、圖在下）；只有圖的段落滿版；只有字的段落是純文字。圖片從這件作品的圖片裡選，跟上面共用 ' + MAX_PIN_IMAGES + ' 張上限。每張圖下面一行圖說；同一段有多張圖、只填第一個圖說，就當成整排共用的圖說。沒被段落用到的圖會排在最後。'));
+  secs.forEach((s, k) => {
+    if (!Array.isArray(s.images)) s.images = [];
+    if (!Array.isArray(s.captions)) s.captions = [];
+    while (s.captions.length < s.images.length) s.captions.push('');
+    const file = el('input', { type: 'file', accept: 'image/jpeg,image/png,image/webp,image/gif', multiple: true, style: 'display:none', onchange: async e => {
+      const items = await readImages(e.target.files, MAX_PIN_IMAGES - pool.length); e.target.value = '';
+      if (!items.length) return;
+      for (const x of items) { pool.push(x.url); s.images.push(x.url); s.captions.push(''); }
+      changed(true);
+    } });
+    const pick = el('div', { class: 'secpick' }, ...pool.map(src => {
+      const at = s.images.indexOf(src);
+      return el('button', { type: 'button', class: at >= 0 ? 'on' : null, title: at >= 0 ? '從這段拿掉' : '放進這段', onclick: () => {
+        if (at >= 0) { s.images.splice(at, 1); s.captions.splice(at, 1); } else { s.images.push(src); s.captions.push(''); }
+        changed(true);
+      } }, el('img', { src: thumbSrc(src), alt: '' }), at >= 0 ? el('span', {}, String(at + 1)) : null);
+    }));
+    const caps = s.images.map((src, j) => el('div', { class: 'seccap' },
+      el('img', { src: thumbSrc(src), alt: '' }),
+      el('input', { type: 'text', placeholder: j === 0 ? '圖說（一行）' : '圖說（留白 = 用第一個當共用圖說）', 'aria-label': '圖 ' + (j + 1) + ' 圖說', value: s.captions[j] || '', oninput: e => { s.captions[j] = e.target.value.replace(/[\r\n]+/g, ' '); changed(); } }),
+      el('button', { type: 'button', class: 'small', title: '往前', disabled: j === 0, onclick: () => { move(s.images, j, j - 1); move(s.captions, j, j - 1); changed(true); } }, '←'),
+      el('button', { type: 'button', class: 'small', title: '往後', disabled: j === s.images.length - 1, onclick: () => { move(s.images, j, j + 1); move(s.captions, j, j + 1); changed(true); } }, '→')));
+    box.append(el('div', { class: 'card sec' },
+      el('div', { class: 'head' }, el('h3', {}, '段落 ' + (k + 1) + (s.heading ? '：' + s.heading : '')),
+        el('div', { class: 'ctl' },
+          el('button', { type: 'button', class: 'small', title: '上移', disabled: k === 0, onclick: () => { move(secs, k, k - 1); changed(true); } }, '↑'),
+          el('button', { type: 'button', class: 'small', title: '下移', disabled: k === secs.length - 1, onclick: () => { move(secs, k, k + 1); changed(true); } }, '↓'),
+          el('button', { type: 'button', class: 'small', title: '刪除段落', onclick: () => {
+            if (!confirm('刪除段落 ' + (k + 1) + (s.heading ? '「' + s.heading + '」' : '') + '？（圖片還會留在這件作品裡）')) return;
+            secs.splice(k, 1); if (!secs.length) delete p.sections; changed(true);
+          } }, '刪除'))),
+      field('標題（可留白）', s.heading, v => { s.heading = v; changed(); }),
+      field('內文（可留白）', s.body, v => { s.body = v; changed(); }, { multiline: true, rows: 4, hint: '純文字。空一行分段，換行會照樣顯示。' }),
+      el('div', { class: 'secimgs' },
+        el('span', { class: 'muted' }, '這段的圖（點選放進／拿掉）：'), pick,
+        ...caps,
+        el('div', { class: 'addbar' }, el('button', { type: 'button', class: 'small', disabled: pool.length >= MAX_PIN_IMAGES, onclick: () => file.click() }, '上傳新圖到這段…'), file))));
+  });
+  box.append(el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => {
+    if (!Array.isArray(p.sections)) p.sections = [];
+    p.sections.push({ heading: '', body: '', images: [], captions: [] }); changed(true);
+  } }, '新增圖文段落')));
+  return box;
 }
 
 function thumbSrc(src) {
@@ -412,7 +471,11 @@ function confirmSave() {
   const d = dirtyFiles();
   // New images are still data: URLs here; they get uploaded during save, so check them as if uploaded.
   const check = clean(state.data);
-  for (const p of check.board.pins || []) if (Array.isArray(p.images)) p.images = p.images.map(x => (isPending(x) ? 'assets/pins/pending' : x));
+  const ph = x => (isPending(x) ? 'assets/pins/pending' : x);
+  for (const p of check.board.pins || []) {
+    if (Array.isArray(p.images)) p.images = p.images.map(ph);
+    for (const s of Array.isArray(p.sections) ? p.sections : []) if (s && Array.isArray(s.images)) s.images = s.images.map(ph);
+  }
   const errs = validate(check);
   if (errs.length) {
     updateSaveMsg([el('span', { class: 'err' }, '還不能儲存，請先修正：'), el('ul', {}, ...errs.map(x => el('li', { class: 'err' }, x)))]);
@@ -456,7 +519,10 @@ async function doSave() {
       batch.push({ src, blob, name: meta.name }); bytes += blob.size;
     }
     await flush();
-    for (const p of state.data.board.pins) if (Array.isArray(p.images)) p.images = p.images.map(x => done.get(x) || x);
+    for (const p of state.data.board.pins) {
+      if (Array.isArray(p.images)) p.images = p.images.map(x => done.get(x) || x);
+      for (const s of Array.isArray(p.sections) ? p.sections : []) if (s && Array.isArray(s.images)) s.images = s.images.map(x => done.get(x) || x);
+    }
     for (const k of done.keys()) pending.delete(k);
     // 2) commit changed JSON files one by one (Contents API, sequential to avoid conflicts)
     const commits = [];
@@ -501,7 +567,14 @@ function downloadLinks(names) {
   const box = el('span', { class: 'dl' });
   for (const n of names) {
     let data = clean(state.data[n]);
-    if (n === 'board') data.pins = data.pins.map(p => Object.assign(p, { images: pinImages(p).filter(x => !isPending(x)) })).filter(p => p.images.length);
+    if (n === 'board') data.pins = data.pins.map(p => {
+      if (Array.isArray(p.sections)) for (const s of p.sections) if (s && Array.isArray(s.images)) {
+        const keep = s.images.map(x => !isPending(x));
+        if (Array.isArray(s.captions)) s.captions = s.captions.filter((c, k) => keep[k] !== false);
+        s.images = s.images.filter((x, k) => keep[k]);
+      }
+      return Object.assign(p, { images: pinImages(p).filter(x => !isPending(x)) });
+    }).filter(p => p.images.length);
     const url = URL.createObjectURL(new Blob([JSON.stringify(data, null, 2) + '\n'], { type: 'application/json' }));
     box.append(el('a', { href: url, download: n + '.json' }, el('button', { type: 'button', tabindex: '-1' }, '下載 ' + n + '.json')));
   }
