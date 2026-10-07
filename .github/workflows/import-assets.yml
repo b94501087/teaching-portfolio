@@ -1,0 +1,53 @@
+# Import binary assets (e.g. project images) that cannot be committed through the text-only API tools.
+# The files, their sha256 and byte sizes are listed in a committed manifest (build/import/<name>.json);
+# the bytes are downloaded from a temporary URL given at dispatch time and rejected unless every hash
+# matches. Commits the files to main, then redeploys Pages.
+name: Import assets
+on:
+  workflow_dispatch:
+    inputs:
+      manifest:
+        description: 'Manifest file name under build/import/ (e.g. chimera-haven.json)'
+        required: true
+      base_url:
+        description: 'Temporary https base URL serving the files named in the manifest'
+        required: true
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: assets
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Download and verify
+        env:
+          MANIFEST: ${{ inputs.manifest }}
+          BASE_URL: ${{ inputs.base_url }}
+        run: python3 build/import/fetch.py "build/import/$MANIFEST" "$BASE_URL"
+      - name: Commit
+        env:
+          MANIFEST: ${{ inputs.manifest }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -q -m "Imported assets from build/import/$MANIFEST [import-assets.yml]"
+          ok=0
+          for i in 1 2 3; do
+            if git pull -q --rebase origin main && git push -q origin HEAD:main; then ok=1; break; fi
+            git rebase --abort 2>/dev/null || true; sleep 5
+          done
+          if [ "$ok" != 1 ]; then echo "::error::push failed"; exit 1; fi
+          echo "COMMITTED=1" >> "$GITHUB_ENV"
+      - name: Redeploy Pages (pushes made with GITHUB_TOKEN do not trigger workflows)
+        if: env.COMMITTED == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main

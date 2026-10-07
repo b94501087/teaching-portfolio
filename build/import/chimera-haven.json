@@ -1,0 +1,49 @@
+{
+  "project": "Chimera Haven",
+  "dest": "assets/board/chimera-haven",
+  "note": "Crops (PIL, long side <= 2000px, WebP q88) from the six Chimera Haven portfolio pages p01–p06; p01 not used.",
+  "files": [
+    {
+      "name": "01-original-evolution.webp",
+      "sha256": "3ca372707cdacd08a1cc09fd696a87709bbfb86b7ba76d89925f485abb3aabb9",
+      "bytes": 576670,
+      "from": "p06 — Original / Evolution facade comparison (whole image)"
+    },
+    {
+      "name": "02-case-analysis-axonometric.webp",
+      "sha256": "612b581c7fcfadd50a209caf5077f7226df9bf1aedf12f1487e0e981860783b1",
+      "bytes": 104600,
+      "from": "p04 — Case Analysis exploded axonometric (central drawing only)"
+    },
+    {
+      "name": "03-spatial-prototypes.webp",
+      "sha256": "23b224acc278f25d74cd364194a6afbe5d159d898b2e4c4bfd43c8a218f99740",
+      "bytes": 65846,
+      "from": "p02 — eight spatial prototype sketches (Stairs … Framing)"
+    },
+    {
+      "name": "04-moon-gate-courtyard.webp",
+      "sha256": "dbb200e97986b96722e35d9b7e1e7ed97472e9b0a3357c2d804b421b10cf76d5",
+      "bytes": 171466,
+      "from": "p03 — courtyard concept sketch through a moon gate (caption removed)"
+    },
+    {
+      "name": "05-corridor-system-model.webp",
+      "sha256": "688e387a93bbbcfe4be084f44c44f4268e4381677f144155a099a48c96b467f1",
+      "bytes": 129846,
+      "from": "p02 — Model refinement, corridor system (annotated model photo)"
+    },
+    {
+      "name": "06-sectional-perspective.webp",
+      "sha256": "3dd0310e3f4eb12edba4d4d18c5115f7ddd668d6744fecc099cc5c27e1a765d3",
+      "bytes": 382606,
+      "from": "p05 — sectional perspective with route A–F"
+    },
+    {
+      "name": "07-section-vignettes.webp",
+      "sha256": "1a2188bb566a5da4ad7033921123ce72ffeb6f39502a54ae8a51834a2736637c",
+      "bytes": 74482,
+      "from": "p05 — vignettes A–E (A Dream Stirs in the Garden)"
+    }
+  ]
+}
