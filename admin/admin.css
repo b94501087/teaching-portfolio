@@ -76,6 +76,18 @@ button.small.on{border-color:#222;color:#222}
 .tile.cover .cap{color:#222}
 .tile .tbtn{display:flex;gap:3px}
 .tile .tbtn button{padding:0 5px}
+.secs .card.sec{margin-top:6px}
+.secimgs{padding:8px 0 0}
+.secpick{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 8px}
+.secpick button{position:relative;padding:2px;border-color:#ddd;border-radius:4px;line-height:0}
+.secpick button:hover{background:transparent;border-color:#111}
+.secpick button.on{border-color:#222;border-width:2px;padding:1px}
+.secpick img{display:block;width:44px;height:44px;object-fit:cover;border-radius:3px;background:#f0f0f0}
+.secpick button:not(.on) img{opacity:.45}
+.secpick span{position:absolute;top:2px;left:2px;background:#222;color:#fff;font-size:10px;line-height:14px;padding:0 4px;border-radius:3px}
+.seccap{display:flex;gap:6px;align-items:center;margin:4px 0}
+.seccap img{width:36px;height:36px;object-fit:cover;border-radius:3px;background:#f0f0f0;flex-shrink:0}
+.seccap input{flex:1;min-width:0}
 @media(max-width:900px){
   .layout{flex-direction:column}
   .editor{width:100%;border-right:0}

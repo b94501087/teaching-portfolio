@@ -4,7 +4,7 @@
     {
       "title": "Chimera Haven — From Lefebvre to Lingnan Gardens",
       "slug": "chimera-haven",
-      "description": "Space is not frozen once it is drawn; it is made by the people who use it.\n\nGuangzhou, China | Campus architecture | Nov–Dec 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)\n\nProblem\nThe traditional \"picturesque viewing method\" treats architecture as a painting of space: once completed, it stays unchanged, leaving no room for human-driven transformation. The case analysis identified an imbalanced general layout, oversized corridors (9000 mm), a disproportionate scale of plaza and building mass, and a raw copy of traditional Lingnan elements. The result lacks spatial narrative and human scale, and its functions are hard to read.\n\nResearch\nThe project starts from Henri Lefebvre's triad of space: perceived (spatial practice), conceived (representations of space) and lived (representational space). It then studies Lingnan garden courtyards at three scales, small, medium and large, tracing how the relationship between courtyard and building shifts. From this it catalogues the Eight Small Features of Lingnan Gardens and extracts eight spatial prototypes: stairs, holes, partition, aperture, sash window, foot path, uninhibited and framing.\n\nDevelopment\nWorking models were used to test spatial folding, comparing ambiguous, floating and solid volumes to see how the shape and structure of a space change the way it feels. Spatial Folding Forms 1 and 2 explore connections across height differences. Through successive model refinement, the spaces between the volumes became a corridor system integrated with smaller, detailed spaces.\n\nOutcome\nThe sectional perspective \"A Dream Stirs in the Garden: Generation of spontaneity\" follows a route from A to F through courtyards, corridors and upper levels where spontaneous activity can take place; vignettes A–E show moments along the way. The Original / Evolution facade comparison shows the building transformed by use and planting.\n\nHow I Teach This Method\n1. Read a theory and use it to question a familiar design method.\n2. Survey precedents at several scales and extract spatial prototypes from them.\n3. Test the prototypes with working models, folding and refining the forms by hand.\n4. Verify the design with a section that traces how people move and gather, and with a before/after comparison of the space in use.",
+      "description": "Space is not frozen once it is drawn; it is made by the people who use it.\n\nGuangzhou, China | Campus architecture | Nov–Dec 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
       "images": [
         "assets/board/chimera-haven/01-original-evolution.webp",
         "assets/board/chimera-haven/02-case-analysis-axonometric.webp",
@@ -13,6 +13,76 @@
         "assets/board/chimera-haven/05-corridor-system-model.webp",
         "assets/board/chimera-haven/06-sectional-perspective.webp",
         "assets/board/chimera-haven/07-section-vignettes.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/chimera-haven/01-original-evolution.webp"
+          ],
+          "captions": [
+            "Original and Evolution — the same facade before and after use and planting."
+          ]
+        },
+        {
+          "heading": "Problem",
+          "body": "The \"picturesque\" approach freezes architecture like a painting, leaving no room for people to change it. The existing scheme lacked narrative, human scale and readable function.",
+          "images": [
+            "assets/board/chimera-haven/02-case-analysis-axonometric.webp"
+          ],
+          "captions": [
+            "Case analysis — oversized 9000 mm corridors and an excessive plaza."
+          ]
+        },
+        {
+          "heading": "Research",
+          "body": "Lefebvre's triad of perceived, conceived and lived space reframed the question. Lingnan courtyards studied at three scales yielded eight spatial prototypes.",
+          "images": [
+            "assets/board/chimera-haven/03-spatial-prototypes.webp"
+          ],
+          "captions": [
+            "Eight prototypes — stairs, holes, partition, aperture, sash window, foot path, uninhibited, framing."
+          ]
+        },
+        {
+          "heading": "Development",
+          "body": "Working models tested how folding a space changes how it feels. The gaps between volumes grew into a corridor system with smaller, detailed spaces.",
+          "images": [
+            "assets/board/chimera-haven/04-moon-gate-courtyard.webp",
+            "assets/board/chimera-haven/05-corridor-system-model.webp"
+          ],
+          "captions": [
+            "Moon-gate sketch and corridor model — folding the garden threshold.",
+            ""
+          ]
+        },
+        {
+          "heading": "Outcome",
+          "body": "A sectional route traces where spontaneous activity can happen. Over time, use and planting transform the building.",
+          "images": [
+            "assets/board/chimera-haven/06-sectional-perspective.webp"
+          ],
+          "captions": [
+            "Sectional view — the route from A to F through the building."
+          ]
+        },
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/chimera-haven/07-section-vignettes.webp"
+          ],
+          "captions": [
+            "\"A Dream Stirs in the Garden\" — vignettes A–E, generation of spontaneity."
+          ]
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read a theory and use it to question a familiar design method.\n2. Survey precedents at several scales and extract spatial prototypes from them.\n3. Test the prototypes with working models, folding and refining the forms by hand.\n4. Verify the design with a section that traces how people move and gather, and with a before/after comparison of the space in use.",
+          "images": [],
+          "captions": []
+        }
       ],
       "visible": true,
       "big": false
