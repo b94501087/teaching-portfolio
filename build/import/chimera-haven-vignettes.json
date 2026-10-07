@@ -1,0 +1,13 @@
+{
+  "project": "Chimera Haven",
+  "dest": "assets/board/chimera-haven",
+  "note": "Vignettes A–E re-arranged 2+2+1 (PIL, WebP q88) from p05 at source resolution so they stay legible in the uniform 4:3 image box; replaces the 2000x255 strip 07 on the detail page.",
+  "files": [
+    {
+      "name": "08-section-vignettes-grid.webp",
+      "sha256": "76b3ad13ac478a87f7fc95ba2b5d6b30ee3af20b19f9b00c1a532e7bf0367a56",
+      "bytes": 103586,
+      "from": "p05 — vignettes A–E under 'A Dream Stirs in the Garden — Generation of spontaneity', tiles unchanged, arranged 2+2+1 on white"
+    }
+  ]
+}
