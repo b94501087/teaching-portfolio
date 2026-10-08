@@ -581,6 +581,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Italian Rice Restaurant — The Adaptive Reuse of an Italian Cascina",
+      "slug": "italian-rice-restaurant",
+      "description": "An abandoned farmhouse in a rice-growing area of northern Italy is kept rather than rebuilt and turned into a rice-themed agri-tourism restaurant where guests pick, plant and cook.\n\nNorthern Italy | Adaptive reuse / agri-tourism restaurant | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "義大利稻米餐廳——義大利傳統農莊（Cascina）的適應性再利用",
+          "description": "義大利北部稻作區的一座廢棄農舍不予重建而予以保留，改造成以稻米為主題的農業觀光餐廳，讓客人在這裡採摘、種植與烹調。\n\n義大利北部｜舊建築再利用／農業觀光餐廳｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/italian-rice-restaurant/01-axonometric.webp",
+        "assets/board/italian-rice-restaurant/02-original-building.webp",
+        "assets/board/italian-rice-restaurant/03-material-testing.webp",
+        "assets/board/italian-rice-restaurant/04-planting-schedule.webp",
+        "assets/board/italian-rice-restaurant/05-exploded-view.webp",
+        "assets/board/italian-rice-restaurant/06-plans-garden-roof.webp",
+        "assets/board/italian-rice-restaurant/07-hand-made-model.webp",
+        "assets/board/italian-rice-restaurant/08-spaces-1.webp",
+        "assets/board/italian-rice-restaurant/09-spaces-2.webp",
+        "assets/board/italian-rice-restaurant/10-sections.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/italian-rice-restaurant/01-axonometric.webp"
+          ],
+          "captions": [
+            "Axonometric of the restaurant — nine numbered spaces from the entrance (1) to the bar (9), linked by a winding elevated walkway."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "餐廳軸測圖——從入口（1）到酒吧（9）的九個編號空間，以蜿蜒的高架步道串連。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site, a traditional farmhouse in northern Italy surrounded by fields, has fallen into disuse and its houses are significantly deteriorated, yet it keeps the distinctive charm of Italian rural architecture. With agri-tourism in Italy surging to 3.2 million tourists and no large restaurant in the area, the farm is kept rather than reconstructed: the badly damaged horse stable of little historical value is demolished, and the other parts are designed according to the existing column network.",
+          "images": [
+            "assets/board/italian-rice-restaurant/02-original-building.webp"
+          ],
+          "captions": [
+            "Original building — ground floor plan and the buildings' location plan; the horse stable at the back is demolished, the rest follows the existing column network."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地是義大利北部一座被田野環繞的傳統農舍，早已荒廢、房舍嚴重損壞，卻仍保有義大利鄉村建築獨特的魅力。義大利的農業觀光人數已增至 320 萬，周邊又沒有大型餐廳，因此農舍不予重建而予以保留：損壞嚴重且歷史價值不高的後方馬廄拆除，其餘部分依既有柱網進行設計。",
+              "captions": [
+                "原有建築——一樓平面圖與建築配置圖；後方馬廄拆除，其餘部分沿用既有柱網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The area mainly grows rice, so the fields are reused for cultivation, and the rice husks and stalks left behind every year are tested as a material for indoor wall decoration. In nine steps the straw is cut, husked, stirred, soaked and mixed with pulp and adhesive before it is poured into molds at 20 % or 80 % rice husk, while a planting schedule for 17 crops sets when guests can seed, fertilize and harvest.",
+          "images": [
+            "assets/board/italian-rice-restaurant/03-material-testing.webp",
+            "assets/board/italian-rice-restaurant/04-planting-schedule.webp"
+          ],
+          "captions": [
+            "Material testing — nine steps from cutting rice straw to pouring into the mold, and six samples of 20 % or 80 % rice husk with pulp and adhesive.",
+            "Planting schedule — seed, fertilizer and harvest periods for 17 crops, from potato and basil to grape and filbert."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "這一帶以種植稻米為主，因此田地被重新用於耕作，每年留下的稻殼與稻稈也被拿來測試，作為室內牆面裝飾的材料。實驗分九個步驟：稻草切段、取下稻殼、攪拌、浸水，再與紙漿和黏著劑混合後倒模，比較稻殼佔 20% 與 80% 的配比；另有一份涵蓋 17 種作物的種植時程表，標出客人可以播種、施肥與收成的時間。",
+              "captions": [
+                "材料實驗——從稻草切段到倒模的九個步驟，以及稻殼佔 20% 或 80%、其餘為紙漿與黏著劑的六個樣本。",
+                "種植時程表——17 種作物（從馬鈴薯、羅勒到葡萄與榛果）的播種、施肥與收成期。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "An exploded view separates the eaves, the frame structure, a special-shaped platform and the stonewalling, and the outline of the winding corridor is generated by pouring béchamel, a sauce frequently used in the local cuisine of northern Italy, into the plan. Flipped roofs change their angle to adjust the air and light in the interior, and the hand-made model uses segment templates and rice ears, with clay carved by knife to emulate masonry and cut rice stalks assembled into a tiled roof.",
+          "images": [
+            "assets/board/italian-rice-restaurant/05-exploded-view.webp",
+            "assets/board/italian-rice-restaurant/06-plans-garden-roof.webp",
+            "assets/board/italian-rice-restaurant/07-hand-made-model.webp"
+          ],
+          "captions": [
+            "Exploded view — eaves, frame structure, special-shaped platform and stonewalling.",
+            "First- to third-floor plans with 18 numbered spaces and client and waiter routes, beside the picking garden, the shape generated by pouring sauce and the flipped roof at 0°, 45° and 90° for wind and sun.",
+            "Hand-made model — framework of the roof, flipped eaves, straw tiles, grass powder, window frames, roof details and wall surface materials, with an aerial view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "爆炸圖拆解出屋簷、構架、異形平台與石牆，蜿蜒迴廊的輪廓則是把北義料理常用的白醬（béchamel）倒進平面中生成的。翻轉屋頂可改變角度以調節室內的空氣與光線，手作模型則以分段模板與稻穗製作，用刀在黏土上刻出石材質感，並把稻稈切段拼成瓦屋頂。",
+              "captions": [
+                "爆炸圖——屋簷、構架、異形平台與石牆。",
+                "一至三樓平面圖，標示 18 個編號空間與客人、服務生動線；旁為採摘花園、以倒入醬汁生成的形狀，以及為風與日照可轉至 0°、45°、90° 的翻轉屋頂。",
+                "手作模型——屋頂構架、翻轉屋簷、稻草瓦、草粉、窗框、屋頂細部與牆面材料，以及模型鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Guests enter past a water pool that reflects the roof, pick plants in season, hand them to the chef in the DIY cooking area to help finish their own dishes and take a break at the country bar, which plays Italian country music. They can also plant their own seed and receive it as a dried flower on their next visit, while round holes in the second-floor platform look down onto the landscape of the first floor.",
+          "images": [
+            "assets/board/italian-rice-restaurant/08-spaces-1.webp",
+            "assets/board/italian-rice-restaurant/09-spaces-2.webp",
+            "assets/board/italian-rice-restaurant/10-sections.webp"
+          ],
+          "captions": [
+            "Entrance with a water pool reflecting the roof, indoor dining area, plant-your-own-seed area with its planting device, and outdoor dining area where guests pick seasonal basil from the gallery.",
+            "Bar, sightseeing platform, breeding area, outdoor dining area, second-floor round holes, DIY cooking area and four types of spatial experience: open, cooking, semi-indoor and planting space.",
+            "A-A', B-B' and C-C' sections with roof and structural details: waterproof board on a rotational axis, axles, beams, load-bearing columns and walls."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "客人經過倒映屋頂的水池進入餐廳，採摘當季植物，交給 DIY 烹飪區的廚師協助完成自己的料理，再到播放義大利鄉村音樂的鄉村酒吧休息。他們也能種下自己的種子，下次來訪時收到由它製成的乾燥花，二樓平台上的許多圓洞則讓人俯瞰一樓的景色。",
+              "captions": [
+                "入口（倒映屋頂的水池）、室內用餐區、附種植裝置的「種下自己的種子」區，以及可從廊道採摘當季羅勒的戶外用餐區。",
+                "酒吧、觀景平台、養殖區、戶外用餐區、二樓平台圓洞、DIY 烹飪區，以及四種空間體驗：開放、烹飪、半室內與種植空間。",
+                "A-A'、B-B'、C-C' 剖面與屋頂及結構細部：繞轉軸旋轉的防水板、軸、樑、承重柱與承重牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the existing building before designing: record what is worth keeping, here the farmhouse and its column network, and what can go.\n2. Let the place supply the program and the material: rice fields become a rice-themed restaurant, and leftover husks and straw are tested as wall panels.\n3. Generate form from a local story, like a corridor shaped by pouring sauce, and test roof angles against wind and sun.\n4. Script the guest's visit as a sequence of spaces (pick, plant, cook, dine, rest) and check it in plans, sections and a hand-made model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 設計之前先讀懂既有建築：記下值得保留的部分（這裡是農舍與它的柱網），以及可以拆除的部分。\n2. 讓場所提供機能與材料：稻田成為以稻米為主題的餐廳，剩下的稻殼與稻草則被測試做成牆板。\n3. 從在地的故事生成形體，例如以倒入醬汁塑造迴廊，並針對風與日照測試屋頂角度。\n4. 把客人的造訪安排成一連串空間（採摘、種植、烹調、用餐、休息），再以平面、剖面與手作模型加以檢驗。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
