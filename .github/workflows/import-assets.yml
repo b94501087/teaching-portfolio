@@ -1,7 +1,8 @@
 # Import binary assets (e.g. project images) that cannot be committed through the text-only API tools.
 # The files, their sha256 and byte sizes are listed in a committed manifest (build/import/<name>.json);
 # the bytes are downloaded from a temporary URL given at dispatch time and rejected unless every hash
-# matches. Commits the files to main, then redeploys Pages.
+# matches. An optional "delete" list removes retired files (assets/board/…, build/samples) in the same commit.
+# Commits the result to main, then redeploys Pages.
 name: Import assets
 on:
   workflow_dispatch:
@@ -36,7 +37,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets
+          git add -A assets build
           if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
           git commit -q -m "Imported assets from build/import/$MANIFEST [import-assets.yml]"
           ok=0

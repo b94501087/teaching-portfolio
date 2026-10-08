@@ -1,16 +1,14 @@
 # One-off asset generation (binary files cannot be committed through the CMS / API tools):
 #  - fonts: slice the official Taipei Sans TC Beta Regular + Bold into unicode-range WOFF2 chunks
-#  - board samples: fetch, resize and credit the sample images listed in build/samples/images.json
-# Runs only when its inputs change; commits the results to main, then redeploys Pages.
-name: Generate assets (fonts, sample images)
+# Runs only when the font inputs change (or by hand); commits the results to main, then redeploys Pages.
+# (The board sample images it used to fetch were retired on 2026-10-08.)
+name: Generate assets (fonts)
 on:
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - 'build/fonts/**'
-      - 'build/samples/**'
-      - '.github/workflows/assets.yml'
 permissions:
   contents: write
   actions: write
@@ -30,15 +28,13 @@ jobs:
       - run: pip install fonttools==4.65.0 brotli==1.1.0 pillow==11.3.0
       - name: Font chunks (official TTFs from JT Foundry, sha256-checked)
         run: python3 build/fonts/slice.py --download /tmp/ttf --out assets/fonts
-      - name: Board sample images
-        run: python3 build/samples/fetch.py
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/fonts assets/board
+          git add assets/fonts
           if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
-          git commit -q -m "Generated assets: Taipei Sans TC WOFF2 chunks, board sample images [assets.yml]"
+          git commit -q -m "Generated assets: Taipei Sans TC WOFF2 chunks [assets.yml]"
           ok=0
           for i in 1 2 3; do
             if git pull -q --rebase origin main && git push -q origin HEAD:main; then ok=1; break; fi

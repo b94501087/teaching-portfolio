@@ -1,5 +1,5 @@
 {
-  "foot": "範例內容：封面為 Unsplash 佔位圖，內頁圖片取自 Wikimedia Commons（CC0／公有領域／CC BY／CC BY-SA，[來源與授權](https://github.com/b94501087/teaching-portfolio/blob/main/assets/board/CREDITS.md)），說明文字為範例。皆非本人作品，之後換成真實作品。",
+  "foot": "",
   "pins": [
     {
       "title": "Chimera Haven — From Lefebvre to Lingnan Gardens",
@@ -213,14 +213,14 @@
             "assets/board/sz-hk-border/03-border-suturing.webp"
           ],
           "captions": [
-            "Border Suturing — a disappearing border: reciprocity, traffic hinges, ecological penetration and texture transition, with MIT CSAIL's autonomous boats as a precedent for water transport."
+            "Border Suturing — a disappearing border: reciprocity, traffic hinges, ecological penetration and texture transition."
           ],
           "i18n": {
             "zh-Hant": {
               "heading": "研究",
               "body": "「邊界縫合」以跨境互惠、交通樞紐、生態滲透與肌理過渡四項策略，把兩地縫合起來。深圳為香港居民提供負擔得起的生活，香港則為深圳居民提供工作機會與綠色資源。",
               "captions": [
-                "邊界縫合——消失中的邊界：互惠、交通樞紐、生態滲透與肌理過渡；以 MIT CSAIL 的自駕船作為水上交通的參考案例。"
+                "邊界縫合——消失中的邊界：互惠、交通樞紐、生態滲透與肌理過渡。"
               ]
             }
           }
@@ -284,174 +284,6 @@
             }
           }
         }
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Studio model",
-      "slug": "studio-model",
-      "description": "【範例文字，待替換】\n以實體模型推敲量體與屋頂的比例關係，先用卡紙快速做出幾個方案，再挑一個做成較精細的版本。立面開口的節奏和屋頂斜面在模型上比在圖面上更容易判斷。\nStudy model: massing and roof proportions tested in card before refining one option.",
-      "images": [
-        "https://images.unsplash.com/photo-1684261982738-faaa2f93a306?auto=format&fit=crop&w=600&h=800&q=80",
-        "assets/board/studio-model/02.webp",
-        "assets/board/studio-model/03.webp",
-        "assets/board/studio-model/04.webp",
-        "assets/board/studio-model/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Site model",
-      "slug": "site-model",
-      "description": "【範例文字，待替換】\n基地模型用來確認建築和周邊街廓、地形的尺度關係。底座以分層板材表現等高線，周邊建物只做白色量體，讓新設計的位置與高度一眼可讀。\nSite model: contours in layered board, context kept as plain white blocks.",
-      "images": [
-        "https://images.unsplash.com/photo-1730813379885-755a9997b458?auto=format&fit=crop&w=600&h=920&q=80",
-        "assets/board/site-model/02.webp",
-        "assets/board/site-model/03.webp",
-        "assets/board/site-model/04.webp",
-        "assets/board/site-model/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Section / elevation",
-      "slug": "section-elevation",
-      "description": "【範例文字，待替換】\n剖面與立面放在一起看，檢查樓層高度、樓梯和開窗是否在垂直方向上對齊。剖面先畫結構與樓板，再補上室內空間的使用方式。\nSection and elevation read together to check floor heights and openings.",
-      "images": [
-        "https://images.unsplash.com/photo-1717250265987-b5c58bb96b8a?auto=format&fit=crop&w=600&h=900&q=80",
-        "assets/board/section-elevation/02.webp",
-        "assets/board/section-elevation/03.webp",
-        "assets/board/section-elevation/04.webp",
-        "assets/board/section-elevation/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Blueprint",
-      "slug": "blueprint",
-      "description": "【範例文字，待替換】\n藍晒圖是施工文件的傳統形式。這一頁整理立面與平面的對應：每一道開口在平面上的位置，都要能在立面上找到同樣的軸線。\nBlueprint sheets: plan and elevation sharing the same grid.",
-      "images": [
-        "https://images.unsplash.com/photo-1721244654394-36a7bc2da288?auto=format&fit=crop&w=600&h=750&q=80",
-        "assets/board/blueprint/02.webp",
-        "assets/board/blueprint/03.webp",
-        "assets/board/blueprint/04.webp",
-        "assets/board/blueprint/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Plan / section",
-      "slug": "plan-section",
-      "description": "【範例文字，待替換】\n平面先決定動線與房間的先後順序，再用剖面確認每個空間的高度和採光。兩張圖反覆對照修改，直到動線和光線都說得通。\nPlan and section developed side by side.",
-      "images": [
-        "https://images.unsplash.com/photo-1717250266254-ae1611936b7d?auto=format&fit=crop&w=600&h=820&q=80",
-        "assets/board/plan-section/02.webp",
-        "assets/board/plan-section/03.webp",
-        "assets/board/plan-section/04.webp",
-        "assets/board/plan-section/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Elevation sheet",
-      "slug": "elevation-sheet",
-      "description": "【範例文字，待替換】\n立面圖整理材料分割、開窗比例和屋頂線條。先用細線畫出輔助格線，再決定每一扇窗的寬高，讓整面牆有一致的節奏。\nElevation sheet: material joints and window proportions on a common grid.",
-      "images": [
-        "https://images.unsplash.com/photo-1721244654392-9c912a6eb236?auto=format&fit=crop&w=600&h=760&q=80",
-        "assets/board/elevation-sheet/02.webp",
-        "assets/board/elevation-sheet/03.webp",
-        "assets/board/elevation-sheet/04.webp",
-        "assets/board/elevation-sheet/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Drawing set",
-      "slug": "drawing-set",
-      "description": "【範例文字，待替換】\n一套圖從配置、平面、剖面到細部，彼此的編號與索引要互相對得上。這一頁示範圖面之間如何用索引符號串起來。\nDrawing set: how sheets reference one another.",
-      "images": [
-        "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=600&h=700&q=80",
-        "assets/board/drawing-set/02.webp",
-        "assets/board/drawing-set/03.webp",
-        "assets/board/drawing-set/04.webp",
-        "assets/board/drawing-set/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Desk drafting",
-      "slug": "desk-drafting",
-      "description": "【範例文字，待替換】\n手繪製圖仍是思考的工具：用比例尺、平行尺和三角板在描圖紙上一層層疊加修改，比直接上電腦更容易看到方案的演變。\nHand drafting on trace, layering revisions over earlier drawings.",
-      "images": [
-        "https://images.unsplash.com/photo-1503387837-b154d5074bd2?auto=format&fit=crop&w=600&h=880&q=80",
-        "assets/board/desk-drafting/02.webp",
-        "assets/board/desk-drafting/03.webp",
-        "assets/board/desk-drafting/04.webp",
-        "assets/board/desk-drafting/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Plan on desk",
-      "slug": "plan-on-desk",
-      "description": "【範例文字，待替換】\n平面圖攤在桌上，用鉛筆直接在圖上標註修改：牆的位置、門的開向、家具的尺寸。討論後再整理回正式圖面。\nMarked-up plans: revisions sketched directly on the print.",
-      "images": [
-        "https://images.unsplash.com/photo-1698846296220-e44d9d4b9100?auto=format&fit=crop&w=600&h=860&q=80",
-        "assets/board/plan-on-desk/02.webp",
-        "assets/board/plan-on-desk/03.webp",
-        "assets/board/plan-on-desk/04.webp",
-        "assets/board/plan-on-desk/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Studio desk",
-      "slug": "studio-desk",
-      "description": "【範例文字，待替換】\n工作桌上的工具與材料：切割墊、美工刀、膠帶和模型材料。做模型前先備好材料與工具，比例和接合方式先在草圖上想清楚。\nStudio desk: tools and materials for model making.",
-      "images": [
-        "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?auto=format&fit=crop&w=600&h=780&q=80",
-        "assets/board/studio-desk/02.webp",
-        "assets/board/studio-desk/03.webp",
-        "assets/board/studio-desk/04.webp",
-        "assets/board/studio-desk/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Desk notes",
-      "slug": "desk-notes",
-      "description": "【範例文字，待替換】\n筆記和草圖記錄每一次討論的重點與待辦。把想法先寫下來、畫下來，再決定哪些值得發展成正式的圖面或模型。\nNotes and sketches from desk reviews.",
-      "images": [
-        "https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=600&h=720&q=80",
-        "assets/board/desk-notes/02.webp",
-        "assets/board/desk-notes/03.webp",
-        "assets/board/desk-notes/04.webp",
-        "assets/board/desk-notes/05.webp"
-      ],
-      "visible": true,
-      "big": false
-    },
-    {
-      "title": "Pin-up wall",
-      "slug": "pin-up-wall",
-      "description": "【範例文字，待替換】\n評圖牆把整套圖和模型照片並排釘起來，從遠處一次看完整個方案。評圖後依照回饋重新排列、補圖，再進行下一輪修改。\nPin-up wall: the whole project on one wall for review.",
-      "images": [
-        "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=600&h=840&q=80",
-        "assets/board/pin-up-wall/02.webp",
-        "assets/board/pin-up-wall/03.webp",
-        "assets/board/pin-up-wall/04.webp",
-        "assets/board/pin-up-wall/05.webp"
       ],
       "visible": true,
       "big": false

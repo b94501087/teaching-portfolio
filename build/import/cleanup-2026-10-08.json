@@ -1,0 +1,40 @@
+{
+  "project": "Cleanup 2026-10-08: sample board items removed; sz-hk-border boards without third-party photos",
+  "dest": "assets/board/sz-hk-border",
+  "note": "Replaces 03/05/06 with versions whose third-party photos are removed (same file names; see sz-hk-border.json for details) and deletes the twelve sample projects’ images plus the sample-image fetcher.",
+  "files": [
+    {
+      "name": "03-border-suturing.webp",
+      "sha256": "f9b3ad14770aeb05f32be427d08463aa86149787b4a50fa00fbe7899c0af0f10",
+      "bytes": 153288,
+      "from": "b03 — Border Suturing strategy board, white margin trimmed; third-party photos removed by filling with the board background: the “Online farm” tablet photo (with sofa figures) and its label, the MIT CSAIL autonomous-boat photo and its text block, and the small Water Rental photo inset with its leader line"
+    },
+    {
+      "name": "05-functional-partition-research-area.webp",
+      "sha256": "93899321f0aa964867c9b77114726c1ba631efd00d3d3659c870896320d12637",
+      "bytes": 441332,
+      "from": "b05 — functional partition, transformation modes, plan; white margin trimmed; the four round photo insets of the axonometric (Office Building, Commercial Building, Laboratory, Public Service) removed by trimming the panel edges to white (left strip x≤190, right strip x≥875, bottom-right notch x≥805/y≥1585 of 2465x1744); labels kept"
+    },
+    {
+      "name": "06-masterplan-land-use-building-units.webp",
+      "sha256": "569a24ddbddaf6b8b5a98c95d51094fe0f04bd2a94dadcbd9c9e9d0099336f2b",
+      "bytes": 443786,
+      "from": "b06 — numbered masterplan, land use, basic building units; white margin trimmed; the six round photo insets of the axonometric (New Huanggang Port, Office Building, Talent Apartment, Interdisciplinary Science Center, AI Experimental Center, Commercial District) removed by trimming the panel edges to white (x≤1687 and x≥2287 of 2465x1744); labels kept"
+    }
+  ],
+  "delete": [
+    "assets/board/studio-model",
+    "assets/board/site-model",
+    "assets/board/section-elevation",
+    "assets/board/blueprint",
+    "assets/board/plan-section",
+    "assets/board/elevation-sheet",
+    "assets/board/drawing-set",
+    "assets/board/desk-drafting",
+    "assets/board/plan-on-desk",
+    "assets/board/studio-desk",
+    "assets/board/desk-notes",
+    "assets/board/pin-up-wall",
+    "build/samples"
+  ]
+}

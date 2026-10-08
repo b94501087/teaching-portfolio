@@ -1,7 +1,7 @@
 {
   "project": "Revisiting Thirty Years Later — The Disappearing Shenzhen–Hong Kong Border (draft)",
   "dest": "assets/board/sz-hk-border",
-  "note": "Seven boards (eight images) as WebP q88 (PIL). b01 cropped to the hand-drawn plan only (no text panel, no third-party portrait or book cover); b02–b06 whole boards with near-white margins trimmed, max 2000 px wide. b07 split into two images to keep a person (identity unconfirmed) out — cropped, not painted.",
+  "note": "Seven boards (eight images) as WebP q88 (PIL). b01 cropped to the hand-drawn plan only (no text panel, no third-party portrait or book cover); b02–b06 whole boards with near-white margins trimmed, max 2000 px wide. Third-party photos inside b03/b05/b06 removed (2026-10-08). b07 split into two images to keep a person (identity unconfirmed) out — cropped, not painted.",
   "files": [
     {
       "name": "01-hand-drawn-plan.webp",
@@ -17,9 +17,9 @@
     },
     {
       "name": "03-border-suturing.webp",
-      "sha256": "8eeaf442c77ec20735a77760536f218c1c1ea4e283cb6bc1a76daef72a2c3493",
-      "bytes": 187384,
-      "from": "b03 — Border Suturing strategy board, white margin trimmed"
+      "sha256": "f9b3ad14770aeb05f32be427d08463aa86149787b4a50fa00fbe7899c0af0f10",
+      "bytes": 153288,
+      "from": "b03 — Border Suturing strategy board, white margin trimmed; third-party photos removed by filling with the board background: the “Online farm” tablet photo (with sofa figures) and its label, the MIT CSAIL autonomous-boat photo and its text block, and the small Water Rental photo inset with its leader line"
     },
     {
       "name": "04-masterplan-aerial-skyline.webp",
@@ -29,15 +29,15 @@
     },
     {
       "name": "05-functional-partition-research-area.webp",
-      "sha256": "de1cd2e173d25e3ddc153809c2a8bab77de414e5b3f60c70e17848b54a1c167a",
-      "bytes": 456054,
-      "from": "b05 — functional partition, transformation modes, plan; white margin trimmed"
+      "sha256": "93899321f0aa964867c9b77114726c1ba631efd00d3d3659c870896320d12637",
+      "bytes": 441332,
+      "from": "b05 — functional partition, transformation modes, plan; white margin trimmed; the four round photo insets of the axonometric (Office Building, Commercial Building, Laboratory, Public Service) removed by trimming the panel edges to white (left strip x≤190, right strip x≥875, bottom-right notch x≥805/y≥1585 of 2465x1744); labels kept"
     },
     {
       "name": "06-masterplan-land-use-building-units.webp",
-      "sha256": "8ba8ce1dedca2bd3fbe124fc96b6917cc0c4177c617b7d09a0cc4e3bac24e517",
-      "bytes": 463914,
-      "from": "b06 — numbered masterplan, land use, basic building units; white margin trimmed"
+      "sha256": "569a24ddbddaf6b8b5a98c95d51094fe0f04bd2a94dadcbd9c9e9d0099336f2b",
+      "bytes": 443786,
+      "from": "b06 — numbered masterplan, land use, basic building units; white margin trimmed; the six round photo insets of the axonometric (New Huanggang Port, Office Building, Talent Apartment, Interdisciplinary Science Center, AI Experimental Center, Commercial District) removed by trimming the panel edges to white (x≤1687 and x≥2287 of 2465x1744); labels kept"
     },
     {
       "name": "07-model-phases-pre-connectivity.webp",
