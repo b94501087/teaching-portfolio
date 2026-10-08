@@ -434,6 +434,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Curtain Call Reverie — An Attempt to Break Theatrical Ontology",
+      "slug": "curtain-call-reverie",
+      "description": "Rooted in the ontology of theater, the project proposes an integrated triadic model of actor, character and audience, explored through a series of continuous and ambiguous spaces.\n\nTheater / spatial translation | Mar–May 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "謝幕遐想——打破劇場本體論的嘗試",
+          "description": "以劇場本體論為根基，提出演員、角色與觀眾整合為一的三元模型，並透過一系列連續而曖昧的空間加以探索。\n\n劇場／空間轉譯｜2023 年 3–5 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/curtain-call-reverie/01-sectional-perspective.webp",
+        "assets/board/curtain-call-reverie/02-stages-attempt-1.webp",
+        "assets/board/curtain-call-reverie/03-attempt-2.webp",
+        "assets/board/curtain-call-reverie/04-form-studies.webp",
+        "assets/board/curtain-call-reverie/05-simplification-section.webp",
+        "assets/board/curtain-call-reverie/06-physical-model.webp",
+        "assets/board/curtain-call-reverie/07-hand-drawn-section.webp",
+        "assets/board/curtain-call-reverie/08-ground-floor-section.webp",
+        "assets/board/curtain-call-reverie/09-second-floor-plan.webp",
+        "assets/board/curtain-call-reverie/10-atmosphere-renders.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/curtain-call-reverie/01-sectional-perspective.webp"
+          ],
+          "captions": [
+            "Sectional perspective — continuous, diverse spaces where actors, audience members and passersby each find their own domain."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖透視圖——連續而多樣的空間，讓演員、觀眾與路人各自找到屬於自己的領域。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project challenges the traditional dualistic view that separates the actor and the character while overlooking their interconnectedness, and it critiques the exclusion of the audience as an integral part of the performance. Across five stages from pre-show to post-show, Attempt 1 juxtaposes the stage, backstage and audience space to blur their boundaries, and Attempt 2 tests the idea as two spatial modes with their circulation.",
+          "images": [
+            "assets/board/curtain-call-reverie/02-stages-attempt-1.webp",
+            "assets/board/curtain-call-reverie/03-attempt-2.webp"
+          ],
+          "captions": [
+            "Five stages (Pre-show, Opening, Performance, Intermission, Post-show) and Attempt 1: Juxtaposition — space and circulation of the stage, backstage and audience area.",
+            "Attempt 2: Spatial — Mode 1 and Mode 2, each with its circulation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個計畫挑戰傳統的二元觀點：它把演員與角色分開，卻忽略兩者之間的相互關聯；計畫同時批判把觀眾排除在演出之外的做法。在從開演前到散場後的五個階段裡，嘗試一將舞台、後台與觀眾空間並置以模糊彼此的邊界，嘗試二則以兩種空間模式及其動線檢驗這個想法。",
+              "captions": [
+                "五個階段（開演前、開場、演出、中場休息、散場後）與嘗試一：並置——舞台、後台與觀眾區的空間與動線。",
+                "嘗試二：空間——模式一與模式二，各附動線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Nine form studies give the character, the actor and the audience three qualities each: Organic, Flowing and Dense; Oppressive, Playful and Intricate; Fragmented, Bulky and Sculptural. Each study records the shares of character, actor and audience in it as percentages.",
+          "images": [
+            "assets/board/curtain-call-reverie/04-form-studies.webp"
+          ],
+          "captions": [
+            "Form studies — Character: Organic, Flowing, Dense; Actor: Oppressive, Playful, Intricate; Audience: Fragmented, Bulky, Sculptural; each with character, actor and audience percentages."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "九個形體研究為角色、演員與觀眾各賦予三種特質：有機、流動、密集；壓迫、俏皮、繁複；破碎、厚重、雕塑感。每個研究都以百分比標示角色、演員與觀眾在其中所佔的比例。",
+              "captions": [
+                "形體研究——角色：有機、流動、密集；演員：壓迫、俏皮、繁複；觀眾：破碎、厚重、雕塑感；各附角色、演員與觀眾的百分比。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The studies are simplified into three combined forms — Intricate + Dense, Oppressive + Bulky and Organic + Playful — and carried into a sectional technical drawing. The physical model uses plaster for one-piece casting and laser-cut paper to simulate the interplay of light and shadow created by overlapping curtains of different colors, and a hand-drawn section refines the design.",
+          "images": [
+            "assets/board/curtain-call-reverie/05-simplification-section.webp",
+            "assets/board/curtain-call-reverie/06-physical-model.webp",
+            "assets/board/curtain-call-reverie/07-hand-drawn-section.webp"
+          ],
+          "captions": [
+            "Form simplification (Intricate + Dense, Oppressive + Bulky, Organic + Playful) and sectional technical drawing.",
+            "Physical model — one-piece plaster casting with laser-cut paper simulating overlapping colored curtains.",
+            "Hand-drawn sectional refinement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "形體研究被簡化為三種組合——繁複＋密集、壓迫＋厚重、有機＋俏皮——並發展成剖面技術圖。實體模型以石膏一體澆鑄，再以雷射切割紙模擬不同顏色的帷幕層層交疊所產生的光影，手繪剖面則進一步推敲設計。",
+              "captions": [
+                "形體簡化（繁複＋密集、壓迫＋厚重、有機＋俏皮）與剖面技術圖。",
+                "實體模型——石膏一體澆鑄，以雷射切割紙模擬交疊的彩色帷幕。",
+                "手繪剖面推敲。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The fluid architectural form creates a series of continuous and diverse spaces, allowing actors, audience members and passersby to find their own domains within the building. Intermittent partitions and connections between spaces encourage deeper interactions and relationships among users of various identities.",
+          "images": [
+            "assets/board/curtain-call-reverie/08-ground-floor-section.webp",
+            "assets/board/curtain-call-reverie/09-second-floor-plan.webp",
+            "assets/board/curtain-call-reverie/10-atmosphere-renders.webp"
+          ],
+          "captions": [
+            "Ground floor plan and continuous section.",
+            "Second-floor plan.",
+            "Atmospheres — Ambiguous, Ethereal, Fluid, Tense, Vivid, Veiled, Diffuse, Layered."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "流動的建築形體創造出一系列連續而多樣的空間，讓演員、觀眾與路人都能在建築中找到屬於自己的領域。空間之間時斷時續的隔斷與連結，促使不同身分的使用者產生更深的互動與關係。",
+              "captions": [
+                "一樓平面圖與連續剖面。",
+                "二樓平面圖。",
+                "空間氛圍——曖昧、空靈、流動、緊張、鮮明、朦朧、漫散、層疊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a theory, here the ontology of theater, and name what it leaves out: the link between actor and character, and the audience.\n2. Map the relationships over time, from pre-show to post-show, and test them as diagrams of space and circulation.\n3. Give each identity formal qualities, study forms as mixes of the three, then simplify the strongest combinations into a section.\n4. Build a physical model to test light and material, refine the section by hand, and check the result in plans, sections and atmosphere renders.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一套理論出發（這裡是劇場本體論），指出它遺漏了什麼：演員與角色之間的關聯，以及觀眾。\n2. 依時間梳理三者的關係，從開演前到散場後，再以空間與動線的圖解加以檢驗。\n3. 為每種身分賦予形體特質，把形體當作三者的混合來研究，再將最有力的組合簡化成剖面。\n4. 製作實體模型測試光影與材料，以手繪推敲剖面，最後用平面、剖面與氛圍渲染圖檢驗成果。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
