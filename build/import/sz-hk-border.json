@@ -1,7 +1,7 @@
 {
   "project": "Revisiting Thirty Years Later — The Disappearing Shenzhen–Hong Kong Border (draft)",
   "dest": "assets/board/sz-hk-border",
-  "note": "Six boards as WebP q88 (PIL). b01 cropped to the hand-drawn plan only (no text panel, no third-party portrait or book cover); b02–b06 whole boards with near-white margins trimmed, max 2000 px wide.",
+  "note": "Seven boards (eight images) as WebP q88 (PIL). b01 cropped to the hand-drawn plan only (no text panel, no third-party portrait or book cover); b02–b06 whole boards with near-white margins trimmed, max 2000 px wide. b07 split into two images to keep a person (identity unconfirmed) out — cropped, not painted.",
   "files": [
     {
       "name": "01-hand-drawn-plan.webp",
@@ -38,6 +38,18 @@
       "sha256": "8ba8ce1dedca2bd3fbe124fc96b6917cc0c4177c617b7d09a0cc4e3bac24e517",
       "bytes": 463914,
       "from": "b06 — numbered masterplan, land use, basic building units; white margin trimmed"
+    },
+    {
+      "name": "07-model-phases-pre-connectivity.webp",
+      "sha256": "51bba8df447c99f0879836a65deaad941957259d19d980d242f958c795932535",
+      "bytes": 149584,
+      "from": "b07 (Model Display) — top half only: the four model phase diagrams (2x2, x 100–1236, y 115–632) and the Pre-Connectivity render (x 1377–2438, y 100–632) of 2480x1754, stacked on white; title and paragraph text excluded"
+    },
+    {
+      "name": "08-physical-model-close-ups.webp",
+      "sha256": "5951591cf38cbd01a021866b0645887df199cd0f5e73a43bebb8325f16178aa5",
+      "bytes": 245916,
+      "from": "b07 (Model Display) — bottom half: physical model photo and close-ups, crop x 34–2128, y 767–1754 of 2480x1754, resized to 2000 px wide; crop ends 22 px left of the person in the bottom-right corner (hair starts at x 2150), so no part of him is included"
     }
   ]
 }
