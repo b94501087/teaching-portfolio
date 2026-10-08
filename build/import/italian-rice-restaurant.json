@@ -1,0 +1,67 @@
+{
+  "project": "Italian Rice Restaurant — The Adaptive Reuse of an Italian Cascina",
+  "dest": "assets/board/italian-rice-restaurant",
+  "note": "Boards b02–b04 cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites are laid out on the boards' own paper colour. The portfolio cover b01 (student's name, cover photo) is not used at all; excluded by cropping or flat paper-colour fills: the title block with the board number, the round-inset site map, the Problem site photos, the Design idea collage (people, food, stock photos), the Vialone Nano rice photo and the Local dish food photos on b02; the photo of hands holding the roof model and the 'Using a knife' photo on b03; the material texture swatches and the two food photos in Shape generation on b04. No retouching.",
+  "files": [
+    {
+      "name": "01-axonometric.webp",
+      "sha256": "b228cc8f067f87baeb6c71ef67b2e78512c3563b09cfb4abd61c2cf355f6289b",
+      "bytes": 163614,
+      "from": "b03 — axonometric of the restaurant with its nine numbered spaces (cover), crop x 1330–3105, y 345–862 of 3621x1280; above the crop the floating roof held by hands is excluded; intruding neighbour pieces (Bar render and text, a red-framed Breeding area photo edge, the seed-icon box, two text fragments) are flat paper-colour fills"
+    },
+    {
+      "name": "02-original-building.webp",
+      "sha256": "4858c54c862a778da5e3b1f2c2ef0502b1cc24166716257cdf01cd5d9a92c918",
+      "bytes": 39632,
+      "from": "b02 — Original building information text, ground floor plan, closing text and buildings' location plan, crop x 1312–1790, y 40–662 of 3621x1280, 20 px paper margin; the Problem site photos below and the round-inset site map left are excluded"
+    },
+    {
+      "name": "03-material-testing.webp",
+      "sha256": "61fcf481f9245eb0b5efe75b3e2230c8911cb938f0907c6db1994f8a233c5165",
+      "bytes": 111326,
+      "from": "b02 — Material testing: text, nine-step experimental process and six result samples, crop x 1835–2590, y 20–1256, 10 px paper margin"
+    },
+    {
+      "name": "04-planting-schedule.webp",
+      "sha256": "3b714a402bf92a8f97ee7f56a531cb52f14d957bb62bf78962cd47362fb8fb5f",
+      "bytes": 59750,
+      "from": "b02 — Planting schedule (17 crops, seed / apply fertilizer / harvest), crop x 3022–3592, y 518–1252, 20 px paper margin; the Design idea collage above (people, food, stock photos) is excluded"
+    },
+    {
+      "name": "05-exploded-view.webp",
+      "sha256": "54974578c6e18b891af86f8184e920f34d4cc67a8f82273a836815f8bc58472e",
+      "bytes": 76066,
+      "from": "b04 — exploded view with its layer labels, crop x 296–858, y 18–1258 of 3621x1280, 10 px paper margin; the material texture swatch column is left of the crop, its five leader arrows, the start of the floor-plan legend and the end of the word 'tile' are paper-filled"
+    },
+    {
+      "name": "06-plans-garden-roof.webp",
+      "sha256": "1104a29e2d08c0bc9f87ccc9014527ec591ed677ecc30f9b5239d88c52e4cb47",
+      "bytes": 139762,
+      "from": "b04 — first, second and third floor plans with legends, Picking garden, Shape generation and Flipped roof column, crop x 832–1790, y 18–1258; the two food photos and the sauce text in Shape generation, its arrow, and the Flipped roof text line (overprinted by a stray label) are paper-filled"
+    },
+    {
+      "name": "07-hand-made-model.webp",
+      "sha256": "45161a732d0ed538624946feff4d6524ca5adcc8a48f6bb8b11ecc58e57603c2",
+      "bytes": 137078,
+      "from": "b03 — Hand-made text, eight model process photos regridded 2 + 3 + 3 (the 'Using a knife' photo with a hand is left out), and the aerial view of the model, from x 30–708, y 30–1212, on the board's paper colour; the photo of hands holding the roof model is excluded"
+    },
+    {
+      "name": "08-spaces-1.webp",
+      "sha256": "fa9fb5b83eb5347b33441fa0d8c3a9b6b7cdb0d90ed92f83bca9439ea9bfe340",
+      "bytes": 182854,
+      "from": "b03 — Entrance and Indoor dining area column (x 732–1265, y 30–1250) beside Plant your own seed with the planting device (x 1270–1890, y 730–1250) over Outdoor dining area 5 (x 1890–2440, y 862–1250), on the board's paper colour; a neighbouring panel corner and the cover axonometric's ground plane beside the text are paper-filled"
+    },
+    {
+      "name": "09-spaces-2.webp",
+      "sha256": "9b01cd5a158fcd0602502503ffc33d12ee417926c3d9fbb0cbf19c2712e0bd1f",
+      "bytes": 193558,
+      "from": "b03 — Bar, Sightseeing platform, Breeding area, Outdoor dining area 8, second-floor round holes, DIY cooking area and Four Types of Spatial Experiences, seven crops from x 2440–3612, y 20–1252, regrouped in three rows on the board's paper colour; a cut-off copy of the Breeding area heading and a cut-off word are paper-filled"
+    },
+    {
+      "name": "10-sections.webp",
+      "sha256": "e0c95021a76ce04278707b5df203fef27ba149f107fd077d042c45b9dd6a8e94",
+      "bytes": 212350,
+      "from": "b04 — A-A', B-B' and C-C' sectional views with structural details, crop x 1816–3621, y 0–1280 of 3621x1280"
+    }
+  ]
+}
