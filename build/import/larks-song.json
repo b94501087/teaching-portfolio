@@ -1,0 +1,67 @@
+{
+  "project": "The Lark's Song — Tempelhof's Echo of Hope",
+  "dest": "assets/board/larks-song",
+  "note": "Five boards b01–b05 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Excluded by cropping: the Historical Analysis photo collage (people), third-party photos (Node 1–4 thumbnails, Reichstag, refugee child, politician portrait) and the making-process photos showing a person's face; only the red heart tops in 04 were filled with background white.",
+  "files": [
+    {
+      "name": "01-main-perspective.webp",
+      "sha256": "8f329384ee50dcdf37ee1e46a1782f9ad35fd9137ed49d750cb83cd23eee9af8",
+      "bytes": 406674,
+      "from": "b05 — main perspective render of the tree canopies in front of Tempelhof (cover), full width below the three night renders: crop x 0–2480, y 684–1754 of 2480x1754, resized to 2000 px wide"
+    },
+    {
+      "name": "02-tempelhof-mapping.webp",
+      "sha256": "60da9c6b86a80e2bdba61eefda6baf9f74f1191c4f41a739398ce36093dd95db",
+      "bytes": 242580,
+      "from": "b01 — right half only: Mapping text, aerial of the Tempelhof field with SITE, legend and charts, crop x 745–1810, y 0–1280 of 1810x1280; title block and the Historical Analysis photo collage (people) excluded"
+    },
+    {
+      "name": "03-sunlight-analysis.webp",
+      "sha256": "e67e5a7e8f5240e0bfe45a808392c80ea62ea1b60615d6650e22c53764c1a3ba",
+      "bytes": 56146,
+      "from": "b01 — Sunlight Analysis map with its High/Low legend, crop x 0–742, y 785–1272 of 1810x1280; Historical Analysis collage above it excluded"
+    },
+    {
+      "name": "04-design-strategy.webp",
+      "sha256": "c4df2a16a9c2ba82d71e7bfe438e04b13e05bfe0923b0cb1b1e9579690edd801",
+      "bytes": 135286,
+      "from": "b02 — Design Strategy plan only, crop x 0–1555, y 0–938 of 1810x1280: Node 1–4 photo column (x from 1567) and the tripartite strip with the Reichstag, refugee and politician photos (title from y 944) excluded; the tops of its two red hearts (x 1184–1427, y 868–938) filled with the board's near-white"
+    },
+    {
+      "name": "05-activity-modules.webp",
+      "sha256": "7bf4b269f9bfef458224df05fc7c208d1a426ffff914d972aa730dd6319f5624",
+      "bytes": 179044,
+      "from": "b04 — Different type of modules: title, Diversity and text (x 45–905, y 70–628) stacked above the 27-module grid (x 925–2452, y 70–628) of 2465x1744, on white"
+    },
+    {
+      "name": "06-generation-rules-1-2.webp",
+      "sha256": "65fef1c068b514474aeb321f5eb27b7a2c83a6505a44b15f2fdf7ca44cfd4a9a",
+      "bytes": 65766,
+      "from": "b03 — Generation Logic title + Rules 1–2: title x 0–860, y 0–110 above x 0–900, y 180–800 of 2480x1754 (empty band under the title shortened)"
+    },
+    {
+      "name": "07-generation-rules-3-4.webp",
+      "sha256": "4e1530068396561bb04b3d71f1b0761c246195a2a280dd3a2ace26936770cfee",
+      "bytes": 81524,
+      "from": "b03 — Rules 3–4 and Complete Form Generation Display, crop x 0–880, y 805–1700 of 2480x1754"
+    },
+    {
+      "name": "08-tree-column-section.webp",
+      "sha256": "c9b90fb7c363a70e7ffccccadff355da5b91de43cb8bf9f04caefe173913e82e",
+      "bytes": 415982,
+      "from": "b03 — tree-column structural section with material callouts and joint details, crop x 908–2480, y 0–1754 of 2480x1754 (drawn figures only)"
+    },
+    {
+      "name": "09-woven-models.webp",
+      "sha256": "29f58cc1d52be025d876137be85f7f019c4d9c428ed7987647faf8ec47dd7f2c",
+      "bytes": 234806,
+      "from": "b04 — Making process text and the two woven corn-stalk model photos (one held by a hand only), crop x 822–2450, y 700–1708 of 2465x1744; the Step 1/2 making photos (incl. the ones showing a person's face) excluded"
+    },
+    {
+      "name": "10-activity-renders.webp",
+      "sha256": "ba2b4f7ee54b8a8e10350b3df00b9a9e692d97b0a76433c52b86828e17d5fc64",
+      "bytes": 236282,
+      "from": "b05 — the three night renders with their titles (Daily Leisure x 75–813, Outdoor Exhibitions x 886–1614, Family Activities x 1691–2407; y 20–639 of 2480x1754) as a 2 + 1 grid on white"
+    }
+  ]
+}
