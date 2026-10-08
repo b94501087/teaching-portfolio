@@ -165,7 +165,9 @@
         "assets/board/sz-hk-border/03-border-suturing.webp",
         "assets/board/sz-hk-border/04-masterplan-aerial-skyline.webp",
         "assets/board/sz-hk-border/05-functional-partition-research-area.webp",
-        "assets/board/sz-hk-border/06-masterplan-land-use-building-units.webp"
+        "assets/board/sz-hk-border/06-masterplan-land-use-building-units.webp",
+        "assets/board/sz-hk-border/07-model-phases-pre-connectivity.webp",
+        "assets/board/sz-hk-border/08-physical-model-close-ups.webp"
       ],
       "sections": [
         {
@@ -247,19 +249,25 @@
         },
         {
           "heading": "Outcome",
-          "body": "Gathering points and new transport — water taxis, cable cars and funicular towers — promote people's movement and social interaction. These connections help dissolve the border naturally.",
+          "body": "Gathering points and new transport — water taxis, cable cars and funicular towers — promote people's movement and social interaction. The model traces four phases, from traffic regulation to industrial spillover, as the port area grows into a central hub and these connections help dissolve the border naturally.",
           "images": [
-            "assets/board/sz-hk-border/04-masterplan-aerial-skyline.webp"
+            "assets/board/sz-hk-border/04-masterplan-aerial-skyline.webp",
+            "assets/board/sz-hk-border/07-model-phases-pre-connectivity.webp",
+            "assets/board/sz-hk-border/08-physical-model-close-ups.webp"
           ],
           "captions": [
-            "Masterplan aerial and skyline — Global S&T Center 137 m, International Financial Center 220 m, Industrial Finance Center 200 m, Port business center 150 m."
+            "Masterplan aerial and skyline — Global S&T Center 137 m, International Financial Center 220 m, Industrial Finance Center 200 m, Port business center 150 m.",
+            "Model phases: traffic regulation → port management → hub development → industrial spillover, with the Pre-Connectivity model.",
+            "Physical model and close-ups: the port area becomes a central hub, and corridor bridges, water taxis and cable cars aim to dissolve the border, encouraging spontaneous interaction between the two shores."
           ],
           "i18n": {
             "zh-Hant": {
               "heading": "成果",
-              "body": "聚集點與新的交通方式——水上計程船、纜車與纜車塔——促進人的移動與社會互動。這些連結有助於邊界自然地消融。",
+              "body": "聚集點與新的交通方式——水上計程船、纜車與纜車塔——促進人的移動與社會互動。模型呈現從交通調節到產業外溢的四個階段：口岸地區逐步成為中心樞紐，這些連結有助於邊界自然地消融。",
               "captions": [
-                "鳥瞰總平面與天際線——全球科技中心 137 m、國際金融中心 220 m、產業金融中心 200 m、口岸商務中心 150 m。"
+                "鳥瞰總平面與天際線——全球科技中心 137 m、國際金融中心 220 m、產業金融中心 200 m、口岸商務中心 150 m。",
+                "模型分期：交通調節 → 口岸管理 → 樞紐發展 → 產業外溢，以及「Pre-Connectivity」（連通前）模型。",
+                "實體模型與局部特寫：口岸地區成為中心樞紐，廊橋、水上計程船與纜車希望消融邊界，促進兩地之間自發的互動。"
               ]
             }
           }
