@@ -139,13 +139,14 @@ function editBoard(b) {
       changed();
     } });
     title.value = p.title || '';
-    const row = el('div', { class: 'row' + (p.visible === false ? ' hidden' : '') + (open ? ' open' : ''), draggable: 'true' },
+    const row = el('div', { class: 'row' + (p.visible === false ? ' hidden' : '') + (p.draft === true ? ' draft' : '') + (open ? ' open' : ''), draggable: 'true' },
       el('span', { class: 'handle', title: '拖曳排序' }, '≡'),
       el('img', { class: 'thumb', src: thumbSrc(imgs[0]), alt: '' }),
       el('div', { class: 'grow' },
         title,
         el('div', { class: 'ctl', style: 'margin-top:6px;gap:12px;flex-wrap:wrap' },
           el('label', { class: 'chk' }, el('input', { type: 'checkbox', checked: p.visible !== false, onchange: e => { p.visible = e.target.checked; changed(true); } }), '顯示'),
+          el('label', { class: 'chk', title: '內頁照樣發布、可用網址預覽，但不列在「項目」頁，也不讓搜尋引擎收錄' }, el('input', { type: 'checkbox', checked: p.draft === true, onchange: e => { if (e.target.checked) p.draft = true; else delete p.draft; changed(true); } }), '草稿'),
           el('label', { class: 'chk' }, el('input', { type: 'checkbox', checked: !!p.big, onchange: e => { p.big = e.target.checked; changed(); } }), '大圖（跨兩欄）'),
           el('span', { class: 'muted' }, imgs.length + ' 張圖'),
           imgs.some(isPending) ? el('span', { class: 'tag' }, '有新圖，儲存時上傳') : null)),
@@ -165,9 +166,9 @@ function editBoard(b) {
   const file = el('input', { type: 'file', accept: 'image/jpeg,image/png,image/webp,image/gif', multiple: true, style: 'display:none', onchange: e => { newPin(b, e.target.files); e.target.value = ''; } });
   return [
     el('h2', {}, '項目'),
-    el('p', { class: 'hint' }, '每件作品在「項目」頁上是一張圖，點進去是它的內頁（標題、說明、最多 ' + MAX_PIN_IMAGES + ' 張圖，可選擇加上圖文段落）。拖曳或用 ↑↓ 排序（由左上往下排）。按「編輯內頁」改網址、說明和圖片。取消「顯示」會先藏起來（內頁也不發布），不會刪掉。'),
+    el('p', { class: 'hint' }, '每件作品在「項目」頁上是一張圖，點進去是它的內頁（標題、說明、最多 ' + MAX_PIN_IMAGES + ' 張圖，可選擇加上圖文段落）。拖曳或用 ↑↓ 排序（由左上往下排）。按「編輯內頁」改網址、說明和圖片。取消「顯示」會先藏起來（內頁也不發布），不會刪掉。勾「草稿」則內頁照樣發布、可以用網址給人預覽，但不列在「項目」頁、搜尋引擎也不收錄。'),
     el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => file.click() }, '新增作品…'), file,
-      el('span', { class: 'muted' }, '可一次選多張圖（第一張當封面）。共 ' + b.pins.length + ' 件，顯示 ' + b.pins.filter(p => p.visible !== false).length + ' 件')),
+      el('span', { class: 'muted' }, '可一次選多張圖（第一張當封面）。共 ' + b.pins.length + ' 件，列出 ' + b.pins.filter(p => p.visible !== false && p.draft !== true).length + ' 件' + (b.pins.some(p => p.visible !== false && p.draft === true) ? '，草稿 ' + b.pins.filter(p => p.visible !== false && p.draft === true).length + ' 件' : ''))),
     ...rows,
     field('頁尾說明', b.foot, v => { b.foot = v; changed(); }, { multiline: true, rows: 2, hint: '留白就不顯示。' + MARKUP_HINT })
   ];
@@ -204,7 +205,7 @@ function pinEditor(b, p, i) {
       el('button', { type: 'button', class: 'small', title: '往後', disabled: k === imgs.length - 1, onclick: () => { move(imgs, k, k + 1); changed(true); } }, '→'),
       el('button', { type: 'button', class: 'small', title: '移除這張', disabled: imgs.length === 1, onclick: () => { imgs.splice(k, 1); dropFromSections(p, src); changed(true); } }, '×'))));
   return el('div', { class: 'pinedit' },
-    el('label', { class: 'field' }, el('span', {}, '網址代稱'), slugIn, el('p', { class: 'hint' }, '內頁網址：', url, '。發布後最好不要再改，舊連結會失效。'), slugMsg),
+    el('label', { class: 'field' }, el('span', {}, '網址代稱'), slugIn, el('p', { class: 'hint' }, '內頁網址：', url, '。發布後最好不要再改，舊連結會失效。', p.draft === true ? '目前是草稿：這個網址可以預覽，但「項目」頁不會列出，也不讓搜尋引擎收錄。' : ''), slugMsg),
     langPicker(),
     L !== 'en' ? field('標題' + LT, tget(p, L, 'title'), v => { tset(p, L, 'title', v); changed(); }, { placeholder: p.title || '', hint: '留白就顯示英文標題。「項目」頁上的卡片一律用英文標題。' }) : null,
     field('說明（選填）' + LT, tget(p, L, 'description'), v => { tset(p, L, 'description', v); changed(); }, { multiline: true, rows: 6, placeholder: L !== 'en' ? p.description || '' : '', hint: L !== 'en' ? '留白就顯示英文說明。純文字，空一行分段。' : '純文字。空一行分段，換行會照樣顯示。留白就只顯示標題和圖片。' }),

@@ -150,6 +150,138 @@
       "big": false
     },
     {
+      "title": "Revisiting Thirty Years Later — The Disappearing Shenzhen–Hong Kong Border",
+      "slug": "sz-hk-border",
+      "description": "The Shenzhen–Hong Kong border should dissolve through spontaneous human actions, not top-down planning.\n\nShenzhen, China | Urban planning | May–Jul 2024 | Student Project",
+      "i18n": {
+        "zh-Hant": {
+          "title": "三十年後再訪——逐漸消失的深港邊界",
+          "description": "深港邊界的消融，應該由人們自發的行動推動，而不是由上而下的規劃。\n\n中國深圳｜城市規劃｜2024 年 5–7 月｜學生作品"
+        }
+      },
+      "images": [
+        "assets/board/sz-hk-border/01-hand-drawn-plan.webp",
+        "assets/board/sz-hk-border/02-site-analysis.webp",
+        "assets/board/sz-hk-border/03-border-suturing.webp",
+        "assets/board/sz-hk-border/04-masterplan-aerial-skyline.webp",
+        "assets/board/sz-hk-border/05-functional-partition-research-area.webp",
+        "assets/board/sz-hk-border/06-masterplan-land-use-building-units.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sz-hk-border/01-hand-drawn-plan.webp"
+          ],
+          "captions": [
+            "Hand-drawn colored-pencil plan of the border river."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "邊界河道的手繪彩色鉛筆平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "China's urbanization has been overly government-driven, creating \"blank slate\" spaces that overlook local needs. Hong Kong's demand-driven model, in contrast, focuses on people's needs.",
+          "images": [
+            "assets/board/sz-hk-border/02-site-analysis.webp"
+          ],
+          "captions": [
+            "Site analysis — Great Bay Area inter-city links, development policy, status of land use, and changes in cross-border relations: past, present and future."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "中國的城市化過度由政府主導，造出忽略在地需求的「白紙」空間。相較之下，香港以需求為導向的模式，關注的是人的需要。",
+              "captions": [
+                "基地分析——大灣區城際關係、發展政策、土地使用現況，以及跨境關係的變化：過去、現在與未來。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "\"Border Suturing\" stitches the two sides together through cross-border reciprocity, traffic hinges, ecological penetration and texture transition. Shenzhen offers affordable living for Hong Kong residents, while Hong Kong provides job opportunities and green resources for Shenzhen residents.",
+          "images": [
+            "assets/board/sz-hk-border/03-border-suturing.webp"
+          ],
+          "captions": [
+            "Border Suturing — a disappearing border: reciprocity, traffic hinges, ecological penetration and texture transition, with MIT CSAIL's autonomous boats as a precedent for water transport."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "「邊界縫合」以跨境互惠、交通樞紐、生態滲透與肌理過渡四項策略，把兩地縫合起來。深圳為香港居民提供負擔得起的生活，香港則為深圳居民提供工作機會與綠色資源。",
+              "captions": [
+                "邊界縫合——消失中的邊界：互惠、交通樞紐、生態滲透與肌理過渡；以 MIT CSAIL 的自駕船作為水上交通的參考案例。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The site is divided into six functional zones, from a pilot industry zone to a collaborative innovation area. Transformation modes for the high-end research area and basic building units for the collaborative development area work out the blocks, with receding platforms, aerial corridors and roof gardens.",
+          "images": [
+            "assets/board/sz-hk-border/05-functional-partition-research-area.webp",
+            "assets/board/sz-hk-border/06-masterplan-land-use-building-units.webp"
+          ],
+          "captions": [
+            "Functional partition, three transformation modes of the high-end research area, and the area plan with major corridors, MIT water cabs and funicular towers.",
+            "Numbered masterplan (scale 0–750–1,500 m), land use, and four basic building units of the collaborative development area."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "基地分為六個功能分區，從先導產業區到協同創新區。高端研究區的改造模式與協同發展區的基本建築單元，以退台、空中廊道與屋頂花園推敲街廓。",
+              "captions": [
+                "功能分區、高端研究區的三種改造模式，以及標出主要廊道、MIT 水上計程艇與纜車塔的區域平面。",
+                "編號總平面圖（比例尺 0–750–1,500 m）、土地使用，以及協同發展區的四種基本建築單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Gathering points and new transport — water taxis, cable cars and funicular towers — promote people's movement and social interaction. These connections help dissolve the border naturally.",
+          "images": [
+            "assets/board/sz-hk-border/04-masterplan-aerial-skyline.webp"
+          ],
+          "captions": [
+            "Masterplan aerial and skyline — Global S&T Center 137 m, International Financial Center 220 m, Industrial Finance Center 200 m, Port business center 150 m."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "聚集點與新的交通方式——水上計程船、纜車與纜車塔——促進人的移動與社會互動。這些連結有助於邊界自然地消融。",
+              "captions": [
+                "鳥瞰總平面與天際線——全球科技中心 137 m、國際金融中心 220 m、產業金融中心 200 m、口岸商務中心 150 m。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read a text and use it to question a familiar planning approach.\n2. Analyze the site at several scales, from the region to land use, and trace how cross-border relations have changed over time.\n3. Turn the findings into a small set of strategies, then develop them into functional zones, transformation modes and building units.\n4. Check the whole plan in an aerial masterplan and a skyline.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 讀一份文本，用它來質疑一種熟悉的規劃方法。\n2. 從區域到土地使用，以不同尺度分析基地，並追溯跨境關係隨時間的變化。\n3. 把分析結果整理成幾項策略，再發展成功能分區、改造模式與建築單元。\n4. 以鳥瞰總平面與天際線檢驗整體規劃。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "draft": true,
+      "big": false
+    },
+    {
       "title": "Studio model",
       "slug": "studio-model",
       "description": "【範例文字，待替換】\n以實體模型推敲量體與屋頂的比例關係，先用卡紙快速做出幾個方案，再挑一個做成較精細的版本。立面開口的節奏和屋頂斜面在模型上比在圖面上更容易判斷。\nStudy model: massing and roof proportions tested in card before refining one option.",

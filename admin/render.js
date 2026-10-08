@@ -7,6 +7,8 @@
 
 // Output paths. The site root (https://yuchuntsai.com/) is a minimal landing page;
 // the pin board lives at /board/ and each visible pin gets a detail page at /board/<slug>/.
+// A pin with draft: true still gets its detail page (shareable preview URL, marked noindex) but is not
+// listed on /board/ (or anywhere else); visible: false hides it completely.
 export const PAGES = {
   landing: 'index.html',
   board: 'board/index.html',
@@ -115,10 +117,11 @@ function topBar(site, depth) {
 
 export const pinImages = p => (Array.isArray(p.images) ? p.images : []).filter(x => String(x || '').trim());
 export const visiblePins = board => (board.pins || []).filter(p => p.visible !== false);
+export const listedPins = board => visiblePins(board).filter(p => p.draft !== true);
 
 export function renderBoard(site, board, opts) {
   const n = site.nav;
-  const pins = visiblePins(board);
+  const pins = listedPins(board);
   const anyBig = pins.some(p => p.big);
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.board) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
@@ -223,7 +226,7 @@ export function renderDetail(site, board, pin, opts) {
   let h = (multi ? '<!doctype html><html lang="' + (forced || 'en') + '" data-lang="' + (forced || 'en') + '"><head>' : '<!doctype html><html lang="zh-Hant"><head>') +
     headExtra(opts) + '<meta charset="utf-8"><title>' + esc(pin.title) + ' — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
-    '<link rel="canonical" href="https://yuchuntsai.com/board/' + esc(pin.slug) + '/">\n' +
+    (pin.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '<link rel="canonical" href="https://yuchuntsai.com/board/' + esc(pin.slug) + '/">\n') +
     (multi ? (forced ? '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' : langHead(langs)) : '') +
     '<link rel="stylesheet" href="../../style.css' + cssV(opts) + '"></head><body class="detail">\n' +
     topBar(site, 2) +
@@ -596,6 +599,7 @@ export function validatePins(pins) {
     if (typeof p.slug !== 'string' || !SLUG_RE.test(p.slug) || p.slug.length > 60) errs.push(who + ' 的網址代稱只能用小寫英文、數字和 -（例如 studio-model）');
     else if (seen.has(p.slug)) errs.push(who + ' 的網址代稱「' + p.slug + '」重複了');
     else seen.add(p.slug);
+    if (p.draft != null && typeof p.draft !== 'boolean') errs.push(who + ' 的草稿設定格式錯誤');
     if (p.description != null && typeof p.description !== 'string') errs.push(who + ' 說明格式錯誤');
     else if (String(p.description || '').length > 20000) errs.push(who + ' 說明太長（上限 20000 字）');
     const imgs = Array.isArray(p.images) ? p.images : null;
