@@ -152,11 +152,11 @@
     {
       "title": "Revisiting Thirty Years Later — The Disappearing Shenzhen–Hong Kong Border",
       "slug": "sz-hk-border",
-      "description": "The Shenzhen–Hong Kong border should dissolve through spontaneous human actions, not top-down planning.\n\nShenzhen, China | Urban planning | May–Jul 2024 | Student Project",
+      "description": "The Shenzhen–Hong Kong border should dissolve through spontaneous human actions, not top-down planning.\n\nShenzhen, China | Urban planning | May–Jul 2024 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
       "i18n": {
         "zh-Hant": {
           "title": "三十年後再訪——逐漸消失的深港邊界",
-          "description": "深港邊界的消融，應該由人們自發的行動推動，而不是由上而下的規劃。\n\n中國深圳｜城市規劃｜2024 年 5–7 月｜學生作品"
+          "description": "深港邊界的消融，應該由人們自發的行動推動，而不是由上而下的規劃。\n\n中國深圳｜城市規劃｜2024 年 5–7 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
         }
       },
       "images": [
@@ -286,7 +286,6 @@
         }
       ],
       "visible": true,
-      "draft": true,
       "big": false
     },
     {
