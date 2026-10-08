@@ -1,0 +1,67 @@
+{
+  "project": "Marine Ecological Experience Space",
+  "dest": "assets/board/marine-ecological-experience-space",
+  "note": "Boards b01–b03 cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites are laid out on the boards' own background colour. Excluded by cropping or flat background-colour fills: the title row with the board number, the site-photo column, the typhoon damage photos, the interview photos of a local resident and visitors, and the coastal species photos and names on b01; the bleached-coral photo, the 'Abandoned fishing vessel' photo and the photo of two women on b02; the step-1 yacht photo, the hotel photo of step 2 and the beach photo with people of step 4 on b03. No retouching.",
+  "files": [
+    {
+      "name": "01-aerial.webp",
+      "sha256": "fa65fa8508411a3925a46e6946bb9d152eb0e9a48f4535ac4311612953faf9f5",
+      "bytes": 148480,
+      "from": "b03 — aerial render of the ring platforms on the sea (cover), crop x 0–1808, y 0–878 of 3621x1280"
+    },
+    {
+      "name": "02-site.webp",
+      "sha256": "0403bf231e888b657025620c4d24db9fd8c539978718b7e101e1939a38a62471",
+      "bytes": 226784,
+      "from": "b01 — Summarize text and site map with the China inset, Guishan / Xiangzhou ferry terminals and ship route, crop x 0–1478, y 134–1280; the title row with the board number above and the site-photo column and map legend right of the crop are excluded"
+    },
+    {
+      "name": "03-problems.webp",
+      "sha256": "9c2f29cc596b77411a75a21fc39313b7a67a4a5ac75575f7c308b8b7db075128",
+      "bytes": 69566,
+      "from": "b01 — Problems In This Island: typhoon prevention text, typhoon frequency map with its source line, visitor data charts, travel activity icons and the two interview quotes, six crops from x 1840–2462, y 36–1272, regrouped on the board's white with a 20 px margin; the typhoon damage photos and the photos of a local resident and visitors are excluded, a photo edge touching the first quote box is white-filled"
+    },
+    {
+      "name": "04-coastline-interactive.webp",
+      "sha256": "3cd96003003b0b2a32c3de12bc93bbfedef0c34085dc577115de5713f736ee36",
+      "bytes": 93952,
+      "from": "b01 — section A-A along the coastline (offshore / water front area / sand beach), crop x 2476–3600, y 442–592, over the Interactive format diagrams, crop x 2470–3608, y 606–1256, on white; the coastal species photos and names above the section are excluded"
+    },
+    {
+      "name": "05-design-strategy.webp",
+      "sha256": "b79210b7972bd97b4916842f533ca28cc76ec70675fa6fa3695af29d30d0735c",
+      "bytes": 131362,
+      "from": "b02 — Design Strategy column (function integration, multidimensional experiential form, artificial reef types), crop x 25–758, y 25–1235, 20 px white margin; the bleached-coral photo, the 'Abandoned fishing vessel' photo with its label and arrow, and the photo of two women with their two speech lines are white-filled"
+    },
+    {
+      "name": "06-master-plan.webp",
+      "sha256": "ead26b72966c6419275af6eb6e6ad2c081df487fcf69cb4f81a968f3ccd6340a",
+      "bytes": 198522,
+      "from": "b02 — master plan with the five platform labels and their render thumbnails, route and scale bar, crop x 762–1808, y 0–1280"
+    },
+    {
+      "name": "07-profile-map.webp",
+      "sha256": "eb62e9cdf6390a760e28a2b8e18d53ed489f00f4b9a120ff2e7933818ebf216b",
+      "bytes": 203824,
+      "from": "b02 — Profile Map: section render with flood / ordinary / ebb tide lines and two structural details, crop x 1812–3621, y 0–1280"
+    },
+    {
+      "name": "08-tides.webp",
+      "sha256": "1fdf4a9f8923bf7063a6c1bbbd103e7817f5a999ad8a3408208a32d9b548e3f3",
+      "bytes": 50402,
+      "from": "b03 — tide text with the tidal table and the three tide-time plans (9:00–12:00, 13:00–17:00, 18:00–20:00), four crops from x 55–1744, y 900–1248, regridded 2 x 2 on the board's grey"
+    },
+    {
+      "name": "09-visiting-1.webp",
+      "sha256": "88d92c510f1113ba0cf75fcf5748bfe64fe9008a4b89294a350b18835594c21a",
+      "bytes": 118456,
+      "from": "b03 — Visiting Process heading and steps 2–5, five crops from x 1846–3621, y 20–856, on the board's background colour; step 1 (yacht photo) is not used, the hotel photo behind step 2 and the beach photo beside step 4 are flat background-colour fills, as are pieces of neighbouring steps"
+    },
+    {
+      "name": "10-visiting-2.webp",
+      "sha256": "0ca25f6e7a98dcc1c3c37141985ad407c21f69d455503911c97fa9cf4e041775",
+      "bytes": 134020,
+      "from": "b03 — Visiting Process steps 6–9, four crops from x 1845–3621, y 425–1240, on the board's background colour; pieces of neighbouring steps (step numbers, a tide thumbnail edge) are flat background-colour fills"
+    }
+  ]
+}
