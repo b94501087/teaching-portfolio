@@ -287,6 +287,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "The Lark's Song — Tempelhof's Echo of Hope",
+      "slug": "larks-song",
+      "description": "A tripartite, reciprocal refugee-hosting program for Berlin's former Tempelhof Airport links the government, refugees and citizens.\n\nBerlin, Germany | Refugee hosting / parametric structure | Sep–Nov 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "雲雀之歌——滕珀爾霍夫的希望回聲",
+          "description": "為柏林的前滕珀爾霍夫機場提出三方互惠的難民安置計畫，串連政府、難民與市民。\n\n德國柏林｜難民安置／參數化結構｜2023 年 9–11 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/larks-song/01-main-perspective.webp",
+        "assets/board/larks-song/02-tempelhof-mapping.webp",
+        "assets/board/larks-song/03-sunlight-analysis.webp",
+        "assets/board/larks-song/04-design-strategy.webp",
+        "assets/board/larks-song/05-activity-modules.webp",
+        "assets/board/larks-song/06-generation-rules-1-2.webp",
+        "assets/board/larks-song/07-generation-rules-3-4.webp",
+        "assets/board/larks-song/08-tree-column-section.webp",
+        "assets/board/larks-song/09-woven-models.webp",
+        "assets/board/larks-song/10-activity-renders.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/larks-song/01-main-perspective.webp"
+          ],
+          "captions": [
+            "Main perspective — tree-column canopies in front of the Tempelhof building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "主透視圖——滕珀爾霍夫建築前的樹狀柱頂棚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Tempelhof, once one of Berlin's major airports, closed in 2008 and became a public space through the '100% Tempelhof' campaign. During the 2015 migrant crisis it housed 1,200 refugees as an emergency camp, and after the Russo-Ukrainian war refugee numbers surged, adding pressure to the site.",
+          "images": [
+            "assets/board/larks-song/02-tempelhof-mapping.webp",
+            "assets/board/larks-song/03-sunlight-analysis.webp"
+          ],
+          "captions": [
+            "Mapping — the former airfield with skylark sanctuaries, running tracks, picnic and dog walking areas; the terminal is marked SITE.",
+            "Sunlight analysis — average sunlight across the site, from high to low."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "滕珀爾霍夫曾是柏林的主要機場之一，2008 年關閉後，經由「100% Tempelhof」運動成為公共空間。2015 年移民危機期間，這裡作為緊急營地安置了 1,200 名難民；俄烏戰爭後難民人數激增，基地承受的壓力隨之加重。",
+              "captions": [
+                "基地測繪——昔日的機場場地，設有雲雀保護區、跑步道、野餐區與遛狗區；航廈標示為 SITE。",
+                "日照分析——基地的平均日照，由高到低。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The strategy routes travelers, students and refugees through the terminal, and a tripartite, reciprocal program has the government provide jobs, residence, vocational training and religious belief, refugees provide labor and services, and citizens enjoy low-cost movie tickets, an airport history museum and an interactive community. Simulating a variety of potential activity patterns showed how refugees might use the space for their social, cultural and practical needs.",
+          "images": [
+            "assets/board/larks-song/04-design-strategy.webp",
+            "assets/board/larks-song/05-activity-modules.webp"
+          ],
+          "captions": [
+            "Design strategy — travelers, students and refugees among museum, ranch, training, education, dormitory and theater programs; Node 5: refugee dormitory.",
+            "Different types of modules — 27 activity modules for the diversity of refugees’ daily life."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "設計策略讓旅客、學生與難民穿行於航廈之中；在三方互惠的計畫裡，政府提供工作、居所、職業訓練與宗教信仰，難民提供勞動與服務，市民則享有低價電影票、機場歷史博物館與互動社區。模擬各種可能的活動模式，找出難民在社會、文化與實際需求上可能如何使用空間。",
+              "captions": [
+                "設計策略——旅客、學生與難民穿行於博物館、牧場、訓練、教育、宿舍與劇場等機能之間；節點 5：難民宿舍。",
+                "不同類型的模組——27 種活動模組，對應難民日常生活的多樣性。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Four rules generate the form — regular hexagons stacked into control planes, a point-cloud connection algorithm, plane-unit combinations and a facade logic — and grow it into tree columns. A hand-built model weaves corn stalks over a wood supporting structure with a stainless steel frame, allowing rapid assembly for post-disaster reconstruction or emergency housing.",
+          "images": [
+            "assets/board/larks-song/06-generation-rules-1-2.webp",
+            "assets/board/larks-song/07-generation-rules-3-4.webp",
+            "assets/board/larks-song/08-tree-column-section.webp",
+            "assets/board/larks-song/09-woven-models.webp"
+          ],
+          "captions": [
+            "Rule 1: basic form generation from a regular hexagon; Rule 2: point-cloud connection algorithm pattern.",
+            "Rule 3: plane unit combination pattern; Rule 4: facade generation logic A–E; complete form generation.",
+            "Tree-column section — 25 mm marine ply roof, built-up mild steel branches and column, 450 × 450 mm footing pedestal.",
+            "Making process — woven corn-stalk models on a wood and stainless steel frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "四條規則生成形體——以正六邊形堆疊出控制平面、點雲連接演算法、平面單元組合與立面生成邏輯——最後長成樹狀柱。親手製作的模型以傳統技法編織玉米稈，搭配木材主結構與不鏽鋼框架，能快速組裝，適用於災後重建或緊急住房。",
+              "captions": [
+                "規則 1：以正六邊形為基本形的形體生成；規則 2：點雲連接演算法模式。",
+                "規則 3：平面單元組合模式；規則 4：立面生成邏輯 A–E；完整形體生成。",
+                "樹狀柱剖面——25 mm 船用合板屋面、組合式軟鋼分枝與柱身、450 × 450 mm 基礎墩座。",
+                "製作過程——以木材與不鏽鋼框架支撐的玉米稈編織模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The tree canopies in front of Tempelhof host daily leisure, outdoor exhibitions and family activities. Refugees, citizens and visitors share one space, the interactive community the tripartite program offers.",
+          "images": [
+            "assets/board/larks-song/10-activity-renders.webp"
+          ],
+          "captions": [
+            "Night renders — Daily Leisure, Outdoor Exhibitions, Family Activities."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "滕珀爾霍夫前的樹狀頂棚，容納日常休閒、戶外展覽與家庭活動。難民、市民與訪客共享同一個空間，也就是三方計畫所提供的互動社區。",
+              "captions": [
+                "夜間渲染——日常休閒、戶外展覽、家庭活動。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the site through its history and mapping, and name the pressure it faces now.\n2. Turn the analysis into a strategy: who uses the site, and what each group gives and receives.\n3. Write simple generation rules — a base shape, connections, combinations, a facade — and grow the structure from them.\n4. Build a model by hand to test material and assembly, then check the design in renders of everyday use.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 透過歷史分析與基地測繪閱讀基地，指出它眼前面臨的壓力。\n2. 把分析轉成策略：誰在使用基地，各方付出什麼、得到什麼。\n3. 寫出簡單的生成規則——基本形、連接、組合與立面——再由規則長出結構。\n4. 親手製作模型測試材料與組裝，再以日常使用情境的渲染圖檢驗設計。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
