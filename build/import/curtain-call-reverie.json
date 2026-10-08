@@ -1,0 +1,67 @@
+{
+  "project": "Curtain Call Reverie — An Attempt to Break Theatrical Ontology",
+  "dest": "assets/board/curtain-call-reverie",
+  "note": "Boards b02–b08 cropped to ten images, WebP q88 (PIL), max 2000 px wide. The title board b01 (celebrity portraits, crowd photo, photos of people) is not used at all; excluded by cropping: the Ontological Theory of Drama poster on b02 (halftone faces, row of people photos), its five blue photo vignettes and its Scene column of third-party theater photos. Only background-white fills, no retouching.",
+  "files": [
+    {
+      "name": "01-sectional-perspective.webp",
+      "sha256": "c34b0f52c449dc7b1fd2da8e3008e9476a24ee7a5a6bb73d061e34b5f3f0d48e",
+      "bytes": 191600,
+      "from": "b06 — Sectional perspective with its text (cover), whole board 2480x1754, resized to 2000 px wide"
+    },
+    {
+      "name": "02-stages-attempt-1.webp",
+      "sha256": "7bb19dfab42f6ec77debad1baebac6dd76b3470d759723001e0ca17f79fa3563",
+      "bytes": 82214,
+      "from": "b02 — five stage dot grids (x 745–1000) with their Pre-show … Post-show labels (from x 734, cut where the blue photo vignettes begin, stray vignette pixels left of that cut set to white) stacked left of Attempt 1: Juxtaposition (x 1014–1592, y 168–782) of 1810x1280, on white; the Scene column (third-party theater photos with pink overlays, from x 1605) and the five blue photo vignettes excluded"
+    },
+    {
+      "name": "03-attempt-2.webp",
+      "sha256": "98f4ac4ee60cffab4dedb819dc8fd78e5dfa312612f459732787e709e82f1483",
+      "bytes": 26106,
+      "from": "b02 — Attempt 2: Spatial with Mode 1 / Mode 2 space and circulation diagrams, crop x 1014–1601, y 812–1245 of 1810x1280, on white; the Scene photo column (from x 1606) excluded"
+    },
+    {
+      "name": "04-form-studies.webp",
+      "sha256": "184d0f762c22a92f154673ed31c0dc21d332a560d75804aa15d059fe296f59a5",
+      "bytes": 267814,
+      "from": "b03 — Character / Actor / Audience form studies with their percentages, whole board 2480x1754 (the three columns overlap, no clean regrid), resized to 2000 px wide"
+    },
+    {
+      "name": "05-simplification-section.webp",
+      "sha256": "712139419e95e7b26501c463ae99e2db212b85c47b8109f83089bb2fa6d2acf6",
+      "bytes": 281488,
+      "from": "b04 — Form simplification and Sectional technical drawing, whole board 1810x1280"
+    },
+    {
+      "name": "06-physical-model.webp",
+      "sha256": "72df9433cf389f7684f4b5f968b439102a2636aa9c75657a3c26af1f9ac87bfe",
+      "bytes": 85710,
+      "from": "b05 — the six physical model photos (drawn scale figures only) as a 3 x 2 grid on white; boxes x 21–468/496–842/872–1313/1343–1792, y 58–409 and x 21–468, y 432–773 / 795–1196 of 1810x1280"
+    },
+    {
+      "name": "07-hand-drawn-section.webp",
+      "sha256": "6df8cd748adf07b98ee93cd26b43696cdbeb5480edfb6d6c3abc8a3cf74f478c",
+      "bytes": 143980,
+      "from": "b05 — Hand-drawn sectional refinement, crop x 500–1810, y 415–1268 of 1810x1280; the right end of the model-making paragraph inside that box (x 500–1060, y 1200–1250) set to white (its text is on the page)"
+    },
+    {
+      "name": "08-ground-floor-section.webp",
+      "sha256": "e2f7e9d0a5224f7f8179e0f76363b79409f3e93b9722faba310cef02bf87d8cd",
+      "bytes": 221064,
+      "from": "b07 — Ground Floor Plan and Continuous Section with scale and north arrow, whole board 2480x1754, resized to 2000 px wide"
+    },
+    {
+      "name": "09-second-floor-plan.webp",
+      "sha256": "7cec19e679fcb7dec5ea9d5bcef0511458af98d9d0c2d865778b0953663f0311",
+      "bytes": 197382,
+      "from": "b08 — Second-Floor Plan with scale and north arrow, crop x 0–1362, y 0–1754 of 2480x1754"
+    },
+    {
+      "name": "10-atmosphere-renders.webp",
+      "sha256": "de54a8845032a3c4fabd14424fea0bad2ca7d5b6d135143219d9c981dbd95ef6",
+      "bytes": 87598,
+      "from": "b08 — the eight atmosphere renders with their labels (Ambiguous … Layered; x 1379–1823 / 1943–2387, y 29 / 458 / 887 / 1315, 421 px tall each) as a 3 + 3 + 2 grid on white"
+    }
+  ]
+}
