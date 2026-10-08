@@ -728,6 +728,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Marine Ecological Experience Space — A Tide-Shaped Playground on Wailingding Island",
+      "slug": "marine-ecological-experience-space",
+      "description": "On a resort island where tourists find little to do and typhoons strike every year, seaside activities are linked by a boardwalk of half-submerged platforms whose scenery changes with the tide.\n\nWailingding Island, Zhuhai, China | Marine ecology / waterfront architecture | 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "海洋生態體驗空間——外伶仃島上隨潮汐變化的遊樂場",
+          "description": "在一座遊客常覺無事可做、每年又飽受颱風侵襲的度假島上，以步道串連半沒入海中的平台與各種濱海活動，景色隨潮汐而變。\n\n中國珠海外伶仃島｜海洋生態／濱水建築｜2023 年｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/marine-ecological-experience-space/01-aerial.webp",
+        "assets/board/marine-ecological-experience-space/02-site.webp",
+        "assets/board/marine-ecological-experience-space/03-problems.webp",
+        "assets/board/marine-ecological-experience-space/04-coastline-interactive.webp",
+        "assets/board/marine-ecological-experience-space/05-design-strategy.webp",
+        "assets/board/marine-ecological-experience-space/06-master-plan.webp",
+        "assets/board/marine-ecological-experience-space/07-profile-map.webp",
+        "assets/board/marine-ecological-experience-space/08-tides.webp",
+        "assets/board/marine-ecological-experience-space/09-visiting-1.webp",
+        "assets/board/marine-ecological-experience-space/10-visiting-2.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/marine-ecological-experience-space/01-aerial.webp"
+          ],
+          "captions": [
+            "Aerial render of the ring-shaped platforms on the sea, linked by a winding boardwalk to the island's shore."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "海上環形平台鳥瞰渲染圖，以蜿蜒的步道與島岸相連。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Wailingding Island in the south of China is a beautiful tourist resort island that people from the surrounding area visit every year, but its entertainment facilities are few and tourists often feel bored. Typhoons also close the island to the outside world every year and affect the life of the island people, so the project asks which facilities on the beach could both entertain visitors and protect the island's sandy beaches from storms.",
+          "images": [
+            "assets/board/marine-ecological-experience-space/02-site.webp",
+            "assets/board/marine-ecological-experience-space/03-problems.webp"
+          ],
+          "captions": [
+            "Site — summary and map of Wailingding Island with its China inset and the ship route from Xiangzhou ferry terminal past Gui Shan Island to Wailingding and Dangan Island.",
+            "Problems on the island — typhoon prevention and typhoon frequency map, visitor data by age and origin (38.8 % from Zhuhai, 21.5 % from Guangzhou), travel activities and two interview quotes on rising waste and a lack of activities."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "位於中國南方的外伶仃島是一座美麗的度假島嶼，每年都有周邊地區的人前來遊玩，但島上娛樂設施很少，遊客常覺得無聊。每年颱風也會讓島嶼對外封閉、影響島民生活，因此本案思考：能否在沙灘上設置既能娛樂遊客、又能保護島上沙灘免受風暴侵襲的設施。",
+              "captions": [
+                "基地——外伶仃島的概述與地圖，含中國位置小圖，以及從香洲碼頭經桂山島到外伶仃島與擔杆島的船運航線。",
+                "島上的問題——颱風防範與颱風頻率圖、依年齡與來源地統計的遊客資料（38.8% 來自珠海、21.5% 來自廣州）、旅遊活動，以及兩段關於垃圾增加與缺乏活動的訪談。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Section A-A divides the coastline into offshore, water front area and sand beach, and each zone gets its own intention: reinforcing the coastal line offshore, creating more biological habitat at the water front and preventing sand from running away on the beach, always together with recreational facilities. For each zone, combinations of big stone from the quarry, slope rock, middle stone, walkable stone, elevated paths, wood paths and water plants are tested in section sketches.",
+          "images": [
+            "assets/board/marine-ecological-experience-space/04-coastline-interactive.webp"
+          ],
+          "captions": [
+            "Section A-A along the coastline and the interactive format: twelve section sketches for the offshore, water front and sand beach zones, combining quarry stone, slope rock, middle stone, walkable stone, elevated path, wood path and water plants."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "A-A 剖面把海岸分為離岸、濱水區與沙灘三段，各有不同的設計意圖：離岸段加固海岸線，濱水區創造更多生物棲地，沙灘段防止沙子流失，三者都同時提供遊憩設施。針對每一段，以剖面草圖測試採石場大石、坡面堆石、中型石、可行走石、高架步道、木棧道與水生植物的各種組合。",
+              "captions": [
+                "海岸 A-A 剖面與互動形式：離岸、濱水區與沙灘三段共十二張剖面草圖，組合採石場石塊、坡面堆石、中型石、可行走石、高架步道、木棧道與水生植物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Seaside activities that combine entertainment and education are connected by a boardwalk, and because coral bleaching has been observed in the waters of Zhuhai, the design conveys that even while enjoying ourselves we must be mindful of our living environment. Artificial reefs give fish a safer habitat and mitigate sand movement carried by ocean currents, while each platform is half submerged, with a relaxation platform and resting rooms above the water and a café below reached by stairs, set on columns and rocks to reduce direct contact with the seabed.",
+          "images": [
+            "assets/board/marine-ecological-experience-space/05-design-strategy.webp",
+            "assets/board/marine-ecological-experience-space/06-master-plan.webp",
+            "assets/board/marine-ecological-experience-space/07-profile-map.webp"
+          ],
+          "captions": [
+            "Design strategy — function integration of entertainment and education, a multidimensional experiential form drawn from coral, and four artificial reef types: Mi-zi, frame, guide plate and turbulent reef.",
+            "Master plan — hydrophilic ecological, sightseeing, yacht, diving and sea fishing platforms along the boardwalk route, scale 1:500.",
+            "Profile map — the half-submerged structure at flood, ordinary and ebb tide, with resting rooms above the water, a café below and structural details of the frame, deck and column footing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "結合娛樂與教育的濱海活動以步道串連；由於珠海海域曾觀察到珊瑚白化，設計也想傳達：即使在玩樂之中，我們也必須留心自己的生活環境。人工魚礁為魚類提供更安全的棲地，並減緩洋流帶走沙子，每座平台則一半沒入水中：水面上是設有休息室的放鬆平台，水面下是經樓梯抵達的咖啡廳，以柱子與石塊支撐，減少與海床的直接接觸。",
+              "captions": [
+                "設計策略——娛樂與教育的機能整合、取自珊瑚的多維體驗形式，以及四種人工魚礁：米字礁、框架礁、導流板礁與紊流礁。",
+                "總平面圖——沿步道路線分布的親水生態、觀景、遊艇、潛水與海釣平台，比例 1:500。",
+                "剖面圖——半沒入水中的結構在漲潮、平潮與退潮時的狀態，水上為休息室、水下為咖啡廳，並附構架、平台與柱基的結構細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Every day the ebb and flow of the tide changes the portion exposed to the ocean, so the scenery evolves with the passage of time and the central bathing area offers a different experience as the tides change. After check-in at the hotel, visitors move from the viewing platform to rock-pile steps close to the tidal ecology, an integrated beach and underwater restaurant, a diving area and a clear-glass lounge platform where they can watch fish swimming while chatting.",
+          "images": [
+            "assets/board/marine-ecological-experience-space/08-tides.webp",
+            "assets/board/marine-ecological-experience-space/09-visiting-1.webp",
+            "assets/board/marine-ecological-experience-space/10-visiting-2.webp"
+          ],
+          "captions": [
+            "Tides — the tidal table and the platforms at 9:00–12:00, 13:00–17:00 and 18:00–20:00.",
+            "Visiting process, steps 2–5 — the viewing platform after check-in, rock-pile steps to the tidal ecology, the main entrance and the integrated beach and underwater restaurant.",
+            "Visiting process, steps 6–9 — the central bathing area at flood, ordinary and ebb tide, the underwater restaurant, diving with an underwater landscape and the clear-glass lounge platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每天隨著潮起潮落，露出海面的部分不斷改變，景色隨時間演變，中央浴場也隨潮汐變化帶來不同的體驗。遊客在飯店辦理入住後，從觀景平台走到貼近潮間帶生態的石堆步道，再到結合沙灘的海底餐廳、潛水區，以及能邊聊天邊看魚兒游過的透明玻璃休憩平台。",
+              "captions": [
+                "潮汐——潮汐表，以及 9:00–12:00、13:00–17:00、18:00–20:00 三個時段的平台。",
+                "參觀流程第 2–5 步——入住後的觀景平台、通往潮間帶生態的石堆步道、主入口，以及結合沙灘的海底餐廳。",
+                "參觀流程第 6–9 步——漲潮、平潮與退潮時的中央浴場、海底餐廳、搭配水下景觀的潛水，以及透明玻璃休憩平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from what people on site say: visitor data and interviews name the real problems, here boredom, waste and typhoons.\n2. Read the coastline as zones (offshore, water front, beach), give each its own task and test a small kit of stones, paths and plants in section.\n3. Let an ecological message shape the form, like coral and artificial reefs, and keep the structure's footprint on the seabed small.\n4. Design with time: draw the same plan at several tide levels and script the visit as a sequence of scenes.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從現地的人怎麼說開始：用遊客資料與訪談找出真正的問題，這裡是無聊、垃圾與颱風。\n2. 把海岸讀成不同區段（離岸、濱水、沙灘），賦予各自的任務，並以剖面測試一小套石塊、步道與植物的組合。\n3. 讓生態訊息塑造形體，例如珊瑚與人工魚礁，並讓結構在海床上的落腳處盡量少。\n4. 把時間納入設計：在不同潮位下畫同一張平面，並把參觀過程編排成一連串場景。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
