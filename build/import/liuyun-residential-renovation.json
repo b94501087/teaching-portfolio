@@ -1,0 +1,55 @@
+{
+  "project": "Residential Renovation",
+  "dest": "assets/board/liuyun-residential-renovation",
+  "note": "Portfolio 19f39711 pages 9–13 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title street photo, photo grid, timeline photos, collage photos of people, Cantonese culture photos and the part of the section with brand signage. No retouching.",
+  "files": [
+    {
+      "name": "01-section-and-street-safety.webp",
+      "sha256": "21308c6c0befd5b729f1672de09aacd775c466ed37713d304668867ce5b69b05",
+      "bytes": 354614,
+      "from": "19f39711 page 11 — section and street safety: active facade, guarding the street and the model, x 50–100 %"
+    },
+    {
+      "name": "02-site-in-guangzhou-cbd.webp",
+      "sha256": "02cd1f086ab31dc1b4002ba020006bd47de190beb180d8dde25ad5f89568b379",
+      "bytes": 368206,
+      "from": "page 9 — site map of Liuyun Residential Area in Guangzhou CBD, x 66–100 %; the street photos and photo grid are excluded"
+    },
+    {
+      "name": "03-daily-behaviour.webp",
+      "sha256": "21ca53e4c34f2a363de33de5dd9a83d6ddcd0814252377282899cfd47a8015a8",
+      "bytes": 438218,
+      "from": "page 10 — daily chart and behaviour section drawing, x 0–49 %, y 24–100 %; the timeline photos are excluded"
+    },
+    {
+      "name": "04-problem-and-existing-prototype.webp",
+      "sha256": "79668042467230ffa26486f405ddb00db537ea860670c9cecaa8ddce3bd3222b",
+      "bytes": 385122,
+      "from": "page 10 — problem diagrams and the existing prototype models, x 50–100 %"
+    },
+    {
+      "name": "05-future-possibility.webp",
+      "sha256": "f5470ce9970cf234af4d415f78764f5c92fc81b60ce209672423663b8715b10e",
+      "bytes": 123082,
+      "from": "page 11 — future possibility diagrams, x 0–21 %, y 0–72 %; the collage photos of people and the Cantonese culture photos are excluded"
+    },
+    {
+      "name": "06-plan-and-elevation.webp",
+      "sha256": "e51fef3ac36ad9e7795aa4607e5374a3ee1d0186780c1a9f9f1d1080a92247dd",
+      "bytes": 386122,
+      "from": "page 12 — plan and elevation: model, exploded levels and residential and commercial plans, x 0–77 %"
+    },
+    {
+      "name": "07-rooftop-sunlight-and-ramps.webp",
+      "sha256": "4c25fb7b1aab18cb77e87745108f7e25ad0efce9cc4dfeef582873bc1a89a036",
+      "bytes": 316468,
+      "from": "page 12 — rooftop, design for sunlight and ramps, x 77–100 %"
+    },
+    {
+      "name": "08-section-and-function.webp",
+      "sha256": "9e9962f084eea23ceeb21fde26719dbd446738e5e78978cf3f4cf298461d192f",
+      "bytes": 328264,
+      "from": "page 13 — section and function for residents, x 74–100 %; the rest of the section with brand signage is excluded"
+    }
+  ]
+}
