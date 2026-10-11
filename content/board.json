@@ -8440,6 +8440,546 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "A Threshold of Tianhe Coach Station",
+      "slug": "threshold-of-tianhe-coach-station",
+      "description": "A threshold building beside Tianhe Coach Station that reorganises a confusing transport hub on three heights.\n\nTianhe, Guangzhou, China | Architecture | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "天河客運站的門檻",
+          "description": "天河客運站旁的門檻建築，在三個高度上重新整理混亂的交通樞紐。\n\n中國廣州天河｜建築設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/threshold-of-tianhe-coach-station/01-functional-components.webp",
+        "assets/board/threshold-of-tianhe-coach-station/02-city-sprawl-of-guangzhou.webp",
+        "assets/board/threshold-of-tianhe-coach-station/03-opacity.webp",
+        "assets/board/threshold-of-tianhe-coach-station/04-transport-of-three-heights.webp",
+        "assets/board/threshold-of-tianhe-coach-station/05-entrance-plan-and-section-detail.webp",
+        "assets/board/threshold-of-tianhe-coach-station/06-section-b-b.webp",
+        "assets/board/threshold-of-tianhe-coach-station/07-underground-plan.webp",
+        "assets/board/threshold-of-tianhe-coach-station/08-section-a-a.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/threshold-of-tianhe-coach-station/01-functional-components.webp"
+          ],
+          "captions": [
+            "Functional components: main block, annex modules, fast line and sunken plaza."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "機能組成：主體量、附屬模組、快速線與下沉廣場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Tianhe Coach Station was one of the first bus terminals in Guangzhou, but irrational planning and development have left the area confusing and difficult to perceive. Citizens, passengers, business people and college students are all hampered to varying degrees by pedestrian traffic around this important transport hub.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "天河客運站是廣州最早的巴士總站之一，但不合理的規劃與開發讓這一帶混亂且難以辨識。市民、旅客、商務人士與大學生都在這個重要的交通樞紐周邊，不同程度地受到人行交通的阻礙。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "As Guangzhou's population grew from 1.3 million to almost 14 million, the city spread east, the roads were transformed and the terminal became the north-east gate of the city. From 1960 to 2020 the area changed from agricultural land to industry, commercial uses and urban villages, and the collision of the traditional fabric with the viaduct led to an opaque urban axis.",
+          "images": [
+            "assets/board/threshold-of-tianhe-coach-station/02-city-sprawl-of-guangzhou.webp",
+            "assets/board/threshold-of-tianhe-coach-station/03-opacity.webp"
+          ],
+          "captions": [
+            "City sprawl of Guangzhou and the Eastward Strategy.",
+            "Opacity: complexity of roads and land use, and the city axis."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "隨著廣州人口從 130 萬增至近 1,400 萬，城市向東擴張，道路全面改造，客運站也成為城市的東北門戶。1960 至 2020 年間，這一帶從農地轉變為工業、商業與城中村，傳統紋理與高架橋的碰撞造成了模糊不清的城市軸線。",
+              "captions": [
+                "廣州的城市擴張與東進策略。",
+                "模糊性：道路與土地使用的複雜度，以及城市軸線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Transport works on three heights: a flyover at +6 m, the ground at ±0 m and the metro at −12 m, where the terminal meets Metro Lines 3 and 6. Using the open space next to the station, a sunken plaza links the open spaces and a flyover spans the area so that the pedestrian path is clear and safe.",
+          "images": [
+            "assets/board/threshold-of-tianhe-coach-station/04-transport-of-three-heights.webp"
+          ],
+          "captions": [
+            "Transport of three heights: over head, ground and underground."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "交通分布在三個高度：+6 公尺的天橋、±0 公尺的地面，以及 −12 公尺、客運站與地鐵 3 號線和 6 號線交會的地鐵層。利用客運站旁的開放空間，下沉廣場串聯各處開放空間，天橋跨越整個區域，讓步行路徑清晰而安全。",
+              "captions": [
+                "三個高度的交通：上空、地面與地下。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The threshold building holds a main block and two annex modules with a gymnasium, swimming, sauna, small-ball courts, a bistro and a ticket office, while the entrance level has a bar, a table tennis room and a billiard room around the flyover. Sections show the building bridging the coach station, the metro, buses, the shopping centre and a free bazaar.",
+          "images": [
+            "assets/board/threshold-of-tianhe-coach-station/05-entrance-plan-and-section-detail.webp",
+            "assets/board/threshold-of-tianhe-coach-station/06-section-b-b.webp",
+            "assets/board/threshold-of-tianhe-coach-station/07-underground-plan.webp",
+            "assets/board/threshold-of-tianhe-coach-station/08-section-a-a.webp"
+          ],
+          "captions": [
+            "Entrance plan and section detail.",
+            "Section b-b.",
+            "Underground plan.",
+            "Section a-a through the station, metro, buses and market."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "門檻建築包含一個主體量與兩個附屬模組，內有健身房、游泳池、桑拿、小球場、小酒館與售票處，入口層則圍繞天橋配置酒吧、桌球室與撞球室。剖面顯示建築如何串聯客運站、地鐵、巴士、商場與自由市集。",
+              "captions": [
+                "入口層平面與剖面細部。",
+                "b-b 剖面。",
+                "地下層平面。",
+                "穿越客運站、地鐵、巴士與市集的 a-a 剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the chaos before fixing it.\n2. Trace how the city grew around the site.\n3. Sort movement by height.\n4. Make one building the threshold.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先描繪混亂，再著手整理。\n2. 追溯城市如何在基地周邊成長。\n3. 依高度整理動線。\n4. 讓一棟建築成為門檻。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Phoenix Harbor",
+      "slug": "the-phoenix-harbor",
+      "description": "A phased reconstruction of the Port of Beirut after the 2020 explosion, with housing, food and a memorial park.\n\nPort of Beirut, Lebanon | Urban design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鳳凰港",
+          "description": "2020 年爆炸後貝魯特港的分期重建，提供住宅、糧食與紀念公園。\n\n黎巴嫩貝魯特港｜都市設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/the-phoenix-harbor/01-phoenix-harbor-aerial.webp",
+        "assets/board/the-phoenix-harbor/02-urban-analysis.webp",
+        "assets/board/the-phoenix-harbor/03-layout-retention.webp",
+        "assets/board/the-phoenix-harbor/04-design-points-and-master-plan.webp",
+        "assets/board/the-phoenix-harbor/05-phoenix-park-plan.webp",
+        "assets/board/the-phoenix-harbor/06-silo-reconstruction-plan.webp",
+        "assets/board/the-phoenix-harbor/07-silo-facade-model.webp",
+        "assets/board/the-phoenix-harbor/08-construction-solidarity.webp",
+        "assets/board/the-phoenix-harbor/09-bolting-connection-plan-and-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/the-phoenix-harbor/01-phoenix-harbor-aerial.webp"
+          ],
+          "captions": [
+            "The Phoenix Harbor: the park, the silo and container housing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鳳凰港：紀念公園、穀倉與貨櫃住宅。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "On 4 August 2020, 2,750 tonnes of ammonium nitrate exploded in the Port of Beirut, the largest non-nuclear explosion of the 21st century, killing 221 people. About 300,000 people were left homeless, the currency lost 90 % of its value and 77 % of households lacked sufficient food, leaving Lebanese society on the verge of collapse.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "2020 年 8 月 4 日，2,750 噸硝酸銨在貝魯特港爆炸，這是二十一世紀最大的非核爆炸，造成 221 人死亡。約 30 萬人無家可歸，貨幣貶值 90%，77% 的家庭缺乏足夠糧食，黎巴嫩社會瀕臨崩潰。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The port is connected to the city by three main corridors and surrounded by residential areas, but it lacks public open space. The functional blocks of the port have strong links to each other, so the layout is kept and a few new features tie them together.",
+          "images": [
+            "assets/board/the-phoenix-harbor/02-urban-analysis.webp",
+            "assets/board/the-phoenix-harbor/03-layout-retention.webp"
+          ],
+          "captions": [
+            "Urban analysis: port area, main corridors and green land.",
+            "Layout retention: the functional blocks of the port."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "港口以三條主要廊道與城市相連，周邊環繞住宅區，卻缺乏公共開放空間。港區各功能區塊彼此緊密相連，因此保留原有配置，只加入少數新元素將它們串聯起來。",
+              "captions": [
+                "都市分析：港區、主要廊道與綠地。",
+                "配置保留：港口的功能區塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The scheme addresses housing and food shortages through four affordable phases: food, accommodation, a monumental park and development. A public space system of visits and sightlines combines the city axes, a green belt and the memorial park with a working port.",
+          "images": [
+            "assets/board/the-phoenix-harbor/04-design-points-and-master-plan.webp"
+          ],
+          "captions": [
+            "Design points and master plan of the port."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "方案以四個可負擔的階段回應住房與糧食短缺：糧食、居住、紀念公園與發展。由參訪序列與視線關係構成的公共空間系統，將城市軸線、綠帶與紀念公園和仍在運作的港口結合。",
+              "captions": [
+                "設計要點與港區總平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the Phoenix Park, 221 tombstones rise from the water at low tide so that people can pay tribute to the dead, and the destroyed silo is rebuilt with a woven metal mesh facade, restoring 86 % of its capacity. Damaged containers are reinforced with bolted light steel frames so that residents can build and extend their own homes.",
+          "images": [
+            "assets/board/the-phoenix-harbor/05-phoenix-park-plan.webp",
+            "assets/board/the-phoenix-harbor/06-silo-reconstruction-plan.webp",
+            "assets/board/the-phoenix-harbor/07-silo-facade-model.webp",
+            "assets/board/the-phoenix-harbor/08-construction-solidarity.webp",
+            "assets/board/the-phoenix-harbor/09-bolting-connection-plan-and-section.webp"
+          ],
+          "captions": [
+            "The Phoenix Park memorial: plan.",
+            "The scar of Beirut: silo reconstruction plan.",
+            "Silo facade model with woven metal mesh.",
+            "Construction solidarity: reinforced container houses.",
+            "Combination options, bolting connection, plan and section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在鳳凰公園中，221 座墓碑在退潮時浮出水面，讓人們向逝者致意；被摧毀的穀倉以編織金屬網立面重建，恢復 86% 的容量。受損的貨櫃以螺栓接合的輕鋼框架加固，讓居民能自行建造與擴建住宅。",
+              "captions": [
+                "鳳凰公園紀念空間：平面。",
+                "貝魯特的傷疤：穀倉重建平面。",
+                "以編織金屬網構成的穀倉立面模型。",
+                "營建團結：加固的貨櫃住宅。",
+                "組合方式、螺栓接合、平面與剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Face the event and its numbers.\n2. Keep what still works on site.\n3. Build in affordable phases.\n4. Let residents finish the houses.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 直面事件與其數據。\n2. 保留基地上仍然可用的部分。\n3. 以可負擔的階段建造。\n4. 讓居民完成自己的住宅。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Yongqing District Building Renewal",
+      "slug": "yongqing-district-building-renewal",
+      "description": "The renewal of a family house that stayed behind in Yongqing District, Guangzhou, twisted to give it a new lease of life.\n\nYongqing District, Guangzhou, China | Building renewal | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "永慶坊建築更新",
+          "description": "更新廣州永慶坊一戶留守家庭的房屋，以扭轉的空間賦予它新的生命。\n\n中國廣州永慶坊｜建築更新｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/yongqing-district-building-renewal/01-model-sketch.webp",
+        "assets/board/yongqing-district-building-renewal/02-yongqing-district.webp",
+        "assets/board/yongqing-district-building-renewal/03-house-re-present.webp",
+        "assets/board/yongqing-district-building-renewal/04-interview.webp",
+        "assets/board/yongqing-district-building-renewal/05-prompt-models.webp",
+        "assets/board/yongqing-district-building-renewal/06-strategy.webp",
+        "assets/board/yongqing-district-building-renewal/07-procedures-and-connection.webp",
+        "assets/board/yongqing-district-building-renewal/08-floor-plans.webp",
+        "assets/board/yongqing-district-building-renewal/09-section-and-elevation-with-twists.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/yongqing-district-building-renewal/01-model-sketch.webp"
+          ],
+          "captions": [
+            "Model sketch: the old facade, the new facade and the main tourist flow."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "模型草圖：舊立面、新立面與主要遊客動線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Yongqing District in Guangzhou is a historic district that was transformed into a commercial attraction a few years ago, and most of its residents have moved out. The site is the dilapidated house of an original family who chose to stay, a residential building between commercial buildings.",
+          "images": [
+            "assets/board/yongqing-district-building-renewal/02-yongqing-district.webp",
+            "assets/board/yongqing-district-building-renewal/03-house-re-present.webp"
+          ],
+          "captions": [
+            "Yongqing District: the site among the commercial buildings.",
+            "House re-present: structure, roof, sun shading and floor plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州的永慶坊是一處歷史街區，數年前被改造成商業景點，大多數居民已經遷出。基地是一戶選擇留下的原住家庭的老舊房屋，一棟夾在商業建築之間的住宅。",
+              "captions": [
+                "永慶坊：位於商業建築之間的基地。",
+                "房屋再現：結構、屋頂、遮陽與各層平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The house was renewed once from brick and timber to brick and concrete, but the stairwell remains partly wooden, the timber roof leaks and the owner built a simple baffle against the western sun. Interviews with the family recorded that the house is hot in the afternoon, the balcony is too narrow, the stairwell kitchen is dusky and the lighting is poor.",
+          "images": [
+            "assets/board/yongqing-district-building-renewal/04-interview.webp"
+          ],
+          "captions": [
+            "Interview: what the family says about the house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "房屋曾由磚木結構翻新為磚混結構，但樓梯間仍有部分為木造，木屋頂漏水，屋主自行搭了簡易擋板阻擋西曬。對家人的訪談記錄下午後炎熱、陽台太窄、樓梯下的廚房昏暗與採光不足等問題。",
+              "captions": [
+                "訪談：家人對房屋的意見。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Four rounds of study models test how the house can open up, keeping the east and south facades of good conservation value and renovating the west and north. Different parts of each floor are twisted to create terraces with different orientations, linking the public lower part with the private upper part.",
+          "images": [
+            "assets/board/yongqing-district-building-renewal/05-prompt-models.webp",
+            "assets/board/yongqing-district-building-renewal/06-strategy.webp"
+          ],
+          "captions": [
+            "Prompt: four rounds of study models.",
+            "Strategy: origin, extend and events."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "四輪研究模型測試房屋如何打開，保留具保存價值的東、南立面，改造西、北立面。每層的不同部分被扭轉，創造朝向各異的露台，串聯公共的下層與私密的上層。",
+              "captions": [
+                "提示：四輪研究模型。",
+                "策略：原貌、延伸與事件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The brick divider is removed, the floors are fixed with heavy timber, a new steel and timber stairwell is inserted and the house is enclosed by a sunlight panel and a light wood envelope. The twists give a viewfinder to distant towers on the third floor, a windy drying space for the elderly on the first floor and a kitchen sales window on the ground floor.",
+          "images": [
+            "assets/board/yongqing-district-building-renewal/07-procedures-and-connection.webp",
+            "assets/board/yongqing-district-building-renewal/08-floor-plans.webp",
+            "assets/board/yongqing-district-building-renewal/09-section-and-elevation-with-twists.webp"
+          ],
+          "captions": [
+            "Procedures and connection: brick, original slabs and timber framing.",
+            "Ground to third floor plans.",
+            "Section and elevation, with the viewfinder, corridor and slit."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "拆除磚造隔牆，以重型木材固定樓板，置入新的鋼木樓梯間，再以採光板與輕木外殼包覆房屋。扭轉在三樓形成眺望遠處塔樓的取景框，在二樓為長者提供通風的晾曬空間，並在一樓開出廚房的販售窗口。",
+              "captions": [
+                "施工程序與接合：磚牆、原有樓板與木構架。",
+                "一樓至四樓平面。",
+                "剖面與立面，以及取景框、通風廊與窄縫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Interview the people who stay.\n2. Record what the house still holds.\n3. Twist only what needs to change.\n4. Rebuild step by step.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 訪談留下來的人。\n2. 記錄房屋仍保有的價值。\n3. 只扭轉需要改變的部分。\n4. 一步一步重建。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Missile Toilet",
+      "slug": "missile-toilet",
+      "description": "A foldable toilet dropped on Everest Base Camp that treats human waste on site to protect the glaciers.\n\nEverest Base Camp | Product and architecture | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "飛彈廁所",
+          "description": "投放至聖母峰基地營的折疊式廁所，就地處理人類排泄物以保護冰川。\n\n聖母峰基地營｜產品與建築設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/missile-toilet/01-exploded-elements.webp",
+        "assets/board/missile-toilet/02-folding-details.webp",
+        "assets/board/missile-toilet/03-process-strategy.webp",
+        "assets/board/missile-toilet/04-programs.webp",
+        "assets/board/missile-toilet/05-design-sketch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/missile-toilet/01-exploded-elements.webp"
+          ],
+          "captions": [
+            "Six elements: solar and wind modules, membrane, core, skeletons, folding toilet and drainage base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "六個元件：太陽能與風能模組、薄膜、核心、骨架、折疊廁所與排水底座。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Since climbing Everest became commercialised in 1993, more and more climbers come each season, and with no toilets they defecate anywhere. Meltwater from the Khumbu Glacier and others provides about 65 % of the local water supply, and these glaciers are gradually being polluted.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "自 1993 年攀登聖母峰商業化以來，每季前來的登山者越來越多，由於沒有廁所，他們只能隨地便溺。來自坤布冰川等冰川的融水約佔當地供水的 65%，而這些冰川正逐漸受到污染。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Tests found that microwave drying of manure takes only 1/13 of the time of electric drying, and microwave pyrolysis turns it into bio-gas, bio-oil and bio-char. An Al-SiC additive removes all water and pathogens and 93 % of the volume, and mixing it with excrement improves heat treatment by 60 %.",
+          "images": [
+            "assets/board/missile-toilet/03-process-strategy.webp"
+          ],
+          "captions": [
+            "Process strategy: manure drying tests and microwave pyrolysis."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "測試發現，以微波乾燥排泄物只需電熱乾燥 1/13 的時間，微波熱解則可將其轉化為生質氣、生質油與生物炭。Al-SiC 添加劑可去除全部水分與病原體以及 93% 的體積，與排泄物混合後可讓熱處理效率提升 60%。",
+              "captions": [
+                "處理策略：排泄物乾燥測試與微波熱解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The main site is Everest Base Camp with some forward camps, and ground nails fix the structure to the rock, crushed stone and ice. Inspired by the water bear and by umbrella bones, the toilets fold for storage and are spread over three main programs.",
+          "images": [
+            "assets/board/missile-toilet/04-programs.webp"
+          ],
+          "captions": [
+            "Programs: the toilets spread over three main programs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "主要基地為聖母峰基地營與部分前進營地，以地釘將結構固定於岩層、碎石與冰層之上。受水熊蟲與傘骨的啟發，廁所可折疊收納，並分布於三大主要機能之中。",
+              "captions": [
+                "機能：廁所分布於三大主要機能。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The missile toilet is dropped from the air and unfolds into six elements: solar and wind power modules, a double windproof membrane, a structural core with a manure handling unit, folded skeletons, folding toilets and a drainage base. When the climbing season is over, locals can carry the disposals down by yak and fold the rest away for the next season.",
+          "images": [
+            "assets/board/missile-toilet/02-folding-details.webp",
+            "assets/board/missile-toilet/05-design-sketch.webp"
+          ],
+          "captions": [
+            "Details of the folding skeletons, manure module and folding toilet.",
+            "Design sketch: toilet, overall, water system and faeces processor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "飛彈廁所由空中投放，展開為六個元件：太陽能與風力發電模組、雙層防風薄膜、內含排泄物處理單元的結構核心、折疊骨架、折疊廁所與排水底座。登山季結束後，當地人可用犛牛將處理物運下山，其餘部分則折疊收存，留待下一季使用。",
+              "captions": [
+                "折疊骨架、排泄物模組與折疊廁所的細部。",
+                "設計草圖：廁所、整體、水系統與排泄物處理器。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find the problem nobody designs for.\n2. Test the process before the form.\n3. Borrow from nature and objects.\n4. Design for delivery and removal.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出沒有人設計的問題。\n2. 先測試處理流程，再決定形式。\n3. 向自然與日常物件借鏡。\n4. 為運送與撤除而設計。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
