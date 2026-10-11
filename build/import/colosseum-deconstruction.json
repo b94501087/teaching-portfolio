@@ -1,0 +1,61 @@
+{
+  "project": "Colosseum Deconstruction",
+  "dest": "assets/board/colosseum-deconstruction",
+  "note": "Portfolio 9bb9870d pages 3–8 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the cover and CV pages, the title collage with photos of people and the tutor and contact details on page 3, the timeline and activity photos on page 4, the collages and case-study photos with people on page 5, and the renders with photo cut-out figures on pages 6–7. No retouching.",
+  "files": [
+    {
+      "name": "01-roof-and-ramps.webp",
+      "sha256": "3ba52c92ca76b75bd60d7aa9d07a6187af763b8f0c240aa42fc75fbd26c5e32e",
+      "bytes": 67916,
+      "from": "9bb9870d page 3 — render of the red frames, ramps and roof, x 0–60 %, y 55–93 %; the title collage with photos of people and the title text with tutor and contact details are excluded"
+    },
+    {
+      "name": "02-xiangtan-mapping.webp",
+      "sha256": "03c670d7bfdf9a88ec6fa640e4b0ad29588095c360aed58ae56a1d4646817146",
+      "bytes": 126090,
+      "from": "page 4 — mapping of Xiangtan: industrial, residential and old-new boundaries, x 2–49 %, y 10–79 %"
+    },
+    {
+      "name": "03-site-axonometric.webp",
+      "sha256": "5f4c254c21577a42d5c0bce95b43be77837916f7354813d8a5b52182fa724d18",
+      "bytes": 107924,
+      "from": "page 4 — site axonometric with the community park and lake, x 50–99 %, y 30–67 %; the timeline photo strip and the activity photos of residents are excluded"
+    },
+    {
+      "name": "04-morphogenesis.webp",
+      "sha256": "1f8854607565382fb940ba7e583cf99cf237931da657bb6c6e077ea59f04ffa5",
+      "bytes": 37876,
+      "from": "page 5 — nine manual models and morphogenesis steps, two strips stacked; the Colosseum collage, community theatre photos and case-study photos with people are excluded"
+    },
+    {
+      "name": "05-concept-model.webp",
+      "sha256": "832976f7ce99972790663291adf34cc736736c949f73d3a3aa3b2673c6908db3",
+      "bytes": 38688,
+      "from": "page 5 — concept model photo, x 52–97 %, y 57–81 % (cropped to the model)"
+    },
+    {
+      "name": "06-exploded-layers.webp",
+      "sha256": "dc0c308a52c9bb639f22bef2fc773753150022283389ca7a8e418a53b10035d7",
+      "bytes": 89848,
+      "from": "page 6 — exploded layers from ground floor to roof, x 2–26 %"
+    },
+    {
+      "name": "07-ground-axonometric.webp",
+      "sha256": "42527c70d24cbd2b0389263971fad421d9db1e1af383409d31ec2e465e505a7c",
+      "bytes": 151480,
+      "from": "page 6 — axonometric of the activity center in the park, x 26–100 %, y 37–97 %; the four indoor scenes with photo cut-out figures are excluded"
+    },
+    {
+      "name": "08-sectional-day.webp",
+      "sha256": "84a24db49e910629e0f38eb691ceef247a43fea3d6cad8e375ac7cf65cd61e87",
+      "bytes": 172782,
+      "from": "page 8 — section A-A with the day of activities from 8 am to 9 pm, y 38–99 %"
+    },
+    {
+      "name": "09-model-transformations.webp",
+      "sha256": "0d2803d6af7c4526ff6ae6c48146a0ac5a5214d8a18a4a9429f2ff3e6c0f3e2d",
+      "bytes": 47906,
+      "from": "page 8 — inside the conceptual model, transformations A and B, x 52–99 %, y 12–32 %"
+    }
+  ]
+}
