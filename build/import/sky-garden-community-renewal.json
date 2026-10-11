@@ -1,0 +1,61 @@
+{
+  "project": "Sky Garden",
+  "dest": "assets/board/sky-garden-community-renewal",
+  "note": "Portfolio 7c040a27 pages 10–12 (left half) cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the photo cut-out people, speech-bubble collage, user analysis photos, survey photos and portrait on page 10, the flyover photos and precedent photos on page 11, the kapok flower photos on page 12. No retouching.",
+  "files": [
+    {
+      "name": "01-event-venue-renovation.webp",
+      "sha256": "d90239f4454b160bef98e178e84c8671aed769d66726f8b17bd1237fced75fdd",
+      "bytes": 155490,
+      "from": "7c040a27 page 11 — event venue renovation axonometric, x 50.5–74.5 %, y 49–100 %"
+    },
+    {
+      "name": "02-four-areas-around-the-site.webp",
+      "sha256": "7bb854fb531e2b99067f1ca1306eac50867a61b0a3ea5e0d41860cfd2c094910",
+      "bytes": 78566,
+      "from": "page 10 — site analysis of the residential, school, commercial and park areas, x 14.5–31 %, y 60–100 %; the large site plan with photo cut-out people is excluded"
+    },
+    {
+      "name": "03-morphogenesis-steps-1-4.webp",
+      "sha256": "8643b49314e668e2849d20bc92298f5689e8e0e88819cd28b2a4e3ca995dee06",
+      "bytes": 265254,
+      "from": "page 11 — morphogenesis steps 1–4, x 0–50 %, y 22.5–62 %"
+    },
+    {
+      "name": "04-morphogenesis-steps-5-8.webp",
+      "sha256": "61ef4b7d3918bdd76f87c26481ad0a03dcdb0a2882cff153fbad211de2882557",
+      "bytes": 268136,
+      "from": "page 11 — morphogenesis steps 5–8, x 0–50 %, y 62–100 %"
+    },
+    {
+      "name": "05-slow-pedestrian-ramp.webp",
+      "sha256": "5896064742cf3b322866309c9eba95d605c7f927df019c6a256f4b5d2e9e11a1",
+      "bytes": 140520,
+      "from": "page 11 — slow pedestrian ramp axonometric, x 74.5–100 %, y 49–100 %"
+    },
+    {
+      "name": "06-aerial-view.webp",
+      "sha256": "01a481e699bda07bea64983b143a65db770decc75dd9c771cc2be01c86620f4c",
+      "bytes": 534224,
+      "from": "page 12 — aerial view, x 0–22.5 %"
+    },
+    {
+      "name": "07-new-event-park.webp",
+      "sha256": "302f5348fd1ed2925f74ba108f5eaa97304befd987d027a65ec4ab861ce8eafe",
+      "bytes": 162794,
+      "from": "page 12 — new event park rendering and diagrams, x 22.5–50 %, y 0–33.5 %"
+    },
+    {
+      "name": "08-sky-bridge-renderings.webp",
+      "sha256": "9daa537078443d34f265732e403a1a47844bbdb3043aab6377b9a11d9a1013bb",
+      "bytes": 196310,
+      "from": "page 12 — street and entrance renovation renderings, x 22.5–40 %, y 34.5–100 %"
+    },
+    {
+      "name": "09-bridge-meeting-point.webp",
+      "sha256": "c17bd8ada67c33da8f49c1d9fc9f7427d8aa0219889240d671265d3535215e06",
+      "bytes": 44300,
+      "from": "page 12 — rendering where the two bridges meet, x 40–50 %, y 33.5–65.5 %"
+    }
+  ]
+}
