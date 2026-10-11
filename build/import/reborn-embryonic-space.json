@@ -1,0 +1,61 @@
+{
+  "project": "Reborn",
+  "dest": "assets/board/reborn-embryonic-space",
+  "note": "Portfolio 952911a3 pages 3–6 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the newspaper collage, protest photos, the photo with a megaphone and the ultrasound images on page 3, the photo details on page 4. No retouching.",
+  "files": [
+    {
+      "name": "01-sectional-elevation.webp",
+      "sha256": "e28da659567044569a758a31daba8fc9b37f60ec6284bd22ef26c0c5c3f280ba",
+      "bytes": 642032,
+      "from": "952911a3 page 5 — hand-drawn sectional elevation of the whole space with drawn figures, x 0–87 %"
+    },
+    {
+      "name": "02-preliminary-investigation.webp",
+      "sha256": "d0cdff0154e58680833425fe405bf550e2e2f55b8a3228a3b809ea9d49b400ce",
+      "bytes": 196994,
+      "from": "page 3 — preliminary investigation: map of abortion rates in China, fact sheet and reasons chart, x 23.5–50 %, y 0–55 %; the newspaper collage, protest photos and the photo with a megaphone are excluded"
+    },
+    {
+      "name": "03-monomer-morphogenesis.webp",
+      "sha256": "b35a8578d4fad13013263b6146a89499a4e6bd6c7fb627b74238491a07ccac51",
+      "bytes": 116342,
+      "from": "page 3 — monomer morphogenesis, x 66–82 %"
+    },
+    {
+      "name": "04-spatial-morphology.webp",
+      "sha256": "54f529bf52ef08c4122f938790dd3ece6a0fbc98cb08276339c16e9baa98e6e7",
+      "bytes": 186228,
+      "from": "page 3 — spatial morphology generation sketch, x 82–100 %"
+    },
+    {
+      "name": "05-manual-attempt.webp",
+      "sha256": "1a20a765fb16987ab13971c5477faec702ea0034318aef38eaeb0af68ad79bba",
+      "bytes": 125092,
+      "from": "page 4 — manual attempt in steps (hands only), x 50.5–60 %"
+    },
+    {
+      "name": "06-model-study.webp",
+      "sha256": "3929b4aee3cf1f4a520a6eccb9c2eaa108cc16f7d9c5ff2dc7e2067395ebd8e2",
+      "bytes": 128288,
+      "from": "page 4 — model study, x 60–76.5 %"
+    },
+    {
+      "name": "07-texture-and-sequence-model.webp",
+      "sha256": "e60f931522a0e9bb3027e28f8afd5a089df6b135057bb806e1d5ca7c3360c755",
+      "bytes": 107178,
+      "from": "page 4 — adding texture and the sequence model, x 77–100 %, y 31.5–100 %"
+    },
+    {
+      "name": "08-spatial-sequence.webp",
+      "sha256": "ba9ff1691394e30bba6d4c0d1efcd5340e078d61bb72bb4721cc2f033e10a06e",
+      "bytes": 280404,
+      "from": "page 5 — spatial sequence diagrams, x 87–100 %"
+    },
+    {
+      "name": "09-architectural-drawing.webp",
+      "sha256": "a006e0fb4c0a3b1468fb77bbbfab95bbef06de32d77c995623b9983d441e0f6c",
+      "bytes": 323720,
+      "from": "page 6 — model and architectural drawing, x 0–50 %"
+    }
+  ]
+}
