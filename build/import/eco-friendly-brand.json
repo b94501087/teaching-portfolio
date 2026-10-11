@@ -1,0 +1,67 @@
+{
+  "project": "Eco-Friendly Brand",
+  "dest": "assets/board/eco-friendly-brand",
+  "note": "Boards 1 and 3–7 cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: board 1 text (it repeats another project's description), its stock landfill and clothing photos and the Brand Introduction collage (runway, Fendi, Kengo Kuma photo); board 2 entirely (street photos of people, stock clothing photos, Fendi and Kuma material photos); the photos of people and hands making paper on board 3; the photo of a person with the model and the renders with figures on boards 5–6. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "69747c1adcda261a9ca57918324f96530860da3062ff81fee3346e3264f8ea09",
+      "bytes": 262868,
+      "from": "board 6 — handmade model of the three floors with lighting (cover), x 74.5–100 %"
+    },
+    {
+      "name": "02-value-delivered.webp",
+      "sha256": "c28a832400747e28eced8b386711f41b8451d4ce768f7f01c7ee45a819f596fa",
+      "bytes": 123374,
+      "from": "board 1 — Value Delivered diagram, x 35.5–100 %, y 65–100 %; the title, description, contamination and disposal charts (stock landfill and clothing photos) and the Brand Introduction collage (runway, Fendi, Kengo Kuma photo) are excluded"
+    },
+    {
+      "name": "03-paper-attempts.webp",
+      "sha256": "a549929bb5f9c84b9f96314e66b5005cf58e333ac99e3d970ef2cf34a8b1f69e",
+      "bytes": 182214,
+      "from": "board 3 — finished installation for the course experiments (x 21.5–41.5 %, y 3.5–47.5 %) beside Different Attempts (x 0–43 %, y 66.5–100 %); the photos of people and hands making paper are excluded"
+    },
+    {
+      "name": "04-experimental-concept.webp",
+      "sha256": "2c4c2b851dd6070a53eca3b1ea56c8a056fc7e73b5f0b4efbc591b89d0ef6d83",
+      "bytes": 342472,
+      "from": "board 3 — Experimental Concept: twelve mixes compared for weight, strength, waterproofing and hardness, x 43–100 %"
+    },
+    {
+      "name": "05-hypothesis-renovation.webp",
+      "sha256": "0fdf4b5c3f4f30459f8b5694163fa06576efa1d35b10dc96e211e4e0b37e7158",
+      "bytes": 446116,
+      "from": "board 4 — Experimental Hypothesis, Before and After Renovation and the original architectural hand model, x 0–66 %"
+    },
+    {
+      "name": "06-axonometric.webp",
+      "sha256": "c7fa25710cbf2e1efe67ac7b35a8afc4e89197fce882ac24112d1dbeedfcc49c",
+      "bytes": 177654,
+      "from": "board 4 — Axonometric Diagram, x 66–100 %"
+    },
+    {
+      "name": "07-ground-floor.webp",
+      "sha256": "6eb14748470966b6feddc01af867130d3c9992b3c9506f16fe9dbc3ca9999d82",
+      "bytes": 373252,
+      "from": "board 5 — two interior model photos (x 52–100 %, y 0–36.5 %) above the ground floor plan (x 61.5–100 %, y 47.5–100 %); the photo of a person wearing the material with the model and the fashion show, exhibition and metaverse renders are excluded"
+    },
+    {
+      "name": "08-second-floor.webp",
+      "sha256": "92e9eb6ce6c97347efc15b2255886eb002858097b6bf517b6feeebf62e5723aa",
+      "bytes": 338122,
+      "from": "board 6 — Environmental Function Analysis: second floor plan, recycling cycle and clothes-hanger, x 0–54 %; the studio, fitting room and craft area renders are excluded"
+    },
+    {
+      "name": "09-building-plant.webp",
+      "sha256": "e498b99577894843ad2be0f3dcb8b019fbd4034fea982c9621379f58a2358aab",
+      "bytes": 423606,
+      "from": "board 7 — Building and Plant Analysis: section and façade, x 0–53.5 %"
+    },
+    {
+      "name": "10-circulatory-facade.webp",
+      "sha256": "fcde47295bacb33f7cdde3d3c271ee53c66c80d31dadf7d5bb811ef95a70ae2c",
+      "bytes": 375808,
+      "from": "board 7 — Circulatory System, Façade Wall Structure and Lighting Nodes, x 53.5–100 %"
+    }
+  ]
+}
