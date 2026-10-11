@@ -1,0 +1,55 @@
+{
+  "project": "Home and Life",
+  "dest": "assets/board/home-and-life",
+  "note": "Portfolio pages 12–14 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title and summary block and the four life-stage comic strips (drawn over family photos) on page 12; the current-situation panel (photos of the original home) and the Project concept panel (a film still) on page 13; page 15 (Other Works). Typos fixed: befofe, doughter, Etreet, pedestrain. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-physical-model.webp",
+      "sha256": "e9f1ce10c78b5fd38b2d6f1e68007ed1fc857970297f89607b03f815148f02ea",
+      "bytes": 340552,
+      "from": "page 13 — Physical model (cover), x 50–84.5 %"
+    },
+    {
+      "name": "02-location-analysis.webp",
+      "sha256": "95bb781a7e25f7cba1b2fc7f844276bb89d96362fdae4f1aff3879ee48bf32d0",
+      "bytes": 143622,
+      "from": "page 12 — Location analysis, x 0–20.5 %, y 25–100 %; the title and summary block are excluded"
+    },
+    {
+      "name": "03-frequency-of-use.webp",
+      "sha256": "351e53a1837f64767816b4d73dafc468789541c4bf8a031822628b19453cad5c",
+      "bytes": 48044,
+      "from": "page 12 — frequency of use plans for each period, x 27.5–100 %, y 75–100 %; the four life-stage comic strips above are excluded"
+    },
+    {
+      "name": "04-decode-box-plans.webp",
+      "sha256": "c3db8113f39a6e9d2d1e00d143a2b69104b8a2d2c751e9b1c24de401d3384620",
+      "bytes": 198344,
+      "from": "page 13 — Decode box, floor plan of the original home and new space division, x 25.5–50 %; the current-situation and project-concept panels are excluded"
+    },
+    {
+      "name": "05-room-layout.webp",
+      "sha256": "fd575a64a956fdc7c0d3abf81d4be04d13b962eafbdb7209a1d034de83635647",
+      "bytes": 134818,
+      "from": "page 13 — Room layout, fixed and dynamic space, mechanism principle, x 84.5–100 %"
+    },
+    {
+      "name": "06-floor-1.webp",
+      "sha256": "530979ba58f6a8d64ae2f3cdde072bddb755fd7569cd3ea0a6b30d4ed82ed892",
+      "bytes": 303684,
+      "from": "page 14 — F1 plans and renders, x 0–33 %"
+    },
+    {
+      "name": "07-floor-2.webp",
+      "sha256": "b78c9af2fa4970c951104c250ec9967ef8a9036d6105dc519d9b3d834fe3d7a4",
+      "bytes": 345514,
+      "from": "page 14 — F2 plans and renders, x 33–66 %"
+    },
+    {
+      "name": "08-floor-3.webp",
+      "sha256": "12cbb2ca1e131e24513b0685f9746d2328defc90432d3b36c34486e010ac3178",
+      "bytes": 286734,
+      "from": "page 14 — F3 plans and renders, x 66–100 %"
+    }
+  ]
+}
