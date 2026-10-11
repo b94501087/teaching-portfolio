@@ -1,0 +1,67 @@
+{
+  "project": "Neurotic Experience Center",
+  "dest": "assets/board/neurotic-experience-center",
+  "note": "Portfolio e9a3aa5d pages 18–22 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: page 17 (title collage with photos of people), the face photos and photo strips on page 18, the facial-expression photo graph on page 19, the portrait photo on page 20, the model photos with figures on pages 21 and 22. No retouching.",
+  "files": [
+    {
+      "name": "01-physical-model.webp",
+      "sha256": "2f8231d681815b611a83f3f42bdffbaeb5fc2b1cf0f86d61a265f3c0d8d4da49",
+      "bytes": 25266,
+      "from": "e9a3aa5d page 21 — physical model of the first floor, x 22.5–61 %, y 0–39 %"
+    },
+    {
+      "name": "02-space-and-personality.webp",
+      "sha256": "c6213351ea1188024cdc82b2d5719ded91e808947d0c96fa0c30ac0831478d95",
+      "bytes": 48106,
+      "from": "page 18 — space plans for four neurotic personalities, y 59.5–77.5 %; the photo strips above are excluded"
+    },
+    {
+      "name": "03-bubble-spaces.webp",
+      "sha256": "e4113c9af3d2ae89d0bb376a09c3e61dd050c6f4f2e831d288e46a10a9961be8",
+      "bytes": 25968,
+      "from": "page 18 — bubble spaces for the four personalities, y 78–99 %"
+    },
+    {
+      "name": "04-interaction-device.webp",
+      "sha256": "f604fbea6c4c0dd21d22905e90527708e9372fb417511f6fa8e73dce2c3f8a8d",
+      "bytes": 54876,
+      "from": "page 19 — interaction device application, x 0–60 %, y 6–67 %"
+    },
+    {
+      "name": "05-inflatable-device-expansion.webp",
+      "sha256": "63f551b8738ad3d4ad0570ffcb4655b7320b423e960bfb60828ed340067cf564",
+      "bytes": 25500,
+      "from": "page 19 — effect of the inflatable device display, y 84–100 %"
+    },
+    {
+      "name": "06-material-space-and-senses.webp",
+      "sha256": "e391935c824ffd99e078042342316407cac7979f39a7266f83fa4e62da4b36d8",
+      "bytes": 165736,
+      "from": "page 20 — material, space and senses, x 9–67 %; the portrait photo at the top left is excluded"
+    },
+    {
+      "name": "07-form-concept.webp",
+      "sha256": "c2f14eeba3721fb53d519118dd5e25dc54292dba3b6d34822e7c69b22fa19de0",
+      "bytes": 63764,
+      "from": "page 20 — concept development of architectural form and the effect of shape on the balloon, x 67–100 %"
+    },
+    {
+      "name": "08-first-floor-layout.webp",
+      "sha256": "40b08a84cba60aae80466659e430663eb21fdde470e580d684b17e9386644317",
+      "bytes": 30998,
+      "from": "page 21 — first floor layout, conceptual model, x 0–22.5 %, y 0–80 %"
+    },
+    {
+      "name": "09-first-floor-plan.webp",
+      "sha256": "82978893fe27c826ac1ebf39da17c55de5ce4e702c4c992f8f69c0a67d9aa687",
+      "bytes": 92192,
+      "from": "page 21 — first floor plan, x 63–100 %"
+    },
+    {
+      "name": "10-second-floor-plan.webp",
+      "sha256": "a18ee30c1fb1035aa7f048d3c7f13b9d659069362d92a44a5130e61461ed93ef",
+      "bytes": 84388,
+      "from": "page 22 — second floor layout and plan, x 41–82 %"
+    }
+  ]
+}
