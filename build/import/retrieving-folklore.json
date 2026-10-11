@@ -1,0 +1,55 @@
+{
+  "project": "Retrieving Folklore",
+  "dest": "assets/board/retrieving-folklore",
+  "note": "Portfolio pages 9–13 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title and both strips of street photos on page 9, and the Local Analysis of Culture panel (photos of real people at folk festivals) and the four small model photos on page 11. Typos fixed: Folkiore, Chagi/Chaiji (Chaji), Heritage, Gathering, Introduction. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-physical-model.webp",
+      "sha256": "227658df809f671f24c2f6b5faa0c0af7cb31035b9f6202cf302df47136ebddd",
+      "bytes": 134574,
+      "from": "page 11 — Physical Model, main photo (cover), x 49–100 %, y 21.5–100 %; the four small model photos and the culture panel are excluded"
+    },
+    {
+      "name": "02-paths-and-residents.webp",
+      "sha256": "d677818d4284d621a46407450207b77548b69988c77990daf2ef7cb57bb3c0fa",
+      "bytes": 177280,
+      "from": "page 9 — paths, cultural arches and resident interviews, x 25.5–100 %, y 15.5–84 %; the title and both strips of street photos are excluded"
+    },
+    {
+      "name": "03-site-massing.webp",
+      "sha256": "0b94cee9a3f63b16ff9b3af242854920ad8c0ce27fa3975f4f9365e6447bb138",
+      "bytes": 46352,
+      "from": "page 9 — location and massing diagrams, x 0–25.5 %, y 38–100 %"
+    },
+    {
+      "name": "04-strategy-steps.webp",
+      "sha256": "e341f9a04401822e1090ff2d08226ac7ed1a89be626da00eb248ecb2a9f6aee0",
+      "bytes": 132614,
+      "from": "page 10 — goals and Steps 1–3, x 0–46.5 %"
+    },
+    {
+      "name": "05-benign-growth-plan.webp",
+      "sha256": "da2917a51cb3b996fd66fdb9886620f9a9a8cb94eb57ccba516b52d415f96ca3",
+      "bytes": 163042,
+      "from": "page 10 — Benign Growth & Organic Renewal plan, x 46.5–100 %"
+    },
+    {
+      "name": "06-explosion-diagram.webp",
+      "sha256": "14c873f6870d39e18a82f4a919a031e5ae6485399d298d77a7df65784454daa9",
+      "bytes": 168722,
+      "from": "page 12 — Rendering Explosion Diagram, y 0–68 %"
+    },
+    {
+      "name": "07-activities-render.webp",
+      "sha256": "259e7a167c55a6d912868367fae2ad992e980b5d5a8f15988da95369dfd1be0a",
+      "bytes": 83242,
+      "from": "page 12 — Activities Render, y 68–100 %"
+    },
+    {
+      "name": "08-plane-dwelling-open-space.webp",
+      "sha256": "fc087b24dfa80b31c5f5d409854414e7d19150c100913acb81a49accc32ea19e",
+      "bytes": 356296,
+      "from": "page 13 — Plane Generation, Dwelling Renovation and Public Open Space, full page"
+    }
+  ]
+}
