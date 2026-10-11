@@ -1,0 +1,67 @@
+{
+  "project": "Silent Habitation",
+  "dest": "assets/board/silent-habitation",
+  "note": "Portfolio pages 2–5 cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: the beaver-dam photo, beaver photo sequence, news screenshots and beaver timeline (stock photos) and the site photo strip on page 2, and the plant photos on page 3. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "900f1676f616d595b7b04ab29fcd226ab892d4a4253c5901535ec661db82b87c",
+      "bytes": 380022,
+      "from": "page 5 — handmade model, large view (cover), x 17–50 %"
+    },
+    {
+      "name": "02-site-status.webp",
+      "sha256": "fba5c852c90746202c3a0a0fb26dbe36b63f2286771e025f0c291908d20f14c4",
+      "bytes": 357138,
+      "from": "page 2 — Site analysis and site status map, x 50.5–82 %, y 0–86 %; the site photo strip below is excluded"
+    },
+    {
+      "name": "03-strategies.webp",
+      "sha256": "ec0e57fd56af14368ec830263d0fe79c2cbe4755764bf443e0d2867aa1ae7af9",
+      "bytes": 313132,
+      "from": "page 2 — Strategies for ecological environment restoration, x 82–100 %"
+    },
+    {
+      "name": "04-site-design.webp",
+      "sha256": "4647e0e17d6cb123c70cb37dd4ed83c759e61ef2ee70abfaf78e4e0059c6030a",
+      "bytes": 180900,
+      "from": "page 3 — Site Design: river regulation and habitat, human activity paths (x 0–23.5 %, y 0–49.5 %) beside the site sections (x 23.5–50 %, y 0–70 %); the plant photos are excluded"
+    },
+    {
+      "name": "05-block-design.webp",
+      "sha256": "faac631a76ca4cd49c1a044de8537593707eb480e4d5a924872bc5ecb7e83fc3",
+      "bytes": 146936,
+      "from": "page 3 — Block Design: single, cutting, repeat, stacking, x 0–33 %, y 73–100 %"
+    },
+    {
+      "name": "06-axonometric-plan.webp",
+      "sha256": "1b99f58fcc448b3911c4667b6fe25ea602f25aa717101150d1b99492ee26a8f0",
+      "bytes": 361086,
+      "from": "page 3 — Axonometric + exploded view, residential interior, laboratory, river landscape and plan, x 50–100 %"
+    },
+    {
+      "name": "07-structure-details.webp",
+      "sha256": "41b90d0a799050b169dd92361ce0b69211839998472ea280d3d4ebce062660f6",
+      "bytes": 310534,
+      "from": "page 4 — Axonometric drawing + node structure details, x 0–25 %"
+    },
+    {
+      "name": "08-roof-interior.webp",
+      "sha256": "001f7e1b89ee4bf421478b64d761d368f6856ad46b89556f4072247159210b9d",
+      "bytes": 444564,
+      "from": "page 4 — Roof, indoor view and overview renders, x 25–50 %"
+    },
+    {
+      "name": "09-elevation-perspective.webp",
+      "sha256": "092617205a8413f2137d6381019221f09cd27c087a75837f9a331d2be064aa3d",
+      "bytes": 428712,
+      "from": "page 4 — Building elevation, perspective and ground plan, x 50–100 %"
+    },
+    {
+      "name": "10-model-views.webp",
+      "sha256": "07deb374e82aca380896799cefa42471d8b3fa35fb9495e8d4d681161e973613",
+      "bytes": 210312,
+      "from": "page 5 — three model photos, x 0–16.5 %"
+    }
+  ]
+}
