@@ -1169,6 +1169,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Tiny Forest — A Leaf-Collection Tower for Tokyo",
+      "slug": "tiny-forest",
+      "description": "Japan's artificial conifer forests cannot work as diverse ecosystems, so a hexagonal tower in Tokyo plants broad-leaved trees and collects their fallen leaves to return them to the forest or turn them into electricity.\n\nTokyo, Japan | Individual practice / leaf-collection tower | Aug 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "小森林——東京的落葉收集塔",
+          "description": "日本的人工針葉林無法發揮多樣生態系統的功能，於是在東京設計一座六角形的塔，種植闊葉樹並收集落葉，把落葉送回森林或轉換成電力。\n\n日本東京｜個人實作／落葉收集塔｜2023 年 8 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tiny-forest/01-cover-model.webp",
+        "assets/board/tiny-forest/02-fallen-leaves.webp",
+        "assets/board/tiny-forest/03-broadleaf-advantages.webp",
+        "assets/board/tiny-forest/04-miyawaki-method.webp",
+        "assets/board/tiny-forest/05-concept.webp",
+        "assets/board/tiny-forest/06-design-process.webp",
+        "assets/board/tiny-forest/07-individual-practice.webp",
+        "assets/board/tiny-forest/08-tokyo-corridor.webp",
+        "assets/board/tiny-forest/09-tower-section.webp",
+        "assets/board/tiny-forest/10-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tiny-forest/01-cover-model.webp"
+          ],
+          "captions": [
+            "Physical model of the leaf-collection tower at 1:130, with planting platforms on steel legs and stairs climbing between them."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "1:130 落葉收集塔實體模型，種植平台立在鋼腳柱上，樓梯在平台之間攀升。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Forest coverage in Japan is about 66 %, but 40 % of it is artificial coniferous forest that cannot fulfil the functions of natural forests as a diversified ecosystem. Fallen leaves are what rebuilds forest soil, and since 2009 China has banned the export of forest litter that Japan once imported, so the project asks how leaves could be collected locally and returned to the forest.",
+          "images": [
+            "assets/board/tiny-forest/02-fallen-leaves.webp",
+            "assets/board/tiny-forest/03-broadleaf-advantages.webp"
+          ],
+          "captions": [
+            "The role of fallen leaves in forest — decomposition from fresh leaf to nutrients over 0–1 week to more than a year, and soil thickness built up over 1, 10, 50 and 100 years.",
+            "The advantages of broad-leaved forest — adsorbing dust, sound insulation of 10–15 decibels for a forest strip 40 meters across, biodiversity and a cooler summer and warmer winter."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "日本的森林覆蓋率約 66%，但其中 40% 是人工針葉林，無法像天然林一樣發揮多樣生態系統的功能。落葉是重建森林土壤的關鍵，而中國自 2009 年起禁止出口日本過去進口的森林落葉，因此本案思考：能否在當地收集落葉並送回森林。",
+              "captions": [
+                "落葉在森林中的角色——從新鮮落葉到養分的分解過程，歷時 0–1 週到一年以上，以及 1、10、50、100 年間逐步增厚的土壤。",
+                "闊葉林的優點——吸附粉塵、40 公尺寬的林帶可降低 10–15 分貝噪音、增加生物多樣性，以及夏涼冬暖的調溫效果。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Akira Miyawaki's afforestation method plants native species densely on very small plots, so trees grow about ten times faster and the forest needs no maintenance after two to three years. Since Tokyo's forest coverage is low, broad-leaved trees were chosen and planted in hexagonal containers, with fallen leaves collected in wire boxes and either returned to the forest soil or fermented into electricity.",
+          "images": [
+            "assets/board/tiny-forest/04-miyawaki-method.webp",
+            "assets/board/tiny-forest/05-concept.webp"
+          ],
+          "captions": [
+            "Case study — the Miyawaki method: identifying potential natural vegetation, preparing the soil, planting the saplings and management.",
+            "Concept — how to plant trees, how to collect fallen leaves and how to use them: 1 ton of leaves generates 50–70 m³ of methane, or 100–140 kWh of electric energy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "宮脇昭博士的造林法在極小的基地上密植原生樹種，樹木生長速度約快十倍，兩到三年後即無需維護。由於東京的森林覆蓋率低，本案選擇闊葉樹並種在六角形容器中，落葉以鐵絲網箱收集，再送回森林改良土壤或經發酵轉為電力。",
+              "captions": [
+                "案例研究——宮脇造林法：辨識潛在自然植被、整備土壤、種植樹苗與後續管理。",
+                "概念——如何種樹、如何收集落葉、如何使用落葉：1 噸落葉可產生 50–70 m³ 甲烷，即 100–140 kWh 電能。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The hexagon, found in nature in honeycombs and snow crystals, became the planting vessel, and splicing hexagons into a tower lets one structure both plant trees and collect their leaves. A 1:25 planting test with coffee powder as the original soil, fertile soil, saplings and straw checked each step, and the tower was then placed along an urban forest corridor in Chuo-ku.",
+          "images": [
+            "assets/board/tiny-forest/06-design-process.webp",
+            "assets/board/tiny-forest/07-individual-practice.webp",
+            "assets/board/tiny-forest/08-tokyo-corridor.webp"
+          ],
+          "captions": [
+            "Design process — from hexagonal planting vessels and hexagon splicing to individual components, the planting assembly combined with the tower and the detailed draft.",
+            "Individual practice — planting steps at 1:25, from coffee powder as the original soil layer to saplings covered with straw and straw rope.",
+            "Tokyo forest area and building density, the urban forest corridor planning map of Chuo-ku and a partial forest corridor master plan over the existing green space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "六角形在自然中見於蜂巢與雪花結晶，本案以它作為種植容器，並把六角形拼接成塔，讓同一座結構既能種樹也能收集落葉。以咖啡粉模擬原有土層、再加上肥沃土壤、樹苗與稻草，完成 1:25 的種植實驗逐步驗證，接著把塔放進中央區的都市森林廊道中。",
+              "captions": [
+                "設計過程——從六角形種植容器、六角形拼接、單元構件，到種植組件與塔結合，再到細部草圖。",
+                "個人實作——1:25 的種植步驟，從以咖啡粉模擬原有土層，到種下樹苗並以稻草與草繩覆蓋。",
+                "東京森林面積與建築密度、中央區都市森林廊道規劃圖，以及在既有綠地上的局部森林廊道總平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Leaves from each layer fall into the hexagonal structure and are removed from the litter collection box, with some transported back to the forest and others processed into electricity in an underground fermentation room. Sensing fans, an automatic sprinkler, water storage buckets and shared charging seats complete the tower, tested in a 1:130 physical model of PLA, resin, barbed wire, plank, tree, soil and leaves.",
+          "images": [
+            "assets/board/tiny-forest/09-tower-section.webp",
+            "assets/board/tiny-forest/10-model-details.webp"
+          ],
+          "captions": [
+            "Tower section A-A' — litter collection box, sensing fan, tap switch, water pipe, automatic sprinkler, shared charging seat, ventilation opening, water storage bucket and fermentation room.",
+            "Close-ups of the physical model — planting platforms, stairs and hexagonal planters at ground level."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每一層的落葉落入六角形結構，再從落葉收集箱中取出，一部分送回森林，另一部分在地下發酵室直接轉換成電力。感應風扇、自動灑水器、儲水桶與共享充電座椅讓塔更加完整，並以 PLA、樹脂、鐵絲、木板、樹木、土壤與落葉製作的 1:130 實體模型加以測試。",
+              "captions": [
+                "塔剖面 A-A'——落葉收集箱、感應風扇、水龍頭開關、水管、自動灑水器、共享充電座椅、通風口、儲水桶與發酵室。",
+                "實體模型特寫——種植平台、樓梯與地面上的六角形植栽槽。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Follow one material through its whole cycle: here a fallen leaf, from tree to soil, export ban and energy.\n2. Borrow a proven method, the Miyawaki method, and test it yourself at small scale before designing with it.\n3. Find one shape that does several jobs: the hexagon holds soil, collects leaves and builds the tower.\n4. Place the object in the city: map density and green space so a single tower becomes part of a forest corridor.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 追蹤一種材料的完整循環：這裡是一片落葉，從樹到土壤、出口禁令，再到能源。\n2. 借用一套已被驗證的方法——宮脇造林法——並在設計前先親手做小尺度實驗。\n3. 找到一個能同時完成多項任務的形狀：六角形既能盛土、收集落葉，也能組成塔。\n4. 把物件放回城市：分析密度與綠地，讓單一座塔成為森林廊道的一部分。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
