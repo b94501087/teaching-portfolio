@@ -1,0 +1,61 @@
+{
+  "project": "Memory of the Tower",
+  "dest": "assets/board/memory-of-the-tower",
+  "note": "Portfolio 952911a3 pages 7–9 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the project title page with photos of the building and of people on page 6, the regional analysis photos, peripheral view photos and site vicinity photos on page 7, the Guangzhou culture photo strips on page 8, the photo of a person with the model and the production process photos on page 9. No retouching.",
+  "files": [
+    {
+      "name": "01-tower-model-rendering.webp",
+      "sha256": "db23d3e1174d00c3af65763da772f46a98f796e56990624d2f2f4aa0d8258f76",
+      "bytes": 112614,
+      "from": "952911a3 page 9 — rendering of the tower model at night, x 70.5–88.5 %"
+    },
+    {
+      "name": "02-exploded-tower.webp",
+      "sha256": "ddb989788c4a795d88398a55bd1fae471ad8174ba6b6aeec86a1e2f221d06a76",
+      "bytes": 68094,
+      "from": "page 7 — exploded view of the tower and its storeys, x 29–49 %, y 22.5–77.5 %; the peripheral view photos above and the site photo below are excluded"
+    },
+    {
+      "name": "03-project-status.webp",
+      "sha256": "890500be59036225e6cd98a6f1a39d0b5b1b49fa3e571a6c229bba2791a162ef",
+      "bytes": 164432,
+      "from": "page 7 — project status: section model with viewing platform, living rooms and meeting rooms, x 74–100 %"
+    },
+    {
+      "name": "04-design-strategy.webp",
+      "sha256": "dcb03ef3a4adbc794eda94dcbbedde923e0bb16c0763a68b89476de31a884b3c",
+      "bytes": 99972,
+      "from": "page 8 — design strategy for the four storeys, x 0–38.5 %, y 0–42 %; the Guangzhou culture photo strips are excluded"
+    },
+    {
+      "name": "05-opera-and-tea-generation.webp",
+      "sha256": "1d852d132d436f904b0375a5b1c2706dfd5aeb9d308c61f17abacc30f036244d",
+      "bytes": 236440,
+      "from": "page 8 — design generation: Cantonese opera and Cantonese morning tea, x 38.5–76 %"
+    },
+    {
+      "name": "06-generation-section.webp",
+      "sha256": "b01389fef4cc9739d2b8a049c25085eee410aece8a4c702f62e5cd09f75a1ba5",
+      "bytes": 143664,
+      "from": "page 8 — design generation section, x 76–100 %"
+    },
+    {
+      "name": "07-four-sides-of-model.webp",
+      "sha256": "9adfe23187d9037b76de6c645645102cb51b1589a5953bb194cec668cb64cb38",
+      "bytes": 92078,
+      "from": "page 9 — the four sides of the model, x 36–70 %, y 0–33 %"
+    },
+    {
+      "name": "08-model-details.webp",
+      "sha256": "bcbdbe30481017ecc6c0b71ace495f8cbdaa445347ef4ec8197f12615a939495",
+      "bytes": 60948,
+      "from": "page 9 — model details, x 36–70 %, y 70–100 %"
+    },
+    {
+      "name": "09-interior-views.webp",
+      "sha256": "06ae72e7807028998590a1885e522348e7b0379de8989cfa0629e57b21b07b1c",
+      "bytes": 90396,
+      "from": "page 9 — interior model views, x 88.5–100 %"
+    }
+  ]
+}
