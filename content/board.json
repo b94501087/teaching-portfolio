@@ -6217,6 +6217,939 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Dead Sea",
+      "slug": "dead-sea",
+      "description": "As the shrinking Dead Sea opens sinkholes near En Gedi, a route and a date palm boardwalk turn the hazard into a landscape and keep the harvest going.\n\nEn Gedi, Dead Sea | Landscape design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "死海",
+          "description": "萎縮的死海在恩戈地附近形成天坑；一條路線與椰棗步道將危險轉化為地景，並讓採收得以延續。\n\n死海恩戈地｜景觀設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/dead-sea/01-cover-master-plan.webp",
+        "assets/board/dead-sea/02-dead-sea-map.webp",
+        "assets/board/dead-sea/03-sinkhole-analysis.webp",
+        "assets/board/dead-sea/04-date-palm-boardwalk.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/dead-sea/01-cover-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan near En Gedi: a route from the visitor centre and goat trail across a winter bridge and time corridor to a date palm boardwalk, a harvest site, a Dead Sea monument and a waterside platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "恩戈地附近的總平面：一條路線從遊客中心與山羊步道出發，經過冬季橋與時間廊道，通往椰棗步道、採收體驗區、死海紀念碑與水岸平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In recent years the shrinking Dead Sea has led to the formation of sinkholes, transforming the karst landscapes while jeopardizing safety and disrupting daily lives. Access to date palm orchards is now elusive, and the tourism industry suffers as coastal retreat leads to the closure of Dead Sea beaches.",
+          "images": [
+            "assets/board/dead-sea/02-dead-sea-map.webp"
+          ],
+          "captions": [
+            "The Dead Sea and En Gedi."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "近年來死海持續萎縮，形成大量天坑，改變了喀斯特地景，也危及安全、擾亂日常生活。人們難以進入椰棗園，海岸後退又使死海海灘關閉，觀光業因而受到衝擊。",
+              "captions": [
+                "死海與恩戈地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The Dead Sea area has intense heat and high evaporation, and climate change keeps raising average temperatures. Upstream canals pump water for northern plantations and cut off fresh water from the Jordan River, while potassium salt factories in the south pump seawater into evaporation ponds, and the Israel Geological Survey monitors the sinkholes and predicts new ones.",
+          "images": [
+            "assets/board/dead-sea/03-sinkhole-analysis.webp"
+          ],
+          "captions": [
+            "Sinkhole monitoring, the shoreline from year to year, and how a sinkhole appears as fresh water dissolves underground salt."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "死海地區炎熱、蒸發量高，氣候變遷又使平均氣溫持續上升。上游運河為北部農園抽水，切斷了約旦河注入死海的淡水；南部的鉀鹽工廠則把海水抽進蒸發池，而以色列地質調查局持續監測天坑，並預測新天坑的出現。",
+              "captions": [
+                "天坑監測、逐年變化的海岸線，以及淡水溶蝕地下鹽層而形成天坑的過程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Coconut dates make up one third of local residents' income, but sinkholes now appear in the date groves and harvesting machines cannot enter. Spanning a boardwalk over the small sinkholes lets the harvest continue and helps the agricultural economy recover.",
+          "images": [
+            "assets/board/dead-sea/04-date-palm-boardwalk.webp"
+          ],
+          "captions": [
+            "Geological structure, sinkholes in the date groves, the boardwalk solution and its structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "椰棗占在地居民收入的三分之一，但天坑如今出現在椰棗林中，採收機械無法進入。在小型天坑上架設步道，讓採收得以持續，也幫助農業經濟復甦。",
+              "captions": [
+                "地質構造、椰棗林中的天坑、步道解方及其結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The route links En Gedi with a visitor centre, a goat trail, a winter bridge, a time corridor, the date palm boardwalk, a harvest experience site, a Dead Sea monument, a waterside platform, the karst and a garden by Route 90. Sinkholes become part of the landscape experience instead of only a hazard.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這條路線串連恩戈地與遊客中心、山羊步道、冬季橋、時間廊道、椰棗步道、採收體驗區、死海紀念碑、水岸平台、喀斯特地景，以及 90 號公路旁的花園。天坑成為地景體驗的一部分，而不只是危險。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Trace a landscape problem back to its causes.\n2. Map change over years, not one moment.\n3. Solve the livelihood first: here, the date harvest.\n4. Turn the hazard into part of the route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把地景問題追溯到它的成因。\n2. 繪製多年來的變化，而不是單一時刻。\n3. 先解決生計：在這裡是椰棗採收。\n4. 把危險轉化為路線的一部分。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Norway in the Face of Climate Change",
+      "slug": "norway-sami-landscape",
+      "description": "A Sami resilient landscape on Vanna Island, Norway, holding floodwater in cisterns and wetlands so lichen pastures can keep feeding reindeer through warmer winters.\n\nVanna Island, Norway | Resilient landscape design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "挪威面對氣候變遷",
+          "description": "位於挪威瓦納島的薩米韌性地景，以蓄水池與濕地留住洪水，讓地衣牧場在更暖的冬季仍能餵養馴鹿。\n\n挪威瓦納島｜韌性景觀設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/norway-sami-landscape/01-cover-island-axonometric.webp",
+        "assets/board/norway-sami-landscape/02-vanna-island-analysis.webp",
+        "assets/board/norway-sami-landscape/03-lichen-and-water.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/norway-sami-landscape/01-cover-island-axonometric.webp"
+          ],
+          "captions": [
+            "Axonometric of the design layers: a stone beach, moss water trail, ecological education corridor, artificial cisterns and squares, hiking campsite and reindeer pasture, set against meadow, shrubs, sparse forest and dense forest."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "設計層次的軸測圖：石灘、苔蘚水道、生態教育廊道、人工蓄水池與廣場、健行營地與馴鹿牧場，對應草甸、灌木、疏林與密林。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "With global warming, precipitation is becoming increasingly unstable, and in high-latitude regions such as Norway it shows up as frequent floods and drastic temperature swings. For the Sami people who still herd reindeer, it means the reindeer struggle to find food beneath ice layers and may starve, while the accelerating melt of glaciers makes this worse.",
+          "images": [
+            "assets/board/norway-sami-landscape/02-vanna-island-analysis.webp"
+          ],
+          "captions": [
+            "Reindeer migration, the Sami dilemma of rain-on-snow events, the Vanna Island map, NDVI and the seasonal pastures."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "全球暖化使降水越來越不穩定，在挪威這樣的高緯度地區，表現為頻繁的洪水與劇烈的溫度變化。對仍以放牧馴鹿為生的薩米人而言，這意味著馴鹿難以在冰層下找到食物而可能餓死，冰川加速融化更讓情況惡化。",
+              "captions": [
+                "馴鹿遷徙、雨落雪事件造成的薩米困境、瓦納島地圖、NDVI 與四季牧場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Vanna Island is a year-round pasture for the Sami people, with Sami collection areas, reindeer pastures and a diverse array of plants, including some endangered species. Its glacial valleys have steep higher elevations and overly flat lower areas that hinder water storage and drainage, and the existing river channels cannot handle the increased water volume during the flood season.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "瓦納島是薩米人的全年牧場，有薩米採集區、馴鹿牧場與豐富的植物，其中包括一些瀕危物種。島上冰川谷地高處陡峭、低處過於平坦，不利蓄水與排水，現有河道也無法承受汛期增加的水量。"
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Lichens, the reindeer's winter food, are most affected by water: there are nearly none in submerged areas, yet they thrive best close to water sources. The design therefore tests how stone, water and ice can keep lichen beds near water without drowning them.",
+          "images": [
+            "assets/board/norway-sami-landscape/03-lichen-and-water.webp"
+          ],
+          "captions": [
+            "Lichen growth under changing temperature, water and light, and the sketch of how the design keeps lichen near water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "地衣是馴鹿冬季的食物，最受水的影響：淹水區幾乎沒有地衣，但它們在靠近水源處長得最好。因此設計測試石頭、水與冰如何讓地衣床靠近水，卻不被淹沒。",
+              "captions": [
+                "地衣在溫度、水與光變化下的生長，以及設計如何讓地衣靠近水的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "To address the floods the island needs more reservoirs and wetlands to manage and store floodwater. The layered landscape adds cisterns, a moss water trail and an ecological education corridor beside the reindeer pasture and hiking campsite, so that water is held and the pastures keep feeding the herd.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "為因應洪水，島上需要更多蓄水池與濕地來管理和儲存洪水。分層的地景在馴鹿牧場與健行營地旁加入蓄水池、苔蘚水道與生態教育廊道，讓水被留住，牧場也能持續餵養鹿群。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the people and animals the climate affects.\n2. Read the island through maps and NDVI.\n3. Find the one species the system depends on.\n4. Design layers that hold water for it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從受氣候影響的人與動物出發。\n2. 透過地圖與 NDVI 閱讀島嶼。\n3. 找出整個系統所依賴的那一個物種。\n4. 設計為它留住水的地景層次。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Xinzao Ferry Terminal Park",
+      "slug": "xinzao-ferry-terminal-park",
+      "description": "A ferry terminal in Guangzhou facing closure becomes a park on the greenway, shaped by a resonance concept and by the sanitation workers who use it most.\n\nGuangzhou, China | Landscape design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "新造渡口公園",
+          "description": "面臨關閉的廣州渡口轉型為綠道上的公園，以共振概念與最常使用它的清潔工人為設計依據。\n\n中國廣州｜景觀設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/xinzao-ferry-terminal-park/01-cover-aerial.webp",
+        "assets/board/xinzao-ferry-terminal-park/02-greenway-planning.webp",
+        "assets/board/xinzao-ferry-terminal-park/03-design-strategy-map.webp",
+        "assets/board/xinzao-ferry-terminal-park/04-resonance-concept.webp",
+        "assets/board/xinzao-ferry-terminal-park/05-design-procedure.webp",
+        "assets/board/xinzao-ferry-terminal-park/06-strategy-diagrams.webp",
+        "assets/board/xinzao-ferry-terminal-park/07-floor-plan-sections.webp",
+        "assets/board/xinzao-ferry-terminal-park/08-architectural-plan.webp",
+        "assets/board/xinzao-ferry-terminal-park/09-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/xinzao-ferry-terminal-park/01-cover-aerial.webp"
+          ],
+          "captions": [
+            "Aerial view of the ferry terminal park on the riverbank, with the Xinzao ferry route and the Guangzhou greenway system."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "河岸渡口公園鳥瞰，含新造渡輪航線與廣州綠道系統。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The Xinzao ferry terminal in Guangzhou began operating in 1991 and was once prosperous, but around 2010 a policy of building bridges and dismantling ferries brought elevated roads, subways and an under-river tunnel nearby. Other terminals on the island closed in 2019, and with the Jinguang Tunnel about to open this one also faces closure, although it holds urban memories as well as serving transport.",
+          "images": [
+            "assets/board/xinzao-ferry-terminal-park/02-greenway-planning.webp"
+          ],
+          "captions": [
+            "Government planning of the greenway, with ferries still in operation and ferries closed."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州新造渡口於 1991 年啟用，曾經興盛；但約在 2010 年，「建橋撤渡」的政策讓高架道路、地鐵與過江隧道陸續在附近興建。島上其他渡口已於 2019 年關閉，隨著金光隧道即將完工，這個渡口也面臨關閉，然而它不只服務交通，也承載著城市記憶。",
+              "captions": [
+                "政府的綠道規劃，以及仍在營運與已關閉的渡口。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Visitor analysis found that 75% of passengers are sanitation workers who need a resting place, shade and quick access to the exit road. The strategy map links the site to nearby villages, universities, the Lingnan Impression Garden and abandoned green spaces, so the terminal can become a ferry terminal park.",
+          "images": [
+            "assets/board/xinzao-ferry-terminal-park/03-design-strategy-map.webp"
+          ],
+          "captions": [
+            "Design strategy linking the terminal to the surrounding villages, campuses and green spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "訪客分析發現 75% 的乘客是清潔工人，他們需要休息處、遮蔭，以及快速通往出口道路的路徑。策略圖把基地與周邊村落、大學、嶺南印象園與廢棄綠地串連起來，讓渡口轉型為渡口公園。",
+              "captions": [
+                "將渡口與周邊村落、校園及綠地串連的設計策略。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Resonance in physics is a system vibrating with greater amplitude at specific frequencies; here the original site, the design and the people act together so the functional zones resonate. Road planning first gives ferry passengers swift access to the port, three main zones follow (riverside, ecological nature and underground parking), they permeate each other into smaller areas, and secondary park roads finish the first draft.",
+          "images": [
+            "assets/board/xinzao-ferry-terminal-park/04-resonance-concept.webp",
+            "assets/board/xinzao-ferry-terminal-park/05-design-procedure.webp",
+            "assets/board/xinzao-ferry-terminal-park/06-strategy-diagrams.webp"
+          ],
+          "captions": [
+            "The resonance concept: original site, design and people.",
+            "Design procedure in four steps.",
+            "Design strategies, from waterfront platforms and a suspension bridge to a playground and a rain garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "物理中的共振指系統在特定頻率下以更大的振幅振動；在這裡，原有基地、設計與人共同作用，讓各功能區產生共振。先規劃道路，讓渡輪乘客快速抵達碼頭，再劃出三大功能區（河岸、生態自然與地下停車），三者相互滲透成更小的區域，最後以次級園路完成初步方案。",
+              "captions": [
+                "共振概念：原有基地、設計與人。",
+                "四個步驟的設計程序。",
+                "設計策略：從水岸平台、吊橋到遊戲場與雨水花園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The park brings together the Xinzao ferry, a ferry café and front plaza, a riverside square, an artificial island, a play space, a bioretention basin and an entrance square. The physical model tests the café, the riverside promenade, the suspension bridge and the waterfront platform.",
+          "images": [
+            "assets/board/xinzao-ferry-terminal-park/07-floor-plan-sections.webp",
+            "assets/board/xinzao-ferry-terminal-park/08-architectural-plan.webp",
+            "assets/board/xinzao-ferry-terminal-park/09-model.webp"
+          ],
+          "captions": [
+            "Floor plan with the sustainable design diagrams and cross-sections of the riverside plaza and play space.",
+            "Architectural floor plan and elevation of the ferry terminal café.",
+            "Model: ferry terminal café and front plaza, riverside promenade, suspension bridge and waterfront platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "公園整合了新造渡口、渡口咖啡館與前廣場、河岸廣場、人工島、遊戲空間、生物滯留池與入口廣場。實體模型則用來檢驗咖啡館、河岸步道、吊橋與水岸平台。",
+              "captions": [
+                "總平面，含永續設計圖解，以及河岸廣場與遊戲空間的剖面。",
+                "渡口咖啡館的建築平面與立面。",
+                "模型：渡口咖啡館與前廣場、河岸步道、吊橋與水岸平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the policy history of a place.\n2. Ask who actually uses it today.\n3. Borrow a concept from another field and test it.\n4. Build a model to check the key spaces.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 閱讀一個地方的政策歷史。\n2. 問清楚今天真正使用它的人是誰。\n3. 從其他領域借用概念並加以檢驗。\n4. 製作模型檢查關鍵空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Modern Chinese Garden, Shaoxing",
+      "slug": "shaoxing-modern-chinese-garden",
+      "description": "A deserted street corner in Shaoxing becomes a new Chinese garden without walls, where grass stands in for water and the paving becomes islands linked by bridges.\n\nShaoxing, Zhejiang, China | Landscape design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "紹興新中式園林",
+          "description": "紹興一處冷清的街角轉化為沒有圍牆的新中式園林：以草地代替水面，鋪面成為以橋相連的島。\n\n中國浙江紹興｜景觀設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/shaoxing-modern-chinese-garden/01-cover-plan.webp",
+        "assets/board/shaoxing-modern-chinese-garden/02-site-analysis.webp",
+        "assets/board/shaoxing-modern-chinese-garden/03-surrounding-land-use.webp",
+        "assets/board/shaoxing-modern-chinese-garden/04-garden-elements.webp",
+        "assets/board/shaoxing-modern-chinese-garden/05-scenes-and-section.webp",
+        "assets/board/shaoxing-modern-chinese-garden/06-model-overview.webp",
+        "assets/board/shaoxing-modern-chinese-garden/07-corridor-models.webp",
+        "assets/board/shaoxing-modern-chinese-garden/08-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/shaoxing-modern-chinese-garden/01-cover-plan.webp"
+          ],
+          "captions": [
+            "Plan of the street corner garden: grass stands in for water, and the hard ground becomes islands connected by bridges."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "街角花園平面：以草地取代水面，硬質鋪面成為以橋相連的島。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Shaoxing in Zhejiang belongs to the Jiangnan region, renowned for its traditional Chinese gardens, but traditional gardens are often private, with enclosed spaces and walls that suit modern living less well. The site, once the employee dormitory of a silk weaving factory, was demolished for a road widening and is now a deserted corner park with no visitors.",
+          "images": [
+            "assets/board/shaoxing-modern-chinese-garden/02-site-analysis.webp",
+            "assets/board/shaoxing-modern-chinese-garden/03-surrounding-land-use.webp"
+          ],
+          "captions": [
+            "Site analysis of the surrounding blocks, river and roads.",
+            "Surrounding land use: traditional gardens, urban green space and residential areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "浙江紹興屬於以傳統中國園林聞名的江南地區，但傳統園林多半私密，空間封閉、圍牆高築，不太適合現代生活。基地原是絲織廠的員工宿舍，因道路拓寬而拆除，如今是一座沒有訪客的冷清街角公園。",
+              "captions": [
+                "周邊街廓、河流與道路的基地分析。",
+                "周邊土地使用：傳統園林、城市綠地與住宅區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Traditional Chinese gardens rest on a few core elements: piled stone hills, organic water, plant matching and architecture. Comparing them with new Chinese-style gardens shows how the same elements can open up to the street.",
+          "images": [
+            "assets/board/shaoxing-modern-chinese-garden/04-garden-elements.webp"
+          ],
+          "captions": [
+            "The elements of the traditional garden compared with the new Chinese-style garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "傳統中國園林建立在幾個核心元素上：疊石假山、有機的水、植物配置與建築。將其與新中式園林比較，可以看出同樣的元素如何向街道開放。",
+              "captions": [
+                "傳統園林元素與新中式園林的比較。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Since there is no water on the site, grass replaces water because the two share similar textures and sensations, and the hard ground portions become islands connected by bridges. The scenes move from an entrance plaza through a framed composition and a lawn lake to the island.",
+          "images": [
+            "assets/board/shaoxing-modern-chinese-garden/05-scenes-and-section.webp"
+          ],
+          "captions": [
+            "Entrance plaza, frame composition, lawn lake and island, with the sectional diagram."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "由於基地沒有水，設計以草地取代水面，因為兩者有相似的質地與感受，硬質鋪面則成為以橋相連的島。場景從入口廣場、框景、草湖一路走到島上。",
+              "captions": [
+                "入口廣場、框景、草湖與島，以及剖面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model highlights the garden's active right half, surrounded by three artificial hills that create cozy spaces, with corridors, waterside pavilions, a stone door and an island inspired by the Su Causeway at West Lake. It combines traditional Chinese techniques with modern elements in an open space without walls, while the designer still adjusts the rockeries by eye because traditional rockeries have no blueprints.",
+          "images": [
+            "assets/board/shaoxing-modern-chinese-garden/06-model-overview.webp",
+            "assets/board/shaoxing-modern-chinese-garden/07-corridor-models.webp",
+            "assets/board/shaoxing-modern-chinese-garden/08-model-details.webp"
+          ],
+          "captions": [
+            "Model overview of the garden.",
+            "Short corridor, long corridor, waterside pavilion, waterside corridor and pavilion.",
+            "Pavilions, the stone door, the island and the changing scenery with each step."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型呈現花園熱鬧的右半部，三座人工假山圍出舒適的空間，並配置廊道、水榭、石門，以及取材自西湖蘇堤的島。它結合傳統中國技法與現代元素，形成沒有圍牆的開放空間；由於傳統假山沒有藍圖，設計者仍須憑眼睛調整假山的形態。",
+              "captions": [
+                "花園模型全景。",
+                "短廊、長廊、水榭、水廊與亭。",
+                "亭、石門、島，以及步移景異。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Learn the core elements of a tradition.\n2. Find what the site lacks and substitute for it.\n3. Open the enclosed type to the street.\n4. Make a model and adjust it by eye.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 學習一種傳統的核心元素。\n2. 找出基地缺少什麼，並找到替代。\n3. 讓封閉的類型向街道開放。\n4. 製作模型並用眼睛調整。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Earthen Elegance",
+      "slug": "earthen-elegance",
+      "description": "A community education centre in Busua, Ghana, built from tested rammed earth, stone and timber, with roofs and louvers shaped for the hot, rainy tropical climate.\n\nBusua, Ghana | Architecture design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "土之雅",
+          "description": "位於迦納布蘇亞的社區教育中心，以經過測試的夯土、石與木構建造，屋頂與百葉依炎熱多雨的熱帶氣候而成形。\n\n迦納布蘇亞｜建築設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/earthen-elegance/01-cover-physical-model.webp",
+        "assets/board/earthen-elegance/02-context-mapping.webp",
+        "assets/board/earthen-elegance/03-material-comparison.webp",
+        "assets/board/earthen-elegance/04-rammed-earth-experiment.webp",
+        "assets/board/earthen-elegance/05-environmental-effects.webp",
+        "assets/board/earthen-elegance/06-design-development.webp",
+        "assets/board/earthen-elegance/07-sectional-view.webp",
+        "assets/board/earthen-elegance/08-structural-strategies.webp",
+        "assets/board/earthen-elegance/09-construction-detail.webp",
+        "assets/board/earthen-elegance/10-axonometric-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/earthen-elegance/01-cover-physical-model.webp"
+          ],
+          "captions": [
+            "Physical testing model of the timber roof over the rammed earth walls."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "木構屋頂與夯土牆的實體測試模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project looks for local solutions for remote areas most affected by climate change, here a community education centre in Busua, a beach resort and fishing village in the Western Region of Ghana with over 5,000 people. Earth is well suited to extreme climates and has a long local history, but rammed earth limits design flexibility, its strength is uncertain with manual compaction, and it is not sufficiently waterproof.",
+          "images": [
+            "assets/board/earthen-elegance/02-context-mapping.webp"
+          ],
+          "captions": [
+            "Context mapping of Busua: access way, woodland, residential settlement, tourist facilities and the commercial belt."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案為最受氣候變遷影響的偏遠地區尋找在地解方：在迦納西部省的海灘度假地與漁村布蘇亞，為五千多位居民設計一座社區教育中心。土適合極端氣候，在當地也有悠久的使用歷史，但夯土限制了設計彈性，以人工夯實時強度不確定，防水性也不足。",
+              "captions": [
+                "布蘇亞的脈絡分析：通道、林地、主要聚落、觀光設施與商業帶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Local construction techniques are rudimentary, making houses prone to damage, and the climate brings high temperatures and heavy rainfall. Rammed earth walls store heat from sunlight during the day and release it at night, and a comparison of concrete, wood, bamboo, earth and mudbrick weighs strength, water resistance, workability, thermal insulation and recyclability.",
+          "images": [
+            "assets/board/earthen-elegance/03-material-comparison.webp"
+          ],
+          "captions": [
+            "Case 3 on the thermal behaviour of rammed earth, and the comparison of building material performance."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "當地的營造技術簡陋，房屋容易損壞，氣候又高溫多雨。夯土牆白天儲存日照的熱，夜間再釋放；設計並比較混凝土、木、竹、土與泥磚在強度、防水、施工性、隔熱與可回收性上的表現。",
+              "captions": [
+                "案例三：夯土的熱性能，以及建材性能比較。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Rammed earth formula experiments mixed sand and clay with additives such as fly ash, vermiculite, gypsum, basalt granules, tile ash and glutinous rice flour and compared their strength, expansion and viscosity. Dry-stacked stone bases, a mix of rammed earth and timber, external louvers and thatched roofing on inclined planes then amplify convection and induce passive ventilation against the hot, humid and rainy tropical climate.",
+          "images": [
+            "assets/board/earthen-elegance/04-rammed-earth-experiment.webp",
+            "assets/board/earthen-elegance/05-environmental-effects.webp",
+            "assets/board/earthen-elegance/06-design-development.webp"
+          ],
+          "captions": [
+            "Rammed earth formula experiment and improvement.",
+            "Environmental effects of the materials and their proportions in the project.",
+            "Design development from program volume to roof and skylights, with the spatial arrangement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "夯土配方實驗在砂與黏土中加入飛灰、蛭石、石膏、玄武岩顆粒、瓦灰與糯米粉等添加物，比較其強度、膨脹與黏性。乾砌石基、夯土與木構的結合、外部百葉，以及斜面茅草屋頂，加強對流並引導被動通風，以因應炎熱、潮濕又多雨的熱帶氣候。",
+              "captions": [
+                "夯土配方實驗與改良。",
+                "各材料的環境影響及其在本案中的比例。",
+                "從量體到屋頂與天窗的設計推演，以及空間配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The centre combines a thatched roof on a timber frame, rammed earth walls on stone bases with concrete capping beams, louvers for ventilation, windows with solar shading and funnel-shaped windows with a rainwater collection basin. It shows that reinforced concrete need not be the universal answer, and that traditional local materials and forms can bridge history and modernity.",
+          "images": [
+            "assets/board/earthen-elegance/07-sectional-view.webp",
+            "assets/board/earthen-elegance/08-structural-strategies.webp",
+            "assets/board/earthen-elegance/09-construction-detail.webp",
+            "assets/board/earthen-elegance/10-axonometric-section.webp"
+          ],
+          "captions": [
+            "Sectional view: outdoor activity space, corridor, dormitory, indoor activity space, rainwater collection and garden.",
+            "Structural strategies, from the thatched roof to the timber supporting structure.",
+            "Construction detail of the straw roof, stone base and rammed earth walls.",
+            "Axonometric section, detailed drawings and model views."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座中心結合木構架上的茅草屋頂、立於石基並以混凝土壓頂梁收邊的夯土牆、通風百葉、遮陽窗，以及搭配雨水收集池的漏斗形窗。它說明鋼筋混凝土不必是唯一答案，傳統的在地材料與形式也能連結歷史與現代。",
+              "captions": [
+                "剖面：戶外活動空間、廊道、宿舍、室內活動空間、雨水收集與花園。",
+                "結構策略：從茅草屋頂到木構支撐。",
+                "茅草屋頂、石基與夯土牆的構造細部。",
+                "軸測剖面、細部圖與模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start with the local material and its flaws.\n2. Test the material before designing with it.\n3. Let climate shape the roof and walls.\n4. Detail the joints where materials meet.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從在地材料及其缺點出發。\n2. 先測試材料，再用它來設計。\n3. 讓氣候塑造屋頂與牆。\n4. 細緻處理材料交接之處。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Spine Museum",
+      "slug": "spine-museum",
+      "description": "A museum in Macau whose twisted floors and walls are generated from the ways a spine curves, contrasting compression and softness.\n\nMacau | Urban design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "脊椎博物館",
+          "description": "位於澳門的博物館，以脊椎彎曲的方式生成扭轉的樓板與牆體，對比壓縮與柔軟。\n\n澳門｜都市設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/spine-museum/01-cover-design-development.webp",
+        "assets/board/spine-museum/02-spinal-health.webp",
+        "assets/board/spine-museum/03-cobb-angle.webp",
+        "assets/board/spine-museum/04-spinal-movements.webp",
+        "assets/board/spine-museum/05-concept-development.webp",
+        "assets/board/spine-museum/06-plans-and-sections.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/spine-museum/01-cover-design-development.webp"
+          ],
+          "captions": [
+            "Design layers of the museum, from the epidermal structure and translucent skin to the air corridor, movable planes and columnar structure, with interior views."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "博物館的設計層次：從表皮結構、半透明外皮到空氣廊道、可動樓板與柱狀結構，並附室內視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Changes in the body's form can reflect shifts in a person's state of consciousness, and prolonged stress stiffens the muscles until muscle memory leads to skeletal deformities. Attention to physical health is growing, yet orthopaedic issues are rising and spinal health worsens with age.",
+          "images": [
+            "assets/board/spine-museum/02-spinal-health.webp"
+          ],
+          "captions": [
+            "Spinal health from young children to the elderly, and the rise of orthopaedics and traumatology among hospital departments."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "身體形態的變化可以反映一個人意識狀態的轉變；長期的壓力會讓肌肉僵硬，最終因肌肉記憶而造成骨骼變形。人們越來越關注身體健康，但骨科問題持續增加，脊椎健康也隨年齡惡化。",
+              "captions": [
+                "從幼童到長者的脊椎健康，以及骨科與創傷科在各科別中的增長。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Macau's international tourism, strategic position and diverse audience make it an accessible place for a museum that promotes understanding of the spine's role in the body. To read the spine, the Cobb angle in scoliosis is measured between lines drawn perpendicular to the most tilted vertebrae, and the curvature is sorted into twist, asymmetry, bend, tilt and unbalance.",
+          "images": [
+            "assets/board/spine-museum/03-cobb-angle.webp",
+            "assets/board/spine-museum/04-spinal-movements.webp"
+          ],
+          "captions": [
+            "Measuring the Cobb angle.",
+            "Twist, asymmetry, bend, tilt and unbalance in spinal models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "澳門的國際觀光、地理位置與多元的觀眾，使它成為一座推廣理解脊椎角色的博物館的合適地點。為了閱讀脊椎，以脊椎側彎的柯布角量測最傾斜椎骨間的角度，並將彎曲分為扭轉、不對稱、彎曲、傾斜與失衡。",
+              "captions": [
+                "量測柯布角。",
+                "脊椎模型中的扭轉、不對稱、彎曲、傾斜與失衡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The power of softness balances the mind, so each curvature becomes a spatial operation: curves extruded into floors, contoured spaces with opposing curves, dividers with vertical curves and lines extruded into dividers. A parametric script then lofts the curves into a structural framework and layering.",
+          "images": [
+            "assets/board/spine-museum/05-concept-development.webp"
+          ],
+          "captions": [
+            "Concept development from twist to lines, and the structural generation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "柔軟的力量能平衡心靈，因此每一種彎曲都成為一個空間操作：曲線擠出成樓板、以相對曲線形成起伏空間、以垂直曲線形成隔間，以及把線條擠出成隔牆。接著以參數化程式將曲線放樣成結構框架與層次。",
+              "captions": [
+                "從扭轉到線條的概念推演，以及結構生成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The ground floor holds a grand lobby, exhibition areas, special exhibits, a café and a gift shop, and the second and third floors hold the main exhibition halls and screening rooms. Twisted spaces form both intimate enclosures and open corridors, contrasting compression and softness so visitors refocus on their own bodies.",
+          "images": [
+            "assets/board/spine-museum/06-plans-and-sections.webp"
+          ],
+          "captions": [
+            "Exhibition and ground floor plans, and sections A–A to D–D."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一樓設有大廳、展覽區、特展、咖啡館與禮品店，二、三樓則是主展廳與放映室。扭轉的空間同時形成親密的包覆與開放的廊道，以壓縮與柔軟的對比，讓參觀者重新關注自己的身體。",
+              "captions": [
+                "展覽層與一樓平面，以及 A–A 至 D–D 剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a question about the body.\n2. Measure it the way a doctor would.\n3. Turn each measurement into a spatial move.\n4. Generate the structure from those moves.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個關於身體的問題出發。\n2. 像醫師一樣去量測它。\n3. 把每一項量測轉為空間操作。\n4. 由這些操作生成結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Data Transmission",
+      "slug": "data-transmission",
+      "description": "A data centre in Redwood City, Silicon Valley, moved from the urban margin onto a highway interchange, growing as a visible structure as data grows.\n\nRedwood City, Silicon Valley | Urban design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "資料傳輸",
+          "description": "位於矽谷紅木城的資料中心，從城市邊緣移到高速公路交流道上，隨資料增長而擴展為可見的結構。\n\n矽谷紅木城｜都市設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/data-transmission/01-cover-render.webp",
+        "assets/board/data-transmission/02-physical-data-channels.webp",
+        "assets/board/data-transmission/03-concept.webp",
+        "assets/board/data-transmission/04-strategy.webp",
+        "assets/board/data-transmission/05-form-exploration.webp",
+        "assets/board/data-transmission/06-program-diagram.webp",
+        "assets/board/data-transmission/07-formation-and-stacking.webp",
+        "assets/board/data-transmission/08-model-making.webp",
+        "assets/board/data-transmission/09-scene-rendering.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/data-transmission/01-cover-render.webp"
+          ],
+          "captions": [
+            "Facade of the data structure: stacked frames, storage modules and a red circulation core."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "資料建築的立面：堆疊的框架、儲存模組與紅色的交通核。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Data has become a pivotal global resource that both democratizes access and concentrates control, including the misuse of personal data often unknown to individuals. Data centres, the physical manifestation of data, still sit as isolated infrastructure on the urban margins, even though what we perceive as virtual globalization rests on tangible physical carriers.",
+          "images": [
+            "assets/board/data-transmission/02-physical-data-channels.webp"
+          ],
+          "captions": [
+            "Physical data transmission channels around the world."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "資料已成為關鍵的全球資源，既讓取得資訊更加普及，也使控制更加集中，包括個人資料在當事人不知情下被濫用。資料中心作為資料的實體化身，仍然是位於城市邊緣的孤立基礎設施，然而我們所認為的虛擬全球化，其實建立在有形的實體載體之上。",
+              "captions": [
+                "全球的實體資料傳輸通道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site is a flyover bridge in Redwood City, Silicon Valley, beside a highway interchange. The concept reads social interaction, conversation and records as inputs that are transmitted and returned as feedback, interface and analysis, and asks which functional buildings future cities will need in an era of information explosion.",
+          "images": [
+            "assets/board/data-transmission/03-concept.webp",
+            "assets/board/data-transmission/04-strategy.webp"
+          ],
+          "captions": [
+            "Concept: input, transmission and utilization of data.",
+            "Strategy: analysis, problem, and the relation between new construction, nature, society and network."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地是矽谷紅木城一處緊鄰高速公路交流道的高架橋。概念把社交互動、對話與紀錄視為輸入，經傳輸後回饋為反饋、介面與分析，並提問：在資訊爆炸的時代，未來城市需要什麼樣的功能建築。",
+              "captions": [
+                "概念：資料的輸入、傳輸與利用。",
+                "策略：分析、問題，以及新建築、自然、社會與網絡之間的關係。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Form exploration tests the relationship between structure and living spaces, changes in structural patterns and spatial relationships, and individual architectural forms. A program diagram arranges every function around the speed of data transmission, and structural facades, planar spaces and stacked combinations develop the form.",
+          "images": [
+            "assets/board/data-transmission/05-form-exploration.webp",
+            "assets/board/data-transmission/06-program-diagram.webp",
+            "assets/board/data-transmission/07-formation-and-stacking.webp"
+          ],
+          "captions": [
+            "Generation and form exploration along the interchange.",
+            "Program diagram arranged around data transmission.",
+            "Formation development and stacking of forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "形態探索測試結構與生活空間的關係、結構模式與空間關係的變化，以及個別建築形態。機能圖依資料傳輸的速度安排所有機能，再以結構立面、平面空間與堆疊組合發展形態。",
+              "captions": [
+                "沿交流道的生成與形態探索。",
+                "圍繞資料傳輸安排的機能圖。",
+                "形態發展與量體堆疊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Designed alongside the interchange and integrated with the highway, the building consists of high-speed transit, a central core, the main building body and a data storage exterior. As the data grows the building expands into a complex of structures, turning the data centre from a storage facility into a visible participant in the city.",
+          "images": [
+            "assets/board/data-transmission/08-model-making.webp",
+            "assets/board/data-transmission/09-scene-rendering.webp"
+          ],
+          "captions": [
+            "Model-making: facade generation, perspectives, corridor and interior.",
+            "Scene renderings, from the overall view and central core to the overpass, facades and street scenes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築沿交流道設計並與高速公路整合，由高速運輸、中央核心、主體建築與資料儲存外殼組成。隨著資料增長，建築擴展為一組結構群，讓資料中心從儲存設施轉變為城市中可見的參與者。",
+              "captions": [
+                "模型製作：立面生成、透視、廊道與室內。",
+                "場景渲染：從整體、中央核心到高架、立面與街景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Make the invisible system physical.\n2. Read its inputs and outputs as a diagram.\n3. Let one performance measure organize the program.\n4. Design for growth, not a fixed size.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 讓看不見的系統變得具體。\n2. 以圖解閱讀它的輸入與輸出。\n3. 讓一項性能指標組織機能。\n4. 為成長而設計，而非固定的規模。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
