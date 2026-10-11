@@ -1459,6 +1459,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Marine Alchemy — Oyster-Shell Filters for the Zhuhai Coast",
+      "slug": "marine-alchemy",
+      "description": "Oyster shells from restaurants become three-layer filters that absorb heavy metals from the Pearl River estuary, set in fishing rows and restaurants run by the local Tanka people.\n\nZhuhai, China | Individual work / coastal water-filtration landscape | Apr 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "海洋煉金術——珠海海岸的牡蠣殼濾網",
+          "description": "把餐廳回收的牡蠣殼做成三層濾網，吸附珠江口的重金屬，並設置在由在地蜑家人經營的漁排與餐廳之中。\n\n中國珠海｜個人作品／海岸水質過濾地景｜2023 年 4 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/marine-alchemy/01-cover-aerial.webp",
+        "assets/board/marine-alchemy/02-mapping.webp",
+        "assets/board/marine-alchemy/03-heavy-metals-tide.webp",
+        "assets/board/marine-alchemy/04-physical-model.webp",
+        "assets/board/marine-alchemy/05-filter-levels.webp",
+        "assets/board/marine-alchemy/06-filter-structure.webp",
+        "assets/board/marine-alchemy/07-work-flow.webp",
+        "assets/board/marine-alchemy/08-spatial-layout.webp",
+        "assets/board/marine-alchemy/09-exploded-view.webp",
+        "assets/board/marine-alchemy/10-site-activities.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/marine-alchemy/01-cover-aerial.webp"
+          ],
+          "captions": [
+            "Aerial view: fishing rows of oyster-shell filters along the Zhuhai coast, where entertainment, management and supply reinforce each other."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鳥瞰圖：珠海海岸邊一排排牡蠣殼過濾漁排，娛樂、管理與供給在此相互強化。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Factories along the Pearl River discharge heavy metals such as cadmium, lead and zinc, and the estuary near Zhuhai carries them into the coastal water. The project asks how a green landscape could also restore that water, and support the local economy at the same time.",
+          "images": [
+            "assets/board/marine-alchemy/02-mapping.webp",
+            "assets/board/marine-alchemy/03-heavy-metals-tide.webp"
+          ],
+          "captions": [
+            "Mapping — industrial zones within 1, 5 and 10 km of the Pearl River's waterways, and the proposed site at Modao Men in Zhuhai.",
+            "Heavy metals data for the Pearl River estuary, and the flow characteristic: an irregular semi-diurnal tide."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "珠江沿岸的工廠排放鎘、鉛、鋅等重金屬，再經珠海附近的河口流入近海水域。本案思考：一片綠色地景能否同時修復這片水域，並兼顧在地經濟。",
+              "captions": [
+                "地圖分析——珠江水道 1、5、10 公里範圍內的工業區，以及位於珠海磨刀門的基地。",
+                "珠江口重金屬數據，以及水流特性：不規則半日潮。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "QGIS was used to study the runoff of the Pearl River and the factories near it, and to choose a site 3 km long on the Zhuhai coast. Oyster shells are 80–85 % calcium carbonate with micropores of 2–10 μm, so they can absorb heavy metals, and calcination makes that porous structure even more effective.",
+          "images": [
+            "assets/board/marine-alchemy/04-physical-model.webp",
+            "assets/board/marine-alchemy/05-filter-levels.webp"
+          ],
+          "captions": [
+            "Physical model made with fishing nets of three different hole sizes and wooden boards, then put in a fish tank to simulate being in the water.",
+            "Internal structure of the filter screen — levels 1 and 2 filter the larger sand, and level 3 holds oyster shells that absorb heavy metals."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以 QGIS 分析珠江的逕流與沿岸工廠，並在珠海海岸選定一段長 3 公里的基地。牡蠣殼含 80–85% 碳酸鈣，具有 2–10 μm 的微孔，能吸附重金屬，經煅燒後多孔結構的吸附效果更佳。",
+              "captions": [
+                "以三種不同網目的漁網與木板製作實體模型，再放入魚缸模擬在水中的狀態。",
+                "濾網內部結構——第一、二層過濾較大的沙粒，第三層放置牡蠣殼以吸附重金屬。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A three-layer oyster-shell filter hangs from fixed frames under a mechanical gripper, and shells collected from restaurants and markets are calcined, used in the water, then shipped to factories that separate out the metals. Along the 3 km site, six sections mix public, work and restaurant functions on modules of 15 m.",
+          "images": [
+            "assets/board/marine-alchemy/06-filter-structure.webp",
+            "assets/board/marine-alchemy/07-work-flow.webp",
+            "assets/board/marine-alchemy/08-spatial-layout.webp"
+          ],
+          "captions": [
+            "Filter screen structure — mechanical gripper, filter screen cover frame, fixed frame, filter screens and fixed weight blocks.",
+            "Work flow — oyster shells are collected, washed and calcined, placed in the strainers, carried ashore by fishing boats and separated from the heavy metals at the plant.",
+            "Spatial layout — the site is 3 km long and divided into six sections with different main functions: public, work and restaurant."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三層牡蠣殼濾網懸掛在固定框架下，由機械夾具操作；從餐廳與市場回收的牡蠣殼經煅燒後投入水中使用，再運往工廠分離出重金屬。沿著 3 公里長的基地，六個區段以 15 公尺的模組組合公共、工作與餐廳機能。",
+              "captions": [
+                "濾網結構——機械夾具、濾網蓋框、固定框架、濾網與固定配重塊。",
+                "作業流程——回收牡蠣殼，清洗並高溫煅燒後放入濾網，再由漁船運回岸上，於工廠中與重金屬分離。",
+                "空間配置——基地長 3 公里，分為六個區段，各有不同的主要機能：公共、工作與餐廳。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Fishing rows of filters, a sea pavilion and restaurants run by the Tanka people turn the coast into a place for dining and viewing as well as for cleaning the water. The project improves the water quality to some extent, provides raw materials for Zhuhai's factories and gives the Tanka people new space to survive and thrive.",
+          "images": [
+            "assets/board/marine-alchemy/09-exploded-view.webp",
+            "assets/board/marine-alchemy/10-site-activities.webp"
+          ],
+          "captions": [
+            "Exploded view of a section: roof grid, pavilion structure, promenade and the fishing-row platform on the water.",
+            "Site activities — dining spaces and viewing breaks, and parts 1–6 from the filter rows at the sea outlet to the largest platform at the end of the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "由過濾漁排、海上亭與蜑家人經營的餐廳組成的海岸，除了淨化水質，也成為用餐與觀景的場所。本案在一定程度上改善了水質，為珠海的工廠提供原料，也讓蜑家人擁有新的生存與發展空間。",
+              "captions": [
+                "區段爆炸圖：屋頂網格、亭架結構、濱水步道與水上的漁排平台。",
+                "場地活動——用餐空間與觀景停留點，以及從出海口的過濾漁排到基地末端最大平台的第一至第六區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the pollution first: trace where heavy metals come from with QGIS before choosing a site.\n2. Find the material in local waste: oyster shells from restaurants already have the chemistry to clean water.\n3. Test it physically: a model in a fish tank shows whether the filter really works in water.\n4. Close the loop with people: invite the Tanka community to run the platforms so ecology and economy support each other.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先畫出污染地圖：在選址之前，用 QGIS 追蹤重金屬的來源。\n2. 從在地廢棄物找材料：餐廳丟棄的牡蠣殼，本身就具備淨水的化學特性。\n3. 動手測試：把模型放進魚缸，檢驗濾網在水中是否真的有效。\n4. 與人一起閉合循環：邀請蜑家社群經營平台，讓生態與經濟互相支持。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
