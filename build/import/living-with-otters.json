@@ -1,0 +1,67 @@
+{
+  "project": "Living with Otters",
+  "dest": "assets/board/living-with-otters",
+  "note": "Portfolio pages 7–11 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: page 6 (title column with course and instructor lines, and the history collage), the revetment site photos on page 7, the Location 3 panel with a hand holding a phone and app screenshots on page 9, and the assembly photos with hands on page 11. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-aerial.webp",
+      "sha256": "9bae4519f58dd42d3fd01f42850ec1bc496a42df8ca65151f33ae9f24f8b368e",
+      "bytes": 414058,
+      "from": "page 10 — Aerial view of Shenzhen Bay with the Live with Otters leaflet, whole page (cover)"
+    },
+    {
+      "name": "02-site-context.webp",
+      "sha256": "bdbe47dd3f84c7b20927b42c0cb34437bd3ed9bc3fad8dd0ce01ce0f22ecea0b",
+      "bytes": 164312,
+      "from": "page 7 — Site Context, x 51–100 %, y 2–74 %"
+    },
+    {
+      "name": "03-site-analyse.webp",
+      "sha256": "0452ca990b7cdfdc7acacb2a002cc2210674312e81acd1b657e918d1929c11d8",
+      "bytes": 62770,
+      "from": "page 7 — Site Location and Site Analyse, x 0–26.5 %, y 2–74 %; the Multiple Revetment Type site photos are excluded"
+    },
+    {
+      "name": "04-otter-needs.webp",
+      "sha256": "e64d0b88521ba992781a3d8d7dabc3dcea2226b9496a9322bd170929dc4a917b",
+      "bytes": 86986,
+      "from": "page 7 — The critical needs for the life-cycle of otters, y 74–100 %"
+    },
+    {
+      "name": "05-strategy.webp",
+      "sha256": "8d2f47fa75bbfcbdf4ffc8509d989bc8d2f1e3d76f95bb4ebfce1944cbd8b847",
+      "bytes": 74278,
+      "from": "page 8 — Otters struggle to survive → otter-friendly city, x 0–25.5 %"
+    },
+    {
+      "name": "06-location-plans.webp",
+      "sha256": "3d1b1d54edc83d763e58e3ff423e8c88bc9d7f32d14d91d69e178c4eea7a35a5",
+      "bytes": 122814,
+      "from": "page 8 — plans of the three design areas, x 25.5–100 %, y 0–49 %"
+    },
+    {
+      "name": "07-location-strategies.webp",
+      "sha256": "205824a51ce34e1c232b323dcbe0b1c5120afd2e2828ed3e37689f1ece4e7cbf",
+      "bytes": 129750,
+      "from": "page 8 — strategies for Location 1 coast, Location 2 urban river and Location 3 internal lake, x 25.5–100 %, y 49–100 %"
+    },
+    {
+      "name": "08-coast-river.webp",
+      "sha256": "05e0baf80bb079c36f0cbbf4d6201c324a9dacf670c6eb939d19a0f10b8065ab",
+      "bytes": 171194,
+      "from": "page 9 — Location 1 coast and Location 2 urban river renders, x 0–74.5 %, y 2–50 %; the Location 3 panel with a hand holding a phone and app screenshots is excluded"
+    },
+    {
+      "name": "09-holts.webp",
+      "sha256": "b4fb3c53a8eaee4171958fa54185c62ffaaf478d500617018803defefcef738a",
+      "bytes": 130890,
+      "from": "page 9 — Holts in greenspace and holts under the bridge, y 50–100 %"
+    },
+    {
+      "name": "10-den-model.webp",
+      "sha256": "925a4c188c9eae79ef69009be5560d96eb2c65b1ca84bb4115562b8c6e9496ae",
+      "bytes": 85682,
+      "from": "page 11 — Otter den handcrafted model, x 0–50 %; the assembly photos with hands are excluded"
+    }
+  ]
+}
