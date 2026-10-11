@@ -1,0 +1,43 @@
+{
+  "project": "Spine Museum",
+  "dest": "assets/board/spine-museum",
+  "note": "Portfolio pages 13–19 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: page 13 (title block and body render), page 14 (photo sequence of a person and reference anatomy), the X-ray, spine model and posture figures on page 15, the population photos and site collage on page 17 and the exterior render on page 19. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-design-development.webp",
+      "sha256": "53f998ed0df9fce69a4f31359f6ba668c90e8e5d91a0c27bd2cde0676fe1e47a",
+      "bytes": 398944,
+      "from": "page 18 — design development layers and interior views (cover), full page"
+    },
+    {
+      "name": "02-spinal-health.webp",
+      "sha256": "4def615df554149c2052fd15fcee5948e46c0d8e9f5e8179f7bdd4ccdd57088b",
+      "bytes": 178470,
+      "from": "page 17 — spinal health by age and orthopaedic trends, x 0–42 %, y 45–100 %; the population photos and site collage are excluded"
+    },
+    {
+      "name": "03-cobb-angle.webp",
+      "sha256": "a592a5998be62786d8dc506e82596f204a2486c558b8634359170cf4629a4fe6",
+      "bytes": 48724,
+      "from": "page 15 — movement directions in spinal curvature: the Cobb angle, x 0–45 %, y 0–40 %; the X-ray is excluded"
+    },
+    {
+      "name": "04-spinal-movements.webp",
+      "sha256": "04842b224af39dbaf469febc54c70aea9aac233dc72cd5c658998ef2aad3aa60",
+      "bytes": 147976,
+      "from": "page 15 — twist, asymmetry, bend, tilt and unbalance of the spine, x 58–100 %; the posture figures are excluded"
+    },
+    {
+      "name": "05-concept-development.webp",
+      "sha256": "01059bd8bc2696685235cd34fa6812be331f15251d3d403a0eb61aa5672f0081",
+      "bytes": 215770,
+      "from": "page 16 — concept development and structural generation, full page"
+    },
+    {
+      "name": "06-plans-and-sections.webp",
+      "sha256": "d0b0d37841d9a54a6b3c01d0ff07bc94ea2888271aa84ae40b479f54b267bdd2",
+      "bytes": 236860,
+      "from": "page 19 — plan and section drawings, x 0–40 %; the exterior render is excluded"
+    }
+  ]
+}
