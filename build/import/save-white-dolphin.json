@@ -1,0 +1,55 @@
+{
+  "project": "Save White Dolphin",
+  "dest": "assets/board/save-white-dolphin",
+  "note": "Portfolio pages 13–17 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the third-party ecologica.cn maps and the Crises photo collage on page 13, the stock photos and worker photo on page 14, and the App Design panel with a hand holding a phone on page 15. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-sonar.webp",
+      "sha256": "4aeade9baca92c796945c35b928261ba4287a48bf736ab764f129a3a69d94955",
+      "bytes": 913388,
+      "from": "page 16 — Sonar off / Sonar on, whole page (cover)"
+    },
+    {
+      "name": "02-location.webp",
+      "sha256": "cf0794a0b27e7c3f2b988902d9f1fca798062661157c9e8b52e49cbb94d1c85b",
+      "bytes": 178162,
+      "from": "page 13 — site map of the Pearl River Estuary with the protection zones, ship routes and chart, x 38.5–99.5 %, y 20–70 %; the third-party ecologica.cn maps and the Crises photo collage are excluded"
+    },
+    {
+      "name": "03-dolphin-habitat.webp",
+      "sha256": "8038ca5977cf434ed931c40322b20c4a00af81d271b441f6dbb982f2ab0fce24",
+      "bytes": 226148,
+      "from": "page 14 — Habitat of Dolphin and How noise influences dolphins, y 0–56.5 %"
+    },
+    {
+      "name": "04-mind-map.webp",
+      "sha256": "7f0727277eb1126be73f8b24821754ddbd4017b51a2b102e5ac53ecb7e377779",
+      "bytes": 76862,
+      "from": "page 14 — Early mind map and strategies, x 0–69 %, y 58–100 %; the stock photos and worker photo beside it are excluded"
+    },
+    {
+      "name": "05-location-mapping.webp",
+      "sha256": "850b254c6b55dbf11895ac7f9ca3a2a4ab05703f012b95c9d66c4be819e70edf",
+      "bytes": 131738,
+      "from": "page 15 — Structure Location Mapping, x 0–32.5 %"
+    },
+    {
+      "name": "06-floating-island.webp",
+      "sha256": "3758ec35499753d84328039aed4f3f4f629141c9f9c92b1555cee5cd8b1d0169",
+      "bytes": 226828,
+      "from": "page 15 — Existing Situation and Floating Island Operation Mode, x 33–100 %, y 2–66 %; the App Design panel is excluded"
+    },
+    {
+      "name": "07-structure-analysis.webp",
+      "sha256": "7d1a2a88ad457b0e10c2f10605d061e5187bf6d7d563fd1480ddb407ad5d2e27",
+      "bytes": 245904,
+      "from": "page 17 — Structure Analysis, x 0–60 %"
+    },
+    {
+      "name": "08-physical-model.webp",
+      "sha256": "0b53de3edcb628e64917471756fd19332a98f90641fd4b88a54922a950b3415b",
+      "bytes": 201482,
+      "from": "page 17 — Physical Model, x 60.5–98 %"
+    }
+  ]
+}
