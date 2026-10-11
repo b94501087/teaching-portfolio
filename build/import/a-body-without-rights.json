@@ -1,0 +1,55 @@
+{
+  "project": "A Body Without Rights",
+  "dest": "assets/board/a-body-without-rights",
+  "note": "Boards 2 and 4–8 cropped to eight images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: board 1 entirely (protest and real-person photo collage), the Netflix logo, poster and movie excerpts on board 2, board 3 entirely (photos of people, a portrait, film stills), the photos of hands with the material on board 4 and the photo grids with hands and the photo of a person with the model on board 5. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "9464850035b24ec84831d36f8d43b779e452d84722270e419c7b0c3bcdf921ca",
+      "bytes": 332038,
+      "from": "board 4 — Physical Model: the long plaster model with red eyeballs (cover), y 17–71 %"
+    },
+    {
+      "name": "02-narrative-structure.webp",
+      "sha256": "b7a6b314b4878eda2c1aa26a8eaf58138b357d7aa09d8957bbccbf3faf919f97",
+      "bytes": 404388,
+      "from": "board 2 — New narrative structure, Elemental, Sketches and Spatial PC model, x 35.5–100 %, y 7–100 %; the Netflix logo, poster and movie excerpts are excluded"
+    },
+    {
+      "name": "03-model-details.webp",
+      "sha256": "4e9e692e9e4b74251e0f5dd2d529571709b318833272b2e4bc6b7414c968faac",
+      "bytes": 128114,
+      "from": "board 4 — detail circles 2–4 (x 19–100 %, y 0–17 %) above the model sketches (x 8–100 %, y 71.5–80 %); the photos of hands with the material below are excluded"
+    },
+    {
+      "name": "04-rhino-laser-cut.webp",
+      "sha256": "b13a21addf69edb74d012189c710513e9f1e69f2df0602e8b7b1d4411b69be99",
+      "bytes": 85398,
+      "from": "board 5 — Detailed Analysis: Modeling in Rhino and Laser cut into solids, x 33–55.5 %; the photo grids with hands and the Detailed Structure photo with a person are excluded"
+    },
+    {
+      "name": "05-indoor-section.webp",
+      "sha256": "be2bc508b771c60da2a9fb28d401853aa76b35ec7ade7563a888688b7d514272",
+      "bytes": 869374,
+      "from": "board 6 — Partial Hand-Drawn Section (Option 1 Indoor), whole board"
+    },
+    {
+      "name": "06-scales.webp",
+      "sha256": "4ebbfbf1b3abff1d8cb5c9e112090b49af94440f631e1408a13cd71c6cdd560e",
+      "bytes": 569420,
+      "from": "board 7 — Partial Hand-Drawn Section: interactable, standable, layable and sittable scales, whole board"
+    },
+    {
+      "name": "07-data-visualization.webp",
+      "sha256": "66aae5b9358232140426108af27f61f7b4e627f0cb4a4bf4150bcf9af4bfb0f7",
+      "bytes": 250694,
+      "from": "board 8 — Flat Model (Option 2 Outdoor) text and Data Visualization, x 0–55 %"
+    },
+    {
+      "name": "08-flat-model.webp",
+      "sha256": "9e84365b6d1b31db370a60608786817f27f5f23d940dbf2738513dd882009044",
+      "bytes": 441866,
+      "from": "board 8 — flat model floor plan, x 55–100 %"
+    }
+  ]
+}
