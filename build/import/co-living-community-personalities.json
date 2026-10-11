@@ -1,0 +1,55 @@
+{
+  "project": "Co-Living Community",
+  "dest": "assets/board/co-living-community-personalities",
+  "note": "Portfolio ab819a6e pages 2–4 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the cover and contents, the daily-life photo collage, reflection photos and personality photos on page 2, the portrait icons and interior photos with a person on page 3, and the photo-collage title of the next project on page 4. No retouching.",
+  "files": [
+    {
+      "name": "01-axonometric-and-floors.webp",
+      "sha256": "87b00e01fa46452671ccdc4f4c7519da2d67be416c61e1fe3df0bccebbf3f39f",
+      "bytes": 158726,
+      "from": "ab819a6e page 3 — general axonometric view and first to third floor diagrams, x 50–100 %, y 0–50 %"
+    },
+    {
+      "name": "02-design-strategy.webp",
+      "sha256": "2477e14a35c7b4183830da94c0cc3c2217d0b48168f4c855c63bb4d2abe7b7a1",
+      "bytes": 37212,
+      "from": "page 2 — design strategy, streets and spaces, x 64.5–98.5 %, y 36–54.5 %"
+    },
+    {
+      "name": "03-shape-generation.webp",
+      "sha256": "fee69e3bd6d805efeb16919b7334dc5465b0f9759dac3cb678bc426018c6ba71",
+      "bytes": 86044,
+      "from": "page 3 — shape generation for each personality type, x 13–30 %; the type icons with portrait photos at the left are excluded"
+    },
+    {
+      "name": "04-space-division-method.webp",
+      "sha256": "245e598115fcc9db7d389d6c043a4ca9621bfdfbc6447b9a0ba0b0fdaae5c395",
+      "bytes": 51728,
+      "from": "page 3 — space division method, x 30–50 %, y 0–50.5 %"
+    },
+    {
+      "name": "05-space-of-each-type.webp",
+      "sha256": "e190cef8df8cb570c75178c210b7576596a81217468e0936c6a6037bb07f46af",
+      "bytes": 52612,
+      "from": "page 3 — combined space of each type, x 30–50 %, y 50–100 %"
+    },
+    {
+      "name": "06-plans-by-personality.webp",
+      "sha256": "d4002b6ade6c2464eae49a96499626cf49e25c4da0fece232f0960aefa4f6835",
+      "bytes": 93914,
+      "from": "page 3 — plans for each type of people, x 50–100 %, y 52–83 %; the interior photos with a person below are excluded"
+    },
+    {
+      "name": "07-model-views.webp",
+      "sha256": "9806ce0f58604a1433c0414eca3130b3da519577ac190dee9bf68c0ccd2eedcf",
+      "bytes": 214656,
+      "from": "page 4 — model views of the outer side, corridor, balconies and inside, x 0–29 %"
+    },
+    {
+      "name": "08-community-axonometric.webp",
+      "sha256": "2f2178ef85af9c990db162b0651c77539ecc3a97782b84e760d8c62622211484",
+      "bytes": 266684,
+      "from": "page 4 — axonometric of the stacked homes and passageways, x 28–50 %"
+    }
+  ]
+}
