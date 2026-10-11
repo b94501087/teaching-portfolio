@@ -71,3 +71,5 @@ body.detail{background:#fff}
 .teach-wall .t-closing{margin:8px 16px 40px;padding:18px 24px;background:#fff;border-radius:6px;font-size:15px}
 .teach-wall .t-closing a{color:#111;text-decoration:underline;text-underline-offset:3px}
 @media(max-width:700px){.teach-wall .t-text{margin:12px 12px 0;padding:18px}.teach-wall .t-cat{padding:22px 12px 0}.teach-wall .board{padding:12px;column-gap:12px}}
+/* teaching wall: 2 larger columns so each category's 2 cards fill the row */
+.teach-wall .board{column-count:2}
