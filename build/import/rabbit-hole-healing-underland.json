@@ -1,0 +1,67 @@
+{
+  "project": "Rabbit Hole",
+  "dest": "assets/board/rabbit-hole-healing-underland",
+  "note": "Portfolio 952911a3 pages 11–13 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the competition poster and the story board with film stills and book illustrations on page 10, the sensory map collage, the photo of a face and the street entrance photos on page 11, the small reference photos on page 12, the colour refinement panels on page 13. No retouching.",
+  "files": [
+    {
+      "name": "01-axonometric-view.webp",
+      "sha256": "2ce868fdf5106b1a9dcd6153a56277754ffb9500a9eab351162d530c1aac4150",
+      "bytes": 260410,
+      "from": "952911a3 page 13 — axonometric view of the staggered floors and stairs, x 0–34.5 %"
+    },
+    {
+      "name": "02-perception-map.webp",
+      "sha256": "e3781f217142cc85b8df3ff93c76e83e25df43fb23f188ecd40dbea27928f52e",
+      "bytes": 246384,
+      "from": "page 11 — perception map of each mark in the field, x 50.5–80 %; the street entrance photos are excluded"
+    },
+    {
+      "name": "03-spatial-extraction.webp",
+      "sha256": "effee853b46c877f13e1d779320bf33533f5067e4902892c0025710219fc2a9a",
+      "bytes": 88550,
+      "from": "page 11 — spatial extraction lines, x 12–24.5 %; the sensory map collage and the photo of a face are excluded"
+    },
+    {
+      "name": "04-extracted-forms.webp",
+      "sha256": "ebb1c2ed7c51065107bdac6211d1a32a1d2253a358fa7eee30015c75bcd5cb11",
+      "bytes": 94850,
+      "from": "page 11 — extracted forms, x 39.5–50.5 %"
+    },
+    {
+      "name": "05-sinking-space-sketches.webp",
+      "sha256": "d6c546968077802d7be703eff32b1326fda6600e65b7b92d9c77e1cd67ef5730",
+      "bytes": 93382,
+      "from": "page 12 — sinking space and layout sketches, x 0–13.5 %"
+    },
+    {
+      "name": "06-model-refinement.webp",
+      "sha256": "803328061b336afb343fff8bb77ca3d680c610965019eeb5138acd59e0edc0bc",
+      "bytes": 57280,
+      "from": "page 12 — model refinement, x 13.5–40 %, y 13–52 %; the small reference photos above are excluded"
+    },
+    {
+      "name": "07-time-perception.webp",
+      "sha256": "06d6a0cb611a05a2b66d203a5423226f3cabe04d8bc3f4f06946a13db48fdec5",
+      "bytes": 65860,
+      "from": "page 12 — time perception rendering, x 40–62.5 %, y 0–52 %"
+    },
+    {
+      "name": "08-model-in-hand.webp",
+      "sha256": "190df4ce68f1cc43155122b90674079806a118b8c6b3da4d1b8b2b3979b2dd4c",
+      "bytes": 150840,
+      "from": "page 12 — physical model held by hand, x 25–62.5 %, y 52–100 %"
+    },
+    {
+      "name": "09-interior-renderings.webp",
+      "sha256": "5ae6f7bd7094ce203fedb517e98b02b8fef49c151ded14f8209f47beaea5069e",
+      "bytes": 243274,
+      "from": "page 12 — interior renderings of the staggered floors, x 63.5–100 %"
+    },
+    {
+      "name": "10-section.webp",
+      "sha256": "7ec93649f0a54cdb48839c5ec7752cad222f3e603db593a8b10e2b726435df08",
+      "bytes": 381694,
+      "from": "page 13 — section of the underground space, x 50.5–100 %"
+    }
+  ]
+}
