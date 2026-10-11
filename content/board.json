@@ -875,6 +875,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Building-Field on Tempelhof — Liminality of Culture",
+      "slug": "building-field-on-tempelhof",
+      "description": "On the former airfield in Berlin, refugees and citizens build their own community together from a small modular timber system, with homes, workshops for Middle Eastern women and a prayer hall.\n\nBerlin, Germany | Research project / modular self-build refugee community | Summer 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "滕珀爾霍夫上的建造場——文化的閾限",
+          "description": "在柏林的前機場草坪上，難民與市民以一套小尺度的木構模組系統一起建造自己的社區，包括住宅、為中東女性設置的工坊與祈禱廳。\n\n德國柏林｜研究專案／模組化自建難民社區｜2023 年夏季｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/building-field-on-tempelhof/01-cover.webp",
+        "assets/board/building-field-on-tempelhof/02-strategies-site.webp",
+        "assets/board/building-field-on-tempelhof/03-structural-design.webp",
+        "assets/board/building-field-on-tempelhof/04-operational-process.webp",
+        "assets/board/building-field-on-tempelhof/05-modular-system.webp",
+        "assets/board/building-field-on-tempelhof/06-cooperative-construction.webp",
+        "assets/board/building-field-on-tempelhof/07-residence-1.webp",
+        "assets/board/building-field-on-tempelhof/08-residence-2-units.webp",
+        "assets/board/building-field-on-tempelhof/09-cultural-spaces.webp",
+        "assets/board/building-field-on-tempelhof/11-community.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/building-field-on-tempelhof/01-cover.webp"
+          ],
+          "captions": [
+            "Physical models of the timber modules, wrapped in translucent fabric and laid out on the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以半透明織物包覆的木構模組實體模型，排列在基地上。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Since 2015 Germany has taken in large numbers of refugees, and the former Tempelhof Airport in Berlin became a refugee reception centre, yet the conflict between German residents and refugees over integration, resources and cultural identity remains. The project asks how refugees could take part in building their own community there, with places that respect their culture and religion while helping them integrate into German society.",
+          "images": [
+            "assets/board/building-field-on-tempelhof/02-strategies-site.webp"
+          ],
+          "captions": [
+            "Three strategies — identity and culture, regional merge, economic participation — and the site analysis of Tempelhof Airport among site, residence, government, park and commercial areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "自 2015 年起德國接收了大量難民，柏林的前滕珀爾霍夫機場也成為難民收容中心，但德國居民與難民之間在融合、資源與文化認同上的衝突始終存在。本案思考：能否讓難民在這裡親手參與建造自己的社區，並以尊重其文化與宗教的空間，幫助他們融入德國社會。",
+              "captions": [
+                "三項策略——身分與文化、區域融合、經濟參與——以及滕珀爾霍夫機場與周邊基地、住宅、政府、公園與商業區的基地分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Two precedents set the method: Shigeru Ban's Paper Partition System gives a flexible module, and Hsieh Ying-Chun's light steel structure system shows a simple, participatory way of building that people can learn quickly. Combining modular and participatory, a few basic geometries are turned into many structural types, and an operational process lets government, citizens and refugees each play a part.",
+          "images": [
+            "assets/board/building-field-on-tempelhof/03-structural-design.webp",
+            "assets/board/building-field-on-tempelhof/04-operational-process.webp"
+          ],
+          "captions": [
+            "Basic structural design — four basic geometries developed across categories A–G into many kinds of structures.",
+            "Operational process — from requirements survey, design typologies and planning on site to learning the system, building parts with citizens and forming a community."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "兩個前例奠定了方法：坂茂的紙隔間系統提供靈活的模組，謝英俊的輕鋼構系統則示範一種簡單、可參與、人人都能很快學會的建造方式。結合模組化與參與式，少數基本幾何被發展為多種結構類型，並以一套操作流程讓政府、市民與難民各自參與其中。",
+              "captions": [
+                "基本結構設計——四種基本幾何在 A–G 類別中發展出多樣的結構。",
+                "操作流程——從需求調查、設計類型與現地規劃，到學習系統、與市民一起建造構件，最後形成社區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The open structure modular system is built from small timber elements joined by mortise and tenon joints, inspired by traditional Chinese structures, with beams, foundation connections, insulated facade panels and a ground-coupled heat pump. Refugees and citizens assemble the frames together on Tempelhof, step by step from columns and beams to roof and community use.",
+          "images": [
+            "assets/board/building-field-on-tempelhof/05-modular-system.webp",
+            "assets/board/building-field-on-tempelhof/06-cooperative-construction.webp"
+          ],
+          "captions": [
+            "Open structure modular system — exploded axonometric with mortise and tenon joint, beam system, foundation connection and ground-coupled heat pump, tested in a 1:50 physical model.",
+            "Cooperative construction and construction process — citizens and refugees raising the frame together, in four stages from structure to finished building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "開放式模組結構系統以小尺度木構件組成，構件間以取自中國傳統建築的榫卯接合，並整合樑系統、基礎接頭、隔熱立面板與地源熱泵。難民與市民在滕珀爾霍夫一起組裝構架，從柱、樑一步步搭到屋頂，再到社區的使用。",
+              "captions": [
+                "開放式模組結構系統——爆炸軸測圖，含榫卯接頭、樑系統、基礎接頭與地源熱泵，並以 1:50 實體模型測試。",
+                "合作建造與建造流程——市民與難民一起搭起構架，從結構到完工分為四個階段。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The same module makes a 38 m² Residence 1 for singles or couples, a two-floor Residence 2 of about 43 m² for families of three to four, and public space, a restaurant, a mini shop and a market. Workshops for Middle Eastern women, a textile workshop and an olive oil soap workshop, sit beside a prayer hall, and together with a wood frame truss and flexible stairs they form a community on the airfield.",
+          "images": [
+            "assets/board/building-field-on-tempelhof/07-residence-1.webp",
+            "assets/board/building-field-on-tempelhof/08-residence-2-units.webp",
+            "assets/board/building-field-on-tempelhof/09-cultural-spaces.webp",
+            "assets/board/building-field-on-tempelhof/11-community.webp"
+          ],
+          "captions": [
+            "Residence 1 — a compact 38 m² unit for one or two people: model, plan and section A-A'.",
+            "Residence 2 for a family of three to four, with ground and first floor plans, and the public space, restaurant and mini shop modules.",
+            "Textile workshop, market, prayer hall and olive oil soap workshop — spaces for Middle Eastern women's work and for prayer.",
+            "The community on Tempelhof — render on the airfield and model of the whole settlement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "同一套模組構成給單身或伴侶的 38 m² 一號住宅、給三至四人家庭約 43 m² 的兩層二號住宅，以及公共空間、餐廳、小商店與市集。為中東女性設置的紡織工坊與橄欖油皂工坊與祈禱廳並置，再加上木構桁架與彈性樓梯，在機場草坪上組成一個社區。",
+              "captions": [
+                "一號住宅——給一至二人的 38 m² 精簡單元：模型、平面與 A-A' 剖面。",
+                "給三至四人家庭的二號住宅與一、二樓平面，以及公共空間、餐廳與小商店模組。",
+                "紡織工坊、市集、祈禱廳與橄欖油皂工坊——為中東女性工作與祈禱而設的空間。",
+                "滕珀爾霍夫上的社區——機場草坪上的渲染圖與整個聚落的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the conflict: map who is in tension and why, here residents and refugees over resources, integration and culture.\n2. Borrow from precedents: take one idea each from a modular and a participatory system and combine them.\n3. Design the kit, not just the building: a few joints and geometries that untrained people can learn and assemble.\n4. Test it at full range in models: homes, workshops, a prayer hall and a market from the same parts.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從衝突出發：先釐清誰與誰之間有張力、原因為何，這裡是居民與難民在資源、融合與文化上的衝突。\n2. 向前例借鏡：從一套模組系統與一套參與式系統各取一個概念，再加以結合。\n3. 設計的是一套構件，而不只是一棟建築：用少數接頭與幾何，讓沒有訓練的人也能學會並組裝。\n4. 用模型測試它的完整可能：以同一套構件做出住宅、工坊、祈禱廳與市集。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
