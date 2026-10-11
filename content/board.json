@@ -5665,6 +5665,558 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Seawater Thermal Pollution",
+      "slug": "seawater-thermal-pollution",
+      "description": "Beside Taiwan's third nuclear power plant, an offshore lagoon mixes waste hot water with the sea and gives fisheries and tourism back to the local community.\n\nNan Bay, Hengchun, Pingtung, Taiwan | Urban and landscape design | Jul–Sep 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "海水熱污染",
+          "description": "在臺灣第三核能發電廠旁，以一座離岸潟湖讓溫排水與海水混合，並把漁業與觀光還給在地社區。\n\n臺灣屏東恆春南灣｜城市與景觀設計｜2023 年 7–9 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/seawater-thermal-pollution/01-cover-master-plan.webp",
+        "assets/board/seawater-thermal-pollution/02-location-problems.webp",
+        "assets/board/seawater-thermal-pollution/03-taking-and-mixing.webp",
+        "assets/board/seawater-thermal-pollution/04-overall-concept.webp",
+        "assets/board/seawater-thermal-pollution/05-specific-form.webp",
+        "assets/board/seawater-thermal-pollution/06-lagoon-periods.webp",
+        "assets/board/seawater-thermal-pollution/07-axonometric.webp",
+        "assets/board/seawater-thermal-pollution/08-section-view.webp",
+        "assets/board/seawater-thermal-pollution/09-structure-jetty.webp",
+        "assets/board/seawater-thermal-pollution/10-model-display.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/seawater-thermal-pollution/01-cover-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan: the offshore lagoon in Nan Bay, with water inlet, mixing area, outlet and wetlands, jetty and fish farming areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "總平面：南灣的離岸潟湖，含進水口、混合區、出水口與濕地、棧橋及養殖區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The waters around Taiwan's third nuclear power plant are known for their abundance of coral and marine life, but the plant continuously discharges a large amount of waste hot water into the sea to cool itself. To cool 2,000 MW of waste heat it must discharge 43,906 kg of water per second at a temperature difference of 8 °C, and above 6 °C coral bleaching and algal blooms greatly reduce the local biodiversity.",
+          "images": [
+            "assets/board/seawater-thermal-pollution/02-location-problems.webp"
+          ],
+          "captions": [
+            "Location and problems: Nan Bay, Nuclear Power Plant III, Kenting National Park and Houbi Lake, with the rise in sea temperature and the decline in local biodiversity."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "臺灣第三核能發電廠周邊海域以豐富的珊瑚與海洋生物聞名，但電廠為了冷卻，持續把大量溫排水排入海中。要冷卻 2,000 MW 的廢熱，電廠每秒須排放 43,906 公斤、溫差 8 °C 的海水；當水溫上升超過 6 °C，珊瑚白化與藻類大量繁殖，使在地生物多樣性大幅下降。",
+              "captions": [
+                "區位與問題：南灣、核三廠、墾丁國家公園與後壁湖，以及海水溫度上升與在地生物多樣性下降。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The nuclear station cannot be stopped, but the decline of marine biology due to the increase of sea temperature can. The tide can take hot water away, and a lagoon with levees, helped by rock at its entrance, can mix the hot water with the sea instead of discharging it directly.",
+          "images": [
+            "assets/board/seawater-thermal-pollution/03-taking-and-mixing.webp"
+          ],
+          "captions": [
+            "So they achieve this form: taking and mixing, in sketch section and plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "核電廠無法停下，但海洋生物因海水升溫而衰退的趨勢可以被阻止。潮汐可以把熱水帶走；一座設有堤防、入口處佈有礁石的潟湖，則能讓熱水與海水混合，而不是直接排放。",
+              "captions": [
+                "由此得出形態：帶走與混合的剖面與平面草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Using the forces of nature, tides, currents and natural patterns, the design gently takes away hot water, mixes it with the sea and forms the dune area of an offshore lagoon. The dam is built where the warm water stagnates, the mix area is shaped by dispersion patterns learned from water-saving irrigation and from Von Kármán vortices, and the form is refined over time.",
+          "images": [
+            "assets/board/seawater-thermal-pollution/04-overall-concept.webp",
+            "assets/board/seawater-thermal-pollution/05-specific-form.webp",
+            "assets/board/seawater-thermal-pollution/06-lagoon-periods.webp"
+          ],
+          "captions": [
+            "The overall concept and how it benefits the local community.",
+            "Development of the specific form over time.",
+            "Period 1: build the lagoon dam; Period 2: shape the mix area with two dispersion patterns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計運用自然的力量——潮汐、洋流與自然紋理——溫和地帶走熱水，使其與海水混合，並形成離岸潟湖的沙丘區。堤壩建在溫水滯留之處，混合區的形態則取自節水灌溉與卡門渦街的擴散模式，並隨時間逐步調整。",
+              "captions": [
+                "整體概念，以及它如何回饋在地社區。",
+                "特定形態隨時間的發展。",
+                "第一期：興建潟湖堤壩；第二期：以兩種擴散模式塑造混合區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Hot water is cooled to within about 2 °C of the ambient sea temperature between about 500 m and 800 m from the discharge. Once the lagoon is formed, the dam, a nearshore reef, a tide energy channel, fishing farms and tourism give back to the local community and restore the fisheries that have been impacted.",
+          "images": [
+            "assets/board/seawater-thermal-pollution/07-axonometric.webp",
+            "assets/board/seawater-thermal-pollution/08-section-view.webp",
+            "assets/board/seawater-thermal-pollution/09-structure-jetty.webp",
+            "assets/board/seawater-thermal-pollution/10-model-display.webp"
+          ],
+          "captions": [
+            "Axonometric drawing: tourism, the tide energy channel, fishing farm, the dam and the nearshore reef.",
+            "Section view of the dam.",
+            "The multi-functional structure jetty at low and high tide.",
+            "Model display: aerial and plan views, the dry state and the water intake state."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在距離排放口約 500 至 800 公尺之間，熱水被冷卻到與周邊海水溫差約 2 °C 以內。潟湖成形後，堤壩、近岸礁石、潮汐能渠道、養殖場與觀光共同回饋在地社區，並恢復受到衝擊的漁業。",
+              "captions": [
+                "軸測圖：觀光、潮汐能渠道、養殖場、堤壩與近岸礁石。",
+                "堤壩剖面。",
+                "多功能結構棧橋在低潮與高潮時的樣貌。",
+                "模型展示：鳥瞰與平面視角、乾燥狀態與進水狀態。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Accept what cannot change, then design around it.\n2. Use natural forces: tide, current and pattern.\n3. Prove the form with data and fluid studies.\n4. Give the solution back to the people who were harmed.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 接受無法改變的事物，再圍繞它設計。\n2. 運用自然的力量：潮汐、洋流與紋理。\n3. 以數據與流體研究驗證形態。\n4. 把解方回饋給受到傷害的人。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "New Life in Open Pit Mines",
+      "slug": "new-life-in-open-pit-mines",
+      "description": "Overdevelopment, abandonment, conflict and renewal: engineering measures and urban planning turn the depleted Haizhou open-pit coal mine in Fuxin into a park for the city.\n\nHaizhou open-pit coal mine, Fuxin, Liaoning | Urban design | Individual work | Sep 2022–Nov 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "露天礦坑的新生",
+          "description": "過度開發、廢棄、衝突與更新：以工程措施結合都市計畫，將枯竭的阜新海州露天煤礦轉化為城市公園。\n\n遼寧阜新海州露天煤礦｜城市設計｜個人作品｜2022 年 9 月–2023 年 11 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/new-life-in-open-pit-mines/01-cover-master-plan.webp",
+        "assets/board/new-life-in-open-pit-mines/02-mine-and-city.webp",
+        "assets/board/new-life-in-open-pit-mines/03-field-survey.webp",
+        "assets/board/new-life-in-open-pit-mines/04-engineering-model.webp",
+        "assets/board/new-life-in-open-pit-mines/05-waste-recycling.webp",
+        "assets/board/new-life-in-open-pit-mines/06-light-structure.webp",
+        "assets/board/new-life-in-open-pit-mines/07-development-of-the-pit.webp",
+        "assets/board/new-life-in-open-pit-mines/08-rendering.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/new-life-in-open-pit-mines/01-cover-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan: the Haizhou pit turned into a park, with a lake at the bottom, greenhouses, trails and viewing points on its slopes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "總平面：海州礦坑化為公園，坑底是湖泊，坡面上有溫室、步道與觀景點。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Fuxin's coal mining history began in 1897, and the Haizhou open-pit coal mine, the largest in Asia, produced 210 million tons of coal from 1953 to 2003. Resource depletion then led to bankruptcy and the loss of tourism, specialty products, industry and talented people, and a national mine park planned since 2005 only completed its entrance plaza and museum before it was deserted.",
+          "images": [
+            "assets/board/new-life-in-open-pit-mines/02-mine-and-city.webp"
+          ],
+          "captions": [
+            "The open-pit mine is a 10-minute drive from downtown Fuxin, beside the thermal power station, residences and the railway station."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "阜新的煤礦開採史始於 1897 年；亞洲最大的海州露天煤礦在 1953 至 2003 年間產出 2.1 億噸煤。資源枯竭隨後導致破產，觀光、特產、產業與人才也隨之流失；2005 年起規劃的國家礦山公園，只完成了入口廣場與博物館便遭廢棄。",
+              "captions": [
+                "露天礦坑距阜新市中心僅 10 分鐘車程，緊鄰熱電廠、住宅區與火車站。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A field survey of the pit recorded gangue rock piled up, unstable soil and loose stones, water unable to drain and raised sand and dust. South of the pit a huge power station and a great amount of gangue show the monolithic nature of the pit economy's industry.",
+          "images": [
+            "assets/board/new-life-in-open-pit-mines/03-field-survey.webp"
+          ],
+          "captions": [
+            "Field survey on mining pits: site issues and current situation, with boundary sections I and II."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "對礦坑的實地調查記錄了矸石堆積、土壤不穩與碎石鬆動、排水不良，以及揚沙揚塵等問題。礦坑南側巨大的電廠與大量的矸石，顯示礦坑經濟產業的單一性。",
+              "captions": [
+                "礦坑實地調查：基地問題與現況，以及邊界剖面一與二。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Three engineering measures support the expectations for the pit: a water system that forms a lake at its bottom in coordination with existing plans for a pumped storage power plant, light timber piles that use gravity to repair the stability of the slope, and the recycling of coal gangue. The gangue is sorted and converted into building materials for pit rehabilitation and into fertilizers for plant growth.",
+          "images": [
+            "assets/board/new-life-in-open-pit-mines/04-engineering-model.webp",
+            "assets/board/new-life-in-open-pit-mines/05-waste-recycling.webp",
+            "assets/board/new-life-in-open-pit-mines/06-light-structure.webp"
+          ],
+          "captions": [
+            "Foundation: the engineering measures on a model of the pit.",
+            "Waste recycling system: the process of thinking for coal gangue.",
+            "Light structural facility system and the four-step light structural experiment."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三項工程措施支撐礦坑的願景：配合既有抽水蓄能電廠計畫、在坑底形成湖泊的水系統；以重力修復坡面穩定的輕型木樁；以及煤矸石的回收再利用。矸石經過分類，轉化為礦坑修復用的建材與植物生長所需的肥料。",
+              "captions": [
+                "基礎：工程措施在礦坑模型上的配置。",
+                "廢料回收系統：煤矸石的思考流程。",
+                "輕型結構設施系統與四步驟的輕型結構實驗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "By reducing the gradient of the north slope that connects to the city and installing parks, green belts and rest and activity facilities, the pit opens up to the city and takes on public service, recreational and tourism value. Combined with urban planning, these strategies aim to revitalize the open-pit mine and transform it into a thriving urban centre once more.",
+          "images": [
+            "assets/board/new-life-in-open-pit-mines/07-development-of-the-pit.webp",
+            "assets/board/new-life-in-open-pit-mines/08-rendering.webp"
+          ],
+          "captions": [
+            "Development of the pit: connecting with the city, functional zoning and flow plan, and the connection method diagram.",
+            "Renderings: the centre lake and observation tower, outdoor adventure, the forest trail and the centre greenhouse platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "透過降低連接城市的北坡坡度，並設置公園、綠帶與休憩活動設施，礦坑向城市敞開，承擔公共服務、休閒與觀光的價值。這些策略結合都市計畫，目標是讓露天礦坑重獲生機，再次成為繁榮的城市中心。",
+              "captions": [
+                "礦坑的發展：與城市連結、機能分區與動線計畫，以及連接方式示意圖。",
+                "透視圖：中央湖泊與觀景塔、戶外探險、森林步道與中央溫室平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the history of a place before you fix it.\n2. Survey the damage: list each problem on the ground.\n3. Answer each problem with one engineering measure.\n4. Reconnect the site to the city it once served.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 修復一個地方之前，先讀懂它的歷史。\n2. 調查損害：在現場逐一列出問題。\n3. 以一項工程措施回應每一個問題。\n4. 讓基地重新與它曾經服務的城市連結。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Story Behind Oppenheimer",
+      "slug": "story-behind-oppenheimer",
+      "description": "Remediation and regeneration of uranium-contaminated Navajo communities: a four-stage plan from cleaning the land to revitalizing the community.\n\nNavajo Reservation, USA | Urban and landscape design | Coursework | Sep–Dec 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "奧本海默背後的故事",
+          "description": "受鈾污染的納瓦霍社區之整治與再生：從淨化土地到社區復興的四階段計畫。\n\n美國納瓦霍保留區｜城市與景觀設計｜課程作業｜2023 年 9–12 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/story-behind-oppenheimer/01-cover-stage-4-sections.webp",
+        "assets/board/story-behind-oppenheimer/02-gis-data-analysis.webp",
+        "assets/board/story-behind-oppenheimer/03-stage-strategy-and-plan.webp",
+        "assets/board/story-behind-oppenheimer/04-stage-1-remediation.webp",
+        "assets/board/story-behind-oppenheimer/05-stage-2-planting.webp",
+        "assets/board/story-behind-oppenheimer/06-stage-3-plan.webp",
+        "assets/board/story-behind-oppenheimer/07-stage-3-facilities.webp",
+        "assets/board/story-behind-oppenheimer/08-stage-4-plan.webp",
+        "assets/board/story-behind-oppenheimer/09-master-plan.webp",
+        "assets/board/story-behind-oppenheimer/10-aerial-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/story-behind-oppenheimer/01-cover-stage-4-sections.webp"
+          ],
+          "captions": [
+            "Stage 4 sections A-A and B-B: viewing platform, hiking trails, agricultural area, church, flexible architecture, medical company and wetlands."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "第四階段剖面 A-A 與 B-B：觀景台、健行步道、農業區、教堂、彈性建築、醫療公司與濕地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Over the summer Oppenheimer was screened in China, and the student learned that this history was set in the vast desert and highlands of the American Southwest, landscapes such as the Grand Canyon that had long fascinated them. Delving deeper, GIS data revealed a level of integrated development on the Navajo reservation that lags behind the rest of the United States.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個夏天《奧本海默》在中國上映，學生得知這段歷史發生在美國西南部廣闊的沙漠與高原，也就是大峽谷等他一直著迷的地景。深入研究後，GIS 數據顯示納瓦霍保留區的整體發展程度落後於美國其他地區。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Maps and data based on USGIS reveal severe impacts on the Navajo: high unemployment, low income, pollution and other challenges. Layers such as plumbing, unemployment, low household income, poverty and linguistic isolation show the relative backwardness of development on the reservation.",
+          "images": [
+            "assets/board/story-behind-oppenheimer/02-gis-data-analysis.webp"
+          ],
+          "captions": [
+            "Local GIS data analysis: why focus on the Navajo reservation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以 USGIS 為基礎的地圖與數據揭示納瓦霍族所受的嚴重衝擊：高失業率、低收入、污染與其他困境。管線設施、失業、家戶低收入、貧困與語言隔離等圖層，呈現保留區發展的相對落後。",
+              "captions": [
+                "在地 GIS 數據分析：為何聚焦納瓦霍保留區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Once the relationships and ideas of the new system are clarified, a four-stage plan is implemented to realize it, from life and health and an abundance of food to economic income and improvement in the quality of life. Stage 1 remediates pollution in three types of land, water systems, contaminated areas and other land, with uranium-absorbing plants, soil replacement and greenhouses on new soil.",
+          "images": [
+            "assets/board/story-behind-oppenheimer/03-stage-strategy-and-plan.webp",
+            "assets/board/story-behind-oppenheimer/04-stage-1-remediation.webp"
+          ],
+          "captions": [
+            "Stage strategy to the new system, and the upper-level analysis and plan around the Red Water Pond Road community.",
+            "Stage 1, pollution remediation and land: three types of greenland restoration."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "釐清新系統的關係與構想後，以四個階段的計畫逐步實現：從生命健康、充足糧食，到經濟收入與生活品質的提升。第一階段針對水系、污染區與其他土地三類用地進行污染整治，運用吸收鈾的植物、更換土壤，並在新土上興建溫室。",
+              "captions": [
+                "通往新系統的階段策略，以及以 Red Water Pond Road 社區為中心的上位分析與計畫。",
+                "第一階段，污染整治與土地：三種綠地修復方式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "After the uranium contamination is removed, a planting system responds to the living habits of the inhabitants, and the introduction of industries then boosts income and contributes to the restoration funds, starting in temporary low-cost buildings. In Stage 4, number four signifies cultural elements in Navajo philosophy, and diverse industries revitalize the polluted land to ensure stable income and employment.",
+          "images": [
+            "assets/board/story-behind-oppenheimer/05-stage-2-planting.webp",
+            "assets/board/story-behind-oppenheimer/06-stage-3-plan.webp",
+            "assets/board/story-behind-oppenheimer/07-stage-3-facilities.webp",
+            "assets/board/story-behind-oppenheimer/08-stage-4-plan.webp",
+            "assets/board/story-behind-oppenheimer/09-master-plan.webp",
+            "assets/board/story-behind-oppenheimer/10-aerial-views.webp"
+          ],
+          "captions": [
+            "Stage 2: establishment of planting.",
+            "Stage 3: introduction of an industrial system.",
+            "A material production base for medical companies, and temporary infrastructure facilities based on the Navajo hogan.",
+            "Stage 4: community revitalization, with sections A-A and B-B.",
+            "Master plan.",
+            "Aerial views I and II."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "鈾污染清除後，種植系統回應居民的生活習慣；隨後引入的產業提高收入、挹注修復基金，並以臨時的低成本建築起步。在第四階段，數字四象徵納瓦霍哲學中的文化元素，多元產業讓受污染的土地重獲生機，確保穩定的收入與就業。",
+              "captions": [
+                "第二階段：建立種植系統。",
+                "第三階段：引入產業系統。",
+                "醫療公司的材料生產基地，以及以納瓦霍泥屋為原型的臨時基礎設施。",
+                "第四階段：社區復興，標示剖面 A-A 與 B-B。",
+                "總平面。",
+                "鳥瞰圖一與二。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Follow a story to a place, then test it with data.\n2. Order the needs: health first, then food, income and quality of life.\n3. Stage the plan so each step pays for the next.\n4. Build from local culture, not over it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 跟著一個故事找到一個地方，再用數據檢驗它。\n2. 為需求排序：先健康，再糧食、收入與生活品質。\n3. 分期規劃，讓每一步支撐下一步。\n4. 從在地文化出發，而不是覆蓋它。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Moving Golf Castle",
+      "slug": "moving-golf-castle",
+      "description": "Inspired by Kafka's The Castle, a speculative golf castle on the sea compresses Shenzhen's golf resorts and urban villages into one condensed world.\n\nShenzhen | Speculative landscape design | Creativity design | Jul–Aug and Nov–Dec 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "移動的高爾夫城堡",
+          "description": "受卡夫卡《城堡》啟發，一座海上的思辨性高爾夫城堡，將深圳的高爾夫度假村與城中村壓縮成一個濃縮的世界。\n\n深圳｜思辨性景觀設計｜創意設計｜2023 年 7–8 月與 11–12 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/moving-golf-castle/01-cover-golf-castle.webp",
+        "assets/board/moving-golf-castle/02-urban-villages-and-golf.webp",
+        "assets/board/moving-golf-castle/03-storyboard.webp",
+        "assets/board/moving-golf-castle/04-exploded-drawing.webp",
+        "assets/board/moving-golf-castle/05-interior-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/moving-golf-castle/01-cover-golf-castle.webp"
+          ],
+          "captions": [
+            "The golf castle on the sea: golf castles loom large on the sea, vanity and wealth are laughed at, waves of mockery cover the sky."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "海上的高爾夫城堡：高爾夫城堡在海上隱隱浮現，虛榮與財富被嘲笑，嘲諷的浪潮遮蔽天空。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Inspired by Kafka's novel The Castle, the student wanted to create a utopian world of their own that accommodated their social and political views. In Shenzhen, their hometown, golf and urban villages are the two most extreme spaces: the urban villages hold only a fifth of the city's floor space but are home to half of its population.",
+          "images": [
+            "assets/board/moving-golf-castle/02-urban-villages-and-golf.webp"
+          ],
+          "captions": [
+            "Distribution of urban villages and golf courses in Shenzhen."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "受卡夫卡小說《城堡》啟發，學生想創造一個屬於自己、容納其社會與政治觀點的烏托邦世界。在家鄉深圳，高爾夫球場與城中村是最極端的兩種空間：城中村只占城市樓地板面積的五分之一，卻住著一半的人口。",
+              "captions": [
+                "深圳城中村與高爾夫球場的分布。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The urban villages are where most of the lower-middle-class people live, in dark, damp and crowded conditions where it is difficult to see any positive impact of modern landscape gardening. The project unfolds from the perspective of a landscape designer, expressing the current state of social class through glamorous golf and leisure resorts on the outside and the dark and complex city on the inside.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "城中村是多數中下階層居住的地方，陰暗、潮濕而擁擠，難以看見現代景觀造園帶來的任何正面影響。本案從景觀設計師的視角展開，以外部光鮮的高爾夫與休閒度假村、內部陰暗複雜的城市，表達當前的社會階級狀態。"
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A storyboard tells the story: in 2043 the Shenzhen Golf Company has become a monopoly because of its land in the city centre, and as revolt grows and losses mount, its staff look for solutions. They decide to move the golf course out of the city and compress all the industrial segments together, combining industry, poor housing and golf into one extremely condensed real world.",
+          "images": [
+            "assets/board/moving-golf-castle/03-storyboard.webp"
+          ],
+          "captions": [
+            "Storyboard in nine frames: from the company's 2043 losses to the diagram of the target."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以分鏡講述故事：2043 年，深圳高爾夫公司因在市中心擁有大量土地而成為壟斷企業；隨著民眾反抗加劇、虧損擴大，公司員工尋求解方。他們決定把高爾夫球場移出城市，並把所有產業環節壓縮在一起，將工業、貧民住宅與高爾夫結合成一個極度濃縮的真實世界。",
+              "captions": [
+                "九格分鏡：從公司 2043 年的虧損到目標示意圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The golf castle stacks a golf clubhouse, an outer surface mountain, a centre column for water and transport, factory and living quarters, workers' residences and the shell of the castle above ocean energy harvesting. Inside, the bottom of the castle, the living area, the industrial area and the residence area show the dark and complex city hidden under the glamorous resort.",
+          "images": [
+            "assets/board/moving-golf-castle/04-exploded-drawing.webp",
+            "assets/board/moving-golf-castle/05-interior-details.webp"
+          ],
+          "captions": [
+            "Exploded drawing of the golf castle.",
+            "Interior details: bottom of the castle, living area, industrial area and residence area."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "高爾夫城堡由上而下堆疊高爾夫俱樂部會所、外層山體、負責水與交通的中央柱、工廠與生活區、工人住宅與城堡外殼，最底層則是海洋能源採集。內部的城堡底部、生活區、工業區與住宅區，呈現隱藏在光鮮度假村之下陰暗而複雜的城市。",
+              "captions": [
+                "高爾夫城堡的爆炸圖。",
+                "內部細節：城堡底部、生活區、工業區與住宅區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a book and from the city you know.\n2. Find the two extremes and set them side by side.\n3. Tell the design as a story, frame by frame.\n4. Let the section show what the surface hides.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一本書與你熟悉的城市出發。\n2. 找出兩個極端，並把它們並置。\n3. 以分鏡一格一格地講述設計。\n4. 讓剖面揭露表面所隱藏的事物。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
