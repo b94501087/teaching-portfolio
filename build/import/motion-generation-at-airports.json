@@ -1,0 +1,61 @@
+{
+  "project": "Motion Generation at Airports",
+  "dest": "assets/board/motion-generation-at-airports",
+  "note": "Pages 2–6 of the 6-page board cropped to nine images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: page 1 (title with the board number and a collage of stock photos of travellers, a cyclist and a trainer), the photos of a real person on page 2, the top-right plan of page 4 and the airport render with photographed people on page 6. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-unit.webp",
+      "sha256": "bff46ddc080db6f54398c7cbf20c6493d67af28ca3bde625485bdf4a4780e19f",
+      "bytes": 81036,
+      "from": "page 4 — render of one exercise unit with its battery (cover), x 1.5–44.5 %, y 5–35.5 %"
+    },
+    {
+      "name": "02-body-scale.webp",
+      "sha256": "e561e74aa2150df97758152d05c808cbb14c5ef5d65261b46a12229161a74810",
+      "bytes": 130220,
+      "from": "page 2 — Body Scale: the eight line drawings with dimensions (columns x 1.5–16.5 % and 49.7–65 %, four rows) stacked as a 2×4 grid; the photo columns of a real person are excluded"
+    },
+    {
+      "name": "03-human-figures.webp",
+      "sha256": "f8a67835a8b12a35151474f1bfdb0a99a6b8886b87b35e5474f2bd68ade36a07",
+      "bytes": 73072,
+      "from": "page 3 — Dimension of Human Figures and module unit sketches, x 0–39.5 %, y 0–47.5 %"
+    },
+    {
+      "name": "04-internal-structure.webp",
+      "sha256": "5f5ccc5160afeda3dd4f391ae445379e9c7ef7a2ee6163332a15bb5bddd7c94d",
+      "bytes": 109954,
+      "from": "page 3 — Internal Structure, rotating equipment inside the hexagonal frame, x 0–39.5 %, y 48–99.5 %"
+    },
+    {
+      "name": "05-sliding-ladder.webp",
+      "sha256": "a975b2b1dccd97e9bfe040d819a514ed8e35aa439ef9825e967d812e992d2cab",
+      "bytes": 154924,
+      "from": "page 3 — Sliding Ladder and the four equipment types assembled into an exercise garden, x 40–99.5 %, y 2–48.5 %"
+    },
+    {
+      "name": "06-single-unit.webp",
+      "sha256": "4a3d25c779901b99c19711e59ec6fa640c93db74deab85875e4ff582ac75b416",
+      "bytes": 85530,
+      "from": "page 3 — Single Unit Structure, exploded axonometric, x 40–99 %, y 50–99 %"
+    },
+    {
+      "name": "07-details.webp",
+      "sha256": "1145d46fada715f8da72c3bca71367049c3978929fc711f4bc7b7bf80aa4cd1d",
+      "bytes": 311300,
+      "from": "page 4 — Architectural Details: sliding staircase, wall build-up and interlocking stairs, x 0–100 %, y 36–99 %"
+    },
+    {
+      "name": "08-rotor-materials.webp",
+      "sha256": "a0ee3e04f8176dade95b43c3e7b2240cbe6a1ea3c250351a7508462a9ebc7afb",
+      "bytes": 283864,
+      "from": "page 5 — Architectural Details, Materials and Rotor Design, whole page"
+    },
+    {
+      "name": "09-assembly.webp",
+      "sha256": "a2be2c0c22bd54466175618b7f97d436d4be82894002f3dd9ab3e6bb38097cc7",
+      "bytes": 126614,
+      "from": "page 6 — assembly steps 1–3 by crane, x 0–33.8 %, y 5.5–100 %; the heading and the airport render with photographed people are excluded"
+    }
+  ]
+}
