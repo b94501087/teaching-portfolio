@@ -1753,6 +1753,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Right Here, Write Here — A Pop-Up Bazaar for Writing",
+      "slug": "right-here-write-here",
+      "description": "A pop-up exhibition about writing in a former sugar factory: handmade paper of bark and cotton, held in rotatable stands and folding furniture, invites strangers to write to each other.\n\nZiNi Village, Shawan, Panyu, Guangzhou, China | Individual work / material, furniture, exhibition | Jul–Aug 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "此地書寫——為書寫而設的快閃市集",
+          "description": "在昔日糖廠中舉辦一場關於書寫的快閃展覽：以樹皮與棉紙手工製作的紙張，裝在可旋轉的展架與摺疊家具上，邀請陌生人彼此書寫。\n\n中國廣州番禺沙灣紫泥村｜個人作品／材料、家具、展覽｜2021 年 7 月至 8 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/right-here-write-here/01-cover-furniture.webp",
+        "assets/board/right-here-write-here/02-pen-sketches.webp",
+        "assets/board/right-here-write-here/03-electronic-vs-paper.webp",
+        "assets/board/right-here-write-here/04-site.webp",
+        "assets/board/right-here-write-here/05-material-purpose.webp",
+        "assets/board/right-here-write-here/06-paper-testing.webp",
+        "assets/board/right-here-write-here/07-assembly.webp",
+        "assets/board/right-here-write-here/08-floor-plan.webp",
+        "assets/board/right-here-write-here/09-openness.webp",
+        "assets/board/right-here-write-here/10-physical-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/right-here-write-here/01-cover-furniture.webp"
+          ],
+          "captions": [
+            "The 1:1 display furniture on site: a folding chair and table on wooden poles, with handmade paper hanging from the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "1:1 展示家具實地呈現：木桿上的摺疊椅與桌子，手工紙懸掛在框架上。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project started from a love of paper media, which expresses the interplay of human emotions better than electronic media. Electronic messages are transient and directed, while a sentence written in a book can wait for a stranger to answer it, so the project became a pop-up exhibition about writing.",
+          "images": [
+            "assets/board/right-here-write-here/02-pen-sketches.webp",
+            "assets/board/right-here-write-here/03-electronic-vs-paper.webp"
+          ],
+          "captions": [
+            "Sketches of the pens and ink used most often — a propelling pencil, ballpoint, fountain pen and blue-black ink.",
+            "Electronic media vs paper media — exchanging ephemeral information, against writing a sentence in a book that a stranger later answers: transient and directed, or emotive and untargeted."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案源自對紙本媒介的喜愛——紙本比電子媒介更能表達人與人之間的情感交流。電子訊息短暫而有特定對象；寫在書上的一句話，卻能等待某位陌生人回應，因此本案發展成一場關於「書寫」的快閃展覽。",
+              "captions": [
+                "最常使用的筆與墨水速寫——自動鉛筆、原子筆、鋼筆與藍黑墨水。",
+                "電子媒介與紙本媒介——交換短暫的資訊，對比在書上寫下一句話、日後由陌生人回應：短暫而有對象，或感性而無特定對象。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "ZiNiTang is in ZiNi Village, the former ZiNi Sugar Factory in Shawan, Panyu, an island of about 260,000 square metres encircled by the Shawan waterway. The factory closed in 1990 and the park was positioned in 2016 as a large living art island, and the bazaar sits beside the culture street, refining workshop and waterway.",
+          "images": [
+            "assets/board/right-here-write-here/04-site.webp",
+            "assets/board/right-here-write-here/05-material-purpose.webp"
+          ],
+          "captions": [
+            "Site analysis — the site, suburb and residential area around the cultural park, and the site beside the culture street, refining workshop, platform and waterway.",
+            "Material experiment — tree bark is tough and DuPont paper is light-transmitting and water-resistant; cotton paper, printer paper, washi and straw tested for strokes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "紫泥堂位於番禺沙灣的紫泥村，前身為紫泥糖廠，沙灣水道環繞整座島，面積約 26 萬平方公尺。糖廠於 1990 年停產，園區於 2016 年定位為大型生活藝術島；市集位於文化街、精煉車間與水道旁。",
+              "captions": [
+                "基地分析——文化園區周邊的基地、郊區與住宅區，以及位於文化街、精煉車間、平台與水道旁的基地。",
+                "材料實驗——樹皮堅韌，杜邦紙透光且防水；並測試棉紙、影印紙、和紙與稻草的筆觸表現。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Cotton paper was torn, tree bark cut and hammered, mixed, fished and dried, and DuPont paper stuck on the back for water resistance. Four mixes were tested for firmness, deformation and writing, and the chosen sheet of 20 % bark and 80 % cotton paper, 8 mm thick, is held in rotatable stands, transformable tables and chairs.",
+          "images": [
+            "assets/board/right-here-write-here/06-paper-testing.webp",
+            "assets/board/right-here-write-here/07-assembly.webp",
+            "assets/board/right-here-write-here/08-floor-plan.webp"
+          ],
+          "captions": [
+            "Necessary process and testing — groups 1–4 mixing barks, cotton paper and straw at different rates, compared for firmness, deformation and writing performance.",
+            "Assembly processes — a reorientable exhibition stand with 360-degree rotation, transformable tables and chairs on concealed hinges and wheels, and an interactive display.",
+            "Floor plan and analysis — exhibition, interactive zone, writing, paper making, drying, sharing and rest along the main and minor roads."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "把棉紙撕碎、樹皮切碎並捶打，混合後撈起晾乾，背面再貼上杜邦紙以防水。測試四種配比的硬度、變形與書寫表現，最後選用 20% 樹皮與 80% 棉紙、厚 8 mm 的紙張，安裝在可旋轉的展架與可變形的桌椅上。",
+              "captions": [
+                "製作過程與測試——第 1 至 4 組以不同比例混合樹皮、棉紙與稻草，比較硬度、變形與書寫表現。",
+                "組裝過程——可 360 度旋轉的展架、以隱藏式鉸鏈與輪子變形的桌椅，以及互動展示。",
+                "平面與分析——沿主要與次要道路配置展覽、互動區、書寫、造紙、晾乾、分享與休息。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The whole bazaar has different levels of openness, from the exhibition area to the experience area and then the sharing area, so visitors meet writing in a variety of ways. A 1:1 model of the display furniture was built by hand, with tailor-made connectors that extend the wooden poles indefinitely and a chair that unfolds on a hinge.",
+          "images": [
+            "assets/board/right-here-write-here/09-openness.webp",
+            "assets/board/right-here-write-here/10-physical-model.webp"
+          ],
+          "captions": [
+            "Private, semi-private and open-up units, and a unit with its curved paper canopy.",
+            "Physical model (1:1) — drilling holes in precise locations, making the base for the chair legs, sanding the wood and assembling, then the display furniture with its connectors, acrylic bases and hinges."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "整座市集具有不同程度的開放性，從展覽區、體驗區到分享區，讓參觀者以多種方式接觸書寫。以手工製作 1:1 的展示家具模型，量身訂製的接頭讓木桿可以無限延伸，椅子則以鉸鏈展開。",
+              "captions": [
+                "私密、半私密與開放的單元，以及帶有彎曲紙篷的單元。",
+                "實體模型（1:1）——精準鑽孔、製作椅腳底座、打磨木料並組裝，以及展示家具的接頭、壓克力底座與鉸鏈。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Begin with something you love and can explain: paper and pens, sketched before any architecture.\n2. Compare two media honestly: what electronic messages lose is what the design must give back.\n3. Make the material yourself: test mixes for firmness, deformation and writing before choosing one.\n4. Build at 1:1: furniture you can sit at proves the joints, hinges and paper really work.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從你熱愛且說得清楚的事物開始：紙與筆，先速寫，再談建築。\n2. 誠實比較兩種媒介：電子訊息失去的，正是設計要補回來的。\n3. 親手製作材料：先測試各種配比的硬度、變形與書寫表現，再做選擇。\n4. 以 1:1 建造：能實際坐下使用的家具，證明接頭、鉸鏈與紙張真的可行。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
