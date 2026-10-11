@@ -1,0 +1,61 @@
+{
+  "project": "Kibera Slum Design",
+  "dest": "assets/board/kibera-slum-design",
+  "note": "Portfolio 19f39711 pages 3–8 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: photos of residents, architects and the student, photos of hands, the timeline and potential-material photo strips and the Great Wall photo. No retouching.",
+  "files": [
+    {
+      "name": "01-vision.webp",
+      "sha256": "3b9d79eb7be80d4e14d1e584ecf8f798e0514103344ea6a1fff022ffb4631d0a",
+      "bytes": 825160,
+      "from": "19f39711 page 8 — vision: the brick-making process from bagasse to construction, x 0–63 %"
+    },
+    {
+      "name": "02-site-and-living-situation.webp",
+      "sha256": "36721a6c07f9f8c8568cbcb68947c258d6b7d0d471d6f7147c038f4f94bc70e8",
+      "bytes": 736086,
+      "from": "page 3 — location, climate and the Kibera site map, x 26–76 %; the photos of residents and the timeline photos are excluded"
+    },
+    {
+      "name": "03-building-material-and-structure.webp",
+      "sha256": "1d86c93edb155fad00ab1c140f40c50a8be3c73ba5bb717180638e972ba2cf35",
+      "bytes": 300162,
+      "from": "page 4 — building material and structure models of the mud house and cladding house, x 0–32 %"
+    },
+    {
+      "name": "04-problem-and-proposal.webp",
+      "sha256": "0782ef7c6308700343b391e2882d278de0e140ca142680ea7f747f071d1536c8",
+      "bytes": 218064,
+      "from": "page 4 — problem and proposal diagrams, x 33–75 %, y 0–66 %; the photos of architects and the strategy photos are excluded"
+    },
+    {
+      "name": "05-original-and-hypothesized-material.webp",
+      "sha256": "b2e84dd15ebc4712120e7237473f2a9d207daa73dd719e0546aa33c38d46c847",
+      "bytes": 168068,
+      "from": "page 5 — steps 1 and 2: original and hypothesized material, x 43–100 %, y 0–62 %; the potential-material photo strip and the photos of hands are excluded"
+    },
+    {
+      "name": "06-waste-material-testing.webp",
+      "sha256": "6b6165772a42b366e2edb834103855fc8027b94875f7208ecc62d867a67fe2d3",
+      "bytes": 153584,
+      "from": "page 6 — step 3: waste material replacing red clay, x 0–50 %, y 0–66 %; the testing photos with a person are excluded"
+    },
+    {
+      "name": "07-rice-soup-mix.webp",
+      "sha256": "caae681915e8bbadc177b5faf17993c6e507d26cb462d1ea5aa80f4bc735f853",
+      "bytes": 138180,
+      "from": "page 6 — step 4: rice soup, bagasse and ash mix and its properties, x 84–100 %; the Great Wall photo is excluded"
+    },
+    {
+      "name": "08-brick-prototype-and-size.webp",
+      "sha256": "687abe223ae458f22e5c95da8c8ea0c47593907c11baea0aa9b5ec124968b9a0",
+      "bytes": 309120,
+      "from": "page 7 — brick prototype design, physical models and brick size, x 0–50 %; the facade construction photo with a person is excluded"
+    },
+    {
+      "name": "09-brick-arrangement-studies.webp",
+      "sha256": "64c01f4868c74ba23aab8b0357d850519bcae92986f201447878c867e767c98d",
+      "bytes": 407074,
+      "from": "page 8 — further research: Python and Grasshopper brick arrangement studies, x 63–100 %"
+    }
+  ]
+}
