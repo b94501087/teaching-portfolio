@@ -1,0 +1,67 @@
+{
+  "project": "Marine Alchemy",
+  "dest": "assets/board/marine-alchemy",
+  "note": "Pages 1, 3–6 of the 6-page board cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: the title block of page 1 (board number, instructor name) and its oyster-cage photos, page 2 entirely (historical news photos of real people, the site analysis map with site photos, the Design Strategies photos) and the Thesis Basis of page 3 with its micrographs. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-aerial.webp",
+      "sha256": "f0d84189b430dfc6a86f57c4d16cad9e4a97d63c3828b4bac437179bdbfcfd05",
+      "bytes": 252714,
+      "from": "page 6 — Aerial View of the fishing-row platforms (cover), whole board inside the margin"
+    },
+    {
+      "name": "02-mapping.webp",
+      "sha256": "9b864a03ee473bfdfa360591e1d573663ef3e3bdf087a6d5e383e39be27996fa",
+      "bytes": 338124,
+      "from": "page 1 — Mapping: industrial zones along the Pearl River and the proposed site at Modao Men, x 28–98 %, y 3–71.5 %"
+    },
+    {
+      "name": "03-heavy-metals-tide.webp",
+      "sha256": "caf989b57b2c803860502821d2187745a7439830c21cf1093f8a0ad3bd197fd3",
+      "bytes": 59888,
+      "from": "page 1 — heavy metals in the Pearl River estuary and the tidal flow characteristic, x 28–98 %, y 71.5–97 %"
+    },
+    {
+      "name": "04-physical-model.webp",
+      "sha256": "d49900120fe0c8c836bea9ed8a06984cdaa48527428231808b6d8ded49fbd7f4",
+      "bytes": 60294,
+      "from": "page 3 — Physical Model of fishing nets and wooden boards, with the fish-tank test, x 2–35.5 %, y 36–68 %"
+    },
+    {
+      "name": "05-filter-levels.webp",
+      "sha256": "9f3b4ca4ea9124d28d6128e0122dd4512aec90efe9ea927d00be09daa4133717",
+      "bytes": 44626,
+      "from": "page 3 — Internal Structure of Filter Screen, three levels, x 2–35.5 %, y 68–99 %"
+    },
+    {
+      "name": "06-filter-structure.webp",
+      "sha256": "f8e6948900be1c2476bbf2f7ed3f8591e7e55e43bf92ab57d56e70b95801b39d",
+      "bytes": 107578,
+      "from": "page 3 — Filter Screen Structure, exploded, x 36–66.5 %, y 2–99 %"
+    },
+    {
+      "name": "07-work-flow.webp",
+      "sha256": "f0182b814f2b7d99fce8e3c130d584d6fa2540c78c0a0822da0b36a9ea2ba8f8",
+      "bytes": 110772,
+      "from": "page 3 — Work Flow steps 1–5, x 66.5–98 %, y 2–99 %"
+    },
+    {
+      "name": "08-spatial-layout.webp",
+      "sha256": "0e4e7b7f61dda57642fc765ecc1abdd834eddfaa63720ae6b87abcbef731b3a3",
+      "bytes": 93854,
+      "from": "page 4 — Spatial Layout of the six sections, x 2–34 %, y 3–97 %"
+    },
+    {
+      "name": "09-exploded-view.webp",
+      "sha256": "64ba971c9115ea9dfc7d9d00fec2100ae3bbd651dcdf62d273f15b990aa05407",
+      "bytes": 215846,
+      "from": "page 4 — Exploded View, x 34–98 %, y 3–97 %"
+    },
+    {
+      "name": "10-site-activities.webp",
+      "sha256": "af8a59f1ff1ac6ac5848e2d95b815acfa9487f8e3f1a4e53d9640d99d3ff27f5",
+      "bytes": 328972,
+      "from": "page 5 — Site Activities render and Parts 1–6, whole board inside the margin"
+    }
+  ]
+}
