@@ -3596,6 +3596,300 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "PLEAT",
+      "slug": "pleat",
+      "description": "Behind Block O of Macau University of Science and Technology, a folded garden gives students places to rest, play and socialise, from open to hidden.\n\nBlock O, Macau University of Science and Technology, Macao | Campus landscape | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "摺",
+          "description": "在澳門科技大學 O 座後方，一座摺疊的花園為學生提供從開放到隱密、可休息、遊戲與社交的空間。\n\n澳門科技大學 O 座｜校園景觀｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/pleat/01-cover-model.webp",
+        "assets/board/pleat/02-location.webp",
+        "assets/board/pleat/03-land-use.webp",
+        "assets/board/pleat/04-people-flow.webp",
+        "assets/board/pleat/05-climate.webp",
+        "assets/board/pleat/06-drainage.webp",
+        "assets/board/pleat/07-design-direction.webp",
+        "assets/board/pleat/08-design-sketch.webp",
+        "assets/board/pleat/09-master-plan.webp",
+        "assets/board/pleat/10-vegetation-design.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/pleat/01-cover-model.webp"
+          ],
+          "captions": [
+            "Handmade model at 1:1000: the folded garden behind Block O, with its pavilions among the campus buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "1:1000 手工模型：O 座後方的摺疊花園，亭子散布在校園建築之間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site lies behind Block O of Macau University of Science and Technology, an area mainly used for student activities, where about half of the ground is green and open space with low use. Considering that students love to play on their mobile phones, the project creates a place where they can both entertain themselves and socialise.",
+          "images": [
+            "assets/board/pleat/02-location.webp",
+            "assets/board/pleat/03-land-use.webp"
+          ],
+          "captions": [
+            "Location — the site in Cotai, with Hengqin Port, Flores Park, Macau International Airport and the Dangzai Ferry Terminal within reach.",
+            "Macau land use planning, transportation accessibility and POI distribution around the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於澳門科技大學 O 座後方，主要供學生活動使用，約一半是綠地與開放空間，但使用率很低。考量到學生喜歡滑手機，本案希望打造一個讓他們既能娛樂、也能社交的地方。",
+              "captions": [
+                "基地位置——路氹城區，鄰近橫琴口岸、花城公園、澳門國際機場與氹仔客運碼頭。",
+                "基地周邊的澳門土地使用規劃、交通可達性與 POI 分布。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Different groups of people, students, teachers, workers and visitors, have different purposes for their activities and different time periods for them. Macao has a subtropical monsoon climate with hot summers, high solar radiation and precipitation concentrated in summer, and the large, uneven ground has only a few drainage points.",
+          "images": [
+            "assets/board/pleat/04-people-flow.webp",
+            "assets/board/pleat/05-climate.webp",
+            "assets/board/pleat/06-drainage.webp"
+          ],
+          "captions": [
+            "People and traffic flow behind Block O, the classification of people and the students' mobile phone time from morning to evening.",
+            "Site climate and illumination — wind, temperature, precipitation, humidity and direct sun hours; shading areas are needed.",
+            "Site drainage — rainwater wells, storm sewers, greenery and rainwater runoff."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生、教師、職員與訪客等不同族群，各有不同的活動目的與主要活動時段。澳門屬亞熱帶季風氣候，夏季炎熱、日照輻射強、降雨集中於夏季；而基地面積大、地面不平，排水點卻很少。",
+              "captions": [
+                "O 座後方的人流與車流、人群分類，以及學生從早到晚使用手機的時間。",
+                "基地氣候與日照——風、氣溫、降雨、濕度與直射日照時數；需要增設遮蔭區。",
+                "基地排水——雨水井、雨水管、綠地與地表逕流。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The privacy of landscape space comes from people's types of outdoor activity, purposeful behaviour, perception and distance, and private space should give people enough security. The concept comes from Gilles Deleuze's idea of the “fold”: constantly folded layers where public and private coexist, neither closed nor unobstructed, full of hidden corners.",
+          "images": [
+            "assets/board/pleat/07-design-direction.webp",
+            "assets/board/pleat/08-design-sketch.webp"
+          ],
+          "captions": [
+            "Design direction — safety, humanization, ecologicalization and regionalism for the renovation of the site.",
+            "Design sketches — the folded zones for greening, catering, gardening, activity, rest and waiting."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "景觀空間的私密性，來自人們的戶外活動類型、目的性行為、感知與距離；私密空間應讓人獲得足夠的安全感。設計概念來自法國哲學家德勒茲的「摺曲」：不斷摺疊的層次讓公共與私密共存，既不封閉也不一覽無遺，充滿隱密的角落。",
+              "captions": [
+                "設計方向——以安全、人性化、生態化與地域性改造基地。",
+                "設計草圖——綠化、餐飲、園藝、活動、休息與等候的摺疊分區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The master plan folds an art installation, reading, rest, garden, recreation, pickup, outdoor picnic and waiting areas along the site. Planting is configured for four kinds of introvert students, social, thinking, anxious and restrained, from open spaces for chats to covered spaces for meditation.",
+          "images": [
+            "assets/board/pleat/09-master-plan.webp",
+            "assets/board/pleat/10-vegetation-design.webp"
+          ],
+          "captions": [
+            "Master plan — 1 art installation, 2 reading area, 3 rest area, 4 garden area, 5 recreation area, 6 pickup area, 7 outdoor picnic, 8 waiting area.",
+            "Vegetation design for introvert students and the plant configuration of trees, shrubs, herbage and hydrophytes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "總平面沿基地摺疊出藝術裝置、閱讀區、休息區、花園區、遊憩區、取件區、戶外野餐區與等候區。植栽依四種內向學生——社交型、思考型、焦慮型與克制型——配置，從聊天用的開放空間到冥想用的遮蔽空間。",
+              "captions": [
+                "總平面——1 藝術裝置、2 閱讀區、3 休息區、4 花園區、5 遊憩區、6 取件區、7 戶外野餐、8 等候區。",
+                "為內向學生設計的植栽，以及喬木、灌木、草本與水生植物的配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch who uses the site, and when: students, teachers, workers, visitors.\n2. Read the climate as a brief: sun and rain set the shade and drainage.\n3. Borrow a concept and draw it: the fold becomes the plan.\n4. Plant for people: each kind of introvert gets its own space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察誰在何時使用基地：學生、教師、職員、訪客。\n2. 把氣候當成任務書：日照與降雨決定遮蔭與排水。\n3. 借用一個概念並把它畫出來：摺曲成為平面。\n4. 為人種植：每一種內向者都有自己的空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Children's Healing Garden",
+      "slug": "childrens-healing-garden",
+      "description": "A neglected garden at a Guangzhou children's hospital becomes pocket and roof gardens for play, healing and rest, designed around children's height and senses.\n\nGuangzhou Women and Children's Medical Center, Guangzhou, China | Garden design | Nov 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "兒童療癒花園",
+          "description": "廣州一所兒童醫院裡荒廢的花園，化身為依兒童身高與感官設計、可遊戲、療癒與休憩的口袋花園與屋頂花園。\n\n中國廣州市婦女兒童醫療中心｜花園設計｜2021 年 11 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/childrens-healing-garden/01-cover-master-plan.webp",
+        "assets/board/childrens-healing-garden/02-site-location.webp",
+        "assets/board/childrens-healing-garden/03-user-location-analysis.webp",
+        "assets/board/childrens-healing-garden/04-childrens-identity.webp",
+        "assets/board/childrens-healing-garden/05-strategy.webp",
+        "assets/board/childrens-healing-garden/06-planting-strategy.webp",
+        "assets/board/childrens-healing-garden/07-flower-bed-catalogue.webp",
+        "assets/board/childrens-healing-garden/08-circulation-function.webp",
+        "assets/board/childrens-healing-garden/09-section.webp",
+        "assets/board/childrens-healing-garden/10-amphitheatre-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/childrens-healing-garden/01-cover-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan: pocket gardens and a roof garden woven through the hospital, from the spiral garden to the water pump and rolling meadow."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "總平面：口袋花園與屋頂花園穿插於醫院之間，從螺旋花園到水泵與起伏草地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is a 4,369 m² garden at the Guangzhou Women and Children's Medical Center, used by sick children, their families, hospital staff and the neighbourhood. Its existing condition shows low playability, low safety, site neglect, a lack of age-inclusive landscape and untidy vegetation.",
+          "images": [
+            "assets/board/childrens-healing-garden/02-site-location.webp",
+            "assets/board/childrens-healing-garden/03-user-location-analysis.webp"
+          ],
+          "captions": [
+            "Site location — the medical center in Yuexiu District, with the schools, kindergartens, commercial centre and parks within 300, 500 and 800 m.",
+            "User analysis — sick children, families, staff and neighbours — and the location analysis of buildings, roads and existing trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地是廣州市婦女兒童醫療中心內一處 4,369 平方公尺的花園，使用者包括病童、病童家屬、醫護人員與鄰里居民。現況存在可玩性低、安全性低、場地荒廢、缺乏全齡友善景觀與植栽雜亂等問題。",
+              "captions": [
+                "基地位置——越秀區的醫療中心，以及 300、500 與 800 公尺範圍內的學校、幼兒園、商業中心與公園。",
+                "使用者分析——病童、家屬、醫護人員與鄰里——以及建築、道路與既有樹木的區位分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Children's identity was studied through their average height at ages 0–3, 4–6 and 7–14, their social distance and their behaviours, from walking and climbing to sharing and celebrating. Colour psychology links blue, green, yellow, orange, purple and white to feelings such as calmness, growth, happiness and creativity.",
+          "images": [
+            "assets/board/childrens-healing-garden/04-childrens-identity.webp"
+          ],
+          "captions": [
+            "Children's identity — average height, social distance, behaviour and colour psychology."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "從 0–3、4–6 與 7–14 歲兒童的平均身高、社交距離與行為——從行走、攀爬到分享、慶祝——研究兒童的特性。色彩心理學則把藍、綠、黃、橙、紫、白與平靜、成長、快樂、創造力等感受連結起來。",
+              "captions": [
+                "兒童特性——平均身高、社交距離、行為與色彩心理學。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The strategy divides the work into a pocket garden, with site renovation, fences, façades, cleaning, rolling space, play equipment, water play and healing plants, and a roof garden. The roof garden adds a drawing wall, outdoor classroom, children's farm, amphitheatre, meditation and sensory areas, an activity area and a parents' leisure area, each for its own ages.",
+          "images": [
+            "assets/board/childrens-healing-garden/05-strategy.webp",
+            "assets/board/childrens-healing-garden/06-planting-strategy.webp"
+          ],
+          "captions": [
+            "Strategy — eight interventions for the pocket garden and eight for the roof garden, with the ages each serves.",
+            "Planting strategy — trees, shrubs and herbs by flowering month, sensory value and native origin."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "策略把工作分為口袋花園——場地改造、更新圍欄、立面改造、清理場地、起伏空間、遊具、戲水與療癒植物——以及屋頂花園。屋頂花園加入繪畫牆、戶外教室、兒童農場、圓形劇場、冥想區、感官區、活動區與家長休憩區，各自對應不同年齡。",
+              "captions": [
+                "策略——口袋花園與屋頂花園各八項介入，以及各自服務的年齡層。",
+                "植栽策略——依開花月份、感官價值與原生與否配置喬木、灌木與草本。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The master plan places 28 elements, from musical instruments and nest swings to a sensory pathway, a spiral garden and a physical therapy walkway. In the spiral garden children engage intimately with nature among lush flowers, and the low stone walls provide a sense of safety.",
+          "images": [
+            "assets/board/childrens-healing-garden/07-flower-bed-catalogue.webp",
+            "assets/board/childrens-healing-garden/08-circulation-function.webp",
+            "assets/board/childrens-healing-garden/09-section.webp",
+            "assets/board/childrens-healing-garden/10-amphitheatre-detail.webp"
+          ],
+          "captions": [
+            "Spiral flower bed design plan, façade effect and plant catalogue.",
+            "Circulation, function, planting and furnishings.",
+            "Section A-A' — sensory healing area, rolling meadow, wooden tunnel, climbing net, tree stump table and water pump.",
+            "Amphitheatre construction detail — the planted roof build-up over the existing building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "總平面配置了 28 項元素，從樂器、鳥巢鞦韆到感官步道、螺旋花園與物理治療步道。在螺旋花園裡，孩子在繁茂的花叢間親近自然，低矮的石牆則帶來安全感。",
+              "captions": [
+                "螺旋花床設計平面、立面效果與植物目錄。",
+                "動線、機能、植栽與設施。",
+                "A-A' 剖面——感官療癒區、起伏草地、木隧道、攀爬網、樹樁桌與水泵。",
+                "圓形劇場構造詳圖——既有建築上方的種植屋頂構造層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Design for the smallest user: measure children's height, distance and behaviour.\n2. Listen to every group: children, families, staff and neighbours.\n3. Use colour and planting as care: each feeling has a palette.\n4. Detail the healing: from the master plan to the roof build-up.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 為最小的使用者設計：量測兒童的身高、距離與行為。\n2. 傾聽每一個族群：兒童、家屬、醫護與鄰里。\n3. 把色彩與植栽當作照護：每種感受都有它的色盤。\n4. 把療癒做到細部：從總平面到屋頂構造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
