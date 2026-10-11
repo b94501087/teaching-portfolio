@@ -1,0 +1,67 @@
+{
+  "project": "PLEAT",
+  "dest": "assets/board/pleat",
+  "note": "Portfolio pages 18–25 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the site-history photo collage (real people, the university's sign) and the site-impression photos on page 18, the site photos in Site Problem Analysis on page 20, the fabric photo on page 21, the elevations and renders with collage people on page 24, and three smaller model photos on page 25. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "2c1a8fa6fd959cd7b51b07e8c6d0065c990d29b5ed102f5ac9707cf1f2886b64",
+      "bytes": 224288,
+      "from": "page 25 — hand-made model at 1:1000, top view (cover), x 0–66.5 %, y 32.5–100 %"
+    },
+    {
+      "name": "02-location.webp",
+      "sha256": "b5a095314295d4b4eb543756701a73d56a5a81e07c4591abbb15432456f35141",
+      "bytes": 197360,
+      "from": "page 18 — location map, x 0–46.5 %, y 20.5–97.5 %; the site-history photo collage and site-impression photos are excluded"
+    },
+    {
+      "name": "03-land-use.webp",
+      "sha256": "8ba3a4e886013eeeda9c05903efc1bcc2199c02bb8221476206792ed734a1e3e",
+      "bytes": 177386,
+      "from": "page 19 — Macau land use planning, transportation accessibility and POI distribution, x 0–38.5 %"
+    },
+    {
+      "name": "04-people-flow.webp",
+      "sha256": "7283f04b2f23f7545dc1d17518c84a0440ada7e848c2a7088895181b3089975c",
+      "bytes": 183772,
+      "from": "page 19 — passengers by entry channel, people and traffic flow behind Block O, classification of people and students' mobile phone time, x 39.5–100 %"
+    },
+    {
+      "name": "05-climate.webp",
+      "sha256": "9990459cecf4a3c824df19e513b12e475a8d0696bacd42db0fc77081de19fa82",
+      "bytes": 149444,
+      "from": "page 20 — Site Climate and Site illumination, y 3–56.5 %"
+    },
+    {
+      "name": "06-drainage.webp",
+      "sha256": "a00c7215f6d3a1a9caa52f1a9cdcf121a13fae2fe0e5f933a02fd8d37f54dd96",
+      "bytes": 113746,
+      "from": "page 20 — Site Drainage, x 0–49.5 %, y 56.5–98.5 %; Site Problem Analysis (site photos) is excluded"
+    },
+    {
+      "name": "07-design-direction.webp",
+      "sha256": "8715f32efb7987608f9a12cfddc7e92d5aae44ccfaa24acf46e186d61f49fe92",
+      "bytes": 121118,
+      "from": "page 21 — Design Direction, x 0–56 %, y 3–49.5 %"
+    },
+    {
+      "name": "08-design-sketch.webp",
+      "sha256": "a398ff077a651077de485822e7a19176156f92c421cc401ba0be0695ced5e381",
+      "bytes": 143378,
+      "from": "page 21 — Design Sketch, x 58–100 %, y 35.5–98.5 %; the fabric photo above is excluded"
+    },
+    {
+      "name": "09-master-plan.webp",
+      "sha256": "f6a10a272ba2489e952cdb2e34c24f0158d14a9c698e2345b30d2402093dc90b",
+      "bytes": 358536,
+      "from": "page 22 — Master Plan, whole page"
+    },
+    {
+      "name": "10-vegetation-design.webp",
+      "sha256": "e53a2d561ed3860f9ad21b6f0ab1e06a4e3c4935a88123b545f75bb19325e028",
+      "bytes": 397102,
+      "from": "page 23 — Vegetation Design and Plant Configuration, whole page"
+    }
+  ]
+}
