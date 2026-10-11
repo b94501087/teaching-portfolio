@@ -367,7 +367,7 @@ export function renderTeaching(site, t, opts) {
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="stylesheet" href="../A-Z/style.css"></head><body>\n' +
     sideNav(site, false, 'teaching') +
-    '<main class="doc">\n';
+    '<main class="doc teaching">\n';
   if (t.note) h += '<p class="note">' + esc(t.note) + '</p>\n';
   let shown = 0;
   const imgs = s => (Array.isArray(s.images) ? s.images : []).map(String).filter(x => x.trim());

@@ -51,7 +51,7 @@ for f in m['files']:
         out.write(data)
     print('ok', dest + '/' + name, len(data), 'bytes')
 
-DEL_RE = r'(assets/board/[a-z0-9-]+(/[a-z0-9-]+\.(webp|jpg|png|md))?|build/samples(/[a-z0-9._-]+)?)'
+DEL_RE = r'(assets/board/[a-z0-9-]+(/[a-z0-9-]+\.(webp|jpg|png|md))?|assets/teaching/[a-z0-9-]+\.webp|build/samples(/[a-z0-9._-]+)?)'
 dels = m.get('delete', [])
 for rel in dels:  # validate the whole list before removing anything
     if not isinstance(rel, str) or not re.fullmatch(DEL_RE, rel) or rel == dest or dest.startswith(rel + '/'):

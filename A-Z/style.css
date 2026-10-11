@@ -24,22 +24,27 @@ a:hover{text-decoration:underline}
 .doc{margin-left:220px;padding:36px 48px 80px;max-width:640px}
 .doc h2{font-style:normal;color:#222;font-size:28px}
 .note{color:#9a9a9a}
-/* teaching: category headings, studio sections and their images (uniform 4:3 boxes as on project pages) */
-.doc .t-group{margin:3.2em 0 0;padding-top:1.4em;border-top:1px solid #e4e4e4}
-.doc .t-group .t-group-h{font-size:24px;margin:0 0 2px}
+/* teaching: one column like the project detail pages; text and images share the same width */
+.doc.teaching{max-width:800px}
+.doc.teaching p,.doc.teaching li{font-size:17px;line-height:1.8}
+.doc.teaching > h2:first-of-type{font-size:28px}
+.doc .t-group{margin:56px 0 0;padding-top:24px;border-top:1px solid #e4e4e4}
+.doc .t-group .t-group-h{font-size:26px;font-style:normal;color:#222;margin:0 0 4px}
 .doc .t-group p{color:#555}
-.doc .t-studio{margin:2.4em 0 0}
-.doc .t-studio .t-h{font-size:20px;margin:0}
-.doc .t-sub{margin:0 0 4px;color:#9a9a9a;font-size:14px;line-height:1.5}
-.doc .t-meta{margin:0 0 .8em;color:#9a9a9a;font-size:13px}
-.doc .t-studio p{font-size:15px;line-height:1.75}
-.doc .t-list li{font-size:14px;line-height:1.7;padding-left:1em;text-indent:-1em}
+.doc .t-studio{margin:44px 0 0}
+.doc .t-studio .t-h{font-size:22px;font-style:normal;color:#222;margin:0 0 2px}
+.doc .t-sub{margin:0 0 4px;color:#888;font-size:15px !important;line-height:1.5 !important}
+.doc .t-meta{margin:0 0 14px;color:#888;font-size:14px !important}
+.doc .t-studio p{margin:0 0 1em}
+.doc .t-list{margin:0 0 1em}
+.doc .t-list li{padding-left:1.1em;text-indent:-1.1em;margin:0 0 .5em}
 .doc .t-list li::before{content:'・'}
-.doc .t-imgs{display:flex;flex-direction:column;gap:14px;margin-top:14px}
+.doc .t-imgs{display:flex;flex-direction:column;gap:16px;margin-top:16px}
 .doc .t-imgs figure{margin:0}
 .doc .t-imgs a{display:block;width:100%;aspect-ratio:4/3;background:#f0f0f0;border-radius:6px;overflow:hidden}
 .doc .t-imgs img{display:block;width:100%;height:100%;object-fit:contain}
-.doc .t-imgs figcaption{margin-top:6px;font-size:13px;line-height:1.5;color:#888}
+.doc .t-imgs figcaption{margin-top:8px;font-size:14px;line-height:1.5;color:#888}
+@media(max-width:700px){.doc.teaching{padding:28px 20px 64px}.doc.teaching p,.doc.teaching li{font-size:16px}}
 @media(max-width:700px){
   aside{position:relative;width:auto;height:auto}
   main,.doc{margin-left:0}
