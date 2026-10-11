@@ -1,7 +1,7 @@
 {
   "project": "Teaching studios",
   "dest": "assets/teaching",
-  "note": "Eight studio posters and lecture slides/diagrams for /teaching/, WebP q88 (PIL), max 2000 px wide. Posters are cropped above the organiser by-line; slides with an organiser logo corner had that corner blanked and the faint light-grey organiser watermark mapped to white (near-neutral pixels lighter than 185 only). No student work, photos of people or institution names are included. Revision: text-heavy lecture slides were converted to web text and their images removed (listed under delete); kept the 8 posters and one low-text diagram.",
+  "note": "Teaching studio images: 8 studio posters cropped above the organiser by-line, one low-text lecture diagram (c-02), and self-made monochrome concept diagrams (*-11..14). WebP q88, max 2000 px wide.",
   "files": [
     {
       "name": "a-01-poster.webp",
@@ -10,10 +10,52 @@
       "from": "studio poster A1.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
     },
     {
+      "name": "a-11-media-vehicle.webp",
+      "sha256": "6336a68abbc2e4ea26ca069f4108e0e952d6f6f4fbedab403fcd6c237669a909",
+      "bytes": 38726,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "a-12-define-project.webp",
+      "sha256": "99c65389c578d75417e788c6139734448a5bcfed885eba7bc75815f8be9f5717",
+      "bytes": 33358,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "a-13-double-diamond.webp",
+      "sha256": "191aec8fae6f88813cf2d91d4e92945f40306a63e5944d6f0a792e2493f83318",
+      "bytes": 47702,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "a-14-stages.webp",
+      "sha256": "d322617ed171c510f1d1960de9c493ab25588ba51f62a2ab724c3daa16a69d68",
+      "bytes": 31196,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
       "name": "b-01-poster.webp",
       "sha256": "f22ab64de74274968eb9a4ef076355873d11464957ae96aec25bb2d689f5514b",
       "bytes": 151058,
       "from": "studio poster B1.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "b-11-line-area.webp",
+      "sha256": "20cb1d9bcabff4add4c973badc5c36005059510a2437cd660d74bd52513fd26a",
+      "bytes": 40566,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "b-12-scales.webp",
+      "sha256": "aad935fd222193a051dd821ecadee9267d87d01ad0f9053fdca851b401456b9c",
+      "bytes": 28978,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "b-13-method.webp",
+      "sha256": "3b066c3a1977631e3e2e66f1b47f566aff7967cd317cf5ab6dc6c8a6294f1a0e",
+      "bytes": 38050,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
     },
     {
       "name": "c-01-poster.webp",
@@ -28,10 +70,52 @@
       "from": "lecture slide C1-9, whole slide"
     },
     {
+      "name": "c-11-potestas-potentia.webp",
+      "sha256": "c99865415e90e2b04b7e7951a4e57598498998bc3815b23ce1a975e26fbc89f1",
+      "bytes": 31304,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "c-12-strategy-tactic.webp",
+      "sha256": "2021c67171555a1d2a2f769b4fd5d3cb5f737ebd6c9b7b49a1c9b9203cc3b83a",
+      "bytes": 31734,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "c-13-method.webp",
+      "sha256": "24dc6780da11970105908ef10ee355db25af0bc64252dae4a04f58470eeb79cf",
+      "bytes": 44812,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
       "name": "d-01-poster.webp",
       "sha256": "13f94a5f934cc1790415bd685067c343012bc8a03fc69661efa139f4c81dcaa0",
       "bytes": 106076,
       "from": "studio poster D1.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "d-11-four-roles.webp",
+      "sha256": "0bf5ab0d778365f16b3a4e2273d28092d27ba2b7ed978fd4a6fb038ad4b69fb4",
+      "bytes": 25564,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "d-12-field.webp",
+      "sha256": "346208a63c020c3e6d57a30405994d713cedf1c298566bbb8098bea0ad5fea84",
+      "bytes": 24146,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "d-13-issue-details.webp",
+      "sha256": "a380830430cb230bfc491e04ae521fb6d1cad2da1f19a7c1ce15b4c891e76cba",
+      "bytes": 22678,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "d-14-design-build.webp",
+      "sha256": "a3faafcf14abd18be80ea799681b39a953564455ec633e917f3139867d1a65f5",
+      "bytes": 37816,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
     },
     {
       "name": "e-01-poster.webp",
@@ -40,10 +124,52 @@
       "from": "studio poster E1.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
     },
     {
+      "name": "e-11-triad.webp",
+      "sha256": "a962b34164a4b3838ca46d0881d89e76ffd0e613359f30dd8bf7235ced976823",
+      "bytes": 46946,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "e-12-triad-portfolio.webp",
+      "sha256": "d6faa1e1af5adb75c85f9468139f03a3168760ceac88e4b0e4811c5ca27238f5",
+      "bytes": 33670,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "e-13-figures.webp",
+      "sha256": "e685e0b1f032bb7855ef4db4626ec0b090023eef2d769000b449098b415c3ff7",
+      "bytes": 31894,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "e-14-arcade-timeline.webp",
+      "sha256": "f41f2332200a5e486c795800b00fdb6c6f84be4eae18ddeaad8fab771a67a0b1",
+      "bytes": 36014,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
       "name": "f-01-poster.webp",
       "sha256": "5d32b9347c908741130af74749830a7d5a8fa2f5442808414189ec214fc56336",
       "bytes": 680584,
       "from": "studio poster F2.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "f-11-four-aspects.webp",
+      "sha256": "6c2ba9f174919249527078d810bbf455178a7a255c03c9ddc7b521bea942534c",
+      "bytes": 31852,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "f-12-intermedia.webp",
+      "sha256": "70a277916b0db9463bb4006ff07960fa41eb681291e26742dad5a969d772f101",
+      "bytes": 30780,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "f-13-culture-industry.webp",
+      "sha256": "1d311e64c635e830159c4b4d17d8fb64477400a6e7d6f57c11303ac1a290aeed",
+      "bytes": 30382,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
     },
     {
       "name": "g-01-poster.webp",
@@ -52,32 +178,58 @@
       "from": "studio poster G2.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
     },
     {
+      "name": "g-11-raumplan-plan-libre.webp",
+      "sha256": "32e5d2269508bd399a6518be4e20e51ac1798aa157746fcd3da052e3bcd664d4",
+      "bytes": 34248,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "g-12-slabs-rooms.webp",
+      "sha256": "c9f98db31b463fd03733ad011ed3b787d7c586b14a42318fd19518ebf187c388",
+      "bytes": 38558,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "g-13-corbusier-steps.webp",
+      "sha256": "a4588ddf67aceb73de79762afac54133ee8049346cf286145b0f6c3214ca2fce",
+      "bytes": 31242,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "g-14-loos-steps.webp",
+      "sha256": "b23a39c66669e12e69f873ce51dc7bb6f95f99e055db388390519b77fa61b9c3",
+      "bytes": 34184,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
       "name": "h-01-poster.webp",
       "sha256": "ebb8d68ab56abfd134930833957fa57f91aea3c3d55de2fc28d56ed9097921ff",
       "bytes": 418044,
       "from": "studio poster H6.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "h-11-kaleidoscope.webp",
+      "sha256": "d36eaac1ef014636bfd58527a9d1f1931558de2b1a1ccb623d436887c4cda504",
+      "bytes": 22490,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "h-12-idea-concept.webp",
+      "sha256": "8427e83deab22183e11cd7a7e59df8271c92bf45c15515173c3c2a029c73bd8d",
+      "bytes": 37866,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "h-13-concept-traits.webp",
+      "sha256": "51dde66b80b2c90830392c9abedddbaa768e482993987adb5da4ad8824c81c13",
+      "bytes": 26124,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
+    },
+    {
+      "name": "h-14-course.webp",
+      "sha256": "ecfb1297753703a902ac9dcb85c640e1b6b24f7df2d479b4b101c2a064495cc2",
+      "bytes": 40674,
+      "from": "self-made diagram (HTML/SVG in Taipei Sans TC, rendered 1600×1200 by headless Chrome), no source imagery"
     }
-  ],
-  "delete": [
-    "assets/teaching/a-02-why-media.webp",
-    "assets/teaching/a-03-define-project.webp",
-    "assets/teaching/a-04-design-process.webp",
-    "assets/teaching/b-02-edge-boundary.webp",
-    "assets/teaching/b-03-territory-field.webp",
-    "assets/teaching/c-03-potestas-potentia.webp",
-    "assets/teaching/c-04-strategy-tactic.webp",
-    "assets/teaching/d-02-process-stages.webp",
-    "assets/teaching/d-03-design-build.webp",
-    "assets/teaching/e-02-flaneur-figures.webp",
-    "assets/teaching/e-03-production-of-space.webp",
-    "assets/teaching/e-04-spatial-triad.webp",
-    "assets/teaching/e-05-triad-portfolio.webp",
-    "assets/teaching/f-02-space-structure.webp",
-    "assets/teaching/g-02-raumplan-plan-libre.webp",
-    "assets/teaching/g-03-le-corbusier-ops.webp",
-    "assets/teaching/g-04-loos-ops.webp",
-    "assets/teaching/h-02-process-chevrons.webp",
-    "assets/teaching/h-03-vocabulary.webp",
-    "assets/teaching/h-04-describe-design.webp"
   ]
 }
