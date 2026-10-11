@@ -1,0 +1,55 @@
+{
+  "project": "Rural Greenspace Exploration",
+  "dest": "assets/board/gangtou-rural-greenspace",
+  "note": "Portfolio 9f815c3b pages 7–12 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the history photo strip, current-situation photos and existing-problems photos on page 7 (people), the old-house photo strip on page 9, and the material reference photos and waterfront renders on page 10. No retouching.",
+  "files": [
+    {
+      "name": "01-location-swot.webp",
+      "sha256": "82e14ec25f06622efbfe262bec7adbd081f557e0473f81acf87d5a9f30d8dbf1",
+      "bytes": 59138,
+      "from": "9f815c3b page 7 — location map (x 0–44 %, y 0–44 %) and SWOT (x 0–32.5 %, y 45.5–100 %); the history, current-situation and existing-problems photos (people) are excluded"
+    },
+    {
+      "name": "02-population-site-analysis.webp",
+      "sha256": "69bad530f12ee64202c53ce3b98c7fa3eea0fbc598acfd36478abe257a861f2d",
+      "bytes": 241492,
+      "from": "page 8 — population and economy, site analysis, land use type, full page"
+    },
+    {
+      "name": "03-morphogenesis-floor-plan.webp",
+      "sha256": "ae02a4f4400303f5db2db4c06269058e46ec88945b58200b49cf3810e6fe0ce5",
+      "bytes": 112512,
+      "from": "page 9 — morphogenesis and planning floor plan, y 0–52 %"
+    },
+    {
+      "name": "04-idle-green-space.webp",
+      "sha256": "d0f74ab50aefedd757d0b516e83dbba0c78d98bf5750780deb5c616100396c52",
+      "bytes": 128864,
+      "from": "page 9 — strategy 1: planning of idle green space, x 0–47 % y 52–100 % and x 47–100 % y 54.5–80 %; the old-house photo strip is excluded"
+    },
+    {
+      "name": "05-ecological-restoration.webp",
+      "sha256": "1271374dbde9d842cca2997d99d7b13fa71d6f968579a8846f4564a8106c8ab9",
+      "bytes": 47792,
+      "from": "page 10 — strategy 2: water treatment, x 0–50 %, y 0–60 %; the material reference photos and waterfront renders are excluded"
+    },
+    {
+      "name": "06-tour-experience-upgrade.webp",
+      "sha256": "32b0f0522275b85a7ae679f12e4580ad5ef2d63f96a18bf8123bbe3bd07ea960",
+      "bytes": 98608,
+      "from": "page 10 — strategy 3: tour experience upgrade and before/after comparison, x 52–100 %, y 0–79 %"
+    },
+    {
+      "name": "07-village-floor-plan.webp",
+      "sha256": "fcc8cd7951a8c3d0173e8e9a9fb32aaf87a180d91410dba03d1759741899894d",
+      "bytes": 506054,
+      "from": "page 11 — Gangtou Village floor plan and planning timeline, full page"
+    },
+    {
+      "name": "08-aerial-view.webp",
+      "sha256": "6c3905ef8d8700845be4e4618d967c17d0c21d15bea97a2cec2196cfa5aa7507",
+      "bytes": 346080,
+      "from": "page 12 — aerial view of Gangtou Village planning, y 12–88 %"
+    }
+  ]
+}
