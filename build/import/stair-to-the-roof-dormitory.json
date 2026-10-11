@@ -1,0 +1,61 @@
+{
+  "project": "The Stair to the Roof",
+  "dest": "assets/board/stair-to-the-roof-dormitory",
+  "note": "Portfolio 66f85465 pages 9–10 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title block, the photos of students in problem 2 and the design reference images of a third-party building on page 9, the renderings with photo figures on pages 10–11. No retouching.",
+  "files": [
+    {
+      "name": "01-staircase-activity-space.webp",
+      "sha256": "e92ac0d8e935701ecc619c914f3bc567c22288929297c1909d4d8cd7469f4857",
+      "bytes": 195920,
+      "from": "66f85465 page 10 — staircase interior activity space, model with a hand, x 0–32 %, y 5–100 %"
+    },
+    {
+      "name": "02-distance-to-facilities.webp",
+      "sha256": "74d95b1a176dc48043da544bc2812bec90188218e427aa451e330a288c53407d",
+      "bytes": 105512,
+      "from": "page 9 — location and problem 1, the distance between units, x 0–20 %, y 36–100 %; the title block above is excluded"
+    },
+    {
+      "name": "03-original-dormitory.webp",
+      "sha256": "04af848b9b7483a196d01bb98b86497ab4148930e01d7af92dddcdac169c1d46",
+      "bytes": 89264,
+      "from": "page 9 — original dormitory axonometric, x 20–50 %, y 56–100 %; the problem 2 photos of students above are excluded"
+    },
+    {
+      "name": "04-activity-needs.webp",
+      "sha256": "5945c5eb0611174c77cb12bdd022343a409a4e57f211a53c52b5d08ffd6a0b28",
+      "bytes": 46170,
+      "from": "page 9 — icons of the activity spaces students need, x 36.5–50 %, y 5–56 %"
+    },
+    {
+      "name": "05-roof-strategies.webp",
+      "sha256": "4ea59889475d487d3f61356a37569b616ba2bce6f80fd636aa40f87630832cbd",
+      "bytes": 137178,
+      "from": "page 9 — strategies 1 and 2: unlock the roof and different types of modules, x 50.5–100 %, y 0–62 %"
+    },
+    {
+      "name": "06-conceptual-models.webp",
+      "sha256": "1ec5ee9931740b5ee72518c04198df01974f910c1583d008b69d045970b5e24f",
+      "bytes": 48214,
+      "from": "page 9 — conceptual model and five hypotheses, x 82–100 %, y 64.5–100 %; the design reference images of a third-party building are excluded"
+    },
+    {
+      "name": "07-combination-sample.webp",
+      "sha256": "66c33a7b2bd2c7cc2ab31bb50b85b7bb813f0eca192852702eca810701ecb817",
+      "bytes": 114536,
+      "from": "page 10 — combination samples, x 32.5–50.5 %"
+    },
+    {
+      "name": "08-rooftop-activity-space.webp",
+      "sha256": "7080a050a16b1e151f61030de528ceac0c39e5add198f2e4172cad18a3e9acfc",
+      "bytes": 131260,
+      "from": "page 10 — rooftop activity space and four roofs, x 50.5–67.5 %, y 0–99 %; the rendering with a photo figure is excluded"
+    },
+    {
+      "name": "09-module-layout.webp",
+      "sha256": "6e5816fe7f7cbd966b7cb6e7cbc3e1f718f9c20fb3035f0bc4761c77a58f4391",
+      "bytes": 97214,
+      "from": "page 10 — module layout of the staircase interior with drawn figures, x 74–100 %, y 36–100 %; the rendering with a photo figure above is excluded"
+    }
+  ]
+}
