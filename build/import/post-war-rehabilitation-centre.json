@@ -1,0 +1,31 @@
+{
+  "project": "Post-war Rehabilitation Centre",
+  "dest": "assets/board/post-war-rehabilitation-centre",
+  "note": "Portfolio c7593241 pages 11–12 cropped to four images, WebP q88 (PIL), max 2000 px wide. Not used: the title, opinion and PTSD collages on page 11 (photos of people, a portrait), and the site photos and photos of hands on page 12. No retouching.",
+  "files": [
+    {
+      "name": "01-research-and-design-principles.webp",
+      "sha256": "0a34cc56b619aac0b55a49d28be838ae44cdb0c05f4a0cc87863dbf86178f758",
+      "bytes": 326040,
+      "from": "c7593241 page 11 — research findings, design principles and physical rehabilitation steps, x 52–100 %; the title, opinion and PTSD collages (photos of people, a portrait) are excluded"
+    },
+    {
+      "name": "02-site-and-bubble-diagram.webp",
+      "sha256": "cd6bff995ad72e4f8aee83ffde7250de69e7d30838c76539f926f91e4a98498c",
+      "bytes": 172084,
+      "from": "page 12 — site map and bubble diagram, x 0–22 %, y 20–100 %; the site photos are excluded"
+    },
+    {
+      "name": "03-concept-models.webp",
+      "sha256": "1d672468b8a0b78ac148ac1d88b1f15db83fd9b4ae9561275c9cc918694b3c8a",
+      "bytes": 146196,
+      "from": "page 12 — concept models, concept development and mosque, x 22–50 %, y 5–71 %; the photos of hands are excluded"
+    },
+    {
+      "name": "04-design-proposal.webp",
+      "sha256": "64064df13c5ab8fd8820b32acafe385aec370f37f5cecd52f4ee17f94a34726e",
+      "bytes": 240036,
+      "from": "page 12 — design proposal: plans, structure, curved facade and renders, x 50–100 %"
+    }
+  ]
+}
