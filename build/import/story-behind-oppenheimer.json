@@ -1,0 +1,67 @@
+{
+  "project": "The Story Behind Oppenheimer",
+  "dest": "assets/board/story-behind-oppenheimer",
+  "note": "Portfolio pages 9–13 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage on page 9; everything on page 10 except the GIS analysis (photos of Navajo people, historical photos, economic and living-system photos, the new-system diagram); the plantation stock photos, the greenhouse panel with a person, the Native American Church photos and the Stage 4 purpose collage on page 12. Typos fixed: Stragegy, Insastry, Entirment. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-stage-4-sections.webp",
+      "sha256": "ede61275adfb2e22eaa76106fad296c6c1160882f3c90040e810b993ceca53af",
+      "bytes": 186872,
+      "from": "page 12 — Stage 4 sections A-A and B-B (cover), x 50–100 %, y 40–100 %"
+    },
+    {
+      "name": "02-gis-data-analysis.webp",
+      "sha256": "3182b5a2279a5c6ed6487cfbc3cba72b759490c747dea188e8a7e63f5b888323",
+      "bytes": 176426,
+      "from": "page 10 — Local GIS Data Analysis, x 0–20 %; the rest of the page (photos of people, historical photos) is excluded"
+    },
+    {
+      "name": "03-stage-strategy-and-plan.webp",
+      "sha256": "926f80ecf3fd89ae7d8c6cef9ec0cfcd2bf8aa287c3c6ccbcc8be901806ddce9",
+      "bytes": 371784,
+      "from": "page 11 — Stage strategy to new system and upper-level analysis and plan, x 0–50 %"
+    },
+    {
+      "name": "04-stage-1-remediation.webp",
+      "sha256": "a4ba6a07030cc937325c1e84dc1f295b4e3cab19db6da1f6e30230cf2e815711",
+      "bytes": 373540,
+      "from": "page 11 — Stage 1, pollution remediation and land, x 50–100 %"
+    },
+    {
+      "name": "05-stage-2-planting.webp",
+      "sha256": "c700947ac4647c07e9edd12add8bb99921991596ae45c197c6656cfe73bc5ed8",
+      "bytes": 73106,
+      "from": "page 12 — Stage 2 plan, x 0–24 %, y 0–31 %; the plantation stock photos and greenhouse panel (a person) are excluded"
+    },
+    {
+      "name": "06-stage-3-plan.webp",
+      "sha256": "9ea70dae4bd6aa7c95ee4b0e5f8d575245f88231833245520b79c3ee6c924289",
+      "bytes": 89680,
+      "from": "page 12 — Stage 3 plan, x 24–50 %, y 0–34 %; the Native American Church photos are excluded"
+    },
+    {
+      "name": "07-stage-3-facilities.webp",
+      "sha256": "1fb081225f65b1f27f6affd2f6a666a6232e731900c8bf687c606645192cb28c",
+      "bytes": 103848,
+      "from": "page 12 — material production base and temporary infrastructure facilities, x 24–50 %, y 65.5–100 %"
+    },
+    {
+      "name": "08-stage-4-plan.webp",
+      "sha256": "69a0b0d978e10f3be7e3672148599c0d8ac75496d825d774e34fc49bcfb51b21",
+      "bytes": 107896,
+      "from": "page 12 — Stage 4 plan, x 50–78 %, y 0–39 %; the Stage 4 purpose collage is excluded"
+    },
+    {
+      "name": "09-master-plan.webp",
+      "sha256": "4f543d97fd1ba4b0ebddfb3adaadac68aaaeecac975c84bdb93d8beeea5f6f27",
+      "bytes": 403170,
+      "from": "page 13 — Master Plan, x 0–49 %, y 0–65.5 %"
+    },
+    {
+      "name": "10-aerial-views.webp",
+      "sha256": "6bedeb031cd90749d78ed6aabe1ebb86c32f82dd655ea89f0afdaa3703109a24",
+      "bytes": 165238,
+      "from": "page 13 — Aerial Views I and II, x 0–49 %, y 65.5–100 %"
+    }
+  ]
+}
