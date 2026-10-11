@@ -1,0 +1,67 @@
+{
+  "project": "The Rebirth of Cloth Fabric",
+  "dest": "assets/board/rebirth-of-cloth-fabric",
+  "note": "Portfolio pages 4–7 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title column (a stock photo of a woman) on page 4; the functional-area and sketch-development panels (precedent and site photos) and the massing-model photos on page 5. Typos fixed: Founction(al), Colthes, tempreture, Thired, Nnisex, Structral. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-facade-eighth-floor.webp",
+      "sha256": "37e69e81431067fa174d9d871b180d7b036fb331fbe71400553f3306af619f1d",
+      "bytes": 426298,
+      "from": "page 7 — facade explosion and axonometric scene of the eighth floor (cover), x 50–100 %"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "e7fda6098d672a6c9ac895c9f626571844ada8500d0de852a1228f810c5c1f3b",
+      "bytes": 665458,
+      "from": "page 4 — Site Analysis, x 62–100 %; the title column with a stock photo is excluded"
+    },
+    {
+      "name": "03-design-driver.webp",
+      "sha256": "0253046d2802311d513cd26e20647e0634be31432abcfbe5e8c7d3d812f168f7",
+      "bytes": 58450,
+      "from": "page 5 — design concept and design drivers, x 0–50 %, y 0–29 %"
+    },
+    {
+      "name": "04-volume-generation.webp",
+      "sha256": "32b55cd1c85c5b025dca49dc17ff2d911c60ec9c0295527cb61bff65ee4b36d3",
+      "bytes": 89864,
+      "from": "page 5 — Volume Generation, stages 1–6, x 0–50 %, y 72–100 %; the functional-area, sketch and massing-model panels (photos) are excluded"
+    },
+    {
+      "name": "05-design-explain.webp",
+      "sha256": "da7055ff6b22000204dffef0768310c331f85685dbd70c6bcd5045023478c821",
+      "bytes": 129282,
+      "from": "page 5 — Design Explain, x 50–75 %"
+    },
+    {
+      "name": "06-ground-floor-plan.webp",
+      "sha256": "5b8d2da7da5ac13677af32f3196444b2d4516e7e7db860b457cf19636ef5aeb8",
+      "bytes": 188108,
+      "from": "page 5 — Ground floor plan, x 75–100 %"
+    },
+    {
+      "name": "07-floor-plans.webp",
+      "sha256": "788394493b273d87599d041bf8a243787170d57e810b64f7fefa2b17a62ec6e8",
+      "bytes": 87736,
+      "from": "page 6 — mezzanine to roof plans, y 0–45 %"
+    },
+    {
+      "name": "08-sections.webp",
+      "sha256": "ac0e0c9a37b7d8a1db2481f69aaad6e3d69e044ba2013b2068481fb78cf6195d",
+      "bytes": 278946,
+      "from": "page 6 — north short section and east long section, x 0–50 %, y 45–100 %"
+    },
+    {
+      "name": "09-elevations.webp",
+      "sha256": "c77cfb71c4d7ed786ac007cd3daf56e57627fefcfb866bf17ade35e07b53f7fb",
+      "bytes": 265794,
+      "from": "page 6 — north short elevation and east long elevation with material, x 50–100 %, y 45–100 %"
+    },
+    {
+      "name": "10-sustainable-strategy.webp",
+      "sha256": "3a9b80deed07882fe5217b06f2d2b7d59e54528575d0451d64a3f321bc6a54b1",
+      "bytes": 305026,
+      "from": "page 7 — structural strategy, physical model 1:200 and environmental strategy, x 0–50 %"
+    }
+  ]
+}
