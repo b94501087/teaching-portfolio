@@ -40,7 +40,7 @@
       "from": "page 17 — design strategy diagrams, x 42–100 %"
     },
     {
-      "name": "07-floor-plan-sections.webp",
+      "name": "07-floor-plans-and-sections.webp",
       "sha256": "4bca90ba5e3bcf5ff4ac8bf5470c120fcf588ad23684f1ad8598fb4270fd3fce",
       "bytes": 458134,
       "from": "page 18 — floor plan, sustainable design and cross-sections, full page"
@@ -57,5 +57,8 @@
       "bytes": 415168,
       "from": "page 19 — physical model views, x 42–100 %"
     }
+  ],
+  "delete": [
+    "assets/board/xinzao-ferry-terminal-park/07-floor-plan-sections.webp"
   ]
 }
