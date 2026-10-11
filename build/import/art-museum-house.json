@@ -1,0 +1,67 @@
+{
+  "project": "Art Museum House",
+  "dest": "assets/board/art-museum-house",
+  "note": "Boards 1–5, 7 and 8 cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: the student's selfies on boards 1 and 2, the bird photo and the collage with a photographed figure on board 1, the Loos and Le Corbusier portraits, book cover and book page scans on board 2, the model photo with a person's arm on board 4, the photo of a woman on board 5 and board 6 entirely (sections with photographed figures). No retouching.",
+  "files": [
+    {
+      "name": "01-cover-aerial.webp",
+      "sha256": "f9b2822d7815de80f0e27af3a2cfd0f518762f18808fff3a984cfa8ebfe7f11f",
+      "bytes": 868606,
+      "from": "board 7 — Architectural Presentation: aerial view of the house among trees (cover), whole board"
+    },
+    {
+      "name": "02-personal-creations.webp",
+      "sha256": "6eb6f340c4ed5c6ab21234fe9f7849dee89acd0fc43212ca6b5958996856acce",
+      "bytes": 122982,
+      "from": "board 1 — Some Personal Creations: the student's paintings, x 2–14 %, y 38.3–60 % beside x 1.8–34.4 %, y 64.8–76.6 %; the title, the student's selfie, the bird photo and the collage with a photographed figure are excluded"
+    },
+    {
+      "name": "03-reflections-bubbles.webp",
+      "sha256": "a7df7b904b911e1ec5de2790e37e5c74d71c6c5e968b198ded3fd671a1627631",
+      "bytes": 148376,
+      "from": "board 2 — My Reflections and Function Bubble Chart, x 0–40 %, y 0–62 %; the student's selfie below is excluded"
+    },
+    {
+      "name": "04-understanding.webp",
+      "sha256": "dbea0d103e8f302f91200ec72a86689a21da3d5d523acd59fa559cfad9797085",
+      "bytes": 95324,
+      "from": "board 2 — My Understanding diagrams, x 40.5–62 %, y 38–100 %; the book cover, the Loos and Le Corbusier portraits and the book page scans are excluded"
+    },
+    {
+      "name": "05-case-extrapolation.webp",
+      "sha256": "5aa4f0dab4080759eb4c2d3ddaa9091b7e58aa3e122291b73df78a4e4937a87d",
+      "bytes": 86712,
+      "from": "board 3 — Case Modeling Extrapolation, y 0–37 %"
+    },
+    {
+      "name": "06-concept-development.webp",
+      "sha256": "8fdaade59fcecb0b79703ed4bacd09a41b80b3f851792f21732f9b2f5911a5bf",
+      "bytes": 203758,
+      "from": "board 3 — Concept Development, y 37–100 %"
+    },
+    {
+      "name": "07-floor-relationship.webp",
+      "sha256": "7c2ce0f6b5071672337a838476a9f50e85b22451fe72cd7f457006fb019cb4c0",
+      "bytes": 211876,
+      "from": "board 4 — Floor Relationship (x 0–40 %) beside the four privacy types A–D (x 41–100 %, y 63–100 %); the model photo with a person's arm is excluded"
+    },
+    {
+      "name": "08-site.webp",
+      "sha256": "eb02f6c0e52ce443ea52d4b0bb8993cbe445066022a5ee5f8c47b36b3b48b0cc",
+      "bytes": 464796,
+      "from": "board 5 — Site Analysis map (x 0–64.5 %) beside the site photos and site model (x 64.5–100 %, y 0–63.2 %); the photo of a woman is excluded"
+    },
+    {
+      "name": "09-floor-plans.webp",
+      "sha256": "ab22308218297e293fbe0358c376e21bb3ba89c9a4d4f27d087f2de926523bda",
+      "bytes": 619442,
+      "from": "board 8 — Floor Plans, x 0–62 %"
+    },
+    {
+      "name": "10-streamlines-materials.webp",
+      "sha256": "fb726e12a1dc47ab5b01732a824d04e9be89156f7a2d5b5cab7dbba55846f442",
+      "bytes": 229172,
+      "from": "board 8 — Streamlines and Materials, x 62–100 %"
+    }
+  ]
+}
