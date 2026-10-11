@@ -1,0 +1,67 @@
+{
+  "project": "Metropolis",
+  "dest": "assets/board/metropolis-unfinished-building",
+  "note": "Portfolio 9bb9870d pages 21–27 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage with photos of people and the tutor and contact details on page 21, the Guangzhou timeline and the comic of photos of people on page 22, the module floor plans on page 25, the outdoor renders with photo cut-out figures and component diagrams on page 26, and the tower rendering on page 27. No retouching.",
+  "files": [
+    {
+      "name": "01-red-frame-tower.webp",
+      "sha256": "16354cf773d05fe63e514592573b5f2acf7d3a7d9c0a92dc503540912ec4f37e",
+      "bytes": 353580,
+      "from": "9bb9870d page 21 — render of the red steel frame and floors around the unfinished tower, x 0–60 %; the title collage with photos of people and the title text with tutor and contact details are excluded"
+    },
+    {
+      "name": "02-building-growth.webp",
+      "sha256": "9a1e18c7a041632f56f493926d20a237f02225def7e1c2e285d1d5b824ec9a09",
+      "bytes": 180558,
+      "from": "page 23 — building growth model: location and three stages, x 2–36 %"
+    },
+    {
+      "name": "03-capsule-living-space.webp",
+      "sha256": "edf8f430648d6286bf85a8b23290ed05c7e84899d23e322f3fb1243f91c92559",
+      "bytes": 53028,
+      "from": "page 23 — exploded capsule living space and plan, x 37–65 %, y 2–60 %"
+    },
+    {
+      "name": "04-capsule-combinations.webp",
+      "sha256": "cfb4429aa64aa176b85bd70c9339e85f020ba1ce39e7ad486f6c28d9f86ca61f",
+      "bytes": 112328,
+      "from": "page 23 — capsule combinations, x 65–98 %"
+    },
+    {
+      "name": "05-quadruple-capsule.webp",
+      "sha256": "e7f4c3c8abee699bb47d1c4f18b1b360e15fe186bfb756978ec85fc52bb4f050",
+      "bytes": 138276,
+      "from": "page 24 — quadruple capsule set and plans, x 3–34 %"
+    },
+    {
+      "name": "06-exploded-floors.webp",
+      "sha256": "73a8c4d6f64b335abf267c1f96a2698d442ea1ed083b38d79d86b6be84997e69",
+      "bytes": 149406,
+      "from": "page 24 — exploded views of the job shops, canteen, bathhouse and housing, x 34–67 %"
+    },
+    {
+      "name": "07-east-section-perspective.webp",
+      "sha256": "64f4c1fda1ef172e311a2f556068c60f102a9334196677caed0f9961ed4fd116",
+      "bytes": 198650,
+      "from": "page 24 — east section perspective, x 68–100 %"
+    },
+    {
+      "name": "08-structural-section.webp",
+      "sha256": "80bdc9bc5575586d7c1058a06c83a51894b500ddb47091975028cf9892cff37e",
+      "bytes": 252874,
+      "from": "page 25 — partial structural section with escalators and green areas, x 0–54 %; the module floor plans are not used"
+    },
+    {
+      "name": "09-living-public-factory.webp",
+      "sha256": "5a47e3e12df0a092b0d5e56324aa68d786fed982b67a2540d83e7b4d426fe7e2",
+      "bytes": 257064,
+      "from": "page 26 — exploded axonometric of living, public and factory space, x 41–100 %; the two outdoor renders with photo cut-out figures and the component diagrams are excluded"
+    },
+    {
+      "name": "10-handmade-models.webp",
+      "sha256": "f3c43cbe52858595b4a86dca2a056a9e3b194f87ccf5849d9028af8c182ea66e",
+      "bytes": 152150,
+      "from": "page 27 — handmade three-layer module models, x 2–57 %; the tower rendering is not used"
+    }
+  ]
+}
