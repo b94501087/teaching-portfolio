@@ -1,0 +1,61 @@
+{
+  "project": "Co-Living Community: Self, Ego and Superego",
+  "dest": "assets/board/co-living-tower-self-ego-superego",
+  "note": "Portfolio ab819a6e pages 7–9 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the city photos and the reference collage with portraits of real people on page 7, and the next project's pages. No retouching.",
+  "files": [
+    {
+      "name": "01-program-generation.webp",
+      "sha256": "7b344aa793c610e660f3430173a26a3aa9ee6606a2743d2ade848e0f1f200d98",
+      "bytes": 283938,
+      "from": "ab819a6e page 8 — program generation, x 69–100 %, y 22–100 %"
+    },
+    {
+      "name": "02-location.webp",
+      "sha256": "8006ed4980ed5a6a2c5461e7543c038150780afb9e59f82f3d35bd039e82ed7f",
+      "bytes": 16954,
+      "from": "page 7 — location in Hai Zhu District, Guangzhou, and site diagram, x 50.5–63.3 %, y 33–54.5 %"
+    },
+    {
+      "name": "03-extraction-and-fusion.webp",
+      "sha256": "bbd4fa23cb161114c0ea7216684f6aea5a5be9f7e9eafd77c747b100e731de9a",
+      "bytes": 115884,
+      "from": "page 8 — extraction of elements and element fusion, x 0–21.5 %"
+    },
+    {
+      "name": "04-conceptual-model.webp",
+      "sha256": "51dd9de646c8b93df1ff3ab3dc74f1144788fa0f924817467e1a6f9cedced79c",
+      "bytes": 212392,
+      "from": "page 8 — assembly into the conceptual model, x 21.5–50 %, y 6–100 %"
+    },
+    {
+      "name": "05-extracting-space.webp",
+      "sha256": "697fb776b9ebe33eaaf0486209eb4dd7f55e0cedea439534cb262ff96a3fe7a7",
+      "bytes": 153910,
+      "from": "page 8 — extracting space: superego, ego and self, x 51–69 %"
+    },
+    {
+      "name": "06-lane-driving.webp",
+      "sha256": "9cd342058a07e88f671064aafad578173295cf869f26c71b38dd94c200b54650",
+      "bytes": 48132,
+      "from": "page 8 — lane driving diagrams, x 69–100 %, y 0–22 %"
+    },
+    {
+      "name": "07-exterior-view.webp",
+      "sha256": "6781033493b7a04af2cff28aa43948f915fcc96459355018c904c946c956aa59",
+      "bytes": 153560,
+      "from": "page 9 — view of the building from the outside, x 0–49.5 %, y 0–30 %"
+    },
+    {
+      "name": "08-interior-views.webp",
+      "sha256": "3745c0ae36a9bb5ea48e92450bd79167dee40ca5e8b52897ccb65dda458927a2",
+      "bytes": 165620,
+      "from": "page 9 — entrance, internal access and interior views, x 0–27.5 %, y 30–100 %"
+    },
+    {
+      "name": "09-plan-and-section.webp",
+      "sha256": "9668f072cac45d85e94e4c176f0bc6557117be0c9b7722d4c791b952c31f2632",
+      "bytes": 135868,
+      "from": "page 9 — plan view and section view, x 27.5–49.5 %, y 30–100 %"
+    }
+  ]
+}
