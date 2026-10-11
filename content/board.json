@@ -10700,6 +10700,443 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Soul Ferry Terminal — A Sea Cemetery in Zhuhai",
+      "slug": "soul-ferry-terminal",
+      "description": "A sea burial cemetery whose roof follows the waves of the Zhuhai coast.\n\nLovers Road, Zhuhai, China | Cemetery and funeral terminal | Apr–Jul 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "靈魂渡口——珠海海葬墓園",
+          "description": "屋頂隨珠海海岸波浪起伏的海葬墓園。\n\n中國珠海情侶路｜墓園與殯葬碼頭｜2022 年 4–7 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/soul-ferry-terminal/01-auditorium.webp",
+        "assets/board/soul-ferry-terminal/02-site-analysis.webp",
+        "assets/board/soul-ferry-terminal/03-feng-shui-landscape.webp",
+        "assets/board/soul-ferry-terminal/04-oyster-life-cycle.webp",
+        "assets/board/soul-ferry-terminal/05-morphological-evolution.webp",
+        "assets/board/soul-ferry-terminal/06-model-display.webp",
+        "assets/board/soul-ferry-terminal/07-funeral-routes.webp",
+        "assets/board/soul-ferry-terminal/08-birds-eye-exploded-view.webp",
+        "assets/board/soul-ferry-terminal/09-elevation.webp",
+        "assets/board/soul-ferry-terminal/10-mourning-hall-and-pier.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/soul-ferry-terminal/01-auditorium.webp"
+          ],
+          "captions": [
+            "The auditorium steps down towards the coffin and the cross."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "禮堂的階梯座位朝向靈柩與十字架逐級下降。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "China's mandatory cremation policy clashes with traditional Chinese thinking about burial, and many people find it hard to accept. The project explores a new kind of cemetery for sea burial on Lovers Road in Zhuhai, drawing on the animals and habits of the coastal city.",
+          "images": [
+            "assets/board/soul-ferry-terminal/02-site-analysis.webp",
+            "assets/board/soul-ferry-terminal/03-feng-shui-landscape.webp"
+          ],
+          "captions": [
+            "Site analysis along the Zhuhai coast.",
+            "The site follows feng shui: surrounded by mountains and rivers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "中國強制火化的政策與傳統的安葬觀念相衝突，許多人難以接受。本案在珠海情侶路探索一種以海葬為主的新型墓園，並從這座海濱城市的動物與生活習慣中汲取靈感。",
+              "captions": [
+                "珠海海岸的基地分析。",
+                "基地遵循風水：背山面水，山水環抱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Oysters grow by attaching new shells to old ones, and this life cycle becomes a metaphor for continuation between generations. The forms of waves, ripples and oyster shells are traced into a sequence of shapes for the building.",
+          "images": [
+            "assets/board/soul-ferry-terminal/04-oyster-life-cycle.webp",
+            "assets/board/soul-ferry-terminal/05-morphological-evolution.webp"
+          ],
+          "captions": [
+            "Life cycle of oysters as the source of inspiration.",
+            "Morphological evolution from wave ripple to oyster attachment."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "牡蠣在舊殼上附著生長，這個生命循環成為世代延續的隱喻。海浪、波紋與牡蠣殼的形態被轉化為一系列建築造型。",
+              "captions": [
+                "以牡蠣的生命循環作為靈感來源。",
+                "從海浪波紋到牡蠣附著的形態演變。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The model places a pier and memorial venue on the coast at Shijing Mountain, with two memorial routes leading out to a cemetery island in the Lingding Ocean. Mourners can choose tree burial among mangroves, a tombstone, or sea burial by boat.",
+          "images": [
+            "assets/board/soul-ferry-terminal/06-model-display.webp",
+            "assets/board/soul-ferry-terminal/07-funeral-routes.webp"
+          ],
+          "captions": [
+            "Model of the pier, memorial venue and cemetery island.",
+            "Funeral routes after the ceremony."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "模型在石景山海岸設置碼頭與紀念場所，兩條紀念路線通往伶仃洋上的墓園島。悼念者可選擇紅樹林樹葬、立碑，或乘船海葬。",
+              "captions": [
+                "碼頭、紀念場所與墓園島的模型。",
+                "告別式後的送行路線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The outline of the building follows the shape of the coast, and Grasshopper shapes its undulating roof after the rise and fall of the waves. Inside, a memorial hall, auditorium, mourning hall and pier lead mourners from farewell to the sea.",
+          "images": [
+            "assets/board/soul-ferry-terminal/08-birds-eye-exploded-view.webp",
+            "assets/board/soul-ferry-terminal/09-elevation.webp",
+            "assets/board/soul-ferry-terminal/10-mourning-hall-and-pier.webp"
+          ],
+          "captions": [
+            "Bird's-eye exploded view of the building on the coast.",
+            "Elevation of the undulating roof.",
+            "Mourning hall and pier."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築輪廓順應海岸線的形狀，並以 Grasshopper 依據海浪起伏生成波動的屋頂。室內的紀念堂、禮堂、守靈廳與碼頭，引導悼念者從告別走向大海。",
+              "captions": [
+                "海岸上建築的鳥瞰爆炸圖。",
+                "起伏屋頂的立面。",
+                "守靈廳與碼頭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the cultural conflict behind the brief.\n2. Find a natural cycle that carries meaning.\n3. Turn natural forms into building shapes.\n4. Design the route as a ritual sequence.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從題目背後的文化衝突出發。\n2. 找出承載意義的自然循環。\n3. 將自然形態轉化為建築造型。\n4. 把動線設計成一段儀式序列。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Sky Garden — Zhuhai Old Community Renewal",
+      "slug": "sky-garden-community-renewal",
+      "description": "A sky bridge that turns empty roads above a busy intersection into a community park.\n\nQingnian Road, Xiangzhou, Zhuhai, China | Community renewal and sky bridge | May–Aug 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "空中花園——珠海老舊社區更新",
+          "description": "將繁忙路口上方的閒置道路轉化為社區公園的空中天橋。\n\n中國珠海香洲青年路｜社區更新與空中天橋｜2021 年 5–8 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sky-garden-community-renewal/01-event-venue-renovation.webp",
+        "assets/board/sky-garden-community-renewal/02-four-areas-around-the-site.webp",
+        "assets/board/sky-garden-community-renewal/03-morphogenesis-steps-1-4.webp",
+        "assets/board/sky-garden-community-renewal/04-morphogenesis-steps-5-8.webp",
+        "assets/board/sky-garden-community-renewal/05-slow-pedestrian-ramp.webp",
+        "assets/board/sky-garden-community-renewal/06-aerial-view.webp",
+        "assets/board/sky-garden-community-renewal/07-new-event-park.webp",
+        "assets/board/sky-garden-community-renewal/08-sky-bridge-renderings.webp",
+        "assets/board/sky-garden-community-renewal/09-bridge-meeting-point.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sky-garden-community-renewal/01-event-venue-renovation.webp"
+          ],
+          "captions": [
+            "The renovated event venue wraps a jogging track around shaded rest areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "改造後的活動場地以慢跑道環繞遮蔭休息區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Field research and interviews with residents found three key problems in an old community on Qingnian Road in Zhuhai: earlier planning left no space for a community park, three schools crowd one intersection, and neighbours have no place to meet. The project proposes to use the empty motor vehicle roads and the free space above the intersection to create a community park.",
+          "images": [
+            "assets/board/sky-garden-community-renewal/02-four-areas-around-the-site.webp"
+          ],
+          "captions": [
+            "Residential, school, commercial and park areas around the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "田野調查與居民訪談發現，珠海青年路一處老舊社區有三個關鍵問題：過去的規劃沒有留下社區公園的空間、三所學校擠在同一個路口、鄰里之間沒有交流的地方。本案提出利用閒置的機動車道與路口上方的空間，打造一座社區公園。",
+              "captions": [
+                "基地周邊的住宅區、學校區、商業區與公園區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Most flyovers in Chinese communities only carry traffic, so the study asks whether a pedestrian bridge can become a planned place for people. The bridge is meant to raise living standards and give residents more space for activities.",
+          "images": [
+            "assets/board/sky-garden-community-renewal/03-morphogenesis-steps-1-4.webp"
+          ],
+          "captions": [
+            "Morphogenesis: selecting important nodes and connecting them to the event venue."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "中國社區裡的天橋大多只承載交通，因此研究探討人行天橋能否成為一個為人規劃的場所。這座天橋希望提升居住品質，並為居民提供更多活動空間。",
+              "captions": [
+                "形態生成：選取重要節點並與活動場地連接。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The bridge is drawn through the important nodes of the community and connected to a renovated event venue. Stepped rest areas, ramps and an air platform are added step by step along the route.",
+          "images": [
+            "assets/board/sky-garden-community-renewal/04-morphogenesis-steps-5-8.webp",
+            "assets/board/sky-garden-community-renewal/05-slow-pedestrian-ramp.webp"
+          ],
+          "captions": [
+            "Morphogenesis: event venue renovation and the air platform.",
+            "Slow pedestrian ramp with a sunshade decorative building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "天橋穿過社區中的重要節點，並與改造後的活動場地相連。沿著路線逐步加入階梯休息區、坡道與空中平台。",
+              "captions": [
+                "形態生成：活動場地改造與空中平台。",
+                "設有遮陽裝飾構築物的慢行坡道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The sky bridge links the primary school, the old park, the bus station and a new event park that replaces cluttered flowerbeds with a stepped rest space. Where the two bridges meet, a sunshade inspired by the flowers of the community's decades-old kapok tree shelters space that residents can use as they like.",
+          "images": [
+            "assets/board/sky-garden-community-renewal/06-aerial-view.webp",
+            "assets/board/sky-garden-community-renewal/07-new-event-park.webp",
+            "assets/board/sky-garden-community-renewal/08-sky-bridge-renderings.webp",
+            "assets/board/sky-garden-community-renewal/09-bridge-meeting-point.webp"
+          ],
+          "captions": [
+            "Aerial view of the sky bridge.",
+            "New event park.",
+            "The sky bridge at the street and the community entrance.",
+            "Where the two bridges meet."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "空中天橋連接小學、舊公園、公車站，以及一座新的活動公園，以階梯休息空間取代原本雜亂的花圃。兩座天橋交會之處，以社區中數十年老木棉樹的花朵為靈感的遮陽構築，為居民提供可自由使用的空間。",
+              "captions": [
+                "空中天橋鳥瞰。",
+                "新的活動公園。",
+                "街道與社區入口處的空中天橋。",
+                "兩座天橋交會之處。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Interview residents to find the real problems.\n2. Map the nodes people already use.\n3. Connect the nodes with one continuous route.\n4. Add places to rest along the route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 訪談居民，找出真正的問題。\n2. 標示人們已在使用的節點。\n3. 以一條連續路線串連各節點。\n4. 沿線加入可停留的場所。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Toilet Revolution — Beijing Road Pedestrian Street Renovation",
+      "slug": "toilet-revolution-beijing-road",
+      "description": "Foldable toilet and shop modules that bring public toilets back to Guangzhou's busiest pedestrian street.\n\nBeijing Road, Guangzhou, China | Public toilets and pedestrian street renovation | Aug–Dec 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "廁所革命——北京路步行街改造",
+          "description": "以可折疊的廁所與商店模組，讓公共廁所重回廣州最繁華的步行街。\n\n中國廣州北京路｜公共廁所與步行街改造｜2022 年 8–12 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/toilet-revolution-beijing-road/01-model-display.webp",
+        "assets/board/toilet-revolution-beijing-road/02-site-axonometric.webp",
+        "assets/board/toilet-revolution-beijing-road/03-street-analysis.webp",
+        "assets/board/toilet-revolution-beijing-road/04-structural-details.webp",
+        "assets/board/toilet-revolution-beijing-road/05-transformation-process.webp",
+        "assets/board/toilet-revolution-beijing-road/06-modular-design.webp",
+        "assets/board/toilet-revolution-beijing-road/07-aerial-view.webp",
+        "assets/board/toilet-revolution-beijing-road/08-floor-plan.webp",
+        "assets/board/toilet-revolution-beijing-road/09-reuse-cycle-section.webp",
+        "assets/board/toilet-revolution-beijing-road/10-street-perspective.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/toilet-revolution-beijing-road/01-model-display.webp"
+          ],
+          "captions": [
+            "Toilet modules, a viewing platform and a business group combine into a mixed function group."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "廁所模組、觀景平台與商業組合成一個複合機能群組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Beijing Road has been a commercial centre of Guangzhou since ancient times, and today it is the city's most prosperous pedestrian street. On-site consultation and online surveys showed that its public toilets are hard to find, too few and not felt to be safe.",
+          "images": [
+            "assets/board/toilet-revolution-beijing-road/02-site-axonometric.webp"
+          ],
+          "captions": [
+            "Site axonometric of Beijing Road Pedestrian Street, Guangzhou."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "北京路自古以來就是廣州的商業中心，如今更是全市最繁華的步行街。現場訪談與網路問卷顯示，這裡的公共廁所難以找到、數量不足，也讓人覺得不夠安全。",
+              "captions": [
+                "廣州北京路步行街的基地軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The strategy breaks the traditional detached and closed toilet into scattered and open units, joined by mutable stores, ecological toilets and transformable toilets. Analysis of the street, its available sites and its movement lines decides where the units can stand.",
+          "images": [
+            "assets/board/toilet-revolution-beijing-road/03-street-analysis.webp"
+          ],
+          "captions": [
+            "Status of the site, available sites, movement lines and planning."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "策略將傳統獨立、封閉的廁所拆解為分散、開放的單元，並結合可變商店、生態廁所與可變形廁所。透過分析街道、可用基地與動線，決定這些單元的設置位置。",
+              "captions": [
+                "基地現況、可用基地、動線與規劃分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Folding walls, rotating wall panels and pop-up shops let each unit be stowed and unfolded by hand. Urinals, a barrier-free toilet and a folding store transform from one basic module, and the modules combine into business, restroom and mixed function groups.",
+          "images": [
+            "assets/board/toilet-revolution-beijing-road/04-structural-details.webp",
+            "assets/board/toilet-revolution-beijing-road/05-transformation-process.webp",
+            "assets/board/toilet-revolution-beijing-road/06-modular-design.webp"
+          ],
+          "captions": [
+            "Structural details of the deformable units.",
+            "Transformation process of the modules.",
+            "Modular design and module groups."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "折疊牆、旋轉牆板與彈出式店舖，讓每個單元都能以人力收納與展開。小便斗、無障礙廁所與折疊商店都由同一個基本模組變化而來，模組再組合成商業、廁所與複合機能群組。",
+              "captions": [
+                "可變形單元的構造細部。",
+                "模組的變形過程。",
+                "模組設計與模組群組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Toilet module groups, accessible toilets and double-layer modules with solar panels line the old pedestrian street. An excrement recycling system works with biogas power generation and solar energy so that the toilets can run themselves as much as possible.",
+          "images": [
+            "assets/board/toilet-revolution-beijing-road/07-aerial-view.webp",
+            "assets/board/toilet-revolution-beijing-road/08-floor-plan.webp",
+            "assets/board/toilet-revolution-beijing-road/09-reuse-cycle-section.webp",
+            "assets/board/toilet-revolution-beijing-road/10-street-perspective.webp"
+          ],
+          "captions": [
+            "Aerial view of the modules along the street.",
+            "Floor plan with the gender-neutral toilet module.",
+            "Two systems enable a reuse cycle.",
+            "Street perspective."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "廁所模組群、無障礙廁所與設有太陽能板的雙層模組沿著老步行街排列。排泄物回收系統結合沼氣發電與太陽能系統，讓廁所盡可能自我循環運作。",
+              "captions": [
+                "沿街模組鳥瞰。",
+                "含性別友善廁所模組的平面圖。",
+                "兩套系統實現循環再利用。",
+                "街道透視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask users what really goes wrong.\n2. Break one closed building into small units.\n3. Design each unit to fold and transform.\n4. Close the loop with water and energy systems.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 詢問使用者真正的問題所在。\n2. 將一棟封閉建築拆解為小單元。\n3. 讓每個單元都能折疊與變形。\n4. 以水與能源系統形成循環。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
