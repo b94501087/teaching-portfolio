@@ -2035,6 +2035,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Pig Farm — A Manor Game from the Pig’s Side",
+      "slug": "pig-farm",
+      "description": "A thanksgiving-education manor game in which visitors play a remote-controlled mechanical pig, to reflect on human cruelty, species equality and animal welfare.\n\nSomis, California, USA | Individual work / AR game, farm planning | Sep–Nov 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "豬場——站在豬這一邊的莊園遊戲",
+          "description": "一座以感恩教育為主題的莊園遊戲：參觀者操控遙控機械豬，反思人類的殘酷、物種平等與動物福利。\n\n美國加州 Somis｜個人作品／AR 遊戲、農場規劃｜2023 年 9 月至 11 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/pig-farm/01-cover-model.webp",
+        "assets/board/pig-farm/02-site-plan.webp",
+        "assets/board/pig-farm/03-game-reality.webp",
+        "assets/board/pig-farm/04-location.webp",
+        "assets/board/pig-farm/05-pig-commodity.webp",
+        "assets/board/pig-farm/06-form.webp",
+        "assets/board/pig-farm/07-game.webp",
+        "assets/board/pig-farm/08-ar-plan.webp",
+        "assets/board/pig-farm/09-model-normal-map.webp",
+        "assets/board/pig-farm/10-model-cages.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/pig-farm/01-cover-model.webp"
+          ],
+          "captions": [
+            "Physical model of the manor: the restaurant, the ranch and the cages, with the visitors' route from the entrance."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "莊園的實體模型：餐廳、牧場與籠舍，以及參觀者從入口出發的路線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In the Anthropocene, some humans regard themselves as the masters of the world and put their own desires above the lives of other species. Taking Peter Singer's Animal Liberation as its theory, that we must consider the interests of all living beings capable of suffering, the project asks visitors to be the pig.",
+          "images": [
+            "assets/board/pig-farm/02-site-plan.webp",
+            "assets/board/pig-farm/03-game-reality.webp"
+          ],
+          "captions": [
+            "Rendered site plan of the manor.",
+            "Game view and reality view — in the game you are the pig, from baby pig to fat pig; in reality you eat the pig, and the end is inevitable."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在人類世，有些人自認是世界的主宰，把自己的慾望置於其他物種的生命之上。本案以彼得·辛格《動物解放》為理論基礎——我們必須考慮所有能感受痛苦的生命的利益——邀請參觀者成為那隻豬。",
+              "captions": [
+                "莊園的總平面渲染圖。",
+                "遊戲視角與現實視角——在遊戲中你是那隻豬，從小豬長成肥豬；在現實中你吃掉那隻豬，結局無可避免。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Research found that pigs have the highest IQ and meat exchange rate of any common livestock, and are also the most consumed meat. The site is A Cottage Farms in Somis, California, among farmland, waterways, a railway and roads.",
+          "images": [
+            "assets/board/pig-farm/04-location.webp",
+            "assets/board/pig-farm/05-pig-commodity.webp"
+          ],
+          "captions": [
+            "Location — A Cottage Farms at 34.262706, -118.988306, with farmland, waterways, the railway and roads.",
+            "Pig = commodity? IQ and meat exchange rate of common livestock, and per capita meat consumption from 2013 to 2020."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究發現，豬在常見家畜中智商與肉品轉換率最高，也是人類消費最多的肉類。基地位於加州 Somis 的 A Cottage Farms，周邊有農田、水道、鐵路與道路。",
+              "captions": [
+                "區位——位於 34.262706, -118.988306 的 A Cottage Farms，周邊有農田、水道、鐵路與道路。",
+                "豬＝商品？常見家畜的智商與肉品轉換率，以及 2013 至 2020 年的人均肉類消費量。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "From the original farm, field and greenhouse, the plan groups a pigsty, restaurant, VR room, atrium, ranch and outdoor field along one streamline. In the game, visitors choose a pig such as Piggy, Berkshire, Landrace or Duroc, steer a remote-controlled mechanical pig and earn points by pleasing humans, which decide whether their map is Hell, Normal or Paradise.",
+          "images": [
+            "assets/board/pig-farm/06-form.webp",
+            "assets/board/pig-farm/07-game.webp",
+            "assets/board/pig-farm/08-ar-plan.webp"
+          ],
+          "captions": [
+            "Form — original situation, function, streamline and plane sketch.",
+            "Choose character — different roles, different spaces: each pig's weight and height, and the Hell, Normal and Paradise maps where better performance means better space.",
+            "Rendered plan and model views — on the roof of the restaurant, visitors who have finished their meal interact with the pig."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "從原有的農場、田地與溫室出發，平面沿一條動線組織豬舍、餐廳、VR 室、中庭、牧場與戶外田野。在遊戲中，參觀者選擇一種豬——小豬、盤克夏、藍瑞斯或杜洛克——操控遙控機械豬，藉由取悅人類累積分數，決定自己進入地獄、普通或天堂地圖。",
+              "captions": [
+                "形態——原始狀況、機能、動線與平面草圖。",
+                "選擇角色——不同角色、不同空間：每種豬的體重與身高，以及地獄、普通與天堂地圖，表現越好、空間越好。",
+                "平面渲染與模型視角——在餐廳屋頂上，用完餐的參觀者會與豬互動。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Despite the player's efforts, the mechanical pig is eventually slaughtered, and players use their points to savour different levels of pork dishes at the manor restaurant. Even in the Normal map the pigs remain trapped in borders set by humans, which provokes reflection on species equality and animal welfare.",
+          "images": [
+            "assets/board/pig-farm/09-model-normal-map.webp",
+            "assets/board/pig-farm/10-model-cages.webp"
+          ],
+          "captions": [
+            "The pigs in the Normal map are still trapped in the borders set by humans, and sitting-out areas on the estate for visitors.",
+            "Model of the cages, where the routes of humans and pigs meet."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "無論玩家多努力，機械豬最終都會被宰殺，玩家再以分數在莊園餐廳享用不同等級的豬肉料理。即使在普通地圖中，豬依然被困在人類設下的邊界裡，引發對物種平等與動物福利的反思。",
+              "captions": [
+                "普通地圖中的豬依然被困在人類設下的邊界裡，以及莊園中供參觀者休憩的戶外座位區。",
+                "籠舍模型，人與豬的路線在此交會。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Take a clear ethical position: a theory such as Animal Liberation gives the design its argument.\n2. Let the user change places: playing the pig makes the visitor feel what the plan is about.\n3. Turn rules into space: points, maps and endings decide where each visitor can go.\n4. Keep the irony honest: the meal at the end is the point, not a reward.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 採取清楚的倫理立場：像《動物解放》這樣的理論，為設計提供論點。\n2. 讓使用者換位：扮演豬，讓參觀者親身感受這個規劃要說的事。\n3. 把規則轉化為空間：分數、地圖與結局決定每位參觀者能去哪裡。\n4. 誠實保留反諷：最後的那頓飯才是重點，而不是獎勵。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
