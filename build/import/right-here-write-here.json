@@ -1,0 +1,67 @@
+{
+  "project": "Right Here, Write Here",
+  "dest": "assets/board/right-here-write-here",
+  "note": "Portfolio pages 12–17 cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: the title block of page 12; Existing Programs, Population, Situation and Historical Evolution photos on page 13; renders with people on pages 15–16; the first process circle and the photos of people using the furniture on page 17. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-furniture.webp",
+      "sha256": "30c9b0f8e3cff54b8450ae6177d8da3d981d1f9fd628a78a38962305b44a982f",
+      "bytes": 116142,
+      "from": "portfolio page 17 — the 1:1 display furniture on site (cover), x 24.5–58.5 %, y 31–75.5 %"
+    },
+    {
+      "name": "02-pen-sketches.webp",
+      "sha256": "8129046ea4c0762e72e61343b5e6b7bfab3dae300ac7712624fb2f8fcb3bf21a",
+      "bytes": 99022,
+      "from": "page 12 — sketches of pens and ink, x 24–52.5 %; the title block is excluded"
+    },
+    {
+      "name": "03-electronic-vs-paper.webp",
+      "sha256": "276b630a875697a2b3218f46bf23b9d98dd728039e2acb67f85d97eba8d71e46",
+      "bytes": 186764,
+      "from": "page 12 — Electronic Media vs Paper Media and Conclusion, x 52.5–100 %"
+    },
+    {
+      "name": "04-site.webp",
+      "sha256": "37cb7ac65df8076b2944e2a142d1087e25412d495f0ab50319214555cc966657",
+      "bytes": 160776,
+      "from": "page 13 — site analysis map (x 0–52 %, y 0–54.5 %) beside the site massing model (x 70–100 %, y 65.5–93 %); Existing Programs, Population, Situation and Historical Evolution photos are excluded"
+    },
+    {
+      "name": "05-material-purpose.webp",
+      "sha256": "4285853f9035e693932c9de04d4ccecf2304f0e64ea8cfe6b1377ee1d9142e8a",
+      "bytes": 121512,
+      "from": "page 14 — Material Experiment: Purpose and Conclusion, x 0–37 %"
+    },
+    {
+      "name": "06-paper-testing.webp",
+      "sha256": "a1260a07df5e0c36665a1f3daab3c4ca2ec9c774bfb9d9378c0ba39de123b4e1",
+      "bytes": 227312,
+      "from": "page 14 — Necessary Process (hands only) and Testing & Observation, x 37–100 %"
+    },
+    {
+      "name": "07-assembly.webp",
+      "sha256": "5247e261e985c34140bde273c4ce885e612dae873f54bfb0ee24042a197ae6a9",
+      "bytes": 127174,
+      "from": "page 15 — Assembly Processes, x 0–64.5 %"
+    },
+    {
+      "name": "08-floor-plan.webp",
+      "sha256": "9e7cfae41e8648bc2485f1b67d73c027004d34f78d4f1c8e5bb5d3259195fd35",
+      "bytes": 64842,
+      "from": "page 15 — Floor Plan and Analysis, x 65–100 %, y 0–48.5 %; the Exhibition render with people is excluded"
+    },
+    {
+      "name": "09-openness.webp",
+      "sha256": "8a4aef2ebd778578b7eb4e85bf0ff448994e3150ea000cae5e9c1410f76c0146",
+      "bytes": 23454,
+      "from": "page 16 — private, semi-private and open-up diagrams with a unit render, x 27–53 %, y 3–44 %; the renders with people are excluded"
+    },
+    {
+      "name": "10-physical-model.webp",
+      "sha256": "09df6bf8d2400312747172991d344f5c412d3b8b07b516bade1bd531668c4ac3",
+      "bytes": 325488,
+      "from": "page 17 — Physical Model (1:1) process circles 2–5 (hands only, y 8–30 %) above Display Furniture (x 0–72 %); the first circle and the photos of people are excluded"
+    }
+  ]
+}
