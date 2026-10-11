@@ -1,0 +1,61 @@
+{
+  "project": "Resilient Urban Design of Nansha",
+  "dest": "assets/board/resilient-urban-design-of-nansha",
+  "note": "Portfolio pages 3–8 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title, the strip of third-party planning documents and the four site photos on page 3. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-aerial.webp",
+      "sha256": "188448139285aaf9a7043cc3cea7ce694e3b1d7eb4b4bd8c54bf1a24d181bf3a",
+      "bytes": 237700,
+      "from": "page 8 — Aerial View Render (cover), y 37–100 %"
+    },
+    {
+      "name": "02-site-context.webp",
+      "sha256": "4f8e14722e8cec201ad67209b50ca20d6d6aa63ff35cef6a32546018142bd2af",
+      "bytes": 335890,
+      "from": "page 3 — site map with legend and introduction, x 17.8–100 %, y 17.5–100 %; the title, the planning-document strip and the four site photos are excluded"
+    },
+    {
+      "name": "03-submerge-elements.webp",
+      "sha256": "ed09c94317b20d24969fd2780aa33f2b4e0ebf99d1a0422ae851b4efd6d081f6",
+      "bytes": 122392,
+      "from": "page 4 — 2030/2050/2100 sea-level scenarios and Submerge Elements section, x 14.5–100 %, y 0–64 %"
+    },
+    {
+      "name": "04-site-analysis.webp",
+      "sha256": "0739414d270c05e17134b0f28ab6a74844d5dd6e16774fc1e29590d85982768f",
+      "bytes": 60088,
+      "from": "page 4 — left column of analysis maps, x 0–14.5 %"
+    },
+    {
+      "name": "05-strategy.webp",
+      "sha256": "d85118a6543cc081f2a602ecf9277be1c15b4cb18d70be9dc0760ca3abd707a2",
+      "bytes": 106560,
+      "from": "page 4 — Problem Consideration & Structural Prototype and Strategy, x 14.5–100 %, y 64–100 %"
+    },
+    {
+      "name": "06-marine-resilience.webp",
+      "sha256": "f6543776876263da3b56b7c9571cc68eba3a1650b9dc3474e841af1b72491686",
+      "bytes": 235862,
+      "from": "page 5 — Marine Resilience & Ecological Protection, full page"
+    },
+    {
+      "name": "07-unit-prototypes.webp",
+      "sha256": "61a2a7359fa57cbbd9459263d0d0ecad456d5532d472b6e36403dffebbdff0b5",
+      "bytes": 209524,
+      "from": "page 6 — FAR ranges and unit prototypes, full page"
+    },
+    {
+      "name": "08-intensity-control.webp",
+      "sha256": "89071ffa2a9dc05f7a12b412ef978085a00f56e9e5c669c5e44007171cdde724",
+      "bytes": 266384,
+      "from": "page 7 — Development Intensity Guidelines and Control, full page"
+    },
+    {
+      "name": "09-land-use-timeline.webp",
+      "sha256": "9cebccff970a3a8c3a8a2a5480f9f57e8f6ff7da16780dd19d8b0776d58f0a8d",
+      "bytes": 99202,
+      "from": "page 8 — Land use changes as sea levels rise, y 0–37 %"
+    }
+  ]
+}
