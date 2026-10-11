@@ -1,0 +1,55 @@
+{
+  "project": "The Plan of Building Resurrection",
+  "dest": "assets/board/plan-of-building-resurrection",
+  "note": "Portfolio 28feb419 pages 6 (right half) to 9 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title board with the tutor name and site photos on page 6, the photos of migrant workers and their housing on page 7, the photo of a person with the model on page 8, the tower facade render on page 8, and the collage with a third-party city photo and quote on page 9. No retouching.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "64b43642159fe064b69369ff78032fd79b806fcbb9d378141ac0cc410603e698",
+      "bytes": 447812,
+      "from": "28feb419 page 9 — physical model of the renovated tower with red figures, x 24.5–50 %; the collage on the right half (third-party city photo and a quote) is excluded"
+    },
+    {
+      "name": "02-program-axonometric.webp",
+      "sha256": "7a1c5c35a5e42b738e2eb8b6707d515c25d0f23b8c91d160122e928db57cf9e7",
+      "bytes": 365232,
+      "from": "page 7 — programme axonometric of the activity floors, x 24.5–50 %; the photos of migrant workers and their housing are excluded"
+    },
+    {
+      "name": "03-image-deformation.webp",
+      "sha256": "feeef58d9555419de97075c84d65df61ec88a2edc6967c78f68e55967c0a5cca",
+      "bytes": 350898,
+      "from": "page 7 — two-dimensional image deformation and strategy, x 50–70 %; the area vignettes with a placeholder label are not used"
+    },
+    {
+      "name": "04-block-analysis.webp",
+      "sha256": "f71fff68fef3f5dd99f7d704e10ca8b9069eebc567ae95af4095788140c7efb6",
+      "bytes": 87762,
+      "from": "page 7 — block, structure and centre point analysis, x 77.5–100 %, y 0–55 %"
+    },
+    {
+      "name": "05-model-studies.webp",
+      "sha256": "dc9d0d6f844876640d466d61ff33d03600172cb92efbe25233a43c9f5b9cc0ea",
+      "bytes": 159930,
+      "from": "page 7 — model studies, x 77–100 %, y 56–100 %"
+    },
+    {
+      "name": "06-floor-plans.webp",
+      "sha256": "31593e7fff1ce1700668a9a5fcef2a052beb22558b879100d5a39fc80f261d43",
+      "bytes": 377726,
+      "from": "page 8 — floor plans and model displays, x 21.5–71 %; the photo of a person with the model on the left is excluded"
+    },
+    {
+      "name": "07-floor-and-house-types.webp",
+      "sha256": "8b92bb9effbd67b47ffca55e88219c0d8cf2336fad4cf125b9f2b8df264300cc",
+      "bytes": 201648,
+      "from": "page 8 — floor and house types in model (hands only), x 71–85.5 %; the tower facade render is not used"
+    },
+    {
+      "name": "08-facade-section.webp",
+      "sha256": "86c3233493c4176ad9f50c309f182d42b055901f1b16605347f18eafca7842f1",
+      "bytes": 370816,
+      "from": "page 9 — facade section of study and shopping floors, x 0–24.5 %"
+    }
+  ]
+}
