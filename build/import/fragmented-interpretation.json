@@ -1,0 +1,49 @@
+{
+  "project": "Fragmented Interpretation",
+  "dest": "assets/board/fragmented-interpretation",
+  "note": "Portfolio pages 19–22 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: page 18 entirely (Wong Kar Wai portrait, film stills, social-media screenshots and stock collage), the Transfer Method and Misleading plot panels and the Storyline and Key Shots (film stills) on pages 19–20, the Population photos on page 22 and the collages with stock photos of people on pages 23–24. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "82ae0cf7d393dec4a1bd00dfe613e2801cb85ad8afa0a178b0807e337ce18852",
+      "bytes": 103604,
+      "from": "portfolio page 22 — Section Physical Model with the load-bearing structure of the footbridge (cover), y 66.5–100 %"
+    },
+    {
+      "name": "02-design-strategy.webp",
+      "sha256": "f9e3adbbdbf1e4899cf286705cd3ffdc877410acffb9e3c5427f8203b8d9bc62",
+      "bytes": 97924,
+      "from": "page 19 — Design Strategy, x 2–32.5 %; Transfer Method and the Misleading plot panels (film stills) are excluded"
+    },
+    {
+      "name": "03-extract-sketches.webp",
+      "sha256": "cbb402d47daea2c128576064d69d53aa7ec36583ff88719da878c45a08c4c87a",
+      "bytes": 187166,
+      "from": "page 20 — Extract: key words, imagination sketches and elements translation, x 61.5–99 %; the Storyline and the Key Shots column (film stills) are excluded"
+    },
+    {
+      "name": "04-site.webp",
+      "sha256": "799272ddfd80935d3c1d9e73ae64d1bdbf5973fd1b676d1d39f3221a9b2306b3",
+      "bytes": 73652,
+      "from": "page 22 — Site Analysis map and Guangzhou CBD, x 0–66.5 %, y 0–27.5 %; Population with photos of people is excluded"
+    },
+    {
+      "name": "05-floor-plan.webp",
+      "sha256": "a58ce9daae837ef2da66338ac99e0091165b37d43854c8736cd13a91702f3835",
+      "bytes": 156052,
+      "from": "page 21 — Floor Plan 1:500, x 0–47.5 %"
+    },
+    {
+      "name": "06-perspective.webp",
+      "sha256": "2560d32919b6ea70d7cef03be11b90aeaa73c0577f7a4b98557638782cd3644e",
+      "bytes": 143470,
+      "from": "page 21 — Perspective with parametric scripts and elemental models, x 47.5–100 %"
+    },
+    {
+      "name": "07-section.webp",
+      "sha256": "ae4afe12ac53fc9774a638e61c98e16808d39b35ada19df8d27b3854965aeee1",
+      "bytes": 99768,
+      "from": "page 22 — Section 1:200, y 29–66.5 %"
+    }
+  ]
+}
