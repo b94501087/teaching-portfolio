@@ -1,0 +1,67 @@
+{
+  "project": "Revitalization Design of Yuxiu Ancient Village",
+  "dest": "assets/board/yuxiu-ancient-village-rice-tavern",
+  "note": "Portfolio ab819a6e pages 10–12 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with site photos and historic photos of people on page 9, the neighbourhood analysis with photos of villagers and the photo collage of villagers on page 10, and the other works on page 12. No retouching.",
+  "files": [
+    {
+      "name": "01-village-aerial.webp",
+      "sha256": "415b38792e9afba58fa827a85d111cfae34c653520b6adf0324fe90fd0f7da34",
+      "bytes": 367446,
+      "from": "ab819a6e page 10 — material analysis and aerial view of the village, x 36–78.5 %"
+    },
+    {
+      "name": "02-site-explosion-map.webp",
+      "sha256": "b369e08c792ddc504b749f745c4de645d4201b1e12d95f4e8106e716def54bd4",
+      "bytes": 131078,
+      "from": "page 10 — site explosion map analysis, x 0–17 %, y 0–97 %"
+    },
+    {
+      "name": "03-industry-analysis.webp",
+      "sha256": "cf0949c7122d598bce82c2a7a6ad84dd994a63a6b625e068d759c32c2973799e",
+      "bytes": 39164,
+      "from": "page 10 — industry analysis, x 17–35.5 %, y 0–36 %"
+    },
+    {
+      "name": "04-finalize-the-house.webp",
+      "sha256": "b13662196f78e5338687c2f7678b8933559121c9854350f850b33646cd08b1b5",
+      "bytes": 49280,
+      "from": "page 10 — finalize the house, x 17–35.5 %, y 36–63.5 %; the neighbourhood analysis with photos of people below is excluded"
+    },
+    {
+      "name": "05-house-sections-and-model.webp",
+      "sha256": "06602cd6cc26ff26a5cd0e032e72892581bf27b38cc03923a81315a20566afc8",
+      "bytes": 239060,
+      "from": "page 11 — architectural section detailing and house model, x 0–30 %"
+    },
+    {
+      "name": "06-renderings.webp",
+      "sha256": "17ccd551d7d4bdada9c080ad3f073c7c7623eb7b258199b3db3855b62027076c",
+      "bytes": 72200,
+      "from": "page 11 — renderings, x 30–100 %, y 0–38 %"
+    },
+    {
+      "name": "07-detail-nodes-and-section.webp",
+      "sha256": "e5b847099097ea1724a79ee3535b509cc9428171844ae3fba4e339ef7032b09a",
+      "bytes": 160604,
+      "from": "page 11 — detail nodes and section, x 30–100 %, y 38–100 %"
+    },
+    {
+      "name": "08-rice-tavern-model.webp",
+      "sha256": "e981ff47976b888f690280ea3758f710f6cf0d4516c2310b1866fc00e2288f57",
+      "bytes": 113848,
+      "from": "page 12 — rice tavern model show and interior spaces, x 0–34.5 %, y 0–38 %"
+    },
+    {
+      "name": "09-model-section.webp",
+      "sha256": "6f85f2f724fa74a847a931aac9a323832e88bb2eacbee67c78bca239d6ca1cf7",
+      "bytes": 248330,
+      "from": "page 12 — model section, x 0–34.5 %, y 38–100 %"
+    },
+    {
+      "name": "10-roof-views.webp",
+      "sha256": "4a8d12a7d6b23918fe815e58766113d1f9ef268f0a575334575f57f102ce0374",
+      "bytes": 196646,
+      "from": "page 12 — farmers farming, tourist view and roof structure texture of the model, x 34.5–50 %"
+    }
+  ]
+}
