@@ -1,0 +1,49 @@
+{
+  "project": "Whale Harmony: Climate Guardians",
+  "dest": "assets/board/whale-harmony",
+  "note": "Portfolio 9f815c3b pages 1–6 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the pancake-ice photo on page 4 (third-party photo). No retouching.",
+  "files": [
+    {
+      "name": "01-arctic-future-overview.webp",
+      "sha256": "a78dac012113c1ce520fe95e1c94d743eac8f7a011a0f8ace3232c912120fc85",
+      "bytes": 207330,
+      "from": "9f815c3b page 1 — Arctic future overview, sea-ice decline, shipping routes and impact of sea-ice loss, full page"
+    },
+    {
+      "name": "02-whale-distribution.webp",
+      "sha256": "910b085dc657b147ea1d84e2ebb0861996ad2f52324000dbdf1fa2596c0dcecd",
+      "bytes": 240032,
+      "from": "page 2 — Arctic whale distribution and migration; whale distribution in Svalbard, full page"
+    },
+    {
+      "name": "03-whale-carbon-cycle.webp",
+      "sha256": "d7887fe9635048245deb72ae8c812b93d66f953c1300834959e7e325ff40461e",
+      "bytes": 202026,
+      "from": "page 3 — carbon cycle diagram of whale activity, full page"
+    },
+    {
+      "name": "04-strategy.webp",
+      "sha256": "c09e801ee0e4cbaebb2bfd3209c0f59ddb8aac844b882b621209107d87e34105",
+      "bytes": 117452,
+      "from": "page 4 — strategy: artificial sea ice, ecological installation, whale signal acquisition, x 0–52 %"
+    },
+    {
+      "name": "05-floe-fusion-morphogenesis.webp",
+      "sha256": "31b1c34b5b48071829260135180f38528401b73f3b81e78e0976004c37e62125",
+      "bytes": 77192,
+      "from": "page 4 — Floe Fusion Eco-connectscape morphogenesis and function settings, x 52–100 %, y 0–39 % and 66–97 %; the pancake-ice photo is excluded"
+    },
+    {
+      "name": "06-isfjorden-master-plan.webp",
+      "sha256": "6c15dad75f790100b44f498b0918c5282cf423e58906803e5ccf6d6bac042b4e",
+      "bytes": 385684,
+      "from": "page 5 — Isfjorden master plan, full page"
+    },
+    {
+      "name": "07-section-over-time.webp",
+      "sha256": "2e441e14ce52a3045d473c14b445a7e55989df13dbaa9a4c1fe9d92f87fab2e9",
+      "bytes": 379984,
+      "from": "page 6 — sectional view over time, full page"
+    }
+  ]
+}
