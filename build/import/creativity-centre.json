@@ -1,0 +1,67 @@
+{
+  "project": "Creativity Centre",
+  "dest": "assets/board/creativity-centre",
+  "note": "Portfolio pages 3–11 cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: the title text block of page 3, the Case Study with third-party HKUST photos on page 4, the ant photos on page 5 and the main model photo on page 10 with a person behind it. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-elevation.webp",
+      "sha256": "f3e15d67be618ae001f656326afc180eddf9bc00767c3129a527d0a2b6a21de6",
+      "bytes": 173654,
+      "from": "portfolio page 11 — elevation perspective of the 1:50 model with interior lighting (cover), x 47–100 %, y 17–92 %"
+    },
+    {
+      "name": "02-pain-points.webp",
+      "sha256": "b4b1b1d1cc8a3d6f1a54c87866c590a8de33013d82561bf0f7c2c02ff9d18227",
+      "bytes": 298218,
+      "from": "page 3 — Start Point, Company Recruitment Pain Point, Interviews at the School, Analysis and Conclusion (drawn figures), x 30–100 %"
+    },
+    {
+      "name": "03-location.webp",
+      "sha256": "d4f0a45fb585ab88589e34e30c15245f5a9d2764fda75b8ef505a6a26f03046c",
+      "bytes": 335974,
+      "from": "page 4 — Location Analysis, x 43.5–100 %; the Case Study with third-party HKUST photos is excluded"
+    },
+    {
+      "name": "04-strategy-observation.webp",
+      "sha256": "a92e989f8580eb5512ed9ed87bedad014101676dd948bed3d8018072e013cc92",
+      "bytes": 292772,
+      "from": "page 5 — Strategy (x 0–29.5 %) and Model (x 68–100 %), y 0–60 %, above Observation, y 60–100 %; the Learning From Ants panel with ant photos is excluded"
+    },
+    {
+      "name": "05-mechanism.webp",
+      "sha256": "b4e3f3a3af4ce344fdeafc1c913992f7e69484fedd9ee12896a0104a213c8e73",
+      "bytes": 242508,
+      "from": "page 6 — Mechanism: club, company and faculty space types, whole page"
+    },
+    {
+      "name": "06-cluster.webp",
+      "sha256": "e8c3df6abf2bcd5bff8750bd7083d59c15caae2c0df0f7db6352f2dedbadbcd6",
+      "bytes": 250190,
+      "from": "page 7 — Cluster axonometrics, whole page"
+    },
+    {
+      "name": "07-plan-function.webp",
+      "sha256": "68a190ac0dd98325cdc2144abda72caa8928a992a676fee1748241d3af435acd",
+      "bytes": 375708,
+      "from": "page 8 — Plan & Function, whole page"
+    },
+    {
+      "name": "08-section-perspective.webp",
+      "sha256": "5cc90c2aaf1f5d41d1d749a4b62a62337093a489fc28c80dafd28b9d39b2ea9c",
+      "bytes": 357412,
+      "from": "page 9 — Section & Perspective, whole page"
+    },
+    {
+      "name": "09-truss.webp",
+      "sha256": "f9d546e77ebd0d02dcddbe99f49c0a9b8e85658b5259d4ec94c9bd47ab684c14",
+      "bytes": 159624,
+      "from": "page 10 — truss structure inside the auditorium (two model photos and a drawing), x 69–100 %; the main model photo with a person behind it is excluded"
+    },
+    {
+      "name": "10-curtain-wall.webp",
+      "sha256": "238eec759be146f3f394a5b1fd4c1e7387b392831cbf097fe09fb528247e5029",
+      "bytes": 149522,
+      "from": "page 11 — auditorium elevation with interior lighting and the point glass curtain wall detail, x 0–46 %"
+    }
+  ]
+}
