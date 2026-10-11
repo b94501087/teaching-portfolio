@@ -1,0 +1,31 @@
+{
+  "project": "Unfathomable Desire",
+  "dest": "assets/board/unfathomable-desire",
+  "note": "Portfolio 19f39711 pages 14–15 cropped to four images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage, portrait and figure photos, phone and social-media screenshots, realm photos, model views and sections showing brand names and logos, and the site and elevation boards with third-party photos. No retouching.",
+  "files": [
+    {
+      "name": "01-spiral-ramp-to-desire.webp",
+      "sha256": "f035d5a3661079eeb989c14d38742050a7c3b347938124df8b1776b3388fe792",
+      "bytes": 326670,
+      "from": "19f39711 page 15 — concept model: a spiral ramp to desire and the Mobius ring, x 75–100 %"
+    },
+    {
+      "name": "02-history-of-the-arcade.webp",
+      "sha256": "0994adcdb289a67420f578a02dc25274cfcaae97dbc752363c1f8db662dda83b",
+      "bytes": 138202,
+      "from": "page 14 — background: history of the arcade, x 27–50 %, y 3–62 %; the portrait photo is excluded"
+    },
+    {
+      "name": "03-renovation-diagram.webp",
+      "sha256": "af9411861c69a0faf9726d90a471d923271e591d548dbe3dbe7e2f9d03972a3a",
+      "bytes": 166574,
+      "from": "page 15 — renovation diagram: falling into desire and the stair for escape, x 23–50 %, y 60–100 %; the realm photos above are excluded"
+    },
+    {
+      "name": "04-concept-models.webp",
+      "sha256": "52a6115314b39ad0d3b52d658b992a89ffee08218122b1f54d3868c8ae0abf83",
+      "bytes": 134946,
+      "from": "page 15 — concept develop: the stair to escape desire and the Mobius ring models, x 51–73 %, y 0–60 %; the model views with brand names are excluded"
+    }
+  ]
+}
