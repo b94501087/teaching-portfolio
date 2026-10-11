@@ -1,0 +1,67 @@
+{
+  "project": "Identity-Sculpting for Kharkiv",
+  "dest": "assets/board/identity-sculpting-for-kharkiv",
+  "note": "Pages 1–7 of the 7-page board cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: the six Present Situation photos of damaged buildings on page 2 (third-party photos), and on page 3 the portrait photo of Herzog & de Meuron and the Tate Modern photo. No retouching.",
+  "files": [
+    {
+      "name": "01-cover.webp",
+      "sha256": "6c755a2f5df9f4d0533e8d9e60484ca40e74a8097df2b8eed18e1decbba3ccce",
+      "bytes": 444128,
+      "from": "page 1 — sectional axonometric of the light wells and stairs cut through the block (cover), top 85.5 % of the page; the title and text block are excluded"
+    },
+    {
+      "name": "02-site-location.webp",
+      "sha256": "5151808b6253b403207c7d96afe5ebe1ab0b823ce1b310155bc85e54bdf26558",
+      "bytes": 291528,
+      "from": "page 2 — Site Analysis aerial map with the six numbered buildings (x 2–49 %, y 3–96.5 %) beside the Location maps (x 53–99 %, y 3–43 %); the six Present Situation photos of damaged buildings and their damage ratings are excluded"
+    },
+    {
+      "name": "03-injury.webp",
+      "sha256": "55f9965d94db80cbd8a128ba8838261f153e6df1a04cfb42b5ebdae03f309fce",
+      "bytes": 190630,
+      "from": "page 3 — Injury Situation of the Building, three axonometrics on black (original, facade injury 8 %, interior injury 30 %), x 0–28.5 %"
+    },
+    {
+      "name": "04-concept-typology.webp",
+      "sha256": "8291962418654c88468df701c8d6cd9fd5d290b4d52d0018facfd0b9b0a4c93e",
+      "bytes": 139568,
+      "from": "page 3 — Concept Generation and Adding Typology, x 51.5–99 %; the middle text column with the Herzog & de Meuron portrait photo and the Tate Modern photo is excluded"
+    },
+    {
+      "name": "05-lighting-analysis.webp",
+      "sha256": "e4909809f8755bdf59f87db42a8994808ed2929c69dc913ec58041c009faab3d",
+      "bytes": 256320,
+      "from": "page 4 — Lighting Analysis axonometric on black, x 2–48 %"
+    },
+    {
+      "name": "06-plans.webp",
+      "sha256": "c043d63d7eb23d5f868cf1b6bd167e87c3b34e21d09d54fdcaca2d94fb71f430",
+      "bytes": 116424,
+      "from": "page 4 — Plans of four floors with the light wells, x 52–96 %"
+    },
+    {
+      "name": "07-section.webp",
+      "sha256": "d147b444e5474ec86b7488ddb46bc4f88c0bd220e6f3ec506f3eb4f565db72a7",
+      "bytes": 142724,
+      "from": "page 6 — Adaptive Reuse section in red and white lines, with the sketch, y 2.5–56.5 %"
+    },
+    {
+      "name": "08-elevation-interior-detail.webp",
+      "sha256": "b005856ff1bc0d6939783ea1408e3c2bae0dfbb2d31ccc3efefd97de71f06ecc",
+      "bytes": 160338,
+      "from": "page 6 — Elevation and Interior model photos and the Construction Detail, y 59–98.5 %"
+    },
+    {
+      "name": "09-section-model.webp",
+      "sha256": "f200861232a10a9d09ced2aae3f0aa2be48b6a9a786960f0db211c706e304570",
+      "bytes": 335730,
+      "from": "page 5 — Section Model photo, whole page (a hand holding the model)"
+    },
+    {
+      "name": "10-memorial-hall.webp",
+      "sha256": "42733ad378b86a6061aa2a2bffacbb2381a4728cee5be19f29ff63ff2b30a851",
+      "bytes": 325574,
+      "from": "page 7 — Memorial Hall render beside the Light Well and Lighting Sculpture model photos, whole page"
+    }
+  ]
+}
