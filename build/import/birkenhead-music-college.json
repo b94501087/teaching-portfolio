@@ -1,0 +1,43 @@
+{
+  "project": "Birkenhead Music College",
+  "dest": "assets/board/birkenhead-music-college",
+  "note": "Portfolio pages 8–9 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: the title column (an interior photo) and the Site issues column (site photos) on page 8. Typos fixed: collage (college), required, luck (lack), coffie. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-section-perspective.webp",
+      "sha256": "f3080f3c4cc398b530cd5d19be60b2675823236934e03f4b2e42c23de27b91dd",
+      "bytes": 337512,
+      "from": "page 9 — Section Perspective (cover), x 50.5–100 %"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "7ca39ae2f83245d63ad89b9092e8db9ae73e8b151b6d574d5d304e7db6ede332",
+      "bytes": 423534,
+      "from": "page 8 — Clients and Stakeholders and Site analysis, x 16.5–39 %, y 3–100 %; the title column (an interior photo) and the Site issues column (site photos) are excluded"
+    },
+    {
+      "name": "03-design-process.webp",
+      "sha256": "11b3cbc385e0a0293d43ccb060a54137512f4e1a4a6ffd3c07eee309e1afb5e2",
+      "bytes": 566490,
+      "from": "page 8 — Project design process, steps 01–05, x 50–84.2 %"
+    },
+    {
+      "name": "04-explosive-view.webp",
+      "sha256": "d61b780c3a5cd1ef4fe05addac0d7a9cdaea6caebf455ff7302bd9336fd18076",
+      "bytes": 197324,
+      "from": "page 8 — Final design explosive view, x 84.2–100 %"
+    },
+    {
+      "name": "05-third-floor-plan.webp",
+      "sha256": "ba41994fbd5a7daad260cd15cff28e6454fad23999bd724004fe0362440367b2",
+      "bytes": 303304,
+      "from": "page 9 — Third floor plan, x 0–25 %"
+    },
+    {
+      "name": "06-floor-plans.webp",
+      "sha256": "571544c362ea1743f19a70f91b7510541359726188e008c9ec3e476707c3d513",
+      "bytes": 224078,
+      "from": "page 9 — the other floor plans, x 25–50 %"
+    }
+  ]
+}
