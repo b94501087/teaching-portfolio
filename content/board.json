@@ -9564,6 +9564,439 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Grapes and Wine — A Winery of Recycled Loess Bricks",
+      "slug": "grapes-and-wine",
+      "description": "A winery in Turpan built by residents with bricks of loess, cotton and waste wood.\n\nTurpan, Xinjiang, China | Winery from recycled materials | Fall 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "葡萄與酒——以回收黃土磚建造的酒莊",
+          "description": "居民以黃土、棉花與廢木料製成的磚，在吐魯番建造的酒莊。\n\n中國新疆吐魯番｜回收材料酒莊｜2021 年秋｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/grapes-and-wine/01-loess-brick-model.webp",
+        "assets/board/grapes-and-wine/02-turpan-site-and-climate.webp",
+        "assets/board/grapes-and-wine/03-experimental-concept.webp",
+        "assets/board/grapes-and-wine/04-brick-mixtures.webp",
+        "assets/board/grapes-and-wine/05-material-experiment.webp",
+        "assets/board/grapes-and-wine/06-structural-testing.webp",
+        "assets/board/grapes-and-wine/07-construction-detail.webp",
+        "assets/board/grapes-and-wine/08-winery-vision.webp",
+        "assets/board/grapes-and-wine/09-brewing-room-section.webp",
+        "assets/board/grapes-and-wine/10-brewing-room-elevation.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/grapes-and-wine/01-loess-brick-model.webp"
+          ],
+          "captions": [
+            "A hand-made model of a brick house built from loess, cotton and waste wood."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以黃土、棉花與廢木料製成的磚屋手工模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Turpan lies in a basin surrounded by high mountains, with long sunshine, high temperature, large day and night differences, low precipitation and strong wind. Local growers dry grapes into raisins in traditional brick houses from July to September, but for the rest of the year the houses stand empty with a low utilization rate.",
+          "images": [
+            "assets/board/grapes-and-wine/02-turpan-site-and-climate.webp",
+            "assets/board/grapes-and-wine/03-experimental-concept.webp"
+          ],
+          "captions": [
+            "Turpan: location, climate and the pros and cons of the brick drying houses.",
+            "Experimental concept: reuse new building material and create a new structure to create new building space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "吐魯番位於高山環繞的盆地，日照長、氣溫高、日夜溫差大、降水少且風大。當地果農在七月至九月將葡萄送進傳統磚房晾成葡萄乾，但一年中其餘時間磚房閒置，使用率很低。",
+              "captions": [
+                "吐魯番：基地位置、氣候與晾房的優缺點。",
+                "實驗概念：再利用新的建材、建立新的結構，創造新的建築空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Local waste such as cotton, wool, barbecue ash and old timber is mixed with loess, and five brick types are weighed and tested for strength. The experiments match all the possible proportions to find the best material in terms of weight, economy and solidity.",
+          "images": [
+            "assets/board/grapes-and-wine/04-brick-mixtures.webp",
+            "assets/board/grapes-and-wine/05-material-experiment.webp"
+          ],
+          "captions": [
+            "Original materials and brick mixtures in different proportions.",
+            "Material experiment and the new brick compared with the traditional house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "將棉花、羊毛、燒烤灰燼與舊木料等在地廢料與黃土混合，並秤重與測試五種磚的強度。實驗比對各種可能的配比，找出在重量、經濟與堅固程度上最好的材料。",
+              "captions": [
+                "原始材料與不同配比的磚。",
+                "材料實驗：新磚與傳統磚房的比較。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Inspired by the Xinjiang nut cake, waste wood is combined with loess and cotton in structural tests, and the most economical and solid mix is chosen. The construction detail joins waste wood, the loess cotton sawdust mixture and cotton bricks into one wall and frame system.",
+          "images": [
+            "assets/board/grapes-and-wine/06-structural-testing.webp",
+            "assets/board/grapes-and-wine/07-construction-detail.webp"
+          ],
+          "captions": [
+            "Structural testing of six mixtures of waste wood and loess.",
+            "Chosen structure and construction detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "受新疆切糕的啟發，在結構測試中將廢木料與黃土、棉花結合，並選出最經濟且最堅固的組合。構造細部把廢木料、黃土棉花木屑混合物與棉磚結合成一套牆體與骨架系統。",
+              "captions": [
+                "六種廢木料與黃土組合的結構測試。",
+                "選定的結構與構造細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Local residents build the winery themselves with the new bricks, and visitors can watch and join each step of cleaning, fermentation, storage and tasting. Since making grapes into wine brings more income than selling grapes or raisins, the winery aims to raise the income of local residents and spread this way of building across Xinjiang.",
+          "images": [
+            "assets/board/grapes-and-wine/08-winery-vision.webp",
+            "assets/board/grapes-and-wine/09-brewing-room-section.webp",
+            "assets/board/grapes-and-wine/10-brewing-room-elevation.webp"
+          ],
+          "captions": [
+            "Vision: wine-making steps and the process of making bricks on site.",
+            "Wine brewing room section.",
+            "Wine brewing room elevation with grapes growing on the brick facade."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "當地居民以新磚親手建造酒莊，遊客可以觀看並參與清洗、發酵、儲藏與品酒的每個步驟。由於把葡萄釀成酒比販售葡萄或葡萄乾收入更高，酒莊期望提高居民收入，並將這種營造方式推廣到整個新疆。",
+              "captions": [
+                "願景：現地的釀酒步驟與製磚流程。",
+                "釀酒室剖面。",
+                "釀酒室立面，葡萄攀附於磚牆上生長。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the climate and the local economy.\n2. Collect waste that is already on site.\n3. Test material mixes by hand.\n4. Let residents build with the result.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀氣候與在地經濟。\n2. 收集基地上既有的廢料。\n3. 親手測試材料配比。\n4. 讓居民用成果自己建造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Plan of Building Resurrection — An Unfinished Tower for Migrant Workers",
+      "slug": "plan-of-building-resurrection",
+      "description": "An unfinished residential tower in Guangzhou turned into homes, work and leisure floors for migrant workers.\n\nLinhexi, Tianhe District, Guangzhou, China | Unfinished building renovation | Summer 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "建築復活計畫——為外來務工者改造的爛尾樓",
+          "description": "將廣州一棟未完工的住宅大樓，改造為外來務工者的居住、工作與休閒樓層。\n\n中國廣州天河區林和西｜爛尾樓改造｜2022 年夏｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/plan-of-building-resurrection/01-tower-model.webp",
+        "assets/board/plan-of-building-resurrection/02-program-axonometric.webp",
+        "assets/board/plan-of-building-resurrection/03-image-deformation.webp",
+        "assets/board/plan-of-building-resurrection/04-block-analysis.webp",
+        "assets/board/plan-of-building-resurrection/05-model-studies.webp",
+        "assets/board/plan-of-building-resurrection/06-floor-plans.webp",
+        "assets/board/plan-of-building-resurrection/07-floor-and-house-types.webp",
+        "assets/board/plan-of-building-resurrection/08-facade-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/plan-of-building-resurrection/01-tower-model.webp"
+          ],
+          "captions": [
+            "A physical model of the renovated tower with curving balconies and ramps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "改造後高樓的實體模型，具有彎曲的陽台與坡道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The government announced the renovation of an unfinished residential building in the core area of Guangzhou, hoping to turn it into a place for migrant workers to reduce their living pressure. The site lies in Linhexi in Tianhe District, near train stations, offices and an urban village, where cheap housing is far from work and nearby housing is expensive.",
+          "images": [
+            "assets/board/plan-of-building-resurrection/02-program-axonometric.webp"
+          ],
+          "captions": [
+            "Programme axonometric: technique, shopping, service and food floors linked by a main line."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "政府宣布改造廣州核心區一棟未完工的住宅大樓，希望將它轉為外來務工者的居所，以減輕他們的生活壓力。基地位於天河區林和西，鄰近火車站、辦公大樓與城中村，便宜的住處離工作地點很遠，附近的住處則十分昂貴。",
+              "captions": [
+                "機能軸測圖：技術、購物、服務與餐飲樓層以主動線串連。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Living, working and shopping functions are combined so that new floors add usable space and help solve the employment and housing problems of the migrant population. A two-dimensional graphic image is deformed into a curtain that wraps the original structure, tested through block, structure and centre point studies.",
+          "images": [
+            "assets/board/plan-of-building-resurrection/03-image-deformation.webp",
+            "assets/board/plan-of-building-resurrection/04-block-analysis.webp",
+            "assets/board/plan-of-building-resurrection/05-model-studies.webp"
+          ],
+          "captions": [
+            "Two-dimensional image deformation and the strategy of combined functions.",
+            "Block, structure and centre point analysis.",
+            "Model studies of the floors and the curtain."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "將居住、工作與購物機能結合，讓新增的樓層提供更多可用空間，協助解決外來人口的就業與居住問題。以二維圖像變形生成包覆原有結構的帷幕，並透過量體、結構與中心點研究加以測試。",
+              "captions": [
+                "二維圖像變形與機能結合策略。",
+                "量體、結構與中心點分析。",
+                "樓板與帷幕的模型研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The floor plans connect the various floors so that residents can find a balance between the living area and the entertainment area. Different apartment types are combined between the floors, and the space between floors grows or shrinks with the number of residents and the kind of space they need.",
+          "images": [
+            "assets/board/plan-of-building-resurrection/06-floor-plans.webp",
+            "assets/board/plan-of-building-resurrection/07-floor-and-house-types.webp"
+          ],
+          "captions": [
+            "Floor plans with residential areas, crowd streamlines and model displays.",
+            "Floor and house types combined in the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "平面圖串連各樓層，讓住戶能在居住區與娛樂區之間找到平衡。不同的戶型在樓層之間組合，樓層之間的空間則依住戶人數與所需的空間類型增減。",
+              "captions": [
+                "平面圖：居住區、人流動線與模型展示。",
+                "於模型中組合的樓板與戶型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The section stacks study areas for marketing, design and engineering above shopping, restaurants and a bar, connected by ramps between the commercial floors. Rooftop activity space gives residents plenty of outdoor room, and the sloping facade lets every floor receive sufficient sunlight.",
+          "images": [
+            "assets/board/plan-of-building-resurrection/08-facade-section.webp"
+          ],
+          "captions": [
+            "Facade section of the study and shopping floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "剖面將行銷、設計與工程等學習區疊在購物、餐廳與酒吧之上，商業樓層之間以坡道相連。屋頂活動空間讓住戶擁有充足的戶外空間，傾斜的立面則讓每一層都能獲得充足日照。",
+              "captions": [
+                "學習與購物樓層的立面剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a real public brief.\n2. Map who needs the building.\n3. Combine living, work and leisure.\n4. Test each floor in a physical model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從真實的公共任務出發。\n2. 釐清誰需要這棟建築。\n3. 結合居住、工作與休閒。\n4. 以實體模型測試每一層樓。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "New Sky — What Space Can We Create in a High-Density Urban Village?",
+      "slug": "new-sky-urban-village",
+      "description": "A light steel platform over the roofs of a Shenzhen urban village for light, air and daily activities.\n\nShenzhen, Guangdong, China | Urban village renewal | Summer 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "新天空——在高密度城中村能創造什麼樣的空間？",
+          "description": "在深圳城中村屋頂上加建輕量鋼構平台，帶來光線、空氣與日常活動空間。\n\n中國廣東深圳｜城中村更新｜2020 年夏｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/new-sky-urban-village/01-new-sky-render.webp",
+        "assets/board/new-sky-urban-village/02-daily-behaviour.webp",
+        "assets/board/new-sky-urban-village/03-roof-activity-spaces.webp",
+        "assets/board/new-sky-urban-village/04-guarding-street.webp",
+        "assets/board/new-sky-urban-village/05-lighting-and-ventilation.webp",
+        "assets/board/new-sky-urban-village/06-strategy-phases.webp",
+        "assets/board/new-sky-urban-village/07-scalable-components.webp",
+        "assets/board/new-sky-urban-village/08-exploded-view.webp",
+        "assets/board/new-sky-urban-village/09-new-sky-types.webp",
+        "assets/board/new-sky-urban-village/10-different-modes.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/new-sky-urban-village/01-new-sky-render.webp"
+          ],
+          "captions": [
+            "The New Sky: a steel platform added on the roofs of an urban village."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "新天空：加建於城中村屋頂上的鋼構平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Migrant workers, children, old people and housewives share the crowded streets of a high-density urban village in Shenzhen at different hours of the day. Residents say there is not enough ventilation and light in their rooms, children have no safe place to play, and the streets feel unsafe at night.",
+          "images": [
+            "assets/board/new-sky-urban-village/02-daily-behaviour.webp"
+          ],
+          "captions": [
+            "Behaviour timeline of four groups of residents through the week."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "外來務工者、孩童、老人與家庭主婦在一天中不同的時段，共用深圳高密度城中村擁擠的街道。居民表示房間通風與採光不足，孩子沒有安全的遊戲空間，夜裡的街道也令人不安。",
+              "captions": [
+                "四類居民一週的行為時間軸。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The study looks at three future possibilities: more roof activity spaces, safer streets guarded by residents, and better lighting and ventilation for the lower floors. A ladybug that folds its wings quickly is studied through origami to design joints that expand when used and fold away when not in use.",
+          "images": [
+            "assets/board/new-sky-urban-village/03-roof-activity-spaces.webp",
+            "assets/board/new-sky-urban-village/04-guarding-street.webp",
+            "assets/board/new-sky-urban-village/05-lighting-and-ventilation.webp",
+            "assets/board/new-sky-urban-village/07-scalable-components.webp"
+          ],
+          "captions": [
+            "Different roof activity spaces on top of the existing buildings.",
+            "Safety street: residents guard the street from their homes and shops.",
+            "Improving air circulation and letting light reach the lower floors.",
+            "Scalable components developed from the ladybug wing study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究探討三種未來可能：更多屋頂活動空間、由居民守護的更安全街道，以及改善低樓層的採光與通風。研究瓢蟲快速收合翅膀的方式，並透過摺紙設計出使用時展開、不用時收起的接頭。",
+              "captions": [
+                "在既有建築屋頂上創造不同的活動空間。",
+                "安全街道：居民從住家與店鋪守望街道。",
+                "改善空氣流通，讓光線照進低樓層。",
+                "由瓢蟲翅膀研究發展出的可伸縮構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "I-shaped steel is grafted onto the original buildings, floors are installed on the extended structure, and different connections create variable activity spaces between buildings of different heights. The exploded view shows the platform, stairs, joints and a container that brings light and cool air down into the dark, humid homes.",
+          "images": [
+            "assets/board/new-sky-urban-village/06-strategy-phases.webp",
+            "assets/board/new-sky-urban-village/08-exploded-view.webp",
+            "assets/board/new-sky-urban-village/09-new-sky-types.webp"
+          ],
+          "captions": [
+            "Strategy in three phases: graft the steel, install floors, connect the buildings.",
+            "Exploded view of the New Sky and its four nodes.",
+            "Types of New Sky, light analysis and multi-stage cooling."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在原有建築上嫁接工字鋼，於延伸的結構上鋪設樓板，再以不同的連接方式在高低不一的建築之間創造多變的活動空間。分解圖呈現平台、樓梯、接頭，以及將光線與冷空氣引入陰暗潮濕住家的容器。",
+              "captions": [
+                "三階段策略：嫁接鋼構、鋪設樓板、連接建築。",
+                "新天空的分解圖與四個節點。",
+                "新天空的類型、光線分析與多段式降溫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The New Sky gives residents a platform for daily activities and sufficient sunshine above the dense village. Since residents built the village themselves and the gaps between buildings vary, the roof structure adapts in empty, concentrated, random, crowded and normal modes.",
+          "images": [
+            "assets/board/new-sky-urban-village/10-different-modes.webp"
+          ],
+          "captions": [
+            "Different modes of the roof structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "新天空在密集的村落上方為居民提供日常活動的平台與充足的日照。由於村落由居民自行興建，建築間距各不相同，屋頂結構能以空曠、集中、隨機、擁擠與一般等模式調整。",
+              "captions": [
+                "屋頂結構的不同模式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch how each group uses the street.\n2. Turn complaints into design questions.\n3. Learn a mechanism from nature.\n4. Add a light layer over what exists.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察各群體如何使用街道。\n2. 把抱怨轉化為設計問題。\n3. 向自然學習一種機制。\n4. 在既有之上加一層輕量結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
