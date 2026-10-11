@@ -13548,6 +13548,582 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Co-Living Community",
+      "slug": "co-living-community-personalities",
+      "description": "A housing community where four personality types combine their favourite spaces and streets become passageways inside.\n\nCo-living housing | 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "共居社區",
+          "description": "一個共居社區，四種性格類型組合各自喜愛的空間，街道化為建築內部的通道。\n\n共居住宅｜2019｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/co-living-community-personalities/01-axonometric-and-floors.webp",
+        "assets/board/co-living-community-personalities/02-design-strategy.webp",
+        "assets/board/co-living-community-personalities/03-shape-generation.webp",
+        "assets/board/co-living-community-personalities/04-space-division-method.webp",
+        "assets/board/co-living-community-personalities/05-space-of-each-type.webp",
+        "assets/board/co-living-community-personalities/06-plans-by-personality.webp",
+        "assets/board/co-living-community-personalities/07-model-views.webp",
+        "assets/board/co-living-community-personalities/08-community-axonometric.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/co-living-community-personalities/01-axonometric-and-floors.webp"
+          ],
+          "captions": [
+            "General axonometric view with the first, second and third floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "整體軸測圖與一至三樓配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In the city, our spaces are mostly connected only by roads, and everyday life moves from one closed room to the next. The project looks for a new state of living by turning external street connections into internal connections between homes.",
+          "images": [
+            "assets/board/co-living-community-personalities/02-design-strategy.webp"
+          ],
+          "captions": [
+            "Design strategy: from streets connecting spaces to spaces connecting streets."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在城市中，我們的空間大多只靠道路相連，日常生活在一個個封閉房間之間移動。這個專題把外部的街道連結轉為住宅之間的內部連結，探索一種新的居住狀態。",
+              "captions": [
+                "設計策略：從街道串連空間，到空間串連街道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Residents are grouped into four personality types, the protectors, artists, idealists and rationals, each with its own favourite place at home. For each type a set of shapes is generated from the rooms they value most, such as a large living room or a quiet study.",
+          "images": [
+            "assets/board/co-living-community-personalities/03-shape-generation.webp",
+            "assets/board/co-living-community-personalities/04-space-division-method.webp"
+          ],
+          "captions": [
+            "Shape generation for each personality type.",
+            "Space division method: a square is cut, staggered and divided into three spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "住戶被歸納為四種性格類型：守護者、藝術家、理想主義者與理性者，各自在家中有最喜歡的地方。設計者依每種類型最重視的空間，例如大客廳或安靜的書房，生成一組形體。",
+              "captions": [
+                "各性格類型的形體生成。",
+                "空間劃分方法：將方塊切開、錯位，再分成三個空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The spaces of each type are combined into clusters, and different personalities combine with each other to form the building. The first floor consists of passageways, the public space grows from the second to the third floor, and every third floor is rotated by 90 degrees.",
+          "images": [
+            "assets/board/co-living-community-personalities/05-space-of-each-type.webp",
+            "assets/board/co-living-community-personalities/06-plans-by-personality.webp"
+          ],
+          "captions": [
+            "Combined spaces of the four types.",
+            "Plans for each type of people."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "各類型的空間組合成群組，不同性格彼此結合，構成整棟建築。一樓由通道組成，公共空間從二樓到三樓逐漸增加，每三層樓便旋轉 90 度。",
+              "captions": [
+                "四種類型的組合空間。",
+                "各類型住戶的平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Combining the different house types naturally squeezes out a changing flow line, which the designer tested with a physical model. The axonometric shows homes, balconies and passageways stacked into one community.",
+          "images": [
+            "assets/board/co-living-community-personalities/07-model-views.webp",
+            "assets/board/co-living-community-personalities/08-community-axonometric.webp"
+          ],
+          "captions": [
+            "Model views: outer side, corridor, balconies and inside.",
+            "Axonometric of the stacked homes and passageways."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "不同住宅類型的組合自然擠壓出變化的動線，設計者以實體模型加以驗證。軸測圖呈現住宅、陽台與通道層層堆疊，形成一個社區。",
+              "captions": [
+                "模型視角：外側、走廊、陽台與內部。",
+                "住宅與通道堆疊的軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from how people live each day.\n2. Group residents by what they value.\n3. Turn each group into a shape.\n4. Test the combined flow with a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從人們每天的生活方式開始。\n2. 依住戶重視的事物分群。\n3. 把每一群轉化為一種形體。\n4. 用模型驗證組合後的動線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Sky Loop",
+      "slug": "sky-loop-office-ring",
+      "description": "A ring building grafted onto office towers in Guangzhou so that people can walk, swim and read between them.\n\nGuangzhou | Office ring bridge | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "空中環廊",
+          "description": "一座嫁接在廣州辦公高樓上的環形建築，讓人們能在大樓之間行走、游泳與閱讀。\n\n廣州｜辦公環廊｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sky-loop-office-ring/01-ring-in-context.webp",
+        "assets/board/sky-loop-office-ring/02-location.webp",
+        "assets/board/sky-loop-office-ring/03-conceptual-model-materials.webp",
+        "assets/board/sky-loop-office-ring/04-design-strategy.webp",
+        "assets/board/sky-loop-office-ring/05-sketch-and-structure.webp",
+        "assets/board/sky-loop-office-ring/06-building-plan.webp",
+        "assets/board/sky-loop-office-ring/07-ring-views.webp",
+        "assets/board/sky-loop-office-ring/08-cropped-office-model.webp",
+        "assets/board/sky-loop-office-ring/09-bridge-and-air-circulation.webp",
+        "assets/board/sky-loop-office-ring/10-swimming-and-reading.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sky-loop-office-ring/01-ring-in-context.webp"
+          ],
+          "captions": [
+            "The ring in the context of the office towers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "環形連廊與周邊辦公大樓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is in Zhujiang New Town, the centre of Guangzhou, where there are many office buildings standing apart from each other. The design goal is to make the buildings come to life by grafting a ring building onto the towers so that people can walk between them.",
+          "images": [
+            "assets/board/sky-loop-office-ring/02-location.webp"
+          ],
+          "captions": [
+            "Location in Zhujiang New Town, Guangzhou."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於廣州市中心的珠江新城，那裡有許多彼此分離的辦公大樓。設計目標是讓建築活起來，把一座環形建築嫁接到高樓上，讓人們能在大樓之間行走。",
+              "captions": [
+                "位於廣州珠江新城的基地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The designer tried rubber bands, bamboo strips, cotton, plastic pipe, iron wire and glue to connect model buildings, since each material has different properties. Wooden sticks were finally selected because they are feasible on a plane and in height.",
+          "images": [
+            "assets/board/sky-loop-office-ring/03-conceptual-model-materials.webp",
+            "assets/board/sky-loop-office-ring/04-design-strategy.webp"
+          ],
+          "captions": [
+            "Conceptual model materials, from rubber bands to wooden sticks.",
+            "Design strategy: space grafting connection methods."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "設計者嘗試以橡皮筋、竹條、棉線、塑膠管、鐵絲與膠來連接模型建築，因為每種材料的特性都不同。最後選用木棒，因為它在平面與高度上都可行。",
+              "captions": [
+                "概念模型材料：從橡皮筋到木棒。",
+                "設計策略：空間嫁接的連結方法。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sketches and a structure idea turn the connection into a loop that climbs around the towers. The building plan places the ring among the office floors, and views from the top and the bottom show how it wraps the towers.",
+          "images": [
+            "assets/board/sky-loop-office-ring/05-sketch-and-structure.webp",
+            "assets/board/sky-loop-office-ring/06-building-plan.webp",
+            "assets/board/sky-loop-office-ring/07-ring-views.webp"
+          ],
+          "captions": [
+            "Sketch and structure idea.",
+            "Building plan.",
+            "Views from top to bottom and from bottom to top."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "草圖與結構構想把連結轉化為一條環繞高樓攀升的環廊。建築平面把環廊安排在辦公樓層之間，由上往下與由下往上的視角呈現它如何包覆高樓。",
+              "captions": [
+                "草圖與結構構想。",
+                "建築平面圖。",
+                "由上往下與由下往上的視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the cropped office model, the gallery bridge crosses the office and interacts with the public space underneath, so people work and see others passing at the same time. On the loop, office workers can swim, read, meditate or visit an exhibition after busy hours.",
+          "images": [
+            "assets/board/sky-loop-office-ring/08-cropped-office-model.webp",
+            "assets/board/sky-loop-office-ring/09-bridge-and-air-circulation.webp",
+            "assets/board/sky-loop-office-ring/10-swimming-and-reading.webp"
+          ],
+          "captions": [
+            "Cropped office model.",
+            "Office, bridge and public space, window node construction and air circulation.",
+            "Swimming and reading spaces on the loop."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在辦公室剖切模型中，廊橋穿越辦公空間並與下方的公共空間互動，人們工作時也能看見往來的人。在環廊上，上班族忙碌之後可以游泳、閱讀、冥想或參觀展覽。",
+              "captions": [
+                "辦公室剖切模型。",
+                "辦公、廊橋與公共空間，窗節點構造與空氣流通。",
+                "環廊上的游泳與閱讀空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find what the site is missing.\n2. Test connections with real materials.\n3. Draw the connection in plan and height.\n4. Fill the link with daily activities.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出基地缺少的東西。\n2. 用真實材料測試連結。\n3. 在平面與高度上繪製連結。\n4. 用日常活動填滿這條連結。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Co-Living Community: Self, Ego and Superego",
+      "slug": "co-living-tower-self-ego-superego",
+      "description": "A tower in a Guangzhou roundabout whose levels stand for the self, the ego and the superego.\n\nGuangzhou | Spiritual tower | 2018 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "共居社區：本我、自我與超我",
+          "description": "一座位於廣州圓環中的高塔，各層分別代表本我、自我與超我。\n\n廣州｜精神性高塔｜2018｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/co-living-tower-self-ego-superego/01-program-generation.webp",
+        "assets/board/co-living-tower-self-ego-superego/02-location.webp",
+        "assets/board/co-living-tower-self-ego-superego/03-extraction-and-fusion.webp",
+        "assets/board/co-living-tower-self-ego-superego/04-conceptual-model.webp",
+        "assets/board/co-living-tower-self-ego-superego/05-extracting-space.webp",
+        "assets/board/co-living-tower-self-ego-superego/06-lane-driving.webp",
+        "assets/board/co-living-tower-self-ego-superego/07-exterior-view.webp",
+        "assets/board/co-living-tower-self-ego-superego/08-interior-views.webp",
+        "assets/board/co-living-tower-self-ego-superego/09-plan-and-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/co-living-tower-self-ego-superego/01-program-generation.webp"
+          ],
+          "captions": [
+            "Program generation: the tower rises out of the roundabout among the roads."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "機能生成：高塔從道路之間的圓環中升起。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is a roundabout in Hai Zhu District, Guangzhou, between a business district and residential areas. The program is spiritual in nature, a critique of today's society and the designer's own reflections on how people live.",
+          "images": [
+            "assets/board/co-living-tower-self-ego-superego/02-location.webp"
+          ],
+          "captions": [
+            "Location in Hai Zhu District and the roundabout site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地是廣州海珠區的一座圓環，位於商業區與住宅區之間。這個機能帶有精神性，是對當今社會的批判，也是設計者對人們生活方式的自我反思。",
+              "captions": [
+                "海珠區的區位與圓環基地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Elements of daily life, responsibility, desire, fantasy and emotions are extracted as forms and fused into the self, the ego and the superego. These parts are then assembled into a conceptual model, with a manual model to nudge the form.",
+          "images": [
+            "assets/board/co-living-tower-self-ego-superego/03-extraction-and-fusion.webp",
+            "assets/board/co-living-tower-self-ego-superego/04-conceptual-model.webp"
+          ],
+          "captions": [
+            "Extraction of elements and element fusion.",
+            "Assembly into the conceptual model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "日常生活、責任、慾望、幻想與情緒等元素被提煉為形體，再融合成本我、自我與超我。這些部分接著組裝成概念模型，並以手作模型微調形體。",
+              "captions": [
+                "元素提煉與元素融合。",
+                "組裝成概念模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The uppermost space represents the superego, where people stand high and watch the traffic, the middle represents the ego, where people pass by busy with work, and the space beneath represents the self with its most basic desires. The lanes around the roundabout let cars turn, cross and pass through the building.",
+          "images": [
+            "assets/board/co-living-tower-self-ego-superego/05-extracting-space.webp",
+            "assets/board/co-living-tower-self-ego-superego/06-lane-driving.webp"
+          ],
+          "captions": [
+            "Extracting space: superego, ego and self.",
+            "Lane driving: make turns, go cross, pass through."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "最上方的空間代表超我，人們站在高處看著車流往來；中間代表自我，人們忙於工作而從此經過；底下的空間則代表擁有最基本慾望的本我。圓環周圍的車道讓車輛得以轉彎、穿越並通過建築。",
+              "captions": [
+                "空間提取：超我、自我與本我。",
+                "車道行駛：轉彎、穿越、通過。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "People see the building from the outside and enter its interior from the entrance, where they can watch the weaving traffic. The plan and section show the tower set into the roundabout, with the middle passage letting people go up.",
+          "images": [
+            "assets/board/co-living-tower-self-ego-superego/07-exterior-view.webp",
+            "assets/board/co-living-tower-self-ego-superego/08-interior-views.webp",
+            "assets/board/co-living-tower-self-ego-superego/09-plan-and-section.webp"
+          ],
+          "captions": [
+            "People see the building from the outside.",
+            "Entrance, internal access and interior space.",
+            "Plan view and section view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "人們從外部看見建築，再由入口進入內部，在那裡可以觀看交織的車流。平面與剖面呈現嵌入圓環的高塔，中間的通道讓人們得以向上。",
+              "captions": [
+                "人們從外部看見建築。",
+                "入口、內部通道與室內空間。",
+                "平面圖與剖面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from your own reflection on society.\n2. Turn abstract ideas into simple forms.\n3. Assemble the forms into one model.\n4. Tie the model back to the real site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從你對社會的自我反思開始。\n2. 把抽象概念轉化為簡單的形體。\n3. 把這些形體組裝成一個模型。\n4. 讓模型回到真實的基地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Revitalization Design of Yuxiu Ancient Village",
+      "slug": "yuxiu-ancient-village-rice-tavern",
+      "description": "Rice fields, rice bricks and a rice tavern give a fading village in Zhuhai a new lease of life.\n\nZhuhai | Village revitalization | 2020–2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Yuxiu 古村活化設計",
+          "description": "以稻田、稻米磚與米酒館，讓珠海一座逐漸被遺忘的村落重獲新生。\n\n珠海｜村落活化｜2020–2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/yuxiu-ancient-village-rice-tavern/01-village-aerial.webp",
+        "assets/board/yuxiu-ancient-village-rice-tavern/02-site-explosion-map.webp",
+        "assets/board/yuxiu-ancient-village-rice-tavern/03-industry-analysis.webp",
+        "assets/board/yuxiu-ancient-village-rice-tavern/04-finalize-the-house.webp",
+        "assets/board/yuxiu-ancient-village-rice-tavern/05-house-sections-and-model.webp",
+        "assets/board/yuxiu-ancient-village-rice-tavern/06-renderings.webp",
+        "assets/board/yuxiu-ancient-village-rice-tavern/07-detail-nodes-and-section.webp",
+        "assets/board/yuxiu-ancient-village-rice-tavern/08-rice-tavern-model.webp",
+        "assets/board/yuxiu-ancient-village-rice-tavern/09-model-section.webp",
+        "assets/board/yuxiu-ancient-village-rice-tavern/10-roof-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/yuxiu-ancient-village-rice-tavern/01-village-aerial.webp"
+          ],
+          "captions": [
+            "Material analysis from paddy to rice bricks, and the village from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從稻穀到稻米磚的材料分析，以及村落鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Yuxiu Village in Zhuhai, Guangdong, is a historic agricultural village with only one main road, low houses and dilapidated buildings. The accelerated urbanization has made people gradually forget its existence, so the project asks how it can be given a new lease of life.",
+          "images": [
+            "assets/board/yuxiu-ancient-village-rice-tavern/02-site-explosion-map.webp"
+          ],
+          "captions": [
+            "Site explosion map: village outline, texture, roads, rice fields and intersections."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣東珠海的Yuxiu 村是一座歷史悠久的農村，只有一條主要道路，房屋低矮且老舊破敗。快速的都市化讓人們逐漸遺忘它的存在，因此這個專題探問如何讓它重獲新生。",
+              "captions": [
+                "基地分層分析：村落輪廓、肌理、道路、稻田與路口。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Villages take up 40 % of the area, rice fields 35 % with three harvests per year, and roads only 5 %, with just four intersections from the main road to the village. Rice is studied as an industry and as a material, and three houses are selected for their continuity and innovation.",
+          "images": [
+            "assets/board/yuxiu-ancient-village-rice-tavern/03-industry-analysis.webp",
+            "assets/board/yuxiu-ancient-village-rice-tavern/04-finalize-the-house.webp"
+          ],
+          "captions": [
+            "Industry analysis of rice.",
+            "Finalize the house: site selection, features, continuity and innovation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "村落占基地面積的 40 %，稻田占 35 % 且一年三熟，道路只占 5 %，從主要道路進入村落只有四個路口。設計者把稻米同時當作產業與材料來研究，並依延續與創新選定三棟房屋。",
+              "captions": [
+                "稻米的產業分析。",
+                "選定房屋：基地選擇、特徵、延續與創新。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Three house sections and building detail nodes are shown in exploded views, and rice from the paddy is ground and pressed into rice bricks for the walls. Renderings show people watching light spill through the screens, a living room facing the landscape and a bridge to the rice gallery.",
+          "images": [
+            "assets/board/yuxiu-ancient-village-rice-tavern/05-house-sections-and-model.webp",
+            "assets/board/yuxiu-ancient-village-rice-tavern/06-renderings.webp",
+            "assets/board/yuxiu-ancient-village-rice-tavern/07-detail-nodes-and-section.webp"
+          ],
+          "captions": [
+            "House sections, exploded views and the house model.",
+            "Renderings of the spaces.",
+            "Detail nodes and the long section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三棟房屋的剖面與構造節點以爆炸圖呈現，田裡的稻米被研磨、壓製成牆面使用的稻米磚。渲染圖呈現人們觀看光線穿過格柵灑落、面向景觀的起居空間，以及通往稻米展廊的橋。",
+              "captions": [
+                "房屋剖面、爆炸圖與房屋模型。",
+                "空間渲染圖。",
+                "構造節點與長剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The rice tavern model shows a tourist and a farmer in the same space, where people can watch how rice wine is made. Visitors can also walk up to the roof to enjoy the view of the fields.",
+          "images": [
+            "assets/board/yuxiu-ancient-village-rice-tavern/08-rice-tavern-model.webp",
+            "assets/board/yuxiu-ancient-village-rice-tavern/09-model-section.webp",
+            "assets/board/yuxiu-ancient-village-rice-tavern/10-roof-views.webp"
+          ],
+          "captions": [
+            "Rice tavern model and interior spaces.",
+            "Model section.",
+            "Farmers farming, tourist view and roof structure texture."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "米酒館模型呈現遊客與農民同處一個空間，人們可以在這裡觀看米酒的釀造過程。訪客也能走上屋頂，欣賞田野景色。",
+              "captions": [
+                "米酒館模型與室內空間。",
+                "模型剖面。",
+                "農民耕作、遊客視角與屋頂結構肌理。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Measure what the village is made of.\n2. Study the local crop as a material.\n3. Choose houses worth keeping.\n4. Let visitors and farmers share one space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 量化村落由什麼組成。\n2. 把在地作物當作材料研究。\n3. 選出值得保留的房屋。\n4. 讓訪客與農民共享同一個空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
