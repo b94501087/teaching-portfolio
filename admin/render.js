@@ -369,12 +369,32 @@ export function renderTeaching(site, t, opts) {
     sideNav(site, false, 'teaching') +
     '<main class="doc">\n';
   if (t.note) h += '<p class="note">' + esc(t.note) + '</p>\n';
+  let shown = 0;
+  const imgs = s => (Array.isArray(s.images) ? s.images : []).map(String).filter(x => x.trim());
   h += secs.map((s, i) => {
-    let x = (i === 0 ? '<h2>' : '<h2 style="font-size:22px;margin-top:2em">') + esc(s.title) + '</h2>\n';
+    // Category heading: groups the studio sections that follow it (optional, newer content).
+    if (s.type === 'group') {
+      let g = '<section class="t-group">\n<h2 class="t-group-h">' + esc(s.title) + '</h2>\n';
+      if (s.subtitle) g += '<p class="t-sub">' + esc(s.subtitle) + '</p>\n';
+      if (s.body) g += String(s.body).split(/\n\s*\n/).map(p => '<p>' + inline(p.trim()) + '</p>\n').join('');
+      return g + '</section>\n';
+    }
+    const rich = !!(s.subtitle || s.meta || imgs(s).length);
+    let x = (i === 0 ? '<h2>' : rich ? '<h2 class="t-h">' : '<h2 style="font-size:22px;margin-top:2em">') + esc(s.title) + '</h2>\n';
+    if (s.subtitle) x += '<p class="t-sub">' + esc(s.subtitle) + '</p>\n';
+    if (s.meta) x += '<p class="t-meta">' + esc(s.meta) + '</p>\n';
     if (s.body) x += String(s.body).split(/\n\s*\n/).map(p => '<p>' + inline(p.trim()) + '</p>\n').join('');
     const items = (s.items || []).filter(it => String(it).trim());
-    if (items.length) x += '<ul>\n' + items.map(it => '  <li>' + inline(it) + '</li>\n').join('') + '</ul>\n';
-    return x;
+    if (items.length) x += '<ul' + (rich ? ' class="t-list"' : '') + '>\n' + items.map(it => '  <li>' + inline(it) + '</li>\n').join('') + '</ul>\n';
+    const im = imgs(s);
+    if (im.length) {
+      const caps = Array.isArray(s.captions) ? s.captions : [];
+      x += '<div class="t-imgs">\n' + im.map((src, k) => {
+        const u = esc(assetUrl(src, 1)), c = String(caps[k] || '').trim();
+        return '<figure><a href="' + u + '"><img src="' + u + '" alt="' + esc(c || s.title) + '"' + (shown++ > 0 ? ' loading="lazy"' : '') + '></a>' + (c ? '<figcaption>' + esc(c) + '</figcaption>' : '') + '</figure>\n';
+      }).join('') + '</div>\n';
+    }
+    return rich ? '<section class="t-studio">\n' + x + '</section>\n' : x;
   }).join('\n');
   if (t.closing) h += '\n<p style="margin-top:2em">' + inline(t.closing) + '</p>\n';
   h += '</main>\n</body></html>\n';
@@ -642,6 +662,11 @@ export function validate(all) {
   else errs.push(...validatePins(board.pins));
   if (!az || !Array.isArray(az.entries)) errs.push('A–Z 資料格式錯誤');
   if (!teaching || !Array.isArray(teaching.sections) || !teaching.sections.length) errs.push('教學頁至少要有一個段落');
+  if (teaching && Array.isArray(teaching.sections)) teaching.sections.forEach((s, i) => {
+    if (!s || typeof s !== 'object') { errs.push('教學頁段落 ' + (i + 1) + ' 格式錯誤'); return; }
+    if (s.images !== undefined && (!Array.isArray(s.images) || s.images.some(x => typeof x !== 'string'))) errs.push('教學頁段落「' + (s.title || i + 1) + '」的圖片必須是路徑清單');
+    if (s.captions !== undefined && !Array.isArray(s.captions)) errs.push('教學頁段落「' + (s.title || i + 1) + '」的圖說必須是清單');
+  });
   if (!consulting || !Array.isArray(consulting.plans) || consulting.plans.length !== 4) errs.push('諮詢方案必須是 4 個');
   else consulting.plans.forEach((p, i) => {
     if (!String(p.title || '').trim()) errs.push('方案 ' + (i + 1) + ' 名稱不能空白');
