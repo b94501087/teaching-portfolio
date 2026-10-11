@@ -13123,6 +13123,431 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Macao Fisheries Museum — Echoes and Memories",
+      "slug": "macao-fisheries-museum",
+      "description": "A conch-like spiral museum in a retained harbour warehouse that keeps the memory of Macao's fishing industry.\n\nMacao | Museum | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "澳門漁業博物館——回聲與記憶",
+          "description": "在保留的港口倉庫中，以海螺般的螺旋博物館留存澳門漁業的記憶。\n\n澳門｜博物館｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/macao-fisheries-museum/01-physical-section-model.webp",
+        "assets/board/macao-fisheries-museum/02-retained-warehouse-structure.webp",
+        "assets/board/macao-fisheries-museum/03-industry-chain-elements.webp",
+        "assets/board/macao-fisheries-museum/04-floor-plan.webp",
+        "assets/board/macao-fisheries-museum/05-interior-light-analysis.webp",
+        "assets/board/macao-fisheries-museum/06-material-tests.webp",
+        "assets/board/macao-fisheries-museum/07-aquatic-life-simulation.webp",
+        "assets/board/macao-fisheries-museum/08-fishing-net-transformation.webp",
+        "assets/board/macao-fisheries-museum/09-east-section.webp",
+        "assets/board/macao-fisheries-museum/10-detail-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/macao-fisheries-museum/01-physical-section-model.webp"
+          ],
+          "captions": [
+            "Physical section model of the museum."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "博物館的實體剖面模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Macao's inner harbour sits right beside the historic district, yet its coastline is filled with passenger and cargo terminals, abandoned warehouses and parking lots, with almost no space where people can reach the water. Traffic and a jumble of buildings keep tourists away, while the culture of the fishing industry that shaped the harbour is fading.",
+          "images": [
+            "assets/board/macao-fisheries-museum/02-retained-warehouse-structure.webp"
+          ],
+          "captions": [
+            "The original warehouse structure is kept: frame, facade, floor circulation and spatial elements."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "澳門內港緊鄰歷史城區，海岸線卻被客貨碼頭、廢棄倉庫與停車場佔據，幾乎沒有讓人親近水邊的空間。交通擁塞與雜亂的建築讓遊客卻步，而塑造這座港口的漁業文化也正逐漸淡去。",
+              "captions": [
+                "保留原有倉庫結構：框架、立面、樓層動線與空間元素。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The designer mapped the industry chain of fishing, from fishing boats and markets to processing, restaurants and tourists. Forms were then extracted from the shipyard, the ferry terminal, the fishing boats and the conch.",
+          "images": [
+            "assets/board/macao-fisheries-museum/03-industry-chain-elements.webp",
+            "assets/board/macao-fisheries-museum/04-floor-plan.webp"
+          ],
+          "captions": [
+            "Elements extracted from the shipyard, ferry terminal, fishing boats and conch.",
+            "Floor plan with the spiral core and the water walkway."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "設計者梳理漁業的產業鏈，從漁船、市場到加工、餐廳與遊客。接著從船廠、渡輪碼頭、漁船與海螺中提取形體。",
+              "captions": [
+                "從船廠、渡輪碼頭、漁船與海螺提取的元素。",
+                "平面圖：螺旋核心與水上步道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A spiral inspired by the conch becomes the core of the museum, and visitors move from the shipyard entrance through the pier and market zone and the fishing zone to the core area. Light is studied for each zone, and canvas, water and glass, braided hemp rope mesh and metal are tested as materials.",
+          "images": [
+            "assets/board/macao-fisheries-museum/05-interior-light-analysis.webp",
+            "assets/board/macao-fisheries-museum/06-material-tests.webp",
+            "assets/board/macao-fisheries-museum/07-aquatic-life-simulation.webp",
+            "assets/board/macao-fisheries-museum/08-fishing-net-transformation.webp"
+          ],
+          "captions": [
+            "Interior node and light analysis from the entrance to the core area.",
+            "Test of materials: canvas, water and glass, hemp rope mesh, metal.",
+            "Aquatic life simulation space with boats on three levels.",
+            "The fishing net turned into places to rest."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "受海螺啟發的螺旋成為博物館的核心，參觀者從船廠入口，經過碼頭與市場區、捕魚區，走到核心區。設計者為每個區域研究光線，並以帆布、水與玻璃、麻繩編織網與金屬進行材料測試。",
+              "captions": [
+                "從入口到核心區的室內節點與光線分析。",
+                "材料測試：帆布、水與玻璃、麻繩網、金屬。",
+                "水生生活模擬空間，三層皆有漁船。",
+                "漁網轉化為休憩的場所。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the section, the spiral exhibition rises through the retained warehouse, and the materials of the top and bottom stand for the old and the new of the fishing industry. Like a conch that holds the sound of the sea, the building lets visitors listen to the past and future of fishing in Macao.",
+          "images": [
+            "assets/board/macao-fisheries-museum/09-east-section.webp",
+            "assets/board/macao-fisheries-museum/10-detail-section.webp"
+          ],
+          "captions": [
+            "Building east view section drawing.",
+            "Detail section drawing of the spiral."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "剖面中，螺旋展覽穿過保留的倉庫向上延伸，頂部與底部的材料代表漁業的新與舊。如同收藏海聲的海螺，這座建築讓參觀者聆聽澳門漁業的過去與未來。",
+              "captions": [
+                "建築東向剖面圖。",
+                "螺旋的細部剖面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Walk the harbour and note what is lost.\n2. Map the industry chain behind the place.\n3. Extract forms from its tools and symbols.\n4. Test light and materials for every zone.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 走訪港口，記下正在消失的事物。\n2. 梳理場所背後的產業鏈。\n3. 從工具與象徵中提取形體。\n4. 為每個區域測試光線與材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Neurotic Experience Center — A Space of Bubbles",
+      "slug": "neurotic-experience-center",
+      "description": "A research project that turns neurotic personalities into inflatable bubble spaces visitors can feel from the inside.\n\nResearch project | Experience center | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "神經質體驗中心——泡泡空間",
+          "description": "一項研究計畫，把神經質人格轉化為參觀者能從內部感受的充氣泡泡空間。\n\n研究計畫｜體驗中心｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/neurotic-experience-center/01-physical-model.webp",
+        "assets/board/neurotic-experience-center/02-space-and-personality.webp",
+        "assets/board/neurotic-experience-center/03-bubble-spaces.webp",
+        "assets/board/neurotic-experience-center/04-interaction-device.webp",
+        "assets/board/neurotic-experience-center/05-inflatable-device-expansion.webp",
+        "assets/board/neurotic-experience-center/06-material-space-and-senses.webp",
+        "assets/board/neurotic-experience-center/07-form-concept.webp",
+        "assets/board/neurotic-experience-center/08-first-floor-layout.webp",
+        "assets/board/neurotic-experience-center/09-first-floor-plan.webp",
+        "assets/board/neurotic-experience-center/10-second-floor-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/neurotic-experience-center/01-physical-model.webp"
+          ],
+          "captions": [
+            "Physical model of the first floor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "一樓的實體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "People with neurotic personalities often find it hard to communicate with the outside world and to fit into daily life, and others rarely see the world as they do. The designer asked how a space could let visitors feel this inner world from the first person's perspective.",
+          "images": [
+            "assets/board/neurotic-experience-center/02-space-and-personality.webp",
+            "assets/board/neurotic-experience-center/03-bubble-spaces.webp"
+          ],
+          "captions": [
+            "Space plans for four personalities: sensitive, anxiety, tanking and irritability.",
+            "A bubble space for each personality."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "具有神經質人格的人往往難以與外界溝通、融入日常生活，旁人也很少能以他們的方式看世界。設計者思考，空間如何讓參觀者以第一人稱的視角感受這個內在世界。",
+              "captions": [
+                "四種人格的空間平面：敏感、焦慮、消沉與易怒。",
+                "為每種人格設計的泡泡空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Emotional paths from self doubt to anxiety and beyond were mapped, and each personality was given a bubble space that wraps, opens, deflates or expands. An interactive device built with Rhino, Grasshopper, Firefly and Arduino uses a motion sensor and an air pump to inflate a balloon according to changes in the visitor's expression.",
+          "images": [
+            "assets/board/neurotic-experience-center/04-interaction-device.webp",
+            "assets/board/neurotic-experience-center/05-inflatable-device-expansion.webp"
+          ],
+          "captions": [
+            "Interaction device: sensor, Arduino and air pump.",
+            "The inflatable device from 5 % to 75 % expansion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "設計者梳理從自我懷疑到焦慮之後的情緒路徑，並為每種人格設計包覆、開敞、洩氣或膨脹的泡泡空間。以 Rhino、Grasshopper、Firefly 與 Arduino 製作的互動裝置，透過動作感測器與氣泵，依參觀者表情的變化為氣球充氣。",
+              "captions": [
+                "互動裝置：感測器、Arduino 與氣泵。",
+                "充氣裝置從 5% 到 75% 的膨脹。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Shapes, textures and lighting were tested for the feelings they bring, from the sense of rule to loneliness and hope. A balloon inflated inside a wire frame grows along the frame and is squeezed by it, and this became the method for generating the architectural form.",
+          "images": [
+            "assets/board/neurotic-experience-center/06-material-space-and-senses.webp",
+            "assets/board/neurotic-experience-center/07-form-concept.webp"
+          ],
+          "captions": [
+            "Material, space and senses: shapes, textures and lighting atmosphere.",
+            "Concept development of the architectural form with the balloon."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計者測試形狀、質地與光線帶來的感受，從規則感到孤獨與希望。氣球在線框中充氣，沿著框架生長並被擠壓，這成為生成建築形體的方法。",
+              "captions": [
+                "材料、空間與感官：形狀、質地與光線氛圍。",
+                "以氣球推演建築形體的概念發展。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "On the first floor, soft bubble walls blur the outside world so that visitors see it as vague, real or imaginary. The second floor holds the ruins of the psychic and a light of hope, built with balloon, plastic and clay to express the struggles of the inner world.",
+          "images": [
+            "assets/board/neurotic-experience-center/08-first-floor-layout.webp",
+            "assets/board/neurotic-experience-center/09-first-floor-plan.webp",
+            "assets/board/neurotic-experience-center/10-second-floor-plan.webp"
+          ],
+          "captions": [
+            "First floor layout and conceptual model.",
+            "First floor plan.",
+            "Second floor layout and plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一樓以柔軟的泡泡牆模糊外在世界，讓參觀者看見模糊、真實或想像的景象。二樓安排心靈的廢墟與希望之光，以氣球、塑膠與黏土表達內心世界的掙扎。",
+              "captions": [
+                "一樓配置與概念模型。",
+                "一樓平面圖。",
+                "二樓配置與平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a feeling that is hard to share.\n2. Map how the feeling changes step by step.\n3. Build a device that reacts to people.\n4. Let the material test become the form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一種難以分享的感受。\n2. 逐步梳理這種感受的變化。\n3. 製作能回應人的裝置。\n4. 讓材料測試成為形體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Home for Left-behind Children in Shangri-La",
+      "slug": "home-for-left-behind-children-shangri-la",
+      "description": "A three-storey home in a Tibetan area where left-behind children can pray, learn and live close to their culture.\n\nShangri-La | Children's home | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "香格里拉留守兒童之家",
+          "description": "位於藏區的三層之家，讓留守兒童貼近自身文化祈福、學習與生活。\n\n香格里拉｜兒童之家｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/home-for-left-behind-children-shangri-la/01-explosion-diagram.webp",
+        "assets/board/home-for-left-behind-children-shangri-la/02-building-form-generation.webp",
+        "assets/board/home-for-left-behind-children-shangri-la/03-spatial-function.webp",
+        "assets/board/home-for-left-behind-children-shangri-la/04-floor-plans.webp",
+        "assets/board/home-for-left-behind-children-shangri-la/05-elevation-elements.webp",
+        "assets/board/home-for-left-behind-children-shangri-la/06-detail-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/home-for-left-behind-children-shangri-la/01-explosion-diagram.webp"
+          ],
+          "captions": [
+            "Explosion diagram: prayer space, learning space and living space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "爆炸圖：祈福空間、學習空間與生活空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In the Tibetan areas around Shangri-La, many children grow up while their parents work far from home. The designer looked for a home where these left-behind children can learn, play and live together close to their own culture and nature.",
+          "images": [
+            "assets/board/home-for-left-behind-children-shangri-la/02-building-form-generation.webp"
+          ],
+          "captions": [
+            "Building form generation from local construction to activity space with nature."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在香格里拉一帶的藏區，許多孩子在父母遠赴外地工作時成長。設計者希望為這些留守兒童打造一個家，讓他們能貼近自身文化與自然，一起學習、玩耍與生活。",
+              "captions": [
+                "建築形體生成：從在地構造到與自然結合的活動空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The form starts from local construction, raises the frame beams to adapt to seasonal changes, adds floors, enlarges the platform and divides the functions. Local customs such as the water prayer wheel turned by the river and the mani heaps of engraved stones are brought into the site.",
+          "images": [
+            "assets/board/home-for-left-behind-children-shangri-la/03-spatial-function.webp"
+          ],
+          "captions": [
+            "Spatial function on three floors with the water prayer wheel."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "形體從在地構造出發，抬高框架樑以適應季節變化，增加樓層、擴大平台並劃分機能。由河水推動的水轉經輪、刻經石堆成的瑪尼堆等在地習俗，也被帶進基地。",
+              "captions": [
+                "三層樓的空間機能與水轉經輪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The first floor is a space for prayer and nature, the second floor holds activity and learning, and the third floor is for living and public life. The plans include planting and playing spaces, classrooms, a handicraft room and dormitories for girls and boys.",
+          "images": [
+            "assets/board/home-for-left-behind-children-shangri-la/04-floor-plans.webp"
+          ],
+          "captions": [
+            "Ground, first and second floor plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一樓是祈福與親近自然的空間，二樓安排活動與學習，三樓則是生活與公共空間。平面中包含種植與遊戲空間、教室、手工藝室以及男生與女生宿舍。",
+              "captions": [
+                "一樓、二樓與三樓平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The elevation uses a golden dome, Tibetan traditional windows, a vegetation wall and fragrant cloth. The detail section shows how the walls and floors are built, with a white wall mortar of lime mixed with milk, saffron and honey.",
+          "images": [
+            "assets/board/home-for-left-behind-children-shangri-la/05-elevation-elements.webp",
+            "assets/board/home-for-left-behind-children-shangri-la/06-detail-section.webp"
+          ],
+          "captions": [
+            "Elevation and its elements.",
+            "Details, section B-B."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "立面運用金頂、藏式傳統窗、植生牆與香布。細部剖面呈現牆與樓板的構造，白牆灰泥以石灰混合牛奶、番紅花與蜂蜜製成。",
+              "captions": [
+                "立面及其元素。",
+                "細部剖面 B-B。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Begin with the people who need the home.\n2. Learn the local way of building.\n3. Bring local customs into the site.\n4. Detail the walls with local materials.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從需要這個家的人開始。\n2. 學習在地的營造方式。\n3. 把在地習俗帶進基地。\n4. 以在地材料設計牆的細部。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
