@@ -1,7 +1,7 @@
 {
   "project": "Memory of the Tower",
   "dest": "assets/board/memory-of-the-tower",
-  "note": "Portfolio 952911a3 pages 7–9 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the project title page with photos of the building and of people on page 6, the regional analysis photos, peripheral view photos and site vicinity photos on page 7, the Guangzhou culture photo strips on page 8, the photo of a person with the model and the production process photos on page 9. No retouching.",
+  "note": "Portfolio 952911a3 pages 7–10 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the project title page with photos of the building and of people on page 6, the regional analysis photos, peripheral view photos and site vicinity photos on page 7, the Guangzhou culture photo strips on page 8, the photo of a person with the model and the production process photos on page 9. No retouching.",
   "files": [
     {
       "name": "01-tower-model-rendering.webp",
@@ -56,6 +56,12 @@
       "sha256": "06ae72e7807028998590a1885e522348e7b0379de8989cfa0629e57b21b07b1c",
       "bytes": 90396,
       "from": "page 9 — interior model views, x 88.5–100 %"
+    },
+    {
+      "name": "10-plan-graph.webp",
+      "sha256": "8aa3c24f62bfc9c02fdf4ce73ffa378eec08f2cd462529d25b22b15ded3d474d",
+      "bytes": 81486,
+      "from": "page 10 — floor plan with the memorial hall and the stair, x 21–42 %, y 0–62 %"
     }
   ]
 }
