@@ -1,0 +1,55 @@
+{
+  "project": "The Middle Income Trap",
+  "dest": "assets/board/middle-income-trap-mall",
+  "note": "Portfolio 8c507211 pages 21–25 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: page 20 (photos of real people, a phone collage and stock shopping photos), the story panels with a QR code on page 22 and the shopper figure with bags on page 25. No retouching.",
+  "files": [
+    {
+      "name": "01-overall-effect.webp",
+      "sha256": "03b8ee67a74352b0c967c1b90166d2494020e06e93a3c3b713567227fd06a62e",
+      "bytes": 242406,
+      "from": "8c507211 page 21 — overall effect of the trap mall, x 61.5–100 %"
+    },
+    {
+      "name": "02-morphogenesis.webp",
+      "sha256": "6af1ef43d44680ecf20186283c425df6293d5a844a70309192452d3fd3675cdd",
+      "bytes": 111544,
+      "from": "page 21 — morphogenesis from personality shapes to the trap, x 2–30 %"
+    },
+    {
+      "name": "03-morphological-evolution.webp",
+      "sha256": "2ac34622b9296b8f52390231347ed86d70d63ff953c1d7a9e8a0825920e84a0b",
+      "bytes": 89496,
+      "from": "page 21 — morphological evolution: select, classify, individuality, warp, trap, x 36.5–60 %"
+    },
+    {
+      "name": "04-elevator-and-browse-routes.webp",
+      "sha256": "ba1e9171d708c6ac0e36474df3bdbfc7aa0cbb3d5447a44e5848636df7fee4a5",
+      "bytes": 326444,
+      "from": "page 22 — elevator route and browse route through five spaces, x 30–100 %; the story panels with a QR code are excluded"
+    },
+    {
+      "name": "05-option-space.webp",
+      "sha256": "14df2ba9ecf19db1253acf144818117d8b3cdc464017bd8f2a56505bc4b2e91f",
+      "bytes": 269742,
+      "from": "page 23 — option space, full page"
+    },
+    {
+      "name": "06-projection-and-individuation.webp",
+      "sha256": "97f62b4a029c2b3fc1785fbf018722f4ae1c1b7ad3212725879c734fdf8d55b4",
+      "bytes": 332410,
+      "from": "page 24 — projection space and individuation space, full page"
+    },
+    {
+      "name": "07-warp-space.webp",
+      "sha256": "ca74b4f35113b5eb5bdb2334c217349e5e17e8cd57623e89b9d74100b53b7aa9",
+      "bytes": 259370,
+      "from": "page 25 — warp space, x 0–58.5 %"
+    },
+    {
+      "name": "08-trap-space.webp",
+      "sha256": "cd8f6bd9a0fb29c4af11c3b855d40ff823a689bc8751fe3652e8a4c302406884",
+      "bytes": 172072,
+      "from": "page 25 — trap space, x 58.5–100 %, y 0–77 %"
+    }
+  ]
+}
