@@ -6465,7 +6465,7 @@
         "assets/board/xinzao-ferry-terminal-park/04-resonance-concept.webp",
         "assets/board/xinzao-ferry-terminal-park/05-design-procedure.webp",
         "assets/board/xinzao-ferry-terminal-park/06-strategy-diagrams.webp",
-        "assets/board/xinzao-ferry-terminal-park/07-floor-plan-sections.webp",
+        "assets/board/xinzao-ferry-terminal-park/07-floor-plans-and-sections.webp",
         "assets/board/xinzao-ferry-terminal-park/08-architectural-plan.webp",
         "assets/board/xinzao-ferry-terminal-park/09-model.webp"
       ],
@@ -6554,7 +6554,7 @@
           "heading": "Outcome",
           "body": "The park brings together the Xinzao ferry, a ferry café and front plaza, a riverside square, an artificial island, a play space, a bioretention basin and an entrance square. The physical model tests the café, the riverside promenade, the suspension bridge and the waterfront platform.",
           "images": [
-            "assets/board/xinzao-ferry-terminal-park/07-floor-plan-sections.webp",
+            "assets/board/xinzao-ferry-terminal-park/07-floor-plans-and-sections.webp",
             "assets/board/xinzao-ferry-terminal-park/08-architectural-plan.webp",
             "assets/board/xinzao-ferry-terminal-park/09-model.webp"
           ],
@@ -7144,6 +7144,764 @@
             "zh-Hant": {
               "heading": "我如何教這套方法",
               "body": "1. 讓看不見的系統變得具體。\n2. 以圖解閱讀它的輸入與輸出。\n3. 讓一項性能指標組織機能。\n4. 為成長而設計，而非固定的規模。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Whale Harmony: Climate Guardians",
+      "slug": "whale-harmony",
+      "description": "Floating ice-floe buildings and artificial sea ice in Isfjorden, Svalbard, protecting Arctic whales as the sea ice disappears.\n\nIsfjorden, Svalbard | Landscape design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鯨之和鳴：氣候守護者",
+          "description": "在斯瓦巴群島伊斯峽灣以漂浮的浮冰建築與人工海冰，於海冰消失之際守護北極鯨魚。\n\n斯瓦巴群島伊斯峽灣｜景觀設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/whale-harmony/01-arctic-future-overview.webp",
+        "assets/board/whale-harmony/02-whale-distribution.webp",
+        "assets/board/whale-harmony/03-whale-carbon-cycle.webp",
+        "assets/board/whale-harmony/04-strategy.webp",
+        "assets/board/whale-harmony/05-floe-fusion-morphogenesis.webp",
+        "assets/board/whale-harmony/06-isfjorden-master-plan.webp",
+        "assets/board/whale-harmony/07-section-over-time.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/whale-harmony/06-isfjorden-master-plan.webp"
+          ],
+          "captions": [
+            "Isfjorden master plan: whale sanctuary, channel concentration area and the Floe Fusion Eco-connectscape."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "伊斯峽灣總平面：鯨魚保護區、航道集中區與浮冰融合生態連結景觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Arctic sea ice is declining, opening shipping routes that could cut Europe–Asia shipping time by up to 50 % and bringing more oil, gas and tourism activity into Arctic waters. Sea-ice loss drives industrialization, more shipping and fishing, ecological imbalance and a feedback loop of lower reflectivity that amplifies climate change.",
+          "images": [
+            "assets/board/whale-harmony/01-arctic-future-overview.webp"
+          ],
+          "captions": [
+            "Arctic future overview, sea-ice decline, future shipping routes and the impact of sea-ice loss."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "北極海冰持續減少，開啟的航道可讓歐亞航運時間縮短多達 50%，也把更多石油、天然氣與觀光活動帶進北極水域。海冰流失帶來工業化、航運與捕撈增加、生態失衡，以及反照率下降並放大氣候變遷的回饋循環。",
+              "captions": [
+                "北極未來概覽、海冰減少、未來航道與海冰流失的影響。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Bowhead whales, narwhals and white whales live in the Arctic year round, and whale records cluster around Svalbard's fjords. Whales act as a carbon pump: one whale fall stores about 33 tons of CO2, and the nutrients whales release feed the phytoplankton that capture carbon.",
+          "images": [
+            "assets/board/whale-harmony/02-whale-distribution.webp",
+            "assets/board/whale-harmony/03-whale-carbon-cycle.webp"
+          ],
+          "captions": [
+            "Arctic whale distribution and migration, and whale distribution in Svalbard.",
+            "Carbon cycle diagram of whale activity: the whale pump and whale fall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "弓頭鯨、獨角鯨與白鯨終年生活在北極，而鯨魚紀錄集中在斯瓦巴群島的峽灣周邊。鯨魚扮演碳泵的角色：一次鯨落約可封存 33 噸二氧化碳，鯨魚釋放的養分則滋養捕捉碳的浮游植物。",
+              "captions": [
+                "北極鯨魚分布與遷徙，以及斯瓦巴群島的鯨魚分布。",
+                "鯨魚活動的碳循環圖：鯨魚泵與鯨落。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The strategy replaces melting sea ice with artificial sea ice in stages from 2022 to 2100, adds transparent, uneven polycarbonate ecological installations for photosynthesis, and collects whale signals through drones, sonar and machine learning. Ice-floe forms become floating buildings with ecological installations below, housing scientific research, a drone platform, plant ecology, a whale-watching centre, a dock and a sea-fishing platform.",
+          "images": [
+            "assets/board/whale-harmony/04-strategy.webp",
+            "assets/board/whale-harmony/05-floe-fusion-morphogenesis.webp"
+          ],
+          "captions": [
+            "Strategy: artificial sea ice, ecological installation and whale signal acquisition.",
+            "Floe Fusion Eco-connectscape: morphogenesis from ice floe to building, float and installation, and the six functions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "策略從 2022 到 2100 年分階段以人工海冰取代融化的海冰，加入透明而凹凸的聚碳酸酯生態裝置以利光合作用，並透過無人機、聲納與機器學習收集鯨魚訊號。浮冰形態轉化為下方掛有生態裝置的漂浮建築，容納科學研究、無人機平台、植物生態、賞鯨中心、碼頭與海釣平台。",
+              "captions": [
+                "策略：人工海冰、生態裝置與鯨魚訊號擷取。",
+                "浮冰融合生態連結景觀：從浮冰到建築、浮體與裝置的形態生成，以及六種機能。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In Isfjorden, where ships and whales passing through will increase as the ice disappears, the master plan sets a whale sanctuary, vessel speed limits and a concentrated channel to avoid collisions. Over time the floating buildings take over from the sea ice, giving habitat to phytoplankton and fish while scientific research and tourism develop alongside.",
+          "images": [
+            "assets/board/whale-harmony/07-section-over-time.webp"
+          ],
+          "captions": [
+            "Sectional view over time: the near future and 100 years later."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在伊斯峽灣，隨著海冰消失，通過的船隻與鯨魚都將增加；總平面設定鯨魚保護區、船速限制與集中航道，以避免船鯨碰撞。隨著時間推移，漂浮建築接替海冰，為浮游植物與魚類提供棲地，科學研究與觀光也同步發展。",
+              "captions": [
+                "隨時間變化的剖面：近未來與一百年後。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the data on a changing climate.\n2. Find the species that carries the system.\n3. Phase the intervention over decades.\n4. Draw the section through time.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從氣候變遷的數據出發。\n2. 找出承載整個系統的物種。\n3. 以數十年為尺度分期介入。\n4. 畫出隨時間變化的剖面。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Rural Greenspace Exploration",
+      "slug": "gangtou-rural-greenspace",
+      "description": "Idle green space in Gangtou Village, Guangzhou, replanned for villagers and cultural tourism, with water restoration and a phased timeline to 2035.\n\nGangtou Village, Huadu, Guangzhou | Rural landscape planning | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鄉村綠地探索",
+          "description": "為村民與文化觀光重新規劃廣州岡頭村的閒置綠地，結合水體修復與至 2035 年的分期時程。\n\n廣州花都岡頭村｜鄉村景觀規劃｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/gangtou-rural-greenspace/01-location-swot.webp",
+        "assets/board/gangtou-rural-greenspace/02-population-site-analysis.webp",
+        "assets/board/gangtou-rural-greenspace/03-morphogenesis-floor-plan.webp",
+        "assets/board/gangtou-rural-greenspace/04-idle-green-space.webp",
+        "assets/board/gangtou-rural-greenspace/05-ecological-restoration.webp",
+        "assets/board/gangtou-rural-greenspace/06-tour-experience-upgrade.webp",
+        "assets/board/gangtou-rural-greenspace/07-village-floor-plan.webp",
+        "assets/board/gangtou-rural-greenspace/08-aerial-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/gangtou-rural-greenspace/08-aerial-view.webp"
+          ],
+          "captions": [
+            "Aerial view of the Gangtou Village planning."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "岡頭村規劃鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Gangtou Village in Huadu, Guangzhou, has good Lingnan ancient architecture and ecological resources an hour from the city, yet only about two elderly households still live in the old village and tourism projects are poorly managed. Farmland is broken up, ancient buildings are abandoned, and public facilities and activity spaces are few.",
+          "images": [
+            "assets/board/gangtou-rural-greenspace/01-location-swot.webp"
+          ],
+          "captions": [
+            "Location from Guangdong to Gangtou Village, and SWOT analysis."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "位於廣州花都的岡頭村擁有良好的嶺南古建築與生態資源，距市區僅一小時，但舊村只剩約兩戶長者居住，觀光項目也管理不善。農田破碎、古建築荒廢，公共設施與活動空間不足。",
+              "captions": [
+                "從廣東到岡頭村的區位，以及 SWOT 分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "More than 2,100 people live in the village, about 28 % are under 15 and 11 % over 60, and over 1,000 acres of cultivated land are rented to farmers, while idle green space still accounts for the vast majority. Elevation, water-security and area-type analyses map where houses, farmland, gardens and woodland meet.",
+          "images": [
+            "assets/board/gangtou-rural-greenspace/02-population-site-analysis.webp"
+          ],
+          "captions": [
+            "Population and economy, site analysis and land use type."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "村內常住人口超過 2,100 人，其中約 28% 未滿 15 歲、11% 超過 60 歲，逾 1,000 英畝耕地租給農戶，閒置綠地仍占絕大多數。高程、水安全格局與用地類型分析，標示出住宅、農田、園地與林地交會之處。",
+              "captions": [
+                "人口與經濟、基地分析與用地類型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A landscape texture is generated from branching lines combined with the venue and layered over the construction roads and land types. Idle green space is divided into service space for cultural tourism and for villagers, with five public areas — leisure, cultural and educational, rain garden, edible garden and old-house renovation — that also show villagers how to transform their own micro gardens.",
+          "images": [
+            "assets/board/gangtou-rural-greenspace/03-morphogenesis-floor-plan.webp",
+            "assets/board/gangtou-rural-greenspace/04-idle-green-space.webp"
+          ],
+          "captions": [
+            "Morphogenesis and the planning floor plan.",
+            "Strategy 1: planning of idle green space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "景觀紋理由分枝線條生成，結合場地後疊合於建設道路與用地類型之上。閒置綠地分為文化觀光服務空間與村民服務空間，並設置休閒、文教、雨水花園、可食花園與老屋改造五類公共區域，同時示範村民如何改造自家的微型花園。",
+              "captions": [
+                "形態生成與規劃平面。",
+                "策略一：閒置綠地規劃。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Ecological restoration treats water through pipelines, swales, linear plant treatment and drop aeration before it enters an aquaculture loop, and a tour-experience upgrade engages the five senses through gardens and farms. A timeline from 2021 to 2035 moves from villagers' residential areas to ancient buildings, ecological riverbanks and finally the woodlands and gardens of the entire village.",
+          "images": [
+            "assets/board/gangtou-rural-greenspace/05-ecological-restoration.webp",
+            "assets/board/gangtou-rural-greenspace/06-tour-experience-upgrade.webp",
+            "assets/board/gangtou-rural-greenspace/07-village-floor-plan.webp"
+          ],
+          "captions": [
+            "Strategy 2: ecological restoration through water treatment.",
+            "Strategy 3: tour experience upgrade and comparison before and after transformation.",
+            "Gangtou Village floor plan and planning timeline, 2021–2035."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "生態修復以管道、草溝、線性植物處理與跌水曝氣淨化水體，再進入水產養殖循環；遊覽體驗升級則透過花園與農場調動五感。2021 至 2035 年的時程，從村民住宅區開始，接著是古建築、生態河岸，最後完成全村的林地與園地。",
+              "captions": [
+                "策略二：以水處理進行生態修復。",
+                "策略三：遊覽體驗升級與改造前後比較。",
+                "岡頭村平面與 2021–2035 規劃時程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Count the people before drawing the plan.\n2. Treat idle land as the resource.\n3. Let water lead the restoration.\n4. Phase the village over years.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先算清楚人口，再畫平面。\n2. 把閒置土地視為資源。\n3. 讓水引導修復。\n4. 以年為單位分期改造村落。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Whiskey Energy Farm",
+      "slug": "whiskey-energy-farm",
+      "description": "A whisky distillery on the Isle of Skye combined with wind, marine energy and a greenhouse, opened to visitors on the way to net zero.\n\nRubha Shlèite, Isle of Skye, Scotland | Architecture | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "威士忌能源農場",
+          "description": "在天空島結合風能、海洋能與溫室的威士忌蒸餾廠，在邁向淨零的過程中向遊客開放。\n\n蘇格蘭天空島 Rubha Shlèite｜建築設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/whiskey-energy-farm/01-exterior-render.webp",
+        "assets/board/whiskey-energy-farm/02-parti-and-section.webp",
+        "assets/board/whiskey-energy-farm/03-site-plan.webp",
+        "assets/board/whiskey-energy-farm/04-sections-and-detail.webp",
+        "assets/board/whiskey-energy-farm/05-energy-facade-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/whiskey-energy-farm/01-exterior-render.webp"
+          ],
+          "captions": [
+            "The energy farm on the shore of Rubha Shlèite."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "位於 Rubha Shlèite 海岸的能源農場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Responding to the net-zero coalition, Scotch whisky can sit at the heart of a blueprint to protect Scotland's environment while remaining a modern, profitable industry. Scotland's wind farms mainly concentrate in the north east and do not cover the Isle of Skye, even though the UK is one of the busiest ports in the world for both import and export.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "為回應淨零聯盟，蘇格蘭威士忌可以成為保護蘇格蘭環境藍圖的核心，同時維持現代且獲利的產業。蘇格蘭的風電場主要集中在東北部，並未涵蓋天空島，儘管英國是全球進出口最繁忙的港口之一。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site reads the climate, ocean currents, sun and wind directions of the isle, and the entertainment activities around it that are closely tied to nature. Combining the distillery with the wind farm in the architectural facades would decrease the transport of electricity, while a greenhouse at the front uses water from the air and the sea and the heat generated by distilling.",
+          "images": [
+            "assets/board/whiskey-energy-farm/02-parti-and-section.webp"
+          ],
+          "captions": [
+            "Parti diagram, energy systems — wind, marine energy, desalination, air-drop irrigation, hydrogen and a smart grid — and the long section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地分析島上的氣候、洋流、日照與風向，以及周邊與自然緊密相連的休閒活動。把蒸餾廠與風電場結合進建築立面，可以減少電力輸送；前方的溫室則利用空氣與海水中的水分，以及蒸餾產生的熱。",
+              "captions": [
+                "配置概念圖與能源系統：風能、海洋能、海水淡化、空氣集水灌溉、氫能與智慧電網，以及長向剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The distillery is designed to be visited and completely opened to the public, from the preparation of ingredients to the distilling itself, with a separate pathway so visitors do not disrupt the workers. Wine cellar and export are served by two ports that separate the routes of visitors and sailors, and the barrels move by lift across the storage area.",
+          "images": [
+            "assets/board/whiskey-energy-farm/03-site-plan.webp",
+            "assets/board/whiskey-energy-farm/04-sections-and-detail.webp"
+          ],
+          "captions": [
+            "Site plan: export pier, passenger wharf, off-shore fishing, wine cellar, hotel, gallery, ecological beach, hydrogen fuel, greenhouse, distillery, marine and wind power.",
+            "Sections through the greenhouse, distillery and lab and cellar, and the wall detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "蒸餾廠設計為可參觀並完全對公眾開放，從原料準備到蒸餾過程皆可觀看，並另設動線，避免遊客干擾工作人員。酒窖與出口由兩座港口服務，分開遊客與船員的路線，酒桶則透過升降設備在儲藏區之間垂直運送。",
+              "captions": [
+                "配置圖：出口碼頭、客運碼頭、離岸漁業、酒窖、旅館、展廊、生態海灘、氫燃料、溫室、蒸餾廠、海洋能與風能。",
+                "溫室、蒸餾廠與實驗室及酒窖的剖面，以及牆身詳圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Energy enters the building through the facade, heat transfers back to the greenhouse, and the surplus is used by other parts of the complex. The faceted facade combines rainwater-gathering panels, low-E glass with insulation, openable glass and wind-introduction panels on a steel and wood glass frame.",
+          "images": [
+            "assets/board/whiskey-energy-farm/05-energy-facade-models.webp"
+          ],
+          "captions": [
+            "Water and energy cycles, facade tectonic, exploded axonometric and model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "能源經由立面進入建築，熱能回傳至溫室，剩餘的能源則供複合體其他部分使用。多面體立面在鋼與木的玻璃框架上，結合雨水收集板、具隔熱的低輻射玻璃、可開啟玻璃與導風板。",
+              "captions": [
+                "水與能源循環、立面構造、爆炸軸測與模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Put the industry and its energy in one building.\n2. Draw every flow of water and heat.\n3. Separate the visitor route from the work route.\n4. Let the facade do the work.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把產業與能源放進同一棟建築。\n2. 畫出每一道水與熱的流動。\n3. 分開參觀動線與工作動線。\n4. 讓立面承擔工作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Fast Fashion Tower",
+      "slug": "fast-fashion-tower",
+      "description": "A movable tower that stacks entertainment above garment factories, so every visitor rides past the labour that fast fashion hides.\n\nFlexible site | Competition project | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "快時尚之塔",
+          "description": "一座可移動的高塔，把娛樂堆疊在成衣工廠之上，讓每位遊客都經過快時尚所隱藏的勞動。\n\n基地不限｜競圖作品｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fast-fashion-tower/01-true-cost-of-a-hoodie.webp",
+        "assets/board/fast-fashion-tower/02-concept-development.webp",
+        "assets/board/fast-fashion-tower/03-plan-and-views.webp",
+        "assets/board/fast-fashion-tower/04-floor-plans.webp",
+        "assets/board/fast-fashion-tower/05-tower-render.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fast-fashion-tower/05-tower-render.webp"
+          ],
+          "captions": [
+            "The tower: entertainment above, factories below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "高塔：上方是娛樂，下方是工廠。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project uses architecture to reveal an empire built upon the exploitation of labour. A hoodie that retails for 26.66 € is traced back through brand, sourcing agency, printer, textile and fabric factories to cotton farming, where garment workers often work 14 to 16 hours a day, seven days a week.",
+          "images": [
+            "assets/board/fast-fashion-tower/01-true-cost-of-a-hoodie.webp"
+          ],
+          "captions": [
+            "What is the true cost of a hoodie? Costs at each step and the production chain from design to sale."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案以建築揭示一個建立在剝削勞動之上的帝國。一件零售價 26.66 歐元的連帽衫被一路追溯，經過品牌、採購代理、印刷廠、紡織與布料工廠直到棉花種植，而成衣工人往往每天工作 14 到 16 小時、每週七天。",
+              "captions": [
+                "一件連帽衫的真實成本是多少？各環節的成本，以及從設計到銷售的生產鏈。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The upper parts of the building demonstrate the modern phenomenon of amusing ourselves to death, with shopping malls, entertainment, busy streets and lights that never go out. To arrive there, visitors must pass the bottom part by elevator, where they see that the fancy empire comes at the cost of cheap and abused labour.",
+          "images": [
+            "assets/board/fast-fashion-tower/02-concept-development.webp"
+          ],
+          "captions": [
+            "Concept development: spheres squeezing each other as the fabric and clothing factories, the panopticon, the bacteriophage metaphor and the movable foundation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "建築上部呈現「娛樂至死」的當代現象，有購物中心、娛樂、繁忙街道與永不熄滅的燈光。要抵達那裡，遊客必須搭電梯穿過下部，親眼看到華麗帝國的代價是廉價且受虐的勞動。",
+              "captions": [
+                "概念發展：彼此擠壓的球體作為布料與成衣工廠、全景監獄、噬菌體隱喻與可移動的基礎。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The central elevator incorporates Bentham's panopticon, giving visitors a 360-degree view of the working conditions below, and the upper structure extends from this centre. Fast fashion is read as a bacteriophage that infects and replicates within its host society, and the tower stands on a movable foundation of scalable omniwheels, moving with its legs extended and resting with them folded.",
+          "images": [
+            "assets/board/fast-fashion-tower/03-plan-and-views.webp"
+          ],
+          "captions": [
+            "Plan with the factories, the view from the elevator and the ground-level entrance."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "中央電梯引入邊沁的全景監獄，讓遊客 360 度看見下方的勞動狀況，上部結構則自此中心延伸。快時尚被解讀為一種在宿主社會中感染並複製的噬菌體，高塔立在由可伸縮全向輪組成的可移動基礎上，伸腿時移動、收腿時停駐。",
+              "captions": [
+                "工廠平面、電梯視角與地面入口。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The plans place abandoned clothing as garbage, a surrounding club, an information centre and a fashion-show stage around the central core. Above, a swimming pool, a circular tram, an agency office, a supervising structure and a penthouse complete the vertical journey from labour to consumption.",
+          "images": [
+            "assets/board/fast-fashion-tower/04-floor-plans.webp"
+          ],
+          "captions": [
+            "Floor plans with the information centre, fashion-show stage and abandoned clothing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "平面圍繞中央核心配置作為垃圾的廢棄衣物、環繞的俱樂部、資訊中心與時裝秀舞台。上方的游泳池、環形電車、代理辦公室、監督結構與頂層公寓，完成從勞動到消費的垂直旅程。",
+              "captions": [
+                "含資訊中心、時裝秀舞台與廢棄衣物的平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Trace one product back to its maker.\n2. Put the hidden part on the route.\n3. Find a metaphor that carries the form.\n4. Stack the programme as an argument.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把一件產品追溯到它的製造者。\n2. 讓被隱藏的部分出現在動線上。\n3. 找到能承載形態的隱喻。\n4. 把機能堆疊成一個論點。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "City Lighthouse",
+      "slug": "city-lighthouse",
+      "description": "Light towers in Oakland that turn the sound of a street into a light signal, using design to put more eyes on the street.\n\nOakland, California | Architecture | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市燈塔",
+          "description": "在奧克蘭把街道聲音轉為光訊號的光塔，以設計讓更多目光留在街上。\n\n加州奧克蘭｜建築設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/city-lighthouse/01-crime-hotspots.webp",
+        "assets/board/city-lighthouse/02-models-and-sections.webp",
+        "assets/board/city-lighthouse/03-arduino-experiment.webp",
+        "assets/board/city-lighthouse/04-implementation-night-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/city-lighthouse/04-implementation-night-view.webp"
+          ],
+          "captions": [
+            "Spectrum projectors light the district at night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "頻譜投射器在夜間照亮街區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Property, personal and street crime cluster in Oakland, and the project asks how the built environment can create safer neighbourhoods. Crime prevention through environmental design, defensible space and the broken-window theory all argue that unrepaired disorder breaks down social control while eyes on the street keep it.",
+          "images": [
+            "assets/board/city-lighthouse/01-crime-hotspots.webp"
+          ],
+          "captions": [
+            "Crime hotspots in Oakland: property, personal and street crime."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "財產犯罪、人身犯罪與街頭犯罪在奧克蘭集中出現，本案提問建成環境如何創造更安全的社區。環境設計預防犯罪、防衛空間與破窗理論都指出，未修復的失序會瓦解社會控制，而街上的目光能維繫它。",
+              "captions": [
+                "奧克蘭的犯罪熱點：財產、人身與街頭犯罪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A space-syntax diagram of street accessibility and visibility shows the hotspots at both the most easily accessed crossroads and the dead ends. Learning from billboards and from the lighthouse as the guardian of the ocean, the design becomes a light tower that indicates the popularity of the district.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "街道可達性與可視性的空間句法圖顯示，熱點同時出現在最容易抵達的路口與死巷。借鏡廣告看板，以及作為海洋守護者的燈塔，設計成為一座顯示街區人氣的光塔。"
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Models and sections develop a tower on a truss structure with a connection to the ground, a roof garden, a water gutter and a foldable window screen. Openable screens enhance natural surveillance of the nearby streets.",
+          "images": [
+            "assets/board/city-lighthouse/02-models-and-sections.webp"
+          ],
+          "captions": [
+            "Models, sections, truss structure and floor and wall detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "模型與剖面發展出一座立在桁架結構上的塔，包含與地面的連接、屋頂花園、排水溝與可折疊的窗屏。可開啟的屏幕加強了對周邊街道的自然監視。",
+              "captions": [
+                "模型、剖面、桁架結構與樓板及牆身詳圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "An Arduino experiment uses a microphone to collect surrounding audio and an audio spectrum analyser to drive a display. At night the towers project the spectrum of the street's sound into the sky, turning the activity of a district into a signal of its safety.",
+          "images": [
+            "assets/board/city-lighthouse/03-arduino-experiment.webp"
+          ],
+          "captions": [
+            "Arduino experiment: microphone, spectrum analyser and LED display."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "Arduino 實驗以麥克風收集周遭聲音，並以音訊頻譜分析器驅動顯示。夜間，光塔把街道聲音的頻譜投射到天空，讓街區的活動成為安全的訊號。",
+              "captions": [
+                "Arduino 實驗：麥克風、頻譜分析器與 LED 顯示。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the problem before the site.\n2. Read theory as a design brief.\n3. Prototype the device that makes it work.\n4. Show the building at night.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先繪製問題，再談基地。\n2. 把理論讀成設計任務書。\n3. 為讓它運作的裝置做原型。\n4. 呈現建築在夜晚的樣子。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Post-war Rehabilitation Centre",
+      "slug": "post-war-rehabilitation-centre",
+      "description": "A rehabilitation centre in Firdos Park, Baghdad, using nature, water, light and ramps to treat post-traumatic stress and disability.\n\nFirdos Park, Baghdad, Iraq | Competition project | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "戰後復健中心",
+          "description": "位於巴格達菲爾多斯廣場公園的復健中心，以自然、水、光與坡道治療創傷後壓力與身體障礙。\n\n伊拉克巴格達菲爾多斯廣場公園｜競圖作品｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/post-war-rehabilitation-centre/01-research-and-design-principles.webp",
+        "assets/board/post-war-rehabilitation-centre/02-site-and-bubble-diagram.webp",
+        "assets/board/post-war-rehabilitation-centre/03-concept-models.webp",
+        "assets/board/post-war-rehabilitation-centre/04-design-proposal.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/post-war-rehabilitation-centre/04-design-proposal.webp"
+          ],
+          "captions": [
+            "Design proposal: plans, structure, curved facade and renders."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "設計提案：平面、結構、曲面立面與渲染。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In Iraq about one in ten of the war-affected population suffers from post-traumatic stress disorder, and disabled people say no one represents them. Traditional PTSD treatments range from narrative exposure therapy and stress inoculation training to cognitive, cognitive-processing and dialectical behaviour therapies.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在伊拉克，受戰爭影響的人口中約每十人就有一人患有創傷後壓力症候群，身障者則表示沒有人代表他們。傳統的創傷後壓力治療包括敘事暴露療法、壓力免疫訓練，以及認知、認知處理與辯證行為療法。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Research finds that nature is proving to be awesome medicine for PTSD, and that the feeling of awe helps improve patients' social behaviour. The centre therefore introduces meditation open space, ecological landscapes, water therapy, working and social re-engagement and a religious space for pilgrims, and uses changing light to affect patients' emotions.",
+          "images": [
+            "assets/board/post-war-rehabilitation-centre/01-research-and-design-principles.webp"
+          ],
+          "captions": [
+            "Research findings, the effects of light, the division of space and the steps of physical rehabilitation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究發現，大自然正成為治療創傷後壓力的良藥，而敬畏感有助改善患者的社交行為。因此中心引入冥想開放空間、生態景觀、水療、工作與社交重建以及朝聖的宗教空間，並以光線變化影響患者的情緒。",
+              "captions": [
+                "研究發現、光的效果、空間劃分與身體復健的步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The site is Firdos Park in Baghdad, next to Al-Sha'ab International Stadium, and a bubble diagram links psychological treatment, physical treatment, the mosque and space open to the public. Concept models explore different forms, curves and circles for ramps represent the disabled, and the traditional plan of the mosque is simplified for contemporary aesthetics.",
+          "images": [
+            "assets/board/post-war-rehabilitation-centre/02-site-and-bubble-diagram.webp",
+            "assets/board/post-war-rehabilitation-centre/03-concept-models.webp"
+          ],
+          "captions": [
+            "Site map and bubble diagram.",
+            "Concept models, concept development and the mosque."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "基地位於巴格達的菲爾多斯廣場公園，緊鄰人民國際體育場，泡泡圖串聯心理治療、身體治療、清真寺與對公眾開放的空間。概念模型探索不同形態，坡道的曲線與圓代表身障者，清真寺的傳統平面則被簡化以符合當代美學。",
+              "captions": [
+                "基地圖與泡泡圖。",
+                "概念模型、概念發展與清真寺。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Floor plans stack a children centre, training areas, offices, lecture halls, male and female water therapy, physical and psychological therapy, a roof garden, a mosque, a library and classrooms. All spaces are separated but connected, from private to public, under a curved GRC rainscreen facade on a steel and concrete structure.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "各層平面堆疊兒童中心、訓練區、辦公室、演講廳、男女水療、身體與心理治療、屋頂花園、清真寺、圖書館與教室。從私密到公共，所有空間彼此分隔卻相互連通，覆蓋在鋼與混凝土結構上的曲面玻璃纖維混凝土雨幕立面之下。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the people the building must heal.\n2. Turn research findings into a programme.\n3. Let the ramp shape the form.\n4. Separate spaces but keep them connected.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從建築需要療癒的人出發。\n2. 把研究發現轉為機能。\n3. 讓坡道塑造形態。\n4. 空間分隔，但保持相連。"
             }
           }
         }
