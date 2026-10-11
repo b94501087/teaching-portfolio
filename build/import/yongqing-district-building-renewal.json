@@ -1,0 +1,61 @@
+{
+  "project": "Yongqing District Building Renewal",
+  "dest": "assets/board/yongqing-district-building-renewal",
+  "note": "Portfolio 2dd5d109 pages 14–17 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title axonometric, the users panel with photos of residents' faces, the protection value photos and the renders with photo figures on page 17. No retouching.",
+  "files": [
+    {
+      "name": "01-model-sketch.webp",
+      "sha256": "2e6db4b8355631a36d554d0b023bc202b8a5c234ed99659fc8028c948bf9dd2c",
+      "bytes": 143326,
+      "from": "2dd5d109 page 14 — model sketch of the old and new facades, x 34–99 %, y 56–98 %"
+    },
+    {
+      "name": "02-yongqing-district.webp",
+      "sha256": "0672bd99552f0ead2e07f39c07405a94338d3d3e9d03a8f1beda59b685bd88ae",
+      "bytes": 93578,
+      "from": "page 14 — Yongqing District site collage and map, x 34–59 %, y 3–55 %"
+    },
+    {
+      "name": "03-house-re-present.webp",
+      "sha256": "87857273aac6268ca2ca628de26991386f030b8e02b37228c5225f4c94216d65",
+      "bytes": 108786,
+      "from": "page 14 — house re-present: brick and concrete, wooden roof, sun shading and floor plans, x 59–99 %, y 3–55 %"
+    },
+    {
+      "name": "04-interview.webp",
+      "sha256": "b7bd416983f2fb702c334a0f6ab8af723926fa4628cabe366ad60b9b92404cf8",
+      "bytes": 138020,
+      "from": "page 15 — interview storyboard with rendered figures, x 25–80 %, y 3–50 %; the users panel with photos of residents' faces is excluded"
+    },
+    {
+      "name": "05-prompt-models.webp",
+      "sha256": "adb01a0a2e3f0a29c18198a992bc94a8fb7f923a28bdf09625ee9528b4f1e863",
+      "bytes": 69780,
+      "from": "page 15 — prompt: four rounds of study models, x 2–47 %, y 50–97 %"
+    },
+    {
+      "name": "06-strategy.webp",
+      "sha256": "2bacbca66726394e2e85d183cc90f48c263306a3db78b118a0b0934ae7791db9",
+      "bytes": 94014,
+      "from": "page 15 — strategy: origin, extend and events, x 47–99 %, y 50–98 %"
+    },
+    {
+      "name": "07-procedures-and-connection.webp",
+      "sha256": "ae3fd389db60a304513cdf8bfdb52b7db9f99e265f396d3cb56a2a7c22ac7008",
+      "bytes": 198590,
+      "from": "page 16 — procedures and connection, x 0–49 %"
+    },
+    {
+      "name": "08-floor-plans.webp",
+      "sha256": "c4baa2f489dad1dfc7ea29d2d0234b87a3cee0e548911ace3b12f137285028ab",
+      "bytes": 207878,
+      "from": "page 16 — ground to third floor plans, x 49–99 %"
+    },
+    {
+      "name": "09-section-and-elevation-with-twists.webp",
+      "sha256": "cc0b1bc0378a7b478ea0ba55d7420638b48c41543cafdc6e2a0818a866f2eee4",
+      "bytes": 175728,
+      "from": "page 17 — section and elevation drawing and the three twists, x 0–76 %; the renders with photo figures are excluded"
+    }
+  ]
+}
