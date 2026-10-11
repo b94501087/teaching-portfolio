@@ -1,0 +1,67 @@
+{
+  "project": "Yau Ma Tei Theatre Revitalisation",
+  "dest": "assets/board/yau-ma-tei-theatre-revitalisation",
+  "note": "Portfolio 7c040a27 pages 3–6 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the news photos, stakeholder photos, case study photos and strategy photos on page 3, the photo collages of people and the module views with photo figures on page 4. No retouching.",
+  "files": [
+    {
+      "name": "01-compound-activity-space.webp",
+      "sha256": "4b32b99c4297837e3620d1de3fae168c2e0ffb17d14d7781819e73c737cdff9a",
+      "bytes": 357028,
+      "from": "7c040a27 page 6 — compound activity space axonometric with model detail views, x 50–100 %"
+    },
+    {
+      "name": "02-site-indication.webp",
+      "sha256": "ce8cac81d538eaf819d62c96efd445daa24280ae70f2c35fae8e7d7221e14d59",
+      "bytes": 359764,
+      "from": "page 3 — site indication over the 3D city model of Yau Tsim Mong, x 13.5–50 %, y 58.5–100 %; the news photos and stakeholder photos above are excluded"
+    },
+    {
+      "name": "03-function-sketches.webp",
+      "sha256": "13edf6a72d9359c9f9a93b9de343adab21618f07fda06ce9872a18a042b60502",
+      "bytes": 138984,
+      "from": "page 4 — body function scrutiny sketches, x 66.5–100 %, y 0–50 %; the photo collage of people on the left is excluded"
+    },
+    {
+      "name": "04-stowable-camping-module.webp",
+      "sha256": "11cd080bdabeb5b88dc183c2cfea89fa1d630ea8966534a6830c8f76edca94ad",
+      "bytes": 13420,
+      "from": "page 4 — stowable camping module storage sequence, x 15.5–32.5 %, y 39–47.5 %; the module views with photo figures are excluded"
+    },
+    {
+      "name": "05-volume-scrutiny.webp",
+      "sha256": "c98d85f1521b9e158ad7ff36a55df6f53da9276c4c21d7f5361d9496c28a18ca",
+      "bytes": 90760,
+      "from": "page 4 — volume scrutiny of eight massing options, x 50–82.5 %, y 50–100 %"
+    },
+    {
+      "name": "06-functional-axonometric.webp",
+      "sha256": "1f7deccf87c883d1f3a85a2c1b299974146406b268de4f841a6688a8583df52f",
+      "bytes": 62140,
+      "from": "page 4 — functional axonometric of the activity centre and homeless centre, x 82.5–100 %, y 50–100 %"
+    },
+    {
+      "name": "07-aerial-view-and-ground-floor.webp",
+      "sha256": "8d4ccea736cdf6883742c81fe0d93a59264ed2e98739749b83684218e9091728",
+      "bytes": 288970,
+      "from": "page 5 — interior connections diagram, aerial view and ground floor plan, x 0–26 %"
+    },
+    {
+      "name": "08-floor-plan.webp",
+      "sha256": "94608e65a5cc693bdd6f4df1b3f112e150f03b54323deafada6fc13df02efffa",
+      "bytes": 252204,
+      "from": "page 5 — upper floor plan, x 26–50 %"
+    },
+    {
+      "name": "09-scene-perspective.webp",
+      "sha256": "db269237b6c6e7262105b5a087f8337f94bdcce0b7db4f7cfab3dcb88b5b6b8a",
+      "bytes": 495100,
+      "from": "page 5 — scene perspective section, x 50–100 %"
+    },
+    {
+      "name": "10-studio-and-platforms.webp",
+      "sha256": "b161b040c933b63a376317f2cc2c441763ed608a3373abcaf7f4d1044aa8aefe",
+      "bytes": 257250,
+      "from": "page 6 — homeless home studio, open-air viewing platform and first-floor public space renderings, x 0–50 %"
+    }
+  ]
+}
