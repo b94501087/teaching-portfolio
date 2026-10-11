@@ -11987,6 +11987,590 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Reborn — A Space of Embryonic Growth",
+      "slug": "reborn-embryonic-space",
+      "description": "A cave-like space shaped by the growth of an embryo, for those who carry the pain of abortion.\n\nChina | Spatial installation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重生——胚胎成長的空間",
+          "description": "依胚胎成長形塑的洞穴般空間，給承受流產之痛的人。\n\n中國｜空間裝置｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/reborn-embryonic-space/01-sectional-elevation.webp",
+        "assets/board/reborn-embryonic-space/02-preliminary-investigation.webp",
+        "assets/board/reborn-embryonic-space/03-monomer-morphogenesis.webp",
+        "assets/board/reborn-embryonic-space/04-spatial-morphology.webp",
+        "assets/board/reborn-embryonic-space/05-manual-attempt.webp",
+        "assets/board/reborn-embryonic-space/06-model-study.webp",
+        "assets/board/reborn-embryonic-space/07-texture-and-sequence-model.webp",
+        "assets/board/reborn-embryonic-space/08-spatial-sequence.webp",
+        "assets/board/reborn-embryonic-space/09-architectural-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/reborn-embryonic-space/01-sectional-elevation.webp"
+          ],
+          "captions": [
+            "Sectional elevation: a cave-like space drawn by hand, with figures to show its scale."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖立面：手繪的洞穴般空間，以人物標示尺度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "More than 13 million abortions are expected in China each year, and half of them are repeated abortions that are a serious public health problem. Behind the numbers are people who find it hard to talk about the physical and mental pain they go through.",
+          "images": [
+            "assets/board/reborn-embryonic-space/02-preliminary-investigation.webp"
+          ],
+          "captions": [
+            "Preliminary investigation: rates, research fact sheets and reasons for abortion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "中國每年預計發生超過 1300 萬例人工流產，其中一半是重複流產，是嚴重的公共衛生問題。數字背後，是一群難以說出身心痛苦的人。",
+              "captions": [
+                "初步調查：流產比例、研究資料與流產原因。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project studies how an embryo grows and turns its forms into single spatial units. These units are then joined along a route that moves from a narrow passage to a final room.",
+          "images": [
+            "assets/board/reborn-embryonic-space/03-monomer-morphogenesis.webp",
+            "assets/board/reborn-embryonic-space/04-spatial-morphology.webp"
+          ],
+          "captions": [
+            "Monomer morphogenesis.",
+            "Spatial morphology generation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案研究胚胎如何成長，並把其形態轉化為單一的空間單元。這些單元再沿著一條路線串連，從狹窄的通道走向最後的房間。",
+              "captions": [
+                "單體形態生成。",
+                "空間形態生成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The form is tested by hand with paper, wire mesh and gypsum cloth, then given texture. A sequence model sets the steps of the visit from falling in to lying down at the end.",
+          "images": [
+            "assets/board/reborn-embryonic-space/05-manual-attempt.webp",
+            "assets/board/reborn-embryonic-space/06-model-study.webp",
+            "assets/board/reborn-embryonic-space/07-texture-and-sequence-model.webp"
+          ],
+          "captions": [
+            "Manual attempt step by step.",
+            "Model study.",
+            "Adding texture and the sequence model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "形態以紙、鐵絲網與石膏布親手試做，再加上質感。序列模型定出參訪的步驟，從跌入到最後躺下。",
+              "captions": [
+                "逐步的手作嘗試。",
+                "模型研究。",
+                "加上質感與序列模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The space is a chain of winding, narrow and open moments for perception, exploration, movement and memory. Visitors walk through it as a slow passage of rebirth and can choose how to remember.",
+          "images": [
+            "assets/board/reborn-embryonic-space/08-spatial-sequence.webp",
+            "assets/board/reborn-embryonic-space/09-architectural-drawing.webp"
+          ],
+          "captions": [
+            "Spatial sequence: winding, narrow passages, perception, movement and memorials.",
+            "Model and architectural drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "空間由蜿蜒、狹窄與開闊的片段串成，供人感知、探索、移動與追憶。參訪者緩緩穿越，如同一段重生之路，並能選擇如何記住。",
+              "captions": [
+                "空間序列：蜿蜒、狹窄通道、感知、移動與紀念。",
+                "模型與建築圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a hard social fact.\n2. Find a form in nature that speaks to it.\n3. Test the form by hand in models.\n4. Script the visit as a sequence.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個沉重的社會事實開始。\n2. 在自然中找到能回應它的形態。\n3. 以模型親手測試形態。\n4. 把參訪編寫成一段序列。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Memory of the Tower — Tower Shadow Building Renewal",
+      "slug": "memory-of-the-tower",
+      "description": "A 1919 riverside tower studio reborn as a stage for Cantonese opera and morning tea.\n\nGuangzhou, China | Heritage renewal | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "塔樓記憶——塔影樓活化",
+          "description": "將 1919 年的江畔塔樓畫室，活化為粵劇與早茶的舞台。\n\n中國廣州｜歷史建築活化｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/memory-of-the-tower/01-tower-model-rendering.webp",
+        "assets/board/memory-of-the-tower/02-exploded-tower.webp",
+        "assets/board/memory-of-the-tower/03-project-status.webp",
+        "assets/board/memory-of-the-tower/04-design-strategy.webp",
+        "assets/board/memory-of-the-tower/05-opera-and-tea-generation.webp",
+        "assets/board/memory-of-the-tower/06-generation-section.webp",
+        "assets/board/memory-of-the-tower/07-four-sides-of-model.webp",
+        "assets/board/memory-of-the-tower/08-model-details.webp",
+        "assets/board/memory-of-the-tower/09-interior-views.webp",
+        "assets/board/memory-of-the-tower/10-plan-graph.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/memory-of-the-tower/01-tower-model-rendering.webp"
+          ],
+          "captions": [
+            "The tower model at night, with its Chinese roof on a Western-style body."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "夜色中的塔樓模型，西式樓身上覆著中式屋頂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "This tower studio on the west bank of the Pearl River in Guangzhou was built in 1919 and is called the Tower Shadow Building because of its reflection in the water. It is a historical site with a strange mix of Chinese and Western looks, yet few people know what it is or what it is for.",
+          "images": [
+            "assets/board/memory-of-the-tower/02-exploded-tower.webp",
+            "assets/board/memory-of-the-tower/03-project-status.webp"
+          ],
+          "captions": [
+            "Exploded view of the tower.",
+            "Project status: viewing platform, living rooms and meeting rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這座塔樓畫室位於廣州珠江西岸，建於 1919 年，因倒映在江水中而被稱為「塔影樓」。它是一處中西合璧、樣貌奇特的歷史建築，卻很少人知道它是什麼、做什麼用。",
+              "captions": [
+                "塔樓爆炸圖。",
+                "現況：觀景平台、起居室與會議室。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Provincial rules ask that a cultural relic be reused in a way that fits its heritage value, such as an exhibition hall or a place for leisure. The site study shows crowds by the river, large open spaces and views of both banks around the tower.",
+          "images": [
+            "assets/board/memory-of-the-tower/04-design-strategy.webp"
+          ],
+          "captions": [
+            "Design strategy for the four storeys."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "省級規定要求文物的再利用須符合其文化遺產價值，例如作為展覽館或休閒場所。基地研究顯示，塔樓周邊有江邊人潮、大片開放空間，以及兩岸的景觀。",
+              "captions": [
+                "四個樓層的設計策略。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The storeys are staggered to make room for a stair and filled with Cantonese culture, from opera to morning tea. Each floor gets its own scene of the stage, the costumes, the orders and the tea.",
+          "images": [
+            "assets/board/memory-of-the-tower/05-opera-and-tea-generation.webp",
+            "assets/board/memory-of-the-tower/06-generation-section.webp"
+          ],
+          "captions": [
+            "Design generation: Cantonese opera and morning tea.",
+            "Section of the design generation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "各樓層錯動以留出樓梯空間，並注入從粵劇到早茶的廣府文化。每層樓各有一幕場景：舞台、戲服、點單與品茶。",
+              "captions": [
+                "設計生成：粵劇與早茶。",
+                "設計生成剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The handmade model shows a viewing deck on top, an opera stage, an exhibition floor and a tea and dining floor below. Laser-cut planks were glued together to test the stair and the light inside.",
+          "images": [
+            "assets/board/memory-of-the-tower/07-four-sides-of-model.webp",
+            "assets/board/memory-of-the-tower/08-model-details.webp",
+            "assets/board/memory-of-the-tower/09-interior-views.webp",
+            "assets/board/memory-of-the-tower/10-plan-graph.webp"
+          ],
+          "captions": [
+            "The four sides of the model.",
+            "Model details.",
+            "Interior model views.",
+            "Floor plan with the memorial hall and the stair."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "手作模型呈現頂層的觀景台、粵劇舞台、展覽層，以及下方的茶飲與用餐層。雷射切割的板材黏合而成，用來測試室內的樓梯與光線。",
+              "captions": [
+                "模型的四個立面。",
+                "模型細部。",
+                "室內模型視角。",
+                "紀念廳與樓梯的平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Learn the story of an old building.\n2. Read the rules that guard it.\n3. Give each floor one local custom.\n4. Test the result in a handmade model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 了解一棟老建築的故事。\n2. 研讀保護它的規範。\n3. 為每層樓賦予一項在地習俗。\n4. 以手作模型檢驗成果。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Rabbit Hole — A Healing Underland",
+      "slug": "rabbit-hole-healing-underland",
+      "description": "A sunken space of staggered floors, built from what the senses notice, to heal the stressed mind.\n\nHealing architecture | Competition entry | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "兔子洞——療癒的地下世界",
+          "description": "由感官所察覺之物構成的錯落下沉空間，療癒壓力下的心靈。\n\n療癒建築｜競圖作品｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rabbit-hole-healing-underland/01-axonometric-view.webp",
+        "assets/board/rabbit-hole-healing-underland/02-perception-map.webp",
+        "assets/board/rabbit-hole-healing-underland/03-spatial-extraction.webp",
+        "assets/board/rabbit-hole-healing-underland/04-extracted-forms.webp",
+        "assets/board/rabbit-hole-healing-underland/05-sinking-space-sketches.webp",
+        "assets/board/rabbit-hole-healing-underland/06-model-refinement.webp",
+        "assets/board/rabbit-hole-healing-underland/07-time-perception.webp",
+        "assets/board/rabbit-hole-healing-underland/08-model-in-hand.webp",
+        "assets/board/rabbit-hole-healing-underland/09-interior-renderings.webp",
+        "assets/board/rabbit-hole-healing-underland/10-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rabbit-hole-healing-underland/01-axonometric-view.webp"
+          ],
+          "captions": [
+            "Axonometric view: staggered floors and winding stairs lead down into the hole."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "軸測圖：錯落的樓板與蜿蜒的樓梯通往洞穴深處。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The international competition Into the Rabbit Hole asks for architecture that can heal the stressed human mind. It calls for spaces beyond conditioned thinking, with a geometry, a volume and an underland of one's own.",
+          "images": [
+            "assets/board/rabbit-hole-healing-underland/02-perception-map.webp"
+          ],
+          "captions": [
+            "Perception map of each mark in the field."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "國際競圖「掉進兔子洞」要求設計能療癒壓力下人心的建築。它呼籲跳脫制式思考，創造屬於自己的幾何、量體與地下世界。",
+              "captions": [
+                "場域中各個標記的感知地圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project maps what the senses pick up on the street, from sounds to touch and the passing of time. These moments are drawn as lines and turned into a set of spatial forms.",
+          "images": [
+            "assets/board/rabbit-hole-healing-underland/03-spatial-extraction.webp",
+            "assets/board/rabbit-hole-healing-underland/04-extracted-forms.webp"
+          ],
+          "captions": [
+            "Spatial extraction.",
+            "Extracted forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案記錄感官在街道上接收到的一切，從聲音、觸感到時間的流逝。這些片刻被畫成線條，再轉化為一組空間形態。",
+              "captions": [
+                "空間萃取。",
+                "萃取出的形態。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The space sinks below the ground, and its layout is sketched as rings of rooms around a core. Models refine the floors, and the changing light and shadow of roots and trees reflect the passage of time.",
+          "images": [
+            "assets/board/rabbit-hole-healing-underland/05-sinking-space-sketches.webp",
+            "assets/board/rabbit-hole-healing-underland/06-model-refinement.webp",
+            "assets/board/rabbit-hole-healing-underland/07-time-perception.webp"
+          ],
+          "captions": [
+            "Sinking space and layout sketches.",
+            "Model refinement.",
+            "Time perception."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "空間沉入地下，平面以環繞核心的房間草擬。模型逐步修正樓板，樹根與樹木的光影變化映照出時間的流逝。",
+              "captions": [
+                "下沉空間與平面草圖。",
+                "模型修正。",
+                "時間感知。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Staggered floors with different heights and entrances give people different experiences in hearing and vision. A circular cloister, a rest area and a meditation root guide visitors through the hole at their own pace.",
+          "images": [
+            "assets/board/rabbit-hole-healing-underland/08-model-in-hand.webp",
+            "assets/board/rabbit-hole-healing-underland/09-interior-renderings.webp",
+            "assets/board/rabbit-hole-healing-underland/10-section.webp"
+          ],
+          "captions": [
+            "The physical model.",
+            "Interior renderings of the staggered floors.",
+            "Section of the underground space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "錯落的樓板有不同的高度與入口，帶給人們不同的聽覺與視覺體驗。環形迴廊、休憩區與冥想之根，引導參訪者依自己的步調穿越洞穴。",
+              "captions": [
+                "實體模型。",
+                "錯落樓板的室內渲染圖。",
+                "地下空間剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the brief as a question.\n2. Map what the senses notice.\n3. Draw each feeling as a form.\n4. Test the forms in models.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把競圖說明當成一個提問。\n2. 記錄感官注意到的事物。\n3. 把每種感受畫成形態。\n4. 以模型檢驗這些形態。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Building Surround — A Park for Stress Relief",
+      "slug": "building-surround-urban-park",
+      "description": "An unplanned square among office towers turned into a park where workers can take a break.\n\nTianhe, Guangzhou, China | Urban park | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "高樓環繞——紓壓城市公園",
+          "description": "把辦公大樓間未經規劃的廣場，轉化為讓上班族喘息的公園。\n\n中國廣州天河｜城市公園｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/building-surround-urban-park/01-site-modification-plan.webp",
+        "assets/board/building-surround-urban-park/02-site-condition-sketches.webp",
+        "assets/board/building-surround-urban-park/03-site-axonometric.webp",
+        "assets/board/building-surround-urban-park/04-site-requirements.webp",
+        "assets/board/building-surround-urban-park/05-site-planning.webp",
+        "assets/board/building-surround-urban-park/06-design-partition.webp",
+        "assets/board/building-surround-urban-park/07-refinement-of-area.webp",
+        "assets/board/building-surround-urban-park/08-design-generation.webp",
+        "assets/board/building-surround-urban-park/09-modification-storyboard.webp",
+        "assets/board/building-surround-urban-park/10-perspective-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/building-surround-urban-park/01-site-modification-plan.webp"
+          ],
+          "captions": [
+            "Site modification plan: paths, trees and pools, with a view of each area."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "基地改造平面：步道、樹木與水池，並附各區的視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Walking along a road in Tianhe, Guangzhou, the designer saw slogans on mental health posted on hoarding boards. Office towers, crowds of workers and heavily regulated shopping areas during the epidemic left people nearby no place to take a break from work.",
+          "images": [
+            "assets/board/building-surround-urban-park/02-site-condition-sketches.webp",
+            "assets/board/building-surround-urban-park/03-site-axonometric.webp"
+          ],
+          "captions": [
+            "Site conditions: tall buildings, height differences and a lack of open space.",
+            "The square between the towers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "走在廣州天河的路上，設計者看見工地圍板上貼滿心理健康的標語。辦公大樓、密集的上班人潮，加上疫情期間嚴格管制的商場，讓附近的人無處可以從工作中喘口氣。",
+              "captions": [
+                "基地現況：高樓環繞、高差與缺乏開放空間。",
+                "高樓之間的廣場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "In the middle of this business district lies Guangzhou East Station Square, a large space that seems unplanned. The project lists what workers, residents, students and passengers each need from it, from rest to play and quick passage.",
+          "images": [
+            "assets/board/building-surround-urban-park/04-site-requirements.webp",
+            "assets/board/building-surround-urban-park/05-site-planning.webp"
+          ],
+          "captions": [
+            "Site requirements for each user group.",
+            "Site planning: routes, planting and functional areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "在這片商業區的中央，廣州東站廣場是一處看似未經規劃的大型空間。本案列出上班族、居民、學生與旅客各自的需求，從休息、遊玩到快速通行。",
+              "captions": [
+                "各使用群體的基地需求。",
+                "基地規劃：動線、植栽與功能分區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The site is divided into areas for rest, play, dining and sports, and each is shaped by simple forms. These forms are then refined and generated into pavilions, ramps and seats for each group of users.",
+          "images": [
+            "assets/board/building-surround-urban-park/06-design-partition.webp",
+            "assets/board/building-surround-urban-park/07-refinement-of-area.webp",
+            "assets/board/building-surround-urban-park/08-design-generation.webp"
+          ],
+          "captions": [
+            "Design partition.",
+            "Refinement of each area.",
+            "Design generation for each user group."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "基地劃分為休憩、遊玩、餐飲與運動等區域，各以簡單的形體塑造。這些形體再經修正，生成為給各使用群體的亭子、坡道與座椅。",
+              "captions": [
+                "設計分區。",
+                "各區的修正。",
+                "依使用群體的設計生成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The square becomes an urban park with a raised ring path, wooden walls, water and dense planting. Surrounded by high-rise buildings, it offers people in the neighbourhood a place to take a break in the midst of their daily stress.",
+          "images": [
+            "assets/board/building-surround-urban-park/09-modification-storyboard.webp",
+            "assets/board/building-surround-urban-park/10-perspective-views.webp"
+          ],
+          "captions": [
+            "Storyboard and layered view of the site.",
+            "Perspective views of six places in the park."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "廣場化為一座城市公園，有高架環形步道、木牆、水景與茂密植栽。在高樓環繞之中，它讓附近的人在日常壓力裡有一處能喘息的地方。",
+              "captions": [
+                "基地的分鏡與分層圖。",
+                "公園六處地點的透視圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from what you notice on a walk.\n2. List what each user group needs.\n3. Divide the site by those needs.\n4. Draw each place as a lived scene.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從散步時注意到的事開始。\n2. 列出各使用群體的需求。\n3. 依這些需求劃分基地。\n4. 把每個地點畫成生活場景。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
