@@ -1900,6 +1900,141 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Fragmented Interpretation — Chungking Express on a Footbridge",
+      "slug": "fragmented-interpretation",
+      "description": "A footbridge in Guangzhou becomes a theatre of fragments: four characters from Chungking Express are translated into space, and passers-by see only pieces of their stories.\n\nFootbridge near Teemall, Tianhe, Guangzhou, China | Individual work / footbridge, fragmented information | May–Jul 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "碎片詮釋——天橋上的《重慶森林》",
+          "description": "把廣州的一座天橋變成碎片的劇場：《重慶森林》的四位角色被轉譯為空間，路人只能看見他們故事的片段。\n\n中國廣州天河天河城旁天橋｜個人作品／天橋、碎片化資訊｜2023 年 5 月至 7 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fragmented-interpretation/01-cover-model.webp",
+        "assets/board/fragmented-interpretation/02-design-strategy.webp",
+        "assets/board/fragmented-interpretation/03-extract-sketches.webp",
+        "assets/board/fragmented-interpretation/04-site.webp",
+        "assets/board/fragmented-interpretation/05-floor-plan.webp",
+        "assets/board/fragmented-interpretation/06-perspective.webp",
+        "assets/board/fragmented-interpretation/07-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fragmented-interpretation/01-cover-model.webp"
+          ],
+          "captions": [
+            "Section physical model: a theatre space floating above the experience space of the footbridge, with the bridge's load-bearing structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖面實體模型：劇場空間漂浮在天橋的體驗空間之上，旁為天橋的承重結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "People today receive information in fragments: short clips, quick facts and pieces that are taken for the whole truth. Wong Kar Wai shoots in montage, so the project asks whether watching Chungking Express in fragments, the way we read the news, can still tell the story.",
+          "images": [
+            "assets/board/fragmented-interpretation/02-design-strategy.webp",
+            "assets/board/fragmented-interpretation/03-extract-sketches.webp"
+          ],
+          "captions": [
+            "Design strategy — a theatre space as the performance stage, with four main characters, different plots and meetings of characters, and a footbridge as the experience space where passers-by see clips through windows.",
+            "Extract — key words for each shot of Blonde, Wu, Police 663 and Fei, turned into imagination sketches and translated into elements."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "現代人以碎片化的方式接收資訊：短片、速食知識，以及被當成全部真相的片段。王家衛以蒙太奇手法拍攝，因此本案思考：像閱讀新聞一樣以片段觀看《重慶森林》，是否仍能讀懂故事。",
+              "captions": [
+                "設計策略——劇場空間作為表演舞台，包含四位主角、不同情節與角色相遇；天橋則作為體驗空間，讓路人透過窗口看見片段。",
+                "擷取——為金髮女子、阿武、警察 663 與阿菲的每個鏡頭提取關鍵字，轉化為想像速寫，再轉譯為形體元素。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Key plots of the four characters were broken into key words for movement, shots and events, drawn as 2D sketches, built as elemental models and regrouped. The site is a footbridge crossing the road in the Guangzhou CBD, near Teemall, ParcCentral, Grandview Plaza and the Tianhe Sports Center.",
+          "images": [
+            "assets/board/fragmented-interpretation/04-site.webp"
+          ],
+          "captions": [
+            "Site analysis — a bridge crossing the road in the Guangzhou CBD, between shopping, dining, office work, sport and the metro station."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "把四位角色的關鍵情節拆解為動作、鏡頭與事件的關鍵字，畫成 2D 速寫、做成元素模型，再重新組合。基地是廣州 CBD 中一座跨越馬路的天橋，鄰近天河城、太古匯、正佳廣場與天河體育中心。",
+              "captions": [
+                "基地分析——廣州 CBD 中一座跨越馬路的天橋，周邊有購物、餐飲、辦公、運動與地鐵站。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "On the plan, the routes of Blonde, Wu, Police 663 and Fei cross the routes of passers-by, with entrances at each end of the bridge. Parametric scripts for boundary, tension, density and pipe shaped the elemental models into one continuous form.",
+          "images": [
+            "assets/board/fragmented-interpretation/05-floor-plan.webp",
+            "assets/board/fragmented-interpretation/06-perspective.webp"
+          ],
+          "captions": [
+            "Floor plan at 1:500 — the routes of the four characters and of passers-by, with the entrances.",
+            "Perspective — parametric scripts for boundary, tension, boundary and density, and pipe, with the elemental models they produced."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在平面上，金髮女子、阿武、警察 663 與阿菲的路線，與路人的路線交錯，天橋兩端皆設有入口。以邊界、張力、密度與管線的參數化腳本，把元素模型塑造成一個連續的形體。",
+              "captions": [
+                "1:500 平面——四位角色與路人的路線，以及各個入口。",
+                "透視——邊界、張力、邊界與密度、管線的參數化腳本，以及由此產生的元素模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In section, actors perform in the theatre space above while passers-by walk the experience space of the footbridge below, rising to 12 m. Through the window, pedestrians may see only fragments of the illusion, so the real story stays blurred and each visitor makes a new interpretation.",
+          "images": [
+            "assets/board/fragmented-interpretation/07-section.webp"
+          ],
+          "captions": [
+            "Section at 1:200 — actors in the theatre space and passers-by on the bridge, from ±0.000 to 12.000."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在剖面中，演員在上方的劇場空間演出，路人則在下方的天橋體驗空間中行走，最高處達 12 米。透過窗口，行人可能只看到幻象的片段，真正的故事因此保持模糊，每位參觀者都會產生新的詮釋。",
+              "captions": [
+                "1:200 剖面——劇場空間中的演員與天橋上的路人，高度從 ±0.000 到 12.000。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from how people live now: fragmented information is the condition the design responds to.\n2. Use a film as a brief: its plots and characters give the space a story to translate.\n3. Translate step by step: key words, 2D sketches, elemental models, then regroup.\n4. Design for the passer-by: what you see through a window, in passing, is part of the work.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從人們當下的生活出發：碎片化的資訊，就是設計要回應的處境。\n2. 以一部電影作為設計任務：它的情節與角色，為空間提供可轉譯的故事。\n3. 一步步轉譯：關鍵字、2D 速寫、元素模型，再重新組合。\n4. 為路人而設計：經過時透過窗口看到的片段，也是作品的一部分。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
