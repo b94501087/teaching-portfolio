@@ -1,0 +1,67 @@
+{
+  "project": "School Bully",
+  "dest": "assets/board/school-bully-black-sheep-effect",
+  "note": "Portfolio 8c507211 pages 4–8 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: page 3 (photo stills of people, a portrait and a phone collage) and the photo of the maker above the model on page 4. No retouching.",
+  "files": [
+    {
+      "name": "01-game-spots-model.webp",
+      "sha256": "c1dbe464b1e82e54b4cebce5a3145851e303067ec98b3ed532d0d3c480904dde",
+      "bytes": 323874,
+      "from": "8c507211 page 4 — model of the four game spots with the route diagram, y 40–100 %; the photo of the maker above the model is excluded"
+    },
+    {
+      "name": "02-lifting-platform-purpose.webp",
+      "sha256": "e5b02d24653691e6b311f3080dbf5b8fa1c4ae902eb147697e07d1d78857ae0c",
+      "bytes": 71354,
+      "from": "page 5 — design significance and model of Level A, x 0–36 %, y 7–48 %"
+    },
+    {
+      "name": "03-rocker-and-sponge-blocks.webp",
+      "sha256": "fccf4ddbc68990987bc00486bea076326ef9099a82696e95b34772cf093f5d38",
+      "bytes": 145078,
+      "from": "page 5 — rotating rocker and sponge blocks, x 36–100 %, y 6–50 %"
+    },
+    {
+      "name": "04-lifting-platform-cut.webp",
+      "sha256": "1bca9105c836c133856403cf159f70db1def487cc24789a450a86eed32d5ee58",
+      "bytes": 202054,
+      "from": "page 5 — cut view of the lifting platform and the secret door, y 48–100 %"
+    },
+    {
+      "name": "05-machine-cage-model.webp",
+      "sha256": "663a3074b8bef8a91b21dc7dd8401d0843377ab542ae28b659c7be5c6a17ff37",
+      "bytes": 125156,
+      "from": "page 6 — Level B model and design significance, x 0–48 %, y 4–60 %"
+    },
+    {
+      "name": "06-machine-cage-sequence.webp",
+      "sha256": "3c0f79f5213b94098622004aafdac4d6809ddd264a84c8ee55ea11aa5ada69d8",
+      "bytes": 170240,
+      "from": "page 6 — five-step sequence of Level B, x 48–100 %, y 2–60 %"
+    },
+    {
+      "name": "07-machine-cage-mechanism.webp",
+      "sha256": "4cd449c1f88ca0e6f002bace40af44f774e84501b91e956c3036282b2851032d",
+      "bytes": 95640,
+      "from": "page 6 — pedals, card slot and mechanism sequence, y 60–100 %"
+    },
+    {
+      "name": "08-compromise-level.webp",
+      "sha256": "30962275313da6530ce358e486e2c4a2c18d8fb723b779d27303c2995068c315",
+      "bytes": 499986,
+      "from": "page 7 — Level C compromise level, full page"
+    },
+    {
+      "name": "09-gear-before-and-after.webp",
+      "sha256": "7135e5674c0b51d27bb82936e8419be1b84455d08f4c62975923d4b5be171547",
+      "bytes": 167266,
+      "from": "page 8 — model of the rotating gear before, during and after turning, x 0–30 %, y 12–100 %"
+    },
+    {
+      "name": "10-unity-rotate-gear.webp",
+      "sha256": "60ed27b7242f84e9b1c3a2acd335f85b4242853d7fe45d755a30634ae2445bbb",
+      "bytes": 457800,
+      "from": "page 8 — Level D unity rotate gear, x 30–100 %"
+    }
+  ]
+}
