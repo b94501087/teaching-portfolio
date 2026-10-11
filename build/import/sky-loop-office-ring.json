@@ -1,0 +1,67 @@
+{
+  "project": "Sky Loop",
+  "dest": "assets/board/sky-loop-office-ring",
+  "note": "Portfolio ab819a6e pages 5–7 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the photo-collage title page of the project on page 4, the rendering column with a photographed person on page 5, the model photos with a real person and the model section on page 6. No retouching.",
+  "files": [
+    {
+      "name": "01-ring-in-context.webp",
+      "sha256": "ccbc7a86c29ce62facc6fc551f782d38be90cfd875429063bd8dc1be7d42b35e",
+      "bytes": 62660,
+      "from": "ab819a6e page 5 — rendering of the ring in the context, x 78–100 %, y 0–53 %"
+    },
+    {
+      "name": "02-location.webp",
+      "sha256": "372785e342a51d0bd9fde686d2f205cd30ba308a47f06e6c06d98cd71b598d39",
+      "bytes": 215054,
+      "from": "page 5 — location in Zhujiang New Town, x 0–25 %, y 0–65 %"
+    },
+    {
+      "name": "03-conceptual-model-materials.webp",
+      "sha256": "e44f7e14075acd139fcaf4e45ff6e2ec640d1070fd9770aa94abc1c7ebe05a10",
+      "bytes": 101884,
+      "from": "page 5 — tower diagram and conceptual model materials, x 25.5–49 %, y 0–60 %"
+    },
+    {
+      "name": "04-design-strategy.webp",
+      "sha256": "d1fe9c25851a301fd24214fe7d4b74a07bd73b128d78b5dba63a0bd88717d074",
+      "bytes": 80100,
+      "from": "page 5 — design strategy: space grafting connection methods and derivatives, x 0–34.5 %, y 64–100 %"
+    },
+    {
+      "name": "05-sketch-and-structure.webp",
+      "sha256": "13f270a1f36d35f0056edca003ec39872acde53b5ccd32528b8bfee525f992cf",
+      "bytes": 130238,
+      "from": "page 5 — sketch and structure idea, x 50.5–78 %, y 0–33 %"
+    },
+    {
+      "name": "06-building-plan.webp",
+      "sha256": "3102fafccc01a645584c19d292db3dd5a1b95fd608ab1f6f0666068191e213ba",
+      "bytes": 154798,
+      "from": "page 5 — building plan, x 50.5–77.2 %, y 33–100 %"
+    },
+    {
+      "name": "07-ring-views.webp",
+      "sha256": "745835ed345e7b6e42600eb2a183fe5c46deb41839aefe85d4bb3a50c1b7a6a7",
+      "bytes": 52008,
+      "from": "page 5 — views from top to bottom and bottom to top, x 88.5–100 %, y 54–100 %; the column with a photographed person is excluded"
+    },
+    {
+      "name": "08-cropped-office-model.webp",
+      "sha256": "da8d1898b1c7107e1833cf2155378d16d791f6336682887bbe9087414b89a9dc",
+      "bytes": 426472,
+      "from": "page 6 — cropped office model, x 0–29 %"
+    },
+    {
+      "name": "09-bridge-and-air-circulation.webp",
+      "sha256": "5d7f61cd771d3de43c2f4e072305485d8516b364725d806c3537400e5e5297a2",
+      "bytes": 151346,
+      "from": "page 6 — gallery bridge diagrams, window node and air circulation, x 29–50 %"
+    },
+    {
+      "name": "10-swimming-and-reading.webp",
+      "sha256": "ab944cbdbd92bf96a5b8b542c22b553ef3313f01f24b38a38187861417cf0c9f",
+      "bytes": 305276,
+      "from": "page 7 — swimming and reading spaces on the loop, x 0–50 %"
+    }
+  ]
+}
