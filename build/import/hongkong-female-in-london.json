@@ -1,0 +1,55 @@
+{
+  "project": "Hongkong {female} ∈ London",
+  "dest": "assets/board/hongkong-female-in-london",
+  "note": "Portfolio pages 14–17 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title banner on page 14. All figures are drawn illustrations. Typos fixed: Spacial (Spatial), Baby mom (mothers and babies). No retouching.",
+  "files": [
+    {
+      "name": "01-cover-section-a1.webp",
+      "sha256": "874391ac87caeebe1a45ceaf0db851e95df71c72aff45a52c64fb93334683507",
+      "bytes": 98804,
+      "from": "page 17 — A-A'-1 Section (cover), y 0–49 %"
+    },
+    {
+      "name": "02-site-location.webp",
+      "sha256": "1887f11baca01ceb5d83bbbddd95127f237017c36903095408224cbc6ebe12c4",
+      "bytes": 431100,
+      "from": "page 14 — site map with Inspiration and legend, y 11.5–76.5 %; the title banner is excluded"
+    },
+    {
+      "name": "03-background.webp",
+      "sha256": "e54ae4e6ef3fabfae589987c99c19b0c759cadb7cce4b1a505b640262e904736",
+      "bytes": 83644,
+      "from": "page 14 — Background charts, y 76.5–100 %"
+    },
+    {
+      "name": "04-user-analysis.webp",
+      "sha256": "8367efb113a44434fbd5269eb3906dc658927c89facecff45cfe9f1542e8feaa",
+      "bytes": 163356,
+      "from": "page 15 — User Analysis, x 0–50 %"
+    },
+    {
+      "name": "05-concept-plan.webp",
+      "sha256": "2b49a3fc2695998232f3943fe1d78765d938b63c9fe77660f560ced212f06bb3",
+      "bytes": 92968,
+      "from": "page 15 — Concept Design Plan and Abstract Spatial Structure, x 50–100 %"
+    },
+    {
+      "name": "06-master-plan.webp",
+      "sha256": "bb2e15011b90d58ff90b95cf0b36c1263333d3ea293747decadb77a00b78a4fb",
+      "bytes": 143558,
+      "from": "page 16 — Master Plan, x 0–58.5 %"
+    },
+    {
+      "name": "07-activities-render.webp",
+      "sha256": "e75b685034b60313843a20ef0c11768679131cff315135fae028b4ddce8cb126",
+      "bytes": 171102,
+      "from": "page 16 — Activities Render, three viewpoints, x 58.5–100 %"
+    },
+    {
+      "name": "08-section-a2.webp",
+      "sha256": "f92fe3e104f76a5779121506fbc1d185d755a9466d7b6c211c97d055ba54afe1",
+      "bytes": 190990,
+      "from": "page 17 — A-A'-2 Section, y 49–100 %"
+    }
+  ]
+}
