@@ -4851,6 +4851,145 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Under the Midnight Sun",
+      "slug": "under-the-midnight-sun",
+      "description": "A theater in front of the Taipei Fine Arts Museum lets visitors walk through Keigo Higashino's “White Night Journey” chapter by chapter, led by a detective or on their own.\n\nTaipei Fine Arts Museum, Taipei | Theater design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "白夜行",
+          "description": "在臺北市立美術館前的劇場，讓參觀者逐章走進東野圭吾的《白夜行》，跟隨偵探，或自行探索。\n\n臺北市立美術館，臺北｜劇場設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/under-the-midnight-sun/01-cover-hand-made-model.webp",
+        "assets/board/under-the-midnight-sun/02-site.webp",
+        "assets/board/under-the-midnight-sun/03-book-to-real-world.webp",
+        "assets/board/under-the-midnight-sun/04-model-studies.webp",
+        "assets/board/under-the-midnight-sun/05-bulk-formation.webp",
+        "assets/board/under-the-midnight-sun/06-chapter-scenes.webp",
+        "assets/board/under-the-midnight-sun/07-streamline.webp",
+        "assets/board/under-the-midnight-sun/08-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/under-the-midnight-sun/01-cover-hand-made-model.webp"
+          ],
+          "captions": [
+            "Hand-made model: stacked timber frames and coloured planes, explored by hand to find the form of the space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "手作模型：堆疊的木框架與彩色板片，以手作探索空間的形態。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Keigo Higashino's mystery novel “White Night Journey” cleverly reveals the connection between its two characters, and its film adaptation raised the question of whether the charm of words can be conveyed through spatial design. Immersing oneself in a book involves recreating crime scenes and embodying the text in a designed space.",
+          "images": [
+            "assets/board/under-the-midnight-sun/02-site.webp",
+            "assets/board/under-the-midnight-sun/03-book-to-real-world.webp"
+          ],
+          "captions": [
+            "The site: an empty space in front of the Taipei Fine Arts Museum, where designers are invited to create new works every year.",
+            "Put a book in the real world: from book to movie, and from places to stories."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "東野圭吾的推理小說《白夜行》巧妙地揭示兩位主角之間的關聯；它被改編成電影，引出一個問題：文字的魅力能否透過空間設計傳達。沉浸在一本書中，意味著重現犯罪現場，並把文字具體化為一個被設計的空間。",
+              "captions": [
+                "基地：臺北市立美術館前的空地，每年邀請設計師在此創作。",
+                "把書放進真實世界：從書到電影，從場所到故事。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The plot is mapped across five chapters, from a dark childhood, high school life and a dirty commercial to university life and death, together with the scenes where the characters are. Traversing the space then lets visitors understand the book's narrative and activates their perceptual systems for a unique entertainment experience.",
+          "images": [
+            "assets/board/under-the-midnight-sun/06-chapter-scenes.webp"
+          ],
+          "captions": [
+            "Different scenes where the characters are, chapter by chapter."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案把情節拆解為五個章節，從黑暗的童年、高中生活、骯髒的交易，到大學生活與死亡，並標示角色所在的各個場景。穿越空間，讓參觀者理解書中的敘事，也喚醒他們的感知系統，帶來獨特的娛樂體驗。",
+              "captions": [
+                "角色所在的不同場景，逐章呈現。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Hand-made models explore a space that integrates play, performance and leisure, a fantasy city about walking on white nights. Five coloured blocks for the five chapters are raised, scattered, connected by a main channel and cut into pentagons, in pink, red and white taken from Xuesui's cloth.",
+          "images": [
+            "assets/board/under-the-midnight-sun/04-model-studies.webp",
+            "assets/board/under-the-midnight-sun/05-bulk-formation.webp"
+          ],
+          "captions": [
+            "Model studies of the frame-and-plane space.",
+            "Bulk formation: raise, scatter, connect, reshape into a pentagon and cut."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以手作模型探索一個融合遊戲、表演與休閒的空間，一座關於在白夜中行走的幻想城市。代表五個章節的五個彩色量體被抬升、打散，以主要通道相連，再切割成五角形；粉紅、紅與白三色取自雪穗的衣料。",
+              "captions": [
+                "框架與板片空間的模型研究。",
+                "量體生成：抬升、打散、串連、改為五角形，再切割。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Five chapters become five areas, and each small space is about one story. Visitors first meet a detective who leads them to the first scene, and then either follow the detective's way through the building or explore the plot freely, guided by two colours of stairs.",
+          "images": [
+            "assets/board/under-the-midnight-sun/07-streamline.webp",
+            "assets/board/under-the-midnight-sun/08-section.webp"
+          ],
+          "captions": [
+            "Spatial streamline and composition: five chapters to five areas, the detective way and the free way.",
+            "Section display, with stair and C-stud partition details."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "五個章節化為五個區域，每一個小空間都關於一段故事。參觀者先遇見一位偵探，由他帶到第一個場景；之後可以跟隨偵探的路線走完整棟建築，也可以自由探索情節，兩種顏色的樓梯為他們引路。",
+              "captions": [
+                "空間動線與構成：五個章節化為五個區域，偵探路線與自由路線。",
+                "剖面展示，附樓梯與 C 型鋼隔間細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read a story as a plan: chapters, scenes and paths.\n2. Build by hand first: a model finds the form faster than a screen.\n3. Let colour carry meaning.\n4. Give visitors a guide and a choice.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把故事讀成平面：章節、場景與路徑。\n2. 先動手做：模型比螢幕更快找到形態。\n3. 讓色彩承載意義。\n4. 給參觀者一位嚮導，也給他們選擇。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
