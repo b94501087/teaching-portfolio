@@ -1,0 +1,67 @@
+{
+  "project": "Tiny Forest",
+  "dest": "assets/board/tiny-forest",
+  "note": "Pages 1–5 of the 5-page board cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: the title block with the board number and the Background row of page 1 (maps, leaf-litter photo, export ban list), the portrait photo of Dr. Akira Miyawaki and the Miyawaki Forest Map on page 2, the model header text on page 4 and the five tree photos of the Plant Selection on page 5. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "f6d62c373f84a9d9079641ab586bec3dc8bafc956ce3b16b804caf44d91927bb",
+      "bytes": 172214,
+      "from": "page 4 — physical model 1:130 (cover), x 2–48.5 %, y 17–97.5 %; the model header text above is excluded"
+    },
+    {
+      "name": "02-fallen-leaves.webp",
+      "sha256": "9ee63b1113aeba3e8fcbe9db78cbbacf8cb185b2e67e7537a1e8a77253bd6e55",
+      "bytes": 208790,
+      "from": "page 1 — The Role of Fallen Leaves in Forest: relationship with biology and increase soil thickness, x 27.5–99.5 %, y 30.5–72.5 %"
+    },
+    {
+      "name": "03-broadleaf-advantages.webp",
+      "sha256": "91c621b5c21fe124606aa15ea6d2937c0db4028cd25220617546058ddfc24caf",
+      "bytes": 67156,
+      "from": "page 1 — The Advantages of Broad-Leaved Forest, four diagrams, x 27.5–99.5 %, y 72.5–99.5 %"
+    },
+    {
+      "name": "04-miyawaki-method.webp",
+      "sha256": "872130408374eafe6d21c5383fce5b1b1568f4106fd740278b3ff80acc04f0f3",
+      "bytes": 106938,
+      "from": "page 2 — Case Study diagrams of the Miyawaki method (vegetation, soil, planting, management, benefits), x 1.5–34 %, y 28–99.5 %; the portrait photo and the Miyawaki Forest Map above are excluded"
+    },
+    {
+      "name": "05-concept.webp",
+      "sha256": "7412d782a1e58f44c1642a86638f27208f00a71a7de26283524d234b075fedf7",
+      "bytes": 76698,
+      "from": "page 2 — Concept A–C, x 34.5–99.5 %, y 3–35.5 %"
+    },
+    {
+      "name": "06-design-process.webp",
+      "sha256": "b04cf031b9b6c16b7f381f2a7f694952ce2f6bf526e27dd2ed605e447df60d59",
+      "bytes": 85084,
+      "from": "page 2 — Design Process sketches a–e, x 34.5–99.5 %, y 35.5–62.5 %"
+    },
+    {
+      "name": "07-individual-practice.webp",
+      "sha256": "14804d9ef5233f4c4431735b4c90e30ae43326c6b94034aa4155bd23b758b50a",
+      "bytes": 107462,
+      "from": "page 2 — Individual Practice: material preparation and planting steps 1:25 (gloved hands only), x 34.5–99.5 %, y 62.5–99.5 %"
+    },
+    {
+      "name": "08-tokyo-corridor.webp",
+      "sha256": "e377d36f714776ec2721fd03227f4fd748072f664a23a4aea6d4821b0d66c986",
+      "bytes": 379404,
+      "from": "page 5 — Tokyo forest area & building density and the Chuo-ku urban forest corridor planning map (x 2–46.5 %) beside the partial forest corridor master plan (x 46.5–99 %, y 30–99 %); the Plant Selection tree photos are excluded"
+    },
+    {
+      "name": "09-tower-section.webp",
+      "sha256": "89a5a27a7835f858f2b355d8406480c78782113165423664ee1f19e61290ddcd",
+      "bytes": 371414,
+      "from": "page 3 — Tower Section A-A' with nine numbered details, whole page"
+    },
+    {
+      "name": "10-model-details.webp",
+      "sha256": "b1ddd62438b3ca6585617bf08a9aa1ae9b7c0b371b6e4677159b03578427dce6",
+      "bytes": 328418,
+      "from": "page 4 — three close-ups of the physical model, x 48.5–98 %"
+    }
+  ]
+}
