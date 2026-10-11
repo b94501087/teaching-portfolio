@@ -1,0 +1,67 @@
+{
+  "project": "Pig Farm",
+  "dest": "assets/board/pig-farm",
+  "note": "Portfolio pages 25–31 cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on white. Not used: the title text and Starting Point collage on page 25, the Pig Classroom film stills and Circumstance photos on page 26, the stock pig, farm, dog and people photos on page 27, the Score Rule, End panel and restaurant render on page 29, the AR perspective with a photographed man on page 30 and the renders with people on page 31. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "858af29e62adfc1f8079d06c27c7c2e61b423d0695a1d4646ab749c796cd70a7",
+      "bytes": 375200,
+      "from": "portfolio page 28 — Physical Model: restaurant, ranch, cage and entrance (cover), x 30–100 %"
+    },
+    {
+      "name": "02-site-plan.webp",
+      "sha256": "df3242bcc99dd87fcc534e4e8c7ae6f1890c93c50130dfdd1bbb1ef3e385642d",
+      "bytes": 37398,
+      "from": "page 25 — rendered site plan, x 7–28 %, y 5–43 %; the title text and the Starting Point collage of stock photos are excluded"
+    },
+    {
+      "name": "03-game-reality.webp",
+      "sha256": "538d66b75c640b27ffcef633e428e7accf3d3fffc147611f52a795f96367f52b",
+      "bytes": 42512,
+      "from": "page 26 — Game View vs Reality View, y 36–52 %; the Pig Classroom film stills above are excluded"
+    },
+    {
+      "name": "04-location.webp",
+      "sha256": "1fbbb7f713c509c029ec49cf913a102f6c4aa46bd7d29f63b884fd8ce30a4dd0",
+      "bytes": 86900,
+      "from": "page 26 — Location map of A Cottage Farms, x 0–52.5 %, y 52–100 %; the Circumstance photos are excluded"
+    },
+    {
+      "name": "05-pig-commodity.webp",
+      "sha256": "d10c132fb36d66dc2ea8f1e6e13d8778000b90a71b9c5f5bbb073290fe733b32",
+      "bytes": 87040,
+      "from": "page 27 — Pig = Commodity? data charts, x 0–28.5 %, y 0–85 %; Space Evolution, Analysis of pigs and Body Shape Change (stock photos) are excluded"
+    },
+    {
+      "name": "06-form.webp",
+      "sha256": "eaf42ba4214bfc18acf1a48aa75545d3554ca6d84375c2350e13c6232f5fb8ff",
+      "bytes": 111428,
+      "from": "page 28 — Form: original situation, function, streamline and plane sketch, x 0–30 %"
+    },
+    {
+      "name": "07-game.webp",
+      "sha256": "54f49da9320fdb4788846daeac8d41f0e8d8ecc63fc192c522459d9405976562",
+      "bytes": 264554,
+      "from": "page 29 — Choose Character (x 0–60 %, y 0–33 %) and Keep alive cards (x 60–100 %, y 0–22 %) above Paradise & Hell (x 0–60 %, y 62–97 %); Score Rule, the End panel and the restaurant render are excluded"
+    },
+    {
+      "name": "08-ar-plan.webp",
+      "sha256": "1e79c27218df6715af4124f74051b5f949b284735a3f742ae86fbcdf3ec275a0",
+      "bytes": 294450,
+      "from": "page 30 — rendered plan, model views and roof render, x 31–100 %; the AR perspective with a photographed man is excluded"
+    },
+    {
+      "name": "09-model-normal-map.webp",
+      "sha256": "5173ca15e845101c9d422d797b8d9bcd5a8b24918a7e7b4f8755109014730a6f",
+      "bytes": 106006,
+      "from": "page 31 — two model photos of the Normal map and the sitting-out areas, x 3–59 %, y 4–36.5 %"
+    },
+    {
+      "name": "10-model-cages.webp",
+      "sha256": "5cb9f74ce05a4f86828317040165545b2691a7c24303be73ede1e5e4873c35c0",
+      "bytes": 138248,
+      "from": "page 31 — model photo of the cages, x 50.5–97.5 %, y 53.5–97 %; the renders with people are excluded"
+    }
+  ]
+}
