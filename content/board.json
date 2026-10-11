@@ -12571,6 +12571,558 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "School Bully — The Black Sheep Effect",
+      "slug": "school-bully-black-sheep-effect",
+      "description": "A game space of four levels that lets visitors play the victim, the bystander and the bully.\n\nInteractive game space | Interior design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "校園霸凌——黑羊效應",
+          "description": "一座四關的遊戲空間，讓參觀者扮演受害者、旁觀者與霸凌者。\n\n互動遊戲空間｜室內設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/school-bully-black-sheep-effect/01-game-spots-model.webp",
+        "assets/board/school-bully-black-sheep-effect/02-lifting-platform-purpose.webp",
+        "assets/board/school-bully-black-sheep-effect/03-rocker-and-sponge-blocks.webp",
+        "assets/board/school-bully-black-sheep-effect/04-lifting-platform-cut.webp",
+        "assets/board/school-bully-black-sheep-effect/05-machine-cage-model.webp",
+        "assets/board/school-bully-black-sheep-effect/06-machine-cage-sequence.webp",
+        "assets/board/school-bully-black-sheep-effect/07-machine-cage-mechanism.webp",
+        "assets/board/school-bully-black-sheep-effect/08-compromise-level.webp",
+        "assets/board/school-bully-black-sheep-effect/09-gear-before-and-after.webp",
+        "assets/board/school-bully-black-sheep-effect/10-unity-rotate-gear.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/school-bully-black-sheep-effect/01-game-spots-model.webp"
+          ],
+          "captions": [
+            "The four game spots, linked by a main stem and a blind pass."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "四個遊戲關卡，以主幹道與盲道相連。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Having been a bystander, a bully and a victim, the designer saw how school bullying works like the black sheep effect, where a group turns on one person while others watch. The project asks how a space could let visitors play all three roles and think about them.",
+          "images": [
+            "assets/board/school-bully-black-sheep-effect/02-lifting-platform-purpose.webp"
+          ],
+          "captions": [
+            "Level A: the purpose is to make players give up one person."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "設計者曾是旁觀者、霸凌者，也曾是受害者，她看見校園霸凌就像黑羊效應：一群人針對一個人，其他人在旁觀看。本案探問，空間能否讓參觀者親身扮演這三種角色並加以反思。",
+              "captions": [
+                "第一關：目的是讓玩家在困境中放棄一個人。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The three roles are turned into the order of the game: the first two levels create conflict and weed out victims, and the third lets each person discover their uniqueness. In Level A, a sponge blocks the way until one player is forced to stay and hold the lever.",
+          "images": [
+            "assets/board/school-bully-black-sheep-effect/03-rocker-and-sponge-blocks.webp",
+            "assets/board/school-bully-black-sheep-effect/04-lifting-platform-cut.webp"
+          ],
+          "captions": [
+            "Rotating rocker and sponge blocks that turn into a staircase.",
+            "Cut view: the lifting platform and the secret door for the victim."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "三種角色被轉化為遊戲的關卡順序：前兩關製造衝突並淘汰受害者，第三關讓每個人發現自己的獨特。在第一關，海綿擋住去路，直到一名玩家被迫留下握住拉桿。",
+              "captions": [
+                "旋轉搖桿與化為階梯的海綿塊。",
+                "剖視：升降平台與受害者離開的密門。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "In Level B, the machine cage, the door stays closed until one person explores a space full of fog and is sacrificed. Pedals, a connecting rod and a one-way card slot drive the door, and the roles are switched so that players learn inaction can make them the next one out.",
+          "images": [
+            "assets/board/school-bully-black-sheep-effect/05-machine-cage-model.webp",
+            "assets/board/school-bully-black-sheep-effect/06-machine-cage-sequence.webp",
+            "assets/board/school-bully-black-sheep-effect/07-machine-cage-mechanism.webp"
+          ],
+          "captions": [
+            "Level B model: the victim's route and the bystanders' route.",
+            "Sequence: four people arrive, one falls into the secret passage and the door opens.",
+            "Mechanism: pedals, connecting rod and one-way card slot."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "第二關「機械籠」的門一開始是關的，直到有人進入充滿霧氣的空間並被犧牲。踏板、連桿與單向卡槽驅動門的開啟，角色也隨之互換，讓玩家明白袖手旁觀也可能成為下一個被淘汰的人。",
+              "captions": [
+                "第二關模型：受害者與旁觀者的路線。",
+                "過程：四人抵達，一人落入密道，門隨之開啟。",
+                "機構：踏板、連桿與單向卡槽。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In Level C, players turn their own gears to find a path, and the victim decides whether to open the way for the one who once bullied them. In Level D, everyone pushes the walls of a rotating gear together to find the exit, then returns to the start to close the door on bullying.",
+          "images": [
+            "assets/board/school-bully-black-sheep-effect/08-compromise-level.webp",
+            "assets/board/school-bully-black-sheep-effect/09-gear-before-and-after.webp",
+            "assets/board/school-bully-black-sheep-effect/10-unity-rotate-gear.webp"
+          ],
+          "captions": [
+            "Level C: a space of reconciliation driven by gears.",
+            "The gear model before, during and after turning.",
+            "Level D: the unity rotate gear and the last level."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "第三關中，玩家轉動各自的齒輪尋找路徑，受害者則決定是否為曾霸凌自己的人開啟通道。第四關裡，所有人一起推動旋轉齒輪的牆面找到出口，再回到起點關上霸凌重演的門。",
+              "captions": [
+                "第三關：以齒輪驅動的和解空間。",
+                "齒輪模型轉動前、轉動中與轉動後。",
+                "第四關：團結旋轉齒輪與最後一關。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a role you have lived.\n2. Turn each role into a game rule.\n3. Build each rule as a working mechanism.\n4. End with a space that asks players to reflect.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從自己經歷過的角色開始。\n2. 把每個角色轉化為遊戲規則。\n3. 把每條規則做成可運作的機構。\n4. 以一個讓玩家反思的空間收尾。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Urban Roaming — A Spa for the Neighbourhood",
+      "slug": "urban-roaming-station-spa",
+      "description": "A vacant bus terminal turned into a spa where stressed office workers can unwind.\n\nTianhe, Guangzhou, China | Interior design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市漫遊——給鄰里的水療站",
+          "description": "把閒置的客運站，轉化為讓壓力大的上班族放鬆的水療空間。\n\n中國廣州天河｜室內設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/urban-roaming-station-spa/01-exploded-spa-view.webp",
+        "assets/board/urban-roaming-station-spa/02-district-analysis.webp",
+        "assets/board/urban-roaming-station-spa/03-why-add-a-spa.webp",
+        "assets/board/urban-roaming-station-spa/04-cut-physical-model.webp",
+        "assets/board/urban-roaming-station-spa/05-spa-plan.webp",
+        "assets/board/urban-roaming-station-spa/06-interactive-wall-patterns.webp",
+        "assets/board/urban-roaming-station-spa/07-rain-walk-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/urban-roaming-station-spa/01-exploded-spa-view.webp"
+          ],
+          "captions": [
+            "Exploded view: roof seats, roof deck, original structure, air corridor and two spa pools."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "爆炸圖：屋頂座椅、屋頂平台、原有結構、空中廊道與兩座水療池。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The once busy East Station bus terminal in Tianhe, Guangzhou, peaked in 2008, but since 2016 intercity buses have been replaced by other transport and its staff fell from 200 to only 20. Now the vacant station is for rent, while office workers in the nearby business district are under pressure and lack places to unwind.",
+          "images": [
+            "assets/board/urban-roaming-station-spa/02-district-analysis.webp",
+            "assets/board/urban-roaming-station-spa/03-why-add-a-spa.webp"
+          ],
+          "captions": [
+            "District analysis: a desolate edge beside a prosperous centre.",
+            "Why a spa: what people in cars and office workers want."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州天河曾經繁忙的東站客運站在 2008 年達到高峰，但自 2016 年起城際客運被其他交通方式取代，員工從 200 人減至僅 20 人。如今閒置的車站正在招租，而附近商業區的上班族承受壓力，卻缺乏放鬆的地方。",
+              "captions": [
+                "區域分析：繁華中心旁的冷清邊緣。",
+                "為何是水療：搭車旅客與上班族的需求。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site is close to the city centre but cut off from its surroundings by a long tunnel, and much of the station is functional waste. The strategy keeps the original transport use while adding spa healing, plant healing and a more attractive entrance.",
+          "images": [
+            "assets/board/urban-roaming-station-spa/04-cut-physical-model.webp"
+          ],
+          "captions": [
+            "Physical model, cut twice like a loaf of bread to show the structure and joints."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地鄰近市中心，卻因一條長隧道與周邊隔絕，車站內大量空間閒置浪費。策略是保留原有的交通功能，同時加入水療、植物療癒與更具吸引力的入口。",
+              "captions": [
+                "實體模型，像切麵包一樣切兩刀以呈現結構與節點。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A flowing roof deck with seats sits above the original structure, linked by an air corridor to two spa pools. In the tunnel, an interactive wall lets its lines ripple with the movement of visitors' bodies.",
+          "images": [
+            "assets/board/urban-roaming-station-spa/05-spa-plan.webp",
+            "assets/board/urban-roaming-station-spa/06-interactive-wall-patterns.webp"
+          ],
+          "captions": [
+            "Plan of the spa along the station.",
+            "Pattern forms for the interactive wall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "流動的屋頂平台與座椅位於原有結構之上，並以空中廊道連接兩座水療池。在隧道中，一道互動牆讓牆上的線條隨著參觀者的身體動作起伏。",
+              "captions": [
+                "沿車站配置的水療平面。",
+                "互動牆的圖案形式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Travellers who cannot reach the spa before their bus can soak their feet in a pavilion, and seats for waiting cars sit under the canopy outside. A misty rainforest, a rain walk and hot spring pools give office workers a place to exercise and relax.",
+          "images": [
+            "assets/board/urban-roaming-station-spa/07-rain-walk-detail.webp"
+          ],
+          "captions": [
+            "Detail section of the rain walking pool."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "趕不及泡湯就要上車的旅客，可以在亭子裡泡腳，戶外的候車座椅則位於頂棚之下。霧林、雨中步道與溫泉池，讓上班族有一處能運動與放鬆的地方。",
+              "captions": [
+                "雨中步道水池的細部剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a place that puzzles you.\n2. Trace why its use declined.\n3. Keep the old use and add a new one.\n4. Test the structure in a cut model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個讓你疑惑的地方開始。\n2. 追溯它的使用為何衰退。\n3. 保留舊功能並加入新功能。\n4. 用切開的模型檢驗結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Cashmere in Bloom — A Flash Store for Cashmere",
+      "slug": "cashmere-flash-store",
+      "description": "A flash store shaped from collaged sweater patterns, made by hand in wool.\n\nFlash store | Interior design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "綻放的羊絨——羊絨快閃店",
+          "description": "以拼貼的毛衣圖案塑形、用羊毛手工製作的快閃店。\n\n快閃店｜室內設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cashmere-flash-store/01-center-flower-device.webp",
+        "assets/board/cashmere-flash-store/02-elements-of-clothing.webp",
+        "assets/board/cashmere-flash-store/03-extraction-of-shape.webp",
+        "assets/board/cashmere-flash-store/04-pattern-to-floor-plan.webp",
+        "assets/board/cashmere-flash-store/05-manufacturing-steps.webp",
+        "assets/board/cashmere-flash-store/06-transition-nodes.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cashmere-flash-store/01-center-flower-device.webp"
+          ],
+          "captions": [
+            "The centre flower device: a pavilion that combines a fitting room and a resting place."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "中央花朵裝置：結合試衣間與休憩處的展亭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Cashmere sweaters are often seen as traditional clothing, worn only as an inner layer. The project asks how a flash store could tear down that label and show the fashion style of young people.",
+          "images": [
+            "assets/board/cashmere-flash-store/02-elements-of-clothing.webp"
+          ],
+          "captions": [
+            "Elements of clothing taken from the sweaters."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "羊絨毛衣常被視為傳統服飾，只被當作內搭。本案探問，一間快閃店能否撕掉這個標籤，展現年輕人的時尚風格。",
+              "captions": [
+                "從毛衣中擷取的服裝元素。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The designer experimented with wool combined with other materials, from organza and fabric mesh to felt, yarn and iron gauze. Patterns were then extracted from the sweaters, cut and collaged together into a new shape.",
+          "images": [
+            "assets/board/cashmere-flash-store/03-extraction-of-shape.webp",
+            "assets/board/cashmere-flash-store/04-pattern-to-floor-plan.webp"
+          ],
+          "captions": [
+            "Extraction of shape from the sweater patterns.",
+            "The collaged pattern that becomes the floor plan and its functional areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "設計者以羊毛結合其他材料進行實驗，從歐根紗、網布到毛氈、毛線與鐵紗。接著從毛衣中擷取圖案，剪裁並拼貼成新的形狀。",
+              "captions": [
+                "從毛衣圖案中擷取形狀。",
+                "拼貼而成的圖案，成為平面與功能分區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The collaged pattern evolves into the floor plan of the store, with a central device, cold and warm transition zones, coloured corridors and aisles. Each part is made by hand, from iron wire molding and wet felting to sewing wool on wire.",
+          "images": [
+            "assets/board/cashmere-flash-store/05-manufacturing-steps.webp"
+          ],
+          "captions": [
+            "Manufacturing steps: central device, transition zone, wool fence, strip felt and wool counter."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "拼貼圖案逐步演變為店鋪平面，配置中央裝置、冷暖過渡區、彩色廊道與走道。每個部分都以手工製作，從鐵絲塑形、濕氈到在鐵絲上縫製羊毛。",
+              "captions": [
+                "製作步驟：中央裝置、過渡區、羊毛圍籬、條狀毛氈與羊毛櫃台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "From the entrance, visitors see the inside only through gaps in the plush, which adds a sense of mystery as they pick out clothes on the way to the centre. At the centre, a flower device holds a touch wall, a gallery wrapped in cashmere, a small fitting room and soft resting places.",
+          "images": [
+            "assets/board/cashmere-flash-store/06-transition-nodes.webp"
+          ],
+          "captions": [
+            "Two transition nodes that look at each other."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "從入口望去，參觀者只能透過絨毛的縫隙看見內部，在走向中心、挑選衣服的路上增添神秘感。中央的花朵裝置容納觸摸牆、包覆羊絨的展廊、小試衣間與柔軟的休憩處。",
+              "captions": [
+                "兩個彼此相望的過渡節點。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a label you want to break.\n2. Test the material with others.\n3. Turn its patterns into a plan.\n4. Make each part by hand.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個想打破的標籤開始。\n2. 讓材料與其他材料一起測試。\n3. 把它的圖案轉化為平面。\n4. 每個部分都親手製作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Middle Income Trap — A Mall of Fast Consumption",
+      "slug": "middle-income-trap-mall",
+      "description": "A tower mall that leads visitors through five spaces until they see how consumerism steers them.\n\nShopping mall | Interior design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "中等收入陷阱——快速消費商場",
+          "description": "一座塔狀商場，帶參觀者走過五個空間，直到看見消費主義如何操弄自己。\n\n購物商場｜室內設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/middle-income-trap-mall/01-overall-effect.webp",
+        "assets/board/middle-income-trap-mall/02-morphogenesis.webp",
+        "assets/board/middle-income-trap-mall/03-morphological-evolution.webp",
+        "assets/board/middle-income-trap-mall/04-elevator-and-browse-routes.webp",
+        "assets/board/middle-income-trap-mall/05-option-space.webp",
+        "assets/board/middle-income-trap-mall/06-projection-and-individuation.webp",
+        "assets/board/middle-income-trap-mall/07-warp-space.webp",
+        "assets/board/middle-income-trap-mall/08-trap-space.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/middle-income-trap-mall/01-overall-effect.webp"
+          ],
+          "captions": [
+            "Overall effect: a tower mall that rises from the entrance to the top floor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "整體效果：從入口一路升至頂樓的塔狀商場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The designer saw that in a middle-income economy, people tend to focus on short-term interests, spend most of their money on fast consumption and fall into a trap set by merchants. Shopping sites remember what you search for and push more, and in the end people discover they have spent a lot of money on useless things.",
+          "images": [
+            "assets/board/middle-income-trap-mall/02-morphogenesis.webp"
+          ],
+          "captions": [
+            "Morphogenesis: from personality shapes to the trap."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "設計者觀察到，在中等收入的經濟處境中，人們傾向追求短期利益，把大部分的錢花在快速消費上，落入商家設下的陷阱。購物網站記住你搜尋的東西並不斷推送，最後人們才發現自己把大把的錢花在無用之物上。",
+              "captions": [
+                "形態生成：從個性形體到陷阱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Key words used by consumerism, such as abundance of matter, commodity symbols, diversity and a delightful experience, are turned into forms. The forms are selected, classified, made individual, warped and finally become a trap.",
+          "images": [
+            "assets/board/middle-income-trap-mall/03-morphological-evolution.webp"
+          ],
+          "captions": [
+            "Morphological evolution: select, classify, individuality, warp, trap."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "消費主義操弄的關鍵字，如物質豐富、商品符號、多樣性與愉悅體驗，被轉化為形體。這些形體經過挑選、分類、個性化、扭曲，最後成為陷阱。",
+              "captions": [
+                "形態演變：挑選、分類、個性化、扭曲、陷阱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The result is a trap mall of fast consumption, where visitors ride an elevator to the top floor and browse down through five spaces. In the option space they choose white clothes and one of four styles of space, and coloured lights in the projection space change the patterns on what they wear.",
+          "images": [
+            "assets/board/middle-income-trap-mall/04-elevator-and-browse-routes.webp",
+            "assets/board/middle-income-trap-mall/05-option-space.webp",
+            "assets/board/middle-income-trap-mall/06-projection-and-individuation.webp"
+          ],
+          "captions": [
+            "Elevator route and browse route through the five spaces.",
+            "Option space: choose white clothes and a style of space.",
+            "Projection space and individuation space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "成果是一座快速消費的陷阱商場，參觀者搭電梯到頂樓，再一路逛下五個空間。在選擇空間中，他們挑選白色衣服與四種空間風格之一，投影空間裡的彩色燈光則改變身上衣服的圖案。",
+              "captions": [
+                "電梯動線與逛街動線串起五個空間。",
+                "選擇空間：挑選白色衣服與空間風格。",
+                "投影空間與個性化空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the warp space, accessories that match the chosen style keep visitors buying, and a long slide carries them on to other stores. In the trap space, digital models and robotic arms bring every outfit to them, until they realise how much they bought before they knew it.",
+          "images": [
+            "assets/board/middle-income-trap-mall/07-warp-space.webp",
+            "assets/board/middle-income-trap-mall/08-trap-space.webp"
+          ],
+          "captions": [
+            "Warp space: accessories and a slide to the next store.",
+            "Trap space: digital models and robotic arms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在扭曲空間中，與所選風格相配的配件讓參觀者不停購買，一條長滑道再把他們送往其他店鋪。在陷阱空間裡，數位模特兒與機械手臂把每套衣服送到眼前，直到他們發覺自己不知不覺買了多少。",
+              "captions": [
+                "扭曲空間：配件與通往下一間店的滑道。",
+                "陷阱空間：數位模特兒與機械手臂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a habit you want people to see.\n2. Collect the key words that drive it.\n3. Turn each key word into a form.\n4. Tell the space as a visitor's story.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個想讓人看見的習慣開始。\n2. 收集驅動它的關鍵字。\n3. 把每個關鍵字轉化為形體。\n4. 以參觀者的故事敘述空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
