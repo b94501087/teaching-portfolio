@@ -1,0 +1,37 @@
+{
+  "project": "Bridges of Humanity",
+  "dest": "assets/board/bridges-of-humanity",
+  "note": "Portfolio pages 8–9 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the site photo collage on page 8 (stock city, people and animal photos), the historical photo strip and the Shenzhen / Hong Kong layer panel with inset photos on page 9. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-render.webp",
+      "sha256": "ac61f4b0e35d25243912cf1104d8a1bfcc9accd6898a571d1206e8bd49e2e401",
+      "bytes": 154916,
+      "from": "page 9 — aerial render of the spiral bridge (cover), x 67.5–100 %, y 32–100 %"
+    },
+    {
+      "name": "02-road-analysis.webp",
+      "sha256": "1f9f405bc9fa1cd317c4c266c9f5abd79f7483eb252cb56fd1940d270d0ac4bc",
+      "bytes": 41864,
+      "from": "page 8 — road analysis, land use and customs diagrams, x 79–100 %, y 75.5–97.5 %; the site photo collage above is excluded"
+    },
+    {
+      "name": "03-history-map.webp",
+      "sha256": "dc0a3eb25e6919ee4bfe73192ada575a54a557f58931f1098e01422c57b83697",
+      "bytes": 119968,
+      "from": "page 9 — History of Hong Kong map, x 0–24.5 %, y 30–100 %; the historical photo strip above is excluded"
+    },
+    {
+      "name": "04-generation.webp",
+      "sha256": "434781d810ec375b4ab479d0d8b0c1523421b17cd383551b63f4b2250408bffc",
+      "bytes": 43612,
+      "from": "page 9 — Connect, Circle, Center, Interlace, x 63.5–100 %, y 0–30 %"
+    },
+    {
+      "name": "05-path-renders.webp",
+      "sha256": "774b3458d56074bf26cfc2dff9e41939904626cc56932aaa1c12eb13f06a803e",
+      "bytes": 98732,
+      "from": "page 9 — two renders on the paths, x 50.5–67 %, y 32–100 %"
+    }
+  ]
+}
