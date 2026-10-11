@@ -1,0 +1,49 @@
+{
+  "project": "Urban Roaming",
+  "dest": "assets/board/urban-roaming-station-spa",
+  "note": "Portfolio 8c507211 pages 9–13 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the bus and train photos, the population photos of people, the newspaper aerial photo and the site photos on pages 9–10, the photo of the interactive wall being built on page 12, and the renderings on pages 12–13 that use photo cut-out figures. No retouching.",
+  "files": [
+    {
+      "name": "01-exploded-spa-view.webp",
+      "sha256": "810c8bdd5403d7668513f38174c0466c42e482743aa1b147092c705a1648db2f",
+      "bytes": 266920,
+      "from": "8c507211 page 10 — exploded view of the spa on the old station roof, x 40–100 %, y 0–97 %"
+    },
+    {
+      "name": "02-district-analysis.webp",
+      "sha256": "bd7196d5cd344cfa7a2ba986b45ce522eeb7d217e0ae54d1a1e3f6ea3f7c6d29",
+      "bytes": 98838,
+      "from": "page 9 — district analysis map and site textures, x 38–64 %, y 45–100 %"
+    },
+    {
+      "name": "03-why-add-a-spa.webp",
+      "sha256": "1ca8e0b8b155ff60b5aad8cd89d644d9ff65ac993d7e4b4cb0f3c3553f779f24",
+      "bytes": 64730,
+      "from": "page 10 — diagram of why a spa is added, x 0–40 %, y 33–62 %"
+    },
+    {
+      "name": "04-cut-physical-model.webp",
+      "sha256": "e1a92c9b34a37ff2cc887b81c793da7eb46becb6ca7a82e74a1a62c9f956344d",
+      "bytes": 508544,
+      "from": "page 11 — cut physical model with close-ups, x 0–76 %"
+    },
+    {
+      "name": "05-spa-plan.webp",
+      "sha256": "7a624b9ba841ef507c1a5354a32a5e00ce9625c1f532628d88c3abb14a02b0c1",
+      "bytes": 176244,
+      "from": "page 11 — plan of the spa along the station, x 76–100 %"
+    },
+    {
+      "name": "06-interactive-wall-patterns.webp",
+      "sha256": "4b445993251250869edbd140545ef4f8343784906de1d71fea91796d106bbbd0",
+      "bytes": 89070,
+      "from": "page 12 — pattern forms for the interactive wall, x 0–31 %, y 64–100 %"
+    },
+    {
+      "name": "07-rain-walk-detail.webp",
+      "sha256": "fa0ab61283cd59789b5fd26692fb288528ccf7acc4ad7d16bf5f2da31bdb5359",
+      "bytes": 15278,
+      "from": "page 13 — detail section of the rain walking pool, x 78–100 %, y 10–29 %"
+    }
+  ]
+}
