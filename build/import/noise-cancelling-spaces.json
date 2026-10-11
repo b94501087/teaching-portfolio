@@ -1,0 +1,43 @@
+{
+  "project": "Escape from the Noise",
+  "dest": "assets/board/noise-cancelling-spaces",
+  "note": "Portfolio dd6639be pages 21–22 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: the reflections collage, the photo strip of noise sources, the noise effects photos and the circuit board simulation on page 21, the third-party inflatable tent inspiration on page 22, and the observation form on page 23 (photo figures and a portrait). No retouching.",
+  "files": [
+    {
+      "name": "01-retractable-units.webp",
+      "sha256": "a550bd2eb318b10a2784ab373d2ae387379ef36315627c67ef9e919fdf0d1236",
+      "bytes": 61452,
+      "from": "dd6639be page 21 — operation of the device at different decibels and single unit analysis of the retractable umbrella units, x 77–100 %, y 50.5–100 %"
+    },
+    {
+      "name": "02-site-noise-analysis.webp",
+      "sha256": "3e6031304672aa92a79b660bd9112e29fb9b17b9474f4d86b9f26cb49ce0cd42",
+      "bytes": 74124,
+      "from": "page 21 — site analysis: noise levels over the 3D city model of Guangzhou, x 49–80 %, y 19–44 %; the photo strip of noise sources above is excluded"
+    },
+    {
+      "name": "03-soundproofing-principles.webp",
+      "sha256": "a4cc60fd612c9831360fd3a1001e1b69b5ea1219642f8f24546d371543ca6596",
+      "bytes": 69998,
+      "from": "page 21 — step 1: principle analysis of sound reduction and sound absorption, x 0–21.5 %, y 50.5–100 %"
+    },
+    {
+      "name": "04-parametric-experiments.webp",
+      "sha256": "a2531ffcbfb011b65208e72c9d6d9c2542f19e114fc7bf962ed1680a39594ef7",
+      "bytes": 60784,
+      "from": "page 21 — step 2: experiments with parametric modelling, x 21.5–49 %, y 50.5–100 %; the reflections collage, the noise effects photos and the circuit board simulation are excluded"
+    },
+    {
+      "name": "05-origami-structure-experiment.webp",
+      "sha256": "b5c2955ef8662d94aef9f80a4ff3f005bc7df5759188d6d6c9d06626752a5d1a",
+      "bytes": 150892,
+      "from": "page 22 — origami structure experiment (hands only), x 37–100 %, y 10–100 %; the third-party inflatable tent inspiration on the left is excluded"
+    },
+    {
+      "name": "06-origami-imitations.webp",
+      "sha256": "842d364a76ec7a2ed2b17c638c62c18d9e97774095f8bd2133c5232ab600e5ce",
+      "bytes": 39524,
+      "from": "page 22 — origami structure imitations (hands only), x 0–37 %, y 68–100 %"
+    }
+  ]
+}
