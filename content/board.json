@@ -2182,6 +2182,145 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "A Body Without Rights — An Emotional Space for the Pain Women Face",
+      "slug": "a-body-without-rights",
+      "description": "An emotional, narrative space that enables understanding of the pain women face, translated from the four stories of a drama into walls, spikes and eyes.\n\nTianhe, Guangzhou, China | Individual work / emotional space, narrative space | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "無權之軀——理解女性之痛的情緒空間",
+          "description": "一個讓人理解女性所受之痛的情緒敘事空間：把一部影集中的四段故事，轉譯為牆、尖刺與眼睛。\n\n中國廣州天河｜個人作品／情緒空間、敘事空間｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/a-body-without-rights/01-cover-model.webp",
+        "assets/board/a-body-without-rights/02-narrative-structure.webp",
+        "assets/board/a-body-without-rights/03-model-details.webp",
+        "assets/board/a-body-without-rights/04-rhino-laser-cut.webp",
+        "assets/board/a-body-without-rights/05-indoor-section.webp",
+        "assets/board/a-body-without-rights/06-scales.webp",
+        "assets/board/a-body-without-rights/07-data-visualization.webp",
+        "assets/board/a-body-without-rights/08-flat-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/a-body-without-rights/01-cover-model.webp"
+          ],
+          "captions": [
+            "Physical model of the emotional space: undulating plaster walls, spikes and a wall of red eyeballs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "情緒空間的實體模型：起伏的石膏牆、尖刺，以及一面紅色眼球牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "According to the China Sexual Assault Judicial Cases Big Data Report, of the 8,891 rape cases heard by people's courts nationwide between 2014 and 2017, only 3.77 per cent were committed by strangers, with current partners accounting for 17.91 per cent. Taking the Netflix drama She and Her Her as a starting point, the project extracts the women's bad encounters into four parts: no sex education in the family of origin, violation of teacher ethics by male teachers, a partner spreading private photos and gender bullying in the workplace.",
+          "images": [
+            "assets/board/a-body-without-rights/02-narrative-structure.webp"
+          ],
+          "captions": [
+            "New narrative structure — each of the four parts redrawn as graphics, then turned into elements, sketches and spatial PC models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "根據《中國性侵害司法案例大數據報告》，2014 至 2017 年間全國各級法院審理的 8,891 件強姦案中，僅 3.77% 為陌生人所為，現任伴侶則佔 17.91%。本案以 Netflix 影集《她和她的她》為起點，把劇中女性的不幸遭遇歸納為四個部分：原生家庭缺乏性教育、男性教師違反師德、伴侶散布私密照片，以及職場上的性別霸凌。",
+              "captions": [
+                "新的敘事結構——四個部分各自重繪為圖像，再轉化為元素、速寫與空間電腦模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The four aspects of the film were extracted from the emotions in them and transformed into four seemingly different yet tightly connected emotional spaces. In the model, stuttering walls restore the victims as they are touched and beaten, hurts suffered in intimate relationships are spikes that stab people, and lights shine through a wall of red eyeballs, as if those in the space are being gazed upon.",
+          "images": [
+            "assets/board/a-body-without-rights/03-model-details.webp",
+            "assets/board/a-body-without-rights/04-rhino-laser-cut.webp"
+          ],
+          "captions": [
+            "Model details — the stuttering walls, the spikes and the wall of red eyeballs, and sketches of chiselled holes through which light passes like a gaze, and undulating walls that equal hands.",
+            "Modeling in Rhino — the model solid is sliced, thickened and spliced into an internal load-bearing structure; spliced pieces of wood give a stable square frame for pouring cement or concrete, and ring-shaped acrylic slices hollowed at the centre save material and weight."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "從劇中四個面向所蘊含的情緒出發，把它們轉化為四個看似不同、卻緊密相連的情緒空間。在模型中，結巴般的牆面重現受害者被觸碰與毆打的狀態；親密關係中所受的傷害化為刺人的尖刺；光線穿過一面紅色眼球牆，彷彿身處其中的人正被注視。",
+              "captions": [
+                "模型細部——結巴般的牆、尖刺與紅色眼球牆，以及光線如目光般穿過的鑿孔速寫，和象徵雙手的起伏牆面。",
+                "以 Rhino 建模——將模型實體切片、加厚並拼接成內部承重結構；拼接的木片構成穩定的方形框架，便於澆灌水泥或混凝土；中空的環形壓克力切片則節省材料並減輕重量。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Option 1 places the space indoors, drawn by hand in section beneath an ordinary home. At each scale the body meets the space differently: you can sit and chat with friends, stand and feel the oppression of being stared at, lie down beside thorn-like objects on a soft, cotton-like floor, or crawl and sit where the ceiling and floor undulate.",
+          "images": [
+            "assets/board/a-body-without-rights/05-indoor-section.webp",
+            "assets/board/a-body-without-rights/06-scales.webp"
+          ],
+          "captions": [
+            "Partial hand-drawn section (Option 1, indoor).",
+            "Interactable, standable, layable and sittable scales — cotton and thorns symbolise the intimacy of wanting to be close yet fragile."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "方案一把空間置於室內，以手繪剖面呈現在一般住家之下。在不同尺度中，身體與空間的關係各不相同：你可以和朋友坐下聊天；站著感受被凝視的壓迫；躺在柔軟如棉的地面上、身旁是荊棘般的物件；或在天花與地面起伏之處爬行與坐下。",
+              "captions": [
+                "局部手繪剖面（方案一，室內）。",
+                "可互動、可站立、可躺臥與可坐的尺度——棉花與荊棘象徵想要親近卻又脆弱的親密感。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Option 2 is a flat model outdoors: the final floor plan combines engineering drawings with the expression of a solid acrylic model and the hand-drawn eyeballs once attached to the wall. Statistics on sexual assault from 2015 to 2019 are visualised and turned into forms, so the shape of the space can keep changing as crime rates and patterns change.",
+          "images": [
+            "assets/board/a-body-without-rights/07-data-visualization.webp",
+            "assets/board/a-body-without-rights/08-flat-model.webp"
+          ],
+          "captions": [
+            "Data visualisation — rape and indecent assault cases from 2015 to 2019, each year generated as a form.",
+            "Flat model (Option 2, outdoor) — the final floor plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "方案二是戶外的平面模型：最終平面結合工程圖、實心壓克力模型的表現，以及原本附著在牆上的手繪眼球。把 2015 至 2019 年的性侵害統計數據視覺化並轉化為形體，讓空間的形狀能隨犯罪率與犯罪模式的變化持續改變。",
+              "captions": [
+                "數據視覺化——2015 至 2019 年的強姦與猥褻案件，每一年都生成一個形體。",
+                "平面模型（方案二，戶外）——最終平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from data that hurts: the statistics define who the space is for.\n2. Use a story as a structure: four episodes of a drama become four connected spaces.\n3. Translate emotion into material: stutter, spikes and eyes become walls, thorns and light.\n4. Test the body at every scale: sit, stand, lie and crawl, so visitors can feel what the women feel.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從令人心痛的數據出發：統計數字界定了空間為誰而做。\n2. 以故事作為結構：影集的四段情節化為四個相連的空間。\n3. 把情緒轉譯為材料：結巴、尖刺與眼睛化為牆、荊棘與光。\n4. 在每種尺度測試身體：坐、站、躺、爬，讓參觀者感受女性的感受。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
