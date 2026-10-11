@@ -2468,6 +2468,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Art Museum House — A Gallery to Live In",
+      "slug": "art-museum-house",
+      "description": "An art gallery with a residential function, designed for oneself: curved floors let visitors see the exhibitions while the owner paints, unseen, in private.\n\nIndividual work / art museum house, residential gallery | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "美術館住宅——可以居住的畫廊",
+          "description": "一座為自己設計、兼具居住機能的美術館：弧形的樓層讓參觀者看展，而主人在私密之中、不被看見地作畫。\n\n個人作品／美術館住宅、居住式畫廊｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/art-museum-house/01-cover-aerial.webp",
+        "assets/board/art-museum-house/02-personal-creations.webp",
+        "assets/board/art-museum-house/03-reflections-bubbles.webp",
+        "assets/board/art-museum-house/04-understanding.webp",
+        "assets/board/art-museum-house/05-case-extrapolation.webp",
+        "assets/board/art-museum-house/06-concept-development.webp",
+        "assets/board/art-museum-house/07-floor-relationship.webp",
+        "assets/board/art-museum-house/08-site.webp",
+        "assets/board/art-museum-house/09-floor-plans.webp",
+        "assets/board/art-museum-house/10-streamlines-materials.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/art-museum-house/01-cover-aerial.webp"
+          ],
+          "captions": [
+            "Aerial view of the house: curved walls of different materials and light divide functions, with clear and blurred boundaries between private and public."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "住宅鳥瞰：以不同材料與光線的弧形牆劃分機能，私密與公共之間的邊界時而清晰、時而模糊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project is based on personal experience: nature and painting have been a solace and a cure for many emotions, and the student still loves painting after studying design. So the brief is an art museum house for oneself, which explores the public and private nature of space: people can be invited to see the exhibitions while the owner creates, without being disturbed in private life.",
+          "images": [
+            "assets/board/art-museum-house/02-personal-creations.webp",
+            "assets/board/art-museum-house/03-reflections-bubbles.webp"
+          ],
+          "captions": [
+            "Some personal creations — paintings of birds: the eyes represent voyeurs, and birds without feet, unable to stop, need an isolated resting place.",
+            "My reflections and function bubble chart — public space plus separate space equals mixed space, with the bedroom, garden, restroom, office and lounge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案源自個人經驗：大自然與繪畫一直是慰藉，也治癒了許多情緒；即使學了設計，學生依然熱愛繪畫。因此設計任務是一座為自己而做的美術館住宅，探討空間的公共與私密性：可以邀請人們來看展，而主人在創作時，私人生活不受打擾。",
+              "captions": [
+                "個人創作——以鳥為題的畫作：眼睛代表窺視者；沒有腳、無法停歇的鳥，需要一個隔絕的棲息之所。",
+                "我的反思與機能泡泡圖——公共空間加上獨立空間，等於混合空間，包含臥室、花園、洗手間、辦公室與起居室。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "An inhabitable gallery would need a completely staggered internal movement, so the owner does not meet exhibition-goers while resting and creating. The case study compares Adolf Loos's Raumplan, a room-like space with a cultivated inner vision, with Le Corbusier's Plan Libre, a mobile space and free plan with a vast vision, and models both.",
+          "images": [
+            "assets/board/art-museum-house/04-understanding.webp",
+            "assets/board/art-museum-house/05-case-extrapolation.webp"
+          ],
+          "captions": [
+            "My understanding — volumetric boxes with different functions combined into an organic, coherent form, and floors whose layouts exist independently of one another.",
+            "Case modeling extrapolation — mobile space and free plan, “vast vision”, against room-like space, “cultivated inner vision”."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一座可居住的美術館，內部動線必須完全錯開，讓主人在休息與創作時不會遇到觀展者。案例研究比較 Adolf Loos 的 Raumplan——如房間般、培養內在視野的空間——與 Le Corbusier 的 Plan Libre——流動空間與自由平面、開闊的視野——並為兩者建立模型。",
+              "captions": [
+                "我的理解——不同機能的量體盒子組合成有機而連貫的形體，以及各層平面彼此獨立的配置。",
+                "案例模型推演——流動空間與自由平面的「開闊視野」，對比如房間般空間的「培養內在視野」。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A circular form was chosen to extend the space and avoid the sense of division brought by regular geometry. Studies began with one rotating shaft, then counterclockwise rotation, then two and multiple rotary axes; two equal-sized circles were cut and divided so the volumes could be controlled, and four relations of private, shared and public space were tested.",
+          "images": [
+            "assets/board/art-museum-house/06-concept-development.webp",
+            "assets/board/art-museum-house/07-floor-relationship.webp"
+          ],
+          "captions": [
+            "Concept development — one rotating shaft, counterclockwise rotation, two rotating axes and multiple rotary axes forming multiple forms.",
+            "Floor relationship — two intersecting circles, and the privacy types: external, intersected, separate and relationally redundant spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "選擇圓形，是為了延伸空間，避免規則幾何帶來的分割感。研究從單一旋轉軸開始，接著嘗試逆時針旋轉，再到兩個與多個旋轉軸；把兩個等大的圓切割、劃分，以便控制量體，並測試私密、共享與公共空間的四種關係。",
+              "captions": [
+                "概念發展——單一旋轉軸、逆時針旋轉、兩個旋轉軸，以及形成多種形體的多個旋轉軸。",
+                "樓層關係——兩個相交的圓，以及私密類型：外部、交錯、分離與關係冗餘的空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The site is a man-made forest with good air, a suitable slope and a strong sense of direction. On the three curved floors the routes of owner and visitors interlace: the first floor protects the owner's privacy, the second divides private and public more directly, and the third is an isolated paradise like a glass house in a sunny garden, while small doors let the owner slip into the crowd and observe the visitors.",
+          "images": [
+            "assets/board/art-museum-house/08-site.webp",
+            "assets/board/art-museum-house/09-floor-plans.webp",
+            "assets/board/art-museum-house/10-streamlines-materials.webp"
+          ],
+          "captions": [
+            "Site analysis — about 500 square metres with an elevation difference of about 10 metres, a banyan tree, a river and a small bridge across the street.",
+            "Floor plans — showroom, garden, kitchen, parlor and privacy on the ground floor; guest room, living room and master bedroom on the second; bathroom and studio on the third.",
+            "Streamlines and materials — the owner's route is staggered from the visitors', and a wall of concrete bricks, heat shield, connecting parts and decorative panels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "基地是一片人造林，空氣良好、坡度合適，方向感強烈。在三層弧形樓層中，主人與參觀者的路線彼此交錯：一樓保護主人的隱私；二樓更直接地劃分私密與公共；三樓則是完全隔絕的樂園，如同陽光花園中的玻璃屋；小門則讓主人能悄悄混入人群、觀察參觀者。",
+              "captions": [
+                "基地分析——面積約 500 平方公尺、高差約 10 公尺，有一棵榕樹、一條河，以及一座跨越街道的小橋。",
+                "平面——一樓為展廳、花園、廚房、會客室與私密空間；二樓為客房、起居室與主臥；三樓為浴室與工作室。",
+                "動線與材料——主人的路線與參觀者錯開，以及由混凝土磚、隔熱層、連接件與裝飾板構成的牆體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Design for yourself first: your own habits and paintings are honest research.\n2. Read two masters side by side: Raumplan and Plan Libre give two ways to divide space.\n3. Find a rule for the form: rotating axes and intersecting circles keep the volumes under control.\n4. Plan the routes before the rooms: staggered movement is what makes privacy possible.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先為自己設計：自己的習慣與畫作，就是誠實的研究。\n2. 並讀兩位大師：Raumplan 與 Plan Libre 提供兩種劃分空間的方式。\n3. 為形體找到規則：旋轉軸與相交的圓，讓量體保持在掌控之中。\n4. 先規劃動線，再安排房間：錯開的動線，才讓隱私成為可能。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
