@@ -1,0 +1,61 @@
+{
+  "project": "Re-Imagine Metabolism",
+  "dest": "assets/board/re-imagine-metabolism",
+  "note": "Portfolio pages 10–11 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the photo of the existing Nakagin Capsule Tower and the book page scans on page 10. The model photo with a hand placing a capsule is kept (hand only). No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "73b2299004eedd50471d22f69eed304ad5542d78499c9f9fd11422baaff1df3c",
+      "bytes": 188856,
+      "from": "page 11 — metal model with capsules, a hand placing one (cover), x 50.5–98 %, y 2–66.5 %"
+    },
+    {
+      "name": "02-figure-ground.webp",
+      "sha256": "c3a536f427bfa784ac4eac5a182667aabbb5512ccda11a30b1ce1a5f9bcf6c62",
+      "bytes": 43444,
+      "from": "page 10 — figure-ground site map, x 39–49 %, y 6–34 %; the photo of the existing tower and the book page scans are excluded"
+    },
+    {
+      "name": "03-outcome.webp",
+      "sha256": "710aaaf0d96bf98ef8e485b96c1b9009881052d273805bbe4d64bf4ddf66de96",
+      "bytes": 196878,
+      "from": "page 10 — Outcome: axonometric of the tower in its block, x 16.5–49 %, y 35.5–100 %"
+    },
+    {
+      "name": "04-plans.webp",
+      "sha256": "172595e623e756bf50e0884d676348bc9cf744afca93d256e3e81d10dbed535a",
+      "bytes": 72272,
+      "from": "page 10 — plans of the roof garden, residential layer and basement, x 50–83 %, y 0–36 %"
+    },
+    {
+      "name": "05-section-circulation.webp",
+      "sha256": "28cea224efe7105cc7d30435a48811f2e5fc842a800c20d394d2899e2b89b165",
+      "bytes": 147732,
+      "from": "page 10 — section and capsule circulation, x 50–83 %, y 36–100 %"
+    },
+    {
+      "name": "06-exploded-structure.webp",
+      "sha256": "13566e4e801f55b6c4658c153aeb4882ab17efff7a8032466f48423639b93174",
+      "bytes": 91344,
+      "from": "page 10 — exploded structure, x 83–100 %"
+    },
+    {
+      "name": "07-unit.webp",
+      "sha256": "632d79d0bda883d221709452e420a6ad0e8d901863689bf6f280582d330cf0dd",
+      "bytes": 66434,
+      "from": "page 11 — unit axonometric, unit plan and cut perspectives, x 0–50 %, y 2–33 %"
+    },
+    {
+      "name": "08-elevation.webp",
+      "sha256": "fb293d5ad9cd287077bfc47787d866538d8e2f4b7c93100e7ffa0d4f9809d259",
+      "bytes": 198998,
+      "from": "page 11 — elevation, x 0–50 %, y 33–100 %"
+    },
+    {
+      "name": "09-model-details.webp",
+      "sha256": "eafacbf9b1a7fd0395fb88c15a0cd16eee4ffc4f171bca8216db698d294c7ec0",
+      "bytes": 117800,
+      "from": "page 11 — two model details, x 50.5–98 %, y 67–99 %"
+    }
+  ]
+}
