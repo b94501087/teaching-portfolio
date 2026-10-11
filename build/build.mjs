@@ -1,7 +1,8 @@
 // Build the GitHub Pages artifact into _site/.
 //  1. copy the repo (minus build-only / private folders) into _site/
 //  2. render the landing page (site root /index.html), the board (/board/), one detail page per
-//     visible pin (/board/<slug>/), A–Z, teaching and consulting pages from content/*.json
+//     visible pin (/board/<slug>/), A–Z, teaching (plus one detail page per
+//     teaching studio, /teaching/<slug>/) and consulting pages from content/*.json
 //  3. fill {{name}} / {{email}} in the static doc pages (cv/, A-Z/*.html)
 //  4. write the lowercase /a-z/ redirect (generated here, not committed, because
 //     a-z/ and A-Z/ would collide on case-insensitive file systems such as macOS)
