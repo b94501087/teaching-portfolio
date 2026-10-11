@@ -1,0 +1,67 @@
+{
+  "project": "Soul Ferry Terminal",
+  "dest": "assets/board/soul-ferry-terminal",
+  "note": "Portfolio 7c040a27 pages 7–9 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the news photos, portraits of real people and cemetery photos on page 7, the oyster source photos and the film stills on page 8. No retouching.",
+  "files": [
+    {
+      "name": "01-auditorium.webp",
+      "sha256": "eef32484f670a61e6ec7467998bdc59fd865539d91743c436ba7f22b22601381",
+      "bytes": 145958,
+      "from": "7c040a27 page 9 — auditorium rendering, x 50.5–100 %, y 3–55 %"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "5c71d7c76cbbb7ca6f98f5d8d95ad4010f319df86f253252ec79cadfe68fea13",
+      "bytes": 194394,
+      "from": "page 7 — site analysis map of the Zhuhai coast, x 14–33 %"
+    },
+    {
+      "name": "03-feng-shui-landscape.webp",
+      "sha256": "d7dc9108fb80591ae05ed1a61bcf500ff619570bb086d1dba905c8248fa22e3f",
+      "bytes": 36060,
+      "from": "page 7 — feng shui sketch of mountain and running water, x 82.2–100 %, y 0–38.3 %; the news photos and portraits of real people on this page are excluded"
+    },
+    {
+      "name": "04-oyster-life-cycle.webp",
+      "sha256": "09777978f6dd9c3b54c86aceed8faa32592f3c726e7fb8ddc476b0d500c8afc8",
+      "bytes": 157900,
+      "from": "page 8 — life cycle of oysters diagram, x 11–50 %, y 0–61.5 %; the source photos and the film stills of 'Beach in Media' are excluded"
+    },
+    {
+      "name": "05-morphological-evolution.webp",
+      "sha256": "2d86eac7c78e8cb53ae8d0d035ce180481e5b994800e50dbb87b8eb3c886194f",
+      "bytes": 54792,
+      "from": "page 8 — morphological evolution sequence, x 50.5–100 %, y 0–18 %"
+    },
+    {
+      "name": "06-model-display.webp",
+      "sha256": "75c98be12c3f19b1ec105b5f08d262ec82c02b9519fc669df317aeb76819568a",
+      "bytes": 329834,
+      "from": "page 8 — model display of the terrain, pier and cemetery island, x 50.5–90 %, y 18–100 %"
+    },
+    {
+      "name": "07-funeral-routes.webp",
+      "sha256": "f0da0adfe82263b2f2a2a35e80eb78d828926e17abb0607374a20d0e51dd0082",
+      "bytes": 173742,
+      "from": "page 9 — streamline analysis of the funeral routes, x 0–15 %, y 0–73 %"
+    },
+    {
+      "name": "08-birds-eye-exploded-view.webp",
+      "sha256": "69ea2921a6dccf659a44d0d4c4fb060cfc7a8424443ec087e777e8fa0ed4dd3a",
+      "bytes": 350150,
+      "from": "page 9 — bird's-eye exploded view with programme list, x 15–50 %, y 0–73 %"
+    },
+    {
+      "name": "09-elevation.webp",
+      "sha256": "d891ba60a8212ce106c4e80bf6f3744efff5e14425ef4413c0b1c67016873f40",
+      "bytes": 100186,
+      "from": "page 9 — elevation, x 0–50 %, y 73–100 %"
+    },
+    {
+      "name": "10-mourning-hall-and-pier.webp",
+      "sha256": "9b03e662936949eaf1aa65dc5ec21aec36c8158b44f1f993ff2075423d568d84",
+      "bytes": 111142,
+      "from": "page 9 — mourning hall and pier renderings, x 50.5–100 %, y 60–100 %"
+    }
+  ]
+}
