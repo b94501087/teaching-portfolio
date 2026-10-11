@@ -1,0 +1,13 @@
+{
+  "project": "Seawater Thermal Pollution",
+  "dest": "assets/board/seawater-thermal-pollution",
+  "note": "Supplement: adds 10-model-display.webp (page 5, x 0–50 %) to Seawater Thermal Pollution.",
+  "files": [
+    {
+      "name": "10-model-display.webp",
+      "sha256": "74c14d211f6288816b1b599ddd061ad23b43bbbe935e990cf9598c93ca18e6ea",
+      "bytes": 392622,
+      "from": "page 5 — Model Display, x 0–50 %"
+    }
+  ]
+}

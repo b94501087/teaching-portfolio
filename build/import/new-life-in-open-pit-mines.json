@@ -1,0 +1,55 @@
+{
+  "project": "New Life in Open Pit Mines",
+  "dest": "assets/board/new-life-in-open-pit-mines",
+  "note": "Portfolio pages 5–9 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage on page 5 (interviews and photos of local people); the Dilemma panel (photos of officials and workers) and the photographic record on page 6; the Expectations collage, the three measure panels, the Water System panel (precedent photo, portrait) and the Making System photos on page 7. Typos fixed: Government, abandoned, Facilities Utilization. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-master-plan.webp",
+      "sha256": "f79d456cf1b777c1f0822cbb13156e4a728f93cb90bb6c0bc96a53383df2765b",
+      "bytes": 340474,
+      "from": "page 8 — Master Plan (cover), x 74.5–100 %"
+    },
+    {
+      "name": "02-mine-and-city.webp",
+      "sha256": "bc8403330e99612164dc14fc075d42d7bcfe596fc326aa5cdaf9233f9d7b60d6",
+      "bytes": 251994,
+      "from": "page 6 — Open Pit Mine Closely Linked to the City and Section of the City, x 0–26.5 %, y 0–62 %; the Dilemma panel (photos of people) is excluded"
+    },
+    {
+      "name": "03-field-survey.webp",
+      "sha256": "c9f3eec74d3a2b9819a61db9b5897671ad483d31ff305154e72ef2ff8049a356",
+      "bytes": 393418,
+      "from": "page 6 — Field Survey on Mining Pits, x 50–88.5 %; the photographic record column is excluded"
+    },
+    {
+      "name": "04-engineering-model.webp",
+      "sha256": "57ea616f9d855f138771d93e40aab8a3304d3c79440b923394ae4255baec590c",
+      "bytes": 131864,
+      "from": "page 7 — Foundation, engineering measures model, x 18–50 %, y 49–100 %; the three measure panels above (photos) are excluded"
+    },
+    {
+      "name": "05-waste-recycling.webp",
+      "sha256": "fa1bd9ff9f831e0f5145850cf4dec41d2836498ce29bc660883ab3a2234e7fa2",
+      "bytes": 92644,
+      "from": "page 7 — Waste Recycling System, process of thinking, x 74.5–100 %, y 0–42.5 %; the Water System panel and the Making System photos are excluded"
+    },
+    {
+      "name": "06-light-structure.webp",
+      "sha256": "e7748c8d834056185eabe53be438b299c550b4d65a2918ecb1f89a20ec416e70",
+      "bytes": 317030,
+      "from": "page 8 — Light Structural Facility System and Light Structural experiment, x 0–50 %"
+    },
+    {
+      "name": "07-development-of-the-pit.webp",
+      "sha256": "0586c3774293c9d43fda84dfda9cbdd7c6bce3915bd2da979e462a11c89f84c4",
+      "bytes": 318112,
+      "from": "page 8 — Development of the pit, functional zoning and flow plan, connection method diagram, x 50–74.5 %"
+    },
+    {
+      "name": "08-rendering.webp",
+      "sha256": "c542d928dd2921f47b1f02efc3d52d54b1e905072728612dddbb29924be4f3b0",
+      "bytes": 473346,
+      "from": "page 9 — Rendering, four views, x 0–50 %"
+    }
+  ]
+}

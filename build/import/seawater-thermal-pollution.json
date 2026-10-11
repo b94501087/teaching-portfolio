@@ -1,7 +1,7 @@
 {
   "project": "Seawater Thermal Pollution",
   "dest": "assets/board/seawater-thermal-pollution",
-  "note": "Portfolio pages 2–4 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the cover (student's name); the coral photo on page 2; the By Rock panel (a third-party thermal survey), the lower-left photo panels and Period 3 (collage figures) on page 3; the rendering (collage figures) on page 4. No retouching.",
+  "note": "Portfolio pages 2–5 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the cover (student's name); the coral photo on page 2; the By Rock panel (a third-party thermal survey), the lower-left photo panels and Period 3 (collage figures) on page 3; the rendering (collage figures) on page 4. No retouching.",
   "files": [
     {
       "name": "01-cover-master-plan.webp",
@@ -56,6 +56,12 @@
       "sha256": "1a4b7dd72124832e8577f15609572df9ebf17564a029e4aef7764b6907156457",
       "bytes": 97134,
       "from": "page 4 — Multi-functional Structure Jetty, x 86.5–100 %, y 45–100 %; the rendering (collage figures) is excluded"
+    },
+    {
+      "name": "10-model-display.webp",
+      "sha256": "74c14d211f6288816b1b599ddd061ad23b43bbbe935e990cf9598c93ca18e6ea",
+      "bytes": 392622,
+      "from": "page 5 — Model Display, x 0–50 %"
     }
   ]
 }
