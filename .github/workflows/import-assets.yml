@@ -11,7 +11,7 @@ on:
         description: 'Manifest file name under build/import/ (e.g. chimera-haven.json)'
         required: true
       base_url:
-        description: 'Temporary https base URL serving the files named in the manifest'
+        description: 'Temporary https base URL serving the files named in the manifest, or "local" to decode build/import/<name>/<file>.b64'
         required: true
 permissions:
   contents: write

@@ -10,13 +10,19 @@ commit, e.g. retired images. Only paths under assets/board/ or build/samples are
 manifest's own dest folder; deletions run only after every download has been verified.
 
 usage: fetch.py build/import/<name>.json https://temporary-host/path
+       fetch.py build/import/<name>.json local
+
+Text-only fallback: when no temporary host is available, each file can instead be committed as base64
+text at build/import/<name>/<file>.b64 (base_url "local"). Those are decoded, checked against the same
+sha256 and size, written to dest, and the build/import/<name>/ folder is removed in the same commit.
 """
 import hashlib, json, os, re, shutil, sys, urllib.request
 
 man_path, base = sys.argv[1], sys.argv[2].strip().rstrip('/')
 if not re.fullmatch(r'build/import/[a-z0-9-]+\.json', man_path):
     sys.exit('bad manifest path: ' + man_path)
-if not re.fullmatch(r'https://[A-Za-z0-9.-]+(/[A-Za-z0-9._~/-]*)?', base):
+b64dir = man_path[:-len('.json')]
+if base != 'local' and not re.fullmatch(r'https://[A-Za-z0-9.-]+(/[A-Za-z0-9._~/-]*)?', base):
     sys.exit('bad base URL')
 m = json.load(open(man_path, encoding='utf-8'))
 dest = m['dest']
@@ -27,8 +33,12 @@ for f in m['files']:
     name = f['name']
     if not re.fullmatch(r'[a-z0-9-]+\.(webp|jpg|png)', name):
         sys.exit('bad file name: ' + name)
-    req = urllib.request.Request(base + '/' + name, headers={'User-Agent': 'yuchuntsai.com asset import'})
-    data = urllib.request.urlopen(req, timeout=60).read()
+    if base == 'local':
+        import base64
+        data = base64.b64decode(open(os.path.join(b64dir, name + '.b64'), 'rb').read(), validate=False)
+    else:
+        req = urllib.request.Request(base + '/' + name, headers={'User-Agent': 'yuchuntsai.com asset import'})
+        data = urllib.request.urlopen(req, timeout=60).read()
     digest = hashlib.sha256(data).hexdigest()
     if digest != f['sha256'] or len(data) != f['bytes']:
         sys.exit(f'{name}: sha256/size mismatch (got {digest}, {len(data)} bytes)')
@@ -48,3 +58,6 @@ for rel in dels:
         os.remove(rel); print('deleted file', rel)
     else:
         print('already gone', rel)
+
+if base == 'local' and os.path.isdir(b64dir):  # all files verified above; drop the base64 copies
+    shutil.rmtree(b64dir); print('deleted folder', b64dir)
