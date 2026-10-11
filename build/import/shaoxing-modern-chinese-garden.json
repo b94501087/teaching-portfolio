@@ -1,0 +1,55 @@
+{
+  "project": "Modern Chinese Garden, Shaoxing",
+  "dest": "assets/board/shaoxing-modern-chinese-garden",
+  "note": "Portfolio pages 21–27 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title illustration, site history photos and street photo strip on page 21, the plant reference photos on page 23, the rock-making photos on page 25 and page 27 (text only). No retouching.",
+  "files": [
+    {
+      "name": "01-cover-plan.webp",
+      "sha256": "ea652ca87186557855458ba5abc285507ed22c0e7f539a5621e3b9e448ee7500",
+      "bytes": 579318,
+      "from": "page 23 — garden plan and lake-to-lawn diagrams (cover), y 0–74 %; the plant reference photos are excluded"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "401576770114fe02eb0ed5c247a3467b5b1ccb87531d85e2a931c1d7af8e4778",
+      "bytes": 238268,
+      "from": "page 21 — site analysis map, x 38–82 %, y 4–54.5 %; the title illustration and site history photos are excluded"
+    },
+    {
+      "name": "03-surrounding-land-use.webp",
+      "sha256": "6023d7c73b09e8cb73320c4117de100fd94abfb2ae90f981be85da23e158105b",
+      "bytes": 90184,
+      "from": "page 21 — analysis of surrounding land use, x 38–97 %, y 54.5–77.5 %; the street photo strip is excluded"
+    },
+    {
+      "name": "04-garden-elements.webp",
+      "sha256": "96b3aa6090b4b83f94a651cc72572921a3d0bf4e0ff2fa08fb1af574cd50977a",
+      "bytes": 481530,
+      "from": "page 22 — elements of the Chinese traditional garden and the new Chinese-style garden, full page"
+    },
+    {
+      "name": "05-scenes-and-section.webp",
+      "sha256": "264f8c6c85e3e0e3d138616e02fed12a98e4861a92abb061549dca08f626a0d8",
+      "bytes": 430356,
+      "from": "page 24 — scene paintings and sectional diagram, full page"
+    },
+    {
+      "name": "06-model-overview.webp",
+      "sha256": "ad2c0dfa24764e6593636145c2a29a7a17073e38c0193bbb5b7abfcbd4cab7ac",
+      "bytes": 837452,
+      "from": "page 25 — model overview, x 0–70 %"
+    },
+    {
+      "name": "07-corridor-models.webp",
+      "sha256": "828bf8a1ed2083cdc3e313142da78fb7493092a876ab13e4a5209e5406ab013c",
+      "bytes": 110058,
+      "from": "page 25 — corridor and pavilion models, x 70–100 %, y 0–57 %; the rock-making photos are excluded"
+    },
+    {
+      "name": "08-model-details.webp",
+      "sha256": "0542aca0070e6358ef1827c11b50c1e73713832ca6ea87d9cc312d5392c8a82c",
+      "bytes": 496246,
+      "from": "page 26 — pavilions, stone door, island and changing scenery in the model, full page"
+    }
+  ]
+}
