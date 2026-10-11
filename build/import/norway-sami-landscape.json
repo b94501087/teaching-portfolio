@@ -1,0 +1,25 @@
+{
+  "project": "Norway in the Face of Climate Change",
+  "dest": "assets/board/norway-sami-landscape",
+  "note": "Portfolio pages 9–14 cropped to three images, WebP q88 (PIL), max 2000 px wide. Not used: page 9 (title collage and news photos), the lichen photo grids on page 11, the photo strip and hands-on-aerial on pages 12–13, the seasonal photo strip on page 13 and page 14 (app screens and photo-based render). No retouching.",
+  "files": [
+    {
+      "name": "01-cover-island-axonometric.webp",
+      "sha256": "c939f3a70cebb6dd7e8f3fd84c22bfdfba8e1115304b4a179d272d9a01e87c69",
+      "bytes": 463452,
+      "from": "page 12 — axonometric of the landscape layers (cover), x 28–100 %; the photo strip of Sami people on the left is excluded"
+    },
+    {
+      "name": "02-vanna-island-analysis.webp",
+      "sha256": "55addfbd02d70a4e9bd8081896448ba0dfc4a84c5728e239f761b228f3f2cb48",
+      "bytes": 457982,
+      "from": "page 10 — reindeer migration map, Sami dilemma, Vanna Island map, NDVI and seasonal pastures, full page"
+    },
+    {
+      "name": "03-lichen-and-water.webp",
+      "sha256": "972806a8be7455789b585bb4e948084970727ef43cbbef4d274c588bf9772cf7",
+      "bytes": 299360,
+      "from": "page 11 — lichen and water drawings and design sketch, x 67–100 %; the lichen photo grids are excluded"
+    }
+  ]
+}
