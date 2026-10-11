@@ -1,0 +1,61 @@
+{
+  "project": "Oil Tank Eco Park",
+  "dest": "assets/board/oil-tank-eco-park",
+  "note": "Portfolio ab615aae pages 2–4 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the project intro with a family photo and the site analysis map with site photos of people on page 2, and the oil tank section and park renderings with photo cut-out figures on page 4. No retouching.",
+  "files": [
+    {
+      "name": "01-pollution-condition.webp",
+      "sha256": "ea6ab99e9f6d7d4c59da8568810994f58d08391344d12878872f70ef7e485dc9",
+      "bytes": 207900,
+      "from": "ab615aae page 2 — pollution condition drawings, x 66.5–84.4 %"
+    },
+    {
+      "name": "02-three-phase-strategy.webp",
+      "sha256": "2cf3c807effabe9d4bd12b77933f4b41702ed7326917c4e77d2a4327bd04da42",
+      "bytes": 153186,
+      "from": "page 2 — three-phase strategy, x 84.4–100 %"
+    },
+    {
+      "name": "03-land-restoration.webp",
+      "sha256": "233c01e20012cbc303f3c4ed626652f166efa72966c340975b8bf26756861df9",
+      "bytes": 281406,
+      "from": "page 3 — phase I land restoration, x 0–50 %, y 0–56 %"
+    },
+    {
+      "name": "04-water-treatment.webp",
+      "sha256": "377af2960898c092522946b385287c19c5bff7f97b61004b4561903836145382",
+      "bytes": 148146,
+      "from": "page 3 — phase II water treatment, x 0–50 %, y 56–100 %"
+    },
+    {
+      "name": "05-morphology.webp",
+      "sha256": "b009fc57c667d50c7b59da80530ba547d49135237cd07b7a58c745c653e3948c",
+      "bytes": 46336,
+      "from": "page 3 — morphology steps, x 50–60 %"
+    },
+    {
+      "name": "06-masterplan.webp",
+      "sha256": "6f17c5484a46b759d15785f9c6b9b7d2e00e86daf68660cfbb4017dd90fe7bca",
+      "bytes": 233174,
+      "from": "page 3 — phase III final masterplan, x 60–89.5 %"
+    },
+    {
+      "name": "07-functional-concepts.webp",
+      "sha256": "9d000df625465592f8a85945e68166e5421d5f0425eb019d4f9a2ed3f9154af4",
+      "bytes": 96284,
+      "from": "page 3 — functional concepts, road network and legend, x 89.5–100 %"
+    },
+    {
+      "name": "08-oil-tank-renewal.webp",
+      "sha256": "09b831450a4e3de62ae0613c5a7c19fc00ed97831109af1fa384fb40dc53035a",
+      "bytes": 88814,
+      "from": "page 4 — oil tank renewal diagrams, x 0–50.5 %, y 0–40 %"
+    },
+    {
+      "name": "09-park-section.webp",
+      "sha256": "cc06b2ea86ef42a31360379c73f34ca81ca5f6e9f9d6d9c4b3e6b68b80d1c5d3",
+      "bytes": 45316,
+      "from": "page 4 — post-industrial park long section, x 50.5–100 %, y 78–100 %"
+    }
+  ]
+}
