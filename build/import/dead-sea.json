@@ -1,0 +1,31 @@
+{
+  "project": "Dead Sea",
+  "dest": "assets/board/dead-sea",
+  "note": "Portfolio pages 3–8 cropped to four images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage and the photo grids on page 3, the route map on page 5 (photos with people) and all renders on pages 6–8 (collage photo figures). No retouching.",
+  "files": [
+    {
+      "name": "01-cover-master-plan.webp",
+      "sha256": "a528035301821516888725673f024dedf640810f7d1715e8bc07f30b90e25767",
+      "bytes": 698480,
+      "from": "page 6 — master plan (cover), full page"
+    },
+    {
+      "name": "02-dead-sea-map.webp",
+      "sha256": "96bd6638764fd2c8a4fde0b94c63bdf721da68a0b711a5d573af5b98c21274b3",
+      "bytes": 248474,
+      "from": "page 3 — map of the Dead Sea, x 80–100 %; the title collage and the photo grids are excluded"
+    },
+    {
+      "name": "03-sinkhole-analysis.webp",
+      "sha256": "e029d4e7a1363ffb4ccea261f050a154fc617cf8c351f222583d3bc65e1a2f4c",
+      "bytes": 668596,
+      "from": "page 4 — sinkhole monitoring, shoreline change and how the sinkholes appeared, full page"
+    },
+    {
+      "name": "04-date-palm-boardwalk.webp",
+      "sha256": "94a921202f3d1817fa30a55d2f0d4b9be9e701c13cf887412393bedbcbe7b7be",
+      "bytes": 88004,
+      "from": "page 8 — date palm boardwalk diagrams and structure, y 0–32 %; the render below (collage figures) is excluded"
+    }
+  ]
+}
