@@ -1,0 +1,31 @@
+{
+  "project": "City Lighthouse",
+  "dest": "assets/board/city-lighthouse",
+  "note": "Portfolio c7593241 pages 9–10 cropped to four images, WebP q88 (PIL), max 2000 px wide. Not used: the crime-scene photo, portraits of criminologists, the Lightboard and case-study photos on page 9 (third-party), and the workbench photos on page 10. No retouching.",
+  "files": [
+    {
+      "name": "01-crime-hotspots.webp",
+      "sha256": "1935c13f1f637b9516e8e79b34fc7e74dcb08a0274d56c4d1c0fbec713f099a0",
+      "bytes": 1015208,
+      "from": "c7593241 page 9 — Oakland crime hotspots map, x 0–28 %; the crime-scene photo, portraits, Lightboard and case-study photos are excluded"
+    },
+    {
+      "name": "02-models-and-sections.webp",
+      "sha256": "aa9823e35aa23d364264f5b29c61ad56f158b016f8a88e0993754b4aaafedbb4",
+      "bytes": 329778,
+      "from": "page 10 — models, sections, truss structure and floor and wall detail, x 0–50 %"
+    },
+    {
+      "name": "03-arduino-experiment.webp",
+      "sha256": "559e9524d754d2c831988890350153d93c7b7bbb35a09d89943c43c4e555357b",
+      "bytes": 110078,
+      "from": "page 10 — Arduino experiment, x 51–87 %, y 0–42 %; the workbench photos are excluded"
+    },
+    {
+      "name": "04-implementation-night-view.webp",
+      "sha256": "8ad2af093cd089cbc09e3dcce1444ccef417857e993389211318afc9e24a5435",
+      "bytes": 78642,
+      "from": "page 10 — Arduino implementation and night view, x 51–100 %, y 45–100 %"
+    }
+  ]
+}
