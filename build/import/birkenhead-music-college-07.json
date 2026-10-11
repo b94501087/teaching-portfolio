@@ -1,0 +1,13 @@
+{
+  "project": "Birkenhead Music College",
+  "dest": "assets/board/birkenhead-music-college",
+  "note": "Supplement: adds 07-strategies.webp (page 10, x 0–50 %) to Birkenhead Music College.",
+  "files": [
+    {
+      "name": "07-strategies.webp",
+      "sha256": "6638a2871d18d38bfd7112e50c9d179facce18723b858276cb479f0c4f816113",
+      "bytes": 305022,
+      "from": "page 10 — structural, material and environmental strategy, x 0–50 %"
+    }
+  ]
+}

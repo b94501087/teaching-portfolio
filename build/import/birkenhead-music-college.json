@@ -1,7 +1,7 @@
 {
   "project": "Birkenhead Music College",
   "dest": "assets/board/birkenhead-music-college",
-  "note": "Portfolio pages 8–9 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: the title column (an interior photo) and the Site issues column (site photos) on page 8. Typos fixed: collage (college), required, luck (lack), coffie. No retouching.",
+  "note": "Portfolio pages 8–10 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title column (an interior photo) and the Site issues column (site photos) on page 8. Typos fixed: collage (college), required, luck (lack), coffie. No retouching.",
   "files": [
     {
       "name": "01-cover-section-perspective.webp",
@@ -38,6 +38,12 @@
       "sha256": "571544c362ea1743f19a70f91b7510541359726188e008c9ec3e476707c3d513",
       "bytes": 224078,
       "from": "page 9 — the other floor plans, x 25–50 %"
+    },
+    {
+      "name": "07-strategies.webp",
+      "sha256": "6638a2871d18d38bfd7112e50c9d179facce18723b858276cb479f0c4f816113",
+      "bytes": 305022,
+      "from": "page 10 — structural, material and environmental strategy, x 0–50 %"
     }
   ]
 }

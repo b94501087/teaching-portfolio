@@ -1,0 +1,31 @@
+{
+  "project": "Emerged to the Surface",
+  "dest": "assets/board/emerged-to-the-surface",
+  "note": "Portfolio pages 10–12 cropped to four images, WebP q88 (PIL), max 2000 px wide. Not used: the right half of page 10 (protest photo collage, portraits of feminists, photos of women), the Story Line comic on page 11 and the right half of page 12 (renders with photo cut-out figures). Typos fixed: Carousel, Falls, Swart (Smart), dangrous, thins. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-design-display.webp",
+      "sha256": "56ad50e2584f5d1adb43d397cd65a4aa8ca1a80bfd91f9f2aab8b65af9538e5d",
+      "bytes": 356384,
+      "from": "page 12 — Design Display, circulation, section and plan (cover), x 0–50 %; the right half (renders with photo cut-out figures) is excluded"
+    },
+    {
+      "name": "02-location-site-plan.webp",
+      "sha256": "5cbe7896a2b68455f52e09ff13b3160a1660fd98740cef7707f505145e10a9d0",
+      "bytes": 186512,
+      "from": "page 11 — Location-Site Plan, x 0–25 %; the Story Line comic is excluded"
+    },
+    {
+      "name": "03-design-explain-a-d.webp",
+      "sha256": "8e28f433f0bf1e57c04007adadd846978f1e8b46de7ee7e620c5de319e12fc2b",
+      "bytes": 123528,
+      "from": "page 11 — Design Explain, spaces A–D, x 51–100 %, y 0–52 %"
+    },
+    {
+      "name": "04-design-explain-e-g.webp",
+      "sha256": "2ff8c93c465ab481d91b5acfa7a86bce4d7ca68b60a55d6f9ef80e63a9277513",
+      "bytes": 132350,
+      "from": "page 11 — Design Explain, spaces E–H, x 51–100 %, y 52–100 %"
+    }
+  ]
+}
