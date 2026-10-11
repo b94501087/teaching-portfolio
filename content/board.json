@@ -3175,6 +3175,427 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Mangrove – Wetland – Sandbeach — Renewing the Shenzhen Airport Wharf",
+      "slug": "mangrove-wetland-sandbeach",
+      "description": "A desolate space where two expressways meet at the Shenzhen Airport wharf becomes a mangrove wetland and beach for ecological education and play.\n\nShenzhen Airport Wharf, Shenzhen, China | Landscape design / mangrove wetland, ecological education | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "紅樹林・濕地・沙灘——深圳機場碼頭改造",
+          "description": "深圳機場碼頭旁、兩條高速公路交會處的荒涼空地，化身為兼具生態教育與遊憩的紅樹林濕地與沙灘。\n\n中國深圳機場碼頭｜景觀設計／紅樹林濕地、生態教育｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/mangrove-wetland-sandbeach/01-cover-model.webp",
+        "assets/board/mangrove-wetland-sandbeach/02-site.webp",
+        "assets/board/mangrove-wetland-sandbeach/03-problems-strategies.webp",
+        "assets/board/mangrove-wetland-sandbeach/04-mangrove-ecology.webp",
+        "assets/board/mangrove-wetland-sandbeach/05-stage-plans.webp",
+        "assets/board/mangrove-wetland-sandbeach/06-methods.webp",
+        "assets/board/mangrove-wetland-sandbeach/07-wetland-perspective.webp",
+        "assets/board/mangrove-wetland-sandbeach/08-sandbeach-perspective.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/mangrove-wetland-sandbeach/01-cover-model.webp"
+          ],
+          "captions": [
+            "Handmade model at 1:1000: mangroves, the boardwalk, the dock and the wetland museum."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "1:1000 手工模型：紅樹林、棧道、碼頭與濕地博物館。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is an open space near the wharf of Shenzhen Airport, where two expressways converge, and although many people pass through it every day, it is relatively desolate. Only two highways connect it, pile drivers on the reclaimed land blow dust towards the coastal homes, and the green areas around it are not connected.",
+          "images": [
+            "assets/board/mangrove-wetland-sandbeach/02-site.webp",
+            "assets/board/mangrove-wetland-sandbeach/03-problems-strategies.webp"
+          ],
+          "captions": [
+            "Site — the open space at the wharf between the expressways, the railway station, the airport and the mangrove park.",
+            "Problems and design strategies — low accessibility, reclamation pollution and ecological fragmentation, answered by an ecological corridor, an education museum with rest facilities, and natural sediment storage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於深圳機場碼頭附近的一片空地，兩條高速公路在此交會；雖然每天有大量人流經過，基地卻相當荒涼。只有兩條公路連通此地，填海工地的打樁機把塵土吹向沿岸住宅，周邊的綠地也彼此不相連。",
+              "captions": [
+                "基地——碼頭旁的空地，位於高速公路、火車站、機場與紅樹林公園之間。",
+                "問題與設計策略——可達性低、填海污染與生態破碎，對應生態廊道、附設休憩設施的生態教育館，以及自然沉積空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site lies at a brackish water junction suited to mangroves and wetland plant communities, and a wetland park with mangroves along the coastline is nearby. Mangrove ecology runs from the subtidal to the supratidal zone, where birds, fish, invertebrates, benthos and microorganisms live among true mangroves and companion plants.",
+          "images": [
+            "assets/board/mangrove-wetland-sandbeach/04-mangrove-ecology.webp"
+          ],
+          "captions": [
+            "Mangrove ecology — the tidal zones from subtidal to supratidal, with true mangroves and companion plants."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地位於鹹淡水交匯處，適合紅樹林與濕地植物群落生長，附近還有一座沿海岸線長滿紅樹林的濕地公園。紅樹林生態從潮下帶延伸到潮上帶，鳥類、魚類、無脊椎動物、底棲生物與微生物，棲息在真紅樹與伴生植物之間。",
+              "captions": [
+                "紅樹林生態——從潮下帶到潮上帶，以及真紅樹與伴生植物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The mangroves along the nearby coastline are extended to the site, more wetland plants are planted and sandy beaches are accumulated, turning the site into a rest area for ecological education and entertainment. The plan grows in three stages, from a low-impact design through the design proposal to a future envision, with ecological corridors, different functional areas and natural sediment storage.",
+          "images": [
+            "assets/board/mangrove-wetland-sandbeach/05-stage-plans.webp",
+            "assets/board/mangrove-wetland-sandbeach/06-methods.webp"
+          ],
+          "captions": [
+            "Stage plans — low-impact design, the design proposal (recreational facilities, quay, wooden trestle, wetland flora, wetland museum, temporary parking, sandbeach) and the future envision.",
+            "Methods — ecological corridors, different functional areas and natural sediment storage space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "把附近海岸線的紅樹林延伸到基地，種植更多濕地植物並堆積沙灘，讓基地成為兼具生態教育與休閒娛樂的休憩區。計畫分三個階段生長：從低衝擊設計、設計方案到未來願景，並以生態廊道、不同機能分區與自然沉積空間推進。",
+              "captions": [
+                "階段平面——低衝擊設計、設計方案（休閒設施、碼頭、木棧道、濕地植物、濕地博物館、臨時停車場、沙灘）與未來願景。",
+                "方法——生態廊道、不同機能分區與自然沉積空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the wetland area people can observe the ecological community of mangrove plants and feel the ebb and flow of the tide. In the recreational beach area they can enjoy relaxing activities such as canoeing and beach volleyball.",
+          "images": [
+            "assets/board/mangrove-wetland-sandbeach/07-wetland-perspective.webp",
+            "assets/board/mangrove-wetland-sandbeach/08-sandbeach-perspective.webp"
+          ],
+          "captions": [
+            "Wetland perspective — the boardwalk among mangroves and wetland plants.",
+            "Sandbeach perspective — canoes and the beach in front of the city."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在濕地區，人們可以觀察紅樹林植物的生態群落，感受潮起潮落。在休閒沙灘區，人們可以享受划獨木舟、沙灘排球等輕鬆的活動。",
+              "captions": [
+                "濕地透視——穿行於紅樹林與濕地植物之間的棧道。",
+                "沙灘透視——城市前方的獨木舟與沙灘。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the edge: brackish water decides what can grow.\n2. Pair problems with advantages: each issue gets a strategy.\n3. Plan in stages: low impact first, the future later.\n4. Model the landscape by hand to understand its structure.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 讀懂邊界：鹹淡水決定了什麼能生長。\n2. 讓問題與優勢配對：每個問題都對應一個策略。\n3. 分階段規劃：先低衝擊，未來再擴展。\n4. 親手製作地景模型，理解它的結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Draw Healing Power from Plants",
+      "slug": "draw-healing-power-from-plants",
+      "description": "Beside the church of Longyearbyen in the Arctic, stone walls guide the river so that flower fields can grow and help residents heal from depression.\n\nLongyearbyen, Svalbard, Norway | Landscape design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "從植物汲取療癒力量",
+          "description": "在北極朗伊爾城的教堂旁，以石牆引導河水，讓花田得以生長，協助居民從憂鬱中療癒。\n\n挪威斯瓦巴群島朗伊爾城｜景觀設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/draw-healing-power-from-plants/01-cover-2040-plan.webp",
+        "assets/board/draw-healing-power-from-plants/02-site-location.webp",
+        "assets/board/draw-healing-power-from-plants/03-depression-analysis.webp",
+        "assets/board/draw-healing-power-from-plants/04-longyearbyen-map.webp",
+        "assets/board/draw-healing-power-from-plants/05-river-profile.webp",
+        "assets/board/draw-healing-power-from-plants/06-river-flow-test.webp",
+        "assets/board/draw-healing-power-from-plants/07-2025-plan.webp",
+        "assets/board/draw-healing-power-from-plants/08-sections-plants.webp",
+        "assets/board/draw-healing-power-from-plants/09-first-sunshine.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/draw-healing-power-from-plants/01-cover-2040-plan.webp"
+          ],
+          "captions": [
+            "The 2040 plan: flower fields grown along the river, with the prayer garden across from the church."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "2040 年平面：花田沿河生長，祈禱花園與教堂隔河相望。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Longyearbyen, located in the Arctic, is extremely cold and relatively lacking in vegetation, and many of its residents suffer from depression or anxiety. Interviews with 952 local residents with depression syndrome show how the scarcity of plants affects both people and the environment.",
+          "images": [
+            "assets/board/draw-healing-power-from-plants/02-site-location.webp",
+            "assets/board/draw-healing-power-from-plants/03-depression-analysis.webp"
+          ],
+          "captions": [
+            "Site location — Longyearbyen in Svalbard, inside the Arctic Circle.",
+            "Prevalence of depression among Russian and Norwegian residents, and the effects of plant scarcity on people and the environment."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "位於北極圈的朗伊爾城極為寒冷、植被稀少，許多居民受憂鬱或焦慮所苦。對 952 位有憂鬱症狀的當地居民所做的訪談，呈現了植物匱乏對人與環境的影響。",
+              "captions": [
+                "基地位置——北極圈內斯瓦巴群島的朗伊爾城。",
+                "俄羅斯與挪威居民的憂鬱盛行率，以及植物匱乏對人與環境的影響。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The church is open 24 hours and often hosts religious services and community events, so people come here for spiritual support. The river beside it was divided into three sections, and the water volume was found to be larger near the upper reaches and to become shallower and more dispersed towards the middle and lower reaches.",
+          "images": [
+            "assets/board/draw-healing-power-from-plants/04-longyearbyen-map.webp",
+            "assets/board/draw-healing-power-from-plants/05-river-profile.webp"
+          ],
+          "captions": [
+            "Longyearbyen map — the church, green land, public infrastructure and the stream sections A–G.",
+            "River profile — the sections from the fjord to the glacier."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "教堂 24 小時開放，經常舉辦宗教儀式與社區活動，人們來這裡尋求心靈支持。教堂旁的河流被分為三段研究，發現上游水量較大，往中下游則逐漸變淺並分散。",
+              "captions": [
+                "朗伊爾城地圖——教堂、綠地、公共設施與 A–G 河道剖面。",
+                "河道剖面——從峽灣到冰川的各段剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A 50 × 30 × 10 cm model of river sand, grass, coal, stone and ice tested four river forms of the region: dry season, wet season, ice flow and seasonal flood. The tests showed that water and stones shape the river bed, rivers transport material, vegetation blocks it and plant roots protect the terrain.",
+          "images": [
+            "assets/board/draw-healing-power-from-plants/06-river-flow-test.webp",
+            "assets/board/draw-healing-power-from-plants/07-2025-plan.webp"
+          ],
+          "captions": [
+            "Simulated river flow test — dry season, wet season, ice flow and seasonal flood, with the conclusions of each.",
+            "2025 — stone walls of local stone control the flow of water, with flower fields where the water passes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以河沙、草、煤、石與冰製作的 50 × 30 × 10 公分模型，測試了當地四種河流型態：旱季、雨季、冰流與季節性洪水。實驗發現水與石塑造河床、河流搬運物質、植被阻擋物質，而植物根系保護地形。",
+              "captions": [
+                "模擬河流實驗——旱季、雨季、冰流與季節性洪水，以及各自的結論。",
+                "2025 年——以當地石材砌成的石牆控制水流，並在水流經之處布置花田。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "With the seasonal melting of snow and the nourishment of the river, the plants gradually grow, and people can admire the flowers, see the church across the river from the resting space of the flower field and pray here. Local plants were selected for the five sections of the site, on its permafrost, rock and river mud.",
+          "images": [
+            "assets/board/draw-healing-power-from-plants/08-sections-plants.webp",
+            "assets/board/draw-healing-power-from-plants/09-first-sunshine.webp"
+          ],
+          "captions": [
+            "Five sections of the site and the site plants selection.",
+            "The first sunshine of 2040 — a ray of sunshine through the clouds over the valley."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "隨著季節性融雪與河水滋養，植物逐漸生長；人們可以賞花，從花田的休憩空間望向對岸的教堂，並在此祈禱。依基地五個剖面的永凍土、岩石與河泥，選用了當地的植物。",
+              "captions": [
+                "基地五個剖面與基地植物選擇。",
+                "2040 年的第一道陽光——穿透雲層照進山谷的一道陽光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from people's health: data on depression defines the problem.\n2. Find where people already gather: the church is the anchor.\n3. Test the river with a physical model before drawing the plan.\n4. Design in time: 2025 sets the walls, 2040 grows the flowers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從人的健康出發：憂鬱數據界定了問題。\n2. 找出人們已經聚集的地方：教堂就是錨點。\n3. 畫平面之前，先用實體模型測試河流。\n4. 在時間中設計：2025 年砌牆，2040 年花開。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Save White Dolphin",
+      "slug": "save-white-dolphin",
+      "description": "Floating islands with sonar devices at Neilingding Island give white dolphins food and keep them away from the ships of the Pearl River Estuary.\n\nNeilingding Island, Pearl River Estuary, China | Ecological device | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "拯救白海豚",
+          "description": "在內伶仃島設置裝有聲納的浮島，為白海豚提供食物，並讓牠們避開珠江口的船隻。\n\n中國珠江口內伶仃島｜生態裝置｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/save-white-dolphin/01-cover-sonar.webp",
+        "assets/board/save-white-dolphin/02-location.webp",
+        "assets/board/save-white-dolphin/03-dolphin-habitat.webp",
+        "assets/board/save-white-dolphin/04-mind-map.webp",
+        "assets/board/save-white-dolphin/05-location-mapping.webp",
+        "assets/board/save-white-dolphin/06-floating-island.webp",
+        "assets/board/save-white-dolphin/07-structure-analysis.webp",
+        "assets/board/save-white-dolphin/08-physical-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/save-white-dolphin/01-cover-sonar.webp"
+          ],
+          "captions": [
+            "Sonar off, sonar on: dolphins feed around the floating islands, then swim away from the boats when the sonar turns on."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "聲納關閉與開啟：海豚在浮島周圍覓食，聲納開啟時則游離船隻。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The survival of white dolphins is in crisis because of human activities at sea, so the project takes protective measures at Neilingding Island, where white dolphins appear frequently. Garbage pollution, offshore sand mining, abandoned fishing nets, accidental catch, ship propellers and vessel noise all threaten their lives.",
+          "images": [
+            "assets/board/save-white-dolphin/02-location.webp",
+            "assets/board/save-white-dolphin/03-dolphin-habitat.webp"
+          ],
+          "captions": [
+            "Location — the site in the Pearl River Estuary between Zhuhai, Macao, Shenzhen and Hong Kong, with the Chinese White Dolphin National Nature Reserve, its core, buffer and test areas, and the ship routes.",
+            "Habitat of the dolphin — a water depth of more than two metres, a safe distance from people, small fish as food, and how noise of 0–60, 60–90 and over 90 dB affects dolphins."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "由於人類的海上活動，白海豚的生存陷入危機，因此本案在白海豚經常出沒的內伶仃島採取保護措施。垃圾污染、近海採砂、廢棄漁網、誤捕、船隻螺旋槳與船舶噪音，都威脅著牠們的生命。",
+              "captions": [
+                "基地——珠江口，介於珠海、澳門、深圳與香港之間，以及中華白海豚國家級自然保護區的核心區、緩衝區、實驗區與航道。",
+                "海豚棲地——兩公尺以上的水深、與人的安全距離、以小魚為食，以及 0–60、60–90 與 90 分貝以上的噪音對海豚的影響。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "An early mind map traces the conflict between dolphins and people from their needs, food, habitat, profit and protection, through causes and problems to strategies. Domestic garbage calls for effective recycling, reclamation works for avoiding the habitat, and fishing activity for location hints.",
+          "images": [
+            "assets/board/save-white-dolphin/04-mind-map.webp",
+            "assets/board/save-white-dolphin/05-location-mapping.webp"
+          ],
+          "captions": [
+            "Early mind map and strategies — situation, need, demand, cause, problem, strategy and goal.",
+            "Structure location mapping — the device placed among the white dolphin sightings and the lines of ships."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "早期的心智圖從海豚與人的需求——食物、棲地、利益與保護——出發，經由成因與問題，推導出策略。生活垃圾對應有效回收，填海工程對應避開棲地，捕魚活動則對應位置提示。",
+              "captions": [
+                "早期心智圖與策略——情境、需求、訴求、成因、問題、策略與目標。",
+                "裝置位置——裝置設於白海豚出沒點與航線之間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The floating islands are placed where ship traffic is intensive and dolphins appear most often, each with a sonar device, in the hope of reducing dolphin injuries. Vegetation attracts fish, plant roots and algae purify the water, a surveillance system detects dolphin activity and the sonar turns on and off in phases.",
+          "images": [
+            "assets/board/save-white-dolphin/06-floating-island.webp",
+            "assets/board/save-white-dolphin/07-structure-analysis.webp"
+          ],
+          "captions": [
+            "Existing situation and operation mode — materials from airport food waste and bioplastics, the coralliform device and the island structure.",
+            "Structure analysis — the vegetation and seagrass species on the island, and the coralliform device that feeds the seagrass."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "浮島設於航運密集、海豚最常出沒的水域，每座都裝有聲納裝置，希望減少海豚受傷。植被吸引魚群，植物根系與藻類淨化水質，監測系統偵測海豚的活動位置，聲納則分階段開關。",
+              "captions": [
+                "現況與運作模式——取材自機場廚餘與生物塑膠，以及珊瑚狀裝置與島體構造。",
+                "結構分析——島上的植被與海草物種，以及滋養海草的珊瑚狀裝置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "When the sonar is off, the dolphins swim to the island to catch small fish and play near the device, and when it turns on during busy periods of fishing vessels and freighters, they swim away from the boats. The 1:50 physical model was made of resin, grass powder, gypsophila, river sand, stone and water grass.",
+          "images": [
+            "assets/board/save-white-dolphin/08-physical-model.webp"
+          ],
+          "captions": [
+            "Physical model at 1:50 — the solar power system, the sonar device and the coralliform device."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "聲納關閉時，海豚游到島邊捕捉小魚、在裝置附近嬉戲；在漁船與貨輪往來頻繁的時段聲納開啟，海豚便游離船隻。1:50 的實體模型以樹脂、草粉、滿天星、河沙、石頭與水草製作。",
+              "captions": [
+                "1:50 實體模型——太陽能系統、聲納裝置與珊瑚狀裝置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Design for another species: the white dolphin is the client.\n2. Map the conflict before the form: needs, causes, problems, strategies.\n3. Let the device work in time: the sonar turns on and off with the ships.\n4. Test it in water: a physical model shows the island above and below.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 為另一個物種設計：白海豚就是業主。\n2. 先畫出衝突，再談形式：需求、成因、問題、策略。\n3. 讓裝置在時間中運作：聲納隨船隻開關。\n4. 放進水裡測試：實體模型呈現島的水上與水下。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
