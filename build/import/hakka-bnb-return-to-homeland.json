@@ -1,0 +1,61 @@
+{
+  "project": "A Return to the Homeland",
+  "dest": "assets/board/hakka-bnb-return-to-homeland",
+  "note": "Portfolio dd6639be pages 4–9 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the historic photos, photos of people and village life, the culture and cuisine photos, the photos of residents and ruined houses, and the user group panel with photo figures. No retouching.",
+  "files": [
+    {
+      "name": "01-aerial-view.webp",
+      "sha256": "3753aaae9b8f9477ded29240b898149abde55aaa4d6c7666a760200a53be7ea0",
+      "bytes": 319186,
+      "from": "dd6639be page 8 — aerial view render of the B&B on the hillside with the physical brick model and two detail renders (rendered figures only), full page"
+    },
+    {
+      "name": "02-migration-and-typologies.webp",
+      "sha256": "86deb7e8d25cd8652ead3264d128797de8a4df432145879171a1b030e14894f8",
+      "bytes": 51436,
+      "from": "page 4 — timeline of the three southward migrations with the house typologies of each period, x 20.5–100 %, y 54.5–68.8 %; the historic photos, people photos and current-situation photos are excluded"
+    },
+    {
+      "name": "03-site-land-use.webp",
+      "sha256": "cbbfd9755ee8165950473838827fe24ca83837a5329966473157e07fb42e2a79",
+      "bytes": 230960,
+      "from": "page 5 — site analysis land-use map of Chengshi Village over the aerial image, x 0–39 %; the village life photos and culture and cuisine photos are excluded"
+    },
+    {
+      "name": "04-status-statement.webp",
+      "sha256": "7edd238244490ba6eec76c02b392296696dffb6db120118ab595c226b2e58da3",
+      "bytes": 113776,
+      "from": "page 6 — status statement axonometric of the existing courtyard houses, x 42–83 %, y 9–42 %; the photos of residents and ruined houses are excluded"
+    },
+    {
+      "name": "05-concept-of-conversions.webp",
+      "sha256": "ef624ea251406698d2600cff09959e0accdb9bbfc0708e7a171403ff6134e66e",
+      "bytes": 39842,
+      "from": "page 6 — the concept of conversions: rebuild, reserve, reuse, x 0–45 %, y 62–100 %"
+    },
+    {
+      "name": "06-restoration-ideas.webp",
+      "sha256": "c505eca7375542b96472c55bf81254f2b667e6a3b2c949d1972e2aa92943ff00",
+      "bytes": 108166,
+      "from": "page 6 — restoration ideas: connection, entrance and exit, extension and addition, x 46–100 %, y 41–100 %"
+    },
+    {
+      "name": "07-user-activity.webp",
+      "sha256": "eb2146730fb8cb0d25ab6196d5ef8fd2a3325d4a9af0a7c61f132c1f465876aa",
+      "bytes": 281060,
+      "from": "page 7 — user activity analysis axonometric with silhouette figures, x 0–56.2 %, y 0–79 %; the user group panel with photo figures is excluded"
+    },
+    {
+      "name": "08-exploded-view.webp",
+      "sha256": "46b37f76024052e8ba56e86bcf022aeb3a81552bc4d3afa502414f72e1039aed",
+      "bytes": 356218,
+      "from": "page 7 — exploded view with floors and routes, x 56.5–100 %"
+    },
+    {
+      "name": "09-sectional-view.webp",
+      "sha256": "2f37a8b37ce57cadcf13de1e27fc9ebb0a2bcc05418d8bacce17853eb4f48238",
+      "bytes": 233502,
+      "from": "page 9 — sectional view with eaves, window and sunroof nodes (line-drawn figures only), full page"
+    }
+  ]
+}
