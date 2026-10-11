@@ -1,0 +1,55 @@
+{
+  "project": "The Birth of Ginger Milk Curd",
+  "dest": "assets/board/birth-of-ginger-milk-curd",
+  "note": "Portfolio 66f85465 pages 6–8 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with a photo collage of a child (page 5), the strategy panel with a third-party portrait and a book cover and the factory photos on page 6, the renderings with photo figures of children on pages 7–8. No retouching.",
+  "files": [
+    {
+      "name": "01-ginger-milk-workshop-model.webp",
+      "sha256": "08588305aa436da6969fef80b8c7876e282b87eb090aa7f090b262a5c4beaeb9",
+      "bytes": 163082,
+      "from": "66f85465 page 7 — physical model of the ginger milk making space with model photos, x 50.5–78 %, y 20–100 %"
+    },
+    {
+      "name": "02-old-factory-axonometric.webp",
+      "sha256": "5148bcf4f6c2e1baafa7ec4d7eb6a454681252ee6062d045b89796675be9f0c7",
+      "bytes": 205840,
+      "from": "page 6 — exploded axonometric of the old factory, inset model and sections, x 50.5–76 %"
+    },
+    {
+      "name": "03-ginger-milk-production-process.webp",
+      "sha256": "6da03ac663d80424e3f049f9535af6495c18ae747c74bb0100ead1628a0e8865",
+      "bytes": 148072,
+      "from": "page 6 — production process of ginger milk with drawn figures, x 27–50.5 %; the strategy panel with a third-party portrait and a book cover on the left is excluded"
+    },
+    {
+      "name": "04-programs.webp",
+      "sha256": "483455eb4ec7ff22ffd34b87c6e34499b70f63fb7a7db6daeb38f45f2dde305c",
+      "bytes": 116308,
+      "from": "page 6 — programs: cowshed, walking trails, watch tower, climbing area, production area and dining table, x 76–100 %, y 25–100 %; the factory photos above are excluded"
+    },
+    {
+      "name": "05-making-ginger-milk-plan.webp",
+      "sha256": "a529f97724f010eb43ef147e5a80475b7172530002791b3e9db05e614accad92",
+      "bytes": 82996,
+      "from": "page 7 — plan of the making ginger milk space, x 78–100 %, y 0–62 %; the renderings with photo figures of children on the left are excluded"
+    },
+    {
+      "name": "06-tasting-area-model.webp",
+      "sha256": "e9ba4a8c5fa91aba6aba318e78bdf626a38261206bafc029fe5292e6d53ceec9",
+      "bytes": 69632,
+      "from": "page 7 — model view of the stairs and tasting area, x 78–100 %, y 63.5–100 %"
+    },
+    {
+      "name": "07-ginger-milk-steps.webp",
+      "sha256": "c210d00fe3fd94c83b17ea8ec6e70d96891926caf6a244cd28ab215c4b5f4257",
+      "bytes": 48386,
+      "from": "page 8 — step 3 diagram of making ginger milk, x 33–50.5 %, y 60–100 %"
+    },
+    {
+      "name": "08-ginger-milk-truck.webp",
+      "sha256": "02170776bac2e8b54e5dc7fd1085f17b7a5dbd314df5040d081eef4996cd57ec",
+      "bytes": 67932,
+      "from": "page 8 — selling ginger milk: the folding food truck, x 75.5–100 %, y 0–50 %; the renderings with photo figures are excluded"
+    }
+  ]
+}
