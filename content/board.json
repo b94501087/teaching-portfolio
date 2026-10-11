@@ -4311,6 +4311,546 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Resilient Urban Design of Nansha",
+      "slug": "resilient-urban-design-of-nansha",
+      "description": "Under global warming and sea-level rise, a resilient coast, tidal parks and density prototypes let a new district in Nansha adapt as the water rises.\n\nNansha, Guangzhou | Urban design | Graduation design, group work (individual part) | Spring term 2023–2024 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "南沙韌性城市設計",
+          "description": "在全球暖化與海平面上升的背景下，以韌性海岸、潮汐公園與密度原型，讓南沙的新城區隨水位上升而調適。\n\n廣州南沙｜城市設計｜畢業設計，小組作品（個人部分）｜2023–2024 學年春季學期｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/resilient-urban-design-of-nansha/01-cover-aerial.webp",
+        "assets/board/resilient-urban-design-of-nansha/02-site-context.webp",
+        "assets/board/resilient-urban-design-of-nansha/03-submerge-elements.webp",
+        "assets/board/resilient-urban-design-of-nansha/04-site-analysis.webp",
+        "assets/board/resilient-urban-design-of-nansha/05-strategy.webp",
+        "assets/board/resilient-urban-design-of-nansha/06-marine-resilience.webp",
+        "assets/board/resilient-urban-design-of-nansha/07-unit-prototypes.webp",
+        "assets/board/resilient-urban-design-of-nansha/08-intensity-control.webp",
+        "assets/board/resilient-urban-design-of-nansha/09-land-use-timeline.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/resilient-urban-design-of-nansha/01-cover-aerial.webp"
+          ],
+          "captions": [
+            "Aerial view render: the new district on the river delta, crossed by elevated roads and laced with green, wetland and water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鳥瞰透視：河口三角洲上的新城區，高架道路穿越其間，綠地、濕地與水網交織。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Under the dual environmental pressure of climate change and reclamation, Nansha must keep its coastal shorelines safe and cope with rainstorms, floods, typhoons, salty tides, storm surges, ocean currents and future sea-level rise. The board puts the rise at 98–188 mm by 2100, with US$1.4 trillion lost by 2100.",
+          "images": [
+            "assets/board/resilient-urban-design-of-nansha/02-site-context.webp"
+          ],
+          "captions": [
+            "The site in Nansha, with expressways, trunk roads, airports, harbours, train stations, the direction of tidal encroachment and typhoon attack, and the degree of sea-level-rise inundation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在氣候變遷與填海造地的雙重環境壓力下，南沙必須確保海岸線安全，並因應暴雨、洪水、颱風、鹹潮、風暴潮、洋流以及未來的海平面上升。圖面指出，到 2100 年海平面將上升 98–188 毫米，損失達 1.4 兆美元。",
+              "captions": [
+                "位於南沙的基地，標示高速公路、主幹道、機場、港口、火車站、潮水侵入與颱風來襲方向，以及海平面上升的淹沒程度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sea-level rise superimposed on storm surges was mapped for 2030, 2050 and 2100, showing how much village and urban construction land, farmland, forest, wetland and river would be inundated. A section through industrial docks, petrochemical companies, logistics yards, the expressway, paddy fields, villages and mangrove forests sets these elements against the future water levels.",
+          "images": [
+            "assets/board/resilient-urban-design-of-nansha/03-submerge-elements.webp",
+            "assets/board/resilient-urban-design-of-nansha/04-site-analysis.webp"
+          ],
+          "captions": [
+            "Submerge Elements — the 2030, 2050 and 2100 scenarios and the section against the 2024 to 2100 water levels.",
+            "Storm surge disasters, swell channel, surface subsidence, the waterfowl ecological corridor and current land use."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案繪製 2030、2050 與 2100 年海平面上升疊加風暴潮的情境，顯示村莊與城市建設用地、農地、林地、濕地與河流將被淹沒的比例。一道剖面穿過工業碼頭、石化企業、物流園區、高速公路、稻田、村莊與紅樹林，將這些要素與未來水位並置比較。",
+              "captions": [
+                "淹沒要素——2030、2050 與 2100 年情境，以及對照 2024 至 2100 年水位的剖面。",
+                "風暴潮災害、湧浪通道、地表沉降、水鳥生態廊道與現況土地使用。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Problems in agriculture, traffic, the river system and development control lead to a strategy of a resilient coast, a sustainable community, flexible transport and competitive industries around live, work and ecology. Along the sea coast, river shores and creek banks, prototypes such as offshore reefs, mangrove wetlands, green slopes, plank roads and water streets form a tidal park system.",
+          "images": [
+            "assets/board/resilient-urban-design-of-nansha/05-strategy.webp",
+            "assets/board/resilient-urban-design-of-nansha/06-marine-resilience.webp"
+          ],
+          "captions": [
+            "Problem consideration, structural prototypes and the four strategies.",
+            "Marine resilience and ecological protection — three steps from sea coast to river shores and creek banks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "從農業、交通、水系與開發管制的問題出發，本案圍繞生活、工作與生態，提出韌性海岸、永續社區、彈性交通與競爭力產業四項策略。沿著海岸、河岸與溪岸，離岸礁石、紅樹林濕地、綠坡、棧道與水街等原型共同組成潮汐公園系統。",
+              "captions": [
+                "問題思考、結構原型與四項策略。",
+                "海洋韌性與生態保護——從海岸、河岸到溪岸的三個步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Residential, service, commercial and industrial units each have a FAR range and low-, medium- and high-density prototypes, which are then placed across the district under intensity guidelines. A timeline shows how land use changes as sea levels rise, from 2030 and 2050 to 2100 and beyond.",
+          "images": [
+            "assets/board/resilient-urban-design-of-nansha/07-unit-prototypes.webp",
+            "assets/board/resilient-urban-design-of-nansha/08-intensity-control.webp",
+            "assets/board/resilient-urban-design-of-nansha/09-land-use-timeline.webp"
+          ],
+          "captions": [
+            "Four prototypes of creative units, each in low, medium and high density.",
+            "Development intensity guidelines, dominated function units and overall intensity control.",
+            "Land use changes as sea levels rise: 2030, 2050, 2100 and the further future."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "居住、服務、商業與工業單元各有容積率範圍，以及低、中、高密度的原型，再依開發強度準則配置於整個城區。一條時間軸呈現土地使用如何隨海平面上升而改變，從 2030、2050 年到 2100 年及更遠的未來。",
+              "captions": [
+                "四類創意單元原型，各有低、中、高密度版本。",
+                "開發強度準則、主導機能單元與整體強度管控。",
+                "土地使用隨海平面上升的變化：2030、2050、2100 年與更遠的未來。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the water: map sea-level rise and storm surge before drawing any plan.\n2. Design by time: test the plan at 2030, 2050 and 2100.\n3. Turn the shoreline into a system of prototypes.\n4. Control intensity with simple units and clear rules.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從水開始：在畫任何平面之前，先繪製海平面上升與風暴潮。\n2. 以時間設計：在 2030、2050 與 2100 年檢驗方案。\n3. 把海岸線轉化為一套原型系統。\n4. 以簡單的單元與清楚的規則控制開發強度。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Retrieving Folklore",
+      "slug": "retrieving-folklore",
+      "description": "Under the guidance of community co-construction, an elevated walkway and a chain of small public spaces turn Chaji village into a culture and business experience area.\n\nChaji Village, Foshan | Urban design | Urban Design 1, individual work | Spring term 2022–2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重拾民俗",
+          "description": "在社區共建的引導下，以一條高架步道與一連串小型公共空間，將茶基村轉化為文化與商業體驗區。\n\n佛山茶基村｜城市設計｜城市設計一，個人作品｜2022–2023 學年春季學期｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/retrieving-folklore/01-cover-physical-model.webp",
+        "assets/board/retrieving-folklore/02-paths-and-residents.webp",
+        "assets/board/retrieving-folklore/03-site-massing.webp",
+        "assets/board/retrieving-folklore/04-strategy-steps.webp",
+        "assets/board/retrieving-folklore/05-benign-growth-plan.webp",
+        "assets/board/retrieving-folklore/06-explosion-diagram.webp",
+        "assets/board/retrieving-folklore/07-activities-render.webp",
+        "assets/board/retrieving-folklore/08-plane-dwelling-open-space.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/retrieving-folklore/01-cover-physical-model.webp"
+          ],
+          "captions": [
+            "Physical model: the village on both banks of the river, with a winding elevated walkway linking the middle school, the village and the commercial district."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "實體模型：河道兩岸的村落，一條蜿蜒的高架步道串連中學、村落與商業區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Although Chaji village has experienced the modern gentrification of urbanization, local residents still stick to it, where the strong street smoke infuses everyone who passes by. The old street is also the base of the village's prosperity, so the transformation must balance the original residents, modern commercial activities and the conservation and dissemination of local traditional culture.",
+          "images": [
+            "assets/board/retrieving-folklore/02-paths-and-residents.webp",
+            "assets/board/retrieving-folklore/03-site-massing.webp"
+          ],
+          "captions": [
+            "Four paths through the village, thirteen cultural arches, and what a boy, a lady, an old lady and a girl said about the place.",
+            "Location and massing of the village and its river."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "雖然茶基村經歷了城市化帶來的現代士紳化，在地居民仍堅守於此，濃厚的街頭煙火氣感染著每一位路過的人。老街也是村落繁榮的根基，因此改造必須在原住居民、現代商業活動，以及在地傳統文化的保存與傳播之間取得平衡。",
+              "captions": [
+                "穿越村落的四條路徑、十三處文化節點，以及一位男孩、一位女士、一位老婦人與一位女孩對這個地方的看法。",
+                "村落與河道的區位與量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Chaji village has a wealth of traditional folk activities, such as dragon boats, martial arts lions and Cantonese opera, and every Dragon Boat Festival people crowd the narrow lanes to watch the “floating dragon boat” make a rapid turn. The interviews list both the problems, such as narrow roads, local population loss and a lack of retail, and the strengths, such as a prosperous clan, a spacious riverside and rich folk activities.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "茶基村擁有豐富的傳統民俗活動，例如龍舟、武術醒獅與粵劇；每年端午節，人們擠滿狹窄的巷弄，觀看「趴龍舟」急速轉彎。訪談同時列出問題，例如道路狹窄、本地人口流失與零售不足，也列出優勢，例如宗族興旺、河岸開闊與民俗活動豐富。"
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A combination of culture and business experience area under the guidance of community co-construction rests on people's participation, business vitality and cultural revival. Three steps prepare the canvas with small-scale greenery and DIY parks, sketch the traffic by adding lanes, replanning parking and removing cars, and work on textures by readapting existing structures and adding urban furniture.",
+          "images": [
+            "assets/board/retrieving-folklore/04-strategy-steps.webp",
+            "assets/board/retrieving-folklore/05-benign-growth-plan.webp"
+          ],
+          "captions": [
+            "People's participation, business vitality and cultural revival, and Steps 1–3: environment, traffic and buildings.",
+            "Benign growth and organic renewal: the plan, with the commercial district, the tea plantation and four layers of services, access, greenery and community."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在社區共建引導下的文化與商業體驗區，以居民參與、商業活力與文化復興為基礎。三個步驟依序以小尺度綠化與 DIY 公園準備畫布，以增設步道、重新規劃停車與移除車輛梳理交通，再以改造既有建築與增設街道家具處理紋理。",
+              "captions": [
+                "居民參與、商業活力與文化復興，以及步驟一至三：環境、交通與建築。",
+                "良性生長與有機更新：總平面，含商業區、茶園，以及服務、可達性、綠地與社區四個層次。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A winding elevated walkway threads an intangible cultural heritage base, a dragon boat pavilion, a music hall, an outdoor stage, a lion dance club, a commercial street, a teahouse and homestays along the river. Green spots, a green corridor and a green district, widened streets, enriched outdoor space and revitalized blocks then open a chain of public spaces from a viewing plaza to a mobile market.",
+          "images": [
+            "assets/board/retrieving-folklore/06-explosion-diagram.webp",
+            "assets/board/retrieving-folklore/07-activities-render.webp",
+            "assets/board/retrieving-folklore/08-plane-dwelling-open-space.webp"
+          ],
+          "captions": [
+            "Rendering explosion diagram of the programmes along the walkway.",
+            "Activities render: dragon boats, the walkway and daily life along the river.",
+            "Plane generation, dwelling renovation and the public open spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一條蜿蜒的高架步道沿河串連非物質文化遺產基地、龍舟亭、音樂廳、戶外舞台、醒獅館、商業街、茶館與民宿。綠點、綠廊與綠區，加上拓寬的街道、豐富的戶外空間與活化的街區，開展出從觀景廣場到流動市集的一連串公共空間。",
+              "captions": [
+                "沿步道配置的各項機能之爆炸透視圖。",
+                "活動渲染圖：龍舟、步道與河岸的日常生活。",
+                "平面生成、民居改造與公共開放空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Listen first: let residents of every age tell you what the place lacks and what it has.\n2. Read culture as space: festivals need lanes, riverbanks and stages.\n3. Renew in small steps: greenery, traffic, then buildings.\n4. Thread the programmes on one route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先傾聽：讓各個年齡的居民說出這個地方缺少什麼、擁有什麼。\n2. 把文化讀成空間：節慶需要巷弄、河岸與舞台。\n3. 以小步驟更新：先綠化，再交通，最後建築。\n4. 用一條路徑串起所有機能。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Hongkong {female} ∈ London",
+      "slug": "hongkong-female-in-london",
+      "description": "Anti-homogeneity urban design based on the female perspective: a female-friendly autonomous community in London for women who have moved from Hong Kong.\n\nLondon, UK | Urban design | Comprehensive Social Investigation, individual work | Spring term 2021–2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "香港 {女性} ∈ 倫敦",
+          "description": "基於女性視角的反同質化城市設計：在倫敦為從香港移居的女性打造一個對女性友善的自治社區。\n\n英國倫敦｜城市設計｜綜合社會調查，個人作品｜2021–2022 學年春季學期｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hongkong-female-in-london/01-cover-section-a1.webp",
+        "assets/board/hongkong-female-in-london/02-site-location.webp",
+        "assets/board/hongkong-female-in-london/03-background.webp",
+        "assets/board/hongkong-female-in-london/04-user-analysis.webp",
+        "assets/board/hongkong-female-in-london/05-concept-plan.webp",
+        "assets/board/hongkong-female-in-london/06-master-plan.webp",
+        "assets/board/hongkong-female-in-london/07-activities-render.webp",
+        "assets/board/hongkong-female-in-london/08-section-a2.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hongkong-female-in-london/01-cover-section-a1.webp"
+          ],
+          "captions": [
+            "A-A'-1 section: residential towers opened up floor by floor beside the office buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "A-A'-1 剖面：逐層剖開的住宅大樓，與一旁的辦公建築並列。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "With high-density development in the process of urbanization, Southeast Asian women in traditional society are facing more severe injustices, which coincides with the upsurge of Hong Kong immigrants to Britain. The project hopes to build a female-friendly regional autonomous community in London by thinking from the perspective of women.",
+          "images": [
+            "assets/board/hongkong-female-in-london/02-site-location.webp"
+          ],
+          "captions": [
+            "The site on the Thames, with 2.5 km and 5 km radii, residential, industrial and commercial zones, greenland and transportation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在城市化進程中的高密度開發下，傳統社會中的東南亞女性正面臨更嚴重的不公，這恰逢香港移民赴英的熱潮。本案希望從女性的視角思考，在倫敦打造一個對女性友善的區域自治社區。",
+              "captions": [
+                "泰晤士河畔的基地，標示 2.5 公里與 5 公里半徑，以及住宅、工業與商業區、綠地與交通。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The background maps the distribution of immigrants to the UK and British immigration sources, then the gender and age proportion of BN(O) arrivals, their self-assessed English level and their interest in social and cultural activities. It also records the sectors in which BN(O)s are working and aspects of their health and wellbeing.",
+          "images": [
+            "assets/board/hongkong-female-in-london/03-background.webp",
+            "assets/board/hongkong-female-in-london/04-user-analysis.webp"
+          ],
+          "captions": [
+            "Background: distribution and sources of immigrants, gender and age, English level, activities, work sectors and wellbeing.",
+            "User analysis: a pregnant woman, an elderly woman, a new mother, a female vendor, a toddler mother and an office lady."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "背景研究繪製移民在英國的分布與移民來源，再分析 BN(O) 移民的性別與年齡比例、自評英語程度，以及對社交與文化活動的興趣。研究也記錄了 BN(O) 移民從事的行業，以及他們健康與福祉的各個面向。",
+              "captions": [
+                "背景：移民的分布與來源、性別與年齡、英語程度、活動、從業行業與福祉。",
+                "使用者分析：孕婦、年長女性、新手媽媽、女性攤販、幼兒母親與上班族女性。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each user gets a design response: emergency call buttons on street lamps at 15 m intervals for pregnant women, shaded, wheelchair-accessible seating for older women, and more space in public bathrooms for mothers and babies. A street-level space lets female vendors work apart from the road, and enclosed, separate office cubicles ensure privacy and equity at work, while the concept plan arranges commercial, office and residential bands around Olympia House.",
+          "images": [
+            "assets/board/hongkong-female-in-london/05-concept-plan.webp"
+          ],
+          "captions": [
+            "Concept design plan and the abstract spatial structure of commercial, office and residential bands."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每一類使用者都有對應的設計：為孕婦在路燈上每隔 15 公尺設置緊急呼叫按鈕，為年長女性設置有遮蔭、可供輪椅使用的座位，並在公共廁所為母親與嬰兒預留更多空間。街道層的空間讓女性攤販能遠離車道工作，獨立封閉的辦公隔間則確保工作上的隱私與平等；概念平面以奧林匹亞大樓為中心，配置商業、辦公與住宅帶。",
+              "captions": [
+                "概念設計平面，以及商業、辦公與住宅帶的抽象空間結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The master plan lays courtyard blocks along the river with sections A-A'-1 and A-A'-2 and three viewpoints for residence, office and commerce. The sections show the community from its opened-up towers to a festive waterfront with a ferry and fireworks.",
+          "images": [
+            "assets/board/hongkong-female-in-london/06-master-plan.webp",
+            "assets/board/hongkong-female-in-london/07-activities-render.webp",
+            "assets/board/hongkong-female-in-london/08-section-a2.webp"
+          ],
+          "captions": [
+            "Master plan with sections A-A'-1 and A-A'-2 and viewpoints 1–3.",
+            "Activities render — viewpoint 1 residence, viewpoint 2 office, viewpoint 3 commercial.",
+            "A-A'-2 section: the waterfront at night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "總平面沿河配置合院式街廓，並標示 A-A'-1 與 A-A'-2 剖面，以及住宅、辦公與商業三個視點。剖面呈現這個社區的樣貌：從逐層剖開的大樓，到有渡輪與煙火的節慶水岸。",
+              "captions": [
+                "總平面，標示 A-A'-1、A-A'-2 剖面與視點一至三。",
+                "活動渲染圖——視點一住宅、視點二辦公、視點三商業。",
+                "A-A'-2 剖面：夜間的水岸。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Design from a perspective: name whose city you are designing.\n2. Use data to find the users, then draw them.\n3. Give every user one concrete spatial answer.\n4. Tell the story in sections people can read.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個視角設計：說清楚你在為誰設計城市。\n2. 用數據找出使用者，再把他們畫出來。\n3. 為每一位使用者給出一個具體的空間回應。\n4. 用人人看得懂的剖面說故事。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "URU Fairy Land",
+      "slug": "uru-fairy-land",
+      "description": "Fluid urbanism design based on human-body sensation: body parts are flattened into lines and rebuilt by a formula into the forms of a mobile city.\n\nUrban design | Spring term 2019–2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "URU 仙境",
+          "description": "基於人體感知的流動都市主義設計：將身體部位壓平為線條，再以公式重建為流動城市的形態。\n\n城市設計｜2019–2020 學年春季學期｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/uru-fairy-land/01-cover-overall-form.webp",
+        "assets/board/uru-fairy-land/02-form-extraction.webp",
+        "assets/board/uru-fairy-land/03-formula.webp",
+        "assets/board/uru-fairy-land/04-rebuild-row-1.webp",
+        "assets/board/uru-fairy-land/05-rebuild-row-2.webp",
+        "assets/board/uru-fairy-land/06-rebuild-row-3.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/uru-fairy-land/01-cover-overall-form.webp"
+          ],
+          "captions": [
+            "Overall form: the combined body-part models joined into one fluid volume."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "整體形態：由各身體部位模型組合成的流動量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The city is “mobile” in the sense that people's five senses are shifted by the activities and the rich religious beliefs of the student's hometown, and the impression of the city changes with them. Using the body as a starting point, the project explores the possibility of a mobile city through the spatial translation of body parts.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "城市是「流動的」：人的五感會隨著家鄉的各種活動與豐富的宗教信仰而轉移，對城市的印象也隨之改變。本案以身體為起點，透過身體部位的空間轉譯，探索流動城市的可能。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Step 1, Flatten, takes the brain, eye, mouth, neck, vessels, torso, hands, skin and bone one by one. Each part is drawn as four line studies that extract its form.",
+          "images": [
+            "assets/board/uru-fairy-land/02-form-extraction.webp"
+          ],
+          "captions": [
+            "Form extraction: four line studies for each of nine body parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "第一步「壓平」，依序處理大腦、眼睛、嘴巴、頸部、血管、軀幹、雙手、皮膚與骨骼。每個部位都以四張線稿萃取出它的形態。",
+              "captions": [
+                "形態萃取：九個身體部位，各四張線稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Since the senses work synergistically with each other, a few elements from the different form-extraction studies that match the imagery are combined. The formula (A + B) × C multiplies two forms by a motion, and each combination generates a 3D model.",
+          "images": [
+            "assets/board/uru-fairy-land/03-formula.webp",
+            "assets/board/uru-fairy-land/04-rebuild-row-1.webp",
+            "assets/board/uru-fairy-land/05-rebuild-row-2.webp",
+            "assets/board/uru-fairy-land/06-rebuild-row-3.webp"
+          ],
+          "captions": [
+            "Formula: (A + B) × C, form times motion.",
+            "Rebuild, first row: three combinations and their 3D models.",
+            "Rebuild, second row.",
+            "Rebuild, third row."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "由於感官彼此協同運作，本案從不同的形態萃取中挑選符合意象的元素加以組合。公式 (A + B) × C 以兩種形態乘上一種運動，每一組組合都生成一個 3D 模型。",
+              "captions": [
+                "公式：(A + B) × C，形態乘以運動。",
+                "重建第一列：三組組合及其 3D 模型。",
+                "重建第二列。",
+                "重建第三列。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The models are mapped back onto the body as the foot sole, intestinal tract, skin, joint, blood vessel, arms, eyes and cervical spine, each with an action such as winding, smooth, plastic, interspersed, distort, extend and reverse. Together they form the overall form of the fluid city.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這些模型再對應回身體，成為腳掌、腸道、皮膚、關節、血管、手臂、眼睛與頸椎，各自帶有纏繞、平滑、可塑、穿插、扭曲、延伸與反轉等動作。它們共同組成流動城市的整體形態。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from your own body and senses.\n2. Flatten before you build: draw each part as lines.\n3. Write a rule, such as form plus form times motion.\n4. Let the rule generate many models, then choose.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從自己的身體與感官出發。\n2. 先壓平再建構：把每個部位畫成線條。\n3. 寫下一條規則，例如形態加形態乘以運動。\n4. 讓規則生成許多模型，再從中挑選。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
