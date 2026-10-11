@@ -1,0 +1,49 @@
+{
+  "project": "Doomsday Garden",
+  "dest": "assets/board/doomsday-garden",
+  "note": "Portfolio pages 17–20 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title column with course and instructor lines and the disaster photo collage (stock photos of real people) on page 17. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-extreme-cold.webp",
+      "sha256": "248a8f90110cd06912b92e92d6de39abd028b8921ec29b0d11c570655c174a39",
+      "bytes": 300848,
+      "from": "page 18 — Extreme Cold (cover), x 0–50 %"
+    },
+    {
+      "name": "02-evolution.webp",
+      "sha256": "07d7442b8a685957a23b8bc3502c52216846a27f4f0d480a54728ad585d9ff7e",
+      "bytes": 80600,
+      "from": "page 17 — before the disaster, disaster occurs, after the disaster, x 20–100 %, y 75.5–100 %; the title column and the disaster photo collage are excluded"
+    },
+    {
+      "name": "03-extreme-hot.webp",
+      "sha256": "2d2c27287068f31563f6aaf5fd713ce106b1c00d61b94d64594b3d4353d8ed1c",
+      "bytes": 319698,
+      "from": "page 18 — Extreme Hot, x 50–100 %"
+    },
+    {
+      "name": "04-flooding.webp",
+      "sha256": "0c039df8d03233c4ff0d9e1299d2bde90371dd3f4f4ba7727f57164b35fee89b",
+      "bytes": 308828,
+      "from": "page 19 — Flooding, x 0–50 %"
+    },
+    {
+      "name": "05-drought.webp",
+      "sha256": "5449838a1b1a29df6ed7fbde3b9232e091b2b8f4000c2917821d0ae4e0006947",
+      "bytes": 302472,
+      "from": "page 19 — Drought, x 50–100 %"
+    },
+    {
+      "name": "06-nuclear-war.webp",
+      "sha256": "8df86f020172f4d344ecf45aebbcd9ea8300c329a4b12246b8bfa96aad69193e",
+      "bytes": 264168,
+      "from": "page 20 — Nuclear War, x 0–50 %"
+    },
+    {
+      "name": "07-waste-siege.webp",
+      "sha256": "8930d0804b7deecbe30f7e127775c24b269cef0e625b062ce03a35c0df5c0c61",
+      "bytes": 236728,
+      "from": "page 20 — Waste Siege, x 50–100 %"
+    }
+  ]
+}
