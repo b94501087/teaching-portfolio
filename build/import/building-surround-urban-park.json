@@ -1,0 +1,67 @@
+{
+  "project": "Building Surround",
+  "dest": "assets/board/building-surround-urban-park",
+  "note": "Portfolio 952911a3 pages 14–16 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the project title graphic, the comic and the district location page with photos and photo cut-out figures on page 14. No retouching.",
+  "files": [
+    {
+      "name": "01-site-modification-plan.webp",
+      "sha256": "469922053ac2e9bf0eea3d58707bba0af5c96cc3de58901d866e1df5d4e9694d",
+      "bytes": 193168,
+      "from": "952911a3 page 16 — site modification plan with drawn views of each area, x 0–50 %"
+    },
+    {
+      "name": "02-site-condition-sketches.webp",
+      "sha256": "307a7fc2fca34685f1e90360ba42f76fafec73679725d0e03856e289878f6dba",
+      "bytes": 69478,
+      "from": "page 14 — site condition sketches, x 72–100 %, y 0–47 %"
+    },
+    {
+      "name": "03-site-axonometric.webp",
+      "sha256": "9fa8182e1a69b046f2fab55f35285a1246232f4e7144246e41121ec5a796fef3",
+      "bytes": 206200,
+      "from": "page 14 — axonometric of the square between the towers, x 68–100 %, y 47–100 %; the comic, the district location photos and photo cut-out figures are excluded"
+    },
+    {
+      "name": "04-site-requirements.webp",
+      "sha256": "6fccc16c274bb33643e4bed3d646bb33ee9b3de4afd4b3bcb68fbb4f37a96f4b",
+      "bytes": 136746,
+      "from": "page 15 — site requirements drawn for each user group, x 0–33.5 %, y 0–55 %"
+    },
+    {
+      "name": "05-site-planning.webp",
+      "sha256": "7f38c66bdc6c6a30c2cc58d8e1cac5d608d8bb5e75ba3421a16a7ed8f8c11ecc",
+      "bytes": 103448,
+      "from": "page 15 — site planning: original site, moving routes, planting and functional divisions, x 0–33.5 %, y 55–100 %"
+    },
+    {
+      "name": "06-design-partition.webp",
+      "sha256": "b74aa00ada19c7945e37836585dc9797e88e82e4d547a1bf992c9cf7bdeb5417",
+      "bytes": 88796,
+      "from": "page 15 — design partition, x 33.5–50.5 %"
+    },
+    {
+      "name": "07-refinement-of-area.webp",
+      "sha256": "77817a9638684b19f5bf095303dafcb1ff780b3e2e844d765378575d248fd8c8",
+      "bytes": 122514,
+      "from": "page 15 — refinement of each area, x 50.5–66.5 %"
+    },
+    {
+      "name": "08-design-generation.webp",
+      "sha256": "0fba97eeed2c6e360d19ca057f5623327042c45bd64c95e76c8166408b2cbf85",
+      "bytes": 215832,
+      "from": "page 15 — design generation for workers, residents, students and passengers, x 66.5–100 %"
+    },
+    {
+      "name": "09-modification-storyboard.webp",
+      "sha256": "ec1ff41a22df45a9ed3bf9bd0dc52dc5d7dd9357bd6054302d5aeb2ccb43f0f4",
+      "bytes": 136674,
+      "from": "page 16 — storyboard and layered view of the site modification, x 50–72 %"
+    },
+    {
+      "name": "10-perspective-views.webp",
+      "sha256": "e8d6d44d10c0b3609c5cc63b5b17e50f4e2ac174d636de0bfd7efc1741402723",
+      "bytes": 184480,
+      "from": "page 16 — perspective views of six places in the park, x 72–100 %"
+    }
+  ]
+}
