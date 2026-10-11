@@ -11137,6 +11137,288 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Urban Space Debris — An Urban Farm in Futian",
+      "slug": "urban-space-debris-farm",
+      "description": "Unused green space in Shenzhen becomes a modular urban farm.\n\nFutian, Shenzhen, China | Urban farm and open space | Feb 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市空間碎片——福田城市農場",
+          "description": "把深圳閒置的零碎綠地轉化為模組化城市農場。\n\n中國深圳福田｜城市農場與開放空間｜2020 年 2 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/urban-space-debris-farm/01-farm-exploded-view.webp",
+        "assets/board/urban-space-debris-farm/02-urban-green-space.webp",
+        "assets/board/urban-space-debris-farm/03-site-and-user-analysis.webp",
+        "assets/board/urban-space-debris-farm/04-farm-cycle-system.webp",
+        "assets/board/urban-space-debris-farm/05-unit-module-steps.webp",
+        "assets/board/urban-space-debris-farm/06-module-combinations.webp",
+        "assets/board/urban-space-debris-farm/07-building-connections.webp",
+        "assets/board/urban-space-debris-farm/08-corridor-exploded-view.webp",
+        "assets/board/urban-space-debris-farm/09-urban-farm-system.webp",
+        "assets/board/urban-space-debris-farm/10-corridor-sections.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/urban-space-debris-farm/01-farm-exploded-view.webp"
+          ],
+          "captions": [
+            "Exploded view of the farm: planting areas, greenhouses, fish ponds and work cells."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "農場爆炸圖：種植區、溫室、魚塘與工作單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Futian in Shenzhen has many small pieces of green space that are left unused. Shenzhen imports most of its grain, and when Covid-19 cut food imports the project proposed to link urban space with food production.",
+          "images": [
+            "assets/board/urban-space-debris-farm/02-urban-green-space.webp",
+            "assets/board/urban-space-debris-farm/03-site-and-user-analysis.webp"
+          ],
+          "captions": [
+            "Scattered green space across Futian.",
+            "City growth, users and the site layers of green space, activity and route."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "深圳福田區有許多零碎而閒置的綠地。深圳大部分糧食仰賴進口，當新冠疫情使糧食進口驟減，本案提出把城市空間與糧食生產結合起來。",
+              "captions": [
+                "福田區零散分布的綠地。",
+                "城市擴張、使用者分析，以及綠地、活動與動線的基地分層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "People, environment and economy are treated as branches that feed one another in a cycle. An internal loop circulates material and energy inside the farm, while an external loop returns its benefits to the surrounding city.",
+          "images": [
+            "assets/board/urban-space-debris-farm/04-farm-cycle-system.webp"
+          ],
+          "captions": [
+            "Internal and external systems of the urban farm."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案把人、環境與經濟視為彼此滋養的循環分支。內部循環在農場內流轉物質與能量，外部循環則把效益回饋給周邊城市。",
+              "captions": [
+                "城市農場的內部系統與外部系統。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A 2×2 m unit module becomes ground, plowland, fish pond, stair, greenhouse or operating room. The units are combined to suit each site and grouped into four blocks that each run a complete planting cycle.",
+          "images": [
+            "assets/board/urban-space-debris-farm/05-unit-module-steps.webp",
+            "assets/board/urban-space-debris-farm/06-module-combinations.webp",
+            "assets/board/urban-space-debris-farm/07-building-connections.webp"
+          ],
+          "captions": [
+            "The unit module and the four steps of assembly.",
+            "Free combinations of modules with their harvest per year.",
+            "Connecting the farms with the surrounding buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以 2×2 公尺的單元模組，發展為地面、耕地、魚塘、樓梯、溫室或操作室。單元依各基地條件自由組合，並分成四個區塊，各自完成一個完整的種植循環。",
+              "captions": [
+                "單元模組與四個組裝步驟。",
+                "模組的自由組合與每年收成量。",
+                "把農場與周邊建築連接起來。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Overhead corridors link the fifth floor of fourteen buildings to the subway entrance and to the farms on two idle sites. Along the route, farming areas, a sunken purchase area, a green corridor and a planting base give office workers and residents new places to grow, buy and rest.",
+          "images": [
+            "assets/board/urban-space-debris-farm/08-corridor-exploded-view.webp",
+            "assets/board/urban-space-debris-farm/09-urban-farm-system.webp",
+            "assets/board/urban-space-debris-farm/10-corridor-sections.webp"
+          ],
+          "captions": [
+            "Exploded view of the corridors.",
+            "The urban farm system across the district.",
+            "Sections along the corridor from rest space to planting base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "架空廊道串連十四棟建築的五樓、地鐵出入口與兩處閒置基地上的農場。沿線的種植區、下沉採購區、綠色廊道與種植基地，讓上班族與居民有了耕種、採買與休憩的新場所。",
+              "captions": [
+                "廊道爆炸圖。",
+                "橫跨街區的城市農場系統。",
+                "沿廊道從休憩空間到種植基地的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the unused space before choosing a site.\n2. Link the brief to a pressing city need.\n3. Design one module that can grow into many.\n4. Connect the new system to daily routes.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選址之前先盤點閒置空間。\n2. 把題目連結到城市的迫切需求。\n3. 設計一個能衍生多種組合的模組。\n4. 把新系統接上日常動線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Inner Peace — A Memory Route on Kulangsu",
+      "slug": "inner-peace-kulangsu",
+      "description": "A landscape route that turns the history of Kulangsu into a journey from depression to peace.\n\nKulangsu, Xiamen, China | Memorial landscape | Oct 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "內心平靜——鼓浪嶼記憶路徑",
+          "description": "把鼓浪嶼的歷史轉化為從壓抑走向平靜的景觀路徑。\n\n中國廈門鼓浪嶼｜紀念景觀｜2019 年 10 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/inner-peace-kulangsu/01-master-plan.webp",
+        "assets/board/inner-peace-kulangsu/02-kulangsu-island-map.webp",
+        "assets/board/inner-peace-kulangsu/03-story-line.webp",
+        "assets/board/inner-peace-kulangsu/04-space-morphology.webp",
+        "assets/board/inner-peace-kulangsu/05-exploded-sequences.webp",
+        "assets/board/inner-peace-kulangsu/06-model-perspectives.webp",
+        "assets/board/inner-peace-kulangsu/07-model-birds-eye-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/inner-peace-kulangsu/01-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan: Memory Slope, Thistles and Thorns, the Path of Exile and the Life Tree."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "總平面圖：記憶坡、荊棘之地、流放之路與生命樹。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Kulangsu was once a public concession where 18 countries set up consulates, and its history still stirs different feelings in different groups of people. The project designs a route on the green space outside the former organ museum that leads visitors from depression to peace.",
+          "images": [
+            "assets/board/inner-peace-kulangsu/02-kulangsu-island-map.webp"
+          ],
+          "captions": [
+            "Western-style buildings, consulates and the site on Kulangsu Island."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "鼓浪嶼曾是公共租界，有 18 個國家在島上設立領事館，這段歷史至今仍在不同群體心中激起不同的情緒。本案在舊風琴博物館外的綠地上設計一條路線，引導訪客從壓抑走向平靜。",
+              "captions": [
+                "鼓浪嶼上的西式建築、領事館與基地位置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Historical events are analysed by the emotions they raise, using the PAD emotion model. These emotions are then translated into space elements such as a narrow road, a high wall, a mirror and glass debris.",
+          "images": [
+            "assets/board/inner-peace-kulangsu/03-story-line.webp",
+            "assets/board/inner-peace-kulangsu/04-space-morphology.webp"
+          ],
+          "captions": [
+            "Story line of the route from start to end.",
+            "Morphology of the space elements."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案以 PAD 情緒模型，分析歷史事件所引發的情緒。再把這些情緒轉譯為空間元素，例如窄路、高牆、鏡子與玻璃碎片。",
+              "captions": [
+                "從起點到終點的路線故事線。",
+                "空間元素的形態。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The route passes through four spaces: Oppression, Assuage, Inner Peace and Wonderful World. Each space is built from layers such as a mirror and glass fragments, high walls along the main road, a mirror pool under a cherry tree, and a loop with a slope towards the exit.",
+          "images": [
+            "assets/board/inner-peace-kulangsu/05-exploded-sequences.webp"
+          ],
+          "captions": [
+            "Exploded drawings of the four spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "路線依序穿過四個空間：壓迫、撫慰、內心平靜與美好世界。每個空間由不同層次構成，例如鏡子與玻璃碎片、主路兩側的高牆、櫻花樹下的鏡面水池，以及沿坡道通往出口的迴圈。",
+              "captions": [
+                "四個空間的爆炸圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the model, broken glass and mirror fragments made of plastic reflect a broken image of oneself in Thistles and Thorns. The route then opens onto Memory Slope and the Life Tree, where the feeling turns towards peace.",
+          "images": [
+            "assets/board/inner-peace-kulangsu/06-model-perspectives.webp",
+            "assets/board/inner-peace-kulangsu/07-model-birds-eye-view.webp"
+          ],
+          "captions": [
+            "Model views of Thistles and Thorns and Memory Slope.",
+            "Bird's-eye view of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在模型中，以塑膠製作的碎玻璃與鏡片，在荊棘之地映照出破碎的自我。路線隨後開向記憶坡與生命樹，情緒也在此轉向平靜。",
+              "captions": [
+                "荊棘之地與記憶坡的模型視角。",
+                "模型鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the history of the site as emotions.\n2. Measure feelings with a simple model.\n3. Turn each emotion into a space element.\n4. Order the spaces as one emotional route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把基地的歷史解讀為情緒。\n2. 用簡單的模型衡量感受。\n3. 把每種情緒轉化為空間元素。\n4. 將空間排列成一條情緒路線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
