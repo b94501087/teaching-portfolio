@@ -8980,6 +8980,590 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Colosseum Deconstruction",
+      "slug": "colosseum-deconstruction",
+      "description": "A residential activity center in Xiangtan that deconstructs the Colosseum into many gathering points for the community.\n\nXiangtan, China | Residential activity center | Spring 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "解構羅馬競技場",
+          "description": "位於湘潭的社區活動中心，將羅馬競技場解構為多個供居民聚集的空間。\n\n中國湘潭｜社區活動中心｜2021 年春｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/colosseum-deconstruction/01-roof-and-ramps.webp",
+        "assets/board/colosseum-deconstruction/02-xiangtan-mapping.webp",
+        "assets/board/colosseum-deconstruction/03-site-axonometric.webp",
+        "assets/board/colosseum-deconstruction/04-morphogenesis.webp",
+        "assets/board/colosseum-deconstruction/05-concept-model.webp",
+        "assets/board/colosseum-deconstruction/06-exploded-layers.webp",
+        "assets/board/colosseum-deconstruction/07-ground-axonometric.webp",
+        "assets/board/colosseum-deconstruction/08-sectional-day.webp",
+        "assets/board/colosseum-deconstruction/09-model-transformations.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/colosseum-deconstruction/01-roof-and-ramps.webp"
+          ],
+          "captions": [
+            "Red frames, ramps and a layered roof over the activity center."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "紅色框架、坡道與層疊屋頂覆蓋活動中心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is in the old city of Xiangtan, Hunan Province, China, on the east side of a university and next to a community park. With the industrial zone to the north and the old city to the south, there are no large parks nearby for residents' leisure and entertainment.",
+          "images": [
+            "assets/board/colosseum-deconstruction/02-xiangtan-mapping.webp",
+            "assets/board/colosseum-deconstruction/03-site-axonometric.webp"
+          ],
+          "captions": [
+            "Mapping of Xiangtan: industrial, residential and old–new urban boundaries.",
+            "Site axonometric: the community park and its lake."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於中國湖南省湘潭市老城區，在一所大學的東側，緊鄰社區公園。北面為工業區、南面為湘潭老城，附近沒有可供居民休閒娛樂的大型公園。",
+              "captions": [
+                "湘潭地圖：工業、居住與新舊城區的邊界。",
+                "基地軸測圖：社區公園與湖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Crowd research found that residents gather in the community much as people did in the ancient Roman theatre. The Colosseum, which gathers towards a single centre, is therefore deconstructed into blocks facing different spaces, and human activities are explored through nine manual models.",
+          "images": [
+            "assets/board/colosseum-deconstruction/04-morphogenesis.webp",
+            "assets/board/colosseum-deconstruction/05-concept-model.webp"
+          ],
+          "captions": [
+            "Nine manual models and the morphogenesis of the gathering space.",
+            "Concept model: a curved route and a roof in three heights."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "人群研究發現，社區居民的聚集行為與古羅馬劇場相似。因此將向單一中心聚集的羅馬競技場解構為面向不同空間的區塊，並以九個手工模型探索人在空間中的活動。",
+              "captions": [
+                "九個手工模型與聚集空間的形態生成。",
+                "概念模型：曲線動線與三段高度的屋頂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The route through the building is curved to follow how people move in the park, and the roof is divided into three parts at different heights to let sunlight in. The ground floor holds community offices, clinics and nursing rooms; the first floor holds an activity room, a gym and chess rooms around an indoor botanical garden.",
+          "images": [
+            "assets/board/colosseum-deconstruction/06-exploded-layers.webp",
+            "assets/board/colosseum-deconstruction/07-ground-axonometric.webp"
+          ],
+          "captions": [
+            "Exploded layers: floors, columns, railing and the stepped roofs.",
+            "The activity center set in the open space north of the park."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "建築內的動線呈曲線，以呼應人們在公園中的行走方式；屋頂分為三段不同高度，讓陽光進入室內。一樓設置社區辦公室、社區診所與護理室；二樓則圍繞室內植物園配置活動室、健身房與棋藝室。",
+              "captions": [
+                "分解圖：樓層、柱列、欄杆與階梯式屋頂。",
+                "活動中心位於公園北側的開放空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The section follows a resident's day in the building, from morning tea in the botanical garden to yoga and chess in the afternoon. At dusk people watch the sunset from the west ramp, and after dinner families dance and sing in the indoor garden.",
+          "images": [
+            "assets/board/colosseum-deconstruction/08-sectional-day.webp",
+            "assets/board/colosseum-deconstruction/09-model-transformations.webp"
+          ],
+          "captions": [
+            "Section A-A with activities from 8 am to 9 pm.",
+            "Inside the conceptual model: transformations A and B."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "剖面記錄了居民在建築中的一天，從早晨在植物園喝茶，到午後的瑜伽與下棋。傍晚人們在西側坡道欣賞夕陽，晚餐後家人則在室內植物園跳舞唱歌。",
+              "captions": [
+                "A-A 剖面與早上 8 點至晚上 9 點的活動。",
+                "概念模型內部：變化 A 與 B。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe how residents really gather.\n2. Find a precedent with the same behaviour.\n3. Deconstruct it into usable parts.\n4. Test space with quick hand models.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察居民實際的聚集方式。\n2. 找出具有相同行為的先例。\n3. 將先例解構為可用的元件。\n4. 以快速手工模型測試空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Escape from the City",
+      "slug": "escape-from-the-city",
+      "description": "A water taxi terminal complex in Lower Manhattan that offers residents a way to escape the rigid modern city.\n\nLower Manhattan, New York | Water taxi terminal complex | Fall 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "逃離城市",
+          "description": "位於下曼哈頓的水上計程車碼頭綜合體，為市民提供逃離僵化現代城市的出口。\n\n紐約下曼哈頓｜水上計程車碼頭綜合體｜2020 年秋｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/escape-from-the-city/01-terminal-elevation.webp",
+        "assets/board/escape-from-the-city/02-lower-manhattan-map.webp",
+        "assets/board/escape-from-the-city/03-greenery-and-traffic.webp",
+        "assets/board/escape-from-the-city/04-form-generation.webp",
+        "assets/board/escape-from-the-city/05-exploded-floors.webp",
+        "assets/board/escape-from-the-city/06-aerial-view.webp",
+        "assets/board/escape-from-the-city/07-terminal-section.webp",
+        "assets/board/escape-from-the-city/08-handmade-model.webp",
+        "assets/board/escape-from-the-city/09-model-interiors.webp",
+        "assets/board/escape-from-the-city/10-pier-top-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/escape-from-the-city/01-terminal-elevation.webp"
+          ],
+          "captions": [
+            "The water taxi terminal rises from the river below the towers of the city."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "水上計程車碼頭在城市高樓下自河面升起。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Manhattan was built up very quickly, with many high-rise buildings by 1931, and its urban layout became mechanised and rigid. Green space lies mainly along the shore, so people in the centre travel several kilometres to reach a park, and traffic congestion makes them spend a long time commuting.",
+          "images": [
+            "assets/board/escape-from-the-city/02-lower-manhattan-map.webp",
+            "assets/board/escape-from-the-city/03-greenery-and-traffic.webp"
+          ],
+          "captions": [
+            "Lower Manhattan: the site at the junction of the city and the water taxi routes.",
+            "Analysis of urban greenery, city traffic and the city view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "曼哈頓的都市化進程非常迅速，到 1931 年已有大量高樓，城市格局因而變得機械而僵化。綠地主要分布在沿海地帶，市中心的居民需要移動數公里才能到達公園，交通壅塞也讓人們耗費大量時間通勤。",
+              "captions": [
+                "下曼哈頓：基地位於城市與水上計程車航線的交會處。",
+                "都市綠地、城市交通與城市景觀分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site is a water taxi terminal in Lower Manhattan, at the junction between the city and the ocean and a symbol of escape from the city. Drawing on people's pursuit of utopia in Alice in Wonderland, map symbols were abstracted into graphs and combined into blocks and sketch models.",
+          "images": [
+            "assets/board/escape-from-the-city/04-form-generation.webp"
+          ],
+          "captions": [
+            "From abstract graphs to first-stage blocks and sketch models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地是下曼哈頓的一座水上計程車碼頭，位於城市與海洋的交界，也是逃離城市的象徵。設計以《愛麗絲夢遊仙境》中人們對烏托邦的追尋為概念，將地圖符號抽象為圖形，再組合成量體與草模。",
+              "captions": [
+                "從抽象圖形到第一階段量體與草模。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The features of the sketch models are brought together into one building with a green roof overlooking Manhattan, a private second floor for reading and resting, and a public first floor with a spa room, a party hall and a restaurant. The ground floor is the dock waiting space, with five small platforms where ferries, boats and water taxis can dock.",
+          "images": [
+            "assets/board/escape-from-the-city/05-exploded-floors.webp",
+            "assets/board/escape-from-the-city/06-aerial-view.webp",
+            "assets/board/escape-from-the-city/07-terminal-section.webp"
+          ],
+          "captions": [
+            "Exploded floors: roof greening, shell, private and public floors and the dock.",
+            "Aerial view: central park, central floor, public space and pier.",
+            "Section A-A through the terminal."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "草模的特徵被整合為一座建築：綠屋頂可眺望曼哈頓，二樓為閱讀與休憩的私人空間，一樓公共層設有水療室、宴會廳與餐廳。地面層則是碼頭候船空間，周圍五個小平台可供渡輪、船隻與水上計程車停靠。",
+              "captions": [
+                "分解圖：綠屋頂、外殼、私人與公共樓層，以及碼頭。",
+                "鳥瞰圖：中央公園、中央樓層、公共空間與碼頭。",
+                "碼頭 A-A 剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The pier is not only a docking station for water taxis but also a multi-functional space for residents that breaks the vacuum of functional zoning. It gives everyone a way to escape the city, to rest in their spare time, have their own space or meet friends.",
+          "images": [
+            "assets/board/escape-from-the-city/08-handmade-model.webp",
+            "assets/board/escape-from-the-city/09-model-interiors.webp",
+            "assets/board/escape-from-the-city/10-pier-top-view.webp"
+          ],
+          "captions": [
+            "Handmade sectional model of the floors.",
+            "Model interiors: private cottage, lounge, entrance and dock waiting space.",
+            "Top view of the pier with boats docking."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座碼頭不只是水上計程車的停靠站，也是打破功能分區真空的多功能市民空間。它讓每個人都有逃離城市的方式，可以在閒暇時休息、擁有自己的空間，或與朋友交流。",
+              "captions": [
+                "樓層剖面手工模型。",
+                "模型內部：私人小屋、休息室、入口與碼頭候船空間。",
+                "碼頭俯視圖與停靠的船隻。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the city's history and pressures.\n2. Turn a story into a spatial concept.\n3. Abstract it into graphs and blocks.\n4. Prove the space in a sectional model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀城市的歷史與壓力。\n2. 將故事轉化為空間概念。\n3. 抽象為圖形與量體。\n4. 以剖面模型驗證空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Folding Avon River",
+      "slug": "folding-avon-river",
+      "description": "A water museum in Bristol that folds the three reaches of the River Avon and their activities into one building.\n\nBristol, UK | Water museum | Fall 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "折疊雅芳河",
+          "description": "位於布里斯托的水博物館，將雅芳河三段河域及其活動折疊進同一座建築。\n\n英國布里斯托｜水博物館｜2022 年秋｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/folding-avon-river/01-sectional-model.webp",
+        "assets/board/folding-avon-river/02-site-and-maps.webp",
+        "assets/board/folding-avon-river/03-concept-sketches.webp",
+        "assets/board/folding-avon-river/04-morphogenesis.webp",
+        "assets/board/folding-avon-river/05-exploded-view.webp",
+        "assets/board/folding-avon-river/06-water-purification.webp",
+        "assets/board/folding-avon-river/07-floor-plans.webp",
+        "assets/board/folding-avon-river/08-museum-section.webp",
+        "assets/board/folding-avon-river/09-avon-mapping.webp",
+        "assets/board/folding-avon-river/10-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/folding-avon-river/01-sectional-model.webp"
+          ],
+          "captions": [
+            "Handmade sectional model of the water museum."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "水博物館的手工剖面模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The River Avon flows through the city centre of Bristol and can be called the artery of the city, and wherever it flows residents carry out different activities. The site, however, gives people no reason to stop, so a museum here has to be about making people stop.",
+          "images": [
+            "assets/board/folding-avon-river/09-avon-mapping.webp",
+            "assets/board/folding-avon-river/02-site-and-maps.webp"
+          ],
+          "captions": [
+            "Mapping of the River Avon through the city.",
+            "The riverside site and maps of the city."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "雅芳河流經布里斯托市中心，可說是城市的動脈，河流所到之處，居民便展開各種不同的活動。然而基地本身缺乏讓人駐足的理由，因此在此設計博物館，更重要的是如何讓人停下腳步。",
+              "captions": [
+                "雅芳河流經城市的地圖分析。",
+                "河岸基地與城市地圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The river divides the city into three parts: offices where people work and study in the lower reaches, pubs and coffee shops where they rest and talk in the middle reaches, and park squares for running and exercise in the upper reaches. The idea is to fold the activities of these three parts into one space that works as both a museum and an event space.",
+          "images": [
+            "assets/board/folding-avon-river/03-concept-sketches.webp",
+            "assets/board/folding-avon-river/04-morphogenesis.webp"
+          ],
+          "captions": [
+            "Concept sketches of the folded space and the water section.",
+            "Morphogenesis: keep the old frame, stretch to the river, stream the roof, dig a sunken square."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "河流將城市分為三段：下游是人們工作與讀書的辦公區，中游有讓人休息交流的酒吧與咖啡館，上游則有供人跑步運動的公園廣場。構想是將三段河流的活動折疊進同一個空間，使其同時成為博物館與活動空間。",
+              "captions": [
+                "折疊空間與水流剖面的概念草圖。",
+                "形態生成：保留舊框架、向河延伸、流線屋頂、下挖廣場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The framework of part of the existing building is kept, the upper block is stretched towards the river and a sunken square is dug out as a courtyard where people gather and rest. Water is pumped from the river to the glass roof, filtered, falls through a water curtain into the exhibition room and flows back to the Avon through an indoor channel and the central square.",
+          "images": [
+            "assets/board/folding-avon-river/05-exploded-view.webp",
+            "assets/board/folding-avon-river/06-water-purification.webp",
+            "assets/board/folding-avon-river/07-floor-plans.webp"
+          ],
+          "captions": [
+            "Exploded view of the roof and the exhibition, learning and lobby levels.",
+            "Roof details and the water purification system.",
+            "First and ground floor plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "保留基地上部分原有建築的框架，將上層量體向河岸延伸，並下挖一處下沉廣場作為人們聚集休憩的中庭。河水被抽送至玻璃屋頂，經過濾後化為水幕落入展覽室，再經室內水道與中央廣場流回雅芳河。",
+              "captions": [
+                "屋頂與展覽、學習及大廳樓層的分解圖。",
+                "屋頂細部與水淨化系統。",
+                "一樓與地面層平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The water museum holds the three different crowd behaviours of the river, an epitome of how people live around the Avon in the whole city. The lower plaza looks across the river, and a corridor outside the exhibition room links it with the other spaces.",
+          "images": [
+            "assets/board/folding-avon-river/08-museum-section.webp",
+            "assets/board/folding-avon-river/10-model-details.webp"
+          ],
+          "captions": [
+            "Section A-A through the museum.",
+            "Square and corridor models and model details."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座水博物館容納了河流三段不同的人群行為，是整座城市居民圍繞雅芳河生活的縮影。下沉廣場可眺望對岸，展覽室外的廊道則串連起其他空間。",
+              "captions": [
+                "博物館 A-A 剖面。",
+                "廣場與廊道模型及模型細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map how the river shapes daily life.\n2. Divide the city into readable parts.\n3. Fold their activities into one plan.\n4. Let a working system shape the form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 繪製河流如何塑造日常生活。\n2. 將城市劃分為可解讀的段落。\n3. 把各段活動折疊進同一平面。\n4. 讓運作系統塑造建築形式。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Metropolis",
+      "slug": "metropolis-unfinished-building",
+      "description": "An unfinished tower in Guangzhou renovated with capsule housing and job shops for surplus workers.\n\nGuangzhou, China | Unfinished building renovation | Fall 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "大都會",
+          "description": "以膠囊住宅與職業工坊改造廣州的爛尾樓，為過剩的勞動者提供居住與工作空間。\n\n中國廣州｜爛尾樓改造｜2021 年秋｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/metropolis-unfinished-building/01-red-frame-tower.webp",
+        "assets/board/metropolis-unfinished-building/02-building-growth.webp",
+        "assets/board/metropolis-unfinished-building/03-capsule-living-space.webp",
+        "assets/board/metropolis-unfinished-building/04-capsule-combinations.webp",
+        "assets/board/metropolis-unfinished-building/05-quadruple-capsule.webp",
+        "assets/board/metropolis-unfinished-building/06-exploded-floors.webp",
+        "assets/board/metropolis-unfinished-building/07-east-section-perspective.webp",
+        "assets/board/metropolis-unfinished-building/08-structural-section.webp",
+        "assets/board/metropolis-unfinished-building/09-living-public-factory.webp",
+        "assets/board/metropolis-unfinished-building/10-handmade-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/metropolis-unfinished-building/01-red-frame-tower.webp"
+          ],
+          "captions": [
+            "A red steel frame wraps the unfinished tower with new working and living floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "紅色鋼構架包覆未完工的高樓，加入新的工作與居住樓層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "After rapid and intense urban development in Guangzhou, many working people could not keep up with its pace and became a surplus labour force. At the same time, office buildings under construction were suspended when the capital chain broke, leaving unfinished towers near the CBD.",
+          "images": [
+            "assets/board/metropolis-unfinished-building/02-building-growth.webp"
+          ],
+          "captions": [
+            "Building growth model: from the location to three stages of renovation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州經歷快速而激烈的城市發展後，許多勞動者跟不上發展的步伐，成為過剩的勞動力。同時，興建中的辦公大樓因資金鏈斷裂而停工，在中央商務區附近留下未完工的高樓。",
+              "captions": [
+                "建築生長模型：從基地位置到三個改造階段。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "An external steel structure is added to reduce the burden on the original structure and to provide platforms for the renovation. A capsule block for living is made of six pre-installed panels that can be taken apart and combined at will, so capsules can form different combinations.",
+          "images": [
+            "assets/board/metropolis-unfinished-building/03-capsule-living-space.webp",
+            "assets/board/metropolis-unfinished-building/04-capsule-combinations.webp"
+          ],
+          "captions": [
+            "Capsule living space: sleeping, working and storage parts.",
+            "Capsule combinations."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "增設外部鋼構以減輕原有結構的負擔，並提供改造所需的平台。作為居所的膠囊單元由六片預裝板組成，可隨意拆解與組合，因此膠囊能形成各種不同的組合。",
+              "captions": [
+                "膠囊居住空間：睡眠、工作與收納部件。",
+                "膠囊的組合方式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "When four capsules are gathered, the partitions between them can be removed to form a shared living space, and people can still work or study in separate capsules without disturbing each other. Job shops offer low-cost, low-polluting work, a canteen and bathhouse serve the crowd, and thickened working floors separate the equipment from the accommodation.",
+          "images": [
+            "assets/board/metropolis-unfinished-building/05-quadruple-capsule.webp",
+            "assets/board/metropolis-unfinished-building/06-exploded-floors.webp",
+            "assets/board/metropolis-unfinished-building/07-east-section-perspective.webp",
+            "assets/board/metropolis-unfinished-building/08-structural-section.webp"
+          ],
+          "captions": [
+            "Quadruple capsule set and how its partitions open up.",
+            "Exploded views: job shops, canteen, bathhouse and capsule housing.",
+            "East section perspective of the renovated tower.",
+            "Partial structural section with escalators and green areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "四個膠囊聚集時，可拆除其間的隔板形成共享的生活空間，人們也能在各自的膠囊中工作或讀書而互不干擾。職業工坊提供低成本、低污染的工作，食堂與澡堂服務人群，加厚的工作樓板則將設備與居住樓層分隔。",
+              "captions": [
+                "四聯膠囊組合與隔板的開合方式。",
+                "分解圖：職業工坊、食堂、澡堂與膠囊住宅。",
+                "改造後高樓的東向剖透視。",
+                "局部結構剖面：手扶梯與綠化區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "By becoming self-sufficient, the renovated building gives surplus workers a place to live and work and brings the unfinished flats and ground floor back into use. Renovating an unfinished tower near the CBD as a workplace for low-level employees shows that no work is high or low and that everyone can work in the city centre.",
+          "images": [
+            "assets/board/metropolis-unfinished-building/09-living-public-factory.webp",
+            "assets/board/metropolis-unfinished-building/10-handmade-models.webp"
+          ],
+          "captions": [
+            "Living, public and factory space stacked in one module.",
+            "Handmade three-layer models of a module."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "透過自給自足，改造後的建築為過剩的勞動者提供居住與工作的場所，也讓未完工的住宅與地面層重新被使用。將中央商務區附近的爛尾樓改造為基層員工的工作場所，證明工作沒有高低之分，每個人都能在城市中心工作。",
+              "captions": [
+                "居住、公共與工廠空間堆疊於同一模組。",
+                "模組的三層手工模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a social problem in the city.\n2. Reuse what is already built.\n3. Design a small unit that can combine.\n4. Stack work and life in one section.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從城市中的社會問題出發。\n2. 再利用既有的建築。\n3. 設計可組合的小單元。\n4. 在同一剖面中堆疊工作與生活。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
