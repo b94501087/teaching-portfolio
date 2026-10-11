@@ -1,0 +1,37 @@
+{
+  "project": "Missile Toilet",
+  "dest": "assets/board/missile-toilet",
+  "note": "Portfolio 2dd5d109 pages 18–21 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the Everest title photo, the news collage, glacier, base-camp and water bear photos on page 18, the base-camp photo with climbers on page 19, and the storyboards and render with photos of people on pages 20–21. No retouching.",
+  "files": [
+    {
+      "name": "01-exploded-elements.webp",
+      "sha256": "5461b4f6111af551437a44995e46eebf471581bd6ab1b782d2546560ea5a2e82",
+      "bytes": 199218,
+      "from": "2dd5d109 page 20 — exploded axonometric of the six elements, x 37–81 %; the procedures storyboard with photos of people is excluded"
+    },
+    {
+      "name": "02-folding-details.webp",
+      "sha256": "cf3edd5d2037f83786cc3153d2954ff33b98952a6f175ee8f0a7c53683639f36",
+      "bytes": 68036,
+      "from": "page 20 — element details: folding skeletons, manure handling module and folding toilet, x 81–99 %"
+    },
+    {
+      "name": "03-process-strategy.webp",
+      "sha256": "9208e2441a3f069e802785c4ac14af4df2c43a66d436b1abe07ec983c908b5f8",
+      "bytes": 42324,
+      "from": "page 19 — process strategy: manure drying tests and microwave pyrolysis, x 2–25 %, y 2–67 %; the base-camp photo with climbers and the photo of a person are excluded"
+    },
+    {
+      "name": "04-programs.webp",
+      "sha256": "762f5204f1205acf58dedd0f26dc0d25809fdaf239708287ea8c8c3393b24c19",
+      "bytes": 24640,
+      "from": "page 18 — programs diagram, x 77–99 %, y 71–98 %; the news collage, glacier photos, base-camp photo and water bear photos are excluded"
+    },
+    {
+      "name": "05-design-sketch.webp",
+      "sha256": "26af57a1e2909806d152c9048f5ae43e61985e2a410a783cded0ce352c1ae697",
+      "bytes": 229932,
+      "from": "page 21 — design sketch: toilet, overall, water system and faeces processor, y 70–98 %; the storyboard photos of people above are excluded"
+    }
+  ]
+}
