@@ -1,0 +1,67 @@
+{
+  "project": "Folding Avon River",
+  "dest": "assets/board/folding-avon-river",
+  "note": "Portfolio 9bb9870d pages 16–20 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title render with photo cut-out figures and the tutor and contact details on page 16, the timeline, city and concept collage photos on page 17, the interior render on page 18, and the indoor views and river view with photo cut-out figures on page 19. Board typo 'Water Messum' corrected to 'Water Museum'. No retouching.",
+  "files": [
+    {
+      "name": "01-sectional-model.webp",
+      "sha256": "3c637a74dbbd6866b652e67795c7db236413ff639e23bd2a34d2c53212d6dad5",
+      "bytes": 76308,
+      "from": "9bb9870d page 20 — handmade sectional model, x 52–99 %, y 3–72 %"
+    },
+    {
+      "name": "02-site-and-maps.webp",
+      "sha256": "00ed0dc56fe5f5d660de9bd1f185a73cdb37634579d7e33923ee0019bfce24c7",
+      "bytes": 117266,
+      "from": "page 17 — site axonometric beside the riverside and two city maps, side by side; the city photos above are excluded"
+    },
+    {
+      "name": "03-concept-sketches.webp",
+      "sha256": "a29e94221c9993512ae5997315a6ec94796516df2851d1ea35d79a4e6952ab1f",
+      "bytes": 44490,
+      "from": "page 17 — concept sketches and water section sketch, x 51–99 %, y 71–88 %; the concept collage with photos of people is excluded"
+    },
+    {
+      "name": "04-morphogenesis.webp",
+      "sha256": "60bd1cd9326197cf670ee6e99cacb6c73198f8848dcd23a76616d1da71838626",
+      "bytes": 91582,
+      "from": "page 18 — morphogenesis in five steps, x 2–18 %"
+    },
+    {
+      "name": "05-exploded-view.webp",
+      "sha256": "1ddb7a7ae33b7fd2cb58cc39d5877847e430520be7ec37b1d2f8433e02214358",
+      "bytes": 175142,
+      "from": "page 18 — exploded view: roof, exhibition, learning and lobby levels, x 19–71 %"
+    },
+    {
+      "name": "06-water-purification.webp",
+      "sha256": "e17aec58484b04c84647b804806e118c2ca860ac2a464d44a630dcd9362a40b1",
+      "bytes": 55832,
+      "from": "page 18 — roof details and water purification system, stacked, x 73–99 %; the interior render at the top is excluded"
+    },
+    {
+      "name": "07-floor-plans.webp",
+      "sha256": "033e58f7634b1bad7440ff99de11d36c7aa7e81b45a1d08fe40fa3000c575f7c",
+      "bytes": 147296,
+      "from": "page 19 — first and ground floor plans with legends, x 2–42 %, y 3–56 %; the indoor views and river view with photo cut-out figures are excluded"
+    },
+    {
+      "name": "08-museum-section.webp",
+      "sha256": "447df5f7e696de851703bc94d2ecd6eaa67c6272f7e31d58afd9c3087744a771",
+      "bytes": 76396,
+      "from": "page 20 — section A-A, x 2–50 %, y 46–97 %"
+    },
+    {
+      "name": "09-avon-mapping.webp",
+      "sha256": "3d1a7c49a25245a97da6ebea4023f64f13aff87aafb6f5db54529f5814707db9",
+      "bytes": 102994,
+      "from": "page 17 — mapping of the River Avon through the city, x 2–49 %, y 43–59 %; the timeline photos above are excluded"
+    },
+    {
+      "name": "10-model-details.webp",
+      "sha256": "e4fb775978bc12f9e3852d9af79ccca2059edd2060cc143745b424f3292827be",
+      "bytes": 66116,
+      "from": "page 20 — square and corridor models and two model details, stacked; the text is excluded"
+    }
+  ]
+}
