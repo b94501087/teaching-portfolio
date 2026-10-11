@@ -1,0 +1,61 @@
+{
+  "project": "A Carnival for the Terminally Ill Elderly",
+  "dest": "assets/board/carnival-for-the-terminally-ill-elderly",
+  "note": "Portfolio 66f85465 pages 12–15 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title block, the map photo and the booking interface with photo figures on page 12, the film stills of 'The Bucket List', the concept photo of a person and the comic renderings on page 13, the renderings with photo figures on pages 14–15. No retouching.",
+  "files": [
+    {
+      "name": "01-exploded-views.webp",
+      "sha256": "8c2442e5331ee08762e5c5e6d888792b5980d5dcad104e3d44cf438f6f21e417",
+      "bytes": 120886,
+      "from": "66f85465 page 13 — exploded views with the order of function spaces, x 79–100 %"
+    },
+    {
+      "name": "02-status-survey.webp",
+      "sha256": "9000efff9b18fe033e5f7dc3de825b576e7c7f51f2b48003542931d0b56b2329",
+      "bytes": 81514,
+      "from": "page 12 — status survey of the elderly, nursing homes and nursing workers, x 15–50 %, y 0–37 %"
+    },
+    {
+      "name": "03-healthcare-prejudice-comic.webp",
+      "sha256": "cabd42f1a38c4efcade944b01b1cecf1c616be3d56022becfb5e7c9f5da50531",
+      "bytes": 74218,
+      "from": "page 12 — population imbalance and drawn comic of prejudice against healthcare spaces, x 0–15.5 %, y 25–100 %; the title block above and the map photo with a hand on the screen are excluded"
+    },
+    {
+      "name": "04-site-plan.webp",
+      "sha256": "7d8532d48e7afb43d1e9336c4ea346a930e6194e02c2436f13fb9d9355974f74",
+      "bytes": 120056,
+      "from": "page 13 — plan with residential, memorial and garden areas, x 0–20 %; the film stills of 'The Bucket List' and the concept photo of a person are excluded"
+    },
+    {
+      "name": "05-wheelchair-sketches.webp",
+      "sha256": "9d9369d5c7d17271e2bc8752416c4f46f18b4e5a4674c95fd83a3e2bc4fa857a",
+      "bytes": 64746,
+      "from": "page 14 — design thinking sketches and types of wheelchair, x 0–15.5 %"
+    },
+    {
+      "name": "06-pool-vertical-section.webp",
+      "sha256": "09d5e1d7dfb237cb6829815684dc612021a18cf905b91a1ddcc9ebcb37a48386",
+      "bytes": 91230,
+      "from": "page 14 — detailed vertical section of the pool, x 32–50 %; the renderings with photo figures are excluded"
+    },
+    {
+      "name": "07-smart-armrest.webp",
+      "sha256": "0000884648b4da6b5920f14fae94d4752fe02f8510909309bc39cbea41e5c32d",
+      "bytes": 90746,
+      "from": "page 15 — need medical equipment: the smart armrest strategy, x 0–20 %, y 0–60 %"
+    },
+    {
+      "name": "08-room-and-balcony-sections.webp",
+      "sha256": "99c25d90d366f0d3715586853cc389527156bf3d64c4cacc4e792ca49f6c54a8",
+      "bytes": 57184,
+      "from": "page 14 — sections of the self-care room and shared balcony, x 50.5–100 %, y 62–100 %"
+    },
+    {
+      "name": "09-tree-burial-cycle.webp",
+      "sha256": "594f7d271cca85c45fff5d5a3a4edb5da75bfb9eaf38800d58427112cff6814e",
+      "bytes": 182304,
+      "from": "page 15 — designed for the elderly in peace: nutrient soil and tree growth section, x 50.5–80 %; the mourning hall renderings with photo figures are excluded"
+    }
+  ]
+}
