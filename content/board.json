@@ -3890,6 +3890,427 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Living with Otters",
+      "slug": "living-with-otters",
+      "description": "Along Shenzhen Bay, a coast, an urban river and an internal lake are reshaped with holts, mangroves and safe passages so that otters can return to the city.\n\nShenzhen Bay, China | Biodiversity reservation | Mar 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "與水獺共生",
+          "description": "沿著深圳灣，以巢穴、紅樹林與安全通道改造海岸、城市河道與內湖，讓水獺得以回到城市。\n\n中國深圳灣｜生物多樣性保育｜2022 年 3 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/living-with-otters/01-cover-aerial.webp",
+        "assets/board/living-with-otters/02-site-context.webp",
+        "assets/board/living-with-otters/03-site-analyse.webp",
+        "assets/board/living-with-otters/04-otter-needs.webp",
+        "assets/board/living-with-otters/05-strategy.webp",
+        "assets/board/living-with-otters/06-location-plans.webp",
+        "assets/board/living-with-otters/07-location-strategies.webp",
+        "assets/board/living-with-otters/08-coast-river.webp",
+        "assets/board/living-with-otters/09-holts.webp",
+        "assets/board/living-with-otters/10-den-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/living-with-otters/01-cover-aerial.webp"
+          ],
+          "captions": [
+            "Aerial view of Shenzhen Bay: ecological, recreational, waterfront and educational areas along the otters' migration route."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "深圳灣鳥瞰：沿水獺遷徙路線布置的生態景觀區、遊憩區、濱水區與教育區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Otters were once widely distributed in China, but their numbers have declined by 80–90 % in 40 years through hunting, habitat pollution, accidental death and the loss of habitat. An otter has been spotted at Shenzhen Bay since 2020, and seven remaining otters live in this area.",
+          "images": [
+            "assets/board/living-with-otters/02-site-context.webp",
+            "assets/board/living-with-otters/03-site-analyse.webp"
+          ],
+          "captions": [
+            "Site context — Shenzhen Bay between the Futian Mangrove Nature Reserve, Mai Po and Hong Kong, with otter sightings from 2020 to 2024 and the predicted migration.",
+            "Site location and site analysis — climate, land use, flow accumulation, interference of human activity and biodiversity."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "水獺曾廣泛分布於中國，但因獵捕、棲地污染、意外死亡與棲地喪失，數量在 40 年間減少了 80–90%。自 2020 年起，深圳灣有人目擊水獺，目前約有七隻水獺生活在這一帶。",
+              "captions": [
+                "基地脈絡——深圳灣，位於福田紅樹林自然保護區、米埔與香港之間，以及 2020–2024 年的水獺目擊點與預測遷徙路線。",
+                "基地位置與分析——氣候、土地使用、匯流、人為活動干擾與生物多樣性。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The life-cycle of otters sets the critical needs of the design: they are nocturnal, eat mostly fish, rest in holts and are highly adaptable from urban areas to the sea. Otters struggle to survive because of habitat destruction and human interference, from a lack of coherent corridors and food to water pollution, road accidents and pets.",
+          "images": [
+            "assets/board/living-with-otters/04-otter-needs.webp",
+            "assets/board/living-with-otters/05-strategy.webp"
+          ],
+          "captions": [
+            "The critical needs for the life-cycle of otters — activity, home range, behaviours, diet and habitat.",
+            "From otters struggling to survive to an otter-friendly city — three locations, each with its own interventions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "水獺的生命週期決定了設計的關鍵需求：牠們夜行、以魚為主食、在巢穴中休息，從城市到海域都能高度適應。由於棲地破壞與人為干擾——從廊道不連續、食物減少，到水污染、道路意外與寵物——水獺艱難求生。",
+              "captions": [
+                "水獺生命週期的關鍵需求——活動、領域、行為、食性與棲地。",
+                "從水獺艱難求生到水獺友善城市——三個地點，各有各的介入。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Three design areas answer different needs: the coast improves habitat quality and increases the otter population, the urban river reduces emergency threats and expands habitable zones, and the internal lake stabilises the population and raises ecological awareness. Strategies include multi-void terrain remodelling, mangrove and seagrass planting, natural holts, roadkill prevention, a rescue station and interaction facilities.",
+          "images": [
+            "assets/board/living-with-otters/06-location-plans.webp",
+            "assets/board/living-with-otters/07-location-strategies.webp"
+          ],
+          "captions": [
+            "Plans of the three design areas — coast, urban river and internal lake.",
+            "Strategies for each location — terrain remodelling, planting, holts, migration assistance, a rescue station and an education base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三個設計區對應不同需求：海岸提升棲地品質、增加水獺數量；城市河道減少緊急威脅、擴大可棲息範圍；內湖穩定族群並提升生態意識。策略包括多孔地形重塑、紅樹林與海草床種植、天然巢穴、防路殺措施、救援站與互動設施。",
+              "captions": [
+                "三個設計區的平面——海岸、城市河道與內湖。",
+                "各地點的策略——地形重塑、種植、巢穴、遷徙協助、救援站與教育基地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "On the coast a migration platform with an artificial reef and mangrove planting modules give otters abundant food and safe shelter, and along the urban river safe nests are easy to find. Artificial holts in green space and under the bridge are built from modular parts, and the handcrafted den model uses oyster shells and seashells mixed with biodegradable PLA for its 3D-printed supports.",
+          "images": [
+            "assets/board/living-with-otters/08-coast-river.webp",
+            "assets/board/living-with-otters/09-holts.webp",
+            "assets/board/living-with-otters/10-den-model.webp"
+          ],
+          "captions": [
+            "Location 1, coast — the migration platform and artificial reef, and the mangrove planting module; Location 2, urban river.",
+            "Holts in green space and under the bridge — materials and the six parts of the artificial holt.",
+            "Otter den handcrafted model, with interiors for a solitary otter, a mother with offspring and breeding otters."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在海岸，結合人工魚礁的遷徙平台與紅樹林種植模組，為水獺提供豐富的食物與安全的庇護；沿著城市河道，安全的巢穴容易找到。綠地中與橋下的人工巢穴以模組化構件組成；手工巢穴模型則以牡蠣殼、貝殼混合可降解 PLA 塑料，3D 列印出支撐結構。",
+              "captions": [
+                "地點一，海岸——遷徙平台與人工魚礁，以及紅樹林種植模組；地點二，城市河道。",
+                "綠地中與橋下的巢穴——人工巢穴的材料與六個構件。",
+                "水獺巢穴手工模型，以及獨居水獺、帶幼獺的母獺與繁殖期水獺的室內配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one animal's life-cycle: its needs become the brief.\n2. Trace the threats before drawing: habitat loss and human interference.\n3. Fit the strategy to each location: coast, river and lake differ.\n4. Build the smallest home at full care: the den as a working model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一種動物的生命週期出發：牠的需求就是任務書。\n2. 下筆之前先追溯威脅：棲地喪失與人為干擾。\n3. 讓策略因地制宜：海岸、河道與內湖各不相同。\n4. 用心打造最小的家：把巢穴做成能運作的模型。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Floating Forest",
+      "slug": "floating-forest",
+      "description": "On Gao Di Street, one of Guangzhou's hottest old blocks, the plastic awnings over the lanes are replaced by planted canopies that shade and cool the street.\n\nGao Di Street, Guangzhou, China | Sustainable design | Sep 2024 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "漂浮森林",
+          "description": "在廣州最炎熱的老街區之一高第街，巷道上方的塑膠雨棚被替換為種滿植物的天篷，為街道遮蔭降溫。\n\n中國廣州高第街｜永續設計｜2024 年 9 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/floating-forest/01-cover-master-plan.webp",
+        "assets/board/floating-forest/02-heat-island.webp",
+        "assets/board/floating-forest/03-site-analyse.webp",
+        "assets/board/floating-forest/04-vision-strategy.webp",
+        "assets/board/floating-forest/05-pilot-area.webp",
+        "assets/board/floating-forest/06-conceptual-model.webp",
+        "assets/board/floating-forest/07-typology.webp",
+        "assets/board/floating-forest/08-key-node.webp",
+        "assets/board/floating-forest/09-plant-growth.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/floating-forest/01-cover-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan of Gao Di Street: green shades over the lanes, green roofs and the water system."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "高第街總平面：巷道上方的「綠蔭」、綠屋頂與水系。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In recent years the annual average temperature in China has risen significantly, and Guangzhou, a hot and humid city with high-intensity development, suffers a serious heat island effect. Gao Di Street in Yuexiu District is a heat island block with a strong heat load and weak heat dissipation, with plant coverage below 10 %, messy plastic awnings and a high rate of hardened ground.",
+          "images": [
+            "assets/board/floating-forest/02-heat-island.webp",
+            "assets/board/floating-forest/03-site-analyse.webp"
+          ],
+          "captions": [
+            "Background — high-temperature days in China, the average temperature from 1980 to 2023, and the heat island intensity of Guangzhou and Yuexiu District.",
+            "Site analysis — land use, plant coverage and sunshine radiation on a summer day."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "近年來中國的年平均氣溫顯著上升；廣州氣候濕熱、開發強度高，熱島效應嚴重。越秀區的高第街是一個熱負荷強、散熱弱的熱島街區，植被覆蓋率不到 10%，塑膠雨棚雜亂，硬化地面比例很高。",
+              "captions": [
+                "背景——中國的高溫日數、1980–2023 年的平均氣溫，以及廣州與越秀區的熱島強度。",
+                "基地分析——土地使用、植被覆蓋與夏日的日照輻射強度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Existing greening methods, large green spaces, roof gardens and vertical greening, and tall trees, are hard to achieve here because of land-use conflicts, legacy historical issues and the impact on infrastructure. In the past there was a natural environment, now plastic canopies are everywhere, and in the future they could turn into a floating forest.",
+          "images": [
+            "assets/board/floating-forest/04-vision-strategy.webp",
+            "assets/board/floating-forest/05-pilot-area.webp"
+          ],
+          "captions": [
+            "Inspiration, vision and strategy — neighbourhood comfort, environmental issues and community identity, towards a future forest floating above the city streets.",
+            "Selection of the pilot area — the historical water system, the main commercial street and the existing green space, with one-way, double-end and T-shaped lanes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "既有的綠化方式——大面積綠地、屋頂花園與垂直綠化、種植高大樹木——在此都因用地衝突、歷史遺留問題與對基礎設施的影響而難以實現。過去這裡是自然環境，如今塑膠雨棚無所不在；未來，它們或許能化為一片漂浮的森林。",
+              "captions": [
+                "靈感、願景與策略——鄰里舒適、環境問題與社區認同，邁向一片漂浮在城市街道上方的未來森林。",
+                "試點區的選擇——歷史水系、主要商業街與既有綠地，以及單向巷、雙出口巷與 T 形巷。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A conceptual model tested how green canopies could thread through the dense blocks. Typologies combine the canopies with water features, commercial streets and open space, each in four variations.",
+          "images": [
+            "assets/board/floating-forest/06-conceptual-model.webp",
+            "assets/board/floating-forest/07-typology.webp"
+          ],
+          "captions": [
+            "Conceptual model — green canopies threading through the blocks.",
+            "Typology — T1 with water features, T2 with commercial streets, T3 with open space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "概念模型測試了綠色天篷如何穿行於密集的街區之間。類型學把天篷分別與水景、商業街與開放空間結合，各發展出四種變化。",
+              "captions": [
+                "概念模型——穿行於街區之間的綠色天篷。",
+                "類型學——T1 結合水景、T2 結合商業街、T3 結合開放空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each canopy is built from vegetation on a geotextile substrate over a tensioned, anti-root waterproof fabric, held by masts, cables and anchor plates, and creates light therapy, shaded seating, an activity square, a dry spray fountain and a plant landscape. A physical model experiment grew Sedum morganianum on the fabric from September 2024 to January 2025.",
+          "images": [
+            "assets/board/floating-forest/08-key-node.webp",
+            "assets/board/floating-forest/09-plant-growth.webp"
+          ],
+          "captions": [
+            "Key node design — structure, activity and function, vegetation list and construction details.",
+            "Plant growth — from the first roots on 30 September 2024 to lush cuttings on 1 January 2025."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每座天篷由種植在土工布基材上的植物、張拉式防根防水膜，以及桅桿、鋼索與錨板組成，創造出光療、遮蔭座椅、活動廣場、旱噴泉與植物景觀。實體模型實驗自 2024 年 9 月至 2025 年 1 月，在膜上培育了玉綴（Sedum morganianum）。",
+              "captions": [
+                "關鍵節點設計——結構、活動與機能、植物清單與構造詳圖。",
+                "植物生長——從 2024 年 9 月 30 日初生的根系，到 2025 年 1 月 1 日茂盛的插枝。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Measure the heat before designing: maps make the problem visible.\n2. Ask why the usual greening fails here, then design around it.\n3. Turn what is already everywhere into the answer: awnings become canopies.\n4. Grow it for real: a months-long planting test proves the idea.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 設計之前先量測熱：地圖讓問題現形。\n2. 追問一般的綠化為何在此失效，再繞過它來設計。\n3. 把隨處可見的東西變成答案：雨棚化為天篷。\n4. 真的種出來：為期數月的種植實驗驗證概念。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Doomsday Garden",
+      "slug": "doomsday-garden",
+      "description": "Six survival modules for six imagined ends of the world, from extreme cold and heat to flood, drought, nuclear war and a siege of waste.\n\nAnthropocene, Gaia | Concept project | Oct 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "末日花園",
+          "description": "為六種想像中的世界末日設計六個生存模組：從極寒與酷熱，到洪水、乾旱、核戰與垃圾圍城。\n\n人類世，蓋亞｜概念設計｜2023 年 10 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/doomsday-garden/01-cover-extreme-cold.webp",
+        "assets/board/doomsday-garden/02-evolution.webp",
+        "assets/board/doomsday-garden/03-extreme-hot.webp",
+        "assets/board/doomsday-garden/04-flooding.webp",
+        "assets/board/doomsday-garden/05-drought.webp",
+        "assets/board/doomsday-garden/06-nuclear-war.webp",
+        "assets/board/doomsday-garden/07-waste-siege.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/doomsday-garden/01-cover-extreme-cold.webp"
+          ],
+          "captions": [
+            "Extreme cold: sealed, insulated survival modules linked by wooden walkways, with ice fishing and snow activities."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "極寒：密封、高隔熱的生存模組以木棧道相連，並結合冰釣與雪上活動。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks what the world would become if it turned into an ocean or a desert, were covered in ice or enveloped in heat, or were destroyed by nuclear war or filled with garbage. Due to environmental degradation, urban structures have collapsed and human living spaces have rapidly condensed into two basic types.",
+          "images": [
+            "assets/board/doomsday-garden/02-evolution.webp"
+          ],
+          "captions": [
+            "Before the disaster, the disaster occurs, after the disaster — mixture expanded functional spaces (commerce, farm, amuse, working, medical) and primary residential spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案提問：如果世界變成海洋或沙漠、被冰覆蓋或被高溫籠罩，又或是毀於核戰、被垃圾填滿，它將演變成什麼模樣。由於環境惡化，城市結構崩解，人類的生活空間迅速濃縮為兩種基本類型。",
+              "captions": [
+                "災前、災變、災後——混合擴展的機能空間（商業、農業、娛樂、工作、醫療）與基本居住空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Extreme climate and resource scarcity force the reorganisation of complex multifunctional spaces. Each scenario gets a survival module that combines the primary residential spaces with the functions life needs.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "極端氣候與資源匱乏，迫使複雜的多機能空間重新組織。每一種情境都有一個生存模組，把基本居住空間與生活所需的機能結合起來。"
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "In extreme heat the survival module is sunken, built with heat-resistant clay and surrounded by drought-tolerant plants, with shading devices and temperature regulation. In a flood it rests on floating platforms and elevated structures, with aquatic crops, boats and a closed-loop water system, and in a drought fog collection and purification devices sit at its core, enclosed by sea buckthorn and stones.",
+          "images": [
+            "assets/board/doomsday-garden/03-extreme-hot.webp",
+            "assets/board/doomsday-garden/04-flooding.webp",
+            "assets/board/doomsday-garden/05-drought.webp"
+          ],
+          "captions": [
+            "Extreme hot — the sunken module with clay walls, shading and drought-tolerant planting.",
+            "Flooding — floating platforms, aquatic crops and boating.",
+            "Drought — fog collection at the core, drought-tolerant crops, sea buckthorn and stones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在酷熱中，生存模組下沉，以耐熱黏土建造，四周種植耐旱植物，並配置遮陽裝置與溫度調節系統。在洪水中，它立於漂浮平台與架高結構之上，以水生作物、船隻與封閉的水循環系統維生；在乾旱中，集霧與淨水裝置位於核心，四周以沙棘與石塊圍合。",
+              "captions": [
+                "酷熱——黏土牆、遮陽與耐旱植栽的下沉模組。",
+                "洪水——漂浮平台、水生作物與以船代步。",
+                "乾旱——核心的集霧裝置、耐旱作物、沙棘與石塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "After a nuclear war the module is compressed underground, with thick walls and radiation shielding, and its medical, sterilisation, agricultural and energy systems closely integrated. Under a waste siege it stands on an elevated platform of recycled materials, the medical area is kept apart from the living area, and waste is processed into organic fertiliser and renewable energy.",
+          "images": [
+            "assets/board/doomsday-garden/06-nuclear-war.webp",
+            "assets/board/doomsday-garden/07-waste-siege.webp"
+          ],
+          "captions": [
+            "Nuclear war — the underground module with radiation shielding.",
+            "Waste siege — the elevated platform of recycled materials, with separate medical areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "核戰之後，模組被壓縮到地下，以厚牆與輻射屏蔽層保護居民，醫療、消毒、農業與能源系統緊密整合。在垃圾圍城的情境中，它立於以回收材料建造的架高平台上，醫療區與居住區分開，廢棄物則被處理為有機肥料與再生能源。",
+              "captions": [
+                "核戰——設有輻射屏蔽的地下模組。",
+                "垃圾圍城——以回收材料建造的架高平台，醫療區獨立設置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask “what if”: an extreme scenario reveals what a city really needs.\n2. Reduce life to its functions: trade, farm, amuse, work, care.\n3. Design one module per world and compare them side by side.\n4. Draw with one language: a shared graphic system makes the set readable.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 提出「如果……會怎樣」：極端情境揭示城市真正的需求。\n2. 把生活化約為機能：交易、農耕、娛樂、工作、照護。\n3. 為每一個世界設計一個模組，並排比較。\n4. 用同一種語言繪圖：共通的圖面系統讓整組作品易讀。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
