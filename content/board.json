@@ -2321,6 +2321,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Eco-Friendly Brand — Dressing an Old Building in Recycled Paper",
+      "slug": "eco-friendly-brand",
+      "description": "An experimental eco-friendly brand store in an old Dongshankou building, lined with handmade paper of bark, bamboo powder and pulp, where old clothes are exchanged and recycled.\n\nDongshankou, Guangzhou, China | Individual work / material experimentation, eco-friendly brand store | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "環保品牌——為老建築穿上再生紙",
+          "description": "在東山口的一棟老建築中，設計一間實驗性的環保品牌店：以樹皮、竹粉與紙漿手工製成的紙覆蓋室內，讓舊衣在此交換與回收。\n\n中國廣州東山口｜個人作品／材料實驗、環保品牌店｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/eco-friendly-brand/01-cover-model.webp",
+        "assets/board/eco-friendly-brand/02-value-delivered.webp",
+        "assets/board/eco-friendly-brand/03-paper-attempts.webp",
+        "assets/board/eco-friendly-brand/04-experimental-concept.webp",
+        "assets/board/eco-friendly-brand/05-hypothesis-renovation.webp",
+        "assets/board/eco-friendly-brand/06-axonometric.webp",
+        "assets/board/eco-friendly-brand/07-ground-floor.webp",
+        "assets/board/eco-friendly-brand/08-second-floor.webp",
+        "assets/board/eco-friendly-brand/09-building-plant.webp",
+        "assets/board/eco-friendly-brand/10-circulatory-facade.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/eco-friendly-brand/01-cover-model.webp"
+          ],
+          "captions": [
+            "Handmade model of the store: three floors lined with the recycled paper material, lit from inside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "店鋪的手工模型：三層樓的內壁覆滿再生紙材料，從室內打光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Garments are replaced and thrown away at a high rate: more than 97 % of clothing comes from virgin feedstock, less than 1 % is recycled in a closed loop, and as much as 73 % of the material is landfilled or incinerated after use. The Fendi and Kengo Kuma co-branding showed that natural materials such as tree bark, bamboo powder and paper pulp can replace them, so the project sets out to make its own.",
+          "images": [
+            "assets/board/eco-friendly-brand/02-value-delivered.webp"
+          ],
+          "captions": [
+            "Value delivered — educational, economic, brand, environmental and social value around the eco-brand."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "服裝的汰換與丟棄率極高：超過 97% 的服裝來自原生原料，閉環回收不到 1%，多達 73% 的材料在使用後被掩埋或焚化。Fendi 與隈研吾的聯名顯示，樹皮、竹粉與紙漿等天然材料可以取而代之，因此本案著手製作自己的材料。",
+              "captions": [
+                "價值傳遞——圍繞環保品牌的教育、經濟、品牌、環境與社會價值。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Bark was pulled apart into fibres, made into pulp, filtered evenly through a handmade mesh frame and pressed dry, with colours and ingredients added for different effects. Twelve mixes of tree bark, bamboo powder, petals and paper pulp were compared for weight, strength, waterproofing and hardness.",
+          "images": [
+            "assets/board/eco-friendly-brand/03-paper-attempts.webp",
+            "assets/board/eco-friendly-brand/04-experimental-concept.webp"
+          ],
+          "captions": [
+            "A finished installation from the course experiments, and different attempts — colours and ingredients added to the original pulp.",
+            "Experimental concept — twelve mixes of tree bark, bamboo powder, petals and paper pulp, rated for weight, strength, waterproofing and hardness."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "把樹皮撕成纖維、製成紙漿，以自製網框均勻過濾後壓乾，並加入不同顏色與成分，創造不同效果。比較十二種樹皮、竹粉、花瓣與紙漿的配比，測試重量、強度、防水性與硬度。",
+              "captions": [
+                "課程實驗的完成裝置，以及不同的嘗試——在原始紙漿中加入各種顏色與成分。",
+                "實驗概念——十二種樹皮、竹粉、花瓣與紙漿的配比，評比重量、強度、防水性與硬度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Bark-based mix 5 proved strong enough for a wall carrying a little weight, woven mix 8 can be a screen or a divider, striped mix 4 can be furnishings, decorations and curtains, and the remaining blocks become non-load-bearing decorative walls. An old building in Dongshankou is renovated in two designs: changing a teahouse, studio and dwelling into a gallery, store and studio with dwelling, and dressing the building in the new material.",
+          "images": [
+            "assets/board/eco-friendly-brand/05-hypothesis-renovation.webp",
+            "assets/board/eco-friendly-brand/06-axonometric.webp",
+            "assets/board/eco-friendly-brand/07-ground-floor.webp"
+          ],
+          "captions": [
+            "Experimental hypothesis, before and after renovation, and the original architectural hand model.",
+            "Axonometric diagram — non-public stairs, public stairs and the public entrance.",
+            "Handmade model interiors, and the ground floor: exhibition area, cashier's desk, restrooms, small balcony and garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以樹皮為主的配比 5 證實足以作為承受少量重量的牆；編織的配比 8 可作為屏風或空間隔斷；條狀的配比 4 可作為家具、裝飾與窗簾；其餘的塊材則做成非承重的裝飾牆。東山口的一棟老建築以兩種設計改造：把茶館、工作室與住所改為畫廊、店鋪與工作室兼住所，並以新材料為建築「穿上外衣」。",
+              "captions": [
+                "實驗假設、改造前後，以及原始建築手工模型。",
+                "軸測圖——非公共樓梯、公共樓梯與公共入口。",
+                "手工模型的室內，以及一樓：展覽區、收銀台、洗手間、小陽台與花園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "On the second floor people can bring in their old clothes and exchange them for new ones, or make up the difference in price, and a craft area shows how the materials are made and recycled; the third-floor office has a machine that recycles old clothes. Plants grown in recycled residues, soil and water are reused in clothing and building materials, and the façade material yellows with the seasons and is replaced from time to time.",
+          "images": [
+            "assets/board/eco-friendly-brand/08-second-floor.webp",
+            "assets/board/eco-friendly-brand/09-building-plant.webp",
+            "assets/board/eco-friendly-brand/10-circulatory-facade.webp"
+          ],
+          "captions": [
+            "Environmental function analysis — the second floor (store, craft area, fitting room, small and large balconies), the recycling cycle and the clothes-hanger.",
+            "Building and plant analysis — section and façade of the dressed building.",
+            "Circulatory system, façade wall structure and lighting nodes — the material changes from spring to winter."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在二樓，人們可以帶舊衣來換新衣，或補差價；工藝區展示材料如何製作與回收；三樓辦公室設有回收舊衣的機器。以回收殘料、土壤與水栽種的植物，會再被用於服裝與建築材料；立面材料隨季節泛黃，並不時更換。",
+              "captions": [
+                "環境機能分析——二樓（店鋪、工藝區、試衣間、小陽台與大陽台）、回收循環與衣架。",
+                "建築與植栽分析——穿上外衣的建築剖面與立面。",
+                "循環系統、立面牆體構造與照明節點——材料從春天到冬天的變化。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a waste stream: the numbers on discarded garments set the brief.\n2. Make the material yourself: pulp, filter, press and dry before you design with it.\n3. Test and compare: twelve mixes, four properties, then a job for each result.\n4. Let the building show the cycle: exchange, craft and recycling become the plan.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一條廢棄物流出發：被丟棄衣物的數據就是設計任務。\n2. 親手製作材料：先製漿、過濾、壓製與晾乾，再用它來設計。\n3. 測試與比較：十二種配比、四項性能，再為每個結果找到用途。\n4. 讓建築展現循環：交換、工藝與回收成為平面。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
