@@ -1,0 +1,43 @@
+{
+  "project": "Home for Left-behind Children in Shangri-La",
+  "dest": "assets/board/home-for-left-behind-children-shangri-la",
+  "note": "Portfolio e9a3aa5d pages 25–28 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: pages 23 and 24 (photo collages of real children and people, a statue photo and a route map on photos), the rendering with photo figures on page 25, the interior renderings and material photos on page 26, section A-A with photo figures on page 27 and the figures under the arches on page 28. No retouching.",
+  "files": [
+    {
+      "name": "01-explosion-diagram.webp",
+      "sha256": "0e3fead1315f02ab8923ec1d2827dbd9b97600e5b7fd8a8fd346a7e94e345973",
+      "bytes": 59452,
+      "from": "e9a3aa5d page 26 — explosion diagram of the three floors, x 42.5–78.5 %"
+    },
+    {
+      "name": "02-building-form-generation.webp",
+      "sha256": "0dbef5cf0fbd51143ca968f3d8a2848c47c2d88623ac82151193b53e6307fc07",
+      "bytes": 50238,
+      "from": "page 25 — building form generation, y 0–33 %"
+    },
+    {
+      "name": "03-spatial-function.webp",
+      "sha256": "e7b385cf528d110034ec7630870004d771cd37cf31dca858408a3abb4e6c9999",
+      "bytes": 114714,
+      "from": "page 25 — spatial function and water prayer wheel, x 0–75 %, y 36–88 %; the figures at the bottom and right are excluded"
+    },
+    {
+      "name": "04-floor-plans.webp",
+      "sha256": "159363d6caaf1166ce20316e474c4bb5abf6895a3bee6849e7d273eb0ac4c637",
+      "bytes": 56704,
+      "from": "page 27 — ground, first and second floor plans, y 0–30 %"
+    },
+    {
+      "name": "05-elevation-elements.webp",
+      "sha256": "0a713cd5c95af9264f8ce1b8c2ff48f0f5dc114d04fd88fe824d737fe81322d5",
+      "bytes": 93414,
+      "from": "page 28 — elevation and its elements, x 0–60 %, y 0–79 %"
+    },
+    {
+      "name": "06-detail-section.webp",
+      "sha256": "ac5f6f025caab184a89417d1ca804621de44a73184da297b3a574789ecabf2a3",
+      "bytes": 59946,
+      "from": "page 28 — details, section B-B, x 60–100 %"
+    }
+  ]
+}
