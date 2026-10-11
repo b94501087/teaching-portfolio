@@ -1,0 +1,61 @@
+{
+  "project": "Draw Healing Power from Plants",
+  "dest": "assets/board/draw-healing-power-from-plants",
+  "note": "Portfolio pages 7–12 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the third-party Svalbard maps, the activity photo collage and church-history photos on page 7, the process photos on page 9, the permafrost photo on page 11 and the lower half of the final render with collage people on page 12. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-2040-plan.webp",
+      "sha256": "345a27ea2241c75ee55ad0e7ddbea69a95f45dd6dba84560c37e0f22c5e630cd",
+      "bytes": 380334,
+      "from": "page 10 — 2040 plan (cover), x 50.5–100 %"
+    },
+    {
+      "name": "02-site-location.webp",
+      "sha256": "4966c968cd6e170ce92338f8d069c0e1c7b1bdc8be7278ae4744fc473cdf4c80",
+      "bytes": 65634,
+      "from": "page 7 — Site Location, Arctic map, x 2–31 %, y 24–67 %; the third-party Svalbard maps beside it are excluded"
+    },
+    {
+      "name": "03-depression-analysis.webp",
+      "sha256": "0484d41f977c350d7fe04a54c7c56114dbb2c399af8aa126c37be0b2c7b4ee7f",
+      "bytes": 61896,
+      "from": "page 7 — Prevalence of Depression and Problem Analysis, x 55.5–100 %, y 5–40 %; the activity photo collage and church-history photos are excluded"
+    },
+    {
+      "name": "04-longyearbyen-map.webp",
+      "sha256": "76d1e6a697823273ffa28889662318253c1dc2ec1ecae9ff7356f0b8774f5b24",
+      "bytes": 329710,
+      "from": "page 8 — Longyearbyen Map, x 0–46 %"
+    },
+    {
+      "name": "05-river-profile.webp",
+      "sha256": "16385bb0304684371e257328e1cf982df06b2b91f3072a3e2b66d05a240a807d",
+      "bytes": 155044,
+      "from": "page 8 — River Profile, x 48–100 %"
+    },
+    {
+      "name": "06-river-flow-test.webp",
+      "sha256": "cb71c71079263974a3242f93b7904cdbcbb1be17099d57bd882a57cfad902921",
+      "bytes": 280240,
+      "from": "page 9 — Simulated River Flow Test, four seasons, x 25.2–100 %; the process photos are excluded"
+    },
+    {
+      "name": "07-2025-plan.webp",
+      "sha256": "cf500c89f708b68a6dc793c9f63da2827285059ed5c22b1d3439b5b0c59d46ce",
+      "bytes": 365994,
+      "from": "page 10 — 2025 plan, x 0–49.5 %"
+    },
+    {
+      "name": "08-sections-plants.webp",
+      "sha256": "17ab027acdcc3b9484dc7dd2bb58b6b34edfbb10e324c42b6aaf55070cdf28d6",
+      "bytes": 353538,
+      "from": "page 11 — Five Sections of The Site and Site Plants Selection, y 3–85.5 %; the permafrost photo is excluded"
+    },
+    {
+      "name": "09-first-sunshine.webp",
+      "sha256": "4fb91a08e8359555de238e600923e09d38eb4423a9a7d2123521eee642ff0fcd",
+      "bytes": 235880,
+      "from": "page 12 — The First Sunshine of 2040, upper part of the render, y 15.5–58 %; the lower part with collage people is excluded"
+    }
+  ]
+}
