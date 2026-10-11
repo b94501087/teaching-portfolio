@@ -1,0 +1,61 @@
+{
+  "project": "Travel to Mars",
+  "dest": "assets/board/sustainable-housing-on-mars",
+  "note": "Portfolio dd6639be pages 10–15 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the Mars maps and photos, the dust storm and formation process photos, the experiment photos with people, the organism and mineral photos, the desert landscape photo, and the two renderings with photo figures. No retouching.",
+  "files": [
+    {
+      "name": "01-martian-surface-dome.webp",
+      "sha256": "6fd2e0a538363bb68e10cf60b1e482035f5e873bec38a01bc833fb67d7a02cdb",
+      "bytes": 67120,
+      "from": "dd6639be page 15 — rendering of the Martian surface space with the glass dome entrance, x 7.5–50 %, y 58.5–89.5 %"
+    },
+    {
+      "name": "02-lava-tubes.webp",
+      "sha256": "b9369044db0b6b3e7d7d96d936957e99e795e95450c53a3fe7b8753cb1c8b027",
+      "bytes": 68582,
+      "from": "page 10 — why build a colony underground: lava tube diagrams, x 40–100 %, y 62.5–83 %; the Mars maps, dust storm photos and formation process photos are excluded"
+    },
+    {
+      "name": "03-previous-programmes.webp",
+      "sha256": "57217bf8a055e06c00a99ab367daeb48d8307c135678b0af43a00e34e7d93694",
+      "bytes": 71390,
+      "from": "page 11 — previous programmes: theoretical assumptions for transforming Mars, x 0–50 %, y 0–37 %; the experiment photos with people below are excluded"
+    },
+    {
+      "name": "04-new-plans.webp",
+      "sha256": "23c9eb71d2fdf6a11a7f3ab652ed0837fa7d0d75b41f78454e9d128209de8536",
+      "bytes": 80262,
+      "from": "page 11 — new plans: issues and strategies, x 51–100 %, y 0–53.5 %; the Phase 1 organism photos are excluded"
+    },
+    {
+      "name": "05-design-generation.webp",
+      "sha256": "c516c884517c37b4d15a6e1a80601fca84ad0212dd179da702b4f4a43b4e7b52",
+      "bytes": 200698,
+      "from": "page 12 — design generation Phase 1: delivery of equipment, excavators and 3D printers, and the exploded dome, x 11–80 %, y 8–100 %; the mineral photos are excluded"
+    },
+    {
+      "name": "06-oxygen-supply-cycle.webp",
+      "sha256": "7a2a92944ce053464d60db93ec3c4802e88db311b4682c9e0cc4eeb0a6d7a2f3",
+      "bytes": 355624,
+      "from": "page 13 — how the oxygen supply cycle is achieved: net oxygen individuals and operational processes, full page"
+    },
+    {
+      "name": "07-vertical-section.webp",
+      "sha256": "ec04ba5949169fc8bad281f72b41db8c35b17b7d542e313a10f28e852f564e9a",
+      "bytes": 108334,
+      "from": "page 14 — vertical section of the lava tube building with levels, x 0–32 %, y 4–100 %; the desert landscape photo is excluded"
+    },
+    {
+      "name": "08-model-and-composition.webp",
+      "sha256": "b341f18cbaf74491f0298105d1668e2942edad0d51a6a02bbfc6f71c5fcd4658",
+      "bytes": 332804,
+      "from": "page 14 — model generation, circulation system and building composition, x 30–100 %, y 24–100 %"
+    },
+    {
+      "name": "09-core-barrel-and-lift.webp",
+      "sha256": "5c09d7393f1d10db59ce78d15582c45f3f4dc7d222d5d3c79a5e686ee37302ed",
+      "bytes": 45016,
+      "from": "page 15 — rendering looking up the core barrel and lift (a hand with a pen only), x 54.5–93.5 %, y 58.5–89.5 %; the two renderings with photo figures are not used"
+    }
+  ]
+}
