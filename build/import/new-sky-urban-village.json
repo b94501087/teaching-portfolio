@@ -1,0 +1,67 @@
+{
+  "project": "New Sky",
+  "dest": "assets/board/new-sky-urban-village",
+  "note": "Portfolio 28feb419 pages 10–11 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the photos of residents, street photos and the city photo collage on page 10, the case study photos, the quoted book and the portrait of its author, the insect photos, and the four perspective views on page 11. No retouching.",
+  "files": [
+    {
+      "name": "01-new-sky-render.webp",
+      "sha256": "d7928d94e90948cb71ed94e46758afeb8831532ca5154302192691a3b66ebb1a",
+      "bytes": 453184,
+      "from": "28feb419 page 11 — generation of the New Sky: elevations and render with rendered figures, x 50–83.5 %"
+    },
+    {
+      "name": "02-daily-behaviour.webp",
+      "sha256": "e0ecf1e356775d73fbc631e4c56e01105304b1bf601b37b5a2bb491a4d78348b",
+      "bytes": 194712,
+      "from": "page 10 — weekly behaviour timeline of children, old people, office workers and housewives, x 0–29 %, y 26–64 %; the photos of residents, street photos and the city photo collage are excluded"
+    },
+    {
+      "name": "03-roof-activity-spaces.webp",
+      "sha256": "6f7950e746328ba3ac5e52aeeb2d65e5adbbf0321884232b18fd58e210d06ca5",
+      "bytes": 85464,
+      "from": "page 10 — different roof activity spaces, x 50–66.5 %, y 0–45 %; the case study photos are excluded"
+    },
+    {
+      "name": "04-guarding-street.webp",
+      "sha256": "c00b1b0d1bbdff72610b83f9a812d5da9f86625a5c9f10e573579330b4b4d514",
+      "bytes": 92054,
+      "from": "page 10 — safety street and architecture section, x 50–65.5 %, y 46–72 %; the quoted book and the portrait of its author are excluded"
+    },
+    {
+      "name": "05-lighting-and-ventilation.webp",
+      "sha256": "042127c4832bb735e35cd1a1cf207c5956029de6ce3b7678bc3c3dd6e19b59e4",
+      "bytes": 97190,
+      "from": "page 10 — better lighting and ventilation, x 50–75 %, y 73–100 %"
+    },
+    {
+      "name": "06-strategy-phases.webp",
+      "sha256": "69fee23d39ec8f4e8c5ca8b9a9fb43c1cee80ff388f2196d58766b009eb4eb18",
+      "bytes": 119054,
+      "from": "page 10 — strategy in three phases, x 75–87.5 %, y 37–100 %; the case study text above is not used"
+    },
+    {
+      "name": "07-scalable-components.webp",
+      "sha256": "fd96c9d19c27c74327ca06724233a9f453ec491c45006d206b8c75fd766f5b37",
+      "bytes": 91008,
+      "from": "page 10 — design of scalable components from the ladybug wing study (hands only), x 88–100 %, y 44–100 %; the insect photos above are excluded"
+    },
+    {
+      "name": "08-exploded-view.webp",
+      "sha256": "822bdfc9cc057577919e3d08dc234704822d6a0a45b467b3970e87672cf68147",
+      "bytes": 746328,
+      "from": "page 11 — exploded view of the New Sky with four nodes, x 0–25 %"
+    },
+    {
+      "name": "09-new-sky-types.webp",
+      "sha256": "66cf4bc87724ad10cf5452aa404b4f68599241ab9666b6bd90abcc0b39858800",
+      "bytes": 181144,
+      "from": "page 11 — types of New Sky, light analysis and multi-stage cooling, x 34–50 %; the four perspective views are not used"
+    },
+    {
+      "name": "10-different-modes.webp",
+      "sha256": "e88027ea03261bba8564d575b53231bd9b9960452307c7e338cb3f679d4cc105",
+      "bytes": 353382,
+      "from": "page 11 — different modes of the roof structure, x 83.5–100 %"
+    }
+  ]
+}
