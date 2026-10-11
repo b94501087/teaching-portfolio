@@ -410,13 +410,39 @@ function editTeaching(t) {
       field('副標（英文，可留白）', s.subtitle || '', v => { if (v.trim()) s.subtitle = v; else delete s.subtitle; changed(); }),
       ...(s.type === 'group' ? [] : [field('資訊列（年份、時長等，可留白）', s.meta || '', v => { if (v.trim()) s.meta = v; else delete s.meta; changed(); })]),
       field('內文（空一行分段，可留白）', s.body, v => { s.body = v; changed(); }, { multiline: true, rows: 3 }),
-      ...(s.type === 'group' ? [el('p', { class: 'hint' }, '分類標題：下面的段落屬於這個分類，直到下一個分類標題。')] : [
+      ...(s.type === 'studio' ? studioFields(s) : []),
+      ...(s.type === 'group' ? [el('p', { class: 'hint' }, '分類標題：下面的段落屬於這個分類，直到下一個分類標題。')] : s.type === 'studio' ? [] : [
       field('條列（每行一項，可留白）', (s.items || []).join('\n'), v => { s.items = v.split('\n').map(x => x.trim()).filter(Boolean); changed(); }, { multiline: true, rows: Math.max(3, (s.items || []).length + 1) }),
       field('圖片（每行一個路徑，例如 assets/teaching/a-01-poster.webp，可留白）', (s.images || []).join('\n'), v => { const a = v.split('\n').map(x => x.trim()).filter(Boolean); if (a.length) s.images = a; else delete s.images; changed(); }, { multiline: true, rows: Math.max(2, (s.images || []).length + 1) }),
       field('圖說（每行一則，順序對應圖片）', (s.captions || []).join('\n'), v => { const a = v.split('\n').map(x => x.trim()); while (a.length && !a[a.length - 1]) a.pop(); if (a.length) s.captions = a; else delete s.captions; changed(); }, { multiline: true, rows: Math.max(2, (s.captions || []).length + 1) })])));
   });
-  out.push(el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => { t.sections.push({ title: '新段落', body: '', items: [] }); changed(true); } }, '新增段落'), el('button', { type: 'button', onclick: () => { t.sections.push({ type: 'group', title: '新分類', body: '' }); changed(true); } }, '新增分類標題')));
+  out.push(el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => { t.sections.push({ title: '新段落', body: '', items: [] }); changed(true); } }, '新增段落'), el('button', { type: 'button', onclick: () => { t.sections.push({ type: 'group', title: '新分類', body: '' }); changed(true); } }, '新增分類標題'), el('button', { type: 'button', onclick: () => { t.sections.push({ type: 'studio', slug: 'new-studio', title: '新工作營', subtitle: '', meta: '', cover: '', description: '', sections: [] }); changed(true); } }, '新增工作營')));
   out.push(field('結尾文字', t.closing, v => { t.closing = v; changed(); }, { multiline: true, rows: 2, hint: MARKUP_HINT }));
+  return out;
+}
+
+// Studio card + detail page (/teaching/<slug>/): slug, cover, intro, and detail sections (heading, text, images, captions).
+function studioFields(s) {
+  const lines = v => v.split('\n').map(x => x.trim()).filter(Boolean);
+  if (!Array.isArray(s.sections)) s.sections = [];
+  const out = [el('p', { class: 'hint' }, '工作營：在教學頁顯示為卡片，點開是 /teaching/' + (s.slug || '代稱') + '/ 內頁（版式同項目內頁）。'),
+    field('網址代稱（小寫英文、數字、連字號）', s.slug || '', v => { s.slug = v.trim(); changed(); }),
+    field('封面圖片路徑', s.cover || '', v => { s.cover = v.trim(); changed(); }),
+    field('封面圖說', s.coverCaption || '', v => { s.coverCaption = v; changed(); }),
+    field('內頁導言', s.description || '', v => { s.description = v; changed(); }, { multiline: true, rows: 2 })];
+  s.sections.forEach((q, k) => {
+    out.push(el('div', { class: 'card' },
+      el('div', { class: 'head' }, el('h3', {}, '內頁段落 ' + (k + 1)),
+        el('div', { class: 'ctl' },
+          el('button', { type: 'button', class: 'small', disabled: k === 0, onclick: () => { move(s.sections, k, k - 1); changed(true); } }, '↑'),
+          el('button', { type: 'button', class: 'small', disabled: k === s.sections.length - 1, onclick: () => { move(s.sections, k, k + 1); changed(true); } }, '↓'),
+          el('button', { type: 'button', class: 'small', onclick: () => { if (confirm('刪除內頁段落「' + (q.heading || k + 1) + '」？')) { s.sections.splice(k, 1); changed(true); } } }, '刪除'))),
+      field('小標', q.heading || '', v => { q.heading = v; changed(); }),
+      field('內文（空一行分段）', q.body || '', v => { q.body = v; changed(); }, { multiline: true, rows: 4 }),
+      field('圖片（每行一個路徑）', (q.images || []).join('\n'), v => { q.images = lines(v); changed(); }, { multiline: true, rows: 2 }),
+      field('圖說（每行一則，順序對應圖片）', (q.captions || []).join('\n'), v => { q.captions = v.split('\n').map(x => x.trim()); while (q.captions.length && !q.captions[q.captions.length - 1]) q.captions.pop(); changed(); }, { multiline: true, rows: 2 })));
+  });
+  out.push(el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => { s.sections.push({ heading: '新段落', body: '', images: [], captions: [] }); changed(true); } }, '新增內頁段落')));
   return out;
 }
 

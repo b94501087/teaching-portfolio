@@ -101,14 +101,14 @@ export function renderLanding(site, opts) {
 
 /* ---------- board (/board/) and pin detail pages (/board/<slug>/) ---------- */
 // Top bar shared by the board and its detail pages. depth = directory depth below the root.
-function topBar(site, depth) {
-  const n = site.nav, up = '../'.repeat(depth);
+function topBar(site, depth, here) {
+  const n = site.nav, up = '../'.repeat(depth), t = here === 'teaching';
   return '<header class="bar">\n' +
     '  <strong><a href="' + up + '">' + esc(site.name) + '</a></strong>\n' +
     '  <nav>\n' +
-    '    <a class="on" href="' + (depth === 1 ? './' : '../'.repeat(depth - 1)) + '">' + esc(n.board) + '</a>\n' +
+    (t ? '    <a href="' + up + 'board/">' + esc(n.board) + '</a>\n' : '    <a class="on" href="' + (depth === 1 ? './' : '../'.repeat(depth - 1)) + '">' + esc(n.board) + '</a>\n') +
     '    <a href="' + up + 'A-Z/">' + esc(n.az) + '</a>\n' +
-    '    <a href="' + up + 'teaching/">' + esc(n.teaching) + '</a>\n' +
+    (t ? '    <a class="on" href="' + (depth === 1 ? './' : '../'.repeat(depth - 1)) + '">' + esc(n.teaching) + '</a>\n' : '    <a href="' + up + 'teaching/">' + esc(n.teaching) + '</a>\n') +
     '    <a href="' + up + 'consulting/">' + esc(n.consulting) + '</a>\n' +
     '    <a href="' + up + 'cv/">' + esc(n.cv) + '</a>\n' +
     '  </nav>\n' +
@@ -216,7 +216,8 @@ const LANG_SWITCH_JS = '<script>(function(){var d=document.documentElement;funct
 const cssV = opts => (opts && opts.v ? '?v=' + esc(opts.v) : '');
 
 export function renderDetail(site, board, pin, opts) {
-  const n = site.nav;
+  const n = site.nav, teach = !!(opts && opts.kind === 'teaching');
+  const backLabel = teach ? n.teaching : n.board;
   const imgs = pinImages(pin).slice(0, MAX_PIN_IMAGES);
   const secs = pinSections(pin);
   const langs = secs.length ? pinLangs(pin) : ['en'];
@@ -226,12 +227,12 @@ export function renderDetail(site, board, pin, opts) {
   let h = (multi ? '<!doctype html><html lang="' + (forced || 'en') + '" data-lang="' + (forced || 'en') + '"><head>' : '<!doctype html><html lang="zh-Hant"><head>') +
     headExtra(opts) + '<meta charset="utf-8"><title>' + esc(pin.title) + ' — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
-    (pin.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '<link rel="canonical" href="https://yuchuntsai.com/board/' + esc(pin.slug) + '/">\n') +
+    (pin.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '<link rel="canonical" href="https://yuchuntsai.com/' + (teach ? 'teaching/' : 'board/') + esc(pin.slug) + '/">\n') +
     (multi ? (forced ? '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' : langHead(langs)) : '') +
     '<link rel="stylesheet" href="../../style.css' + cssV(opts) + '"></head><body class="detail">\n' +
-    topBar(site, 2) +
+    topBar(site, 2, teach ? 'teaching' : 'board') +
     '<main' + (secs.length ? ' class="has-sections"' : '') + '>\n';
-  const back = '<p class="back"><a href="../">← ' + esc(n.board) + '</a></p>';
+  const back = '<p class="back"><a href="../">← ' + esc(backLabel) + '</a></p>';
   if (multi) {
     h += '  <div class="lang-row">' + back + '<div class="langs" role="group" aria-label="Language">' +
       langs.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l] || l) + '">' + esc(LANG_LABEL[l] || l) + '</button>').join('') + '</div></div>\n';
@@ -272,7 +273,7 @@ export function renderDetail(site, board, pin, opts) {
     rest.forEach(src => { h += '  ' + galleryImg(src, alt(src), shown++ > 0) + '\n'; });
     h += '</div>\n';
   }
-  h += '<p class="back end"><a href="../">← ' + esc(n.board) + '</a></p>\n' +
+  h += '<p class="back end"><a href="../">← ' + esc(backLabel) + '</a></p>\n' +
     '</main>\n' + (multi ? LANG_SWITCH_JS : '') + '</body></html>\n';
   return h;
 }
@@ -360,7 +361,57 @@ export function renderAZ(site, az, opts) {
 }
 
 /* ---------- teaching (/teaching/) ---------- */
+// Studio sections (type "studio", with a slug) turn /teaching/ into a wall of cards in the /board/ style,
+// grouped under "group" sections; each studio gets a detail page /teaching/<slug>/ rendered like a
+// project page (pin-shaped: title, description, images, sections). Without studios the page is the
+// original text page.
+export const teachingStudios = t => (t && Array.isArray(t.sections) ? t.sections : []).filter(s => s && s.type === 'studio' && s.slug);
+export const teachingDetailPath = slug => 'teaching/' + slug + '/index.html';
+export function studioPin(s) {
+  const imgs = [];
+  for (const x of [s.cover, ...(Array.isArray(s.sections) ? s.sections.flatMap(q => (q && Array.isArray(q.images) ? q.images : [])) : [])]) if (x && !imgs.includes(x)) imgs.push(x);
+  const head = [s.subtitle, s.meta].filter(x => String(x || '').trim()).join('\n');
+  return { slug: s.slug, title: s.title, description: [head, s.description].filter(x => String(x || '').trim()).join('\n\n'), images: imgs,
+    sections: [{ heading: '', body: '', images: s.cover ? [s.cover] : [], captions: [s.coverCaption || ''] }, ...(Array.isArray(s.sections) ? s.sections : [])] };
+}
+export function renderTeachingDetail(site, t, s, opts) {
+  return renderDetail(site, { pins: [] }, studioPin(s), Object.assign({}, opts, { kind: 'teaching' }));
+}
+function textBlock(s) {
+  let x = '<h2>' + esc(s.title) + '</h2>\n';
+  if (s.body) x += String(s.body).split(/\n\s*\n/).map(p => '<p>' + inline(p.trim()) + '</p>\n').join('');
+  const items = (s.items || []).filter(it => String(it).trim());
+  if (items.length) x += '<ul>\n' + items.map(it => '  <li>' + inline(it) + '</li>\n').join('') + '</ul>\n';
+  return x;
+}
+function renderTeachingWall(site, t, opts) {
+  const n = site.nav, secs = t.sections || [];
+  let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.teaching) + '</title>\n' +
+    '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
+    '<link rel="canonical" href="https://yuchuntsai.com/teaching/">\n' +
+    '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="teach-wall">\n' +
+    topBar(site, 1, 'teaching');
+  let open = '';
+  secs.forEach((s, i) => {
+    if (!s || typeof s !== 'object') return;
+    if (s.type === 'studio' && s.slug) {
+      if (open !== 'board') { h += '<div class="board">\n'; open = 'board'; }
+      h += '  <a class="pin" href="' + esc(s.slug) + '/"><img src="' + esc(assetUrl(s.cover, 1)) + '" alt=""' + (i > 4 ? ' loading="lazy"' : '') + '><span class="cap">' + esc(s.title) + (s.subtitle ? '<small>' + esc(s.subtitle) + '</small>' : '') + '</span></a>\n';
+      return;
+    }
+    if (open === 'board') { h += '</div>\n'; open = ''; }
+    if (s.type === 'group') {
+      h += '<section class="t-cat"><h2>' + esc(s.title) + (s.subtitle ? ' <small>' + esc(s.subtitle) + '</small>' : '') + '</h2>' + (s.body ? '<p>' + inline(s.body) + '</p>' : '') + '</section>\n';
+    } else {
+      h += '<section class="t-text' + (i === 0 ? ' t-top' : '') + '">\n' + textBlock(s) + '</section>\n';
+    }
+  });
+  if (open === 'board') h += '</div>\n';
+  if (t.closing) h += '<p class="t-closing">' + inline(t.closing) + '</p>\n';
+  return h + '</body></html>\n';
+}
 export function renderTeaching(site, t, opts) {
+  if (teachingStudios(t).length) return renderTeachingWall(site, t, opts);
   const secs = t.sections || [];
   const first = secs[0] ? secs[0].title : '';
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>Teaching — ' + esc(first) + '</title>\n' +
@@ -666,7 +717,17 @@ export function validate(all) {
     if (!s || typeof s !== 'object') { errs.push('教學頁段落 ' + (i + 1) + ' 格式錯誤'); return; }
     if (s.images !== undefined && (!Array.isArray(s.images) || s.images.some(x => typeof x !== 'string'))) errs.push('教學頁段落「' + (s.title || i + 1) + '」的圖片必須是路徑清單');
     if (s.captions !== undefined && !Array.isArray(s.captions)) errs.push('教學頁段落「' + (s.title || i + 1) + '」的圖說必須是清單');
+    if (s.type === 'studio') {
+      const nm = '教學頁工作營「' + (s.title || i + 1) + '」';
+      if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(s.slug || '')) errs.push(nm + '的網址代稱只能用小寫英文、數字和連字號');
+      if (!String(s.title || '').trim()) errs.push(nm + '的標題不能空白');
+      if (!String(s.cover || '').trim()) errs.push(nm + '需要封面圖片');
+      if (s.sections !== undefined && (!Array.isArray(s.sections) || s.sections.some(q => !q || typeof q !== 'object' || (q.images !== undefined && !Array.isArray(q.images))))) errs.push(nm + '的內頁段落格式錯誤');
+      if (studioPin(s).images.length > MAX_PIN_IMAGES) errs.push(nm + '最多 ' + MAX_PIN_IMAGES + ' 張圖片');
+    }
   });
+  const slugs = teachingStudios(teaching).map(s => s.slug);
+  if (new Set(slugs).size !== slugs.length) errs.push('教學頁工作營的網址代稱不能重複');
   if (!consulting || !Array.isArray(consulting.plans) || consulting.plans.length !== 4) errs.push('諮詢方案必須是 4 個');
   else consulting.plans.forEach((p, i) => {
     if (!String(p.title || '').trim()) errs.push('方案 ' + (i + 1) + ' 名稱不能空白');
@@ -687,5 +748,6 @@ export function renderAll(all, opts) {
     [PAGES.consulting]: renderConsulting(all.site, all.consulting, opts)
   };
   for (const p of visiblePins(all.board)) out[detailPath(p.slug)] = renderDetail(all.site, all.board, p, opts);
+  for (const s of teachingStudios(all.teaching)) out[teachingDetailPath(s.slug)] = renderTeachingDetail(all.site, all.teaching, s, opts);
   return out;
 }

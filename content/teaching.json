@@ -8,49 +8,123 @@
     },
     {
       "title": "設計工作營與競賽工作坊",
-      "body": "2020–2023 年間，我自主規劃並帶領了八個主題式設計工作營（Design Studio／Workshop）。每一個工作營都從一個理論命題出發——媒介、尺度、權力、場域、拱廊、文化工業、現代性、卡夫卡——要求學生先閱讀、提出自己的設計宣言（Manifesto）與方法學（Methodology），再把方法帶進一個自選的國際競賽題目（大、中、小三種尺度可選）裡推演成完整方案。\n\n共同的節奏是：理論閱讀與立場 → 議題分析與測繪 → 從 Idea 到 Concept（Parti Diagram）→ 方案迭代 → 基地調整與人體尺度 → 節點與設計深化 → 評圖敘事與排版。以下依主題分成四類，每個工作營各自的提問與方法不同。\n\nEight studios and workshops in 2020–2023 · each one starts from a theoretical question, builds a personal manifesto and design method, and tests it on a chosen international competition brief at large, medium or small scale.",
+      "body": "2020–2023 年間，我規劃並帶領了八個主題式設計工作營。每一個都從一個理論命題出發，要求學生先閱讀、寫出自己的設計宣言（Manifesto）與方法學（Methodology），再把方法帶進一個自選的國際競賽題目（大、中、小三種尺度），推演成完整方案。點選下方卡片看每個工作營的理論與方法。",
       "items": []
     },
     {
       "type": "group",
       "title": "一、媒介與再現",
       "subtitle": "Media & Representation",
-      "body": "把「表現法」本身當成設計的媒介：圖面、拼貼、照片與地圖不只是成果展示，而是承載與生成概念的載體。"
+      "body": "把表現法本身當成設計的媒介：圖面、拼貼、照片與地圖不只是成果，而是生成概念的載體。"
     },
     {
+      "type": "studio",
+      "slug": "space-of-media",
       "title": "空間媒介",
       "subtitle": "Space of Media",
       "meta": "2020 · 7/20–8/20，約一個月 · 雙導師制 · 8–16 人",
-      "body": "從 McLuhan「媒介即訊息」出發，把圖面與模型當成會自己說話的「媒介」，而不只是成果展示。\n\n媒體不等於媒介：媒體是有立場、有意識的傳播者；媒介（vehicle，載具）是中性的介質。空間本身就是一種載體，設計者要決定它承載什麼訊息。工作營更進一步提出「訊息即媒介」：訊息的聚合，構成了我們身處的物質環境。\n\n學生從多重視角審視項目與環境，建立自己的立場與設計宣言，再發展對應的方法學；過程中的衝突被當成回饋，用來修正方法。",
-      "items": [
-        "定義項目的六個問題：分析題目與任務書、使用者是誰、項目類型、脈絡、空間需求、最終任務書",
-        "四種設計流程模型：Double Diamond、Design–Build–Test、Four-Stage Design、Engineering Design",
-        "閱讀：McLuhan、Koolhaas《癲狂紐約》、Lefebvre、Bachelard、Jacobs 等",
-        "流程：議題研究 → 概念（設計動詞）→ 方案（人體尺度）→ 深化（構造節點）→ 敘事呈現"
-      ],
-      "images": [
-        "assets/teaching/a-01-poster.webp"
-      ],
-      "captions": [
-        "工作營主視覺：空間媒介 Space of Media"
+      "cover": "assets/teaching/a-01-poster.webp",
+      "coverCaption": "工作營主視覺：空間媒介 Space of Media",
+      "description": "從 McLuhan「媒介即訊息」出發，把圖面與模型當成會自己說話的「媒介」，而不只是展示成果的工具。",
+      "sections": [
+        {
+          "heading": "主題",
+          "body": "面對環境與社會網絡的劇烈變動，各專業之間的邊界越來越模糊。表現法不再只是展示項目，而是一種可以自行闡述想法的「媒介」（Media）與「載體」（Vehicle）。\n\n工作營要求學生以多重視角，來回審視項目主體與環境客體，從分析與理論中建立自己的批判立場。",
+          "images": [],
+          "captions": []
+        },
+        {
+          "heading": "關鍵概念：媒體與媒介",
+          "body": "媒體（Media）是有立場、有意識、主動的傳播者；媒介（vehicle，載具）則是中性的介質。空間本身就是一種載體，設計者要決定它承載什麼訊息。\n\nMcLuhan 說「媒介即訊息」。工作營反過來追問「訊息即媒介」：無數訊息的聚合，構成了我們身處的物質環境。",
+          "images": [
+            "assets/teaching/a-11-media-vehicle.webp"
+          ],
+          "captions": [
+            "自製圖解：媒體與媒介，媒介即訊息 ⇄ 訊息即媒介"
+          ]
+        },
+        {
+          "heading": "工作營的提問",
+          "body": "如果圖面與模型就是媒介，它要替設計「說」什麼？\n\n開題時，學生用六個問題定義自己的項目：題目與任務書要求什麼？使用者是誰？是什麼類型的項目？脈絡是什麼？需要哪些空間？最後，自己改寫的任務書是什麼？",
+          "images": [
+            "assets/teaching/a-12-define-project.webp"
+          ],
+          "captions": [
+            "自製圖解：定義項目的六個問題"
+          ]
+        },
+        {
+          "heading": "方法與階段",
+          "body": "課程介紹四種設計流程模型：Double Diamond、Design–Build–Test、Four-Stage Design 與 Engineering Design，讓學生比較後選擇或改造自己的流程。設計過程中的衝突被當成回饋，用來修正方法本身。\n\n五個階段：議題研究與分析 → 概念設計（以設計動詞轉化概念）→ 方案設計（人體與使用尺度）→ 設計深化（構造與節點）→ 項目呈現與敘事邏輯。",
+          "images": [
+            "assets/teaching/a-13-double-diamond.webp",
+            "assets/teaching/a-14-stages.webp"
+          ],
+          "captions": [
+            "自製圖解：Double Diamond 雙鑽石模型（發現、定義、發展、交付）",
+            "自製圖解：工作營的五個階段"
+          ]
+        },
+        {
+          "heading": "閱讀與成果",
+          "body": "閱讀：McLuhan《理解媒介》、Koolhaas《癲狂紐約》、Lefebvre《空間的生產》、Bachelard《空間的詩學》、Sadler《Archigram》、Jacobs《美國大城市的死與生》、Scott《國家的視角》等。\n\n成果：在自選的國際競賽題目上完成設計方案與評圖簡報。",
+          "images": [],
+          "captions": []
+        }
       ]
     },
     {
+      "type": "studio",
+      "slug": "rom-blicke",
       "title": "羅馬掠影",
       "subtitle": "Rom, Blicke — The Introspection of Culture Industry",
       "meta": "工作營 · 10 人",
-      "body": "以 Brinkmann《羅馬，掠影》為文本：日記、信件、照片、明信片與車票拼貼在一起，是研究「媒介間性」的材料。作者把自己拍下的廢墟和明信片上美化的羅馬並置，用行走、書寫與地圖找回個人的觀看。\n\n工作營結合 Adorno 對文化工業的批判，追問「以藝術之名」的消費與它製造的異托邦，把這套思辨當成批判性空間設計的工具。",
-      "items": [
-        "構築的四個面向：空間、結構、光與形式／環境中的空間／空間與材料／空間的建造",
-        "空間是什麼：如何被感知、被想像、被賦予意義；回答這些問題的特質與量度，構成建築的「基本詞彙」",
-        "把空間理解為「感知的場所」：以連續的視線掃描組織建築群",
-        "閱讀：Brinkmann、Adorno、Assmann《回憶空間》、Benjamin、Musil 等"
-      ],
-      "images": [
-        "assets/teaching/f-01-poster.webp"
-      ],
-      "captions": [
-        "工作營主視覺：羅馬掠影 Rom, Blicke"
+      "cover": "assets/teaching/f-01-poster.webp",
+      "coverCaption": "工作營主視覺：羅馬掠影 Rom, Blicke",
+      "description": "以 Brinkmann 拼貼式的羅馬日記為文本，結合 Adorno 對文化工業的批判，把思辨當成批判性空間設計的工具。",
+      "sections": [
+        {
+          "heading": "主題",
+          "body": "德國作家 Rolf Dieter Brinkmann 的《羅馬，掠影》（Rom, Blicke）把日記、信件、照片、明信片、地圖與車票拼貼成一本書。他把自己拍下的城市廢墟，和明信片上被美化的羅馬並置，用行走、書寫與繪製地圖，找回個人的觀看。\n\n這本書是研究「媒介間性」（intermediality）的絕佳材料。",
+          "images": [
+            "assets/teaching/f-12-intermedia.webp"
+          ],
+          "captions": [
+            "自製圖解：媒介間性——一本拼貼的書"
+          ]
+        },
+        {
+          "heading": "關鍵理論：文化工業與異托邦",
+          "body": "Horkheimer 與 Adorno 在《啟蒙的辯證法》中批判文化工業：藝術被商品化，變成可以複製與消費的產品。\n\n工作營追問「以藝術之名」的消費現象（Art sells art），以及它所建構的異托邦（Heterotopias）。目標是讓空間成為反思，而不是奇觀，引發觀者參與思考。",
+          "images": [
+            "assets/teaching/f-13-culture-industry.webp"
+          ],
+          "captions": [
+            "自製圖解：從文化工業批判到批判性空間"
+          ]
+        },
+        {
+          "heading": "工作營的提問",
+          "body": "當藝術與商業彼此消費，空間如何成為反思而不是奇觀？一位作者的「掠影」，能否變成一套觀看城市的方法？",
+          "images": [],
+          "captions": []
+        },
+        {
+          "heading": "方法：構築空間的四個面向",
+          "body": "課程以四個面向講授構築：空間、結構、光與形式；環境中的空間；空間與材料；空間的建造。\n\n空間如何被感知、被想像、被賦予意義？回答這些問題時收集的特質與量度，構成建築的「基本詞彙」。空間也可以被理解為「感知的場所」：以一連串不間斷的視線，組織一組建築。",
+          "images": [
+            "assets/teaching/f-11-four-aspects.webp"
+          ],
+          "captions": [
+            "自製圖解：構築空間的四個面向"
+          ]
+        },
+        {
+          "heading": "階段與成果",
+          "body": "理論立場與設計宣言 → 議題分析與測繪 → 場地感知視覺化 → 地景敘事 → 事件測繪 → 概念、迭代、深化與敘事。\n\n閱讀：Brinkmann、Adorno、Assmann《回憶空間》、Benjamin《機械複製時代的藝術作品》、Musil、Lefebvre 等。成果：在自選題目上完成方案與評圖簡報。",
+          "images": [],
+          "captions": []
+        }
       ]
     },
     {
@@ -60,84 +134,241 @@
       "body": "從身體經驗與實地量測出發，重新定義「尺度」與「場域」，再讓自己的量測方式長成設計方法。"
     },
     {
+      "type": "studio",
+      "slug": "edges-of-scale",
       "title": "尺度的邊界",
       "subtitle": "The Edges of Scale",
       "meta": "2020 · 9/21–10/25，約五週 · 雙導師制 · 12 人",
-      "body": "人從找到一塊可坐的石頭開始認識身體與空間；城市與建築也常用尺度的隱喻來描述。不同尺度代表不同的經驗，在在地與全球之間的選擇，影響我們如何理解空間的生產。\n\n學生觀察自己的生活尺度，結合理論反思，來回建立方法學與階段性的設計宣言，再依場地與項目調整形式邏輯。",
-      "items": [
-        "Edge／Boundary／Border：邊緣、邊界、國界——尺度與社會性的差異",
-        "Territory／Field／Zone：領域、場域、區域——如何界定定義的差異",
-        "閱讀：Herod《尺度》、Delaney《領域》、Lynch《城市意象》、芦原義信《街道的美學》、Foucault 等",
-        "方法：Parti Diagram → 以設計參數的不同配比生成方案群 → 基地與人體尺度 → 節點 → 評圖敘事"
-      ],
-      "images": [
-        "assets/teaching/b-01-poster.webp"
-      ],
-      "captions": [
-        "工作營主視覺：尺度的邊界 The Edges of Scale"
+      "cover": "assets/teaching/b-01-poster.webp",
+      "coverCaption": "工作營主視覺：尺度的邊界 The Edges of Scale",
+      "description": "從身體的生活尺度出發，辨析邊界與領域，建立自己的設計方法學。",
+      "sections": [
+        {
+          "heading": "主題",
+          "body": "人從找到一塊可以坐的石頭開始，認識身體與空間的關係；我們也習慣用各種尺度的隱喻來描述城市與建築。任何尺度的表達，都代表不同的經驗。\n\n在在地與全球尺度之間的選擇，深刻影響我們如何理解社會與自然空間的生產。",
+          "images": [
+            "assets/teaching/b-12-scales.webp"
+          ],
+          "captions": [
+            "自製圖解：尺度的選擇——身體、在地、全球"
+          ]
+        },
+        {
+          "heading": "關鍵概念：線與面",
+          "body": "課程先釐清兩組詞。Edge（邊緣）、Boundary（邊界）、Border（國界）都是「線」，差別在於尺度與社會性。Territory（領域）、Field（場域）、Zone（區域）都是「面」，差別在於如何界定與由誰界定。\n\n學生要決定：自己的項目處理的是哪一種邊界、哪一種領域？",
+          "images": [
+            "assets/teaching/b-11-line-area.webp"
+          ],
+          "captions": [
+            "自製圖解：邊界是線，領域是面"
+          ]
+        },
+        {
+          "heading": "工作營的提問",
+          "body": "邊界在不同尺度上如何被定義？當尺度改變，同一條線的意義會怎麼改變？",
+          "images": [],
+          "captions": []
+        },
+        {
+          "heading": "方法與階段",
+          "body": "學生觀察並運用自身的生活尺度經驗，結合理論反思與批判，在來回往復中架構設計方法學與階段性的設計宣言。\n\n理論建構與宣言 → 議題分析與測繪 → Parti Diagram → 以設計參數的不同配比生成方案群 → 基地調整與人體尺度 → 節點深化 → 評圖敘事。",
+          "images": [
+            "assets/teaching/b-13-method.webp"
+          ],
+          "captions": [
+            "自製圖解：從宣言到方案群"
+          ]
+        },
+        {
+          "heading": "閱讀與成果",
+          "body": "閱讀：Castree〈地方〉、Herod《尺度》、Delaney《領域》、Lynch《城市意象》、Lefebvre 空間三元組、芦原義信《街道的美學》、Foucault《規訓與懲罰》等。\n\n成果：在自選的國際競賽題目上完成方案與評圖簡報。",
+          "images": [],
+          "captions": []
+        }
       ]
     },
     {
+      "type": "studio",
+      "slug": "consciousness-of-field",
       "title": "場域意識",
       "subtitle": "The Consciousness of Field",
-      "meta": "2021 · 中期 1/25–2/07、末期 2/22–3/06，兩段各約兩週 · 12 人",
-      "body": "環境由人、事、物、時、地組成的「場域」構成；外人進入時，會改變行為來適應既有的活動。只看形式的設計，很難承載群體個性與集體記憶。\n\n學生以漫遊者、測量者、探索者、居留者四種角色參與並量測一個地方，以空間為主體、人群為客體，創造一套自己的空間測量方法，再賦予空間性格。",
-      "items": [
-        "設計流程四步：基地分析（測繪、觀察、照片與數位模型）→ 概念（草圖、概念模型）→ 方案（形式與脈絡、Parti Diagram）→ 表現",
-        "從議題到細部：問題與想法 → 策略與解法 → 實現 → 細部",
-        "從 Design 到 Build：前期研究 → 概念與替代方案 → 方案 → 深化 → 施工圖 → 招標 → 施工監造 → 驗收與維護",
-        "閱讀：Soja《第三空間》、Foucault〈異類空間〉、段義孚《無邊的恐懼》、Benjamin 等"
-      ],
-      "images": [
-        "assets/teaching/d-01-poster.webp"
-      ],
-      "captions": [
-        "工作營主視覺：場域意識 The Consciousness of Field"
+      "meta": "2021 · 1/25–2/07、2/22–3/06，兩段各約兩週 · 12 人",
+      "cover": "assets/teaching/d-01-poster.webp",
+      "coverCaption": "工作營主視覺：場域意識 The Consciousness of Field",
+      "description": "以四種角色量測一個地方，創造一套自己的空間測量方法。",
+      "sections": [
+        {
+          "heading": "主題",
+          "body": "依據行為場域理論，環境由人、事、物、時、地共同組成、可被辨識的「場域」單元構成。外人進入一個場域時，會改變自己的行為來適應既有的活動。\n\n只關注形式的設計，很難承載群體個性與集體記憶；地方感也在全球化中逐漸流失。",
+          "images": [
+            "assets/teaching/d-12-field.webp"
+          ],
+          "captions": [
+            "自製圖解：場域的組成——人、事、物、時、地"
+          ]
+        },
+        {
+          "heading": "關鍵方法：四種角色",
+          "body": "工作營強調設計者的共情能力。學生以漫遊者、測量者、探索者、居留者四種角色參與並量測一個地方：以空間為主體、人群為客體，重新審視空間的自我意識。\n\n最終，每位學生要創造一套獨特的空間測量方法，賦予空間性格來發展設計。",
+          "images": [
+            "assets/teaching/d-11-four-roles.webp"
+          ],
+          "captions": [
+            "自製圖解：量測場域的四種角色"
+          ]
+        },
+        {
+          "heading": "工作營的提問",
+          "body": "如果空間有自己的意識，我們該用什麼尺去量它？",
+          "images": [],
+          "captions": []
+        },
+        {
+          "heading": "方法與階段",
+          "body": "設計流程分四步：基地分析（測繪、觀察、照片與數位模型）→ 概念（草圖與概念模型）→ 方案（形式與脈絡、Parti Diagram）→ 設計表現。\n\n每一步都從議題走到細部：問題與想法 → 策略與解法 → 實現 → 細部。課程也說明一個項目從 Design 到 Build 的完整階段，讓學生知道方案之後還有什麼。",
+          "images": [
+            "assets/teaching/d-13-issue-details.webp",
+            "assets/teaching/d-14-design-build.webp"
+          ],
+          "captions": [
+            "自製圖解：從議題到細部",
+            "自製圖解：Design → Build 的八個階段"
+          ]
+        },
+        {
+          "heading": "練習、閱讀與成果",
+          "body": "練習：實地踏查與感知視覺化 → 閱讀地景，結合訪談的地景敘事 → 事件測繪與方法學 → 策略與概念 → 方案迭代 → 深化 → 敘事呈現。\n\n閱讀：Bell《環境知覺與認知》、Soja《第三空間》、Foucault〈異類空間〉、John Law〈物與空間〉、段義孚《無邊的恐懼》、Benjamin 等。成果：中期與末期兩次評圖，完成方案。",
+          "images": [],
+          "captions": []
+        }
       ]
     },
     {
       "type": "group",
       "title": "三、權力與形式",
       "subtitle": "Power & Form",
-      "body": "把空間看成權力關係的產物與戰場：從策略與戰術、從卡夫卡式的隱喻，讀出形式背後的支配與抵抗。"
+      "body": "把空間看成權力關係的產物與戰場：從戰略與戰術、從卡夫卡式的隱喻，讀出形式背後的支配與抵抗。"
     },
     {
+      "type": "studio",
+      "slug": "form-and-power",
       "title": "形式與權力",
       "subtitle": "Form and Power — Urban Landscape of Power",
       "meta": "2020 · 11/09–12/06，四週 · 雙導師制 · 12 人",
-      "body": "空間不是靜態的實體，而是由互動生成、再回頭改變我們的過程；這些互動源於不同的權力實踐。\n\n學生觀察不同規模的群體如何發展出應對環境的方法，歸納同一環境的不同面向，發展出一種有彈性的形式策略，並對自己的設計做「陌生化」的反思。",
-      "items": [
-        "權力 ⇄ 型式：權力生產型式，型式也反過來支配",
-        "權力（potestas）→ 權威 → 政府；權能（potentia）→ 力量與能力 → 人民團體",
-        "從權力與權能，對應到「戰略」（strategy）與以時間換取空間的「戰術」（tactic）",
-        "閱讀：Massey、Zukin《權力地景》、Castells、Foucault、de Certeau、Negri 等",
-        "方法：事件與活動的四維測繪 → 戰略與戰術設計 → 依時間迭代 → 可適應的方案"
-      ],
-      "images": [
-        "assets/teaching/c-01-poster.webp",
-        "assets/teaching/c-02-power-form.webp"
-      ],
-      "captions": [
-        "工作營主視覺：權力地景 Urban Landscape of Power",
-        "授課圖解：權力 ⇄ 型式，生產與支配"
+      "cover": "assets/teaching/c-01-poster.webp",
+      "coverCaption": "工作營主視覺：權力地景 Urban Landscape of Power",
+      "description": "空間由權力實踐生成；從權力與權能、戰略與戰術，發展有彈性的形式策略。",
+      "sections": [
+        {
+          "heading": "主題",
+          "body": "不把空間想成靜態的實體，而是由互動生成、再回頭改變我們的過程。實與虛的形式相互生成，而這些互動源於不同權力實踐的因果。\n\n權力生產形式，形式也反過來支配使用它的人。",
+          "images": [
+            "assets/teaching/c-02-power-form.webp"
+          ],
+          "captions": [
+            "授課圖解：權力 ⇄ 型式，生產與支配"
+          ]
+        },
+        {
+          "heading": "關鍵理論：權力與權能",
+          "body": "Negri 區分兩種力量。「權力」（potestas）與權威（authority）相關，對應政府與制度；「權能」（potentia）是力量（power）與能力（capacity），對應人民與團體自發的行動。",
+          "images": [
+            "assets/teaching/c-11-potestas-potentia.webp"
+          ],
+          "captions": [
+            "自製圖解：權力 potestas 與權能 potentia"
+          ]
+        },
+        {
+          "heading": "關鍵理論：戰略與戰術",
+          "body": "de Certeau 把權力的空間操作稱為「戰略」（strategy）：佔有並規劃空間。弱勢者的回應是「戰術」（tactic）：沒有自己的地盤，只能以時間換取空間，在日常中挪用別人的空間。\n\n工作營關注不同規模的群體如何自然發展出應對環境的方法。",
+          "images": [
+            "assets/teaching/c-12-strategy-tactic.webp"
+          ],
+          "captions": [
+            "自製圖解：戰略 strategy 與戰術 tactic"
+          ]
+        },
+        {
+          "heading": "工作營的提問",
+          "body": "形式與權力之間，誰從屬於誰？日常的戰術，能否長成一種空間策略，成為空間中的子系統？學生也要對自己的設計進行「陌生化」的反思。",
+          "images": [],
+          "captions": []
+        },
+        {
+          "heading": "方法與階段",
+          "body": "經典閱讀與環境觀察 → 依時間與地點的事件與活動測繪（四維表達）→ 戰略與戰術設計 → 依時間維度迭代 → 可適應的方案（時空壓縮）→ 深化與敘事。",
+          "images": [
+            "assets/teaching/c-13-method.webp"
+          ],
+          "captions": [
+            "自製圖解：時間維度的設計方法"
+          ]
+        },
+        {
+          "heading": "閱讀與成果",
+          "body": "閱讀：Massey〈權力幾何學與進步的地方感〉、Zukin《權力地景》、Castells〈流動空間〉、Foucault、Musil《沒有個性的人》、de Certeau、Negri 等。\n\n成果：在自選題目上完成方案與評圖簡報。",
+          "images": [],
+          "captions": []
+        }
       ]
     },
     {
+      "type": "studio",
+      "slug": "kafkaesque",
       "title": "卡夫卡式空間形塑",
       "subtitle": "Kafkaesque — Ways of Constructing Space",
       "meta": "2023 · 7/3–7/31，四週 · 12 人",
-      "body": "卡夫卡常借建造物來寫空間中的權力關係。他的敘事是一種反抗語境——弱對強、少對多的質疑；這和建築概念化很像：意念不能直說，就借比喻與隱喻來傳達。\n\n學生發展一套批判性的觀察方法（「萬花筒」），拆解習以為常的日常現象，依「發現—理解—反思—接受—創新」轉化，最後由自己對文本的解讀，衍生出設計文本與空間類型學。",
-      "items": [
-        "空間語彙（Vocabulary）：「你如何描述，決定了你的設計」",
-        "概念不等於想法：概念要能與更多人分享，並指向可以建造的提案；概念啟動設計動作",
-        "概念的三個特性：共通性、應用性、結構性",
-        "課程架構：設計語彙 → 概念與轉譯 → 轉譯方法 → 方案設計 → 設計表達 → 空間、光與形式 → 環境中的空間 → 空間與材料"
-      ],
-      "images": [
-        "assets/teaching/h-01-poster.webp"
-      ],
-      "captions": [
-        "工作營主視覺：卡夫卡式 Kafkaesque"
+      "cover": "assets/teaching/h-01-poster.webp",
+      "coverCaption": "工作營主視覺：卡夫卡式 Kafkaesque",
+      "description": "以卡夫卡的權力隱喻為文本，發展批判性的觀察方法與自己的空間類型學。",
+      "sections": [
+        {
+          "heading": "主題",
+          "body": "Franz Kafka 的作品常借建造物的描述，表達空間中的權力關係，在文字中形塑場域與「境」的多重真實。\n\n卡夫卡式的敘事可視為一種反抗語境——弱對強、少對多的質疑。這和建築的概念化很像：意念在現實限制下無法直說，便借比喻、隱喻與象徵來傳達。",
+          "images": [],
+          "captions": []
+        },
+        {
+          "heading": "關鍵方法：萬花筒",
+          "body": "學生發展一套批判性的觀察方法，稱為「萬花筒」：拆解習以為常的日常現象，整理混亂中隱藏的定向邏輯，再依「發現—理解—反思—接受—創新」的框架轉化變形。",
+          "images": [
+            "assets/teaching/h-11-kaleidoscope.webp"
+          ],
+          "captions": [
+            "自製圖解：「萬花筒」觀察法的五個步驟"
+          ]
+        },
+        {
+          "heading": "關鍵概念：語彙、想法與概念",
+          "body": "「你如何描述，決定了你的設計。」課程從建立空間語彙（Vocabulary）開始。\n\n想法（Idea）來自個人的觀察或看法，但通常不足以推動設計。概念（Concept）要能與更多人分享，並指向一個可以建造的提案；概念啟動設計動作。",
+          "images": [
+            "assets/teaching/h-12-idea-concept.webp"
+          ],
+          "captions": [
+            "自製圖解：想法與概念"
+          ]
+        },
+        {
+          "heading": "概念的三個特性",
+          "body": "共通性：在外延中忽略事物彼此的差異，所以是抽象的。應用性：同等適用於外延中的所有事物，所以是普遍的。結構性：概念是命題的基本元素，就像詞是句子的基本元素。",
+          "images": [
+            "assets/teaching/h-13-concept-traits.webp"
+          ],
+          "captions": [
+            "自製圖解：概念的三個特性"
+          ]
+        },
+        {
+          "heading": "課程單元與成果",
+          "body": "八個單元：設計語彙 → 概念與轉譯 → 轉譯方法 → 方案設計 → 設計表達 → 空間、光與形式 → 環境中的空間 → 空間與材料。\n\n最後，由各自對文本的解讀衍生出設計文本與空間類型學，在自選的國際競賽題目上完成方案與評圖簡報。",
+          "images": [
+            "assets/teaching/h-14-course.webp"
+          ],
+          "captions": [
+            "自製圖解：課程的八個單元"
+          ]
+        }
       ]
     },
     {
@@ -147,40 +378,115 @@
       "body": "以 Benjamin 等人對十九、二十世紀城市的閱讀為起點，從歷史的空間原型推想今天與未來的城市。"
     },
     {
+      "type": "studio",
+      "slug": "arcades",
       "title": "拱廊計畫",
       "subtitle": "The Post-Modern Prosthetics of Arcades",
       "meta": "工作營 · 10 人",
-      "body": "以 Benjamin《拱廊計畫》為起點，回看拱廊作為現代商業空間的原型：十九世紀初由小店主集資興建，讓臨時店鋪擁有華貴立面；之後因防火與衛生規範、百貨公司興起而消失，卻延續進柯比意的「居住單元」。\n\n學生思考：當集體消費從實體空間移到虛擬場所，傳統消費空間會被取代嗎？以用戶角色與時間的「變格」，對未來的空間形式提出預測與設計（Research by Design）。",
-      "items": [
-        "城市角色：文人、偵探、波西米亞人、賭徒、妓女、拾荒者",
-        "關鍵詞：消費／空間／符號化",
-        "Lefebvre 空間三元組：空間實踐（感知）、空間再現（構想）、再現空間（生活）",
-        "三元組對應作品集的三部分：認知與分析 → 設計與投射 → 展示與表現",
-        "閱讀：Benjamin、Castells、Foucault、Lefebvre、Harvey、Zukin 等"
-      ],
-      "images": [
-        "assets/teaching/e-01-poster.webp"
-      ],
-      "captions": [
-        "工作營主視覺：拱廊計畫 Arcades"
+      "cover": "assets/teaching/e-01-poster.webp",
+      "coverCaption": "工作營主視覺：拱廊計畫 Arcades",
+      "description": "從 Benjamin 的拱廊出發，以 Lefebvre 的空間生產推想消費空間的未來。",
+      "sections": [
+        {
+          "heading": "主題：拱廊的興衰",
+          "body": "Walter Benjamin 的《拱廊計畫》與〈巴黎，十九世紀的首都〉把拱廊視為現代商業空間的原型。十九世紀初，小店主集資興建拱廊，讓兩排臨時店鋪擁有只有官式建築才有的華貴立面，服務新興的資產階級。\n\n之後，防火與衛生規範趨嚴、百貨公司興起，拱廊幾乎絕跡；它卻以另一種形式延續進柯比意的「居住單元」。",
+          "images": [
+            "assets/teaching/e-14-arcade-timeline.webp"
+          ],
+          "captions": [
+            "自製圖解：拱廊的興衰與變形"
+          ]
+        },
+        {
+          "heading": "城市角色",
+          "body": "Benjamin 筆下的城市充滿特定角色：文人、偵探、波西米亞人、賭徒、妓女、拾荒者。他們是在城市中閒逛、偽裝與觀察的邊緣人物。學生借這些角色，想像未來空間的使用者。",
+          "images": [
+            "assets/teaching/e-13-figures.webp"
+          ],
+          "captions": [
+            "自製圖解：拱廊裡的城市角色"
+          ]
+        },
+        {
+          "heading": "關鍵理論：Lefebvre 空間三元組",
+          "body": "Lefebvre 把空間分成三個層次：空間實踐（感知的空間）、空間再現（構想的空間，如規劃圖）、再現空間（生活的空間，如廣告與想像）。\n\n工作營把三元組對應到作品集的三部分：認知與分析 → 設計與投射 → 展示與表現。",
+          "images": [
+            "assets/teaching/e-11-triad.webp",
+            "assets/teaching/e-12-triad-portfolio.webp"
+          ],
+          "captions": [
+            "自製圖解：Lefebvre 空間三元組",
+            "自製圖解：三元組對應作品集的三部分"
+          ]
+        },
+        {
+          "heading": "工作營的提問",
+          "body": "在技術浪潮下，集體消費的狂歡從實體空間轉向虛擬場所。傳統消費空間會被虛空間與人工智慧完全取代嗎？當消費從拱廊移到螢幕上，公共空間會變成什麼？",
+          "images": [],
+          "captions": []
+        },
+        {
+          "heading": "方法與成果",
+          "body": "以 Research by Design 的方式，藉由用戶角色與時間的「變格」，對未來的空間形式提出預測與設計。關鍵詞：消費、空間、符號化。\n\n閱讀：Benjamin、Castells〈流動空間〉、Foucault〈異類空間〉〈全景敞視主義〉、韓晶《城市消費空間》、Lefebvre、Harvey、Zukin 等。成果：在自選題目上完成方案與評圖簡報。",
+          "images": [],
+          "captions": []
+        }
       ]
     },
     {
+      "type": "studio",
+      "slug": "city-crown",
       "title": "城市之冠",
       "subtitle": "The Glance of Modernity: The City Crown",
       "meta": "工作營 · 10 人",
-      "body": "以 Taut 的「城市之冠」與 Benjamin 對現代性的觀察為背景，回到現代建築內部的一場分歧：柯比意的自由平面，對照路斯的「房間般的空間」（Raumplan）。\n\n課程把兩種空間操作拆成可練習的步驟，再以 Lefebvre 空間三元組串起作品集。",
-      "items": [
-        "體積設計：房間般的空間，「有教養的內視」；自由平面：流動空間，「遼闊的視野」",
-        "柯比意：多層水平樓板（Dom-ino）→ 依需要在樓板上錯位排房間（建築漫步）→ 上下層牆體不必對位（自由平面）→ 水平長窗與白牆呈現體量（自由立面）",
-        "路斯：依功能區分體積盒子（空間經濟學）→ 堆疊成完整立方體（體積規劃）→ 以洞口而非拆牆聯繫（劇場理論）→ 內部飾面定義房間、外部白牆維持體量（飾面律令）",
-        "閱讀：Taut、Benjamin、Loos〈裝飾與罪惡〉、Lefebvre、Lynch、Jacobs、Alexander 等"
-      ],
-      "images": [
-        "assets/teaching/g-01-poster.webp"
-      ],
-      "captions": [
-        "工作營主視覺：城市之冠 The City Crown"
+      "cover": "assets/teaching/g-01-poster.webp",
+      "coverCaption": "工作營主視覺：城市之冠 The City Crown",
+      "description": "回到現代建築的一場分歧：柯比意的自由平面與路斯的體積設計。",
+      "sections": [
+        {
+          "heading": "主題",
+          "body": "以 Bruno Taut 的「城市之冠」與 Benjamin 對現代性的觀察為背景，回到現代建築內部的一場分歧：Le Corbusier 的流動空間與自由平面，對照 Adolf Loos 在〈裝飾與罪惡〉之後發展的「房間般的空間」（Raumplan）。",
+          "images": [],
+          "captions": []
+        },
+        {
+          "heading": "兩種現代空間",
+          "body": "體積設計（Raumplan）是房間般的空間，被形容為「有教養的內視」；自由平面（Plan libre）是流動的空間，帶來「遼闊的視野」。",
+          "images": [
+            "assets/teaching/g-11-raumplan-plan-libre.webp",
+            "assets/teaching/g-12-slabs-rooms.webp"
+          ],
+          "captions": [
+            "自製圖解：體積設計 vs 自由平面",
+            "自製示意圖：樓板與柱的自由平面，對照高低錯落、以洞口相連的房間"
+          ]
+        },
+        {
+          "heading": "柯比意的空間操作",
+          "body": "一、垂直方向設置幾層水平樓板（Dom-ino 體系）。二、依功能與空間需要，在樓板上錯位排布房間（建築漫步）。三、樓板層層疊加，上下層牆體不必對位（自由平面）。四、以水平長窗和白牆隱去內部空間，呈現體量感（自由立面）。",
+          "images": [
+            "assets/teaching/g-13-corbusier-steps.webp"
+          ],
+          "captions": [
+            "自製圖解：柯比意的空間操作四步"
+          ]
+        },
+        {
+          "heading": "路斯的空間操作",
+          "body": "一、依功能需要區分出不同的體積盒子（空間經濟學）。二、把不同功能的盒子堆疊成完整的立方體（體積規劃）。三、盒子之間以洞口聯繫，而不是拆掉牆體（劇場理論）。四、內部飾面保證房間的特徵，外部白牆保證建築的體量（飾面律令）。",
+          "images": [
+            "assets/teaching/g-14-loos-steps.webp"
+          ],
+          "captions": [
+            "自製圖解：路斯的空間操作四步"
+          ]
+        },
+        {
+          "heading": "練習與成果",
+          "body": "學生比較並練習兩種空間操作，再以認知地圖與場地測繪進入自選題目發展方案；作品集同樣以 Lefebvre 空間三元組組織。\n\n閱讀：Taut、Benjamin、Loos〈裝飾與罪惡〉、Lefebvre《空間的生產》、Lynch《城市意象》、Jacobs、Alexander《模式語言》等。",
+          "images": [],
+          "captions": []
+        }
       ]
     },
     {

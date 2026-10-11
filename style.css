@@ -57,3 +57,17 @@ body.detail{background:#fff}
 .detail .langs button:hover,.detail .langs button.on{color:#111}
 .detail .langs button.on{text-decoration:underline;text-underline-offset:3px}
 @media(max-width:760px){.detail .sec{margin-top:32px}}
+/* teaching wall (/teaching/ with studios): stats and category headings above /board/-style card grids */
+.teach-wall .t-text{background:#fff;border-radius:6px;margin:16px 16px 0;padding:22px 24px}
+.teach-wall .t-text h2{font-weight:400;font-size:22px;line-height:1.35;margin:0 0 10px}
+.teach-wall .t-top h2{font-size:26px}
+.teach-wall .t-text p{margin:0 0 .8em;font-size:15px;line-height:1.75;color:#333;max-width:760px}
+.teach-wall .t-text ul{margin:0;padding:0 0 0 1.2em;font-size:15px;line-height:1.75;color:#333}
+.teach-wall .t-cat{padding:28px 16px 0}
+.teach-wall .t-cat h2{font-weight:400;font-size:20px;margin:0}
+.teach-wall .t-cat h2 small{font-size:13px;color:#888;margin-left:6px}
+.teach-wall .t-cat p{margin:4px 0 0;font-size:14px;line-height:1.6;color:#666;max-width:760px}
+.teach-wall .pin .cap small{display:block;font-size:12px;color:#999;margin-top:2px}
+.teach-wall .t-closing{margin:8px 16px 40px;padding:18px 24px;background:#fff;border-radius:6px;font-size:15px}
+.teach-wall .t-closing a{color:#111;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:700px){.teach-wall .t-text{margin:12px 12px 0;padding:18px}.teach-wall .t-cat{padding:22px 12px 0}.teach-wall .board{padding:12px;column-gap:12px}}
