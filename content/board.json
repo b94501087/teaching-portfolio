@@ -2615,6 +2615,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Silent Habitation — Learning from the Beaver",
+      "slug": "silent-habitation",
+      "description": "A scrapyard on a river in Stockport becomes an ecological park and beaver research centre, with researchers' houses raised above the habitat.\n\nStockport, England, UK | Residence + parks | Nov 2024 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "靜默棲居——向河狸學習",
+          "description": "Stockport 河畔的一處廢料場，化身為生態公園與河狸研究中心，研究員住宅則架高於棲地之上。\n\n英國 Stockport｜住宅＋公園｜2024 年 11 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/silent-habitation/01-cover-model.webp",
+        "assets/board/silent-habitation/02-site-status.webp",
+        "assets/board/silent-habitation/03-strategies.webp",
+        "assets/board/silent-habitation/04-site-design.webp",
+        "assets/board/silent-habitation/05-block-design.webp",
+        "assets/board/silent-habitation/06-axonometric-plan.webp",
+        "assets/board/silent-habitation/07-structure-details.webp",
+        "assets/board/silent-habitation/08-roof-interior.webp",
+        "assets/board/silent-habitation/09-elevation-perspective.webp",
+        "assets/board/silent-habitation/10-model-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/silent-habitation/01-cover-model.webp"
+          ],
+          "captions": [
+            "Handmade model: the elevated research houses above the new river channel and the sunken ecological park."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "手工模型：架高的研究員住宅，位於新河道與下沉式生態公園之上。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is a scrapyard in Stockport, a small town south of Manchester, England, with a river running through it just upstream of the confluence of two rivers, and the scrapyard has polluted the river and divided the town's green space. Beavers were almost completely extinct in the UK in the late 16th century, mainly through overhunting, habitat loss and changes in water management, and in recent years they have gradually been reintroduced.",
+          "images": [
+            "assets/board/silent-habitation/02-site-status.webp",
+            "assets/board/silent-habitation/03-strategies.webp"
+          ],
+          "captions": [
+            "Site analysis — the scrapyard on the river, with the surrounding buildings, transport and green space.",
+            "Strategies for ecological restoration — clean up the waste stations and river, restore park green space as corridors, build a beaver research centre, and form an ecological environment of natural symbiosis."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地是英國曼徹斯特以南小鎮 Stockport 的一處廢料場，有一條河流穿過，位於兩河交匯處的上游，而廢料場污染了河流，也割裂了小鎮的綠地。河狸在 16 世紀末幾乎在英國絕跡，主因是過度獵捕、棲地喪失與水資源管理的改變；近年來，河狸逐漸被重新引入。",
+              "captions": [
+                "基地分析——河畔的廢料場，以及周邊建築、交通與綠地。",
+                "生態修復策略——清理垃圾站與河道、恢復公園綠地並形成綠色廊道、興建河狸研究中心，最終形成自然共生的生態環境。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Beavers build dams across rivers and streams, creating wetlands that purify water, control floods and provide habitat for many aquatic species. The project learns from them: a second river channel is opened on the site of the old scrapyard, the ground is lowered into a gentle slope as beaver habitat, and the islands it creates divide public and private space.",
+          "images": [
+            "assets/board/silent-habitation/04-site-design.webp",
+            "assets/board/silent-habitation/05-block-design.webp"
+          ],
+          "captions": [
+            "Site design — river regulation and habitat, human activity paths, and the sections integrating the research centre, the elevated housing and the sunken park.",
+            "Block design — single, cutting, repeat and stacking, weighing users, privacy and views of the park."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "河狸在河川與溪流上築壩，形成能淨化水質、調節洪水，並為多種水生物種提供棲地的濕地。本案向河狸學習：在舊廢料場的位置開出第二條河道，把地面降低成緩坡作為河狸棲地，並以由此形成的島嶼劃分公共與私密空間。",
+              "captions": [
+                "基地設計——河道調整與棲地、人的活動路徑，以及整合研究中心、架高住宅與下沉公園的剖面。",
+                "量體設計——單一、切割、重複與堆疊，權衡使用人數、隱私與觀看公園的視野。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The research and visitor centre sits in the middle, built to the terrain and linked by bridges, with a corridor above the new river. Three houses above it meet the researchers' living needs; each has its own small garden overlooking the park, south-facing windows and a façade that keeps residents' privacy, while the elevation avoids blocking park visitors' views.",
+          "images": [
+            "assets/board/silent-habitation/06-axonometric-plan.webp",
+            "assets/board/silent-habitation/07-structure-details.webp"
+          ],
+          "captions": [
+            "Axonometric and exploded view — roof garden, residential interior, laboratory, river landscape and plan.",
+            "Structure — steel beams, columns and support rods with bolted connections carry the building; wood forms the walls and floors, with sunshades in the façade frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "研究中心與遊客中心依地形設於中央，以橋相連，新河道上方加設一條廊道。其上的三棟住宅滿足研究員的居住需求：每棟都有俯瞰公園的小花園、朝南的窗，以及保護住戶隱私的立面；架高的設計則不遮擋公園遊客的視線。",
+              "captions": [
+                "軸測與爆炸圖——屋頂花園、住宅室內、實驗室、河岸景觀與平面。",
+                "結構——鋼梁、柱與支撐桿以螺栓接合承重；木材構成牆體與樓板，並以遮陽板組成立面框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final ecological park is open to the public, where people can watch the beavers at work. The building learns the technique and structure of beaver dams, and the reshaped site makes it easier for beavers to build their dams and purify the water in a natural way, so that people and nature coexist.",
+          "images": [
+            "assets/board/silent-habitation/08-roof-interior.webp",
+            "assets/board/silent-habitation/09-elevation-perspective.webp",
+            "assets/board/silent-habitation/10-model-views.webp"
+          ],
+          "captions": [
+            "Roof, interior and overview — wood and metal roof, a warm wooden interior with a small office for researchers, and the multi-block upper floor with open terraces.",
+            "Building elevation and perspective of the houses above the beaver habitat.",
+            "Model views."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的生態公園向公眾開放，人們可以觀察河狸活動。建築學習河狸築壩的技術與構造；改造後的基地讓河狸更容易築壩，並以自然的方式淨化水質，讓人與自然共存。",
+              "captions": [
+                "屋頂、室內與全景——木與金屬屋頂、設有研究員小辦公區的溫暖木質室內，以及由多個量體與開放露台組成的上層。",
+                "建築立面，以及河狸棲地上方住宅的透視。",
+                "模型視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Learn from another builder: a beaver's dam is the brief's first precedent.\n2. Repair the site before you build on it: clean up, regrade, reconnect the green.\n3. Separate by landform: islands, slopes and elevation divide public and private.\n4. Let the structure echo the idea: beams and rods built up like a dam.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 向另一位建造者學習：河狸的壩就是第一個參考案例。\n2. 先修復基地，再在上面建造：清理、整地、重新連接綠地。\n3. 以地形劃分：島嶼、坡地與高差區分公共與私密。\n4. 讓結構呼應概念：梁與桿件像築壩一樣層層搭起。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
