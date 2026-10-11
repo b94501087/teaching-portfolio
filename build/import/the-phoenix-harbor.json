@@ -1,0 +1,61 @@
+{
+  "project": "The Phoenix Harbor",
+  "dest": "assets/board/the-phoenix-harbor",
+  "note": "Portfolio 2dd5d109 pages 9–13 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title render and page 8 news collage (photos of people, a book cover, logos and third-party photos), the inspiration photos on page 10, the sculpture photo and views with photo figures on page 11, the conception renders and material photos on page 12, and the port photo and portrait on page 13. No retouching.",
+  "files": [
+    {
+      "name": "01-phoenix-harbor-aerial.webp",
+      "sha256": "253c6eb40626d0fc467de7bc85cac2d1509766b91ea112a85b6673b8d834ee88",
+      "bytes": 271144,
+      "from": "2dd5d109 page 10 — aerial view of the Phoenix Park, the silo and construction solidarity, y 29–100 %; the inspiration photos above are excluded"
+    },
+    {
+      "name": "02-urban-analysis.webp",
+      "sha256": "21516c9ebea544a4c89c8af583c3e54adae6e1796f4fc0619d18a369b9d9172e",
+      "bytes": 118036,
+      "from": "page 9 — urban analysis of the port of Beirut, x 0–54 %, y 3–37 %"
+    },
+    {
+      "name": "03-layout-retention.webp",
+      "sha256": "ed4afaf2d4f1873556a02381e51fa1828d858688547efeebbbef2a1de81401f1",
+      "bytes": 85410,
+      "from": "page 9 — layout retention, x 54–100 %, y 3–37 %"
+    },
+    {
+      "name": "04-design-points-and-master-plan.webp",
+      "sha256": "8f9b3fa77b509bc2043f232dfd593161de3657e937f705bcb5fce214e82a7e73",
+      "bytes": 337128,
+      "from": "page 9 — design points, master plan and functional layers, y 37–100 %"
+    },
+    {
+      "name": "05-phoenix-park-plan.webp",
+      "sha256": "e039258daa684e033965130115616fe57a37a4a79332eee672c4385659aaa090",
+      "bytes": 254216,
+      "from": "page 11 — plan of the Phoenix Park memorial, x 32–100 %, y 3–83 %; the sketch with a sculpture photo and the views with photo figures are excluded"
+    },
+    {
+      "name": "06-silo-reconstruction-plan.webp",
+      "sha256": "a93b8b58c50b4975c93745d2c7eb23583e648c631ca3dde05b153f1c89350dca",
+      "bytes": 73352,
+      "from": "page 12 — silo reconstruction plan, x 2–23 %"
+    },
+    {
+      "name": "07-silo-facade-model.webp",
+      "sha256": "062750e27bb5ecbb6efb13d5a91aaee1d1a62ecd6565e595df9b737792b31f23",
+      "bytes": 253858,
+      "from": "page 12 — silo facade model photos, x 48–98 %; the conception renders with photo figures and the facade material and metaphor photos are excluded"
+    },
+    {
+      "name": "08-construction-solidarity.webp",
+      "sha256": "b7b2a59ff50eeae92731d03e446c84c0127d9b235126e4c68e4fafa0b966599c",
+      "bytes": 263062,
+      "from": "page 13 — construction solidarity: raw models and axonometric, x 33–98 %, y 3–68 %; the photos of the port and of a person are excluded"
+    },
+    {
+      "name": "09-bolting-connection-plan-and-section.webp",
+      "sha256": "4617df22eaa347d26c8aebea2b81c82a8200fcecd93badae970c3212d6c8a92e",
+      "bytes": 83864,
+      "from": "page 13 — combination options, bolting connection, plan and section, y 68–97 %"
+    }
+  ]
+}
