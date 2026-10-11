@@ -1,0 +1,67 @@
+{
+  "project": "Children's Healing Garden",
+  "dest": "assets/board/childrens-healing-garden",
+  "note": "Portfolio pages 2–5 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title column with course and instructor lines and the Existing Condition photo strip on page 2, and the key plan and the two renders with collage people on page 5. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-master-plan.webp",
+      "sha256": "7fce9ba5f82ab63c44e208ad35eabb6a0cd271c1daefd6b5defe79d02bf49b44",
+      "bytes": 196322,
+      "from": "page 4 — Master Plan (cover), x 0–72 %, y 2–78.5 %"
+    },
+    {
+      "name": "02-site-location.webp",
+      "sha256": "b814be2f4cfdf7a8658e65382e21526efdb4602a82de13d17da6072de3a81929",
+      "bytes": 151090,
+      "from": "page 2 — Site Location, x 19.5–59.5 %, y 2–75.5 %; the title column with course and instructor lines is excluded"
+    },
+    {
+      "name": "03-user-location-analysis.webp",
+      "sha256": "7be93ea07b3b41576f0611eda4f2da933be94dd95155f1dec8ed031e6bcc8324",
+      "bytes": 111640,
+      "from": "page 2 — User Analyse and Location Analysis, x 59.5–100 %, y 2–75.5 %; the Existing Condition photo strip below is excluded"
+    },
+    {
+      "name": "04-childrens-identity.webp",
+      "sha256": "322ea4a607e3f7c4acacdd6d4e18d390941829ebd706f3d2cb482e9e544e7441",
+      "bytes": 82808,
+      "from": "page 3 — Children's Identity and Color Psychology, x 0–29 %"
+    },
+    {
+      "name": "05-strategy.webp",
+      "sha256": "9048429c946078d57cffbcc93631a38c243995ec40e8bb59eb7e1686e02fc9cb",
+      "bytes": 181610,
+      "from": "page 3 — Strategy: pocket garden and roof garden, x 29–100 %, y 2–72.5 %"
+    },
+    {
+      "name": "06-planting-strategy.webp",
+      "sha256": "9784549e1ec5c5f3b2cde0814ea04ca99ae5a5c5100651ca5e1a8f512a467117",
+      "bytes": 52908,
+      "from": "page 3 — Planting Strategy, x 29–100 %, y 72.5–100 %"
+    },
+    {
+      "name": "07-flower-bed-catalogue.webp",
+      "sha256": "649c5749487b5b0c83afa6691eeb73b400672d1cf3875cae9bb1195a5a9966f9",
+      "bytes": 133082,
+      "from": "page 4 — Spiral Flower Bed Design Plan, Facade Effect B-B' and Plant Catalogue, x 72–100 %"
+    },
+    {
+      "name": "08-circulation-function.webp",
+      "sha256": "9ad2ed3eae3fc9c0c7ad3d8a088dcf3b3b776d460a14e73cd2c0a9d0bc982f5d",
+      "bytes": 57220,
+      "from": "page 4 — Circulation, Function, Planting and Furnishings, x 0–72 %, y 78.5–100 %"
+    },
+    {
+      "name": "09-section.webp",
+      "sha256": "bcb3f56df39207fb50a074235f800a8456061f94313892240e66a5b2889a7990",
+      "bytes": 148996,
+      "from": "page 5 — Section A-A', y 0–49 %"
+    },
+    {
+      "name": "10-amphitheatre-detail.webp",
+      "sha256": "b53ab3a25f2fd6d1827d360844188c24e8f71e987921de7151a9b9c854831c73",
+      "bytes": 63382,
+      "from": "page 5 — Amphitheatre Construction Detail, x 64.5–100 %, y 50–100 %; the two renders with collage people are excluded"
+    }
+  ]
+}
