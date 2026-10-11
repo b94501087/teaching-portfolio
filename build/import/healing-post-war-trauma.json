@@ -1,0 +1,55 @@
+{
+  "project": "Facing up to War",
+  "dest": "assets/board/healing-post-war-trauma",
+  "note": "Portfolio dd6639be pages 16–20 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the PTSD statistics panel, the war photos and the comic strip with real faces on page 16, the user analysis and consequences page made of photos (page 17), the portraits and book covers in the psychological theory panel, and the VR photo. No retouching.",
+  "files": [
+    {
+      "name": "01-handcrafted-model.webp",
+      "sha256": "8c096ae778987936b611132816c98eb9e1e90fc6aee2a702da12ab5b74475baf",
+      "bytes": 246184,
+      "from": "dd6639be page 20 — handcrafted model display, overall aerial view, x 2–78 %, y 6–80 %"
+    },
+    {
+      "name": "02-war-situation-map.webp",
+      "sha256": "19eedf8bb29cf18d583b80891c0dbdf1767d2f455125c014d1bf902847ed0775",
+      "bytes": 204008,
+      "from": "page 16 — war situation analysis map with the site in Mariupol, x 21–70 %, y 0–53 %; the PTSD statistics, the war photos and the comic strip with real faces below are excluded"
+    },
+    {
+      "name": "03-site-and-city-situation.webp",
+      "sha256": "9107a4df5296c7b57cca7199ad0a2aa65e8fd818d0acdaeca671bc50513771d6",
+      "bytes": 376360,
+      "from": "page 18 — site analysis on the aerial image of Mariupol and the city situation layers, x 0–66.5 %"
+    },
+    {
+      "name": "04-design-strategy.webp",
+      "sha256": "20855161b945b1266fa9afbd04d66da25634d0cef13ef8b86371f2e41af28adc",
+      "bytes": 38158,
+      "from": "page 18 — design strategy diagram of naturopathy and artificial treatment, x 66.5–100 %, y 57.5–93 %; the portraits and book covers in the psychological theory panel and the VR photo are excluded"
+    },
+    {
+      "name": "05-parti-diagram.webp",
+      "sha256": "2b45baac8ed33d6e61f7fbc638efbfa5a740d1002b56b528685ff5e6e4327013",
+      "bytes": 37770,
+      "from": "page 19 — parti diagram: concept, function, connection and wind, y 0–28 %"
+    },
+    {
+      "name": "06-model-generation.webp",
+      "sha256": "a098577e5eddd8555b898f5eea3833eeac1ecdfd3943a43019a8f2bd71a1f557",
+      "bytes": 123200,
+      "from": "page 19 — model generation sketches, x 0–47.5 %, y 28–100 %"
+    },
+    {
+      "name": "07-floor-plan.webp",
+      "sha256": "30705766ffe639c4710bd48d5b146e7efbff057d5e5a5098554242944d2aed4f",
+      "bytes": 161490,
+      "from": "page 19 — floor plan with notes, x 47.5–100 %, y 30–100 %"
+    },
+    {
+      "name": "08-model-details.webp",
+      "sha256": "cf84eea69202c80edb66234efea5741c6578ae1df78f7e452db2ef2b63276781",
+      "bytes": 55118,
+      "from": "page 20 — three model detail photos, x 79–100 %, y 2–99 %"
+    }
+  ]
+}
