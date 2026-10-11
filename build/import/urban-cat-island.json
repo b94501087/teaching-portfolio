@@ -1,0 +1,61 @@
+{
+  "project": "Urban Cat Island",
+  "dest": "assets/board/urban-cat-island",
+  "note": "Portfolio pages 1–4 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the portfolio cover with the student's name and the stray-cat research panels (stock photos of cats, shelters and a person) on page 1. Typos fixed: Strateghy, Volumn, avaliable. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-perspective-view.webp",
+      "sha256": "1e711d6069910e3c2ea3249ebd5430da4262445e1ee0b7fddacb6f5f902698c8",
+      "bytes": 357840,
+      "from": "page 3 — Perspective View (cover), x 0–50.5 %, y 33–100 %"
+    },
+    {
+      "name": "02-site-location.webp",
+      "sha256": "1589dbb2332993829122be6f1e922dd9aa768ec86f07ef475c9dc685aaa06647",
+      "bytes": 143138,
+      "from": "page 1 — Site Location Selection, x 80.5–100 %, y 45.5–98.5 %; the portfolio cover and the stray-cat research panels (stock photos) are excluded"
+    },
+    {
+      "name": "03-site-conditions.webp",
+      "sha256": "cf535e4482858f84a85880d391c37385c63ca45b26bbe82550561c005a3a869d",
+      "bytes": 233950,
+      "from": "page 2 — Site Conditions, x 0–21 %"
+    },
+    {
+      "name": "04-issues-strategy.webp",
+      "sha256": "8912c90d18747de72e60cada8b414928236f2b48f5dd5c54ed8dd81a471c572d",
+      "bytes": 393050,
+      "from": "page 2 — Site Issues, Design Strategy and Planning Strategy, x 21–50 %"
+    },
+    {
+      "name": "05-physical-models.webp",
+      "sha256": "c9559191f1e9becf93db150ad8ae143a6e6bf78d7b9732b44a19c71acd438b30",
+      "bytes": 192708,
+      "from": "page 2 — Physical Models 1:100, x 50–77.5 %, y 46–100 %"
+    },
+    {
+      "name": "06-site-plan.webp",
+      "sha256": "bc87716af7f8637c0dc56e0700998fa11b8fb31afbc873dd525ba7a2e9a2281a",
+      "bytes": 268062,
+      "from": "page 2 — Site Plan, x 77.5–100 %"
+    },
+    {
+      "name": "07-volume-generation.webp",
+      "sha256": "7ce0832b8bb121890171d4f941b3a709041567a185cec46fab8264413032bd1e",
+      "bytes": 95510,
+      "from": "page 3 — Volume Generation, x 0–50.5 %, y 0–33 %"
+    },
+    {
+      "name": "08-renders.webp",
+      "sha256": "55c42ad7cf453a9e0d62872a84a6fc44fd21d2d35edf419888d04e1c6f59041e",
+      "bytes": 576774,
+      "from": "page 3 — renders of the sterilization center, the cat island and the pedestrian overpass, x 51–100 %"
+    },
+    {
+      "name": "09-medical-system.webp",
+      "sha256": "961c11399fcacf46f0773319c105cac5f18440823b4cc5b7f9b146cb716a4352",
+      "bytes": 405678,
+      "from": "page 4 — One-Step Medical System and Cat Island, x 0–50 %"
+    }
+  ]
+}
