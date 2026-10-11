@@ -1,0 +1,55 @@
+{
+  "project": "A Threshold of Tianhe Coach Station",
+  "dest": "assets/board/threshold-of-tianhe-coach-station",
+  "note": "Portfolio 2dd5d109 pages 5–7 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the chaos collage and location board on page 4 (photos of people), the timeline photos and book cover, bus station, flyover and metro photos on page 5, the strategy photos on page 6 and the renders with photo figures on page 7. No retouching.",
+  "files": [
+    {
+      "name": "01-functional-components.webp",
+      "sha256": "b867ac60435d4f2407deebd46197ac14e6b4e00c9fc4505e49fd9d4b39e6c07d",
+      "bytes": 110278,
+      "from": "2dd5d109 page 6 — functional components axonometric and aerial render, x 0–45 %, y 30–100 %; the strategy photos above are excluded"
+    },
+    {
+      "name": "02-city-sprawl-of-guangzhou.webp",
+      "sha256": "f13f564d3648831421a089504f2cc85c44ad0784656b8d48d087e70ce362aea0",
+      "bytes": 177780,
+      "from": "page 5 — city sprawl map of Guangzhou 1960–2010, x 0–51 %, y 28–82 %; the timeline photos and book cover above and the bus station photos below are excluded"
+    },
+    {
+      "name": "03-opacity.webp",
+      "sha256": "209833bb9553dc597fcb51f9296c462861b66c7f770fccb88ebff0ca09d778b9",
+      "bytes": 123186,
+      "from": "page 5 — opacity: complexity of roads, land use conversion and the city axis, x 51–100 %, y 6–49 %"
+    },
+    {
+      "name": "04-transport-of-three-heights.webp",
+      "sha256": "0fc509bc8586c4778214e002b025242098420c544c85094fd4f5957ad432797c",
+      "bytes": 80336,
+      "from": "page 5 — transport of three heights, x 51–81 %, y 49–100 %; the flyover, overpass and metro photos are excluded"
+    },
+    {
+      "name": "05-entrance-plan-and-section-detail.webp",
+      "sha256": "69b79d0be46e92b417e0b171d7a29e1f7273fc77b66b49211a6fe3bf14a329c8",
+      "bytes": 103274,
+      "from": "page 6 — entrance plan and section detail, x 45–100 %, y 0–58 %"
+    },
+    {
+      "name": "06-section-b-b.webp",
+      "sha256": "86412b6a957211f0d11ca75d95474eb3f948b3f1b97f0534822a9839d4c03fdb",
+      "bytes": 58954,
+      "from": "page 6 — section b-b, x 45–100 %, y 58–100 %"
+    },
+    {
+      "name": "07-underground-plan.webp",
+      "sha256": "e87f243ef8eab138aa581f7e6f6a1c86b9e7e7416a6e9fc6aa60ba1c83e8836d",
+      "bytes": 78916,
+      "from": "page 7 — underground plan, x 0–67 %, y 0–57 %; the swimming pool and entrance renders with photo figures are excluded"
+    },
+    {
+      "name": "08-section-a-a.webp",
+      "sha256": "f35465d667e1eecc21cdd1a65a648a2a325afb21424c48785910f4c2c005265e",
+      "bytes": 74042,
+      "from": "page 7 — section a-a, y 56–100 %"
+    }
+  ]
+}
