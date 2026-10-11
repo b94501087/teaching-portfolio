@@ -1316,6 +1316,149 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Motion Generation at Airports",
+      "slug": "motion-generation-at-airports",
+      "description": "Renewable-energy exercise equipment for stranded airport travellers: modular wooden units that can be moved and assembled, turning exercise into electricity.\n\nAtlanta Airport and any airport | Individual work / modular energy-generating exercise equipment | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "機場動能發電",
+          "description": "為滯留機場旅客設計的再生能源運動器材：可移動、可組裝的木構模組單元，把運動轉化為電力。\n\n亞特蘭大機場及任何機場｜個人作品／模組化發電運動器材｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/motion-generation-at-airports/01-cover-unit.webp",
+        "assets/board/motion-generation-at-airports/02-body-scale.webp",
+        "assets/board/motion-generation-at-airports/03-human-figures.webp",
+        "assets/board/motion-generation-at-airports/04-internal-structure.webp",
+        "assets/board/motion-generation-at-airports/05-sliding-ladder.webp",
+        "assets/board/motion-generation-at-airports/06-single-unit.webp",
+        "assets/board/motion-generation-at-airports/07-details.webp",
+        "assets/board/motion-generation-at-airports/08-rotor-materials.webp",
+        "assets/board/motion-generation-at-airports/09-assembly.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/motion-generation-at-airports/01-cover-unit.webp"
+          ],
+          "captions": [
+            "One exercise unit: a hexagonal wooden shell around rotatable equipment, with a battery in the floor that stores power for phone charging."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "單一運動單元：六角形木構外殼包覆可旋轉的運動器材，地板下的電池儲存電力供手機充電。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "During a power outage at Atlanta International Airport, travellers were stranded in large numbers with nothing to do, tired of standing and of sitting still. The project turns that waiting time into movement, asking whether exercise equipment could generate the electricity the airport had lost.",
+          "images": [
+            "assets/board/motion-generation-at-airports/02-body-scale.webp",
+            "assets/board/motion-generation-at-airports/03-human-figures.webp"
+          ],
+          "captions": [
+            "Body scale — the space each machine needs, from the pedal bike and the 206 cm treadmill to the rally machine, sit-up bench and arm press.",
+            "Dimensions of human figures — sitting, lying, standing and curling up, developed into module units that combine and rotate."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "亞特蘭大國際機場停電時，大量旅客滯留機場無事可做，站也累、坐也累。本案把這段等待時間轉化為運動，思考運動器材能否產生機場失去的電力。",
+              "captions": [
+                "身體尺度——每台器材所需的空間，從飛輪、長 206 公分的跑步機，到拉力器、仰臥起坐椅與推胸機。",
+                "人體尺寸——坐、躺、站、蜷曲四種姿態，發展成可組合、可旋轉的模組單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Measuring the body on each machine showed how much space every movement needs, and four types were chosen: pedal bike, treadmill, tension machine and bouncy ball. A small studio needs about 5 kWh per day, and with a bicycle producing 0.1 kWh per hour that is 50 hours of cycling, or 10 hours for 5 people.",
+          "images": [
+            "assets/board/motion-generation-at-airports/04-internal-structure.webp",
+            "assets/board/motion-generation-at-airports/05-sliding-ladder.webp"
+          ],
+          "captions": [
+            "Internal structure — the exercise equipment rotates inside the hexagonal frame to suit each activity.",
+            "Sliding ladder — movable, rideable stairs lead up to the top, and the four equipment types assemble into a large exercise garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "量測人在每台器材上的身體動作，找出各種運動所需的空間，最後選定四種器材：飛輪、跑步機、拉力機與彈力球。一間小型工作室每天約需 5 kWh，以一台腳踏車每小時產生 0.1 kWh 計算，需騎 50 小時，若 5 人一起騎則只需 10 小時。",
+              "captions": [
+                "內部結構——運動器材可在六角形框架內旋轉，以配合不同活動。",
+                "滑動樓梯——可移動、可乘坐的樓梯通往頂部，四種器材組合成一座大型運動花園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each modular unit is a hexagonal shell of wood with photovoltaic panels sandwiched in the wall, so it also generates solar power when no one is exercising. The stairs slide on internal rails and nest into the unit pieces, borrowing from the ancient Chinese mortise and tenon, so units interlock into larger spaces for sitting, standing or exercise.",
+          "images": [
+            "assets/board/motion-generation-at-airports/06-single-unit.webp",
+            "assets/board/motion-generation-at-airports/07-details.webp",
+            "assets/board/motion-generation-at-airports/08-rotor-materials.webp"
+          ],
+          "captions": [
+            "Single unit structure — photovoltaic panel, wood, movable and internal movable stairs, battery, fiberglass, silicone PU and the exercise equipment.",
+            "Architectural details — a slide structure inside the slidable staircase, the wall build-up of wood veneer and waterproofing, and stairs that interlock between units.",
+            "Lighting in the stairs, the wall of wood veneer, photovoltaic panel and composite board, and the rotor design of the rotatable inner liner, from forward bearing to cam housing cover and power take-off coupling."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每個模組單元是一個六角形木構外殼，牆體內夾有太陽能光電板，即使無人運動時也能以太陽能發電。樓梯沿內部滑軌滑動並嵌入單元構件，借用中國古代的榫卯結構，讓單元彼此咬合，組成可坐、可站或運動的更大空間。",
+              "captions": [
+                "單元結構——太陽能光電板、木材、可移動樓梯與內部可移動樓梯、電池、玻璃纖維、矽膠 PU 與運動器材。",
+                "建築細部——可滑動樓梯內的滑軌構造、木皮與防水層組成的牆體，以及單元之間相互咬合的樓梯。",
+                "樓梯中的照明、由木皮、太陽能光電板與複合板組成的牆體，以及可旋轉內襯的轉子設計，從前軸承到凸輪外殼蓋與動力輸出聯軸器。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each unit is linked to a storage battery that converts kinetic energy into mechanical energy, and a hidden battery under the floor delivers the total power to each space. A crane assembles the units for easy transport, so the same motion device can serve an airport, a stadium, an office building or even supply energy for the street.",
+          "images": [
+            "assets/board/motion-generation-at-airports/09-assembly.webp"
+          ],
+          "captions": [
+            "Assembly by crane — step 1 monolithic frame assembly, step 2 multi-unit assembly and construction, step 3 monolithic component implantation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每個單元連接一顆儲能電池，把動能轉換為機械能，地板下隱藏的電池則把總電力分配到各個空間。單元以吊車組裝、方便運輸，同一套運動裝置可用於機場、體育場、辦公大樓，甚至為街道補充電力。",
+              "captions": [
+                "以吊車組裝——步驟一：單體框架組裝；步驟二：多單元組裝與施工；步驟三：單體構件植入。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a real event: a power outage and stranded travellers give the brief its people and its need.\n2. Measure the body first: draw each movement with dimensions before designing any space around it.\n3. Do the energy maths: kilowatt-hours per day and per hour of cycling decide how many people the design needs.\n4. Design for assembly: one module, sliding joints and a crane let the same unit serve any airport or venue.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從真實事件出發：一場停電與滯留旅客，為設計任務帶來使用者與需求。\n2. 先量測身體：在設計空間之前，先以尺寸畫出每一個動作。\n3. 算清楚能源：每日與每小時騎乘的千瓦時，決定設計需要多少人參與。\n4. 為組裝而設計：一個模組、滑動接合與一台吊車，讓同一個單元適用於任何機場或場館。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
