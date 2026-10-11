@@ -4990,6 +4990,681 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Home and Life",
+      "slug": "home-and-life",
+      "description": "A family home in Changzhou is redesigned to change with each stage of life, from babyhood to adulthood, around a dynamic space that becomes a vertical playground.\n\nChangzhou, Jiangsu | Residential design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "家與生活",
+          "description": "重新設計常州的一棟家宅，讓它隨著人生的每個階段而改變：從嬰兒期到成年，以一個可化為垂直遊樂場的動態空間為核心。\n\n江蘇常州｜住宅設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/home-and-life/01-cover-physical-model.webp",
+        "assets/board/home-and-life/02-location-analysis.webp",
+        "assets/board/home-and-life/03-frequency-of-use.webp",
+        "assets/board/home-and-life/04-decode-box-plans.webp",
+        "assets/board/home-and-life/05-room-layout.webp",
+        "assets/board/home-and-life/06-floor-1.webp",
+        "assets/board/home-and-life/07-floor-2.webp",
+        "assets/board/home-and-life/08-floor-3.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/home-and-life/01-cover-physical-model.webp"
+          ],
+          "captions": [
+            "Physical model: the three-storey home opened up, with the activity platforms, the children's activity room and the study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "實體模型：剖開的三層住宅，可見活動平台、兒童活動室與書房。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "This is a home the student has lived in since birth and never moved from, yet with each age the interior seemed to change, and the space used in each period was different. Because the home is fixed, much of its space use became unreasonable and life less convenient.",
+          "images": [
+            "assets/board/home-and-life/02-location-analysis.webp"
+          ],
+          "captions": [
+            "The venue in Changzhou, Jiangsu, beside a commercial street, with noise level, predominant wind and people and vehicles moving in the area."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這是學生自出生起就居住、從未搬離的家；然而隨著年齡增長，家中的內部似乎也在改變，每個時期使用的空間都不同。由於住宅是固定的，許多空間的使用變得不合理，生活也不那麼方便。",
+              "captions": [
+                "位於江蘇常州的基地，緊鄰商業街，並分析噪音、盛行風以及人車動線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The building sits on the side of a street surrounded by residential areas and a commercial street that has gradually become lonely, so the building needs to keep changing with the times. As family members' needs shift from babyhood and childhood to teenage time and adulthood, the frequency of use of each space shifts too.",
+          "images": [
+            "assets/board/home-and-life/03-frequency-of-use.webp",
+            "assets/board/home-and-life/04-decode-box-plans.webp"
+          ],
+          "captions": [
+            "The frequency of use in different periods of home space.",
+            "Decode box, the problems in the floor plan of the original home and the new space division."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "建築位於街道一側，周邊是住宅區與一條日漸冷清的商業街，因此建築也需要隨時代持續改變。隨著家庭成員的需求從嬰兒期、童年、青少年走到成年，每個空間的使用頻率也跟著轉移。",
+              "captions": [
+                "住宅空間在不同時期的使用頻率。",
+                "解碼盒、原有住宅平面的問題，以及新的空間劃分。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Inspired by a childhood dream of a home that can move, the middle of the house becomes a versatile dynamic space that connects to the other rooms and transforms into a vertical playground. The rooms are arranged downstairs, separated by a bathroom for privacy, and the living spaces are placed in the upper part.",
+          "images": [
+            "assets/board/home-and-life/05-room-layout.webp"
+          ],
+          "captions": [
+            "Room layout, fixed space and dynamic space, and the mechanism principle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "受到童年時對一座會移動的家的想像啟發，住宅中央成為一個多功能的動態空間，連接其他房間，並可轉化為垂直遊樂場。臥室配置在下層，以浴室分隔以確保隱私，起居空間則置於上層。",
+              "captions": [
+                "房間配置、固定空間與動態空間，以及機構原理。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "On each floor the spaces change through babyhood, childhood, teenage time and adulthood: a sliding door shields the kitchen, an activity table expands for weekend dinners and a wall opens into a sunshade for chatting with neighbours. When the child leaves for college a raised platform creates new space for the parents, and a stair secured by a password lock opens to a small secret room.",
+          "images": [
+            "assets/board/home-and-life/06-floor-1.webp",
+            "assets/board/home-and-life/07-floor-2.webp",
+            "assets/board/home-and-life/08-floor-3.webp"
+          ],
+          "captions": [
+            "F1: entrance, grandparent's room, garden, living room, kitchen and dining room through four periods.",
+            "F2: parents' room, child's room, bathroom and activity platform.",
+            "F3: study, mom's working room, child's playing room and the stairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每一層的空間都隨著嬰兒期、童年、青少年與成年而改變：拉門隔開廚房油煙，活動餐桌在週末家族聚餐時展開，一面牆打開即成為與鄰居聊天的遮陽棚。孩子離家上大學後，抬升的平台為父母創造新的空間；以密碼鎖固定的樓梯打開後，則通往一間小小的密室。",
+              "captions": [
+                "一樓：入口、祖父母房、庭院、客廳、廚房與餐廳，歷經四個時期。",
+                "二樓：父母房、孩子房、浴室與活動平台。",
+                "三樓：書房、媽媽的工作室、孩子的遊戲室與樓梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start with a home you know: your own.\n2. Map time, not just space: who uses which room, and when.\n3. Fix what must stay, free what can move.\n4. Test every mechanism through each stage of life.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從你最熟悉的家開始：你自己的家。\n2. 不只畫空間，也要畫時間：誰在什麼時候使用哪個房間。\n3. 固定必須留下的，釋放可以移動的。\n4. 用人生的每一個階段檢驗每一個機構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Urban Cat Island",
+      "slug": "urban-cat-island",
+      "description": "A one-stop rescue center for stray cats turns the south plaza of Guangzhou East Railway Station into a green park with a cat island.\n\nSouth plaza, Guangzhou East Railway Station, Guangzhou | Architecture | Practice, individual work | 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市貓島",
+          "description": "一座流浪貓一站式救助中心，將廣州東站南廣場轉化為擁有貓島的綠色公園。\n\n廣州東站南廣場，廣州｜建築設計｜實務，個人作品｜2023 年｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/urban-cat-island/01-cover-perspective-view.webp",
+        "assets/board/urban-cat-island/02-site-location.webp",
+        "assets/board/urban-cat-island/03-site-conditions.webp",
+        "assets/board/urban-cat-island/04-issues-strategy.webp",
+        "assets/board/urban-cat-island/05-physical-models.webp",
+        "assets/board/urban-cat-island/06-site-plan.webp",
+        "assets/board/urban-cat-island/07-volume-generation.webp",
+        "assets/board/urban-cat-island/08-renders.webp",
+        "assets/board/urban-cat-island/09-medical-system.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/urban-cat-island/01-cover-perspective-view.webp"
+          ],
+          "captions": [
+            "Perspective view: the 24-hour sterilization center, the cat island, the pedestrian overpass and the adoption center in the plaza."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "透視圖：廣場中的 24 小時絕育中心、貓島、人行天橋與領養中心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The main source of urban stray cats is the abandonment of pet cats and their free reproduction, and with its higher population density the city center is the worst-hit area. Existing shelters are few, far away and hard to contact, in poor condition and with low adoption rates, while survey results show that Guangzhou residents are positive about rescuing stray cats.",
+          "images": [
+            "assets/board/urban-cat-island/02-site-location.webp"
+          ],
+          "captions": [
+            "Site location selection: shelters in Guangzhou, their accessibility and capacity, and the site at the south plaza of Guangzhou East Railway Station."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "城市流浪貓主要來自寵物貓遭棄養後的自由繁殖；市中心人口密度較高，因此成為受害最嚴重的地區。現有收容所數量少、位置偏遠又難以聯繫，條件不佳、領養率也低；而調查顯示，廣州市民對救助流浪貓抱持正面態度。",
+              "captions": [
+                "基地選址：廣州的收容所及其可達性與容量，以及位於廣州東站南廣場的基地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "At the south plaza the boundary is too enclosed, the landscape is inaccessible and the plaza is empty, flat and boring, while a large number of electric vehicles clog the sidewalk. Sun path, wind direction, noise sources and the surrounding functional zones were mapped before the strategy was set.",
+          "images": [
+            "assets/board/urban-cat-island/03-site-conditions.webp",
+            "assets/board/urban-cat-island/04-issues-strategy.webp"
+          ],
+          "captions": [
+            "Site conditions.",
+            "Site issues, the three design strategies (one-stop center, five animal welfare, urban green space) and the planning sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "在南廣場，基地邊界過於封閉、景觀難以進入，廣場空曠、平坦而乏味，大量電動車堵塞人行道。在確立策略之前，先分析了日照路徑、風向、噪音來源與周邊機能分區。",
+              "captions": [
+                "基地現況。",
+                "基地問題、三項設計策略（一站式中心、五大動物福利、城市綠地）與規劃草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sunken terrain lets the soil become the first wall separating cats from noise, foot traffic and other hazards, and two green landscapes on the east and west block noise and part of the car exhaust. Because Guangzhou is rainy and its summer sun is hot, the main garden paths run on two levels, and open-worked roofs and building units serve as public spaces.",
+          "images": [
+            "assets/board/urban-cat-island/05-physical-models.webp",
+            "assets/board/urban-cat-island/06-site-plan.webp",
+            "assets/board/urban-cat-island/07-volume-generation.webp"
+          ],
+          "captions": [
+            "Physical models 1:100, sections 1 and 2.",
+            "Site plan: cat hospital, cat island, parking, garden landscape, adoption center, pools and sports lawn, entrance plaza and cafe.",
+            "Volume generation in six steps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "下沉地形讓土壤成為第一道牆，把貓與噪音、人流及其他危險隔開；東西兩側的綠色景觀阻擋噪音與部分汽車廢氣。由於廣州多雨、夏季日照炎熱，主要的園路分為上下兩層，鏤空的屋頂與建築單元則作為公共空間。",
+              "captions": [
+                "實體模型 1:100，剖面一與剖面二。",
+                "總平面：貓醫院、貓島、停車場、庭園景觀、領養中心、水池與運動草坪、入口廣場與咖啡館。",
+                "六個步驟的量體生成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "An all-in-one Cat Island Rescue Center keeps the original green space and the public square while upgrading them into a green park along Guangzhou's central axis. A one-step medical system takes each cat from capture and reception through examination, treatment, surgery, rehabilitation, isolated living and training, and the cat island meets five kinds of animal welfare.",
+          "images": [
+            "assets/board/urban-cat-island/08-renders.webp",
+            "assets/board/urban-cat-island/09-medical-system.webp"
+          ],
+          "captions": [
+            "The 24-hour sterilization center, the cat island and the pedestrian overpass.",
+            "One-step medical system and the cat island."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一座整合式的貓島救助中心保留原有的綠地與公共廣場，並將其升級為廣州中軸線上的綠色公園。一站式醫療系統讓每一隻貓依序經過捕捉與接收、檢查、治療、手術、復健、隔離生活與訓練；貓島則滿足五個面向的動物福利。",
+              "captions": [
+                "24 小時絕育中心、貓島與人行天橋。",
+                "一站式醫療系統與貓島。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Design for a user who cannot speak: read the needs of animals from data.\n2. Locate by need: put help where the problem is densest.\n3. Keep the public space public.\n4. Draw the process as a path through the building.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 為無法開口的使用者設計：從數據讀出動物的需求。\n2. 依需求選址：把協助放在問題最集中的地方。\n3. 讓公共空間保持公共。\n4. 把流程畫成一條穿越建築的路徑。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Rebirth of Cloth Fabric",
+      "slug": "rebirth-of-cloth-fabric",
+      "description": "An old academic building at the University of Liverpool becomes a fabric recycling centre with designer studios, workshops, a shop and an exhibition tower.\n\nChadwick Building, University of Liverpool, Liverpool, UK | Architecture, renovation | Academic, individual work | 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "布料重生",
+          "description": "將利物浦大學的一棟老舊教學大樓，改造為擁有設計師工作室、工作坊、商店與展覽塔樓的布料回收中心。\n\n利物浦大學 Chadwick Building，英國利物浦｜建築設計，改造｜課程作業，個人作品｜2023 年｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rebirth-of-cloth-fabric/01-cover-facade-eighth-floor.webp",
+        "assets/board/rebirth-of-cloth-fabric/02-site-analysis.webp",
+        "assets/board/rebirth-of-cloth-fabric/03-design-driver.webp",
+        "assets/board/rebirth-of-cloth-fabric/04-volume-generation.webp",
+        "assets/board/rebirth-of-cloth-fabric/05-design-explain.webp",
+        "assets/board/rebirth-of-cloth-fabric/06-ground-floor-plan.webp",
+        "assets/board/rebirth-of-cloth-fabric/07-floor-plans.webp",
+        "assets/board/rebirth-of-cloth-fabric/08-sections.webp",
+        "assets/board/rebirth-of-cloth-fabric/09-elevations.webp",
+        "assets/board/rebirth-of-cloth-fabric/10-sustainable-strategy.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rebirth-of-cloth-fabric/01-cover-facade-eighth-floor.webp"
+          ],
+          "captions": [
+            "Facade and material strategy: the facade explosion and the axonometric scene of the eighth floor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "立面與材料策略：立面爆炸圖與八樓的軸測場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Every year graduates of the University of Liverpool leave behind a large amount of unwanted clothing and fabric, and the community around the university generates a lot of clothing waste. The project renovates the Chadwick Building, an old academic building, into studios for independent designers, an exhibition space and an events room that use this waste as their material.",
+          "images": [
+            "assets/board/rebirth-of-cloth-fabric/02-site-analysis.webp"
+          ],
+          "captions": [
+            "Site analysis: the existing structure, climate, fabric waste sources, function zones and accessibility."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "利物浦大學的畢業生每年留下大量不要的衣物與布料，大學周邊社區也產生許多服裝廢棄物。本案將老舊的教學大樓 Chadwick Building 改造為獨立設計師工作室、展覽空間與活動室，並以這些廢棄物作為材料。",
+              "captions": [
+                "基地分析：既有結構、氣候、布料廢棄物來源、機能分區與可達性。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A new recycling process replaces the old linear production process: donation bins on campus and partner stores supply fabric, and designers decide whether to mend, recycle or reuse each garment. The three design drivers are sustainability, human well-being and circulation, so that the staff and the students and daily visitors do not disturb each other but blend in.",
+          "images": [
+            "assets/board/rebirth-of-cloth-fabric/03-design-driver.webp"
+          ],
+          "captions": [
+            "Design concept, fabric recycle upgrade, and the three design drivers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "新的回收流程取代舊有的線性生產流程：校園中的捐衣箱與合作服飾店提供布料，設計師再依每件衣物的狀況決定修補、回收或再利用。三項設計驅動力是永續、人的福祉與動線，讓工作人員與學生、日常訪客互不干擾，又能彼此交融。",
+              "captions": [
+                "設計概念、布料回收升級，以及三項設計驅動力。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Because each floor of the tower is small, the tower is changed together with the single-storey building, an atrium and an open courtyard bring in light and air, and the north lift is kept while a new fire escape is added to the south. As much of the original structure as possible is retained to preserve its embodied carbon, and a two-storey facade system with shading solves daylight, warmth and ventilation.",
+          "images": [
+            "assets/board/rebirth-of-cloth-fabric/04-volume-generation.webp",
+            "assets/board/rebirth-of-cloth-fabric/05-design-explain.webp",
+            "assets/board/rebirth-of-cloth-fabric/06-ground-floor-plan.webp"
+          ],
+          "captions": [
+            "Volume generation in six stages.",
+            "Design explain: the programme floor by floor.",
+            "Ground floor plan 1:100: entrance, laundry, shop, cloth repair and hire, workshop, cafe and donation room."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "由於塔樓每層面積很小，塔樓與單層建築一併改造；中庭與開放庭院引入光線與空氣，保留北側電梯，並在南側新增逃生梯。盡可能保留原有結構以保存其隱含碳，再以兩層樓高、附遮陽的立面系統解決採光、保暖與通風。",
+              "captions": [
+                "六個階段的量體生成。",
+                "設計說明：逐層的機能配置。",
+                "一樓平面 1:100：入口、洗衣房、商店、衣物修補與出租、工作坊、咖啡館與捐贈分類室。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Designers' creations are sold in a shop on the first floor and shown in an exhibition space in the tower, and regular workshops let students take part in recycling old clothes. The fabric sunshade screen uses two layers of differently coloured strings whose overlap creates a moiré effect, and groups of panels can twist individually to suit each area of the building.",
+          "images": [
+            "assets/board/rebirth-of-cloth-fabric/07-floor-plans.webp",
+            "assets/board/rebirth-of-cloth-fabric/08-sections.webp",
+            "assets/board/rebirth-of-cloth-fabric/09-elevations.webp",
+            "assets/board/rebirth-of-cloth-fabric/10-sustainable-strategy.webp"
+          ],
+          "captions": [
+            "Mezzanine to roof plans.",
+            "North short section and east long section.",
+            "North short elevation and east long elevation with material.",
+            "Structural strategy, physical model 1:200 and environmental strategy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "設計師的作品在一樓的商店販售，並在塔樓的展覽空間展出；定期的工作坊讓學生參與舊衣回收。布料遮陽屏由兩層不同顏色的繩線構成，重疊後產生疊紋效果；各組面板可個別扭轉，以適應建築中不同區域的需求。",
+              "captions": [
+                "夾層至屋頂平面。",
+                "北向短向剖面與東向長向剖面。",
+                "北向短向立面與東向長向立面（含材料）。",
+                "結構策略、1:200 實體模型與環境策略。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find the material in the problem: waste becomes the resource.\n2. Redraw the process before the plan.\n3. Keep the structure you have; count its carbon.\n4. Let the facade express what the building does.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從問題中找到材料：廢棄物就是資源。\n2. 先重畫流程，再畫平面。\n3. 保留既有結構，並計算它的碳。\n4. 讓立面表達建築在做的事。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Birkenhead Music College",
+      "slug": "birkenhead-music-college",
+      "description": "An abandoned parking lot in Birkenhead city centre becomes a four-storey brick music college with a 200-seat music hall.\n\nChester Street, Birkenhead, UK | Architecture | Academic, individual work | 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "伯肯黑德音樂學院",
+          "description": "將伯肯黑德市中心一座廢棄停車場，改造為擁有 200 席音樂廳的四層磚造音樂學院。\n\n英國伯肯黑德 Chester Street｜建築設計｜課程作業，個人作品｜2022 年｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/birkenhead-music-college/01-cover-section-perspective.webp",
+        "assets/board/birkenhead-music-college/02-site-analysis.webp",
+        "assets/board/birkenhead-music-college/03-design-process.webp",
+        "assets/board/birkenhead-music-college/04-explosive-view.webp",
+        "assets/board/birkenhead-music-college/05-third-floor-plan.webp",
+        "assets/board/birkenhead-music-college/06-floor-plans.webp",
+        "assets/board/birkenhead-music-college/07-strategies.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/birkenhead-music-college/01-cover-section-perspective.webp"
+          ],
+          "captions": [
+            "Section perspective: the 200-seat music hall at the centre, with practice rooms and teaching spaces around and above it."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖透視：中央是 200 席的音樂廳，練習室與教學空間環繞並位於其上方。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project renovates an abandoned private parking lot on Chester Street in Birkenhead city centre into a music college. The clients may ask it to provide a place where local people enjoy music performances, encourage them to come to the city centre and attract people from Liverpool to visit Birkenhead.",
+          "images": [
+            "assets/board/birkenhead-music-college/02-site-analysis.webp"
+          ],
+          "captions": [
+            "Clients, stakeholders and main users, and the site analysis of Birkenhead."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案將伯肯黑德市中心 Chester Street 上一座廢棄的私人停車場改造為音樂學院。業主可能要求它成為在地居民欣賞音樂演出的場所，吸引他們走進市中心，也吸引利物浦的人前來伯肯黑德。",
+              "captions": [
+                "業主、利害關係人與主要使用者，以及伯肯黑德的基地分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A residential building hugs the southern boundary, tall buildings stand to the south and west, and two electric boxes on the open north side cannot be moved. Winds are strong from the west and south, and the surroundings are mostly red and brown brick, so brick is used as the main body, with thick walls and sunk windows for passive design.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一棟住宅緊貼基地南側邊界，南側與西側有高樓，開闊的北側則有兩座無法移動的電箱。西風與南風強勁，周邊多為紅褐色磚造建築，因此以磚作為主體，並以厚牆與內凹窗戶進行被動式設計。"
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The college is divided into three functional blocks, auditorium, teaching and public, and their combinations are tested in concept models, plans, sections and massing models. Each round lists its problems, from an auditorium that is too high to a foyer that is too small, and the next round answers them.",
+          "images": [
+            "assets/board/birkenhead-music-college/03-design-process.webp",
+            "assets/board/birkenhead-music-college/04-explosive-view.webp"
+          ],
+          "captions": [
+            "Project design process: design drivers, concept comparisons, plan and section development and facade studies.",
+            "Final design explosive view: the main circulation tube and the public and private circulation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學院被劃分為禮堂、教學與公共三個機能區塊，並以概念模型、平面、剖面與量體模型測試各種組合。每一輪都列出問題，從禮堂過高到門廳過小，再由下一輪回應。",
+              "captions": [
+                "設計過程：設計驅動力、概念比較、平面與剖面推演，以及立面研究。",
+                "最終設計爆炸圖：主要動線筒與公共、私密動線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The four-storey college is divided into a public lower half and a private upper half, with red brick, concrete and a robust timber beam-column structure in harmony with its surroundings. A music hall for 200 people hosts regular concerts, and the third and fourth floors hold a 40-seat lecture hall, many small practice rooms and other teaching spaces.",
+          "images": [
+            "assets/board/birkenhead-music-college/05-third-floor-plan.webp",
+            "assets/board/birkenhead-music-college/06-floor-plans.webp",
+            "assets/board/birkenhead-music-college/07-strategies.webp"
+          ],
+          "captions": [
+            "Third floor plan 1:200.",
+            "The other floor plans.",
+            "Structural, material and environmental strategy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "四層樓的學院分為公共的下半部與私密的上半部，以紅磚、混凝土與堅固的木樑柱結構與周邊環境相協調。可容納 200 人的音樂廳定期舉辦音樂會；三、四樓則設有 40 席的講堂、許多小型練習室與其他教學空間。",
+              "captions": [
+                "三樓平面 1:200。",
+                "其他樓層平面。",
+                "結構、材料與環境策略。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start with clients and users: who pays, who plays, who listens.\n2. Split the brief into a few blocks and test their combinations.\n3. List the problems of every version.\n4. Let the next version answer them.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從業主與使用者開始：誰出資、誰演奏、誰聆聽。\n2. 把任務書拆成幾個區塊，測試它們的組合。\n3. 列出每一個版本的問題。\n4. 讓下一個版本回應這些問題。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Emerged to the Surface",
+      "slug": "emerged-to-the-surface",
+      "description": "A narrative architecture on the development of feminism in China: a route from childhood castles to a tunnel of thorns that asks visitors to rethink women's lives.\n\nNanshan District, Shenzhen | Narrative architecture | Competition, individual work | 2023 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "浮出地表",
+          "description": "一座關於中國女性主義發展的敘事建築：從童年城堡到荊棘隧道的路徑，邀請參觀者重新思考女性的生命。\n\n深圳南山區｜敘事建築｜競圖，個人作品｜2023 年｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/emerged-to-the-surface/01-cover-design-display.webp",
+        "assets/board/emerged-to-the-surface/02-location-site-plan.webp",
+        "assets/board/emerged-to-the-surface/03-design-explain-a-d.webp",
+        "assets/board/emerged-to-the-surface/04-design-explain-e-g.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/emerged-to-the-surface/01-cover-design-display.webp"
+          ],
+          "captions": [
+            "Design display: a route of towers, carousels and workshops that descends underground and finally emerges to the surface."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "設計展示：一條由塔樓、旋轉木馬與工坊組成的路徑，先沉入地下，最後浮出地表。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "This narrative architecture aims to awaken Chinese feminine subjectivity, based on an examination of the social situations and mindsets of women at different periods in Chinese history and of the intense discussions about feminism online. The research reveals an urgent need for Chinese women to ignite a spirit of self-centred resistance, breaking free from the male “rescue” fantasy and the shaping influence of a patriarchal society.",
+          "images": [
+            "assets/board/emerged-to-the-surface/02-location-site-plan.webp"
+          ],
+          "captions": [
+            "Location and site plan in Nanshan district, Shenzhen, Guangdong."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這座敘事建築旨在喚醒中國女性的主體意識；設計建立在對中國歷史上不同時期女性的社會處境與心態的考察，以及對當前網路上女性主義激烈討論的觀察之上。研究顯示，中國女性迫切需要點燃以自我為中心的反抗精神，擺脫男性「拯救」的幻想與父權社會的塑造。",
+              "captions": [
+                "位於廣東深圳南山區的區位與基地平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Feminism in China is traced from a traditional period, through the 1890s when it was led by reformist men and 1949 when it was led by central political consciousness, to the 1980s when it was discussed among scholars and 2021 when it came to the attention of the larger public. Current online topics, from bride price to the male gaze, show how women are still shaped into society's notion of “good women”.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案梳理中國女性主義的發展：從傳統時期，到 1890 年代由改良派男性主導、1949 年由中央政治意識主導，再到 1980 年代在學者間討論、2021 年引起大眾關注。當前從彩禮到男性凝視等網路話題，顯示女性至今仍被塑造成社會所謂的「好女人」。"
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The architecture narrates Chinese women's transformation from daughters to single women, and then from wives to mothers. Each stage becomes a space: the castles of childhood, a doll production chain, a dizzying carousel of the male gaze, the options of career and romantic love, roses and falls, a high tower, endless waves and an illusory utopia.",
+          "images": [
+            "assets/board/emerged-to-the-surface/03-design-explain-a-d.webp",
+            "assets/board/emerged-to-the-surface/04-design-explain-e-g.webp"
+          ],
+          "captions": [
+            "A Castles of Childhood: false preferences; B Dolls Production Chain: social discipline; C Dizzying Carousel: male gaze and beauty servitude; D Options: career misogynistic traits and the romantic love trap.",
+            "E Roses and Falls: obsessed with being loved and eager to be recognised; G Hightower: women's strength and patience; F Endless Waves: contemporary professional women and the traditional division of family roles; H Illusory Utopia: poor in spirit."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "建築敘述中國女性從女兒到單身女性、再從妻子到母親的轉變。每一個階段都化為一個空間：童年的城堡、玩偶生產線、男性凝視的眩暈旋轉木馬、職業與愛情的選擇、玫瑰與墜落、高塔、無盡的波浪，以及虛幻的烏托邦。",
+              "captions": [
+                "A 童年城堡：虛假的偏好；B 玩偶生產線：社會規訓；C 眩暈旋轉木馬：男性凝視與美貌奴役；D 選擇：職場厭女特質與愛情陷阱。",
+                "E 玫瑰與墜落：渴望被愛、急於被認可；G 高塔：女性的力量與堅忍；F 無盡波浪：當代職業女性與傳統家庭分工；H 虛幻烏托邦：精神的貧乏。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In a dizzying space of linear mirrors women keep seeing their own faces, workshops “mould” their bodies and ideas, and a curved glass wall stands for unequal pay and discrimination at work. At the end, visitors choose between flowers and sunshine or a tunnel of thorns that leads up a narrow tower, so that whether trapped underground or emerging above ground they contemplate the dominant consciousness in women's lives.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在線性鏡面構成的眩暈空間中，女性不斷看見自己的臉；工坊「塑造」她們的身體與觀念；一道彎曲的玻璃牆象徵同工不同酬與職場歧視。最後，參觀者要在花朵與陽光，或一條通往狹窄高塔的荊棘隧道之間做出選擇；無論受困地下或浮出地表，都將反思主導女性生命的意識。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Research a social question through history and today's debates.\n2. Write it as a story with stages.\n3. Turn each stage into a space with its own metaphor.\n4. End with a choice the visitor must make.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從歷史與當下的討論研究一個社會議題。\n2. 把它寫成一個有階段的故事。\n3. 把每個階段轉化為一個有自身隱喻的空間。\n4. 以參觀者必須做出的選擇作結。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
