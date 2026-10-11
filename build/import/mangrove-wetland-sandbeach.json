@@ -1,0 +1,55 @@
+{
+  "project": "Mangrove - Wetland - Sandbeach",
+  "dest": "assets/board/mangrove-wetland-sandbeach",
+  "note": "Portfolio pages 2–6 cropped to eight images, WebP q88 (PIL), max 2000 px wide; one composite on white. Not used: on page 2 the photo collage with a public figure and people, the satellite screenshots and the mangrove history strip with photos of people; on page 3 the Advantages photos and the bird and plant photos. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "397cd6f57fc6b62ed1188af9cea0eaea7246eb1f08f663586b585b8e7d8dd061",
+      "bytes": 851944,
+      "from": "page 6 — Hand-made Model, whole page (cover)"
+    },
+    {
+      "name": "02-site.webp",
+      "sha256": "4a42ff3c3ab1a4bf18d96d69c7c0ba1ffe34cdd568ad26e4e02433cbac76da7f",
+      "bytes": 225530,
+      "from": "page 2 — site map with description, x 3–60 %, y 10–67 %; the photo collage with people, the satellite screenshots and the mangrove history strip are excluded"
+    },
+    {
+      "name": "03-problems-strategies.webp",
+      "sha256": "9829deec9ba9f826f94ac28fa6c4036f7141b6b140c7e15718cb26d878350dc7",
+      "bytes": 175476,
+      "from": "page 3 — Problems (x 3–33.5 %) beside Design strategies (x 66.5–98.5 %), y 5–56 %; the Advantages photos are excluded"
+    },
+    {
+      "name": "04-mangrove-ecology.webp",
+      "sha256": "f177367b70968bdf366f313f6d5e1cf95bd328d00226cce875ea713d7e94e0f6",
+      "bytes": 267950,
+      "from": "page 3 — Mangrove Ecology section, x 23.5–100 %, y 55.5–100 %; the bird and plant photos are excluded"
+    },
+    {
+      "name": "05-stage-plans.webp",
+      "sha256": "7dc6af75510c1a557337ddc03e9cdc363ab40b7e68cd96dddd2ac8d3956f0469",
+      "bytes": 261546,
+      "from": "page 4 — Stage 1–3 plans, y 4–65.5 %"
+    },
+    {
+      "name": "06-methods.webp",
+      "sha256": "a53f2457173761206882de3aa48858b0a5cbbfb8423646f2f670939fc10156f4",
+      "bytes": 114046,
+      "from": "page 4 — Methods 1–3, y 65.5–97 %"
+    },
+    {
+      "name": "07-wetland-perspective.webp",
+      "sha256": "44a5f3499fb78921486154bd74daa68d1b24c698f75a5a8d5531a79e3f40f3a2",
+      "bytes": 232600,
+      "from": "page 5 — Wetland perspective and key plan, y 4–49.5 %"
+    },
+    {
+      "name": "08-sandbeach-perspective.webp",
+      "sha256": "31d1bcae3806a51d10cad85ae99f3fd71ff4dd796df794c4ccca9e00a2e61d60",
+      "bytes": 185736,
+      "from": "page 5 — Sandbeach perspective and key plan, y 51–96.5 %"
+    }
+  ]
+}
