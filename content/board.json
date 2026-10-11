@@ -1022,6 +1022,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Identity-Sculpting for Kharkiv — Liminality of Spirit",
+      "slug": "identity-sculpting-for-kharkiv",
+      "description": "A war-damaged apartment block in Kharkiv is repaired and rebuilt, with three light wells carved through it that bring daylight down to an underground shelter and a memorial hall for the victims of war.\n\nKharkiv, Ukraine | Competition project (Kharkiv Housing Challenge) / post-war housing reconstruction | Jun 2024 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "為哈爾科夫雕塑認同——精神的閾限",
+          "description": "一棟在戰爭中受損的哈爾科夫住宅大樓被修復與重建，三座貫穿其中的光井把日光引入地下避難所，以及紀念戰爭罹難者的紀念廳。\n\n烏克蘭哈爾科夫｜競圖作品（Kharkiv Housing Challenge）／戰後住宅重建｜2024 年 6 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/identity-sculpting-for-kharkiv/01-cover.webp",
+        "assets/board/identity-sculpting-for-kharkiv/02-site-location.webp",
+        "assets/board/identity-sculpting-for-kharkiv/03-injury.webp",
+        "assets/board/identity-sculpting-for-kharkiv/04-concept-typology.webp",
+        "assets/board/identity-sculpting-for-kharkiv/05-lighting-analysis.webp",
+        "assets/board/identity-sculpting-for-kharkiv/06-plans.webp",
+        "assets/board/identity-sculpting-for-kharkiv/07-section.webp",
+        "assets/board/identity-sculpting-for-kharkiv/08-elevation-interior-detail.webp",
+        "assets/board/identity-sculpting-for-kharkiv/09-section-model.webp",
+        "assets/board/identity-sculpting-for-kharkiv/10-memorial-hall.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/identity-sculpting-for-kharkiv/01-cover.webp"
+          ],
+          "captions": [
+            "Sectional axonometric of the rebuilt block, with light wells and stairs cut through the floors down to the underground spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "重建後住宅大樓的剖切軸測圖，光井與樓梯穿過各層樓板，一路通往地下空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Saltivka, one of the most densely populated residential neighbourhoods of Kharkiv close to the Russian border, was built of high-density precast concrete slab blocks, and many of them were hit by artillery fire and explosions during the war. These damaged buildings carry the memories and emotions of their residents, so the project asks how they can be repaired and rebuilt into resilient homes that also give people shelter and restore their sense of belonging and security.",
+          "images": [
+            "assets/board/identity-sculpting-for-kharkiv/02-site-location.webp",
+            "assets/board/identity-sculpting-for-kharkiv/03-injury.webp"
+          ],
+          "captions": [
+            "Site analysis and location — the site between the city and the farmland, an area that received more severe attacks, in Kharkiv near the Russian border.",
+            "Injury situation of the building — the original precast concrete slab construction, 8 % facade injury from missile holes and fires, and 30 % interior injury from explosions and shock waves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "薩爾蒂夫卡是哈爾科夫人口最密集的住宅區之一，鄰近俄羅斯邊界，由高密度的預鑄混凝土板式住宅組成，戰爭期間許多大樓遭砲火與爆炸損毀。這些受損建築承載著居民的記憶與情感，因此本案思考：如何修復並重建它們，使其成為堅韌的住所，同時為人們提供庇護，找回歸屬感與安全感。",
+              "captions": [
+                "基地分析與位置——位於城市與農田交界、遭受較嚴重攻擊的地區，在鄰近俄羅斯邊界的哈爾科夫。",
+                "建築受損情況——原本的預鑄混凝土板構造、因飛彈孔洞與火災造成的 8% 立面損傷，以及因爆炸與震波造成的 30% 室內損傷。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Adaptive reuse, which gives historic structures new functions while preserving their architectural value, sets the direction, and the damage is read as three needs: fix and reuse what war destroyed, shelter against possible future war, and more natural light for the wounds of war. The design reinforces the structure through the facade and uses the original staircase and elevator to set up three light wells, then implants new typologies from roof garden and shelter to library, community space and memorial hall.",
+          "images": [
+            "assets/board/identity-sculpting-for-kharkiv/04-concept-typology.webp"
+          ],
+          "captions": [
+            "Concept generation and adding typology — war damage, need for shelter, reinforcement and light wells, then roof garden, light well, shelter, memorial hall, library, community, activity, exhibition and gym spaces, center stairs and reinforcement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "適應性再利用在保留建築價值的同時賦予歷史結構新的機能，為本案定下方向；損傷則被解讀為三種需求：修復並再利用戰爭摧毀的部分、為未來可能的戰爭提供庇護，以及以更多自然光撫平戰爭的傷痕。設計透過立面補強結構，並利用原有的樓梯間與電梯設置三座光井，再植入從屋頂花園、避難所到圖書館、社區空間與紀念廳的新機能類型。",
+              "captions": [
+                "概念生成與機能植入——戰爭損傷、避難需求、結構補強與光井，再加入屋頂花園、光井、避難所、紀念廳、圖書館、社區、活動、展覽與健身空間、中央樓梯與補強結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The light wells follow Kharkiv's solar trajectory between the summer and winter sun, and the functional spaces are organized around them so that as much natural light as possible reaches the interior and the underground shelter. On the plans the original house types are dismantled and reorganized around the wells, and in section red lines mark the light wells against the white lines of the surrounding zones.",
+          "images": [
+            "assets/board/identity-sculpting-for-kharkiv/05-lighting-analysis.webp",
+            "assets/board/identity-sculpting-for-kharkiv/06-plans.webp",
+            "assets/board/identity-sculpting-for-kharkiv/07-section.webp"
+          ],
+          "captions": [
+            "Lighting analysis — summer (June) and winter (December) sun paths, the reinforced structure, external elevator, light tunnels, center stairs, memorial hall and underground shelter.",
+            "Plans — the light wells organized across four floors, with the original house types dismantled and reorganized.",
+            "Adaptive reuse section — light wells drawn in red against the surrounding spaces in white, with a sketch of the light wells and space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "光井依哈爾科夫夏季與冬季的太陽軌跡設計，機能空間環繞光井配置，讓自然光盡可能進入室內與地下避難所。平面上拆解原有的住宅戶型並圍繞光井重新組織，剖面則以紅線標示光井，與白線勾勒的周邊空間區分開來。",
+              "captions": [
+                "採光分析——夏季（六月）與冬季（十二月）的太陽軌跡、補強結構、外部電梯、光廊、中央樓梯、紀念廳與地下避難所。",
+                "平面圖——光井在四個樓層間的配置，原有戶型被拆解並重新組織。",
+                "適應性再利用剖面——以紅線繪出光井、白線繪出周邊空間，並附光井與空間的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The facade is restored with the same precast concrete panels and the structure is reinforced with an external elevator and concrete columns, while inside the new light-filled spaces contrast with the traditional facade. Underground, the light wells bring hope and peace into a memorial hall that honours the victims of war, with their names inscribed on the concrete slab above as a reminder of their lives.",
+          "images": [
+            "assets/board/identity-sculpting-for-kharkiv/08-elevation-interior-detail.webp",
+            "assets/board/identity-sculpting-for-kharkiv/09-section-model.webp",
+            "assets/board/identity-sculpting-for-kharkiv/10-memorial-hall.webp"
+          ],
+          "captions": [
+            "Elevation, interior and construction detail — the restored precast facade, the remodelled interior and how the new light well section connects to the existing concrete floor slabs.",
+            "Section model — the light wells bring daylight above ground and into the multifunctional underground shelter.",
+            "Memorial hall — names inscribed on the slab under the light well, with the light well and lighting sculpture in the section model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "立面以相同的預鑄混凝土板修復，並以外部電梯與鋼筋混凝土柱補強結構；室內新生成、充滿光線的空間則與傳統立面形成鮮明對比。在地下，光井為紀念廳帶來希望與和平，紀念戰爭中的罹難者，他們的名字刻在上方的混凝土板上，提醒人們記住他們的生命。",
+              "captions": [
+                "立面、室內與構造細部——修復後的預鑄立面、改造後的室內，以及新增光井段與既有混凝土樓板的接合方式。",
+                "剖面模型——光井為地上空間與多功能的地下避難所帶來日光。",
+                "紀念廳——光井下方刻有罹難者姓名的樓板，以及剖面模型中的光井與光雕塑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Survey the damage first: rate each building and draw what was lost, facade and interior, before designing anything.\n2. Turn the damage into needs: repair, shelter and light give the brief its three lines.\n3. Find the move inside the existing building: reuse its stair and elevator cores as light wells instead of adding new volume.\n4. Let light carry the meaning: test it in plan, section and a large section model, down to a memorial hall.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先調查損傷：在動手設計之前，先評估每棟建築並畫出失去的部分，包括立面與室內。\n2. 把損傷轉化為需求：修復、庇護與光線構成設計任務的三條主線。\n3. 在既有建築內找到關鍵動作：把原有的樓梯與電梯核心改為光井，而不是加蓋新量體。\n4. 讓光承載意義：在平面、剖面與大型剖面模型中測試，一直延伸到紀念廳。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
