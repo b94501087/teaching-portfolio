@@ -1,0 +1,61 @@
+{
+  "project": "Data Transmission",
+  "dest": "assets/board/data-transmission",
+  "note": "Portfolio pages 20–27 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title block on page 20, the history and transforms collages, comic strip and cultural-centre diagrams on page 21, and the data-demand collage and site analysis on page 22 (company logos and third-party photos). No retouching.",
+  "files": [
+    {
+      "name": "01-cover-render.webp",
+      "sha256": "98aed4c8352ebdf7497d37af3e97c05c082964a6b6e1f0cd4291367cbc01b386",
+      "bytes": 329524,
+      "from": "page 20 — facade render (cover), x 50–100 %; the title block is excluded"
+    },
+    {
+      "name": "02-physical-data-channels.webp",
+      "sha256": "b12df6bb6e5cd46ce8eb9905fc92654612f63da0e58d5743c1d5f1cad541e805",
+      "bytes": 65486,
+      "from": "page 21 — physical data transmission channels, x 0–45 %, y 33–69 %; the history and transforms collages are excluded"
+    },
+    {
+      "name": "03-concept.webp",
+      "sha256": "71c8b13112606cfd4dbbb95b86a8487fe187e5ac991163a46270206e53110ac7",
+      "bytes": 30636,
+      "from": "page 21 — concept: architectural visualization of data, x 52–100 %, y 76–100 %"
+    },
+    {
+      "name": "04-strategy.webp",
+      "sha256": "8de30654050cd5e9818798a8a0e3a99cb61008e3212a2b65a6ea0d49163ba366",
+      "bytes": 38834,
+      "from": "page 22 — strategy, x 0–28 %, y 56–100 %; the data-demand collage and site analysis (logos, third-party photos) are excluded"
+    },
+    {
+      "name": "05-form-exploration.webp",
+      "sha256": "532149d137fa88a1061896cf86b9e9aaf6ebf1b2a85c5f79d743d45fafb14c7a",
+      "bytes": 413306,
+      "from": "page 23 — generation and form exploration, full page"
+    },
+    {
+      "name": "06-program-diagram.webp",
+      "sha256": "ebbc370c81d123fa1c3fe18e43eccb72bed0993e4d4b4d477f944b67f39f253b",
+      "bytes": 285518,
+      "from": "page 24 — program diagram, full page"
+    },
+    {
+      "name": "07-formation-and-stacking.webp",
+      "sha256": "92e8a15247d71eab4081f2ddd23ec1a52075e43e5307179bb5510ea65e5ccf97",
+      "bytes": 199882,
+      "from": "page 25 — formation development and stacking of forms, full page"
+    },
+    {
+      "name": "08-model-making.webp",
+      "sha256": "972c69d85a9ace4a15201faffa4eefce43e0d6b1fb8d41bc5a8dc70f1e4cbf3e",
+      "bytes": 353724,
+      "from": "page 26 — model-making, full page"
+    },
+    {
+      "name": "09-scene-rendering.webp",
+      "sha256": "62ddadfac4b4ea2d704e07796142f8bfedd36aa61437efc1f67b2e66dcc5889b",
+      "bytes": 406742,
+      "from": "page 27 — scene renderings, full page"
+    }
+  ]
+}
