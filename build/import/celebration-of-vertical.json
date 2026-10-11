@@ -1,0 +1,67 @@
+{
+  "project": "Celebration of Vertical",
+  "dest": "assets/board/celebration-of-vertical",
+  "note": "Portfolio pages 5–8 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the urban-rural photo collage with people, the user-profile and living-condition photos on page 5, and the photo of the student with the model on page 8. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-model.webp",
+      "sha256": "1d33adb2a22582ac2193afe2546ad78e87782c9b8a8150efc494f798f6684355",
+      "bytes": 307300,
+      "from": "page 8 — handmade model of the tower, detail column (cover), x 27.5–48.5 %; the photo of the student with the model is excluded"
+    },
+    {
+      "name": "02-site.webp",
+      "sha256": "905194c88ec414981801433f2b4b7e1e8d0034ec284de39745b7e58317a80566",
+      "bytes": 39550,
+      "from": "page 5 — site map between the stadiums and playground, x 66.5–84.5 %, y 50–100 %; the photo collage with people above is excluded"
+    },
+    {
+      "name": "03-abandoned-building.webp",
+      "sha256": "788db586662c2dc39af355a14cea6f67277fa08def14844b9f217b0dd9ca9ce7",
+      "bytes": 66988,
+      "from": "page 5 — Abandoned building and migrant population charts, x 84.5–100 %, y 58–86 %; the user-profile and living-condition photos are excluded"
+    },
+    {
+      "name": "04-rainwater-cycle.webp",
+      "sha256": "e3c13203ff61e1f39014f5780b52e9713bbf4c782d5de24c46f95966e677856f",
+      "bytes": 109500,
+      "from": "page 6 — Rainwater cycle, x 0–17 %"
+    },
+    {
+      "name": "05-space-function.webp",
+      "sha256": "70d3e492b59185cfc3f016201f22c3921e58715f87909bda047b6fd15f55aeee",
+      "bytes": 299828,
+      "from": "page 6 — Architectural space and functional, x 17–50 %"
+    },
+    {
+      "name": "06-planting-air.webp",
+      "sha256": "0f6aa5a52fbe53342832548dc7c7a5706e67754a74b942a5b755dd95c3595256",
+      "bytes": 351888,
+      "from": "page 6 — Planting system, air exchange and section, x 50–84.5 %"
+    },
+    {
+      "name": "07-partition.webp",
+      "sha256": "1e1385f688a92a9714861ee6cf0b0210748c6793a1642bb22aeab606d55e2f94",
+      "bytes": 136008,
+      "from": "page 6 — Partition function, x 84.5–100 %"
+    },
+    {
+      "name": "08-roof-greenhouse.webp",
+      "sha256": "d2f674399d9ef2c94906bece73651a876e425525b7d4d6a5dba7dbfaede095a9",
+      "bytes": 272518,
+      "from": "page 7 — Roof greenhouse, glass layers, rainwater collection system and functional distribution, x 0–50 %"
+    },
+    {
+      "name": "09-renders.webp",
+      "sha256": "427de76ea63b68dd8f4bedfdea3c38a0b34afb14622702bf6f8d7812778c6d10",
+      "bytes": 501860,
+      "from": "page 7 — Residential areas and greenhouses, commercial and public spaces, x 50–76.5 %"
+    },
+    {
+      "name": "10-overview.webp",
+      "sha256": "20ab25dcb109bd8c20a74a0f3e7d6a9435e8366df63bd1ce42f55dc9a2567cd8",
+      "bytes": 306714,
+      "from": "page 7 — Overview render, x 76.5–100 %"
+    }
+  ]
+}
