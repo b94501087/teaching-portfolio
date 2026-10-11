@@ -1,0 +1,43 @@
+{
+  "project": "URU Fairy Land",
+  "dest": "assets/board/uru-fairy-land",
+  "note": "Portfolio pages 18–20 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: the title, the Step-1 collage and the column of body-part photos (real people) on page 18, and everything on page 20 outside the central Overall Form (photo figures). Typo fixed: Intestinal Tract. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-overall-form.webp",
+      "sha256": "438cd3217d136df4c59e52bbb0fbc3da5ee39055c2fbfdc38588c94b25a6df7b",
+      "bytes": 70390,
+      "from": "page 20 — Overall Form (cover), x 30–60 %, y 25–97 %; the rest of the page (photo figures) is excluded"
+    },
+    {
+      "name": "02-form-extraction.webp",
+      "sha256": "dfc531e274dce2ea5dabd5e2cc4f0e4f005e4ce688abd149d1920f0b3ba4bf52",
+      "bytes": 44790,
+      "from": "page 18 — form extraction sketches, x 62.5–100 %; the title, Step-1 collage and body-part photos are excluded"
+    },
+    {
+      "name": "03-formula.webp",
+      "sha256": "7d461ea7c7c3eac530eaecbb97d0262ec70bf102d6052d5d1a2675e9b6b332e8",
+      "bytes": 29956,
+      "from": "page 19 — Step-2 text and the (A + B) × C formula, x 0–9.5 %"
+    },
+    {
+      "name": "04-rebuild-row-1.webp",
+      "sha256": "a2ac9b1668a528bd72bb0300363b982cc1b88bfba362a0ea14023490f214de00",
+      "bytes": 40434,
+      "from": "page 19 — Rebuild, first row, x 9.5–100 %, y 0–33.5 %"
+    },
+    {
+      "name": "05-rebuild-row-2.webp",
+      "sha256": "e149ce8726597900bb0b6826ce0149240dc0c5e055211e9286e019e2ab1e0735",
+      "bytes": 51562,
+      "from": "page 19 — Rebuild, second row, x 9.5–100 %, y 33.5–66.5 %"
+    },
+    {
+      "name": "06-rebuild-row-3.webp",
+      "sha256": "a1666b9c0f2494d704aa3b5733ff44e140fc3163426d904ef7262bc6e1547195",
+      "bytes": 71230,
+      "from": "page 19 — Rebuild, third row, x 9.5–100 %, y 66.5–100 %"
+    }
+  ]
+}
