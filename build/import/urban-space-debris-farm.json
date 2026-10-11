@@ -1,0 +1,67 @@
+{
+  "project": "Urban Space Debris",
+  "dest": "assets/board/urban-space-debris-farm",
+  "note": "Portfolio 7e0fc9f0 pages 3–10 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the cover text and the photo strip of people on page 3, the plant and animal photo collage on page 4, the perspective views on page 6, the section with photo figures on page 7, the storyboard with brand logos on page 10. No retouching.",
+  "files": [
+    {
+      "name": "01-farm-exploded-view.webp",
+      "sha256": "bc27190fc40ea78bc1d75447d198b499aa85c68bf2e06ddc5074422c1a747be1",
+      "bytes": 393250,
+      "from": "7e0fc9f0 page 6 — exploded view of the farm layers, x 3–50.5 %, y 5–96.5 %"
+    },
+    {
+      "name": "02-urban-green-space.webp",
+      "sha256": "bdc545ec36d298250697565da75361e0ea519da48296b8f56368dacf4a56af99",
+      "bytes": 160428,
+      "from": "page 3 — map of scattered green space in Futian, Shenzhen, x 53.5–97.5 %, y 9–46.5 %; the photo strip of people and the cover text are excluded"
+    },
+    {
+      "name": "03-site-and-user-analysis.webp",
+      "sha256": "8b03b0a4efccc7dfcba15a21e04565581e18697641ba8a94383b82f145d265bd",
+      "bytes": 163438,
+      "from": "page 4 — city growth, user analysis with drawn silhouettes and site layers, x 0–60.5 %, y 2–80 %"
+    },
+    {
+      "name": "04-farm-cycle-system.webp",
+      "sha256": "0e682f2202a942ce7f95ff3086e22a1087081c2dfced01bd0b274f2da7a9aaa3",
+      "bytes": 62606,
+      "from": "page 4 — internal and external circulation diagram, x 62–100 %, y 39–80 %; the photo collage of plants and animals above is excluded"
+    },
+    {
+      "name": "05-unit-module-steps.webp",
+      "sha256": "4c7d0f016d0d3ab3a0d6b8ccf48f41acfee401dab6fbcdb149e1f4094ca19cd8",
+      "bytes": 250930,
+      "from": "page 5 — 2×2 unit module and four construction steps, x 0–50 %, y 3–95 %"
+    },
+    {
+      "name": "06-module-combinations.webp",
+      "sha256": "826b7bab5fc207d050a93dcca8b83b9117f623536f69ce39b709a034e87a9432",
+      "bytes": 162850,
+      "from": "page 5 — free combinations of modules with harvest figures, x 51–100 %, y 3–97 %"
+    },
+    {
+      "name": "07-building-connections.webp",
+      "sha256": "f823e1ca593356c34b5bbb3a1e5e57ad3b0da742b374901a74f29eafb23890cf",
+      "bytes": 180508,
+      "from": "page 8 — four steps to connect farms and buildings, x 0–50 %, y 3–93 %"
+    },
+    {
+      "name": "08-corridor-exploded-view.webp",
+      "sha256": "e2c576def3890f52c5468078da9ca1f4f1d9c321547256865406b32a17ee2570",
+      "bytes": 355320,
+      "from": "page 8 — exploded view of the corridors, x 51–98 %, y 3–97 %"
+    },
+    {
+      "name": "09-urban-farm-system.webp",
+      "sha256": "e3606717e994da581b154addabcddcabd277b8e5b0f2896074b79d1458c7d7b8",
+      "bytes": 307900,
+      "from": "page 9 — overall view of the urban farm system with legend, x 0–62 %, y 2–96 %"
+    },
+    {
+      "name": "10-corridor-sections.webp",
+      "sha256": "adbb4e7122e0404554c029fc32327f6943ea84764c822b08c9b3249eb448891d",
+      "bytes": 74382,
+      "from": "page 10 — five sections along the corridor, x 0–100 %, y 73–98 %; the storyboard with brand logos above is excluded"
+    }
+  ]
+}
