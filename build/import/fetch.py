@@ -33,6 +33,11 @@ for f in m['files']:
     name = f['name']
     if not re.fullmatch(r'[a-z0-9-]+\.(webp|jpg|png)', name):
         sys.exit('bad file name: ' + name)
+    have = os.path.join(dest, name)
+    if os.path.isfile(have):  # already imported earlier and unchanged: keep it
+        old = open(have, 'rb').read()
+        if hashlib.sha256(old).hexdigest() == f['sha256'] and len(old) == f['bytes']:
+            print('unchanged', have); continue
     if base == 'local':
         import base64
         data = base64.b64decode(open(os.path.join(b64dir, name + '.b64'), 'rb').read(), validate=False)

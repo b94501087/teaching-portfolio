@@ -1,7 +1,7 @@
 {
   "project": "Building-Field on Tempelhof",
   "dest": "assets/board/building-field-on-tempelhof",
-  "note": "Pages 1 and 3–12 of the 12-page board cropped to eleven images, WebP q88 (PIL), max 2000 px wide; composites on the boards' white. Not used: page 2 entirely (news screenshot, press and archive photos of real people, refugee-camp photos), the portrait photos and the two system photos on page 4, and the photos with people on pages 7–10. No retouching.",
+  "note": "Pages 1 and 3–12 of the 12-page board cropped to ten images, WebP q88 (PIL), max 2000 px wide; composites on the boards' white. Not used: page 2 entirely (news screenshot, press and archive photos of real people, refugee-camp photos), the portrait photos and the two system photos on page 4, and the photos with people on pages 7–10. No retouching.",
   "files": [
     {
       "name": "01-cover.webp",
@@ -58,16 +58,13 @@
       "from": "pages 9–10 — Textile Workshop and Market models (page 9) over Prayer Hall and Olive Oil Soap Workshop models (page 10), regridded 2 x 2 on white; the interior photos are excluded"
     },
     {
-      "name": "10-structures.webp",
-      "sha256": "a345f7bbe96ee92f5695241f8a9a92bf1db0eaba1cc95482b2635c5862bc00c7",
-      "bytes": 148582,
-      "from": "page 11 — Combination of Different Structures model beside the Wood Frame Truss and Flexible Stairs models"
-    },
-    {
       "name": "11-community.webp",
       "sha256": "0d8cd40b0a1a7cd403b75b67e3fba6c205bbbc8c77ee9077c99a3395c9789614",
       "bytes": 305476,
       "from": "page 12 — The Community render on Tempelhof over the model of the whole community"
     }
+  ],
+  "delete": [
+    "assets/board/building-field-on-tempelhof/10-structures.webp"
   ]
 }
