@@ -1,0 +1,67 @@
+{
+  "project": "Macao Fisheries Museum",
+  "dest": "assets/board/macao-fisheries-museum",
+  "note": "Portfolio e9a3aa5d pages 4–10 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: page 3 (title collage and interview illustrations), the street photos on page 4, the renderings on pages 7 and 8 and the rendering with photo figures and the portrait thumbnails on page 9. No retouching.",
+  "files": [
+    {
+      "name": "01-physical-section-model.webp",
+      "sha256": "1814f9d80a07b8582f58766fb55ba0d9b9297dfe0fd3d22866ba02f0f4cf8fb6",
+      "bytes": 72864,
+      "from": "e9a3aa5d page 10 — physical section model, x 60–100 %"
+    },
+    {
+      "name": "02-retained-warehouse-structure.webp",
+      "sha256": "3f3c9a43cd614e1f564e424198d200e3ebf2fdbdc5621ee0faa217d70a17b7fc",
+      "bytes": 71216,
+      "from": "page 4 — original warehouse retention structure and waterfront view, x 59–100 %, y 0–86 %"
+    },
+    {
+      "name": "03-industry-chain-elements.webp",
+      "sha256": "f73fb80227def281a0784b4ae48293ecb1a2962e704c3734cffb8622d256ef97",
+      "bytes": 45448,
+      "from": "page 5 — elements extracted from shipyard, ferry terminal, fishing boats and conch, x 41–100 %, y 0–55 %"
+    },
+    {
+      "name": "04-floor-plan.webp",
+      "sha256": "3ad8ed3e4fdb68f5c9a99de723b6aeda101433e0e3f8a39c67a7ac87e58bfa69",
+      "bytes": 46484,
+      "from": "page 5 — floor plan, x 40–100 %, y 56–100 %"
+    },
+    {
+      "name": "05-interior-light-analysis.webp",
+      "sha256": "7d0b98096434ef5c8b42295beb3c78be1260575e8240aa16c7752f84269796db",
+      "bytes": 140018,
+      "from": "page 6 — interior node and light analysis, x 0–61 %"
+    },
+    {
+      "name": "06-material-tests.webp",
+      "sha256": "6227ecb3c64a46b5daac54b081badf629b1472a7ae9c209edeb576ec41c0ee5b",
+      "bytes": 65658,
+      "from": "page 6 — test of materials, x 61.5–100 %"
+    },
+    {
+      "name": "07-aquatic-life-simulation.webp",
+      "sha256": "6e02246cdb87503c66d1f26ea29071f02b0995871cf5469a13c10d69d60a65cf",
+      "bytes": 40596,
+      "from": "page 8 — aquatic life simulation space, x 60–100 %, y 0–53.5 %"
+    },
+    {
+      "name": "08-fishing-net-transformation.webp",
+      "sha256": "f57cbfcd29c5084d9552cfe11355eff2729f2d6ce9e400b411e605bb432d11f1",
+      "bytes": 18198,
+      "from": "page 8 — concept on transformation of the fishing net, x 21–49.5 %, y 53.5–100 %"
+    },
+    {
+      "name": "09-east-section.webp",
+      "sha256": "6bcffdb1484f4ceed3334ef70f3f05a0a5b62d2d7e179b1985e2b30c7f5b294c",
+      "bytes": 34378,
+      "from": "page 9 — building east view section drawing, x 13.5–58.5 %, y 0–42 %"
+    },
+    {
+      "name": "10-detail-section.webp",
+      "sha256": "857dc532a993b013c16a80a9aeb9332b55440641a7b48be393c954e1ea4f9cbc",
+      "bytes": 54978,
+      "from": "page 9 — detail section drawing, x 59–100 %"
+    }
+  ]
+}
