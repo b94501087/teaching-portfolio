@@ -1,0 +1,67 @@
+{
+  "project": "Grapes and Wine",
+  "dest": "assets/board/grapes-and-wine",
+  "note": "Portfolio 28feb419 pages 3–6 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the season photos of grape growers and the economy diagram on page 3, the portraits of architects and material photos on page 3, the building generation sketches on page 5. No retouching.",
+  "files": [
+    {
+      "name": "01-loess-brick-model.webp",
+      "sha256": "8eaca26c7eabfb66199b5a8a4b48fa199537e892bb5bdd99a528daf18c99bef1",
+      "bytes": 144884,
+      "from": "28feb419 page 3 — hand-made model of the loess brick house with a twig frame (hand only), x 20–37.5 %, y 28–66 %; the season photos of grape growers are excluded"
+    },
+    {
+      "name": "02-turpan-site-and-climate.webp",
+      "sha256": "0c750b6b291a8a3c28450de2c455362baa945ddcdf0ce6f9d68516c2b3bc4f6c",
+      "bytes": 292764,
+      "from": "page 3 — location, climate and advantages of the brick drying houses, x 0–17 %, y 8–98 %"
+    },
+    {
+      "name": "03-experimental-concept.webp",
+      "sha256": "20863b128e7b74ae799ed10021fc8c46e4dbf0ed50cfb40d446d4349d52d1873",
+      "bytes": 207840,
+      "from": "page 3 — experimental concept diagram, x 64–100 %, y 0–66 %; the material photos and the portraits of architects are excluded"
+    },
+    {
+      "name": "04-brick-mixtures.webp",
+      "sha256": "f25d02a31b62c615c6774995de382910b396a5b33990774a4f07f742b16f3738",
+      "bytes": 370326,
+      "from": "page 4 — steps 1 and 2: original material and brick mixtures (hands only), x 0–32 %"
+    },
+    {
+      "name": "05-material-experiment.webp",
+      "sha256": "72efceffd11c19dfb20f23d6dd27b1d542710f5009789a5e2e09c08cb634f996",
+      "bytes": 183114,
+      "from": "page 4 — step 3: material experiment and comparison with the traditional house, x 32–50 %, y 0–70 %"
+    },
+    {
+      "name": "06-structural-testing.webp",
+      "sha256": "b3e6533b92a7fbcd67558a153abed66afffda94c49c6ce9be2e7fbcf7188fa6d",
+      "bytes": 326590,
+      "from": "page 4 — step 4: structural testing, x 50–78 %"
+    },
+    {
+      "name": "07-construction-detail.webp",
+      "sha256": "fb071f49a0984d8641c5c47cd73e1b66c0759b08704eaf6c50de24ea2d13d7d7",
+      "bytes": 324258,
+      "from": "page 4 — conclusion and construction detail, x 78.5–100 %"
+    },
+    {
+      "name": "08-winery-vision.webp",
+      "sha256": "a950e664e6984aee401d8127fa95b7249461c0b025e3e6249aafbf49f16ecba9",
+      "bytes": 501388,
+      "from": "page 5 — vision of the winery, wine-making steps and brick-making process, x 20.5–100 %; the building generation sketches are not used"
+    },
+    {
+      "name": "09-brewing-room-section.webp",
+      "sha256": "ad79beb09bbeea187b4412da5325f144a20da8b8848d689e26083ac584449833",
+      "bytes": 540712,
+      "from": "page 6 — wine brewing room section, x 0–25 %"
+    },
+    {
+      "name": "10-brewing-room-elevation.webp",
+      "sha256": "28fd94926b8a3a2ac8db8b2cea69786d9fae92a9e650d545c81e21daf90e1090",
+      "bytes": 425228,
+      "from": "page 6 — wine brewing room elevation, x 25–50 %; the next project on the right half is excluded"
+    }
+  ]
+}
