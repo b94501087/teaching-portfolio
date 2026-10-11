@@ -1,0 +1,55 @@
+{
+  "project": "Koala Rehabilitation",
+  "dest": "assets/board/koala-rehabilitation",
+  "note": "Portfolio 19f39711 pages 18–21 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title photo with a person, the bushfire background and staff and tourist photos on page 17, the exterior render on page 18, the koala care inset with a photo of a person, and the koala's vision and water-need boards with koala photos. No retouching.",
+  "files": [
+    {
+      "name": "01-koala-and-human-section.webp",
+      "sha256": "cfefcb3032e0908bdb6d2d7af3321ad525c4ba35e6265cf3563585c17287026d",
+      "bytes": 334352,
+      "from": "19f39711 page 20 — Koala and Human section, x 50–100 %; the koala's vision board and water-need renders with koala photos are excluded"
+    },
+    {
+      "name": "02-site-analysis-and-parti.webp",
+      "sha256": "8ec1782133b9f01ed2846d3f671050dc14b733447185c667aa0e50e8c212be0f",
+      "bytes": 532216,
+      "from": "page 18 — site analysis and parti diagram, x 0–50 %"
+    },
+    {
+      "name": "03-concept.webp",
+      "sha256": "29c1333b60154c58721e6e0aaf889a56bcdd7d39f15afec4bf8a31bbc602b566",
+      "bytes": 116834,
+      "from": "page 18 — concept diagrams: sustainability, efficiency, interaction and education, x 50–100 %, y 0–37 %; the exterior render below is excluded"
+    },
+    {
+      "name": "04-efficiency-and-rescue-process.webp",
+      "sha256": "6a139425f234f8a35726eb056496ebd96f9e8e100f15dfee5ddaf815ee5633aa",
+      "bytes": 376300,
+      "from": "page 19 — efficiency: functions, rescue process and exploded axonometric, x 0–50 %"
+    },
+    {
+      "name": "05-interaction-and-intensive.webp",
+      "sha256": "1577758543a795888c6379f88fd3ec54160e1433b19d0b65937f70087a86ab33",
+      "bytes": 394534,
+      "from": "page 19 — interaction and intensive aerial view, x 50–78 %; the koala care inset with a photo of a person is excluded"
+    },
+    {
+      "name": "06-sustainability.webp",
+      "sha256": "952f4f605d03fe6d81a5f832daf06517e033434e1d6f29f69225db3382330a4d",
+      "bytes": 393046,
+      "from": "page 21 — sustainability: facade design, facade angle and sunlight renders, x 0–33 %"
+    },
+    {
+      "name": "07-facade-and-physical-model.webp",
+      "sha256": "dd2d026ebd27cb669b045c123c473077f252ac08165399680b044f5ee1dec591",
+      "bytes": 452104,
+      "from": "page 21 — facade and physical model, rooftop and water, koala and tourist, x 33–79 %"
+    },
+    {
+      "name": "08-construction-detail.webp",
+      "sha256": "235a071ee7e1314cd0671d0c5ad451470121a4196a9faf9663f8154f8d8bae34",
+      "bytes": 125350,
+      "from": "page 21 — construction detail, x 80–100 %"
+    }
+  ]
+}
