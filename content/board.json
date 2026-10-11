@@ -7908,6 +7908,538 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Kibera Slum Design",
+      "slug": "kibera-slum-design",
+      "description": "A sustainable material and safe house for Kibera, turning local waste into bricks that residents can make and build with.\n\nKibera, Nairobi, Kenya | Architecture and material research | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "基貝拉貧民窟設計",
+          "description": "為基貝拉設計的永續材料與安全住宅，將在地廢料轉化為居民能自行製作與建造的磚塊。\n\n肯亞奈洛比基貝拉｜建築與材料研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/kibera-slum-design/01-vision.webp",
+        "assets/board/kibera-slum-design/02-site-and-living-situation.webp",
+        "assets/board/kibera-slum-design/03-building-material-and-structure.webp",
+        "assets/board/kibera-slum-design/04-problem-and-proposal.webp",
+        "assets/board/kibera-slum-design/05-original-and-hypothesized-material.webp",
+        "assets/board/kibera-slum-design/06-waste-material-testing.webp",
+        "assets/board/kibera-slum-design/07-rice-soup-mix.webp",
+        "assets/board/kibera-slum-design/08-brick-prototype-and-size.webp",
+        "assets/board/kibera-slum-design/09-brick-arrangement-studies.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/kibera-slum-design/01-vision.webp"
+          ],
+          "captions": [
+            "Vision: bagasse, rice soup and ash become bricks that residents mould, carry and build with."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "願景：甘蔗渣、米漿與灰燼製成磚塊，由居民自行模製、搬運與建造。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In Kibera, Nairobi, a family of twelve can live in a ten-square-metre house, with average monthly income of about US$45 per person against US$900 in the rest of the city. Mud houses use local material that residents can build themselves but they are not waterproof, while cladding houses of reused corrugated steel damage the environment.",
+          "images": [
+            "assets/board/kibera-slum-design/02-site-and-living-situation.webp",
+            "assets/board/kibera-slum-design/03-building-material-and-structure.webp"
+          ],
+          "captions": [
+            "Location, climate and the Kibera site, 4.8 km from the CBD.",
+            "Models of the mud house and the cladding house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在奈洛比的基貝拉，一個十二口之家可能住在十平方公尺的房子裡，人均月收入約 45 美元，而城市其他地區為 900 美元。泥屋使用居民可自行建造的在地材料卻不防水，再利用浪鐵皮的包覆屋則對環境造成破壞。",
+              "captions": [
+                "區位、氣候與距中心商業區 4.8 公里的基貝拉基地。",
+                "泥屋與包覆屋的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The proposal is a new building material that is recycled, affordable, safe and light, made from the waste of local industries such as tea, peanut shells, sugarcane bagasse and charcoal ash. Comparing Kibera and Chinese mud bricks showed that adding ash could raise strength by 2.5 MPa and make the brick fully waterproof.",
+          "images": [
+            "assets/board/kibera-slum-design/04-problem-and-proposal.webp",
+            "assets/board/kibera-slum-design/05-original-and-hypothesized-material.webp"
+          ],
+          "captions": [
+            "Problem and proposal: create a new building material.",
+            "Original and hypothesized material properties."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "提案是一種回收、平價、安全且輕量的新建材，取材自茶葉、花生殼、甘蔗渣與木炭灰等在地產業的廢料。比較基貝拉與中國的泥磚後發現，加入灰燼可讓強度提升 2.5 MPa，並使磚塊完全防水。",
+              "captions": [
+                "問題與提案：創造新的建材。",
+                "原始材料與假設材料的性質。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Ten mixes replaced red clay with peanut shell, bagasse or tea powder plus ash, cutting red clay use by 80 %. Following the rice-soup mortar of the Great Wall, a mix of 20 % rice soup, 70 % bagasse and 10 % ash saves all red clay, weighs 0.13 g/cm³ and reaches 6.5 MPa.",
+          "images": [
+            "assets/board/kibera-slum-design/06-waste-material-testing.webp",
+            "assets/board/kibera-slum-design/07-rice-soup-mix.webp"
+          ],
+          "captions": [
+            "Material testing: waste powders replacing red clay.",
+            "Rice soup, bagasse and ash: weight 0.13 g/cm³, strength 6.5 MPa."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "十組配方以花生殼、甘蔗渣或茶葉粉加灰燼取代紅土，使紅土用量減少 80%。參考長城的糯米漿砂漿，20% 米漿、70% 甘蔗渣與 10% 灰燼的配方完全不用紅土，重量 0.13 g/cm³，強度達 6.5 MPa。",
+              "captions": [
+                "材料測試：以廢料粉末取代紅土。",
+                "米漿、甘蔗渣與灰燼：重量 0.13 g/cm³，強度 6.5 MPa。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Interlocking brick prototypes were designed for walls, rooftops and a water system, with a sloping surface for roof drainage. Python and Grasshopper studies arrange the bricks into different spaces such as kitchens, bedrooms and living rooms to meet the needs of each family.",
+          "images": [
+            "assets/board/kibera-slum-design/08-brick-prototype-and-size.webp",
+            "assets/board/kibera-slum-design/09-brick-arrangement-studies.webp"
+          ],
+          "captions": [
+            "Brick prototypes, physical models and brick size.",
+            "Brick arrangement studies in Python and Grasshopper."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "互鎖磚原型分別設計用於牆體、屋頂與排水系統，傾斜的表面可讓屋頂排水。Python 與 Grasshopper 的研究將磚塊排列成廚房、臥室與客廳等不同空間，以滿足每個家庭的需求。",
+              "captions": [
+                "磚塊原型、實體模型與磚塊尺寸。",
+                "以 Python 與 Grasshopper 進行的磚塊排列研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Measure how people actually live.\n2. Look for material in local waste.\n3. Test mixes and record the numbers.\n4. Design the brick, then the space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 量測人們真實的居住方式。\n2. 從在地廢料中尋找材料。\n3. 測試配方並記錄數據。\n4. 先設計磚塊，再設計空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Residential Renovation",
+      "slug": "liuyun-residential-renovation",
+      "description": "A renovation of Liuyun Residential Area in Guangzhou CBD that lets residents, workers and visitors share a safer street.\n\nLiuyun Residential Area, Guangzhou, China | Residential renovation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "住宅改造",
+          "description": "廣州中心商業區六運小區的改造，讓居民、上班族與訪客共享更安全的街道。\n\n中國廣州六運小區｜住宅改造｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/liuyun-residential-renovation/01-section-and-street-safety.webp",
+        "assets/board/liuyun-residential-renovation/02-site-in-guangzhou-cbd.webp",
+        "assets/board/liuyun-residential-renovation/03-daily-behaviour.webp",
+        "assets/board/liuyun-residential-renovation/04-problem-and-existing-prototype.webp",
+        "assets/board/liuyun-residential-renovation/05-future-possibility.webp",
+        "assets/board/liuyun-residential-renovation/06-plan-and-elevation.webp",
+        "assets/board/liuyun-residential-renovation/07-rooftop-sunlight-and-ramps.webp",
+        "assets/board/liuyun-residential-renovation/08-section-and-function.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/liuyun-residential-renovation/01-section-and-street-safety.webp"
+          ],
+          "captions": [
+            "Section and street safety: an active facade that guards the street."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖面與街道安全：守護街道的活躍立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Liuyun Residential Area sits inside Guangzhou CBD, where a meal costs about $2 against $9 to $15 in nearby food courts, so office workers, delivery riders and strangers occupy the residential areas. Shops fill the first to third floors, the flow of strangers creates security problems and outsiders take over the outdoor space.",
+          "images": [
+            "assets/board/liuyun-residential-renovation/02-site-in-guangzhou-cbd.webp",
+            "assets/board/liuyun-residential-renovation/03-daily-behaviour.webp"
+          ],
+          "captions": [
+            "Site: Liuyun Residential Area in Guangzhou CBD.",
+            "Daily chart and behaviour section of residents, workers, delivery riders and vagrants."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "六運小區位於廣州中心商業區之內，一餐約 2 美元，而附近美食廣場則要 9 至 15 美元，因此上班族、外送員與陌生人佔據了住宅區。商鋪佔滿一至三樓，陌生人的流動帶來安全問題，戶外空間也被外來者佔用。",
+              "captions": [
+                "基地：位於廣州中心商業區的六運小區。",
+                "居民、上班族、外送員與遊民的每日活動圖與行為剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A daily chart maps when food delivery, office workers, residents and vagrants use the area, from mid-night vagrants to workers' breakfast, lunch, dinner and night bars. Models of the existing prototype test safety and public space and the different types of space that outsiders need.",
+          "images": [
+            "assets/board/liuyun-residential-renovation/04-problem-and-existing-prototype.webp"
+          ],
+          "captions": [
+            "Problem diagrams and models of the existing prototype."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每日活動圖記錄外送、上班族、居民與遊民使用此區的時間，從深夜遊民、上班族早餐、午餐、晚餐到夜間酒吧。現有原型的模型則測試安全與公共空間，以及外來者所需的不同空間類型。",
+              "captions": [
+                "問題圖解與現有原型模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Three questions guide the design: emerging types of space, a safe street and architecture as a carrier of culture. Following the idea that street safety should be supervised and safeguarded by residents, the existing structure is maintained, designed with function and interwoven.",
+          "images": [
+            "assets/board/liuyun-residential-renovation/05-future-possibility.webp"
+          ],
+          "captions": [
+            "Future possibility: types of space, a safe street and culture."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三個問題引導設計：新興的空間類型、安全的街道，以及作為文化載體的建築。依循街道安全應由居民監督與守護的理念，保留既有結構，賦予機能並加以交織。",
+              "captions": [
+                "未來可能性：空間類型、安全街道與文化。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Residential floors sit above a mixed-use level and commercial floors linked by ramps, with rooftop activity spaces and a sloping facade that lets sunlight in. Sections give tourists, office workers and residents their own rooftop, residential and commercial programmes.",
+          "images": [
+            "assets/board/liuyun-residential-renovation/06-plan-and-elevation.webp",
+            "assets/board/liuyun-residential-renovation/07-rooftop-sunlight-and-ramps.webp",
+            "assets/board/liuyun-residential-renovation/08-section-and-function.webp"
+          ],
+          "captions": [
+            "Plan and elevation: residential, mixed-use and commercial levels.",
+            "Rooftop, design for sunlight and ramps.",
+            "Section and function for residents."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "住宅樓層位於混合使用層與以坡道相連的商業樓層之上，屋頂設有活動空間，傾斜的立面讓陽光進入。剖面為遊客、上班族與居民分別配置屋頂、住宅與商業機能。",
+              "captions": [
+                "平面與立面：住宅、混合使用與商業樓層。",
+                "屋頂、日照設計與坡道。",
+                "為居民設計的剖面與機能。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch who uses the site, hour by hour.\n2. Name the conflict between users.\n3. Keep the structure and add function.\n4. Let residents guard the street.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 逐時觀察誰在使用基地。\n2. 指出使用者之間的衝突。\n3. 保留結構並增添機能。\n4. 讓居民守護街道。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Unfathomable Desire",
+      "slug": "unfathomable-desire",
+      "description": "The \"Arcade\" in the 21st century: a shopping mall in Guangzhou designed as a spiral ramp into desire.\n\nGuangzhou, China | Architecture | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "深不可測的慾望",
+          "description": "二十一世紀的「拱廊街」：位於廣州、以通往慾望的螺旋坡道構成的購物中心。\n\n中國廣州｜建築設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/unfathomable-desire/01-spiral-ramp-to-desire.webp",
+        "assets/board/unfathomable-desire/02-history-of-the-arcade.webp",
+        "assets/board/unfathomable-desire/03-renovation-diagram.webp",
+        "assets/board/unfathomable-desire/04-concept-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/unfathomable-desire/01-spiral-ramp-to-desire.webp"
+          ],
+          "captions": [
+            "Concept model: a spiral ramp to desire around a Mobius ring."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "概念模型：環繞莫比烏斯環、通往慾望的螺旋坡道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The arcades of the 18th and 19th centuries were designed to attract the genteel middle classes and offered shoppers an enclosed space away from noisy, dirty streets. In the 21st century the cell phone has become a store window, and profiles, purchases and short videos create new desires that lead people into an abyss.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "十八、十九世紀的拱廊街是為吸引上流中產階級而設計，讓購物者遠離嘈雜骯髒的街道，置身封閉的空間。到了二十一世紀，手機成了新的櫥窗，個人檔案、購物與短影音不斷製造新的慾望，把人引入深淵。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Benjamin's Arcades Project records the behaviour of the flaneur in 19th-century Paris, drawn to fashion until it becomes fetishism and desire for money and power. The design language borrows Samsāra, the cycle of realms of desire that ends only when a person reaches liberation.",
+          "images": [
+            "assets/board/unfathomable-desire/02-history-of-the-arcade.webp"
+          ],
+          "captions": [
+            "History of the arcade: luxury stores, salons, retail and cafes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "班雅明的《拱廊街計畫》記錄了十九世紀巴黎漫遊者的行為，他們受時尚吸引，直至演變為戀物以及對金錢與權力的慾望。設計語言借用輪迴的概念，即慾望諸界的循環，唯有解脫才能終結。",
+              "captions": [
+                "拱廊街的歷史：精品店、沙龍、零售與咖啡館。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The renovation turns this cycle into space, where visitors fall into desire along spiralling floors and a stair offers an escape. Concept models test the stair in the atrium and a Mobius ring at the bottom, from which it is hard to escape.",
+          "images": [
+            "assets/board/unfathomable-desire/03-renovation-diagram.webp",
+            "assets/board/unfathomable-desire/04-concept-models.webp"
+          ],
+          "captions": [
+            "Renovation: falling into desire and the stair for escape.",
+            "Concept models: the stair to escape desire and the Mobius ring."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "改造將這個循環轉化為空間，訪客沿著螺旋樓層墜入慾望，而一道樓梯提供逃離的出口。概念模型測試中庭的樓梯，以及位於底部、難以逃脫的莫比烏斯環。",
+              "captions": [
+                "改造：墜入慾望與逃離的樓梯。",
+                "概念模型：逃離慾望的樓梯與莫比烏斯環。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The result is a shopping mall in Guangzhou built as a spiral ramp to desire, with advertisement boards on its facade drawing people into consumption. It presents the mall as an abyss of desire in which people escape from reality through shopping.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "成果是一座位於廣州、以通往慾望的螺旋坡道構成的購物中心，立面上的廣告看板吸引人們陷入消費。它把購物中心呈現為慾望的深淵，人們在購物中逃離現實。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read a building type through its history.\n2. Borrow a concept from outside architecture.\n3. Turn the concept into a path.\n4. Test the path in models.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從歷史解讀一種建築類型。\n2. 向建築以外借用概念。\n3. 把概念轉化為動線。\n4. 以模型測試動線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Koala Rehabilitation — Silver Lining Behind Darkness",
+      "slug": "koala-rehabilitation",
+      "description": "A koala rescue and rehabilitation centre after the Australian bushfires, where staff and visitors care for koalas together.\n\nNew South Wales, Australia | Architecture | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "無尾熊復育中心——黑暗背後的一線光",
+          "description": "澳洲叢林大火後的無尾熊救援與復育中心，讓工作人員與訪客一同照顧無尾熊。\n\n澳洲新南威爾斯｜建築設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/koala-rehabilitation/01-koala-and-human-section.webp",
+        "assets/board/koala-rehabilitation/02-site-analysis-and-parti.webp",
+        "assets/board/koala-rehabilitation/03-concept.webp",
+        "assets/board/koala-rehabilitation/04-efficiency-and-rescue-process.webp",
+        "assets/board/koala-rehabilitation/05-interaction-and-intensive.webp",
+        "assets/board/koala-rehabilitation/06-sustainability.webp",
+        "assets/board/koala-rehabilitation/07-facade-and-physical-model.webp",
+        "assets/board/koala-rehabilitation/08-construction-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/koala-rehabilitation/01-koala-and-human-section.webp"
+          ],
+          "captions": [
+            "Koala and human: architecture as a medium between species."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "無尾熊與人：建築作為不同物種之間的溝通媒介。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "From September 2019 to March 2020, bushfires burned 18.6 million hectares of Australia for more than eight months, with New South Wales and Victoria hit hardest. Global warming, hotter and drier conditions, topography and wind spread the fires, and the board records 62,000 koalas killed.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "2019 年 9 月至 2020 年 3 月，澳洲的叢林大火延燒超過八個月，焚毀 1,860 萬公頃土地，新南威爾斯與維多利亞受創最重。全球暖化、更炎熱乾燥的氣候、地形與風勢使火勢擴大，圖板記錄有 62,000 隻無尾熊喪生。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The strategy serves koalas through rehabilitation and humans through raising awareness of nature conservation, with tourist support funding the staff who rescue koalas. Site analysis maps the topography of a site in New South Wales, about an hour's drive from Newcastle and an hour and a half from Sydney.",
+          "images": [
+            "assets/board/koala-rehabilitation/02-site-analysis-and-parti.webp"
+          ],
+          "captions": [
+            "Site analysis and parti diagram: function, wind, connection, koala need and facade."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "策略一方面透過復育照顧無尾熊，一方面提升人們的自然保育意識，並以遊客的支持資助救援無尾熊的工作人員。基地分析描繪新南威爾斯一處基地的地形，距紐卡索約一小時車程，距雪梨約一個半小時。",
+              "captions": [
+                "基地分析與配置概念圖：機能、風、連結、無尾熊需求與立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Parti diagrams set function, wind, connection, koala need and facade design, and four concepts guide the plan: sustainability, efficiency, interaction and education. A ramp connects the functional areas vertically and gives access to disabled people and stretchers, following the rescue process from emergency room to koala resting.",
+          "images": [
+            "assets/board/koala-rehabilitation/03-concept.webp",
+            "assets/board/koala-rehabilitation/04-efficiency-and-rescue-process.webp"
+          ],
+          "captions": [
+            "Concept: sustainability, efficiency, interaction and education.",
+            "Efficiency: functions, rescue process and exploded axonometric."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "配置概念圖確立機能、風、連結、無尾熊需求與立面設計，四個概念引導平面：永續、效率、互動與教育。坡道在垂直方向串聯各機能區，方便身障者與擔架通行，並依循從急診室到無尾熊休養的救援流程。",
+              "captions": [
+                "概念：永續、效率、互動與教育。",
+                "效率：機能、救援流程與爆炸軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The building is built around trees so that staff and visitors can care for koalas together, with a koala laboratory and care areas for tourists on the second floor. A facade drawn from eucalyptus trees casts shadows like the forest floor, tested in a physical model and a construction detail.",
+          "images": [
+            "assets/board/koala-rehabilitation/05-interaction-and-intensive.webp",
+            "assets/board/koala-rehabilitation/06-sustainability.webp",
+            "assets/board/koala-rehabilitation/07-facade-and-physical-model.webp",
+            "assets/board/koala-rehabilitation/08-construction-detail.webp"
+          ],
+          "captions": [
+            "Interaction and intensive: the koala laboratory for tourists.",
+            "Sustainability: facade design, facade angle and sunlight renders.",
+            "Facade and physical model.",
+            "Construction detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築環繞樹木而建，讓工作人員與訪客一同照顧無尾熊，二樓設有供遊客參觀的無尾熊實驗室與照護區。取形自尤加利樹的立面投下如林地般的陰影，並以實體模型與構造細部加以驗證。",
+              "captions": [
+                "互動與密集照護：供遊客參觀的無尾熊實驗室。",
+                "永續：立面設計、立面角度與日照渲染。",
+                "立面與實體模型。",
+                "構造細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Begin with the crisis and its numbers.\n2. Design for both species.\n3. Follow the rescue process in plan.\n4. Let the landscape shape the facade.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從危機與數據開始。\n2. 同時為兩個物種設計。\n3. 以平面依循救援流程。\n4. 讓地景塑造立面。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
