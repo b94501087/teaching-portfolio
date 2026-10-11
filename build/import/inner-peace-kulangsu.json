@@ -1,0 +1,49 @@
+{
+  "project": "Inner Peace",
+  "dest": "assets/board/inner-peace-kulangsu",
+  "note": "Portfolio 7e0fc9f0 pages 16–20 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title block, interview portraits and the collage of soldiers and film characters on page 16, the site photos and history photos of real people on page 17, the emotion extraction photos on page 18, the renderings with photo figures on page 20. No retouching.",
+  "files": [
+    {
+      "name": "01-master-plan.webp",
+      "sha256": "58df8d4fdc81323f923fe8a64a70c5b299a09d3250a57b390742c3dcdb039f79",
+      "bytes": 561100,
+      "from": "7e0fc9f0 page 19 — master plan with aerial view inset, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "02-kulangsu-island-map.webp",
+      "sha256": "8474b260195cf132514594b8586db75a6921465a0f80ef2b9060560082690c56",
+      "bytes": 253430,
+      "from": "page 16 — map of Kulangsu Island with western-style buildings, consulates and the site, x 0–60 %, y 24–63.5 %; the title block, the interview portraits and the collage of soldiers and film characters are excluded"
+    },
+    {
+      "name": "03-story-line.webp",
+      "sha256": "1415c92b159e257f3a55667836b47b40e1ec1db96483a9753048b87cd1a657aa",
+      "bytes": 197098,
+      "from": "page 18 — story line drawing of the route with drawn figures, x 3–50 %, y 2–97.5 %"
+    },
+    {
+      "name": "04-space-morphology.webp",
+      "sha256": "526aa481472cc59ce954a1ec55b54c9841c320a7959a40ddebad429a05e170e8",
+      "bytes": 71532,
+      "from": "page 18 — morphology of space elements, x 55–98 %, y 52–97 %; the emotion extraction photos above are excluded"
+    },
+    {
+      "name": "05-exploded-sequences.webp",
+      "sha256": "3eb9991447fbfad54b3be25431c58b2a643b4c50d0af87a9a1f8fab7f3f6769f",
+      "bytes": 67352,
+      "from": "page 20 — exploded drawings of the four spaces, x 3–97 %, y 60–98 %; the renderings with photo figures above are excluded"
+    },
+    {
+      "name": "06-model-perspectives.webp",
+      "sha256": "eda140c01e0becc2d35030d17b7ba6f968638afed6d99c6ced90c102a2af60ab",
+      "bytes": 129880,
+      "from": "page 19 — model perspectives of Thistles and Thorns and Memory Slope, x 54–96 %, y 10–53 %"
+    },
+    {
+      "name": "07-model-birds-eye-view.webp",
+      "sha256": "4bbfcb9d181d8f0e61943a52c5eff151b33e20eacf4543a124f0bfb4af91dba5",
+      "bytes": 155848,
+      "from": "page 19 — model bird's-eye view, x 54–96 %, y 56.5–98 %"
+    }
+  ]
+}
