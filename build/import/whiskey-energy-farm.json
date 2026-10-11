@@ -1,0 +1,37 @@
+{
+  "project": "Whiskey Energy Farm",
+  "dest": "assets/board/whiskey-energy-farm",
+  "note": "Portfolio c7593241 pages 3–5 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the landscape photo and Whiskey and Net-Zero collage on page 2 (real people, third-party images), and the site collage and strategy thumbnails with figures on page 3. No retouching.",
+  "files": [
+    {
+      "name": "01-exterior-render.webp",
+      "sha256": "971cfe4a5e15d69f2310b0c94f5efd5eea70d8c6c5f31f4de6df3656dabb26a4",
+      "bytes": 92674,
+      "from": "c7593241 page 3 — exterior render, x 50–100 %, y 52–100 %; the site collage and strategy thumbnails are excluded"
+    },
+    {
+      "name": "02-parti-and-section.webp",
+      "sha256": "30d04728101f890fcd2e8fa3584326411291b81b4efb28e0b87d3da8ce205fac",
+      "bytes": 195554,
+      "from": "page 4 — parti diagram, energy systems and long section, full page"
+    },
+    {
+      "name": "03-site-plan.webp",
+      "sha256": "67b474283448d5bb38e96ee5a68c7ddabaf20f85e8992c5702edd703c29d6d3e",
+      "bytes": 280328,
+      "from": "page 5 — site plan with programme legend, x 0–29 %"
+    },
+    {
+      "name": "04-sections-and-detail.webp",
+      "sha256": "c5441a1a8521e5baa0d87bc1581ea9b6048e2c8e8811e76e52cb3f22a3b2a30a",
+      "bytes": 274890,
+      "from": "page 5 — greenhouse, distillery and lab-and-cellar sections, wall detail, x 29–66 %"
+    },
+    {
+      "name": "05-energy-facade-models.webp",
+      "sha256": "5b29ac00486c7d86ed12b9bdf69fc9151f8d71bca6db0ee104a1ef7e65d3b936",
+      "bytes": 285162,
+      "from": "page 5 — energy diagrams, facade tectonic, exploded axonometric and model photos, x 66–100 %"
+    }
+  ]
+}
