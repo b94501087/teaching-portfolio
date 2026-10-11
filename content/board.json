@@ -9997,6 +9997,562 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "A Return to the Homeland — A Hakka B&B",
+      "slug": "hakka-bnb-return-to-homeland",
+      "description": "An oval B&B on a Meizhou hillside that turns empty Hakka houses into a place for locals, culture and visitors.\n\nMeizhou, Guangdong, China | Rural guesthouse and Hakka house renewal | Jul–Dec 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "回到家鄉——結合客家文化與鄉村旅遊的民宿",
+          "description": "在梅州山坡上的橢圓形民宿，將空置的客家民居轉化為在地居民、文化與旅客共享的場所。\n\n中國廣東梅州｜鄉村民宿與客家民居更新｜2021 年 7–12 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hakka-bnb-return-to-homeland/01-aerial-view.webp",
+        "assets/board/hakka-bnb-return-to-homeland/02-migration-and-typologies.webp",
+        "assets/board/hakka-bnb-return-to-homeland/03-site-land-use.webp",
+        "assets/board/hakka-bnb-return-to-homeland/04-status-statement.webp",
+        "assets/board/hakka-bnb-return-to-homeland/05-concept-of-conversions.webp",
+        "assets/board/hakka-bnb-return-to-homeland/06-restoration-ideas.webp",
+        "assets/board/hakka-bnb-return-to-homeland/07-user-activity.webp",
+        "assets/board/hakka-bnb-return-to-homeland/08-exploded-view.webp",
+        "assets/board/hakka-bnb-return-to-homeland/09-sectional-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hakka-bnb-return-to-homeland/01-aerial-view.webp"
+          ],
+          "captions": [
+            "Aerial view: the B&B sits halfway up the hill in an oval shape."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鳥瞰圖：民宿以橢圓形配置坐落於半山腰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In Chengshi Village in Meizhou, elderly people and young children are left behind while young adults leave to work in the cities, and the old Hakka houses stand empty and crumbling. The project asks how a home that once belonged only to one family can return to life as a place for locals, Hakka culture and visitors.",
+          "images": [
+            "assets/board/hakka-bnb-return-to-homeland/04-status-statement.webp"
+          ],
+          "captions": [
+            "Status statement: the existing courtyard houses to be renovated."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在梅州城市村，年輕人外出到城市工作，留下老人與孩童，古老的客家民居也因長期無人居住而荒廢傾頹。本案探討一座原本只屬於單一家族的住宅，如何重新成為在地居民、客家文化與旅客共享的場所。",
+              "captions": [
+                "現況說明：待修復的既有合院民居。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The Hakka people went through southward migrations in their history, and each period produced its own house type, from the fortified square house to the round house with its half-moon pond. Mapping the village shows how houses, ponds, tea fields, woods and farmland sit together along the valley.",
+          "images": [
+            "assets/board/hakka-bnb-return-to-homeland/02-migration-and-typologies.webp",
+            "assets/board/hakka-bnb-return-to-homeland/03-site-land-use.webp"
+          ],
+          "captions": [
+            "The southward migrations and the house types of each period.",
+            "Site analysis: land use of the village along the valley."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "客家人在歷史上經歷多次南遷，每個時期都發展出各自的民居類型，從防禦性的方形圍屋到帶有半月池的圍龍屋。村落的測繪呈現了房屋、池塘、茶園、林地與農田沿著山谷共存的關係。",
+              "captions": [
+                "客家南遷歷程與各時期的民居類型。",
+                "基地分析：沿山谷分布的村落土地使用。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The conversion works in three steps: rebuild for local people, reserve for Hakka culture, and reuse as a B&B for tourists. Connection, new entrances, extension and an addition inspired by yin and yang turn the old courtyard houses into a sequence of tea rooms, a bazaar, a dress experience space, a learning space and a sightseeing bridge.",
+          "images": [
+            "assets/board/hakka-bnb-return-to-homeland/05-concept-of-conversions.webp",
+            "assets/board/hakka-bnb-return-to-homeland/06-restoration-ideas.webp",
+            "assets/board/hakka-bnb-return-to-homeland/07-user-activity.webp"
+          ],
+          "captions": [
+            "The concept of conversions: rebuild, reserve, reuse.",
+            "Restoration ideas: connection, entrance and exit, extension and addition.",
+            "User activity analysis for locals and tourists."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "改造分為三個步驟：為在地居民重建、為客家文化保留、作為民宿為旅客再利用。透過連接、新的出入口、擴建，以及受陰陽太極啟發的增建，把老合院轉化為茶室、市集、服飾體驗空間、學習空間與觀景步道等一連串空間。",
+              "captions": [
+                "改造概念：重建、保留、再利用。",
+                "修復策略：連接、出入口、擴建與增建。",
+                "在地居民與旅客的使用活動分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The building is set halfway up the hill in an oval shape, with the front half connected to the natural landscape and the back half connected to the rolling hills. Timber sections and node details show the bazaar, tearoom, roof terrace, bedrooms and balconies under eaves and sunroofs built with local materials.",
+          "images": [
+            "assets/board/hakka-bnb-return-to-homeland/08-exploded-view.webp",
+            "assets/board/hakka-bnb-return-to-homeland/09-sectional-view.webp"
+          ],
+          "captions": [
+            "Exploded view of the floors, public spaces and routes.",
+            "Sectional view with eaves, window and sunroof details."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築以橢圓形配置於半山腰，前半部連接自然地景，後半部則與起伏的山丘相連。木構剖面與節點詳圖呈現了在屋簷與天窗之下的市集、茶室、屋頂露台、臥室與陽台，並採用在地材料興建。",
+              "captions": [
+                "樓層、公共空間與動線的分解圖。",
+                "剖面圖與屋簷、窗戶及天窗詳圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Trace the history of a building type.\n2. Map who has left and who remains.\n3. Convert in clear steps for each user.\n4. Detail the new parts with local materials.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 追溯一種建築類型的歷史。\n2. 標示誰離開了、誰留下來。\n3. 為每一類使用者分步驟改造。\n4. 以在地材料設計新增部分的細部。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Travel to Mars — Sustainable Housing on Mars",
+      "slug": "sustainable-housing-on-mars",
+      "description": "A self-sufficient colony carved into a Martian lava tube, with an oxygen cycle driven by spirulina.\n\nMars (speculative) | Sustainable housing | Jan–Aug 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "前往火星——火星上的永續住宅",
+          "description": "在火星熔岩管中鑿建的自給自足聚落，以螺旋藻驅動氧氣循環。\n\n火星（構想）｜永續住宅｜2022 年 1–8 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sustainable-housing-on-mars/01-martian-surface-dome.webp",
+        "assets/board/sustainable-housing-on-mars/02-lava-tubes.webp",
+        "assets/board/sustainable-housing-on-mars/03-previous-programmes.webp",
+        "assets/board/sustainable-housing-on-mars/04-new-plans.webp",
+        "assets/board/sustainable-housing-on-mars/05-design-generation.webp",
+        "assets/board/sustainable-housing-on-mars/06-oxygen-supply-cycle.webp",
+        "assets/board/sustainable-housing-on-mars/07-vertical-section.webp",
+        "assets/board/sustainable-housing-on-mars/08-model-and-composition.webp",
+        "assets/board/sustainable-housing-on-mars/09-core-barrel-and-lift.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sustainable-housing-on-mars/01-martian-surface-dome.webp"
+          ],
+          "captions": [
+            "Martian surface space: the glass dome above the lava tube colony."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "火星地表空間：熔岩管聚落上方的玻璃穹頂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project imagines a colony for 100,000 people on Mars in 2050 that can grow and be self-sufficient, relying on minimal goods imported from Earth. Mars has a carbon dioxide atmosphere, strong solar radiation, sand storms and red soil that is difficult for crops, so the first question is where people can live at all.",
+          "images": [
+            "assets/board/sustainable-housing-on-mars/02-lava-tubes.webp"
+          ],
+          "captions": [
+            "Why build underground: lava tubes formed by flowing lava."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案設想 2050 年在火星上建立一個可容納十萬人的聚落，能夠持續成長並自給自足，只需極少從地球運來的物資。火星大氣以二氧化碳為主，太陽輻射強烈，又有沙塵暴與難以耕種的紅土，因此首要問題是人究竟能住在哪裡。",
+              "captions": [
+                "為何建在地下：由流動熔岩形成的熔岩管。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Theories of transforming the whole planet are expensive, dangerous and take a very long time, while earlier closed-habitat experiments show that a small self-circulating ecosystem built around human needs is more realistic. The issues of oxygen, sunshine, residence and soil are each answered with a strategy, such as photosynthetic biological walls and reflectors that bring light into the lava tube.",
+          "images": [
+            "assets/board/sustainable-housing-on-mars/03-previous-programmes.webp",
+            "assets/board/sustainable-housing-on-mars/04-new-plans.webp"
+          ],
+          "captions": [
+            "Previous programmes: the drawbacks of transforming Mars.",
+            "New plans: issues and strategies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "改造整顆星球的理論昂貴、危險且耗時極長，而過去的封閉棲地實驗顯示，圍繞人類需求建立小型自循環生態系統更為可行。氧氣、日照、居住與土壤等議題各自對應一項策略，例如具光合作用的生物牆，以及把光線引入熔岩管的反射鏡。",
+              "captions": [
+                "既有方案：改造火星的缺點。",
+                "新計畫：議題與策略。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Equipment such as 3D printers and excavators is sent from Earth, lands by parachute and works with excavated crater rock as building material under remote control. Hexagonal net oxygen individuals filled with spirulina take in carbon dioxide and release oxygen, forming the cycle of the dome and the walls.",
+          "images": [
+            "assets/board/sustainable-housing-on-mars/05-design-generation.webp",
+            "assets/board/sustainable-housing-on-mars/06-oxygen-supply-cycle.webp"
+          ],
+          "captions": [
+            "Design generation: equipment delivery, excavation, 3D printing and the dome layers.",
+            "How the oxygen supply cycle is achieved."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "3D 列印機與挖掘機等設備從地球運出，以降落傘著陸後在遠端遙控下，利用挖出的火山口岩石作為建材。裝有螺旋藻的六角形產氧單元吸收二氧化碳並釋放氧氣，構成穹頂與牆體的循環系統。",
+              "captions": [
+                "設計生成：設備運送、開挖、3D 列印與穹頂構造層。",
+                "氧氣供應循環如何達成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A building is carved out of the cross-section of the lava tube, its centre hollowed out so that sunlight enters the cave a second time, and every twenty floors form one residential unit with apartments, family homes, a cafeteria and shops. Six lifts in the core barrel give cross-floor access, and waste is carried to the plant cultivation system.",
+          "images": [
+            "assets/board/sustainable-housing-on-mars/07-vertical-section.webp",
+            "assets/board/sustainable-housing-on-mars/08-model-and-composition.webp",
+            "assets/board/sustainable-housing-on-mars/09-core-barrel-and-lift.webp"
+          ],
+          "captions": [
+            "Vertical section through the lava tube building.",
+            "Model generation, circulation system and building composition.",
+            "Looking up the core barrel and lifts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築從熔岩管的剖面中挖鑿而成，中央挖空讓陽光再次照入洞穴，每二十層構成一個居住單元，包含單身公寓、家庭住宅、餐廳與商店。核心筒中的六部電梯提供跨樓層的通行，排泄物則被輸送至植物栽培系統。",
+              "captions": [
+                "穿越熔岩管建築的垂直剖面。",
+                "量體生成、循環系統與建築組成。",
+                "仰望核心筒與電梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. List what the site lacks for life.\n2. Learn from earlier experiments.\n3. Match each issue with one strategy.\n4. Build with what the site provides.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 列出基地缺少哪些生存條件。\n2. 從過去的實驗中學習。\n3. 為每個議題對應一項策略。\n4. 用基地本身提供的材料興建。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Facing up to War — Healing Post-war Psychological Trauma",
+      "slug": "healing-post-war-trauma",
+      "description": "A healing centre in Mariupol where ramps, gardens and treatment rooms combine landscape therapy with human care.\n\nMariupol, Ukraine | Healing centre | May–Nov 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "面對戰爭——療癒戰後心理創傷",
+          "description": "位於馬立波的療癒中心，以坡道、花園與治療空間結合地景療法與人為照護。\n\n烏克蘭馬立波｜療癒中心｜2022 年 5–11 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/healing-post-war-trauma/01-handcrafted-model.webp",
+        "assets/board/healing-post-war-trauma/02-war-situation-map.webp",
+        "assets/board/healing-post-war-trauma/03-site-and-city-situation.webp",
+        "assets/board/healing-post-war-trauma/04-design-strategy.webp",
+        "assets/board/healing-post-war-trauma/05-parti-diagram.webp",
+        "assets/board/healing-post-war-trauma/06-model-generation.webp",
+        "assets/board/healing-post-war-trauma/07-floor-plan.webp",
+        "assets/board/healing-post-war-trauma/08-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/healing-post-war-trauma/01-handcrafted-model.webp"
+          ],
+          "captions": [
+            "Handcrafted model: ramps link the landscape and the building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "手作模型：坡道串聯地景與建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Many people who have lived through the war in Ukraine develop post-war trauma, and their homes and cities have been heavily damaged. The project asks how architecture and landscape can help people face up to war and heal psychologically.",
+          "images": [
+            "assets/board/healing-post-war-trauma/02-war-situation-map.webp"
+          ],
+          "captions": [
+            "War situation analysis with the site in Mariupol."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "許多經歷烏克蘭戰爭的人產生了戰後創傷，他們的家園與城市也遭受嚴重破壞。本案探討建築與地景如何協助人們面對戰爭，並在心理上獲得療癒。",
+              "captions": [
+                "戰爭情勢分析，基地位於馬立波。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site lies in Mariupol near the Azovstal Steelworks, the residential areas and the quay, and the city situation maps record the population before and after the war together with destroyed roads and buildings. Naturopathy through sun, air, water and plants is combined with artificial treatments such as cognitive therapy and gestalt therapy into a two-tier treatment programme.",
+          "images": [
+            "assets/board/healing-post-war-trauma/03-site-and-city-situation.webp",
+            "assets/board/healing-post-war-trauma/04-design-strategy.webp"
+          ],
+          "captions": [
+            "Site analysis and the city situation before and after the war.",
+            "Design strategy: naturopathy and artificial treatment."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地位於馬立波，鄰近亞速鋼鐵廠、住宅區與碼頭，城市現況圖記錄了戰前與戰後的人口分布，以及被摧毀的道路與建築。研究將透過陽光、空氣、水與植物的自然療法，與認知治療、完形治療等人為治療結合，形成雙層治療計畫。",
+              "captions": [
+                "基地分析與戰前戰後的城市現況。",
+                "設計策略：自然療法與人為治療。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A soft enveloping volume is divided into eight parts according to function, and the middle space is layered as ramps that connect the buildings. Sketch models test how curved bands can twist, stack and interlock before they settle into the final form.",
+          "images": [
+            "assets/board/healing-post-war-trauma/05-parti-diagram.webp",
+            "assets/board/healing-post-war-trauma/06-model-generation.webp"
+          ],
+          "captions": [
+            "Parti diagram: concept, function, connection and wind.",
+            "Model generation sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以柔軟包覆的量體為起點，依功能分為八個區塊，中央空間則分層作為串聯各棟建築的坡道。透過草圖模型測試彎曲帶狀量體如何扭轉、堆疊與交錯，最後定案出最終形態。",
+              "captions": [
+                "配置概念圖：概念、機能、連結與風。",
+                "量體生成草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Meditation spaces, treatment rooms, an inpatient department, chat and consultation rooms and an exhibition space are linked by ramps around a large lawn and landscaped park. By combining landscape therapy with human treatment, the landscape and the building work together for a double healing effect.",
+          "images": [
+            "assets/board/healing-post-war-trauma/07-floor-plan.webp",
+            "assets/board/healing-post-war-trauma/08-model-details.webp"
+          ],
+          "captions": [
+            "Floor plan: ramps, treatment rooms, meditation space and park.",
+            "Model details of the ramps and columns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "冥想空間、治療室、住院部、談話諮詢室與展覽空間，以坡道環繞大草坪與景觀公園串聯起來。結合地景療法與人為治療，讓地景與建築共同發揮雙重療癒的效果。",
+              "captions": [
+                "平面圖：坡道、治療室、冥想空間與公園。",
+                "坡道與柱列的模型細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name the harm the users carry.\n2. Pair two kinds of treatment.\n3. Sketch many forms in a model.\n4. Let landscape and rooms heal together.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 說明使用者承受的傷害。\n2. 結合兩種療法。\n3. 用模型草擬多種形態。\n4. 讓地景與空間共同療癒。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Escape from the Noise — Noise-cancelling Spaces in the City",
+      "slug": "noise-cancelling-spaces",
+      "description": "Folding origami units that open into quiet shelters when the noise of Guangzhou rises.\n\nGuangzhou, Guangdong, China | Urban installation | Oct–Dec 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "逃離噪音——城市中的消噪空間",
+          "description": "在廣州噪音升高時展開成安靜庇護所的摺紙單元。\n\n中國廣東廣州｜城市裝置｜2022 年 10–12 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/noise-cancelling-spaces/01-retractable-units.webp",
+        "assets/board/noise-cancelling-spaces/02-site-noise-analysis.webp",
+        "assets/board/noise-cancelling-spaces/03-soundproofing-principles.webp",
+        "assets/board/noise-cancelling-spaces/04-parametric-experiments.webp",
+        "assets/board/noise-cancelling-spaces/05-origami-structure-experiment.webp",
+        "assets/board/noise-cancelling-spaces/06-origami-imitations.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/noise-cancelling-spaces/01-retractable-units.webp"
+          ],
+          "captions": [
+            "Retractable units that open and close according to the noise received."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "依接收到的噪音而展開與收合的可伸縮單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Guangzhou is one of the noisiest cities in China, and the noise of construction, traffic and crowds that people hear every day can harm the body and the mind over time. The project asks how a blank space in the city can let people be alone while reducing the harm caused by the noise around them.",
+          "images": [
+            "assets/board/noise-cancelling-spaces/02-site-noise-analysis.webp"
+          ],
+          "captions": [
+            "Noise levels mapped over the city model of Guangzhou."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州是中國最吵雜的城市之一，人們每天聽到的工地、交通與人群噪音，長期下來會損害身體與心理。本案探討如何在城市中創造一處留白空間，讓人能獨處，同時減少周遭噪音造成的傷害。",
+              "captions": [
+                "在廣州城市模型上標示的噪音分布。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sound can be kept out by reflection and diffusion, or absorbed inside a space so that it does not echo and reverberate. Surfaces with many bumps make a sound follow them into concave spaces until it slowly diminishes.",
+          "images": [
+            "assets/board/noise-cancelling-spaces/03-soundproofing-principles.webp"
+          ],
+          "captions": [
+            "Principle analysis: sound reduction and sound absorption."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "聲音可以藉由反射與擴散阻隔在外，或在空間內被吸收而不產生回音與殘響。具有許多凹凸的表面，會讓聲音隨之進入凹陷空間，並逐漸減弱。",
+              "captions": [
+                "原理分析：隔音與吸音。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Parametric modelling tests how trapezoidal recessed surfaces increase the number of reflections and prolong the time of the sound in the space. Origami experiments then look for a structure that folds flat when idle and still forms an enveloping space when open.",
+          "images": [
+            "assets/board/noise-cancelling-spaces/04-parametric-experiments.webp",
+            "assets/board/noise-cancelling-spaces/05-origami-structure-experiment.webp"
+          ],
+          "captions": [
+            "Experiments with parametric modelling.",
+            "Origami structure experiment: from a collapsible sheet to an enveloping form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以參數化建模測試梯形凹陷表面如何增加反射次數，並延長聲音在空間中的停留時間。接著透過摺紙實驗，尋找閒置時能收平、展開時仍能形成包覆空間的結構。",
+              "captions": [
+                "參數化建模實驗。",
+                "摺紙結構實驗：從可收合的紙張到包覆形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final unit works like an umbrella, with symmetrical shields that expand and contract freely and react quickly to the noise level. Paired with traditional building materials, the folded units form a variable spatial system that can be placed under office buildings, in parks and in residential areas.",
+          "images": [
+            "assets/board/noise-cancelling-spaces/06-origami-imitations.webp"
+          ],
+          "captions": [
+            "Origami structure imitations for a variable spatial system."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終單元如同一把傘，對稱的遮板能自由展開與收合，並迅速回應噪音的大小。摺疊單元與傳統建材結合，形成可變的空間系統，可設置於辦公大樓下方、公園與住宅區中。",
+              "captions": [
+                "作為可變空間系統的摺紙結構模擬。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Measure the problem in the city.\n2. Learn the physics behind it.\n3. Test forms in code and paper.\n4. Design a unit that responds.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 在城市中量測問題。\n2. 學習背後的物理原理。\n3. 用程式與紙張測試形態。\n4. 設計能夠回應的單元。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
