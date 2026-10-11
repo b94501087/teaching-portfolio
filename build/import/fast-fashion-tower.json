@@ -1,0 +1,37 @@
+{
+  "project": "Fast Fashion Tower",
+  "dest": "assets/board/fast-fashion-tower",
+  "note": "Portfolio c7593241 pages 6–8 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage on page 6 (historic photos, a portrait and quotation) and the interior renders with people on page 8. No retouching.",
+  "files": [
+    {
+      "name": "01-true-cost-of-a-hoodie.webp",
+      "sha256": "1b1bad232e8ff2a29686781c7f901342f644ba4300af76a2451b00ff1e555d42",
+      "bytes": 384908,
+      "from": "c7593241 page 6 — the true cost of a hoodie and the production chain, x 42–100 %; the title collage (historic photos, a portrait) is excluded"
+    },
+    {
+      "name": "02-concept-development.webp",
+      "sha256": "56f3884808f9a9809c9811d730498971c48ffe3ca6d3f64ee4c081698864c5d9",
+      "bytes": 221320,
+      "from": "page 7 — concept development, x 0–50 %"
+    },
+    {
+      "name": "03-plan-and-views.webp",
+      "sha256": "7cb95e1ef56091a0322e07355b4444c8bd6808811fd51275cba68c02708e3648",
+      "bytes": 256372,
+      "from": "page 7 — plan with factories, view from elevator and ground-level entrance, x 50–100 %"
+    },
+    {
+      "name": "04-floor-plans.webp",
+      "sha256": "bd61189aa2522dc46a76e0b7428e03e4f080aa347f3f5ec772083af40d5b2017",
+      "bytes": 399566,
+      "from": "page 8 — floor plans and interior views, x 0–50 %"
+    },
+    {
+      "name": "05-tower-render.webp",
+      "sha256": "18341a54f8c674036b773c7668a473dab17ec3925d03d8f98b5a3e0f9575c3ed",
+      "bytes": 355472,
+      "from": "page 8 — tower render, x 64–100 %, y 33–100 %; the interior renders with people are excluded"
+    }
+  ]
+}
