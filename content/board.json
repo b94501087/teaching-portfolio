@@ -1606,6 +1606,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Creativity Centre — Bridging Graduates and Industry",
+      "slug": "creativity-centre",
+      "description": "A creator centre on a Zhuhai campus brings students, companies and research together, so graduates can find personalised careers.\n\nZhuhai, China | Individual work / campus architecture | Oct–Dec 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "創意中心——連結畢業生與產業",
+          "description": "在珠海校園中設計一座創意中心，把學生、企業與研究聚在一起，讓畢業生找到個人化的職涯。\n\n中國珠海｜個人作品／校園建築｜2022 年 10 月至 12 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/creativity-centre/01-cover-elevation.webp",
+        "assets/board/creativity-centre/02-pain-points.webp",
+        "assets/board/creativity-centre/03-location.webp",
+        "assets/board/creativity-centre/04-strategy-observation.webp",
+        "assets/board/creativity-centre/05-mechanism.webp",
+        "assets/board/creativity-centre/06-cluster.webp",
+        "assets/board/creativity-centre/07-plan-function.webp",
+        "assets/board/creativity-centre/08-section-perspective.webp",
+        "assets/board/creativity-centre/09-truss.webp",
+        "assets/board/creativity-centre/10-curtain-wall.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/creativity-centre/01-cover-elevation.webp"
+          ],
+          "captions": [
+            "Elevation perspective of the 1:50 auditorium model, lit from inside through translucent walls and a folding door."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "1:50 禮堂模型的立面透視，光線從半透明牆面與摺疊門透出。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The unemployment rate of Chinese college graduates is rising year by year, and graduates, companies and campuses struggle to match one another. Interviews at the school pointed to three gaps: companies are distant, knowledge is inapplicable and the jobs on offer are inadequate.",
+          "images": [
+            "assets/board/creativity-centre/02-pain-points.webp",
+            "assets/board/creativity-centre/03-location.webp"
+          ],
+          "captions": [
+            "Start point and interviews — the unemployment rate since 2017, the recruitment pain points of companies and what students say about their futures.",
+            "Location analysis — Zhuhai at the centre of the Greater Bay Area, connected to Hong Kong and Macao, and the site close to the airport and ports."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "中國大學畢業生的失業率逐年攀升，畢業生、企業與校園三方難以彼此媒合。在校訪談指出三個落差：企業距離遙遠、所學知識無法應用、職缺不合適。",
+              "captions": [
+                "起點與訪談——2017 年以來的失業率、企業招募的痛點，以及學生對未來的想法。",
+                "區位分析——珠海位於大灣區的中心，連接香港與澳門，基地鄰近機場與港口。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The strategy brings enterprises into the school, creates personalised work and links industry, academia and research in one hybrid building. An ant colony, where no ant is idle, became the model: clear categories of work and efficient movement lines were converted into space.",
+          "images": [
+            "assets/board/creativity-centre/04-strategy-observation.webp",
+            "assets/board/creativity-centre/05-mechanism.webp"
+          ],
+          "captions": [
+            "Strategy, study models of flowability and spatial organisation, and observation of the ant colony's work categories and movement lines.",
+            "Mechanism — instinct, job and ability: clubs, companies and faculties each rent the space type that suits them around a shared auditorium."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "策略是把企業引入校園、創造個人化的工作，並在一棟混合建築中連結產業、學術與研究。以「沒有一隻螞蟻閒著」的蟻巢為原型：把清楚的分工與高效的動線轉化為空間。",
+              "captions": [
+                "策略、流動性與空間組織的研究模型，以及對蟻巢分工類別與動線的觀察。",
+                "機制——本能、工作與能力：社團、企業與學院各自租用合適的空間類型，圍繞共享的禮堂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Clubs for inspiration exchange, companies to manage efficiently and faculties to research independently form three clusters on a 9 m grid, joined by a main road and branch roads. The plan gathers lecture theatres, laboratories, studios and offices around a lecture hall with a truss structure and an auditorium.",
+          "images": [
+            "assets/board/creativity-centre/06-cluster.webp",
+            "assets/board/creativity-centre/07-plan-function.webp",
+            "assets/board/creativity-centre/08-section-perspective.webp"
+          ],
+          "captions": [
+            "Cluster — club, company and faculty volumes arranged for easy contact along the main road.",
+            "Plan and function — lecture hall with truss structure, transition courtyard, sharing platform and the layout plan of eighteen functions.",
+            "Section and perspective — various studios, a talking room and the faculty corridor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "促進靈感交流的社團、追求高效管理的企業與獨立研究的學院，在 9 米網格上形成三個群組，並以主幹道與支路相連。平面把講堂、實驗室、工作室與辦公室，聚集在採桁架結構的講堂與禮堂周圍。",
+              "captions": [
+                "群組——社團、企業與學院的量體沿主幹道配置，方便彼此接觸。",
+                "平面與機能——桁架結構講堂、過渡中庭、共享平台，以及含十八項機能的平面配置。",
+                "剖面與透視——各式工作室、交流室與學院走廊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A 1:50 physical model of the auditorium section tested the floor and wall construction, a studio with double bleachers and the truss structure of the roof. The auditorium elevation uses translucent walls and a point glass curtain wall, learning from Steven Holl's Kalwall, so the interior light becomes part of the façade.",
+          "images": [
+            "assets/board/creativity-centre/09-truss.webp",
+            "assets/board/creativity-centre/10-curtain-wall.webp"
+          ],
+          "captions": [
+            "Truss structure inside the auditorium, in the model and in a dimensioned drawing.",
+            "Auditorium elevation with interior lighting, and details of the point glass curtain wall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "以 1:50 的禮堂剖面實體模型，測試樓板與牆體構造、雙向看台的工作室，以及屋頂的桁架結構。禮堂立面採用半透明牆與點式玻璃帷幕牆，借鏡 Steven Holl 的 Kalwall，讓室內光線成為立面的一部分。",
+              "captions": [
+                "禮堂內部的桁架結構，包含模型與標註尺寸的圖面。",
+                "打上室內燈光的禮堂立面，以及點式玻璃帷幕牆細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a social problem with numbers: graduate unemployment, measured and then heard in interviews.\n2. Learn from a natural system: an ant colony shows how work and movement can organise space.\n3. Turn users into space types: each club, company and faculty activity becomes a rentable module.\n4. Build the key room at 1:50: the auditorium model tests structure, light and construction together.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從有數據的社會問題出發：先量化畢業生失業，再透過訪談聆聽。\n2. 向自然系統學習：蟻巢展示了分工與動線如何組織空間。\n3. 把使用者轉化為空間類型：社團、企業與學院的每項活動都成為可租用的模組。\n4. 以 1:50 製作關鍵空間：禮堂模型同時測試結構、光線與構造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
