@@ -1,0 +1,67 @@
+{
+  "project": "Earthen Elegance",
+  "dest": "assets/board/earthen-elegance",
+  "note": "Portfolio pages 3–12 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title render on page 3, the history and current-situation photos on page 4, the reference photos and Cases 1–2 on page 5, and the renders with people on pages 9–11. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-physical-model.webp",
+      "sha256": "e720e99be3b6ae3e94965afa0cbfab57a0a0005fee15c4c17b563f4a70534cfd",
+      "bytes": 261432,
+      "from": "page 8 — physical testing model (cover), full page"
+    },
+    {
+      "name": "02-context-mapping.webp",
+      "sha256": "5059bac1afad24795b08accb6abafec63157c02d58380b589b6f73df0c8ab3f6",
+      "bytes": 270122,
+      "from": "page 4 — context mapping, x 0–69 %; the history and current-situation photos are excluded"
+    },
+    {
+      "name": "03-material-comparison.webp",
+      "sha256": "8e322f005b448f62b9da3064d52fa23f07fc7f99137ef7d0df5c19b86d2279a1",
+      "bytes": 96978,
+      "from": "page 5 — Case 3 and comparison of building material performance, x 48–100 %, y 38–100 %; the reference photos are excluded"
+    },
+    {
+      "name": "04-rammed-earth-experiment.webp",
+      "sha256": "05352f18a0cddf63ad6d76b743823a23431f0f8721bdc88b591420f6bf8d73bc",
+      "bytes": 270880,
+      "from": "page 6 — rammed earth formula experiment, x 0–59.5 %"
+    },
+    {
+      "name": "05-environmental-effects.webp",
+      "sha256": "d244aa2bec7db84f659e4b83e0b4f92242f20e79ecd29543e93f396763b7fe43",
+      "bytes": 127524,
+      "from": "page 6 — environmental effects of the materials, x 60–100 %"
+    },
+    {
+      "name": "06-design-development.webp",
+      "sha256": "ac9206e38a90c0a660c09d4a00a580e650bde6e58f7fa2277a2ac01f2d9d15cc",
+      "bytes": 266394,
+      "from": "page 7 — design development and spatial arrangement, full page"
+    },
+    {
+      "name": "07-sectional-view.webp",
+      "sha256": "a2275f77113973af84966bb22f2b9071451a04b79c98cdc18340f908c762eabc",
+      "bytes": 113538,
+      "from": "page 9 — sectional view, y 49–100 %; the renders above are excluded"
+    },
+    {
+      "name": "08-structural-strategies.webp",
+      "sha256": "4446ab574ac94055c9f376d1e6d3505ea7a55faa258680ea172e5ca649563383",
+      "bytes": 178642,
+      "from": "page 10 — structural strategies, x 0–44 %; the classroom and playground renders are excluded"
+    },
+    {
+      "name": "09-construction-detail.webp",
+      "sha256": "54abcc6a797e3498ba8b324093a03c4991017ec1435178d764303f4766798756",
+      "bytes": 218522,
+      "from": "page 11 — construction detail, x 60–100 %; the garden render is excluded"
+    },
+    {
+      "name": "10-axonometric-section.webp",
+      "sha256": "32d6c2d6dfb1b7ed93298c07b444655353c7b5223349144ce822deac280e2fb3",
+      "bytes": 315900,
+      "from": "page 12 — axonometric section view, detailed drawings and model views, full page"
+    }
+  ]
+}
