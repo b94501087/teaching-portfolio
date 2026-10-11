@@ -14124,6 +14124,149 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Oil Tank Eco Park",
+      "slug": "oil-tank-eco-park",
+      "description": "A disused oil tank factory in Foshan is cleansed, flooded into a wetland and reopened as a post-industrial park.\n\nFoshan | Landscape regeneration | 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "油罐生態公園",
+          "description": "佛山一座廢棄油罐廠經過淨化、引水成為濕地，再以後工業公園的樣貌重新開放。\n\n佛山｜景觀再生｜2022｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/oil-tank-eco-park/01-pollution-condition.webp",
+        "assets/board/oil-tank-eco-park/02-three-phase-strategy.webp",
+        "assets/board/oil-tank-eco-park/03-land-restoration.webp",
+        "assets/board/oil-tank-eco-park/04-water-treatment.webp",
+        "assets/board/oil-tank-eco-park/05-morphology.webp",
+        "assets/board/oil-tank-eco-park/06-masterplan.webp",
+        "assets/board/oil-tank-eco-park/07-functional-concepts.webp",
+        "assets/board/oil-tank-eco-park/08-oil-tank-renewal.webp",
+        "assets/board/oil-tank-eco-park/09-park-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/oil-tank-eco-park/06-masterplan.webp"
+          ],
+          "captions": [
+            "Phase III: the final masterplan on the river bank."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "第三階段：河岸上的最終總平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Since the 1980s the Nanhai district of Foshan has grown as an industrial area, with oil tank, printing and furniture factories built along the river. The site is a disused oil tank factory with 15 tanks of various sizes on the river bank, where petroleum has poisoned the soil and effluent and chemicals reach the river.",
+          "images": [
+            "assets/board/oil-tank-eco-park/01-pollution-condition.webp"
+          ],
+          "captions": [
+            "Pollution condition: factory gas, dust, effluent and toxic chemicals."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "自 1980 年代起，佛山南海區發展為工業區，油罐廠、印刷廠與家具廠沿河興建。基地是一座廢棄的油罐廠，河岸上立著 15 座大小不一的油罐，石油污染了土壤，廢水與化學物質流入河中。",
+              "captions": [
+                "污染現況：工廠廢氣、粉塵、廢水與有毒化學物質。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project sets out to purify the land before opening it to nature and people. It works in three phases: decontaminate the land by artificial and natural means, open up the watershed into an ecological wetland, and retrofit the oil tanks with recreational functions.",
+          "images": [
+            "assets/board/oil-tank-eco-park/02-three-phase-strategy.webp"
+          ],
+          "captions": [
+            "Phase 1 land decontamination, phase 2 open water area, phase 3 placement of functions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "專題先淨化土地，再把它開放給自然與人。整個過程分為三個階段：以人工與自然方式整治土地、打開水域形成生態濕地，最後改造油罐、置入休閒機能。",
+              "captions": [
+                "第一階段土地除污、第二階段開放水域、第三階段置入機能。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Highly contaminated soil is excavated and reused as the base for the topography, while low-risk soil is treated by phytoremediation and strip forests keep out dust from the high-speed trains and factories. A created wetland improves water quality and gives fish and wildlife a habitat, and the final topography follows the decontamination steps.",
+          "images": [
+            "assets/board/oil-tank-eco-park/03-land-restoration.webp",
+            "assets/board/oil-tank-eco-park/04-water-treatment.webp",
+            "assets/board/oil-tank-eco-park/05-morphology.webp",
+            "assets/board/oil-tank-eco-park/07-functional-concepts.webp"
+          ],
+          "captions": [
+            "Phase I land restoration: dig and fill, phytoremediation, protection from dust.",
+            "Phase II water treatment and the wetland food chain.",
+            "Morphology: from the original terrain to the final form.",
+            "Functional concepts, road network and the programme legend."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "高污染土壤被挖除，並再利用為地形的基礎；低風險土壤以植物修復處理，帶狀林地阻擋高鐵與工廠的粉塵。新設的濕地改善水質，也為魚類與野生動物提供棲地，最終地形則依循除污的步驟成形。",
+              "captions": [
+                "第一階段土地修復：挖填、植物修復、防塵。",
+                "第二階段水處理與濕地食物鏈。",
+                "地形推演：從原始地形到最終形態。",
+                "機能概念、道路系統與機能圖例。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A new post-industrial park: some tanks hold cafes, showrooms and lounges, some are hollowed out into gardens or opened with skylights, and others are raised for viewing platforms. Viewing bridges connect the tanks, and a sunken plaza is half shallow water square and half amphitheatre.",
+          "images": [
+            "assets/board/oil-tank-eco-park/08-oil-tank-renewal.webp",
+            "assets/board/oil-tank-eco-park/09-park-section.webp"
+          ],
+          "captions": [
+            "Oil tank renewal: feel structure, space, garden, light and height.",
+            "Long section of the park from the wetland to the tanks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一座新的後工業公園：部分油罐容納咖啡館、展示廳與休息室，部分被掏空成花園或開設天窗，另一些則被抬高作為瞭望平台。觀景橋串連各個油罐，下沉廣場一半是淺水廣場、一半是圓形劇場。",
+              "captions": [
+                "油罐更新：感受結構、空間、花園、光線與高度。",
+                "從濕地到油罐的公園長剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map what has polluted the site.\n2. Clean the land before you program it.\n3. Let the treatment shape the topography.\n4. Reuse the industrial relics as spaces.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出污染基地的來源。\n2. 先整治土地，再安排機能。\n3. 讓整治過程塑造地形。\n4. 把工業遺構再利用為空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
