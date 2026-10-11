@@ -1,0 +1,37 @@
+{
+  "project": "Moving Golf Castle",
+  "dest": "assets/board/moving-golf-castle",
+  "note": "Portfolio pages 13–15 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the title comic on page 13; the Crowded Urban Villages and Landscape panels (photos, one of a person) and the Literary Inspiration board (book covers, film stills) on page 14; page 16 (Other Works). No retouching.",
+  "files": [
+    {
+      "name": "01-cover-golf-castle.webp",
+      "sha256": "795350ef45ac67d980b1647ace0311a786e67a99ef57d7ec71cdf83093201de5",
+      "bytes": 350302,
+      "from": "page 15 — Rendering of Eventual Completion of the Golf Castle (cover), x 13–50 %"
+    },
+    {
+      "name": "02-urban-villages-and-golf.webp",
+      "sha256": "420c13c74dcbf4f6958e592b395a43e26b2039cb00794047f0b7ba898123a3c4",
+      "bytes": 70594,
+      "from": "page 14 — Distribution of Urban Villages and Golf, x 0–26 %, y 72.5–100 %; the panels above (photos, one of a person) and the Literary Inspiration board (book covers, film stills) are excluded"
+    },
+    {
+      "name": "03-storyboard.webp",
+      "sha256": "564e57bfecfcd297440f1d371a8d362b7ab1e9a22028c5333ba8f0fac82eb39c",
+      "bytes": 442746,
+      "from": "page 14 — storyboard in nine frames, x 50–100 %"
+    },
+    {
+      "name": "04-exploded-drawing.webp",
+      "sha256": "7391b318959145189e202c83f61a046ca294f2fc10077fabdc872f4a08f684d2",
+      "bytes": 70778,
+      "from": "page 15 — Exploded Drawing, x 0–13 %"
+    },
+    {
+      "name": "05-interior-details.webp",
+      "sha256": "7084bdb57b8cd49ce7ebfff7d351b014b40c9d7fcc0f89f95ae3ce09b03e89d6",
+      "bytes": 390544,
+      "from": "page 15 — Golf Castle interior details, x 50–100 %"
+    }
+  ]
+}
