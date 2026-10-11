@@ -2762,6 +2762,419 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Celebration of Vertical — Exploring the Power of Height",
+      "slug": "celebration-of-vertical",
+      "description": "An abandoned tower in Tianhe is renovated into homes and greenhouses inside an outer frame, collecting and reusing rainwater from the roof down.\n\nTianhe, Guangzhou, China | Residence | Oct 2024 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "垂直禮讚——探索高度的力量",
+          "description": "天河一棟廢棄高樓被改造為外框之內的住宅與溫室，從屋頂開始收集並再利用雨水。\n\n中國廣州天河｜住宅｜2024 年 10 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/celebration-of-vertical/01-cover-model.webp",
+        "assets/board/celebration-of-vertical/02-site.webp",
+        "assets/board/celebration-of-vertical/03-abandoned-building.webp",
+        "assets/board/celebration-of-vertical/04-rainwater-cycle.webp",
+        "assets/board/celebration-of-vertical/05-space-function.webp",
+        "assets/board/celebration-of-vertical/06-planting-air.webp",
+        "assets/board/celebration-of-vertical/07-partition.webp",
+        "assets/board/celebration-of-vertical/08-roof-greenhouse.webp",
+        "assets/board/celebration-of-vertical/09-renders.webp",
+        "assets/board/celebration-of-vertical/10-overview.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/celebration-of-vertical/01-cover-model.webp"
+          ],
+          "captions": [
+            "Handmade model of the renovated tower: residential floors and greenhouses hung inside an external frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "改造高樓的手工模型：住宅樓層與溫室懸掛於外部框架之內。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "As a rapidly developing city, Guangzhou has seen a gap between urban and rural areas that shows not only in economic and social development but also in the allocation of environmental resources, while pollution and ecological degradation need to be addressed urgently. The number of migrants in Guangzhou has exceeded 10 million and housing shortages are growing, so the project renovates an abandoned building in a busy area.",
+          "images": [
+            "assets/board/celebration-of-vertical/02-site.webp",
+            "assets/board/celebration-of-vertical/03-abandoned-building.webp"
+          ],
+          "captions": [
+            "Site — the abandoned tower beside the stadiums and playground, between Linhexi Road and Bauhinia Road.",
+            "Abandoned building — the growth of the migrant population and the proportion of migrants in Guangzhou."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州作為快速發展的城市，城鄉之間逐漸出現落差，不僅反映在經濟與社會發展上，也反映在環境資源的分配上；同時，污染與生態退化亦亟待解決。廣州的流動人口已超過一千萬，住房短缺日益突出，因此本案改造一棟位於繁忙地段的廢棄建築。",
+              "captions": [
+                "基地——廢棄高樓位於體育場與運動場旁，介於林和西路與紫荊路之間。",
+                "廢棄建築——廣州流動人口的成長，以及流動人口所佔的比例。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Greening has to reach every part of urban construction, through roof gardens, vertical greening and green buildings, so that the city can develop more sustainably and become more livable. Rainwater is collected, stored, purified for domestic use and turned into artificial rainfall for the lower buildings, and the cooling structure condenses water vapour back into pure water.",
+          "images": [
+            "assets/board/celebration-of-vertical/04-rainwater-cycle.webp",
+            "assets/board/celebration-of-vertical/05-space-function.webp"
+          ],
+          "captions": [
+            "Rainwater cycle — collection, storage, purification and reuse for watering, domestic water and heating.",
+            "Architectural space and function — half of the living area becomes greenhouses: water collection and storage, residences, public spaces, shopping and water treatment."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "綠化必須融入城市建設的各個面向——屋頂花園、垂直綠化與綠建築——讓城市更永續、更宜居。雨水經收集、儲存、淨化後供生活使用，也化為人工降雨為下方建築降溫；冷卻結構則把水氣凝結回純水。",
+              "captions": [
+                "雨水循環——收集、儲存、淨化，再用於澆灌、生活用水與供暖。",
+                "建築空間與機能——一半的居住面積轉為溫室：集水與儲水、住宅、公共空間、商場與水處理。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Greenhouses grow vegetables, fruit, herbs and flowers in a planting system watered by the collection system, with automatic control of temperature, humidity, light and irrigation. Apartments of irregular shapes and rooms of different sizes meet the residents' needs, high-altitude greenhouses improve air circulation, and an external support frame keeps the tower from tipping over.",
+          "images": [
+            "assets/board/celebration-of-vertical/06-planting-air.webp",
+            "assets/board/celebration-of-vertical/07-partition.webp"
+          ],
+          "captions": [
+            "Planting system and air exchange — greenhouses separated from the living area by irregular rooms, shown in section.",
+            "Partition function — commercial and public ground floor, randomly distributed planting and residential areas, water storage and a viewing platform on top."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "溫室以集水系統澆灌的種植系統栽種蔬菜、水果、香草與花卉，並自動調節溫度、濕度、光照與灌溉。形狀不規則的公寓與大小不一的房間滿足住戶需求；高空溫室改善空氣流通，外部支撐框架則防止高樓因頂部過重而傾倒。",
+              "captions": [
+                "種植系統與空氣交換——以剖面呈現由不規則房間與居住區分隔的溫室。",
+                "分區機能——一樓為商業與公共空間，中段隨機分布種植區與住宅，頂部設儲水結構與觀景平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The roof slopes towards the middle and collects rainwater like a funnel into a storage tank, and a glass outer layer on its own frame forms a roof greenhouse with a landscape plaza. Residences and greenhouses rise through the tower inside the outer frame, with commercial and public spaces at its base.",
+          "images": [
+            "assets/board/celebration-of-vertical/08-roof-greenhouse.webp",
+            "assets/board/celebration-of-vertical/09-renders.webp",
+            "assets/board/celebration-of-vertical/10-overview.webp"
+          ],
+          "captions": [
+            "Roof greenhouse — the glass outer layer, its frame, the rainwater collection system and the functional distribution.",
+            "Residential areas and greenhouses, and commercial and public spaces.",
+            "Overview of the renovated tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "屋頂向中央傾斜，像漏斗般把雨水收集進儲水槽；由獨立框架支撐的玻璃外層，形成設有景觀廣場的屋頂溫室。住宅與溫室在外框之內貫穿整棟高樓，底部則是商業與公共空間。",
+              "captions": [
+                "屋頂溫室——玻璃外層與其框架、雨水收集系統與機能分布。",
+                "住宅區與溫室，以及商業與公共空間。",
+                "改造後高樓的全景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find the building nobody uses: an abandoned tower is a site, not a problem.\n2. Follow the water first: collection, storage and reuse set the section.\n3. Give the plants half: greenhouses and homes share every floor.\n4. Let the frame carry the idea: an outer structure holds the vertical garden.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出沒人使用的建築：一棟廢棄高樓是基地，而不是問題。\n2. 先追隨水：收集、儲存與再利用決定了剖面。\n3. 把一半留給植物：溫室與住宅共享每一層。\n4. 讓框架承載概念：外部結構撐起垂直花園。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Bridges of Humanity — Building Beyond Boundaries",
+      "slug": "bridges-of-humanity",
+      "description": "A spiral, multi-layer bridge and square at Luohu that eases cross-border traffic between Shenzhen and Hong Kong and promotes exchange.\n\nLuohu, Shenzhen–Hong Kong boundary | Memorial plaza | Aug 2024 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "人性之橋——超越邊界的建造",
+          "description": "在羅湖設計一座螺旋狀的多層橋與廣場，紓解深港之間的跨境交通，並促進交流。\n\n深港邊界羅湖｜紀念廣場｜2024 年 8 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/bridges-of-humanity/01-cover-render.webp",
+        "assets/board/bridges-of-humanity/02-road-analysis.webp",
+        "assets/board/bridges-of-humanity/03-history-map.webp",
+        "assets/board/bridges-of-humanity/04-generation.webp",
+        "assets/board/bridges-of-humanity/05-path-renders.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/bridges-of-humanity/01-cover-render.webp"
+          ],
+          "captions": [
+            "Aerial render: a spiral, multi-layer bridge joining the two sides at Luohu."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鳥瞰渲染：一座螺旋狀的多層橋，連接羅湖的兩岸。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Because of the history of Hong Kong's division, checkpoints have caused a serious separation between the development of northern Hong Kong and Shenzhen, and Luohu, the largest checkpoint, faces problems of passenger flow and traffic. Luohu Port also suffers from ageing infrastructure, poor environmental management, a single function and insufficient cross-border collaboration, which lead to low clearance efficiency and a poor experience for residents and visitors.",
+          "images": [
+            "assets/board/bridges-of-humanity/02-road-analysis.webp",
+            "assets/board/bridges-of-humanity/03-history-map.webp"
+          ],
+          "captions": [
+            "Road analysis, land use (commercial, residential, green space) and customs at Luohu.",
+            "History of Hong Kong — the boundary between Shenzhen and Hong Kong."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "由於香港分治的歷史，口岸造成香港北部與深圳的發展嚴重割裂；最大的口岸羅湖，面臨客流與交通的問題。羅湖口岸還有基礎設施老化、環境管理不佳、機能單一與跨境協作不足等問題，導致通關效率低落，居民與旅客的體驗也不佳。",
+              "captions": [
+                "羅湖的道路分析、土地使用（商業、住宅、綠地）與海關。",
+                "香港的歷史——深圳與香港之間的邊界。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The policy of “one country, two systems” was set in 1984 to remain unchanged for 50 years, which raises the question of what may change by 2034. The project is a square with a bridge that improves the traffic problems and promotes cross-border exchange.",
+          "images": [
+            "assets/board/bridges-of-humanity/04-generation.webp"
+          ],
+          "captions": [
+            "Generation — connect, circle, centre and interlace the routes between the two sides."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "「一國兩制」於 1984 年確立，承諾五十年不變，令人思考到了 2034 年是否會有所改變。本案是一座廣場與橋，用以改善交通問題，並促進跨境交流。",
+              "captions": [
+                "生成——連接、環繞、聚中，再讓兩岸之間的路徑交織。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The building generation process gradually forms a spiral, multi-layer path structure. The design focuses on the openness and permeability of the space, reflecting the connection between the two sides.",
+          "images": [
+            "assets/board/bridges-of-humanity/05-path-renders.webp"
+          ],
+          "captions": [
+            "On the paths — the layered decks open to the river and the city."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "建築的生成過程逐步形成一個螺旋狀的多層路徑結構。設計著重空間的開放性與穿透性，以呼應兩岸之間的連結。",
+              "captions": [
+                "在路徑上——層層平台向河流與城市敞開。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The spiral bridge organises traffic and people flow efficiently across the boundary. It shows the unity of function and beauty.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "螺旋橋高效地組織跨越邊界的交通與人流。它展現了機能與美的統一。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a border: history explains why the two sides grew apart.\n2. Ask a question with a date: what changes by 2034?\n3. Draw the movement before the form: connect, circle, centre, interlace.\n4. Make the bridge a place: openness and permeability, not just passage.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一條邊界出發：歷史說明了兩岸為何分道揚鑣。\n2. 提出一個有日期的問題：到 2034 年會改變什麼？\n3. 先畫移動，再畫形體：連接、環繞、聚中、交織。\n4. 讓橋成為一個場所：開放與穿透，而不只是通道。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Re-Imagine Metabolism — Rebuild the Nakagin Capsule Tower",
+      "slug": "re-imagine-metabolism",
+      "description": "On the original site of the Nakagin Capsule Tower, capsules become movable rooms that circle each floor and ride the elevator shaft.\n\nOriginal site of the Nakagin Capsule Tower, Tokyo, Japan | Residence | Dec 2024 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重新想像代謝派——重建中銀膠囊塔",
+          "description": "在中銀膠囊塔的原址，膠囊成為可移動的房間：在每層樓環行，並沿電梯井上下。\n\n日本東京中銀膠囊塔原址｜住宅｜2024 年 12 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/re-imagine-metabolism/01-cover-model.webp",
+        "assets/board/re-imagine-metabolism/02-figure-ground.webp",
+        "assets/board/re-imagine-metabolism/03-outcome.webp",
+        "assets/board/re-imagine-metabolism/04-plans.webp",
+        "assets/board/re-imagine-metabolism/05-section-circulation.webp",
+        "assets/board/re-imagine-metabolism/06-exploded-structure.webp",
+        "assets/board/re-imagine-metabolism/07-unit.webp",
+        "assets/board/re-imagine-metabolism/08-elevation.webp",
+        "assets/board/re-imagine-metabolism/09-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/re-imagine-metabolism/01-cover-model.webp"
+          ],
+          "captions": [
+            "Model of the rebuilt tower: capsules slide into a ring-shaped steel frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "重建高塔的模型：膠囊單元滑入環形的鋼構框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project aims to revitalise the iconic mid-20th-century Japanese Nakagin Capsule Tower through modern technology and innovative design, reflecting on the architectural concept of Metabolism. As a standout example of the Metabolism movement, a post-war Japanese movement that fused ideas of megastructures with organic growth, the tower embodies modularity and flexibility.",
+          "images": [
+            "assets/board/re-imagine-metabolism/02-figure-ground.webp",
+            "assets/board/re-imagine-metabolism/03-outcome.webp"
+          ],
+          "captions": [
+            "Figure-ground — the original site of the tower in its city block.",
+            "Outcome — the new tower in its block."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案希望以現代科技與創新設計，讓 20 世紀中期的日本代表性建築中銀膠囊塔重獲新生，並反思代謝派的建築概念。作為代謝派——一個融合巨型結構與有機成長概念的日本戰後建築運動——的代表作，這座塔體現了模組化與彈性。",
+              "captions": [
+                "圖底關係——高塔在街廓中的原址。",
+                "成果——新高塔與其所在街廓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project sits on the original site of the Nakagin Capsule Tower and uses existing technology to move and update the capsules. Each capsule unit is an independent, movable room.",
+          "images": [
+            "assets/board/re-imagine-metabolism/04-plans.webp",
+            "assets/board/re-imagine-metabolism/05-section-circulation.webp"
+          ],
+          "captions": [
+            "Plans — roof garden, residential layer and basement.",
+            "Section and circulation — a capsule moves in a circle on its layer and up or down the elevator shaft."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案位於中銀膠囊塔的原址，運用既有技術讓膠囊得以移動與更新。每個膠囊單元都是一間獨立、可移動的房間。",
+              "captions": [
+                "平面——屋頂花園、住宅層與地下室。",
+                "剖面與動線——膠囊在所在樓層環形移動，並沿電梯井上下移動。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A capsule can move horizontally in a circular motion and vertically after reaching the elevator shaft, so it can reach the rooftop garden or the basement. The tower is built up from a vertical steel frame, outer and inner residential units with their support structures, a central circulation tube, the elevator shaft and a roof garden.",
+          "images": [
+            "assets/board/re-imagine-metabolism/06-exploded-structure.webp",
+            "assets/board/re-imagine-metabolism/07-unit.webp"
+          ],
+          "captions": [
+            "Exploded structure — roof garden, elevator shaft, central circulation tube, inner and outer residential units and the vertical steel frame.",
+            "The capsule unit — axonometric, plan and two cut perspectives."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "膠囊可以環形水平移動，抵達電梯井後再垂直移動，因此能到達屋頂花園或地下室。高塔由垂直鋼構框架、內外兩圈住宅單元與其支撐結構、中央動線筒、電梯井與屋頂花園組成。",
+              "captions": [
+                "爆炸結構——屋頂花園、電梯井、中央動線筒、內外住宅單元與垂直鋼構框架。",
+                "膠囊單元——軸測、平面與兩個剖切透視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The elevation shows the capsules held in the curved steel frame above a solid base. The model was built in metal so that the capsules can be taken out and put back, like the tower's own renewal.",
+          "images": [
+            "assets/board/re-imagine-metabolism/08-elevation.webp",
+            "assets/board/re-imagine-metabolism/09-model-details.webp"
+          ],
+          "captions": [
+            "Elevation of the rebuilt tower.",
+            "Model details — capsules in the ring frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "立面呈現膠囊被弧形鋼構框架托住，立於實體基座之上。模型以金屬製作，讓膠囊可以取出再放回，就像高塔本身的更新。",
+              "captions": [
+                "重建高塔的立面。",
+                "模型細部——環形框架中的膠囊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the idea behind the icon: Metabolism promised change, so design for it.\n2. Keep the site, change the system: the same ground, new ways to move.\n3. Design the unit and its route together: a room that travels.\n4. Build a model that works: capsules you can actually take out.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 讀懂經典背後的理念：代謝派承諾改變，那就為改變而設計。\n2. 保留基地，改變系統：同一塊地，新的移動方式。\n3. 同時設計單元與其路徑：一個會旅行的房間。\n4. 做一個真的能動的模型：膠囊真的可以取出。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
