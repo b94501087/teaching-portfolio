@@ -1,0 +1,55 @@
+{
+  "project": "Under the Midnight Sun",
+  "dest": "assets/board/under-the-midnight-sun",
+  "note": "Portfolio pages 9–11 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title column (book covers, film stills, actor photos) and the plot diagram with film stills on page 9; the site plan, site photo, How to experience this place and Design element (film stills) on page 10; the three renders with collage photos of people on page 11. Typos fixed: Highsvhool, Durty, Spstial, surey, Mather. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-hand-made-model.webp",
+      "sha256": "66a1870a34564ff92a95dd7ad3ae4b8564125e9858f84cd1bc2c486c8d59aebb",
+      "bytes": 116204,
+      "from": "page 10 — hand-made model, main photo (cover), x 29.3–49 %, y 21.5–100 %"
+    },
+    {
+      "name": "02-site.webp",
+      "sha256": "435c94f4adb1c808f92263efd6dc2918bacb9c8b07ae5394cbe610720fdd472f",
+      "bytes": 90036,
+      "from": "page 10 — site map and Taipei Fine Arts Museum text, x 0–20 %, y 0–45.8 %; the site plan and site photo below are excluded"
+    },
+    {
+      "name": "03-book-to-real-world.webp",
+      "sha256": "f9a48117925f7a132209a0a845489c1526b01d0b65427ac92ea533056bab2b45",
+      "bytes": 45602,
+      "from": "page 10 — Put a book in the real world, x 0–20.5 %, y 69–100 %"
+    },
+    {
+      "name": "04-model-studies.webp",
+      "sha256": "b5f1305777791bcad0224032f328075b0684a7205f21ebf6452005327efb8ce3",
+      "bytes": 51608,
+      "from": "page 10 — four hand-made model studies, x 20.5–29.3 %, y 21.5–100 %"
+    },
+    {
+      "name": "05-bulk-formation.webp",
+      "sha256": "2c1a929c6de0fdee98ba6db0060a86ed897c77facc5f13b2175e8faf3393cbcb",
+      "bytes": 121116,
+      "from": "page 10 — Bulk formation, x 50–78.5 %, y 0–95 %; How to experience this place and Design element (film stills) are excluded"
+    },
+    {
+      "name": "06-chapter-scenes.webp",
+      "sha256": "5e5d8a9c86b16ce896d39c9a82daa3fd67e091ee32e2c8b83e257ec925b1c6b3",
+      "bytes": 56392,
+      "from": "page 9 — different scenes where the characters are, per chapter, x 20–100 %, y 76.5–98.5 %; the title column and the plot diagram (book covers, film stills, actor photos) are excluded"
+    },
+    {
+      "name": "07-streamline.webp",
+      "sha256": "fa5f780f57d2f796b48bef4d2f014a399ea565a19e15d94a606435a82c5149ac",
+      "bytes": 231602,
+      "from": "page 11 — Spatial streamline and composition, x 0–31 %; the three renders with collage photos of people are excluded"
+    },
+    {
+      "name": "08-section.webp",
+      "sha256": "033db96b4d06591e95484a735ac597cd1c9427a4dae845d94ec1f076e933d7d1",
+      "bytes": 267908,
+      "from": "page 11 — Section display with construction details, x 50–100 %"
+    }
+  ]
+}
