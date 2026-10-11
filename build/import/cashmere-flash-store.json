@@ -1,0 +1,43 @@
+{
+  "project": "Cashmere Flash Store",
+  "dest": "assets/board/cashmere-flash-store",
+  "note": "Portfolio 8c507211 pages 15–19 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: page 14 (fashion photos of people and a brand concept collage), the material photos with people on page 15, the photos of the maker on page 16, and the renderings on pages 17–18 that use photo cut-out figures. The brand name is left out. No retouching.",
+  "files": [
+    {
+      "name": "01-center-flower-device.webp",
+      "sha256": "d9ee6d84d715485cd110a156608f90d2d66eaa8c320409c68effa26e58d3a04f",
+      "bytes": 978408,
+      "from": "8c507211 page 19 — drawing of the centre flower device with its touch wall, gallery, dressing room and resting places, full page"
+    },
+    {
+      "name": "02-elements-of-clothing.webp",
+      "sha256": "0765b7ea480c920ea82b330db03e26bd0d875b1fa8cfa2e2d4dd7148a5f1c63d",
+      "bytes": 60328,
+      "from": "page 15 — elements of clothing taken from the sweaters, x 62–100 %, y 3–40 %"
+    },
+    {
+      "name": "03-extraction-of-shape.webp",
+      "sha256": "33c7dd0989f2223ba0cac470a4d5be33226bb702a095583aadbd8264db633828",
+      "bytes": 62138,
+      "from": "page 15 — extraction of shape, y 79–100 %"
+    },
+    {
+      "name": "04-pattern-to-floor-plan.webp",
+      "sha256": "dd725a8c364f532fea0141055132dada2454c0a0a44508fc06810a7a3d3795f7",
+      "bytes": 27700,
+      "from": "page 15 — collaged pattern that becomes the floor plan, x 72–100 %, y 68–100 %"
+    },
+    {
+      "name": "05-manufacturing-steps.webp",
+      "sha256": "d8add748306b022f14631371134d06646614f80a1cb2d8a27cdc6632ba4cecc0",
+      "bytes": 285996,
+      "from": "page 16 — manufacturing steps of the wool model, x 0–79 %; the photos of the maker on the right are excluded"
+    },
+    {
+      "name": "06-transition-nodes.webp",
+      "sha256": "7f3cbdac0a5b54e346c1666af533c44418fa1956e1a7951e97091089b07dd870",
+      "bytes": 81026,
+      "from": "page 18 — sketches of the two transition nodes, x 0–42 %, y 52–97 %"
+    }
+  ]
+}
