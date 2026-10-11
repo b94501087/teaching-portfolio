@@ -1,0 +1,61 @@
+{
+  "project": "Seawater Thermal Pollution",
+  "dest": "assets/board/seawater-thermal-pollution",
+  "note": "Portfolio pages 2–4 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the cover (student's name); the coral photo on page 2; the By Rock panel (a third-party thermal survey), the lower-left photo panels and Period 3 (collage figures) on page 3; the rendering (collage figures) on page 4. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-master-plan.webp",
+      "sha256": "e685eae4f172ae3a3134f3f4009b967fb5c2ea58cb82ab71eb8138dee25083d0",
+      "bytes": 285864,
+      "from": "page 4 — Master Plan (cover), x 0–50 %"
+    },
+    {
+      "name": "02-location-problems.webp",
+      "sha256": "ef5696e0122cf816599bccb2678a9ec92c7186ef048aec1d86d6e1e4a36b9b4f",
+      "bytes": 227180,
+      "from": "page 2 — Location and Problems, x 50–100 %, y 0–72 %; the coral photo below is excluded"
+    },
+    {
+      "name": "03-taking-and-mixing.webp",
+      "sha256": "9c6b71ffde85e0a77728ec4c63ad3255e523d77c72867dc489881fd4c2cd1ea1",
+      "bytes": 63426,
+      "from": "page 3 — So, they achieve this form: sketch section and plan, x 0–33.5 %, y 40.5–62 %; the By Rock panel (third-party survey) and the lower-left photo panels are excluded"
+    },
+    {
+      "name": "04-overall-concept.webp",
+      "sha256": "d7796f33f4f78d4f9e788d7e0770d8fd72b4ab5eef6d815229b4cb40d4ff4fed",
+      "bytes": 120886,
+      "from": "page 3 — The Overall Concept and Benefit the Local, x 33.5–50 %"
+    },
+    {
+      "name": "05-specific-form.webp",
+      "sha256": "103a613d309595530d65c4bbe038c7c8c3ab327412f3a3f0c19131933de9807c",
+      "bytes": 104154,
+      "from": "page 3 — Development of Specific Form, x 50–66.5 %"
+    },
+    {
+      "name": "06-lagoon-periods.webp",
+      "sha256": "bceb8b7efb04be4567c9cd15f76b76f2ba5511301ddd3d24ef0daf07d9b3af33",
+      "bytes": 269768,
+      "from": "page 3 — Periods 1 and 2: the lagoon dam and the mix area, x 66.5–100 %, y 0–79 %; Period 3 (collage figures) is excluded"
+    },
+    {
+      "name": "07-axonometric.webp",
+      "sha256": "ea2921d80f97cb896b643e0503302d14f18a563e74645d7729fc41be1125a1ac",
+      "bytes": 66012,
+      "from": "page 4 — Axonometric Drawing, x 50–73 %, y 0–43 %"
+    },
+    {
+      "name": "08-section-view.webp",
+      "sha256": "1153266c9a7e75347a408a1ee9b15e78773e9f1754989f887bca1e93140036bf",
+      "bytes": 79104,
+      "from": "page 4 — Section View, x 73–100 %, y 0–43 %"
+    },
+    {
+      "name": "09-structure-jetty.webp",
+      "sha256": "1a4b7dd72124832e8577f15609572df9ebf17564a029e4aef7764b6907156457",
+      "bytes": 97134,
+      "from": "page 4 — Multi-functional Structure Jetty, x 86.5–100 %, y 45–100 %; the rendering (collage figures) is excluded"
+    }
+  ]
+}
