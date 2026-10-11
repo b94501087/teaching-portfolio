@@ -1,0 +1,67 @@
+{
+  "project": "Escape from the City",
+  "dest": "assets/board/escape-from-the-city",
+  "note": "Portfolio 9bb9870d pages 9–15 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage with photos of people and the tutor and contact details on page 9, the historic skyline and street photos on page 10, the comic collage, book cover, portrait photo and case-study photos on page 11, and the renders with photo cut-out figures on pages 13 and 15. No retouching.",
+  "files": [
+    {
+      "name": "01-terminal-elevation.webp",
+      "sha256": "fe31aa771f81640141fdbad609e57dcfef46849e4a8dc3cc435dddf99db08ada",
+      "bytes": 44996,
+      "from": "9bb9870d page 9 — elevation render of the terminal on the water, x 0–60 %, y 2–61 %; the title collage with photos of people and the title text with tutor and contact details are excluded"
+    },
+    {
+      "name": "02-lower-manhattan-map.webp",
+      "sha256": "24dca546d6dae7407db243c8a7696cbb79795d802e212284ad2b7ed67716b772",
+      "bytes": 320528,
+      "from": "page 10 — figure-ground map of Lower Manhattan with the water taxi routes and site, x 55–99 %, y 14–98 %; the historic skyline photos and street photo strip are excluded"
+    },
+    {
+      "name": "03-greenery-and-traffic.webp",
+      "sha256": "f881e4f96989e07af72cb3f2b332e5411fdb5f5f16feeb19b7d93103ebd1c6b8",
+      "bytes": 101346,
+      "from": "page 10 — urban afforestation, city traffic and city view analysis, x 3–36 %, y 44–97 %"
+    },
+    {
+      "name": "04-form-generation.webp",
+      "sha256": "807d7cd5caa631e67e5c3843ffff893a97ac6928b03fed59978cf2c17d3ae9f7",
+      "bytes": 111006,
+      "from": "page 12 — abstract graphs, first-stage blocks and sketch models, x 2–39 %"
+    },
+    {
+      "name": "05-exploded-floors.webp",
+      "sha256": "1a00cde2afad7c0bb91d79ce13c9ccf762117e9b641ba8ddcc02008595c35ee9",
+      "bytes": 229464,
+      "from": "page 12 — building form generating map: exploded roof, shell and floors, x 40–100 %"
+    },
+    {
+      "name": "06-aerial-view.webp",
+      "sha256": "f0fa70c6e3b348c694d037e4fbd1d166411a08f826ae816b5c7a7abfea5ad47d",
+      "bytes": 184510,
+      "from": "page 13 — aerial view with the central park, central floor, public space and pier, x 27–98 %, y 3–60 %; the two interior renders with photo cut-out figures are excluded"
+    },
+    {
+      "name": "07-terminal-section.webp",
+      "sha256": "51f3a6c01242f03ac0019bccc096b4c388f794e21655e87c5046c4f8b065ee46",
+      "bytes": 81290,
+      "from": "page 13 — section A-A, y 61–100 %"
+    },
+    {
+      "name": "08-handmade-model.webp",
+      "sha256": "0f1f65b13e11ae1d040b9dd3aca3f19c762d4f2c224b76b4217358a64f93047f",
+      "bytes": 126560,
+      "from": "page 14 — handmade sectional model, x 3–66 %, y 10–93 %"
+    },
+    {
+      "name": "09-model-interiors.webp",
+      "sha256": "3dc117d2800cbbaeb3e06c7d227b52c03f1a47aabb91437fb67f3be510cc8351",
+      "bytes": 96536,
+      "from": "page 14 — model interiors: private cottage, lounge, first-floor entrance and dock waiting space, x 70–98 %"
+    },
+    {
+      "name": "10-pier-top-view.webp",
+      "sha256": "2e331efd7d345e8eca801fc319ff5e24b87a191108d3b2b66ac286802484a05d",
+      "bytes": 41234,
+      "from": "page 15 — top view of the pier with docking boats, x 36–60 %, y 30–98 %; the street render with photo cut-out figures and the two other views are excluded"
+    }
+  ]
+}
