@@ -1,0 +1,61 @@
+{
+  "project": "Xinzao Ferry Terminal Park",
+  "dest": "assets/board/xinzao-ferry-terminal-park",
+  "note": "Portfolio pages 15–20 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage and history photos on page 15, the site and visitor photos on page 16 and the model photo with a hand on page 19. No retouching.",
+  "files": [
+    {
+      "name": "01-cover-aerial.webp",
+      "sha256": "fc9947d180c8f10ce69859bf1287b69a2d33a1897139585fcdb053710745c44b",
+      "bytes": 397472,
+      "from": "page 20 — aerial render of the park (cover), full page"
+    },
+    {
+      "name": "02-greenway-planning.webp",
+      "sha256": "4aa413d81441200430024463de6855ee6523d133fffbafeb5fa22a21591478f4",
+      "bytes": 302702,
+      "from": "page 15 — government planning of the greenway, x 37–100 %, y 50–100 %; the title collage and history photos are excluded"
+    },
+    {
+      "name": "03-design-strategy-map.webp",
+      "sha256": "57fc24f72340e4e2c458855e6a46b4e9e8670bb8f271d2e436cb0fcf96c9bf68",
+      "bytes": 250670,
+      "from": "page 16 — design strategy map, x 0–56 %, y 0–50 %; the site photos and visitor photos are excluded"
+    },
+    {
+      "name": "04-resonance-concept.webp",
+      "sha256": "0247cf84c0fe17130aeff10974dfacc8f3b81c21e37fb91fbcd6e4ce6bcfd27d",
+      "bytes": 87036,
+      "from": "page 17 — design concept: resonance, x 0–42 %, y 0–50 %"
+    },
+    {
+      "name": "05-design-procedure.webp",
+      "sha256": "8cf5e0cb72f4025c4afe55a8898bd3efb5d99fd004533d0238b7db96c2c876b7",
+      "bytes": 117804,
+      "from": "page 17 — design procedure in four steps, x 0–42 %, y 53–100 %"
+    },
+    {
+      "name": "06-strategy-diagrams.webp",
+      "sha256": "67207b447e506bf0396a012db955312d7afe1c69ed5b254fa3b9fc0238fdcede",
+      "bytes": 216432,
+      "from": "page 17 — design strategy diagrams, x 42–100 %"
+    },
+    {
+      "name": "07-floor-plan-sections.webp",
+      "sha256": "4bca90ba5e3bcf5ff4ac8bf5470c120fcf588ad23684f1ad8598fb4270fd3fce",
+      "bytes": 458134,
+      "from": "page 18 — floor plan, sustainable design and cross-sections, full page"
+    },
+    {
+      "name": "08-architectural-plan.webp",
+      "sha256": "8152c631d85bea941dd76e84ccbcadc1d03ab8fb618bdeedeaf53593ac97c465",
+      "bytes": 162866,
+      "from": "page 19 — architectural floor plan and elevation, x 0–42 %, y 0–74 %; the model photo with a hand is excluded"
+    },
+    {
+      "name": "09-model.webp",
+      "sha256": "ad32b6005ad001601081f124e5d7b4e76bd032b737331949d2f030c3f0c06b30",
+      "bytes": 415168,
+      "from": "page 19 — physical model views, x 42–100 %"
+    }
+  ]
+}
