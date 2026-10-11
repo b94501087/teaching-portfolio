@@ -1,0 +1,181 @@
+{
+  "project": "Teaching studios",
+  "dest": "assets/teaching",
+  "note": "Eight studio posters and lecture slides/diagrams for /teaching/, WebP q88 (PIL), max 2000 px wide. Posters are cropped above the organiser by-line; slides with an organiser logo corner had that corner blanked and the faint light-grey organiser watermark mapped to white (near-neutral pixels lighter than 185 only). No student work, photos of people or institution names are included.",
+  "files": [
+    {
+      "name": "a-01-poster.webp",
+      "sha256": "4845f4c25928be623a9d4ff4299ebd61c85764a1183e59bff6215460ac95701d",
+      "bytes": 443410,
+      "from": "studio poster A1.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "a-02-why-media.webp",
+      "sha256": "04d79dc33293820d1515313036a8d91180164e6c8e44b32000095660f37e7f50",
+      "bytes": 46668,
+      "from": "lecture slide A1-4, whole slide"
+    },
+    {
+      "name": "a-03-define-project.webp",
+      "sha256": "d6552730f72f7488979d951ea28f0b59af8e5f58ed4aa7dd2e1d93c52672034c",
+      "bytes": 88278,
+      "from": "lecture slide A1-57, whole slide"
+    },
+    {
+      "name": "a-04-design-process.webp",
+      "sha256": "1bf10c5a960814e61ff5c0810cb8c43c149f06490bf087d9094d336d329575e1",
+      "bytes": 49544,
+      "from": "lecture slide A1-75, whole slide"
+    },
+    {
+      "name": "b-01-poster.webp",
+      "sha256": "f22ab64de74274968eb9a4ef076355873d11464957ae96aec25bb2d689f5514b",
+      "bytes": 151058,
+      "from": "studio poster B1.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "b-02-edge-boundary.webp",
+      "sha256": "65efe939e012b50c38016d0dd29e0d98a857a6f14509df9115da7f29901f75dc",
+      "bytes": 144714,
+      "from": "lecture slide B1-5, whole slide"
+    },
+    {
+      "name": "b-03-territory-field.webp",
+      "sha256": "11a20c9d390efa448d5b6b05dab98b1a12233c3b7559c6700b57a08ea075a5b0",
+      "bytes": 143008,
+      "from": "lecture slide B1-6, whole slide"
+    },
+    {
+      "name": "c-01-poster.webp",
+      "sha256": "c217dada7b7575f902285b55574aa83431713715b1146c4ed6bcbea2f604d366",
+      "bytes": 305678,
+      "from": "studio poster C1.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "c-02-power-form.webp",
+      "sha256": "1d6896a1eee9fe17951a3faa926e90631672159f95d074ab2f75a6351695f475",
+      "bytes": 47866,
+      "from": "lecture slide C1-9, whole slide"
+    },
+    {
+      "name": "c-03-potestas-potentia.webp",
+      "sha256": "7f22c8a0bc26f611f453bac4fc22a61cd8e57e7410a0e54233086730eb5e3088",
+      "bytes": 44108,
+      "from": "lecture slide C1-11, whole slide"
+    },
+    {
+      "name": "c-04-strategy-tactic.webp",
+      "sha256": "a3851eae20726d5a5b77887d09cd20660d8a8413ab439b0fddd1d970f19fb614",
+      "bytes": 55710,
+      "from": "lecture slide C1-13, whole slide"
+    },
+    {
+      "name": "d-01-poster.webp",
+      "sha256": "13f94a5f934cc1790415bd685067c343012bc8a03fc69661efa139f4c81dcaa0",
+      "bytes": 106076,
+      "from": "studio poster D1.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "d-02-process-stages.webp",
+      "sha256": "05f7dd3f82710af1c445e37e5f6fac94a5acca34258afb9d53c36c52f82d613a",
+      "bytes": 67576,
+      "from": "lecture slide D1-10, light organiser watermark removed"
+    },
+    {
+      "name": "d-03-design-build.webp",
+      "sha256": "d166820c79aff419e204f4e67345ef83e945acc9e32050dfc5510b4e96d238cc",
+      "bytes": 97698,
+      "from": "lecture slide D1-8, light organiser watermark removed"
+    },
+    {
+      "name": "e-01-poster.webp",
+      "sha256": "2357ef8273fc3fbb948239655eaee1f2c2b6cad40c22594a0ecf60d5d6548afa",
+      "bytes": 99738,
+      "from": "studio poster E1.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "e-02-flaneur-figures.webp",
+      "sha256": "558176fe9c83fa2d4016314ba159a0aeb895e944ab2549192719f78e529a3503",
+      "bytes": 50884,
+      "from": "lecture slide E2-17, organiser logo corner and light watermark removed"
+    },
+    {
+      "name": "e-03-production-of-space.webp",
+      "sha256": "6d697104fa6d7bb453b8cdc386835833ddf9ad1e1630a5b4bd251c53229f8eb4",
+      "bytes": 36406,
+      "from": "lecture slide E2-25, organiser logo corner and light watermark removed"
+    },
+    {
+      "name": "e-04-spatial-triad.webp",
+      "sha256": "c52f6c795445993a73ef1c6bf9d54018643f20407a9c7618b686f21c2eeae4ec",
+      "bytes": 82346,
+      "from": "lecture slide E2-71, organiser logo corner and light watermark removed"
+    },
+    {
+      "name": "e-05-triad-portfolio.webp",
+      "sha256": "2829f55616f98af7802f58407ea0a9f77d647410f2c1b5f61765364baeb0421b",
+      "bytes": 114540,
+      "from": "lecture slide E2-73, organiser logo corner and light watermark removed"
+    },
+    {
+      "name": "f-01-poster.webp",
+      "sha256": "5d32b9347c908741130af74749830a7d5a8fa2f5442808414189ec214fc56336",
+      "bytes": 680584,
+      "from": "studio poster F2.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "f-02-space-structure.webp",
+      "sha256": "f60f14389cf5db5979a874f8d2d89d696401a9ceee97db7eb4ed12ab1b915ed8",
+      "bytes": 44882,
+      "from": "lecture slide F1-3, light organiser watermark removed"
+    },
+    {
+      "name": "g-01-poster.webp",
+      "sha256": "55b446dbea78f9c32eb9b625f4af5a38910c9ccc99734ad60c705ecd7816f31a",
+      "bytes": 276210,
+      "from": "studio poster G2.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "g-02-raumplan-plan-libre.webp",
+      "sha256": "d082a6693020121f4adb6335cdcfc299e4e6c1177bee99f5ae1010319315742a",
+      "bytes": 59382,
+      "from": "lecture slide G2-2, light organiser watermark removed, right half only (portrait photos excluded)"
+    },
+    {
+      "name": "g-03-le-corbusier-ops.webp",
+      "sha256": "01e698a938ec5b03e0fcfd24766d12c6561fe0bfeffcfcbbc1bd238858d66758",
+      "bytes": 191872,
+      "from": "lecture slide G2-3, light organiser watermark removed"
+    },
+    {
+      "name": "g-04-loos-ops.webp",
+      "sha256": "4f6a5e44644e026d2f96a3c35e1cc65282cf9075a222b9d01bfa940326d4b189",
+      "bytes": 185898,
+      "from": "lecture slide G2-5, light organiser watermark removed"
+    },
+    {
+      "name": "h-01-poster.webp",
+      "sha256": "ebb8d68ab56abfd134930833957fa57f91aea3c3d55de2fc28d56ed9097921ff",
+      "bytes": 418044,
+      "from": "studio poster H6.jpg, top part only: the organiser by-line (and the series wordmark on A–D) cropped off"
+    },
+    {
+      "name": "h-02-process-chevrons.webp",
+      "sha256": "043ac5aebd1c61dc248f1795526492cbf115bec4f0e986aaea5ead228e302f9d",
+      "bytes": 95502,
+      "from": "process diagram image (stage 1 highlighted), whole image"
+    },
+    {
+      "name": "h-03-vocabulary.webp",
+      "sha256": "9a83b31a70d88a891ba8b25f15ca28be5453ad02e2dd0e0210d7d43901f9af07",
+      "bytes": 35196,
+      "from": "lecture slide H1-3, organiser logo corner and light watermark removed"
+    },
+    {
+      "name": "h-04-describe-design.webp",
+      "sha256": "38fa7a7191686779a22b32d3820241f44f11d8ace75da3d70025c87deba0ba9c",
+      "bytes": 34054,
+      "from": "lecture slide H1-6, organiser logo corner and light watermark removed"
+    }
+  ]
+}
