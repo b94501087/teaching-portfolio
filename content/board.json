@@ -10553,6 +10553,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Yau Ma Tei Theatre Revitalisation — A Shared Home Beside the Stage",
+      "slug": "yau-ma-tei-theatre-revitalisation",
+      "description": "A homeless centre and an activity centre stacked beside a historic theatre in Hong Kong.\n\nYau Tsim Mong, Hong Kong | Theatre and homeless centre | Sep 2021–Jan 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "油麻地戲院活化——舞台旁的共享之家",
+          "description": "在香港歷史戲院旁堆疊而成的露宿者中心與活動中心。\n\n香港油尖旺｜戲院與露宿者中心｜2021 年 9 月–2022 年 1 月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/yau-ma-tei-theatre-revitalisation/01-compound-activity-space.webp",
+        "assets/board/yau-ma-tei-theatre-revitalisation/02-site-indication.webp",
+        "assets/board/yau-ma-tei-theatre-revitalisation/03-function-sketches.webp",
+        "assets/board/yau-ma-tei-theatre-revitalisation/04-stowable-camping-module.webp",
+        "assets/board/yau-ma-tei-theatre-revitalisation/05-volume-scrutiny.webp",
+        "assets/board/yau-ma-tei-theatre-revitalisation/06-functional-axonometric.webp",
+        "assets/board/yau-ma-tei-theatre-revitalisation/07-aerial-view-and-ground-floor.webp",
+        "assets/board/yau-ma-tei-theatre-revitalisation/08-floor-plan.webp",
+        "assets/board/yau-ma-tei-theatre-revitalisation/09-scene-perspective.webp",
+        "assets/board/yau-ma-tei-theatre-revitalisation/10-studio-and-platforms.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/yau-ma-tei-theatre-revitalisation/01-compound-activity-space.webp"
+          ],
+          "captions": [
+            "The compound activity space joins the new building to the old theatre."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "複合活動空間將新建築與舊戲院連結在一起。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Next to the Yau Ma Tei Theatre, a home for the homeless was demolished to make way for a theatre project, despite objections from residents and the homeless. The project looks for a balanced mix that meets the needs of history, of the theatre and of the people who lost their shelter.",
+          "images": [
+            "assets/board/yau-ma-tei-theatre-revitalisation/02-site-indication.webp"
+          ],
+          "captions": [
+            "Site indication in Yau Tsim Mong, Hong Kong."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "油麻地戲院旁的露宿者之家，在居民與露宿者反對下被拆除，改建為戲曲項目。本案尋找一種平衡的混合，同時回應歷史、戲院以及失去棲身之所的人們的需要。",
+              "captions": [
+                "香港油尖旺的基地位置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A stakeholder analysis sets out the positions of the homeless, the government and the residents around the site. Sketches then test how a homeless centre and an activity centre can sit beside the original building and share a vertical route.",
+          "images": [
+            "assets/board/yau-ma-tei-theatre-revitalisation/03-function-sketches.webp",
+            "assets/board/yau-ma-tei-theatre-revitalisation/04-stowable-camping-module.webp"
+          ],
+          "captions": [
+            "Body function scrutiny: elevated plaza and new building options.",
+            "A stowable camping module for those who do not want to live upstairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "透過利害關係人分析，整理基地周邊露宿者、政府與居民的立場。接著以草圖測試露宿者中心與活動中心如何與原有建築並置，並共用一條垂直動線。",
+              "captions": [
+                "身體機能推敲：架高廣場與新建築的方案。",
+                "為不想住在樓上的人設計的可收納露營模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Eight volume studies compare how the new building, the square and the original theatre can be combined. The chosen option stacks a homeless centre, workshops and an activity centre around one vertical core.",
+          "images": [
+            "assets/board/yau-ma-tei-theatre-revitalisation/05-volume-scrutiny.webp",
+            "assets/board/yau-ma-tei-theatre-revitalisation/06-functional-axonometric.webp",
+            "assets/board/yau-ma-tei-theatre-revitalisation/07-aerial-view-and-ground-floor.webp"
+          ],
+          "captions": [
+            "Volume scrutiny of eight massing options.",
+            "Functions stacked around the vertical core.",
+            "Interior connections, aerial view and ground floor plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "八種量體研究比較新建築、廣場與原有戲院的組合方式。最終方案將露宿者中心、工作坊與活動中心圍繞一個垂直核心堆疊。",
+              "captions": [
+                "八種量體方案的推敲。",
+                "圍繞垂直核心堆疊的機能。",
+                "室內連結、鳥瞰與一樓平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Vertical circulation and direct connections between the two buildings let everyone enter every part of the building equally. Studios, viewing platforms and open floors give the homeless a place to live, learn and work beside the theatre.",
+          "images": [
+            "assets/board/yau-ma-tei-theatre-revitalisation/08-floor-plan.webp",
+            "assets/board/yau-ma-tei-theatre-revitalisation/09-scene-perspective.webp",
+            "assets/board/yau-ma-tei-theatre-revitalisation/10-studio-and-platforms.webp"
+          ],
+          "captions": [
+            "Floor plan.",
+            "Scene perspective of the open floors.",
+            "Homeless home studio, open-air viewing platform and first-floor public space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "垂直動線與兩棟建築之間的直接連結，讓每個人都能平等進入建築的每個部分。工作室、觀景平台與開放樓層，讓露宿者在戲院旁有生活、學習與工作的地方。",
+              "captions": [
+                "樓層平面。",
+                "開放樓層的場景透視。",
+                "露宿者之家工作室、露天觀景平台與二樓公共空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map every stakeholder on the site.\n2. Sketch how the functions relate.\n3. Compare massing options side by side.\n4. Connect old and new for equal access.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 標示基地上的每一位利害關係人。\n2. 以草圖釐清機能之間的關係。\n3. 並列比較各種量體方案。\n4. 連結新舊建築，讓人人平等使用。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
