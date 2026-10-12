@@ -1,0 +1,37 @@
+{
+  "project": "Santo Domingo School of Music",
+  "dest": "assets/board/vertical-music-school-santo-domingo",
+  "note": "Portfolio b976 pages 24–26 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the title text on page 24, the site analysis with city photos on page 24, the social structure text and black-and-white photo thumbnails on page 25, the city history in the text and the page numbers.",
+  "files": [
+    {
+      "name": "01-school-render.webp",
+      "sha256": "80edb1bd35711b1c54a3a641b76df19efa334a410dbe1c8d77cc09066365aeb7",
+      "bytes": 146358,
+      "from": "b976 page 24 — exterior render of the school, x 0–48 %, y 27–88 %"
+    },
+    {
+      "name": "02-crowdedness-renders.webp",
+      "sha256": "6c65765986d5493d1e88323c6e709577cd21bc7967a89a2aea9e281bd63ff664",
+      "bytes": 65752,
+      "from": "page 25 — interior renders of the open spaces, x 30–56 %, y 0–100 %"
+    },
+    {
+      "name": "03-first-floor-plan.webp",
+      "sha256": "251f9b0c4c5866d1f11414eea30a18e25878d774daf1688a2d759194d2c02e23",
+      "bytes": 94368,
+      "from": "page 25 — first floor plan on the site, x 74–100 %, y 0–100 %"
+    },
+    {
+      "name": "04-axonometric-and-program.webp",
+      "sha256": "638801f16bba51e2861f3013b2f66d3d760f7c5c4e8b79f959501dfee63d7715",
+      "bytes": 202776,
+      "from": "page 26 — site axonometric and life, study and exhibition diagrams, x 0–48 %, y 0–100 %"
+    },
+    {
+      "name": "05-long-section.webp",
+      "sha256": "ca59bc0d6651f68b2590813ddc6555374a70983f6b58770670ee5480d42d4986",
+      "bytes": 163966,
+      "from": "page 26 — long section, x 48–100 %, y 0–100 %"
+    }
+  ]
+}
