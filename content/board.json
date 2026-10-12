@@ -38784,6 +38784,282 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Geometry of Divinity",
+      "slug": "geometry-of-divinity-mirror-chrome-model",
+      "description": "A line-and-arc composition lifted into a white and mirror-chrome model of discs, stairs and columns.\n\nArchitecture | Concept model | Geometry | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "神性的幾何",
+          "description": "將線與弧的平面構成延伸為由圓盤、樓梯與柱體組成的白色與鏡面鉻模型。\n\n建築設計｜概念模型｜幾何｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/geometry-of-divinity-mirror-chrome-model/01-mirror-chrome-model.webp",
+        "assets/board/geometry-of-divinity-mirror-chrome-model/02-plane-composition.webp",
+        "assets/board/geometry-of-divinity-mirror-chrome-model/03-model-stair-and-discs.webp",
+        "assets/board/geometry-of-divinity-mirror-chrome-model/04-model-upper-detail.webp",
+        "assets/board/geometry-of-divinity-mirror-chrome-model/05-model-lower-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/geometry-of-divinity-mirror-chrome-model/01-mirror-chrome-model.webp"
+          ],
+          "captions": [
+            "Final model in resin and mirror chrome vinyl."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以樹脂與鏡面鉻貼膜製作的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project studies how simple geometric shapes can create spaces that feel sacred. It began from extracting elements from a modern master's buildings that achieve this effect.",
+          "images": [
+            "assets/board/geometry-of-divinity-mirror-chrome-model/02-plane-composition.webp"
+          ],
+          "captions": [
+            "Plane composition of parallel lines and arcs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個作品研究簡單的幾何形狀如何創造出具神聖感的空間。它從萃取現代建築大師作品中達成此效果的元素開始。",
+              "captions": [
+                "由平行線與弧線構成的平面構成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The extracted elements were redrawn as a two-dimensional composition of parallel lines and arcs. Circles, bands and stepped lines set up the rules for the model.",
+          "images": [
+            "assets/board/geometry-of-divinity-mirror-chrome-model/03-model-stair-and-discs.webp"
+          ],
+          "captions": [
+            "Stair and discs rising from the columns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "萃取的元素被重新繪製為由平行線與弧線構成的二維構成。圓形、帶狀與階梯狀線條確立了模型的規則。",
+              "captions": [
+                "從柱體升起的樓梯與圓盤。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The composition was turned into a three-dimensional model in Rhino. Discs became platforms, bands became stairs and arcs became curved screens.",
+          "images": [
+            "assets/board/geometry-of-divinity-mirror-chrome-model/04-model-upper-detail.webp"
+          ],
+          "captions": [
+            "Upper stair and platforms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生在Rhino中將平面構成轉化為三維模型。圓形成為平台，帶狀成為樓梯，弧線則成為曲面屏。",
+              "captions": [
+                "上方的樓梯與平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model sets white platforms on mirror-chrome columns that reflect light and space. Its stairs and discs rise like a small sacred landscape.",
+          "images": [
+            "assets/board/geometry-of-divinity-mirror-chrome-model/05-model-lower-detail.webp"
+          ],
+          "captions": [
+            "Light on the lower platforms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型將白色平台架設於反射光線與空間的鏡面鉻柱上。樓梯與圓盤層層升起，宛如一處小型的神聖地景。",
+              "captions": [
+                "下方平台上的光影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study strong precedents.\n2. Extract their basic shapes.\n3. Compose them on paper.\n4. Lift the drawing into space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究有力的先例。\n2. 萃取其基本形狀。\n3. 在紙上進行構成。\n4. 將圖面延伸至空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "From Batter to Bricks",
+      "slug": "from-batter-to-bricks-porous-plaster-wall",
+      "description": "Baking gestures translated into porous plaster layers and modular bricks that filter light.\n\nMaterial Design | Plaster bricks | Light | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "從麵糊到磚塊",
+          "description": "將烘焙動作轉譯為能過濾光線的多孔石膏層與模組化磚塊。\n\n材料設計｜石膏磚｜光線｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/01-porous-plaster-layers.webp",
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/02-form-experiments.webp",
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/03-porous-layer-sketches.webp",
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/04-porous-layer-details.webp",
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/05-modular-brick-sketches.webp",
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/06-lit-brick-wall.webp",
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/07-white-brick-wall.webp",
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/08-lit-brick-pair.webp",
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/09-single-brick-study.webp",
+        "assets/board/from-batter-to-bricks-porous-plaster-wall/10-brick-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/01-porous-plaster-layers.webp"
+          ],
+          "captions": [
+            "Stacked plaster slabs with irregular holes under warm light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "暖光下層疊的多孔石膏板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student learned from childhood baking how soft batter changes through time and heat. The project asks how simple baking actions can become ways of shaping form and space.",
+          "images": [
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/02-form-experiments.webp"
+          ],
+          "captions": [
+            "Channel, stack and drizzle form experiments."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生從童年的烘焙經驗中，學到柔軟的麵糊如何隨時間與溫度改變。這個作品探問簡單的烘焙動作如何成為塑造形式與空間的方法。",
+              "captions": [
+                "引流、堆疊與淋灑的形式實驗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Three words, channel, stack and drizzle, were tested in three small models. Each piece translated a baking gesture into a physical form.",
+          "images": [
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/03-porous-layer-sketches.webp",
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/04-porous-layer-details.webp"
+          ],
+          "captions": [
+            "Sketches of porous slabs.",
+            "Details of the stacked slabs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以引流、堆疊、淋灑三個詞，製作三個小模型進行測試。每件作品都將一個烘焙動作轉譯為實體形式。",
+              "captions": [
+                "多孔板片草圖。",
+                "層疊板片細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Plaster slabs with irregular holes were cast and stacked so that light filters down through the voids. The result feels solid and transparent at the same time.",
+          "images": [
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/05-modular-brick-sketches.webp",
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/09-single-brick-study.webp"
+          ],
+          "captions": [
+            "Sketches for modular bricks.",
+            "Study of a single brick."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生翻製帶有不規則孔洞的石膏板並層層堆疊，讓光線從孔隙間向下灑落。成果同時給人實體與通透的感受。",
+              "captions": [
+                "模組化磚塊草圖。",
+                "單一磚塊研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The slabs then became modular bricks that let light in from the side when stacked into a wall. The pattern of holes gives texture and rhythm while letting the wall breathe.",
+          "images": [
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/06-lit-brick-wall.webp",
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/07-white-brick-wall.webp",
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/08-lit-brick-pair.webp",
+            "assets/board/from-batter-to-bricks-porous-plaster-wall/10-brick-details.webp"
+          ],
+          "captions": [
+            "The brick wall lit from behind.",
+            "The white brick wall.",
+            "Two lit bricks.",
+            "Brick surface details."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "板片接著發展為模組化磚塊，堆疊成牆時讓光線從側面進入。孔洞的圖案帶來質感與節奏，也讓牆面得以呼吸。",
+              "captions": [
+                "從背後打光的磚牆。",
+                "白色磚牆。",
+                "兩塊發光的磚。",
+                "磚面細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from an everyday action.\n2. Name it in one word.\n3. Test each word in material.\n4. Turn the result into a unit.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從日常動作出發。\n2. 用一個詞命名它。\n3. 以材料測試每個詞。\n4. 將成果發展為單元。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
