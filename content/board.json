@@ -15935,6 +15935,145 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "The New System of Market",
+      "slug": "new-system-of-market",
+      "description": "An old food market in Shenzhen is rebuilt as a layered place to grow, trade, cook and meet.\n\nShenzhen, China | Market and community | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "市場新系統",
+          "description": "將深圳的傳統菜市場重建為可以種植、交易、烹飪與相聚的多層場所。\n\n中國深圳｜市場與社區｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/new-system-of-market/01-market-sections.webp",
+        "assets/board/new-system-of-market/02-online-vs-onsite.webp",
+        "assets/board/new-system-of-market/03-old-and-new-market-system.webp",
+        "assets/board/new-system-of-market/04-from-sale-to-theme-based-market.webp",
+        "assets/board/new-system-of-market/05-strategy-interaction.webp",
+        "assets/board/new-system-of-market/06-concept-generation.webp",
+        "assets/board/new-system-of-market/07-formation-of-spatial-functions.webp",
+        "assets/board/new-system-of-market/08-exploded-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/new-system-of-market/01-market-sections.webp"
+          ],
+          "captions": [
+            "Sections through the new market: agriculture, entertainment and communication under the housing above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "新市場剖面：住宅之下的農作、娛樂與交流。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In China, with the rise of supermarkets, department stores and shopping centres, old food markets known for their filth and disorder are gradually being discarded, and with the growth of online shopping they are in decline. Yet food markets are an important source of urban vitality, a platform for neighbourhood interaction at a time of urban isolation.",
+          "images": [
+            "assets/board/new-system-of-market/02-online-vs-onsite.webp"
+          ],
+          "captions": [
+            "Online vs onsite: social, time and quality issues, and the proposal of a lively, convenient and fresh market."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在中國，隨著超市、百貨公司與購物中心興起，以髒亂著稱的傳統菜市場逐漸被淘汰，網路購物的普及更讓它們日漸衰落。然而菜市場是城市活力的重要來源，在城市日益疏離的今天，更是鄰里互動的平台。",
+              "captions": [
+                "線上與線下：社交、時間與品質問題，以及熱鬧、便利、新鮮的市場提案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Comparing online and onsite shopping showed that online buying is convenient and always available, while the market offers face-to-face contact and food whose quality can be seen. The project therefore keeps the human touch of the old market and gives it a new system that links commodities, selling, purchase and food through a social network.",
+          "images": [
+            "assets/board/new-system-of-market/03-old-and-new-market-system.webp",
+            "assets/board/new-system-of-market/04-from-sale-to-theme-based-market.webp"
+          ],
+          "captions": [
+            "Old and new market systems linked by a social network.",
+            "From a market purely for sale to a theme-based market of planting, fishing grounds and teaching."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "比較線上與線下購物後發現，網購便利且隨時可得，市場則提供面對面的接觸，以及看得見品質的食材。因此本案保留傳統市場的人情味，並賦予它一套新系統，透過社交網絡串連商品、販售、購買與食物。",
+              "captions": [
+                "以社交網絡串連的新舊市場系統。",
+                "從單純販售的市場，轉變為種植、漁場與教學的主題式市場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A link is created between the market and the residence above it, so that the two previously distinct functions are connected through daily life, entertainment and work. Agriculture, entertainment and communication are layered under the housing and joined by ramps that form active dynamic links between floors.",
+          "images": [
+            "assets/board/new-system-of-market/05-strategy-interaction.webp",
+            "assets/board/new-system-of-market/06-concept-generation.webp",
+            "assets/board/new-system-of-market/07-formation-of-spatial-functions.webp"
+          ],
+          "captions": [
+            "Interaction between the market and the residence through life, entertainment and work.",
+            "Concept generation: adding theme functions, open hierarchical connections and active dynamic links.",
+            "Formation of spatial functions in the new market."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計在市場與上方住宅之間建立連結，讓原本分離的兩種機能透過生活、娛樂與工作串連起來。農作、娛樂與交流三種機能疊層配置在住宅之下，並以坡道在樓層之間形成活躍的動態連結。",
+              "captions": [
+                "市場與住宅透過生活、娛樂與工作產生互動。",
+                "概念生成：加入主題機能、開放的層級連結與動態連結。",
+                "新市場空間機能的生成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the new market people can grow and pick fresh fruit and vegetables on terraces, help water other people's crops via the internet, and exchange vegetables and fish before cooking them in a shared kitchen. The market becomes a platform for offline communication for all kinds of people.",
+          "images": [
+            "assets/board/new-system-of-market/08-exploded-view.webp"
+          ],
+          "captions": [
+            "Exploded view: residential, roof, structure, ramps and three floor plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在新的市場裡，人們可以在梯田上種植與採摘新鮮蔬果，透過網路幫別人的作物澆水，也能交換蔬菜和魚，再到共享廚房烹煮。市場因此成為各種人進行線下交流的平台。",
+              "captions": [
+                "爆炸圖：住宅、屋頂、結構、坡道與三層平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Compare the online and onsite experience.\n2. Keep what only a real place can give.\n3. Link the new program to daily life.\n4. Stack functions and join them with ramps.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 比較線上與線下的體驗。\n2. 保留只有實體場所才能提供的價值。\n3. 讓新機能與日常生活相連。\n4. 將機能疊層，並以坡道串連。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
