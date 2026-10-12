@@ -1,0 +1,49 @@
+{
+  "project": "Labyrinth of Faith and Ruin",
+  "dest": "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative",
+  "note": "Portfolio ca16 page 9 cropped to seven images (four process photos joined into one), WebP q88 (PIL). Not used: title, size labels and inspiration text naming the source novel.",
+  "files": [
+    {
+      "name": "01-labyrinth-tower-model.webp",
+      "sha256": "1ecc883d92f0dd510cca19ff57ae82da7e7de96bc242d3942f99557df9ca639b",
+      "bytes": 66308,
+      "from": "ca16 page 9 — tower model, lit view"
+    },
+    {
+      "name": "02-maze-concept-sketch.webp",
+      "sha256": "8e374124e1eeb1b1f28f0cda73f9d1459b45885d916c1d41a34036b58d9f34e6",
+      "bytes": 20514,
+      "from": "ca16 page 9 — maze concept sketch"
+    },
+    {
+      "name": "03-model-on-resin-sea.webp",
+      "sha256": "11a1fb4f3b3c472ff19d0849d8ed51649483363e02b891a50cf6d660941e5887",
+      "bytes": 70666,
+      "from": "ca16 page 9 — model on resin sea base"
+    },
+    {
+      "name": "04-making-process.webp",
+      "sha256": "b888ec71b8f327ca5a4febd274e7b4f9b06539ae487ab484aab169e0be6ddd51",
+      "bytes": 26712,
+      "from": "ca16 page 9 — four making-process photos"
+    },
+    {
+      "name": "05-inner-walls-a.webp",
+      "sha256": "1070be3f3fadc95dc49c25d6699ed8a01cbd039ed9fa6ca4a23a3acff23d5da6",
+      "bytes": 7752,
+      "from": "ca16 page 9 — inner walls, view one"
+    },
+    {
+      "name": "06-inner-walls-b.webp",
+      "sha256": "91a5030c9533da26569683ed8a5b0a5b7552d8021993279f0134058084d52b99",
+      "bytes": 10860,
+      "from": "ca16 page 9 — inner walls, view two"
+    },
+    {
+      "name": "07-inner-walls-c.webp",
+      "sha256": "6f434eefa15876536c1c0bfa8b69d707a1c8ca36d177771446875fe98dc1c41e",
+      "bytes": 10206,
+      "from": "ca16 page 9 — inner walls, view three"
+    }
+  ]
+}
