@@ -1,0 +1,67 @@
+{
+  "project": "Re:Opera",
+  "dest": "assets/board/re-opera-pop-up-cantonese-opera-stage",
+  "note": "Portfolio de5b pages 18-21 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Opera stage stills kept as reference material (new rule). Not used: the supervisor line, the news clipping with masthead, the history photo collage, the visitor photo circles, the site map, the moodboard with a brand logo, and the stage typology photos.",
+  "files": [
+    {
+      "name": "01-bird-view.webp",
+      "sha256": "cd09508419ed8de45c0e14d9a7fd6c664bdfae7752f93275464868ef6f92c3f9",
+      "bytes": 374496,
+      "from": "de5b page 21 — bird view perspective"
+    },
+    {
+      "name": "02-audience-data.webp",
+      "sha256": "7fd23a3f75e7d6821ce2be4ae50b952d9291aff8569c98d6a0c8a5ba7ccbc4eb",
+      "bytes": 38388,
+      "from": "de5b page 18 — audience data charts"
+    },
+    {
+      "name": "03-design-strategy.webp",
+      "sha256": "2e058e7659a082d4c416df58e0d281543e0909c470e1e2a2b81deefa8c58f7fd",
+      "bytes": 69804,
+      "from": "de5b page 19 — design strategy diagrams"
+    },
+    {
+      "name": "04-plot-analysis.webp",
+      "sha256": "917112681283fc1e1b19f740a5b16db3d320b718d2c1394d34f73dc224e65cbb",
+      "bytes": 129356,
+      "from": "de5b page 20 — plot analysis with opera stage stills"
+    },
+    {
+      "name": "05-change-of-function.webp",
+      "sha256": "c69079647cc68e988aa9909a0424e91b651d833f695b18d27bc6c1804f7079e6",
+      "bytes": 174978,
+      "from": "de5b page 20 — storyboard to scene sketches"
+    },
+    {
+      "name": "06-massing-evolution.webp",
+      "sha256": "122469f7b845844d037f5d13ccfa855ae666810616192d8aa908907de7336109",
+      "bytes": 38926,
+      "from": "de5b page 20 — conceptual massing evolution"
+    },
+    {
+      "name": "07-spatial-framework.webp",
+      "sha256": "95bf0481dc7457aa82f6d3557685fe07f14fbe534a3c1845ec8563180a76365f",
+      "bytes": 145174,
+      "from": "de5b page 20 — four spatial frameworks"
+    },
+    {
+      "name": "08-living-room-and-corridor.webp",
+      "sha256": "bf34e6c4cbd3e57ad40f288af6d77d8bb8e10c471f4ad9c4d8ed9081db3c0c31",
+      "bytes": 135154,
+      "from": "de5b page 21 — living room and corridor scenes"
+    },
+    {
+      "name": "09-study-room.webp",
+      "sha256": "3a67eb09bc6f11335ab831ebabe01818e7757d347b731558cb18bfa275ad9cdf",
+      "bytes": 72256,
+      "from": "de5b page 21 — study room scene"
+    },
+    {
+      "name": "10-palace-and-mansion.webp",
+      "sha256": "ecbd3c55a4ef18a3ba1407a58ac56f211bd1f7d7c7f5d60a93a574f265f3a885",
+      "bytes": 162478,
+      "from": "de5b page 21 — palace and mansion scenes"
+    }
+  ]
+}
