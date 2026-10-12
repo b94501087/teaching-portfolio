@@ -1,0 +1,61 @@
+{
+  "project": "Sawtooth Horizons",
+  "dest": "assets/board/sawtooth-horizons-cultural-centre",
+  "note": "Portfolio 2712 pages 6-9 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with instructor and collaborator names, and the interior rendering with figures.",
+  "files": [
+    {
+      "name": "01-folded-roof-model.webp",
+      "sha256": "95e6b17995e02d897f9df258ad60e68a61d5dd898461c002fa1f24d61531fcef",
+      "bytes": 107064,
+      "from": "2712 page 6 — folded roof model photo"
+    },
+    {
+      "name": "02-generating-the-folded-roof.webp",
+      "sha256": "b0b1739bae4002747febfafe0c19e7c55ca87223f594337488d4f1bc33b7421a",
+      "bytes": 148098,
+      "from": "2712 page 6 — roof generation diagrams"
+    },
+    {
+      "name": "03-system-decomposition.webp",
+      "sha256": "c27ee92d5ed2a8715c00332145613949a2489c1b8489576dc1a4a323aef957a8",
+      "bytes": 94064,
+      "from": "2712 page 6 — system decomposition axonometric"
+    },
+    {
+      "name": "04-concept-models.webp",
+      "sha256": "3b3e97c3d3cf3a8540f5e2653b86c8ecca672d18049df35609ac6b8b48b815fe",
+      "bytes": 204944,
+      "from": "2712 page 7 — concept collage and models"
+    },
+    {
+      "name": "05-ground-plan.webp",
+      "sha256": "191848f43c52dc30f623c3a7631448a2913d0bce307212371bf93084fd96e4f6",
+      "bytes": 223228,
+      "from": "2712 page 7 — fragmented ground axonometric and plan"
+    },
+    {
+      "name": "06-daylight-sections.webp",
+      "sha256": "8d6f3c8c60356c20bdab77f4d64a3b651ec5e2582bee1c0d80783493435315f3",
+      "bytes": 182466,
+      "from": "2712 page 8 — roof as daylight filter sections"
+    },
+    {
+      "name": "07-structure-details.webp",
+      "sha256": "0852f1872bd9250f08c7178c3930b9e17d5d0126d21fe1bdf0fcf9df530d44cd",
+      "bytes": 103570,
+      "from": "2712 page 8 — roof, support and base structure details"
+    },
+    {
+      "name": "08-aerial-view.webp",
+      "sha256": "588492c1170b956ed18bef229e39b2bb9fd8f2946fb072fbf0980127a39723f0",
+      "bytes": 174356,
+      "from": "2712 page 9 — aerial rendering"
+    },
+    {
+      "name": "09-model-views.webp",
+      "sha256": "36c86fe88f8604cc875d9353a533b13295322748a7e67bd2c4f0e84b6cb6a081",
+      "bytes": 78466,
+      "from": "2712 page 9 — model views"
+    }
+  ]
+}
