@@ -1,0 +1,61 @@
+{
+  "project": "Urban Living Room",
+  "dest": "assets/board/urban-living-room-art-museum-renewal",
+  "note": "Portfolio c0e5 pages 23-27 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with school, supervisor and museum name, the existing building photos, the audience photo collages, the opera performer cut-outs and the renders with people.",
+  "files": [
+    {
+      "name": "01-cutaway-galleries.webp",
+      "sha256": "173f95542e56465766da9da3fa19228cc78433261a7fc545f8bd87717f08c2b7",
+      "bytes": 111742,
+      "from": "c0e5 page 27 — cutaway of the galleries"
+    },
+    {
+      "name": "02-existing-building-axon.webp",
+      "sha256": "c61b357cde65a6ff4695514966298a15b352ba3e3fcdefaec5e5a28303a01bd3",
+      "bytes": 48000,
+      "from": "c0e5 page 23 — existing building axonometric"
+    },
+    {
+      "name": "03-site-context-maps.webp",
+      "sha256": "9b23097f73c81a839b7381820b6dfc2b29c699c1a505a681e625665dbc6a31c1",
+      "bytes": 113116,
+      "from": "c0e5 page 23 — site context maps"
+    },
+    {
+      "name": "04-activation-strategy.webp",
+      "sha256": "a587334fc099a2ccc04b0797543a078be86727fbada18aa19d23b58a255bd2dd",
+      "bytes": 37770,
+      "from": "c0e5 page 24 — activation strategy"
+    },
+    {
+      "name": "05-concept-sketch.webp",
+      "sha256": "cc629e16c28efedffce344674006b1e8061f7e3e8662491b5da47b912d775c64",
+      "bytes": 41750,
+      "from": "c0e5 page 24 — concept sketch"
+    },
+    {
+      "name": "06-form-evolution.webp",
+      "sha256": "c8a78bffcca2f60217ea58619eb94190f065db65fe074c093a6ceba219b8cfb0",
+      "bytes": 34422,
+      "from": "c0e5 page 25 — form evolution"
+    },
+    {
+      "name": "07-aerial-render.webp",
+      "sha256": "bc42c1184b6c909cf5b22c70325df00454f548e5b1cfd6401f4aded28a471fe3",
+      "bytes": 127546,
+      "from": "c0e5 page 25 — aerial render"
+    },
+    {
+      "name": "08-space-to-form-diagrams.webp",
+      "sha256": "c3d2c45adbaa8ee7f3b35a4dcab989e7f0631137ecb87ab188efa4a749af0107",
+      "bytes": 55960,
+      "from": "c0e5 page 27 — gallery type diagrams"
+    },
+    {
+      "name": "09-gallery-interior.webp",
+      "sha256": "6625919a66224edd1b6718d815fed3560d7c7229dd5d35df66bf6c0cba25c1db",
+      "bytes": 22686,
+      "from": "c0e5 page 26 — gallery interior render"
+    }
+  ]
+}
