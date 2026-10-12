@@ -1,0 +1,61 @@
+{
+  "project": "Accidental Death Mourning Hall",
+  "dest": "assets/board/accidental-death-mourning-hall",
+  "note": "Portfolio cd99 pages 4–6 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the project title collage with photo faces on page 3, the situation analysis with photos and statistics on page 3, the life and death diagram with photo figures and the design strategy with a portrait on page 3, the five senses analysis with photo figures and the materials research body figure on page 4, and the arrival panel with a ferry photo on page 6. No retouching.",
+  "files": [
+    {
+      "name": "01-exploded-view.webp",
+      "sha256": "e2f2cdac97de9d109d47fafcac979a8d25e0cb4ac5041f7c6fd7ec1fd4aeda53",
+      "bytes": 142944,
+      "from": "cd99 page 5 — exploded view of the spaces, x 80–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-sketches-of-reasoning.webp",
+      "sha256": "6a7cc78b1bb73145123019471ed8a3a90ab6e8e20046efa98a720dd777c7a081",
+      "bytes": 202440,
+      "from": "page 4 — sketches of reasoning, x 50–72.5 %, y 0–100 %"
+    },
+    {
+      "name": "03-spatial-studies.webp",
+      "sha256": "82274ebe827da90f3bc916dad8fd4174c142d36d7a3d8b1966d797005be3e4b1",
+      "bytes": 134940,
+      "from": "page 4 — spatial studies in plan and elevation, x 72.5–100 %, y 0–56 %"
+    },
+    {
+      "name": "04-entity-modelling.webp",
+      "sha256": "bc0623cff3760a53758f9f6ae73820996d1a3cd191aefc538ceac70fee696148",
+      "bytes": 244852,
+      "from": "page 5 — entity modelling studies, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "05-material-testing.webp",
+      "sha256": "de11dbd508be5a2e7b480406067b25bf1506828818bb5523dae4296f894d7a9e",
+      "bytes": 181924,
+      "from": "page 5 — material testing for light, texture and sound, x 50–80 %, y 0–100 %"
+    },
+    {
+      "name": "06-plans-and-sections.webp",
+      "sha256": "64b8102100f5685ff15fe9f030faa09d2101d885a3e75a6c3a702be2da0d1b57",
+      "bytes": 123884,
+      "from": "page 6 — floor plans and sections, x 0–30 %, y 0–62 %"
+    },
+    {
+      "name": "07-aerial-view.webp",
+      "sha256": "e81a56e808ac46e4bfc7010d2d3b5af174b746c584becd907a23b38897eeb080",
+      "bytes": 95082,
+      "from": "page 6 — aerial rendering with the final forest, x 0–33 %, y 62–100 %"
+    },
+    {
+      "name": "08-visiting-process-light.webp",
+      "sha256": "371dc2dc619a818e340ad216d900609c2ec805dc5f25db29bf1eb3404ad6ee05",
+      "bytes": 192704,
+      "from": "page 6 — visiting process, light rooms and roof, x 35.5–70 %, y 32–100 %"
+    },
+    {
+      "name": "09-visiting-process-sound.webp",
+      "sha256": "3aa4f85d31f131db74209238f6ef789e345f5859c7b281f048eb53d0d0570fb1",
+      "bytes": 255174,
+      "from": "page 6 — visiting process, material walls and sound, x 70–100 %, y 0–100 %"
+    }
+  ]
+}
