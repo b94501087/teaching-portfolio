@@ -1,0 +1,43 @@
+{
+  "project": "Arcades Project in the 21st Century",
+  "dest": "assets/board/arcades-project-21st-century",
+  "note": "Portfolio bffa1381 pages 6–8 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage with a portrait and the arcade photo collage on page 5, the photo cut-out figures and street photos on page 6, and the renderings with photo cut-out people on pages 7–8. No retouching.",
+  "files": [
+    {
+      "name": "01-consumption-space-outcomes.webp",
+      "sha256": "68f43db2ce6750b89e2f747d03d146c4760be0a02f26542194f7e507933bc770",
+      "bytes": 98128,
+      "from": "bffa1381 page 6 — outcomes: playground, city hall, marketplace and stairs, x 80–100 %, y 4–100 %"
+    },
+    {
+      "name": "02-phantasmagoria-and-alienation.webp",
+      "sha256": "1ac7b43381b5af8a19affc773794c3a2c9d31ec8452c60cdd47323fd29d8fef3",
+      "bytes": 58768,
+      "from": "page 6 — phantasmagoria description and alienation, x 7–23.2 %, y 4–100 %"
+    },
+    {
+      "name": "03-site-characterisation-sketches.webp",
+      "sha256": "318ccb5d32e2cd60e944538c8840a12eac3c11f0dab746c54d3b509c26a598f6",
+      "bytes": 66938,
+      "from": "page 6 — the two columns of site characterisation sketches (x 30.6–36.3 % and 44–49.8 %, y 10–97 %), set side by side"
+    },
+    {
+      "name": "04-removed-spaces-of-consumption.webp",
+      "sha256": "1e05ced1b4cfc8e7333cf5451dae162ddc7580b2595976cd99bb594d1b5124f3",
+      "bytes": 104024,
+      "from": "page 6 — spaces of consumption removed from consumer behaviour, x 50–79 %, y 4–100 %"
+    },
+    {
+      "name": "05-playground-site-plan.webp",
+      "sha256": "7219e866b79abcf6b07b1ecd17199d22889ccaadd94948fed90d0f2b1fddfc7d",
+      "bytes": 29852,
+      "from": "page 7 — playground site plan, x 0–18 %, y 0–33 %"
+    },
+    {
+      "name": "06-marketplace-site-plan.webp",
+      "sha256": "182c96a8914c9b44a98902c29c88c1c9ace2ba709f429b2b8805b1bc30103249",
+      "bytes": 13604,
+      "from": "page 8 — marketplace site plan, x 0–11 %, y 57–93 %"
+    }
+  ]
+}
