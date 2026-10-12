@@ -52644,6 +52644,994 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Volleyball Motion Trajectory",
+      "slug": "volleyball-motion-trajectory-paper-fin-model",
+      "description": "Frames of a volleyball swing become rows of paper fins under a triangulated stick canopy.\n\nModel making | Motion to form | PVC board, paper and wood sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "排球動作軌跡視覺化",
+          "description": "排球揮擊的連續畫格化為一排排紙鰭，上方覆蓋三角化的木棒棚架。\n\n模型製作｜從動作到造型｜PVC板、紙與木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/01-final-model.webp",
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/02-trajectory.webp",
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/03-digital-model.webp",
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/04-fin-studies.webp",
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/05-process.webp",
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/06-frame-test.webp",
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/07-line-drawings.webp",
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/08-colour-drawing.webp",
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/09-side-view.webp",
+        "assets/board/volleyball-motion-trajectory-paper-fin-model/10-corner-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished model from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從上方看完成的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A volleyball move lasts only a second, so its shape is hard to see. The student asked how her own playing motion could be turned into a lasting space.",
+          "images": [
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/02-trajectory.webp"
+          ],
+          "captions": [
+            "The motion traced as a 3D band."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一個排球動作只持續一秒，形狀很難被看見。學生思考如何把自己打球的動作轉化成持久的空間。",
+              "captions": [
+                "把動作描成立體帶狀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A video of one strong move was split into single frames to find the key angles. These were traced as a band and rebuilt digitally as rows of thin fins.",
+          "images": [
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/03-digital-model.webp"
+          ],
+          "captions": [
+            "Digital model of the fin field."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把一段動作最清楚的影片拆成單格，找出關鍵角度。這些角度被描成帶狀，再以數位方式重建為一排排薄鰭片。",
+              "captions": [
+                "鰭片陣列的數位模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Paper fins were cut, folded and tested under side light to read the motion. A canopy of triangles was then drawn and built in sticks to sit above them.",
+          "images": [
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/04-fin-studies.webp",
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/05-process.webp",
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/06-frame-test.webp",
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/07-line-drawings.webp",
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/08-colour-drawing.webp"
+          ],
+          "captions": [
+            "Fin studies lit from the side.",
+            "Folding and cutting the fins.",
+            "First stick frame over the fins.",
+            "Line drawings of the canopy.",
+            "Coloured canopy study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "紙鰭片經過切割、摺疊，並在側光下測試動作的表現。接著繪製三角形棚架，以木棒搭建在鰭片上方。",
+              "captions": [
+                "側光下的鰭片研究。",
+                "摺疊與切割鰭片。",
+                "鰭片上方的第一版木棒框架。",
+                "棚架的線稿。",
+                "上色的棚架研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model sets a wave of white fins under a varied stick canopy. Each strut length changes with the motion, so the roof reads like a frozen swing.",
+          "images": [
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/09-side-view.webp",
+            "assets/board/volleyball-motion-trajectory-paper-fin-model/10-corner-view.webp"
+          ],
+          "captions": [
+            "Canopy and fins from the side.",
+            "A corner of the canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型讓一波白色鰭片位於變化豐富的木棒棚架下。每根支桿的長度隨動作改變，使屋頂像一次定格的揮擊。",
+              "captions": [
+                "側看棚架與鰭片。",
+                "棚架的一角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Film one movement.\n2. Split it into frames.\n3. Trace the key angles.\n4. Build the path in layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 拍下一個動作。\n2. 拆成單格畫面。\n3. 描出關鍵角度。\n4. 分層搭建軌跡。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Fragile Arctic: Revolving Ice",
+      "slug": "fragile-arctic-melting-ice-acrylic-tower",
+      "description": "Clear and black layers stack into a tower that shows sea ice thinning as it warms.\n\nModel making | Climate change | Paper, vegetation, wood sticks and transparent bars | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "脆弱的北極：旋轉的冰",
+          "description": "透明與黑色層板堆疊成塔，呈現海冰在暖化中變薄。\n\n模型製作｜氣候變遷｜紙、植栽、木棒與透明條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/01-final-tower.webp",
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/02-arctic-animals.webp",
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/03-melt-test.webp",
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/04-thermometer.webp",
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/05-ice-samples.webp",
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/06-watercolour.webp",
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/07-sketch.webp",
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/08-building.webp",
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/09-details.webp",
+        "assets/board/fragile-arctic-melting-ice-acrylic-tower/10-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished ice tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的冰之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Rising temperatures are melting Arctic sea ice faster every year. Many animals lose the ice they need for resting, hunting and raising their young.",
+          "images": [
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/02-arctic-animals.webp",
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/06-watercolour.webp"
+          ],
+          "captions": [
+            "Animals that rely on sea ice.",
+            "Watercolour of the ice landscape."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "氣溫上升使北極海冰逐年加速融化。許多動物因此失去休息、覓食與繁殖所需的冰面。",
+              "captions": [
+                "依賴海冰的動物。",
+                "冰原的水彩畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student ran a test comparing how fast ice melts in room-temperature and heated water. The results showed how a small rise in heat speeds up the loss of ice.",
+          "images": [
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/03-melt-test.webp",
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/04-thermometer.webp",
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/05-ice-samples.webp"
+          ],
+          "captions": [
+            "Ice blocks for the melting test.",
+            "Measuring water temperature.",
+            "Ice samples after melting."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生進行實驗，比較冰在室溫水與加熱水中的融化速度。結果顯示熱度的小幅上升就會加快冰的流失。",
+              "captions": [
+                "融冰實驗的冰塊。",
+                "測量水溫。",
+                "融化後的冰樣本。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A tall tower was sketched with clear planks and white platforms to stand for ice and human space. Black parts were added at the base to show the warming creeping upward.",
+          "images": [
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/07-sketch.webp",
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/08-building.webp"
+          ],
+          "captions": [
+            "First sketch of the tower.",
+            "Building with clear bars."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生畫出一座高塔，以透明板與白色平台代表冰與人的空間。底部加入黑色構件，表現暖化逐漸向上蔓延。",
+              "captions": [
+                "塔的初步草圖。",
+                "以透明條搭建。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final tower grows thinner and darker toward the bottom, like ice melting away. It turns test results into a clear image that invites people to learn and act.",
+          "images": [
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/09-details.webp",
+            "assets/board/fragile-arctic-melting-ice-acrylic-tower/10-drawing.webp"
+          ],
+          "captions": [
+            "Details with small figures.",
+            "Drawing of the final tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的塔越往下越細、越暗，像冰正在融化。它把實驗結果轉化成清楚的畫面，邀請人們了解並採取行動。",
+              "captions": [
+                "放有小人偶的細部。",
+                "最終塔的繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a real problem.\n2. Test it with an experiment.\n3. Give each finding a material.\n4. Build the change in form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇一個真實問題。\n2. 以實驗驗證。\n3. 為每個發現選擇材料。\n4. 用造型表現變化。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Interpretation of Music as a Sculpture",
+      "slug": "music-as-sculpture-flute-straw-waves",
+      "description": "Two trials turn the calm of playing the flute into waves of cut straws.\n\nModel making | Music to space | Plastic straws, hot glue, plastic board and spray paint | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "音樂的雕塑詮釋",
+          "description": "兩次嘗試把吹奏長笛的平靜轉化為由剪裁吸管組成的波浪。\n\n模型製作｜從音樂到空間｜塑膠吸管、熱熔膠、塑膠板與噴漆｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/music-as-sculpture-flute-straw-waves/01-final-waves.webp",
+        "assets/board/music-as-sculpture-flute-straw-waves/02-first-trial.webp",
+        "assets/board/music-as-sculpture-flute-straw-waves/03-first-sketches.webp",
+        "assets/board/music-as-sculpture-flute-straw-waves/04-flute-drawing.webp",
+        "assets/board/music-as-sculpture-flute-straw-waves/05-first-watercolour.webp",
+        "assets/board/music-as-sculpture-flute-straw-waves/06-first-detail.webp",
+        "assets/board/music-as-sculpture-flute-straw-waves/07-straw-drawing.webp",
+        "assets/board/music-as-sculpture-flute-straw-waves/08-line-sketches.webp",
+        "assets/board/music-as-sculpture-flute-straw-waves/09-cutting-straws.webp",
+        "assets/board/music-as-sculpture-flute-straw-waves/10-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/music-as-sculpture-flute-straw-waves/01-final-waves.webp"
+          ],
+          "captions": [
+            "The finished straw waves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的吸管波浪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Playing the flute gives the student a calm, familiar feeling. The project asks how that feeling could be shown as a sculpture and a space.",
+          "images": [
+            "assets/board/music-as-sculpture-flute-straw-waves/04-flute-drawing.webp"
+          ],
+          "captions": [
+            "Drawing of a flute and birds."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "吹奏長笛給學生平靜而熟悉的感受。這個專案思考如何把這種感受呈現為雕塑與空間。",
+              "captions": [
+                "長笛與鳥的繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A first trial used tubes, arches and coloured flags around a flute form. It looked more like a busy playground than calm music, so the student chose to start again.",
+          "images": [
+            "assets/board/music-as-sculpture-flute-straw-waves/02-first-trial.webp",
+            "assets/board/music-as-sculpture-flute-straw-waves/03-first-sketches.webp",
+            "assets/board/music-as-sculpture-flute-straw-waves/05-first-watercolour.webp",
+            "assets/board/music-as-sculpture-flute-straw-waves/06-first-detail.webp"
+          ],
+          "captions": [
+            "The first trial with arches and flags.",
+            "Sketches for the first trial.",
+            "Watercolour of the first trial.",
+            "Close views of the first trial."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "第一次嘗試在長笛造型周圍使用管子、拱與彩色旗子。它看起來更像熱鬧的遊樂場而非平靜的音樂，因此學生決定重新開始。",
+              "captions": [
+                "第一次嘗試的拱與旗。",
+                "第一次嘗試的草圖。",
+                "第一次嘗試的水彩。",
+                "第一次嘗試的近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The second trial went abstract, using hundreds of cut paper and plastic straws. Flowing lines were sketched and then built as separate waves that were pieced together.",
+          "images": [
+            "assets/board/music-as-sculpture-flute-straw-waves/07-straw-drawing.webp",
+            "assets/board/music-as-sculpture-flute-straw-waves/08-line-sketches.webp",
+            "assets/board/music-as-sculpture-flute-straw-waves/09-cutting-straws.webp"
+          ],
+          "captions": [
+            "Drawing of the straw forms.",
+            "Sketching the flowing lines.",
+            "Cutting and gluing straws."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "第二次嘗試轉向抽象，使用數百根剪裁的紙吸管與塑膠吸管。學生先描繪流動線條，再做成一段段波浪拼合起來。",
+              "captions": [
+                "吸管造型的繪圖。",
+                "描繪流動的線條。",
+                "剪裁並黏合吸管。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final sculpture rises in grey and black waves like notes in the air. Small figures turn it into an urban space shaped by music.",
+          "images": [
+            "assets/board/music-as-sculpture-flute-straw-waves/10-details.webp"
+          ],
+          "captions": [
+            "Small figures among the waves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的雕塑以灰黑色的波浪升起，像空中的音符。小人偶讓它成為由音樂塑造的城市空間。",
+              "captions": [
+                "波浪間的小人偶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name the feeling.\n2. Test a first model.\n3. Be ready to start again.\n4. Refine one material.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 說出那種感受。\n2. 測試第一個模型。\n3. 勇於重新開始。\n4. 精煉一種材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Three-Dimensional Modular System Study",
+      "slug": "three-dimensional-modular-system-cardboard-tower",
+      "description": "A precedent study of stacked modular boxes grows into an open cardboard tower.\n\nModel making | Precedent model study | Wood sticks, white cardboard and glue | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "立體模組系統研究",
+          "description": "一項堆疊模組盒體的先例研究，長成一座開放的紙板塔。\n\n模型製作｜先例模型研究｜木棒、白紙板與膠｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/three-dimensional-modular-system-cardboard-tower/01-final-tower.webp",
+        "assets/board/three-dimensional-modular-system-cardboard-tower/02-materials.webp",
+        "assets/board/three-dimensional-modular-system-cardboard-tower/03-small-model-a.webp",
+        "assets/board/three-dimensional-modular-system-cardboard-tower/04-small-model-b.webp",
+        "assets/board/three-dimensional-modular-system-cardboard-tower/05-close-view.webp",
+        "assets/board/three-dimensional-modular-system-cardboard-tower/06-hand-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/three-dimensional-modular-system-cardboard-tower/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished modular tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的模組塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A famous 1960s housing idea stacked boxes in three dimensions to solve crowded space. The student wanted to test how far such a modular system could grow.",
+          "images": [
+            "assets/board/three-dimensional-modular-system-cardboard-tower/02-materials.webp"
+          ],
+          "captions": [
+            "Cardboard and sticks ready to build."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一個著名的1960年代住宅構想，以立體堆疊盒體解決擁擠的空間。學生想測試這樣的模組系統能長到多遠。",
+              "captions": [
+                "準備好的紙板與木棒。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Several small modular models were made first to understand how the units link. They were then combined and extended upward and sideways.",
+          "images": [
+            "assets/board/three-dimensional-modular-system-cardboard-tower/03-small-model-a.webp",
+            "assets/board/three-dimensional-modular-system-cardboard-tower/04-small-model-b.webp"
+          ],
+          "captions": [
+            "A small modular test.",
+            "Units combined and extended."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先做幾個小型模組模型，了解單元如何相連。接著把它們組合，並向上與向旁延伸。",
+              "captions": [
+                "小型模組測試。",
+                "組合並延伸的單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "As the model grew, continuous voids appeared that let light in from many angles. Some spaces were then enclosed to add a sense of boundary, and stick frames marked open rooms.",
+          "images": [
+            "assets/board/three-dimensional-modular-system-cardboard-tower/05-close-view.webp"
+          ],
+          "captions": [
+            "Voids and platforms up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "模型長大時出現連續的虛空間，讓光從多個角度進入。學生接著封閉部分空間以增加邊界感，並用木棒框架標示開放房間。",
+              "captions": [
+                "近看虛空間與平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final tower mixes closed white boxes, open frames and platforms of many sizes. A detailed hand drawing was used to study its light, shadow and connections.",
+          "images": [
+            "assets/board/three-dimensional-modular-system-cardboard-tower/06-hand-drawing.webp"
+          ],
+          "captions": [
+            "Hand drawing of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的塔混合封閉的白色盒體、開放框架與各種尺度的平台。學生以細緻的手繪研究它的光影與連結。",
+              "captions": [
+                "塔的手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a precedent system.\n2. Build small units first.\n3. Let the system grow.\n4. Draw it to understand it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一個先例系統。\n2. 先做小單元。\n3. 讓系統成長。\n4. 以手繪理解它。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "City in Window",
+      "slug": "city-in-window-fragmented-reflection-stick-model",
+      "description": "Broken reflections in city windows are rebuilt as a tower of stick frames and planes.\n\nModel making | City impressions | PVC board and wood sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "窗中城市",
+          "description": "城市窗戶中破碎的倒影，被重建成一座木棒框架與平面組成的塔。\n\n模型製作｜城市印象｜PVC板與木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/city-in-window-fragmented-reflection-stick-model/01-final-model.webp",
+        "assets/board/city-in-window-fragmented-reflection-stick-model/02-window-sketches.webp",
+        "assets/board/city-in-window-fragmented-reflection-stick-model/03-collage.webp",
+        "assets/board/city-in-window-fragmented-reflection-stick-model/04-process.webp",
+        "assets/board/city-in-window-fragmented-reflection-stick-model/05-phase-one.webp",
+        "assets/board/city-in-window-fragmented-reflection-stick-model/06-phase-two.webp",
+        "assets/board/city-in-window-fragmented-reflection-stick-model/07-phase-three.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/city-in-window-fragmented-reflection-stick-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished fragment tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的碎片之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Windows in the city reflect buildings in bent and broken pieces. The student found these reflections more interesting than the city seen directly.",
+          "images": [
+            "assets/board/city-in-window-fragmented-reflection-stick-model/02-window-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of building windows."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "城市中的窗戶以彎曲破碎的片段映照建築。學生發現這些倒影比直接看到的城市更有趣。",
+              "captions": [
+                "建築窗戶的速寫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Photos of windows were traced, cut and collaged into new patterns. The lines were then simplified into points, lines and surfaces.",
+          "images": [
+            "assets/board/city-in-window-fragmented-reflection-stick-model/03-collage.webp"
+          ],
+          "captions": [
+            "Collage and traced lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生描下窗戶的照片，再剪裁拼貼成新的圖案。接著把線條簡化為點、線與面。",
+              "captions": [
+                "拼貼與描出的線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The patterns were imagined in 3D and built with wood strips and PVC boards. Three phases moved from single fragments to overlapping layers and then to tower forms.",
+          "images": [
+            "assets/board/city-in-window-fragmented-reflection-stick-model/04-process.webp",
+            "assets/board/city-in-window-fragmented-reflection-stick-model/05-phase-one.webp",
+            "assets/board/city-in-window-fragmented-reflection-stick-model/06-phase-two.webp"
+          ],
+          "captions": [
+            "Early stick and board models.",
+            "Phase one: single fragments.",
+            "Phase two: overlapping layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "這些圖案被想像成立體，以木條與PVC板製作。三個階段從單一碎片走向重疊層次，再發展成塔的造型。",
+              "captions": [
+                "早期的木棒與板材模型。",
+                "第一階段：單一碎片。",
+                "第二階段：重疊層次。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model stacks striped frames and pale planes into an irregular tower. Its overlapping shadows rebuild the broken city seen in a window.",
+          "images": [
+            "assets/board/city-in-window-fragmented-reflection-stick-model/07-phase-three.webp"
+          ],
+          "captions": [
+            "Phase three: tower studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型把條紋框架與淺色平面堆疊成不規則的塔。重疊的陰影重建了窗中那座破碎的城市。",
+              "captions": [
+                "第三階段：塔的研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect everyday views.\n2. Trace and collage them.\n3. Simplify to lines and planes.\n4. Build in phases.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集日常景象。\n2. 描摹並拼貼。\n3. 簡化為線與面。\n4. 分階段製作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Sharpness of Language",
+      "slug": "sharpness-of-language-mirror-cube-mouths",
+      "description": "Clay mouths sit in a mirror cube surrounded by sharp paper shards of words.\n\nModel making | Concept installation | Mirrors, clay, plastic sticks, magazine paper and plastic sheets | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "語言的鋒利",
+          "description": "黏土嘴巴坐在鏡面立方中，四周環繞著尖銳的文字紙片。\n\n模型製作｜概念裝置｜鏡子、黏土、塑膠棒、雜誌紙與塑膠片｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sharpness-of-language-mirror-cube-mouths/01-final-cube.webp",
+        "assets/board/sharpness-of-language-mirror-cube-mouths/02-sketch.webp",
+        "assets/board/sharpness-of-language-mirror-cube-mouths/03-sculpting.webp",
+        "assets/board/sharpness-of-language-mirror-cube-mouths/04-assembling.webp",
+        "assets/board/sharpness-of-language-mirror-cube-mouths/05-top-view.webp",
+        "assets/board/sharpness-of-language-mirror-cube-mouths/06-cube-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sharpness-of-language-mirror-cube-mouths/01-final-cube.webp"
+          ],
+          "captions": [
+            "Mouths inside the mirror cube."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鏡面立方中的嘴巴。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Online, a few harsh words can hurt more than a physical weapon. The student wanted to show how one person cannot escape the pressure of public opinion.",
+          "images": [
+            "assets/board/sharpness-of-language-mirror-cube-mouths/02-sketch.webp"
+          ],
+          "captions": [
+            "First sketch of the idea."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在網路上，少數尖銳的言語可能比實體武器更傷人。學生想表現一個人如何難以逃離輿論的壓力。",
+              "captions": [
+                "概念的初步草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The idea grew into a person wishing for many mouths to answer words coming from every side. A mouth was chosen as the main form and sculpted in clay with careful colour and texture.",
+          "images": [
+            "assets/board/sharpness-of-language-mirror-cube-mouths/03-sculpting.webp"
+          ],
+          "captions": [
+            "Sculpting a clay mouth."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "概念發展成一個人渴望擁有許多張嘴，回應來自四面八方的言語。學生選擇嘴巴作為主要造型，以黏土細緻塑造顏色與質感。",
+              "captions": [
+                "雕塑黏土嘴巴。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Headlines in many languages were cut into sharp triangles and fixed on clear sheets and rods. Three mirrors were then joined into a cube to multiply the mouths and shards.",
+          "images": [
+            "assets/board/sharpness-of-language-mirror-cube-mouths/04-assembling.webp"
+          ],
+          "captions": [
+            "Fixing the shards in place."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "多種語言的標題被剪成尖銳的三角形，固定在透明片與塑膠棒上。接著把三面鏡子組成立方，讓嘴巴與紙片不斷倍增。",
+              "captions": [
+                "固定紙片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Inside the cube, the mouths seem endless and the shards point in from all sides. The small piece makes an invisible pressure feel physical and close.",
+          "images": [
+            "assets/board/sharpness-of-language-mirror-cube-mouths/05-top-view.webp",
+            "assets/board/sharpness-of-language-mirror-cube-mouths/06-cube-view.webp"
+          ],
+          "captions": [
+            "Shards seen from above.",
+            "The cube from a corner."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在立方內，嘴巴彷彿無窮無盡，紙片從四面指向中心。這件小作品讓看不見的壓力變得具體而貼近。",
+              "captions": [
+                "從上方看紙片。",
+                "從一角看立方。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose an invisible feeling.\n2. Find one body symbol.\n3. Add contrasting materials.\n4. Use mirrors to multiply.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇一種看不見的感受。\n2. 找出一個身體符號。\n3. 加入對比的材料。\n4. 用鏡子使其倍增。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Harmonic Home",
+      "slug": "harmonic-home-treble-clef-garden-house",
+      "description": "A house shaped by the treble clef wraps a sloping roof garden for a musical family.\n\nModel making | House design | 3D print (PLA), wooden board, clay and Rhino | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "和諧之家",
+          "description": "一座以高音譜號為形的住宅，包覆著為音樂家庭設計的傾斜屋頂花園。\n\n模型製作｜住宅設計｜3D列印（PLA）、木板、黏土與Rhino｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/harmonic-home-treble-clef-garden-house/01-roof-garden.webp",
+        "assets/board/harmonic-home-treble-clef-garden-house/02-sketches.webp",
+        "assets/board/harmonic-home-treble-clef-garden-house/03-renders.webp",
+        "assets/board/harmonic-home-treble-clef-garden-house/04-watercolour.webp",
+        "assets/board/harmonic-home-treble-clef-garden-house/05-interior-render.webp",
+        "assets/board/harmonic-home-treble-clef-garden-house/06-top-view.webp",
+        "assets/board/harmonic-home-treble-clef-garden-house/07-interior-top.webp",
+        "assets/board/harmonic-home-treble-clef-garden-house/08-garden-detail.webp",
+        "assets/board/harmonic-home-treble-clef-garden-house/09-glass-facade.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/harmonic-home-treble-clef-garden-house/01-roof-garden.webp"
+          ],
+          "captions": [
+            "The finished house and roof garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的住宅與屋頂花園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A home can be more than rooms; it can connect the people who live in it. The student wanted a house that expresses music and the bond between family members.",
+          "images": [
+            "assets/board/harmonic-home-treble-clef-garden-house/02-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of the clef-shaped plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "家不只是房間，也能連結住在其中的人。學生希望設計一座表現音樂與家人情感連結的住宅。",
+              "captions": [
+                "高音譜號平面的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The treble clef gave the flowing plan, and a note shape gave the triangular structure. A lush garden was added to stand for the growth of the family.",
+          "images": [
+            "assets/board/harmonic-home-treble-clef-garden-house/03-renders.webp",
+            "assets/board/harmonic-home-treble-clef-garden-house/04-watercolour.webp"
+          ],
+          "captions": [
+            "Digital renders of the house.",
+            "Watercolour of the exterior."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "高音譜號帶來流動的平面，音符的形狀則形成三角形結構。學生加入茂盛的花園，象徵家庭的成長。",
+              "captions": [
+                "住宅的數位渲染。",
+                "外觀水彩。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The design was modelled and tested digitally, then the complex roof was 3D printed. Walls and clear windows were laser cut, and furniture and planting were added by hand.",
+          "images": [
+            "assets/board/harmonic-home-treble-clef-garden-house/05-interior-render.webp",
+            "assets/board/harmonic-home-treble-clef-garden-house/07-interior-top.webp"
+          ],
+          "captions": [
+            "The bright living space.",
+            "Rooms seen without the roof."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計先以數位建模與模擬，再以3D列印製作複雜的屋頂。牆面與透明窗經雷射切割，家具與植栽則以手工加入。",
+              "captions": [
+                "明亮的起居空間。",
+                "移除屋頂後的房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model rises from a glass frame to a green roof walk. Its open plan and shared garden invite the family to meet and talk.",
+          "images": [
+            "assets/board/harmonic-home-treble-clef-garden-house/06-top-view.webp",
+            "assets/board/harmonic-home-treble-clef-garden-house/08-garden-detail.webp",
+            "assets/board/harmonic-home-treble-clef-garden-house/09-glass-facade.webp"
+          ],
+          "captions": [
+            "The garden path from above.",
+            "Figures in the garden.",
+            "The glass frame facade."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型從玻璃框架升起，延伸到綠色的屋頂步道。開放平面與共享花園邀請家人相聚交流。",
+              "captions": [
+                "從上方看花園小徑。",
+                "花園中的人偶。",
+                "玻璃框架立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find a symbol to follow.\n2. Turn it into a plan.\n3. Test it digitally.\n4. Build with mixed methods.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找到要追隨的符號。\n2. 把它轉化為平面。\n3. 以數位方式測試。\n4. 以多種方法製作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
