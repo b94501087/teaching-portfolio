@@ -1,0 +1,67 @@
+{
+  "project": "Urban Rain Garden",
+  "dest": "assets/board/urban-rain-garden-sponge-city-terrain-model",
+  "note": "Portfolio 915e pages 5-6 cropped to ten images, WebP q88 (PIL). Not used: site photo with a visitor, design-firm name.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "3c878aae8314d6307c8c6ec68acfbe073c2fda565089e7de517a9e06e76807b6",
+      "bytes": 116864,
+      "from": "915e page 6 — final model"
+    },
+    {
+      "name": "02-site-terraces.webp",
+      "sha256": "790d6f705de4bc944c24c5715b2940e3bb48ca9d3ba89b8f058f0852cee84180",
+      "bytes": 21464,
+      "from": "915e page 5 — site terraces"
+    },
+    {
+      "name": "03-site-pool.webp",
+      "sha256": "2772cb652efed769c923d06630fcad0acda1578c6e2d588ab55da3eb741c2dea",
+      "bytes": 19016,
+      "from": "915e page 5 — site pool"
+    },
+    {
+      "name": "04-section-sketch.webp",
+      "sha256": "bd6805a9747c076f5b5aadb74b47e3d5e1945a48bc4994d7d3dcb84cb3c8f039",
+      "bytes": 74672,
+      "from": "915e page 5 — section sketch"
+    },
+    {
+      "name": "05-foam-base.webp",
+      "sha256": "492a3b777517504317e9fb7bbd86c89c1601f767b5936308a6634c4ea472a675",
+      "bytes": 10648,
+      "from": "915e page 5 — foam base"
+    },
+    {
+      "name": "06-clay-layer.webp",
+      "sha256": "0c8a5e4338c37b72b5c49e25d4ed12e6d89cc1062b8394106db6d5d91735ecc3",
+      "bytes": 10604,
+      "from": "915e page 5 — clay layer"
+    },
+    {
+      "name": "07-stones-water.webp",
+      "sha256": "d7819f997135e04d6fa33166063e70e87dbbf74b32b8bde335db466f7a9a79eb",
+      "bytes": 17056,
+      "from": "915e page 5 — stones water"
+    },
+    {
+      "name": "08-planting.webp",
+      "sha256": "bf85e0744555b188747c7f48cd7ada031f239676a881f5b0b092392b458ca4f1",
+      "bytes": 38590,
+      "from": "915e page 5 — planting"
+    },
+    {
+      "name": "09-flow-diagram.webp",
+      "sha256": "3cc815dd284dac585c8c08aca2a118b1f043c6d61af043ac1d81821de0d95932",
+      "bytes": 115344,
+      "from": "915e page 6 — flow diagram"
+    },
+    {
+      "name": "10-pond-detail.webp",
+      "sha256": "e5dc35be1fe4e23fd3e61d044d85b21aebf7bb1387c40ad7ae6630c1939f7814",
+      "bytes": 57152,
+      "from": "915e page 6 — pond detail"
+    }
+  ]
+}
