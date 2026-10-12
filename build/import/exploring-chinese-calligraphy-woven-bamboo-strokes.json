@@ -1,0 +1,49 @@
+{
+  "project": "Exploring Chinese Calligraphy",
+  "dest": "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes",
+  "note": "Portfolio f312 page 8 cropped to seven images, WebP q88 (PIL). Not used: title and text, reproductions of historic calligraphy, process photos showing hands.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "5664860a47fe776176145d7306844fc500a884685294ea25fa3feb94dee0d02e",
+      "bytes": 67640,
+      "from": "f312 page 8 — final model"
+    },
+    {
+      "name": "02-stroke-sketch.webp",
+      "sha256": "b6074b613c02c09f4b248538bd5c3eb34e2f02438b3f783a422cfce13b62a150",
+      "bytes": 8162,
+      "from": "f312 page 8 — stroke sketch"
+    },
+    {
+      "name": "03-terrace-design.webp",
+      "sha256": "1194a9b535e5f23f021b8b7432ad9835120d15b2c9dc59d6130fbbb728b24729",
+      "bytes": 56340,
+      "from": "f312 page 8 — terrace design"
+    },
+    {
+      "name": "04-weave-pattern.webp",
+      "sha256": "361f69406839d2e00df00ab2ff5a4b268d77dfc880493eab63d12a4dfe579ea7",
+      "bytes": 18952,
+      "from": "f312 page 8 — weave pattern"
+    },
+    {
+      "name": "05-curved-band.webp",
+      "sha256": "6bf3e63473b1ee3072ac1a18e790892da5cecb3c2bd4cba59ead23264b3f9734",
+      "bytes": 17334,
+      "from": "f312 page 8 — curved band"
+    },
+    {
+      "name": "06-crossing-bands.webp",
+      "sha256": "d4be8d995596e7b8d28524afc29801b886b1b1c92268258164267df08a9d08b2",
+      "bytes": 17642,
+      "from": "f312 page 8 — crossing bands"
+    },
+    {
+      "name": "07-light-shadow.webp",
+      "sha256": "950067bfc7de484ea158e1df79d6684491dfce49485271c69176ec728845be54",
+      "bytes": 10216,
+      "from": "f312 page 8 — light shadow"
+    }
+  ]
+}
