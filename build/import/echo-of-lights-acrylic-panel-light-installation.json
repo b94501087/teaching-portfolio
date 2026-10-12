@@ -1,0 +1,43 @@
+{
+  "project": "The Echo of Lights",
+  "dest": "assets/board/echo-of-lights-acrylic-panel-light-installation",
+  "note": "Portfolio f312 page 13 cropped to six images, WebP q88 (PIL). Not used: title and text, a photo showing the student.",
+  "files": [
+    {
+      "name": "01-light-wall.webp",
+      "sha256": "a66d540d3b038bfcfd67dc00058ca4958b920834e58d8984b881d311d067ddb9",
+      "bytes": 63716,
+      "from": "f312 page 13 — light wall"
+    },
+    {
+      "name": "02-colour-rays.webp",
+      "sha256": "80c4a663cca59ed5721933c9c7d5c065cb83961100ce218c3098f969dd738e90",
+      "bytes": 37414,
+      "from": "f312 page 13 — colour rays"
+    },
+    {
+      "name": "03-panel-test.webp",
+      "sha256": "def7352d700314ffc9af26066a2ce3dad3edd8b2f6d31ef3835a69130cd22aeb",
+      "bytes": 2726,
+      "from": "f312 page 13 — panel test"
+    },
+    {
+      "name": "04-dense-cluster.webp",
+      "sha256": "8b1f1b2196154b904f69795c38c43bd3ce64f8db0c0d1a63957bbb10861caa1a",
+      "bytes": 6776,
+      "from": "f312 page 13 — dense cluster"
+    },
+    {
+      "name": "05-spotlight-burst.webp",
+      "sha256": "ea31b0385707d4b74dad97bc2bdbeaf8925bea63b86eff30fdd5aedc338a505f",
+      "bytes": 18418,
+      "from": "f312 page 13 — spotlight burst"
+    },
+    {
+      "name": "06-long-shadows.webp",
+      "sha256": "d2ae99865cec8974a03f08ea67650ec3ed8a8c09db80719ae040587521a04726",
+      "bytes": 43954,
+      "from": "f312 page 13 — long shadows"
+    }
+  ]
+}
