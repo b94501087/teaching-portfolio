@@ -14267,6 +14267,141 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Conflict to Harmony",
+      "slug": "conflict-to-harmony-elephant-corridor",
+      "description": "Restored greenland, a sunken corridor and a border of beehives let elephants and villagers in Botswana share the land.\n\nChobe Enclave, Botswana | Landscape and coexistence | 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "從衝突到和諧",
+          "description": "以復育的綠地、下沉廊道與蜂箱邊界，讓波札那的大象與村民共享土地。\n\n波札那 Chobe 飛地｜景觀與共存｜2022｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/conflict-to-harmony-elephant-corridor/01-greenland-restoration.webp",
+        "assets/board/conflict-to-harmony-elephant-corridor/02-corridor-sections-a-b.webp",
+        "assets/board/conflict-to-harmony-elephant-corridor/03-corridor-sections-c-d.webp",
+        "assets/board/conflict-to-harmony-elephant-corridor/04-natural-border-plantation.webp",
+        "assets/board/conflict-to-harmony-elephant-corridor/05-strategy-plan.webp",
+        "assets/board/conflict-to-harmony-elephant-corridor/06-model-views.webp",
+        "assets/board/conflict-to-harmony-elephant-corridor/07-handmade-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/conflict-to-harmony-elephant-corridor/07-handmade-model.webp"
+          ],
+          "captions": [
+            "Handmade model of the elephant corridor and the elephant hospital."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "大象廊道與大象醫院的手作模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In the Chobe Enclave in Botswana, habitat loss and fragmentation are the leading causes of human-elephant conflict, as wild lands are converted into settlements and farms. Elephants and villagers now compete for resources in the same space, so the project asks how both can live together safely.",
+          "images": [
+            "assets/board/conflict-to-harmony-elephant-corridor/01-greenland-restoration.webp"
+          ],
+          "captions": [
+            "Strategy 1: restoring forest after wildfire, dry land after drought and grassland after invasion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在波札那的 Chobe 飛地，棲地流失與破碎化是人象衝突的主因，荒野不斷被轉作聚落與農地。大象與村民如今在同一片空間爭奪資源，因此專題探問兩者如何安全地共存。",
+              "captions": [
+                "策略一：火災後的森林、乾旱後的旱地與入侵後的草地復育。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The first strategy restores three types of greenland through artificial seeding, rainwater harvesting structures and the removal of invasive plants, creating new habitat for the elephants. When elephants have no choice but to enter the village, a sunken corridor guides them through safely without damaging the residents' property.",
+          "images": [
+            "assets/board/conflict-to-harmony-elephant-corridor/02-corridor-sections-a-b.webp",
+            "assets/board/conflict-to-harmony-elephant-corridor/03-corridor-sections-c-d.webp"
+          ],
+          "captions": [
+            "Corridor sections A-A and B-B: water collecting and the elephant SOS station.",
+            "Corridor sections C-C and D-D: camping area and slope plantation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "第一個策略以人工播種、就地集雨構造與清除入侵植物，復育三種綠地，為大象創造新棲地。當大象不得不進入村落時，一條下沉的廊道引導牠們安全通過，不損及居民的財產。",
+              "captions": [
+                "廊道剖面 A-A 與 B-B：集水與大象救援站。",
+                "廊道剖面 C-C 與 D-D：露營區與坡地種植。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "In the rainy season the corridor becomes a natural reservoir that collects and purifies rainwater for agriculture, and its slopes grow crops that elephants do not like. A natural border of beehives, which elephants dislike for their noise, replaces costly thorny plants and gives the villagers honey as extra income.",
+          "images": [
+            "assets/board/conflict-to-harmony-elephant-corridor/04-natural-border-plantation.webp",
+            "assets/board/conflict-to-harmony-elephant-corridor/05-strategy-plan.webp"
+          ],
+          "captions": [
+            "Strategy 3: plantation patterns and how to build the border with beehives.",
+            "Strategy plan of village routes, bee box areas and elephant directions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "雨季時，廊道成為收集並淨化雨水、供農業使用的天然蓄水池，坡面則種植大象不喜歡的作物。以大象厭惡其聲響的蜂箱構成天然邊界，取代成本高的帶刺植物，也讓村民以蜂蜜增加收入。",
+              "captions": [
+                "策略三：種植配置，以及如何用蜂箱建立邊界。",
+                "村落路線、蜂箱區與大象動線的策略配置圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "An elephant rescue station in the middle of the corridor helps injured elephants heal, and landscape bridges and a camping area bring tourism to the village. The handmade model shows how villagers and elephants keep their own flows without interfering with each other.",
+          "images": [
+            "assets/board/conflict-to-harmony-elephant-corridor/06-model-views.webp"
+          ],
+          "captions": [
+            "Model views: under the bridge, from the village towards the elephant hospital, and towards its exit."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "廊道中央的大象救援站協助受傷的大象療傷，景觀橋與露營區則為村落帶來觀光。手作模型呈現村民與大象各有動線、互不干擾的樣貌。",
+              "captions": [
+                "模型視角：橋下、從村落望向大象醫院，以及望向醫院出口。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find the root cause of the conflict.\n2. Restore habitat before building barriers.\n3. Give each side its own flow.\n4. Turn the border into an income.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出衝突的根本原因。\n2. 先復育棲地，再談阻隔。\n3. 讓雙方各有自己的動線。\n4. 讓邊界成為收入來源。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
