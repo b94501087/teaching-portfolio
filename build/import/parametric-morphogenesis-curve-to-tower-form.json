@@ -1,0 +1,43 @@
+{
+  "project": "Parametric Morphogenesis",
+  "dest": "assets/board/parametric-morphogenesis-curve-to-tower-form",
+  "note": "Portfolio 9caf page 14 cropped to six images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-form.webp",
+      "sha256": "2a80c7bbd609ae326db345ee445875c60b6f62dfce6a10a533732044ef966c67",
+      "bytes": 75332,
+      "from": "9caf page 14 — final form"
+    },
+    {
+      "name": "02-curve.webp",
+      "sha256": "ebb0d7af99d5a4c320e39d5641a0807afab810c02ffc0f9e8934075e13fb603a",
+      "bytes": 4382,
+      "from": "9caf page 14 — curve"
+    },
+    {
+      "name": "03-array-scale-rotate.webp",
+      "sha256": "71074f2b046ecce7cf7998da83eae6f71b5049fdfe9b0e86b517eb2700abc630",
+      "bytes": 34656,
+      "from": "9caf page 14 — array scale rotate"
+    },
+    {
+      "name": "04-script.webp",
+      "sha256": "092ad8c37b2f869abb17961aa1ed2e173e3fd8dff91a807c4bb5a9d6a0553f76",
+      "bytes": 29576,
+      "from": "9caf page 14 — script"
+    },
+    {
+      "name": "05-loft-to-pipe.webp",
+      "sha256": "96a645020bc1d2030b5ffc601d55625c140a20478937cabd24f0a05355e12f14",
+      "bytes": 27764,
+      "from": "9caf page 14 — loft to pipe"
+    },
+    {
+      "name": "06-top-view.webp",
+      "sha256": "9eb7a1e669c1e17ecde1e7b829b6a9463cc0412425a8d55b3e7533ed3c2e69e0",
+      "bytes": 9444,
+      "from": "9caf page 14 — top view"
+    }
+  ]
+}
