@@ -1,0 +1,67 @@
+{
+  "project": "Blooming with the Bamboo",
+  "dest": "assets/board/blooming-with-bamboo-chrysanthemum-strip-model",
+  "note": "Portfolio f312 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "9eca50f2a445c76031a5a91d41319c3470168d1ed63e275989ef1090981df6a9",
+      "bytes": 265974,
+      "from": "f312 page 7 — final model"
+    },
+    {
+      "name": "02-flower-study.webp",
+      "sha256": "fc134278450b8b332fc74d13d9c9bd73e1d34236255100f8e9dab7a3449585f0",
+      "bytes": 110494,
+      "from": "f312 page 6 — flower study"
+    },
+    {
+      "name": "03-stick-frame.webp",
+      "sha256": "d192b1c5d3114363a2a0116ad4e20faa50228e6143dabcd315cbac3cc5a92bff",
+      "bytes": 13794,
+      "from": "f312 page 6 — stick frame"
+    },
+    {
+      "name": "04-strip-curves.webp",
+      "sha256": "632cb7a3b4ea88ca62b5a3d72104ba6e47713586222341394ec80555918ffc6b",
+      "bytes": 32494,
+      "from": "f312 page 6 — strip curves"
+    },
+    {
+      "name": "05-frame-side.webp",
+      "sha256": "3b399cc1c9589d79b6d6ab19d42b7d1c8551f16ada662155832f878afe569cf9",
+      "bytes": 14670,
+      "from": "f312 page 6 — frame side"
+    },
+    {
+      "name": "06-adding-strips.webp",
+      "sha256": "8751c7ed07cae9d2dae935d282078ff6dcfb1823519234298016307efa8340fd",
+      "bytes": 66136,
+      "from": "f312 page 6 — adding strips"
+    },
+    {
+      "name": "07-digital-model.webp",
+      "sha256": "b861b0b8c581ced45f9fcbb6e1ff10de24759b131837fff7c71b3a690d640e19",
+      "bytes": 16414,
+      "from": "f312 page 7 — digital model"
+    },
+    {
+      "name": "08-top-view.webp",
+      "sha256": "dee5eda2cdc9d56feb96b9be95a0cfa75f39ffd2fcedc60e36e756587465f5b9",
+      "bytes": 23704,
+      "from": "f312 page 7 — top view"
+    },
+    {
+      "name": "09-inner-layers.webp",
+      "sha256": "8e833e8f013df8f74d8e6fe89bd4bc0b7593f2b4b789635c01e04c1f8322a967",
+      "bytes": 46180,
+      "from": "f312 page 7 — inner layers"
+    },
+    {
+      "name": "10-low-view.webp",
+      "sha256": "a9f5fd40b3ea1b1029dba3036a0a16d13e1e189f6def43ee7a2febb73eee7a99",
+      "bytes": 30830,
+      "from": "f312 page 7 — low view"
+    }
+  ]
+}
