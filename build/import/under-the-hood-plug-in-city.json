@@ -1,0 +1,67 @@
+{
+  "project": "Under the Hood",
+  "dest": "assets/board/under-the-hood-plug-in-city",
+  "note": "Portfolio 2712 pages 10-13 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with instructor and collaborator names, the precedent photos and quote, the concept sketch page and the small render strip.",
+  "files": [
+    {
+      "name": "01-plug-in-model.webp",
+      "sha256": "b9b63091b5bc0759965092f0ab65b76a9588c6865a809151dc91d60983a82206",
+      "bytes": 106732,
+      "from": "2712 page 10 — plug-in model view"
+    },
+    {
+      "name": "02-time-made-visible.webp",
+      "sha256": "c0c081e0de1fb9036d233ac1d7258afc1c9d9ede6bb78281df3da8b9c4d6de43",
+      "bytes": 60268,
+      "from": "2712 page 11 — melting cheese time study"
+    },
+    {
+      "name": "03-time-slices-frame.webp",
+      "sha256": "789b3c4798e6bc6aeb66e6bcb416e69ff7e03a8f5450eee0e47a104d50c80c69",
+      "bytes": 106406,
+      "from": "2712 page 11 — time slices on a structure frame"
+    },
+    {
+      "name": "04-exploded-section.webp",
+      "sha256": "ebbbcb2a7af6051e1d0c87a89a8cd5f540a4cd2184c04f883e5180b12dc76aec",
+      "bytes": 141862,
+      "from": "2712 page 11 — exploded section"
+    },
+    {
+      "name": "05-model-elevation.webp",
+      "sha256": "03b9ff8b00ab2e2f89640fb371e175405a3b03221261001c096c95d333883f71",
+      "bytes": 422952,
+      "from": "2712 page 11 — model elevation"
+    },
+    {
+      "name": "06-section.webp",
+      "sha256": "98646870602e17cf9a558803ff61a91a6d82131319a226d18d7f8763000225c0",
+      "bytes": 129184,
+      "from": "2712 page 12 — section"
+    },
+    {
+      "name": "07-model-views.webp",
+      "sha256": "67562b9cbf7c4f7dd6b1fcc646b9497cf666d6ff7589e7af11c208d298384222",
+      "bytes": 146630,
+      "from": "2712 page 12 — model views"
+    },
+    {
+      "name": "08-plan.webp",
+      "sha256": "2bab10087ee1bf295ec0f844bcc2e43acbd182f30fcfddca5771eefc13735d96",
+      "bytes": 251182,
+      "from": "2712 page 12 — plan"
+    },
+    {
+      "name": "09-aerial-view.webp",
+      "sha256": "878cc1cd4a362da8928ca39a15732fc015b13f14c3c86ada15752f61bb50621c",
+      "bytes": 273728,
+      "from": "2712 page 13 — aerial rendering"
+    },
+    {
+      "name": "10-sectional-axonometric.webp",
+      "sha256": "3354b705940635d0f9ea19d704b101336d245b630bee7e34b556e0d9f6d44a47",
+      "bytes": 226194,
+      "from": "2712 page 13 — sectional axonometric"
+    }
+  ]
+}
