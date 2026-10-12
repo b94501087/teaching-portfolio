@@ -33169,6 +33169,566 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Folded Cultural Centre in Tartu",
+      "slug": "tartu-folded-cultural-centre",
+      "description": "A folded cultural centre that gathers a city's scattered public spaces into one landscape.\n\nTartu, Estonia | Architecture | Cultural centre | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "塔爾圖摺疊文化中心",
+          "description": "把城市分散的公共空間收攏為一片地景的摺疊文化中心。\n\n愛沙尼亞塔爾圖｜建築｜文化中心｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tartu-folded-cultural-centre/01-folded-cultural-centre.webp",
+        "assets/board/tartu-folded-cultural-centre/02-sculpted-form-render.webp",
+        "assets/board/tartu-folded-cultural-centre/03-site-analysis.webp",
+        "assets/board/tartu-folded-cultural-centre/04-form-studies.webp",
+        "assets/board/tartu-folded-cultural-centre/05-exploded-axonometric.webp",
+        "assets/board/tartu-folded-cultural-centre/06-form-and-model.webp",
+        "assets/board/tartu-folded-cultural-centre/07-model-detail.webp",
+        "assets/board/tartu-folded-cultural-centre/08-floor-plan.webp",
+        "assets/board/tartu-folded-cultural-centre/09-section.webp",
+        "assets/board/tartu-folded-cultural-centre/10-interior-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tartu-folded-cultural-centre/01-folded-cultural-centre.webp"
+          ],
+          "captions": [
+            "The folded cultural centre seen from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "俯瞰摺疊形態的文化中心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A cultural centre is proposed for a riverside city with many scattered public spaces. The project asks how one building can gather these spaces into a single connected landscape.",
+          "images": [
+            "assets/board/tartu-folded-cultural-centre/02-sculpted-form-render.webp",
+            "assets/board/tartu-folded-cultural-centre/03-site-analysis.webp"
+          ],
+          "captions": [
+            "Render of the sculpted form.",
+            "Maps of public spaces and movement around the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這座文化中心位於一座公共空間分散的河岸城市。專案追問一棟建築如何把這些空間串聯成一片連續的地景。",
+              "captions": [
+                "雕塑形體的渲染圖。",
+                "基地周邊公共空間與動線的地圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Mapping shows how people move between the river, the parks and the old centre. A morphological study then tests many folded forms before one is chosen.",
+          "images": [
+            "assets/board/tartu-folded-cultural-centre/04-form-studies.webp",
+            "assets/board/tartu-folded-cultural-centre/05-exploded-axonometric.webp"
+          ],
+          "captions": [
+            "Morphological study of folded forms.",
+            "Exploded axonometric of massing, soft landscape and circulation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "地圖分析呈現人們如何在河岸、公園與舊城之間移動。接著以形態研究測試多種摺疊形體，再從中選出一個方案。",
+              "captions": [
+                "摺疊形體的形態研究。",
+                "量體、軟性地景與動線的分解軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The massing is split into soft landscape, flexible spaces and routes that weave through each other. Physical models check how the sharp folds meet the ground.",
+          "images": [
+            "assets/board/tartu-folded-cultural-centre/06-form-and-model.webp",
+            "assets/board/tartu-folded-cultural-centre/07-model-detail.webp"
+          ],
+          "captions": [
+            "Form diagram and physical model.",
+            "Close view of the folded model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "量體被拆解為軟性地景、彈性空間與彼此交織的路徑。實體模型用來檢驗銳利的摺面如何落到地面。",
+              "captions": [
+                "形體圖解與實體模型。",
+                "摺疊模型的近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The plan and section show halls set inside a continuous folded shell. Light falls through the gaps and gives the interiors a calm, cave-like feeling.",
+          "images": [
+            "assets/board/tartu-folded-cultural-centre/08-floor-plan.webp",
+            "assets/board/tartu-folded-cultural-centre/09-section.webp",
+            "assets/board/tartu-folded-cultural-centre/10-interior-views.webp"
+          ],
+          "captions": [
+            "Floor plan.",
+            "Section through the folded shell.",
+            "Interior views lit through the folds."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "平面與剖面呈現大廳被包覆在連續的摺疊外殼之中。光線從縫隙灑入，讓室內帶有安靜如洞穴般的氛圍。",
+              "captions": [
+                "平面圖。",
+                "穿過摺疊外殼的剖面。",
+                "光線從摺面間灑入的室內視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map how people move.\n2. Test many forms quickly.\n3. Split the mass into layers.\n4. Check the idea with models.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先畫出人的移動。\n2. 快速測試多種形體。\n3. 把量體拆成層次。\n4. 用模型檢驗想法。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Levanella Post-Factory",
+      "slug": "levanella-post-factory-upcycling",
+      "description": "A former factory reopened as a landscape for upcycling clothes.\n\nArezzo, Italy | Adaptive reuse | Upcycling factory | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "萊瓦內拉後工廠",
+          "description": "重新開放為衣物回收再造地景的舊工廠。\n\n義大利阿雷佐｜既有建築再利用｜回收再造工廠｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/levanella-post-factory-upcycling/01-aerial-view.webp",
+        "assets/board/levanella-post-factory-upcycling/02-site-analysis.webp",
+        "assets/board/levanella-post-factory-upcycling/03-massing-model.webp",
+        "assets/board/levanella-post-factory-upcycling/04-form-generation.webp",
+        "assets/board/levanella-post-factory-upcycling/05-floor-plans.webp",
+        "assets/board/levanella-post-factory-upcycling/06-modular-storage-unit.webp",
+        "assets/board/levanella-post-factory-upcycling/07-unit-programmes.webp",
+        "assets/board/levanella-post-factory-upcycling/08-structural-section.webp",
+        "assets/board/levanella-post-factory-upcycling/09-timber-truss-detail.webp",
+        "assets/board/levanella-post-factory-upcycling/10-long-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/levanella-post-factory-upcycling/01-aerial-view.webp"
+          ],
+          "captions": [
+            "Aerial view of the post-factory among the hills."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "山丘間的後工廠鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "An existing distribution factory is turned into a post-production landscape for upcycling clothes. The project asks how a closed industrial box can open up to show making, repair and reuse.",
+          "images": [
+            "assets/board/levanella-post-factory-upcycling/02-site-analysis.webp"
+          ],
+          "captions": [
+            "Layered analysis of the site, routes and greenery."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座既有的物流工廠被轉化為回收再造衣物的後生產地景。專案追問一個封閉的工業盒子如何打開，讓製作、修補與再利用被看見。",
+              "captions": [
+                "基地、路徑與綠地的分層分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Layered site studies map the routes, the green edges and the long factory blocks. A form sequence then cuts, lifts and folds the roof to make new open spaces.",
+          "images": [
+            "assets/board/levanella-post-factory-upcycling/03-massing-model.webp",
+            "assets/board/levanella-post-factory-upcycling/04-form-generation.webp"
+          ],
+          "captions": [
+            "Massing model of the folded roofs.",
+            "Form generation sequence."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "分層基地研究標示出路徑、綠色邊界與長條形的廠房量體。接著以形體推演把屋頂切開、抬升與摺疊，創造新的開放空間。",
+              "captions": [
+                "摺疊屋頂的量體模型。",
+                "形體生成推演。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The plan keeps the old factory ring and inserts workshops, studios and storage in the middle. Modular storage towers hold materials and can be reconfigured for different uses.",
+          "images": [
+            "assets/board/levanella-post-factory-upcycling/05-floor-plans.webp",
+            "assets/board/levanella-post-factory-upcycling/06-modular-storage-unit.webp",
+            "assets/board/levanella-post-factory-upcycling/07-unit-programmes.webp"
+          ],
+          "captions": [
+            "Floor plan and typical unit plans.",
+            "Model of a modular storage unit.",
+            "Axonometrics of the unit programmes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "平面保留舊廠房的環狀配置，並在中央置入工坊、工作室與倉儲。模組化的倉儲塔用來存放材料，並能依不同用途重新組合。",
+              "captions": [
+                "平面圖與典型單元平面。",
+                "模組化倉儲單元模型。",
+                "各單元機能的軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Timber truss frames carry the new roofs and can be taken apart and rebuilt. The long section shows making, display and storage linked along one continuous route.",
+          "images": [
+            "assets/board/levanella-post-factory-upcycling/08-structural-section.webp",
+            "assets/board/levanella-post-factory-upcycling/09-timber-truss-detail.webp",
+            "assets/board/levanella-post-factory-upcycling/10-long-section.webp"
+          ],
+          "captions": [
+            "Section of the structural system.",
+            "Detail section of the timber truss frame.",
+            "Axonometric long section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "木桁架支撐新的屋頂，並可拆解後再重新組裝。長剖面呈現製作、展示與倉儲沿著一條連續路徑串連在一起。",
+              "captions": [
+                "結構系統剖面。",
+                "木桁架的細部剖面。",
+                "軸測長剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the existing building.\n2. Cut and lift before adding.\n3. Design parts that can move.\n4. Build so it can be rebuilt.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先讀懂既有建築。\n2. 先切開抬升再加建。\n3. 設計可移動的構件。\n4. 讓建造可以重來。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Red Line Habitat: A Mars Outpost",
+      "slug": "red-line-habitat-mars-outpost",
+      "description": "A speculative modular habitat and observation outpost for Mars.\n\nMars | Speculative design | Planetary outpost | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "紅線棲居：火星前哨",
+          "description": "為火星構想的模組化棲居地與觀測前哨。\n\n火星｜推想設計｜行星前哨｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/red-line-habitat-mars-outpost/01-orbital-habitat.webp",
+        "assets/board/red-line-habitat-mars-outpost/02-habitat-drawing.webp",
+        "assets/board/red-line-habitat-mars-outpost/03-modules-orbit.webp",
+        "assets/board/red-line-habitat-mars-outpost/04-modules-ground.webp",
+        "assets/board/red-line-habitat-mars-outpost/05-assembly-flow.webp",
+        "assets/board/red-line-habitat-mars-outpost/06-assembly-simulation.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/red-line-habitat-mars-outpost/01-orbital-habitat.webp"
+          ],
+          "captions": [
+            "The habitat tower rising through stacked rings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "穿越層層環狀結構升起的棲居塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "This speculative proposal imagines an observation outpost and habitat on Mars. It asks how people could build and live in a place with thin air, dust and extreme cold.",
+          "images": [
+            "assets/board/red-line-habitat-mars-outpost/02-habitat-drawing.webp"
+          ],
+          "captions": [
+            "Line drawing of the habitat structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個推想式提案想像一座位於火星的觀測前哨與棲居地。專案追問在空氣稀薄、沙塵與極寒的環境中，人類如何建造並生活。",
+              "captions": [
+                "棲居結構的線稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The habitat is broken into modules, some for orbit and some for the ground. Each module has a clear task, such as docking, farming, storage or living.",
+          "images": [
+            "assets/board/red-line-habitat-mars-outpost/03-modules-orbit.webp",
+            "assets/board/red-line-habitat-mars-outpost/04-modules-ground.webp"
+          ],
+          "captions": [
+            "Modules for the orbital platform.",
+            "Modules for the surface base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "棲居地被拆解為多個模組，部分在軌道上，部分在地表。每個模組都有明確任務，例如對接、種植、倉儲或居住。",
+              "captions": [
+                "軌道平台的模組。",
+                "地表基地的模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A flow diagram links the modules into one assembly sequence from orbit to the ground. Arrows mark how each module connects to the next one.",
+          "images": [
+            "assets/board/red-line-habitat-mars-outpost/05-assembly-flow.webp"
+          ],
+          "captions": [
+            "Assembly flow linking the modules."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "流程圖把各模組串成一條從軌道到地表的組裝順序。箭頭標示每個模組如何接續下一個模組。",
+              "captions": [
+                "串連各模組的組裝流程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Simulation stills show cable robots putting the platform together step by step. The three stills compare the platform at different moments of the build.",
+          "images": [
+            "assets/board/red-line-habitat-mars-outpost/06-assembly-simulation.webp"
+          ],
+          "captions": [
+            "Simulation stills of robotic assembly."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模擬畫面呈現纜索機器人一步步組裝平台。三張畫面比較平台在組裝過程中不同時刻的狀態。",
+              "captions": [
+                "機器人組裝的模擬畫面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the hardest condition.\n2. Break the system into modules.\n3. Give each part one job.\n4. Show how it gets built.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從最嚴苛的條件開始。\n2. 把系統拆成模組。\n3. 讓每個部分只做一件事。\n4. 說明它如何被建造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Post-Arctic Waterfront",
+      "slug": "post-arctic-waterfront-wetland",
+      "description": "A phased public wetland that filters water and builds habitat on an Arctic shore.\n\nLongyearbyen, Svalbard | Landscape | Coastal wetland | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "後北極水岸",
+          "description": "在北極海岸過濾水質、營造棲地的分期公共濕地。\n\n斯瓦巴群島朗伊爾城｜地景｜海岸濕地｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/post-arctic-waterfront-wetland/01-waterfront-map.webp",
+        "assets/board/post-arctic-waterfront-wetland/02-arctic-globe.webp",
+        "assets/board/post-arctic-waterfront-wetland/03-sediment-tests.webp",
+        "assets/board/post-arctic-waterfront-wetland/04-sea-level-scenarios.webp",
+        "assets/board/post-arctic-waterfront-wetland/05-landscape-phases.webp",
+        "assets/board/post-arctic-waterfront-wetland/06-system-diagram.webp",
+        "assets/board/post-arctic-waterfront-wetland/07-species-and-shoreline.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/post-arctic-waterfront-wetland/01-waterfront-map.webp"
+          ],
+          "captions": [
+            "Map of the coastal waterfront with tide and flow charts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "海岸水岸地圖與潮汐、水流圖表。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "An Arctic harbour town faces melting ground, rising water and growing tourism along its shore. The project turns the waterfront into a phased public wetland that filters water and makes new habitat.",
+          "images": [
+            "assets/board/post-arctic-waterfront-wetland/02-arctic-globe.webp"
+          ],
+          "captions": [
+            "Drawing of the Arctic context."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座北極港灣小鎮正面對凍土融化、水位上升與沿岸觀光增加的壓力。專案把水岸轉化為分期發展的公共濕地，用來過濾水質並營造新的棲地。",
+              "captions": [
+                "北極區域脈絡圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sediment tests study how mud and gravel settle in water over time. Three sea-level scenarios show how the shore could change in the coming decades.",
+          "images": [
+            "assets/board/post-arctic-waterfront-wetland/03-sediment-tests.webp",
+            "assets/board/post-arctic-waterfront-wetland/04-sea-level-scenarios.webp"
+          ],
+          "captions": [
+            "Sediment settling tests.",
+            "Sea-level scenarios for the shore."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "沉積實驗研究泥沙與碎石如何隨時間在水中沉降。三個海平面情境呈現海岸在未來數十年可能出現的變化。",
+              "captions": [
+                "泥沙沉降實驗。",
+                "海岸的海平面變化情境。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Landscape blocks test outflow, sedimentation, filtration and water storage in several stages. Each stage lets the planting grow a little further into the bay.",
+          "images": [
+            "assets/board/post-arctic-waterfront-wetland/05-landscape-phases.webp"
+          ],
+          "captions": [
+            "Landscape process phases."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "地景模塊分階段測試出流、沉積、過濾與儲水。每一個階段都讓植栽再往海灣多延伸一些。",
+              "captions": [
+                "地景過程的分期。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A system diagram links filtering, habitat and visitor routes into one public landscape. Birds, plants and people share a soft shoreline instead of a hard edge.",
+          "images": [
+            "assets/board/post-arctic-waterfront-wetland/06-system-diagram.webp",
+            "assets/board/post-arctic-waterfront-wetland/07-species-and-shoreline.webp"
+          ],
+          "captions": [
+            "System diagram of the wetland.",
+            "Species and the shoreline profile."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "系統圖把過濾、棲地與遊客路線串連成一片公共地景。鳥類、植物與人共享一條柔性的海岸線，而不是堅硬的邊界。",
+              "captions": [
+                "濕地的系統圖。",
+                "物種與海岸線剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Test the material first.\n2. Draw the future scenarios.\n3. Grow the design in phases.\n4. Share the edge with nature.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先測試材料。\n2. 畫出未來的情境。\n3. 分階段讓設計生長。\n4. 與自然共享邊界。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
