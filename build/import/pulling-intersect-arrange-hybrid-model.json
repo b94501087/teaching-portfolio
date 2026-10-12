@@ -1,0 +1,49 @@
+{
+  "project": "Pulling, Intersect, Arrange",
+  "dest": "assets/board/pulling-intersect-arrange-hybrid-model",
+  "note": "Portfolio 2cd4 page 2 cropped to seven images, WebP q88 (PIL). Not used: title and body text with course and assistant names.",
+  "files": [
+    {
+      "name": "01-hybrid-model.webp",
+      "sha256": "bbbee9ba9823f138b2b5cc9785cab9b8c5edd3a8d4b6376cd573cd013f48f046",
+      "bytes": 48890,
+      "from": "2cd4 page 2 — hybrid model"
+    },
+    {
+      "name": "02-verb-diagrams.webp",
+      "sha256": "3c3faddab635ba36c04f70220012f8cf733e762696064e902798cd0aec4b455d",
+      "bytes": 15836,
+      "from": "2cd4 page 2 — pulling, intersect and arrange diagrams"
+    },
+    {
+      "name": "03-pulling-models.webp",
+      "sha256": "ed3fecc5a41bf54d492910f93d30aeea949fbac458d29a8d803c410ab06e3168",
+      "bytes": 12434,
+      "from": "2cd4 page 2 — study models of pulling"
+    },
+    {
+      "name": "04-intersect-models.webp",
+      "sha256": "463c28f1ad5ffda804c23c07fba9e178c6bce45b7a0ec2d8f62a8a31e3f7b037",
+      "bytes": 17408,
+      "from": "2cd4 page 2 — study models of intersect and arrange"
+    },
+    {
+      "name": "05-triangle-drawing.webp",
+      "sha256": "fbbf1ccb7c81d53ba01145cb6102b3799addf0f0bd47ae49cfa5f7b59583899f",
+      "bytes": 58642,
+      "from": "2cd4 page 2 — triangle pattern drawing"
+    },
+    {
+      "name": "06-tower-model.webp",
+      "sha256": "53218cffbc4e93daecb3edf1ba12da10b55daee0313a6b68e40ce3b505ad192e",
+      "bytes": 49808,
+      "from": "2cd4 page 2 — vertical study model"
+    },
+    {
+      "name": "07-tension-drawings.webp",
+      "sha256": "1f0e8c06d5e4365ae988e67df509a36797bc8a5bde495a8cb9d9f2b177ff558a",
+      "bytes": 59496,
+      "from": "2cd4 page 2 — tension drawings and elevation"
+    }
+  ]
+}
