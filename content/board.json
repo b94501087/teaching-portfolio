@@ -36952,6 +36952,698 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Rowing",
+      "slug": "rowing-kinetic-sketches-boat-anatomy",
+      "description": "Hand-drawn studies that map the motion of a rowing stroke and the anatomy of the boat.\n\nDesign Drawing | Motion study | Rowing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "划船",
+          "description": "以手繪研究划船動作的節奏，以及船身與船槳的構造。\n\n設計繪圖｜動作研究｜划船｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rowing-kinetic-sketches-boat-anatomy/01-kinetic-sketch.webp",
+        "assets/board/rowing-kinetic-sketches-boat-anatomy/02-motion-studies-a.webp",
+        "assets/board/rowing-kinetic-sketches-boat-anatomy/03-motion-studies-b.webp",
+        "assets/board/rowing-kinetic-sketches-boat-anatomy/04-boat-oar-section.webp",
+        "assets/board/rowing-kinetic-sketches-boat-anatomy/05-oar-sweep-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rowing-kinetic-sketches-boat-anatomy/01-kinetic-sketch.webp"
+          ],
+          "captions": [
+            "Aquatic kinetic sketch in pencil and pen."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以鉛筆與鋼筆繪製的水上動態草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Rowing is felt as rhythm, force and repetition, which is hard to show in a single picture. The project asks how a first-person experience of the sport can become a set of drawings.",
+          "images": [
+            "assets/board/rowing-kinetic-sketches-boat-anatomy/02-motion-studies-a.webp"
+          ],
+          "captions": [
+            "Motion studies of the stroke, first frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "划船的感受來自節奏、力量與重複，很難以單一畫面呈現。這個作品探問如何將第一人稱的運動經驗轉化為一組繪圖。",
+              "captions": [
+                "划槳動作研究的前段畫格。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The stroke was broken into a sequence of frames seen from above. Each frame records the angle of the oars and the position of the body in the boat.",
+          "images": [
+            "assets/board/rowing-kinetic-sketches-boat-anatomy/03-motion-studies-b.webp"
+          ],
+          "captions": [
+            "Later frames of the stroke sequence."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生將划槳動作拆解為一系列俯視畫格。每一格記錄船槳的角度與身體在船中的位置。",
+              "captions": [
+                "划槳序列的後段畫格。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The overlapping frames were layered into a kinetic sketch built with ruler and compass. A sectional drawing then studies the boat hull, rigger and oar as one connected machine.",
+          "images": [
+            "assets/board/rowing-kinetic-sketches-boat-anatomy/04-boat-oar-section.webp"
+          ],
+          "captions": [
+            "Sectional drawing of the boat and oar."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "重疊的畫格以尺規與圓規疊合成一張動態草圖。接著以剖面圖研究船身、槳架與船槳如何連成一部機械。",
+              "captions": [
+                "船身與船槳的剖面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The series ends with a long drawing that follows the full sweep of the oar. Together the sheets turn a physical sport into a precise record of motion and structure.",
+          "images": [
+            "assets/board/rowing-kinetic-sketches-boat-anatomy/05-oar-sweep-section.webp"
+          ],
+          "captions": [
+            "Sectional drawing of the oar sweep."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "系列以一張追蹤船槳完整划幅的長幅繪圖作結。這些圖面將一項身體運動轉化為精確的動作與構造紀錄。",
+              "captions": [
+                "船槳划幅的剖面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a lived experience.\n2. Break motion into frames.\n3. Layer the frames into one drawing.\n4. Draw the object that makes the motion.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從親身經驗出發。\n2. 將動作拆成畫格。\n3. 把畫格疊成一張圖。\n4. 畫出產生動作的物件。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Rhythm",
+      "slug": "rhythm-rowing-arm-structure-model",
+      "description": "Plastic rod and tracing paper models that map the rhythm and force of a rowing arm.\n\nModel Making | Kinetic structure | Rowing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "節奏",
+          "description": "以塑膠桿與描圖紙模型，描繪划船手臂的節奏與力量。\n\n模型製作｜動態結構｜划船｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rhythm-rowing-arm-structure-model/01-kinetic-synergy-model.webp",
+        "assets/board/rhythm-rowing-arm-structure-model/02-study-models.webp",
+        "assets/board/rhythm-rowing-arm-structure-model/03-arm-motion-drawing.webp",
+        "assets/board/rhythm-rowing-arm-structure-model/04-arm-structure-a.webp",
+        "assets/board/rhythm-rowing-arm-structure-model/05-arm-structure-b.webp",
+        "assets/board/rhythm-rowing-arm-structure-model/06-arm-structure-model.webp",
+        "assets/board/rhythm-rowing-arm-structure-model/07-synergy-in-hand.webp",
+        "assets/board/rhythm-rowing-arm-structure-model/08-synergy-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rhythm-rowing-arm-structure-model/01-kinetic-synergy-model.webp"
+          ],
+          "captions": [
+            "Model of rowing kinetic synergy in plastic strips and bamboo cane."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以塑膠條與竹籤製作的划船動態協同模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project analyses the motion of the arm during a rowing stroke. It maps rhythm, amplitude and force as a structure rather than a picture.",
+          "images": [
+            "assets/board/rhythm-rowing-arm-structure-model/02-study-models.webp",
+            "assets/board/rhythm-rowing-arm-structure-model/03-arm-motion-drawing.webp"
+          ],
+          "captions": [
+            "Three early study models.",
+            "Drawing of the arm through the stroke."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個作品分析划船時手臂的動作。它將節奏、幅度與力量轉化為結構，而非單純的圖像。",
+              "captions": [
+                "三個早期研究模型。",
+                "划槳過程中手臂的繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A line drawing traces the arm through each stage of the stroke. Early study models test how frames of the movement can be joined in space.",
+          "images": [
+            "assets/board/rhythm-rowing-arm-structure-model/04-arm-structure-a.webp",
+            "assets/board/rhythm-rowing-arm-structure-model/05-arm-structure-b.webp"
+          ],
+          "captions": [
+            "Arm structure model, first view.",
+            "Arm structure model, second view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "線描圖追蹤手臂在划槳各階段的位置。早期研究模型則測試動作的各個畫格如何在空間中連結。",
+              "captions": [
+                "手臂結構模型，第一視角。",
+                "手臂結構模型，第二視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Plastic rods simulate the skeletal structure of the arm, held together with nylon cable ties. Layers of tracing paper reveal how the volume of the arm changes as it moves.",
+          "images": [
+            "assets/board/rhythm-rowing-arm-structure-model/06-arm-structure-model.webp"
+          ],
+          "captions": [
+            "The arm structure model in full."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "塑膠桿模擬手臂的骨骼結構，並以尼龍束帶固定。多層描圖紙則顯示手臂在動作中體積的變化。",
+              "captions": [
+                "手臂結構模型全貌。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model joins the plastic arm structure to a woven bamboo base. It reads as one body that holds the rhythm of the whole stroke.",
+          "images": [
+            "assets/board/rhythm-rowing-arm-structure-model/07-synergy-in-hand.webp",
+            "assets/board/rhythm-rowing-arm-structure-model/08-synergy-detail.webp"
+          ],
+          "captions": [
+            "The synergy model held by hand.",
+            "Detail of plastic strips over the bamboo base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型將塑膠手臂結構與編織竹籤底座結合。它成為一個承載完整划槳節奏的整體。",
+              "captions": [
+                "手持中的協同模型。",
+                "塑膠條與竹籤底座的細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose one movement.\n2. Draw it in stages.\n3. Build each stage as structure.\n4. Join the stages into one body.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選定一個動作。\n2. 分階段繪製。\n3. 將每個階段做成結構。\n4. 把各階段連成一體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Identity II: Duality of Self",
+      "slug": "identity-ii-duality-of-self-relief-models",
+      "description": "Cardboard reliefs and a spatial framework that pair sharp blocks with soft curved layers.\n\nModel Making | Relief collage | Identity | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "身分 II：自我的雙重性",
+          "description": "以紙板浮雕與空間框架，並置銳利量塊與柔軟曲層。\n\n模型製作｜浮雕拼貼｜身分｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/identity-ii-duality-of-self-relief-models/01-intersecting-frameworks.webp",
+        "assets/board/identity-ii-duality-of-self-relief-models/02-line-studies-a.webp",
+        "assets/board/identity-ii-duality-of-self-relief-models/03-relief-collage-a.webp",
+        "assets/board/identity-ii-duality-of-self-relief-models/04-line-studies-b.webp",
+        "assets/board/identity-ii-duality-of-self-relief-models/05-relief-collage-b.webp",
+        "assets/board/identity-ii-duality-of-self-relief-models/06-framework-top-view.webp",
+        "assets/board/identity-ii-duality-of-self-relief-models/07-framework-view-a.webp",
+        "assets/board/identity-ii-duality-of-self-relief-models/08-framework-view-b.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/identity-ii-duality-of-self-relief-models/01-intersecting-frameworks.webp"
+          ],
+          "captions": [
+            "Intersecting Frameworks in corrugated cardboard, wooden sticks and brown paper."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以瓦楞紙板、木條與牛皮紙製作的〈交錯框架〉。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The series grows out of an earlier study of a fragmented self. It asks how resilience and softness can live together in one composition.",
+          "images": [
+            "assets/board/identity-ii-duality-of-self-relief-models/02-line-studies-a.webp",
+            "assets/board/identity-ii-duality-of-self-relief-models/03-relief-collage-a.webp"
+          ],
+          "captions": [
+            "Line studies for the first relief.",
+            "First relief: sharp blocks in coloured paper."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個系列延續先前關於「破碎自我」的研究。它探問韌性與柔軟如何共存於同一個構成之中。",
+              "captions": [
+                "第一件浮雕的線條研究。",
+                "第一件浮雕：以色紙構成的銳利量塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Simple line drawings test how geometric and organic edges can be combined. Small colour studies then guide the material choice for each relief.",
+          "images": [
+            "assets/board/identity-ii-duality-of-self-relief-models/04-line-studies-b.webp"
+          ],
+          "captions": [
+            "Line studies for the second relief."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "簡單的線條圖測試幾何與有機邊緣如何結合。小幅色彩研究接著引導每件浮雕的材料選擇。",
+              "captions": [
+                "第二件浮雕的線條研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sharp blocks stand for resilience, while curved layers of corrugated board express softness. The two reliefs set the balance between the two qualities in different ways.",
+          "images": [
+            "assets/board/identity-ii-duality-of-self-relief-models/05-relief-collage-b.webp"
+          ],
+          "captions": [
+            "Second relief: curved layers in corrugated board."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "銳利量塊象徵韌性，瓦楞紙板的曲層則表達柔軟。兩件浮雕以不同方式拿捏兩者的平衡。",
+              "captions": [
+                "第二件浮雕：瓦楞紙板的曲層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The reliefs are lifted into a free-standing framework of folded planes and sticks. Seen from different sides, the hard and soft parts keep changing places.",
+          "images": [
+            "assets/board/identity-ii-duality-of-self-relief-models/06-framework-top-view.webp",
+            "assets/board/identity-ii-duality-of-self-relief-models/07-framework-view-a.webp",
+            "assets/board/identity-ii-duality-of-self-relief-models/08-framework-view-b.webp"
+          ],
+          "captions": [
+            "Framework model from above.",
+            "Framework model, side view.",
+            "Framework model, another side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "浮雕最終被延伸為由摺面與木條構成的獨立框架。從不同角度觀看，硬與軟的部分不斷交換位置。",
+              "captions": [
+                "框架模型俯視。",
+                "框架模型側視。",
+                "框架模型另一側。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name two opposite qualities.\n2. Draw them as lines.\n3. Build them as a relief.\n4. Lift the relief into space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 定義兩種相反的特質。\n2. 以線條畫出它們。\n3. 做成浮雕。\n4. 將浮雕延伸到空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Design From My Childhood",
+      "slug": "design-from-my-childhood-emotional-space",
+      "description": "A colourful model of an emotional space for young children, drawn from the student's own childhood drawings.\n\nSpatial Design | Children's space | Colour | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "來自童年的設計",
+          "description": "從學生自己的童年畫作出發，為幼兒打造的一座色彩豐富的情緒空間模型。\n\n空間設計｜兒童空間｜色彩｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/design-from-my-childhood-emotional-space/01-final-model.webp",
+        "assets/board/design-from-my-childhood-emotional-space/02-childhood-drawings.webp",
+        "assets/board/design-from-my-childhood-emotional-space/03-colour-abstractions.webp",
+        "assets/board/design-from-my-childhood-emotional-space/04-spatial-studies.webp",
+        "assets/board/design-from-my-childhood-emotional-space/05-process-models.webp",
+        "assets/board/design-from-my-childhood-emotional-space/06-model-overview.webp",
+        "assets/board/design-from-my-childhood-emotional-space/07-front-view.webp",
+        "assets/board/design-from-my-childhood-emotional-space/08-side-view.webp",
+        "assets/board/design-from-my-childhood-emotional-space/09-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/design-from-my-childhood-emotional-space/01-final-model.webp"
+          ],
+          "captions": [
+            "Final model in wooden sticks, PVC, acrylic, timber panel and mirrors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以木條、PVC、壓克力、木板與鏡面製作的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project starts from a question the student carried since childhood: why some colours and spaces feel calm, safe or overwhelming. It aims to create an emotional space that supports, soothes or gently activates young children.",
+          "images": [
+            "assets/board/design-from-my-childhood-emotional-space/02-childhood-drawings.webp"
+          ],
+          "captions": [
+            "The student's own childhood drawings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品源自學生從小就有的疑問：為什麼某些色彩與空間讓人感到平靜、安全或不知所措。它希望創造一個能支持、安撫或溫和激發幼兒的情緒空間。",
+              "captions": [
+                "學生自己的童年畫作。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied their own childhood drawings for the colours, forms and marks used in different moods. These traces were translated into abstract colour compositions.",
+          "images": [
+            "assets/board/design-from-my-childhood-emotional-space/03-colour-abstractions.webp",
+            "assets/board/design-from-my-childhood-emotional-space/04-spatial-studies.webp"
+          ],
+          "captions": [
+            "Abstract compositions from colour relationships.",
+            "Spatial studies built from the abstractions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生分析自己童年畫作中，不同情緒下使用的色彩、形狀與筆觸。這些痕跡被轉譯為抽象的色彩構成。",
+              "captions": [
+                "從色彩關係發展的抽象構成。",
+                "由抽象構成發展的空間研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The abstractions became spatial studies that use colour psychology to shape volumes, thresholds and light. Process models test these ideas at a child's scale.",
+          "images": [
+            "assets/board/design-from-my-childhood-emotional-space/05-process-models.webp",
+            "assets/board/design-from-my-childhood-emotional-space/06-model-overview.webp"
+          ],
+          "captions": [
+            "Process models.",
+            "Overview of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "抽象構成被發展為空間研究，以色彩心理學塑造量體、門檻與光線。過程模型則以兒童尺度測試這些想法。",
+              "captions": [
+                "過程模型。",
+                "模型全景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model joins red, orange and blue volumes with stairs, platforms and a mirrored threshold. It reflects how children perceive space long before they can describe it.",
+          "images": [
+            "assets/board/design-from-my-childhood-emotional-space/07-front-view.webp",
+            "assets/board/design-from-my-childhood-emotional-space/08-side-view.webp",
+            "assets/board/design-from-my-childhood-emotional-space/09-model-details.webp"
+          ],
+          "captions": [
+            "Front view of the model.",
+            "Side view with the mirrored threshold.",
+            "Details of the volumes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以樓梯、平台與鏡面門檻串連紅、橘、藍三色量體。它反映出兒童在能夠言說之前，便已感知空間的方式。",
+              "captions": [
+                "模型正面。",
+                "帶鏡面門檻的側面。",
+                "量體細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a personal memory.\n2. Extract its colours and marks.\n3. Turn them into space.\n4. Test at the user's scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從個人記憶出發。\n2. 萃取其中的色彩與筆觸。\n3. 轉化為空間。\n4. 以使用者尺度測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Transformable Shelter",
+      "slug": "transformable-shelter-foldable-structure",
+      "description": "A foldable shelter of sticks and origami that shifts between openness and enclosure.\n\nStructural Design | Foldable shelter | Origami | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "可變形庇護所",
+          "description": "以木條與摺紙構成的可摺疊庇護所，在開放與圍合之間轉換。\n\n結構設計｜可摺疊庇護所｜摺紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/transformable-shelter-foldable-structure/01-shelter-model-detail.webp",
+        "assets/board/transformable-shelter-foldable-structure/02-structure-studies.webp",
+        "assets/board/transformable-shelter-foldable-structure/03-origami-studies.webp",
+        "assets/board/transformable-shelter-foldable-structure/04-structure-combination.webp",
+        "assets/board/transformable-shelter-foldable-structure/05-combination-views.webp",
+        "assets/board/transformable-shelter-foldable-structure/06-study-model.webp",
+        "assets/board/transformable-shelter-foldable-structure/07-folding-sequence.webp",
+        "assets/board/transformable-shelter-foldable-structure/08-space-in-motion.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/transformable-shelter-foldable-structure/01-shelter-model-detail.webp"
+          ],
+          "captions": [
+            "Close-up of the shelter in wooden sticks, paper and corrugated paper."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以木條、紙與瓦楞紙製作的庇護所近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project explores adaptable space that can shift between openness and enclosure. It grew from an earlier personal project by the student.",
+          "images": [
+            "assets/board/transformable-shelter-foldable-structure/02-structure-studies.webp",
+            "assets/board/transformable-shelter-foldable-structure/03-origami-studies.webp"
+          ],
+          "captions": [
+            "Study of structure.",
+            "Study of origami folds."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個作品探索能在開放與圍合之間轉換的可變空間。它延伸自學生先前的一個個人計畫。",
+              "captions": [
+                "結構研究。",
+                "摺紙研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Small stick frames tested how joints let a unit open and close. Origami studies tested folds that could cover the frames and still move.",
+          "images": [
+            "assets/board/transformable-shelter-foldable-structure/04-structure-combination.webp"
+          ],
+          "captions": [
+            "Units combined into a curved chain."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "小型木條框架測試節點如何讓單元開合。摺紙研究則測試能覆蓋框架又能活動的摺法。",
+              "captions": [
+                "單元組合成弧形鏈。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The frame units were joined into chains that bend into arcs and clusters. Folded paper panels were then fixed between the sticks to make a skin.",
+          "images": [
+            "assets/board/transformable-shelter-foldable-structure/05-combination-views.webp",
+            "assets/board/transformable-shelter-foldable-structure/06-study-model.webp"
+          ],
+          "captions": [
+            "Two combinations of the units.",
+            "Study model with origami skin."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "框架單元被串接成能彎成弧形與群組的鏈狀結構。接著將摺紙板固定於木條之間，形成表皮。",
+              "captions": [
+                "兩種單元組合。",
+                "帶摺紙表皮的研究模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final structure folds and unfolds by hand, supporting both interaction and retreat. A sequence of photos shows the space changing as it moves.",
+          "images": [
+            "assets/board/transformable-shelter-foldable-structure/07-folding-sequence.webp",
+            "assets/board/transformable-shelter-foldable-structure/08-space-in-motion.webp"
+          ],
+          "captions": [
+            "Folding the structure by hand.",
+            "The space in motion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終結構可以徒手摺疊與展開，同時支持互動與退隱。一系列照片呈現空間在運動中的變化。",
+              "captions": [
+                "徒手摺疊結構。",
+                "運動中的空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Design one moving unit.\n2. Test folds that can skin it.\n3. Chain the units together.\n4. Move it and record the space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 設計一個可動單元。\n2. 測試能覆蓋它的摺法。\n3. 將單元串接起來。\n4. 讓它運動並記錄空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
