@@ -1,0 +1,61 @@
+{
+  "project": "Lighting the Living Quarters of an Art Academy",
+  "dest": "assets/board/art-academy-living-quarters-lighting",
+  "note": "Portfolio 871cf73b pages 13–16 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the previous project's atrium details on page 13, the title block with instructor credit and the institution name, the hero renderings, the site and location analysis with photo figures and the inspiration film stills on page 14, the facade photo, the perspectives, the user persona figures and the day and night renderings with photo figures on pages 15–16. No retouching.",
+  "files": [
+    {
+      "name": "01-day-condition-hubs.webp",
+      "sha256": "ad01e29bea85cee73d1557e75cf32e1f3a9311e155647f7c4e0ca6a137aff952",
+      "bytes": 219848,
+      "from": "871cf73b page 15 — day condition axonometrics of hubs and edges, x 50.5–63.7 %, y 2–100 %"
+    },
+    {
+      "name": "02-distribution-analysis.webp",
+      "sha256": "61a279ca5e75c94bcbfd82aa960bfd74007102ee6aab5d4305ff17aa3527749a",
+      "bytes": 57892,
+      "from": "page 14 — distribution analysis by time and activity, x 0–50 %, y 69–100 %"
+    },
+    {
+      "name": "03-lighting-investigation.webp",
+      "sha256": "7ddc21926b4d65525cfe7f3c4dfd1d27b419d4cbbf62ad5b047618d7c3f8d034",
+      "bytes": 73062,
+      "from": "page 14 — lighting investigation model, x 50–100 %, y 69–100 %"
+    },
+    {
+      "name": "04-secondary-elevation.webp",
+      "sha256": "f8ef23ba4d30a00f60f15e5f8f4caa394b4b5b8f708bb4f34f7892b9a345d858",
+      "bytes": 84844,
+      "from": "page 15 — secondary elevation plan and hub drawings, x 0–28.5 %, y 0–55 %"
+    },
+    {
+      "name": "05-tactical-interventions.webp",
+      "sha256": "287152913decf7eb3a4ec99c3441e3e54aaedff8ed9c4a49d9a5d4fc29b4bc0e",
+      "bytes": 145398,
+      "from": "page 15 — tactical interventions, x 29–49.7 %, y 0–100 %"
+    },
+    {
+      "name": "06-construction-detail.webp",
+      "sha256": "4aaab7e2f3af4a12afd0210bb515286eed429977e3be25d206c64f8f722dc609",
+      "bytes": 45000,
+      "from": "page 15 — construction details a–e, x 64.8–100 %, y 80–100 %"
+    },
+    {
+      "name": "07-lighting-design-types.webp",
+      "sha256": "60ccfe060c12dc75f7cb573e34c0a657fcf6237b26dbd7f7b3ad4fa2d2196660",
+      "bytes": 62360,
+      "from": "page 16 — lighting design types, x 27.2–50.5 %, y 16–76.5 %"
+    },
+    {
+      "name": "08-night-construction-detail.webp",
+      "sha256": "fea79436ddce8f95f122cb2f3ce7bc00564ba62962e71910676ccb640c4aa30c",
+      "bytes": 43026,
+      "from": "page 16 — construction details A–D, x 66.2–100 %, y 80–100 %"
+    },
+    {
+      "name": "09-lighting-device-sketch.webp",
+      "sha256": "bc14240e0681369ca4d8b7cb9ca77817c58fe3227a002d779fe778b48b5fa37b",
+      "bytes": 12716,
+      "from": "page 13 — lighting device line drawing, x 87.5–99 %, y 76–95 %"
+    }
+  ]
+}
