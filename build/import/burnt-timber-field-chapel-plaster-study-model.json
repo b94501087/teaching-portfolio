@@ -1,0 +1,61 @@
+{
+  "project": "A Field Chapel in Plaster and Burnt Timber",
+  "dest": "assets/board/burnt-timber-field-chapel-plaster-study-model",
+  "note": "Portfolio ce4a page 15 cropped to nine images, WebP q88 (PIL). Not used: title and text, precedent photos including one with a person, precedent and architect names.",
+  "files": [
+    {
+      "name": "01-chapel-model.webp",
+      "sha256": "a6baa012ccf73b3ca0d80a0261ab06193f7df4147d0a164deeda91da784b3017",
+      "bytes": 23106,
+      "from": "ce4a page 15 — chapel model"
+    },
+    {
+      "name": "02-oculus.webp",
+      "sha256": "e83e7ac680201d81ce9561aade530bfc3dd6e030d2daf37861a679c097506a00",
+      "bytes": 26574,
+      "from": "ce4a page 15 — oculus"
+    },
+    {
+      "name": "03-inner-wall.webp",
+      "sha256": "f574a77873efc81e3a7f3a73b9351de7db18b10ec7ccb94c72303d8e459c8d51",
+      "bytes": 12832,
+      "from": "ce4a page 15 — inner wall"
+    },
+    {
+      "name": "04-wood-core.webp",
+      "sha256": "7c1f952a3dc767830e42aaa5b5f51bc33bbe81cbd0dfd4d1a829ccf9a7c372e1",
+      "bytes": 17996,
+      "from": "ce4a page 15 — wood core"
+    },
+    {
+      "name": "05-mould.webp",
+      "sha256": "0264eaf32f4c36baf2e58c3e1b4e31aef02ab95af024f67c3ada3c29026dc689",
+      "bytes": 13162,
+      "from": "ce4a page 15 — mould"
+    },
+    {
+      "name": "06-casting.webp",
+      "sha256": "3724ae7dd20f73e3b952c35ad6fe7c0339fa105bf12fd50871e74aff708eac9f",
+      "bytes": 14156,
+      "from": "ce4a page 15 — casting"
+    },
+    {
+      "name": "07-unmoulding.webp",
+      "sha256": "b9129eda847ac331647b2edf38714a54902ad6c41b352ce896d4f1d49ca6e566",
+      "bytes": 12268,
+      "from": "ce4a page 15 — unmoulding"
+    },
+    {
+      "name": "08-burning.webp",
+      "sha256": "5164e7ebcefb5dcca69c4d30c7bcfa41cf40188a9a807f3d8f603cc3e082be9b",
+      "bytes": 22874,
+      "from": "ce4a page 15 — burning"
+    },
+    {
+      "name": "09-cleaning.webp",
+      "sha256": "ecbe3b0feb62434354a393c0242647ac0a9b97de5fce9fdc45c61b19b02cd68b",
+      "bytes": 23254,
+      "from": "ce4a page 15 — cleaning"
+    }
+  ]
+}
