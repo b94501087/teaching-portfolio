@@ -18211,6 +18211,578 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Romain Vacation Home",
+      "slug": "romain-vacation-home",
+      "description": "A vacation home on the New Zealand waterfront whose interlocking curved floors bring nature inside.\n\nWhakatane, New Zealand | December 2021 | Competition work | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Romain 度假屋",
+          "description": "位於紐西蘭水岸的度假屋，以相互咬合的曲面樓層把自然帶進室內。\n\n紐西蘭 Whakatane｜2021 年 12 月｜競圖作品｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/romain-vacation-home/01-exploded-axonometric.webp",
+        "assets/board/romain-vacation-home/02-programme-wheel.webp",
+        "assets/board/romain-vacation-home/03-concept-development.webp",
+        "assets/board/romain-vacation-home/04-floor-relationship.webp",
+        "assets/board/romain-vacation-home/05-top-cutting-section.webp",
+        "assets/board/romain-vacation-home/06-section-b.webp",
+        "assets/board/romain-vacation-home/07-section-c.webp",
+        "assets/board/romain-vacation-home/08-climate-section.webp",
+        "assets/board/romain-vacation-home/09-window-and-hallway-explosion.webp",
+        "assets/board/romain-vacation-home/10-facade-explosion.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/romain-vacation-home/01-exploded-axonometric.webp"
+          ],
+          "captions": [
+            "Exploded axonometric of the house with new vegetation, rain arrangement and wind block."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "住宅的爆炸軸測圖，包含新植栽、雨水配置與擋風。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "People busy with daily work in the industrial environment of the city sometimes wish to get away and return to nature for a moment of peace and relaxation. The site is a waterfront area near Whakatane on the North Island of New Zealand, away from the city and surrounded by pristine environments where people, plants, animals and water creatures are drawn to each other.",
+          "images": [
+            "assets/board/romain-vacation-home/02-programme-wheel.webp"
+          ],
+          "captions": [
+            "Existing situation: the programme wheel from sleep at the centre to the kitchen, living room and garage at the edge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在城市工業環境中忙於日常工作的人們，有時希望暫時離開，回到自然中享受片刻的平靜與放鬆。基地位於紐西蘭北島 Whakatane 附近的水岸，遠離城市，周圍是人、植物、動物與水中生物彼此吸引的原始環境。",
+              "captions": [
+                "現況分析：以睡眠為核心，向外延伸至廚房、客廳與車庫的機能圓環。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The study researched the geographical characteristics and plant types around the whole site, since New Zealand is rich in natural resources. Local trees can build the structure of the house, and some fruits and plants attract birds, so placing birds and plants in the building plays a big role in the feeling of returning to nature.",
+          "images": [
+            "assets/board/romain-vacation-home/03-concept-development.webp",
+            "assets/board/romain-vacation-home/04-floor-relationship.webp"
+          ],
+          "captions": [
+            "Concept development models of interlocking curved volumes.",
+            "Floor relationship: three curved floors overlapping into one plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究調查整個基地周邊的地理特徵與植物種類，因為紐西蘭擁有豐富的自然資源。當地樹木可以用來建造房屋結構，部分果實與植物則會吸引鳥類，因此如何在建築中安排鳥與植物，是營造回歸自然感受的關鍵。",
+              "captions": [
+                "相互咬合的曲面量體概念模型。",
+                "樓層關係：三層曲面樓板疊合為一個平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The building form overlaps from bottom to top as the site ramps from public to private space, and each floor interlocks to create a central internal outdoor space. Sections test how wind circulation, sunlight and rain move through the rooms.",
+          "images": [
+            "assets/board/romain-vacation-home/05-top-cutting-section.webp",
+            "assets/board/romain-vacation-home/06-section-b.webp",
+            "assets/board/romain-vacation-home/07-section-c.webp",
+            "assets/board/romain-vacation-home/08-climate-section.webp"
+          ],
+          "captions": [
+            "Top cutting section with the section lines.",
+            "Section B-B'.",
+            "Section C-C'.",
+            "Section D-D' with the climate analysis of wind circulation, sunlight and rain."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "建築形態隨著基地由公共到私密的坡度，自下而上層層疊合，各樓層相互咬合，圍出中央的室內戶外空間。剖面則檢驗通風、日照與雨水如何穿過各個房間。",
+              "captions": [
+                "俯視剖切圖與剖面線位置。",
+                "B-B' 剖面。",
+                "C-C' 剖面。",
+                "D-D' 剖面與氣候分析：通風、日照與雨水。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The walls use locally sourced natural materials with a reasonable combination of insulation, and the exterior wall carries a specially shaped facade made from two local woods popular for building houses in the area. The facade gives the house privacy while helping the sun and wind reach the interior.",
+          "images": [
+            "assets/board/romain-vacation-home/09-window-and-hallway-explosion.webp",
+            "assets/board/romain-vacation-home/10-facade-explosion.webp"
+          ],
+          "captions": [
+            "Explosion A: windows and hallway, from concrete and wood to the glass frame windows.",
+            "Explosion B: the facade layers, from light concrete to the exterior wood facade and the long curved windows."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "牆體採用在地取得的天然材料，並合理搭配隔熱層；外牆加上一層特殊造型的立面，以當地常用於建屋的兩種木材組合而成。這層立面為住宅帶來隱私，同時讓陽光與風進入室內。",
+              "captions": [
+                "爆炸圖 A：窗戶與走廊，從混凝土、木材到玻璃窗框。",
+                "爆炸圖 B：立面層次，從輕質混凝土到外層木立面與長條曲面窗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study the plants and animals of the site.\n2. Build with what grows nearby.\n3. Let the floors follow the slope.\n4. Bring the outdoors inside.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究基地的植物與動物。\n2. 用附近生長的材料建造。\n3. 讓樓層順著坡度安排。\n4. 把戶外帶進室內。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Club Hub",
+      "slug": "club-hub-brick-building-renovation",
+      "description": "A century-old brick building in Toronto renovated into curved, shared floors for entrepreneurs and artists.\n\nToronto, Canada | Spring 2021 | Renovation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Club Hub 共創基地",
+          "description": "將多倫多一棟百年磚造建築，改造為供創業者與藝術家共享的曲面樓層。\n\n加拿大多倫多｜2021 年春｜建築改造｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/club-hub-brick-building-renovation/01-long-section.webp",
+        "assets/board/club-hub-brick-building-renovation/02-space-development.webp",
+        "assets/board/club-hub-brick-building-renovation/03-retrofitting-development.webp",
+        "assets/board/club-hub-brick-building-renovation/04-explosion-analysis.webp",
+        "assets/board/club-hub-brick-building-renovation/05-street-view.webp",
+        "assets/board/club-hub-brick-building-renovation/06-interior-scenes.webp",
+        "assets/board/club-hub-brick-building-renovation/07-open-floors.webp",
+        "assets/board/club-hub-brick-building-renovation/08-brick-models.webp",
+        "assets/board/club-hub-brick-building-renovation/09-detail-sections.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/club-hub-brick-building-renovation/01-long-section.webp"
+          ],
+          "captions": [
+            "Long section: staggered curved floors, stairs, ramps and slides inside the old brick building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "長向剖面：老磚造建築內交錯的曲面樓板、樓梯、坡道與滑梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project renovates a building more than 100 years old in downtown Toronto, which bears witness to the evolution of the city's architectural form, style and migration. Inside, each floor is a closed, narrow and independent space, and the rooms for cafe, performance, meeting and office work are cramped and monotonous.",
+          "images": [
+            "assets/board/club-hub-brick-building-renovation/02-space-development.webp"
+          ],
+          "captions": [
+            "Space development: from clearly divided rooms to curved floors whose height differences separate events."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案改造多倫多市中心一棟超過百年的建築，它見證了城市建築形式、風格與移民歷史的演變。建築內部每層樓都是封閉、狹窄且各自獨立的空間，咖啡、表演、會議與辦公的空間都顯得擁擠而單調。",
+              "captions": [
+                "空間發展：從分隔明確的房間，到以高低差區分活動的曲面樓板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "User research grouped the related people into academic, entrepreneurial and artistic ranges and filtered their needs for space and activities, such as young designers looking for a shared creative space. Ants, which act in groups and cooperate and communicate as they work, became the concept for a space that inspires good ideas.",
+          "images": [
+            "assets/board/club-hub-brick-building-renovation/03-retrofitting-development.webp",
+            "assets/board/club-hub-brick-building-renovation/04-explosion-analysis.webp"
+          ],
+          "captions": [
+            "Retrofitting development: break the floor, adjust the curvature of the slabs, then adjust the spatial and visual links.",
+            "Explosion analysis: basement, three floors, the historic brick wall, a large glass frame ball and small air film balls."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "使用者研究將相關的人分為學術、創業與藝術等範疇，並篩選他們對空間與活動的需求，例如正在尋找共享創意空間的年輕設計師。成群行動、在工作中合作與溝通的螞蟻，成為打造能激發好點子的空間概念。",
+              "captions": [
+                "改造推演：打破樓板、調整樓板曲率，再調整空間與視覺的連結。",
+                "爆炸分析：地下室、三層樓、歷史磚牆、大型玻璃框架球與小型氣膜球。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The traditional layout was broken by staggering each floor and linking them with stairs, ramps and slides, while the historic brick wall facing the road is kept in its original state. A large glass frame ball holds pop-up events and planting, and small air film balls at different heights give private rest areas connected by slopes and stairs.",
+          "images": [
+            "assets/board/club-hub-brick-building-renovation/05-street-view.webp",
+            "assets/board/club-hub-brick-building-renovation/06-interior-scenes.webp",
+            "assets/board/club-hub-brick-building-renovation/07-open-floors.webp"
+          ],
+          "captions": [
+            "Street view of the new brick facade, whose gaps and curvature bring in sunlight.",
+            "Interior scenes of the shared spaces for entrepreneurs and artists.",
+            "Open floors whose undulation and small spaces in the circulation provide privacy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計打破傳統配置，讓各層樓板錯開，並以樓梯、坡道與滑梯相連，面向道路的歷史磚牆則維持原貌。大型玻璃框架球容納快閃活動與植栽，不同高度的小型氣膜球則成為私密的休憩區，以坡道與樓梯串連。",
+              "captions": [
+                "街景：新磚立面的縫隙與曲度引入陽光。",
+                "為創業者與藝術家設計的共享空間室內場景。",
+                "開放樓層的起伏與動線中的小空間提供隱私。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The new structures respect the red brick walls, combining glass bricks with historic red bricks to preserve the history while breaking the city's modular building form. The renovated building gives entrepreneurs and creators more space for communication and sharing, and platforms to express their specialties.",
+          "images": [
+            "assets/board/club-hub-brick-building-renovation/08-brick-models.webp",
+            "assets/board/club-hub-brick-building-renovation/09-detail-sections.webp"
+          ],
+          "captions": [
+            "Brick studies and physical models of the curved facade.",
+            "Detail sections: red brick structure, steel support frame, tempered glass and insulated glazing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "新結構尊重原有的紅磚牆，以玻璃磚結合歷史紅磚，在保存歷史的同時打破城市模組化的建築形式。改造後的建築為創業者與創作者提供更多交流與分享的空間，以及展現專長的平台。",
+              "captions": [
+                "磚砌研究與曲面立面的實體模型。",
+                "細部剖面：紅磚結構、鋼支撐框架、強化玻璃與隔熱玻璃。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Respect what the old building already says.\n2. Ask who will share the space.\n3. Break the floors to open the views.\n4. Test the new material with models.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 尊重老建築原本訴說的故事。\n2. 問清楚誰會共享這個空間。\n3. 打破樓板，打開視野。\n4. 用模型測試新材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Sunward Orphanage",
+      "slug": "sunward-orphanage",
+      "description": "An orphanage on the Ganges in Bihar that shelters and educates children and gives its ground floor to the seasonal floods.\n\nBihar, India | Orphanage and flood adaptation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "向陽孤兒院",
+          "description": "位於比哈爾邦恆河畔的孤兒院，收容並教育孩子，並把一樓讓給季節性的洪水。\n\n印度比哈爾邦｜孤兒院與防洪適應｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sunward-orphanage/01-explosion-diagram.webp",
+        "assets/board/sunward-orphanage/02-concept-and-strategy.webp",
+        "assets/board/sunward-orphanage/03-building-form-generation.webp",
+        "assets/board/sunward-orphanage/04-dry-and-flood-season-strategy.webp",
+        "assets/board/sunward-orphanage/05-flooded-section-diagram.webp",
+        "assets/board/sunward-orphanage/06-details-section.webp",
+        "assets/board/sunward-orphanage/07-ground-floor-plan.webp",
+        "assets/board/sunward-orphanage/08-upper-floor-plans.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sunward-orphanage/01-explosion-diagram.webp"
+          ],
+          "captions": [
+            "Explosion diagram: the grey space on the first floor, the reading stairs, the atrium and the roof."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "爆炸圖：一樓的灰空間、二樓的閱讀階梯、三樓的中庭與屋頂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In many parts of India, social injustices such as the death of parents, illness, son preference, child labour and child trafficking leave children displaced, illiterate and without social security, education or a safe place to live. Along the Ganges in Bihar, floods and lightning strikes make life even harder and easily destroy the buildings of poor people.",
+          "images": [
+            "assets/board/sunward-orphanage/02-concept-and-strategy.webp"
+          ],
+          "captions": [
+            "Concept and strategy: social issues, children's protection and the living environment problem."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在印度許多地區，父母離世、疾病、重男輕女、童工與兒童販運等社會不公，使孩子流離失所、無法識字，也缺乏社會保障、教育與安全的居所。在比哈爾邦的恆河沿岸，洪水與雷擊讓生活更加艱難，也輕易摧毀貧困居民的房屋。",
+              "captions": [
+                "概念與策略：社會問題、兒童保護與居住環境問題。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The study mapped the social issues, the needs for children's protection and the problems of the living environment, such as messy functions, dangerous structures and a lack of space for children. It also followed the river through the dry and flood seasons to see how the site changes over the year.",
+          "images": [
+            "assets/board/sunward-orphanage/04-dry-and-flood-season-strategy.webp",
+            "assets/board/sunward-orphanage/05-flooded-section-diagram.webp"
+          ],
+          "captions": [
+            "Design strategy for the grey space: sand-bar diversion, a modified river channel and planting to absorb water, in the dry and flood seasons.",
+            "Flooded section diagram: in the dry season the channel grows vegetables, and when the flood comes the children's activities move upstairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究梳理了社會問題、兒童保護的需求，以及居住環境的問題，例如機能混亂、結構危險與缺乏兒童空間。研究也追蹤河流在乾季與洪水季的變化，了解基地一年之中的轉變。",
+              "captions": [
+                "灰空間的設計策略：乾季與洪水季的沙洲導流、河道調整與吸水植栽。",
+                "淹水剖面圖：乾季時河道用來種菜；洪水來臨時，孩子們的活動移到樓上。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The building form starts from local construction, raises its frame beams to adapt to seasonal changes, adds floors and platforms to expand the living space, and divides the functions around activity spaces with nature. New rivers and pools drain and store floodwater, while trees and plants in the zone help absorb it.",
+          "images": [
+            "assets/board/sunward-orphanage/03-building-form-generation.webp",
+            "assets/board/sunward-orphanage/06-details-section.webp"
+          ],
+          "captions": [
+            "Building form generation from local construction to activity space with nature.",
+            "Details of section A-A with the waterproof mortar and wall layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "建築形態從在地工法出發，抬高框架樑以適應季節變化，再增加樓層與平台以擴大生活空間，並圍繞親近自然的活動空間劃分機能。新設的河道與水池負責排水與蓄水，區內的樹木與植栽則協助吸收洪水。",
+              "captions": [
+                "從在地工法到親近自然活動空間的建築形態生成。",
+                "A-A 剖面細部，包含防水砂漿與牆體層次。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The orphanage shelters and educates children in a healthy and normal living environment, with a first floor grey space that can flood, reading stairs on the second floor and an atrium on the third. Its plans gather planting and playing spaces, a simulated river, classrooms, a handicraft room, dormitories and a water circulation system that lifts river water through the pillars.",
+          "images": [
+            "assets/board/sunward-orphanage/07-ground-floor-plan.webp",
+            "assets/board/sunward-orphanage/08-upper-floor-plans.webp"
+          ],
+          "captions": [
+            "Ground floor plan with the planting and playing space, simulated river, water pond and play area.",
+            "First and second floor plans with classrooms, a handicraft room, the atrium and dormitories."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "孤兒院在健康而正常的生活環境中收容並教育孩子：一樓是可以淹水的灰空間，二樓設有閱讀階梯，三樓則是中庭。平面中包含種植與遊戲空間、模擬河道、教室、手工藝教室、宿舍，以及透過柱子將河水送上樓的水循環系統。",
+              "captions": [
+                "一樓平面：種植與遊戲空間、模擬河道、水池與遊戲區。",
+                "二、三樓平面：教室、手工藝教室、中庭與宿舍。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the children who need protection.\n2. Read the river through every season.\n3. Let the ground floor give way to water.\n4. Keep learning and play above the flood.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從需要保護的孩子出發。\n2. 觀察河流在每個季節的變化。\n3. 讓一樓把空間讓給水。\n4. 讓學習與遊戲保持在洪水之上。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Assimilate Plan",
+      "slug": "assimilate-plan-refugee-housing",
+      "description": "Stackable units in Toronto's unused spaces that help refugees find housing, work and a place in the city.\n\nToronto, Canada | Winter 2022 | Refugee housing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "融入計畫",
+          "description": "在多倫多閒置空間中堆疊的居住單元，協助難民找到住所、工作，以及在城市中的位置。\n\n加拿大多倫多｜2022 年冬｜難民住宅｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/assimilate-plan-refugee-housing/01-corner-space-exploded.webp",
+        "assets/board/assimilate-plan-refugee-housing/02-nouns-and-verbs-matrix.webp",
+        "assets/board/assimilate-plan-refugee-housing/03-unit-floor-plans.webp",
+        "assets/board/assimilate-plan-refugee-housing/04-corner-space-programmes.webp",
+        "assets/board/assimilate-plan-refugee-housing/05-corner-space-scenes.webp",
+        "assets/board/assimilate-plan-refugee-housing/06-space-between-buildings.webp",
+        "assets/board/assimilate-plan-refugee-housing/07-building-empty-wall.webp",
+        "assets/board/assimilate-plan-refugee-housing/08-lake-side-steps.webp",
+        "assets/board/assimilate-plan-refugee-housing/09-roof-space-west-elevation.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/assimilate-plan-refugee-housing/01-corner-space-exploded.webp"
+          ],
+          "captions": [
+            "Corner space: circulation, triangular frame and blocks stacked over the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "街角空間：動線、三角形框架與量體在基地上方層層堆疊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Refugees forced from their countries by disasters and wars come to the city for safety, and they need to be resettled while easing their conflicts with the local population. After visiting the sites in Toronto, the student found that their temporary living and activity spaces affect the city's service system and take up a lot of social space.",
+          "images": [
+            "assets/board/assimilate-plan-refugee-housing/02-nouns-and-verbs-matrix.webp"
+          ],
+          "captions": [
+            "Nouns and verbs: models that mix, scatter, disarrange and expand."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "因災難與戰爭被迫離開家園的難民來到城市尋求安全，他們需要被安置，同時也需要化解與在地居民之間的衝突。學生走訪多倫多的基地後發現，難民臨時的居住與活動空間影響了城市的服務系統，也占用了大量社會空間。",
+              "captions": [
+                "名詞與動詞：混合、分散、打亂與擴張的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Research on how refugees spread through the city over four months gave four words, to expand, to mix, to disarrange and to scatter, and an ink and water experiment showed drops gradually merging into the water. The project uses this to express Toronto as a diverse and inclusive city where refugees can become part of its lifestyle and environment.",
+          "images": [
+            "assets/board/assimilate-plan-refugee-housing/03-unit-floor-plans.webp"
+          ],
+          "captions": [
+            "Floor plans of units in different sizes and forms for the number of people in each group."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究追蹤難民在四個月間如何在城市中擴散，歸納出擴張、混合、打亂與分散四個詞，並以墨水與水的實驗觀察水滴逐漸融入水中。本案以此表達多倫多是一座多元包容的城市，難民可以成為城市生活與環境的一部分。",
+              "captions": [
+                "依每個群體人數推演出的不同大小與形式的單元平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A variety of units with basic living functions can be stacked and combined in the city's grey spaces for markets, planting, education and outdoor activities, without affecting the local community. On a triangular corner, staggered triangles of different sizes become resting seats, planting areas, temporary selling spaces and event venues.",
+          "images": [
+            "assets/board/assimilate-plan-refugee-housing/04-corner-space-programmes.webp",
+            "assets/board/assimilate-plan-refugee-housing/05-corner-space-scenes.webp"
+          ],
+          "captions": [
+            "Corner space programmes for green space, public, retail and entertainment, with pathways, stairs and stages.",
+            "Scenes of the corner market where people rest, meet and sell what they grow or make by hand."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "各種具備基本生活機能的單元，可以在城市的灰空間中堆疊組合，作為市集、種植、教育與戶外活動之用，而不影響在地社區。在三角形的街角，大小不一的三角形錯落排列，成為休憩座椅、種植區、臨時攤位與活動場地。",
+              "captions": [
+                "街角空間的綠地、公共、零售與娛樂機能，以及步道、階梯與舞台。",
+                "街角市集的場景：人們在此休息、相聚，販售自己種植或手作的物品。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Between buildings the blocks stack upwards over unused aisles, an empty wall carries a new structure that spreads upwards on standard scaffolding, the lake side stacks blocks of different heights into platforms, and low roofs hold a staggered neighbourhood. Together they give refugees step-by-step help with housing, education, work and self-sufficiency in the city.",
+          "images": [
+            "assets/board/assimilate-plan-refugee-housing/06-space-between-buildings.webp",
+            "assets/board/assimilate-plan-refugee-housing/07-building-empty-wall.webp",
+            "assets/board/assimilate-plan-refugee-housing/08-lake-side-steps.webp",
+            "assets/board/assimilate-plan-refugee-housing/09-roof-space-west-elevation.webp"
+          ],
+          "captions": [
+            "Empty space between buildings: stacked blocks creating semi-outdoor shared spaces.",
+            "Building empty wall: a new structure spreading upwards on scaffolding, with the roof structure analysis.",
+            "Lake side: shape out, split, rotate, float, cut out cube and circulation.",
+            "Low building roof empty space: west elevation of the staggered neighbourhood."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在建築之間，量體沿著閒置的通道向上堆疊；一面空牆以標準鷹架承載向上擴展的新結構；湖畔以高低不一的量體堆疊出平台；低矮的屋頂則承載錯落的小社區。這些設計一起為難民在城市中的居住、教育、工作與自給自足，提供循序漸進的協助。",
+              "captions": [
+                "建築之間的空地：堆疊的量體形成半戶外的共享空間。",
+                "建築空牆：以鷹架向上擴展的新結構，以及屋頂結構分析。",
+                "湖畔：塑形、分割、旋轉、懸浮、切削與動線。",
+                "低矮建築屋頂空地：錯落小社區的西向立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Visit the people before the site.\n2. Turn research into a few verbs.\n3. Find the unused spaces of the city.\n4. Design units that can grow step by step.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先認識人，再看基地。\n2. 把研究轉化成幾個動詞。\n3. 找出城市中閒置的空間。\n4. 設計可以逐步成長的單元。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
