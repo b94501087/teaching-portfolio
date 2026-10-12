@@ -1,0 +1,67 @@
+{
+  "project": "Modular LiveBlock",
+  "dest": "assets/board/modular-liveblock-reconfigurable-stage",
+  "note": "Portfolio de5b pages 11-14 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the supervisor line, the stage history and stage type photo collages, the role-based needs page with photos of people, the stage renders with performers and brand names, and the performer silhouette view.",
+  "files": [
+    {
+      "name": "01-construction-process.webp",
+      "sha256": "4c8d9db0adae538f4679b744eb1b4a377351d5341814fed9b07a699aa518ae18",
+      "bytes": 324528,
+      "from": "de5b page 13 — construction process axonometric"
+    },
+    {
+      "name": "02-production-time-and-trends.webp",
+      "sha256": "f1892da0494a738d3ac62aab5bb07ed0650985734110855e6bba17af60622e2e",
+      "bytes": 66810,
+      "from": "de5b page 11 — production time and growth charts"
+    },
+    {
+      "name": "03-printed-joint-tests.webp",
+      "sha256": "f9207a792adda7e95eac642b788e493df9be17c702148e9fb41e84f6b2dbd046",
+      "bytes": 26388,
+      "from": "de5b page 12 — 3D-printed joint tests"
+    },
+    {
+      "name": "04-structural-testing.webp",
+      "sha256": "6d183e0613c37d4de9549e790cf8966982290c44c2e71fd78879b942940b6fd9",
+      "bytes": 33746,
+      "from": "de5b page 12 — structural testing of a component"
+    },
+    {
+      "name": "05-timber-model-exploration.webp",
+      "sha256": "4862271687755f34756650aaa04e5a01211b058a4bbc77de79d4a5880e8cc44c",
+      "bytes": 46304,
+      "from": "de5b page 12 — timber model exploration"
+    },
+    {
+      "name": "06-s-scale-joints.webp",
+      "sha256": "8e1be562a17ff044d014c157a0a418f48fc1d260a43bc79c3324f0799e4431a1",
+      "bytes": 58708,
+      "from": "de5b page 12 — S-scale joints"
+    },
+    {
+      "name": "07-m-scale-assemblies.webp",
+      "sha256": "05d045287c4c978a29849db0cc849157a003b9ff307440eb84c68425b5820d49",
+      "bytes": 96770,
+      "from": "de5b page 12 — M-scale assemblies"
+    },
+    {
+      "name": "08-l-scale-configurations.webp",
+      "sha256": "38e6b8585fc38eaceec81a2bf1df04f141a36f7d3ac7b1158f8aa36e8e57eb90",
+      "bytes": 149436,
+      "from": "de5b page 12 — L-scale configurations"
+    },
+    {
+      "name": "09-assembled-and-exploded.webp",
+      "sha256": "54c622d70386f30e148676931850cd9cc7a565a0c7427a5808ff5b486a28120a",
+      "bytes": 64122,
+      "from": "de5b page 13 — assembled and exploded system"
+    },
+    {
+      "name": "10-stage-configurations.webp",
+      "sha256": "15b4fed65e0e926816b617bb51fe3c4afbdc21f64541d155079041afadc38b9e",
+      "bytes": 119864,
+      "from": "de5b page 14 — stage configurations"
+    }
+  ]
+}
