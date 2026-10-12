@@ -1,0 +1,67 @@
+{
+  "project": "Cage of a Broken Friendship",
+  "dest": "assets/board/cage-of-a-broken-friendship-stick-stage-model",
+  "note": "Portfolio 1390 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, film poster, film stills with actors, storyline sketches, film title and character names.",
+  "files": [
+    {
+      "name": "01-stage-model.webp",
+      "sha256": "b9e38aad3aba7eb694800599346e0c0bdf9518192e6c218fc77b3b877f9810e1",
+      "bytes": 217424,
+      "from": "1390 page 3 — stage model"
+    },
+    {
+      "name": "02-process-a.webp",
+      "sha256": "02e08a3b9ba9c20fd376da6fb8f67cd6931937e5df0b3c375a3cfa02a6005671",
+      "bytes": 25690,
+      "from": "1390 page 2 — process a"
+    },
+    {
+      "name": "03-process-b.webp",
+      "sha256": "6f1bee40a6872c32f90a3618acdb19ac01837c2f001f77f36ca61ec16a404e1f",
+      "bytes": 23576,
+      "from": "1390 page 2 — process b"
+    },
+    {
+      "name": "04-lit-model.webp",
+      "sha256": "2f4b49f597c5885ec75ff2e0e45b7a90673cc3db666472ee7f732676867f98f1",
+      "bytes": 42772,
+      "from": "1390 page 2 — lit model"
+    },
+    {
+      "name": "05-process-c.webp",
+      "sha256": "23761b524955ace12c27dd327d2cc843080ff8ee242fa77e65c784b6a1adce7c",
+      "bytes": 23768,
+      "from": "1390 page 2 — process c"
+    },
+    {
+      "name": "06-burn-test.webp",
+      "sha256": "b5843780edf66166573cd21662da9152b87afd10d7db6cb3c7778e16dd396e9d",
+      "bytes": 47494,
+      "from": "1390 page 2 — burn test"
+    },
+    {
+      "name": "07-view-a.webp",
+      "sha256": "19d784c8e11ac30d8fc4e6b03c1fd4b360c12fc94c53685accf39d314965bf84",
+      "bytes": 70152,
+      "from": "1390 page 3 — view a"
+    },
+    {
+      "name": "08-view-b.webp",
+      "sha256": "420b347ba6cb2b12042d98633a87644f01c99ae1181cd51df3beacd4619d3ad1",
+      "bytes": 73186,
+      "from": "1390 page 3 — view b"
+    },
+    {
+      "name": "09-detail-a.webp",
+      "sha256": "b35a622911fe3e3ee3cdc45ed51f1835a973d03fa1ba8934d7d9d43902fe7fb1",
+      "bytes": 36146,
+      "from": "1390 page 3 — detail a"
+    },
+    {
+      "name": "10-detail-b.webp",
+      "sha256": "7fb0535234251b39bd5b56e3804c1f5675a40cb0d36443c9fdc756e61bdee211",
+      "bytes": 29478,
+      "from": "1390 page 3 — detail b"
+    }
+  ]
+}
