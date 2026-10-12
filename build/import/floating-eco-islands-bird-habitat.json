@@ -1,0 +1,67 @@
+{
+  "project": "Floating Eco-Islands",
+  "dest": "assets/board/floating-eco-islands-bird-habitat",
+  "note": "Portfolio 30f3 pages 19-24 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage with a skyline landmark and bridge, the tidal observation photo strip, the aerial base map, the site-photo panels, and the body text.",
+  "files": [
+    {
+      "name": "01-floating-raft-habitat.webp",
+      "sha256": "16145a9119fcfe375d40d50b0b130de92017dec27caf7c0439da9fa3397db9b8",
+      "bytes": 422388,
+      "from": "30f3 page 23 — floating raft habitat render and details"
+    },
+    {
+      "name": "02-bay-bird-map.webp",
+      "sha256": "5e1545fa9063e9b30382eb54fcb64b436e5296c548587f2014e1295610c9cb2e",
+      "bytes": 138396,
+      "from": "30f3 page 19 — bay bird observation map"
+    },
+    {
+      "name": "03-weekly-tide-chart.webp",
+      "sha256": "9ec067ce8a3f24df9f02028bbcdf4c6ee6f716e4cfc8257c986d91f21a80ad6c",
+      "bytes": 57668,
+      "from": "30f3 page 20 — weekly tide chart"
+    },
+    {
+      "name": "04-birds-through-the-tide.webp",
+      "sha256": "ace482cfc8b7f286825396c614b6d8eadec781cca80a996ef32e7c82decbef06",
+      "bytes": 154460,
+      "from": "30f3 page 20 — bird behaviour through the tide cycle"
+    },
+    {
+      "name": "05-shoreline-section.webp",
+      "sha256": "8ce4966cfe85f2bbee51014268a834cc1bc96a1c9d346404108184e80244a141",
+      "bytes": 166376,
+      "from": "30f3 page 21 — shoreline section by bird group"
+    },
+    {
+      "name": "06-abandoned-bamboo-floats.webp",
+      "sha256": "cbecaa23e0fafc7c8c54ea82eca43b15f02bfebb815d4194b742e0099210a0bb",
+      "bytes": 88402,
+      "from": "30f3 page 21 — site discoveries"
+    },
+    {
+      "name": "07-island-plan.webp",
+      "sha256": "59f34cb79bef0c3c32068fff52e4ab90c7c52ad4b11802c0c330143b917a62e0",
+      "bytes": 238384,
+      "from": "30f3 page 22 — island habitat plan"
+    },
+    {
+      "name": "08-model-aerial.webp",
+      "sha256": "cbc1cfe9ebb8fc5f7b2b8c1392ef722eaba8c0870110d6dd8e387f1f792036bd",
+      "bytes": 726138,
+      "from": "30f3 page 24 — model seen from above"
+    },
+    {
+      "name": "09-tide-model.webp",
+      "sha256": "cfc5fad928a30947f7ed5d71e34229f4588db6ecf799427894d5e681397c4150",
+      "bytes": 127854,
+      "from": "30f3 page 24 — tide model"
+    },
+    {
+      "name": "10-model-details.webp",
+      "sha256": "9191478dd2881277592bfc2bdb2eeff8606edc07f63f5d5a90883e426941e7d3",
+      "bytes": 128686,
+      "from": "30f3 page 24 — model details"
+    }
+  ]
+}
