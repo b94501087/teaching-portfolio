@@ -1,0 +1,61 @@
+{
+  "project": "House of Lines and Colour",
+  "dest": "assets/board/house-of-lines-and-colour-acrylic-model",
+  "note": "Portfolio 606b pages 6-7 cropped to nine images, WebP q88 (PIL). Not used: title and text, source paintings, painter and museum names, process photos.",
+  "files": [
+    {
+      "name": "01-house-model.webp",
+      "sha256": "1d878a0cfd00921f024aa44f99c43ad4c234d9f00d2c2c397c51465980f9fa06",
+      "bytes": 38034,
+      "from": "606b page 6 — house model"
+    },
+    {
+      "name": "02-drafts.webp",
+      "sha256": "288a10c7d077107593a0675aef0173b635098ba761dd3cb56b112f325742ca45",
+      "bytes": 20522,
+      "from": "606b page 6 — drafts"
+    },
+    {
+      "name": "03-exploded-diagram.webp",
+      "sha256": "a4d0943eaa5daa77f626b4ce0d02794d0cc0497fc4b57b5c485cefbb07f7c69c",
+      "bytes": 24306,
+      "from": "606b page 7 — exploded diagram"
+    },
+    {
+      "name": "04-view-a.webp",
+      "sha256": "5c13d02ab4ac5d5601b47b0dcd898be67210d119249cbe9d787c7478ff6a1ed5",
+      "bytes": 16154,
+      "from": "606b page 7 — view a"
+    },
+    {
+      "name": "05-view-b.webp",
+      "sha256": "bbf9ac0323bb981f4247c2b637b1d119c50db454150e0eee39561b3c6b5be1f4",
+      "bytes": 21278,
+      "from": "606b page 7 — view b"
+    },
+    {
+      "name": "06-view-c.webp",
+      "sha256": "cbb9a0be5aae7e7906e368aefde1b8586e4b73fd10f08f954a92a95f2ee18493",
+      "bytes": 36406,
+      "from": "606b page 7 — view c"
+    },
+    {
+      "name": "07-view-d.webp",
+      "sha256": "ecdbfb4ad8b7add67db644e93ed9dbea47a06222830569c06ff2a604a6aeab64",
+      "bytes": 20922,
+      "from": "606b page 7 — view d"
+    },
+    {
+      "name": "08-view-e.webp",
+      "sha256": "edc9126c6342d84b4035dd22dd188c8d77ca5b19fa93a89aa854c265a6caf394",
+      "bytes": 16642,
+      "from": "606b page 7 — view e"
+    },
+    {
+      "name": "09-view-f.webp",
+      "sha256": "993acb00bf57470b5d7431d28f958c01ee2295f0a7a0729a8ace5c86fa093466",
+      "bytes": 49246,
+      "from": "606b page 6 — view f"
+    }
+  ]
+}
