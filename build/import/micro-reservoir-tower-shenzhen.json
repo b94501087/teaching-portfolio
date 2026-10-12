@@ -1,0 +1,67 @@
+{
+  "project": "Micro Reservoir Construction",
+  "dest": "assets/board/micro-reservoir-tower-shenzhen",
+  "note": "Portfolio 5757 pages 2-5 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the city render on a skyline photo, the photo strips of streets and wetland plants, and the circular site diagram on a satellite image.",
+  "files": [
+    {
+      "name": "01-reservoir-tower-elevation.webp",
+      "sha256": "27a613ffead7e5a105327cc8f5c21e453227a765f2f3372ea96019d7d2819838",
+      "bytes": 138042,
+      "from": "5757 page 2 — elevation of the reservoir tower, x 80–96 %, y 0–100 %"
+    },
+    {
+      "name": "02-water-history-timeline.webp",
+      "sha256": "6248d049212c2114d1caa957c26ccee74dc0e6a98998b0edf84a58004a7aa4d6",
+      "bytes": 123620,
+      "from": "5757 page 3 — timeline of water storage and transport, x 0–25 %, y 0–100 %"
+    },
+    {
+      "name": "03-rainwater-cycle-system.webp",
+      "sha256": "ad4c7a9acb8a4943baadbd7ad2c4d1f3eebbac754bd3f7a5a2aa5867dd415be0",
+      "bytes": 150878,
+      "from": "5757 page 3 — rainwater and power cycle diagram, x 26–53 %, y 3–100 %"
+    },
+    {
+      "name": "04-sewage-purification.webp",
+      "sha256": "4904c3aeb81f1307c68116a91c2e78a582955f891a50d4061ceebe652cd2d70a",
+      "bytes": 184802,
+      "from": "5757 page 3 — sewage purification mechanism, x 53–83 %, y 0–73 %"
+    },
+    {
+      "name": "05-micro-power-generation.webp",
+      "sha256": "a473d9e0f22bcf6efe185b427bd878c9b4c0c1c35f23304d5a6c9de07bc0859c",
+      "bytes": 73376,
+      "from": "5757 page 3 — micro power generation system, x 83–100 %, y 0–78 %"
+    },
+    {
+      "name": "06-development-maps.webp",
+      "sha256": "b58f466acb627bd9d718f212dc737bb31f42051f578c1cbf6807980a4775eed1",
+      "bytes": 125666,
+      "from": "5757 page 4 — historical development and network maps, x 0–43 %, y 0–55 %"
+    },
+    {
+      "name": "07-housing-supply-diagram.webp",
+      "sha256": "c66a0e800e108a77c496c8362124003f575617b73ad5f86a9f865746e0f35be7",
+      "bytes": 61474,
+      "from": "5757 page 4 — housing supply diagram, x 74–100 %, y 53–100 %"
+    },
+    {
+      "name": "08-unit-shape-solar-track.webp",
+      "sha256": "d5235f5cdc271cf9d118266fe9fd306c5daa2fa87da8bda52f749dc70a1e5e7b",
+      "bytes": 138160,
+      "from": "5757 page 5 — shading device, unit shape and solar track, x 0–20 %, y 0–100 %"
+    },
+    {
+      "name": "09-roof-reservoir-axonometric.webp",
+      "sha256": "e1dd9e766cd3463d1f44be004694471e87997f062088c31f363c58265ec07ee1",
+      "bytes": 178666,
+      "from": "5757 page 5 — roof reservoir and maglev hydropower axonometric, x 20–50 %, y 0–100 %"
+    },
+    {
+      "name": "10-unit-model.webp",
+      "sha256": "de240576fcd483fcd70c67ca138131d6e03b60306bd5f8b9d8cf608223fd797d",
+      "bytes": 181708,
+      "from": "5757 page 5 — physical model of a unit, x 50–100 %, y 0–100 %"
+    }
+  ]
+}
