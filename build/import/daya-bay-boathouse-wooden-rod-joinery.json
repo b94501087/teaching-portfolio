@@ -1,0 +1,67 @@
+{
+  "project": "The Daya Bay Boathouse",
+  "dest": "assets/board/daya-bay-boathouse-wooden-rod-joinery",
+  "note": "Portfolio e7c5 pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text, sailing photos, photo of the student.",
+  "files": [
+    {
+      "name": "01-boathouse-model.webp",
+      "sha256": "972751c827522eb408244e19db182cff29c2b393549c4f5de7d0df357b3bffb4",
+      "bytes": 102088,
+      "from": "e7c5 page 5 — boathouse model"
+    },
+    {
+      "name": "02-front-view.webp",
+      "sha256": "a3d49056a9ed0430aa4329445476271b2b46b78b5c9ecd5998b67fc1420c6ab1",
+      "bytes": 52564,
+      "from": "e7c5 page 4 — front view"
+    },
+    {
+      "name": "03-joinery-photo.webp",
+      "sha256": "1a30109f4ba3bda1e43dfc9a97ec32caf02d9016acbf0d0948c98ebe3aa9efee",
+      "bytes": 5834,
+      "from": "e7c5 page 4 — joinery photo"
+    },
+    {
+      "name": "04-boat-rack-photo.webp",
+      "sha256": "cf17628ddcd45d4117d388a561cd2408bfe90b707e1aaafc0f591630841bc7eb",
+      "bytes": 15494,
+      "from": "e7c5 page 4 — boat rack photo"
+    },
+    {
+      "name": "05-sketches-a.webp",
+      "sha256": "de1770827a6de2e4cd1c1cf44169384ac31478ea735345fa4014205e19b5eaa6",
+      "bytes": 20654,
+      "from": "e7c5 page 4 — sketches a"
+    },
+    {
+      "name": "06-sketches-b.webp",
+      "sha256": "a6765d8d0624ea6c12c65b3c0c7bfce826cc40f603ecb3e24d2b99102b170b7e",
+      "bytes": 23048,
+      "from": "e7c5 page 4 — sketches b"
+    },
+    {
+      "name": "07-sketches-c.webp",
+      "sha256": "6469d6ba976e3599af519582b8b88c16d719f3883d6219ca20a7cc9d7f4e26b3",
+      "bytes": 17692,
+      "from": "e7c5 page 4 — sketches c"
+    },
+    {
+      "name": "08-interior-view.webp",
+      "sha256": "24dab3f44f978a89601b67463bc14206c5b6275a5f21cb033fdf79b0703fe339",
+      "bytes": 22020,
+      "from": "e7c5 page 5 — interior view"
+    },
+    {
+      "name": "09-detail-views.webp",
+      "sha256": "120049b60996140635223857c017efa217b8e86f7e6f1dcd3b033fb6bf1d8155",
+      "bytes": 23320,
+      "from": "e7c5 page 5 — detail views"
+    },
+    {
+      "name": "10-side-view.webp",
+      "sha256": "addf6722b3724aa3d8d766b329c1b44da94ffa8a68ab6fcaf73b448907b0c8c3",
+      "bytes": 36346,
+      "from": "e7c5 page 5 — side view"
+    }
+  ]
+}
