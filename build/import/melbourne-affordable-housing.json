@@ -1,0 +1,67 @@
+{
+  "project": "Melbourne Affordable Housing",
+  "dest": "assets/board/melbourne-affordable-housing",
+  "note": "Portfolio f45d pages 22–29 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with mentor contact, the site aerial photo and landmark names, the site section photos, the theorist portrait, the scene-node circles with photo people, the city photo spread, the tower context in the section and the clock location photos.",
+  "files": [
+    {
+      "name": "01-room-configuration-tribes.webp",
+      "sha256": "78b407e92f9af63e69abfac328f3b9cf34e3330e85a6bc17b19276782817a628",
+      "bytes": 286000,
+      "from": "f45d page 24 — room configurations per group and the nine tribe combinations, x 0–100 %, y 13–100 %"
+    },
+    {
+      "name": "02-house-price-map.webp",
+      "sha256": "43f3e5ad4134bbe2bb1d11661c68bed633a370827d4c6791d4d7181e28e8352d",
+      "bytes": 74692,
+      "from": "page 22 — house and flat price change map with pie charts, x 0–30 %, y 35.5–98.5 %"
+    },
+    {
+      "name": "03-rent-price-chart.webp",
+      "sha256": "c92eae60a4f0310fc483b6f444856e907c63ca9c67878d6b2c75a7b3af007455",
+      "bytes": 32396,
+      "from": "page 22 — rent price chart, x 30–49.5 %, y 35.5–98.5 %"
+    },
+    {
+      "name": "04-life-time-loop.webp",
+      "sha256": "ce7797261f512b0af89519c59d7eacfe179c4ddeada174b5653c504671d381df",
+      "bytes": 186302,
+      "from": "page 23 — population life time loop with drawn silhouettes, x 0–61.5 %, y 2–100 %"
+    },
+    {
+      "name": "05-mixed-habitation-charts.webp",
+      "sha256": "e144429818d281c98fd639ab5186df3b2b32e22d78f075dd7186db1e1868b75e",
+      "bytes": 97894,
+      "from": "page 23 — mixed habitation groups, options and housing indicator charts, x 63–100 %, y 35–100 %"
+    },
+    {
+      "name": "06-cluster-combinations.webp",
+      "sha256": "a99aae1013d8967751bb9f6ba59dd5ffe46b693ccca7697fc5c35142e2a562d9",
+      "bytes": 259244,
+      "from": "page 25 — four clusters combining tribes with crowd flow, full page"
+    },
+    {
+      "name": "07-cluster-scene-nodes.webp",
+      "sha256": "45d9a63b1b3227cf66e330e202ee0fad3608c48baee16e26952bc951c1535e7a",
+      "bytes": 80324,
+      "from": "page 26 — cluster IV axonometric with drawn figures, x 2–80 %, y 38–66 %"
+    },
+    {
+      "name": "08-section-details.webp",
+      "sha256": "3830321f9dd84110473cd8b388191eeedd603bcda4cc876774e8fc9dd66106a2",
+      "bytes": 143788,
+      "from": "page 28 — section detail circles: middle part, balcony, passive solar house, x 0–55.5 %, y 0–97 %"
+    },
+    {
+      "name": "09-unit-model-photos.webp",
+      "sha256": "dd89e0b5226bf4b9b0c4262997cb3e3d21d98a67402156299d8d77bbec26901c",
+      "bytes": 45044,
+      "from": "page 29 — building unit model photos with white scale figures, x 0–29 %, y 5–100 %"
+    },
+    {
+      "name": "10-warning-clock-device.webp",
+      "sha256": "64c614ba0cd07a66bca948ade7cbd37730c2c0971066ab89b2dadfb9ec2f8f65",
+      "bytes": 199078,
+      "from": "page 29 — warning clock composition, dial and gear drawings, x 53.5–100 % y 5–65 % stacked over x 30–100 % y 65–100 %"
+    }
+  ]
+}
