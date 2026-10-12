@@ -1,0 +1,37 @@
+{
+  "project": "Streamlined High-rise",
+  "dest": "assets/board/streamlined-high-rise-parametric-tower",
+  "note": "Portfolio b66d page 16 cropped to five images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-tower-render.webp",
+      "sha256": "333992dfa4c637ee9d898622b5ee74f7d74f3b8c7c7ddd6eb6c726c9f37a0156",
+      "bytes": 66686,
+      "from": "b66d page 16 — tower render"
+    },
+    {
+      "name": "02-array-and-scale.webp",
+      "sha256": "8de4479b4650de185b3bca60da253656ca7c12291478366a5359b7c0e0c9ce82",
+      "bytes": 14466,
+      "from": "b66d page 16 — array and scale"
+    },
+    {
+      "name": "03-surface-and-colour.webp",
+      "sha256": "00b99694acb8603feb7846666279961fec3b85563b5dbd23d2abc867e1260826",
+      "bytes": 10246,
+      "from": "b66d page 16 — surface and colour"
+    },
+    {
+      "name": "04-script.webp",
+      "sha256": "b2818310841ff829cab5c2e1fedbfecf4bf522f33a4a08da1f3cdebfc09eda3b",
+      "bytes": 18622,
+      "from": "b66d page 16 — script"
+    },
+    {
+      "name": "05-loft-and-mesh.webp",
+      "sha256": "03066c64ab83baeb86d85984de1ba5ea1d98a1b8f0b72bdb982043958e0f0b74",
+      "bytes": 30440,
+      "from": "b66d page 16 — loft and mesh"
+    }
+  ]
+}
