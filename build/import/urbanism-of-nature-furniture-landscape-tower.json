@@ -1,0 +1,61 @@
+{
+  "project": "Urbanism of Nature",
+  "dest": "assets/board/urbanism-of-nature-furniture-landscape-tower",
+  "note": "Portfolio a0f7 pages 4-7 (first project only) cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the cover, CV and contents pages, the pencil sketches with photo collage of people, the seated-person photo series, and later projects.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "09501d7d070aa46126b329531957a85575bed93817fd85a26ee2cc2540cfdbbe",
+      "bytes": 200042,
+      "from": "a0f7 page 5 — tower model render, x 0–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-landscape-integration.webp",
+      "sha256": "4e59675325fcc9e0ca00279f23f7c1557e6bd74f590092f3e4b8b7a3e997d326",
+      "bytes": 192242,
+      "from": "a0f7 page 4 — slope and integration diagrams, x 3–98 %, y 48–79 %"
+    },
+    {
+      "name": "03-furniture-to-terrain.webp",
+      "sha256": "64bfcfd718ad7f143ae28f6420c190a01003128d8dd17aa30a417a48d52ab24e",
+      "bytes": 58288,
+      "from": "a0f7 page 4 — furniture forms turned into terrain, x 3–99 %, y 80–99 %"
+    },
+    {
+      "name": "04-layer-plans.webp",
+      "sha256": "b31355d1086a5a2c5bebb45eb5376a6c2b967eb6c2f519f6ec9f7e67f22d48c8",
+      "bytes": 34378,
+      "from": "a0f7 page 7 — layer plans, x 4–34 %, y 4–46 %"
+    },
+    {
+      "name": "05-evolving-interior-layers.webp",
+      "sha256": "abf1f6ed6aaee72911235f90f43848e8f6a994df2696883910b2d5ab3b49f16c",
+      "bytes": 156522,
+      "from": "a0f7 page 7 — exploded interior layers, x 34–98 %, y 4–46 %"
+    },
+    {
+      "name": "06-interior-model-views.webp",
+      "sha256": "dbb2ca69f96b452b881224aab5139757ac7eecc03acf4f959ad11ae0ab11d4e5",
+      "bytes": 51470,
+      "from": "a0f7 page 7 — interior model views with scale figures, x 4–72 %, y 46–66 %"
+    },
+    {
+      "name": "07-acrylic-model-studies.webp",
+      "sha256": "e8914fd0a07aee3f632540624ea16058f85a2e6d1903f5e7cc0b597a3377b9bd",
+      "bytes": 194088,
+      "from": "a0f7 page 7 — acrylic model studies, x 4–49 %, y 66–98 %"
+    },
+    {
+      "name": "08-laser-cut-model.webp",
+      "sha256": "c6b84faed09f029359c7b2942950df0f4124eab5a7171d38acca96c697b8cb0f",
+      "bytes": 68696,
+      "from": "a0f7 page 7 — laser-cut acrylic model, x 50–98 %, y 66–98 %"
+    },
+    {
+      "name": "09-tower-section.webp",
+      "sha256": "c5e64e5a3774cf407c93108d4668efc13a416b34cb71d04e16dca8415b30c82a",
+      "bytes": 272376,
+      "from": "a0f7 page 6 — tower section, x 0–100 %, y 0–100 %"
+    }
+  ]
+}
