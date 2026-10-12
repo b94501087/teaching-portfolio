@@ -1,0 +1,49 @@
+{
+  "project": "Guangdong Cultural Centre",
+  "dest": "assets/board/mountain-village-cultural-centre",
+  "note": "Portfolio b976 pages 20–23 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title text on page 20, the site analysis map and diagrams on page 20, the render strip on page 21, the city area figures in the text and the page numbers.",
+  "files": [
+    {
+      "name": "01-mountain-render.webp",
+      "sha256": "e57c3ecc55cec0fe4ccfa2389a218d4b97d962259f497ed7781a3f57393c2111",
+      "bytes": 88332,
+      "from": "b976 page 20 — exterior render in the mountains, x 0–48 %, y 0–66 %"
+    },
+    {
+      "name": "02-form-diagrams.webp",
+      "sha256": "46a539f94140273ff3d6c7077b3022ecdc2b15347d9df6de121ff6fc151e8856",
+      "bytes": 63230,
+      "from": "page 21 — form development diagrams, x 74–100 %, y 0–100 %"
+    },
+    {
+      "name": "03-ground-floor-plan.webp",
+      "sha256": "238af66883707eb57575c6413f7988450aa0c20ee324b3ac1c9f4f949d618dc9",
+      "bytes": 275022,
+      "from": "page 21 — ground floor plan on the site, x 0–46 %, y 0–100 %"
+    },
+    {
+      "name": "04-upper-floor-plans.webp",
+      "sha256": "0238a6ffcbe7945ee078e83dcd38135c21e62ae355d6bb2b522655ecf1420d89",
+      "bytes": 82138,
+      "from": "page 22 — first and second floor plans, x 0–37 %, y 0–100 %"
+    },
+    {
+      "name": "05-truss-render.webp",
+      "sha256": "c3427e7c853072fe2e4b441ef6cc00bc78575518949b437683c2ab0efddee462",
+      "bytes": 77324,
+      "from": "page 22 — render of the truss structure, x 45–100 %, y 2–66 %"
+    },
+    {
+      "name": "06-sections.webp",
+      "sha256": "688e6386fdd4fb43751ba1aaba860ff21bb2fc146a3ad075f4bf872d406bfed8",
+      "bytes": 155930,
+      "from": "page 23 — section and courtyard sections, x 0–55 %, y 0–100 %"
+    },
+    {
+      "name": "07-axonometric-interiors.webp",
+      "sha256": "2ddf131d824ca9052f974b88cbec7248f09ac0b76d81afb34bd0be4e55db849e",
+      "bytes": 150022,
+      "from": "page 23 — axonometric drawing and interior views, x 55–100 %, y 0–100 %"
+    }
+  ]
+}
