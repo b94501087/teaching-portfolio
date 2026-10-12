@@ -25066,6 +25066,415 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Implantation of Changeable Wall",
+      "slug": "changeable-wall-housing",
+      "description": "Corridors, balconies and moving walls let a city housing block switch between shop and home.\n\nGuangzhou, China | Residential | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "可變牆的植入",
+          "description": "以走廊、陽台與可移動的牆，讓都市住宅量體在店面與住家之間切換。\n\n中國廣州｜住宅｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/changeable-wall-housing/01-cutaway-axonometric.webp",
+        "assets/board/changeable-wall-housing/02-site-analysis.webp",
+        "assets/board/changeable-wall-housing/03-district-periods.webp",
+        "assets/board/changeable-wall-housing/04-corridor-section.webp",
+        "assets/board/changeable-wall-housing/05-interior-forms.webp",
+        "assets/board/changeable-wall-housing/06-form-plans.webp",
+        "assets/board/changeable-wall-housing/07-plan-and-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/changeable-wall-housing/01-cutaway-axonometric.webp"
+          ],
+          "captions": [
+            "Cutaway view of the block, with staggered balconies and changeable rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "量體剖切透視，可見錯落的陽台與可變的房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "During a lockdown, a residential community in central Guangzhou saw many shops left empty while residents could not live normally. The project asks how one building can serve both everyday trade and safe home life when that happens.",
+          "images": [
+            "assets/board/changeable-wall-housing/02-site-analysis.webp"
+          ],
+          "captions": [
+            "Site location and site condition analysis in the city centre."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在封控期間，廣州市中心一處住宅社區的許多店面閒置，居民也無法正常生活。本案探討一棟建築如何在這種情況下，同時支持日常商業與安全的居家生活。",
+              "captions": [
+                "位於市中心的基地位置與現況分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied which activities each group in the community lost during the lockdown. Three needs came out of this, and each one led to a strategy, starting with managing the district in different periods.",
+          "images": [
+            "assets/board/changeable-wall-housing/03-district-periods.webp"
+          ],
+          "captions": [
+            "Strategy one: the district before, during and after a lockdown."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究社區中各族群在封控期間失去了哪些活動。由此歸納出三項需求，每一項都對應一個策略，首先是依不同時期管理街區。",
+              "captions": [
+                "策略一：封控前、封控期間與解除後的街區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Outside corridors and staggered balconies act as a separate route and a social space in a lockdown, and as shop frontage in normal times. Inside, walls that move let a room change between shop, home and mixed use.",
+          "images": [
+            "assets/board/changeable-wall-housing/04-corridor-section.webp",
+            "assets/board/changeable-wall-housing/05-interior-forms.webp",
+            "assets/board/changeable-wall-housing/06-form-plans.webp"
+          ],
+          "captions": [
+            "Strategy two: corridors and balconies keep sightlines between neighbours.",
+            "Strategy three: generating interior layouts from private to public.",
+            "Interior forms shown in perspective plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "外部走廊與錯落的陽台，在封控時作為獨立動線與社交空間，平時則成為店面的延伸。室內則以可移動的牆，讓房間在店面、住家與混合用途之間轉換。",
+              "captions": [
+                "策略二：走廊與陽台保留鄰里之間的視線。",
+                "策略三：從私密到公共生成室內配置。",
+                "以透視平面呈現的室內形式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The floor plan and section show the changeable wall across the whole building. An entrance bathroom works as a buffer, so people who need to stay apart and other residents use separate routes.",
+          "images": [
+            "assets/board/changeable-wall-housing/07-plan-and-section.webp"
+          ],
+          "captions": [
+            "Floor plan, section and three ways the wall can change."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "平面與剖面呈現可變牆在整棟建築中的應用。入口浴室作為緩衝區，讓需要隔離的人與其他住戶使用不同的動線。",
+              "captions": [
+                "平面、剖面與牆體的三種變化方式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask who lost what.\n2. Turn needs into strategies.\n3. Design for two modes.\n4. Show the change in plan.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 問誰失去了什麼。\n2. 把需求轉成策略。\n3. 為兩種模式設計。\n4. 在平面上呈現轉變。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Implantation of Welfare Index",
+      "slug": "welfare-index-urban-village",
+      "description": "A welfare index built from residents' needs guides the renewal of a dense urban village.\n\nGuangzhou, China | Urban village renewal | 2018 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "福祉指數的植入",
+          "description": "以居民需求建立的福祉指數，引導一座高密度城中村的更新。\n\n中國廣州｜城中村更新｜2018｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/welfare-index-urban-village/01-renewed-village.webp",
+        "assets/board/welfare-index-urban-village/02-village-patterns.webp",
+        "assets/board/welfare-index-urban-village/03-village-growth-maps.webp",
+        "assets/board/welfare-index-urban-village/04-exploded-analysis.webp",
+        "assets/board/welfare-index-urban-village/05-village-models.webp",
+        "assets/board/welfare-index-urban-village/06-indicator-chart.webp",
+        "assets/board/welfare-index-urban-village/07-design-strategy.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/welfare-index-urban-village/01-renewed-village.webp"
+          ],
+          "captions": [
+            "The renewed village, with roof terraces, planting and residents drawn around it."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "更新後的城中村，屋頂露台、綠化與周圍手繪的居民。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Urban villages give low-income residents and new arrivals a cheap place to start, but they are crowded and short of light, air and open space. The project asks how one village in central Guangzhou can become livable while keeping its own texture and scale.",
+          "images": [
+            "assets/board/welfare-index-urban-village/02-village-patterns.webp",
+            "assets/board/welfare-index-urban-village/03-village-growth-maps.webp"
+          ],
+          "captions": [
+            "Village types and the ways villages cluster in the city.",
+            "How the village grew, period by period."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "城中村為低收入居民與外來者提供低門檻的落腳處，但也擁擠、缺乏採光、通風與開放空間。本案探討廣州市中心的一座城中村，如何在保留原有肌理與尺度的同時變得宜居。",
+              "captions": [
+                "城中村的類型，以及它們在城市中聚集的方式。",
+                "城中村逐期成長的過程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student ran a field survey and interviews with residents, then drew the village layer by layer. Hand-made section models show how people actually live inside the dense buildings.",
+          "images": [
+            "assets/board/welfare-index-urban-village/04-exploded-analysis.webp",
+            "assets/board/welfare-index-urban-village/05-village-models.webp"
+          ],
+          "captions": [
+            "Exploded analysis of the village, from ground to roofs.",
+            "Hand-made section models of villagers' activities inside buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生對居民進行實地問卷與訪談，再逐層繪製這座城中村。手作的剖面模型呈現人們如何在密集的建築中實際生活。",
+              "captions": [
+                "城中村的爆炸分析，從地面到屋頂。",
+                "呈現村民室內活動的手作剖面模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Using capability theory, the student built a welfare index from living, environment and leisure indicators. Each weak indicator is turned into a design move, such as better room layouts, planting that cleans the air and new leisure space.",
+          "images": [
+            "assets/board/welfare-index-urban-village/06-indicator-chart.webp",
+            "assets/board/welfare-index-urban-village/07-design-strategy.webp"
+          ],
+          "captions": [
+            "Welfare indicators compared against the living environment.",
+            "From present situation to improvement direction and strategy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生運用可行能力理論，以居住、環境與休閒等指標建立福祉指數。每一項偏弱的指標都轉化為設計手法，例如改善房間配置、以植栽淨化空氣，以及增加休閒空間。",
+              "captions": [
+                "福祉指標與居住環境的對照。",
+                "從現況、改善方向到設計策略。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Roof terraces, enclosed courtyards and new interior layouts are implanted into the existing blocks. The village keeps its dense grain but gains greenery, safer lanes and more places to gather.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "屋頂露台、圍合中庭與新的室內配置被植入既有的街廓中。城中村保有原本緊密的紋理，同時多了綠意、更安全的巷道與更多聚集的場所。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask residents first.\n2. Measure what is missing.\n3. Turn each gap into a move.\n4. Keep the village grain.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先問居民。\n2. 量測缺少什麼。\n3. 把每個缺口轉成設計手法。\n4. 保留村落的紋理。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Implantation of City Canopy",
+      "slug": "city-canopy-umbrella-street",
+      "description": "An umbrella taken apart becomes a folding canopy for an old shopping street.\n\nGuangzhou, China | Commercial street | 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市頂篷的植入",
+          "description": "把雨傘拆解後，轉化為老商業街上可摺疊的頂篷。\n\n中國廣州｜商業街｜2019｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/city-canopy-umbrella-street/01-canopy-over-street.webp",
+        "assets/board/city-canopy-umbrella-street/02-umbrella-study.webp",
+        "assets/board/city-canopy-umbrella-street/03-umbrella-frame-pattern.webp",
+        "assets/board/city-canopy-umbrella-street/04-node-and-fixture.webp",
+        "assets/board/city-canopy-umbrella-street/05-physical-models.webp",
+        "assets/board/city-canopy-umbrella-street/06-street-axonometric.webp",
+        "assets/board/city-canopy-umbrella-street/07-canopy-strategy-one.webp",
+        "assets/board/city-canopy-umbrella-street/08-canopy-strategy-two.webp",
+        "assets/board/city-canopy-umbrella-street/09-canopy-strategy-four.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/city-canopy-umbrella-street/01-canopy-over-street.webp"
+          ],
+          "captions": [
+            "A folding canopy spans the street from wall to wall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "可摺疊的頂篷從牆到牆橫跨街道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Busy old shopping streets have little room, yet they need shade and shelter from the rain. The project asks whether a flexible device, folded into the corner of a building, can open over the street when needed.",
+          "images": [
+            "assets/board/city-canopy-umbrella-street/02-umbrella-study.webp",
+            "assets/board/city-canopy-umbrella-street/03-umbrella-frame-pattern.webp"
+          ],
+          "captions": [
+            "Taking an umbrella apart: opening process and raindrop paths.",
+            "The umbrella frame drawn as a pattern."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "熱鬧的老商業街空間有限，卻需要遮陽與避雨。本案探討一種收在建築轉角的彈性裝置，能否在需要時展開覆蓋街道。",
+              "captions": [
+                "拆解雨傘：開啟過程與雨滴軌跡。",
+                "以圖案形式繪製的傘骨。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The umbrella frame is reduced to two parts, a node and a fixture, and each is tested in study models. A movement study shows how the parts fold in and stretch out along a wall.",
+          "images": [
+            "assets/board/city-canopy-umbrella-street/04-node-and-fixture.webp",
+            "assets/board/city-canopy-umbrella-street/05-physical-models.webp"
+          ],
+          "captions": [
+            "Node design, fixture design and how the parts move.",
+            "Physical models of the node fixed to a wall, with and without a cover."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "傘骨被簡化為節點與固定件兩個部分，並各自以研究模型測試。一系列動作研究呈現這些部件如何沿著牆面收合與伸展。",
+              "captions": [
+                "節點設計、固定件設計與部件的運動方式。",
+                "固定在牆上的節點實體模型，有覆面與無覆面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The device is placed along an arcade shopping street in Guangzhou with many shops and visitors. Zoom views show where the canopy meets corners, junctions and wider parts of the street.",
+          "images": [
+            "assets/board/city-canopy-umbrella-street/06-street-axonometric.webp"
+          ],
+          "captions": [
+            "Axonometric of the shopping street, with the canopy shown in pink."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "裝置被置入廣州一條商店與遊客眾多的騎樓商業街。放大視圖呈現頂篷與轉角、路口及街道較寬處的關係。",
+              "captions": [
+                "商業街軸測圖，頂篷以粉紅色標示。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Four canopy strategies grow from one wall bracket to frames that link both sides and turn corners. Each one changes how open or sheltered the street feels, from public to semi-private.",
+          "images": [
+            "assets/board/city-canopy-umbrella-street/07-canopy-strategy-one.webp",
+            "assets/board/city-canopy-umbrella-street/08-canopy-strategy-two.webp",
+            "assets/board/city-canopy-umbrella-street/09-canopy-strategy-four.webp"
+          ],
+          "captions": [
+            "Strategy one: a single bracket covers one side of the street.",
+            "Strategy two: two brackets join in the middle to cover the whole street.",
+            "Strategy four: a cross-shaped frame covers an intersection."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "四種頂篷策略從單一牆面支架，發展到連接兩側並轉過路口的框架。每一種都改變街道的開放或遮蔽程度，從公共到半私密。",
+              "captions": [
+                "策略一：單一支架覆蓋街道一側。",
+                "策略二：兩側支架在中央相接，覆蓋整條街。",
+                "策略四：十字形框架覆蓋路口。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Take an object apart.\n2. Keep the key parts.\n3. Test them in models.\n4. Scale them to the street.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 拆解一件物品。\n2. 保留關鍵部件。\n3. 用模型測試。\n4. 放大到街道尺度。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
