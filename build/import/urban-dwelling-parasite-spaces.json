@@ -1,0 +1,49 @@
+{
+  "project": "Urban Dwelling: Residing in the City",
+  "dest": "assets/board/urban-dwelling-parasite-spaces",
+  "note": "Portfolio b976 pages 4–9 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the cover with the student name, the contents page, the intro text on page 3, the building photo on page 4, the users analysis with artwork photos on page 5, the photo vignettes on page 6, the photo collage of people on page 7 and the page numbers.",
+  "files": [
+    {
+      "name": "01-site-axonometric.webp",
+      "sha256": "e799256d6423b7b4b7b14ee135610ec9eb8e5ff3db1b7cf13364f6c73d353a3c",
+      "bytes": 347218,
+      "from": "b976 page 4 — site axonometric of the housing estate, x 37–84 %, y 0–98 %"
+    },
+    {
+      "name": "02-six-spaces.webp",
+      "sha256": "7d323cccdc81472557ba26433ea730ab0dca0084b383d87de74958cad7b0b878",
+      "bytes": 130286,
+      "from": "page 6 — renders of the six parasite spaces, x 61.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "03-floating-gallery-section.webp",
+      "sha256": "17fbdd7d9a2d639c8efa3c3c738b7fddb711b942ed9a6d54636740edb8caef71",
+      "bytes": 72486,
+      "from": "page 7 — floating gallery long section, x 0–100 %, y 66–100 %"
+    },
+    {
+      "name": "04-air-studio-section.webp",
+      "sha256": "7d152140ef46d40c996855923b8472c0936e6a71b2ffb59b477ae3d3bcb33cc8",
+      "bytes": 110140,
+      "from": "page 8 — air studio section, x 0–67 %, y 3–100 %"
+    },
+    {
+      "name": "05-air-studio-plan.webp",
+      "sha256": "a76e0cc8d81c2ed85f420a27f350e64d73126e26f0308b9c60055529a79b8f8e",
+      "bytes": 98604,
+      "from": "page 8 — air studio plan and parametric script, x 67–100 %, y 0–90 %"
+    },
+    {
+      "name": "06-dancing-office-section.webp",
+      "sha256": "433bb1e003349ace05969a13749f6eac879ef670e80bef5787a9db3bd95a7217",
+      "bytes": 105958,
+      "from": "page 9 — dancing office section, x 0–70 %, y 0–100 %"
+    },
+    {
+      "name": "07-dancing-office-plan.webp",
+      "sha256": "dfb889a2bc675c11bcc7f583afb6913747da2bc1a9841c45c02b8db0934de61f",
+      "bytes": 92474,
+      "from": "page 9 — dancing office plan, x 72–100 %, y 0–100 %"
+    }
+  ]
+}
