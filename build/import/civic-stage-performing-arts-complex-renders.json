@@ -1,0 +1,49 @@
+{
+  "project": "Civic Stage: Performing Arts Complex",
+  "dest": "assets/board/civic-stage-performing-arts-complex-renders",
+  "note": "Portfolio b66d pages 12-13 cropped to seven images, WebP q88 (PIL). Not used: site photo boards with people and street photos.",
+  "files": [
+    {
+      "name": "01-aerial-render.webp",
+      "sha256": "a48c6af411e06c543d451da27ad749f4c1cbe53486c67bab77ef705ba6023660",
+      "bytes": 38084,
+      "from": "b66d page 12 — aerial render"
+    },
+    {
+      "name": "02-zoning-map.webp",
+      "sha256": "4846f4850268a7d6d8715e38ffbb43eb3ab4103736304eb00c1ce77416fd699c",
+      "bytes": 30636,
+      "from": "b66d page 12 — zoning map"
+    },
+    {
+      "name": "03-massing-steps.webp",
+      "sha256": "5de2f08e8ec731371b0f43d21d7348e5171c4ba6ac6b0f1746dc7d505ab6d142",
+      "bytes": 9732,
+      "from": "b66d page 12 — massing steps"
+    },
+    {
+      "name": "04-program-axo.webp",
+      "sha256": "cd59f4fcef51ad9070b4aedfd87ad2089dbed02106c3ead7811088526feae464",
+      "bytes": 11280,
+      "from": "b66d page 12 — program axo"
+    },
+    {
+      "name": "05-front-view.webp",
+      "sha256": "634ce8b80fa1cef062910358e2a58b04df50a16dd84da5c6baa04694dd9b2533",
+      "bytes": 22026,
+      "from": "b66d page 13 — front view"
+    },
+    {
+      "name": "06-street-view.webp",
+      "sha256": "beed71c2076fd1a22906ab993500b60e17449c3387ef5c21cf81e12507262b1f",
+      "bytes": 37544,
+      "from": "b66d page 13 — street view"
+    },
+    {
+      "name": "07-watercolour.webp",
+      "sha256": "4c7534560a7528e1f62f750af98c294f43e5ae7226eaf01479728378fce9cda1",
+      "bytes": 75298,
+      "from": "b66d page 13 — watercolour"
+    }
+  ]
+}
