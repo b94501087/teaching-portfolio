@@ -16646,6 +16646,439 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Ego in Scent",
+      "slug": "ego-in-scent",
+      "description": "A perfume experience store where visitors pass through six spaces and leave with a scent of their own.\n\nShanghai, China | Interior and brand experience | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "氣味中的自我",
+          "description": "讓訪客走過六個空間，最後帶走專屬氣味的香水體驗店。\n\n中國上海｜室內設計與品牌體驗｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/ego-in-scent/01-interior-sequence.webp",
+        "assets/board/ego-in-scent/02-twelve-senses.webp",
+        "assets/board/ego-in-scent/03-morphological-examination.webp",
+        "assets/board/ego-in-scent/04-extraction-process.webp",
+        "assets/board/ego-in-scent/05-block-generation.webp",
+        "assets/board/ego-in-scent/06-streamline-organization.webp",
+        "assets/board/ego-in-scent/07-bath-plans.webp",
+        "assets/board/ego-in-scent/08-aromatherapy.webp",
+        "assets/board/ego-in-scent/09-showroom.webp",
+        "assets/board/ego-in-scent/10-showroom-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/ego-in-scent/01-interior-sequence.webp"
+          ],
+          "captions": [
+            "Seven interior spaces in sequence, from the red bath entrance to the glass showroom."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "七個依序展開的室內空間，從紅色的浴室入口到玻璃展示廳。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "We perceive our own ego and the egos of others mainly by seeing and touching skin. The project asks whether there is another way, and whether people could perceive their own or others' egos through the sense of smell.",
+          "images": [
+            "assets/board/ego-in-scent/02-twelve-senses.webp"
+          ],
+          "captions": [
+            "The theory of twelve senses links the sense of smell to the sense of thought, and from there to the sense of ego."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "我們主要透過看見與觸碰皮膚，來感知自己與他人的「自我」。本案提問是否還有其他方式，讓人們能透過嗅覺感知自己或他人的自我。",
+              "captions": [
+                "十二感官理論將嗅覺與思考感相連，再延伸到自我感。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Studying the theory of twelve senses showed a strong link between the sense of smell and the sense of thought, the only sense related to the sense of ego. Human pheromones are abundant in sweat, and the design centres on a perfume made only of body and base notes that reacts with each wearer's own pheromones to create a personal scent.",
+          "images": [
+            "assets/board/ego-in-scent/03-morphological-examination.webp"
+          ],
+          "captions": [
+            "Inspiration and morphological examination: a crystal-like mesh that becomes bath, sauna, shower, spa, massage, aromatherapy and showroom."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究十二感官理論後發現，嗅覺與思考感緊密相關，而思考感是唯一與自我感相關的感官。人體費洛蒙大量存在於汗水中，設計便以一款只由體香與基調構成的香水為核心，它會與每位配戴者的費洛蒙作用，產生專屬的氣味。",
+              "captions": [
+                "靈感與形態推敲：如晶體般的網格，轉化為浴室、桑拿、淋浴、水療、按摩、芳療與展示廳。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Six of the seven spaces form a process that extracts the visitor's pheromones, from bath, sauna and shower to spa, massage and aromatherapy, and the seventh is the showroom. The building block is divided, raised, cut at different angles and twisted so it looks like a crystal, with separate routes for experiencers, customers and staff.",
+          "images": [
+            "assets/board/ego-in-scent/04-extraction-process.webp",
+            "assets/board/ego-in-scent/05-block-generation.webp",
+            "assets/board/ego-in-scent/06-streamline-organization.webp"
+          ],
+          "captions": [
+            "Extraction process: the experiencer passes through six spaces and leaves with a perfume of their own.",
+            "Block generation in eight steps, from the street-facing entrance to the twisted crystal form.",
+            "Streamline organization for experiencers, customers and staff."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "七個空間中的六個構成萃取訪客費洛蒙的流程，從浴室、桑拿、淋浴，到水療、按摩與芳療，第七個則是展示廳。建築量體經過分割、抬升、以不同角度切削並扭轉，使它看起來像一顆晶體，並為體驗者、顧客與員工規劃各自的動線。",
+              "captions": [
+                "萃取流程：體驗者走過六個空間，最後帶走屬於自己的香水。",
+                "八個步驟的量體生成，從面向街道的入口到扭轉的晶體造形。",
+                "體驗者、顧客與員工的動線組織。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the bath a hot red outer zone makes visitors eager to reach the calm green interior, and later the aromatherapy space mixes their collected pheromones with the perfume. The journey ends in the showroom, where visitors who have received their own scent can try it on and consult the staff.",
+          "images": [
+            "assets/board/ego-in-scent/07-bath-plans.webp",
+            "assets/board/ego-in-scent/08-aromatherapy.webp",
+            "assets/board/ego-in-scent/09-showroom.webp",
+            "assets/board/ego-in-scent/10-showroom-plan.webp"
+          ],
+          "captions": [
+            "Plans and material palette of the bath space.",
+            "Aromatherapy space, where the pheromones are mixed with the perfume.",
+            "The showroom at the end of the journey.",
+            "Showroom plan and material palette of glass brick, glass rod, brass and marble."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在浴室中，炙熱的紅色外圍讓訪客急於進入沉靜的綠色內部；之後的芳療空間則將收集到的費洛蒙與香水融合。旅程在展示廳結束，拿到專屬氣味的訪客可以在此試香，並向員工諮詢。",
+              "captions": [
+                "浴室空間的平面與材料配置。",
+                "芳療空間，費洛蒙在此與香水融合。",
+                "旅程終點的展示廳。",
+                "展示廳平面與玻璃磚、玻璃棒、黃銅與大理石的材料配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a theory of perception.\n2. Turn one sense into a spatial question.\n3. Order the spaces as a process.\n4. Give each step its own atmosphere.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一套感知理論出發。\n2. 把一種感官轉化為空間問題。\n3. 將空間依流程排序。\n4. 為每個步驟營造各自的氛圍。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Activation of a Boiler House",
+      "slug": "activation-of-a-boiler-house",
+      "description": "Bagasse bricks and curving routes bring an abandoned sugar factory boiler house back to life.\n\nGuangzhou, China | Industrial renovation and material experiment | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鍋爐房活化",
+          "description": "以甘蔗渣磚與曲面動線，讓廢棄糖廠的鍋爐房重獲新生。\n\n中國廣州｜工業建築改造與材料實驗｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/activation-of-a-boiler-house/01-bagasse-structure-model.webp",
+        "assets/board/activation-of-a-boiler-house/02-site-axonometric.webp",
+        "assets/board/activation-of-a-boiler-house/03-bagasse-ratio-tests.webp",
+        "assets/board/activation-of-a-boiler-house/04-brick-making-steps.webp",
+        "assets/board/activation-of-a-boiler-house/05-inspiration.webp",
+        "assets/board/activation-of-a-boiler-house/06-morphological-examination.webp",
+        "assets/board/activation-of-a-boiler-house/07-streamline-organization.webp",
+        "assets/board/activation-of-a-boiler-house/08-exploded-axonometric.webp",
+        "assets/board/activation-of-a-boiler-house/09-model-photos.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/activation-of-a-boiler-house/01-bagasse-structure-model.webp"
+          ],
+          "captions": [
+            "Model of curving forms threaded through the frame of the old boiler house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "在舊鍋爐房框架中穿梭的曲面造形模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A space that cannot be used will always be abandoned, and the old sugar factory, once the largest sugar enterprise in Guangzhou, closed when demand for sugar fell. In its boiler house, where bagasse was pressed, the patio in the middle of the plant divides the space in two, and the two halves are not well connected.",
+          "images": [
+            "assets/board/activation-of-a-boiler-house/02-site-axonometric.webp"
+          ],
+          "captions": [
+            "Site axonometric of the factory park, with the boiler house where bagasse was pressed."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "無法使用的空間終將被遺棄；這座曾是廣州最大製糖企業的老糖廠，也在糖的需求下滑後停產。在過去壓榨甘蔗渣的鍋爐房裡，廠房中央的天井把空間一分為二，兩側缺乏良好的連結。",
+              "captions": [
+                "廠區軸測圖，標示出過去壓榨甘蔗渣的鍋爐房。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The material experiment explored using bagasse, the waste of sugar production, as a building material, separating it into epidermis and dregs. Samples with ten to forty percent bagasse were tested for compressive and tensile strength, and the bricks were made by hand in a mould, layer by layer.",
+          "images": [
+            "assets/board/activation-of-a-boiler-house/03-bagasse-ratio-tests.webp",
+            "assets/board/activation-of-a-boiler-house/04-brick-making-steps.webp"
+          ],
+          "captions": [
+            "Samples with ten, twenty, thirty and forty percent bagasse, tested for compressive and tensile strength.",
+            "Making a brick by hand: mould, paste, bagasse, pressing and repeating until the brick is complete."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "材料實驗探索以製糖的廢料甘蔗渣作為建築材料，並將它分為表皮與渣滓。研究以含甘蔗渣百分之十到四十的試體測試抗壓與抗拉強度，再以模具逐層手工製作磚塊。",
+              "captions": [
+                "含甘蔗渣百分之十、二十、三十與四十的試體，測試抗壓與抗拉強度。",
+                "手工製磚：模具、漿料、甘蔗渣、壓實，重複直到磚塊完成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Inspired by molecular cuisine related to sugar, the design extracted elements from the site and studied a large series of spatial forms. These forms were organised into routes that cross the middle yard and link the two halves of the plant on every floor.",
+          "images": [
+            "assets/board/activation-of-a-boiler-house/05-inspiration.webp",
+            "assets/board/activation-of-a-boiler-house/06-morphological-examination.webp",
+            "assets/board/activation-of-a-boiler-house/07-streamline-organization.webp"
+          ],
+          "captions": [
+            "Inspiration and site context: the patio divides the plant in two.",
+            "Morphological examination of spatial forms.",
+            "Streamline organization in four steps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計從與糖相關的分子料理得到啟發，從基地萃取元素，推敲出一系列空間造形。這些造形被組織成穿越中庭的動線，在每一層樓連結廠房的兩側。",
+              "captions": [
+                "靈感與基地脈絡：天井把廠房一分為二。",
+                "空間造形的形態推敲。",
+                "四個步驟的動線組織。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Curving forms are put into the frame structure of the factory, creating new spaces and a transport system in the atrium that lets people move from one side to the other and from floor to floor. These spaces can hold new businesses that attract visitors, so that the old building is used again and the site is activated.",
+          "images": [
+            "assets/board/activation-of-a-boiler-house/08-exploded-axonometric.webp",
+            "assets/board/activation-of-a-boiler-house/09-model-photos.webp"
+          ],
+          "captions": [
+            "Exploded axonometric of the new forms inserted into the factory frame.",
+            "Physical model: the curving forms suspended in the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "曲面造形被置入工廠的框架結構中，創造出新的空間，並在中庭形成交通系統，讓人們能從一側走到另一側、從一層到另一層。這些空間可以容納吸引遊客的新業態，讓老建築重新被使用，也活化整個基地。",
+              "captions": [
+                "置入工廠框架之新造形的爆炸軸測圖。",
+                "實體模型：懸吊於框架中的曲面造形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the history of the building.\n2. Turn its waste into a material test.\n3. Study many forms before choosing.\n4. Use the old frame to hold the new.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 閱讀建築的歷史。\n2. 把它的廢料變成材料實驗。\n3. 先推敲大量造形再做選擇。\n4. 用舊的框架承載新的空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Lighting the Living Quarters of an Art Academy",
+      "slug": "art-academy-living-quarters-lighting",
+      "description": "Lit boxes drawn from window frames turn a dark, neglected campus corner into a place to gather at night.\n\nGuangzhou, China | Lighting and public space renovation | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "美術學院生活區的光環境改造",
+          "description": "從窗框發展出的發光方盒，讓昏暗、被忽略的校園角落成為夜晚的聚集場所。\n\n中國廣州｜照明與公共空間改造｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/art-academy-living-quarters-lighting/01-day-condition-hubs.webp",
+        "assets/board/art-academy-living-quarters-lighting/02-distribution-analysis.webp",
+        "assets/board/art-academy-living-quarters-lighting/03-lighting-investigation.webp",
+        "assets/board/art-academy-living-quarters-lighting/04-secondary-elevation.webp",
+        "assets/board/art-academy-living-quarters-lighting/05-tactical-interventions.webp",
+        "assets/board/art-academy-living-quarters-lighting/06-construction-detail.webp",
+        "assets/board/art-academy-living-quarters-lighting/07-lighting-design-types.webp",
+        "assets/board/art-academy-living-quarters-lighting/08-night-construction-detail.webp",
+        "assets/board/art-academy-living-quarters-lighting/09-lighting-device-sketch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/art-academy-living-quarters-lighting/01-day-condition-hubs.webp"
+          ],
+          "captions": [
+            "Day condition of the two hubs and two edges where the lighting boxes meet the buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "白天狀態下，兩處節點與兩道邊界上，燈光盒體與建築相接的情形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A small ballroom on the second floor of a gymnasium in the living quarters of an art academy hosts many evening events, yet without lighting design the venue is dark at night and invited guests cannot find their way. The site is neglected during the day and no one feels safe there at night, so the project aims to make it stand out and be easier for students to discover and use.",
+          "images": [
+            "assets/board/art-academy-living-quarters-lighting/02-distribution-analysis.webp"
+          ],
+          "captions": [
+            "Distribution analysis of how people use the site in normal hours and during events, by day and night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一所美術學院生活區內，體育館二樓的小禮堂經常舉辦晚間活動，但由於缺乏照明設計，場地入夜後一片漆黑，受邀的來賓常常找不到路。這裡白天乏人問津，夜晚也讓人缺乏安全感，因此本案希望讓它更醒目，讓學生更容易發現並使用。",
+              "captions": [
+                "分析人們在平日與活動期間、白天與夜晚如何使用場地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site analysis recorded what different users need, from performers and photographers to students who find the area too dark to enter alone at night. A lighting model with LED strips, mirror paper and coloured film explored linear light and the effects of different colours, using diffuse reflection to make the light more even.",
+          "images": [
+            "assets/board/art-academy-living-quarters-lighting/03-lighting-investigation.webp"
+          ],
+          "captions": [
+            "Lighting investigation model: LED lamps reflected by mirror paper and filtered by coloured film."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地分析記錄了不同使用者的需求，從表演者、攝影者，到覺得夜裡太暗而不敢獨自進入的學生。以 LED 燈條、鏡面紙與彩色玻璃紙製作的照明模型，探索線性光與不同色光的效果，並以漫反射讓光線更均勻。",
+              "captions": [
+                "照明研究模型：LED 燈經鏡面紙反射、透過彩色玻璃紙濾色。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The black window frames of the buildings were extracted as a design element and turned from a flat frame into a three-dimensional box in four sizes based on the human scale. The boxes serve as stairs or lamps, seats, tables or a whole space, and they combine into structures for performance, graffiti, chatting, shade and photography.",
+          "images": [
+            "assets/board/art-academy-living-quarters-lighting/04-secondary-elevation.webp",
+            "assets/board/art-academy-living-quarters-lighting/05-tactical-interventions.webp",
+            "assets/board/art-academy-living-quarters-lighting/06-construction-detail.webp"
+          ],
+          "captions": [
+            "Secondary elevation: the boxes attach to the building surfaces at two hubs and two edges.",
+            "Tactical interventions: four box sizes and the activities they support.",
+            "Construction details of the box joints."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計從建築的黑色窗框萃取元素，將平面的窗框轉化為立體方盒，並依人體尺度發展出四種尺寸。方盒可作為階梯或燈具、座椅、桌子，甚至整個空間，組合後成為表演、塗鴉、聊天、遮陽與拍照的構築。",
+              "captions": [
+                "次立面：方盒附著在兩處節點與兩道邊界的建築表面。",
+                "戰術介入：四種方盒尺寸與它們支持的活動。",
+                "方盒接點的構造細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Based on the students' feedback, the lighting types differ in shape and purpose, some for illumination, some guiding the way and some setting the atmosphere. Used as a secondary facade, the device softens the boundary between the buildings and their surroundings, and with people and lights present the place is no longer frightening but interesting to discover.",
+          "images": [
+            "assets/board/art-academy-living-quarters-lighting/07-lighting-design-types.webp",
+            "assets/board/art-academy-living-quarters-lighting/08-night-construction-detail.webp",
+            "assets/board/art-academy-living-quarters-lighting/09-lighting-device-sketch.webp"
+          ],
+          "captions": [
+            "Lighting design types by feature and function: illumination, guidance and atmosphere.",
+            "Construction details of the lit boxes.",
+            "Line drawing of the lighting device along the building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "根據學生的回饋，燈光類型在形態與用途上各有不同，有的負責照明，有的引導路線，有的營造氛圍。作為建築的次立面，這套裝置柔化了建築與周遭環境的界線；有了人與光，這裡不再令人害怕，而是有趣、值得探索的地方。",
+              "captions": [
+                "依特徵與功能區分的燈光設計類型：照明、引導與氛圍。",
+                "發光方盒的構造細部。",
+                "沿建築展開的照明裝置線稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a problem you have lived.\n2. Ask each user what they need.\n3. Draw the form from the existing building.\n4. Size every element to the body.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從自己親身經歷的問題出發。\n2. 詢問每一類使用者的需求。\n3. 從既有建築中提取形式。\n4. 依人體尺度決定每個元素的大小。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
