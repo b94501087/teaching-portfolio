@@ -1,0 +1,49 @@
+{
+  "project": "Spotlight",
+  "dest": "assets/board/spotlight-courtyard-opera-theatre",
+  "note": "Portfolio 0995 page 15 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title panel with region maps and text, the photo of opera performers, and the part of the section model with photo cut-out performers on the stage.",
+  "files": [
+    {
+      "name": "01-lighting-strategy-model.webp",
+      "sha256": "545f74e5a25079f4cb1a377affaf60da9291926c83e4cd4c54e655c7580ff101",
+      "bytes": 97876,
+      "from": "0995 page 15 — natural lighting strategy on the house section, x 20–50 %, y 63–97 %"
+    },
+    {
+      "name": "02-courtyard-house-drawing.webp",
+      "sha256": "f50ba99382f8d3a5bff6e1ced1299887d778188ab12ea5b84242af2ef18ae7dc",
+      "bytes": 39910,
+      "from": "page 15 — drawing of the courtyard house type, x 3–12 %, y 50–67 %"
+    },
+    {
+      "name": "03-explosive-axonometrics.webp",
+      "sha256": "1cae728fa14fbc208b6cdac4f43f69cc4f224dcdcfd58b25f6b3e191a5139310",
+      "bytes": 86650,
+      "from": "page 15 — exploded axonometrics of the original house, x 20–31 %, y 4–60 %"
+    },
+    {
+      "name": "04-transformed-strategy.webp",
+      "sha256": "2dd184b9138037591119dc4bc58475f6386473a441c501cb380ce103a617874e",
+      "bytes": 77148,
+      "from": "page 15 — transformed strategy section, x 31–50 %, y 2–28 %"
+    },
+    {
+      "name": "05-structure-details.webp",
+      "sha256": "08c28dfed26a41c3dbe3dcb975e3cc02b971ec89182c647daa5dccc74b03a27a",
+      "bytes": 109990,
+      "from": "page 15 — structure details, x 31–50 %, y 30–62 %"
+    },
+    {
+      "name": "06-auditorium-model.webp",
+      "sha256": "f3361220d2a59543af5b1cf4382a642596254f5b72809425fb97077130d18951",
+      "bytes": 48412,
+      "from": "page 15 — section model, auditorium side, x 52–69 %, y 9–50 %"
+    },
+    {
+      "name": "07-theatre-plan-on-model.webp",
+      "sha256": "9873b1801e90eae1ff23cb87bb90ac958b51346e1bb3e5d40dd207e5369a57a9",
+      "bytes": 119638,
+      "from": "page 15 — theatre plan over the model base, x 52–100 %, y 55–100 %"
+    }
+  ]
+}
