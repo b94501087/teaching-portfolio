@@ -1,0 +1,49 @@
+{
+  "project": "Implantation of Changeable Wall",
+  "dest": "assets/board/changeable-wall-housing",
+  "note": "Portfolio dba6 pages 3–5 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the cover and statement pages with the name, the city skyline photo collage, the site history and street image strips, the demands diagram with photo people, the small activity vignettes, and the body text.",
+  "files": [
+    {
+      "name": "01-cutaway-axonometric.webp",
+      "sha256": "83d5eb974d946503de4b4d6967b900809adee8f4fef0349be64e79b8e0d553e2",
+      "bytes": 312838,
+      "from": "dba6 page 5 — cutaway axonometric with balcony, interior and section details, x 50.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "93f38f978fe50a23d13e54a7f55ad784cd71bf20850c94115e55103043b24bcb",
+      "bytes": 168688,
+      "from": "page 3 — site location and site condition analysis, x 50.5–75.5 %, y 2–42 %"
+    },
+    {
+      "name": "03-district-periods.webp",
+      "sha256": "bdd0f78b2074e213d44f6c9c4faf9aeecce035a1e87b80d05281fcc7ac91df02",
+      "bytes": 64784,
+      "from": "page 4 — strategy one district diagrams by period, x 0–24 %, y 70–100 %"
+    },
+    {
+      "name": "04-corridor-section.webp",
+      "sha256": "04ed49db7fa632b78cfc5a84f177d445586a135a3bab6c934c55258b011094f1",
+      "bytes": 143194,
+      "from": "page 4 — strategy two corridor and balcony section, x 24–49 %, y 53–100 %"
+    },
+    {
+      "name": "05-interior-forms.webp",
+      "sha256": "ff0c1b72e104012db3024f44ae8c82900d69e0593482107788fb3300e3888ddf",
+      "bytes": 186092,
+      "from": "page 4 — strategy three interior structure generation, x 49–75 %, y 0–100 %"
+    },
+    {
+      "name": "06-form-plans.webp",
+      "sha256": "140de7164066dad085c5fcebb000340bbda74e9ab44a090d99dd9b873bb66904",
+      "bytes": 255748,
+      "from": "page 4 — interior forms in perspective plan, x 75–100 %, y 0–100 %"
+    },
+    {
+      "name": "07-plan-and-section.webp",
+      "sha256": "9d99c0063690711a2351486c245362ee0729fefe7ac7cf97ff828c6a34f3ec4f",
+      "bytes": 181056,
+      "from": "page 5 — floor plan, section and changeable wall details, x 0–49 %, y 0–100 %"
+    }
+  ]
+}
