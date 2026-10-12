@@ -1,0 +1,67 @@
+{
+  "project": "Climate Adaptive Architecture",
+  "dest": "assets/board/climate-adaptive-museum-guangzhou",
+  "note": "Portfolio 494d pages 21–25 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text and instructor credit, the photo collage of climate scenes, the climate map with photo strips, the target photo collages, the device photos, the renders with collaged figures, and the body text.",
+  "files": [
+    {
+      "name": "01-museum-under-the-arch.webp",
+      "sha256": "25a7a9f632a4237f901c9b531b03119819488e0fdf17571e4aa6489d82edc3d8",
+      "bytes": 381604,
+      "from": "494d page 21 — line render of the museum under the arch, x 31–100 %"
+    },
+    {
+      "name": "02-design-element-extraction.webp",
+      "sha256": "4d74124ea3332ab419ca16f2a4d8aa60f9c6a36bc33227d65140bb60216000e6",
+      "bytes": 138294,
+      "from": "page 22 — vernacular design elements in line, x 0–50 %, y 37–66 %"
+    },
+    {
+      "name": "03-site-orientation-studies.webp",
+      "sha256": "7f6ff44c498a4973092e406bb8e6f9db87eeba1e7002ad48664d7a33d933565d",
+      "bytes": 137180,
+      "from": "page 22 — orientation, wind and light studies, x 0–50 %, y 66–100 %"
+    },
+    {
+      "name": "04-vernacular-case-sketches.webp",
+      "sha256": "41b915e097b5ea4ae98712cc9b21d0e6cb3d11df5791e9546bdbd48c46381580",
+      "bytes": 448572,
+      "from": "page 23 — hand sketch of a round earth house case study, x 0–21.5 %"
+    },
+    {
+      "name": "05-site-axonometric.webp",
+      "sha256": "15fc0de977c31f4708350e360b9290746607f0d45f36a738963ef0a117ad6acc",
+      "bytes": 741644,
+      "from": "page 23 — axonometric of the mountain and river zones, x 51–100 %"
+    },
+    {
+      "name": "06-element-transformation.webp",
+      "sha256": "417c98ad894c7a4d0b6b9affd4aa0260f250bb4c68c508e9fe0ef397ef98bb11",
+      "bytes": 214750,
+      "from": "page 24 — extraction and use of vernacular elements, x 30–50 %"
+    },
+    {
+      "name": "07-water-pavilion-layers.webp",
+      "sha256": "6e74c2f0a18a236361edf199cb91aad2b74a0bc560ab44092331cd450f6e5de5",
+      "bytes": 188650,
+      "from": "page 24 — exploded layers of the water pavilion, x 80.5–100 %"
+    },
+    {
+      "name": "08-physical-model.webp",
+      "sha256": "bd43c7b49b0b609005bbf0ef628e42c00181f80969fad906b1b9b1c768bbaf8b",
+      "bytes": 352606,
+      "from": "page 25 — physical model views, x 0–50 %, y 0–65.5 %"
+    },
+    {
+      "name": "09-model-details.webp",
+      "sha256": "1750030d269e53e7c698cc449e2c936fa46231b43948c11189374d244560c570",
+      "bytes": 80720,
+      "from": "page 25 — model details, x 0–50 %, y 65.5–100 %"
+    },
+    {
+      "name": "10-water-wheel-cooling.webp",
+      "sha256": "9c305191f10a9bb147873346f71cc63667c6c0f3f7931df004453f949674c685",
+      "bytes": 370752,
+      "from": "page 25 — water-wheel cooling equipment axonometric, x 51–100 %"
+    }
+  ]
+}
