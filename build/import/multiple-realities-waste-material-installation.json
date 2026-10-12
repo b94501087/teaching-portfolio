@@ -1,0 +1,67 @@
+{
+  "project": "Multiple Realities",
+  "dest": "assets/board/multiple-realities-waste-material-installation",
+  "note": "Portfolio 1c9f pages 3–7 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the project information panel on page 3, the case study photos on page 3, the location maps, site photos and waste source photos on page 4, the reference portrait and dialogue panel on page 4, the working process photos with a person on page 6, the walk-through renderings with photo figures, the site effect rendering and the news clippings on page 7. No retouching.",
+  "files": [
+    {
+      "name": "01-installation-hero.webp",
+      "sha256": "43a80e0968494c13075a493cd7d39d3ad535292cc14910cd88b49188efc92c24",
+      "bytes": 52910,
+      "from": "1c9f page 3 — installation hero rendering, x 16.3–50 %, y 0–100 %"
+    },
+    {
+      "name": "02-material-properties.webp",
+      "sha256": "c564967069a437ec9c5fffa9c65fa8b1937b9f848841c2d6b92d3bac29d690d8",
+      "bytes": 49314,
+      "from": "page 4 — material properties chart, x 70–100 %, y 0–100 %"
+    },
+    {
+      "name": "03-texture-experiments.webp",
+      "sha256": "3c3a6b6e4f17dd5248e48a0dbe9bb33c268ea66973d073c934109975d96ddf47",
+      "bytes": 205038,
+      "from": "page 5 — material texture experiments with cement, resin and gelatin, x 0–68 %, y 0–100 %"
+    },
+    {
+      "name": "04-light-transmission.webp",
+      "sha256": "26feb3a38604adc2938437f873a12284142cf37c436c6da50044d9f8a68bbbef",
+      "bytes": 104334,
+      "from": "page 5 — light transmission experiments, x 69–100 %, y 0–100 %"
+    },
+    {
+      "name": "05-tenacity-tests.webp",
+      "sha256": "621c6b46ffd909c6ea9e6214ee355a14223e07f28e3fac47eccebd3eb364c9c8",
+      "bytes": 74986,
+      "from": "page 6 — tenacity tests by hand, x 0–33 %, y 0–55.5 %"
+    },
+    {
+      "name": "06-project-concept.webp",
+      "sha256": "a17c5f6642860967a746082124157fa5e7cfcba6ced25216a7726b01ee6ca7ba",
+      "bytes": 37068,
+      "from": "page 6 — project concept diagram, x 0–33 %, y 55.5–98 %"
+    },
+    {
+      "name": "07-form-generation.webp",
+      "sha256": "ddd12b98c22804308ed7a61ca41c9d05e669561e64a364ae8be5173ede00e1c8",
+      "bytes": 70752,
+      "from": "page 6 — form generation sketches, x 34–52 %, y 0–100 %"
+    },
+    {
+      "name": "08-design-presentation.webp",
+      "sha256": "41d1f87745309c7c42b81f06d7a469dd27f5efb7fc6d9c32cb3f9089a0bc9d58",
+      "bytes": 114406,
+      "from": "page 7 — design presentation of the installation, x 0–31.5 %, y 0–100 %"
+    },
+    {
+      "name": "09-installation-size.webp",
+      "sha256": "16f7b73945eb3c5f795a21f0b1c4a67811671d20e604820b3c7defdfef1e6b73",
+      "bytes": 30984,
+      "from": "page 7 — installation size and construction, x 52–70.5 %, y 0–63 %"
+    },
+    {
+      "name": "10-recycling-circle.webp",
+      "sha256": "74e4511da20d836aee31f139448413e589df95fe8e10dd23b41ae58013ba1d27",
+      "bytes": 58630,
+      "from": "page 7 — recycling circle diagram, x 71–100 %, y 48–100 %"
+    }
+  ]
+}
