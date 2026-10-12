@@ -32581,6 +32581,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Carmen, Rewritten",
+      "slug": "carmen-rewritten-stage-machine",
+      "description": "An opera stage reimagined as a machine of fate that finally dissolves into flowing curtains.\n\nStage design | Opera | Performative architecture | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重寫卡門",
+          "description": "把歌劇舞台重新想像成一部命運機械，最後化為流動布幔。\n\n舞台設計｜歌劇｜表演性建築｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/carmen-rewritten-stage-machine/01-stage-machine.webp",
+        "assets/board/carmen-rewritten-stage-machine/02-opera-poster.webp",
+        "assets/board/carmen-rewritten-stage-machine/03-fabric-study.webp",
+        "assets/board/carmen-rewritten-stage-machine/04-costume-lineup.webp",
+        "assets/board/carmen-rewritten-stage-machine/05-machine-model.webp",
+        "assets/board/carmen-rewritten-stage-machine/06-act-one-stage.webp",
+        "assets/board/carmen-rewritten-stage-machine/07-act-two-stage.webp",
+        "assets/board/carmen-rewritten-stage-machine/08-act-three-costume.webp",
+        "assets/board/carmen-rewritten-stage-machine/09-act-three-stage.webp",
+        "assets/board/carmen-rewritten-stage-machine/10-final-curtain.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/carmen-rewritten-stage-machine/01-stage-machine.webp"
+          ],
+          "captions": [
+            "Model of the stage machine lit in blue."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以藍光照亮的舞台機械模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A classic opera usually sits in front of a fixed painted backdrop. The project asks how the stage itself can act out the story of love, freedom and fate.",
+          "images": [
+            "assets/board/carmen-rewritten-stage-machine/02-opera-poster.webp",
+            "assets/board/carmen-rewritten-stage-machine/03-fabric-study.webp"
+          ],
+          "captions": [
+            "The opera poster used as a starting reference.",
+            "Study of flowing fabric curtains."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "經典歌劇通常在固定的彩繪布景前演出。這個專案追問舞台本身如何演出愛、自由與命運的故事。",
+              "captions": [
+                "作為起點參考的歌劇海報。",
+                "流動布幔的研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The story is reset in a warehouse-like factory where every person is given a role. Each act is tied to a card of fate and a matching costume for the main characters.",
+          "images": [
+            "assets/board/carmen-rewritten-stage-machine/04-costume-lineup.webp"
+          ],
+          "captions": [
+            "Costume lineup for the main characters, made with AI tools."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "故事被移到一座像倉庫的工廠，每個人都被分派一個角色。每一幕都對應一張命運之牌，以及主要角色的服裝。",
+              "captions": [
+                "以 AI 工具生成的主要角色服裝系列。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A rotating machine of trusses, glass vessels and gears becomes the set for the third act. As it turns and locks, it shows a system that slowly closes around the heroine.",
+          "images": [
+            "assets/board/carmen-rewritten-stage-machine/05-machine-model.webp",
+            "assets/board/carmen-rewritten-stage-machine/06-act-one-stage.webp",
+            "assets/board/carmen-rewritten-stage-machine/07-act-two-stage.webp"
+          ],
+          "captions": [
+            "The machinery of fate as a working model.",
+            "Stage view of the first act.",
+            "Stage view of the second act."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "由桁架、玻璃容器與齒輪組成的旋轉機械，成為第三幕的布景。它轉動並鎖定時，呈現一個逐漸包圍女主角的體系。",
+              "captions": [
+                "以可動模型呈現的命運機械。",
+                "第一幕的舞台畫面。",
+                "第二幕的舞台畫面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the last act the machine breaks into large flowing curtains that drift across the stage. The fabric turns the closing scene into a moment of release rather than control.",
+          "images": [
+            "assets/board/carmen-rewritten-stage-machine/08-act-three-costume.webp",
+            "assets/board/carmen-rewritten-stage-machine/09-act-three-stage.webp",
+            "assets/board/carmen-rewritten-stage-machine/10-final-curtain.webp"
+          ],
+          "captions": [
+            "Costume in front of the blue curtain.",
+            "Curtains moving across the stage.",
+            "The full cast in the final scene."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最後一幕，機械化為大片流動的布幔飄過舞台。布料讓終場成為釋放的一刻，而不是控制。",
+              "captions": [
+                "藍色布幔前的服裝。",
+                "布幔在舞台上移動。",
+                "終場的全體角色。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the story as a sequence of spaces.\n2. Give each act one clear device.\n3. Build the device as a moving model.\n4. Let material carry the ending.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把故事讀成一連串的空間。\n2. 每一幕給一個清楚的裝置。\n3. 把裝置做成可動模型。\n4. 讓材料承載結局。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
