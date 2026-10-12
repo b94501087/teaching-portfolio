@@ -1,0 +1,67 @@
+{
+  "project": "Traversing the Fifth Dimension",
+  "dest": "assets/board/fifth-dimension-wooden-stick-and-mirror-grid",
+  "note": "Portfolio 606b pages 11-12 cropped to ten images, WebP q88 (PIL). Not used: title and text, film title, character names.",
+  "files": [
+    {
+      "name": "01-stick-grid.webp",
+      "sha256": "62b8b0554608f130cf6e86ddc9f75e557e6168b1fcb21aac57adfbee43e469db",
+      "bytes": 136966,
+      "from": "606b page 12 — stick grid"
+    },
+    {
+      "name": "02-film-stills.webp",
+      "sha256": "9472403864c65bd932d6792ba85730a020a893a0a01a8b6714df70fea9a3fd03",
+      "bytes": 51348,
+      "from": "606b page 11 — film stills"
+    },
+    {
+      "name": "03-scene-sketch.webp",
+      "sha256": "c17af0a39acadb964b12e4c5db669be8f8108da25f28d42737127f75e8b7a02b",
+      "bytes": 81746,
+      "from": "606b page 11 — scene sketch"
+    },
+    {
+      "name": "04-abstraction.webp",
+      "sha256": "ec71c6e244e8b28eb1f387ede842c5d4b980cb3f2b436f7e99716e1aae5b83ea",
+      "bytes": 28818,
+      "from": "606b page 11 — abstraction"
+    },
+    {
+      "name": "05-making.webp",
+      "sha256": "6cd0cca1e3db51c0ee6f7fd75c554f18ad532f65106cb255c15e80578b62e3f5",
+      "bytes": 29882,
+      "from": "606b page 11 — making"
+    },
+    {
+      "name": "06-figures.webp",
+      "sha256": "8977a0a721e3e45fc8da7eadd038f819c94e730d9af66a8e146ef6e1ac5f7685",
+      "bytes": 16282,
+      "from": "606b page 11 — figures"
+    },
+    {
+      "name": "07-deep-view.webp",
+      "sha256": "bcc7f94cbbe8918d5b61826ff3ee4f62d7967ad78f713de95bcb8501d7fc8d61",
+      "bytes": 59620,
+      "from": "606b page 12 — deep view"
+    },
+    {
+      "name": "08-drawing.webp",
+      "sha256": "cb8679dc516c18926f8330df5b95bcfd67fcdc1e78200130c934eaa4f84d1961",
+      "bytes": 60232,
+      "from": "606b page 12 — drawing"
+    },
+    {
+      "name": "09-top-view.webp",
+      "sha256": "4bfd2f3cb232dd205cc17bc1d5cd0e1518d3a7ad69c39cebe091f40405ba016b",
+      "bytes": 93078,
+      "from": "606b page 12 — top view"
+    },
+    {
+      "name": "10-mirror-view.webp",
+      "sha256": "a967b6fca0266e4af4a9e1782db667dd86f25994b632e326228713ce11882b7b",
+      "bytes": 60596,
+      "from": "606b page 12 — mirror view"
+    }
+  ]
+}
