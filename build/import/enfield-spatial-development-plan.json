@@ -1,0 +1,31 @@
+{
+  "project": "Spatial Development Plan for Enfield",
+  "dest": "assets/board/enfield-spatial-development-plan",
+  "note": "Portfolio ba4c pages 25-27 cropped to four images, WebP q88 (PIL), max 2000 px wide. Not used: the title page, site photos and approved scheme images with logos, the deprivation index map with a copyright notice, data tables and charts, the planning text boards and the case-study photos.",
+  "files": [
+    {
+      "name": "01-key-spatial-diagram.webp",
+      "sha256": "bfca716a06e1481989da1cd4f31b1fdc96af6c91c0ebd2a038fd368bb2176ab0",
+      "bytes": 121214,
+      "from": "ba4c page 25 — key spatial diagram"
+    },
+    {
+      "name": "02-swot-analysis.webp",
+      "sha256": "3e912dfbce711cfadb71183583e801b06f9a42be86a2652a85212a009bffe303",
+      "bytes": 78354,
+      "from": "ba4c page 25 — SWOT analysis map"
+    },
+    {
+      "name": "03-housing-sites.webp",
+      "sha256": "e6edac46ca1237008fcefc89e16d3024537d6a4c24364f9b0ac2c3940e13dca8",
+      "bytes": 154258,
+      "from": "ba4c page 26 — sites for housing development"
+    },
+    {
+      "name": "05-employment-sites.webp",
+      "sha256": "eb2df047abfd6751b3e76cdc5dd001586518b8ce67ce5f9902dcd4a13c55877e",
+      "bytes": 190818,
+      "from": "ba4c page 27 — sites for employment land"
+    }
+  ]
+}
