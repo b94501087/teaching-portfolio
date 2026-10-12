@@ -1,0 +1,55 @@
+{
+  "project": "Misery House",
+  "dest": "assets/board/misery-house-suspended-stick-frame",
+  "note": "Portfolio 0687 page 3 cropped to eight images, WebP q88 (PIL). Not used: title and text, character and author names.",
+  "files": [
+    {
+      "name": "01-suspended-frame.webp",
+      "sha256": "c80a0e6a2887f3edfe9cf1e57ac65f3360698beabe5c5618e3cbb74d5e381838",
+      "bytes": 143082,
+      "from": "0687 page 3 — suspended frame"
+    },
+    {
+      "name": "02-cutting-process.webp",
+      "sha256": "2d57f91a6d295fb5137ce998632fb52ad381da10624b1ba088e1e7eb63203b38",
+      "bytes": 23502,
+      "from": "0687 page 3 — cutting process"
+    },
+    {
+      "name": "03-generated-patterns.webp",
+      "sha256": "d4d9874ae4a9827e4ec0f1ecc4a681a244cc718b37a619b40c823db741adca58",
+      "bytes": 35432,
+      "from": "0687 page 3 — generated patterns"
+    },
+    {
+      "name": "04-parametric-script.webp",
+      "sha256": "7b526e356e91cea088b06d636b43df1dfa035071080a027ffc97873f3c1b31b3",
+      "bytes": 12936,
+      "from": "0687 page 3 — parametric script"
+    },
+    {
+      "name": "05-spatial-typology.webp",
+      "sha256": "bc3ec998dd2fd6f3a407e14929e9a8cc225a1acd7b369c69b0ba8ae7c1b37200",
+      "bytes": 28922,
+      "from": "0687 page 3 — spatial typology"
+    },
+    {
+      "name": "06-diagram-drawing.webp",
+      "sha256": "c83d19e30354e64c51d50a2f7c7d6dcafea4831514d55adc0602843e26d0a1d0",
+      "bytes": 25252,
+      "from": "0687 page 3 — diagram drawing"
+    },
+    {
+      "name": "07-folded-pieces.webp",
+      "sha256": "ba5f09e22b50a3dab1f5a1ec3818f9d8b4ee37c249f31965e270a0cec9c06e24",
+      "bytes": 11270,
+      "from": "0687 page 3 — folded pieces"
+    },
+    {
+      "name": "08-frame-assembly.webp",
+      "sha256": "d34b7f1e20279b2fd52f16719a2f8bf6e9d8164c78ff4ca089aa68c942fe7cbc",
+      "bytes": 36618,
+      "from": "0687 page 3 — frame assembly"
+    }
+  ]
+}
