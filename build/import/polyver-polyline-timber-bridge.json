@@ -1,0 +1,49 @@
+{
+  "project": "Polyver: Vector Exploration of Polyline",
+  "dest": "assets/board/polyver-polyline-timber-bridge",
+  "note": "Portfolio b976 pages 10–18 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title text on pages 10 and 16, the wood type photos on page 11, the lock photos on page 12, the node 2 making photos with people on page 13, the site analysis with landmark photos on page 17, the render on an aerial photo on page 19, the gallery names and the page numbers.",
+  "files": [
+    {
+      "name": "01-polyline-render.webp",
+      "sha256": "be6edfa9e63e75b84087b63b6997797af485121fcf3728d6a021fa03ef81347d",
+      "bytes": 214800,
+      "from": "b976 page 10 — polyline structure render, x 25–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-material-chart.webp",
+      "sha256": "1fa9c2ffa7cf3803d107f58570f135a2920e1607cbfc9aa020dd2812b6191716",
+      "bytes": 90798,
+      "from": "page 11 — material properties chart, x 0–60 %, y 0–100 %"
+    },
+    {
+      "name": "03-node-analysis.webp",
+      "sha256": "579a13b2ba884da76b132e6cb85439301c648265717d739d545da9771ed4ab1f",
+      "bytes": 95518,
+      "from": "page 12 — node decomposition and connection diagrams, x 42–100 %, y 0–100 %"
+    },
+    {
+      "name": "04-node-making.webp",
+      "sha256": "1e50ed02c96a5e3c5a980872bfa609df849e572afa13d4b7473aaccb8c27fc21",
+      "bytes": 34902,
+      "from": "page 13 — node 1 making steps, x 0–100 %, y 0–40 %"
+    },
+    {
+      "name": "05-physical-model.webp",
+      "sha256": "8063a789dafd0ad869265642137ba3e8b423b34fbf254b1458d3f0e41fddce79",
+      "bytes": 162430,
+      "from": "page 14 — physical model photos, full page"
+    },
+    {
+      "name": "06-digital-model.webp",
+      "sha256": "58ddb5f3df3cddfabbd007efdab9d1bec486b935667d71c28f236c1460677971",
+      "bytes": 103730,
+      "from": "page 15 — 3D model views, full page"
+    },
+    {
+      "name": "07-bridge-renders.webp",
+      "sha256": "8d4ec1a10e683c964b2616ce79e03f65d5e4010dbe112df38fbeb04eaebd8ec3",
+      "bytes": 153560,
+      "from": "page 18 — bridge structure renders, full page"
+    }
+  ]
+}
