@@ -1,0 +1,49 @@
+{
+  "project": "Turtle Tower",
+  "dest": "assets/board/turtle-tower-stacked-shell-model",
+  "note": "Portfolio 188e pages 2-3 cropped to seven images, WebP q88 (PIL). Not used: the cover with the student's name, title and body text.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "cbd9a2c02fef22d310202a5a732dc684b7d541c59d21d951cf9ba2fca5184e36",
+      "bytes": 118126,
+      "from": "188e page 3 — final model"
+    },
+    {
+      "name": "02-concept-drawing.webp",
+      "sha256": "8217f484a92e2f61793c23421fa99f9b8f17cb63c749ee32c7e72dbe6b247161",
+      "bytes": 90224,
+      "from": "188e page 2 — concept drawing"
+    },
+    {
+      "name": "03-shell-plate-sketches.webp",
+      "sha256": "40e79a4e4562ddb1ae56c8b1dbe021523842ecdc2beb598eb1e982840f50d782",
+      "bytes": 17348,
+      "from": "188e page 2 — shell plate sketches"
+    },
+    {
+      "name": "04-stacking-sketches.webp",
+      "sha256": "cc3322b64fc86749bfe9b5fa8c1dc1d7517177c65679e403daaf7e55092755a2",
+      "bytes": 28428,
+      "from": "188e page 2 — shell sketches"
+    },
+    {
+      "name": "05-shell-plate-studies.webp",
+      "sha256": "cce039812199dea8a579988e019dce2fcc85ae709826fc35c9915c326cd99b1e",
+      "bytes": 66516,
+      "from": "188e page 2 — shell plate studies"
+    },
+    {
+      "name": "06-assembly-process.webp",
+      "sha256": "45a331fd331bc72ffbb56805b7e533b9d4bbfc7d7d60afc57e554e81f7a175c5",
+      "bytes": 62502,
+      "from": "188e page 2 — assembly process"
+    },
+    {
+      "name": "07-model-details.webp",
+      "sha256": "d169917e2fbb6adb447bfff7b23575f7187e148db4e5c1a8da1e0f162808185a",
+      "bytes": 114600,
+      "from": "188e page 3 — model details"
+    }
+  ]
+}
