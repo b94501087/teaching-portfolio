@@ -1,0 +1,55 @@
+{
+  "project": "The Bridging",
+  "dest": "assets/board/the-bridging-embedded-renewal",
+  "note": "Portfolio 3940 pages 2–6 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with competition and award details, the community map with photo cut-outs of residents, the age-group photo circles, the land price charts, the resident and official photo panels, the history timeline with photos, the demolition and alley photos, and the street element icons with photos.",
+  "files": [
+    {
+      "name": "01-model-photo.webp",
+      "sha256": "3c0f58e896ca0163ac5954dfb8cabdaaa9065af38b42e3548ba8d6da41f5fd75",
+      "bytes": 118530,
+      "from": "3940 page 2 — physical model of two stacked units, x 1.2–50.5 %, y 1.2–98.5 %"
+    },
+    {
+      "name": "02-section-sketch.webp",
+      "sha256": "012c660d036ab67278150b9227a8d17727bc6188a2336fa49fff0aa36592e55c",
+      "bytes": 21042,
+      "from": "page 2 — sketch section of the embedded units, x 60–92 %, y 52–68 %"
+    },
+    {
+      "name": "03-courtyard-evolution.webp",
+      "sha256": "6f0d9b409668bed937700f863b586423c08b1d1b11d84dea3a2d25639b08af7c",
+      "bytes": 28558,
+      "from": "page 3 — courtyard house evolution and open space ratio, x 57–100 %, y 0–41.5 %"
+    },
+    {
+      "name": "04-house-types.webp",
+      "sha256": "6388f89c278cd9807681ddedc9e5c34c7c060600608665dc5d0a0aa8d2ae7a17",
+      "bytes": 41576,
+      "from": "page 3 — axonometric survey of house types, x 57.5–99.5 %, y 69–97 %"
+    },
+    {
+      "name": "05-model-detail.webp",
+      "sha256": "37da24fa00caeb3d300db4bbcd7a0758732e91694b21f60a5aaa1d00a883b061",
+      "bytes": 422434,
+      "from": "page 4 — model detail with additional construction, full page"
+    },
+    {
+      "name": "06-old-new-section.webp",
+      "sha256": "62e37d341dba1457700eb19e653d23aec33f1713d72070efb1af64a70fee0d1a",
+      "bytes": 121754,
+      "from": "page 5 — section through old and new community, x 49.5–100 %, y 0–99 %"
+    },
+    {
+      "name": "07-embedding-steps.webp",
+      "sha256": "95eb63f9e49e6e1b23275f7aba6654a6f9ddb9b5728eaa0dbe47a496bdd973d8",
+      "bytes": 100334,
+      "from": "page 6 — embedding strategy steps, x 0–46.5 %, y 0–64.5 %"
+    },
+    {
+      "name": "08-aerial-view.webp",
+      "sha256": "09b2136413bf9160f87273cbb28cc2ab0025192edbf5b2c7ed045a4b62bc9db2",
+      "bytes": 315074,
+      "from": "page 6 — aerial view of the embedded units, x 46.5–100 %, y 0–100 %"
+    }
+  ]
+}
