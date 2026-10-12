@@ -34885,6 +34885,733 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Turning Waste Into Treasure",
+      "slug": "turning-waste-into-treasure-transfer-station",
+      "description": "A waste transfer station reborn as a public recycling exhibition hall.\n\nGuangzhou, China | Architecture | Waste transfer station | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "變廢為寶",
+          "description": "將垃圾轉運站改造為公共回收展覽館。\n\n中國廣州｜建築設計｜垃圾轉運站｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/turning-waste-into-treasure-transfer-station/01-transfer-station-render.webp",
+        "assets/board/turning-waste-into-treasure-transfer-station/02-site-axonometric.webp",
+        "assets/board/turning-waste-into-treasure-transfer-station/03-recycling-process.webp",
+        "assets/board/turning-waste-into-treasure-transfer-station/04-graded-disposal-process.webp",
+        "assets/board/turning-waste-into-treasure-transfer-station/05-design-strategy-models.webp",
+        "assets/board/turning-waste-into-treasure-transfer-station/06-form-generation.webp",
+        "assets/board/turning-waste-into-treasure-transfer-station/07-garbage-transport-phase.webp",
+        "assets/board/turning-waste-into-treasure-transfer-station/08-waste-classification-axon.webp",
+        "assets/board/turning-waste-into-treasure-transfer-station/09-handmade-models.webp",
+        "assets/board/turning-waste-into-treasure-transfer-station/10-long-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/turning-waste-into-treasure-transfer-station/01-transfer-station-render.webp"
+          ],
+          "captions": [
+            "The renewed waste transfer station on a busy city street."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "位於繁忙街道上、經過改造的垃圾轉運站。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "An old waste transfer station sits in the middle of a historic shopping and tourist district in Guangzhou. Its single treatment method and strong smell cut it off from the schools and attractions around it.",
+          "images": [
+            "assets/board/turning-waste-into-treasure-transfer-station/02-site-axonometric.webp",
+            "assets/board/turning-waste-into-treasure-transfer-station/03-recycling-process.webp"
+          ],
+          "captions": [
+            "Site axonometric with nearby schools, community and attractions.",
+            "Design vision and recycling process."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座老舊的垃圾轉運站位於廣州歷史商業與觀光街區的中心。單一的處理方式與強烈異味，使它與周邊的學校和景點隔絕。",
+              "captions": [
+                "標示周邊學校、社區與景點的基地軸測圖。",
+                "設計願景與回收流程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student maps how each kind of waste is collected, sorted and processed. These flows become the strategy that separates dirty work from clean public space.",
+          "images": [
+            "assets/board/turning-waste-into-treasure-transfer-station/04-graded-disposal-process.webp",
+            "assets/board/turning-waste-into-treasure-transfer-station/05-design-strategy-models.webp"
+          ],
+          "captions": [
+            "Graded waste disposal process.",
+            "Design strategy and concept models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生梳理每一種垃圾的收集、分類與處理流程。這些流線成為將作業區與潔淨公共空間分開的設計策略。",
+              "captions": [
+                "分級垃圾處理流程。",
+                "設計策略與概念模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The volume is stacked floor by floor, with trucks and pipes feeding waste into a central core. Visitors walk around this core and watch the sorting process through glass.",
+          "images": [
+            "assets/board/turning-waste-into-treasure-transfer-station/06-form-generation.webp",
+            "assets/board/turning-waste-into-treasure-transfer-station/07-garbage-transport-phase.webp",
+            "assets/board/turning-waste-into-treasure-transfer-station/08-waste-classification-axon.webp"
+          ],
+          "captions": [
+            "Form generation steps.",
+            "Garbage transport by truck in the first phase.",
+            "Waste classification floors around the core."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "量體逐層堆疊，卡車與管道把垃圾送入中央核心。參觀者環繞核心行走，隔著玻璃觀看分類過程。",
+              "captions": [
+                "量體生成步驟。",
+                "第一階段以卡車運送垃圾。",
+                "環繞核心的垃圾分類樓層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The station becomes a public science hall where recycling is shown as an exhibition. Handmade modules let visitors turn sorted material into new objects.",
+          "images": [
+            "assets/board/turning-waste-into-treasure-transfer-station/09-handmade-models.webp",
+            "assets/board/turning-waste-into-treasure-transfer-station/10-long-section.webp"
+          ],
+          "captions": [
+            "Handmade module models.",
+            "Long section through the station."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "轉運站成為一座公共科普展館，把回收過程當作展覽呈現。手作模組讓參觀者把分類後的材料轉化為新物件。",
+              "captions": [
+                "手作模組模型。",
+                "轉運站長向剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Follow the flow of material.\n2. Separate dirty and clean paths.\n3. Let people see the process.\n4. Turn a problem into a public place.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 追蹤材料的流向。\n2. 分開髒污與潔淨的動線。\n3. 讓人看見處理過程。\n4. 把問題轉化為公共場所。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Haizhu Lake Wetland Museum Hub",
+      "slug": "haizhu-lake-wetland-museum-hub",
+      "description": "An ecological renewal that turns a lake front plaza into a wetland museum hub.\n\nGuangzhou, China | Urban design | Wetland museum | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "海珠湖濕地博物館樞紐",
+          "description": "把湖畔前廣場轉化為濕地博物館樞紐的生態更新。\n\n中國廣州｜都市設計｜濕地博物館｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/haizhu-lake-wetland-museum-hub/01-wetland-hub-aerial.webp",
+        "assets/board/haizhu-lake-wetland-museum-hub/02-site-analysis.webp",
+        "assets/board/haizhu-lake-wetland-museum-hub/03-space-types.webp",
+        "assets/board/haizhu-lake-wetland-museum-hub/04-plant-status-analysis.webp",
+        "assets/board/haizhu-lake-wetland-museum-hub/05-form-derivation.webp",
+        "assets/board/haizhu-lake-wetland-museum-hub/06-exploded-axonometric.webp",
+        "assets/board/haizhu-lake-wetland-museum-hub/07-floor-plans.webp",
+        "assets/board/haizhu-lake-wetland-museum-hub/08-birds-eye-view.webp",
+        "assets/board/haizhu-lake-wetland-museum-hub/09-wetland-museum-section.webp",
+        "assets/board/haizhu-lake-wetland-museum-hub/10-physical-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/haizhu-lake-wetland-museum-hub/01-wetland-hub-aerial.webp"
+          ],
+          "captions": [
+            "The wetland museum hub on the lake front plaza."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "位於湖畔前廣場的濕地博物館樞紐。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The front plaza of a city lake in Guangzhou is underused and lacks shops and public amenities. Its wetland ecology is also weakly connected to the busy new district around it.",
+          "images": [
+            "assets/board/haizhu-lake-wetland-museum-hub/02-site-analysis.webp",
+            "assets/board/haizhu-lake-wetland-museum-hub/03-space-types.webp"
+          ],
+          "captions": [
+            "Site analysis of the lake, wildlife and access.",
+            "Space types mixing wetland, lawn and buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州一座城市湖泊的前廣場使用率低，缺乏商業與公共設施。它的濕地生態也與周邊繁忙的新城區連結薄弱。",
+              "captions": [
+                "湖泊、生物與交通的基地分析。",
+                "混合濕地、草坪與建築的空間類型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studies the current plants, water edges and how people move across the plaza. A layered landscape of canopy, wetland and water becomes the base of the design.",
+          "images": [
+            "assets/board/haizhu-lake-wetland-museum-hub/04-plant-status-analysis.webp",
+            "assets/board/haizhu-lake-wetland-museum-hub/05-form-derivation.webp"
+          ],
+          "captions": [
+            "Current plant status and layered landscape.",
+            "Form derivation in six steps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究現有植栽、水岸以及人們穿越廣場的方式。由樹冠、濕地與水域組成的分層地景，成為設計的基礎。",
+              "captions": [
+                "現有植栽狀況與分層地景。",
+                "六個步驟的形體推演。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The building sinks into the ground and opens toward the lake in curved terraces. Shops, a gym and a wetland exhibition hall are linked by ramps and vertical paths.",
+          "images": [
+            "assets/board/haizhu-lake-wetland-museum-hub/06-exploded-axonometric.webp",
+            "assets/board/haizhu-lake-wetland-museum-hub/07-floor-plans.webp"
+          ],
+          "captions": [
+            "Exploded axonometric of programs and circulation.",
+            "Floor plans from basement to upper level."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "建築下沉入地面，以弧形平台向湖面展開。商店、健身空間與濕地展覽館由坡道和垂直動線相互連接。",
+              "captions": [
+                "功能與動線的爆炸軸測圖。",
+                "從地下層到上層的各層平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Green terraces and trails let visitors move from the city edge down to the water. A wetland museum hangs over the lake so people can watch birds and plants up close.",
+          "images": [
+            "assets/board/haizhu-lake-wetland-museum-hub/08-birds-eye-view.webp",
+            "assets/board/haizhu-lake-wetland-museum-hub/09-wetland-museum-section.webp",
+            "assets/board/haizhu-lake-wetland-museum-hub/10-physical-model.webp"
+          ],
+          "captions": [
+            "Bird's-eye view from the city side.",
+            "Section through the wetland museum.",
+            "Physical model of the project."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "綠色平台與步道讓參觀者從城市邊緣一路走到水邊。濕地博物館懸挑於湖面上，讓人近距離觀察鳥類與植物。",
+              "captions": [
+                "從城市一側看的鳥瞰圖。",
+                "濕地博物館剖面。",
+                "專案實體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the ecology of the site.\n2. Map how people move.\n3. Shape the ground, not just the building.\n4. Test it in a physical model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 閱讀基地的生態。\n2. 描繪人們的移動方式。\n3. 塑造地面，而不只是建築。\n4. 用實體模型檢驗。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Occupying the Void",
+      "slug": "occupying-the-void-fruit-market",
+      "description": "A vertical logistics and greenhouse frame that revives a historic fruit market.\n\nHong Kong | Architecture | Market adaptive reuse | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "佔據虛空",
+          "description": "以垂直物流與溫室框架，活化一座歷史果欄。\n\n香港｜建築設計｜市場活化再利用｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/occupying-the-void-fruit-market/01-market-rooftop-aerial.webp",
+        "assets/board/occupying-the-void-fruit-market/02-site-analysis-map.webp",
+        "assets/board/occupying-the-void-fruit-market/04-nighttime-distribution-section.webp",
+        "assets/board/occupying-the-void-fruit-market/05-truck-routes.webp",
+        "assets/board/occupying-the-void-fruit-market/06-floor-plans.webp",
+        "assets/board/occupying-the-void-fruit-market/07-greenhouse-shell.webp",
+        "assets/board/occupying-the-void-fruit-market/08-long-section.webp",
+        "assets/board/occupying-the-void-fruit-market/09-cross-section.webp",
+        "assets/board/occupying-the-void-fruit-market/10-key-metrics.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/occupying-the-void-fruit-market/01-market-rooftop-aerial.webp"
+          ],
+          "captions": [
+            "A new structure rises above the historic fruit market roofs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "新結構在歷史果欄的屋頂上方升起。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A historic fruit market in Hong Kong works mostly at night, and its trucks crowd the narrow streets. During the day much of its space stands empty while the area around it is very dense.",
+          "images": [
+            "assets/board/occupying-the-void-fruit-market/02-site-analysis-map.webp"
+          ],
+          "captions": [
+            "Site analysis of the market blocks and streets."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "香港一座歷史果欄主要在夜間運作，貨車塞滿狹窄的街道。白天大部分空間閒置，而周邊地區卻極度密集。",
+              "captions": [
+                "果欄街區與街道的基地分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student records how goods, trucks and traders move through a full week. A time and cost study shows how the night delivery cycle could be sorted by floor.",
+          "images": [
+            "assets/board/occupying-the-void-fruit-market/04-nighttime-distribution-section.webp",
+            "assets/board/occupying-the-void-fruit-market/05-truck-routes.webp"
+          ],
+          "captions": [
+            "Nighttime distribution cycle in section.",
+            "Truck routes to the loading floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生記錄一整週貨物、貨車與商販的移動方式。時間與成本研究顯示，夜間配送流程可以按樓層加以分流。",
+              "captions": [
+                "夜間配送流程剖面。",
+                "通往各裝卸樓層的貨車路線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A vertical frame stacks loading, parking and cold storage above the old market without touching its structure. A greenhouse farm and retail floor sit on top under a light glass shell.",
+          "images": [
+            "assets/board/occupying-the-void-fruit-market/06-floor-plans.webp",
+            "assets/board/occupying-the-void-fruit-market/07-greenhouse-shell.webp"
+          ],
+          "captions": [
+            "Plans from loading area to greenhouse farm.",
+            "Layers of the greenhouse shell."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一個垂直框架在舊市場上方堆疊裝卸、停車與冷藏空間，而不觸碰原有結構。頂層在輕盈的玻璃外殼下設置溫室農場與零售空間。",
+              "captions": [
+                "從裝卸區到溫室農場的各層平面。",
+                "溫室外殼的構造層次。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The market keeps its historic halls while gaining new space for logistics and public life. Clear targets show expected gains in traffic, land use, food waste and noise.",
+          "images": [
+            "assets/board/occupying-the-void-fruit-market/08-long-section.webp",
+            "assets/board/occupying-the-void-fruit-market/09-cross-section.webp",
+            "assets/board/occupying-the-void-fruit-market/10-key-metrics.webp"
+          ],
+          "captions": [
+            "Long section through the market and new frame.",
+            "Cross section toward the street.",
+            "Key metrics and improvement targets."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "果欄保留了歷史建築，同時獲得物流與公共生活的新空間。明確的指標呈現交通、土地利用、廚餘與噪音方面的預期改善。",
+              "captions": [
+                "穿越市場與新框架的長向剖面。",
+                "朝向街道的橫向剖面。",
+                "關鍵指標與改善目標。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a place over time.\n2. Find the empty hours.\n3. Add without erasing.\n4. Measure what changes.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從時間面向研究場所。\n2. 找出閒置的時段。\n3. 加建而不抹除。\n4. 衡量改變了什麼。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Healing Anchor",
+      "slug": "healing-anchor-factory-care-campus",
+      "description": "An old agricultural machinery factory adapted into a care campus for older residents.\n\nJiangmen, China | Architecture | Adaptive reuse for elderly care | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "療癒錨點",
+          "description": "將舊農業機械廠改造為長者照護園區。\n\n中國江門｜建築設計｜長照活化再利用｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/healing-anchor-factory-care-campus/01-healing-anchor-render.webp",
+        "assets/board/healing-anchor-factory-care-campus/02-site-analysis.webp",
+        "assets/board/healing-anchor-factory-care-campus/03-urban-regeneration.webp",
+        "assets/board/healing-anchor-factory-care-campus/04-factory-planning-flow.webp",
+        "assets/board/healing-anchor-factory-care-campus/05-regenerative-synergy.webp",
+        "assets/board/healing-anchor-factory-care-campus/06-ground-floor-plan.webp",
+        "assets/board/healing-anchor-factory-care-campus/07-care-hub-plan.webp",
+        "assets/board/healing-anchor-factory-care-campus/08-assisted-living-plan.webp",
+        "assets/board/healing-anchor-factory-care-campus/09-unit-plans.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/healing-anchor-factory-care-campus/01-healing-anchor-render.webp"
+          ],
+          "captions": [
+            "The old factory reborn among blossoming trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "在繁花樹木間重生的舊工廠。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A disused agricultural machinery factory in Jiangmen sits in an area with a fast-ageing population. Older residents lack nearby places for care, social life and medical support.",
+          "images": [
+            "assets/board/healing-anchor-factory-care-campus/02-site-analysis.webp",
+            "assets/board/healing-anchor-factory-care-campus/03-urban-regeneration.webp"
+          ],
+          "captions": [
+            "Site analysis with nearby health facilities.",
+            "Urban regeneration options for the factory blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "江門一座廢棄的農業機械廠，位於人口快速老化的地區。年長居民附近缺乏照護、社交與醫療支援的場所。",
+              "captions": [
+                "標示周邊醫療設施的基地分析。",
+                "工廠街廓的都市再生方案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studies the factory layout, local demographics and how older people use the area each day. These findings shape a plan that keeps the industrial halls and adds care uses.",
+          "images": [
+            "assets/board/healing-anchor-factory-care-campus/04-factory-planning-flow.webp",
+            "assets/board/healing-anchor-factory-care-campus/05-regenerative-synergy.webp"
+          ],
+          "captions": [
+            "Planning flow across the factory area.",
+            "Regenerative synergy between heritage and wellness."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究工廠配置、在地人口結構，以及長者每天如何使用這個地區。這些發現形成一個保留工業廠房並加入照護功能的計畫。",
+              "captions": [
+                "整個廠區的規劃流程。",
+                "工業遺產與健康照護的再生協同。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The ground floor becomes a senior activity space with gardens and a winding water path. Upper floors hold a high-care hub and assisted living rooms linked by a second-floor walkway.",
+          "images": [
+            "assets/board/healing-anchor-factory-care-campus/06-ground-floor-plan.webp",
+            "assets/board/healing-anchor-factory-care-campus/07-care-hub-plan.webp"
+          ],
+          "captions": [
+            "Ground floor senior activity space.",
+            "Second floor high-care hub."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一樓成為長者活動空間，配有花園與蜿蜒的水景步道。上層設置高度照護中心與協助生活住房，並以二樓連廊相連。",
+              "captions": [
+                "一樓長者活動空間。",
+                "二樓高度照護中心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The factory turns into a care campus where daily life, nursing and community meet. Unit plans show rooms sized for different levels of care.",
+          "images": [
+            "assets/board/healing-anchor-factory-care-campus/08-assisted-living-plan.webp",
+            "assets/board/healing-anchor-factory-care-campus/09-unit-plans.webp"
+          ],
+          "captions": [
+            "Third floor assisted living.",
+            "High-care and intermediate care unit plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "工廠轉化為一座照護園區，讓日常生活、護理與社區交會。單元平面呈現對應不同照護等級的房間尺度。",
+              "captions": [
+                "三樓協助生活樓層。",
+                "高度照護與中度照護單元平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from who will live there.\n2. Keep what the place remembers.\n3. Plan care as daily life.\n4. Check every room at human scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從誰會住在這裡開始。\n2. 保留場所的記憶。\n3. 把照護規劃成日常生活。\n4. 以人的尺度檢視每個房間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Wave",
+      "slug": "the-wave-bamboo-pavilion",
+      "description": "A woven bamboo pavilion that people can climb, touch and plant in.\n\nTaiwan | Installation | Bamboo pavilion | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "浪",
+          "description": "一座可攀爬、觸摸與種植的編織竹構亭。\n\n台灣｜裝置設計｜竹構亭｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/the-wave-bamboo-pavilion/01-bamboo-pavilion-elevation.webp",
+        "assets/board/the-wave-bamboo-pavilion/02-pavilion-renders.webp",
+        "assets/board/the-wave-bamboo-pavilion/03-location-analysis.webp",
+        "assets/board/the-wave-bamboo-pavilion/04-unit-evolution.webp",
+        "assets/board/the-wave-bamboo-pavilion/05-component-evolution.webp",
+        "assets/board/the-wave-bamboo-pavilion/06-planting-units.webp",
+        "assets/board/the-wave-bamboo-pavilion/07-model-evolution.webp",
+        "assets/board/the-wave-bamboo-pavilion/08-bamboo-weaving-steps.webp",
+        "assets/board/the-wave-bamboo-pavilion/09-partial-view.webp",
+        "assets/board/the-wave-bamboo-pavilion/10-node-construction.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/the-wave-bamboo-pavilion/01-bamboo-pavilion-elevation.webp"
+          ],
+          "captions": [
+            "Elevation of the woven bamboo pavilion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "編織竹構亭的立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The brief asks for a temporary installation in an outdoor museum plaza. The student wants it to be more than a shade, a place people can climb, touch and live with.",
+          "images": [
+            "assets/board/the-wave-bamboo-pavilion/02-pavilion-renders.webp",
+            "assets/board/the-wave-bamboo-pavilion/03-location-analysis.webp"
+          ],
+          "captions": [
+            "Pavilion views from different angles.",
+            "Location analysis of bamboo resources."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "任務要求在戶外美術館廣場設計一座臨時裝置。學生希望它不只是遮蔽物，而是人們可以攀爬、觸摸並與之共處的場所。",
+              "captions": [
+                "不同角度的亭子視圖。",
+                "竹材資源的區位分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studies a traditional pressure-one-pick-one bamboo weaving technique. Simple triangle units are tested and grown into larger structural parts.",
+          "images": [
+            "assets/board/the-wave-bamboo-pavilion/04-unit-evolution.webp",
+            "assets/board/the-wave-bamboo-pavilion/05-component-evolution.webp"
+          ],
+          "captions": [
+            "Evolution of unit components.",
+            "Evolution of larger components."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究傳統的「壓一挑一」竹編技法。簡單的三角單元經過測試，再發展成更大的結構構件。",
+              "captions": [
+                "單元構件的演變。",
+                "大型構件的演變。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Planting units with soil and small plants are woven into the bamboo frame. A series of models refines the canopy shape step by step.",
+          "images": [
+            "assets/board/the-wave-bamboo-pavilion/06-planting-units.webp",
+            "assets/board/the-wave-bamboo-pavilion/07-model-evolution.webp",
+            "assets/board/the-wave-bamboo-pavilion/08-bamboo-weaving-steps.webp"
+          ],
+          "captions": [
+            "Planting units of plants, soil and bamboo.",
+            "Model evolution toward the final form.",
+            "Steps for bamboo weaving."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "含土壤與小型植物的種植單元被編入竹構框架中。一系列模型逐步修正頂篷的形態。",
+              "captions": [
+                "由植物、土壤與竹材組成的種植單元。",
+                "邁向最終形態的模型演變。",
+                "竹編步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final wave is a self-supporting bamboo shell with stairs and platforms inside. Tested node joints show how the parts are tied together by hand.",
+          "images": [
+            "assets/board/the-wave-bamboo-pavilion/09-partial-view.webp",
+            "assets/board/the-wave-bamboo-pavilion/10-node-construction.webp"
+          ],
+          "captions": [
+            "Partial view of the woven structure.",
+            "Node construction and joint tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的波浪是一座自承重竹殼，內部設有樓梯與平台。經過測試的節點顯示構件如何以手工綁接。",
+              "captions": [
+                "編織結構的局部視圖。",
+                "節點構造與接頭測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Learn a craft by hand.\n2. Turn it into a unit.\n3. Grow the unit into a structure.\n4. Test joints at full scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 親手學習一種工藝。\n2. 把它轉化為單元。\n3. 讓單元生長成結構。\n4. 以足尺測試接點。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
