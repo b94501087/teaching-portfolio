@@ -1,0 +1,67 @@
+{
+  "project": "Experience in Pingshan",
+  "dest": "assets/board/experience-in-pingshan",
+  "note": "Portfolio bffa1381 pages 9–10 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title panel, the site photos, regional photo strip and SWOT photos on page 9, the plant photos beside the purification diagram, and the Swirl and Show Time renderings with photo city backdrops on page 10. No retouching.",
+  "files": [
+    {
+      "name": "01-waterfront-promenade-aerial.webp",
+      "sha256": "22d79176b4a8bbec36110ddf46b6966dd0b25fc5403b82d22f5aeb591c678adb",
+      "bytes": 39190,
+      "from": "bffa1381 page 10 — aerial view of the waterfront promenade, x 32.3–49.3 %, y 1–29.5 %"
+    },
+    {
+      "name": "02-design-strategy.webp",
+      "sha256": "76e591fe97fc7f3b2214709b6b0f8627ec11172d44ea5eb5dd7280228e4c6c39",
+      "bytes": 36096,
+      "from": "page 9 — design strategy, x 50–69 %, y 0–36 %"
+    },
+    {
+      "name": "03-design-analysis.webp",
+      "sha256": "99cb8b38623a7d5e1f0431bf3bb88862e088c96559536bbd764edb340f5cb1a7",
+      "bytes": 42268,
+      "from": "page 9 — design analysis, x 69–100 %, y 0–36 %"
+    },
+    {
+      "name": "04-wetland-park-master-plan.webp",
+      "sha256": "196bdc891f280736121d3abe120c594f2fbd85ee31754f123ff72781cf73983b",
+      "bytes": 178106,
+      "from": "page 9 — master plan, x 50–85 %, y 39–100 %"
+    },
+    {
+      "name": "05-bank-analysis.webp",
+      "sha256": "b25b6e5e8b30d71e5e86dfaaafb84dcd0e33ba39941e39002230e36a7c7b72b7",
+      "bytes": 45928,
+      "from": "page 9 — bank analysis, x 85–100 %, y 39–100 %"
+    },
+    {
+      "name": "06-swirl-entrance-and-activities.webp",
+      "sha256": "7df588c89b8e02e8a2ce5611bb863478cfec547ac7910edff54ba5042a567cc2",
+      "bytes": 37474,
+      "from": "page 10 — the Swirl: entrance, installation and activities views, x 14.2–25.2 %, y 1–47 %"
+    },
+    {
+      "name": "07-water-treatment-before-after.webp",
+      "sha256": "353ee55f65489761568d0e417021d4c04243010f9860cb8e46a53f590eee2029",
+      "bytes": 18634,
+      "from": "page 10 — water treatment before and after, x 25.4–32.1 %, y 1–44 %"
+    },
+    {
+      "name": "08-water-purification-process.webp",
+      "sha256": "97c0f9f9f98e6349dacc08cc92ae9bd49f7f31721808e6212c4ed50a31185242",
+      "bytes": 18788,
+      "from": "page 10 — water purification process, x 34.7–49.3 %, y 29.5–45 %"
+    },
+    {
+      "name": "09-mining-park-vignettes.webp",
+      "sha256": "d799873c2eb8cdbaed463e6bf5d378d6846bf3ee0c39ef067d05be52c4ef68a9",
+      "bytes": 36366,
+      "from": "page 10 — mining park views, x 25.5–34.5 %, y 46–99 %"
+    },
+    {
+      "name": "10-mining-park-plan.webp",
+      "sha256": "9548e983a2abd9433e71eb96b2ef70a586f166a0e4210b36753529135dac823e",
+      "bytes": 64868,
+      "from": "page 10 — mining park aerial view, x 34.5–50 %, y 46–99 %"
+    }
+  ]
+}
