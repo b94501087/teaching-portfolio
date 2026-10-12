@@ -1,0 +1,49 @@
+{
+  "project": "Kaleidoscopic Dreams",
+  "dest": "assets/board/kaleidoscopic-dreams-digital-form-study",
+  "note": "Portfolio d824 page 12 cropped to seven images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-kaleidoscope-composition.webp",
+      "sha256": "a912eb37b7e6245369b676f32d451d23aeedcd6c579debdcb4eafa67a8a63029",
+      "bytes": 206510,
+      "from": "d824 page 12 — kaleidoscope composition"
+    },
+    {
+      "name": "02-twist-and-mirror-operations.webp",
+      "sha256": "3aec4c07a34a6748843c25cef8c897b73904b66cd8e2571138cbebb4d6fe2351",
+      "bytes": 7354,
+      "from": "d824 page 12 — twist and mirror operations"
+    },
+    {
+      "name": "03-mirror-rotate-scale.webp",
+      "sha256": "1336608db69310a1de1c91103d0be156d3399701e15649d5fb46e10a2f6702ee",
+      "bytes": 9630,
+      "from": "d824 page 12 — mirror rotate scale"
+    },
+    {
+      "name": "04-boolean-to-final-form.webp",
+      "sha256": "cb7b80821128129556eaa645f77f3c8f2d6b48608daf04bfe66e9f46b8510971",
+      "bytes": 11132,
+      "from": "d824 page 12 — boolean to final form"
+    },
+    {
+      "name": "05-final-object-one.webp",
+      "sha256": "d95b8fbaaf0ddba8051ba6785be263ca83b6530211cb42aa7b5bb68fc2789667",
+      "bytes": 7136,
+      "from": "d824 page 12 — final object"
+    },
+    {
+      "name": "06-final-object-two.webp",
+      "sha256": "7df77f037a40ba24e88cc15089449228e2e5370cf4f7ab845729dbb2932af6f1",
+      "bytes": 6208,
+      "from": "d824 page 12 — final object"
+    },
+    {
+      "name": "07-final-object-three.webp",
+      "sha256": "bd2f6d1277ec38e5337d00e3fd17194dd13117ea3acb83df73c53f50c7742d2c",
+      "bytes": 6832,
+      "from": "d824 page 12 — final object"
+    }
+  ]
+}
