@@ -1,0 +1,49 @@
+{
+  "project": "Post-Arctic Waterfront",
+  "dest": "assets/board/post-arctic-waterfront-wetland",
+  "note": "Portfolio 5b5b pages 16-19 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with instructor name, the hero and perspective renders with figures, the town photo strip and the aerial view.",
+  "files": [
+    {
+      "name": "01-waterfront-map.webp",
+      "sha256": "a752e1d193727df961e3a629314501fed197a8a8d809da07f96642b86721e00a",
+      "bytes": 417542,
+      "from": "5b5b page 17 — waterfront map and tide charts"
+    },
+    {
+      "name": "02-arctic-globe.webp",
+      "sha256": "6cd4ad56024fed7decd42d93da035a357897e78bd8b3df7dcf4ba718734c603a",
+      "bytes": 41938,
+      "from": "5b5b page 16 — arctic context drawing"
+    },
+    {
+      "name": "03-sediment-tests.webp",
+      "sha256": "8056cd86cb0b1690cfcd2d6dc72b03acde9ff11b82db4bb76680a7a7b72ccf12",
+      "bytes": 42380,
+      "from": "5b5b page 18 — sediment tests"
+    },
+    {
+      "name": "04-sea-level-scenarios.webp",
+      "sha256": "7ec8faa7307db0bda834f4277e4d468121f59ea4bc8b47f4c45e7823d50e1485",
+      "bytes": 32536,
+      "from": "5b5b page 18 — sea-level scenarios"
+    },
+    {
+      "name": "05-landscape-phases.webp",
+      "sha256": "cbe6694d8db4c9f3eb9a9725a2013bee1d79169ae1290fda529207b97d50dfe3",
+      "bytes": 81522,
+      "from": "5b5b page 18 — landscape process phases"
+    },
+    {
+      "name": "06-system-diagram.webp",
+      "sha256": "d1f805d985dec31812ba2338cfa843a65290189985ab9800d57233f39215691c",
+      "bytes": 37226,
+      "from": "5b5b page 19 — system diagram"
+    },
+    {
+      "name": "07-species-and-shoreline.webp",
+      "sha256": "807418081b09d519d0dd6e74ba6e52296d773f7697c61cee0a6df511875cdc83",
+      "bytes": 26860,
+      "from": "5b5b page 19 — species and shoreline profile"
+    }
+  ]
+}
