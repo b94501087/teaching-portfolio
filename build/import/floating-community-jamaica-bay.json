@@ -1,0 +1,43 @@
+{
+  "project": "The Floating Community",
+  "dest": "assets/board/floating-community-jamaica-bay",
+  "note": "Portfolio 30f3 pages 2-7 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with the instructor name, the household unit pages with persona names, and the body text.",
+  "files": [
+    {
+      "name": "01-floating-settlement.webp",
+      "sha256": "0d75972ceafbaee41bcd17cebd1a2b904c7fe4f9d33be3339eaab52125a864f7",
+      "bytes": 211802,
+      "from": "30f3 page 7 — aerial render of the floating settlement"
+    },
+    {
+      "name": "02-underwater-collage.webp",
+      "sha256": "20657196866216d82d3a2f7d66c492c7114faf0675d83b045e0a70324f406c3e",
+      "bytes": 104564,
+      "from": "30f3 page 2 — underwater concept collage"
+    },
+    {
+      "name": "03-jamaica-bay-site.webp",
+      "sha256": "f9e38b911652a9941096af2249fd9da07491856bd0884f3a1b914830cbd5f937",
+      "bytes": 191322,
+      "from": "30f3 page 2 — site map"
+    },
+    {
+      "name": "04-printed-unit-system.webp",
+      "sha256": "e9c9164de4057b97423f0300da0f0d94afd04a7ab3c3b600973c2c2541daa727",
+      "bytes": 162590,
+      "from": "30f3 page 3 — printed housing unit system"
+    },
+    {
+      "name": "05-masterplan.webp",
+      "sha256": "9963c8480521a19d0c4803cd6b578de742c6b711d09473ad26a7453850d93291",
+      "bytes": 255164,
+      "from": "30f3 page 5 — hexagon masterplan"
+    },
+    {
+      "name": "06-below-the-waterline.webp",
+      "sha256": "d61c127b5814684b6b6949454442efe9d03c9880661887e8a11894a0e95530db",
+      "bytes": 218360,
+      "from": "30f3 page 6 — underwater section render"
+    }
+  ]
+}
