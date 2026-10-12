@@ -40668,6 +40668,718 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Entangled Realms",
+      "slug": "entangled-realms-stick-and-clay-tower",
+      "description": "A tree-shaped tower of stacked wooden sticks is wrapped in hand-shaped clay and ringed by yellow paper paths.\n\nModel making | Mixed-media tower | Coexistence study | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "糾纏之境",
+          "description": "以木棒堆疊成樹形塔體，外覆手塑黏土，並以黃色瓦楞紙環道環繞。\n\n模型製作｜複合材料塔體｜共存研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/entangled-realms-stick-and-clay-tower/01-model-with-ring-paths.webp",
+        "assets/board/entangled-realms-stick-and-clay-tower/02-sketch-diagrams.webp",
+        "assets/board/entangled-realms-stick-and-clay-tower/03-making-process.webp",
+        "assets/board/entangled-realms-stick-and-clay-tower/04-stick-frame-and-clay.webp",
+        "assets/board/entangled-realms-stick-and-clay-tower/05-side-views.webp",
+        "assets/board/entangled-realms-stick-and-clay-tower/06-model-front-view.webp",
+        "assets/board/entangled-realms-stick-and-clay-tower/07-ring-path-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/entangled-realms-stick-and-clay-tower/01-model-with-ring-paths.webp"
+          ],
+          "captions": [
+            "The finished tower with its yellow ring paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的塔體與黃色環道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted a single model to hold both human order and the unruly growth of nature. The project asks how built frames and wild habitat might share one body.",
+          "images": [
+            "assets/board/entangled-realms-stick-and-clay-tower/02-sketch-diagrams.webp"
+          ],
+          "captions": [
+            "Sketch diagrams of the stacked form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生希望以單一模型同時容納人類的秩序與自然的恣意生長。作品探問，人造框架與野性棲地如何共存於同一個形體。",
+              "captions": [
+                "堆疊形體的草圖分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A digital sketch first tested a stack of shrinking hexagonal layers shaped like a festive tree. The layers were then rebuilt as wooden sticks of graded lengths to make the frame.",
+          "images": [
+            "assets/board/entangled-realms-stick-and-clay-tower/03-making-process.webp"
+          ],
+          "captions": [
+            "Making process from frame to clay."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先以數位草圖測試逐層縮小、形如節慶樹的六角形堆疊。之後再以長度漸變的木棒重新構築這些層，形成框架。",
+              "captions": [
+                "從框架到黏土的製作過程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Clay was pressed between the sticks to form irregular pockets that stand for animal and plant habitat. The rigid frame and the soft clay begin to grip and depend on each other.",
+          "images": [
+            "assets/board/entangled-realms-stick-and-clay-tower/04-stick-frame-and-clay.webp",
+            "assets/board/entangled-realms-stick-and-clay-tower/05-side-views.webp"
+          ],
+          "captions": [
+            "Stick frame gripped by clay.",
+            "Side views of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生將黏土壓入木棒之間，形成代表動植物棲地的不規則空間。剛硬的框架與柔軟的黏土開始彼此咬合、相互依存。",
+              "captions": [
+                "被黏土包覆的木棒框架。",
+                "塔體側視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Yellow corrugated paper rings now spiral around the tower as paths that link every level. The model reads as a shared home where people, animals and plants overlap.",
+          "images": [
+            "assets/board/entangled-realms-stick-and-clay-tower/06-model-front-view.webp",
+            "assets/board/entangled-realms-stick-and-clay-tower/07-ring-path-details.webp"
+          ],
+          "captions": [
+            "Front view of the finished model.",
+            "Ring path details."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "黃色瓦楞紙環道螺旋環繞塔體，串連每一層。模型呈現出人、動物與植物交疊共居的家園。",
+              "captions": [
+                "完成模型正視。",
+                "環道細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Sketch one stacked form.\n2. Build a rigid frame.\n3. Add a soft material.\n4. Link it with paths.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 草繪一個堆疊形體。\n2. 搭建剛性框架。\n3. 加入柔性材料。\n4. 以路徑串連。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Intertwining Surfaces",
+      "slug": "intertwining-surfaces-bamboo-stick-frame",
+      "description": "Bamboo sticks are bent across a wooden frame so that curved surfaces cross and open into one another.\n\nModel making | Bamboo structure | Surface study | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "交織曲面",
+          "description": "以竹棒彎繞木構框架，讓曲面彼此交錯、開展。\n\n模型製作｜竹構｜曲面研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/intertwining-surfaces-bamboo-stick-frame/01-bamboo-frame-model.webp",
+        "assets/board/intertwining-surfaces-bamboo-stick-frame/02-fabric-and-foam-tests.webp",
+        "assets/board/intertwining-surfaces-bamboo-stick-frame/03-curved-surface-details.webp",
+        "assets/board/intertwining-surfaces-bamboo-stick-frame/04-woven-stick-structure.webp",
+        "assets/board/intertwining-surfaces-bamboo-stick-frame/05-frame-sketch.webp",
+        "assets/board/intertwining-surfaces-bamboo-stick-frame/06-model-tall-view.webp",
+        "assets/board/intertwining-surfaces-bamboo-stick-frame/07-model-side-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/intertwining-surfaces-bamboo-stick-frame/01-bamboo-frame-model.webp"
+          ],
+          "captions": [
+            "The finished bamboo and wood frame model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的竹木框架模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was drawn to tensile roofs where thin members carry wave-like skins. The project asks how stiff sticks alone can make surfaces that curve and cross.",
+          "images": [
+            "assets/board/intertwining-surfaces-bamboo-stick-frame/02-fabric-and-foam-tests.webp"
+          ],
+          "captions": [
+            "Early tests with rods, foam and fabric."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生受到以纖細構件撐起波浪表皮的張拉屋頂吸引。作品探問，僅靠硬直的棒材，能否做出彎曲並相互交錯的曲面。",
+              "captions": [
+                "以棒材、泡棉與布料進行的初步測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Early tests stretched fabric over rods set in foam, but the result stayed one solid form. Removing the fabric and keeping only sticks let separate parts start to connect.",
+          "images": [
+            "assets/board/intertwining-surfaces-bamboo-stick-frame/03-curved-surface-details.webp",
+            "assets/board/intertwining-surfaces-bamboo-stick-frame/04-woven-stick-structure.webp"
+          ],
+          "captions": [
+            "Curved surface details.",
+            "Woven stick structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "初期測試將布料撐在插入泡棉的棒材上，結果卻仍是單一實體。拿掉布料、只留棒材後，各個部分開始能彼此連結。",
+              "captions": [
+                "曲面細部。",
+                "編織棒材結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A sketch set out a wooden main frame with bamboo bent between its posts. Fixing the bamboo at regular but staggered points made the surfaces weave and meet.",
+          "images": [
+            "assets/board/intertwining-surfaces-bamboo-stick-frame/05-frame-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of the frame and bent surfaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以草圖規劃木構主框架，並在柱間彎繞竹棒。竹棒以規律而錯位的節點固定，使曲面交織相會。",
+              "captions": [
+                "框架與彎曲面的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model rises as a cluster of towers wrapped in fine bamboo curves. Its openings and crossings come straight from the logic of bending and fixing.",
+          "images": [
+            "assets/board/intertwining-surfaces-bamboo-stick-frame/06-model-tall-view.webp",
+            "assets/board/intertwining-surfaces-bamboo-stick-frame/07-model-side-views.webp"
+          ],
+          "captions": [
+            "Tall view of the model.",
+            "Side views of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以細密竹曲線包覆的塔群拔地而起。其開口與交錯，都直接來自彎曲與固定的邏輯。",
+              "captions": [
+                "模型高處視角。",
+                "模型側視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study one precedent.\n2. Test a soft skin.\n3. Remove what blocks.\n4. Bend and fix.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一個先例。\n2. 測試柔性表皮。\n3. 拿掉阻礙之物。\n4. 彎曲並固定。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Fossilized Architecture",
+      "slug": "fossilized-architecture-resin-curve-landscape",
+      "description": "Pale 3D-printed curves grow over a bed of stones while a red stick frame marks the human layer.\n\nModel making | 3D-printed resin | Nature and structure | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "化石建築",
+          "description": "淺色 3D 列印曲線在石床上蔓生，紅色木棒框架則標示人為的層次。\n\n模型製作｜3D 列印樹脂｜自然與結構｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fossilized-architecture-resin-curve-landscape/01-overgrown-model-view.webp",
+        "assets/board/fossilized-architecture-resin-curve-landscape/02-curve-system-diagrams.webp",
+        "assets/board/fossilized-architecture-resin-curve-landscape/03-resin-curve-parts.webp",
+        "assets/board/fossilized-architecture-resin-curve-landscape/04-assembly-in-progress.webp",
+        "assets/board/fossilized-architecture-resin-curve-landscape/05-planting-and-frames.webp",
+        "assets/board/fossilized-architecture-resin-curve-landscape/06-model-in-acrylic-box.webp",
+        "assets/board/fossilized-architecture-resin-curve-landscape/07-curves-over-stones.webp",
+        "assets/board/fossilized-architecture-resin-curve-landscape/08-hand-sketch.webp",
+        "assets/board/fossilized-architecture-resin-curve-landscape/09-close-up-views.webp",
+        "assets/board/fossilized-architecture-resin-curve-landscape/10-curve-and-trees.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fossilized-architecture-resin-curve-landscape/01-overgrown-model-view.webp"
+          ],
+          "captions": [
+            "Resin curves, red frames and planting in the final model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "最終模型中的樹脂曲線、紅色框架與植栽。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student explored the tension between organic growth and human-made order. The project asks what a structure might look like once nature has slowly taken it back.",
+          "images": [
+            "assets/board/fossilized-architecture-resin-curve-landscape/02-curve-system-diagrams.webp",
+            "assets/board/fossilized-architecture-resin-curve-landscape/03-resin-curve-parts.webp"
+          ],
+          "captions": [
+            "Diagrams of the curve system.",
+            "Printed resin curve parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生探究有機生長與人造秩序之間的張力。作品探問，當自然慢慢收回一座結構時，它會呈現什麼樣貌。",
+              "captions": [
+                "曲線系統分析圖。",
+                "列印完成的樹脂曲線構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Line studies drawn from ecological networks were turned into a parametric curve system. The flowing pieces were printed in resin so they read like the remains of a living body.",
+          "images": [
+            "assets/board/fossilized-architecture-resin-curve-landscape/08-hand-sketch.webp"
+          ],
+          "captions": [
+            "Hand sketch of the curve rings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生將取自生態網絡的線條研究轉化為參數化曲線系統。流動的構件以樹脂列印，看起來如同生命體的遺骸。",
+              "captions": [
+                "曲線環的手繪草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The curves were set on cobblestones inside an acrylic box and planted with moss and small trees. A grid of red sticks was then added as roads and frames that hint at human use.",
+          "images": [
+            "assets/board/fossilized-architecture-resin-curve-landscape/04-assembly-in-progress.webp",
+            "assets/board/fossilized-architecture-resin-curve-landscape/05-planting-and-frames.webp",
+            "assets/board/fossilized-architecture-resin-curve-landscape/06-model-in-acrylic-box.webp"
+          ],
+          "captions": [
+            "Assembly in progress.",
+            "Planting and red frames.",
+            "The model inside its acrylic box."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生將曲線放在壓克力箱內的卵石上，並種上苔蘚與小樹。接著加入紅色木棒格網，作為暗示人類使用的道路與框架。",
+              "captions": [
+                "組裝進行中。",
+                "植栽與紅色框架。",
+                "置於壓克力箱中的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The two layers press against and absorb each other across the whole landscape. The model imagines a place where people have left and the line between built and natural blurs.",
+          "images": [
+            "assets/board/fossilized-architecture-resin-curve-landscape/07-curves-over-stones.webp",
+            "assets/board/fossilized-architecture-resin-curve-landscape/09-close-up-views.webp",
+            "assets/board/fossilized-architecture-resin-curve-landscape/10-curve-and-trees.webp"
+          ],
+          "captions": [
+            "Curves rising over the stones.",
+            "Close-up views of frames and curves.",
+            "A curve among the trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "兩個層次在整片地景中相互擠壓、彼此吸納。模型想像一處人已離去、人造與自然界線逐漸模糊的場所。",
+              "captions": [
+                "在石床上升起的曲線。",
+                "框架與曲線的近景。",
+                "樹叢間的曲線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Draw a natural network.\n2. Model it as curves.\n3. Add a human layer.\n4. Let them overlap.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 描繪自然網絡。\n2. 將其建模為曲線。\n3. 加入人為層次。\n4. 讓兩者交疊。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Cliffside Beach House",
+      "slug": "cliffside-beach-house-hillside-model",
+      "description": "Round rooms on thin red stilts step down a sandy hillside towards the sea, topped by a lookout tower.\n\nArchitecture | Hillside house | Site model | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "崖邊海灘屋",
+          "description": "圓形房間立於細長紅色支柱上，沿沙質山坡向海層層下降，頂端設有瞭望塔。\n\n建築設計｜山坡住宅｜基地模型｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cliffside-beach-house-hillside-model/01-cliffside-house-model.webp",
+        "assets/board/cliffside-beach-house-hillside-model/02-terrain-render.webp",
+        "assets/board/cliffside-beach-house-hillside-model/03-terrain-making.webp",
+        "assets/board/cliffside-beach-house-hillside-model/04-sand-and-sea-base.webp",
+        "assets/board/cliffside-beach-house-hillside-model/05-floor-plan-one.webp",
+        "assets/board/cliffside-beach-house-hillside-model/06-floor-plan-two.webp",
+        "assets/board/cliffside-beach-house-hillside-model/07-floor-plan-three.webp",
+        "assets/board/cliffside-beach-house-hillside-model/08-houses-on-stilts.webp",
+        "assets/board/cliffside-beach-house-hillside-model/09-tower-and-room-views.webp",
+        "assets/board/cliffside-beach-house-hillside-model/10-stair-and-garden-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cliffside-beach-house-hillside-model/01-cliffside-house-model.webp"
+          ],
+          "captions": [
+            "The beach house stepping down the cliffside model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "沿崖邊模型層層下降的海灘屋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Memories of buildings seen on travels led the student to imagine a house on a hill above a beach. The project asks how a home can feel both sheltered and open to the view.",
+          "images": [
+            "assets/board/cliffside-beach-house-hillside-model/02-terrain-render.webp"
+          ],
+          "captions": [
+            "Early terrain render with the house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "旅途中見過的建築記憶，讓學生想像一座位於海灘上方山坡的住宅。作品探問，一個家如何同時給人庇護感，又向景色敞開。",
+              "captions": [
+                "地形與住宅的初期渲染。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A digital terrain study set the house on the slope with a tower at its peak. The ground was then built up in layered sheets, sand and painted water.",
+          "images": [
+            "assets/board/cliffside-beach-house-hillside-model/03-terrain-making.webp",
+            "assets/board/cliffside-beach-house-hillside-model/04-sand-and-sea-base.webp"
+          ],
+          "captions": [
+            "Terrain layers and sand being built up.",
+            "Sand and sea base of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以數位地形研究，將住宅置於坡地並在頂端設置塔樓。之後以層疊板材、沙與彩繪水面堆出地面。",
+              "captions": [
+                "堆疊中的地形層與沙。",
+                "模型的沙灘與海面基座。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Hand-drawn plans link rounded rooms through narrow corridors and a shared stair. Curved windows were 3D-printed so the rooms glow softly like small lanterns.",
+          "images": [
+            "assets/board/cliffside-beach-house-hillside-model/05-floor-plan-one.webp",
+            "assets/board/cliffside-beach-house-hillside-model/06-floor-plan-two.webp",
+            "assets/board/cliffside-beach-house-hillside-model/07-floor-plan-three.webp"
+          ],
+          "captions": [
+            "Floor plan, level one.",
+            "Floor plan, level two.",
+            "Floor plan, level three."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "手繪平面以狹長走道與共用樓梯串連圓形房間。弧形窗以 3D 列印製作，讓房間如小燈籠般柔和發光。",
+              "captions": [
+                "平面圖，第一層。",
+                "平面圖，第二層。",
+                "平面圖，第三層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model scatters timber rooms on red stilts across the hillside. Geometric shapes cross each other freely, yet every space has its own use.",
+          "images": [
+            "assets/board/cliffside-beach-house-hillside-model/08-houses-on-stilts.webp",
+            "assets/board/cliffside-beach-house-hillside-model/09-tower-and-room-views.webp",
+            "assets/board/cliffside-beach-house-hillside-model/10-stair-and-garden-details.webp"
+          ],
+          "captions": [
+            "Houses on stilts above the beach.",
+            "Tower and room views.",
+            "Stair and garden details."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型將木構房間散布在山坡的紅色支柱上。幾何形體自由交錯，但每個空間都有其用途。",
+              "captions": [
+                "海灘上方的高腳房屋。",
+                "塔樓與房間視角。",
+                "樓梯與花園細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Recall a memory.\n2. Shape the terrain.\n3. Plan the rooms.\n4. Build the site model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 回想一段記憶。\n2. 塑造地形。\n3. 規劃房間。\n4. 製作基地模型。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Verdant Facade",
+      "slug": "verdant-facade-planted-stick-tower",
+      "description": "A grid of timber sticks and black boxes becomes a small tower thick with climbing plants and flowers.\n\nModel making | Vertical greening | Mixed-media tower | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "翠綠立面",
+          "description": "木棒格架與黑色盒體構成小型塔體，攀爬植物與花朵在其間茂密生長。\n\n模型製作｜垂直綠化｜複合材料塔體｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/verdant-facade-planted-stick-tower/01-planted-stick-tower.webp",
+        "assets/board/verdant-facade-planted-stick-tower/02-structure-sketch.webp",
+        "assets/board/verdant-facade-planted-stick-tower/03-planting-sketches.webp",
+        "assets/board/verdant-facade-planted-stick-tower/04-building-process.webp",
+        "assets/board/verdant-facade-planted-stick-tower/05-model-with-planting.webp",
+        "assets/board/verdant-facade-planted-stick-tower/06-close-up-views.webp",
+        "assets/board/verdant-facade-planted-stick-tower/07-lower-frame-view.webp",
+        "assets/board/verdant-facade-planted-stick-tower/08-line-drawing.webp",
+        "assets/board/verdant-facade-planted-stick-tower/09-digital-replica.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/verdant-facade-planted-stick-tower/01-planted-stick-tower.webp"
+          ],
+          "captions": [
+            "The finished tower with planting on every level."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "每層皆有植栽的完成塔體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Creepers growing over the walls near the student's home showed how plants cling to buildings without falling. The project asks whether a structure can be designed so greenery grows into it from the start.",
+          "images": [
+            "assets/board/verdant-facade-planted-stick-tower/02-structure-sketch.webp",
+            "assets/board/verdant-facade-planted-stick-tower/03-planting-sketches.webp"
+          ],
+          "captions": [
+            "Sketch of the stick structure.",
+            "Sketches of planted towers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生家附近牆面上的爬藤，展現了植物如何攀附建築而不掉落。作品探問，能否從一開始就設計一座讓綠意自然長入的結構。",
+              "captions": [
+                "木棒結構草圖。",
+                "植栽塔體草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Studies of vertical greening showed plants held in neat but varied frames. The student chose a language of straight lines and rectangles taken from abstract painting and turned it into 3D.",
+          "images": [
+            "assets/board/verdant-facade-planted-stick-tower/04-building-process.webp"
+          ],
+          "captions": [
+            "Building the base and frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究垂直綠化，發現植物被安置在整齊卻多變的框架中。學生選用取自抽象繪畫的直線與矩形語彙，並將其轉為立體。",
+              "captions": [
+                "基座與框架的製作過程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A thick core stick was glued to a plastic base, then black sticks and plates were stacked around it. Wood rods and acrylic boxes added texture before plants were set into the frame.",
+          "images": [
+            "assets/board/verdant-facade-planted-stick-tower/05-model-with-planting.webp",
+            "assets/board/verdant-facade-planted-stick-tower/06-close-up-views.webp",
+            "assets/board/verdant-facade-planted-stick-tower/07-lower-frame-view.webp"
+          ],
+          "captions": [
+            "The model with its planting.",
+            "Close-up views of the levels.",
+            "View of the lower frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生先將較粗的核心木棒黏在塑膠底座上，再於周圍堆疊黑色棒材與板材。木棒與壓克力盒增添質感，最後才把植物安置進框架。",
+              "captions": [
+                "植栽後的模型。",
+                "各層近景。",
+                "下層框架視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Plants now spill over every level so the frame and the greenery read as one facade. A line drawing and a digital replica with more plants and animals extend the idea beyond the model.",
+          "images": [
+            "assets/board/verdant-facade-planted-stick-tower/08-line-drawing.webp",
+            "assets/board/verdant-facade-planted-stick-tower/09-digital-replica.webp"
+          ],
+          "captions": [
+            "Line drawing of the tower.",
+            "Digital replica of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "植物溢滿每一層，讓框架與綠意成為一體的立面。一張線描圖與加入更多動植物的數位複製場景，將構想延伸到模型之外。",
+              "captions": [
+                "塔體線描圖。",
+                "模型的數位複製場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe plants on walls.\n2. Choose a line language.\n3. Build the frame.\n4. Plant it in.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察牆上的植物。\n2. 選定線條語彙。\n3. 搭建框架。\n4. 植入綠意。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
