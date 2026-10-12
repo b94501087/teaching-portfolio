@@ -36164,6 +36164,278 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "The Carbon Sink of Scars",
+      "slug": "carbon-sink-of-scars-installation",
+      "description": "An installation of three damaged habitats that absorb our carbon.\n\nSpatial Design | Installation | Carbon sink | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "傷痕碳匯",
+          "description": "以三個受損棲地構成、吸收人類碳排放的裝置。\n\n空間設計｜裝置｜碳匯｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/carbon-sink-of-scars-installation/01-combined-habitats.webp",
+        "assets/board/carbon-sink-of-scars-installation/02-silent-sea.webp",
+        "assets/board/carbon-sink-of-scars-installation/03-sea-making.webp",
+        "assets/board/carbon-sink-of-scars-installation/04-entombed-life.webp",
+        "assets/board/carbon-sink-of-scars-installation/05-miasma.webp",
+        "assets/board/carbon-sink-of-scars-installation/06-miasma-clouds.webp",
+        "assets/board/carbon-sink-of-scars-installation/07-miasma-city.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/carbon-sink-of-scars-installation/01-combined-habitats.webp"
+          ],
+          "captions": [
+            "The three habitats joined into one installation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "三個棲地組合成一件裝置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Oceans, forests and the atmosphere absorb most of the carbon people release. The project asks how a small installation could show both their role as carbon sinks and the damage they carry.",
+          "images": [
+            "assets/board/carbon-sink-of-scars-installation/02-silent-sea.webp"
+          ],
+          "captions": [
+            "Silent Sea: resin water over a white foam base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "海洋、森林與大氣吸收了人類排放的大部分碳。這個作品探問，一件小型裝置如何同時呈現它們作為碳匯的角色，以及它們所承受的傷害。",
+              "captions": [
+                "沉默之海：樹脂水面覆於白色發泡底座上。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each habitat is read through one kind of harm: acidifying water, burned forest and polluted air. Industrial materials such as PVC board, wax, clay, wire and acrylic are chosen to tell that story.",
+          "images": [
+            "assets/board/carbon-sink-of-scars-installation/03-sea-making.webp"
+          ],
+          "captions": [
+            "Carving and casting the sea model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每個棲地都透過一種傷害來解讀：酸化的海水、焚燒的森林與污染的空氣。學生選用 PVC 板、蠟、黏土、鐵絲與壓克力等工業材料來講述這個故事。",
+              "captions": [
+                "雕刻與澆鑄海洋模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A white foam base stands for bleached coral, and a clay block with wire trees stands for a forest stripped by fire. A cotton cloud hangs over a small clay city to make the invisible air visible.",
+          "images": [
+            "assets/board/carbon-sink-of-scars-installation/04-entombed-life.webp",
+            "assets/board/carbon-sink-of-scars-installation/05-miasma.webp",
+            "assets/board/carbon-sink-of-scars-installation/06-miasma-clouds.webp",
+            "assets/board/carbon-sink-of-scars-installation/07-miasma-city.webp"
+          ],
+          "captions": [
+            "Entombed Life: wire trees on a burned clay ground.",
+            "Miasma: a cotton cloud over a clay city.",
+            "Cloud studies from two angles.",
+            "The city beneath the cloud."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "白色發泡底座象徵白化的珊瑚，黏土塊與鐵絲樹則代表被大火剝奪養分的森林。棉花雲懸於小型黏土城市之上，讓看不見的空氣變得可見。",
+              "captions": [
+                "掩埋之生：焦土黏土上的鐵絲樹。",
+                "瘴氣：黏土城市上空的棉花雲。",
+                "從兩個角度觀看雲的研究。",
+                "雲層下的城市。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The three pieces sit side by side as one carbon sink at a scale of about thirty centimetres. Together they show places that sustain life while bearing the scars of human actions.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "三件作品並列為一個約三十公分尺度的碳匯。它們共同呈現了維繫生命、同時承受人類行為傷痕的場所。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a system to explain.\n2. Split it into parts.\n3. Give each part a material.\n4. Rejoin them as one piece.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇一個要說明的系統。\n2. 將它拆成幾個部分。\n3. 為每個部分選擇材料。\n4. 將它們重新組合成一件作品。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Motion Morphology",
+      "slug": "motion-morphology-hurdling-trace",
+      "description": "A hurdling jump traced, lofted and hung as a spatial form.\n\nSpatial Design | Installation | Motion study | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "運動形態學",
+          "description": "將一次跨欄動作描繪、放樣並懸掛成空間形態。\n\n空間設計｜裝置｜動態研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/motion-morphology-hurdling-trace/01-suspended-installation.webp",
+        "assets/board/motion-morphology-hurdling-trace/02-gesture-drawings.webp",
+        "assets/board/motion-morphology-hurdling-trace/03-joint-trajectories.webp",
+        "assets/board/motion-morphology-hurdling-trace/04-lofted-curves.webp",
+        "assets/board/motion-morphology-hurdling-trace/05-sliced-body-trace.webp",
+        "assets/board/motion-morphology-hurdling-trace/06-model-making.webp",
+        "assets/board/motion-morphology-hurdling-trace/07-ribbons-side.webp",
+        "assets/board/motion-morphology-hurdling-trace/08-ribbons-panels.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/motion-morphology-hurdling-trace/01-suspended-installation.webp"
+          ],
+          "captions": [
+            "The final installation hung in space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "懸掛於空間中的最終裝置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student trains as a hurdler and wanted to turn this movement into a spatial form. The project asks how running, leaping and landing could be held still as one object.",
+          "images": [
+            "assets/board/motion-morphology-hurdling-trace/02-gesture-drawings.webp"
+          ],
+          "captions": [
+            "Gesture drawings of eight frames from the jump."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生是一名跨欄選手，希望將這項運動轉化為空間形態。這個作品探問，奔跑、躍起與落地如何被凝結成單一物件。",
+              "captions": [
+                "跨欄動作中八個畫格的動態速寫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Still frames from practice videos were studied, and six key moments of the jump were picked out. The path of each joint was traced and the frames were layered into one composite drawing.",
+          "images": [
+            "assets/board/motion-morphology-hurdling-trace/03-joint-trajectories.webp"
+          ],
+          "captions": [
+            "Joint paths layered across the key frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究練習影片中的靜止畫格，並挑選出跨欄動作中的六個關鍵瞬間。每個關節的運動路徑都被描繪下來，並疊合成一張多畫格合成圖。",
+              "captions": [
+                "關鍵畫格中疊合的關節路徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The limb paths were lofted into smooth curves that pass through a row of vertical panels. These curves were then thickened into ribbons that read as a trace of the body in space.",
+          "images": [
+            "assets/board/motion-morphology-hurdling-trace/04-lofted-curves.webp",
+            "assets/board/motion-morphology-hurdling-trace/05-sliced-body-trace.webp",
+            "assets/board/motion-morphology-hurdling-trace/06-model-making.webp"
+          ],
+          "captions": [
+            "Lofted curves through the panels.",
+            "The body trace cut by the panels.",
+            "Shaping the ribbons."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "四肢的路徑被放樣成平滑曲線，穿過一列垂直板片。這些曲線再被加厚成帶狀體，成為身體在空間中留下的軌跡。",
+              "captions": [
+                "穿越板片的放樣曲線。",
+                "被板片切分的身體軌跡。",
+                "塑造帶狀體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final piece hangs panels, a frame and textured ribbons on thin wires. It turns the timing and rhythm of one jump into a ghosted memory of movement.",
+          "images": [
+            "assets/board/motion-morphology-hurdling-trace/07-ribbons-side.webp",
+            "assets/board/motion-morphology-hurdling-trace/08-ribbons-panels.webp"
+          ],
+          "captions": [
+            "Side view of the ribbons.",
+            "Ribbons between two panels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終作品以細線懸掛板片、框架與帶有質感的帶狀體。它將一次跨欄的節奏與時序，轉化為一段如殘影般的運動記憶。",
+              "captions": [
+                "帶狀體側視。",
+                "兩片板片之間的帶狀體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Film a movement you know.\n2. Pick its key frames.\n3. Trace the paths between them.\n4. Build the paths in space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 拍攝一個你熟悉的動作。\n2. 挑選它的關鍵畫格。\n3. 描繪畫格之間的路徑。\n4. 在空間中建構這些路徑。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
