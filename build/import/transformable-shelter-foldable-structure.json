@@ -1,0 +1,55 @@
+{
+  "project": "Transformable Shelter",
+  "dest": "assets/board/transformable-shelter-foldable-structure",
+  "note": "Portfolio 2cd4 pages 16-17 cropped to eight images, WebP q88 (PIL). Not used: title and inspiration text, reference photos of an existing building, size labels.",
+  "files": [
+    {
+      "name": "01-shelter-model-detail.webp",
+      "sha256": "bfb96ebc46afcd2502a8dc369deaad0a8502b2db8d6d7024759941913c8feb11",
+      "bytes": 90752,
+      "from": "2cd4 page 17 — shelter model close-up"
+    },
+    {
+      "name": "02-structure-studies.webp",
+      "sha256": "004a72de93d779fe4dd2dc6ad06d5eceea5198581a1e1021b51e642d9a6a5d46",
+      "bytes": 11852,
+      "from": "2cd4 page 16 — study of structure"
+    },
+    {
+      "name": "03-origami-studies.webp",
+      "sha256": "f2ad6b7c51494a362cc636b7ace6868c8ac63ec12f81f9cf662432cd53ce7854",
+      "bytes": 15850,
+      "from": "2cd4 page 16 — study of origami"
+    },
+    {
+      "name": "04-structure-combination.webp",
+      "sha256": "f9df8a0a3a83eabe67e730090554c24f514871f64664bbac021d27343dab730b",
+      "bytes": 12334,
+      "from": "2cd4 page 16 — combination of structure"
+    },
+    {
+      "name": "05-combination-views.webp",
+      "sha256": "6fce0f64280bf67ac0788254f6625eeeb6a9a76cb21fbe8ae006a1cb48ac99f6",
+      "bytes": 17622,
+      "from": "2cd4 page 16 — combination views"
+    },
+    {
+      "name": "06-study-model.webp",
+      "sha256": "f32c8ff73e2ee516446d694fcc43737db3094ba589b7c26afcac1aa536d62bb9",
+      "bytes": 51372,
+      "from": "2cd4 page 16 — study model"
+    },
+    {
+      "name": "07-folding-sequence.webp",
+      "sha256": "9a5046be50d267494a2bfdf4e33c2b1b7474921e216aeabaf196648120f54a02",
+      "bytes": 49638,
+      "from": "2cd4 page 17 — folding sequence by hand"
+    },
+    {
+      "name": "08-space-in-motion.webp",
+      "sha256": "7698a935d65aa0c409df3828bf392d127102a52190402ffc4fc3e1402fe2ec2a",
+      "bytes": 78468,
+      "from": "2cd4 page 17 — space in motion"
+    }
+  ]
+}
