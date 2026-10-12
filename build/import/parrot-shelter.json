@@ -1,0 +1,61 @@
+{
+  "project": "Parrot Shelter",
+  "dest": "assets/board/parrot-shelter",
+  "note": "Portfolio 871cf73b pages 3–5 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the cover and CV/contents pages, the title block with instructor credit and the parrot habits and depression study photos on page 3, the material photo column and case analysis photos on page 4, the site photo inset, and the scene rendering on page 5. No retouching.",
+  "files": [
+    {
+      "name": "01-woven-tree-model.webp",
+      "sha256": "b42745f621610ea94f665e2749e9cd1951f78745bacf2aa3a9878b65549a5904",
+      "bytes": 251854,
+      "from": "871cf73b page 3 — woven bamboo tree, x 0–28 %, y 0–100 %"
+    },
+    {
+      "name": "02-site-selection.webp",
+      "sha256": "9a199ce0c83b6a0623f178eea8bddde75adbcbc2b15a5e79072992f76421bebf",
+      "bytes": 94158,
+      "from": "page 4 — site selection map, x 0–22 %, y 2–32 %"
+    },
+    {
+      "name": "03-element-extraction-space-intention.webp",
+      "sha256": "550c8de581a0e663e8fe005d45f42c096697e02e169def52524e283a09e5ed8a",
+      "bytes": 179228,
+      "from": "page 4 — element extraction and space intention, x 26.8–49 %, y 0–100 %"
+    },
+    {
+      "name": "04-spatial-organization.webp",
+      "sha256": "10b586c8583c7da9db37edf6317dd3b00d6bb7e0dde41e941f5cc50e6ac8e7ee",
+      "bytes": 457174,
+      "from": "page 4 — spatial organization axonometric, x 50–84 %, y 0–100 %"
+    },
+    {
+      "name": "05-streamline-organization.webp",
+      "sha256": "76d87cffd11fc673b6306d6abf60bee6b4503a22a353545a3031ccb07ba5be18",
+      "bytes": 145218,
+      "from": "page 4 — streamline organization, plans 1F and 2F, x 84.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "06-section-a-a.webp",
+      "sha256": "44cee9587f90903ee3bc1edae3087275102b6d4caf83260e903d97a2591bf512",
+      "bytes": 278322,
+      "from": "page 5 — section A-A, x 0–50 %, y 0–57 %"
+    },
+    {
+      "name": "07-physical-model-1-10.webp",
+      "sha256": "1419cf7d6b02493d76f085127cc96d3c93149e32c21a210d26e1acdda6b22e09",
+      "bytes": 97054,
+      "from": "page 5 — physical model 1:10, x 25–50 %, y 58–100 %"
+    },
+    {
+      "name": "08-physical-model-1-3.webp",
+      "sha256": "9e4e28ef985bf372f79289f992e1cb59c88d3ca8ac537569fb9f2988b1c7c3ce",
+      "bytes": 172596,
+      "from": "page 5 — physical model 1:3, x 50.5–100 %, y 0–72 %"
+    },
+    {
+      "name": "09-physical-model-1-1.webp",
+      "sha256": "8f1967fc735c08c8b916679490c09f4d1be039386a9d7694d9a80e0d407e913c",
+      "bytes": 71266,
+      "from": "page 5 — physical model 1:1 details, x 50.5–100 %, y 72–100 %"
+    }
+  ]
+}
