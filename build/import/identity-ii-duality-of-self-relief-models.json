@@ -1,0 +1,55 @@
+{
+  "project": "Identity II: Duality of Self",
+  "dest": "assets/board/identity-ii-duality-of-self-relief-models",
+  "note": "Portfolio 2cd4 pages 12-13 cropped to eight images, WebP q88 (PIL). Not used: title and statement text, size labels.",
+  "files": [
+    {
+      "name": "01-intersecting-frameworks.webp",
+      "sha256": "909d18c4958f87e2a67a579980bd2ab3fd2a85ff08d9b39c5252f9ad036165bf",
+      "bytes": 35820,
+      "from": "2cd4 page 13 — intersecting frameworks model"
+    },
+    {
+      "name": "02-line-studies-a.webp",
+      "sha256": "0fbba008539c64afd63dd6b47ddf5744bb227a6aa131905cfa0fdafdb0ac341c",
+      "bytes": 22572,
+      "from": "2cd4 page 12 — line studies, first relief"
+    },
+    {
+      "name": "03-relief-collage-a.webp",
+      "sha256": "cdfe7e92772fbbec846e5149f93484c2b73f91907d538f64e0e18166e195dee7",
+      "bytes": 43870,
+      "from": "2cd4 page 12 — first relief collage"
+    },
+    {
+      "name": "04-line-studies-b.webp",
+      "sha256": "d7ae7c6d7ab4c4e4b79a791f25dcf780171dd3cd439caeb3977f3326d8dae2f2",
+      "bytes": 20806,
+      "from": "2cd4 page 12 — line studies, second relief"
+    },
+    {
+      "name": "05-relief-collage-b.webp",
+      "sha256": "3f76abce45fcfb942fb2cddeaf29cb7dbf9893261c47ebf92f5b0def9d413977",
+      "bytes": 98536,
+      "from": "2cd4 page 12 — second relief collage"
+    },
+    {
+      "name": "06-framework-top-view.webp",
+      "sha256": "3c7f440db7795bdf0b60ceab5f5ea478c14969021d13cbe4655e97081974d7bc",
+      "bytes": 19972,
+      "from": "2cd4 page 13 — framework model, top view"
+    },
+    {
+      "name": "07-framework-view-a.webp",
+      "sha256": "69658b67f6773a77db6973e7ca4aa0b82bb12879bd74ceb8edc9aab7edb3e3db",
+      "bytes": 11440,
+      "from": "2cd4 page 13 — framework model, side view one"
+    },
+    {
+      "name": "08-framework-view-b.webp",
+      "sha256": "6adaa4f3901b7f616c722a3e15b67978ba13a4c74a3580ed269f727f88ade261",
+      "bytes": 12168,
+      "from": "2cd4 page 13 — framework model, side view two"
+    }
+  ]
+}
