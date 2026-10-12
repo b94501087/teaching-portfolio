@@ -1,0 +1,61 @@
+{
+  "project": "Healing Anchor",
+  "dest": "assets/board/healing-anchor-factory-care-campus",
+  "note": "Portfolio 734e pages 24-27 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title and concept text, the demographics panel, the site photos, the interior renders with people and the body text.",
+  "files": [
+    {
+      "name": "01-healing-anchor-render.webp",
+      "sha256": "68cc460326827c5d10bb3c69414ec8bbf8e0394c3c5d7b3cd9e63e7a5702071f",
+      "bytes": 492996,
+      "from": "734e page 24 — render of the renewed factory"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "78ddcf10750d1ccb4187d65b29fd5ae3842c82766af850e03d110a2b5768431c",
+      "bytes": 67652,
+      "from": "734e page 25 — site analysis map"
+    },
+    {
+      "name": "03-urban-regeneration.webp",
+      "sha256": "46941aa1badc5285bf5785589b34bcf3abb88dfe11fb37d2a14b53f95ca32460",
+      "bytes": 74208,
+      "from": "734e page 25 — urban regeneration diagrams"
+    },
+    {
+      "name": "04-factory-planning-flow.webp",
+      "sha256": "eb008401697300e0bef913e8dca39bec3d1debc0845d5f0a345a4e7f60af71f4",
+      "bytes": 84954,
+      "from": "734e page 26 — factory area planning flow"
+    },
+    {
+      "name": "05-regenerative-synergy.webp",
+      "sha256": "0fd98d2257483857e9acd5bfb22e65b60c49bbe0fe2d9490763c576a9b02658c",
+      "bytes": 119664,
+      "from": "734e page 26 — regenerative synergy diagrams"
+    },
+    {
+      "name": "06-ground-floor-plan.webp",
+      "sha256": "edb324f8ed7af058d583f35bd905fa975cdbc16d59ac515a2ce0795eca712daa",
+      "bytes": 234920,
+      "from": "734e page 26 — ground floor plan"
+    },
+    {
+      "name": "07-care-hub-plan.webp",
+      "sha256": "7af67e8331bfa5f23fce5c16bb4c1d194d5aa6045329724e179685994323ee28",
+      "bytes": 67028,
+      "from": "734e page 27 — second floor care hub plan"
+    },
+    {
+      "name": "08-assisted-living-plan.webp",
+      "sha256": "52f77e75bdf49df8b7b836962f1ff153b9f02af1e1d7a0e65f8e8f85daace35b",
+      "bytes": 64792,
+      "from": "734e page 27 — third floor assisted living plan"
+    },
+    {
+      "name": "09-unit-plans.webp",
+      "sha256": "1a6092705a7a441997e4dc7fc1c8ddda14cc6f17113be630c08194e25ff9903a",
+      "bytes": 29172,
+      "from": "734e page 27 — care unit plans"
+    }
+  ]
+}
