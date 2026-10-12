@@ -1,0 +1,49 @@
+{
+  "project": "Consumption Binge",
+  "dest": "assets/board/consumption-binge-vertical-carnival",
+  "note": "Portfolio 1c9f pages 9–11 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the project information panel and title collage with photo faces on page 8, the background discovery collage on page 8, the location assumption with photo figures and aerial imagery and the design framework collage on page 9, the consumer phase column and the painting excerpts and reference photos on page 10, the participation mechanism with a mall floor plan on page 11, and the space organization renderings with photo figures on page 12. No retouching.",
+  "files": [
+    {
+      "name": "01-model-perspective.webp",
+      "sha256": "7d04836ab5ec8da1a2215f2545bf443b3ca5e6a992b8acd42f7722715b607268",
+      "bytes": 91944,
+      "from": "1c9f page 10 — model perspective, x 77.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-theoretical-research.webp",
+      "sha256": "5c476ebc9d91e1e513fddf2c92b061d5b0fe2131886f5a8ea03edd523a8c4525",
+      "bytes": 106120,
+      "from": "page 9 — theoretical research diagram, x 0–30.3 %, y 0–100 %"
+    },
+    {
+      "name": "03-type-by-morphology.webp",
+      "sha256": "f2092b994e4d35a04f3e9cdeee96f6adf7e62595700bc9875e21217022f94e85",
+      "bytes": 50206,
+      "from": "page 10 — type by morphology, x 50–64.5 %, y 0–100 %"
+    },
+    {
+      "name": "04-base-form.webp",
+      "sha256": "dfe2a23ac86cd00d595446c242e729fbb92cd6d451c52193ec2b4e4c2a5bdda3",
+      "bytes": 44678,
+      "from": "page 10 — base forms, x 64.5–76.6 %, y 0–100 %"
+    },
+    {
+      "name": "05-tower-section.webp",
+      "sha256": "90b7919b9e465ea7c19542a7616b7cd096240a04f3d64113ba59904d7a2f9ab7",
+      "bytes": 87210,
+      "from": "page 11 — experience tower section view, x 19.7–43 %, y 3–100 %"
+    },
+    {
+      "name": "06-architectural-composition.webp",
+      "sha256": "9e57338990dd06a7db19194e528beece5acd1e12395cf833bdf632068ebd0e07",
+      "bytes": 63280,
+      "from": "page 11 — architectural composition and routes, x 43.5–58.5 %, y 3–100 %"
+    },
+    {
+      "name": "07-space-installation.webp",
+      "sha256": "68a07f11384ef83d92997a34a770abf7864cb26f8c09781d919b3dab85d70282",
+      "bytes": 183876,
+      "from": "page 11 — space installation sequence, x 59.2–100 %, y 0–100 %"
+    }
+  ]
+}
