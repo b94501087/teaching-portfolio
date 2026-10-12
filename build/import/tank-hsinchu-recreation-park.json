@@ -1,0 +1,67 @@
+{
+  "project": "Tank Hsinchu",
+  "dest": "assets/board/tank-hsinchu-recreation-park",
+  "note": "Portfolio 10c5 pages 10–12 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title block with instructor name, the history photo collage, the aerial site photo, the case study photos, the existing sections, the renderings with photo people and the page numbers.",
+  "files": [
+    {
+      "name": "01-master-plan.webp",
+      "sha256": "045b5cc6153fb64fd979448d6d30599d6e7a0d4e8fb9c5267e3c75f75344b411",
+      "bytes": 217918,
+      "from": "10c5 page 11 — master plan with the running track loop, x 0–36.5 %, y 0–97 %"
+    },
+    {
+      "name": "02-urban-open-space.webp",
+      "sha256": "249e98d0843e8e15194baeb2a1291e573a8f2d7bf559b689ad5188aa32ea3f4e",
+      "bytes": 47062,
+      "from": "page 10 — urban open space map, x 50–69 %, y 3–50 %"
+    },
+    {
+      "name": "03-landuse.webp",
+      "sha256": "39942844fcd59c445b381569f571056aa9a0987352575f060c2c98fed0062f0e",
+      "bytes": 40904,
+      "from": "page 10 — landuse map around the site, x 50–69 %, y 50–97 %"
+    },
+    {
+      "name": "04-residents-needs.webp",
+      "sha256": "6b42aef7e4eb38dc11c76d8b01b9f76e10a1c8c92f14b53e377e2c726c2d84b4",
+      "bytes": 30804,
+      "from": "page 10 — space attribute and residents' need for activity spaces, x 69–85.5 %, y 3–55.5 %"
+    },
+    {
+      "name": "05-terrain-and-trees.webp",
+      "sha256": "7e0051344981da851e169958d1d89ce3fd08604bc43ab6b9bc0def34f61fa30d",
+      "bytes": 46564,
+      "from": "page 10 — energy value, elevation and preserved trees, x 85.5–100 %, y 1.2–75 %"
+    },
+    {
+      "name": "06-floor-plans.webp",
+      "sha256": "f8ac51068ebdf1ab0e365e158690c4d8f4012d1d055022f7ac8723d485cfd3d7",
+      "bytes": 75770,
+      "from": "page 11 — ground and upper floor plans, x 37–60 %, y 0–97 %"
+    },
+    {
+      "name": "07-zone-analysis.webp",
+      "sha256": "ade6dd4914e532015fea0dd9e88f36bd619930b38efaef58526db7681d1cb56c",
+      "bytes": 93590,
+      "from": "page 11 — functional, plants, sports zone and elevation design, x 63–100 %, y 3–94 %"
+    },
+    {
+      "name": "08-sectional-axonometric.webp",
+      "sha256": "347bdedbc90847809f0ea05490da9ec9e2649df02c1827ca91e3456d3cb9031c",
+      "bytes": 128092,
+      "from": "page 12 — sectional axonometric through the tanks, x 0–62 %, y 0–47 %"
+    },
+    {
+      "name": "09-tank-sections.webp",
+      "sha256": "9a812e508a7309758f546d25cd39c31492adeefc4eb346ccb5b02ec69cd178c1",
+      "bytes": 65828,
+      "from": "page 12 — sections of the four tanks, x 0–39 %, y 55–96 %"
+    },
+    {
+      "name": "10-skywalk-elevation.webp",
+      "sha256": "20b150c0043f502540695806a6a0a54f92bac96a5a0b9553e0087a192002466e",
+      "bytes": 18554,
+      "from": "page 12 — elevation of the skywalk, x 56–100 %, y 77–95.5 %"
+    }
+  ]
+}
