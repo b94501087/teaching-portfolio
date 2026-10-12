@@ -1,0 +1,49 @@
+{
+  "project": "Tranquil Retreat House",
+  "dest": "assets/board/tranquil-retreat-minimal-forest-house-model",
+  "note": "Portfolio c916 page 6 cropped to seven images, WebP q88 (PIL). Not used: title and text, process photo with a person.",
+  "files": [
+    {
+      "name": "01-top-view.webp",
+      "sha256": "0beb09c44df2626ea264a0910169fcff4fbe0d0a028cc17f2e3cae60da04a53b",
+      "bytes": 18102,
+      "from": "c916 page 6 — top view"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "2ff1999197e658525ddba3ba8a58cc263e8ee44cceed6a14fb2966fd22450173",
+      "bytes": 75276,
+      "from": "c916 page 6 — concept sketch"
+    },
+    {
+      "name": "03-process-a.webp",
+      "sha256": "5231773fd0701334d8930ea059c7225fedaa020748375254e826fb0b0fb31540",
+      "bytes": 16126,
+      "from": "c916 page 6 — process a"
+    },
+    {
+      "name": "04-process-b.webp",
+      "sha256": "f9521e023d5ffd82626a4e490a045050caf2485ca354e31dcd306f47f183331d",
+      "bytes": 8990,
+      "from": "c916 page 6 — process b"
+    },
+    {
+      "name": "05-night-views.webp",
+      "sha256": "4528229499258bb2a7545b965fea9cd552361e3cbc82a8a3e9923e687f198914",
+      "bytes": 12636,
+      "from": "c916 page 6 — night views"
+    },
+    {
+      "name": "06-interiors.webp",
+      "sha256": "62e82319ece8825e1cba4c9fd7b8d1b4a8698221896e538e71e688f850e8fc4f",
+      "bytes": 21036,
+      "from": "c916 page 6 — interiors"
+    },
+    {
+      "name": "07-side-view.webp",
+      "sha256": "0cdc250f15539a1ee75e9b75d1f67c67c7b82bebd5d2c61e635c8040925edb64",
+      "bytes": 8490,
+      "from": "c916 page 6 — side view"
+    }
+  ]
+}
