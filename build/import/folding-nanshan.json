@@ -1,0 +1,55 @@
+{
+  "project": "Folding Nanshan",
+  "dest": "assets/board/folding-nanshan",
+  "note": "Portfolio bffa1381 pages 2–5 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the contents page, the title panel with a city photo, the photo strip on page 2, the rendering with a photo cut-out figure on page 4, and the aerial photo row on page 5. No retouching.",
+  "files": [
+    {
+      "name": "01-dynamic-physical-model.webp",
+      "sha256": "d3a1b05724dbf8ae6ead5a3f2bec68a09e22b5f3f690700769fa3c4887b3ac14",
+      "bytes": 341054,
+      "from": "bffa1381 page 5 — dynamic physical model, x 0–50 %, y 25–100 %"
+    },
+    {
+      "name": "02-demographic-activity-analysis.webp",
+      "sha256": "0b3a9d4574775566340996f1be53eabc5cf19f68a8985b16fee2fd74c3f382ca",
+      "bytes": 174726,
+      "from": "page 2 — demographic and activity area analysis, x 68–100 %, y 0–70 %"
+    },
+    {
+      "name": "03-land-use-analysis.webp",
+      "sha256": "ab9f99737702db8256a4fc545ae403b22978745d7b6c46ab021bbda4df0c30b4",
+      "bytes": 131404,
+      "from": "page 3 — land-use analysis, x 0–25 %, y 6–100 %"
+    },
+    {
+      "name": "04-house-price-and-policy-map.webp",
+      "sha256": "35e19c929424a5f7c7a0380c2a4c2f69985dbe6d92b5f6920df34e2044fbafd9",
+      "bytes": 353448,
+      "from": "page 3 — house prices, admission and entrepreneurship policy maps, x 25–77 %, y 6–100 %"
+    },
+    {
+      "name": "05-population-density-conclusion.webp",
+      "sha256": "72e5b34f603a2b9c44c7a1814b5d593a2fb1b81f5011f4e824edb721370fe134",
+      "bytes": 54876,
+      "from": "page 3 — conclusion map of population density, x 77–100 %, y 6–100 %"
+    },
+    {
+      "name": "06-master-plan-reorganisation.webp",
+      "sha256": "1573d240fa0c73c1d46b3a89a1bcc1a4e3bbc5591e1719118d03753cb1bad95c",
+      "bytes": 83726,
+      "from": "page 4 — master plan reorganisation, x 0–23 %, y 0–100 %"
+    },
+    {
+      "name": "07-program-analysis.webp",
+      "sha256": "f86bc6a4b21deddcbbe4c187bf231e82e0985d335322941584e607b5c4901d74",
+      "bytes": 146760,
+      "from": "page 4 — program analysis, x 23–50 %, y 0–100 %"
+    },
+    {
+      "name": "08-design-language.webp",
+      "sha256": "21220f5bca1f95ebab03ce517be56b9814c842d1a43c93f3e0bef7c4f14666ba",
+      "bytes": 149694,
+      "from": "page 4 — design language, x 50–100 %, y 0–48 %"
+    }
+  ]
+}
