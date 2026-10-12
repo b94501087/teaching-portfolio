@@ -1,0 +1,37 @@
+{
+  "project": "Weaving Back the Sugar Factory",
+  "dest": "assets/board/weaving-back-the-sugar-factory",
+  "note": "Portfolio ba4c pages 21-23 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the title page, the site photo collage, the population panel and silk-making collage with photo figures, renders with people, and the body text.",
+  "files": [
+    {
+      "name": "01-factory-aerial.webp",
+      "sha256": "d49be6446d9791e77ecc6c5e0af285bde55b2d0d3fa024777319994cb5b5afea",
+      "bytes": 79836,
+      "from": "ba4c page 23 — aerial render of the regenerated factory"
+    },
+    {
+      "name": "02-internal-factors.webp",
+      "sha256": "9650aecc650ab47f185e391f264ec2970a8df3c6c4cd2966f5d614f0ef3514f8",
+      "bytes": 48138,
+      "from": "ba4c page 21 — internal factors analysis"
+    },
+    {
+      "name": "04-form-extraction.webp",
+      "sha256": "fd6dff28dd68b7e1176e40864ba512ea28fc3a9b5d381748727b5d9f2ee09643",
+      "bytes": 17186,
+      "from": "ba4c page 21 — form extraction from silk making"
+    },
+    {
+      "name": "05-strategy.webp",
+      "sha256": "c99b70235f47e09e4890f960477d066ac7b045d2bac3a5402145e54be0b43123",
+      "bytes": 84536,
+      "from": "ba4c page 21 — five strategies"
+    },
+    {
+      "name": "06-masterplan.webp",
+      "sha256": "ab3a51d627d18812b9a251abaec7adc1ff4703593aa8a234e59af373c137259a",
+      "bytes": 244446,
+      "from": "ba4c page 22 — masterplan"
+    }
+  ]
+}
