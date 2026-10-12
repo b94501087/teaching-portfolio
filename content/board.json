@@ -32001,6 +32001,586 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Sediment, Tide, and Habitat",
+      "slug": "sediment-tide-and-habitat",
+      "description": "A coastal landscape that uses sediment and tide to restore wetland habitat on a delta edge.\n\nGuangzhou | Coastal landscape | Habitat restoration | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "沉積、潮汐與棲地",
+          "description": "以沉積與潮汐修復三角洲邊緣濕地棲地的海岸地景。\n\n廣州｜海岸地景｜棲地修復｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sediment-tide-and-habitat/01-coastal-park-view.webp",
+        "assets/board/sediment-tide-and-habitat/02-flood-and-bird-map.webp",
+        "assets/board/sediment-tide-and-habitat/03-storm-surge-scenarios.webp",
+        "assets/board/sediment-tide-and-habitat/04-wetland-section.webp",
+        "assets/board/sediment-tide-and-habitat/05-changing-coastal-landscape.webp",
+        "assets/board/sediment-tide-and-habitat/06-evolving-habitat-pattern.webp",
+        "assets/board/sediment-tide-and-habitat/07-species-diagram.webp",
+        "assets/board/sediment-tide-and-habitat/08-landscape-over-time.webp",
+        "assets/board/sediment-tide-and-habitat/09-habitat-renderings.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sediment-tide-and-habitat/01-coastal-park-view.webp"
+          ],
+          "captions": [
+            "A coastal park where people and wetland habitat share the edge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "人與濕地棲地共享水岸的海岸公園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The low-lying delta coast faces rising seas, storm surges and shrinking habitat for birds and fish. Hard embankments hold back water but cut the land off from the tide.",
+          "images": [
+            "assets/board/sediment-tide-and-habitat/02-flood-and-bird-map.webp"
+          ],
+          "captions": [
+            "Flood risk and bird distribution across the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "低窪的三角洲海岸面臨海平面上升、風暴潮，以及鳥類與魚類棲地縮減。堅硬的堤岸雖能擋水，卻讓土地與潮汐斷開。",
+              "captions": [
+                "基地的淹水風險與鳥類分布。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The study maps flooding, bird species and how the coast reacts when surges overtop the embankment. These scenarios show where wetland can absorb water instead of resisting it.",
+          "images": [
+            "assets/board/sediment-tide-and-habitat/03-storm-surge-scenarios.webp",
+            "assets/board/sediment-tide-and-habitat/04-wetland-section.webp"
+          ],
+          "captions": [
+            "Storm surge scenarios along the river embankment.",
+            "Section through freshwater and brackish wetland."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究繪製淹水、鳥類物種，以及風暴潮越過堤岸時海岸的反應。這些情境指出濕地可以吸納而非抵擋海水的位置。",
+              "captions": [
+                "沿河堤岸的風暴潮情境。",
+                "淡水與半鹹水濕地剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sediment, tide and planting are treated as tools that slowly reshape the coastline. Woodland, shrub, wetland and creek habitats are arranged as a pattern that keeps evolving.",
+          "images": [
+            "assets/board/sediment-tide-and-habitat/05-changing-coastal-landscape.webp",
+            "assets/board/sediment-tide-and-habitat/06-evolving-habitat-pattern.webp",
+            "assets/board/sediment-tide-and-habitat/07-species-diagram.webp"
+          ],
+          "captions": [
+            "Changing coastal landscape and habitat tendencies.",
+            "A constantly evolving pattern of habitats.",
+            "Plant and animal species for each habitat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "沉積、潮汐與植栽被視為慢慢重塑海岸線的工具。林地、灌叢、濕地與潮溝棲地被編排成一套持續演化的格局。",
+              "captions": [
+                "變動中的海岸地景與棲地趨勢。",
+                "持續演化的棲地格局。",
+                "各棲地對應的動植物物種。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The landscape is drawn across several future stages as land and water trade places. Paths and platforms let visitors walk through the wetland without disturbing the birds.",
+          "images": [
+            "assets/board/sediment-tide-and-habitat/08-landscape-over-time.webp",
+            "assets/board/sediment-tide-and-habitat/09-habitat-renderings.webp"
+          ],
+          "captions": [
+            "The landscape across future stages.",
+            "Renderings of the restored habitats."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "地景在多個未來階段中被描繪，呈現陸地與水域的消長。步道與平台讓訪客穿越濕地，又不打擾鳥類。",
+              "captions": [
+                "地景在未來各階段的樣貌。",
+                "修復後棲地的透視圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the coast as a moving system.\n2. Map water and wildlife together.\n3. Design in stages over time.\n4. Let nature do part of the work.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把海岸當作移動中的系統來閱讀。\n2. 同時繪製水與野生動物。\n3. 隨時間分階段設計。\n4. 讓自然完成部分工作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Sawtooth Horizons",
+      "slug": "sawtooth-horizons-cultural-centre",
+      "description": "A cultural centre under a folded sawtooth roof that filters daylight into four programs.\n\nTartu | Cultural centre | Folded roof | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鋸齒地平線",
+          "description": "在折板鋸齒屋頂下過濾日光、容納四種機能的文化中心。\n\n塔爾圖｜文化中心｜折板屋頂｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sawtooth-horizons-cultural-centre/01-folded-roof-model.webp",
+        "assets/board/sawtooth-horizons-cultural-centre/02-generating-the-folded-roof.webp",
+        "assets/board/sawtooth-horizons-cultural-centre/03-system-decomposition.webp",
+        "assets/board/sawtooth-horizons-cultural-centre/04-concept-models.webp",
+        "assets/board/sawtooth-horizons-cultural-centre/05-ground-plan.webp",
+        "assets/board/sawtooth-horizons-cultural-centre/06-daylight-sections.webp",
+        "assets/board/sawtooth-horizons-cultural-centre/07-structure-details.webp",
+        "assets/board/sawtooth-horizons-cultural-centre/08-aerial-view.webp",
+        "assets/board/sawtooth-horizons-cultural-centre/09-model-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sawtooth-horizons-cultural-centre/01-folded-roof-model.webp"
+          ],
+          "captions": [
+            "Model of the folded sawtooth roof."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "折板鋸齒屋頂模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A library, art museum, restaurant and theatre must share one building without losing their own character. The project looks for a single roof that can hold these programs together.",
+          "images": [
+            "assets/board/sawtooth-horizons-cultural-centre/02-generating-the-folded-roof.webp",
+            "assets/board/sawtooth-horizons-cultural-centre/03-system-decomposition.webp"
+          ],
+          "captions": [
+            "Generating the folded roof.",
+            "The building taken apart into roof, auditorium, structure, ramp and base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "圖書館、美術館、餐廳與劇場必須共用一棟建築，又不失各自的性格。這個專案尋找一片能把這些機能整合起來的屋頂。",
+              "captions": [
+                "折板屋頂的生成。",
+                "拆解為屋頂、觀眾席、結構、坡道與基座的建築系統。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Concept models test a looping ramp threaded under a folded surface. The ground below breaks into fragments that become separate rooms and courtyards.",
+          "images": [
+            "assets/board/sawtooth-horizons-cultural-centre/04-concept-models.webp",
+            "assets/board/sawtooth-horizons-cultural-centre/05-ground-plan.webp"
+          ],
+          "captions": [
+            "Concept collage and study models.",
+            "Fragmented ground and plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "概念模型測試一條穿行於折板之下的迴圈坡道。下方的地面被打散成片段，形成各自獨立的房間與庭院。",
+              "captions": [
+                "概念拼貼與研究模型。",
+                "破碎化的地面與平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The sawtooth folds turn away from direct sun and let soft light fall into the halls below. Roof, supports and base are detailed as three layers that work together.",
+          "images": [
+            "assets/board/sawtooth-horizons-cultural-centre/06-daylight-sections.webp",
+            "assets/board/sawtooth-horizons-cultural-centre/07-structure-details.webp"
+          ],
+          "captions": [
+            "Sections showing the roof as a daylight filter.",
+            "Details of roof, support and base structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "鋸齒折板避開直射陽光，讓柔和的光線灑入下方空間。屋頂、支撐與基座被細化為三個彼此配合的層次。",
+              "captions": [
+                "呈現屋頂作為採光濾網的剖面。",
+                "屋頂、支撐與基座結構細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The roof steps down toward the river and links the building with the landscape. Ramps lead visitors from the ground up across the folds.",
+          "images": [
+            "assets/board/sawtooth-horizons-cultural-centre/08-aerial-view.webp",
+            "assets/board/sawtooth-horizons-cultural-centre/09-model-views.webp"
+          ],
+          "captions": [
+            "Aerial view toward the river.",
+            "Views of the final model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "屋頂朝河岸逐級下降，將建築與地景相連。坡道引導訪客從地面一路走上折板。",
+              "captions": [
+                "朝向河岸的鳥瞰。",
+                "最終模型視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find one gesture that unites many programs.\n2. Let light shape the section.\n3. Take the building apart into systems.\n4. Test the idea in physical models.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出一個能整合多種機能的手勢。\n2. 讓光線形塑剖面。\n3. 把建築拆解成系統。\n4. 以實體模型測試想法。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Under the Hood",
+      "slug": "under-the-hood-plug-in-city",
+      "description": "A plug-in city that grows over a coastal gas station inside a leaning truss frame.\n\nLos Angeles | Plug-in city | Mixed use | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "引擎蓋之下",
+          "description": "在傾斜桁架中、於海岸加油站上方生長的插入式城市。\n\n洛杉磯｜插入式城市｜混合使用｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/under-the-hood-plug-in-city/01-plug-in-model.webp",
+        "assets/board/under-the-hood-plug-in-city/02-time-made-visible.webp",
+        "assets/board/under-the-hood-plug-in-city/03-time-slices-frame.webp",
+        "assets/board/under-the-hood-plug-in-city/04-exploded-section.webp",
+        "assets/board/under-the-hood-plug-in-city/05-model-elevation.webp",
+        "assets/board/under-the-hood-plug-in-city/06-section.webp",
+        "assets/board/under-the-hood-plug-in-city/07-model-views.webp",
+        "assets/board/under-the-hood-plug-in-city/08-plan.webp",
+        "assets/board/under-the-hood-plug-in-city/09-aerial-view.webp",
+        "assets/board/under-the-hood-plug-in-city/10-sectional-axonometric.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/under-the-hood-plug-in-city/01-plug-in-model.webp"
+          ],
+          "captions": [
+            "The plug-in structure seen up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "近看插入式結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A gas station at a busy coastal crossroads sits between the highway, the hills and the beach. The project asks how a small site could grow into a mixed housing and commercial city.",
+          "images": [
+            "assets/board/under-the-hood-plug-in-city/02-time-made-visible.webp"
+          ],
+          "captions": [
+            "A material study that makes time visible."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座加油站位於繁忙的海岸路口，夾在公路、山丘與海灘之間。這個專案提問：一塊小基地如何長成混合住宅與商業的城市。",
+              "captions": [
+                "讓時間變得可見的材料研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A material study records how a soft block changes shape over time. This idea of slow change becomes the rule for how the building is added to and rearranged.",
+          "images": [
+            "assets/board/under-the-hood-plug-in-city/03-time-slices-frame.webp",
+            "assets/board/under-the-hood-plug-in-city/04-exploded-section.webp"
+          ],
+          "captions": [
+            "Time slices inserted into a fixed truss frame.",
+            "Exploded section of the stacked programs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "材料研究記錄一塊柔軟材料隨時間改變形狀的過程。這種緩慢變化的概念，成為建築如何被增加與重新排列的規則。",
+              "captions": [
+                "插入固定桁架中的時間切片。",
+                "堆疊機能的爆炸剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A fixed truss frame receives new volumes in successive slices that are lifted, rotated and moved. The structure stays continuous while the uses inside keep shifting.",
+          "images": [
+            "assets/board/under-the-hood-plug-in-city/05-model-elevation.webp",
+            "assets/board/under-the-hood-plug-in-city/06-section.webp",
+            "assets/board/under-the-hood-plug-in-city/07-model-views.webp"
+          ],
+          "captions": [
+            "Model elevation of the leaning frame.",
+            "Section through the frame and the hillside.",
+            "Front and back views of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "固定的桁架結構以連續切片的方式接納新量體，並將其抬升、旋轉與移動。結構保持連續，內部的使用方式則不斷變動。",
+              "captions": [
+                "傾斜框架的模型立面。",
+                "穿過框架與山坡的剖面。",
+                "模型的正面與背面視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The tower leans toward the ocean and drops a network of floors over the old station. It reads less like a finished object and more like an architecture that is always being rewritten.",
+          "images": [
+            "assets/board/under-the-hood-plug-in-city/08-plan.webp",
+            "assets/board/under-the-hood-plug-in-city/09-aerial-view.webp",
+            "assets/board/under-the-hood-plug-in-city/10-sectional-axonometric.webp"
+          ],
+          "captions": [
+            "Plan of the floor network.",
+            "Aerial view with the coastal hills.",
+            "Sectional axonometric of the stacked floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "塔樓向海洋傾斜，在舊加油站上方鋪展出一套樓板網絡。它不像完成的物件，更像一座不斷被改寫的建築。",
+              "captions": [
+                "樓板網絡平面。",
+                "與海岸山丘一同呈現的鳥瞰。",
+                "堆疊樓板的剖面軸測。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Turn a material test into a design rule.\n2. Separate the lasting frame from changing uses.\n3. Design for growth over time.\n4. Draw the building in slices.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把材料實驗轉化為設計規則。\n2. 區分恆常的框架與變動的使用。\n3. 為隨時間成長而設計。\n4. 以切片繪製建築。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Inhabited",
+      "slug": "inhabited-machine-school-addition",
+      "description": "A long fabrication addition where machines and students share one translucent building.\n\nLos Angeles | Education | Fabrication addition | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "棲居",
+          "description": "機器與學生共享一棟半透明建築的長條加工增建。\n\n洛杉磯｜教育建築｜加工增建｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/inhabited-machine-school-addition/01-model-overview.webp",
+        "assets/board/inhabited-machine-school-addition/02-linear-framework-variations.webp",
+        "assets/board/inhabited-machine-school-addition/03-volume-sketches.webp",
+        "assets/board/inhabited-machine-school-addition/04-site-axonometric.webp",
+        "assets/board/inhabited-machine-school-addition/05-plans.webp",
+        "assets/board/inhabited-machine-school-addition/06-long-section.webp",
+        "assets/board/inhabited-machine-school-addition/07-night-elevation.webp",
+        "assets/board/inhabited-machine-school-addition/08-volume-models.webp",
+        "assets/board/inhabited-machine-school-addition/09-model-details.webp",
+        "assets/board/inhabited-machine-school-addition/10-long-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/inhabited-machine-school-addition/01-model-overview.webp"
+          ],
+          "captions": [
+            "Model of the long building and its inserted volumes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "長條建築與插入量體的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A long school building beside a former rail corridor needs more space for making and fabrication. The project treats machines, not only people, as the main users of the new addition.",
+          "images": [
+            "assets/board/inhabited-machine-school-addition/02-linear-framework-variations.webp",
+            "assets/board/inhabited-machine-school-addition/03-volume-sketches.webp"
+          ],
+          "captions": [
+            "A base linear framework and its volume variations.",
+            "Sketches of the inserted volumes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一棟緊鄰舊鐵道走廊的長條校舍，需要更多製作與加工空間。這個專案把機器而不只是人，視為新增建築的主要使用者。",
+              "captions": [
+                "基礎線性框架與量體變化。",
+                "插入量體的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A continuous linear volume is tested in many versions that sink, lift, attach or tilt. Each move opens the ground below for movement and gathering.",
+          "images": [
+            "assets/board/inhabited-machine-school-addition/04-site-axonometric.webp",
+            "assets/board/inhabited-machine-school-addition/05-plans.webp"
+          ],
+          "captions": [
+            "Site axonometric with workshops, printing, lecture halls and library.",
+            "Plans of the linear building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一個連續的線性量體被測試成下沉、抬升、附掛或傾斜等多種版本。每個動作都讓下方地面釋放出來，供人通行與聚集。",
+              "captions": [
+                "標示工作坊、印刷、演講廳與圖書館的基地軸測。",
+                "線性建築平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Workshops, printing rooms, lecture halls and a library are placed as separate volumes along the line. A shared circulation spine ties them together while machines keep working inside.",
+          "images": [
+            "assets/board/inhabited-machine-school-addition/06-long-section.webp",
+            "assets/board/inhabited-machine-school-addition/08-volume-models.webp"
+          ],
+          "captions": [
+            "Long section through workshops and halls.",
+            "Models of the volumes and circulation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "工作坊、印刷室、演講廳與圖書館以獨立量體沿線排列。一條共享的動線主軸將它們串起，機器則在其中持續運作。",
+              "captions": [
+                "穿過工作坊與演講廳的長剖面。",
+                "量體與動線的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The addition reads as one long translucent bar lit from within at night. Production, learning and climate control become part of the same continuous machine.",
+          "images": [
+            "assets/board/inhabited-machine-school-addition/07-night-elevation.webp",
+            "assets/board/inhabited-machine-school-addition/09-model-details.webp",
+            "assets/board/inhabited-machine-school-addition/10-long-model.webp"
+          ],
+          "captions": [
+            "Night elevation of the translucent bar.",
+            "Model details.",
+            "The long model seen from the street."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "新增建築呈現為一條在夜間由內透光的半透明長條。生產、學習與氣候調節成為同一部連續機器的一部分。",
+              "captions": [
+                "半透明長條的夜間立面。",
+                "模型細部。",
+                "從街道看長條模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask who the real user is.\n2. Start with one simple line.\n3. Test many variations of the same volume.\n4. Let the section tell the story.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 問清楚真正的使用者是誰。\n2. 從一條簡單的線開始。\n3. 測試同一量體的多種變化。\n4. 讓剖面說故事。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
