@@ -19208,6 +19208,534 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Second Nature 2060",
+      "slug": "second-nature-2060-shenzhen",
+      "description": "A speculative cultural landmark for Shenzhen, seen from 2060, built from the blocks of its local cultures.\n\nShenzhen, China | Cultural landmark | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "第二自然 2060",
+          "description": "從 2060 年回望的深圳文化地標，以在地文化的量塊構成。\n\n中國深圳｜文化地標｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/second-nature-2060-shenzhen/01-firefly-vr-venue.webp",
+        "assets/board/second-nature-2060-shenzhen/02-design-inspiration.webp",
+        "assets/board/second-nature-2060-shenzhen/03-building-blocks-from-local-cultures.webp",
+        "assets/board/second-nature-2060-shenzhen/04-app-guided-section.webp",
+        "assets/board/second-nature-2060-shenzhen/05-functional-partition.webp",
+        "assets/board/second-nature-2060-shenzhen/06-book-corner.webp",
+        "assets/board/second-nature-2060-shenzhen/07-gallery-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/second-nature-2060-shenzhen/01-firefly-vr-venue.webp"
+          ],
+          "captions": [
+            "VR experience venue: fireflies and glowing jellyfish fill a dark exhibition hall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "VR 體驗館：螢火蟲與發光的水母布滿幽暗的展廳。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project imagines how people in 2060 will look back on the new landmarks of Shenzhen built for the city's fortieth anniversary in 2020. Because of its short history and lack of cultural facilities, Shenzhen has long been called a cultural desert compared with the other first-tier cities.",
+          "images": [
+            "assets/board/second-nature-2060-shenzhen/02-design-inspiration.webp"
+          ],
+          "captions": [
+            "Design inspiration: local cultures that once ran in parallel begin to flow, meet and converge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案想像 2060 年的人們，將如何回望深圳在 2020 年建城四十週年時所建造的新地標。由於歷史短、文化設施不足，深圳與其他一線城市相比，長期被稱為文化沙漠。",
+              "captions": [
+                "設計靈感：原本平行的各地文化開始流動、交會並匯聚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Data on Shenzhen's population showed that most residents came from other provinces, and visits to bookstores, galleries and museums were lower than in the other three first-tier cities. Before the Special Economic Zone, the cultures of different regions were in sporadic contact, but afterwards they began to flow together and converge.",
+          "images": [
+            "assets/board/second-nature-2060-shenzhen/03-building-blocks-from-local-cultures.webp"
+          ],
+          "captions": [
+            "Four architectural cultures turned step by step into building blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "深圳的人口數據顯示，大多數居民來自其他省份，而書店、美術館與博物館的人均造訪次數，也低於其他三座一線城市。在經濟特區成立之前，各地文化只是零星接觸，特區成立之後，它們開始交流並匯聚在一起。",
+              "captions": [
+                "把四種建築文化逐步轉化為建築量塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Four traditional architectural cultures of the city were simplified into outlines and turned into building blocks for the new landmark. Inside, the blocks hold cultural and recreational uses such as a viewing platform, a book corner, a history gallery, a VR experience venue and exhibition spaces, guided by a phone app.",
+          "images": [
+            "assets/board/second-nature-2060-shenzhen/04-app-guided-section.webp",
+            "assets/board/second-nature-2060-shenzhen/05-functional-partition.webp"
+          ],
+          "captions": [
+            "An exploded section shown through a phone guide, with the visiting pathways.",
+            "Functional partition of the cultural and recreational spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "城市中四種傳統建築文化被簡化成輪廓，轉化為新地標的建築量塊。量塊內部容納觀景台、書角、歷史展廊、VR 體驗館與展覽空間等文化與休閒機能，並以手機應用程式導覽。",
+              "captions": [
+                "透過手機導覽呈現的爆炸剖面，以及參觀動線。",
+                "文化與休閒空間的機能分區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the VR venue, species that have disappeared, such as fireflies, flutter again, and the book corner asks whether paper books still have a place next to new technology. In the galleries visitors scan their phones to see the stories of each year of the city's forty-year history.",
+          "images": [
+            "assets/board/second-nature-2060-shenzhen/06-book-corner.webp",
+            "assets/board/second-nature-2060-shenzhen/07-gallery-views.webp"
+          ],
+          "captions": [
+            "The book corner, where a screen and a stack of books meet.",
+            "Gallery views of the history exhibition and the screens of the city's stories."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在 VR 體驗館中，螢火蟲等已消失的物種重新飛舞；書角則提問：在新科技旁，紙本書是否仍有一席之地。在展廊中，參觀者以手機掃描，就能看見城市四十年歷史中每一年的故事。",
+              "captions": [
+                "書角：螢幕與一疊疊書本在此相遇。",
+                "歷史展覽的展廊，以及呈現城市故事的螢幕。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Imagine the future looking back.\n2. Let data show what the city lacks.\n3. Turn local cultures into blocks.\n4. Ask what new technology should keep.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 想像未來如何回望現在。\n2. 讓數據說出城市缺少什麼。\n3. 把在地文化轉化為量塊。\n4. 提問新科技應該保留什麼。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "An Experiment in Empathy",
+      "slug": "an-experiment-in-empathy",
+      "description": "An exhibition of five spaces that lets visitors feel how people with different senses may experience the world.\n\nExperimental | Exhibition design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "同理心實驗",
+          "description": "由五個空間組成的展覽，讓參觀者感受感官不同的人可能如何經驗這個世界。\n\n實驗性｜展覽設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/an-experiment-in-empathy/01-five-parts-design-development.webp",
+        "assets/board/an-experiment-in-empathy/02-spatial-components-matrix.webp",
+        "assets/board/an-experiment-in-empathy/03-physical-model.webp",
+        "assets/board/an-experiment-in-empathy/04-depressive-disorder-space.webp",
+        "assets/board/an-experiment-in-empathy/05-tube-and-pole-sketches.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/an-experiment-in-empathy/01-five-parts-design-development.webp"
+          ],
+          "captions": [
+            "Five parts of the exhibition, each developed from small spatial components."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "展覽的五個部分，各自由小型空間構件發展而來。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "It can be hard to empathise with people whose senses work differently, because their feelings are difficult to describe accurately. The project began with a mother who only understood her autistic son's fear of everyday sounds after seeing his world through a VR headset.",
+          "images": [
+            "assets/board/an-experiment-in-empathy/02-spatial-components-matrix.webp"
+          ],
+          "captions": [
+            "Spatial components for each condition, such as barriers, memory fragments, an emotional abyss and boundless walls."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "感官運作方式與我們不同的人，他們的感受很難被準確描述，因此也不容易被同理。本案的起點是一位母親：她透過 VR 頭戴裝置看見自閉症兒子眼中的世界後，才真正理解他對日常聲音的恐懼。",
+              "captions": [
+                "每一種狀況的空間構件，例如障礙、記憶碎片、情緒深淵與無邊之牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student looked into what we call common sense, the shared experiences of things that most people take as the default. Cases of sensory differences were collected for autism, Alzheimer's disease, depressive disorder, colour blindness and visual impairment, to understand how each might perceive daily life.",
+          "images": [
+            "assets/board/an-experiment-in-empathy/03-physical-model.webp"
+          ],
+          "captions": [
+            "Physical model at 1:50 of the spatial components."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生探討我們所謂的常識，也就是大多數人視為理所當然的共同經驗。研究收集了自閉症、阿茲海默症、憂鬱症、色盲與視覺障礙等感官差異的案例，試著理解他們可能如何感知日常生活。",
+              "captions": [
+                "空間構件的 1:50 實體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each experience was translated into small spatial components and tested in models. The exhibition is divided into five sections, so that visitors entering different areas can experience different sensations.",
+          "images": [
+            "assets/board/an-experiment-in-empathy/04-depressive-disorder-space.webp"
+          ],
+          "captions": [
+            "Depressive disorder: a spiralling space developed from sketches of feeling lost and falling."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每一種經驗都被轉化為小型的空間構件，並以模型測試。展覽分為五個區域，讓參觀者走進不同區域時，能體驗到不同的感受。",
+              "captions": [
+                "憂鬱症：由迷失與墜落感的草圖發展出的螺旋空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Tubes, poles, spirals and spheres turn each condition into a space that can be walked through and felt. The student concludes that full empathy may not be possible, but trying to understand others' feelings is a positive and necessary gesture.",
+          "images": [
+            "assets/board/an-experiment-in-empathy/05-tube-and-pole-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of a tube passage and a forest of poles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "管道、立柱、螺旋與球體，把每一種狀況轉化為可以走進、可以感受的空間。學生的結論是：完全的同理或許不可能，但嘗試理解他人的感受，是一個正向而必要的姿態。",
+              "captions": [
+                "管道通道與立柱森林的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one real story.\n2. Question what feels like common sense.\n3. Turn each feeling into a component.\n4. Let visitors feel it in space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個真實的故事開始。\n2. 質疑那些看似常識的事。\n3. 把每一種感受轉化為構件。\n4. 讓參觀者在空間中親身感受。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "A Midsummer Night’s Dream",
+      "slug": "a-midsummer-nights-dream-stage",
+      "description": "A stage redesign for Shakespeare's comedy, with levels for reality, the dream and the change between them.\n\nLondon, UK | Stage design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "仲夏夜之夢",
+          "description": "為莎士比亞喜劇重新設計的舞台，以不同層次承載現實、夢境與兩者之間的轉換。\n\n英國倫敦｜舞台設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/a-midsummer-nights-dream-stage/01-spiral-ground-and-revolving-stages.webp",
+        "assets/board/a-midsummer-nights-dream-stage/02-story-introduction.webp",
+        "assets/board/a-midsummer-nights-dream-stage/03-dream-within-a-dream-concepts.webp",
+        "assets/board/a-midsummer-nights-dream-stage/04-stage-concept-sketch.webp",
+        "assets/board/a-midsummer-nights-dream-stage/05-exploded-layers.webp",
+        "assets/board/a-midsummer-nights-dream-stage/06-inner-and-outer-layers.webp",
+        "assets/board/a-midsummer-nights-dream-stage/07-cyclorama-and-suspended-stage.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/a-midsummer-nights-dream-stage/01-spiral-ground-and-revolving-stages.webp"
+          ],
+          "captions": [
+            "Spiral double-staircase, ground floor and revolving stages, moving between reality and the dream."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "螺旋雙梯舞台、地面舞台與旋轉舞台，在現實與夢境之間轉換。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "After reading the original script and seeing a stage production of A Midsummer Night's Dream, the student wanted to redesign the stage and offer a personal reading of this absurd comedy. In the play, the city and the forest stand for waking and sleeping, the real and the dream, and the change between them begins at moonrise and ends at dawn.",
+          "images": [
+            "assets/board/a-midsummer-nights-dream-stage/02-story-introduction.webp"
+          ],
+          "captions": [
+            "The story told in seven scenes, from the palace to the forest and back to the wedding."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在讀過《仲夏夜之夢》的原著劇本、看過它的舞台製作後，學生希望重新設計舞台，提出自己對這齣荒誕喜劇的詮釋。劇中的城市與森林代表清醒與沉睡、現實與夢境，兩者之間的轉換始於月升，終於黎明。",
+              "captions": [
+                "以七個場景說明故事：從宮殿到森林，再回到婚禮。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The seven scenes of the story take place in only two places, the Athenian palace and the forest, which the student read as reality and the dream. The second concept is a dream within a dream, where a dreamcatcher holds the dreams while the audience outside watches the comedy as if they were also dreaming.",
+          "images": [
+            "assets/board/a-midsummer-nights-dream-stage/03-dream-within-a-dream-concepts.webp",
+            "assets/board/a-midsummer-nights-dream-stage/04-stage-concept-sketch.webp"
+          ],
+          "captions": [
+            "Design concepts: reality and the dream, and a dream within a dream.",
+            "Concept sketch of two performance zones, the transition area and the audience around them."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "故事的七個場景只發生在兩個地方：雅典宮殿與森林，學生把它們解讀為現實與夢境。第二個概念是夢中之夢：捕夢網收住夢境，而外面的觀眾觀看這齣喜劇時，彷彿自己也在做夢。",
+              "captions": [
+                "設計概念：現實與夢境，以及夢中之夢。",
+                "概念草圖：兩個表演區、轉換區與環繞其外的觀眾。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The performance area of a famous round theatre in London was redesigned, with a new circular skylight, an added auditorium on the second floor terrace and a new middle section of the stage. The performance area is divided vertically into dreamland, reality and the transition between them.",
+          "images": [
+            "assets/board/a-midsummer-nights-dream-stage/05-exploded-layers.webp",
+            "assets/board/a-midsummer-nights-dream-stage/06-inner-and-outer-layers.webp"
+          ],
+          "captions": [
+            "Exploded layers: skylight, dreamcatcher, original beams, performance area and auditorium.",
+            "The inner layer of the performance area, from dreamland at the top to reality below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "本案重新設計倫敦一座著名圓形劇場的表演區，加入新的圓形天窗、二樓露台上增設的觀眾席，以及舞台的新中段。表演區在垂直方向分為夢境、現實與兩者之間的轉換區。",
+              "captions": [
+                "爆炸分層：天窗、捕夢網、原有樑架、表演區與觀眾席。",
+                "表演區的內層：上方是夢境，下方是現實。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A cyclorama of curtains projects forest scenes, a suspended stage becomes the dream world of the fairy king and queen, and a spiral double staircase carries the scenes from reality to the dream. The ground floor stage holds the scenes of reality, and a revolving stage for the forest fairies can move along a track and up and down on a lift.",
+          "images": [
+            "assets/board/a-midsummer-nights-dream-stage/07-cyclorama-and-suspended-stage.webp"
+          ],
+          "captions": [
+            "Cyclorama with front and rear projection, and the suspended stage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "環形布幕投影出森林場景，懸吊舞台成為仙王與仙后的夢境世界，螺旋雙梯則把場景從現實帶入夢境。地面舞台承載現實的場景，而森林精靈的旋轉舞台可以沿軌道移動，並透過升降台上下升降。",
+              "captions": [
+                "可前投與背投的環形布幕，以及懸吊舞台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the script before the stage.\n2. Map where each scene takes place.\n3. Give reality and the dream their own levels.\n4. Let the stage move with the story.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先讀劇本，再看舞台。\n2. 整理每個場景發生的地方。\n3. 讓現實與夢境各有自己的層次。\n4. 讓舞台隨故事而移動。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "New Toys for Kids",
+      "slug": "new-toys-for-kids-bottle-blocks",
+      "description": "Building blocks made from leftover water bottles, sized for children aged three to seven.\n\nHubei, China | Installation | Recycling | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "給孩子的新玩具",
+          "description": "以剩下的水瓶做成的積木，尺寸依三到七歲兒童而設計。\n\n中國湖北｜裝置｜回收再利用｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/new-toys-for-kids-bottle-blocks/01-combined-blocks.webp",
+        "assets/board/new-toys-for-kids-bottle-blocks/02-wash-and-clean-bottles.webp",
+        "assets/board/new-toys-for-kids-bottle-blocks/03-bottle-building-block.webp",
+        "assets/board/new-toys-for-kids-bottle-blocks/04-ergonomic-sizes.webp",
+        "assets/board/new-toys-for-kids-bottle-blocks/05-more-combinations.webp",
+        "assets/board/new-toys-for-kids-bottle-blocks/06-model-test-blocks.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/new-toys-for-kids-bottle-blocks/01-combined-blocks.webp"
+          ],
+          "captions": [
+            "Blocks used alone or combined, so children can build their own small spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "積木可以單獨使用，也可以組合，讓孩子們搭建屬於自己的小空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The ageing water pipes at the student's university need frequent repairs, so students buy cases of drinking water whenever a notice comes, and around four to five hundred empty bottles piled up by the hostel after one stoppage. In China only about seven percent of mineral water bottles are recycled each year, and the rest is buried as rubbish.",
+          "images": [
+            "assets/board/new-toys-for-kids-bottle-blocks/02-wash-and-clean-bottles.webp"
+          ],
+          "captions": [
+            "Recycling process: washing and disinfecting the bottles to get clean ones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生就讀的大學水管老舊，需要經常維修，每次接到停水通知，學生們就會買一箱箱飲用水；一次停水之後，宿舍旁堆積了約四、五百個空瓶。在中國，每年只有約百分之七的礦泉水瓶被回收，其餘都被當作垃圾掩埋。",
+              "captions": [
+                "回收流程：清洗、消毒瓶子，得到乾淨的瓶子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Instead of melting the bottles down, the student looked for a way to turn clean leftover bottles into simple but interesting crafts. The bottles were collected, their labels cut off, then washed and disinfected.",
+          "images": [
+            "assets/board/new-toys-for-kids-bottle-blocks/03-bottle-building-block.webp"
+          ],
+          "captions": [
+            "The basic block: bottles pasted five in a row and five rows deep, 250 mm high."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生沒有選擇把瓶子熔化，而是尋找把剩下的乾淨瓶子做成簡單又有趣的手作的方法。瓶子經過收集、撕去標籤，再清洗與消毒。",
+              "captions": [
+                "基本積木：瓶子每排五個、前後五排黏合而成，高 250 公釐。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The recycled bottles replace the wood and plastic building blocks of kindergarten toys, with bottles pasted five in a row and five rows deep as the basic block. Based on body sizes of children aged three to seven, three sizes of shelves can be built to hold light objects such as picture books, reaching to the calf, the waist or the top of the head.",
+          "images": [
+            "assets/board/new-toys-for-kids-bottle-blocks/04-ergonomic-sizes.webp",
+            "assets/board/new-toys-for-kids-bottle-blocks/05-more-combinations.webp"
+          ],
+          "captions": [
+            "Ergonomic sizes for children aged three to seven, and shelves to the calf, the waist and the top of the head.",
+            "More combinations of the blocks into seats, steps and shelters."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "回收瓶取代幼兒園玩具中木頭與塑膠製的積木，以每排五個、前後五排的瓶子作為基本積木。依據三到七歲兒童的身體尺寸，可以搭出三種高度的書架，分別到小腿、腰部與頭頂，用來放繪本等輕的物品。",
+              "captions": [
+                "三到七歲兒童的人體尺寸，以及到小腿、腰部與頭頂的書架。",
+                "積木的更多組合：座椅、階梯與小屋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each block can be combined in many ways, so children can create different small spaces according to their interests and needs. The blocks were tested at full scale, to be played with on the lawn, in the classroom or anywhere the children like.",
+          "images": [
+            "assets/board/new-toys-for-kids-bottle-blocks/06-model-test-blocks.webp"
+          ],
+          "captions": [
+            "Full-scale test of the bottle blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每塊積木都能以多種方式組合，讓孩子依自己的興趣與需要，創造出不同的小空間。積木以 1:1 比例實際測試，可以在草地上、教室裡，或任何孩子喜歡的地方遊玩。",
+              "captions": [
+                "瓶子積木的 1:1 實體測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Notice the waste around you.\n2. Find one simple unit.\n3. Size it for its users.\n4. Test it at full scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 留意身邊的廢棄物。\n2. 找出一個簡單的單元。\n3. 依使用者決定尺寸。\n4. 以 1:1 實際測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
