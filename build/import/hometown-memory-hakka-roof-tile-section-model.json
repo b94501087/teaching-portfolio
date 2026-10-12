@@ -1,0 +1,67 @@
+{
+  "project": "Hometown Memory",
+  "dest": "assets/board/hometown-memory-hakka-roof-tile-section-model",
+  "note": "Portfolio e7c5 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, village photos, maps, photos of people.",
+  "files": [
+    {
+      "name": "01-section-model.webp",
+      "sha256": "4577d56572ee183f9747782a6c0bae907e21a99b66f955564b1952c24631dcf3",
+      "bytes": 66774,
+      "from": "e7c5 page 7 — section model"
+    },
+    {
+      "name": "02-roof-sketch.webp",
+      "sha256": "bf7b19997d6b6969b97a6b5ee5b80404892a133278a8aa2bb033d6236f342e3d",
+      "bytes": 33452,
+      "from": "e7c5 page 6 — roof sketch"
+    },
+    {
+      "name": "03-tile-making.webp",
+      "sha256": "c612cf89e4147a73e48258c8e95e98938c14155a722fc463b90a716b582a5568",
+      "bytes": 7076,
+      "from": "e7c5 page 6 — tile making"
+    },
+    {
+      "name": "04-tile-rows.webp",
+      "sha256": "a5ba5faff8dd1c318ee1f8cf1c503479249876ffd368862a77e92ac457276f27",
+      "bytes": 8256,
+      "from": "e7c5 page 6 — tile rows"
+    },
+    {
+      "name": "05-joinery-test.webp",
+      "sha256": "1619b2cb8a1199e8ed3bf859f1dc10903a092399a1a9a558b921cafeb90e2fa7",
+      "bytes": 8820,
+      "from": "e7c5 page 6 — joinery test"
+    },
+    {
+      "name": "06-roof-panel.webp",
+      "sha256": "c994639d050eea3f75186a5c1de96d2170b209d863a7a344edb4627c0130c543",
+      "bytes": 14500,
+      "from": "e7c5 page 6 — roof panel"
+    },
+    {
+      "name": "07-model-overview.webp",
+      "sha256": "020a91fc21117a27c56aedabf47595cb65f3f2133022ad6f685a65affa833902",
+      "bytes": 25514,
+      "from": "e7c5 page 7 — model overview"
+    },
+    {
+      "name": "08-courtyard-view.webp",
+      "sha256": "352d8168802e13f5839657b459a8e23bc6d744b1c139e1e207d52a294bcb1c10",
+      "bytes": 20424,
+      "from": "e7c5 page 7 — courtyard view"
+    },
+    {
+      "name": "09-side-view.webp",
+      "sha256": "a2737d2377c0cb3df9b6f87880d5cd969c43c2aab4917646924c5fe5d3e84405",
+      "bytes": 3802,
+      "from": "e7c5 page 7 — side view"
+    },
+    {
+      "name": "10-roof-underside.webp",
+      "sha256": "98968f4f5193ab6919e5f767db32606e0eb7f042435144615bd572735179be92",
+      "bytes": 11062,
+      "from": "e7c5 page 7 — roof underside"
+    }
+  ]
+}
