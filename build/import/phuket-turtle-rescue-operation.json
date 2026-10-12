@@ -1,0 +1,55 @@
+{
+  "project": "Phuket Turtle Rescue Operation",
+  "dest": "assets/board/phuket-turtle-rescue-operation",
+  "note": "Portfolio 849ed414 pages 19–22 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the project header with names on page 19, the satellite mapping, news photos and humanitarian analysis photos on page 20, the case study photos on page 21, and the model page with circular insets showing people on page 23. No retouching.",
+  "files": [
+    {
+      "name": "01-turtle-centre-drawing.webp",
+      "sha256": "0e093e8ae15c417b486b8a60ceaf3462ae70715bb53284e2fef6cb32905140f4",
+      "bytes": 89060,
+      "from": "849ed414 page 19 — drawing of the turtle centre held in hand, x 10.5–86 %, y 4–70 %"
+    },
+    {
+      "name": "02-sea-turtle-analysis.webp",
+      "sha256": "2ce8975892e076843a7b1a09017186229ab5fa024945df0f3db9c6f9666a7c55",
+      "bytes": 73428,
+      "from": "page 21 — sea turtle life cycle and threats, x 0–50 %, y 0–73 %"
+    },
+    {
+      "name": "03-advantages-and-improvements.webp",
+      "sha256": "48f033227ac9cc6c07301375cfe0fdad53b04ebcd2c3330c8414dd9beeca6000",
+      "bytes": 28804,
+      "from": "page 21 — case analysis conclusions, x 54.5–100 %, y 47–73 %"
+    },
+    {
+      "name": "04-visitor-strategy.webp",
+      "sha256": "2aeb193a174b841d08576350cfe65f6b789dd4cdb1ebf53e3f3822f47cca547e",
+      "bytes": 46094,
+      "from": "page 21 — strategy diagram for tourists and turtles, x 0–100 %, y 73–100 %"
+    },
+    {
+      "name": "05-rescue-strategy.webp",
+      "sha256": "ab16a2e8eeb201df1672c551e75ba9c2f6ef93095d3d4f8ea421d553684d919a",
+      "bytes": 37946,
+      "from": "page 22 — strategy sketches: rescue, protection, recycling, popularisation, x 0–100 %, y 0–27.5 %"
+    },
+    {
+      "name": "06-design-process.webp",
+      "sha256": "d80c9898b1ad2182dbadf82845ca990aa0578e11f6767c7e76b8e5602d01cc3e",
+      "bytes": 28676,
+      "from": "page 22 — design process diagrams, x 0–25 %, y 28.2–76.5 %"
+    },
+    {
+      "name": "07-master-plan.webp",
+      "sha256": "03893fd5925361887cdfc978dea8c3f86b45bc9106611a63b501748bfd8c6d45",
+      "bytes": 81158,
+      "from": "page 22 — master plan, x 25–100 %, y 28.2–76.5 %"
+    },
+    {
+      "name": "08-section.webp",
+      "sha256": "55990e7af408b74301f2dd5302d6f2d85ceae88e06845b45539a0e040f603687",
+      "bytes": 32684,
+      "from": "page 22 — section, x 0–100 %, y 76.5–100 %"
+    }
+  ]
+}
