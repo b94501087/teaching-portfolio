@@ -1,0 +1,67 @@
+{
+  "project": "Looms",
+  "dest": "assets/board/looms-wooden-stick-weaving-machine-tower",
+  "note": "Portfolio ce4a pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text, signature on the drawing.",
+  "files": [
+    {
+      "name": "01-loom-tower.webp",
+      "sha256": "6e8e29fda115a9eee2b7a4215e513e907ddaaaf96e8b4f6043b64873fadc86a2",
+      "bytes": 217492,
+      "from": "ce4a page 5 — loom tower"
+    },
+    {
+      "name": "02-loom-study.webp",
+      "sha256": "0290485554a1b34c53d91406011934e64ee93386d0b9e2b3319520a0d756e206",
+      "bytes": 51874,
+      "from": "ce4a page 4 — loom study"
+    },
+    {
+      "name": "03-loom-models.webp",
+      "sha256": "fd15df9f8031313918a3ea5ccf0abd8f033f0f816a40f1f9a4357e4a7737ac59",
+      "bytes": 41862,
+      "from": "ce4a page 4 — loom models"
+    },
+    {
+      "name": "04-joint-drawings.webp",
+      "sha256": "fae0e7d688aa57b698144280eab21abfaddc423d8c800a7492fdc831ff2e8c7e",
+      "bytes": 12900,
+      "from": "ce4a page 4 — joint drawings"
+    },
+    {
+      "name": "05-first-tower-a.webp",
+      "sha256": "98d72a5c6404036379128dff6443a850e3137ef9ce3ea8b748430af9a31318f7",
+      "bytes": 30078,
+      "from": "ce4a page 4 — first tower a"
+    },
+    {
+      "name": "06-first-tower-b.webp",
+      "sha256": "214ea5a7947eb37a380ecb4a70c3bce2f1c12a8816cbbd861756a28e16d8e9c1",
+      "bytes": 31516,
+      "from": "ce4a page 4 — first tower b"
+    },
+    {
+      "name": "07-first-tower-c.webp",
+      "sha256": "b6b447cd3d98742bffd46b5f290c3905db759af1d00f9fde1f9fbabae3b1719c",
+      "bytes": 95766,
+      "from": "ce4a page 4 — first tower c"
+    },
+    {
+      "name": "08-string-tower-a.webp",
+      "sha256": "42e9fc8892ede53ec8ef0324bc05fa4a2512d55559fe59b5666278bbd4012ed1",
+      "bytes": 56524,
+      "from": "ce4a page 5 — string tower a"
+    },
+    {
+      "name": "09-string-tower-b.webp",
+      "sha256": "a8f99ca4d1ced04d16eba0f57c10a7e59cf163d7b349908cacf7d0028ccb67e9",
+      "bytes": 53526,
+      "from": "ce4a page 5 — string tower b"
+    },
+    {
+      "name": "10-string-drawing.webp",
+      "sha256": "79b8a3fe51928eded4e326ca4af2478d0e304148f7965984750c6ebb76c51463",
+      "bytes": 84864,
+      "from": "ce4a page 5 — string drawing"
+    }
+  ]
+}
