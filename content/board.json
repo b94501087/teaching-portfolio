@@ -21428,6 +21428,145 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "\"New\" Community Activity Center",
+      "slug": "new-community-activity-center",
+      "description": "A community center that reconnects neighbors through shared activities.\n\nArchitecture | Community center | Neighborhood relations | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "「新」社區活動中心",
+          "description": "一座以共享活動重新連結鄰里的社區中心。\n\n建築設計｜社區中心｜鄰里關係｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/new-community-activity-center/01-community-network.webp",
+        "assets/board/new-community-activity-center/02-participation-strategy.webp",
+        "assets/board/new-community-activity-center/03-preset-space-layouts.webp",
+        "assets/board/new-community-activity-center/04-section-perspective.webp",
+        "assets/board/new-community-activity-center/05-form-generation.webp",
+        "assets/board/new-community-activity-center/06-community-axonometric.webp",
+        "assets/board/new-community-activity-center/07-section-nodes.webp",
+        "assets/board/new-community-activity-center/08-physical-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/new-community-activity-center/04-section-perspective.webp"
+          ],
+          "captions": [
+            "Section perspective showing activities inside and outside the center."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖透視，呈現中心內外的活動。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Many communities surround the site, yet neighborhood relationships have grown increasingly thin. Residents have some free time, but the activity spaces in the community are not enough for them to use it well.",
+          "images": [
+            "assets/board/new-community-activity-center/01-community-network.webp"
+          ],
+          "captions": [
+            "Links between residential areas, the study area and event venues."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地周邊有許多社區，鄰里關係卻日漸淡薄。居民雖然有一些空閒時間，社區裡的活動空間卻不足以讓他們好好運用。",
+              "captions": [
+                "住宅區、研究區與活動場地之間的連結。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A survey of residents' interests and favorite activity sites showed what children, students, commuters and the elderly each wanted to do. The activities were then combined and the size of each space was estimated.",
+          "images": [
+            "assets/board/new-community-activity-center/02-participation-strategy.webp",
+            "assets/board/new-community-activity-center/03-preset-space-layouts.webp"
+          ],
+          "captions": [
+            "Strategy 1: block cutting and a matrix linking user groups to activities.",
+            "Strategy 2: preset layouts for yoga, hydrotherapy, gym, free, bookshop, music and KTV spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "透過調查居民的興趣與常去的活動地點，了解兒童、學生、通勤族與長者各自想做的事。接著把這些活動加以組合，並估算每個空間的大小。",
+              "captions": [
+                "策略一：量體切割，以及連結使用族群與活動的矩陣。",
+                "策略二：瑜伽、水療、健身、自由空間、書店、音樂與KTV空間的預設配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The building volume was pushed, pulled and cut to let in sunlight and open views between residents and students. A second strategy lets people check space information on their phones and other devices before they arrive.",
+          "images": [
+            "assets/board/new-community-activity-center/05-form-generation.webp",
+            "assets/board/new-community-activity-center/06-community-axonometric.webp"
+          ],
+          "captions": [
+            "Form generation through pushing, cutting and opening sightlines.",
+            "Axonometric rendering of user groups and the devices they use."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "建築量體經過推、拉與切割，引入陽光，並在居民與學生之間打開視線。第二項策略讓人們在抵達前，就能透過手機等裝置查看空間資訊。",
+              "captions": [
+                "透過推拉、切割與開放視線的形體生成。",
+                "使用族群與其所用裝置的軸測渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The center stacks a DIY exhibition hall, a coffee restaurant, resident activity areas and a square on stepped levels with a steel frame above a concrete base. A physical section model tested the scale of people's activities so that the spaces would be reasonable to use.",
+          "images": [
+            "assets/board/new-community-activity-center/07-section-nodes.webp",
+            "assets/board/new-community-activity-center/08-physical-model.webp"
+          ],
+          "captions": [
+            "Section nodes of the steel and concrete structure.",
+            "Physical section model with node and perspective models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "活動中心在階梯式的樓層上疊合了DIY展覽廳、咖啡餐廳、居民活動區與廣場，以鋼構架在混凝土基座之上。實體剖面模型檢驗了人們活動的尺度，讓空間更合理好用。",
+              "captions": [
+                "鋼構與混凝土結構的剖面節點。",
+                "實體剖面模型，以及節點與透視模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask residents what they enjoy.\n2. Match groups to activities.\n3. Shape the volume for light and views.\n4. Test the scale with a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 詢問居民喜歡做什麼。\n2. 讓族群對應活動。\n3. 為光線與視野塑造量體。\n4. 用模型檢驗尺度。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
