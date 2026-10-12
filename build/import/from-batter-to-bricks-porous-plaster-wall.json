@@ -1,0 +1,67 @@
+{
+  "project": "From Batter to Bricks",
+  "dest": "assets/board/from-batter-to-bricks-porous-plaster-wall",
+  "note": "Portfolio ca16 pages 16-17 cropped to ten images, WebP q88 (PIL). Not used: title and inspiration text, baking reference photos with hands, photos of the student with the work.",
+  "files": [
+    {
+      "name": "01-porous-plaster-layers.webp",
+      "sha256": "73f5b232448e281b59585f6ca3e1beed1a4adfd38fd574528d8072f2ab7e9f5c",
+      "bytes": 22068,
+      "from": "ca16 page 16 — porous plaster layers"
+    },
+    {
+      "name": "02-form-experiments.webp",
+      "sha256": "47502ad1662b09a9c30abfa8f40346ae86896b12766b8c71ef50bdbb0595b416",
+      "bytes": 36570,
+      "from": "ca16 page 16 — channel, stack and drizzle models"
+    },
+    {
+      "name": "03-porous-layer-sketches.webp",
+      "sha256": "ef838bea663832d69b9d2d68b12f93fac6bef761205f5126250113085310f93f",
+      "bytes": 39972,
+      "from": "ca16 page 16 — porous layer sketches"
+    },
+    {
+      "name": "04-porous-layer-details.webp",
+      "sha256": "7876d110a4fd0b6928e5e574bda1ef90b55f62ffad067a88bdfe0c0064059867",
+      "bytes": 20306,
+      "from": "ca16 page 16 — porous layer details"
+    },
+    {
+      "name": "05-modular-brick-sketches.webp",
+      "sha256": "a1e0b86e567b1f4480c9f0cbd59590b8ac4fc05f233e00eba785d20a43a34b87",
+      "bytes": 35716,
+      "from": "ca16 page 17 — modular brick sketches"
+    },
+    {
+      "name": "06-lit-brick-wall.webp",
+      "sha256": "6b5fcee4b687307971c2cc90575c76556dae070a2371cc1360aa1ff5f6391eba",
+      "bytes": 35030,
+      "from": "ca16 page 17 — lit brick wall"
+    },
+    {
+      "name": "07-white-brick-wall.webp",
+      "sha256": "116834ca2c24b19e5dd8d4de039940a3b9d83e28dee542769bd8f9b3d9057d64",
+      "bytes": 27064,
+      "from": "ca16 page 17 — white brick wall"
+    },
+    {
+      "name": "08-lit-brick-pair.webp",
+      "sha256": "f16dd165b5a3b6c813cdd223c658fe97f1f6f6b053e927dc8dd6c425c85102ca",
+      "bytes": 10360,
+      "from": "ca16 page 17 — two lit bricks"
+    },
+    {
+      "name": "09-single-brick-study.webp",
+      "sha256": "cd4676e9860acfcc9d9577eecfcb79a5554023bbc8dbe920456ac9f9ec0bbec6",
+      "bytes": 7338,
+      "from": "ca16 page 17 — single brick study"
+    },
+    {
+      "name": "10-brick-details.webp",
+      "sha256": "e91c585d7476695798bf4f4f5d4c59a268cf56b65cd2401f9fca9c551552e64f",
+      "bytes": 26200,
+      "from": "ca16 page 17 — brick details"
+    }
+  ]
+}
