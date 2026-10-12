@@ -1,0 +1,49 @@
+{
+  "project": "Longyearbyen Coastal Ecological Framework",
+  "dest": "assets/board/longyearbyen-coastal-ecological-framework",
+  "note": "Portfolio ba4c pages 14-18 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the satellite site selection panel and compaction photos, the existing-edge map with an institution label, the final renders with visitors, and the body text.",
+  "files": [
+    {
+      "name": "01-arctic-context.webp",
+      "sha256": "6338720a3ebfcf0b93b8ddb7c06bedc4f3a4bf4766802eb631576763668e6238",
+      "bytes": 143558,
+      "from": "ba4c page 14 — arctic region map"
+    },
+    {
+      "name": "02-ecological-sensitivity.webp",
+      "sha256": "1c92badf7eeb43029298f482316191df18fa8e9ecdf750170b69b7a33384827d",
+      "bytes": 135400,
+      "from": "ba4c page 15 — ecological sensitivity mapping"
+    },
+    {
+      "name": "03-hydrodynamic-pressures.webp",
+      "sha256": "e0e607f9960865c06b8545f575ea50a98422a66395dc478b917925226429043a",
+      "bytes": 52876,
+      "from": "ba4c page 15 — hydrodynamic pressures map"
+    },
+    {
+      "name": "04-fragmented-vegetation.webp",
+      "sha256": "bfef2c0a23e15da9980b64780eaf27c5815b4094e9d207874a0152322ee08883",
+      "bytes": 41076,
+      "from": "ba4c page 15 — fragmented vegetation map"
+    },
+    {
+      "name": "05-gabion-accretion.webp",
+      "sha256": "e956273400f29941af908ef6fcf39ac5c0dfdfc72f3b6ab814d70f6380e36103",
+      "bytes": 173064,
+      "from": "ba4c page 16 — gabion accretion sequence"
+    },
+    {
+      "name": "06-accretion-led-growth.webp",
+      "sha256": "5c92834a2c927e7cd9aa1f92af4e7c38071c292d64ae3f8ba17d282aa32b0569",
+      "bytes": 77804,
+      "from": "ba4c page 17 — twenty-year growth plan"
+    },
+    {
+      "name": "07-concept-model.webp",
+      "sha256": "ac8cb9ee9f29c97d337d3ed8c6ebf2e40ccee4016ab205a6a1fcc024837dfbf6",
+      "bytes": 81862,
+      "from": "ba4c page 18 — concept model photos"
+    }
+  ]
+}
