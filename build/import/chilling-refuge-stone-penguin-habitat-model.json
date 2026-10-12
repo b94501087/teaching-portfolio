@@ -1,0 +1,49 @@
+{
+  "project": "Chilling Refuge: Penguin Habitat",
+  "dest": "assets/board/chilling-refuge-stone-penguin-habitat-model",
+  "note": "Portfolio c916 pages 2-3 cropped to seven images, WebP q88 (PIL). Not used: title and text, CV header.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "f948da06eb8750e14374bf96a5cb8ee687f315e2985ae86cda7bc063eeeef946",
+      "bytes": 93634,
+      "from": "c916 page 2 — final model"
+    },
+    {
+      "name": "02-inspiration.webp",
+      "sha256": "dc3f7156d040d3387f4d8dc59c93b2291312ec8dc2e9d6c6b99fda58c8614edb",
+      "bytes": 7424,
+      "from": "c916 page 2 — inspiration"
+    },
+    {
+      "name": "03-concept-drawing.webp",
+      "sha256": "2e69309921de46d1e172c76fcde643df9912d8f5a2921a02e1550d2256a904ce",
+      "bytes": 9016,
+      "from": "c916 page 2 — concept drawing"
+    },
+    {
+      "name": "04-process.webp",
+      "sha256": "4a3ef380d1290ba20de9e59a4c53e75c0a437c3b8136536e4559feafae6bc942",
+      "bytes": 60788,
+      "from": "c916 page 2 — process"
+    },
+    {
+      "name": "05-model-views.webp",
+      "sha256": "d57c387e6ea17e8dfd95c3eab554c843dd6108c1722dd013471561b01999c5e4",
+      "bytes": 44788,
+      "from": "c916 page 3 — model views"
+    },
+    {
+      "name": "06-structure-drawing.webp",
+      "sha256": "f3104b6603ce4a297d1ce4a9ae4a6b0593ff89cfb68547e378c87e61f82c7fbc",
+      "bytes": 49224,
+      "from": "c916 page 3 — structure drawing"
+    },
+    {
+      "name": "07-frame-detail.webp",
+      "sha256": "899433f61e3c690b122ca2f47e4e2a36654149ae348373e3a93111ee4942ff07",
+      "bytes": 10720,
+      "from": "c916 page 2 — frame detail"
+    }
+  ]
+}
