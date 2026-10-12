@@ -1,0 +1,61 @@
+{
+  "project": "Harmonic Home",
+  "dest": "assets/board/harmonic-home-treble-clef-garden-house",
+  "note": "Portfolio ce05 page 13 cropped to nine images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-roof-garden.webp",
+      "sha256": "4598dbfa778306c0962af6305e142b8de7685a7a7103ee72dedb90c3c931a232",
+      "bytes": 27754,
+      "from": "ce05 page 13 — roof garden"
+    },
+    {
+      "name": "02-sketches.webp",
+      "sha256": "fe39a00acdeb43bd1abe9d2b0ba9ec338aba31eb4bdfca2d9b4609c0356e27b4",
+      "bytes": 8964,
+      "from": "ce05 page 13 — sketches"
+    },
+    {
+      "name": "03-renders.webp",
+      "sha256": "a445ada3b3422e98be353f452699ead6127e50b9b05ae0249ba39bad2ed7eeb1",
+      "bytes": 11788,
+      "from": "ce05 page 13 — renders"
+    },
+    {
+      "name": "04-watercolour.webp",
+      "sha256": "2950332a2adb0e6daff0387e64d239df9bd756fa3a70a9a4d8e8316620074dab",
+      "bytes": 17024,
+      "from": "ce05 page 13 — watercolour"
+    },
+    {
+      "name": "05-interior-render.webp",
+      "sha256": "960236c8d3c641aee93114e46d4ae6b8886b033c6b67d06de95d707b704ff8ce",
+      "bytes": 23214,
+      "from": "ce05 page 13 — interior render"
+    },
+    {
+      "name": "06-top-view.webp",
+      "sha256": "11e6333a7507ae2534deefa5ab4b5d87d7ad56c9905606da068c10f5b3af7f69",
+      "bytes": 17746,
+      "from": "ce05 page 13 — top view"
+    },
+    {
+      "name": "07-interior-top.webp",
+      "sha256": "e72bcbf6548c6204caa5dc6e74e8a7a846bd754aa943950387ac97098bd9c7cd",
+      "bytes": 11912,
+      "from": "ce05 page 13 — interior top"
+    },
+    {
+      "name": "08-garden-detail.webp",
+      "sha256": "bb3ea7fab2cf650fad835cf57385a56b7b8edf5254d24aca253805b7eaa67994",
+      "bytes": 41708,
+      "from": "ce05 page 13 — garden detail"
+    },
+    {
+      "name": "09-glass-facade.webp",
+      "sha256": "d5c712efb2b582840e630424b298b9e412b02955b1a084094be32fdfb79a2623",
+      "bytes": 22876,
+      "from": "ce05 page 13 — glass facade"
+    }
+  ]
+}
