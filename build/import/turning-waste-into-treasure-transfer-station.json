@@ -1,0 +1,67 @@
+{
+  "project": "Turning Waste Into Treasure",
+  "dest": "assets/board/turning-waste-into-treasure-transfer-station",
+  "note": "Portfolio 734e pages 2-8 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title and tutor text, the school distribution photo circles, the step photos of waste handling, the interior renders with figures, the mobile interface page and the body text.",
+  "files": [
+    {
+      "name": "01-transfer-station-render.webp",
+      "sha256": "9fc02a338c5d40b1d8fe1f75ece52fdbe5568de9402b603943eefadb1e4f0c89",
+      "bytes": 252788,
+      "from": "734e page 2 — transfer station street render"
+    },
+    {
+      "name": "02-site-axonometric.webp",
+      "sha256": "31a89b17abfeb47932a954afe550fab536afd7b47ba7d2bb6040c0306a0be44c",
+      "bytes": 130680,
+      "from": "734e page 3 — site axonometric"
+    },
+    {
+      "name": "03-recycling-process.webp",
+      "sha256": "b8701924a4f5cecf6a39f996e1917f31b8820888b62ddf921804a37fffded286",
+      "bytes": 114700,
+      "from": "734e page 3 — design vision and recycling process"
+    },
+    {
+      "name": "04-graded-disposal-process.webp",
+      "sha256": "a68468e75926518444fa2001f80c3bdd1d05bb287841d62c01fde14d7db59d43",
+      "bytes": 182596,
+      "from": "734e page 4 — graded waste disposal process"
+    },
+    {
+      "name": "05-design-strategy-models.webp",
+      "sha256": "36ebd728787d87628467f0a3dd4d20438acce14537d313e48e4ada7f0b6068b7",
+      "bytes": 227172,
+      "from": "734e page 4 — design strategy and concept models"
+    },
+    {
+      "name": "06-form-generation.webp",
+      "sha256": "128a19f5efb503afb045b8e14afe06fba7aaa0a8df5326151d485bac57b07485",
+      "bytes": 61012,
+      "from": "734e page 4 — form generation"
+    },
+    {
+      "name": "07-garbage-transport-phase.webp",
+      "sha256": "bdd66851495f06725ca163e0f519a066a2fc0334c49b21a4c2cdde9a6ea514b7",
+      "bytes": 148012,
+      "from": "734e page 5 — garbage transport phase"
+    },
+    {
+      "name": "08-waste-classification-axon.webp",
+      "sha256": "b2bb0f2ce2ddfaa087b24d90e16018f396d2a5941d1ff76386f2244173df2714",
+      "bytes": 114754,
+      "from": "734e page 6 — waste classification axonometric"
+    },
+    {
+      "name": "09-handmade-models.webp",
+      "sha256": "0b44f0d64f9ca9b0e62776ac92fa0aa6f8630e6a7e085eac4a31a5e467110b77",
+      "bytes": 82158,
+      "from": "734e page 8 — handmade module models"
+    },
+    {
+      "name": "10-long-section.webp",
+      "sha256": "88ba790f1d25cdcd889954bab8b43dc46b49a0294f8766cbfb290efa1864caf0",
+      "bytes": 191248,
+      "from": "734e page 8 — long section"
+    }
+  ]
+}
