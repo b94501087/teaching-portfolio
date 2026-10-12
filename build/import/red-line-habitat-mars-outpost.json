@@ -1,0 +1,43 @@
+{
+  "project": "Red Line Habitat",
+  "dest": "assets/board/red-line-habitat-mars-outpost",
+  "note": "Portfolio 5b5b pages 12-15 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: the title text, the planet research board with rover photos, and the system diagram that names software and shows lab photos.",
+  "files": [
+    {
+      "name": "01-orbital-habitat.webp",
+      "sha256": "22a562ff34c0e322c2b2dfa0abb07f85723bfb7f775bcb7b5e612532b3f2f53a",
+      "bytes": 300368,
+      "from": "5b5b page 12 — habitat render"
+    },
+    {
+      "name": "02-habitat-drawing.webp",
+      "sha256": "9d1454c9d7e756a21197f3f39beadfbfed52b800847687f7c2d4e41d48a47d3e",
+      "bytes": 24536,
+      "from": "5b5b page 12 — line drawing"
+    },
+    {
+      "name": "03-modules-orbit.webp",
+      "sha256": "38c84e61e7a66c89a8ded4da1fbe428f1608f9efb42c3156456ec11f821efa28",
+      "bytes": 52048,
+      "from": "5b5b page 14 — orbital modules"
+    },
+    {
+      "name": "04-modules-ground.webp",
+      "sha256": "21856862bd36cba5bb13d56a46d7b674cb4d19b819a1375e60121c28b31c808e",
+      "bytes": 63786,
+      "from": "5b5b page 14 — surface modules"
+    },
+    {
+      "name": "05-assembly-flow.webp",
+      "sha256": "461449136a24d649d3bae0aebe210d3de041d9604d55ab883b7d0c5564ffcbbf",
+      "bytes": 74042,
+      "from": "5b5b page 14 — assembly flow diagram"
+    },
+    {
+      "name": "06-assembly-simulation.webp",
+      "sha256": "48038ea5c2683e8f447b29f97d8303e68343d1545317d6d0615d7d99b4587782",
+      "bytes": 85066,
+      "from": "5b5b page 15 — assembly simulation stills"
+    }
+  ]
+}
