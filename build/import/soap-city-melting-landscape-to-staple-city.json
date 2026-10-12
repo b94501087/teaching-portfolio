@@ -1,0 +1,67 @@
+{
+  "project": "Soap City",
+  "dest": "assets/board/soap-city-melting-landscape-to-staple-city",
+  "note": "Portfolio ce4a pages 12-13 cropped to ten images, WebP q88 (PIL). Not used: title and text, one process photo with a person, signature on the drawing.",
+  "files": [
+    {
+      "name": "01-soap-city.webp",
+      "sha256": "8e1612422a9f35c5647c5ca816d4913fd3c0f41b8af047f464ddf4973550f02c",
+      "bytes": 183848,
+      "from": "ce4a page 13 — soap city"
+    },
+    {
+      "name": "02-front-view.webp",
+      "sha256": "1356a842038086d325cd76ef5e90614132bcf9787e740ff99f6cdaae7e625d56",
+      "bytes": 92850,
+      "from": "ce4a page 12 — front view"
+    },
+    {
+      "name": "03-soap-tests.webp",
+      "sha256": "2c95966de16df3edf69d77da9155955af6fa069685fbb45a9237e09769fb1f00",
+      "bytes": 47698,
+      "from": "ce4a page 12 — soap tests"
+    },
+    {
+      "name": "04-sketch-a.webp",
+      "sha256": "cdf072e6ae56d592b5ce38846271e4ba72c92d2b5b164bfb2895aab2e08d6e79",
+      "bytes": 53096,
+      "from": "ce4a page 12 — sketch a"
+    },
+    {
+      "name": "05-sketch-b.webp",
+      "sha256": "a5f041196f61b084e1bc92911813c09ef37ef5d05208dd0e2ed929a978167152",
+      "bytes": 90052,
+      "from": "ce4a page 12 — sketch b"
+    },
+    {
+      "name": "06-making.webp",
+      "sha256": "d5ecfbcdc61241d33e1660bf7c601b44a7fba30a3550a4975ded574bc5da04ad",
+      "bytes": 45220,
+      "from": "ce4a page 12 — making"
+    },
+    {
+      "name": "07-top-view.webp",
+      "sha256": "cea14433dd6ecc83f25d45f0485c8db558ed44a77b349fe894d4000a806cfa2b",
+      "bytes": 21008,
+      "from": "ce4a page 13 — top view"
+    },
+    {
+      "name": "08-side-view.webp",
+      "sha256": "4848e4cc73d98ee196959d2b2b67b49efa7530618249c6be120863c08c174682",
+      "bytes": 56542,
+      "from": "ce4a page 13 — side view"
+    },
+    {
+      "name": "09-detail-a.webp",
+      "sha256": "795dbb5d1a98cd04a8fc6c1aa698724e7acc301ea90030eebfc2227b78067fe8",
+      "bytes": 54858,
+      "from": "ce4a page 13 — detail a"
+    },
+    {
+      "name": "10-detail-b.webp",
+      "sha256": "f22e53fee9918ba27d56703fce7ef933115ae03f2a442ffc4ccbbac61bcc4499",
+      "bytes": 24238,
+      "from": "ce4a page 13 — detail b"
+    }
+  ]
+}
