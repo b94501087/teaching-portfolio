@@ -1,0 +1,67 @@
+{
+  "project": "Another Sustainable",
+  "dest": "assets/board/another-sustainable-participatory-building",
+  "note": "Portfolio 3940 pages 8–11 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: page 7 with stock and staged photos of people, the demand wheel built from site photos, the photo of a speaker the caricature figures and the participatory design phone graphic on page 8.",
+  "files": [
+    {
+      "name": "01-community-building-view.webp",
+      "sha256": "0e7c6377f6367840fc64db132f636c6d97ec0350bd35d4f68269e886fa668c40",
+      "bytes": 259714,
+      "from": "3940 page 8 — perspective of the community building, x 2.5–98.5 %, y 0–75.5 %"
+    },
+    {
+      "name": "02-site-plan.webp",
+      "sha256": "03e82dc0a2b377f878e506bad901505c66104b22700ca5490351fd0d4a30cd1c",
+      "bytes": 41604,
+      "from": "page 8 — site plan, x 2–31.5 %, y 76–98.5 %"
+    },
+    {
+      "name": "03-game-mechanism.webp",
+      "sha256": "f8bdecc8cdbe606d7bbf2a076a810334bedd2e7fe19eb8b180e11e93448b304f",
+      "bytes": 40302,
+      "from": "page 8 — community and game mechanism diagram, x 32–75 %, y 76–98.5 %"
+    },
+    {
+      "name": "04-scheme-illustration.webp",
+      "sha256": "c9032d76b0e2a208501605ced29da3a0787db7982816f2e7d799624ee7348204",
+      "bytes": 535224,
+      "from": "page 9 — illustration of the scheme, full page"
+    },
+    {
+      "name": "05-assembly-and-disassembly.webp",
+      "sha256": "523ee5908b0a788c7025135f082a5775fb3014558f806fd6fd547de9f47a1538",
+      "bytes": 43278,
+      "from": "page 10 — assembly and disassembly view, x 1.5–31.5 %, y 0–34 %"
+    },
+    {
+      "name": "06-transformation-steps.webp",
+      "sha256": "81adcdfba9142e13b76a988d0fd72412dd8f1ad673b865207862c3c9f4be1df5",
+      "bytes": 26804,
+      "from": "page 10 — model steps of a transforming floor, x 31.5–48 %, y 0–99 %"
+    },
+    {
+      "name": "07-possible-forms.webp",
+      "sha256": "bc9560fe90288df3f0d87cae2bd519db29f005df253ab8508a247887eaa88004",
+      "bytes": 20584,
+      "from": "page 10 — possible forms of the building, x 1.5–31.5 %, y 75–99 %"
+    },
+    {
+      "name": "08-third-floor-plan.webp",
+      "sha256": "41895be610a44fcce0c00b1a72998aee4baa28bc441d6f5f33a0043a3c380554",
+      "bytes": 145274,
+      "from": "page 10 — third floor plan, x 50–100 %, y 0–99 %"
+    },
+    {
+      "name": "09-interaction-section.webp",
+      "sha256": "9268c8283b373e608ec903ecd07fc0c7fbf0623b0404d63dbdc56e939216e42b",
+      "bytes": 256972,
+      "from": "page 11 — section on facade, function and rules, x 0–58.5 %, y 0–99 %"
+    },
+    {
+      "name": "10-facade-logic.webp",
+      "sha256": "1cc164bd992c24073689da6ddf69ff9c1687d0c06b91245eed4ca6d7c6798988",
+      "bytes": 120992,
+      "from": "page 11 — voting and folding facade logic, x 59–100 %, y 0–99 %"
+    }
+  ]
+}
