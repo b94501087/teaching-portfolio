@@ -1,0 +1,55 @@
+{
+  "project": "Rooftop Art Workshops in Dafen",
+  "dest": "assets/board/dafen-rooftop-art-workshops",
+  "note": "Portfolio c9aa pages 5–8 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage on page 2, the rooftop activity and street photos on pages 3–4, the site photos on page 5, the photo thumbnail on page 7 and the renderings with photo figures on page 8. No retouching.",
+  "files": [
+    {
+      "name": "01-rooftop-section-perspective.webp",
+      "sha256": "82ef4d6ab611b85667908af78a9038ff7afb5feb9221cdd0b6847f9c9bfd90a5",
+      "bytes": 223812,
+      "from": "c9aa page 8 — section perspective view and rendering, x 0–100 %, y 3–60 %"
+    },
+    {
+      "name": "02-isolated-rooftops.webp",
+      "sha256": "4e0a5213174017223fe4c4c007395e10c284227cacf8bdaf6effed72d2552138",
+      "bytes": 329978,
+      "from": "page 5 — site selection, the rooftops as isolated islands, x 0–47 %, y 2–42 %"
+    },
+    {
+      "name": "03-connected-rooftops-axonometric.webp",
+      "sha256": "18b088a84fb06ddf7c4386b33b752f0cccd6141fa4f7e825b501e37e3b0f90f2",
+      "bytes": 318938,
+      "from": "page 5 — site selection III, the square by the ancestral temple, x 55–100 %, y 4–40 %"
+    },
+    {
+      "name": "04-connection-strategies.webp",
+      "sha256": "5e6eae7611a8488fe314c21268f2cb310ac3ed1b0a5bae361e5291c44702c1ca",
+      "bytes": 276888,
+      "from": "page 6 — strategies for connecting the rooftops, x 0–50 %, y 0–40 %"
+    },
+    {
+      "name": "05-studio-section-detail.webp",
+      "sha256": "12d0007a8cb624a4fdd9d923521a9d8039a57204e998e4c23dbd4a6784950f91",
+      "bytes": 483522,
+      "from": "page 6 — section detail of a studio pod, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "06-exploded-axonometric.webp",
+      "sha256": "63dff34bfdb297835445b23dcf17c5720c4e2d3164627d7969920a6c8927464d",
+      "bytes": 238206,
+      "from": "page 7 — exploded axonometric drawing, x 0–50 %, y 45–100 %"
+    },
+    {
+      "name": "07-master-plan.webp",
+      "sha256": "b4722e0ce3929562cc5003cc3888382e9ed695f47b550b381b058666079be46e",
+      "bytes": 255482,
+      "from": "page 7 — master plan, studio floor and corridor floor plans, x 50–100 %, y 43–100 %"
+    },
+    {
+      "name": "08-floating-workshops.webp",
+      "sha256": "aea0ac36985db76876b0dbb47143b070bf17959a1612aacc34a5e87e475b323d",
+      "bytes": 117880,
+      "from": "page 6 — the workshops suspended above the rooftops, x 0–50 %, y 72–100 %"
+    }
+  ]
+}
