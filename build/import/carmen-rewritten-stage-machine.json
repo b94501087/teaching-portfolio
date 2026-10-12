@@ -1,0 +1,67 @@
+{
+  "project": "Carmen, Rewritten",
+  "dest": "assets/board/carmen-rewritten-stage-machine",
+  "note": "Portfolio 2712 pages 18-20 cropped to ten images, WebP q88 (PIL), max 2000 px wide. QR codes cropped out. Not used: the title page with instructor name, the history and story text, the act text with QR codes.",
+  "files": [
+    {
+      "name": "01-stage-machine.webp",
+      "sha256": "1144dc9e599a305ca17bede61615f60ce15113a7520a2c29fdfc96d99f6c9a91",
+      "bytes": 193824,
+      "from": "2712 page 18 — stage machine model"
+    },
+    {
+      "name": "02-opera-poster.webp",
+      "sha256": "c6d33f33d235e388701905a5e9bd882ac948d563fda9100a61f9fd666fbc752d",
+      "bytes": 68654,
+      "from": "2712 page 18 — opera poster used as reference"
+    },
+    {
+      "name": "03-fabric-study.webp",
+      "sha256": "25a40d78692671b5704905fd6048e9d89e99df7f380080c3df3826ea085dc412",
+      "bytes": 40132,
+      "from": "2712 page 18 — fabric curtain study"
+    },
+    {
+      "name": "04-costume-lineup.webp",
+      "sha256": "2f5bb33d02c5b355ecdaeb2c0661b39d2be4b695bbd238b328cb7a951e5d4d52",
+      "bytes": 61138,
+      "from": "2712 page 19 — costume lineup of AI-generated figures, QR codes removed"
+    },
+    {
+      "name": "05-machine-model.webp",
+      "sha256": "f79a79e2e355f556cc20a248b3a8a43f1ccf78c5cd220c9c0056fb11b13b080c",
+      "bytes": 136214,
+      "from": "2712 page 19 — machinery of fate model"
+    },
+    {
+      "name": "06-act-one-stage.webp",
+      "sha256": "71f316b887d980fe39a7cc0f7409bfe9015a7b33a845a36305e78e3389a6e374",
+      "bytes": 52196,
+      "from": "2712 page 20 — act one stage view, QR code cropped out"
+    },
+    {
+      "name": "07-act-two-stage.webp",
+      "sha256": "b53c30eb18e1b1899dc7e68a71509907710e9c56da9a63f9abafd9a6527d2923",
+      "bytes": 46348,
+      "from": "2712 page 20 — act two stage view, QR code cropped out"
+    },
+    {
+      "name": "08-act-three-costume.webp",
+      "sha256": "6a4653b53808ff6d3a86a8cf4e9a78f0b4b0b8de7ee5ff93d90120bee3e4c8bb",
+      "bytes": 36500,
+      "from": "2712 page 20 — costume view, QR code cropped out"
+    },
+    {
+      "name": "09-act-three-stage.webp",
+      "sha256": "059d7f07138e0ee26b120ba3b4423efd417770653d509f7836050a545bec8630",
+      "bytes": 30382,
+      "from": "2712 page 20 — stage view, QR code cropped out"
+    },
+    {
+      "name": "10-final-curtain.webp",
+      "sha256": "8cadc2f0a249959eaeb315f7358e7b0c2eda6e777ad1b0b864fa43cfb60adadb",
+      "bytes": 61620,
+      "from": "2712 page 20 — final release scene, QR code cropped out"
+    }
+  ]
+}
