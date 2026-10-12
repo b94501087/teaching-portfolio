@@ -1,0 +1,55 @@
+{
+  "project": "Motion Morphology",
+  "dest": "assets/board/motion-morphology-hurdling-trace",
+  "note": "Portfolio 188e pages 6-7 cropped to eight images, WebP q88 (PIL). Not used: title and body text, photos of the runner, historic motion-study photo plate, reference sculpture photo.",
+  "files": [
+    {
+      "name": "01-suspended-installation.webp",
+      "sha256": "931af8146f38dd1a08f3013a372255785e94e0f89b837717b3f36cfbd69c1a5d",
+      "bytes": 37784,
+      "from": "188e page 7 — final suspended installation"
+    },
+    {
+      "name": "02-gesture-drawings.webp",
+      "sha256": "da6328d399531b67cb3ff640125c17bf19d37c31b1f8c5f45487101c5358086a",
+      "bytes": 16382,
+      "from": "188e page 6 — gesture drawings of hurdling frames"
+    },
+    {
+      "name": "03-joint-trajectories.webp",
+      "sha256": "2038f48efb34536a9caa89ebe471aac01fbfa9e26764919617b7cfebdf997f8f",
+      "bytes": 7014,
+      "from": "188e page 7 — layered joint trajectories"
+    },
+    {
+      "name": "04-lofted-curves.webp",
+      "sha256": "d513a8ec3d5d4cf2e580bdfcc8df13db4ba9e13d69445f19de8c088d7c6c0806",
+      "bytes": 13534,
+      "from": "188e page 7 — lofted motion curves"
+    },
+    {
+      "name": "05-sliced-body-trace.webp",
+      "sha256": "3411d1e17929d2b55f8a8a1d3cb2805c92552e516322d1c40304f15f4aa1d028",
+      "bytes": 10522,
+      "from": "188e page 7 — body trace through panels"
+    },
+    {
+      "name": "06-model-making.webp",
+      "sha256": "01c6f55bd5eeecac23c881ddfa9c4ea963135fd99248249822df979e96c79ddb",
+      "bytes": 23856,
+      "from": "188e page 7 — model-making process"
+    },
+    {
+      "name": "07-ribbons-side.webp",
+      "sha256": "04c3d0ea58b17c8f5f0ae5f7d2fd25b5cf30e3885cedd0b7a63cacf670861eb6",
+      "bytes": 35766,
+      "from": "188e page 7 — ribbons, side view"
+    },
+    {
+      "name": "08-ribbons-panels.webp",
+      "sha256": "0f65fbdf931c4ccc2e346abfb9508acc6569bc686ce2423af196546f7f6e0615",
+      "bytes": 32134,
+      "from": "188e page 7 — ribbons and panels"
+    }
+  ]
+}
