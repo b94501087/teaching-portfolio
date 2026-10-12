@@ -28315,6 +28315,292 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Reinventing Shape and Spontaneous Growth",
+      "slug": "reinventing-shape-spontaneous-growth",
+      "description": "Small spaces drawn from three case studies stack into a parasitic architecture for an urban village.\n\nGuangzhou | Parasitic architecture | Urban village | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重塑形態與自發生長",
+          "description": "由三個案例提取的小空間，堆疊成城中村的寄生建築。\n\n廣州｜寄生建築｜城中村｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/reinventing-shape-spontaneous-growth/01-timber-cluster-model.webp",
+        "assets/board/reinventing-shape-spontaneous-growth/02-parasitic-model-detail.webp",
+        "assets/board/reinventing-shape-spontaneous-growth/03-slow-house-section-models.webp",
+        "assets/board/reinventing-shape-spontaneous-growth/04-site-sections.webp",
+        "assets/board/reinventing-shape-spontaneous-growth/05-building-structure.webp",
+        "assets/board/reinventing-shape-spontaneous-growth/06-small-space-forms.webp",
+        "assets/board/reinventing-shape-spontaneous-growth/07-small-space-drawings-a.webp",
+        "assets/board/reinventing-shape-spontaneous-growth/08-small-space-drawings-b.webp",
+        "assets/board/reinventing-shape-spontaneous-growth/09-full-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/reinventing-shape-spontaneous-growth/01-timber-cluster-model.webp"
+          ],
+          "captions": [
+            "Timber model of the parasitic cluster."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "寄生建築群的木構模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Urban villages near the university town grow on their own, with small rooms and shops added wherever space allows. The project asks how a parasitic architecture could grow from small spaces into a construction mode.",
+          "images": [
+            "assets/board/reinventing-shape-spontaneous-growth/02-parasitic-model-detail.webp"
+          ],
+          "captions": [
+            "Detail of the parasitic model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "大學城周邊的城中村自發生長，小房間與店鋪在任何可用空間中不斷加建。本案探討寄生建築如何從小空間出發，發展成一種建造模式。",
+              "captions": [
+                "寄生模型細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Three case study buildings were read through writing, critical observation, collage and physical models. The space script of one house was turned into a sequence of section models.",
+          "images": [
+            "assets/board/reinventing-shape-spontaneous-growth/03-slow-house-section-models.webp",
+            "assets/board/reinventing-shape-spontaneous-growth/04-site-sections.webp"
+          ],
+          "captions": [
+            "Section models from the case study house.",
+            "Site sections of the village."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以寫作、批判性觀察、拼貼與實體模型解讀三個案例建築。其中一棟住宅的空間腳本被轉化為一系列剖面模型。",
+              "captions": [
+                "案例住宅的剖面模型。",
+                "村落的基地剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The three cases were broken down into structural types that could be stacked in the village. Their sections were then varied by size, opening and slope into many small space forms.",
+          "images": [
+            "assets/board/reinventing-shape-spontaneous-growth/05-building-structure.webp",
+            "assets/board/reinventing-shape-spontaneous-growth/06-small-space-forms.webp"
+          ],
+          "captions": [
+            "Structure types drawn from the three cases.",
+            "Matrix of small space forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "將三個案例拆解為可在村中堆疊的結構類型。再依尺寸、開口與坡度變化其剖面，衍生出大量小空間形態。",
+              "captions": [
+                "由三個案例提取的結構類型。",
+                "小空間形態矩陣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Selected forms became small rooms ranked from private to public, each drawn in plan and section. Stacked together in the timber model, they show how the cluster could keep growing over time.",
+          "images": [
+            "assets/board/reinventing-shape-spontaneous-growth/07-small-space-drawings-a.webp",
+            "assets/board/reinventing-shape-spontaneous-growth/08-small-space-drawings-b.webp",
+            "assets/board/reinventing-shape-spontaneous-growth/09-full-model.webp"
+          ],
+          "captions": [
+            "Small rooms drawn in plan, section and axonometric.",
+            "More small rooms ranked by privacy.",
+            "The full timber model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "選出的形態成為由私密到公共分級的小房間，各自繪製平面與剖面。在木構模型中層層堆疊，呈現建築群如何隨時間持續生長。",
+              "captions": [
+                "以平面、剖面與軸測繪製的小房間。",
+                "依私密程度分級的更多小房間。",
+                "完整的木構模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read a few cases in many ways.\n2. Pull out their spatial types.\n3. Vary them into a family of forms.\n4. Test the forms in a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 以多種方式解讀幾個案例。\n2. 提取其空間類型。\n3. 變化出一系列形態。\n4. 在模型中測試這些形態。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Line Offset Pop-up Shop",
+      "slug": "line-offset-pop-up-shop",
+      "description": "Offset boxes of different sizes turn a busy square into a pop-up shop to wander through.\n\nGuangzhou | Pop-up shop | Experience space | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "線性偏移快閃店",
+          "description": "不同尺寸的偏移量體，將繁忙廣場轉化為可漫遊的快閃店。\n\n廣州｜快閃店｜體驗空間｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/line-offset-pop-up-shop/01-urban-axonometric.webp",
+        "assets/board/line-offset-pop-up-shop/02-paper-models.webp",
+        "assets/board/line-offset-pop-up-shop/03-parti-diagrams.webp",
+        "assets/board/line-offset-pop-up-shop/04-conception-phase.webp",
+        "assets/board/line-offset-pop-up-shop/05-behaviour-patterns.webp",
+        "assets/board/line-offset-pop-up-shop/06-central-space.webp",
+        "assets/board/line-offset-pop-up-shop/07-experience-rooms.webp",
+        "assets/board/line-offset-pop-up-shop/08-exploded-elements.webp",
+        "assets/board/line-offset-pop-up-shop/09-element-matrix.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/line-offset-pop-up-shop/01-urban-axonometric.webp"
+          ],
+          "captions": [
+            "Axonometric of the pop-up shop in the business district."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "快閃店位於商業區中的軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site sits in a busy square of the city's business district, where many people pass through every day. The project asks how a pop-up shop could turn this flow into a space to walk, pause and gather.",
+          "images": [
+            "assets/board/line-offset-pop-up-shop/02-paper-models.webp"
+          ],
+          "captions": [
+            "Paper study models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於城市商業區一處繁忙廣場，每天有大量人流經過。本案探討快閃店如何將這股人流轉化為可行走、停留與聚集的空間。",
+              "captions": [
+                "紙模型研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Paper models and parti diagrams tested how rectangular boxes of different sizes could slide and offset. Line studies then traced how a route could wind between open and narrow, dark and bright.",
+          "images": [
+            "assets/board/line-offset-pop-up-shop/03-parti-diagrams.webp",
+            "assets/board/line-offset-pop-up-shop/04-conception-phase.webp"
+          ],
+          "captions": [
+            "Parti diagrams of the offset boxes.",
+            "Line studies from the conception phase."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以紙模型與構想圖測試不同尺寸的矩形量體如何滑移與偏移。再以線條研究描繪路徑如何在開闊與狹窄、明與暗之間迂迴。",
+              "captions": [
+                "偏移量體的構想圖。",
+                "構思階段的線條研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Habits such as taking shortcuts, following others and avoiding crowds shaped the plan. A central space holds meetings, parties and talks, while smaller rooms offer screening, rest, reading and snacks.",
+          "images": [
+            "assets/board/line-offset-pop-up-shop/05-behaviour-patterns.webp",
+            "assets/board/line-offset-pop-up-shop/06-central-space.webp",
+            "assets/board/line-offset-pop-up-shop/07-experience-rooms.webp"
+          ],
+          "captions": [
+            "Behaviour patterns of visitors.",
+            "Uses of the central main space.",
+            "Smaller experience rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "抄捷徑、跟隨他人與避開人群等行為習慣形塑了平面。中央空間容納聚會、派對與講座，較小的房間則提供放映、休息、閱讀與點心。",
+              "captions": [
+                "訪客的行為模式。",
+                "中央主空間的使用方式。",
+                "較小的體驗房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each box was set out with its own route, enclosure, interface and material, from mirror to perforated metal and glass. Stacked together, the boxes form a light and layered shop that changes as people move through it.",
+          "images": [
+            "assets/board/line-offset-pop-up-shop/08-exploded-elements.webp",
+            "assets/board/line-offset-pop-up-shop/09-element-matrix.webp"
+          ],
+          "captions": [
+            "Exploded view of the boxes.",
+            "Matrix of routes, interfaces and materials."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每個量體各自設定路徑、圍合、介面與材料，從鏡面到穿孔金屬與玻璃。量體堆疊後構成輕盈而多層次的店舖，隨人們穿行而變化。",
+              "captions": [
+                "量體爆炸圖。",
+                "路徑、介面與材料矩陣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch how people move on site.\n2. Test simple boxes in paper.\n3. Give each box one use.\n4. Set a material for each box.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察人們在基地中的移動。\n2. 以紙模型測試簡單量體。\n3. 為每個量體指定一種用途。\n4. 為每個量體選定材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
