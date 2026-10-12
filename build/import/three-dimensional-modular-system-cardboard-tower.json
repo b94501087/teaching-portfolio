@@ -1,0 +1,43 @@
+{
+  "project": "Three-Dimensional Modular System Study",
+  "dest": "assets/board/three-dimensional-modular-system-cardboard-tower",
+  "note": "Portfolio ce05 pages 8-9 cropped to six images, WebP q88 (PIL). Not used: title and text, precedent sketches and archive model photo, precedent and architect names.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "00da10ebfabfc630bfcc143f48211a83a92ce04d41376b2d8c77f88fe21ea17b",
+      "bytes": 77426,
+      "from": "ce05 page 8 — final tower"
+    },
+    {
+      "name": "02-materials.webp",
+      "sha256": "9f91ca978a178af56b03d9d10a43a7668d41b1d9e62ef897712ad1c92107ae2e",
+      "bytes": 10404,
+      "from": "ce05 page 8 — materials"
+    },
+    {
+      "name": "03-small-model-a.webp",
+      "sha256": "2ffe4164a482f83633d43923493fca9fb94fa0c3c4b0303d288a605b70093243",
+      "bytes": 11166,
+      "from": "ce05 page 8 — small model a"
+    },
+    {
+      "name": "04-small-model-b.webp",
+      "sha256": "bf20a128188dc4909c1be36f63fd39dcc925b6d8e156ac7bf2dd4bcd6806f41c",
+      "bytes": 14138,
+      "from": "ce05 page 8 — small model b"
+    },
+    {
+      "name": "05-close-view.webp",
+      "sha256": "24bab201feed5b98d766a6e28307b33baf9165ac84f8a27fcde7515176907ab9",
+      "bytes": 98036,
+      "from": "ce05 page 9 — close view"
+    },
+    {
+      "name": "06-hand-drawing.webp",
+      "sha256": "6634a0ecd5e83256070a6d4098fa12eb0e91b33808b7c556fe6517b89a45586b",
+      "bytes": 236622,
+      "from": "ce05 page 9 — hand drawing"
+    }
+  ]
+}
