@@ -1,0 +1,55 @@
+{
+  "project": "Spatial Deconstruction of Chinese Gardens",
+  "dest": "assets/board/spatial-deconstruction-of-a-classical-garden-model",
+  "note": "Portfolio c916 pages 3-4 cropped to eight images, WebP q88 (PIL). Not used: title and text, watercolour impression sketches.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "7ea2cafca9a2bbb722b6b134e47849ae384cb954e1e0ed98b026cea9587a2852",
+      "bytes": 67566,
+      "from": "c916 page 4 — final model"
+    },
+    {
+      "name": "02-plan-collage.webp",
+      "sha256": "1526c23755a9a5ba7066bfbfe40abc1067d1c7145c5bf3503b6570312edb4477",
+      "bytes": 70584,
+      "from": "c916 page 3 — plan collage"
+    },
+    {
+      "name": "03-garden-photo.webp",
+      "sha256": "acc61df4f0eb3ca2ddb7e75600fbdc368f02cee6f8591dbd76c46fb422a9c40b",
+      "bytes": 15598,
+      "from": "c916 page 3 — garden photo"
+    },
+    {
+      "name": "04-modeling.webp",
+      "sha256": "9a3b55b1197b6fe958dd1bdf6c746d19486b56d5ad5bb291665c512bb7c69aac",
+      "bytes": 21656,
+      "from": "c916 page 3 — modeling"
+    },
+    {
+      "name": "05-pavilion-detail.webp",
+      "sha256": "f631e426adc0cbc2039fb351147e169cb30fe77dfaf28c26d04cddfbd1baf4b6",
+      "bytes": 47466,
+      "from": "c916 page 4 — pavilion detail"
+    },
+    {
+      "name": "06-stick-frames.webp",
+      "sha256": "91c680aa275495d53a3c806a48ded58882ff1f1684c0a3313ff5bfb0b87cce7b",
+      "bytes": 9990,
+      "from": "c916 page 4 — stick frames"
+    },
+    {
+      "name": "07-night-frames.webp",
+      "sha256": "72d6575b2066b84fad2ac2f7dfe45b9c4ffddbfe01ac0e1753d666b9faff1185",
+      "bytes": 7044,
+      "from": "c916 page 4 — night frames"
+    },
+    {
+      "name": "08-pond-view.webp",
+      "sha256": "0cb0bb6259cd572c06a8805f59aa0b52271b3724fffe73adde4c672200172608",
+      "bytes": 16116,
+      "from": "c916 page 4 — pond view"
+    }
+  ]
+}
