@@ -24363,6 +24363,292 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Skate Park Training Facility",
+      "slug": "skate-park-training-facility",
+      "description": "A skate park in Brisbane where a looping roof grows out of the slope and links outdoor and indoor skating.\n\nBrisbane, Australia | Skate park | 2017 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "滑板公園訓練設施",
+          "description": "位於布里斯本的滑板公園，環狀屋頂自坡地生長而出，串連戶外與室內的滑板空間。\n\n澳洲布里斯本｜滑板公園｜2017年｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/skate-park-training-facility/01-street-view.webp",
+        "assets/board/skate-park-training-facility/02-site-analysis.webp",
+        "assets/board/skate-park-training-facility/03-user-groups.webp",
+        "assets/board/skate-park-training-facility/04-site-life-program.webp",
+        "assets/board/skate-park-training-facility/05-site-plan.webp",
+        "assets/board/skate-park-training-facility/06-ramp-types.webp",
+        "assets/board/skate-park-training-facility/07-skater-movement.webp",
+        "assets/board/skate-park-training-facility/08-exploded-axon.webp",
+        "assets/board/skate-park-training-facility/09-plans.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/skate-park-training-facility/01-street-view.webp"
+          ],
+          "captions": [
+            "Street view of the skate park, its curved roof rising out of the slope."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "滑板公園街景，彎曲的屋頂自坡地中升起。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The brief asked for a training facility for elite skateboarders in a park in Brisbane. The site is bumpy, crossed by random footpaths and surrounded by busy roads and dense housing.",
+          "images": [
+            "assets/board/skate-park-training-facility/02-site-analysis.webp",
+            "assets/board/skate-park-training-facility/03-user-groups.webp"
+          ],
+          "captions": [
+            "Site analysis: surroundings, transport and access, trees and footpaths.",
+            "Who the park serves: older people, children, families, skaters and animals."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "題目要求在布里斯本一座公園內設計菁英滑板選手的訓練設施。基地地形起伏，雜亂的步道穿越其間，周邊是繁忙道路與密集住宅。",
+              "captions": [
+                "基地分析：周邊環境、交通與出入、樹木與步道。",
+                "公園的使用者：長者、孩童、家庭、滑板者與動物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project reads site as a sense of place and surface as the ground where building and landscape meet. Studies of site, daily life and program set out how the park could welcome all ages.",
+          "images": [
+            "assets/board/skate-park-training-facility/04-site-life-program.webp",
+            "assets/board/skate-park-training-facility/06-ramp-types.webp"
+          ],
+          "captions": [
+            "Site, life and program: placing the building where the footpaths cross.",
+            "Skate elements from ramps and bowls to rails and pipes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案將「基地」理解為場所精神，將「表面」視為建築與地景交會的地面。透過基地、日常生活與機能的研究，探討公園如何迎接各個年齡層。",
+              "captions": [
+                "基地、生活與機能：將建築置於步道交會處。",
+                "從坡道、碗池到扶手與管道的各種滑板元素。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Drawings of skaters in motion show the dynamic, fluent and curvy lines of the sport. These lines shape a looping roof that links the outdoor skating platform with the indoor training hall below.",
+          "images": [
+            "assets/board/skate-park-training-facility/07-skater-movement.webp",
+            "assets/board/skate-park-training-facility/05-site-plan.webp"
+          ],
+          "captions": [
+            "Skater movement studies that lead to the curved forms.",
+            "Site plan, with vehicle access from the north-west and pedestrian access from two sides."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "描繪滑板者動作的圖面，呈現這項運動動態、流暢而彎曲的線條。這些線條塑造出環狀屋頂，串連戶外滑板平台與下方的室內訓練館。",
+              "captions": [
+                "引出曲線形體的滑板動作研究。",
+                "配置圖，車輛由西北側進入，行人則可從兩側進出。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The building uses the height difference of the site, so the indoor skating area sits partly below ground. Above it lie a function room, a roof terrace and a skating platform on the roof.",
+          "images": [
+            "assets/board/skate-park-training-facility/08-exploded-axon.webp",
+            "assets/board/skate-park-training-facility/09-plans.webp"
+          ],
+          "captions": [
+            "Exploded axonometric from the indoor skating area up to the outdoor facilities.",
+            "Roof, first level, ground level and basement plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築利用基地的高低差，使室內滑板區部分位於地面以下。其上依序是多功能室、屋頂露台與屋頂滑板平台。",
+              "captions": [
+                "從室內滑板區到戶外設施的分解軸測圖。",
+                "屋頂、二樓、一樓與地下室平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the ground.\n2. Know every user.\n3. Draw the movement.\n4. Let the roof play.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀地形。\n2. 認識每位使用者。\n3. 畫出動作。\n4. 讓屋頂成為遊戲場。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Residing in the City",
+      "slug": "residing-in-the-city-oakland",
+      "description": "An urban park, a pixel landscape and a temporary artwork station slip new public space into dense Oakland.\n\nOakland, USA | Urban public space | 2018 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "棲居城市",
+          "description": "城市公園、像素地景與臨時藝術站，將新的公共空間置入高密度的奧克蘭。\n\n美國奧克蘭｜城市公共空間｜2018年｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/residing-in-the-city-oakland/01-pixel-landscape.webp",
+        "assets/board/residing-in-the-city-oakland/02-pixel-map.webp",
+        "assets/board/residing-in-the-city-oakland/03-urban-park-sections.webp",
+        "assets/board/residing-in-the-city-oakland/04-urban-park-sketches.webp",
+        "assets/board/residing-in-the-city-oakland/05-urban-park-site-plan.webp",
+        "assets/board/residing-in-the-city-oakland/06-land-use-map.webp",
+        "assets/board/residing-in-the-city-oakland/07-station-site.webp",
+        "assets/board/residing-in-the-city-oakland/08-station-options.webp",
+        "assets/board/residing-in-the-city-oakland/09-station-sections.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/residing-in-the-city-oakland/01-pixel-landscape.webp"
+          ],
+          "captions": [
+            "Pixel landscape: greenery, pools, paving and pavilions broken into pieces between the towers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "像素地景：綠地、水池、鋪面與亭子被拆解成碎片，置入高樓之間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Oakland is already a high-density, well-developed city, and most of its land is taken by buildings. The project looks for ways to improve daily life and the look of the city while keeping its original structure.",
+          "images": [
+            "assets/board/residing-in-the-city-oakland/02-pixel-map.webp",
+            "assets/board/residing-in-the-city-oakland/06-land-use-map.webp"
+          ],
+          "captions": [
+            "Pattern plan for the pixel landscape in the central office zone.",
+            "Land use map of commercial, residential and public space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "奧克蘭已是高密度且高度開發的城市，大部分土地都已被建築占據。本案在保留原有城市紋理的前提下，尋找改善市民生活品質與城市景觀的方法。",
+              "captions": [
+                "中央辦公區像素地景的圖案平面。",
+                "商業、住宅與公共空間的土地使用圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The city has many museums and galleries, but most are indoor and small, and outdoor gathering spots are few. Underused car parks and leftover gaps between buildings became the chances for new public space.",
+          "images": [
+            "assets/board/residing-in-the-city-oakland/03-urban-park-sections.webp",
+            "assets/board/residing-in-the-city-oakland/05-urban-park-site-plan.webp"
+          ],
+          "captions": [
+            "Urban park sections: a stage, an entrance, a platform and two chairs.",
+            "Urban park site plan on a former car park."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "城市裡有許多博物館與藝廊，但多為室內小型空間，戶外聚集場所十分有限。閒置的停車場與建築之間的零碎空隙，成為新公共空間的契機。",
+              "captions": [
+                "城市公園剖面：舞台、入口、平台與兩處座椅。",
+                "建於原停車場上的城市公園配置圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A rectangular basic form was reshaped into an organic shell that shelters a stage and a theatre. Gaps between the ribs let sunlight and rain reach the planting below.",
+          "images": [
+            "assets/board/residing-in-the-city-oakland/04-urban-park-sketches.webp",
+            "assets/board/residing-in-the-city-oakland/08-station-options.webp"
+          ],
+          "captions": [
+            "Form studies: from a basic box to an organic shell that lets sunlight through.",
+            "Three options for an artwork station on a rooftop, between buildings or over a car park."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "從長方形的基本形體出發，逐步修改成有機的殼體，庇護舞台與劇場。肋條之間的縫隙讓陽光與雨水落到下方的植栽。",
+              "captions": [
+                "形體研究：從基本方盒到讓陽光穿透的有機殼體。",
+                "藝術站的三種方案：屋頂、建築之間或停車場上方。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A temporary artwork station plugs into the gap between a group of apartment buildings and a store beside a freeway. Its sections show a light, porous structure climbing above and around the existing buildings.",
+          "images": [
+            "assets/board/residing-in-the-city-oakland/07-station-site.webp",
+            "assets/board/residing-in-the-city-oakland/09-station-sections.webp"
+          ],
+          "captions": [
+            "Site of the artwork station between apartments and a store.",
+            "Sections A and B through the artwork station."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "臨時藝術站嵌入高速公路旁一群公寓與一家商店之間的空隙。剖面呈現輕盈多孔的結構，在既有建築之上與周圍攀升。",
+              "captions": [
+                "位於公寓與商店之間的藝術站基地。",
+                "穿過藝術站的剖面A與剖面B。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Keep the city fabric.\n2. Find leftover space.\n3. Break it into pieces.\n4. Plug in, lightly.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 保留城市紋理。\n2. 找出剩餘空間。\n3. 將地景拆解成碎片。\n4. 輕巧地嵌入。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
