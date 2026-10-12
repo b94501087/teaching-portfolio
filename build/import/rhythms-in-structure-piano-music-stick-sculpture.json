@@ -1,0 +1,67 @@
+{
+  "project": "Rhythms in Structure",
+  "dest": "assets/board/rhythms-in-structure-piano-music-stick-sculpture",
+  "note": "Portfolio 8409 pages 9-10 cropped to ten images, WebP q88 (PIL). Not used: music score images with a cartoon title, process photo showing the student, musician and cartoon names.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "94bdfb0a22496769d88225fd3913d496a4869267f3804aaa3e4c7eb193d74e97",
+      "bytes": 133972,
+      "from": "8409 page 10 — final model"
+    },
+    {
+      "name": "02-bass-drawing.webp",
+      "sha256": "1491207385f80c4cb5a26dc477175de65aa562c3c1c440136d7e3e98957511bd",
+      "bytes": 35966,
+      "from": "8409 page 9 — bass drawing"
+    },
+    {
+      "name": "03-melody-drawing.webp",
+      "sha256": "d8a660c59940342e0838eefe2f28e8e694c6347097c4a8cd50be037185e1f463",
+      "bytes": 29292,
+      "from": "8409 page 9 — melody drawing"
+    },
+    {
+      "name": "04-cellophane-strips.webp",
+      "sha256": "0fd2c5807ac3e58b7d4c93ee7a7c99cdc0b5eb2957d8735980033e07fd97132f",
+      "bytes": 11462,
+      "from": "8409 page 9 — cellophane strips"
+    },
+    {
+      "name": "05-colour-layers.webp",
+      "sha256": "9a95b2984d4c98647b8e1de3516972449ff2ea7180227fc8df7d26f9520afee2",
+      "bytes": 18000,
+      "from": "8409 page 9 — colour layers"
+    },
+    {
+      "name": "06-concept-model.webp",
+      "sha256": "fa46a5d2eb338f22f1008cafcf2898c01aff899c51945ce399273f09d5563b85",
+      "bytes": 55636,
+      "from": "8409 page 9 — concept model"
+    },
+    {
+      "name": "07-light-detail.webp",
+      "sha256": "613a5222d434b35fb842d4204416bcbb56acf6b07b5d943efd9a9dcdae697d2c",
+      "bytes": 42960,
+      "from": "8409 page 10 — light detail"
+    },
+    {
+      "name": "08-reflection.webp",
+      "sha256": "e238e9c626fe5c8debffb94be2e6b1dee8ef52093a7a98116bf2fc9aa2fd2449",
+      "bytes": 10530,
+      "from": "8409 page 10 — reflection"
+    },
+    {
+      "name": "09-blue-glow.webp",
+      "sha256": "984b338432e3e8595f8f7a34e7fdba9208c29c8c698733183aec344db5469f27",
+      "bytes": 34188,
+      "from": "8409 page 10 — blue glow"
+    },
+    {
+      "name": "10-side-view.webp",
+      "sha256": "0866e4e94734c6f1fd0ed750ccdf2c1ea90bf2ce071b79caf6c90c11c19991a5",
+      "bytes": 50028,
+      "from": "8409 page 10 — side view"
+    }
+  ]
+}
