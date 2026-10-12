@@ -23357,7 +23357,6 @@
         "assets/board/home-of-pottery-jingdezhen/05-programme-axonometric.webp",
         "assets/board/home-of-pottery-jingdezhen/06-ground-floor-plan.webp",
         "assets/board/home-of-pottery-jingdezhen/07-master-plan.webp",
-        "assets/board/home-of-pottery-jingdezhen/08-sections.webp",
         "assets/board/home-of-pottery-jingdezhen/09-elevations.webp",
         "assets/board/home-of-pottery-jingdezhen/10-study-models.webp"
       ],
@@ -23446,14 +23445,12 @@
             "assets/board/home-of-pottery-jingdezhen/05-programme-axonometric.webp",
             "assets/board/home-of-pottery-jingdezhen/06-ground-floor-plan.webp",
             "assets/board/home-of-pottery-jingdezhen/07-master-plan.webp",
-            "assets/board/home-of-pottery-jingdezhen/08-sections.webp",
             "assets/board/home-of-pottery-jingdezhen/09-elevations.webp"
           ],
           "captions": [
             "Programme axonometric for production, tourism and communication.",
             "Ground floor plan.",
             "Master plan between the stream, the mountain and the old building.",
-            "Sections A-A and B-B.",
             "Elevations C-C and D-D."
           ],
           "i18n": {
@@ -23464,7 +23461,6 @@
                 "生產、觀光與交流的機能軸測圖。",
                 "一樓平面圖。",
                 "位於溪流、山與老建築之間的總平面圖。",
-                "A-A與B-B剖面。",
                 "C-C與D-D立面。"
               ]
             }
@@ -23479,6 +23475,153 @@
             "zh-Hant": {
               "heading": "我如何教這套方法",
               "body": "1. 為真實的使用族群設計。\n2. 依循事物的製作方式。\n3. 為每個步驟配上一種元素。\n4. 下沉建築以保留視野。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Port of Culture",
+      "slug": "port-of-culture-mariupol",
+      "description": "A damaged building in Mariupol becomes a cultural landmark whose routes weave collective memory and migration under a planted membrane roof.\n\nMariupol, Ukraine | Culture and exhibition | Feb–Apr 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "文化之港",
+          "description": "馬立波一棟受損建築化身為文化地標，在植栽膜屋頂下交織集體記憶與遷徙的路徑。\n\n烏克蘭馬立波｜文化與展覽｜2019年2–4月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/port-of-culture-mariupol/01-membrane-landmark.webp",
+        "assets/board/port-of-culture-mariupol/02-site-analysis.webp",
+        "assets/board/port-of-culture-mariupol/03-string-form-concept.webp",
+        "assets/board/port-of-culture-mariupol/04-location-impact.webp",
+        "assets/board/port-of-culture-mariupol/05-model-studies.webp",
+        "assets/board/port-of-culture-mariupol/06-space-elements.webp",
+        "assets/board/port-of-culture-mariupol/07-exploded-axonometry.webp",
+        "assets/board/port-of-culture-mariupol/08-interior-renderings.webp",
+        "assets/board/port-of-culture-mariupol/09-node-diagrams.webp",
+        "assets/board/port-of-culture-mariupol/10-structure.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/port-of-culture-mariupol/01-membrane-landmark.webp"
+          ],
+          "captions": [
+            "The green membrane roof rises from the ground over the new cultural building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "綠色膜結構屋頂自地面升起，覆蓋新的文化建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A damaged historic building beside a church square in Mariupol is to become a new landmark for the city. The brief asks for an open space where residents can meet, share local stories and rebuild a sense of pride.",
+          "images": [
+            "assets/board/port-of-culture-mariupol/02-site-analysis.webp"
+          ],
+          "captions": [
+            "Site analysis: the building in its dense low-rise block, with land use, height and road maps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "馬立波教堂廣場旁一棟受損的歷史建築，將被轉化為城市的新地標。任務要求一處開放空間，讓居民相聚、分享在地故事，並重建對城市的認同。",
+              "captions": [
+                "基地分析：位於密集低層街廓中的建築，以及土地使用、高度與道路圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "String models pulled by hand test how the old volume can be split, dragged, rotated and reconnected. Four urban effects guide the form: a landmark, a public ramp, beams of light and a place of remembrance.",
+          "images": [
+            "assets/board/port-of-culture-mariupol/03-string-form-concept.webp",
+            "assets/board/port-of-culture-mariupol/04-location-impact.webp"
+          ],
+          "captions": [
+            "String model steps: split, drag, rotate, adjust, connect and end.",
+            "Location impact: special landmark, public space, lighthouse and commemoration."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以手拉動的線材模型，測試舊量體如何被分割、拉伸、旋轉與重新連接。四種城市效應引導形體：地標、公共坡道、光束與紀念場所。",
+              "captions": [
+                "線材模型步驟：分割、拉伸、旋轉、調整、連接與完成。",
+                "區位影響：特殊地標、公共空間、燈塔與紀念。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The city history is read as four themes, fortress, wharf, industry and war, and each theme becomes a set of space elements. Two routes, one of collective memory and one of migration, weave through the exhibition levels.",
+          "images": [
+            "assets/board/port-of-culture-mariupol/05-model-studies.webp",
+            "assets/board/port-of-culture-mariupol/06-space-elements.webp"
+          ],
+          "captions": [
+            "Model studies of space elements for the four themes.",
+            "Space elements and the linked routes of migration and collective memory."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "城市歷史被解讀為要塞、碼頭、工業與戰爭四個主題，每個主題轉化為一組空間元素。集體記憶與遷徙兩條路徑，交織穿越各個展覽樓層。",
+              "captions": [
+                "四個主題空間元素的模型研究。",
+                "空間元素，以及遷徙與集體記憶相互連結的路徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Two floors above ground and two below sit under one inflatable membrane roof with planted ridges. Interior views follow the routes from the children's entrance through spaces of memory and migration.",
+          "images": [
+            "assets/board/port-of-culture-mariupol/07-exploded-axonometry.webp",
+            "assets/board/port-of-culture-mariupol/08-interior-renderings.webp",
+            "assets/board/port-of-culture-mariupol/09-node-diagrams.webp",
+            "assets/board/port-of-culture-mariupol/10-structure.webp"
+          ],
+          "captions": [
+            "Exploded axonometry from the roof outline down to the second basement.",
+            "Interior renderings along the memory and migration routes.",
+            "Node diagrams of the planted roof and the double inflatable membrane.",
+            "Structure of the tensile roof with light and structural columns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "地上兩層與地下兩層，覆蓋在一片帶有植栽脊線的充氣膜屋頂之下。室內視角沿著路徑，從兒童入口穿越記憶與遷徙的空間。",
+              "captions": [
+                "從屋頂輪廓到地下二層的爆炸軸測圖。",
+                "沿記憶與遷徙路徑的室內渲染。",
+                "植栽屋頂與雙層充氣膜的節點圖。",
+                "張拉屋頂的結構，以及採光與結構柱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read history as themes.\n2. Test form with hands.\n3. Turn themes into elements.\n4. Weave two routes.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把歷史讀成主題。\n2. 用雙手測試形體。\n3. 將主題化為元素。\n4. 編織兩條路徑。"
             }
           }
         }
