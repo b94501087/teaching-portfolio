@@ -1,0 +1,61 @@
+{
+  "project": "Wonders of the World Stacks",
+  "dest": "assets/board/wonders-of-the-world-stacked-travel-tower",
+  "note": "Portfolio 8409 pages 4-5 cropped to nine images, WebP q88 (PIL). Not used: photo collage with signs, people and brand names; upper part of the concept sketch with written place labels.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "ccff656898149e05984ca34a1ec47a83eb3476db4809a946570642e376e822c9",
+      "bytes": 123166,
+      "from": "8409 page 5 — final model"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "d99b395ab8c1539efb72e0bcabc94f00c65416a29ea403ed6deca59029094ef3",
+      "bytes": 79300,
+      "from": "8409 page 4 — concept sketch"
+    },
+    {
+      "name": "03-impression-drawing.webp",
+      "sha256": "c2fbe77f82fd746be1ed6f74aa16abe2f23d398251b4191b786ef54b5dd9b49e",
+      "bytes": 72338,
+      "from": "8409 page 4 — impression drawing"
+    },
+    {
+      "name": "04-paper-forming.webp",
+      "sha256": "2bb88eca0fa41cfbcc92ef7d3cea7e33b61f4aea17944bffb7a261d2c59706ab",
+      "bytes": 19360,
+      "from": "8409 page 4 — paper forming"
+    },
+    {
+      "name": "05-brick-walls.webp",
+      "sha256": "4ecee5a773a810e5b339eeccc7c53cd15cc88c1aae56a64322859a02c5066ab8",
+      "bytes": 19214,
+      "from": "8409 page 4 — brick walls"
+    },
+    {
+      "name": "06-pvc-facade.webp",
+      "sha256": "dda904140feaa33d816f0ffe98c3014a7c03b827a6550b1c4dba3cbc32e0ec01",
+      "bytes": 17500,
+      "from": "8409 page 4 — pvc facade"
+    },
+    {
+      "name": "07-facade-side.webp",
+      "sha256": "24a9d5dd16038cafdf9f1f9eb5f1314c7535eea3357eddae5223ed92c93bd48b",
+      "bytes": 57904,
+      "from": "8409 page 5 — facade side"
+    },
+    {
+      "name": "08-facade-detail.webp",
+      "sha256": "7ef5d4f6bfa6b241e7c99960cc3384d8342d7bdac67ee08203458c89a347806c",
+      "bytes": 26496,
+      "from": "8409 page 5 — facade detail"
+    },
+    {
+      "name": "09-coloured-houses.webp",
+      "sha256": "3f01951ff21d1e22b9d681a0a1b31c96412c0b66a2d761a50d9cd9f6998ff152",
+      "bytes": 33410,
+      "from": "8409 page 5 — coloured houses"
+    }
+  ]
+}
