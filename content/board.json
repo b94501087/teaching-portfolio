@@ -38488,6 +38488,302 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Between Waters",
+      "slug": "between-waters-streamside-learning-spaces",
+      "description": "Platforms and paths along a campus stream that let students pause, study and rest beside water.\n\nLandscape Architecture | Campus stream | Learning spaces | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "水之間",
+          "description": "沿著校園溪流配置的平台與步道，讓學生能在水邊停留、讀書與休憩。\n\n景觀建築｜校園溪流｜學習空間｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/between-waters-streamside-learning-spaces/01-stream-campus-model.webp",
+        "assets/board/between-waters-streamside-learning-spaces/02-watercolour-concept.webp",
+        "assets/board/between-waters-streamside-learning-spaces/03-pencil-site-sketches.webp",
+        "assets/board/between-waters-streamside-learning-spaces/04-making-the-model.webp",
+        "assets/board/between-waters-streamside-learning-spaces/05-view-under-the-bridge.webp",
+        "assets/board/between-waters-streamside-learning-spaces/06-acrylic-waterway.webp",
+        "assets/board/between-waters-streamside-learning-spaces/07-raised-pavilion.webp",
+        "assets/board/between-waters-streamside-learning-spaces/08-model-from-above.webp",
+        "assets/board/between-waters-streamside-learning-spaces/09-stair-and-trees.webp",
+        "assets/board/between-waters-streamside-learning-spaces/10-long-elevation.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/between-waters-streamside-learning-spaces/01-stream-campus-model.webp"
+          ],
+          "captions": [
+            "Site model in wooden board, stone, wax, acrylic, epoxy resin, clay and foam."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以木板、石頭、蠟、壓克力、環氧樹脂、黏土與泡棉製作的基地模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student often watched a stream outside the campus lounge and found calm in its flow during busy study. The project asks how architecture could merge water and learning.",
+          "images": [
+            "assets/board/between-waters-streamside-learning-spaces/02-watercolour-concept.webp",
+            "assets/board/between-waters-streamside-learning-spaces/03-pencil-site-sketches.webp"
+          ],
+          "captions": [
+            "Watercolour of the stream and its banks.",
+            "Pencil sketches of the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生常在校園交誼廳看著窗外的溪流，在忙碌的課業中從流水裡找到平靜。這個作品探問建築如何將水與學習融合。",
+              "captions": [
+                "溪流與兩岸的水彩。",
+                "基地鉛筆速寫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Watercolour and pencil studies recorded the banks, bridges and trees along the stream. The stream's movement was then translated into circulation paths and platforms.",
+          "images": [
+            "assets/board/between-waters-streamside-learning-spaces/04-making-the-model.webp"
+          ],
+          "captions": [
+            "Shaping the topography and waterways."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "水彩與鉛筆研究記錄了溪流沿岸的堤岸、橋梁與樹木。接著將溪水的流動轉譯為動線與平台。",
+              "captions": [
+                "塑造地形與水道的過程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The topography was shaped in foam and clay, and varied spaces were built from templates. Acrylic sheets stand for waterways while wax and epoxy resin capture the fluid quality of water.",
+          "images": [
+            "assets/board/between-waters-streamside-learning-spaces/05-view-under-the-bridge.webp",
+            "assets/board/between-waters-streamside-learning-spaces/06-acrylic-waterway.webp",
+            "assets/board/between-waters-streamside-learning-spaces/07-raised-pavilion.webp"
+          ],
+          "captions": [
+            "View from under the bridge.",
+            "Acrylic waterway over the stream.",
+            "A raised pavilion by the bank."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "地形以泡棉與黏土塑造，多樣的空間則以模板製作。壓克力板代表水道，蠟與環氧樹脂則捕捉水的流動質感。",
+              "captions": [
+                "從橋下望去的景象。",
+                "跨越溪流的壓克力水道。",
+                "岸邊架高的小亭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Red boxes and long bridges step along the stream and frame places to study and meditate. Clear ramps link the platforms so that nature shapes how people move through the site.",
+          "images": [
+            "assets/board/between-waters-streamside-learning-spaces/08-model-from-above.webp",
+            "assets/board/between-waters-streamside-learning-spaces/09-stair-and-trees.webp",
+            "assets/board/between-waters-streamside-learning-spaces/10-long-elevation.webp"
+          ],
+          "captions": [
+            "The model from above.",
+            "Stairs among the trees.",
+            "Long elevation along the stream."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "紅色盒體與長橋沿著溪流錯落，圍塑出讀書與冥想的場所。透明坡道串連各個平台，讓自然決定人們在基地中的移動方式。",
+              "captions": [
+                "模型俯視。",
+                "樹間的樓梯。",
+                "沿溪長向立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a place you know.\n2. Draw it by hand.\n3. Turn its movement into paths.\n4. Model the materials of water.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從熟悉的地方出發。\n2. 親手描繪它。\n3. 將它的流動轉為路徑。\n4. 以模型表現水的材質。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "City of Masks",
+      "slug": "city-of-masks-ritual-mask-pavilion-shenzhen",
+      "description": "Traditional ritual masks abstracted into spatial models that read the hidden emotions of a fast-moving city.\n\nShenzhen | Spatial design | Ritual masks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "面具之城",
+          "description": "將傳統儺戲面具抽象為空間模型，解讀快速變動城市中隱藏的情緒。\n\n深圳｜空間設計｜儺戲面具｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/01-mask-pavilion-model.webp",
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/02-mask-line-extraction.webp",
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/03-geometric-reduction-grid.webp",
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/04-space-model-discipline.webp",
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/05-space-model-care.webp",
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/06-space-model-loyalty.webp",
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/07-space-model-energy.webp",
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/08-curved-gold-ribbons.webp",
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/09-corrugated-towers.webp",
+        "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/10-reflecting-court.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/01-mask-pavilion-model.webp"
+          ],
+          "captions": [
+            "The final pavilion-like construct in laser-cut board and wood."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以雷射切割板材與木材製作的最終展亭式構築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student grew up in a city of speed, migration and reinvention, but watched traditional ritual opera with grandparents in the countryside. The project asks whether urban spaces, like masks, also hide the emotions of city life.",
+          "images": [
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/02-mask-line-extraction.webp"
+          ],
+          "captions": [
+            "Line drawings traced from four ritual masks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生在一座充滿速度、遷徙與更新的城市長大，卻曾隨祖父母在鄉間觀看傳統儺戲。這個作品探問城市空間是否也像面具一樣，隱藏著城市生活的情緒。",
+              "captions": [
+                "描繪自四張儺戲面具的線稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Four masks were traced, then reduced to geometric lines and abstracted into grids. Each mask carries a character trait, from discipline to care, loyalty and energy.",
+          "images": [
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/03-geometric-reduction-grid.webp"
+          ],
+          "captions": [
+            "Geometric reduction and grid abstraction."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生描繪四張面具，再將其簡化為幾何線條並抽象為網格。每張面具都承載一種性格特質，從紀律、關懷到忠誠與能量。",
+              "captions": [
+                "幾何簡化與網格抽象。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each trait became a small spatial model, using vertical planes, soft curves, rigid grids or radiating lines. Field research in several districts of the city linked each model to an urban character.",
+          "images": [
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/04-space-model-discipline.webp",
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/05-space-model-care.webp",
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/06-space-model-loyalty.webp",
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/07-space-model-energy.webp"
+          ],
+          "captions": [
+            "Discipline and protection: balanced planes around an axis.",
+            "Kindness and care: soft, enclosed curves.",
+            "Loyalty and strength: vertical grids.",
+            "Energy and power: radiating lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每一種特質都被轉化為小型空間模型，運用垂直面、柔和曲線、剛性網格或放射線條。學生在城市多個區域的田野調查，將每個模型連結到一種城市性格。",
+              "captions": [
+                "紀律與守護：環繞軸線的平衡面。",
+                "慈愛與關懷：柔和圍合的曲線。",
+                "忠誠與力量：垂直網格。",
+                "能量與力量：放射線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final composition joins the four models into an abstract pavilion of curved ribbons, corrugated towers and reflective floors. It turns the hidden geometry of ritual masks into a sculptural spatial language.",
+          "images": [
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/08-curved-gold-ribbons.webp",
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/09-corrugated-towers.webp",
+            "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen/10-reflecting-court.webp"
+          ],
+          "captions": [
+            "Curved gold ribbons.",
+            "Corrugated towers.",
+            "A reflecting court."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終構成將四個模型結合為由曲面飾帶、瓦楞塔體與反光地面組成的抽象展亭。它將儺戲面具中隱藏的幾何轉化為雕塑性的空間語言。",
+              "captions": [
+                "彎曲的金色飾帶。",
+                "瓦楞塔體。",
+                "反光中庭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a cultural memory.\n2. Trace it by hand.\n3. Reduce it to geometry.\n4. Build each trait as space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從文化記憶出發。\n2. 親手描繪它。\n3. 簡化為幾何。\n4. 將每種特質做成空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
