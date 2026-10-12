@@ -1,0 +1,61 @@
+{
+  "project": "Village in the City",
+  "dest": "assets/board/village-in-the-city-street-texture-tower",
+  "note": "Portfolio 5757 pages 7-9 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title text block and the strip of small model photos under the node detail.",
+  "files": [
+    {
+      "name": "01-village-streetscape-drawing.webp",
+      "sha256": "0e26c514789ad74487ae57a5ea53862323f356ffd9734c587967e41e3b897b6c",
+      "bytes": 421172,
+      "from": "5757 page 7 — streetscape drawing of the urban village, x 0–100 %, y 20–97 %"
+    },
+    {
+      "name": "02-streetscape-detail.webp",
+      "sha256": "59941e5df9362a965f673903ae9ef315256aaff63253a7f344959b1e08d5e2cf",
+      "bytes": 722798,
+      "from": "5757 page 7 — detail of the streetscape drawing, x 36–76 %, y 25–97 %"
+    },
+    {
+      "name": "03-deformed-tower-axonometric.webp",
+      "sha256": "1e3209a8a63b87b7564c8f03aa7394636678e34c842bfb13807679c5dbc14cd1",
+      "bytes": 250672,
+      "from": "5757 page 8 — deformed tower axonometric with levels, x 0–35 %, y 28–100 %"
+    },
+    {
+      "name": "04-point-volume-logic.webp",
+      "sha256": "3372d237cf77899dea5bbd4db5c43473ea7323b52119d126c3864f22fe99e59a",
+      "bytes": 64112,
+      "from": "5757 page 8 — point, volume and deepen logic matrix, x 35–60 %, y 3–55 %"
+    },
+    {
+      "name": "05-models-and-scenes.webp",
+      "sha256": "76b81adcf551e8a25725020944790013ea7ddcf3ca68b649597a2c3fc55d12c3",
+      "bytes": 112436,
+      "from": "5757 page 8 — study models and scenes, x 34–60 %, y 55–99 %"
+    },
+    {
+      "name": "06-water-node-detail.webp",
+      "sha256": "0696bd5b220d3bc7efcdd0965536d860e84956a2116552e2ba03788d4e138d02",
+      "bytes": 188054,
+      "from": "5757 page 8 — exploded node and physical model, x 60–100 %, y 0–88 %"
+    },
+    {
+      "name": "07-street-texture-catalogue.webp",
+      "sha256": "dbbc2ff43592f79bf5830d59d485dc3a01a6b618905685c99d58bfeb105c2397",
+      "bytes": 257304,
+      "from": "5757 page 9 — street texture transformation catalogue, x 25–100 %, y 0–69 %"
+    },
+    {
+      "name": "08-depth-openness-series.webp",
+      "sha256": "11d944028268c4253086019aea60238c1e54dcd3907a5ada878068401b6a8ddd",
+      "bytes": 118950,
+      "from": "5757 page 9 — depth and openness series, x 0–25 %, y 30–69 %"
+    },
+    {
+      "name": "09-village-axonometric-strip.webp",
+      "sha256": "474f074ac76470b6213647b83a918d28e0deabd0eda182f56075d8055bbda8a7",
+      "bytes": 94200,
+      "from": "5757 page 9 — axonometric strip of the village, x 0–100 %, y 69–100 %"
+    }
+  ]
+}
