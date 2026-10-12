@@ -1,0 +1,43 @@
+{
+  "project": "Passage in Planes",
+  "dest": "assets/board/passage-in-planes-folded-paper-landscape",
+  "note": "Portfolio 0687 page 1 cropped to six images, WebP q88 (PIL). Not used: title and text, program name, precedent artwork.",
+  "files": [
+    {
+      "name": "01-folded-plane-model.webp",
+      "sha256": "d85c4df5acd419d90d047f692b712d769ca5f3d1d6735eef21777526746da55a",
+      "bytes": 49354,
+      "from": "0687 page 1 — folded plane model"
+    },
+    {
+      "name": "02-line-drawing.webp",
+      "sha256": "8cb6f988beaab4e2c4e22ee2d7651e0c26f7f064724d481a03fa5819d1cfa277",
+      "bytes": 71174,
+      "from": "0687 page 1 — line drawing"
+    },
+    {
+      "name": "03-digital-model.webp",
+      "sha256": "f9b416f0c7508e01024d4e5e35322b8db47ecfe9db2fd6c2c1e7053136db5f38",
+      "bytes": 16808,
+      "from": "0687 page 1 — digital model"
+    },
+    {
+      "name": "04-circulation-diagram.webp",
+      "sha256": "784e8d0037026d6883b1f381c9edf8257b385720dd69b8d91498d4d09ca7192b",
+      "bytes": 8616,
+      "from": "0687 page 1 — circulation diagram"
+    },
+    {
+      "name": "05-model-elevation.webp",
+      "sha256": "d33e967b998cdeb54713ccb3694c5fba6d52cf3efc112306eed018cc7f703bc6",
+      "bytes": 23962,
+      "from": "0687 page 1 — model elevation"
+    },
+    {
+      "name": "06-model-details.webp",
+      "sha256": "3bd78ee85c2be3300d1335bcddf3c393c14c586cf9c1f6ad2724ab06f7d5c634",
+      "bytes": 27286,
+      "from": "0687 page 1 — model details"
+    }
+  ]
+}
