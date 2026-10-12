@@ -16503,6 +16503,149 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Parrot Shelter",
+      "slug": "parrot-shelter",
+      "description": "A teahouse and care space where people keep depressed parrots company under woven bamboo trees.\n\nDongshankou, China | Interior and animal care | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鸚鵡庇護所",
+          "description": "在編織竹樹下，人們陪伴憂鬱鸚鵡的茶館與照護空間。\n\n中國東山口｜室內設計與動物照護｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/parrot-shelter/01-woven-tree-model.webp",
+        "assets/board/parrot-shelter/02-site-selection.webp",
+        "assets/board/parrot-shelter/03-element-extraction-space-intention.webp",
+        "assets/board/parrot-shelter/04-spatial-organization.webp",
+        "assets/board/parrot-shelter/05-streamline-organization.webp",
+        "assets/board/parrot-shelter/06-section-a-a.webp",
+        "assets/board/parrot-shelter/07-physical-model-1-10.webp",
+        "assets/board/parrot-shelter/08-physical-model-1-3.webp",
+        "assets/board/parrot-shelter/09-physical-model-1-1.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/parrot-shelter/01-woven-tree-model.webp"
+          ],
+          "captions": [
+            "A woven bamboo tree, the support structure that holds the egg-shaped rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "編織竹樹，承托蛋形空間的支撐結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In China, when it comes to pets, most people only think of cats and dogs and believe parrots need only water and feed. Parrots are in fact highly intelligent and need company, and depression is becoming more common in domestic parrots, yet few people know how to read its symptoms.",
+          "images": [
+            "assets/board/parrot-shelter/02-site-selection.webp"
+          ],
+          "captions": [
+            "Site selection in Dongshankou: density of parrot owners, subway stations, old and new residential and commercial areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在中國，提到寵物，多數人只想到貓狗，並以為鸚鵡只需要水和飼料。其實鸚鵡非常聰明，也需要陪伴；家養鸚鵡的憂鬱問題越來越常見，卻很少人懂得辨認它的徵兆。",
+              "captions": [
+                "東山口的基地選址：鸚鵡飼主密度、地鐵站，以及新舊住商區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Case studies showed that most existing stores use birds to attract customers and are based on putting people first, with stiff spaces in which birds feel unsafe and cannot move freely. The project turns this around and takes putting parrots first as its main idea, drawing elements such as the feather, nest, egg, tree and rock from the birds' own world.",
+          "images": [
+            "assets/board/parrot-shelter/03-element-extraction-space-intention.webp"
+          ],
+          "captions": [
+            "Element extraction and space intention: from feather, nest, egg and tree to partitions, knitting, shells and structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "案例研究發現，現有店家多半以鳥來吸引顧客，以人為優先，空間形式生硬，鳥在其中缺乏安全感，也無法自由活動。本案反轉這個邏輯，以鸚鵡優先為核心理念，並從羽毛、鳥巢、蛋、樹與岩石等鳥類世界汲取元素。",
+              "captions": [
+                "元素萃取與空間意向：從羽毛、鳥巢、蛋與樹，轉化為隔牆、編織、殼體與結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The first floor is a teahouse where people drink tea and play with the parrots, with consulting, examination and waiting rooms for parrot care. Height differences separate the routes of people and parrots while still letting them meet, and the undulating floor and feather-like partitions, which double as seats, make the space feel like a natural cave.",
+          "images": [
+            "assets/board/parrot-shelter/04-spatial-organization.webp",
+            "assets/board/parrot-shelter/05-streamline-organization.webp",
+            "assets/board/parrot-shelter/06-section-a-a.webp"
+          ],
+          "captions": [
+            "Spatial organization: skylights, plant wall, egg-shaped rooms and the parrots' living space.",
+            "Streamline organization on two floors, with separate routes for people and parrots.",
+            "Section A-A through the woven trees and egg-shaped rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一樓是讓人們喝茶、與鸚鵡互動的茶館，並設有諮詢室、檢查室與候診室照顧鸚鵡。高低差將人與鸚鵡的動線分開，同時讓彼此仍能接觸；起伏的地形與兼作座椅的羽毛狀隔牆，讓空間宛如天然洞穴。",
+              "captions": [
+                "空間組織：天窗、植生牆、蛋形空間與鸚鵡的生活空間。",
+                "兩層樓的動線組織，人與鸚鵡各有路線。",
+                "A-A 剖面：穿過編織竹樹與蛋形空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The trees that support the eggs were tested in physical models at 1:10, 1:3 and 1:1, and the larger the scale, the harder the model was to make. Bamboo sticks bent by heat form the keel and cantilevers, secured with metal hoops, hemp rope and screws, and a hexagonal weave forms the outer skin.",
+          "images": [
+            "assets/board/parrot-shelter/07-physical-model-1-10.webp",
+            "assets/board/parrot-shelter/08-physical-model-1-3.webp",
+            "assets/board/parrot-shelter/09-physical-model-1-1.webp"
+          ],
+          "captions": [
+            "Physical model at 1:10, exploring the weaving process and structural stability.",
+            "Physical model at 1:3: cantilever, knitting and keel.",
+            "Physical model at 1:1: cantilever and keel joints."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "承托蛋形空間的竹樹以 1:10、1:3 與 1:1 的實體模型進行測試，比例越大，製作越困難。加熱彎曲的竹條構成龍骨與懸臂，以金屬環、麻繩與螺絲固定，外層則採用六角編織作為表皮。",
+              "captions": [
+                "1:10 實體模型，探索編織工法與結構穩定性。",
+                "1:3 實體模型：懸臂、編織與龍骨。",
+                "1:1 實體模型：懸臂與龍骨節點。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Design for the real user, even an animal.\n2. Study how existing cases fail that user.\n3. Draw forms from the user's own world.\n4. Test the structure at growing scales.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 為真正的使用者設計，即使是動物。\n2. 研究既有案例如何忽略了這位使用者。\n3. 從使用者自己的世界汲取形式。\n4. 以逐步放大的比例測試結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
