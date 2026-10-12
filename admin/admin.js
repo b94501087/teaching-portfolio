@@ -1,6 +1,6 @@
 // /admin — edit content/*.json, preview with the site's own templates, save via the Worker (/api).
 // Without the Worker ("no Worker yet" mode) editing + preview work; save offers JSON download instead.
-import { renderLanding, renderBoard, renderDetail, renderAZ, renderTeaching, renderConsulting, groupAZ, validate, CURRENCIES, PAGE_DIRS, detailDir, pinImages, uniqueSlug, SLUG_RE, MAX_PIN_IMAGES, LANGS, LANG_NAME } from './render.js';
+import { renderLanding, renderBoard, renderDetail, renderAZ, renderTeaching, renderConsulting, groupAZ, validate, CURRENCIES, PAGE_DIRS, detailDir, pinImages, uniqueSlug, SLUG_RE, MAX_PIN_IMAGES, LANGS, LANG_NAME, pinLevel } from './render.js';
 
 const FILES = ['site', 'board', 'az', 'teaching', 'consulting'];
 const LABEL = { site: '網站', board: '項目', az: 'A–Z', teaching: '教學', consulting: '諮詢' };
@@ -206,6 +206,11 @@ function pinEditor(b, p, i) {
       el('button', { type: 'button', class: 'small', title: '移除這張', disabled: imgs.length === 1, onclick: () => { imgs.splice(k, 1); dropFromSections(p, src); changed(true); } }, '×'))));
   return el('div', { class: 'pinedit' },
     el('label', { class: 'field' }, el('span', {}, '網址代稱'), slugIn, el('p', { class: 'hint' }, '內頁網址：', url, '。發布後最好不要再改，舊連結會失效。', p.draft === true ? '目前是草稿：這個網址可以預覽，但「項目」頁不會列出，也不讓搜尋引擎收錄。' : ''), slugMsg),
+    el('label', { class: 'field level-field' }, el('span', {}, '申請類別'),
+      el('select', { 'data-level-select': '', onchange: e => { if (e.target.value) p.level = e.target.value; else delete p.level; changed(); } },
+        ...[['', '未指定（' + (pinLevel(Object.assign({}, p, { level: undefined })) ? '視為碩士' : '自己的作品：不標示') + '）'], ['master', '碩士申請作品'], ['undergrad', '大學部申請作品']]
+          .map(([v, t]) => el('option', { value: v, selected: (p.level || '') === v }, t))),
+      el('p', { class: 'hint' }, '內頁標題上方會顯示這一行，「項目」頁可依此篩選。欄位 level：master 或 undergrad；未指定的學生作品算碩士。')),
     langPicker(),
     L !== 'en' ? field('標題' + LT, tget(p, L, 'title'), v => { tset(p, L, 'title', v); changed(); }, { placeholder: p.title || '', hint: '留白就顯示英文標題。「項目」頁上的卡片一律用英文標題。' }) : null,
     field('說明（選填）' + LT, tget(p, L, 'description'), v => { tset(p, L, 'description', v); changed(); }, { multiline: true, rows: 6, placeholder: L !== 'en' ? p.description || '' : '', hint: L !== 'en' ? '留白就顯示英文說明。純文字，空一行分段。' : '純文字。空一行分段，換行會照樣顯示。留白就只顯示標題和圖片。' }),

@@ -119,6 +119,24 @@ export const pinImages = p => (Array.isArray(p.images) ? p.images : []).filter(x
 export const visiblePins = board => (board.pins || []).filter(p => p.visible !== false);
 export const listedPins = board => visiblePins(board).filter(p => p.draft !== true);
 
+// Application level of a board project (optional pin.level: "master" | "undergrad"; missing = master).
+// Student work is credited "Student Project" / 學生作品 in its description; a pin without that credit and
+// without an explicit level is the owner's own project: no label, listed only under "All" on /board/.
+export const LEVELS = ['master', 'undergrad'];
+export const LEVEL_FILTER = { all: { en: 'All', 'zh-Hant': '全部' }, master: { en: "Master's applications", 'zh-Hant': '碩士申請' }, undergrad: { en: 'Undergraduate applications', 'zh-Hant': '大學部申請' } };
+export const LEVEL_LABEL = { master: { en: "Master's application portfolio", 'zh-Hant': '碩士申請作品' }, undergrad: { en: 'Undergraduate application portfolio', 'zh-Hant': '大學部申請作品' } };
+export function pinLevel(p) {
+  if (p && LEVELS.includes(p.level)) return p.level;
+  const d = [p && p.description, p && p.i18n && p.i18n['zh-Hant'] && p.i18n['zh-Hant'].description].map(str).join('\n');
+  return /student project|學生作品/i.test(d) ? 'master' : '';
+}
+const BOARD_LANGS = ['en', 'zh-Hant'];
+const bl = (o, tag) => BOARD_LANGS.map(l => '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + esc(o[l]) + '</' + tag + '>').join('');
+const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".board");function set(f){[].forEach.call(document.querySelectorAll("[data-filter]"),function(x){var on=x.getAttribute("data-filter")===f;x.classList.toggle("on",on);x.setAttribute("aria-pressed",on?"true":"false")});' +
+  '[].forEach.call(b.querySelectorAll(".pin"),function(p){p.hidden=f!=="all"&&!p.classList.contains("lv-"+f)});b.setAttribute("data-filter",f);var e=document.querySelector(".board-empty");if(e)e.hidden=!!b.querySelector(".pin:not([hidden])");if(b.classList.contains("masonry"))dispatchEvent(new Event("resize"))}' +
+  'document.addEventListener("click",function(e){var x=e.target.closest&&e.target.closest("[data-filter]");if(!x)return;var f=x.getAttribute("data-filter");set(f);try{history.replaceState(null,"",f==="all"?location.pathname+location.search:"#"+f)}catch(z){}});' +
+  'var h=location.hash.slice(1);set(h==="master"||h==="undergrad"?h:"all")})();</script>\n';
+
 export function renderBoard(site, board, opts) {
   const n = site.nav;
   const pins = listedPins(board);
@@ -126,16 +144,22 @@ export function renderBoard(site, board, opts) {
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.board) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/board/">\n' +
-    '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body>\n' +
+    langHead(BOARD_LANGS) +
+    '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="board-page">\n' +
     topBar(site, 1) +
+    '<div class="board-tools"><div class="filters" role="group" aria-label="Filter">' +
+    ['all', 'master', 'undergrad'].map(f => '<button type="button" data-filter="' + f + '"' + (f === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(LEVEL_FILTER[f], 'span') + '</button>').join('') +
+    '</div><div class="langs" role="group" aria-label="Language">' +
+    BOARD_LANGS.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l] || l) + '">' + esc(LANG_LABEL[l] || l) + '</button>').join('') + '</div></div>\n' +
     '<div class="board">\n';
   for (const p of pins) {
-    h += '  <a class="pin' + (p.big ? ' big' : '') + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span></a>\n';
+    const lv = pinLevel(p);
+    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span></a>\n';
   }
-  h += '</div>\n';
+  h += '</div>\n<p class="board-empty" hidden>' + bl({ en: 'No projects in this category yet.', 'zh-Hant': '這個類別目前還沒有作品。' }, 'span') + '</p>\n';
   if (board.foot) h += '<p class="foot">' + inline(board.foot) + '</p>\n';
   if (anyBig) h += BOARD_MASONRY;
-  h += '</body></html>\n';
+  h += BOARD_FILTER_JS + LANG_SWITCH_JS + '</body></html>\n';
   return h;
 }
 
@@ -233,15 +257,18 @@ export function renderDetail(site, board, pin, opts) {
     topBar(site, 2, teach ? 'teaching' : 'board') +
     '<main' + (secs.length ? ' class="has-sections"' : '') + '>\n';
   const back = '<p class="back"><a href="../">← ' + esc(backLabel) + '</a></p>';
+  const lv = teach ? '' : pinLevel(pin);
+  const levelLine = lv ? '  <p class="level">' + (multi ? perLang(langs, l => LEVEL_LABEL[lv][l], (v, a) => '<span' + a + '>' + esc(v) + '</span>') : esc(LEVEL_LABEL[lv].en)) + '</p>\n' : '';
   if (multi) {
     h += '  <div class="lang-row">' + back + '<div class="langs" role="group" aria-label="Language">' +
       langs.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l] || l) + '">' + esc(LANG_LABEL[l] || l) + '</button>').join('') + '</div></div>\n';
   } else h += '  ' + back + '\n';
   if (secs.length) {
+    h += levelLine;
     h += '  <h1>' + perLang(langs, l => (l === 'en' ? str(pin.title) : tr(pin, l, 'title')).trim(), (v, a) => (a ? '<span' + a + '>' + esc(v) + '</span>' : esc(v))) + '</h1>\n';
     h += perLang(langs, l => paragraphs(l === 'en' ? pin.description : tr(pin, l, 'description')), (v, a) => '<div class="desc"' + a + '>\n' + v + '</div>\n');
   } else {
-    h += '  <h1>' + esc(pin.title) + '</h1>\n';
+    h += levelLine + '  <h1>' + esc(pin.title) + '</h1>\n';
     const desc = paragraphs(pin.description);
     if (desc) h += '<div class="desc">\n' + desc + '</div>\n';
   }
@@ -295,6 +322,7 @@ const BOARD_MASONRY = `<script>
     var hs = []; for (var i = 0; i < n; i++) hs.push(0);
     b.classList.add('masonry');
     Array.prototype.forEach.call(b.querySelectorAll('.pin'), function (p) {
+      if (p.hidden) return;
       var span = p.classList.contains('big') && n > 1 ? 2 : 1;
       var best = 0, bestY = Infinity;
       for (var c = 0; c + span <= n; c++) {
@@ -670,6 +698,7 @@ export function validatePins(pins) {
     if (typeof p.slug !== 'string' || !SLUG_RE.test(p.slug) || p.slug.length > 60) errs.push(who + ' 的網址代稱只能用小寫英文、數字和 -（例如 studio-model）');
     else if (seen.has(p.slug)) errs.push(who + ' 的網址代稱「' + p.slug + '」重複了');
     else seen.add(p.slug);
+    if (p.level != null && !LEVELS.includes(p.level)) errs.push(who + ' 的申請類別只能是 master（碩士）或 undergrad（大學部）');
     if (p.draft != null && typeof p.draft !== 'boolean') errs.push(who + ' 的草稿設定格式錯誤');
     if (p.description != null && typeof p.description !== 'string') errs.push(who + ' 說明格式錯誤');
     else if (String(p.description || '').length > 20000) errs.push(who + ' 說明太長（上限 20000 字）');
