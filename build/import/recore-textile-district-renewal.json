@@ -1,0 +1,49 @@
+{
+  "project": "Recore",
+  "dest": "assets/board/recore-textile-district-renewal",
+  "note": "Portfolio 0995 pages 3–6 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the site history timeline with photos, the city status map on an aerial photo, the social and economic photo circles, the strategy collages with photo people, the site plan on an aerial photo, the section strips built from photos, the rendering with a photo skyline, and the plan and elevation sheet with photo people. One store logo icon on the masterplan was painted out.",
+  "files": [
+    {
+      "name": "01-phased-development.webp",
+      "sha256": "5b91585ace1352445c10384e88ea47ab911d818b3c9e5aa347056025141316f3",
+      "bytes": 86862,
+      "from": "0995 page 5 — phased development axonometrics, x 64–75 %, y 3–47 %"
+    },
+    {
+      "name": "02-urban-texture-analysis.webp",
+      "sha256": "2fc20526dbf3c70469080000d5c37187fcf2b682bb0b8f1e57515e1786ec66f0",
+      "bytes": 99970,
+      "from": "page 3 — urban texture analysis, x 24–48 %, y 74–99 %"
+    },
+    {
+      "name": "03-masterplan-typology.webp",
+      "sha256": "6b2eda75f2bd7dbda2be2c3df9f9b78d905b9126c00e5640399b387f3a7ba008",
+      "bytes": 223784,
+      "from": "page 4 — masterplan with proposed typology, x 0–50 %, y 50–99 %; one store logo icon painted out"
+    },
+    {
+      "name": "04-form-concept.webp",
+      "sha256": "b797f960db81ffbca7719b7c146e9544ec0e8da179f6591bf0c33ab1672cc8fa",
+      "bytes": 30028,
+      "from": "page 5 — form concept diagrams, x 0–30 %, y 0–16 %"
+    },
+    {
+      "name": "05-renovation-strategy.webp",
+      "sha256": "66df650af37e7e4941af1ae2a87aea5942b1e5a027ab3a4558da5728c3162224",
+      "bytes": 94894,
+      "from": "page 5 — renovation strategy diagrams, x 50–65 %, y 2–44 %"
+    },
+    {
+      "name": "06-urban-explosion.webp",
+      "sha256": "834b488fdd3eb2519d42121b16bb8dc9cd65622962a0a15b23b863067d33d730",
+      "bytes": 59562,
+      "from": "page 5 — urban explosion by function, x 84–100 %, y 0–47 %"
+    },
+    {
+      "name": "07-program-and-facades.webp",
+      "sha256": "32bced6541b756ad37cfa7cb8c71ece7aaa4b98b48a853eb7c53e13aded3cffd",
+      "bytes": 83156,
+      "from": "page 6 — program analysis, x 0–25 %, y 0–30 %"
+    }
+  ]
+}
