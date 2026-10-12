@@ -1,0 +1,61 @@
+{
+  "project": "Residential in Green Space",
+  "dest": "assets/board/residential-in-green-space-shenzhen",
+  "note": "Portfolio 37f4 pages 11–13 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the street photo of a person, the aerial and site photos, the history and end-user photo panels, the photo circles of people, the photos of existing buildings, the general layout over an aerial base, the profile perspective and renders with figures and city backdrops, and the body text.",
+  "files": [
+    {
+      "name": "01-roof-greening-axonometric.webp",
+      "sha256": "bfa45a9d2a45dd4360ef1cd1f0788fc73e9d89e009f4e2ab5fe093cf434d3860",
+      "bytes": 133566,
+      "from": "37f4 page 13 — analysis of roof greening, x 0–22.5 %, y 33–100 %"
+    },
+    {
+      "name": "02-building-program.webp",
+      "sha256": "ad58c793be82d410b797abb6ac74fd234676e8e45f5b2ad60895aeaf48200b7b",
+      "bytes": 83326,
+      "from": "page 12 — building program and context diagrams, x 73–100 %, y 0–35 %"
+    },
+    {
+      "name": "03-green-space-strategies.webp",
+      "sha256": "9ba7000b1f2e053f9c31bf8de7dbb95710dfb6faaf341df3108206dbf5d27641",
+      "bytes": 64158,
+      "from": "page 12 — strategies for combining buildings with green space, x 0–50 %, y 64.5–100 %"
+    },
+    {
+      "name": "04-block-generation.webp",
+      "sha256": "e546445e78aaa1b454179fde7cf33bdf7ba8a40559ec2d9b9fdb0a98bfd9da2b",
+      "bytes": 50906,
+      "from": "page 12 — block generation steps, x 70–100 %, y 37–62 %"
+    },
+    {
+      "name": "05-apartment-types.webp",
+      "sha256": "d17c3c6bb0cd602e335fc1b1a96ac5be5fe98195cd80ac87dcf1c62da037714c",
+      "bytes": 80620,
+      "from": "page 12 — apartment types and functional partition, x 70–100 %, y 64–100 %"
+    },
+    {
+      "name": "06-standard-floor-plans.webp",
+      "sha256": "acc31b3b46f4880e14e52ca359e6d6f715d6b433d06e159f421aefd45a9c2250",
+      "bytes": 52802,
+      "from": "page 13 — standard floor plans of two blocks, x 67–88.5 %, y 0–30 %"
+    },
+    {
+      "name": "07-roof-and-visor-construction.webp",
+      "sha256": "d0bc086ba43ccd645164a74e927e5d5913fea439bbec8ea6087e9cbbbc6909df",
+      "bytes": 92722,
+      "from": "page 13 — roof structure, sun visor and wetland section, x 23.5–34 %, y 5–100 %"
+    },
+    {
+      "name": "08-solar-panel-section-model.webp",
+      "sha256": "cd25f62f8b375e9dae2f9b35eecaa73e4d37dd62fee6072a1ca5116e99cc46c6",
+      "bytes": 40410,
+      "from": "page 13 — solar panel and building section model, x 34–50 %, y 22–57 %"
+    },
+    {
+      "name": "09-vertical-greening-model.webp",
+      "sha256": "28e97b5696a26836f986b21af84781400d59272d338591f184c403814364098b",
+      "bytes": 42742,
+      "from": "page 13 — vertical greening model, x 39–50 %, y 63–100 %"
+    }
+  ]
+}
