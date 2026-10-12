@@ -28601,6 +28601,403 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Recore: Textile District Renewal",
+      "slug": "recore-textile-district-renewal",
+      "description": "An old textile district keeps its factory roofs and grows new markets, parks and halls beneath them.\n\nXi'an | Urban renewal | Industrial heritage | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Recore：紡織區更新",
+          "description": "老紡織區保留廠房屋頂，在其下生長出新的市集、公園與展館。\n\n西安｜城市更新｜工業遺產｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/recore-textile-district-renewal/01-phased-development.webp",
+        "assets/board/recore-textile-district-renewal/02-urban-texture-analysis.webp",
+        "assets/board/recore-textile-district-renewal/03-masterplan-typology.webp",
+        "assets/board/recore-textile-district-renewal/04-form-concept.webp",
+        "assets/board/recore-textile-district-renewal/05-renovation-strategy.webp",
+        "assets/board/recore-textile-district-renewal/06-urban-explosion.webp",
+        "assets/board/recore-textile-district-renewal/07-program-and-facades.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/recore-textile-district-renewal/01-phased-development.webp"
+          ],
+          "captions": [
+            "Axonometrics of the phased development."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "分期開發的軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The textile district grew around large old factories that were later left empty and cut off from the city. The project asks how the district could keep its industrial memory while bringing back jobs and daily life.",
+          "images": [
+            "assets/board/recore-textile-district-renewal/02-urban-texture-analysis.webp"
+          ],
+          "captions": [
+            "Urban texture across four periods."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這片紡織區圍繞大型老工廠發展，後來工廠閒置，與城市脫節。本案探討如何在保留工業記憶的同時，為片區重新帶回工作機會與日常生活。",
+              "captions": [
+                "四個時期的城市肌理。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Maps of the urban texture showed how the factory blocks broke the street grid over time. A masterplan then linked the old buildings with new uses along a green spine.",
+          "images": [
+            "assets/board/recore-textile-district-renewal/03-masterplan-typology.webp"
+          ],
+          "captions": [
+            "Masterplan with the proposed typology."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "城市肌理分析顯示工廠街廓如何隨時間切斷街道網絡。總體規劃再以一條綠色軸線，將舊建築與新功能串連起來。",
+              "captions": [
+                "配置新類型的總體規劃。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The roof of the main factory is kept as the memory of the city, while the space under it is split into smaller streets. Each old building was tested with moves such as cutting, adding and opening to the street.",
+          "images": [
+            "assets/board/recore-textile-district-renewal/04-form-concept.webp",
+            "assets/board/recore-textile-district-renewal/05-renovation-strategy.webp"
+          ],
+          "captions": [
+            "Form concept for the factory roof.",
+            "Strategies for the existing buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "主廠房的屋頂作為城市記憶被保留，其下空間則被切分為較小的街道。每棟舊建築都以切割、加建與向街道開放等手法進行測試。",
+              "captions": [
+                "廠房屋頂的形態概念。",
+                "既有建築的改造策略。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The renewal grows in three phases, from markets and a park to a mall, theatre and research centre. Layered by function, the new programs sit on top of the old factory as one walkable whole.",
+          "images": [
+            "assets/board/recore-textile-district-renewal/06-urban-explosion.webp",
+            "assets/board/recore-textile-district-renewal/07-program-and-facades.webp"
+          ],
+          "captions": [
+            "Exploded view of the functions.",
+            "Program analysis of the main building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "更新分三期展開，從市集與公園到商場、劇場與研究中心。新功能依類別分層疊加在舊廠房之上，形成可步行的整體。",
+              "captions": [
+                "功能分層爆炸圖。",
+                "主建築的機能分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the texture over time.\n2. Find what memory to keep.\n3. Test simple moves on each building.\n4. Phase the change.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 繪製不同時期的肌理。\n2. 找出要保留的記憶。\n3. 對每棟建築測試簡單手法。\n4. 分期推動改變。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Entropy: A Folding Market",
+      "slug": "entropy-folding-market",
+      "description": "Folding stalls let a periodic market grow on market days and fold away the rest of the week.\n\nXi'an | Market design | Temporary structure | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "熵：可折疊的市集",
+          "description": "可折疊的攤位讓定期市集在趕集日展開，其餘時間收合。\n\n西安｜市集設計｜臨時構築｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/entropy-folding-market/01-weekend-birds-eye.webp",
+        "assets/board/entropy-folding-market/02-market-section.webp",
+        "assets/board/entropy-folding-market/03-trading-gesture-sketches.webp",
+        "assets/board/entropy-folding-market/04-stall-modules.webp",
+        "assets/board/entropy-folding-market/05-weekday-birds-eye.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/entropy-folding-market/01-weekend-birds-eye.webp"
+          ],
+          "captions": [
+            "Bird's-eye view of the market on a weekend."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "週末市集的鳥瞰圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A periodic country market gathers crowds of traders on market days but leaves a large empty ground the rest of the week. The project asks how one site could hold both the busy market and quieter weekday uses.",
+          "images": [
+            "assets/board/entropy-folding-market/02-market-section.webp"
+          ],
+          "captions": [
+            "Section of the market and its sheds."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "定期的鄉間市集在趕集日聚集大量商販，其餘時間卻留下一大片空地。本案探討同一基地如何同時容納熱鬧的市集與平日較安靜的使用。",
+              "captions": [
+                "市集與棚架的剖面示意。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Drawings of how traders bargain and agree on a price showed the habits that make the market lively. Stall types, trading areas and use over time were then counted to size the new layout.",
+          "images": [
+            "assets/board/entropy-folding-market/03-trading-gesture-sketches.webp"
+          ],
+          "captions": [
+            "Drawn panels of trading gestures."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以手繪記錄商販討價還價與成交的方式，呈現讓市集充滿活力的習慣。再統計攤位類型、交易面積與時段使用量，作為新配置的尺度依據。",
+              "captions": [
+                "交易手勢的手繪分格。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A family of folding stalls was designed that open into shops on market days and fold back into walls or benches. A shared tree stall and loose modules can also turn into tables and seats.",
+          "images": [
+            "assets/board/entropy-folding-market/04-stall-modules.webp"
+          ],
+          "captions": [
+            "Stall modules opening step by step."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計一系列可折疊的攤位，趕集日展開成店舖，平日收合成牆或長椅。樹下的共享攤位與可自由組合的模組，也能轉變為桌椅。",
+              "captions": [
+                "逐步展開的攤位模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "On weekdays the same ground stays open for other activities, with ramps and a footbridge tying it to the street. The market can grow and shrink each week, so the site is never fully empty.",
+          "images": [
+            "assets/board/entropy-folding-market/05-weekday-birds-eye.webp"
+          ],
+          "captions": [
+            "Bird's-eye view of the site on a weekday."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "平日同一片場地開放給其他活動使用，坡道與天橋將其連接到街道。市集可每週擴張與收縮，讓基地不再完全閒置。",
+              "captions": [
+                "平日基地的鳥瞰圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch the site on busy and quiet days.\n2. Draw how people trade.\n3. Design parts that fold away.\n4. Show both states.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察基地忙碌與安靜的日子。\n2. 描繪人們的交易方式。\n3. 設計可收合的構件。\n4. 呈現兩種狀態。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Spotlight: Courtyard House Opera Theatre",
+      "slug": "spotlight-courtyard-opera-theatre",
+      "description": "A regional courtyard house is opened up to become a small theatre for local opera.\n\nChaoshan | Theatre | Vernacular dwelling | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "聚光：合院戲曲劇場",
+          "description": "將地方合院民居打開，轉化為地方戲曲的小劇場。\n\n潮汕｜劇場｜傳統民居｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/spotlight-courtyard-opera-theatre/01-lighting-strategy-model.webp",
+        "assets/board/spotlight-courtyard-opera-theatre/02-courtyard-house-drawing.webp",
+        "assets/board/spotlight-courtyard-opera-theatre/03-explosive-axonometrics.webp",
+        "assets/board/spotlight-courtyard-opera-theatre/04-transformed-strategy.webp",
+        "assets/board/spotlight-courtyard-opera-theatre/05-structure-details.webp",
+        "assets/board/spotlight-courtyard-opera-theatre/06-auditorium-model.webp",
+        "assets/board/spotlight-courtyard-opera-theatre/07-theatre-plan-on-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/spotlight-courtyard-opera-theatre/01-lighting-strategy-model.webp"
+          ],
+          "captions": [
+            "Natural light entering the reworked house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "自然光進入改造後的民居。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Local opera troupes in the region are shrinking, and the old courtyard houses where people once gathered stand empty. The project asks whether one such house could be turned into a small theatre for the opera.",
+          "images": [
+            "assets/board/spotlight-courtyard-opera-theatre/02-courtyard-house-drawing.webp"
+          ],
+          "captions": [
+            "The courtyard house type of the region."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "地方戲班日漸萎縮，人們過去聚集的老合院也逐漸空置。本案探討能否將這樣一座合院改造成小型戲曲劇場。",
+              "captions": [
+                "當地的合院民居類型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The house type has four wings around a central court, with deep timber roofs and narrow side lanes. Exploded drawings took the original house apart into roof, frame, walls and plan.",
+          "images": [
+            "assets/board/spotlight-courtyard-opera-theatre/03-explosive-axonometrics.webp"
+          ],
+          "captions": [
+            "Exploded axonometrics of the original house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "這種民居以四翼圍合中央天井，配有深遠的木構屋頂與狹窄的側巷。爆炸圖將原有民居拆解為屋頂、構架、牆體與平面。",
+              "captions": [
+                "原有民居的爆炸軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The roofs were lifted and opened so that light and air can reach a larger hall below. New details join the old timber columns and rafters to rebar and a concrete base.",
+          "images": [
+            "assets/board/spotlight-courtyard-opera-theatre/04-transformed-strategy.webp",
+            "assets/board/spotlight-courtyard-opera-theatre/05-structure-details.webp"
+          ],
+          "captions": [
+            "Section of the transformed house.",
+            "Structure details of the new joints."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "將屋頂抬升並開啟，讓光線與空氣進入下方更大的廳堂。新的節點把原有木柱與椽條以鋼筋接合到混凝土基座上。",
+              "captions": [
+                "改造後民居的剖面。",
+                "新節點的構造細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The court becomes an opera stage with a band stage beside it and seats in the wings around it. The section model shows how the old house can hold a full performance and its audience.",
+          "images": [
+            "assets/board/spotlight-courtyard-opera-theatre/06-auditorium-model.webp",
+            "assets/board/spotlight-courtyard-opera-theatre/07-theatre-plan-on-model.webp"
+          ],
+          "captions": [
+            "Auditorium side of the section model.",
+            "Theatre plan drawn over the model base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "天井成為戲台，旁邊設有樂隊台，四周翼房布置觀眾席。剖面模型呈現老民居如何容納一場完整演出與觀眾。",
+              "captions": [
+                "剖面模型的觀眾席一側。",
+                "繪於模型基座上的劇場平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a local building type.\n2. Take it apart in drawings.\n3. Change one part at a time.\n4. Test the new use in a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選定一種在地建築類型。\n2. 以圖面將其拆解。\n3. 一次改變一個部分。\n4. 用模型測試新用途。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
