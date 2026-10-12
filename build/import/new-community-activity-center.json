@@ -1,0 +1,55 @@
+{
+  "project": "\"New\" Community Activity Center",
+  "dest": "assets/board/new-community-activity-center",
+  "note": "Portfolio 6a52 pages 3–6 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the cover and contents with contact details, the title collage with street photos on page 2, the activity photo circles, the people group and the interior photos on page 3, the rendering vignettes with photo people on page 5 and the page numbers.",
+  "files": [
+    {
+      "name": "01-community-network.webp",
+      "sha256": "f71a7b23034363a890ce60a13720d474f727b407ecc2247b13374622dfb4376a",
+      "bytes": 35622,
+      "from": "6a52 page 3 — network of residential areas, study area and event venues, x 0–25 %, y 2–25 %"
+    },
+    {
+      "name": "02-participation-strategy.webp",
+      "sha256": "945a497993ddcac12e9b31eb90b7d8758de567d86998d6c49c0fae28ed42f4a8",
+      "bytes": 66068,
+      "from": "page 3 — strategy 1 block cutting and activity matrix, x 26.5–64.5 %, y 17–52 %"
+    },
+    {
+      "name": "03-preset-space-layouts.webp",
+      "sha256": "668ca56e80c786f3f2dfd7cfe4bc6c1b2d578aa5903bc93840614d60641fa482",
+      "bytes": 62668,
+      "from": "page 3 — preset space layouts, x 84–100 %, y 12–99 %"
+    },
+    {
+      "name": "04-section-perspective.webp",
+      "sha256": "18fb4c14f7fa49b8f04726984bce051cf829be0fea2a3e0a09b545519c061ec3",
+      "bytes": 409262,
+      "from": "page 4 — section perspective, x 0–100 %, y 3.5–85.5 %"
+    },
+    {
+      "name": "05-form-generation.webp",
+      "sha256": "e8faf8b9d78d3b7bc34afed8c3be0c3dec90f4d08f49ccb732b140042dbb2bf4",
+      "bytes": 93068,
+      "from": "page 4 — form generation and local structure, x 0–100 %, y 85.5–100 %"
+    },
+    {
+      "name": "06-community-axonometric.webp",
+      "sha256": "5cc6847767d115b4d6a593ae06737a57f2f16c03d45102c272dff08bebdc6009",
+      "bytes": 473474,
+      "from": "page 5 — axonometric rendering with user groups, x 0–74 %, y 2–74 %"
+    },
+    {
+      "name": "07-section-nodes.webp",
+      "sha256": "3e10a18c48e134c43d8a9d04c315b539fceae55b1678ce028f6e026f3a809966",
+      "bytes": 104144,
+      "from": "page 5 — section nodes, x 74.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "08-physical-model.webp",
+      "sha256": "0e174e54404229ecdeb2baad8580204f7d2b56b44896ceb250e99bc5368cdaa5",
+      "bytes": 302150,
+      "from": "page 6 — physical section model, x 0–96.5 %, y 3–100 %"
+    }
+  ]
+}
