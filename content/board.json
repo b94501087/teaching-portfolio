@@ -31453,6 +31453,554 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Wetland Gallery",
+      "slug": "wetland-gallery-bird-watching-site",
+      "description": "An educational bird-watching gallery on a floodplain, held up by hollow tree-like columns that double as nests.\n\nNew Jersey | Bird-watching gallery | Wetland education | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "濕地藝廊",
+          "description": "一座位於氾濫平原上的教育型賞鳥藝廊，以兼作鳥巢的中空樹狀柱撐起。\n\n新澤西｜賞鳥藝廊｜濕地教育｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/wetland-gallery-bird-watching-site/01-bird-gallery-axonometric.webp",
+        "assets/board/wetland-gallery-bird-watching-site/02-chunk-model.webp",
+        "assets/board/wetland-gallery-bird-watching-site/03-long-section.webp",
+        "assets/board/wetland-gallery-bird-watching-site/04-flora-and-fauna.webp",
+        "assets/board/wetland-gallery-bird-watching-site/05-tree-column-structure.webp",
+        "assets/board/wetland-gallery-bird-watching-site/06-nest-roof-plan.webp",
+        "assets/board/wetland-gallery-bird-watching-site/07-human-bird-interface.webp",
+        "assets/board/wetland-gallery-bird-watching-site/08-spatial-relationships.webp",
+        "assets/board/wetland-gallery-bird-watching-site/09-exploded-axonometric.webp",
+        "assets/board/wetland-gallery-bird-watching-site/10-floor-plans.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/wetland-gallery-bird-watching-site/01-bird-gallery-axonometric.webp"
+          ],
+          "captions": [
+            "The gallery with its sloped rooftop deck above the river."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "沿河而立、設有斜屋頂平台的展館。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Along the Hackensack River in New Jersey, wetland birds and a low-lying neighbourhood share a floodplain that floods again and again. The brief asks for an educational bird-watching site where people can learn about the wetland without disturbing it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在新澤西州哈肯薩克河沿岸，濕地鳥類與低窪社區共享一片反覆淹水的氾濫平原。題目要求一座教育型賞鳥基地，讓人們在不打擾濕地的前提下認識它。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Seasonal studies map the birds, plants and flood records of the site and its surroundings. Winter backyard feeders, where people and birds meet at close range, become the starting idea.",
+          "images": [
+            "assets/board/wetland-gallery-bird-watching-site/04-flora-and-fauna.webp",
+            "assets/board/wetland-gallery-bird-watching-site/02-chunk-model.webp"
+          ],
+          "captions": [
+            "Flora and fauna of the river edge.",
+            "Chunk model of the structure and nests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "季節性研究整理了基地及周邊的鳥類、植物與淹水紀錄。冬季後院餵鳥器讓人與鳥近距離相遇，成為設計的出發點。",
+              "captions": [
+                "河岸的動植物分析。",
+                "結構與鳥巢的局部模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Hollow steel columns, narrow at the base and wide at the top, carry the floors and hold nesting cavities of different sizes. Feeder tubes link the nests to the rooms inside, so visitors can watch birds return without being seen.",
+          "images": [
+            "assets/board/wetland-gallery-bird-watching-site/05-tree-column-structure.webp",
+            "assets/board/wetland-gallery-bird-watching-site/06-nest-roof-plan.webp",
+            "assets/board/wetland-gallery-bird-watching-site/07-human-bird-interface.webp",
+            "assets/board/wetland-gallery-bird-watching-site/08-spatial-relationships.webp"
+          ],
+          "captions": [
+            "Tree-like column types.",
+            "Plan with nests and supports.",
+            "How people and birds meet at the nest.",
+            "Section of shared spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "下窄上寬的中空鋼柱承托樓板，柱內設有大小不一的築巢空間。餵食管將鳥巢與室內相連，讓訪客能在不被察覺的情況下觀察鳥類歸巢。",
+              "captions": [
+                "樹狀柱的類型。",
+                "鳥巢與支撐的平面配置。",
+                "人與鳥在巢邊相遇的方式。",
+                "共享空間的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Classrooms, an exhibition space and a glasshouse garden sit above the floodplain, while the ground stays open for a wildlife garden and boat mooring. A polycarbonate skin filters light and a bamboo roof deck turns visitors toward the water and the sunset.",
+          "images": [
+            "assets/board/wetland-gallery-bird-watching-site/09-exploded-axonometric.webp",
+            "assets/board/wetland-gallery-bird-watching-site/10-floor-plans.webp",
+            "assets/board/wetland-gallery-bird-watching-site/03-long-section.webp"
+          ],
+          "captions": [
+            "Exploded axonometric of the layers.",
+            "Plans from ground floor to roof.",
+            "Long section through the gallery."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "教室、展覽空間與溫室花園抬升於氾濫平原之上，地面層則保留給野生動物花園與船隻停泊。聚碳酸酯外皮過濾光線，竹製屋頂平台則將訪客的視線引向水面與夕陽。",
+              "captions": [
+                "各層構造的爆炸軸測圖。",
+                "從地面層到屋頂的各層平面。",
+                "穿越展館的長向剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a daily encounter.\n2. Let structure host other species.\n3. Lift the program above the flood.\n4. Design how people watch, not only what they see.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從日常的相遇出發。\n2. 讓結構也能容納其他物種。\n3. 將機能抬升至淹水線之上。\n4. 設計人們觀看的方式，而不只是看見的東西。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Reimagining Tegel",
+      "slug": "reimagining-tegel-courtyard-urbanism",
+      "description": "Courtyard urbanism for a disused airport terminal, where housing, gardens and workshops support refuge and exchange.\n\nBerlin | Airport transformation | Courtyard urbanism | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重新想像泰格爾",
+          "description": "為閒置機場航廈提出的中庭都市主義，以住宅、花園與工作坊支持安置與交流。\n\n柏林｜機場轉型｜中庭都市主義｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/reimagining-tegel-courtyard-urbanism/01-hexagon-masterplan.webp",
+        "assets/board/reimagining-tegel-courtyard-urbanism/02-stick-models.webp",
+        "assets/board/reimagining-tegel-courtyard-urbanism/03-site-plan.webp",
+        "assets/board/reimagining-tegel-courtyard-urbanism/05-adaptable-units.webp",
+        "assets/board/reimagining-tegel-courtyard-urbanism/06-trellis-model.webp",
+        "assets/board/reimagining-tegel-courtyard-urbanism/07-trellis-joints.webp",
+        "assets/board/reimagining-tegel-courtyard-urbanism/08-roof-light-control.webp",
+        "assets/board/reimagining-tegel-courtyard-urbanism/09-long-section.webp",
+        "assets/board/reimagining-tegel-courtyard-urbanism/10-tower-and-workshops.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/reimagining-tegel-courtyard-urbanism/01-hexagon-masterplan.webp"
+          ],
+          "captions": [
+            "The hexagonal courtyard reimagined as a shared garden and neighbourhood."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "六角形中庭被重新想像為共享花園與社區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The decommissioned Tegel Airport in Berlin leaves a large hexagonal terminal and its courtyard without a use. The project asks how the site could give displaced families a home while opening it to the people of the city.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "柏林已停用的泰格爾機場，留下一座大型六角形航廈與中庭無人使用。這個專案提問：基地如何為流離失所的家庭提供居所，同時向城市居民開放。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Mapping and user studies compare the needs of new residents with those of local visitors. Timber stick models test a branching, lightweight structure that could grow across the courtyard.",
+          "images": [
+            "assets/board/reimagining-tegel-courtyard-urbanism/03-site-plan.webp",
+            "assets/board/reimagining-tegel-courtyard-urbanism/02-stick-models.webp"
+          ],
+          "captions": [
+            "The airport site within the city.",
+            "Early timber stick models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地圖與使用者研究比較了新住民與在地訪客的不同需求。木構桿件模型則測試一種可在中庭中延展、輕巧的分枝結構。",
+              "captions": [
+                "機場基地在城市中的位置。",
+                "早期的木桿件模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Homes, schools and cafeterias line the terminal ring, while the courtyard fills with planting beds, workshops and trellises for growing herbs and spices. Unit plans use sliding doors and storage walls so each family can reshape its rooms over time.",
+          "images": [
+            "assets/board/reimagining-tegel-courtyard-urbanism/05-adaptable-units.webp",
+            "assets/board/reimagining-tegel-courtyard-urbanism/06-trellis-model.webp",
+            "assets/board/reimagining-tegel-courtyard-urbanism/07-trellis-joints.webp"
+          ],
+          "captions": [
+            "Adaptable family units and their uses.",
+            "Model of the planting trellis.",
+            "Joint studies for the trellis."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "住宅、學校與餐廳沿著航廈環狀配置，中庭則布滿種植床、工作坊與用來栽種香草與香料的棚架。單元平面以拉門與收納牆組成，讓每個家庭能隨時間調整房間。",
+              "captions": [
+                "可調整的家庭單元與使用方式。",
+                "種植棚架模型。",
+                "棚架的節點研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A bike lane and a communication park run beneath an open roof whose angled tiles control light and collect rain. Raised walkways, a viewing tower and workshops turn the courtyard into a garden for exchange between residents and visitors.",
+          "images": [
+            "assets/board/reimagining-tegel-courtyard-urbanism/08-roof-light-control.webp",
+            "assets/board/reimagining-tegel-courtyard-urbanism/09-long-section.webp",
+            "assets/board/reimagining-tegel-courtyard-urbanism/10-tower-and-workshops.webp"
+          ],
+          "captions": [
+            "Roof tiles that control light.",
+            "Long section across the courtyard.",
+            "Viewing tower and rain-fed workshops."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "自行車道與交流公園位於開放式屋頂之下，屋頂以不同角度的板片調節光線並收集雨水。高架步道、瞭望塔與工作坊，讓中庭成為住民與訪客交流的花園。",
+              "captions": [
+                "調節光線的屋頂板片。",
+                "橫跨中庭的長向剖面。",
+                "瞭望塔與雨水回收工作坊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read an empty structure as a resource.\n2. Design for two user groups at once.\n3. Let planting carry culture and income.\n4. Build shared ground before shared rooms.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把閒置的結構視為資源。\n2. 同時為兩種使用者設計。\n3. 讓植栽承載文化與收入。\n4. 先建立共享的地面，再談共享的房間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Floating Eco-Islands",
+      "slug": "floating-eco-islands-bird-habitat",
+      "description": "Artificial habitats made from abandoned bamboo rafts that move feeding grounds away from the busy shore.\n\nShenzhen Bay | Floating habitat | Bird conservation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "漂浮生態島",
+          "description": "以廢棄竹筏打造的人工棲地，將鳥類覓食區移離熱鬧的岸邊。\n\n深圳灣｜漂浮棲地｜鳥類保育｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/floating-eco-islands-bird-habitat/01-floating-raft-habitat.webp",
+        "assets/board/floating-eco-islands-bird-habitat/02-bay-bird-map.webp",
+        "assets/board/floating-eco-islands-bird-habitat/03-weekly-tide-chart.webp",
+        "assets/board/floating-eco-islands-bird-habitat/04-birds-through-the-tide.webp",
+        "assets/board/floating-eco-islands-bird-habitat/05-shoreline-section.webp",
+        "assets/board/floating-eco-islands-bird-habitat/06-abandoned-bamboo-floats.webp",
+        "assets/board/floating-eco-islands-bird-habitat/07-island-plan.webp",
+        "assets/board/floating-eco-islands-bird-habitat/08-model-aerial.webp",
+        "assets/board/floating-eco-islands-bird-habitat/09-tide-model.webp",
+        "assets/board/floating-eco-islands-bird-habitat/10-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/floating-eco-islands-bird-habitat/01-floating-raft-habitat.webp"
+          ],
+          "captions": [
+            "Planted bamboo rafts give waterbirds a safe place to feed."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "種上植物的竹筏，為水鳥提供安全的覓食處。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Shenzhen Bay is a tidal estuary where resident and migratory waterbirds feed close to busy promenades and seawalls. Human disturbance near the shore pushes the birds away from the places they rely on.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "深圳灣是一處潮汐河口，留鳥與候鳥在熱鬧的步道與海堤旁覓食。岸邊的人為干擾，正把鳥類推離牠們依賴的棲地。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A months-long field study logs the tides and records where each bird group feeds as the water rises and falls. It also finds abandoned bamboo floats and small islands that appear at low tide, which become the raw material of the design.",
+          "images": [
+            "assets/board/floating-eco-islands-bird-habitat/02-bay-bird-map.webp",
+            "assets/board/floating-eco-islands-bird-habitat/03-weekly-tide-chart.webp",
+            "assets/board/floating-eco-islands-bird-habitat/04-birds-through-the-tide.webp",
+            "assets/board/floating-eco-islands-bird-habitat/05-shoreline-section.webp",
+            "assets/board/floating-eco-islands-bird-habitat/06-abandoned-bamboo-floats.webp"
+          ],
+          "captions": [
+            "Bird sightings across the bay.",
+            "Tide levels over one week.",
+            "Where birds feed at each stage of the tide.",
+            "Shoreline section by bird group.",
+            "Bamboo floats and low-tide islands found on site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "為期數月的田野調查記錄潮汐，並觀察各類鳥群在漲退潮之間於何處覓食。調查也發現了廢棄的竹筏與低潮時才浮現的小島，成為設計的素材。",
+              "captions": [
+                "灣區內的鳥類觀察紀錄。",
+                "一週的潮位變化。",
+                "各潮汐階段鳥類的覓食位置。",
+                "依鳥類族群整理的海岸剖面。",
+                "在基地發現的竹筏與低潮小島。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The bamboo rafts are reinforced, anchored to the seabed and fitted with planting boxes for reeds and other aquatic plants. Oysters living inside the bamboo help filter the water and add habitat for fish.",
+          "images": [
+            "assets/board/floating-eco-islands-bird-habitat/07-island-plan.webp"
+          ],
+          "captions": [
+            "Habitat, research and submerged islands."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "竹筏經過補強並錨定於海床，再加上栽種蘆葦等水生植物的種植箱。棲息在竹管內的牡蠣協助淨化水質，也為魚類增加棲地。",
+              "captions": [
+                "棲地島、研究島與淹沒島的配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The rafts extend the low-tide islands and become new islands when the water covers them, moving food and shelter away from the shore. A tide model tests how many rafts are needed to keep the habitat area steady between high and low water.",
+          "images": [
+            "assets/board/floating-eco-islands-bird-habitat/08-model-aerial.webp",
+            "assets/board/floating-eco-islands-bird-habitat/09-tide-model.webp",
+            "assets/board/floating-eco-islands-bird-habitat/10-model-details.webp"
+          ],
+          "captions": [
+            "The model seen from above.",
+            "High and low tide in the model.",
+            "Details of the planted rafts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "竹筏延伸了低潮小島，並在海水淹沒時自成島嶼，將食物與庇護所移離岸邊。潮汐模型則測試需要多少竹筏，才能讓棲地面積在漲退潮之間維持穩定。",
+              "captions": [
+                "從上方俯瞰模型。",
+                "模型中的高潮與低潮。",
+                "種植竹筏的細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe the site over time.\n2. Design for the species, not the visitor.\n3. Reuse what the site already holds.\n4. Test the idea with a working model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 長時間觀察基地。\n2. 為物種而非訪客設計。\n3. 再利用基地既有的資源。\n4. 用可運作的模型驗證想法。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Bio-based Material",
+      "slug": "bio-based-hempcrete-ceiling",
+      "description": "Interlocking hempcrete blocks for a dry-stacked ceiling built without mortar.\n\nNew York | Material research | Hempcrete ceiling | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "生物基材料",
+          "description": "以互鎖式麻石灰磚打造、無需砂漿的乾式堆疊天花板。\n\n紐約｜材料研究｜麻石灰天花板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/bio-based-hempcrete-ceiling/01-interlocking-hempcrete-block.webp",
+        "assets/board/bio-based-hempcrete-ceiling/02-casting-process.webp",
+        "assets/board/bio-based-hempcrete-ceiling/03-mould-design.webp",
+        "assets/board/bio-based-hempcrete-ceiling/04-ceiling-section.webp",
+        "assets/board/bio-based-hempcrete-ceiling/05-ceiling-mock-up.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/bio-based-hempcrete-ceiling/01-interlocking-hempcrete-block.webp"
+          ],
+          "captions": [
+            "Interlocking hempcrete blocks held by timber members."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以木構件固定的互鎖式麻石灰磚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Ceilings are usually built with mortar, adhesives and energy-heavy materials that are hard to take apart. The project asks whether a bio-based block could form a ceiling by stacking alone.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "天花板通常以砂漿、黏著劑與高耗能材料建造，難以拆解。這個專案提問：生物基材料製成的磚塊，能否僅靠堆疊就構成天花板。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Hemp hurds are mixed with a lime binder, pressed into moulds and tamped by hand. Workshops compare several binders and mould versions to learn how timing, moisture and compaction change the result.",
+          "images": [
+            "assets/board/bio-based-hempcrete-ceiling/02-casting-process.webp",
+            "assets/board/bio-based-hempcrete-ceiling/03-mould-design.webp"
+          ],
+          "captions": [
+            "Mixing and casting steps.",
+            "Single mould and stacked moulds for the mock-up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "將大麻稈芯與石灰黏結劑混合，壓入模具並以手工夯實。工作坊比較多種黏結劑與模具版本，了解時間、濕度與壓實程度如何影響成果。",
+              "captions": [
+                "混合與澆鑄步驟。",
+                "單一模具與用於實體模型的組合模具。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stepped and notched blocks lock into each other, so the ceiling can be dry-stacked without mortar. Timber supports run through the blocks to carry lateral forces and tie the system to the facade.",
+          "images": [
+            "assets/board/bio-based-hempcrete-ceiling/04-ceiling-section.webp"
+          ],
+          "captions": [
+            "Section of the stacked ceiling."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "階梯狀並帶有凹槽的磚塊彼此咬合，讓天花板無需砂漿即可乾式堆疊。木支撐穿過磚塊承受側向力，並將系統與立面相連。",
+              "captions": [
+                "堆疊式天花板的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A full mock-up tests how the blocks interlock, hold their shape and work with the timber frame. The study points toward low-carbon ceilings that can be assembled, taken apart and reused.",
+          "images": [
+            "assets/board/bio-based-hempcrete-ceiling/05-ceiling-mock-up.webp"
+          ],
+          "captions": [
+            "Ceiling mock-up with timber supports."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完整的實體模型測試磚塊的咬合、形狀穩定度，以及與木構架的配合。這項研究指向可組裝、可拆解並能再利用的低碳天花板。",
+              "captions": [
+                "附木支撐的天花板實體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the material.\n2. Let geometry replace glue.\n3. Test by making, again and again.\n4. Design for taking apart.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從材料出發。\n2. 讓幾何取代黏著。\n3. 反覆動手製作來測試。\n4. 為拆解而設計。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
