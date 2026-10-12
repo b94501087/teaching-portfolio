@@ -1,0 +1,61 @@
+{
+  "project": "Extension of Motions",
+  "dest": "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model",
+  "note": "Portfolio f312 pages 3-4 cropped to nine images, WebP q88 (PIL). Not used: title and text, video frames showing the player.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "c96fdac111f846cbbea56dba2cd5660dc757b0ca9810f7629bea3552fb1b760a",
+      "bytes": 117344,
+      "from": "f312 page 4 — final model"
+    },
+    {
+      "name": "02-motion-lines.webp",
+      "sha256": "999749048991c52d7560d923d623264dc6210029f746b7cd4447732911ca230a",
+      "bytes": 29052,
+      "from": "f312 page 3 — motion lines"
+    },
+    {
+      "name": "03-clay-base.webp",
+      "sha256": "5eb0509ddc83586e4e0002ae1203848ddf5f2316393ab7ae94f46c3384a76a62",
+      "bytes": 19956,
+      "from": "f312 page 3 — clay base"
+    },
+    {
+      "name": "04-clay-caves.webp",
+      "sha256": "d66cced4943a0a391eaeb96606deb05dc13f3e0b665d0f0e8eacb1a5a36c056d",
+      "bytes": 28004,
+      "from": "f312 page 3 — clay caves"
+    },
+    {
+      "name": "05-first-sticks.webp",
+      "sha256": "890b1ea5096795ba2eef75a03c0116f61c34be3b09259ddb3a0e6e64b09e0f23",
+      "bytes": 23288,
+      "from": "f312 page 3 — first sticks"
+    },
+    {
+      "name": "06-stick-net.webp",
+      "sha256": "2023f964a9c769bb93983521f6c52bcc2003f1afe3a5d9553d3a155e9b10df14",
+      "bytes": 45652,
+      "from": "f312 page 3 — stick net"
+    },
+    {
+      "name": "07-perspective.webp",
+      "sha256": "929d9b1333f904ba8c23e1f7cb4ce29e57760bc64f5fae24dbabdd13376f95b4",
+      "bytes": 120594,
+      "from": "f312 page 3 — perspective"
+    },
+    {
+      "name": "08-close-view.webp",
+      "sha256": "ade6f4b53c9a151160d46899a9d4b8b0e0da618cf5222f4935c81d823f2df7ac",
+      "bytes": 22618,
+      "from": "f312 page 4 — close view"
+    },
+    {
+      "name": "09-side-view.webp",
+      "sha256": "223d252c1359ce65e779438c568d3b74958e0fc96544985f4f24e00987de1895",
+      "bytes": 73222,
+      "from": "f312 page 4 — side view"
+    }
+  ]
+}
