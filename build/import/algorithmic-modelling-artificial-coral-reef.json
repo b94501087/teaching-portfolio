@@ -1,0 +1,61 @@
+{
+  "project": "Algorithmic Modelling: Artificial Coral Reefs",
+  "dest": "assets/board/algorithmic-modelling-artificial-coral-reef",
+  "note": "Portfolio e7c5 page 14 cropped to nine images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-printed-reef.webp",
+      "sha256": "706c53fc760bcd82dc156229c1e684d645f2555232e6d861ecea6a5c03945d38",
+      "bytes": 8442,
+      "from": "e7c5 page 14 — printed reef"
+    },
+    {
+      "name": "02-threat-diagram.webp",
+      "sha256": "14e0720c45d4d453ffdb45f4875dc49426faff20329a94f201c11234ebae9651",
+      "bytes": 21312,
+      "from": "e7c5 page 14 — threat diagram"
+    },
+    {
+      "name": "03-script.webp",
+      "sha256": "9f4a56f2dc41d74ebdec2e79dc96c96e387d78e9536d12acb29c568082287dcd",
+      "bytes": 12548,
+      "from": "e7c5 page 14 — script"
+    },
+    {
+      "name": "04-print-test-a.webp",
+      "sha256": "9444464f228dffaa5295d80a07f7cf64082ac7efe565d8415b6c1c9654b6dc54",
+      "bytes": 4936,
+      "from": "e7c5 page 14 — print test a"
+    },
+    {
+      "name": "05-print-test-b.webp",
+      "sha256": "0ddbf074aa1e04a6f2a1905e5295997ee13f0fbdb16ab4c95c834a89cbda87d2",
+      "bytes": 4202,
+      "from": "e7c5 page 14 — print test b"
+    },
+    {
+      "name": "06-pattern-render.webp",
+      "sha256": "4bb18f87ab5b1ff4d47f2b550ea8c3aea4870b548113dcf2ff7e0ba2edaa4546",
+      "bytes": 9232,
+      "from": "e7c5 page 14 — pattern render"
+    },
+    {
+      "name": "07-module-renders.webp",
+      "sha256": "c558cdb21b523df73437e71e49b1375a6a6c1eefbdf8aab8e3255831870d3ab7",
+      "bytes": 11830,
+      "from": "e7c5 page 14 — module renders"
+    },
+    {
+      "name": "08-reef-concept-a.webp",
+      "sha256": "0bef35dcf16e7fc302e285a2e6557af0c0290013911005d813ff9bd3560caba7",
+      "bytes": 41090,
+      "from": "e7c5 page 14 — reef concept a"
+    },
+    {
+      "name": "09-reef-concept-b.webp",
+      "sha256": "4e90c1c5454a557403e12ae99ac481926a186cd2a674cd2e4336f2442fd9d6a8",
+      "bytes": 47876,
+      "from": "e7c5 page 14 — reef concept b"
+    }
+  ]
+}
