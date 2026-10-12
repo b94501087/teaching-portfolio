@@ -26635,6 +26635,586 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "The City Dehumidifier",
+      "slug": "city-dehumidifier-xiangtan",
+      "description": "A stepped building on a slope cools and dries the air through ground pipes and plant roots.\n\nXiangtan, China | Wellness building | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市除濕機",
+          "description": "一座沿坡地退台的建築，透過地下管道與植物根系為空氣降溫除濕。\n\n中國湘潭｜養生建築｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/city-dehumidifier-xiangtan/01-dehumidifier-model.webp",
+        "assets/board/city-dehumidifier-xiangtan/02-airflow-section.webp",
+        "assets/board/city-dehumidifier-xiangtan/03-prototype-space-models.webp",
+        "assets/board/city-dehumidifier-xiangtan/04-model-sun-study.webp",
+        "assets/board/city-dehumidifier-xiangtan/05-dehumidification-model.webp",
+        "assets/board/city-dehumidifier-xiangtan/06-floor-plans.webp",
+        "assets/board/city-dehumidifier-xiangtan/07-sections.webp",
+        "assets/board/city-dehumidifier-xiangtan/08-exploded-view.webp",
+        "assets/board/city-dehumidifier-xiangtan/09-vertical-section.webp",
+        "assets/board/city-dehumidifier-xiangtan/10-wall-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/city-dehumidifier-xiangtan/01-dehumidifier-model.webp"
+          ],
+          "captions": [
+            "Model of the building with its timber grille."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "帶有木格柵的建築模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In the humid south of China, many people feel that damp air weighs on the body. The project asks whether a building itself can work as a dehumidifier.",
+          "images": [
+            "assets/board/city-dehumidifier-xiangtan/02-airflow-section.webp",
+            "assets/board/city-dehumidifier-xiangtan/03-prototype-space-models.webp"
+          ],
+          "captions": [
+            "Moist wind comes in and dry air flows out.",
+            "Prototype spaces drawn from verbs for each kind of damp."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在潮濕的中國南方，許多人覺得濕氣會加重身體的負擔。本案探問建築本身能否像除濕機一樣運作。",
+              "captions": [
+                "潮濕的風進入，乾燥的空氣流出。",
+                "從對應各種濕氣的動詞推演出的原型空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Local habits for removing damp were grouped into four ways: sweating in a sauna, massage, exercise and diet. Each way became one type of space for its own group of users.",
+          "images": [
+            "assets/board/city-dehumidifier-xiangtan/04-model-sun-study.webp",
+            "assets/board/city-dehumidifier-xiangtan/05-dehumidification-model.webp"
+          ],
+          "captions": [
+            "Model perspective and summer and winter sun study.",
+            "Section model showing the paths of the air."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "在地祛濕的習慣被歸納為四種方式：桑拿出汗、按摩、運動與飲食。每一種方式都成為一類空間，服務各自的使用者。",
+              "captions": [
+                "模型透視與夏冬日照分析。",
+                "呈現空氣路徑的剖面模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Outside air is first drawn through pipes in the ground, where it cools and loses water. It then passes a layer of plant aerial roots, which take up more of the moisture.",
+          "images": [
+            "assets/board/city-dehumidifier-xiangtan/06-floor-plans.webp",
+            "assets/board/city-dehumidifier-xiangtan/07-sections.webp",
+            "assets/board/city-dehumidifier-xiangtan/08-exploded-view.webp"
+          ],
+          "captions": [
+            "Floor plans from the ground floor up.",
+            "Sections A and B across the sloping site.",
+            "Exploded view of the four kinds of space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "室外空氣先被引入地下管道，在其中降溫並除去水分。接著空氣通過植物氣根層，進一步吸收濕氣。",
+              "captions": [
+                "由地面層往上的各層平面。",
+                "橫跨坡地的A、B剖面。",
+                "四類空間的爆炸圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The building steps up the slope, so visitors pass the four kinds of space in turn along one route. Wall and roof details show how the grilles, green roof and root layer handle the air.",
+          "images": [
+            "assets/board/city-dehumidifier-xiangtan/09-vertical-section.webp",
+            "assets/board/city-dehumidifier-xiangtan/10-wall-section.webp"
+          ],
+          "captions": [
+            "Detailed vertical section of the pool wall.",
+            "Wall section with the aerial-root layer."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築沿坡地層層升起，訪客沿著一條動線依序經過四類空間。牆身與屋頂的細部說明格柵、綠屋頂與氣根層如何處理空氣。",
+              "captions": [
+                "池畔牆身的詳細剖面。",
+                "帶有氣根層的牆身剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a feeling in the body.\n2. Study the local ways of easing it.\n3. Turn each way into a space.\n4. Let the section carry the air.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從身體的感受出發。\n2. 研究在地的舒緩方式。\n3. 把每種方式轉為空間。\n4. 讓剖面承載空氣的流動。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Listening to the Sound",
+      "slug": "listening-to-the-sound-guangzhou-square",
+      "description": "A noisy green square in the city becomes a quiet place for five groups of users.\n\nGuangzhou, China | Public square | 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "聆聽聲音",
+          "description": "城市中一處嘈雜的綠色廣場，成為五類使用者的安靜去處。\n\n中國廣州｜公共廣場｜2019｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/listening-to-the-sound-guangzhou-square/01-aerial-view.webp",
+        "assets/board/listening-to-the-sound-guangzhou-square/02-noise-map.webp",
+        "assets/board/listening-to-the-sound-guangzhou-square/03-user-survey-map.webp",
+        "assets/board/listening-to-the-sound-guangzhou-square/04-management-strategy.webp",
+        "assets/board/listening-to-the-sound-guangzhou-square/05-masterplan.webp",
+        "assets/board/listening-to-the-sound-guangzhou-square/06-design-development.webp",
+        "assets/board/listening-to-the-sound-guangzhou-square/07-activity-modules.webp",
+        "assets/board/listening-to-the-sound-guangzhou-square/08-square-scenes.webp",
+        "assets/board/listening-to-the-sound-guangzhou-square/09-edge-wall-sections.webp",
+        "assets/board/listening-to-the-sound-guangzhou-square/10-museum-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/listening-to-the-sound-guangzhou-square/01-aerial-view.webp"
+          ],
+          "captions": [
+            "Aerial view of the square and its activity zones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "廣場與各活動區的鳥瞰圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is a green square in busy central Guangzhou, with many trees but little to do. Noise from the roads around it also keeps people from staying.",
+          "images": [
+            "assets/board/listening-to-the-sound-guangzhou-square/02-noise-map.webp",
+            "assets/board/listening-to-the-sound-guangzhou-square/03-user-survey-map.webp"
+          ],
+          "captions": [
+            "Noise levels from the roads around the site.",
+            "Survey of five groups of users on the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地是廣州繁忙市中心的一處綠色廣場，樹木很多，卻少有可以做的事。周邊道路的噪音也讓人們不願停留。",
+              "captions": [
+                "周邊道路的噪音分布。",
+                "基地上五類使用者的調查。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The survey found five main groups of users, from office workers to local residents and people without stable homes. A shared management system links shops, studios, a museum and housing to keep the square alive over time.",
+          "images": [
+            "assets/board/listening-to-the-sound-guangzhou-square/04-management-strategy.webp"
+          ],
+          "captions": [
+            "Management system that ties the uses together."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "調查找出五類主要使用者，從上班族、在地居民到沒有穩定住處的人。一套共同的管理系統串連商店、工作室、博物館與住宿，讓廣場長久保持活力。",
+              "captions": [
+                "串連各種用途的管理系統。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The routes were redrawn into curving paths that open a large central space among the trees. Small activity modules give each group of users a place to play, rest or perform.",
+          "images": [
+            "assets/board/listening-to-the-sound-guangzhou-square/05-masterplan.webp",
+            "assets/board/listening-to-the-sound-guangzhou-square/06-design-development.webp",
+            "assets/board/listening-to-the-sound-guangzhou-square/07-activity-modules.webp",
+            "assets/board/listening-to-the-sound-guangzhou-square/08-square-scenes.webp"
+          ],
+          "captions": [
+            "Masterplan of the square.",
+            "From the original routes to the refined design.",
+            "Activity modules for the five groups of users.",
+            "Eight scenes the central square can host."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "動線被重新繪製成彎曲的路徑，在樹林中打開一處大型中央空間。小型活動模組讓每一類使用者都有遊戲、休息或表演的地方。",
+              "captions": [
+                "廣場總平面圖。",
+                "從原有動線到深化設計。",
+                "對應五類使用者的活動模組。",
+                "中央廣場可容納的八種場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Buildings on the edge use green walls, laminated glass and soundproof walls to block the noise of the city. The central museum is cut open in section so that air and light move through it.",
+          "images": [
+            "assets/board/listening-to-the-sound-guangzhou-square/09-edge-wall-sections.webp",
+            "assets/board/listening-to-the-sound-guangzhou-square/10-museum-section.webp"
+          ],
+          "captions": [
+            "Green wall sections of the edge buildings.",
+            "Section of the central museum."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "邊界建築以綠牆、夾層玻璃與隔音牆阻擋城市噪音。中央博物館在剖面上被打開，讓空氣與光線貫穿其中。",
+              "captions": [
+                "邊界建築的綠牆剖面。",
+                "中央博物館剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Listen to the site first.\n2. Find who already uses it.\n3. Give each group a place.\n4. Use green to soften the noise.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先聆聽基地。\n2. 找出已在使用它的人。\n3. 為每個群體安排位置。\n4. 以綠意緩和噪音。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Signals of the Heart",
+      "slug": "signals-of-the-heart-meeting-pavilion",
+      "description": "Five themed spaces turn a meeting between strangers into a slow route of finding each other.\n\nGuangzhou, China | Interactive pavilion | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "心的訊號",
+          "description": "五個主題空間，讓陌生人之間的相遇成為一條慢慢找到彼此的路線。\n\n中國廣州｜互動展亭｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/signals-of-the-heart-meeting-pavilion/01-ice-breaking-dance-dome.webp",
+        "assets/board/signals-of-the-heart-meeting-pavilion/02-ramp-and-dome-exploded.webp",
+        "assets/board/signals-of-the-heart-meeting-pavilion/03-memory-wall.webp",
+        "assets/board/signals-of-the-heart-meeting-pavilion/04-memory-box-exploded.webp",
+        "assets/board/signals-of-the-heart-meeting-pavilion/05-choose-time-pillars.webp",
+        "assets/board/signals-of-the-heart-meeting-pavilion/06-choose-time-curtain.webp",
+        "assets/board/signals-of-the-heart-meeting-pavilion/07-love-catalyst-stairs.webp",
+        "assets/board/signals-of-the-heart-meeting-pavilion/08-love-catalyst-exploded.webp",
+        "assets/board/signals-of-the-heart-meeting-pavilion/09-heartbeat-maze-layers.webp",
+        "assets/board/signals-of-the-heart-meeting-pavilion/10-heartbeat-maze.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/signals-of-the-heart-meeting-pavilion/01-ice-breaking-dance-dome.webp"
+          ],
+          "captions": [
+            "The ice-breaking dance space under the glass dome."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "玻璃穹頂下的破冰舞蹈空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In many city parks in China, parents look for partners for their grown children, while young people want to choose love freely. The project looks for a new way to balance the wishes of both sides.",
+          "images": [
+            "assets/board/signals-of-the-heart-meeting-pavilion/02-ramp-and-dome-exploded.webp"
+          ],
+          "captions": [
+            "Ramp, glowing pillars and dome in layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在中國許多城市公園裡，父母為成年子女尋找對象，而年輕人則希望自由選擇愛情。本案尋找一種平衡雙方期望的新方式。",
+              "captions": [
+                "坡道、發光柱與穹頂的分層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Data and field research traced how these meeting customs began and why they still exist. The design turns one meeting into a route of five themed spaces for eight participants.",
+          "images": [
+            "assets/board/signals-of-the-heart-meeting-pavilion/03-memory-wall.webp",
+            "assets/board/signals-of-the-heart-meeting-pavilion/04-memory-box-exploded.webp"
+          ],
+          "captions": [
+            "The wall of memories with pictures and videos.",
+            "Concrete frame, steel shelves and acrylic boxes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "透過資料與田野研究，追溯這些相親習俗的起源與至今仍存在的原因。設計把一次相遇轉化為一條由五個主題空間組成、供八位參與者體驗的路線。",
+              "captions": [
+                "放置照片與影片的記憶之牆。",
+                "混凝土框、鋼架與壓克力盒。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "After a dance, participants learn about each other at a wall of boxes and then search for coloured pillars among metal curtains. Each colour stands for one person, so choosing becomes a slow game of finding.",
+          "images": [
+            "assets/board/signals-of-the-heart-meeting-pavilion/05-choose-time-pillars.webp",
+            "assets/board/signals-of-the-heart-meeting-pavilion/06-choose-time-curtain.webp"
+          ],
+          "captions": [
+            "Layers of the choosing device.",
+            "Metal curtain and pillars among the trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一場舞蹈之後，參與者在盒子之牆前認識彼此，接著在金屬簾幕間尋找彩色光柱。每一種顏色代表一個人，讓選擇成為一場慢慢尋找的遊戲。",
+              "captions": [
+                "選擇裝置的分層。",
+                "樹林中的金屬簾幕與光柱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Pairs then share a small cinema with quiet spaces for two under the stairs. In a final maze, a phone app signals when two people who chose each other come close.",
+          "images": [
+            "assets/board/signals-of-the-heart-meeting-pavilion/07-love-catalyst-stairs.webp",
+            "assets/board/signals-of-the-heart-meeting-pavilion/08-love-catalyst-exploded.webp",
+            "assets/board/signals-of-the-heart-meeting-pavilion/09-heartbeat-maze-layers.webp",
+            "assets/board/signals-of-the-heart-meeting-pavilion/10-heartbeat-maze.webp"
+          ],
+          "captions": [
+            "Stepped cinema space for the pairs.",
+            "Roof, frame and membrane of the cinema.",
+            "Layers of glass, mirror and concrete in the maze.",
+            "The heartbeat maze."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "配對者接著共享一座小型電影院，階梯下設有兩人的安靜空間。在最後的迷宮中，當互相選擇的兩人靠近時，手機應用程式會發出訊號。",
+              "captions": [
+                "供配對者使用的階梯電影空間。",
+                "電影空間的屋頂、框架與膜材。",
+                "迷宮中玻璃、鏡面與混凝土的分層。",
+                "心跳迷宮。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe a custom closely.\n2. Ask why it still lasts.\n3. Turn each step into a space.\n4. Let materials set the mood.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 仔細觀察一種習俗。\n2. 追問它為何延續至今。\n3. 把每一步轉為空間。\n4. 讓材料營造氛圍。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Animal Box",
+      "slug": "animal-box-guangzhou",
+      "description": "Stacked habitat boxes invite people to meet animals again, with respect.\n\nGuangzhou, China | Exhibition building | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "動物盒子",
+          "description": "層層堆疊的棲地盒子，邀請人們以尊重重新認識動物。\n\n中國廣州｜展覽建築｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/animal-box-guangzhou/01-animal-box-exterior.webp",
+        "assets/board/animal-box-guangzhou/02-goal-diagram.webp",
+        "assets/board/animal-box-guangzhou/03-conceptual-sketches.webp",
+        "assets/board/animal-box-guangzhou/04-exhibition-system.webp",
+        "assets/board/animal-box-guangzhou/05-expected-contexts.webp",
+        "assets/board/animal-box-guangzhou/06-functional-distribution.webp",
+        "assets/board/animal-box-guangzhou/07-blind-box-interior.webp",
+        "assets/board/animal-box-guangzhou/08-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/animal-box-guangzhou/01-animal-box-exterior.webp"
+          ],
+          "captions": [
+            "The Animal Box at night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "夜晚的動物盒子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Most people know animals only in a simple way, through zoos, school and the internet. The project asks how a building can help people see animals as complex lives that deserve respect.",
+          "images": [
+            "assets/board/animal-box-guangzhou/02-goal-diagram.webp",
+            "assets/board/animal-box-guangzhou/03-conceptual-sketches.webp"
+          ],
+          "captions": [
+            "How people come to know animals.",
+            "Sketches of boxes stacked and shifted to make cross views."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "多數人只透過動物園、學校與網路，以簡單的方式認識動物。本案探問建築如何幫助人們把動物看作值得尊重的複雜生命。",
+              "captions": [
+                "人們認識動物的途徑。",
+                "堆疊錯位的盒子形成交錯視野的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each animal habitat is set out as a box with its own sound, light, terrain and humidity. Some boxes use virtual reality, while others offer real experiences such as a bat cave or a snake maze.",
+          "images": [
+            "assets/board/animal-box-guangzhou/04-exhibition-system.webp",
+            "assets/board/animal-box-guangzhou/05-expected-contexts.webp"
+          ],
+          "captions": [
+            "Arrangement of the virtual and real systems.",
+            "Expected scenes inside the animal boxes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每一種動物棲地都被設定為一個盒子，各有其聲音、光線、地形與濕度。有些盒子使用虛擬實境，另一些則提供蝙蝠洞或蛇迷宮等真實體驗。",
+              "captions": [
+                "虛擬與真實系統的配置。",
+                "動物盒子內預期的場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The boxes are grouped into virtual reality, real experience, education and office areas around a central core. A few times a month, a blind box day opens rooms whose content visitors do not know in advance.",
+          "images": [
+            "assets/board/animal-box-guangzhou/06-functional-distribution.webp",
+            "assets/board/animal-box-guangzhou/07-blind-box-interior.webp"
+          ],
+          "captions": [
+            "Functional areas of the building.",
+            "Interior on a blind box day."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "盒子被分為虛擬實境、真實體驗、教育展示與行政四區，環繞中央核心配置。每月數次的盲盒日，會開放訪客事先不知道內容的房間。",
+              "captions": [
+                "建築的各功能分區。",
+                "盲盒日的室內場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The section shows how the boxes of different heights stack around stairs and open floors. Visitors move from habitat to habitat and meet each animal in its own setting.",
+          "images": [
+            "assets/board/animal-box-guangzhou/08-section.webp"
+          ],
+          "captions": [
+            "Long section through the boxes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "剖面呈現不同高度的盒子如何圍繞樓梯與開放樓層堆疊。訪客從一處棲地走到另一處，在各自的環境中與每一種動物相遇。",
+              "captions": [
+                "穿越各盒子的長剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Question what people think they know.\n2. Give each subject its own box.\n3. Set the senses for every box.\n4. Stack the boxes into a route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 質疑人們自以為知道的事。\n2. 為每個對象設一個盒子。\n3. 為每個盒子設定感官條件。\n4. 把盒子堆疊成一條路線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
