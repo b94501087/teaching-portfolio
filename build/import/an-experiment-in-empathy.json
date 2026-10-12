@@ -1,0 +1,37 @@
+{
+  "project": "An Experiment in Empathy",
+  "dest": "assets/board/an-experiment-in-empathy",
+  "note": "Portfolio e4dc pages 8–10 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage with photos of a child and faces on page 7, the artwork thumbnails and the circular photo collage on page 8, and the renderings with photo figures on page 10. No retouching.",
+  "files": [
+    {
+      "name": "01-five-parts-design-development.webp",
+      "sha256": "6226b1f07ee49ab8bcaee8371f37391f1e2b5d4c2f27973de149ed51d69bf08c",
+      "bytes": 131672,
+      "from": "e4dc page 9 — display of spatial components and design development of the five parts, x 0–65.5 %, y 0–100 %"
+    },
+    {
+      "name": "02-spatial-components-matrix.webp",
+      "sha256": "57efd045a9b0afdfbe9d745814c57b6ed233802e1e8e9b7526c040c5f972d60d",
+      "bytes": 123508,
+      "from": "page 8 — matrix of spatial components, x 20.5–49.5 %, y 20–86 %"
+    },
+    {
+      "name": "03-physical-model.webp",
+      "sha256": "cc8496a2b6c511460974b071505cf7609441f92ac9724262a0230632c068c258",
+      "bytes": 91348,
+      "from": "page 9 — physical model 1:50, x 65.5–100 %, y 0–97 %"
+    },
+    {
+      "name": "04-depressive-disorder-space.webp",
+      "sha256": "9ec5232658b435d0635670b6600c71b098c5db26cdc0013b50806fdf2531bf91",
+      "bytes": 91680,
+      "from": "page 10 — depressive disorder rendering and sketches, x 62.8–100 %, y 12–60 %"
+    },
+    {
+      "name": "05-tube-and-pole-sketches.webp",
+      "sha256": "c58c08c4fd7b21fe7099f7f1f392b6ba1186aea04fff1f5b2a424713b835281e",
+      "bytes": 59866,
+      "from": "page 10 — two sketches, x 26.5–37 %, y 12–36 % and 56–97 %, stacked"
+    }
+  ]
+}
