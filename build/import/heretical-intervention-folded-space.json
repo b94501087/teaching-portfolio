@@ -1,0 +1,61 @@
+{
+  "project": "Heretical Intervention",
+  "dest": "assets/board/heretical-intervention-folded-space",
+  "note": "Portfolio dba6 pages 13–14 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the source photo of flowers, the title panel and the body text.",
+  "files": [
+    {
+      "name": "01-folded-interior.webp",
+      "sha256": "b76a11f18c7586aca81c2a3e97158d8a1922f721e0c68f561c4d65d09981511c",
+      "bytes": 158060,
+      "from": "dba6 page 13 — interior render of the folded space, x 17.8–49.7 %, y 0–100 %"
+    },
+    {
+      "name": "02-concept-extraction.webp",
+      "sha256": "5abb8feb152c0828bdd4f9d1604b995cf6e6ab73ffa7499a3aa65e5d06058492",
+      "bytes": 163776,
+      "from": "page 13 — concept extraction process drawings, x 50.5–75 %, y 40–100 %"
+    },
+    {
+      "name": "03-study-models.webp",
+      "sha256": "2d7b8c95a5a007a3f7fa8a3274a5db39efb76215f53ad302910879e856bf2739",
+      "bytes": 151656,
+      "from": "page 13 — study model drawings and photos, x 75.5–100 %, y 0–37 %"
+    },
+    {
+      "name": "04-wire-models.webp",
+      "sha256": "d9c8da3197e16a657b0a28dc8538df19667261769e7c11f22ea2c150921ebd77",
+      "bytes": 220876,
+      "from": "page 13 — wire study models, x 75.5–100 %, y 38–100 %"
+    },
+    {
+      "name": "05-model-details.webp",
+      "sha256": "7004befb2d56e0177c98a2906dbb1fbdc64d89a8ecce58edb27f05ae86ad8787",
+      "bytes": 64900,
+      "from": "page 14 — physical model detail views, x 0–25 %, y 21–44 %"
+    },
+    {
+      "name": "06-section.webp",
+      "sha256": "d477719a925839747f990dedbfd8a8275a81deb7eb72b0933f7be0a77bd8efab",
+      "bytes": 137482,
+      "from": "page 14 — section through the building, x 25.5–50 %, y 0–44 %"
+    },
+    {
+      "name": "07-model-top-view.webp",
+      "sha256": "3ca5b52eadfb3684e21df92ddd2a4be5bfbc3e795abfc3fe6f4b802f5d8bdb79",
+      "bytes": 90990,
+      "from": "page 14 — physical model top view, x 0–25 %, y 44–100 %"
+    },
+    {
+      "name": "08-model-front-view.webp",
+      "sha256": "26ac43e514faa30218bdb340debf2e673925a38733a2d453e435265cc96f4eea",
+      "bytes": 78838,
+      "from": "page 14 — physical model front view, x 25.5–50 %, y 44–100 %"
+    },
+    {
+      "name": "09-model-overview.webp",
+      "sha256": "3d50bdaab626679d648fde78f448eb54d8d355ec0f49feac6b9996157a39ded9",
+      "bytes": 83792,
+      "from": "page 14 — physical model overview, x 50–100 %, y 0–100 %"
+    }
+  ]
+}
