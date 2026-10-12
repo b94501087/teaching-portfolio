@@ -1,0 +1,61 @@
+{
+  "project": "Cycles of Nature",
+  "dest": "assets/board/cycles-of-nature-tree-and-soil-layer-model",
+  "note": "Portfolio ce4a pages 6-7 cropped to nine images, WebP q88 (PIL). Not used: title and text, inspiration photos with people, signature on the drawing.",
+  "files": [
+    {
+      "name": "01-soil-tower.webp",
+      "sha256": "b118074de9e1c82ce98b94608634e1665e10d5c4c74cf5f157b33b107643eac5",
+      "bytes": 85534,
+      "from": "ce4a page 7 — soil tower"
+    },
+    {
+      "name": "02-soil-layers.webp",
+      "sha256": "0c1cd4ccef66db81fdf5c0d42de9e4bcdca2f25c3a10664392d7be7e16c3912b",
+      "bytes": 67928,
+      "from": "ce4a page 6 — soil layers"
+    },
+    {
+      "name": "03-ink-studies.webp",
+      "sha256": "dc47f0368a963bc22fcc94a4276127c86a0033863e653aa417947f0d27b3e46e",
+      "bytes": 44284,
+      "from": "ce4a page 6 — ink studies"
+    },
+    {
+      "name": "04-material-tests.webp",
+      "sha256": "8b08d61486aaf6606de136cb8340c2854ea07781ed354b2a708e721d6de12ed9",
+      "bytes": 106092,
+      "from": "ce4a page 6 — material tests"
+    },
+    {
+      "name": "05-making.webp",
+      "sha256": "36af40b5e9445b16521c24f30eba5409b40cee3a5cc5e9669a9743dab9b1c6f7",
+      "bytes": 100998,
+      "from": "ce4a page 6 — making"
+    },
+    {
+      "name": "06-model-drawing.webp",
+      "sha256": "94f67860fbd97ee5892e64cc61cc5f7b22e04f4288823c0759055de558f63034",
+      "bytes": 159520,
+      "from": "ce4a page 7 — model drawing"
+    },
+    {
+      "name": "07-glowing-model.webp",
+      "sha256": "679c1bf3be922b0b8dfca37b7c9ecd0c51e008d23c6549feb8e7b10fd9579380",
+      "bytes": 67118,
+      "from": "ce4a page 7 — glowing model"
+    },
+    {
+      "name": "08-details-a.webp",
+      "sha256": "cf0a25e82b37000143ccddc3f9c6bfcbadbf48afddebcf3bbd5cfce01294011a",
+      "bytes": 42142,
+      "from": "ce4a page 7 — details a"
+    },
+    {
+      "name": "09-details-b.webp",
+      "sha256": "73127866f603b97076ad46090dbfa3a4d8d9c74f537a87bf9a420b0ed3871f54",
+      "bytes": 31040,
+      "from": "ce4a page 7 — details b"
+    }
+  ]
+}
