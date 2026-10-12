@@ -1,0 +1,37 @@
+{
+  "project": "Garden",
+  "dest": "assets/board/sculpture-garden-cliffside-cuboids",
+  "note": "Portfolio 2cd4 page 4 cropped to five images, WebP q88 (PIL). Not used: title and body text with course name, portrait photo, garden photo.",
+  "files": [
+    {
+      "name": "01-cuboid-models-a.webp",
+      "sha256": "3bcacd1a51bbff8a1689d013f76290f6b1d2f0980f1d8e6a51f9e66f4a4589e6",
+      "bytes": 19348,
+      "from": "2cd4 page 4 — spatial cuboid models"
+    },
+    {
+      "name": "02-colour-collage.webp",
+      "sha256": "dd12750b590e12d3cf9ecc46f8f6a241af94237678f824619d6328b80c8a6b40",
+      "bytes": 14726,
+      "from": "2cd4 page 4 — colour collage"
+    },
+    {
+      "name": "03-garden-study-a.webp",
+      "sha256": "f27db437cd0ea42f3ffcccadca2de330bf8709a192e340b5c5ff8024ac93ca59",
+      "bytes": 26288,
+      "from": "2cd4 page 4 — sculpture garden collage and plan"
+    },
+    {
+      "name": "04-garden-study-b.webp",
+      "sha256": "00980e192bcf9c5f7119bdc45de9e6945dc00a3aca09fe6f4b1600eb706aa1ab",
+      "bytes": 39918,
+      "from": "2cd4 page 4 — sculpture garden collage and plan"
+    },
+    {
+      "name": "05-cuboid-models-b.webp",
+      "sha256": "b8a152b7cf4eadc65915a4bc0c0756982156024ea3b4a202ab9cb246c3d9aca4",
+      "bytes": 24834,
+      "from": "2cd4 page 4 — spatial cuboid models"
+    }
+  ]
+}
