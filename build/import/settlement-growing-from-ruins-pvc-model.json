@@ -1,0 +1,67 @@
+{
+  "project": "A Settlement Growing from Ruins",
+  "dest": "assets/board/settlement-growing-from-ruins-pvc-model",
+  "note": "Portfolio 1390 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, game key art, game screenshots and collage, game name.",
+  "files": [
+    {
+      "name": "01-settlement-model.webp",
+      "sha256": "8b58f3daaf9a505401fb62bf7559638a3756c1c66c1dd7fe2f94c65a29c6a8e9",
+      "bytes": 240018,
+      "from": "1390 page 7 — settlement model"
+    },
+    {
+      "name": "02-block-study-a.webp",
+      "sha256": "f2eb02df8ec63f348b87cebff4fb52e050df854cda70533f785720f9861ec2c3",
+      "bytes": 9254,
+      "from": "1390 page 6 — block study a"
+    },
+    {
+      "name": "03-block-study-b.webp",
+      "sha256": "71dcd4eb7a02b6addf58270e7bbdf2acb65005f9741daa931a87c74da18bf7b4",
+      "bytes": 9074,
+      "from": "1390 page 6 — block study b"
+    },
+    {
+      "name": "04-block-study-c.webp",
+      "sha256": "f914b8c06ea4a931fd4ea8500b57b6faa8787d63ec6d6c84e8045e8ef05cb6ed",
+      "bytes": 9372,
+      "from": "1390 page 6 — block study c"
+    },
+    {
+      "name": "05-block-study-d.webp",
+      "sha256": "e3130eb7791171a660d33ef706dbd5f95f5cf838cab5fffd399a10de00717b63",
+      "bytes": 7680,
+      "from": "1390 page 6 — block study d"
+    },
+    {
+      "name": "06-view-a.webp",
+      "sha256": "7a65d756d74df0ebb96ee24bc56fc3c9ea7fd52f69fd8a6412b04400065e8eb4",
+      "bytes": 71090,
+      "from": "1390 page 7 — view a"
+    },
+    {
+      "name": "07-view-b.webp",
+      "sha256": "1f3799cc68e23b262463670908b1cd176c0585df294863f36da303edb9506fb4",
+      "bytes": 36580,
+      "from": "1390 page 7 — view b"
+    },
+    {
+      "name": "08-detail-a.webp",
+      "sha256": "7c92cf4513ee63cf30d929feaad89fb5a5255c15e6e53064c4372ece8abde28a",
+      "bytes": 24388,
+      "from": "1390 page 7 — detail a"
+    },
+    {
+      "name": "09-detail-b.webp",
+      "sha256": "582d96adb589cc316e421755a064383368decca647b2b7d504f41621267a85db",
+      "bytes": 25364,
+      "from": "1390 page 7 — detail b"
+    },
+    {
+      "name": "10-detail-c.webp",
+      "sha256": "3e5c6d15b1be60395c40a4ec3b97470daa1a8421a64e313a4677477a38d2bd87",
+      "bytes": 22128,
+      "from": "1390 page 7 — detail c"
+    }
+  ]
+}
