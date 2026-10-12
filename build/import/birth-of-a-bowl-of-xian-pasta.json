@@ -1,0 +1,61 @@
+{
+  "project": "The Birth of a Bowl of Xi’an Pasta",
+  "dest": "assets/board/birth-of-a-bowl-of-xian-pasta",
+  "note": "Portfolio 1c9f pages 19–22 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the project information panel and title collage with photos on page 18, the newspaper mock-up and market statistics on page 18, the theme planning collage, the design inspiration photos and the function column with photos on page 19, the user journey photos, the plane distribution with a logo and the user experiment renderings with photo figures on page 20, the workshop and broadcast renderings with photo figures on pages 21–22, and the other works on page 22. No retouching.",
+  "files": [
+    {
+      "name": "01-broadcast-box-detail.webp",
+      "sha256": "7262a9990a8092f92e2bee34c80300d26a3fe8afd25edeb745ca0c968a3e5628",
+      "bytes": 27752,
+      "from": "1c9f page 21 — broadcast box detail design and textures, x 35.5–64 %, y 5–43 %"
+    },
+    {
+      "name": "02-design-idea.webp",
+      "sha256": "59a792ef8d727ed576f09b6731ed1afc805cb24139bf540960b8dfc39b371bf8",
+      "bytes": 36460,
+      "from": "page 19 — design idea: space prototypes and development, x 68–84.8 %, y 0–57 %"
+    },
+    {
+      "name": "03-consumer-analysis.webp",
+      "sha256": "9bf6ebe9ade65555accd55949d95b460339207ba9e4147ffdc279030fcffb146",
+      "bytes": 49308,
+      "from": "page 19 — consumer analysis, x 68–100 %, y 57–100 %"
+    },
+    {
+      "name": "04-spatial-development.webp",
+      "sha256": "0f6beff4a5150a4270e1c10ea67a6e480424ee57ecbb0f018f05cbbae0ec8648",
+      "bytes": 122312,
+      "from": "page 20 — spatial development in six steps, x 0–24.5 %, y 0–100 %"
+    },
+    {
+      "name": "05-operation-table-design.webp",
+      "sha256": "821c42c5cad78be540fe51dfb7e0f882249c7a5505b8532155bd649815825820",
+      "bytes": 46230,
+      "from": "page 21 — how to participate and operation table detail design, x 0–35.5 %, y 60–100 %"
+    },
+    {
+      "name": "06-experience-processes.webp",
+      "sha256": "f6908172e2a436ba18c0a69d12e6dceb5ac6a92d316d78e7c32170cf2414b96e",
+      "bytes": 47766,
+      "from": "page 21 — family workshop experience processes, x 64.5–100 %, y 60–100 %"
+    },
+    {
+      "name": "07-operating-ways.webp",
+      "sha256": "d134609784c4ba38265f06ba1f48deb58d63e4592d27e70d88c535d2c00ee291",
+      "bytes": 27264,
+      "from": "page 22 — family workshop operating ways, x 0–22.5 %, y 45–80 %"
+    },
+    {
+      "name": "08-display-openings.webp",
+      "sha256": "8c2a1b0bde50541e244432124ed78f2d61273b659f400c359ce47d49444def04",
+      "bytes": 14934,
+      "from": "page 22 — cultural cabinet and display opening heights, x 41.5–50 %, y 6.5–65 %"
+    },
+    {
+      "name": "09-raw-material-wall.webp",
+      "sha256": "7b2141ae614cb3afc940a19a1b98fc4975b8b106b5ca19c04ffb957a336fefe7",
+      "bytes": 12206,
+      "from": "page 22 — raw material display wall and grain fiber wall, x 41–50 %, y 66–97 %"
+    }
+  ]
+}
