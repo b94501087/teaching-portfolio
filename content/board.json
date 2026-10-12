@@ -51364,6 +51364,742 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Big Bang Constellation",
+      "slug": "big-bang-constellation-stick-and-plaster-cluster",
+      "description": "Star patterns become stick-and-plaster forms that merge into one expanding cluster.\n\nModel making | Form from data | Wooden sticks, plaster mix, hot glue and board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "大爆炸星座",
+          "description": "星座圖形化為木棒與石膏造型，再融合成一個不斷擴張的星團。\n\n模型製作｜從資料到造型｜木棒、石膏、熱熔膠與板材｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/01-final-model.webp",
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/02-concept-models.webp",
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/03-star-chart.webp",
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/04-chart-to-3d.webp",
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/05-combinations.webp",
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/06-stage-results.webp",
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/07-left-view.webp",
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/08-inside-figure.webp",
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/09-lower-view.webp",
+        "assets/board/big-bang-constellation-stick-and-plaster-cluster/10-inside-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished constellation cluster."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的星座星團。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Star signs look flat in the sky, but the stars are really far apart in space. The student asked what these patterns would look like as real 3D forms.",
+          "images": [
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/02-concept-models.webp"
+          ],
+          "captions": [
+            "First 3D constellation studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "星座在天空中看起來是平的，但星星在宇宙中其實相距遙遠。學生思考這些圖形若成為真實的立體造型會是什麼樣子。",
+              "captions": [
+                "最初的立體星座研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The twelve star signs were mapped and each one was modelled digitally. The forms were then placed back on the chart to check their links.",
+          "images": [
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/03-star-chart.webp",
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/04-chart-to-3d.webp"
+          ],
+          "captions": [
+            "A chart of the star signs.",
+            "Digital forms placed on the chart."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生整理十二星座，並逐一以數位方式建模。接著把造型放回星圖上，檢查它們之間的關係。",
+              "captions": [
+                "星座圖表。",
+                "放在星圖上的數位造型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Signs were combined in groups to invent new constellations built from sticks and plaster panels. The stages were then merged, with card used to suggest the shielding of an expanding universe.",
+          "images": [
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/05-combinations.webp",
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/06-stage-results.webp"
+          ],
+          "captions": [
+            "Four combined constellations.",
+            "Merging the stages step by step."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "星座被分組組合，以木棒與石膏板創造新的星座。各階段再被融合，並用紙板暗示不斷擴張的宇宙所產生的遮蔽。",
+              "captions": [
+                "四個組合後的星座。",
+                "逐步融合各階段。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final cluster grows outward like a living structure of triangles and struts. Its regular geometry means it could keep extending in any direction.",
+          "images": [
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/07-left-view.webp",
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/08-inside-figure.webp",
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/09-lower-view.webp",
+            "assets/board/big-bang-constellation-stick-and-plaster-cluster/10-inside-detail.webp"
+          ],
+          "captions": [
+            "Upper part of the cluster.",
+            "A figure inside the frame.",
+            "Lower part of the cluster.",
+            "Looking up through the sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的星團像一座由三角形與支桿組成的生命體向外生長。規則的幾何讓它能朝任何方向持續延伸。",
+              "captions": [
+                "星團上半部。",
+                "框架中的人偶。",
+                "星團下半部。",
+                "從木棒間往上看。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a pattern you love.\n2. Turn 2D points into 3D.\n3. Combine and test groups.\n4. Let the form keep growing.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇喜愛的圖形。\n2. 把平面的點轉成立體。\n3. 組合並測試群組。\n4. 讓造型持續生長。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Wonders of the World Stacks",
+      "slug": "wonders-of-the-world-stacked-travel-tower",
+      "description": "Memories of three trips are stacked into one tower of brick, coloured houses and a white facade.\n\nModel making | Travel and culture | Gypsum, tiny shells, bricks, wooden sticks, acrylic rods, PVC and cellophane | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "世界奇觀堆疊",
+          "description": "三段旅行的記憶堆疊成一座由磚、彩色小屋與白色立面組成的塔。\n\n模型製作｜旅行與文化｜石膏、小貝殼、磚、木棒、壓克力棒、PVC與玻璃紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/wonders-of-the-world-stacked-travel-tower/01-final-model.webp",
+        "assets/board/wonders-of-the-world-stacked-travel-tower/02-concept-sketch.webp",
+        "assets/board/wonders-of-the-world-stacked-travel-tower/03-impression-drawing.webp",
+        "assets/board/wonders-of-the-world-stacked-travel-tower/04-paper-forming.webp",
+        "assets/board/wonders-of-the-world-stacked-travel-tower/05-brick-walls.webp",
+        "assets/board/wonders-of-the-world-stacked-travel-tower/06-pvc-facade.webp",
+        "assets/board/wonders-of-the-world-stacked-travel-tower/07-facade-side.webp",
+        "assets/board/wonders-of-the-world-stacked-travel-tower/08-facade-detail.webp",
+        "assets/board/wonders-of-the-world-stacked-travel-tower/09-coloured-houses.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/wonders-of-the-world-stacked-travel-tower/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished stacked tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的堆疊塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Travel leaves strong memories of places, food and buildings. The student asked how three very different trips could live together in one structure.",
+          "images": [
+            "assets/board/wonders-of-the-world-stacked-travel-tower/02-concept-sketch.webp"
+          ],
+          "captions": [
+            "Concept sketch of the stack."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "旅行留下對地方、食物與建築的深刻記憶。學生思考三段截然不同的旅行如何共存於一個結構中。",
+              "captions": [
+                "堆疊的概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Thailand, Macau and Hokkaido were each reduced to a few strong symbols. A watercolour tested how temples, a church facade and snowy hills could stack.",
+          "images": [
+            "assets/board/wonders-of-the-world-stacked-travel-tower/03-impression-drawing.webp"
+          ],
+          "captions": [
+            "Watercolour of the three places."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "泰國、澳門與北海道各自被濃縮成幾個鮮明的符號。水彩畫測試寺廟、教堂立面與雪山如何堆疊。",
+              "captions": [
+                "三個地方的水彩畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The base was formed from gypsum and tiny shells, then ringed with miniature brick walls. Coloured houses on wooden sticks and a cut PVC facade were added above.",
+          "images": [
+            "assets/board/wonders-of-the-world-stacked-travel-tower/04-paper-forming.webp",
+            "assets/board/wonders-of-the-world-stacked-travel-tower/05-brick-walls.webp",
+            "assets/board/wonders-of-the-world-stacked-travel-tower/06-pvc-facade.webp"
+          ],
+          "captions": [
+            "Shaping the base by hand.",
+            "Tiny brick walls.",
+            "Cutting the white facade."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "底座以石膏與小貝殼塑成，再圍上迷你磚牆。上方加入以木棒支撐的彩色小屋與切割的PVC立面。",
+              "captions": [
+                "親手塑造底座。",
+                "迷你磚牆。",
+                "切割白色立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final tower reads from calm stone at the bottom to busy streets and a white facade at the top. Each layer uses materials that match the mood of each place.",
+          "images": [
+            "assets/board/wonders-of-the-world-stacked-travel-tower/07-facade-side.webp",
+            "assets/board/wonders-of-the-world-stacked-travel-tower/08-facade-detail.webp",
+            "assets/board/wonders-of-the-world-stacked-travel-tower/09-coloured-houses.webp"
+          ],
+          "captions": [
+            "The facade from the side.",
+            "Facade and acrylic rods.",
+            "Coloured street-food houses."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的塔由底部沉穩的石材，往上到熱鬧的街道與白色立面。每一層都使用符合當地氛圍的材料。",
+              "captions": [
+                "立面側面。",
+                "立面與壓克力棒。",
+                "彩色的街頭小吃屋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. List your strongest memories.\n2. Pick one symbol per place.\n3. Match a material to each.\n4. Stack them in order.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 列出最深刻的記憶。\n2. 每個地方選一個符號。\n3. 為每個符號配一種材料。\n4. 依序堆疊。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tiny Forest",
+      "slug": "tiny-forest-hexagon-terrace-plant-model",
+      "description": "Rice terraces inspire stepped hexagon platforms where plants and city can share space.\n\nModel making | Landscape and planting | Straws, PVC boards, model trees and glue | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "微型森林",
+          "description": "以梯田為靈感，讓植物與城市共享空間的階梯式六角平台。\n\n模型製作｜地景與植栽｜吸管、PVC板、模型樹與膠｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/01-final-model.webp",
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/02-terrace-view.webp",
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/03-plan-drawing.webp",
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/04-garden-watercolour.webp",
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/05-hexagon-cutting.webp",
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/06-straw-columns.webp",
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/07-terrace-sketch.webp",
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/08-top-view.webp",
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/09-side-view-a.webp",
+        "assets/board/tiny-forest-hexagon-terrace-plant-model/10-side-view-b.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished terrace forest."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的梯田森林。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Dense cities leave little room for plants, yet greenery helps both people and wildlife. The student asked how buildings could make space for nature in layers.",
+          "images": [
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/02-terrace-view.webp"
+          ],
+          "captions": [
+            "Rice terraces that inspired it."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "高密度城市留給植物的空間很少，但綠意對人與野生動物都有益。學生思考建築如何分層為自然騰出空間。",
+              "captions": [
+                "啟發設計的梯田。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A hike through mountain rice terraces showed how stepped fields hold water and soil. The student also collected and painted rooftop-garden plants to see which could live at each height.",
+          "images": [
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/03-plan-drawing.webp",
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/04-garden-watercolour.webp"
+          ],
+          "captions": [
+            "Plan of green platforms.",
+            "Watercolour of a rooftop garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一次梯田健行讓學生看見階梯式田地如何保住水與土壤。學生也收集並描繪屋頂花園的植物，觀察哪些能在不同高度生長。",
+              "captions": [
+                "綠色平台的平面圖。",
+                "屋頂花園的水彩畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "PVC boards were cut into hexagons so their edges could interlock without bending. Straw columns lifted each layer and a terrace sketch guided the overall shape.",
+          "images": [
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/05-hexagon-cutting.webp",
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/06-straw-columns.webp",
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/07-terrace-sketch.webp"
+          ],
+          "captions": [
+            "Cutting hexagon plates.",
+            "Straws for the columns.",
+            "Sketch of the terraced hills."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "PVC板被切成六角形，讓邊緣能互相咬合而不必彎折。吸管柱撐起每一層，梯田速寫則引導整體造型。",
+              "captions": [
+                "切割六角形板。",
+                "作為柱子的吸管。",
+                "梯田山丘的速寫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model stacks green platforms like terraces, each planted with different model trees. It suggests a city where buildings and plants grow together.",
+          "images": [
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/08-top-view.webp",
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/09-side-view-a.webp",
+            "assets/board/tiny-forest-hexagon-terrace-plant-model/10-side-view-b.webp"
+          ],
+          "captions": [
+            "Top view of the platforms.",
+            "Side view with planting.",
+            "Layers of platforms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型像梯田般堆疊綠色平台，每一層種上不同的模型樹。它描繪一座建築與植物共同生長的城市。",
+              "captions": [
+                "平台俯視。",
+                "帶植栽的側面。",
+                "層層平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find a landscape you admire.\n2. Study its structure.\n3. Choose one repeating unit.\n4. Plant each layer.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找到欣賞的地景。\n2. 研究它的結構。\n3. 選定一個重複單元。\n4. 為每一層種植。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Rhythms in Structure",
+      "slug": "rhythms-in-structure-piano-music-stick-sculpture",
+      "description": "A lively piano piece becomes a burst of black sticks, coloured film and cotton balls.\n\nModel making | Music and form | Sticks, spray paint, cellophane, cotton balls and iridescent board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "結構中的節奏",
+          "description": "一首輕快的鋼琴曲化為黑色木棒、彩色玻璃紙與棉球的迸發。\n\n模型製作｜音樂與造型｜木棒、噴漆、玻璃紙、棉球與炫彩板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/01-final-model.webp",
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/02-bass-drawing.webp",
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/03-melody-drawing.webp",
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/04-cellophane-strips.webp",
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/05-colour-layers.webp",
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/06-concept-model.webp",
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/07-light-detail.webp",
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/08-reflection.webp",
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/09-blue-glow.webp",
+        "assets/board/rhythms-in-structure-piano-music-stick-sculpture/10-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished music sculpture."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的音樂雕塑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student had composed a short piano piece in a lively style for a music class. The question was how to turn rhythm and melody into a space you can see.",
+          "images": [
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/02-bass-drawing.webp"
+          ],
+          "captions": [
+            "Drawing of the bass line."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生在音樂課上創作了一段輕快風格的鋼琴曲。問題在於如何把節奏與旋律變成看得見的空間。",
+              "captions": [
+                "低音聲部的繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The steady left-hand bass and the playful right-hand melody were drawn as two kinds of lines. Bold arcs showed the bass, while loose curves and dots showed the melody.",
+          "images": [
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/03-melody-drawing.webp"
+          ],
+          "captions": [
+            "Drawing of the melody."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "穩定的左手低音與俏皮的右手旋律被畫成兩種線條。粗弧線代表低音，鬆散的曲線與圓點代表旋律。",
+              "captions": [
+                "旋律的繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Black-sprayed sticks were tied in a tent shape to hold the bass, and white sticks twisted around them for the melody. Cellophane strips and cotton balls added colour and drum-like beats.",
+          "images": [
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/04-cellophane-strips.webp",
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/05-colour-layers.webp",
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/06-concept-model.webp"
+          ],
+          "captions": [
+            "Cut cellophane strips.",
+            "Layering coloured film.",
+            "First concept model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "噴黑的木棒被綁成帳篷形狀代表低音，白色木棒環繞其間代表旋律。玻璃紙條與棉球加入色彩與鼓點般的節拍。",
+              "captions": [
+                "剪好的玻璃紙條。",
+                "疊上彩色薄膜。",
+                "最初的概念模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final sculpture glows under light and reflects off an iridescent base. It turns a three-minute tune into one bright, frozen moment.",
+          "images": [
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/07-light-detail.webp",
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/08-reflection.webp",
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/09-blue-glow.webp",
+            "assets/board/rhythms-in-structure-piano-music-stick-sculpture/10-side-view.webp"
+          ],
+          "captions": [
+            "Light through the film.",
+            "Reflections on the base.",
+            "Blue glow close-up.",
+            "Side view of the burst."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的雕塑在光線下發亮，並映照在炫彩底座上。它把三分鐘的樂曲凝結成一個明亮的瞬間。",
+              "captions": [
+                "穿透薄膜的光線。",
+                "底座上的倒影。",
+                "藍色光芒特寫。",
+                "迸發造型的側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Listen and pick two voices.\n2. Draw each as a line type.\n3. Match lines to materials.\n4. Light it like a stage.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 聆聽並選出兩個聲部。\n2. 把每個聲部畫成一種線條。\n3. 為線條配上材料。\n4. 像舞台一樣打光。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Visualization of Personality",
+      "slug": "visualization-of-personality-trait-composition-model",
+      "description": "Drawings of four personality types grow into one model of clay, sticks and white boards.\n\nModel making | Psychology and form | Wooden sticks, plastic clay, wire and PVC board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "個性的視覺化",
+          "description": "四種個性類型的繪畫，發展成一座由黏土、木棒與白板構成的模型。\n\n模型製作｜心理與造型｜木棒、塑形黏土、鐵線與PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/visualization-of-personality-trait-composition-model/01-final-model.webp",
+        "assets/board/visualization-of-personality-trait-composition-model/02-warm-circles.webp",
+        "assets/board/visualization-of-personality-trait-composition-model/03-blocks-and-lines.webp",
+        "assets/board/visualization-of-personality-trait-composition-model/04-closed-shape.webp",
+        "assets/board/visualization-of-personality-trait-composition-model/05-mixed-patterns.webp",
+        "assets/board/visualization-of-personality-trait-composition-model/06-line-drawing.webp",
+        "assets/board/visualization-of-personality-trait-composition-model/07-building-model.webp",
+        "assets/board/visualization-of-personality-trait-composition-model/08-top-view-a.webp",
+        "assets/board/visualization-of-personality-trait-composition-model/09-top-view-b.webp",
+        "assets/board/visualization-of-personality-trait-composition-model/10-angle-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/visualization-of-personality-trait-composition-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished personality model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的個性模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Every person has a different mix of traits, but these are hard to see. The project asks how colour, shape and space could express a personality.",
+          "images": [
+            "assets/board/visualization-of-personality-trait-composition-model/02-warm-circles.webp"
+          ],
+          "captions": [
+            "Warm circles for an open type."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "每個人都有不同的特質組合，卻很難被看見。這個專案思考色彩、形狀與空間如何表達個性。",
+              "captions": [
+                "代表開朗類型的暖色圓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied personality theories and drew one composition for each of four types. Warm circles, sharp blocks, closed forms and mixed patterns each told a different story.",
+          "images": [
+            "assets/board/visualization-of-personality-trait-composition-model/03-blocks-and-lines.webp",
+            "assets/board/visualization-of-personality-trait-composition-model/04-closed-shape.webp",
+            "assets/board/visualization-of-personality-trait-composition-model/05-mixed-patterns.webp"
+          ],
+          "captions": [
+            "Blocks and lines for a logical type.",
+            "A closed shape for a guarded type.",
+            "Mixed patterns for a complex type."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究個性理論，並為四種類型各畫一幅構圖。暖色圓、銳利方塊、封閉形與混合圖案各自訴說不同的故事。",
+              "captions": [
+                "代表理性類型的方塊與線條。",
+                "代表內斂類型的封閉形狀。",
+                "代表複雜類型的混合圖案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Two hand drawings were picked and turned into 3D studies. Clay, wooden sticks, wire and PVC boards were then combined into one piece.",
+          "images": [
+            "assets/board/visualization-of-personality-trait-composition-model/06-line-drawing.webp",
+            "assets/board/visualization-of-personality-trait-composition-model/07-building-model.webp"
+          ],
+          "captions": [
+            "Hand drawing chosen to develop.",
+            "Building with sticks and boards."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生挑選兩幅手繪轉化成立體研究。接著把黏土、木棒、鐵線與PVC板組合成一件作品。",
+              "captions": [
+                "選定發展的手繪。",
+                "以木棒與板材搭建。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model mixes open grids with closed boxes to show the many sides of one person. Light and shadow make each angle feel like a different mood.",
+          "images": [
+            "assets/board/visualization-of-personality-trait-composition-model/08-top-view-a.webp",
+            "assets/board/visualization-of-personality-trait-composition-model/09-top-view-b.webp",
+            "assets/board/visualization-of-personality-trait-composition-model/10-angle-view.webp"
+          ],
+          "captions": [
+            "Model seen from above.",
+            "Grid of boards and sticks.",
+            "Layers at an angle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型混合開放的格網與封閉的盒體，呈現一個人的多重面向。光影讓每個角度都像不同的情緒。",
+              "captions": [
+                "從上方看模型。",
+                "板材與木棒的格網。",
+                "斜看層次。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a trait to show.\n2. Draw it as shapes.\n3. Choose the strongest drawing.\n4. Build it in layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇要表現的特質。\n2. 以形狀畫出來。\n3. 挑選最有力的圖。\n4. 分層搭建。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
