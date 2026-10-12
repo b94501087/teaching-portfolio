@@ -1,0 +1,61 @@
+{
+  "project": "Verdant Facade",
+  "dest": "assets/board/verdant-facade-planted-stick-tower",
+  "note": "Portfolio 6c64 pages 10-11 cropped to nine images, WebP q88 (PIL). Not used: title and text, precedent tower photos, software logo, QR code and render with QR code.",
+  "files": [
+    {
+      "name": "01-planted-stick-tower.webp",
+      "sha256": "49468007470455432bd7cc7ccdb422e5703016d9986d6ee7d60002c9107ba29d",
+      "bytes": 202266,
+      "from": "6c64 page 11 — planted stick tower"
+    },
+    {
+      "name": "02-structure-sketch.webp",
+      "sha256": "7147185c24e043d377be1c359ae897d4a3897c8fb80ed25678cd03faf61dfb97",
+      "bytes": 36192,
+      "from": "6c64 page 10 — structure sketch"
+    },
+    {
+      "name": "03-planting-sketches.webp",
+      "sha256": "b6bbbfc36eaf973751160ebb91d3c3b115f3222699e6701920cfca9f0379e148",
+      "bytes": 22054,
+      "from": "6c64 page 10 — planting sketches"
+    },
+    {
+      "name": "04-building-process.webp",
+      "sha256": "649e453008966098a3822bb0391b98f47738e86b813f21a594990b1c793f377a",
+      "bytes": 50284,
+      "from": "6c64 page 10 — building process"
+    },
+    {
+      "name": "05-model-with-planting.webp",
+      "sha256": "e83ec4b24bd05b1a22693a4779f22146be32ea41d964bdae67cf26f05181181d",
+      "bytes": 97774,
+      "from": "6c64 page 10 — model with planting"
+    },
+    {
+      "name": "06-close-up-views.webp",
+      "sha256": "4fedb55c050fdd99cd47ca3d17d1d5c21da4a76399109125d96fa992a35932f2",
+      "bytes": 68742,
+      "from": "6c64 page 10 — close-up views"
+    },
+    {
+      "name": "07-lower-frame-view.webp",
+      "sha256": "087c6ad1fa056475374d6d2c09e432a759aa65d0d15055c6317e7ad16131ef7e",
+      "bytes": 48504,
+      "from": "6c64 page 10 — lower frame view"
+    },
+    {
+      "name": "08-line-drawing.webp",
+      "sha256": "8349f87711bcda19053c87d27567d72b976398f6a8a592c7fbb31770a47f2ba8",
+      "bytes": 77084,
+      "from": "6c64 page 10 — line drawing"
+    },
+    {
+      "name": "09-digital-replica.webp",
+      "sha256": "8520f84b6c58211992d3cd0c7660abebdf87c8aa4ec96750dfdc74257aad0a07",
+      "bytes": 124942,
+      "from": "6c64 page 11 — digital replica"
+    }
+  ]
+}
