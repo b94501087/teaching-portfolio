@@ -1,0 +1,55 @@
+{
+  "project": "Village Paradise in the City",
+  "dest": "assets/board/village-paradise-in-the-city",
+  "note": "Portfolio 7047 pages 20–25 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title text on page 20, the location map with an overpass photo on page 21, the key findings plan and site photos on page 22, the user analysis table with scene pictures on page 23, the photo collage beside the master plan on page 24, the village name and the page numbers.",
+  "files": [
+    {
+      "name": "01-village-aerial.webp",
+      "sha256": "2b15d84cf6f69166c4e930558fffc9a952bde6c6eae9be4c0fb2e8ddf37fb90d",
+      "bytes": 475000,
+      "from": "7047 page 20 — aerial render of the village and overpass, x 33–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-usage-demand.webp",
+      "sha256": "f74691b6e0d3c9955b83a49f7c6abcb985ac9316dde16948920ec0fc6a80ffee",
+      "bytes": 84032,
+      "from": "page 21 — usage demand diagrams, x 50–100 %, y 0–62 %"
+    },
+    {
+      "name": "04-design-concept.webp",
+      "sha256": "4dbae90256e5cf1f7315af0ae8e16abdd12d61fff29037b6fbdc193bbd231d9f",
+      "bytes": 80568,
+      "from": "page 22 — design concept, x 52–100 %, y 3–50 %"
+    },
+    {
+      "name": "05-platform-strategy.webp",
+      "sha256": "bd14617673d3f2c3510607a67469bb7887cf86e6989d9bfe68ab0aea59fb64e6",
+      "bytes": 66342,
+      "from": "page 22 — platform strategy, x 0–100 %, y 52–100 %"
+    },
+    {
+      "name": "06-platform-scenes.webp",
+      "sha256": "641bd464e4381f2968d645d6a732a7facabb0788b7713573c8f5f5852287fd6c",
+      "bytes": 99010,
+      "from": "page 23 — platform scene vignettes, x 0–100 %, y 52–100 %"
+    },
+    {
+      "name": "07-master-plan.webp",
+      "sha256": "58a7bdceb0b5a2987ba0bde09e37cde3fdbd939855a328d3d3e2901d4d2f6278",
+      "bytes": 228390,
+      "from": "page 24 — master plan, x 20–100 %, y 5–85 %"
+    },
+    {
+      "name": "08-platform-composition.webp",
+      "sha256": "ba56293a6698a435d46a52458e9909f4c3e8ff71f5e784c1dcfad21fd7f11c0c",
+      "bytes": 143912,
+      "from": "page 25 — platform composition and section, full page"
+    },
+    {
+      "name": "09-village-section.webp",
+      "sha256": "2b697328e10e034d5350cc2e207a40b29891dc39886177180a44c6b745e1cd73",
+      "bytes": 36106,
+      "from": "page 24 — long site section, x 0–100 %, y 86–100 %"
+    }
+  ]
+}
