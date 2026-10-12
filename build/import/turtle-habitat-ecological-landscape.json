@@ -1,0 +1,49 @@
+{
+  "project": "Turtle Habitat",
+  "dest": "assets/board/turtle-habitat-ecological-landscape",
+  "note": "Portfolio 188e pages 4-5 cropped to seven images, WebP q88 (PIL). Not used: title and body text, turtle photos, and the concept painting (printed packaging).",
+  "files": [
+    {
+      "name": "01-habitat-model.webp",
+      "sha256": "415032be6c97adb61321121b9744b8867d4c4a8c6ee3113152a9e1019b8ece24",
+      "bytes": 140374,
+      "from": "188e page 5 — final model"
+    },
+    {
+      "name": "02-terrain-outlines.webp",
+      "sha256": "c7204987645cffe5ad6ddf003ed95eef4a6e8d6d1b0c2c8708b2646cfcde1c44",
+      "bytes": 18424,
+      "from": "188e page 4 — terrain outline sketches"
+    },
+    {
+      "name": "03-habitat-plan-sketch.webp",
+      "sha256": "d9e3ac282e9c03644ad4b8c06cf226e25dea08023943053a956a2e84aef12623",
+      "bytes": 41378,
+      "from": "188e page 4 — habitat plan sketch"
+    },
+    {
+      "name": "04-clay-terrain-base.webp",
+      "sha256": "d3b5d81a370c268f2900de586af3c1bc5028f0ea1939a6aa2778bc8284caf21c",
+      "bytes": 35680,
+      "from": "188e page 4 — clay terrain base"
+    },
+    {
+      "name": "05-planting-and-water.webp",
+      "sha256": "088bfd25bb8ed1ee07817483acaa0d53d43410528eba706903a7781b2cb42b75",
+      "bytes": 55616,
+      "from": "188e page 4 — planting and water"
+    },
+    {
+      "name": "06-water-and-cave-views.webp",
+      "sha256": "f31d943642897604bf51d005ab6fa866d43b36b2a9d9d7753e45981bb504ecc8",
+      "bytes": 57580,
+      "from": "188e page 5 — water and cave views"
+    },
+    {
+      "name": "07-island-details.webp",
+      "sha256": "5ce62b04da500d934ec25184929d7680046072d2b8867d9aaff2664e597185f5",
+      "bytes": 47252,
+      "from": "188e page 5 — island details"
+    }
+  ]
+}
