@@ -1,0 +1,61 @@
+{
+  "project": "Child Living in the Rivers",
+  "dest": "assets/board/child-living-in-the-rivers-narrative-landscape",
+  "note": "Portfolio 15c1 pages 25–28 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title text and diary note cards with photo images on page 25, the key map with plant photos and the forest render on page 27, the renders with photo people and the misty forest render on page 28; page 29 (other works) skipped.",
+  "files": [
+    {
+      "name": "01-kingdom-aerial-render.webp",
+      "sha256": "395e8586bd0e13e0a11f780f4e5101b1614dd85f06967c8a66e18b44f8f1a0fa",
+      "bytes": 91640,
+      "from": "15c1 page 26 — aerial render of the hidden kingdom between the mountains and the lake, x 41.5–99.5 %, y 63.5–99.5 %"
+    },
+    {
+      "name": "02-kappa-ink-drawing.webp",
+      "sha256": "f3880e7bed0c1c937454988cd16ad6fb61d08d3bdbf8ed17450a15e1320801d0",
+      "bytes": 198578,
+      "from": "page 25 — ink line drawing of the kappa, x 0–36 %, y 14–85 %"
+    },
+    {
+      "name": "03-journey-storyboard.webp",
+      "sha256": "0a8941cb8ac375d322a4e4ed53b86d216a6918caf7c8142bc70dd8793e119e0a",
+      "bytes": 186096,
+      "from": "page 26 — storyboard of the journey, x 0–41 %, y 3–100 %"
+    },
+    {
+      "name": "04-kingdom-plan.webp",
+      "sha256": "94d8afc90486df2436fd78d65bb4fdc5351281edd5c52dff86c543af42d5ae4b",
+      "bytes": 178472,
+      "from": "page 26 — plan of the kingdom with route notes, x 41.5–99.5 %, y 3–62 %"
+    },
+    {
+      "name": "05-sinking-entrance.webp",
+      "sha256": "072e96584e2b449df5ad09ad9380fbd7736944fd2a09676914ac3a12f7419a78",
+      "bytes": 32068,
+      "from": "page 27 — entrance panel with dark silhouette and text, x 0–25 %, y 20.5–72 %"
+    },
+    {
+      "name": "06-three-roads.webp",
+      "sha256": "fb194afa258de1b6cc75fc101a3ca3bfce4207c4c907ed034b9d4ed5a55a3d0c",
+      "bytes": 108056,
+      "from": "page 27 — the three roads panels and text, x 24.5–67 %, y 21.5–74 %"
+    },
+    {
+      "name": "07-elastic-net.webp",
+      "sha256": "76b562473737994a770715081a3b076cdeb4e3e5be89ec0afe24c8400628649a",
+      "bytes": 35766,
+      "from": "page 27 — the elastic net vignette, x 67.5–100 %, y 40–77.5 %"
+    },
+    {
+      "name": "08-section-a-a.webp",
+      "sha256": "95d212c28529120e8ae82197ef21d99a6d2bddf30abbb2cb5e4f3fadfcd4c4e4",
+      "bytes": 66430,
+      "from": "page 27 — section A-A, x 0–100 %, y 76–99 %"
+    },
+    {
+      "name": "09-leaving-aerial.webp",
+      "sha256": "f031fed5a189584edc31dfef11b9aa6d0bdd25237dfc3dd85ead01f4a19811f7",
+      "bytes": 83750,
+      "from": "page 28 — aerial render of the ponds and bridges, x 40–100 %, y 0–47 %"
+    }
+  ]
+}
