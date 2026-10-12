@@ -18783,6 +18783,431 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Reconstruction of Jiegui Street",
+      "slug": "jiegui-street-reconstruction",
+      "description": "A low-key renovation that turns an old street in Changsha into a lively market and community space.\n\nChangsha, China | Street renovation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Jiegui 街改造",
+          "description": "以最低限度的改造，讓長沙一條老街重新成為熱鬧的市場與社區空間。\n\n中國長沙｜街道改造｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/jiegui-street-reconstruction/01-fresh-food-market-section.webp",
+        "assets/board/jiegui-street-reconstruction/02-methods-of-reconstruction.webp",
+        "assets/board/jiegui-street-reconstruction/03-garbage-disposal-improvement.webp",
+        "assets/board/jiegui-street-reconstruction/04-rubbish-disposal-process.webp",
+        "assets/board/jiegui-street-reconstruction/05-community-improvement-guide.webp",
+        "assets/board/jiegui-street-reconstruction/06-entertainment-section.webp",
+        "assets/board/jiegui-street-reconstruction/07-living-facility-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/jiegui-street-reconstruction/01-fresh-food-market-section.webp"
+          ],
+          "captions": [
+            "Fresh food market section: an archway entrance, colourful stalls and new planting along the street."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "生鮮市場段：拱門入口、色彩繽紛的攤位，以及沿街新增的綠化。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Jiegui Street is an old street in the centre of Changsha that looks incongruous with the modern buildings around it, as if it had been swallowed up by the city. It faces ageing challenges such as limited space, damaged facilities and an outdated quality of life, and the sense of community nearby has declined.",
+          "images": [
+            "assets/board/jiegui-street-reconstruction/02-methods-of-reconstruction.webp"
+          ],
+          "captions": [
+            "Methods of reconstruction: combining small blocks into courtyards, adding roof gardens and balconies, and broadening paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "Jiegui 街是長沙市中心的一條老街，與周圍的現代建築顯得格格不入，彷彿被城市吞沒。這條街面臨空間狹小、設施損壞與生活品質落後等老化問題，周邊社區的凝聚力也逐漸下降。",
+              "captions": [
+                "改造手法：把零散量體合併成院落、加入屋頂花園與陽台，並拓寬通道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The study found that the shops along the street had mixed functions and were spread too far apart, so people were scattered without a focus. Daily problems such as rubbish were also traced step by step, from collection and sorting to transport and treatment.",
+          "images": [
+            "assets/board/jiegui-street-reconstruction/03-garbage-disposal-improvement.webp",
+            "assets/board/jiegui-street-reconstruction/04-rubbish-disposal-process.webp"
+          ],
+          "captions": [
+            "Garbage disposal improvement: inspection, sorting, cleaning and recycling shown as small scenes.",
+            "Process of rubbish disposal from homes, restaurants and shops to the sorting and treatment plants."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究發現，街上的店鋪機能混雜、分布過於分散，使人流四散而缺乏焦點。研究也逐步追蹤垃圾等日常問題，從收集、分類到運送與處理。",
+              "captions": [
+                "垃圾處理改善：以小場景呈現巡查、分類、清潔與回收。",
+                "垃圾處理流程：從住家、餐廳與商店，到分類廠與處理廠。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The strategy is to make the least invasive renovations to the public environment, so the street can blend in with its modern surroundings while keeping its own identity. The main shops are gathered along the street and planned in stages as a fresh food market, an entertainment section and a living facility section.",
+          "images": [
+            "assets/board/jiegui-street-reconstruction/05-community-improvement-guide.webp"
+          ],
+          "captions": [
+            "Community improvement guide: the street plan before, during and after the renovation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "策略是以最低限度的介入改造公共環境，讓老街融入周圍的現代環境，同時保留自身的特色。主要店鋪集中到街上，並分段規劃為生鮮市場段、娛樂段與生活設施段。",
+              "captions": [
+                "社區改善指南：改造前、改造中與改造後的街道規劃。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Outdoor teahouses, cinemas and planting give the entertainment section room for singing, dancing and small performances, while the living facility section adds trees, benches and spaces for outdoor dining. The street becomes both a better retail environment and a gathering place for the community.",
+          "images": [
+            "assets/board/jiegui-street-reconstruction/06-entertainment-section.webp",
+            "assets/board/jiegui-street-reconstruction/07-living-facility-section.webp"
+          ],
+          "captions": [
+            "Entertainment section: outdoor teahouses and a stage where older residents meet and perform.",
+            "Living facility section: a one-lane street with trees, benches and outdoor seating for restaurants."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "戶外茶館、電影院與綠化讓娛樂段有了唱歌、跳舞與小型表演的空間；生活設施段則加入樹木、長椅與戶外用餐的空間。老街因此既是更好的商業環境，也成為社區的聚會場所。",
+              "captions": [
+                "娛樂段：長者相聚、表演的戶外茶館與舞台。",
+                "生活設施段：種有樹木、設有長椅與餐廳戶外座位的單線街道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Walk the street and list its problems.\n2. Follow one daily process from start to end.\n3. Change as little as possible.\n4. Plan the street in sections.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 走一遍街道，列出它的問題。\n2. 從頭到尾追蹤一個日常流程。\n3. 盡可能少做改動。\n4. 把街道分段規劃。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Delirious Skyscraper",
+      "slug": "delirious-skyscraper",
+      "description": "A skyscraper built from rock patterns and everyday doors and windows, where every floor is its own world.\n\nChina | Skyscraper design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "狂想摩天樓",
+          "description": "以岩石紋理與日常門窗構成的摩天樓，每一層都是獨立的世界。\n\n中國｜摩天樓設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/delirious-skyscraper/01-space-dream.webp",
+        "assets/board/delirious-skyscraper/02-stripe-and-blocks.webp",
+        "assets/board/delirious-skyscraper/03-porosity-and-layer-patterns.webp",
+        "assets/board/delirious-skyscraper/04-expanded-block.webp",
+        "assets/board/delirious-skyscraper/05-plank-wave.webp",
+        "assets/board/delirious-skyscraper/06-walls-and-windows.webp",
+        "assets/board/delirious-skyscraper/07-model-and-exploded-axonometric.webp",
+        "assets/board/delirious-skyscraper/08-vertical-section.webp",
+        "assets/board/delirious-skyscraper/09-exploded-perspective.webp",
+        "assets/board/delirious-skyscraper/10-floor-plans.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/delirious-skyscraper/01-space-dream.webp"
+          ],
+          "captions": [
+            "The space dream: walls, windows and stairs from different cities joined into one dense landscape."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "空間之夢：來自不同城市的牆、窗與樓梯，拼接成一片密集的地景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project starts from engineering geology, a subject the student had long been fascinated by while researching different materials. It asks how the structures of rocks could be carried into a skyscraper built from the doors and windows of daily life.",
+          "images": [
+            "assets/board/delirious-skyscraper/02-stripe-and-blocks.webp",
+            "assets/board/delirious-skyscraper/03-porosity-and-layer-patterns.webp"
+          ],
+          "captions": [
+            "Stripe: a rock pattern turned into a series of block models.",
+            "Porosity and layer: rock patterns tested as surfaces and stacked timber strips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案從工程地質出發，這是學生在研究各種材料時一直深深著迷的學科。它探問：岩石的結構能否轉化為一座由日常生活中的門與窗構成的摩天樓。",
+              "captions": [
+                "條紋：把岩石紋理轉化為一系列量體模型。",
+                "孔隙與層理：把岩石紋理發展成曲面與層疊的木條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The porosity, layers and stripes of igneous, sedimentary and metamorphic rocks were studied and turned into patterns, then into three-dimensional forms through hand-made models. The student also observed three familiar cities, Shenzhen, Hong Kong and Changsha, and their very different streets and buildings.",
+          "images": [
+            "assets/board/delirious-skyscraper/04-expanded-block.webp",
+            "assets/board/delirious-skyscraper/05-plank-wave.webp"
+          ],
+          "captions": [
+            "Combining the three patterns into an expanded block.",
+            "Plank wave: hand-cut pieces interleaved to form a curved surface."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究岩漿岩、沉積岩與變質岩的孔隙、層理與條紋，把它們轉化為圖案，再透過手作模型發展成立體形式。學生也觀察了自己熟悉的三座城市：深圳、香港與長沙，以及它們截然不同的街道與建築。",
+              "captions": [
+                "把三種圖案組合成擴展的量體。",
+                "板浪：以手工裁切的板片交錯疊合出曲面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Walls and windows were collected as a catalogue, from brick, lattice and antique walls to sliding, round and hollow-out windows. Each floor works as its own world, so the tower can be read as a stack of separate floors with no symbolism shared between them.",
+          "images": [
+            "assets/board/delirious-skyscraper/06-walls-and-windows.webp",
+            "assets/board/delirious-skyscraper/07-model-and-exploded-axonometric.webp"
+          ],
+          "captions": [
+            "A catalogue of walls and windows used to build the floors.",
+            "Model and exploded axonometric of the stacked floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "牆與窗被整理成一份目錄，從磚牆、花格牆與古牆，到推拉窗、圓窗與鏤空窗。每一層都是獨立的世界，使這座塔可以被解讀為一疊彼此分離、互不共享象徵的樓層。",
+              "captions": [
+                "用來構成各樓層的牆與窗目錄。",
+                "層疊樓層的模型與爆炸軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the vertical section each layer is independent and closely related at the same time, and different doors and windows combine to form a towering skyscraper. Each floor plan has its own character, and changeable stairways let routes across floors be explored and developed freely.",
+          "images": [
+            "assets/board/delirious-skyscraper/08-vertical-section.webp",
+            "assets/board/delirious-skyscraper/09-exploded-perspective.webp",
+            "assets/board/delirious-skyscraper/10-floor-plans.webp"
+          ],
+          "captions": [
+            "Vertical section of the skyscraper.",
+            "Rendered exploded perspective with views of the first, third, seventh and twelfth floors.",
+            "Floor plans of the first, third, seventh and twelfth floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在垂直剖面中，每一層既獨立又緊密相連，不同的門與窗組合成一座高聳的摩天樓。每層平面都有自己的性格，多變的樓梯讓跨樓層的路線可以被自由探索與發展。",
+              "captions": [
+                "摩天樓的垂直剖面。",
+                "爆炸透視渲染圖，標示一、三、七與十二樓。",
+                "一、三、七與十二樓平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a subject you love.\n2. Turn its structures into patterns.\n3. Test the patterns with your hands.\n4. Let each floor have its own world.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從你熱愛的主題開始。\n2. 把它的結構轉化為圖案。\n3. 親手測試這些圖案。\n4. 讓每一層都有自己的世界。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Taipei X-Site",
+      "slug": "taipei-x-site-ocean-installation",
+      "description": "A wavy installation that collects rain and turns it into mist, asking visitors to care for the ocean.\n\nTaipei | Art installation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "台北 X-Site",
+          "description": "收集雨水、化為細霧的起伏裝置，邀請參觀者關心海洋。\n\n台北｜藝術裝置｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/taipei-x-site-ocean-installation/01-scene-display.webp",
+        "assets/board/taipei-x-site-ocean-installation/02-weather-data-analysis.webp",
+        "assets/board/taipei-x-site-ocean-installation/03-plan-form-and-climate.webp",
+        "assets/board/taipei-x-site-ocean-installation/04-form-formation.webp",
+        "assets/board/taipei-x-site-ocean-installation/05-entity-model.webp",
+        "assets/board/taipei-x-site-ocean-installation/06-material-composition.webp",
+        "assets/board/taipei-x-site-ocean-installation/07-installation-elevations.webp",
+        "assets/board/taipei-x-site-ocean-installation/08-installation-plan.webp",
+        "assets/board/taipei-x-site-ocean-installation/09-rainy-bright-and-dark.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/taipei-x-site-ocean-installation/01-scene-display.webp"
+          ],
+          "captions": [
+            "Scene display: the wavy installation in front of the museum, with the rain collecting system below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "場景展示：美術館前起伏的裝置，下方是雨水收集系統。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Global warming is becoming more serious, sea levels keep rising and marine ecosystems are being damaged, with problems such as coral bleaching. This art installation outside a museum in Taipei aims to raise people's awareness of protecting the ocean and to encourage practical action.",
+          "images": [
+            "assets/board/taipei-x-site-ocean-installation/02-weather-data-analysis.webp"
+          ],
+          "captions": [
+            "Weather data: temperature, rainfall and humidity month by month."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "全球暖化日益嚴重，海平面持續上升，海洋生態也不斷遭到破壞，出現珊瑚白化等問題。這座位於台北一座美術館外的藝術裝置，希望喚起人們保護海洋的意識，並鼓勵實際的行動。",
+              "captions": [
+                "氣象數據：逐月的氣溫、降雨與濕度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Within two kilometres of the museum there are many busy places, such as temples, restaurants, coastal parks and shopping malls, connected by routes. The study also recorded the museum's opening hours, its visitor flow through the week and the city's weather over the year.",
+          "images": [
+            "assets/board/taipei-x-site-ocean-installation/03-plan-form-and-climate.webp",
+            "assets/board/taipei-x-site-ocean-installation/04-form-formation.webp"
+          ],
+          "captions": [
+            "The plan form drawn from the data, with the highest and lowest climate figures of the year.",
+            "Form in four steps: meteorological data, combination, smooth connection and formation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "美術館周邊兩公里內有許多人潮聚集的地方，如寺廟、餐廳、海濱公園與購物中心，彼此以路線相連。研究也記錄了美術館的開放時間、一週間的參觀人流，以及城市全年的氣候。",
+              "captions": [
+                "由數據推演出的平面形態，以及全年氣候的最高與最低數值。",
+                "四個步驟生成形態：氣象數據、組合、平滑連接與成形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The form was generated from the weather data, combined and smoothly connected into a wavy surface. Its material was tested in a model and a composition of strips laid in different directions.",
+          "images": [
+            "assets/board/taipei-x-site-ocean-installation/05-entity-model.webp",
+            "assets/board/taipei-x-site-ocean-installation/06-material-composition.webp"
+          ],
+          "captions": [
+            "Entity model of the woven surface.",
+            "1x1 material composition of strips in different directions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "形態由氣象數據生成，再經組合與平滑連接形成起伏的曲面。材料則透過實體模型，以及不同方向排列的條狀構成來測試。",
+              "captions": [
+                "編織曲面的實體模型。",
+                "不同方向條狀材料的 1x1 構成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The installation rises and falls so that visitors feel as if they were at sea, with views that open in some places and close in others, and edges for resting before visiting the museum. It collects rainwater on rainy days and turns it into a fine spray on sunny days, and at night layers of blue light make people feel as if they were at the bottom of the ocean.",
+          "images": [
+            "assets/board/taipei-x-site-ocean-installation/07-installation-elevations.webp",
+            "assets/board/taipei-x-site-ocean-installation/08-installation-plan.webp",
+            "assets/board/taipei-x-site-ocean-installation/09-rainy-bright-and-dark.webp"
+          ],
+          "captions": [
+            "Elevations of the installation at different heights.",
+            "Plan of the installation.",
+            "Rainy day, bright day and dark night: collecting rain, playing and viewing the lights."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "裝置高低起伏，讓參觀者彷彿置身海上，有些位置視野開闊，有些則被遮擋，邊緣也適合在參觀美術館前休息。它在雨天收集雨水，晴天化為細霧，夜晚則以層層藍光讓人彷彿身處海底。",
+              "captions": [
+                "裝置在不同高度的立面。",
+                "裝置平面圖。",
+                "雨天、晴天與夜晚：收集雨水、遊玩與欣賞燈光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from an issue people should notice.\n2. Read the site through data.\n3. Let the data shape the form.\n4. Design for rain, sun and night.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個值得被關注的議題開始。\n2. 透過數據閱讀基地。\n3. 讓數據塑造形態。\n4. 為雨天、晴天與夜晚而設計。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
