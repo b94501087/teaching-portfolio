@@ -1,0 +1,67 @@
+{
+  "project": "Inhabited",
+  "dest": "assets/board/inhabited-machine-school-addition",
+  "note": "Portfolio 2712 pages 14-17 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with address and instructor name, the street-level render on a photo, the site collage and sections showing the school name.",
+  "files": [
+    {
+      "name": "01-model-overview.webp",
+      "sha256": "1454af126c25e48beec6e932dc1b899a4c94c914685e1b6a635f71d0e6f04516",
+      "bytes": 71290,
+      "from": "2712 page 14 — model overview"
+    },
+    {
+      "name": "02-linear-framework-variations.webp",
+      "sha256": "f16aec2b22272d4a099b12a42158d99c38de7c9aaabcede78bab00e4e33447e3",
+      "bytes": 265148,
+      "from": "2712 page 15 — linear framework and volume variations"
+    },
+    {
+      "name": "03-volume-sketches.webp",
+      "sha256": "d6f49fb0c478b26e1f8f99485e05addf45e5ed6b3fc752cae4cab8dd8845e84d",
+      "bytes": 38614,
+      "from": "2712 page 15 — volume sketches"
+    },
+    {
+      "name": "04-site-axonometric.webp",
+      "sha256": "f0c186f40690127af15e857f1d6cca42cb86531dd5077b54fdb5168405e72d88",
+      "bytes": 135276,
+      "from": "2712 page 16 — site axonometric with program key"
+    },
+    {
+      "name": "05-plans.webp",
+      "sha256": "49730a759f5efc82f1c30bf719146356e020f5f78918fe53af1c79294e1166b9",
+      "bytes": 263032,
+      "from": "2712 page 16 — plans"
+    },
+    {
+      "name": "06-long-section.webp",
+      "sha256": "9951e2156719f0bf521c5a6583d658a9eeeb5ce8c2f98aacbb6029a777c26887",
+      "bytes": 78964,
+      "from": "2712 page 17 — long section"
+    },
+    {
+      "name": "07-night-elevation.webp",
+      "sha256": "f2fd7d4b18c64a2c00fca42efdd5e53152144d909dff96d43912631c1824f231",
+      "bytes": 28910,
+      "from": "2712 page 17 — night elevation"
+    },
+    {
+      "name": "08-volume-models.webp",
+      "sha256": "1a98ed3ac72c4504bc510c6ec68aa0dea2ca516cf04affdf9208414aa5f56640",
+      "bytes": 98552,
+      "from": "2712 page 17 — volume models"
+    },
+    {
+      "name": "09-model-details.webp",
+      "sha256": "e7d0f93df9b46c8ed948b7a5ad4fb6c05b364da378f371db6de82d43ff5ec1d1",
+      "bytes": 24206,
+      "from": "2712 page 17 — model details"
+    },
+    {
+      "name": "10-long-model.webp",
+      "sha256": "7569ec515c1ffc75ed9b8056cab4a778cd12b8361c3620672bd0a730b50f3ae0",
+      "bytes": 25890,
+      "from": "2712 page 17 — long model view"
+    }
+  ]
+}
