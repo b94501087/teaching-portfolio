@@ -1,0 +1,61 @@
+{
+  "project": "From Shelter to Community",
+  "dest": "assets/board/from-shelter-to-community-refugee-camp",
+  "note": "Portfolio c0e5 pages 10 and 12-16 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with school and supervisor, the photo collages of refugees and camps, the asylum statistics, the case-study product images, the existing terminal photos and the renders with photo figures.",
+  "files": [
+    {
+      "name": "01-hexagon-community-axon.webp",
+      "sha256": "8e4795a85ac41f8e57a0c0a4459026abfb8a55e6540adfd3e26b3c7d90479ba1",
+      "bytes": 191066,
+      "from": "c0e5 page 13 — overall community axonometric"
+    },
+    {
+      "name": "02-airport-site-map.webp",
+      "sha256": "6b1f3a0a142a21cc8937656cce22bcd95d5f5a520910eaeda10ddf5d2ab5f305",
+      "bytes": 249986,
+      "from": "c0e5 page 10 — site map and terrain"
+    },
+    {
+      "name": "03-modular-house-plans.webp",
+      "sha256": "2f6fd02ed235c3cddea685ad34d41bfc484d111dc416bfcb22f967e94c905c55",
+      "bytes": 135550,
+      "from": "c0e5 page 12 — modular house plans"
+    },
+    {
+      "name": "04-floor-plans.webp",
+      "sha256": "569f16f6f2e4130d7ff6d98d6ecdf3d6021364194d02a2526d3c443c2009b99c",
+      "bytes": 143454,
+      "from": "c0e5 page 14 — floor plans"
+    },
+    {
+      "name": "05-dome-render.webp",
+      "sha256": "d0c668956a39143a9858a5c11379106ddede70b09e9277a1ce475d3235b01106",
+      "bytes": 37858,
+      "from": "c0e5 page 14 — prayer hall render"
+    },
+    {
+      "name": "06-section-one.webp",
+      "sha256": "2ff8f4a78e14c1ddb20608d5db5e7da87c3f0d85c663011f7fbf61fc824bf306",
+      "bytes": 79054,
+      "from": "c0e5 page 15 — section one"
+    },
+    {
+      "name": "07-section-two.webp",
+      "sha256": "5011e642222ec15173a59a63e6f14067732e15e26417312c976c256011fb0761",
+      "bytes": 74348,
+      "from": "c0e5 page 15 — section two"
+    },
+    {
+      "name": "08-market-frame-model.webp",
+      "sha256": "5ba44efb6650a9fb06ca052a4f5e15a32c115bc647366970061d20d82030c1aa",
+      "bytes": 81732,
+      "from": "c0e5 page 16 — market frame model"
+    },
+    {
+      "name": "09-modular-house-model.webp",
+      "sha256": "d15c0594cfc58bd80ca418a6bb80810ea26a96866adb459be22e1fe8d32d3e50",
+      "bytes": 103284,
+      "from": "c0e5 page 16 — modular house model"
+    }
+  ]
+}
