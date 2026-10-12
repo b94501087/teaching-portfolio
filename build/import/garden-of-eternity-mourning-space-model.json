@@ -1,0 +1,61 @@
+{
+  "project": "The Garden of Eternity",
+  "dest": "assets/board/garden-of-eternity-mourning-space-model",
+  "note": "Portfolio f986 pages 12-13 cropped to nine images, WebP q88 (PIL). Not used: title and text, photo with a person, process photos.",
+  "files": [
+    {
+      "name": "01-garden-model.webp",
+      "sha256": "c5c4e85e38d806b66c886efa2c52a8242bd93e5c9b70d9440f63a0fc32cd8f56",
+      "bytes": 83474,
+      "from": "f986 page 12 — garden model"
+    },
+    {
+      "name": "02-roof-frame-models.webp",
+      "sha256": "93f300266a536a928225742fea39472f990d5edb3c49cfcf19207d891fce532a",
+      "bytes": 17384,
+      "from": "f986 page 12 — roof frame models"
+    },
+    {
+      "name": "03-flower-tombstones.webp",
+      "sha256": "f3c9909ef64a9b6cc38468f5c8f6ff67f1591d47b72b7de7d63f1cc402a2b2ec",
+      "bytes": 20992,
+      "from": "f986 page 12 — flower tombstones"
+    },
+    {
+      "name": "04-interior-figures.webp",
+      "sha256": "4dda6da2bedd2760b946bc0398abaca96b56d97f1b56b25fb516c1a6c3c79dcb",
+      "bytes": 55990,
+      "from": "f986 page 12 — interior figures"
+    },
+    {
+      "name": "05-root-and-stair-interior.webp",
+      "sha256": "b0ab037369e0b3cd66805812620a6c69af091dc21cc1efe2ec2c2d901ec4510e",
+      "bytes": 57354,
+      "from": "f986 page 12 — root and stair interior"
+    },
+    {
+      "name": "06-model-views.webp",
+      "sha256": "a2be211de3664f0c6e03705742c758896fcd6cc5f79d29e370730eafea303206",
+      "bytes": 40870,
+      "from": "f986 page 12 — model views"
+    },
+    {
+      "name": "07-hanging-bloom.webp",
+      "sha256": "98bed855c0c283f936d32b2bf7d91d4f493bdb3506749e7c36896de874e5a95e",
+      "bytes": 73778,
+      "from": "f986 page 13 — hanging bloom"
+    },
+    {
+      "name": "08-woven-canopy-detail.webp",
+      "sha256": "5c8e08468db497d9394293d851fbbda59bc2e3afa3be063c5e5afab419a2df14",
+      "bytes": 27326,
+      "from": "f986 page 13 — woven canopy detail"
+    },
+    {
+      "name": "09-cyanotype-installation.webp",
+      "sha256": "9155f8caab597f89f181c101308edf7498507973b6756ea72dfb3e00e4a9cc9c",
+      "bytes": 110964,
+      "from": "f986 page 13 — cyanotype installation"
+    }
+  ]
+}
