@@ -30957,6 +30957,375 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Holding the Crossing",
+      "slug": "holding-the-crossing-pedestrian-connector",
+      "description": "A layered pedestrian bridge that turns a busy crossing into a place to pause, gather and move with ease.\n\nShenzhen | Pedestrian bridge | Urban connector | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "守住通道",
+          "description": "一座層疊式人行橋，讓繁忙的通道成為可以停留、聚集並從容通行的地方。\n\n深圳｜人行橋｜城市連接體｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/holding-the-crossing-pedestrian-connector/01-crossing-canopy.webp",
+        "assets/board/holding-the-crossing-pedestrian-connector/02-site-analysis.webp",
+        "assets/board/holding-the-crossing-pedestrian-connector/03-operational-layers.webp",
+        "assets/board/holding-the-crossing-pedestrian-connector/05-section-analysis.webp",
+        "assets/board/holding-the-crossing-pedestrian-connector/06-connector-envelope.webp",
+        "assets/board/holding-the-crossing-pedestrian-connector/07-connector-masterplan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/holding-the-crossing-pedestrian-connector/01-crossing-canopy.webp"
+          ],
+          "captions": [
+            "A woven canopy over the crossing at dusk."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "黃昏時覆蓋在通道上方的編織頂棚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A large plaza next to a busy railway crossing in Shenzhen is used almost only for passing through. It lacks shade, shelter and places to pause, so it feels empty despite the crowds.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "深圳一處緊鄰繁忙鐵路通道的大型廣場，幾乎只被用來穿越。這裡缺乏遮蔭、庇護與停留的地方，即使人潮眾多，仍顯得空曠。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Site diagrams trace roads, green space, water and pedestrian access around the plaza. They show that daily movement is strong while comfort and a sense of place are missing.",
+          "images": [
+            "assets/board/holding-the-crossing-pedestrian-connector/02-site-analysis.webp"
+          ],
+          "captions": [
+            "Roads, access and surrounding uses."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地分析圖梳理廣場周邊的道路、綠地、水系與步行動線。分析顯示這裡日常人流強勁，卻缺乏舒適感與場所感。",
+              "captions": [
+                "道路、動線與周邊使用。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A pedestrian bridge is stacked in layers, from a ground concourse to play platforms, green terraces and a glass climate veil. Section studies test how people can either keep moving or slow down and stay.",
+          "images": [
+            "assets/board/holding-the-crossing-pedestrian-connector/03-operational-layers.webp",
+            "assets/board/holding-the-crossing-pedestrian-connector/05-section-analysis.webp"
+          ],
+          "captions": [
+            "Operational layers of the shared section.",
+            "Section analysis of the bridge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一座人行橋以層疊方式組成，從地面通廊到遊憩平台、綠色露台與玻璃氣候罩。剖面研究測試人們如何能持續通行，或放慢腳步停留。",
+              "captions": [
+                "共享剖面的運作層次。",
+                "人行橋的剖面分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A second, water-based connector extends the route with a curved envelope over a framework of ribs. Its plan holds seating, gardens and small leisure spaces, turning the crossing into an extension of everyday city life.",
+          "images": [
+            "assets/board/holding-the-crossing-pedestrian-connector/06-connector-envelope.webp",
+            "assets/board/holding-the-crossing-pedestrian-connector/07-connector-masterplan.webp"
+          ],
+          "captions": [
+            "Envelope, structure and pedestrian layers.",
+            "Masterplan of the water-based connector."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "第二段臨水連接體以曲面外殼覆蓋肋狀結構，延續步行路徑。平面中配置座位、花園與小型休閒空間，讓通道成為日常城市生活的延伸。",
+              "captions": [
+                "外殼、結構與步行層。",
+                "臨水連接體的總平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe how people actually move.\n2. Design for both passing and pausing.\n3. Stack uses in section.\n4. Let climate shape the envelope.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察人們真實的移動方式。\n2. 同時為通過與停留而設計。\n3. 在剖面中疊合使用。\n4. 讓氣候塑造外殼。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Weaving Back the Sugar Factory",
+      "slug": "weaving-back-the-sugar-factory",
+      "description": "Pedestrian links and a woven walkway that reconnect a former sugar factory to its neighbourhood and river.\n\nIndustrial heritage | Pedestrian linkage | Riverfront regeneration | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重新編織糖廠",
+          "description": "以步行連結與編織般的步道，讓舊糖廠重新接回社區與河流。\n\n工業遺產｜步行連結｜河岸再生｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/weaving-back-the-sugar-factory/01-factory-aerial.webp",
+        "assets/board/weaving-back-the-sugar-factory/02-internal-factors.webp",
+        "assets/board/weaving-back-the-sugar-factory/04-form-extraction.webp",
+        "assets/board/weaving-back-the-sugar-factory/05-strategy.webp",
+        "assets/board/weaving-back-the-sugar-factory/06-masterplan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/weaving-back-the-sugar-factory/01-factory-aerial.webp"
+          ],
+          "captions": [
+            "The regenerated sugar factory from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "俯瞰再生後的糖廠。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A former riverside sugar factory sits cut off from the new town around it, its sheds and silos left behind. Residents face a long detour to reach the riverfront, and the site offers little to the people who live nearby.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座臨河的舊糖廠被周邊新城隔離，廠房與筒倉閒置多年。居民須繞遠路才能抵達河岸，基地也幾乎無法回應附近居民的需求。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Site analysis weighs the heritage value of the factory against its spatial fragmentation and an unused stretch of riverfront. The findings point to linkage, not new buildings, as the key to reviving the area.",
+          "images": [
+            "assets/board/weaving-back-the-sugar-factory/02-internal-factors.webp"
+          ],
+          "captions": [
+            "Heritage value, fragmentation and waterfront potential."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地分析權衡工廠的遺產價值、空間破碎化與閒置的河岸地帶。分析結果指出，振興此地的關鍵在於連結，而非新建築。",
+              "captions": [
+                "遺產價值、空間破碎與河岸潛力。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The local craft of silk making, from cocoon to thread to fabric, is translated into pods, an elevated passage and a link bridge. Five strategies then layer community commons, slow mobility, heritage, creative work and a riverfront corridor onto the site.",
+          "images": [
+            "assets/board/weaving-back-the-sugar-factory/04-form-extraction.webp",
+            "assets/board/weaving-back-the-sugar-factory/05-strategy.webp"
+          ],
+          "captions": [
+            "Forms drawn from cocoon, thread and fabric.",
+            "Five layered strategies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在地的絲綢工藝，從蠶繭、絲線到布料，被轉譯為聚集艙體、架高步道與連接橋。五項策略再將社區共享、慢行系統、遺產軸線、創意工坊與河岸廊道疊加到基地上。",
+              "captions": [
+                "取自蠶繭、絲線與布料的形態。",
+                "五項疊加策略。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The masterplan weaves a continuous walkway through a play area, museums, workshops and a waterfront green park. Old industrial fabric becomes an everyday public landscape that reconnects the neighbourhood to the river.",
+          "images": [
+            "assets/board/weaving-back-the-sugar-factory/06-masterplan.webp"
+          ],
+          "captions": [
+            "Masterplan with key spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "總平面以一條連續步道串起遊戲區、博物館、工坊與濱水綠地公園。舊工業紋理成為日常的公共地景，讓社區重新與河流相連。",
+              "captions": [
+                "標示主要空間的總平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read what the site already offers.\n2. Draw form from local craft.\n3. Repair links before adding buildings.\n4. Let heritage stay in daily use.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先讀懂基地既有的資源。\n2. 從在地工藝提取形態。\n3. 先修補連結，再增加建築。\n4. 讓遺產留在日常使用中。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Spatial Development Plan for Enfield",
+      "slug": "enfield-spatial-development-plan",
+      "description": "A spatial plan that links housing, jobs and transport to reduce inequality across a London borough.\n\nLondon | Spatial planning | Just city | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "恩菲爾德空間發展規劃",
+          "description": "一份串連住宅、就業與交通的空間規劃，縮小倫敦一個行政區內的不平等。\n\n倫敦｜空間規劃｜公正城市｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/enfield-spatial-development-plan/01-key-spatial-diagram.webp",
+        "assets/board/enfield-spatial-development-plan/02-swot-analysis.webp",
+        "assets/board/enfield-spatial-development-plan/03-housing-sites.webp",
+        "assets/board/enfield-spatial-development-plan/05-employment-sites.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/enfield-spatial-development-plan/01-key-spatial-diagram.webp"
+          ],
+          "captions": [
+            "Key spatial diagram of the plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "規劃的關鍵空間圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The eastern side of Enfield in north London has weaker public transport, fewer local services and a concentration of deprivation. A divide between east and west shapes access to jobs, homes and everyday amenities.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "倫敦北部恩菲爾德的東側大眾運輸較弱、在地服務較少，貧困也較為集中。東西之間的落差，影響了居民取得工作、住宅與日常設施的機會。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A SWOT map marks town centres with good and poor provision, growth areas and places where transport access is very low. It turns scattered data into a clear picture of where the plan should act first.",
+          "images": [
+            "assets/board/enfield-spatial-development-plan/02-swot-analysis.webp"
+          ],
+          "captions": [
+            "SWOT analysis across the borough."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "SWOT 分析圖標示服務良好與不足的城鎮中心、成長地區，以及大眾運輸可及性極低的地點。它把零散的數據整理成清楚的圖像，指出規劃應優先介入之處。",
+              "captions": [
+                "全區的 SWOT 分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Housing growth is steered to well-connected brownfield sites near stations, protecting green belt and heritage areas. Each site is tested for density, height and the share of affordable homes it can carry.",
+          "images": [
+            "assets/board/enfield-spatial-development-plan/03-housing-sites.webp"
+          ],
+          "captions": [
+            "Sites for new housing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "住宅成長被引導至車站周邊交通便利的棕地，同時保護綠帶與歷史保存區。每處基地都經過密度、高度與可負擔住宅比例的檢驗。",
+              "captions": [
+                "新住宅的開發基地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Employment land is placed beside new bus and cycling routes so that jobs sit close to the homes that need them. Together the layers form a spatial plan for a fairer, fifteen-minute borough.",
+          "images": [
+            "assets/board/enfield-spatial-development-plan/05-employment-sites.webp"
+          ],
+          "captions": [
+            "Sites for employment land."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "就業用地沿著新的公車與自行車路線配置，讓工作機會靠近需要它的住宅。這些圖層共同構成一份更公平的十五分鐘城市空間規劃。",
+              "captions": [
+                "就業用地的開發基地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map inequality before proposing change.\n2. Link homes, jobs and transport.\n3. Protect green land first.\n4. Test every site against clear criteria.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先描繪不平等，再提出改變。\n2. 串連住宅、工作與交通。\n3. 優先保護綠地。\n4. 以明確準則檢驗每處基地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
