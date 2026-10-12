@@ -23,7 +23,7 @@ const CONTENT_FILES = ['site', 'board', 'az', 'teaching', 'consulting'];
 const CURRENCIES = ['CNY', 'USD', 'EUR', 'TWD'];
 const IMAGE_TYPES = { 'image/jpeg': 'jpg', 'image/png': 'png', 'image/webp': 'webp', 'image/gif': 'gif' };
 const MAX_IMAGE = 8 * 1024 * 1024;
-const MAX_JSON = 512 * 1024;
+const MAX_JSON = 2 * 1024 * 1024;
 const MAX_UPLOAD_FILES = MAX_PIN_IMAGES;       // one pin's worth of images per request
 const MAX_UPLOAD_TOTAL = 40 * 1024 * 1024;
 
