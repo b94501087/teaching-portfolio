@@ -1,0 +1,67 @@
+{
+  "project": "Scraps to Soil",
+  "dest": "assets/board/scraps-to-soil-kitchen-waste-compost-system",
+  "note": "Portfolio e7c5 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, photos with people, charity and village names.",
+  "files": [
+    {
+      "name": "01-composting-model.webp",
+      "sha256": "eef363e164b4ace3e935c14eaec4fed114335faf50739c2e1b1bad2fea3033c6",
+      "bytes": 71004,
+      "from": "e7c5 page 2 — composting model"
+    },
+    {
+      "name": "02-model-garden-view.webp",
+      "sha256": "d457d16b5ef2f46951ced908c9543a95db5cb37f6112cdf304d7cf68ab386310",
+      "bytes": 10096,
+      "from": "e7c5 page 2 — model garden view"
+    },
+    {
+      "name": "03-model-frame-view.webp",
+      "sha256": "921ce721704b1e8125ba5de621e4290129867db5cc9bfd3dcb9aac4219771235",
+      "bytes": 18244,
+      "from": "e7c5 page 2 — model frame view"
+    },
+    {
+      "name": "04-system-sketch.webp",
+      "sha256": "e2c394150c2ca1e2005a9cbef8bed20fe67c8d956d5f7e6abe21eb2e24314685",
+      "bytes": 30892,
+      "from": "e7c5 page 2 — system sketch"
+    },
+    {
+      "name": "05-wheel-sketch.webp",
+      "sha256": "67a3628d3caff460b46bcb973f30a08ea29d460ca6f2b45102ff984994fd006b",
+      "bytes": 19320,
+      "from": "e7c5 page 2 — wheel sketch"
+    },
+    {
+      "name": "06-site-sketch.webp",
+      "sha256": "03ba5c9b036f10d8fd800fd5eae71842b5685653a731a6c7f87a7f0b2048664a",
+      "bytes": 27470,
+      "from": "e7c5 page 2 — site sketch"
+    },
+    {
+      "name": "07-built-machine.webp",
+      "sha256": "6fec020515ceca913d6e18e64313343b0c43d1b7ffefa4c994d39bd7ed71b40e",
+      "bytes": 8298,
+      "from": "e7c5 page 3 — built machine"
+    },
+    {
+      "name": "08-bearing-detail.webp",
+      "sha256": "8f3addc135483dbfd5d2f24c4ede43f926532d588cb39cb4e28be42cfc87cfd7",
+      "bytes": 11950,
+      "from": "e7c5 page 3 — bearing detail"
+    },
+    {
+      "name": "09-bin-detail.webp",
+      "sha256": "a547a1cfee230407bf96a6ae0d17fe50898554858e35c059dfc129527a942a51",
+      "bytes": 10680,
+      "from": "e7c5 page 3 — bin detail"
+    },
+    {
+      "name": "10-nozzle-detail.webp",
+      "sha256": "cacf7adea89b391851018e310299921d96c0f08eef87fd9d7839e3ba73a5ca34",
+      "bytes": 5144,
+      "from": "e7c5 page 3 — nozzle detail"
+    }
+  ]
+}
