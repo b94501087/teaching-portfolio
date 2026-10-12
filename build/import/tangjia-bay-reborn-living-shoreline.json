@@ -1,0 +1,67 @@
+{
+  "project": "Tangjia Bay Reborn",
+  "dest": "assets/board/tangjia-bay-reborn-living-shoreline",
+  "note": "Portfolio c0e5 pages 17-22 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with school and supervisor, the crowd analysis with people photos, the site photos, the tourism chart and the renders with figures.",
+  "files": [
+    {
+      "name": "01-cutaway-section.webp",
+      "sha256": "c1af207f454c584d5c32b1c6aeda9a632c96f8ee28d1c7123853228e1547cb4f",
+      "bytes": 196550,
+      "from": "c0e5 page 21 — cutaway section"
+    },
+    {
+      "name": "02-bay-location-map.webp",
+      "sha256": "9faa8467760b8114e3eaed1e34de3dec21c46d58d426dc6d4e022f11eeebfa24",
+      "bytes": 78812,
+      "from": "c0e5 page 17 — location map"
+    },
+    {
+      "name": "03-ecological-strategy.webp",
+      "sha256": "d523987c9961e9b42f875567b575daa23a4e2b8b080080b6d587156b8ee67202",
+      "bytes": 38242,
+      "from": "c0e5 page 18 — ecological relationship drawing"
+    },
+    {
+      "name": "04-surrounding-analysis.webp",
+      "sha256": "900b7fffaffe7e9ea507cde0ebc3546d235f7caafb810149251f743a74c0be06",
+      "bytes": 117172,
+      "from": "c0e5 page 18 — surrounding analysis map"
+    },
+    {
+      "name": "05-masterplan-axon.webp",
+      "sha256": "10bf764dbc10c1b6432021ad8e0454b9c2ccc1bb3403ebe22d7661dd5eec4965",
+      "bytes": 64230,
+      "from": "c0e5 page 19 — master plan axonometric"
+    },
+    {
+      "name": "06-landscape-plan.webp",
+      "sha256": "fc65260503792fd30676ce13315658072c6a80a0e28613d92f74431c85a4e055",
+      "bytes": 276214,
+      "from": "c0e5 page 19 — landscape plan"
+    },
+    {
+      "name": "07-museum-floor-plan.webp",
+      "sha256": "00189480171fda9bb067fe14012e69e99619fa39e9a6cc828f482e5decc44297",
+      "bytes": 241832,
+      "from": "c0e5 page 20 — museum floor plan"
+    },
+    {
+      "name": "08-tidal-sections.webp",
+      "sha256": "becccc84f6c09a87f4ab982ec27f562f5c1e0e7e7826ad4af24c544b766c8204",
+      "bytes": 98038,
+      "from": "c0e5 page 20 — sections over time"
+    },
+    {
+      "name": "09-mangrove-section.webp",
+      "sha256": "ab4c2fde1de7493190e9f9d8ec0bb835566d1f204ded5bc963bb9e2dcc4eb784",
+      "bytes": 148358,
+      "from": "c0e5 page 21 — mangrove section"
+    },
+    {
+      "name": "10-physical-model.webp",
+      "sha256": "7634b5873d8e990eda0bb700d4a25bee96eabd320a87457eb31921f8bb87403a",
+      "bytes": 329274,
+      "from": "c0e5 page 22 — physical model"
+    }
+  ]
+}
