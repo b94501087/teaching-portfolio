@@ -14934,7 +14934,7 @@
         },
         {
           "heading": "Outcome",
-          "body": "Anchor points at the hospital and the kindergarten, and active points for gardening, an elderly barber, a park and a riverside path, turn the old factory site into a walkable community where elderly residents can rest, exercise and meet. The riverside footpath also becomes part of the slow walking route.",
+          "body": "Anchor points at the hospital and the kindergarten, and active points for gardening, an elderly barber, a park and a riverside path, turn the old factory site into a walkable community. Elderly residents can rest, exercise and meet there.",
           "images": [
             "assets/board/anchor-point-community/10-anchor-points-axonometric.webp"
           ],
@@ -14944,7 +14944,7 @@
           "i18n": {
             "zh-Hant": {
               "heading": "成果",
-              "body": "醫院與幼兒園的錨點，加上園藝、長者理髮、公園與河岸步道等活動點，讓老工廠基地成為一個可步行的社區，高齡居民能在這裡休憩、運動與相聚。河岸步道也成為慢行路線的一部分。",
+              "body": "醫院與幼兒園的錨點，加上園藝、長者理髮、公園與河岸步道等活動點，讓老工廠基地成為一個可步行的社區。高齡居民能在這裡休憩、運動與相聚。",
               "captions": [
                 "錨點場景與社區軸測圖。"
               ]
@@ -15385,6 +15385,550 @@
             "zh-Hant": {
               "heading": "我如何教這套方法",
               "body": "1. 為不同族群挑選小基地。\n2. 為每處基地設定清楚的主題。\n3. 從在地記憶借用形式。\n4. 設計讓人停留，而非只是經過。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Folding Nanshan",
+      "slug": "folding-nanshan",
+      "description": "A speculative model of how Shenzhen's Nanshan District could fold apart along class lines.\n\nShenzhen, China | Speculative urban design | 2021–2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "摺疊南山",
+          "description": "以假想模型推演深圳南山區如何沿著階層界線摺疊分離。\n\n中國深圳｜思辨性城市設計｜2021–2022｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/folding-nanshan/01-dynamic-physical-model.webp",
+        "assets/board/folding-nanshan/02-demographic-activity-analysis.webp",
+        "assets/board/folding-nanshan/03-land-use-analysis.webp",
+        "assets/board/folding-nanshan/04-house-price-and-policy-map.webp",
+        "assets/board/folding-nanshan/05-population-density-conclusion.webp",
+        "assets/board/folding-nanshan/06-master-plan-reorganisation.webp",
+        "assets/board/folding-nanshan/07-program-analysis.webp",
+        "assets/board/folding-nanshan/08-design-language.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/folding-nanshan/01-dynamic-physical-model.webp"
+          ],
+          "captions": [
+            "The dynamic physical model: servo-driven units fold the city between gated and open communities."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "動態實體模型：以伺服馬達驅動的單元，讓城市在封閉社區與開放社區之間摺疊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Shenzhen draws tens of thousands of newcomers every day, yet an invisible barrier between classes has been hardening since the city opened up and is becoming visible in urban space. Inspired by a novel about residential segregation in Beijing, the project takes Nanshan District as a hypothetical test of what the city would look like if the gap between rich and poor kept growing.",
+          "images": [
+            "assets/board/folding-nanshan/02-demographic-activity-analysis.webp"
+          ],
+          "captions": [
+            "Demographic and activity area analysis of social classes in Nanshan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "深圳每天吸引數以萬計的新移民，但自城市開放以來，階層之間一道無形的屏障逐漸固化，並開始在城市空間中顯現。受一部描寫北京居住隔離的小說啟發，本案以南山區作為假想實驗，探問若貧富差距持續擴大，城市將呈現什麼樣貌。",
+              "captions": [
+                "南山各社會階層的人口與活動範圍分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Land use, house prices, school admission policy for non-registered children and entrepreneurship grants were mapped across the district. The analysis shows that high-priced housing comes with the best educational resources and that talents with higher education receive more policy support, which leads to class solidification and residential segregation.",
+          "images": [
+            "assets/board/folding-nanshan/03-land-use-analysis.webp",
+            "assets/board/folding-nanshan/04-house-price-and-policy-map.webp",
+            "assets/board/folding-nanshan/05-population-density-conclusion.webp"
+          ],
+          "captions": [
+            "Land-use analysis on a grid of the district.",
+            "House prices, admission policy and grant policy maps.",
+            "Conclusion: map of population density."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究將土地使用、房價、非戶籍子女入學政策與創業補助逐一對應到整個行政區。分析顯示高房價住宅伴隨最好的教育資源，高學歷人才也更容易獲得政策支持，最終導致階層固化與居住隔離。",
+              "captions": [
+                "以網格呈現的行政區土地使用分析。",
+                "房價、入學政策與補助政策地圖。",
+                "結論：人口密度地圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The master plan is reorganised into residential, commercial, civic and public space layers, and a program analysis assigns them to the grid. A design language of folding forms is developed for each area, from civic facilities to commercial and residential zones.",
+          "images": [
+            "assets/board/folding-nanshan/06-master-plan-reorganisation.webp",
+            "assets/board/folding-nanshan/07-program-analysis.webp",
+            "assets/board/folding-nanshan/08-design-language.webp"
+          ],
+          "captions": [
+            "Master plan reorganisation by residential, public, industrial and civic land.",
+            "Program analysis of the reorganised district.",
+            "Design language for civic, commercial and residential areas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "總體規劃被重組為居住、商業、公共設施與公共空間等圖層，並透過機能分析配置到網格之上。針對每一區發展出摺疊形態的設計語彙，涵蓋公共設施、商業區與住宅區。",
+              "captions": [
+                "依住宅、公共、工業與公共設施用地進行的總體規劃重組。",
+                "重組後行政區的機能分析。",
+                "公共設施、商業與住宅區的設計語彙。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A dynamic physical model links economic growth, school enrolment and start-up subsidies to servo angles, so each unit opens or closes as conditions change and is also stretched by the units around it. When the economic difference between areas is large, public space closes into gated communities, and when it is small, it opens to everyone.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "動態實體模型將經濟成長、名校入學率與創業補助連結到伺服馬達角度，讓每個單元隨條件改變而開啟或關閉，同時也受到周圍單元的拉伸與擠壓。當區域之間的經濟差距很大時，公共空間便收合為封閉社區；差距縮小時，則向所有人開放。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a question about the city's future.\n2. Map the policies that sort people.\n3. Translate data into a moving model.\n4. Test the model under changing conditions.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個關於城市未來的問題出發。\n2. 繪製將人群分類的政策地圖。\n3. 將數據轉化為會動的模型。\n4. 在不同條件下測試模型。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Arcades Project in the 21st Century",
+      "slug": "arcades-project-21st-century",
+      "description": "Spaces of consumption in the Liuyun community are turned back into shared public space.\n\nLiuyun community | Consumer space and public space | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "21 世紀的拱廊街計畫",
+          "description": "將 Liuyun 社區的消費空間重新轉化為共享的公共空間。\n\nLiuyun 社區｜消費空間與公共空間｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/arcades-project-21st-century/01-consumption-space-outcomes.webp",
+        "assets/board/arcades-project-21st-century/02-phantasmagoria-and-alienation.webp",
+        "assets/board/arcades-project-21st-century/03-site-characterisation-sketches.webp",
+        "assets/board/arcades-project-21st-century/04-removed-spaces-of-consumption.webp",
+        "assets/board/arcades-project-21st-century/05-playground-site-plan.webp",
+        "assets/board/arcades-project-21st-century/06-marketplace-site-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/arcades-project-21st-century/01-consumption-space-outcomes.webp"
+          ],
+          "captions": [
+            "Four outcomes: a playground, a city hall, a marketplace and outdoor stairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "四種成果：遊戲場、市民廳、市集與戶外樓梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In the 19th century consumer space was built to host commercial activity, but in the 21st century space itself has become a product to be consumed. In the Liuyun community the confrontation between consumer space and public space has always existed, so the project asks what the community's space should become in the future.",
+          "images": [
+            "assets/board/arcades-project-21st-century/02-phantasmagoria-and-alienation.webp"
+          ],
+          "captions": [
+            "The phantasmagoria of the site and the alienation it produces: switch, fake, expansion, coverage and combine."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "19 世紀的消費空間是為了容納商業活動而建，到了 21 世紀，空間本身卻成為被消費的商品。在 Liuyun 社區，消費空間與公共空間的對立始終存在，因此本案探問社區的空間未來應發展成什麼樣子。",
+              "captions": [
+                "基地的幻象及其造成的異化：切換、偽裝、擴張、覆蓋與組合。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Building on the Arcades Project, the project describes the phantasmagoria of the site through words such as attractive, enforced and tease, and turns them into five operations of alienation. Shopfronts and streets in the community were then characterised through sketches of enclosure, hiding, decoration, fuzzy boundaries and no intersection.",
+          "images": [
+            "assets/board/arcades-project-21st-century/03-site-characterisation-sketches.webp"
+          ],
+          "captions": [
+            "Site characterisation sketches of the community's streets and shopfronts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案延續《拱廊街計畫》的思考，以吸引、強制、挑逗等字詞描述基地的幻象，並將其轉化為五種異化操作。接著以手繪草圖歸納社區店面與街道的特徵，包括圍合、隱藏、裝飾、模糊邊界與不相交。",
+              "captions": [
+                "社區街道與店面的基地特徵草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each operation of alienation is combined with a site characteristic to produce spaces of consumption that have been removed from consumer behaviour, such as an observation tower, a city chamber, a maze and outdoor stairs. These spaces are placed on sites around the school and along the street.",
+          "images": [
+            "assets/board/arcades-project-21st-century/04-removed-spaces-of-consumption.webp",
+            "assets/board/arcades-project-21st-century/05-playground-site-plan.webp"
+          ],
+          "captions": [
+            "Spaces of consumption removed from consumer behaviour, each a pair of operations.",
+            "Site plan of the playground near the school."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每一種異化操作都與一項基地特徵結合，產生脫離消費行為的消費空間，例如瞭望塔、市民廳、迷宮與戶外樓梯。這些空間被配置在學校周邊與街道沿線的基地上。",
+              "captions": [
+                "脫離消費行為的消費空間，每一個都由兩種操作組成。",
+                "學校旁遊戲場的基地配置圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The playground is a place of consumption or free respite at different times of the day, and the city hall hosts community events and can be hired out. The marketplace serves daily shopping and creative fairs with neighbouring businesses, while outdoor stairs let commercial tenants maintain the vertical circulation they share with residents.",
+          "images": [
+            "assets/board/arcades-project-21st-century/06-marketplace-site-plan.webp"
+          ],
+          "captions": [
+            "Site plan of the marketplace."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "遊戲場在一天不同時段可以是消費場所，也可以是免費的休憩空間；市民廳則舉辦社區活動，也可以出租使用。市集服務日常採買，並與鄰近商家合辦創意市集，戶外樓梯則讓商業租戶負責維護與居民共用的垂直動線。",
+              "captions": [
+                "市集的基地配置圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name the feelings a place produces.\n2. Turn them into spatial operations.\n3. Pair each operation with a site trait.\n4. Test the result at different times of day.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 為場所帶來的感受命名。\n2. 將感受轉化為空間操作。\n3. 讓每個操作對應一項基地特徵。\n4. 在一天中的不同時段檢驗成果。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Experience in Pingshan",
+      "slug": "experience-in-pingshan",
+      "description": "A wetland park reconnects the banks of the polluted Pingshan River in Shenzhen.\n\nShenzhen, China | Wetland park | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "坪山體驗",
+          "description": "以濕地公園重新串連深圳受污染的坪山河兩岸。\n\n中國深圳｜濕地公園｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/experience-in-pingshan/01-waterfront-promenade-aerial.webp",
+        "assets/board/experience-in-pingshan/02-design-strategy.webp",
+        "assets/board/experience-in-pingshan/03-design-analysis.webp",
+        "assets/board/experience-in-pingshan/04-wetland-park-master-plan.webp",
+        "assets/board/experience-in-pingshan/05-bank-analysis.webp",
+        "assets/board/experience-in-pingshan/06-swirl-entrance-and-activities.webp",
+        "assets/board/experience-in-pingshan/07-water-treatment-before-after.webp",
+        "assets/board/experience-in-pingshan/08-water-purification-process.webp",
+        "assets/board/experience-in-pingshan/09-mining-park-vignettes.webp",
+        "assets/board/experience-in-pingshan/10-mining-park-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/experience-in-pingshan/01-waterfront-promenade-aerial.webp"
+          ],
+          "captions": [
+            "Aerial view of the waterfront promenade along the Pingshan River."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "坪山河濱水步道鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site on the Pingshan River is cut by an urban road, its water is severely polluted by the industrial area upstream, and the dense plants along the banks make the river inaccessible for people. As Shenzhen develops, the river is expected to change from a suburban factory-side river into a major recreational green space for the surrounding city.",
+          "images": [
+            "assets/board/experience-in-pingshan/02-design-strategy.webp",
+            "assets/board/experience-in-pingshan/03-design-analysis.webp"
+          ],
+          "captions": [
+            "Design strategy: meeting in the space, in the memories and in the Pingshan River.",
+            "Design analysis: slow traffic, theme areas, riparian zone, roads, activities and green space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "坪山河畔的基地被一條城市道路切開，河水受到上游工業區的嚴重污染，沿岸茂密的植物也讓人無法親近河流。隨著深圳的發展，這條河預期將從郊區工廠旁的河流，轉變為服務周邊城市的重要休憩綠地。",
+              "captions": [
+                "設計策略：相遇於空間、相遇於記憶、相遇於坪山河。",
+                "設計分析：慢行系統、主題區、河岸帶、道路、活動與綠地類型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Analysis of the location, site structure and regional history traced the area's change from agriculture to industry and its links to the city's urban, ecological and coastal axes. The strategy creates a wetland park with regional characteristics, with diverse outdoor spaces, distinctive urban spots that recall the industrial context, and water purification by plants.",
+          "images": [
+            "assets/board/experience-in-pingshan/04-wetland-park-master-plan.webp",
+            "assets/board/experience-in-pingshan/05-bank-analysis.webp"
+          ],
+          "captions": [
+            "Master plan: places to meet in space, in memory, at events and in nature.",
+            "Bank analysis: wetlands, waterfront walkway, wooden platform, green space and trestle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究分析了區位、基地結構與區域歷史，追溯此地從農業轉向工業的過程，以及它與城市軸線、生態軸線與濱海軸線的關係。策略是打造具有地域特色的濕地公園，提供多樣的戶外空間、呼應工業脈絡的城市特色節點，並以植物淨化水質。",
+              "captions": [
+                "總平面圖：相遇於空間、記憶、活動與自然的場所。",
+                "河岸分析：濕地、濱水步道、木平台、綠地與木棧道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The Swirl, a red gateway to the park, reconnects the three banks divided by the river and the road and gives the site a strong new urban memory. In the water purification section, different wetland plants reduce nitrogen and phosphorus in the water from the factory outflow before it reaches the river.",
+          "images": [
+            "assets/board/experience-in-pingshan/06-swirl-entrance-and-activities.webp",
+            "assets/board/experience-in-pingshan/07-water-treatment-before-after.webp",
+            "assets/board/experience-in-pingshan/08-water-purification-process.webp"
+          ],
+          "captions": [
+            "The Swirl: entrance, installation and activities.",
+            "Water treatment of the banks, before and after.",
+            "Water purification process from factory to rain garden, wetland island and river."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "紅色的「漩渦」是公園的門戶，重新串連被河流與道路分隔的三處河岸，也為基地留下強烈的新城市記憶。在水質淨化區，不同的濕地植物在工廠排水流入河流之前，降低水中的氮與磷。",
+              "captions": [
+                "漩渦：入口、裝置與活動。",
+                "河岸水處理的前後對比。",
+                "從工廠、雨水花園、濕地島到河流的水質淨化過程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A former mine inspires the mining park, whose red structures can be climbed, played on and rested in. Together with the Swirl and the wetlands, it turns the polluted river edge into a recreational park for the city.",
+          "images": [
+            "assets/board/experience-in-pingshan/09-mining-park-vignettes.webp",
+            "assets/board/experience-in-pingshan/10-mining-park-plan.webp"
+          ],
+          "captions": [
+            "Mining park: about time, climbing, leisure and playground.",
+            "Aerial view of the mining park."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "以舊礦場為靈感的礦場公園，其紅色構造物可以攀爬、遊戲與休憩。它與漩渦和濕地一起，讓受污染的河岸成為城市的休憩公園。",
+              "captions": [
+                "礦場公園：時間、攀爬、休閒與遊戲場。",
+                "礦場公園鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the river as a system.\n2. Trace the site's industrial past.\n3. Reconnect the banks with one gesture.\n4. Let plants clean the water.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把河流當作一個系統來閱讀。\n2. 追溯基地的工業歷史。\n3. 以一個設計動作重新串連河岸。\n4. 讓植物淨化水質。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Campus Boundary",
+      "slug": "campus-boundary",
+      "description": "A closed school boundary in Shenzhen is expanded from a wall into a surface shared with the city.\n\nShenzhen, China | Graduation project | 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "校園邊界",
+          "description": "將深圳一所封閉學校的邊界，從一道牆擴展為與城市共享的面。\n\n中國深圳｜畢業設計｜2022｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/campus-boundary/01-exploded-boundary-view.webp",
+        "assets/board/campus-boundary/02-current-boundaries-sketch-map.webp",
+        "assets/board/campus-boundary/03-space-pattern.webp",
+        "assets/board/campus-boundary/04-extension-point-to-line.webp",
+        "assets/board/campus-boundary/05-edges-extension-gym-courtyard.webp",
+        "assets/board/campus-boundary/06-edges-corridor-sight-interaction.webp",
+        "assets/board/campus-boundary/07-edges-route-hub-park.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/campus-boundary/01-exploded-boundary-view.webp"
+          ],
+          "captions": [
+            "Exploded view: the slender campus boundary expanded into a surface of inside and outside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "爆炸圖：細長的校園邊界被擴展為一個由內與外構成的面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Not only at the worst period of the epidemic but even two years after the outbreak, the school in Nanshan District is still closed, which has caused discontent among students, nearby businesses and residents. A wall separates the school from the outside, and a road that used to connect to the industrial park has been closed.",
+          "images": [
+            "assets/board/campus-boundary/02-current-boundaries-sketch-map.webp"
+          ],
+          "captions": [
+            "Sketch map of the current boundaries around the campus."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "不只在疫情最嚴重的時期，甚至在疫情爆發兩年後的今天，南山區的這所學校仍然封閉，引起學生、周邊商家與居民的不滿。一道圍牆將學校與外界隔開，原本通往產業園區的道路也已封閉。",
+              "captions": [
+                "校園周邊現有邊界的手繪分析圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A literature review traced how architecture moved from modernism's mechanical dualism, in which one is either one or the other, towards metabolism and symbiosis, in which the added part is connected to the existing facilities. A study of space patterns turns a fixed grid into loose, overlapping units.",
+          "images": [
+            "assets/board/campus-boundary/03-space-pattern.webp",
+            "assets/board/campus-boundary/04-extension-point-to-line.webp"
+          ],
+          "captions": [
+            "Space pattern: from a fixed grid to overlapping units.",
+            "Extension: the crowded entrances and exits on the border are expanded from points into lines to reduce congestion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "文獻回顧追溯建築如何從現代主義非此即彼的機械二元論，走向代謝與共生的思考，讓新增部分與既有設施相連。對空間模式的研究，則把固定的網格轉化為鬆散而重疊的單元。",
+              "captions": [
+                "空間模式：從固定網格到重疊的單元。",
+                "延伸：把邊界上擁擠的出入口從點擴展為線，以減少壅塞。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each part of the boundary is redesigned as a type of edge that sets a new relationship between inside and outside. Extension, gym, courtyard, corridors, sight, interaction, route, transport hub and park each become an edge, compared before and after.",
+          "images": [
+            "assets/board/campus-boundary/05-edges-extension-gym-courtyard.webp",
+            "assets/board/campus-boundary/06-edges-corridor-sight-interaction.webp",
+            "assets/board/campus-boundary/07-edges-route-hub-park.webp"
+          ],
+          "captions": [
+            "Extension, gym and courtyard as edge.",
+            "Corridors, sight and interaction as edge.",
+            "Route, transport hub and park as edge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "邊界的每一段都被重新設計為一種邊緣，建立內與外之間的新關係。延伸、體育館、庭院、廊道、視線、互動、路徑、交通樞紐與公園各自成為一種邊緣，並比較設計前後的差異。",
+              "captions": [
+                "以延伸、體育館與庭院作為邊緣。",
+                "以廊道、視線與互動作為邊緣。",
+                "以路徑、交通樞紐與公園作為邊緣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The design allows the original slender boundary to be expanded into a surface, making it convenient for the students and teachers within the school. At the same time it brings vitality to the surrounding area.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "設計讓原本細長的邊界擴展為一個面，為校內師生帶來便利。同時，它也為周邊地區注入活力。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map who the boundary keeps out.\n2. Sketch the edge as it is today.\n3. Turn the line into a surface.\n4. Give each edge its own program.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 繪製邊界把誰擋在外面。\n2. 手繪邊界的現況。\n3. 把線轉化為面。\n4. 讓每一段邊緣擁有自己的機能。"
             }
           }
         }
