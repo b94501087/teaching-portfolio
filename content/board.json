@@ -39800,6 +39800,874 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Deconstructing Geometry",
+      "slug": "deconstructing-geometry-triangle-strip-structure",
+      "description": "Triangles of striped PVC are broken apart and reassembled into a floating structure of tension and light.\n\nSpatial design | Model | Deconstruction | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "解構幾何",
+          "description": "以條紋 PVC 三角形拆解再重組，形成充滿張力與光影的懸浮構造。\n\n空間設計｜模型｜解構｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/deconstructing-geometry-triangle-strip-structure/01-final-triangle-structure.webp",
+        "assets/board/deconstructing-geometry-triangle-strip-structure/02-hand-drawn-triangles.webp",
+        "assets/board/deconstructing-geometry-triangle-strip-structure/03-pvc-strip-tests.webp",
+        "assets/board/deconstructing-geometry-triangle-strip-structure/04-light-through-strips.webp",
+        "assets/board/deconstructing-geometry-triangle-strip-structure/05-layered-strips.webp",
+        "assets/board/deconstructing-geometry-triangle-strip-structure/06-regenerated-modules.webp",
+        "assets/board/deconstructing-geometry-triangle-strip-structure/07-model-from-above.webp",
+        "assets/board/deconstructing-geometry-triangle-strip-structure/08-model-close-up.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/deconstructing-geometry-triangle-strip-structure/01-final-triangle-structure.webp"
+          ],
+          "captions": [
+            "The final structure of striped triangles on a stick frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "條紋三角形與木條骨架構成的最終結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was drawn to how deconstructivist architecture breaks order into fragments. The project asks whether simple triangles can be split apart and recombined into a new spatial order.",
+          "images": [
+            "assets/board/deconstructing-geometry-triangle-strip-structure/02-hand-drawn-triangles.webp"
+          ],
+          "captions": [
+            "Hand drawing of scattered triangles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生著迷於解構主義建築將秩序拆成碎片的方式。作品探問，簡單的三角形能否被拆開再重組成新的空間秩序。",
+              "captions": [
+                "散落三角形的手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Striped PVC sheets were tested for tension and balance against a timber stick frame. Light passing through the strips revealed how layering could make a solid surface feel semi-transparent.",
+          "images": [
+            "assets/board/deconstructing-geometry-triangle-strip-structure/03-pvc-strip-tests.webp",
+            "assets/board/deconstructing-geometry-triangle-strip-structure/04-light-through-strips.webp",
+            "assets/board/deconstructing-geometry-triangle-strip-structure/05-layered-strips.webp"
+          ],
+          "captions": [
+            "PVC strip tests.",
+            "Light through the strips.",
+            "Layered strips on the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以條紋 PVC 片搭配木條骨架，測試張力與平衡。光線穿過條紋，顯示疊層能讓實體表面變得半透明。",
+              "captions": [
+                "PVC 條片測試。",
+                "光線穿過條紋。",
+                "骨架上的疊層條片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Triangular units were repeatedly taken apart and recombined into larger clusters. Each round tested how far fragmentation could go while the whole still held together.",
+          "images": [
+            "assets/board/deconstructing-geometry-triangle-strip-structure/06-regenerated-modules.webp"
+          ],
+          "captions": [
+            "Regenerated triangle modules."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三角單元被反覆拆解並重組成更大的群組。每一輪都在測試碎片化能推進多遠，而整體仍能成立。",
+              "captions": [
+                "重組後的三角模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model is an open cluster of striped triangles held by a visible stick frame. Its shifting density and shadows turn a basic shape into a dynamic, layered space.",
+          "images": [
+            "assets/board/deconstructing-geometry-triangle-strip-structure/07-model-from-above.webp",
+            "assets/board/deconstructing-geometry-triangle-strip-structure/08-model-close-up.webp"
+          ],
+          "captions": [
+            "The model from above.",
+            "Close-up of the layered triangles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型是由外露木條骨架支撐的開放條紋三角群。變化的密度與陰影，讓基本形狀轉化為動態且具層次的空間。",
+              "captions": [
+                "俯視模型。",
+                "層疊三角形近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick one basic shape.\n2. Break it into parts.\n3. Recombine and test.\n4. Read the light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個基本形。\n2. 拆成碎片。\n3. 重組並測試。\n4. 觀察光影。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Floating Channels",
+      "slug": "floating-channels-elastic-fabric-grid",
+      "description": "Stretchy fabric channels and floating foam balls flow through a rigid cubic frame of timber sticks.\n\nSpatial design | Model | Structure and flow | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "漂浮通道",
+          "description": "彈性布料通道與漂浮的泡棉球，穿流於木條構成的剛性立方框架之中。\n\n空間設計｜模型｜結構與流動｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/floating-channels-elastic-fabric-grid/01-final-model.webp",
+        "assets/board/floating-channels-elastic-fabric-grid/02-hand-drawing.webp",
+        "assets/board/floating-channels-elastic-fabric-grid/03-fabric-in-frame.webp",
+        "assets/board/floating-channels-elastic-fabric-grid/04-fixing-channels.webp",
+        "assets/board/floating-channels-elastic-fabric-grid/05-bare-cubic-frame.webp",
+        "assets/board/floating-channels-elastic-fabric-grid/06-frame-on-mat.webp",
+        "assets/board/floating-channels-elastic-fabric-grid/07-tunnels-and-balls.webp",
+        "assets/board/floating-channels-elastic-fabric-grid/08-holographic-panel.webp",
+        "assets/board/floating-channels-elastic-fabric-grid/09-coloured-film-level.webp",
+        "assets/board/floating-channels-elastic-fabric-grid/10-tensioned-surfaces.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/floating-channels-elastic-fabric-grid/01-final-model.webp"
+          ],
+          "captions": [
+            "The final model: fabric tunnels and foam balls inside a stick grid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "最終模型：木條網格中的布料通道與泡棉球。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The idea began with natural flows such as wind, water and roots that grow past boundaries. The project asks how soft systems can adapt and reshape themselves inside a rigid framework.",
+          "images": [
+            "assets/board/floating-channels-elastic-fabric-grid/02-hand-drawing.webp"
+          ],
+          "captions": [
+            "Hand drawing of flows across a grid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "構想源自風、水與樹根等會越過邊界自由生長的自然流動。作品探問，柔軟的系統如何在剛性框架內調適並重塑自身。",
+              "captions": [
+                "流動穿越網格的手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A cubic frame of timber sticks was built first as the fixed order. Stretchy fabric was then pulled through it to test how far a channel could bend between levels.",
+          "images": [
+            "assets/board/floating-channels-elastic-fabric-grid/03-fabric-in-frame.webp",
+            "assets/board/floating-channels-elastic-fabric-grid/04-fixing-channels.webp",
+            "assets/board/floating-channels-elastic-fabric-grid/05-bare-cubic-frame.webp",
+            "assets/board/floating-channels-elastic-fabric-grid/06-frame-on-mat.webp"
+          ],
+          "captions": [
+            "Fabric pulled into the frame.",
+            "Fixing the channels.",
+            "The bare cubic frame.",
+            "Frame taking shape on the cutting mat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先以木條搭出立方框架，作為固定的秩序。再將彈性布料穿拉其中，測試通道在樓層之間能彎曲到什麼程度。",
+              "captions": [
+                "布料拉入框架。",
+                "固定通道。",
+                "尚未加入布料的立方框架。",
+                "切割墊上成形的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Fabric tunnels were stretched to link different levels with tensioned, twisting surfaces. Foam balls were hung along the paths to suggest movement drifting through the grid.",
+          "images": [
+            "assets/board/floating-channels-elastic-fabric-grid/07-tunnels-and-balls.webp",
+            "assets/board/floating-channels-elastic-fabric-grid/08-holographic-panel.webp"
+          ],
+          "captions": [
+            "Tunnels with foam balls.",
+            "A holographic panel among the channels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "布料通道被拉伸，以扭轉的張拉曲面連接不同樓層。泡棉球沿路徑懸掛，暗示穿越網格漂移的動態。",
+              "captions": [
+                "布料通道與泡棉球。",
+                "通道間的全像片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model balances solid frame and organic surface in one spatial system. Holographic film on some panels catches light and gives the space a vivid, shifting atmosphere.",
+          "images": [
+            "assets/board/floating-channels-elastic-fabric-grid/09-coloured-film-level.webp",
+            "assets/board/floating-channels-elastic-fabric-grid/10-tensioned-surfaces.webp"
+          ],
+          "captions": [
+            "A level with coloured film.",
+            "Tensioned surfaces up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型在同一空間系統中平衡了實體框架與有機曲面。部分板面貼上全像膜捕捉光線，讓空間呈現鮮明而變幻的氛圍。",
+              "captions": [
+                "貼有彩色膜的樓層。",
+                "張拉曲面近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Set a rigid frame.\n2. Add a soft material.\n3. Let it flow across.\n4. Add light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 建立剛性框架。\n2. 加入柔軟材料。\n3. 讓它穿流其中。\n4. 加入光。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Bark Lattice",
+      "slug": "bark-lattice-layered-strip-structure",
+      "description": "The rhythms of tree bark are translated into stacked timber and holographic strips that glow like a forest.\n\nSpatial design | Model | Material texture | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "樹皮格構",
+          "description": "將樹皮的紋理節奏轉譯為層疊的木條與全像紙條，如森林般閃耀。\n\n空間設計｜模型｜材料紋理｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/bark-lattice-layered-strip-structure/01-colour-strip-towers.webp",
+        "assets/board/bark-lattice-layered-strip-structure/02-textural-imprint.webp",
+        "assets/board/bark-lattice-layered-strip-structure/03-sorted-sticks.webp",
+        "assets/board/bark-lattice-layered-strip-structure/04-merged-strip-structure.webp",
+        "assets/board/bark-lattice-layered-strip-structure/05-bark-hand-drawing.webp",
+        "assets/board/bark-lattice-layered-strip-structure/06-rupture-line-drawing.webp",
+        "assets/board/bark-lattice-layered-strip-structure/07-strip-cluster.webp",
+        "assets/board/bark-lattice-layered-strip-structure/08-tall-strip-cluster.webp",
+        "assets/board/bark-lattice-layered-strip-structure/09-layered-strip-detail.webp",
+        "assets/board/bark-lattice-layered-strip-structure/10-light-strip-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/bark-lattice-layered-strip-structure/01-colour-strip-towers.webp"
+          ],
+          "captions": [
+            "Stacked strips lit to glow like a forest at night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "層疊條片在燈光下如夜間森林般發亮。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student noticed how tree bark records growth in its cracks, fibres and folds. The project asks how that natural texture can become a clear building logic of lines and layers.",
+          "images": [
+            "assets/board/bark-lattice-layered-strip-structure/02-textural-imprint.webp"
+          ],
+          "captions": [
+            "Ink imprint of bark texture on fabric."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生注意到樹皮以裂紋、纖維與皺褶記錄生長。作品探問，這種自然紋理如何轉化為清晰的線與層的構築邏輯。",
+              "captions": [
+                "以墨拓印於布上的樹皮紋理。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Bark was wrapped in fabric and inked to capture its pattern as a print. Timber sticks and holographic strips were then gathered and sorted by length and thickness.",
+          "images": [
+            "assets/board/bark-lattice-layered-strip-structure/03-sorted-sticks.webp",
+            "assets/board/bark-lattice-layered-strip-structure/04-merged-strip-structure.webp"
+          ],
+          "captions": [
+            "Sticks sorted by length.",
+            "Strips merged into a colourful mass."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以布包覆樹皮並上墨，將紋理拓印下來。接著收集木條與全像紙條，依長度與粗細分類。",
+              "captions": [
+                "依長度分類的木條。",
+                "合併成彩色量體的條片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Hand drawings turned the bark into a vocabulary of line, bundle and layer. They also set the density and the break points for the linear construction.",
+          "images": [
+            "assets/board/bark-lattice-layered-strip-structure/05-bark-hand-drawing.webp",
+            "assets/board/bark-lattice-layered-strip-structure/06-rupture-line-drawing.webp"
+          ],
+          "captions": [
+            "Hand drawing of bark rhythm.",
+            "Drawing of line density and breaks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "手繪將樹皮轉為線、束與層的語彙。這些圖也訂定了線性構築的密度與斷裂點。",
+              "captions": [
+                "樹皮節奏的手繪。",
+                "線條密度與斷裂的手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final structure stacks varied stripes with slight offsets into tall, jungle-like clusters. Under coloured light the holographic strips shimmer and reveal the depth of each layer.",
+          "images": [
+            "assets/board/bark-lattice-layered-strip-structure/07-strip-cluster.webp",
+            "assets/board/bark-lattice-layered-strip-structure/08-tall-strip-cluster.webp",
+            "assets/board/bark-lattice-layered-strip-structure/09-layered-strip-detail.webp",
+            "assets/board/bark-lattice-layered-strip-structure/10-light-strip-detail.webp"
+          ],
+          "captions": [
+            "Strip cluster.",
+            "Taller strip cluster.",
+            "Layered strip detail.",
+            "Light along the strips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終構造以略微錯位的條片堆疊成高聳如叢林的群組。在彩色光線下，全像條片閃爍，顯現每一層的深度。",
+              "captions": [
+                "條片群組。",
+                "較高的條片群組。",
+                "層疊條片細部。",
+                "沿條片的光線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Record a texture.\n2. Draw its rhythm.\n3. Sort your material.\n4. Stack with offsets.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 記錄一種紋理。\n2. 畫出它的節奏。\n3. 分類材料。\n4. 錯位堆疊。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Growing Pattern",
+      "slug": "the-growing-pattern-interwoven-stick-structure",
+      "description": "Roots and branches traced into lines, then woven from painted sticks and acrylic platforms into ordered chaos.\n\nSpatial design | Model | Order and chaos | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "生長紋理",
+          "description": "將樹根與枝條描繪為線條，再以上色木條與壓克力平台編織成有序的混沌。\n\n空間設計｜模型｜秩序與混沌｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/the-growing-pattern-interwoven-stick-structure/01-chaotic-stick-structure.webp",
+        "assets/board/the-growing-pattern-interwoven-stick-structure/02-branch-angle-study.webp",
+        "assets/board/the-growing-pattern-interwoven-stick-structure/03-tracing-pattern.webp",
+        "assets/board/the-growing-pattern-interwoven-stick-structure/04-painted-sticks.webp",
+        "assets/board/the-growing-pattern-interwoven-stick-structure/05-interwoven-sticks.webp",
+        "assets/board/the-growing-pattern-interwoven-stick-structure/06-acrylic-platforms.webp",
+        "assets/board/the-growing-pattern-interwoven-stick-structure/07-density-and-order.webp",
+        "assets/board/the-growing-pattern-interwoven-stick-structure/08-reflection-view-one.webp",
+        "assets/board/the-growing-pattern-interwoven-stick-structure/09-reflection-view-two.webp",
+        "assets/board/the-growing-pattern-interwoven-stick-structure/10-reflection-view-three.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/the-growing-pattern-interwoven-stick-structure/01-chaotic-stick-structure.webp"
+          ],
+          "captions": [
+            "The final interwoven structure lit against black."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "在黑色背景中打光的最終編織構造。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "On a field trip the student saw a hidden order beneath the apparent chaos of a jungle. The project asks how branching roots and vines can be read as a line, node and bundle logic.",
+          "images": [
+            "assets/board/the-growing-pattern-interwoven-stick-structure/02-branch-angle-study.webp"
+          ],
+          "captions": [
+            "Study of branching angles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生在一次田野考察中，看見叢林表面混亂之下隱藏的秩序。作品探問，枝狀的樹根與藤蔓如何被解讀為線、節點與束的邏輯。",
+              "captions": [
+                "分枝角度研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Growth patterns of roots and branches were traced to find their structural rhythm. The tracings were refined into simple two-dimensional line drawings that could guide the build.",
+          "images": [
+            "assets/board/the-growing-pattern-interwoven-stick-structure/03-tracing-pattern.webp"
+          ],
+          "captions": [
+            "Tracing of root and branch patterns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生描繪樹根與枝條的生長紋理，找出其結構節奏。描圖再被提煉為簡潔的二維線條圖，作為構築的依據。",
+              "captions": [
+                "樹根與枝條紋理描圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sticks of many sizes were interwoven, and acrylic paint marked a hidden order within the chaos. Laser-cut acrylic plates were added as hexagonal platforms with open voids above.",
+          "images": [
+            "assets/board/the-growing-pattern-interwoven-stick-structure/04-painted-sticks.webp",
+            "assets/board/the-growing-pattern-interwoven-stick-structure/05-interwoven-sticks.webp",
+            "assets/board/the-growing-pattern-interwoven-stick-structure/06-acrylic-platforms.webp",
+            "assets/board/the-growing-pattern-interwoven-stick-structure/07-density-and-order.webp"
+          ],
+          "captions": [
+            "Painted sticks.",
+            "Interwoven sticks.",
+            "Hexagonal acrylic platforms.",
+            "Dense and open zones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "不同尺寸的木條相互編織，並以壓克力顏料在混沌中標示隱藏的秩序。雷射切割的壓克力板被加入成為六角形平台，上方留有開放的空隙。",
+              "captions": [
+                "上色木條。",
+                "交織的木條。",
+                "六角形壓克力平台。",
+                "密集與開放的區域。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Different stick densities create places to move through and places to pause. Under light the transparent platforms and coloured sticks add layers of depth and a playful rhythm.",
+          "images": [
+            "assets/board/the-growing-pattern-interwoven-stick-structure/08-reflection-view-one.webp",
+            "assets/board/the-growing-pattern-interwoven-stick-structure/09-reflection-view-two.webp",
+            "assets/board/the-growing-pattern-interwoven-stick-structure/10-reflection-view-three.webp"
+          ],
+          "captions": [
+            "Coloured sticks in light.",
+            "Platform among the sticks.",
+            "Layered depth of the weave."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "不同的木條密度創造出可穿行與可停留的地方。在光線下，透明平台與彩色木條增添了層次深度與輕快的節奏。",
+              "captions": [
+                "光線中的彩色木條。",
+                "木條間的平台。",
+                "編織的層次深度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe a natural system.\n2. Trace its lines.\n3. Weave by density.\n4. Add places to pause.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察自然系統。\n2. 描出它的線條。\n3. 依密度編織。\n4. 加入停留之處。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Growth Rings",
+      "slug": "growth-rings-circular-landscape-model",
+      "description": "Tree-ring patterns become stacked PVC rings that merge building, trees and ground into one landscape.\n\nSpatial design | Landscape model | Growth pattern | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "年輪",
+          "description": "將年輪紋理轉化為層疊的 PVC 環，使建築、樹木與地面融為一片地景。\n\n空間設計｜地景模型｜生長紋理｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/growth-rings-circular-landscape-model/01-landscape-model-at-night.webp",
+        "assets/board/growth-rings-circular-landscape-model/02-circular-pattern-drawing.webp",
+        "assets/board/growth-rings-circular-landscape-model/03-blue-ring-pattern.webp",
+        "assets/board/growth-rings-circular-landscape-model/04-ring-hand-drawing.webp",
+        "assets/board/growth-rings-circular-landscape-model/05-cut-pvc-rings.webp",
+        "assets/board/growth-rings-circular-landscape-model/06-assembled-ring-units.webp",
+        "assets/board/growth-rings-circular-landscape-model/07-continuous-landscape.webp",
+        "assets/board/growth-rings-circular-landscape-model/08-ring-terraces.webp",
+        "assets/board/growth-rings-circular-landscape-model/09-trees-among-rings.webp",
+        "assets/board/growth-rings-circular-landscape-model/10-ring-canopy-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/growth-rings-circular-landscape-model/01-landscape-model-at-night.webp"
+          ],
+          "captions": [
+            "The ring landscape model with trees, lit at night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "種有樹木的年輪地景模型夜間打光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project responds to a self-replicating urban concept but shifts it toward organic growth like tree rings. It asks how cold urban motifs can become a living system shared by people, space and nature.",
+          "images": [
+            "assets/board/growth-rings-circular-landscape-model/02-circular-pattern-drawing.webp",
+            "assets/board/growth-rings-circular-landscape-model/03-blue-ring-pattern.webp"
+          ],
+          "captions": [
+            "Circular pattern painting.",
+            "Blue ring pattern."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品回應一個自我複製的城市構想，但將其轉向如年輪般的有機生長。它探問，冰冷的城市母題如何成為人、空間與自然共享的生命系統。",
+              "captions": [
+                "圓形紋理繪畫。",
+                "藍色年輪紋理。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Circular pattern paintings and hand drawings explored how rings overlap and link. These studies set the ring and strip units that the model would be built from.",
+          "images": [
+            "assets/board/growth-rings-circular-landscape-model/04-ring-hand-drawing.webp"
+          ],
+          "captions": [
+            "Hand drawing of linked rings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "圓形紋理繪畫與手繪探討環與環之間如何重疊與連結。這些研究訂定了模型所用的環形與條狀單元。",
+              "captions": [
+                "相連圓環的手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Templates were used to cut PVC sheet into rings and linear strips. The units were layered into three-dimensional pieces and then combined into a larger whole.",
+          "images": [
+            "assets/board/growth-rings-circular-landscape-model/05-cut-pvc-rings.webp",
+            "assets/board/growth-rings-circular-landscape-model/06-assembled-ring-units.webp",
+            "assets/board/growth-rings-circular-landscape-model/07-continuous-landscape.webp"
+          ],
+          "captions": [
+            "Cut PVC rings in hand.",
+            "Assembled ring units.",
+            "Rings forming a continuous landscape."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以模板將 PVC 板切成圓環與線條。這些單元被疊合成立體構件，再組合成更大的整體。",
+              "captions": [
+                "手中的切割 PVC 環。",
+                "組合完成的環形單元。",
+                "環形構成連續地景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Trees and grass powder are embedded among the rings so building and site blur together. The result is a seamless landscape where the built form reads as an extension of the ground.",
+          "images": [
+            "assets/board/growth-rings-circular-landscape-model/08-ring-terraces.webp",
+            "assets/board/growth-rings-circular-landscape-model/09-trees-among-rings.webp",
+            "assets/board/growth-rings-circular-landscape-model/10-ring-canopy-view.webp"
+          ],
+          "captions": [
+            "Ring terraces.",
+            "Trees among the rings.",
+            "View across the ring canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "樹木與草粉嵌入環形之間，使建築與基地的界線變得模糊。成果是一片連續的地景，建築形體如同地面的延伸。",
+              "captions": [
+                "環形台地。",
+                "環形之間的樹木。",
+                "橫越環形頂蓋的視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a growth pattern.\n2. Draw its units.\n3. Cut and layer them.\n4. Plant the site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一種生長紋理。\n2. 畫出它的單元。\n3. 切割並疊合。\n4. 種入基地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Kaleidoscopic Dreams",
+      "slug": "kaleidoscopic-dreams-digital-form-study",
+      "description": "A simple block is twisted, mirrored and rotated in 3D software into a shimmering kaleidoscope form.\n\nDigital design | 3D modelling | Form operations | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "萬花筒之夢",
+          "description": "以 3D 軟體將簡單方塊扭轉、鏡射與旋轉，生成閃爍的萬花筒形體。\n\n數位設計｜3D 建模｜形體操作｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/kaleidoscopic-dreams-digital-form-study/01-kaleidoscope-composition.webp",
+        "assets/board/kaleidoscopic-dreams-digital-form-study/02-twist-and-mirror-operations.webp",
+        "assets/board/kaleidoscopic-dreams-digital-form-study/03-mirror-rotate-scale.webp",
+        "assets/board/kaleidoscopic-dreams-digital-form-study/04-boolean-to-final-form.webp",
+        "assets/board/kaleidoscopic-dreams-digital-form-study/05-final-object-one.webp",
+        "assets/board/kaleidoscopic-dreams-digital-form-study/06-final-object-two.webp",
+        "assets/board/kaleidoscopic-dreams-digital-form-study/07-final-object-three.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/kaleidoscopic-dreams-digital-form-study/01-kaleidoscope-composition.webp"
+          ],
+          "captions": [
+            "The final forms repeated into a kaleidoscope image."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "最終形體重複構成的萬花筒影像。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "After a digital workshop the student set out to design an interactive system inspired by the kaleidoscope. The project asks how shapes and colours in constant flux can make us question what we see.",
+          "images": [
+            "assets/board/kaleidoscopic-dreams-digital-form-study/02-twist-and-mirror-operations.webp"
+          ],
+          "captions": [
+            "Twist and mirror operations."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "參加數位工作坊後，學生著手設計一個受萬花筒啟發的互動系統。作品探問，持續變化的形狀與色彩如何讓人質疑自己所見。",
+              "captions": [
+                "扭轉與鏡射操作。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A single block was put through a chain of operations such as twist, mirror, rotate and scale. Each step was recorded so the logic of the form stayed readable.",
+          "images": [
+            "assets/board/kaleidoscopic-dreams-digital-form-study/03-mirror-rotate-scale.webp"
+          ],
+          "captions": [
+            "Mirror, rotate and scale steps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生讓單一方塊經過扭轉、鏡射、旋轉與縮放等一連串操作。每一步都被記錄下來，讓形體的邏輯保持清晰可讀。",
+              "captions": [
+                "鏡射、旋轉與縮放步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Mirrored and rotated copies were combined, then split with a boolean step to open the form. This produced a flower-like object with folded petals and deep pockets.",
+          "images": [
+            "assets/board/kaleidoscopic-dreams-digital-form-study/04-boolean-to-final-form.webp"
+          ],
+          "captions": [
+            "From copies and boolean split to the final work."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "鏡射與旋轉的複本被組合，再以布林運算切開形體。如此產生一個花瓣摺疊、內有深陷凹處的花狀物件。",
+              "captions": [
+                "由複製、布林切割到最終作品。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final objects carry an iridescent finish that shifts with every view. Repeated into a kaleidoscope image, they invite open reflection on how stable perception really is.",
+          "images": [
+            "assets/board/kaleidoscopic-dreams-digital-form-study/05-final-object-one.webp",
+            "assets/board/kaleidoscopic-dreams-digital-form-study/06-final-object-two.webp",
+            "assets/board/kaleidoscopic-dreams-digital-form-study/07-final-object-three.webp"
+          ],
+          "captions": [
+            "Final object, view one.",
+            "Final object, view two.",
+            "Final object, view three."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終物件帶有隨視角變化的虹彩表面。重複構成萬花筒影像後，它們引人反思感知究竟有多穩定。",
+              "captions": [
+                "最終物件，視角一。",
+                "最終物件，視角二。",
+                "最終物件，視角三。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start with one block.\n2. Apply one operation.\n3. Record every step.\n4. Repeat and compare.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個方塊開始。\n2. 套用一個操作。\n3. 記錄每一步。\n4. 重複並比較。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
