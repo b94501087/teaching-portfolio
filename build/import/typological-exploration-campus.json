@@ -1,0 +1,37 @@
+{
+  "project": "Typological Exploration",
+  "dest": "assets/board/typological-exploration-campus",
+  "note": "Portfolio 7047 pages 14–19 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the title text block on page 14, the university history photos and background maps on page 15, the university name and the page numbers.",
+  "files": [
+    {
+      "name": "01-campus-section-life.webp",
+      "sha256": "5774053d29ed2db991ba876ae837169d014789b8894da2c73d0704f9b62cfaa8",
+      "bytes": 83376,
+      "from": "7047 page 14 — campus section with drawn figures, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "02-extract-the-type.webp",
+      "sha256": "db114a3a03964d6a91a9e8af4379e305c1cbb4b1980d42a0bc65e922383c81fd",
+      "bytes": 213686,
+      "from": "page 16 — concept plan, type extraction and design process, full page"
+    },
+    {
+      "name": "03-meta-language-design.webp",
+      "sha256": "b2424169b12737401a8728630e70eaaaa431d9c2f2af18c8223927fd6c310292",
+      "bytes": 248112,
+      "from": "page 17 — meta-language design, unit modules, library and dormitory, full page"
+    },
+    {
+      "name": "04-campus-master-plan.webp",
+      "sha256": "d0b4481b5eda0b48cdf9bd29abe26674f549f36f435abb574ec95609d9bcb5f6",
+      "bytes": 429326,
+      "from": "page 18 — strategy, concept, master plan and campus axonometric, full page"
+    },
+    {
+      "name": "05-library-section.webp",
+      "sha256": "f35f61784423edc3ce08b645037609c0c18d74c47a084a17607313751747ea6b",
+      "bytes": 250186,
+      "from": "page 19 — library section, full page"
+    }
+  ]
+}
