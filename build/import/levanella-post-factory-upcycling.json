@@ -1,0 +1,67 @@
+{
+  "project": "Levanella Post-Factory",
+  "dest": "assets/board/levanella-post-factory-upcycling",
+  "note": "Portfolio 5b5b pages 7-11 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the display-wall render, title text with brand and instructor names, precedent photo circles and the storage unit caption.",
+  "files": [
+    {
+      "name": "01-aerial-view.webp",
+      "sha256": "73435ecd2112680a50daccb5327fadda4ad1e1b13b759942e072f2ebdaf33853",
+      "bytes": 237436,
+      "from": "5b5b page 11 — aerial render"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "5d68e481532d65f31cbb0d0705c720ef233c9589fc718316e3801b1f1409a93d",
+      "bytes": 121342,
+      "from": "5b5b page 7 — layered site analysis"
+    },
+    {
+      "name": "03-massing-model.webp",
+      "sha256": "cf258cc7162fbc15a777e42b8e897a9f3e4435ac5c179b661333316e153e7168",
+      "bytes": 48352,
+      "from": "5b5b page 8 — massing model"
+    },
+    {
+      "name": "04-form-generation.webp",
+      "sha256": "509c5f3074a994c2c3f27e4444b3d3f06b84a74591c4a651acb631227fbec4d8",
+      "bytes": 46278,
+      "from": "5b5b page 8 — form generation sequence"
+    },
+    {
+      "name": "05-floor-plans.webp",
+      "sha256": "a136db96070b559355a4f6b87087ed5e98867d5d8b576e395432dae30f887210",
+      "bytes": 158674,
+      "from": "5b5b page 8 — floor plan and unit plans"
+    },
+    {
+      "name": "06-modular-storage-unit.webp",
+      "sha256": "0078e2a34f6e0a8c715bfe13f3a2e126f4e5a08cadbaa22b1810484c04762de4",
+      "bytes": 72272,
+      "from": "5b5b page 9 — modular storage unit model"
+    },
+    {
+      "name": "07-unit-programmes.webp",
+      "sha256": "82972538a6f7ad070c1c247e19b83f790a13cf9da65b394b091659041950ec40",
+      "bytes": 144132,
+      "from": "5b5b page 9 — unit programme axonometrics"
+    },
+    {
+      "name": "08-structural-section.webp",
+      "sha256": "df77e20007ff6322e25e20cf6ef0fa1f7379ad4a7b4fcaa93d440154ecfa4d7f",
+      "bytes": 63116,
+      "from": "5b5b page 10 — structural system section"
+    },
+    {
+      "name": "09-timber-truss-detail.webp",
+      "sha256": "78dc7cad251c3091de4aa3614871b85b723d801674509b69471c2150b5687dae",
+      "bytes": 67162,
+      "from": "5b5b page 10 — timber truss detail section"
+    },
+    {
+      "name": "10-long-section.webp",
+      "sha256": "beafb6c4ae3d0d76fec373da71e9624a3318dc871950940ba0c0fa37350e2d06",
+      "bytes": 72360,
+      "from": "5b5b page 10 — axonometric long section"
+    }
+  ]
+}
