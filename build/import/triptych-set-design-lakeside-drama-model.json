@@ -1,0 +1,61 @@
+{
+  "project": "A Triptych Set for a Lakeside Drama",
+  "dest": "assets/board/triptych-set-design-lakeside-drama-model",
+  "note": "Portfolio 1390 pages 11-12 cropped to nine images, WebP q88 (PIL). Not used: title and text, production photos with actors, play title and playwright name.",
+  "files": [
+    {
+      "name": "01-triptych-model.webp",
+      "sha256": "4752a132b18bae59cfb88b77e386f1652f3eb545ded2293bdb42713a3011c3de",
+      "bytes": 94360,
+      "from": "1390 page 12 — triptych model"
+    },
+    {
+      "name": "02-structure-diagram.webp",
+      "sha256": "bddaa6a259be7564d95543037ba6ea73c7d29b155bae5dad50ec0fc3af847fea",
+      "bytes": 24344,
+      "from": "1390 page 11 — structure diagram"
+    },
+    {
+      "name": "03-plan-and-materials.webp",
+      "sha256": "7dd1ee42e043489b84d15e94be52fb84b8142a48fbb126685f8ee06058f19f73",
+      "bytes": 17164,
+      "from": "1390 page 11 — plan and materials"
+    },
+    {
+      "name": "04-process-a.webp",
+      "sha256": "d4467ad14e6bc35f684823262aa52ac130db6fc51b5e801ab17b20a3b9291981",
+      "bytes": 12798,
+      "from": "1390 page 11 — process a"
+    },
+    {
+      "name": "05-process-b.webp",
+      "sha256": "8d4653beaca59fb983d8054247afc3341f272375a9a9b3d993f3f4e09c877813",
+      "bytes": 5848,
+      "from": "1390 page 11 — process b"
+    },
+    {
+      "name": "06-set-front.webp",
+      "sha256": "dec74b5755e67b46318a49c95b9215799b7fdd1a4268511a59fb057841974fba",
+      "bytes": 29424,
+      "from": "1390 page 11 — set front"
+    },
+    {
+      "name": "07-centre-panel.webp",
+      "sha256": "573888b076f8ac59211cab774c72febd9cc2ca3f516641b09ba73ffac7592979",
+      "bytes": 99132,
+      "from": "1390 page 12 — centre panel"
+    },
+    {
+      "name": "08-living-room.webp",
+      "sha256": "af7d318f2895324b76fe45b51f3311811383b4f5440a28f6b074aa567fa397e9",
+      "bytes": 28596,
+      "from": "1390 page 12 — living room"
+    },
+    {
+      "name": "09-bedroom.webp",
+      "sha256": "7e0dca5392493e50f6ed64998d42ade71f2ca18163bfe343d8dbeb8dda10d24f",
+      "bytes": 40008,
+      "from": "1390 page 12 — bedroom"
+    }
+  ]
+}
