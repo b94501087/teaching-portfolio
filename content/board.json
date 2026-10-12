@@ -29144,7 +29144,8 @@
         }
       ],
       "visible": true,
-      "big": false
+      "big": false,
+      "level": "undergrad"
     },
     {
       "title": "Village in the City: A Street Texture Tower",
@@ -29287,7 +29288,8 @@
         }
       ],
       "visible": true,
-      "big": false
+      "big": false,
+      "level": "undergrad"
     },
     {
       "title": "Shiweitang: Industrial Waterfront Regeneration",
@@ -29434,7 +29436,8 @@
         }
       ],
       "visible": true,
-      "big": false
+      "big": false,
+      "level": "undergrad"
     },
     {
       "title": "Vertical Art Settlement: Designing with Sound",
@@ -29569,7 +29572,8 @@
         }
       ],
       "visible": true,
-      "big": false
+      "big": false,
+      "level": "undergrad"
     },
     {
       "title": "Chaotic Era: A Curving Terraced Settlement",
