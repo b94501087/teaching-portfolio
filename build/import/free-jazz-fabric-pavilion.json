@@ -1,0 +1,55 @@
+{
+  "project": "Free Jazz Fabric Pavilion",
+  "dest": "assets/board/free-jazz-fabric-pavilion",
+  "note": "Portfolio c9aa pages 14–20 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with the museum name and the site map with landmark names on pages 14–15, the photo collage of musicians on page 15, the brain scan images on page 16, the model photos on page 17, the material photos on page 18, the image thumbnails on page 19 and the model photos on page 20. No retouching.",
+  "files": [
+    {
+      "name": "01-fabric-pavilion-perspective.webp",
+      "sha256": "ed3941c2ec30c1cf045a94ef79078d666146f107367a167f0aabf20c50d2d833",
+      "bytes": 199456,
+      "from": "c9aa page 20 — plan and perspective of the fabric pavilion, x 0–100 %, y 22–100 %"
+    },
+    {
+      "name": "02-multi-reality-layers.webp",
+      "sha256": "f5f119d64c84a8a1f7a48b6abd6e6dce835f07908426995b1e94513d78fc603c",
+      "bytes": 376506,
+      "from": "page 14 — site analysis and the layers of the multi-reality concept, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "03-free-jazz-music-data.webp",
+      "sha256": "f79000dd1e23b1e81e1279eee129f736feeee461c45c9a6383890033ff9a1218",
+      "bytes": 97354,
+      "from": "page 16 — music data of a free jazz piece, x 0–31 %, y 0–62 %"
+    },
+    {
+      "name": "04-audio-to-4d-model.webp",
+      "sha256": "6ac03ceed20b61679f9249e67dc8f19dee090aa910f6c5947c3da16d914fc8c2",
+      "bytes": 447896,
+      "from": "page 17 — audio file analysis and the 4D model, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "05-shadow-simulation-section.webp",
+      "sha256": "09b1915c19939e902f4c34d13e8594bc7f956c56962d8c798b4720a74fa0a03b",
+      "bytes": 142690,
+      "from": "page 17 — shadow simulation and installation section, x 50–100 %, y 50–100 %"
+    },
+    {
+      "name": "06-sleep-and-dream-analysis.webp",
+      "sha256": "49c60380550da523261a967108278985ccbe9fce40997519709f05ad37b7bb91",
+      "bytes": 286432,
+      "from": "page 18 — sleep and dream analysis and the fabric surface, x 50–100 %, y 30–100 %"
+    },
+    {
+      "name": "07-exploded-axonometric.webp",
+      "sha256": "c31456eff005416b218d77926633fec7ec96ca6c73d9ece58e9c2217c5599984",
+      "bytes": 176488,
+      "from": "page 19 — exploded axonometric drawing, x 14–50 %, y 0–88 %"
+    },
+    {
+      "name": "08-spatial-analysis-drawing.webp",
+      "sha256": "c663fabb942e530154ff9113a9bcc12ce3088f19535cc52267374e5eae8737d3",
+      "bytes": 373920,
+      "from": "page 19 — spatial analysis drawing of interior and exterior, x 50–100 %, y 0–100 %"
+    }
+  ]
+}
