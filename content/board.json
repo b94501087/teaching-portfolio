@@ -17651,6 +17651,149 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Accidental Death Mourning Hall",
+      "slug": "accidental-death-mourning-hall",
+      "description": "A mourning hall built from the five senses, leading the families of accidental victims from grief to a forest of trees.\n\nChina | Mourning hall and sensory space | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "意外死亡哀悼堂",
+          "description": "以五感構築的哀悼堂，引領意外罹難者的家屬從悲傷走進一片樹林。\n\n中國｜哀悼堂與感官空間｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/accidental-death-mourning-hall/01-exploded-view.webp",
+        "assets/board/accidental-death-mourning-hall/02-sketches-of-reasoning.webp",
+        "assets/board/accidental-death-mourning-hall/03-spatial-studies.webp",
+        "assets/board/accidental-death-mourning-hall/04-entity-modelling.webp",
+        "assets/board/accidental-death-mourning-hall/05-material-testing.webp",
+        "assets/board/accidental-death-mourning-hall/06-plans-and-sections.webp",
+        "assets/board/accidental-death-mourning-hall/07-aerial-view.webp",
+        "assets/board/accidental-death-mourning-hall/08-visiting-process-light.webp",
+        "assets/board/accidental-death-mourning-hall/09-visiting-process-sound.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/accidental-death-mourning-hall/01-exploded-view.webp"
+          ],
+          "captions": [
+            "Exploded view of the sequence: variable, exploring, deconstructive and dissipative spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "空間序列的爆炸圖：可變、探索、解構與消散的空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The number of accidental deaths has been increasing in China in recent years, especially among minors, yet society tends to overlook the spiritual care of the families left behind. Some become mentally fragile and others develop physical illnesses, so the project uses an analysis of the five senses and spatial dynamics to soothe them.",
+          "images": [
+            "assets/board/accidental-death-mourning-hall/02-sketches-of-reasoning.webp"
+          ],
+          "captions": [
+            "Sketches of reasoning: from the dead and the living to spatial modelling."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "近年中國的意外死亡人數持續增加，未成年人尤其明顯，但社會往往忽略了遺屬的心靈照顧。有些家屬變得心理脆弱，有些則出現身體疾病，因此本案以五感分析與空間動態，作為撫慰他們的方式。",
+              "captions": [
+                "推理草圖：從逝者與生者出發，發展到空間建模。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "People perceive the world through their senses, and the study deconstructed vision, hearing and touch into surface, line and point. Plan and elevation studies explored how pedestrian routes and the height of space affect the relationship between human emotion and space.",
+          "images": [
+            "assets/board/accidental-death-mourning-hall/03-spatial-studies.webp",
+            "assets/board/accidental-death-mourning-hall/04-entity-modelling.webp"
+          ],
+          "captions": [
+            "Spatial studies in floor plans and elevations.",
+            "Entity modelling studies of variable, exploring, deconstructive and dissipative space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "人透過感官感知世界，研究將視覺、聽覺與觸覺解構為面、線與點。平面與立面研究則探討行走路線與空間高度，如何影響人的情緒與空間之間的關係。",
+              "captions": [
+                "平面與立面的空間研究。",
+                "可變、探索、解構與消散空間的實體模型研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Material tests mixed sand and AB glue in different ratios to change texture, translucency and hardness, used soft materials to make hard objects that still feel soft, and filled glasses with water to produce different sounds. These results became the bricks, lights and pipes that shape each room.",
+          "images": [
+            "assets/board/accidental-death-mourning-hall/05-material-testing.webp",
+            "assets/board/accidental-death-mourning-hall/06-plans-and-sections.webp"
+          ],
+          "captions": [
+            "Material testing for light, texture and sound.",
+            "First and second floor plans with the left and right sections, following the life and death diagram."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "材料實驗以不同比例混合沙與 AB 膠，改變質感、透光度與硬度；以柔軟材料製作仍保有柔軟觸感的硬質物件；並在玻璃杯中注入不同水量，產生不同的聲音。這些成果成為塑造每個房間的磚塊、燈光與管道。",
+              "captions": [
+                "光、質感與聲音的材料實驗。",
+                "一、二樓平面與左右剖面，依循生死圖解展開。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Visitors arrive by ferry and pass through walls of varying heights, rooms whose ceiling holes cast different light, and a single staircase where water in the pipes changes the sound. At the end they reach a forest where the dead are buried at the bottom of the trees, each tree becoming a tombstone and a carrier of souls.",
+          "images": [
+            "assets/board/accidental-death-mourning-hall/07-aerial-view.webp",
+            "assets/board/accidental-death-mourning-hall/08-visiting-process-light.webp",
+            "assets/board/accidental-death-mourning-hall/09-visiting-process-sound.webp"
+          ],
+          "captions": [
+            "Aerial view of the hall and the final forest.",
+            "Visiting process: the node sketch, the light-transmitting roof and the ceiling holes.",
+            "Visiting process: material walls, curved walls of varying heights and the sound staircase."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "參觀者搭渡輪抵達，穿過高低不一的牆、天花孔洞投下不同光影的房間，以及一道水在管中流動、聲音隨之改變的單跑樓梯。最後，他們走進一片森林，逝者安葬在樹下，每一棵樹都成為墓碑，也是靈魂的載體。",
+              "captions": [
+                "哀悼堂與最終森林的鳥瞰。",
+                "參觀流程：節點草圖、透光屋頂與天花孔洞。",
+                "參觀流程：材料牆、高低不一的曲牆，以及聲音樓梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the people who are left behind.\n2. Break each sense into a design element.\n3. Test materials with your own hands.\n4. End the route with a place to stay.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從被留下來的人出發。\n2. 把每一種感官拆解成設計元素。\n3. 親手測試材料。\n4. 讓路線的終點成為可以停留的地方。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
