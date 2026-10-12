@@ -1,0 +1,67 @@
+{
+  "project": "Bloom Street Power Station Renewal",
+  "dest": "assets/board/bloom-street-power-station-renewal",
+  "note": "Portfolio 54f3 pages 11-15 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text, the context map and building timeline photos, the street render with people.",
+  "files": [
+    {
+      "name": "01-chimney-hall.webp",
+      "sha256": "ad13a7c7ca8412c11772982fdb0e30bdba938ed2bc034487d8f613a42e103b20",
+      "bytes": 83824,
+      "from": "54f3 page 11 — power station hero render"
+    },
+    {
+      "name": "02-heritage-explosion.webp",
+      "sha256": "abfd9f0240c00b1454e82c539804a5376e041066c3367c383150342c75943305",
+      "bytes": 33280,
+      "from": "54f3 page 12 — building heritage explosion"
+    },
+    {
+      "name": "03-heritage-sections.webp",
+      "sha256": "70d87b8a0d9873a67abdf05ac6fbbf53fba4e2dc3f9ab5d390378d15a57592fc",
+      "bytes": 33370,
+      "from": "54f3 page 12 — heritage street sections"
+    },
+    {
+      "name": "04-design-strategy.webp",
+      "sha256": "1566908ec30d89f243871b711fc5b2a4db16b6a494a2a23f3c3c4bac33440bff",
+      "bytes": 190116,
+      "from": "54f3 page 13 — design strategy steps"
+    },
+    {
+      "name": "05-auditorium-solution.webp",
+      "sha256": "72ce1675bcceb9abf79f03a11b8ee3d7f4c07e267aa0ec03467d6114c305844b",
+      "bytes": 145806,
+      "from": "54f3 page 13 — auditorium and bar complex solution"
+    },
+    {
+      "name": "06-chimney-structure.webp",
+      "sha256": "d182fcbc6ad348ec40bbf5f6554cd3f4a9959bc92a1683395710570f80b5442f",
+      "bytes": 93422,
+      "from": "54f3 page 14 — chimney structure section"
+    },
+    {
+      "name": "07-facade-interface.webp",
+      "sha256": "18abe66801a6498defc4d7496ca8395b26ed2239504b669ff90b0dd5d8d241ee",
+      "bytes": 57836,
+      "from": "54f3 page 14 — floor and facade interface detail"
+    },
+    {
+      "name": "08-structure-explosion.webp",
+      "sha256": "dcc46d7a249920dcaa2517a384ad9a227dad1dc9a99b3782c6240978aa576744",
+      "bytes": 80162,
+      "from": "54f3 page 14 — structure explosion"
+    },
+    {
+      "name": "09-aerial-render.webp",
+      "sha256": "c359775c24ea04435c4ef863a17fdea89c13348c17ca9dfaa44594fbe2d96dd8",
+      "bytes": 62052,
+      "from": "54f3 page 15 — aerial render"
+    },
+    {
+      "name": "10-interior-views.webp",
+      "sha256": "59065d105c084b43ea86c59668294585fedf0906ebc999495aa275119ae21633",
+      "bytes": 60482,
+      "from": "54f3 page 15 — interior views"
+    }
+  ]
+}
