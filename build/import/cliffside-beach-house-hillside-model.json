@@ -1,0 +1,67 @@
+{
+  "project": "Cliffside Beach House",
+  "dest": "assets/board/cliffside-beach-house-hillside-model",
+  "note": "Portfolio 6c64 pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: title and text, game poster, lighthouse and house reference photos.",
+  "files": [
+    {
+      "name": "01-cliffside-house-model.webp",
+      "sha256": "51239b0bbbb7b28ef1ddf24862b78dc43c792eed113705c991de4b943a432aea",
+      "bytes": 179348,
+      "from": "6c64 page 9 — cliffside house model"
+    },
+    {
+      "name": "02-terrain-render.webp",
+      "sha256": "0dbf64c770504ce3d87a4ab7718bfa7d08e5ce3a3283479f4249f71f3ba83c8e",
+      "bytes": 5780,
+      "from": "6c64 page 8 — terrain render"
+    },
+    {
+      "name": "03-terrain-making.webp",
+      "sha256": "9c902e548567b23cce9f090153ac80f3b589fa426e78b2d3fb5cf52bac195cfb",
+      "bytes": 56364,
+      "from": "6c64 page 8 — terrain making"
+    },
+    {
+      "name": "04-sand-and-sea-base.webp",
+      "sha256": "4737f70411b3e324a50bd3f8e21bebc59cf482774331491dc977c8120936195f",
+      "bytes": 75760,
+      "from": "6c64 page 8 — sand and sea base"
+    },
+    {
+      "name": "05-floor-plan-one.webp",
+      "sha256": "0c7326f279b07bc65eaa461e86de7b1e66ce445999a5c2e5547000fa22a76fbd",
+      "bytes": 41428,
+      "from": "6c64 page 8 — floor plan"
+    },
+    {
+      "name": "06-floor-plan-two.webp",
+      "sha256": "63c5843d7136ffcde67e73bba75b729457da797f009714664e52e9219ecc0deb",
+      "bytes": 59994,
+      "from": "6c64 page 8 — floor plan"
+    },
+    {
+      "name": "07-floor-plan-three.webp",
+      "sha256": "f03a0b701e60840d638137eafa0161d1d7630cda1222c961039a4e3ffaeae480",
+      "bytes": 45826,
+      "from": "6c64 page 8 — floor plan"
+    },
+    {
+      "name": "08-houses-on-stilts.webp",
+      "sha256": "ad35b216c1a765ff31a4f372490f142c6827732f223ef70a3890302efda06cce",
+      "bytes": 61868,
+      "from": "6c64 page 9 — houses on stilts"
+    },
+    {
+      "name": "09-tower-and-room-views.webp",
+      "sha256": "bd2589c8963279c372cf7b658439eb8f9bd18bc0fc5a1f5c8cde30f994fe32a7",
+      "bytes": 40948,
+      "from": "6c64 page 9 — tower and room views"
+    },
+    {
+      "name": "10-stair-and-garden-details.webp",
+      "sha256": "aaae7597695d4e9d21b3dc737aad6480074792c4a0fc8f5dcaba2a2816291089",
+      "bytes": 155996,
+      "from": "6c64 page 9 — stair and garden details"
+    }
+  ]
+}
