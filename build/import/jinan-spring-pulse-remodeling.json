@@ -1,0 +1,67 @@
+{
+  "project": "Jinan Spring Pulse Remodeling",
+  "dest": "assets/board/jinan-spring-pulse-remodeling",
+  "note": "Portfolio f45d pages 15–21 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with mentor contact, the history timeline with old photos, the site status and spring source photos, the strategy circles with photo people, the masterplan render circles, all renders with photo figures, the site problem photos, the heart illustrations and the installation renders.",
+  "files": [
+    {
+      "name": "01-spring-masterplan.webp",
+      "sha256": "3666726fa5320ea68ceca7b4e05e482fca423ef88bedd448c35cfc4928df649b",
+      "bytes": 202926,
+      "from": "f45d page 18 — masterplan of open and closed ditches with spring legend, x 20.5–80 %, y 2–98 %"
+    },
+    {
+      "name": "02-old-town-site-analysis.webp",
+      "sha256": "6efb39c641846191d6d69f6871d1955e7be1e620e04855e5e00d384e75203fd1",
+      "bytes": 52224,
+      "from": "page 16 — landform, land use, transport and blue-green network axonometrics, x 30–69 %, y 6–43 %"
+    },
+    {
+      "name": "03-spring-origin-section.webp",
+      "sha256": "fb36a09a73f2d70c3378efb71505a6685d8e5b527823bd67d506742e617a1ed1",
+      "bytes": 47956,
+      "from": "page 16 — geological section of spring recharge, x 30–98 %, y 70–98 %"
+    },
+    {
+      "name": "04-spring-life-models.webp",
+      "sha256": "11c7895bbd09d308e6f342c56a06a2bd14f14caa2df3c161c5ec2165d6c0aac8",
+      "bytes": 132950,
+      "from": "page 16 — model photos of daily life with springs, silhouette figures, x 0.5–29 %, y 6–100 %"
+    },
+    {
+      "name": "05-strategy-chart.webp",
+      "sha256": "763767e0dd24e4d536a845525971793451c8085bda133d16d5881f29eb5e6bc8",
+      "bytes": 49066,
+      "from": "page 17 — strategy weighting chart, x 0–74 %, y 29–73 %"
+    },
+    {
+      "name": "06-rain-chime-device.webp",
+      "sha256": "d525bad79c0c150ba5e115d4184a18f520f5c5b95400d734383690927352d00e",
+      "bytes": 64920,
+      "from": "page 20 — rain wind chime section and gable/partition wall drawings, x 0–50 %, y 23–57 %"
+    },
+    {
+      "name": "07-parking-canopy-section.webp",
+      "sha256": "f836ba89601475804c618a03452f3653ccf61d5be5e5616ec9641ac6d5382307",
+      "bytes": 46276,
+      "from": "page 20 — parking canopy forms and section, x 50–100 %, y 66–100 %"
+    },
+    {
+      "name": "08-public-space-section.webp",
+      "sha256": "d6cc0c423488dd5be2e284558be5ecfc683857fb97476d4e8c36742ecbc8942f",
+      "bytes": 42086,
+      "from": "page 19 — public space canopy section with silhouettes, x 0–50 %, y 73–100 %"
+    },
+    {
+      "name": "09-moat-ferry-section.webp",
+      "sha256": "2cf27f6fa6fe0ad43f62e7be7552d9e02caee8e1c44d93ebed6d17e661a0babf",
+      "bytes": 40230,
+      "from": "page 19 — moat park ferry section with silhouettes, x 50–85 %, y 35–61 %"
+    },
+    {
+      "name": "10-spring-valve-device.webp",
+      "sha256": "89fbc3f9e9f364a33e9f88529d678f3fb8e53909c13a7c50b6d3bc7b75bf62e5",
+      "bytes": 177312,
+      "from": "page 21 — spring valve device details, sections and principles, x 25–100 %, y 33–100 %"
+    }
+  ]
+}
