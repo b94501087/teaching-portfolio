@@ -1,0 +1,61 @@
+{
+  "project": "Re-invent Shape & Spontaneous Growth",
+  "dest": "assets/board/reinventing-shape-spontaneous-growth",
+  "note": "Portfolio 9134 pages 3–8 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title and text panels, the song-based narrative collages and precedent photos, the site photo strips, the mapping collages, the user story chart with photo figures, the growth timeline with photo cut-outs, the hand-painted section (too small) and the rendering over a city photo.",
+  "files": [
+    {
+      "name": "01-timber-cluster-model.webp",
+      "sha256": "27c888df69174f9598b58bf2acc1762ce33ca46e0d0e1ac6e26dc7348d91c779",
+      "bytes": 75458,
+      "from": "9134 page 7 — timber cluster model photo, x 80–100 %"
+    },
+    {
+      "name": "02-parasitic-model-detail.webp",
+      "sha256": "1acbeee15f36e24ee74cf3a85a2a5ffe3594f720ba491b6bbd698918edc33804",
+      "bytes": 90606,
+      "from": "page 3 — parasitic model detail photo, x 0–24 %"
+    },
+    {
+      "name": "03-slow-house-section-models.webp",
+      "sha256": "27eed07cd84d87635eccaca94bfbc079a25283b9cdfe5a790656d947fcea2aed",
+      "bytes": 35794,
+      "from": "page 4 — section models of the case study house, x 0–12 %"
+    },
+    {
+      "name": "04-site-sections.webp",
+      "sha256": "f170f201fc38bdde4591309ab21f30842bdc10425db4185c8cb743f4561aa703",
+      "bytes": 10312,
+      "from": "page 5 — site sections, x 0–25 %, y 76–95 %"
+    },
+    {
+      "name": "05-building-structure.webp",
+      "sha256": "2002238ceab90ebf61febaaa75dbf8f0ae1049d7004bce61b9eadb30143fac53",
+      "bytes": 56364,
+      "from": "page 6 — building structure diagrams, x 71–100 %, y 20–98 %"
+    },
+    {
+      "name": "06-small-space-forms.webp",
+      "sha256": "3435e568beed91a7e1bc234591d1ddd630d0e6114efe0131698d8e5f8cbca005",
+      "bytes": 91566,
+      "from": "page 7 — small space form matrix, x 0–49 %"
+    },
+    {
+      "name": "07-small-space-drawings-a.webp",
+      "sha256": "0cafc87d1754c8b8de0fe81bdb3c958a193ea48c26a9a1e958dd6fb9b326b568",
+      "bytes": 40322,
+      "from": "page 7 — small space drawings, x 60–80 %"
+    },
+    {
+      "name": "08-small-space-drawings-b.webp",
+      "sha256": "b1367ae16918b8d2a0f37b9511e8bd0748367d986b7d2c5dacab42891ca41351",
+      "bytes": 41332,
+      "from": "page 8 — small space drawings, x 13–33 %"
+    },
+    {
+      "name": "09-full-model.webp",
+      "sha256": "814acfc4649950230b3a3976408db956e70eb402ca50f595cb907950893b5359",
+      "bytes": 80854,
+      "from": "page 8 — full model photo, x 34–50 %"
+    }
+  ]
+}
