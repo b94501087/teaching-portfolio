@@ -1,0 +1,55 @@
+{
+  "project": "A Scaffold of Growth",
+  "dest": "assets/board/scaffold-of-growth-cement-and-wire-tower",
+  "note": "Portfolio f986 page 9 cropped to eight images, WebP q88 (PIL). Not used: title and text, medical scan images.",
+  "files": [
+    {
+      "name": "01-viewing-tower-model.webp",
+      "sha256": "b2ea27b290594a648526318d29c8c42c4d516853a077985e194d9cea935a6090",
+      "bytes": 96078,
+      "from": "f986 page 9 — viewing tower model"
+    },
+    {
+      "name": "02-knee-structure-drawings.webp",
+      "sha256": "3d40712879184c2c1732b80f939c7b1ec370f91a5b72df9ffe3ed52f776826e2",
+      "bytes": 5770,
+      "from": "f986 page 9 — knee structure drawings"
+    },
+    {
+      "name": "03-tower-concept-sketch.webp",
+      "sha256": "aa839c29f6dcd38ce1cef15e299a8b48876dd1faad96a2ff0a6d62972771a5be",
+      "bytes": 21268,
+      "from": "f986 page 9 — tower concept sketch"
+    },
+    {
+      "name": "04-joint-tests.webp",
+      "sha256": "37d700f140e5272f0423debd36e50c76b33509957c906718ef4a3ec7149aa050",
+      "bytes": 18354,
+      "from": "f986 page 9 — joint tests"
+    },
+    {
+      "name": "05-wire-ligament-test.webp",
+      "sha256": "906d2713e415fdbca242a562a95a91559f5a445266ef901ef10acec8a6a6b9e3",
+      "bytes": 21024,
+      "from": "f986 page 9 — wire ligament test"
+    },
+    {
+      "name": "06-tower-top.webp",
+      "sha256": "7bbc6de670717cef3bc7dc56d52e280c9e6c364772e7165d88ef0da1e7bfe5bc",
+      "bytes": 23892,
+      "from": "f986 page 9 — tower top"
+    },
+    {
+      "name": "07-stair-and-ligament-detail.webp",
+      "sha256": "68a10c73b44d5f1b0e0a3d9e06e55f3d92326ae5a2e2efe982905220c9ef620b",
+      "bytes": 19052,
+      "from": "f986 page 9 — stair and ligament detail"
+    },
+    {
+      "name": "08-tower-view.webp",
+      "sha256": "29fede53843a84f7fe599b08cbd181b3674761aaaf44f55fa9ada7bbb85b3b7e",
+      "bytes": 21058,
+      "from": "f986 page 9 — tower view"
+    }
+  ]
+}
