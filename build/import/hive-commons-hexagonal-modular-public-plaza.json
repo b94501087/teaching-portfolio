@@ -1,0 +1,61 @@
+{
+  "project": "Hive Commons",
+  "dest": "assets/board/hive-commons-hexagonal-modular-public-plaza",
+  "note": "Portfolio ce4a page 16 cropped to nine images, WebP q88 (PIL). Not used: title and text, competition name, plaza name.",
+  "files": [
+    {
+      "name": "01-plaza-view.webp",
+      "sha256": "06d4e3dd19027440ff00bb9c334b1480cdb461ecf929a3de2b12cfccc20d6e53",
+      "bytes": 55190,
+      "from": "ce4a page 16 — plaza view"
+    },
+    {
+      "name": "02-unit-sketches.webp",
+      "sha256": "c6a73d0fb77a1d0906cf22fc278260c6bd12b829935bab2c3347ee696b895f7f",
+      "bytes": 24768,
+      "from": "ce4a page 16 — unit sketches"
+    },
+    {
+      "name": "03-unit-plans.webp",
+      "sha256": "3276f8653ef4a3530d065277b381636fd2f6de448e3d0f3b52057221b727aba0",
+      "bytes": 18756,
+      "from": "ce4a page 16 — unit plans"
+    },
+    {
+      "name": "04-site-analysis-a.webp",
+      "sha256": "5190fffc1b2bc5b97bb87671600e637798a5eceb88d7933284234db544609b8e",
+      "bytes": 21922,
+      "from": "ce4a page 16 — site analysis a"
+    },
+    {
+      "name": "05-site-analysis-b.webp",
+      "sha256": "0d3aa2b052209707fff76000180a65afc84ee908c1a361c819e12ca77e18744e",
+      "bytes": 23846,
+      "from": "ce4a page 16 — site analysis b"
+    },
+    {
+      "name": "06-study-model-a.webp",
+      "sha256": "927b9d6c76e438127441dcc9bafac5ba93c28f6a8fc5a7fb2918b7768c8ba77f",
+      "bytes": 12970,
+      "from": "ce4a page 16 — study model a"
+    },
+    {
+      "name": "07-study-model-b.webp",
+      "sha256": "dc9a1b4a5684dc927a669bcf99422a0ec8e149b845f2fca7e2b5b3effe8f57e6",
+      "bytes": 11708,
+      "from": "ce4a page 16 — study model b"
+    },
+    {
+      "name": "08-study-model-c.webp",
+      "sha256": "d8012b050a23973d5165977b569008feadd30afa4adaf80b2272b4731bc26f6b",
+      "bytes": 8972,
+      "from": "ce4a page 16 — study model c"
+    },
+    {
+      "name": "09-study-model-d.webp",
+      "sha256": "ba7bec494a1bc15a48afbbb047bf5c06461448e9981666c2c4ee58d38e7d2208",
+      "bytes": 9828,
+      "from": "ce4a page 16 — study model d"
+    }
+  ]
+}
