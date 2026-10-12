@@ -19736,6 +19736,566 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Rooftop Art Workshops in Dafen",
+      "slug": "dafen-rooftop-art-workshops",
+      "description": "Workshops and a corridor that join the isolated rooftops of an urban village into a space for art.\n\nShenzhen, China | Urban renewal | Art studios | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "大芬村屋頂藝術工作坊",
+          "description": "以工作坊與廊道，把城中村裡孤立的屋頂串連成藝術空間。\n\n中國深圳｜城市更新｜藝術工作室｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/dafen-rooftop-art-workshops/01-rooftop-section-perspective.webp",
+        "assets/board/dafen-rooftop-art-workshops/02-isolated-rooftops.webp",
+        "assets/board/dafen-rooftop-art-workshops/03-connected-rooftops-axonometric.webp",
+        "assets/board/dafen-rooftop-art-workshops/04-connection-strategies.webp",
+        "assets/board/dafen-rooftop-art-workshops/05-studio-section-detail.webp",
+        "assets/board/dafen-rooftop-art-workshops/06-exploded-axonometric.webp",
+        "assets/board/dafen-rooftop-art-workshops/07-master-plan.webp",
+        "assets/board/dafen-rooftop-art-workshops/08-floating-workshops.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/dafen-rooftop-art-workshops/01-rooftop-section-perspective.webp"
+          ],
+          "captions": [
+            "Section perspective: a corridor and art workshops linking the rooftops around a square."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖透視：串連廣場周邊屋頂的廊道與藝術工作坊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In Dafen, an urban village in Shenzhen, the ground floor is so crowded that there is not enough space for public events, and many artists have no studio of their own and work on the street. The rooftops of the old buildings are like a second ground where residents dry clothes, exercise and talk, but each roof is an isolated island.",
+          "images": [
+            "assets/board/dafen-rooftop-art-workshops/02-isolated-rooftops.webp"
+          ],
+          "captions": [
+            "The rooftops of the village, each one cut off from its neighbours."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "深圳的城中村大芬村，地面層非常擁擠，沒有足夠的空間舉辦公共活動，許多藝術家也沒有自己的工作室，只能在街上作畫。老建築的屋頂就像城市的第二層地面，居民在上面晾衣、運動、聊天，但每一片屋頂都是一座孤島。",
+              "captions": [
+                "村裡的屋頂，彼此互不相連。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student compared activities on the rooftops and on the ground, and studied how artists, residents and visitors could meet through art. Three sites were selected, and the housing types were analysed because the heights of the roofs differ greatly.",
+          "images": [
+            "assets/board/dafen-rooftop-art-workshops/03-connected-rooftops-axonometric.webp"
+          ],
+          "captions": [
+            "Site selection: the square beside the ancestral temple."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生比較屋頂與地面上的活動，研究藝術家、居民與訪客如何透過藝術相遇。學生選定了三個基地，並分析住宅類型，因為屋頂的高度差異很大。",
+              "captions": [
+                "基地選擇：祠堂旁的廣場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Depending on the height difference between neighbouring roofs, different building units are used to connect them, keeping the structure and facades of the original buildings. The column grid is extended for the additions, and the beams of the surrounding buildings act as structural support.",
+          "images": [
+            "assets/board/dafen-rooftop-art-workshops/04-connection-strategies.webp",
+            "assets/board/dafen-rooftop-art-workshops/05-studio-section-detail.webp",
+            "assets/board/dafen-rooftop-art-workshops/06-exploded-axonometric.webp"
+          ],
+          "captions": [
+            "Strategies for linking roofs surrounded on two, three or four sides.",
+            "Section detail of a studio pod hung beneath the structure.",
+            "Exploded axonometric drawing of the corridor and workshops."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "依相鄰屋頂的高度差，以不同形式的建築單元把它們連接起來，同時保留原有建築的結構與立面。新增的部分沿用延伸的柱網，並以周邊建築的樑作為結構支撐。",
+              "captions": [
+                "連接三面、四面或兩面被圍合之屋頂的策略。",
+                "懸掛於結構下方的工作室單元剖面細部。",
+                "廊道與工作坊的爆炸軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A series of visual art workshops connects the residences like dots, and a large corridor on thin columns links the roofs around the square, where people can cycle or stop to enjoy the view. The painting workshop hangs beneath the corridor, and people reach the handicraft workshops by lift from a café and bookshop on the ground floor.",
+          "images": [
+            "assets/board/dafen-rooftop-art-workshops/07-master-plan.webp",
+            "assets/board/dafen-rooftop-art-workshops/08-floating-workshops.webp"
+          ],
+          "captions": [
+            "Master plan, studio floor and corridor floor.",
+            "The workshops floating above the rooftops."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一系列視覺藝術工作坊以點狀方式串連各棟住宅，一條由細柱支撐的大型廊道連接廣場周邊的屋頂，人們可以在上面騎單車，或停下來欣賞景色。繪畫工作坊懸掛在廊道下方，人們則從地面層的咖啡館與書店搭電梯前往手作工作坊。",
+              "captions": [
+                "總平面圖、工作室層與廊道層平面。",
+                "漂浮在屋頂上方的工作坊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Look for the city's hidden ground.\n2. Compare how each level is used.\n3. Let each gap choose its connector.\n4. Give the new spaces to the community.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 尋找城市裡被隱藏的地面。\n2. 比較每一層的使用方式。\n3. 讓每個縫隙決定自己的連接方式。\n4. 把新空間交給社區。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Modular Housing with Corridors in the Sky",
+      "slug": "modular-housing-sky-corridors",
+      "description": "Growing modular units joined by sky corridors, bringing neighbours back together in a dense city.\n\nShenzhen, China | Housing | Modular design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "空中廊道模組化住宅",
+          "description": "以空中廊道連接可生長的模組單元，在高密度城市裡讓鄰居重新相聚。\n\n中國深圳｜住宅｜模組化設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/modular-housing-sky-corridors/01-sky-corridor-housing.webp",
+        "assets/board/modular-housing-sky-corridors/02-village-and-skyscraper.webp",
+        "assets/board/modular-housing-sky-corridors/03-wind-planning-analysis.webp",
+        "assets/board/modular-housing-sky-corridors/04-modular-unit-logic.webp",
+        "assets/board/modular-housing-sky-corridors/05-unit-plans-and-privacy.webp",
+        "assets/board/modular-housing-sky-corridors/06-unit-combinations.webp",
+        "assets/board/modular-housing-sky-corridors/07-corridor-satisfaction.webp",
+        "assets/board/modular-housing-sky-corridors/08-model-communal-courtyard.webp",
+        "assets/board/modular-housing-sky-corridors/09-assembled-unit-axonometric.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/modular-housing-sky-corridors/01-sky-corridor-housing.webp"
+          ],
+          "captions": [
+            "Housing towers linked by curving corridors in the sky."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以曲線空中廊道串連的住宅塔樓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In traditional villages, close neighbours make life more lively and the community safer, because they watch out for each other. As Shenzhen grows denser, copies of skyscraper apartments widen the gap between people, and neighbours rarely meet.",
+          "images": [
+            "assets/board/modular-housing-sky-corridors/02-village-and-skyscraper.webp",
+            "assets/board/modular-housing-sky-corridors/03-wind-planning-analysis.webp"
+          ],
+          "captions": [
+            "Village life and skyscraper life compared, imagining 2040.",
+            "Planning analysis: the plot laid out to let the summer wind through the community."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在傳統村落裡，鄰居關係緊密，不僅讓生活更熱鬧，也讓社區更安全，因為大家會互相照應。隨著深圳越來越密集，一棟棟複製的高樓公寓拉大了人與人之間的距離，鄰居之間很少見面。",
+              "captions": [
+                "想像 2040 年：比較村落與高樓的生活。",
+                "規劃分析：依夏季風向配置基地，讓風吹進社區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Set in a new development zone of Shenzhen, the project starts from a modular unit of 4.3 by 4.3 metres that can keep growing in six floors and duplexes. Windows, doors and public spaces are placed along people's lines of sight, and one-way glass keeps the apartments private.",
+          "images": [
+            "assets/board/modular-housing-sky-corridors/04-modular-unit-logic.webp",
+            "assets/board/modular-housing-sky-corridors/05-unit-plans-and-privacy.webp"
+          ],
+          "captions": [
+            "The continuously growing modular unit.",
+            "Unit plans with vision and privacy analysis."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "專案位於深圳的新開發區，以 4.3 × 4.3 公尺的模組單元為起點，能以六層樓與樓中樓的方式持續生長。窗、門與公共空間沿著人的視線配置，單向玻璃則保護公寓的隱私。",
+              "captions": [
+                "持續生長的模組單元。",
+                "單元平面與視線、隱私分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The functions of the city are gathered into the interlayer between apartment units, and rooms are combined in different ways for families and for young people. Each way of connecting the units through sky corridors was scored for residents' satisfaction to find the best solution.",
+          "images": [
+            "assets/board/modular-housing-sky-corridors/06-unit-combinations.webp",
+            "assets/board/modular-housing-sky-corridors/07-corridor-satisfaction.webp"
+          ],
+          "captions": [
+            "Room combinations for families and for young people.",
+            "Interconnected corridors in the sky and their satisfaction scores."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "城市的各種機能被收進公寓單元之間的夾層，房間依家庭與年輕人的需要以不同方式組合。每一種以空中廊道連接單元的方式，都依住戶滿意度評分，以找出最佳方案。",
+              "captions": [
+                "家庭與年輕人的房間組合。",
+                "相互連通的空中廊道與滿意度評分。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Between the apartments, a communal courtyard lets single people organise social events and families join festive gatherings. A multifunctional floor holds a gym, shops and pet boarding, so people can get what they need without leaving the community.",
+          "images": [
+            "assets/board/modular-housing-sky-corridors/08-model-communal-courtyard.webp",
+            "assets/board/modular-housing-sky-corridors/09-assembled-unit-axonometric.webp"
+          ],
+          "captions": [
+            "Model of the communal courtyard and the public floor.",
+            "The assembled unit and the community centre."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "公寓之間的共享庭院，讓單身住戶可以舉辦社交活動，家庭也能參與節慶聚會。多功能樓層設有健身房、商店與寵物寄養，人們不必離開社區就能取得所需。",
+              "captions": [
+                "共享庭院與公共樓層的模型。",
+                "組合後的單元與社區中心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Learn from how villages live.\n2. Design one unit that can grow.\n3. Place shared space where eyes meet.\n4. Score each option with users in mind.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 向村落的生活方式學習。\n2. 設計一個能生長的單元。\n3. 把共享空間放在視線交會處。\n4. 以使用者的角度為每個方案評分。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Free Jazz Fabric Pavilion",
+      "slug": "free-jazz-fabric-pavilion",
+      "description": "A temporary pavilion that turns the improvisation of free jazz into fabric, walls, light and shadow.\n\nTaipei | X-Site | Temporary pavilion | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "自由爵士布幕展亭",
+          "description": "把自由爵士的即興轉化為布幕、牆面與光影的臨時展亭。\n\n台北｜X-Site｜臨時展亭｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/free-jazz-fabric-pavilion/01-fabric-pavilion-perspective.webp",
+        "assets/board/free-jazz-fabric-pavilion/02-multi-reality-layers.webp",
+        "assets/board/free-jazz-fabric-pavilion/03-free-jazz-music-data.webp",
+        "assets/board/free-jazz-fabric-pavilion/04-audio-to-4d-model.webp",
+        "assets/board/free-jazz-fabric-pavilion/05-shadow-simulation-section.webp",
+        "assets/board/free-jazz-fabric-pavilion/06-sleep-and-dream-analysis.webp",
+        "assets/board/free-jazz-fabric-pavilion/07-exploded-axonometric.webp",
+        "assets/board/free-jazz-fabric-pavilion/08-spatial-analysis-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/free-jazz-fabric-pavilion/01-fabric-pavilion-perspective.webp"
+          ],
+          "captions": [
+            "A temporary pavilion of fabric and walls in the plaza in front of the museum."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "美術館前廣場上，由布幕與牆面構成的臨時展亭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "This temporary X-Site pavilion sits in the plaza in front of an art museum in Taipei, and it is aimed mainly at young people and students who come on foot, by bicycle or by public transport. The student asked how the improvisation of free jazz could be translated from music into architecture.",
+          "images": [
+            "assets/board/free-jazz-fabric-pavilion/02-multi-reality-layers.webp"
+          ],
+          "captions": [
+            "Site analysis and the layers of the multi-reality concept: dream, light, wind and architecture."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這座臨時的 X-Site 展亭位於台北一座美術館前的廣場，主要對象是步行、騎單車或搭大眾運輸前來的年輕人與學生。學生思考的是，如何把自由爵士的即興精神從音樂轉譯成建築。",
+              "captions": [
+                "基地分析與多重真實概念的分層：夢境、光影、風與建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The human brain anticipates what comes next from what it has already heard, and repetition and variation in music can bring pleasure. The original 28 parts of a free jazz recording were reorganised into eight sections, and their spectrograms were overlaid to make dream-like images.",
+          "images": [
+            "assets/board/free-jazz-fabric-pavilion/03-free-jazz-music-data.webp",
+            "assets/board/free-jazz-fabric-pavilion/04-audio-to-4d-model.webp"
+          ],
+          "captions": [
+            "Music data of the free jazz piece.",
+            "From the audio file to a 4D model of the song."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "人腦會依已經聽到的內容預想接下來的聲音，音樂中的重複與變奏能帶來愉悅。學生把一段自由爵士錄音原有的 28 個部分重新整理成八段，並疊合各段的頻譜圖，形成如夢般的影像。",
+              "captions": [
+                "自由爵士樂曲的音樂數據。",
+                "從音訊檔到樂曲的 4D 模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The student built a physical model to simulate shifting shadows, and recorded their own sleep while listening to jazz to link the depth of sleep to the space. Fabric, a material missing on the way to the museum, was chosen because it is soft, light and slightly transparent, like walking through fog.",
+          "images": [
+            "assets/board/free-jazz-fabric-pavilion/05-shadow-simulation-section.webp",
+            "assets/board/free-jazz-fabric-pavilion/06-sleep-and-dream-analysis.webp"
+          ],
+          "captions": [
+            "Shadow simulation and the section of the installation.",
+            "Sleep and dream analysis shaping the fabric surface."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生製作實體模型模擬變化的光影，也記錄自己聽爵士樂入睡時的睡眠數據，把睡眠深度與空間連結起來。前往美術館的路上看不到布料這種材料，因此選用它，因為它柔軟、輕盈又帶點透明，走在其中就像穿過霧氣。",
+              "captions": [
+                "光影模擬與裝置剖面。",
+                "以睡眠與夢境分析塑造布幕曲面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The floor-to-ceiling and overhanging walls match the height of the fabric, which is set by the depth of sleep, and visitors pass up the staircase twice under more and more skylights. Like jazz, the space starts with a quiet solo and builds up to an improvised climax, as the shadows of the walls layer on the fabric.",
+          "images": [
+            "assets/board/free-jazz-fabric-pavilion/07-exploded-axonometric.webp",
+            "assets/board/free-jazz-fabric-pavilion/08-spatial-analysis-drawing.webp"
+          ],
+          "captions": [
+            "Exploded axonometric drawing of the pavilion.",
+            "Spatial analysis drawing combining views from different angles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "落地與懸吊的牆面對應布幕的高度，而布幕高度由睡眠深度決定；參觀者會兩次走上樓梯，頭頂的天窗也越來越多。空間就像爵士樂，從安靜的獨奏開始，逐步堆疊到即興的高潮，牆面的影子也層層落在布幕上。",
+              "captions": [
+                "展亭的爆炸軸測圖。",
+                "結合多個角度視圖的空間分析圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a feeling you can measure.\n2. Turn the data into form.\n3. Pick a material the site lacks.\n4. Compose the route like music.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一種可以量測的感受。\n2. 把數據轉化為形體。\n3. 選用基地缺少的材料。\n4. 像作曲一樣安排動線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Changeable Public Space in Guangzhou",
+      "slug": "changeable-public-space-guangzhou",
+      "description": "Small changeable spaces in the corners of the city, where locals and African migrants can meet through play.\n\nGuangzhou, China | Public space | Community | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "廣州的可變公共空間",
+          "description": "在城市角落裡的小型可變空間，讓本地居民與非洲移民透過遊戲相遇。\n\n中國廣州｜公共空間｜社區｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/changeable-public-space-guangzhou/01-modular-landscape-axonometric.webp",
+        "assets/board/changeable-public-space-guangzhou/02-pavilion-construction-steps.webp",
+        "assets/board/changeable-public-space-guangzhou/03-pull-down-sports-frames.webp",
+        "assets/board/changeable-public-space-guangzhou/04-bamboo-ceiling-exploded.webp",
+        "assets/board/changeable-public-space-guangzhou/05-gathering-points-aerial.webp",
+        "assets/board/changeable-public-space-guangzhou/06-rotating-boxes-and-structure.webp",
+        "assets/board/changeable-public-space-guangzhou/07-frame-and-store-structure.webp",
+        "assets/board/changeable-public-space-guangzhou/08-triangle-units-and-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/changeable-public-space-guangzhou/01-modular-landscape-axonometric.webp"
+          ],
+          "captions": [
+            "Modular units forming a lively landscape for music, rest and play."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以模組單元組成的活力地景，供音樂、休憩與遊戲使用。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "An estimated 30,000 to 50,000 African migrants live in Guangzhou, where they come to do business, study and live. The student felt that mutual acceptance between locals and newcomers still had a long way to go, and that the language barrier was the biggest problem.",
+          "images": [
+            "assets/board/changeable-public-space-guangzhou/02-pavilion-construction-steps.webp"
+          ],
+          "captions": [
+            "Construction steps: set up the columns, hang the frames, place the bamboo and lay the ropes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "估計有三萬到五萬名非洲移民在廣州經商、求學與生活。學生認為，本地居民與新移民之間的相互接納仍有很長的路要走，而語言隔閡是最大的問題。",
+              "captions": [
+                "施工步驟：立柱、掛上框架、放置竹管，再鋪設繩網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Through street questionnaires and fieldwork, the student found where African residents pass through or gather, and which corners of the area were underused. Small sites were chosen in a residential community near a university, in front of a supermarket and beside a bus stop.",
+          "images": [
+            "assets/board/changeable-public-space-guangzhou/03-pull-down-sports-frames.webp",
+            "assets/board/changeable-public-space-guangzhou/04-bamboo-ceiling-exploded.webp"
+          ],
+          "captions": [
+            "Rope frames that can be pulled down for football, table tennis or shuttlecock.",
+            "Bamboo tubes hung by ropes drop lower as more people sit together."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生透過街頭問卷與田野調查，找出非洲居民經過或聚集的地點，以及區內未被善用的角落。最後選定幾處小基地：大學附近的住宅社區、超市前方，以及公車站旁。",
+              "captions": [
+                "可以拉下來踢足球、打桌球或踢毽子的繩網框架。",
+                "以繩索懸吊的竹管，坐的人越多就垂得越低。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "In the gaps between homes, a pavilion offers shade and chat by day, and its ropes can be pulled down for sports so that people of different backgrounds can play together. In a hair and nail corner, bamboo tubes on the ceiling drop lower as more people use the seats, inviting people to sit together.",
+          "images": [
+            "assets/board/changeable-public-space-guangzhou/05-gathering-points-aerial.webp",
+            "assets/board/changeable-public-space-guangzhou/06-rotating-boxes-and-structure.webp"
+          ],
+          "captions": [
+            "Sites and forms chosen around the gathering points of the area.",
+            "Dining room and dance studio boxes rotate between day and night, with wooden joint study models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在住宅之間的縫隙裡，一座小亭白天可以乘涼聊天，繩索拉下後也能運動，讓不同背景的人一起玩。在美髮美甲角落，座位上的人越多，天花板的竹管就垂得越低，吸引大家坐在一起。",
+              "captions": [
+                "依區內聚集點選定的基地與形式。",
+                "餐廳與舞蹈教室的盒子可在日夜之間旋轉，並附木構接頭研究模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In front of the supermarket, the dining room and dance studio can be rotated by hand to free a larger outdoor space at night. Triangular modular units form a landscape where people can rest, sell their art, picnic or perform on small stages.",
+          "images": [
+            "assets/board/changeable-public-space-guangzhou/07-frame-and-store-structure.webp",
+            "assets/board/changeable-public-space-guangzhou/08-triangle-units-and-section.webp"
+          ],
+          "captions": [
+            "Structure of the timber frame, stores and dance room.",
+            "Triangular traffic and functional units, with a section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在超市前方，餐廳與舞蹈教室可以用手推動旋轉，在夜間釋放出更大的戶外空間。三角形的模組單元組成一片地景，人們可以在這裡休息、販售自己的作品、野餐，或在小舞台上表演。",
+              "captions": [
+                "木構框架、商店與舞蹈教室的結構。",
+                "三角形的動線單元與功能單元，以及剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask people on the street.\n2. Map where they gather.\n3. Design small, changeable spaces.\n4. Let shared play start a conversation.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 在街上直接詢問人們。\n2. 標出他們聚集的地方。\n3. 設計小而可變的空間。\n4. 讓一起玩耍開啟對話。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
