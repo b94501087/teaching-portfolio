@@ -1,0 +1,49 @@
+{
+  "project": "Entangled Realms",
+  "dest": "assets/board/entangled-realms-stick-and-clay-tower",
+  "note": "Portfolio 6c64 pages 2-3 cropped to seven images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-model-with-ring-paths.webp",
+      "sha256": "d1e3ff98b41d2cd078cbbb6a2639e5b872500331f76e37a4b73e1e33307fa4f6",
+      "bytes": 155244,
+      "from": "6c64 page 3 — model with ring paths"
+    },
+    {
+      "name": "02-sketch-diagrams.webp",
+      "sha256": "0f89b4760f5a41ad8590c0eef22ebb7faed3ebd62a9277f2f0e7f700f0c9bf86",
+      "bytes": 71430,
+      "from": "6c64 page 2 — sketch diagrams"
+    },
+    {
+      "name": "03-making-process.webp",
+      "sha256": "0752f88bc44fbb813d93673c13986830dc0ffd1969d996e9942dc2cbc819e2e9",
+      "bytes": 48478,
+      "from": "6c64 page 2 — making process"
+    },
+    {
+      "name": "04-stick-frame-and-clay.webp",
+      "sha256": "c7f78121eb9b9c781351eb7e9fb9689709968f21146ad845f34cb03e79d30916",
+      "bytes": 106488,
+      "from": "6c64 page 2 — stick frame and clay"
+    },
+    {
+      "name": "05-side-views.webp",
+      "sha256": "6e8b893128e5ca02e98654b9282869766d6e3942ebbec696e852e84452a2bcb3",
+      "bytes": 51614,
+      "from": "6c64 page 2 — side views"
+    },
+    {
+      "name": "06-model-front-view.webp",
+      "sha256": "77bd686d023ae9db227e645a70af25f9ef26d2236ff1b72898bd40a08008b5da",
+      "bytes": 69280,
+      "from": "6c64 page 3 — model front view"
+    },
+    {
+      "name": "07-ring-path-details.webp",
+      "sha256": "1c590fc3bd57d9ee4dba84368b2c8a0fb4231a2f0c682b257a747b4f48dfd0db",
+      "bytes": 83502,
+      "from": "6c64 page 3 — ring path details"
+    }
+  ]
+}
