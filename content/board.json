@@ -25765,6 +25765,300 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Wind, Always With Me",
+      "slug": "wind-always-with-me-ventilation-tower",
+      "description": "Ventilation towers bring cool air and shared space to an urban village.\n\nGuangzhou, China | Ventilation tower | 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "風，與我同在",
+          "description": "通風塔為城中村帶來涼風與共享空間。\n\n中國廣州｜通風塔｜2019｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/wind-always-with-me-ventilation-tower/01-tower-in-the-village.webp",
+        "assets/board/wind-always-with-me-ventilation-tower/02-tower-size-strategies.webp",
+        "assets/board/wind-always-with-me-ventilation-tower/03-towers-across-the-village.webp",
+        "assets/board/wind-always-with-me-ventilation-tower/04-tower-generation.webp",
+        "assets/board/wind-always-with-me-ventilation-tower/05-duct-and-cooling-design.webp",
+        "assets/board/wind-always-with-me-ventilation-tower/06-exploded-view.webp",
+        "assets/board/wind-always-with-me-ventilation-tower/07-plans-and-modules.webp",
+        "assets/board/wind-always-with-me-ventilation-tower/08-village-profile.webp",
+        "assets/board/wind-always-with-me-ventilation-tower/09-physical-model.webp",
+        "assets/board/wind-always-with-me-ventilation-tower/10-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/wind-always-with-me-ventilation-tower/01-tower-in-the-village.webp"
+          ],
+          "captions": [
+            "A new ventilation tower rises between dense village blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "新的通風塔在密集的村落樓房之間升起。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Homes in a dense urban village in Guangzhou are hot, dark and poorly ventilated. Residents also lack shared space for daily activities.",
+          "images": [
+            "assets/board/wind-always-with-me-ventilation-tower/03-towers-across-the-village.webp",
+            "assets/board/wind-always-with-me-ventilation-tower/08-village-profile.webp"
+          ],
+          "captions": [
+            "Towers spread across the village roofs.",
+            "A profile of the village with its new towers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州一處密集城中村的住宅炎熱、昏暗且通風不良。居民也缺少日常活動的共享空間。",
+              "captions": [
+                "通風塔分布在村落屋頂之上。",
+                "加入通風塔後的村落輪廓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project studies the traditional wind-catching tower, which pulls cool air down like a chimney in reverse. Several air-trap shapes and duct layouts are compared before one is chosen.",
+          "images": [
+            "assets/board/wind-always-with-me-ventilation-tower/05-duct-and-cooling-design.webp",
+            "assets/board/wind-always-with-me-ventilation-tower/04-tower-generation.webp"
+          ],
+          "captions": [
+            "Air trap shapes, duct design and staged cooling.",
+            "How the tower is generated."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案研究傳統的捕風塔，它像反向的煙囪般把涼風引入室內。設計比較了多種捕風口形狀與風道配置後才確定方案。",
+              "captions": [
+                "捕風口形狀、風道設計與分段降溫。",
+                "通風塔的生成過程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Towers come in large, medium and small sizes to fit wide plots and narrow lanes. Light modules for living, work and leisure are stacked around the central duct.",
+          "images": [
+            "assets/board/wind-always-with-me-ventilation-tower/02-tower-size-strategies.webp",
+            "assets/board/wind-always-with-me-ventilation-tower/06-exploded-view.webp",
+            "assets/board/wind-always-with-me-ventilation-tower/07-plans-and-modules.webp"
+          ],
+          "captions": [
+            "Strategies for large, medium and small towers.",
+            "Exploded view of the tower.",
+            "Floor plans and functional modules."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "通風塔分為大、中、小三種尺度，以適應寬地塊與窄巷。居住、工作與休閒的輕量模組圍繞中央風道堆疊。",
+              "captions": [
+                "大、中、小型通風塔的策略。",
+                "通風塔的爆炸圖。",
+                "平面與機能模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A timber model tests the tower, its stairs and its stacked homes. It shows how one structure can cool rooms and add shared space at the same time.",
+          "images": [
+            "assets/board/wind-always-with-me-ventilation-tower/09-physical-model.webp",
+            "assets/board/wind-always-with-me-ventilation-tower/10-model-details.webp"
+          ],
+          "captions": [
+            "Physical model of the ventilation tower.",
+            "Model details of stair nodes and housing modules."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "木構模型檢驗了通風塔、樓梯與堆疊的居住空間。它展示一個結構如何同時為室內降溫並增加共享空間。",
+              "captions": [
+                "通風塔的實體模型。",
+                "樓梯節點與居住模組的模型細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a climate type.\n2. Test its airflow.\n3. Scale it to the site.\n4. Build it as a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一種氣候類型。\n2. 測試它的氣流。\n3. 依基地調整尺度。\n4. 以模型建造驗證。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Climate Adaptive Architecture",
+      "slug": "climate-adaptive-museum-guangzhou",
+      "description": "A museum learns from vernacular houses to stay cool without machines.\n\nGuangzhou, China | Museum | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "氣候適應性建築",
+          "description": "一座向傳統民居學習、不靠機械也能保持涼爽的博物館。\n\n中國廣州｜博物館｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/climate-adaptive-museum-guangzhou/01-museum-under-the-arch.webp",
+        "assets/board/climate-adaptive-museum-guangzhou/02-design-element-extraction.webp",
+        "assets/board/climate-adaptive-museum-guangzhou/03-site-orientation-studies.webp",
+        "assets/board/climate-adaptive-museum-guangzhou/04-vernacular-case-sketches.webp",
+        "assets/board/climate-adaptive-museum-guangzhou/05-site-axonometric.webp",
+        "assets/board/climate-adaptive-museum-guangzhou/06-element-transformation.webp",
+        "assets/board/climate-adaptive-museum-guangzhou/07-water-pavilion-layers.webp",
+        "assets/board/climate-adaptive-museum-guangzhou/08-physical-model.webp",
+        "assets/board/climate-adaptive-museum-guangzhou/09-model-details.webp",
+        "assets/board/climate-adaptive-museum-guangzhou/10-water-wheel-cooling.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/climate-adaptive-museum-guangzhou/01-museum-under-the-arch.webp"
+          ],
+          "captions": [
+            "Ring-shaped halls of the museum sit under a sweeping arch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "環形展廳坐落在一道大弧形屋頂之下。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Guangzhou is hot, humid and rainy for much of the year. The project asks how a museum can stay comfortable without relying on heavy machines.",
+          "images": [
+            "assets/board/climate-adaptive-museum-guangzhou/03-site-orientation-studies.webp",
+            "assets/board/climate-adaptive-museum-guangzhou/02-design-element-extraction.webp"
+          ],
+          "captions": [
+            "Studies of orientation, wind and daylight.",
+            "Climate elements drawn from vernacular buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州一年中大部分時間炎熱、潮濕且多雨。本案探問一座博物館如何不依賴大量機械也能保持舒適。",
+              "captions": [
+                "朝向、風與日照的研究。",
+                "從傳統民居中提取的氣候元素。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Round earth houses, stilt houses, cave dwellings, rain corridors and arcades are studied as climate tools. Each one shows a simple way to shade, ventilate or keep out rain.",
+          "images": [
+            "assets/board/climate-adaptive-museum-guangzhou/04-vernacular-case-sketches.webp",
+            "assets/board/climate-adaptive-museum-guangzhou/06-element-transformation.webp"
+          ],
+          "captions": [
+            "Hand sketch of a round earth house as a case study.",
+            "Vernacular elements turned into new building parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "圓形土樓、干欄式建築、窯洞、風雨廊與騎樓都被視為應對氣候的工具來研究。每一種都展示了遮陽、通風或防雨的簡單方法。",
+              "captions": [
+                "以圓形土樓為案例的手繪速寫。",
+                "傳統元素轉化為新的建築構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The museum is split into a mountain zone and a water zone across the site. Ring halls, raised floors and covered walks are layered into one landscape.",
+          "images": [
+            "assets/board/climate-adaptive-museum-guangzhou/05-site-axonometric.webp",
+            "assets/board/climate-adaptive-museum-guangzhou/07-water-pavilion-layers.webp"
+          ],
+          "captions": [
+            "Axonometric of the mountain and river zones.",
+            "Exploded layers of the water pavilion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "博物館在基地上分為山區與水區兩部分。環形展廳、架空樓板與有頂步道被層疊成一片完整的地景。",
+              "captions": [
+                "山區與河區的軸測圖。",
+                "水上展館的分層爆炸圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the water pavilion, visitors turn wheels that pump water and drive fans to cool the hall. A timber model tests the ring structure and its details.",
+          "images": [
+            "assets/board/climate-adaptive-museum-guangzhou/10-water-wheel-cooling.webp",
+            "assets/board/climate-adaptive-museum-guangzhou/08-physical-model.webp",
+            "assets/board/climate-adaptive-museum-guangzhou/09-model-details.webp"
+          ],
+          "captions": [
+            "Water-wheel cooling equipment.",
+            "Physical model of the museum.",
+            "Model details of the ring structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在水上展館中，參觀者轉動水車抽水並帶動風扇，為展廳降溫。木構模型檢驗了環形結構與其細部。",
+              "captions": [
+                "水車驅動的降溫裝置。",
+                "博物館的實體模型。",
+                "環形結構的模型細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the local climate.\n2. Sketch vernacular answers.\n3. Extract simple elements.\n4. Combine them into one form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 分析在地氣候。\n2. 速寫傳統民居的對策。\n3. 提取簡單的元素。\n4. 把元素組合成整體形式。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
