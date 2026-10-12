@@ -1,0 +1,61 @@
+{
+  "project": "Emerging Eco-Architecture",
+  "dest": "assets/board/emerging-eco-architecture-stacked-frame-slope",
+  "note": "Portfolio b66d pages 14-15 cropped to nine images, WebP q88 (PIL). Not used: architect portraits and names, precedent photos, process photos with a glue brand or a person in the background.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "9f10bfb4bb19f6868f60c4d35409a28138095fd1b7edc126789ceb308be72eb8",
+      "bytes": 208914,
+      "from": "b66d page 15 — final model"
+    },
+    {
+      "name": "02-watercolour.webp",
+      "sha256": "81fa66386b59c990e906f4fdd4ff88d8343ee516757a72b5803298d1524a409a",
+      "bytes": 95184,
+      "from": "b66d page 14 — watercolour"
+    },
+    {
+      "name": "03-line-sketch.webp",
+      "sha256": "45a030165d2e55a9dc0025b96b694ba7a8be6bd31d7defd9b775fadb28976b14",
+      "bytes": 3690,
+      "from": "b66d page 14 — line sketch"
+    },
+    {
+      "name": "04-concept-modules.webp",
+      "sha256": "42fe1e49e9e7f094e3efe4fb6e1f2a905809b0cd6d14939927042b780386a40a",
+      "bytes": 5158,
+      "from": "b66d page 14 — concept modules"
+    },
+    {
+      "name": "05-frame-building.webp",
+      "sha256": "5f617e207b909055aab5ad1e4de4d5ffd3852a45d8494a27cfcc2c11f494d796",
+      "bytes": 17266,
+      "from": "b66d page 14 — frame building"
+    },
+    {
+      "name": "06-gravel-detail-a.webp",
+      "sha256": "230af95e4080eaa9b4705c43de727a2454a79805761cc6737a936cf116490934",
+      "bytes": 19114,
+      "from": "b66d page 15 — gravel detail a"
+    },
+    {
+      "name": "07-gravel-detail-b.webp",
+      "sha256": "56bdcecc9882888f9de172b91d1087ae1bf9d67eea4773c2babaafc2f1aac1b8",
+      "bytes": 21148,
+      "from": "b66d page 15 — gravel detail b"
+    },
+    {
+      "name": "08-side-view.webp",
+      "sha256": "c40a005148f5bda0dce78250d38a7f395b3c53b25897add6e88875b92c7d9157",
+      "bytes": 24822,
+      "from": "b66d page 15 — side view"
+    },
+    {
+      "name": "09-end-view.webp",
+      "sha256": "82c507645913029dd805f93ff739b1235d3977ac060bae529de8aae113ad9926",
+      "bytes": 23986,
+      "from": "b66d page 15 — end view"
+    }
+  ]
+}
