@@ -1,0 +1,61 @@
+{
+  "project": "Travel Tales",
+  "dest": "assets/board/travel-tales-layered-landscape-model",
+  "note": "Portfolio 188e pages 10-12 cropped to nine images, WebP q88 (PIL). Not used: title and body text, travel photos of real places.",
+  "files": [
+    {
+      "name": "01-landscape-model.webp",
+      "sha256": "17cacdefd0fbe68c6f383787e646cc77c1ec0adf70888f938b8ea782e7eb2a1d",
+      "bytes": 111356,
+      "from": "188e page 12 — final model"
+    },
+    {
+      "name": "02-landscape-sketches.webp",
+      "sha256": "eafe672a9135e6b029583c807554c12284455d3e2dabf9390057c7324206735b",
+      "bytes": 244774,
+      "from": "188e page 10 — collaged travel sketches"
+    },
+    {
+      "name": "03-model-making.webp",
+      "sha256": "feaa0216a6fa61aa681c0dc6b1ad296daa2f8b2c58ee2078534f5f20e6be5bd4",
+      "bytes": 49258,
+      "from": "188e page 10 — model-making process"
+    },
+    {
+      "name": "04-volume-one-top.webp",
+      "sha256": "913a8c4aa66c6e20872199e64d5a2fd8e9a277a9247dc88728bd2fffb55c38c6",
+      "bytes": 59058,
+      "from": "188e page 11 — volume one, top view"
+    },
+    {
+      "name": "05-volume-one-side.webp",
+      "sha256": "5fb9067343805598af9580a7591eb1d9114ab40e1fe5f2904d43ac2fe4d47a5e",
+      "bytes": 50004,
+      "from": "188e page 11 — volume one, side view"
+    },
+    {
+      "name": "06-volume-two-top.webp",
+      "sha256": "a451c443ebb09ca6b9373d468fc65bb2b09984a450552fc17b295c0dcdc1d82f",
+      "bytes": 64900,
+      "from": "188e page 11 — volume two, top view"
+    },
+    {
+      "name": "07-volume-two-side.webp",
+      "sha256": "2f7465b816e02aab7cde61c65c7535b3ee5fdaf84a36e5644e222c9021ed6c51",
+      "bytes": 55018,
+      "from": "188e page 11 — volume two, side view"
+    },
+    {
+      "name": "08-close-up-views.webp",
+      "sha256": "ff786e4511faa8b9c1a26df2619f10312574f6568c162c65bfb82f2573ac1f2a",
+      "bytes": 42998,
+      "from": "188e page 12 — close-up views"
+    },
+    {
+      "name": "09-layered-details.webp",
+      "sha256": "1978f8b7e16966d76f800e1227a6c352a54029be7ec2329b43fc2d4877f8b12a",
+      "bytes": 63986,
+      "from": "188e page 12 — layered details"
+    }
+  ]
+}
