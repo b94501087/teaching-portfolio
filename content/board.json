@@ -20860,6 +20860,149 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "New Corridor",
+      "slug": "new-corridor-urban-village-promenade",
+      "description": "An elevated promenade that helps new and old villagers meet in an urban village.\n\nXiamen, China | Urban design | Urban village promenade | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "新廊道",
+          "description": "一條讓城中村新舊村民相遇的架高步道。\n\n中國廈門｜都市設計｜城中村步道｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/new-corridor-urban-village-promenade/01-promenade-aerial-plan.webp",
+        "assets/board/new-corridor-urban-village-promenade/02-scheme-generation.webp",
+        "assets/board/new-corridor-urban-village-promenade/03-path-generation.webp",
+        "assets/board/new-corridor-urban-village-promenade/04-exploded-axonometric.webp",
+        "assets/board/new-corridor-urban-village-promenade/05-section-a-a.webp",
+        "assets/board/new-corridor-urban-village-promenade/06-sectional-perspective.webp",
+        "assets/board/new-corridor-urban-village-promenade/07-community-school.webp",
+        "assets/board/new-corridor-urban-village-promenade/08-game-zone.webp",
+        "assets/board/new-corridor-urban-village-promenade/09-creative-center.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/new-corridor-urban-village-promenade/01-promenade-aerial-plan.webp"
+          ],
+          "captions": [
+            "Aerial plan of the new corridor linking the community school, creative center, game, sports and music zones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "新廊道鳥瞰平面，串連社區學校、創意中心、遊戲區、運動區與音樂區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "An urban village in Xiamen was about to be demolished, leaving new villagers who had moved in and old villagers living side by side with little contact. The project set out to create a cultural and artistic promenade that would break down these barriers and build mutual understanding.",
+          "images": [
+            "assets/board/new-corridor-urban-village-promenade/02-scheme-generation.webp"
+          ],
+          "captions": [
+            "Scheme generation: places for education, games, music, sports, food and art."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廈門一座城中村即將拆除，搬進來的新村民與原有的老村民比鄰而居，卻少有往來。這個專案希望打造一條文化與藝術的步道，打破隔閡，增進彼此的理解。",
+              "captions": [
+                "方案生成：教育、遊戲、音樂、運動、飲食與藝術的空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied cases of leftover space, transformed old buildings and stepped circulation, then sketched six kinds of activity spaces within the village. Massing studies tested how a path could weave through the dense blocks.",
+          "images": [
+            "assets/board/new-corridor-urban-village-promenade/03-path-generation.webp",
+            "assets/board/new-corridor-urban-village-promenade/05-section-a-a.webp"
+          ],
+          "captions": [
+            "Path generation through the dense village blocks.",
+            "Section A-A through the existing village buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究了閒置空間、舊建築改造與階梯式動線等案例，接著在村中構想六種活動空間。量體研究則測試一條路徑如何穿梭於密集的街區之間。",
+              "captions": [
+                "穿梭於密集村落街區的路徑生成。",
+                "穿過既有村落建築的A-A剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The design stacks three layers: public activity spaces on the ground, a living folk promenade on the second layer and a top layer that connects floating migrants. The elevated corridor threads between houses and over rooftops, tying the new activity spaces together.",
+          "images": [
+            "assets/board/new-corridor-urban-village-promenade/04-exploded-axonometric.webp",
+            "assets/board/new-corridor-urban-village-promenade/06-sectional-perspective.webp"
+          ],
+          "captions": [
+            "Exploded axonometric of the three layers.",
+            "Sectional perspective of the elevated promenade and roof terraces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計疊合了三個層次：地面的公共活動空間、第二層的生活民俗步道，以及連結流動人口的頂層。架高的廊道穿梭於房屋之間、跨越屋頂，把新的活動空間串連起來。",
+              "captions": [
+                "三個層次的分解軸測圖。",
+                "架高步道與屋頂平台的剖透視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Old houses become a community school, with new stairs and joints inserted into the traditional timber roofs. A game zone and a creative center with rentable rooms for chatting, exhibitions, workshops and salons give new and old villagers reasons to meet.",
+          "images": [
+            "assets/board/new-corridor-urban-village-promenade/07-community-school.webp",
+            "assets/board/new-corridor-urban-village-promenade/08-game-zone.webp",
+            "assets/board/new-corridor-urban-village-promenade/09-creative-center.webp"
+          ],
+          "captions": [
+            "The community school, with insertion, combination, column and division details.",
+            "Section of the game zone along the corridor.",
+            "Section of the creative center around a planted courtyard."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "老房子被改造成社區學校，在傳統木構屋頂中嵌入新的樓梯與接頭。遊戲區，以及設有可租用的聊天室、展覽、工作坊與沙龍空間的創意中心，讓新舊村民有了相遇的理由。",
+              "captions": [
+                "社區學校，以及嵌入、結合、柱與分隔的構造細部。",
+                "沿廊道的遊戲區剖面。",
+                "圍繞植栽中庭的創意中心剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find who is kept apart.\n2. Sketch activities before forms.\n3. Thread a path through the fabric.\n4. Reuse old houses for new life.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出被隔開的人。\n2. 先構想活動，再發展形式。\n3. 讓路徑穿梭於城市紋理。\n4. 讓老房子承載新生活。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
