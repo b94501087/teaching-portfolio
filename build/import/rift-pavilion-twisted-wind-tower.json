@@ -1,0 +1,49 @@
+{
+  "project": "Rift Pavilion",
+  "dest": "assets/board/rift-pavilion-twisted-wind-tower",
+  "note": "Portfolio ca16 pages 5-6 cropped to seven images, WebP q88 (PIL). Not used: title with competition and prize text, web address, site photo with people, street map, windcatcher reference photos, ruin and lava reference photos, underground renders with figures.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "0ddcb5fcd310d7b393c37b913a0f883c0461026c8f1bd1eeb37a834e5bbf31bd",
+      "bytes": 30300,
+      "from": "ca16 page 6 — tower model"
+    },
+    {
+      "name": "02-floor-plans.webp",
+      "sha256": "22b4c782347c2454b7603478335c11d0cb0b379996b500b0802992d6a60f0910",
+      "bytes": 62910,
+      "from": "ca16 page 5 — rotated floor plans"
+    },
+    {
+      "name": "03-tower-line-drawings.webp",
+      "sha256": "dcd0c88ec16b1e4a67b6bceb25247537a00a2568694958f469283fd87dd02f34",
+      "bytes": 46162,
+      "from": "ca16 page 5 — tower line drawings"
+    },
+    {
+      "name": "04-interior-model-views.webp",
+      "sha256": "e3f46787f6c08f48d9d4a094929924d17ae43d582875169aca6a790ea05218c0",
+      "bytes": 50340,
+      "from": "ca16 page 6 — interior model views"
+    },
+    {
+      "name": "05-plaza-aerial.webp",
+      "sha256": "d7e13a2c253bbb1f4367403f4d0083ca5381c7e84719c879f5c4e0341e8feda8",
+      "bytes": 36736,
+      "from": "ca16 page 6 — plaza aerial render"
+    },
+    {
+      "name": "06-tower-sketch.webp",
+      "sha256": "7ff194d7a6b0b5f9cd086e83e1222fff4e10c95f3869719dedc3de00a6c2c6f6",
+      "bytes": 69918,
+      "from": "ca16 page 6 — tower hand sketch"
+    },
+    {
+      "name": "08-site-model-views.webp",
+      "sha256": "fdec6983f6b29132efed7d3574dbbb100a0550aee4ba3b8673a61b526f1e983d",
+      "bytes": 34738,
+      "from": "ca16 page 6 — site model views"
+    }
+  ]
+}
