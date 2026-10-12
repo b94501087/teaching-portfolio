@@ -1,0 +1,49 @@
+{
+  "project": "Period of Solidification",
+  "dest": "assets/board/period-of-solidification",
+  "note": "Portfolio d2e6 pages 13–15 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the philosopher portraits and quotes, the title panel with a city photo collage and a portrait, the face profile collage, the upside-down city and forest photo collage, the 3D printer photos and the photo of a person on page 15.",
+  "files": [
+    {
+      "name": "01-column-hall-render.webp",
+      "sha256": "c6ed0e2e6c2fd8deee0dcc7e1470b19cbae27e4cb3136b9107fa831fe65b82a7",
+      "bytes": 63646,
+      "from": "d2e6 page 14 — render of the column hall, x 19–50 %, y 58–100 %"
+    },
+    {
+      "name": "02-circle-slices.webp",
+      "sha256": "d240cd3ae5d5e9729d4ec4720bffa55f563798ffe962183e663fc32330daf06c",
+      "bytes": 12784,
+      "from": "page 13 — circle slice studies, x 50–60 %, y 14–50 %"
+    },
+    {
+      "name": "03-printed-vase-model.webp",
+      "sha256": "3d37ccd7371507b73ed672a21fe7c3c9b23308c7e6458309785be609ccdfc1a4",
+      "bytes": 6656,
+      "from": "page 13 — printed vase model, x 60–72 %, y 30–56 %"
+    },
+    {
+      "name": "04-hand-reassembly.webp",
+      "sha256": "af819069fc3d1e2a92ce85c39a048587a7a6ff8c6cd313358137a038132bd6ee",
+      "bytes": 14006,
+      "from": "page 13 — hands reassembling the slices, x 72–86 %, y 20–75 %"
+    },
+    {
+      "name": "05-column-variants.webp",
+      "sha256": "0ec37ef33ab7614bf7ac8f475a65fa0c030ab501cd73fd4e9c1c752f10e14a39",
+      "bytes": 10232,
+      "from": "page 13 — column variants, x 86–97 %, y 37–60 %"
+    },
+    {
+      "name": "06-reassembled-column.webp",
+      "sha256": "77ba5a729a57900725f9210f008060bd2ff26e0b62a77727c18dcc97b4128c4f",
+      "bytes": 8652,
+      "from": "page 14 — reassembled column, x 0–18 %, y 0–68 %"
+    },
+    {
+      "name": "07-column-field-render.webp",
+      "sha256": "b2f40acd89b70e068ae96fb3a9f9b72e91122ee3221ba0708ee586f6f02ea0d5",
+      "bytes": 161854,
+      "from": "page 15 — render of the column field, x 20–66 %, y 52–100 %"
+    }
+  ]
+}
