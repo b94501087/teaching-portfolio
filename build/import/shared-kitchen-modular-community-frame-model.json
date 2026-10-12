@@ -1,0 +1,49 @@
+{
+  "project": "Shared Kitchen",
+  "dest": "assets/board/shared-kitchen-modular-community-frame-model",
+  "note": "Portfolio 915e pages 7-8 cropped to seven images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "e24290bca09cedbac70cdcd59472bc2f7fb05b8bd2b1b8ee157dc77b707f80c3",
+      "bytes": 171898,
+      "from": "915e page 8 — final model"
+    },
+    {
+      "name": "02-front-elevation.webp",
+      "sha256": "3062179048b4b67320187b6b9b87aeaf48695cf4070e2a6c91d87511c68bcfe6",
+      "bytes": 61756,
+      "from": "915e page 7 — front elevation"
+    },
+    {
+      "name": "03-module-interior.webp",
+      "sha256": "3ae8dfe9ee5555433ebf4c79dbbd2962748ddfaf48ce45599243bd14bf1f569f",
+      "bytes": 31060,
+      "from": "915e page 7 — module interior"
+    },
+    {
+      "name": "04-dining-floor.webp",
+      "sha256": "c8cbc31978ef421c37291f3488862c3c699ed1464bcf34e9d67bfcd508eed488",
+      "bytes": 30272,
+      "from": "915e page 7 — dining floor"
+    },
+    {
+      "name": "05-top-view.webp",
+      "sha256": "ada411ccf8ff0bd68e7489036da2260f8c79295e12e2f372e2072dad5977fa46",
+      "bytes": 71378,
+      "from": "915e page 7 — top view"
+    },
+    {
+      "name": "06-upper-module.webp",
+      "sha256": "25f76c5ebebdb03aa9f587dda48de5a329e39c30690834ed8447095099c67795",
+      "bytes": 27006,
+      "from": "915e page 8 — upper module"
+    },
+    {
+      "name": "07-stacked-corner.webp",
+      "sha256": "71421aba4c64eee0465b74d827385e426ffc9f73b4f50132441f56f643921177",
+      "bytes": 69040,
+      "from": "915e page 8 — stacked corner"
+    }
+  ]
+}
