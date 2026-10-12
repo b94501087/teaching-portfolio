@@ -1,0 +1,43 @@
+{
+  "project": "Chaotic Era",
+  "dest": "assets/board/chaotic-era-curving-terraced-settlement",
+  "note": "Portfolio 5757 pages 10-13 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the actor stills, the rendered figure diagram, the small photo beside the essay, and all essay text.",
+  "files": [
+    {
+      "name": "01-chaos-line-collage.webp",
+      "sha256": "761d007e680097b80644d1c6bd30998e266e72848ec4ffc4ce1ae4829fe6e7c4",
+      "bytes": 667004,
+      "from": "5757 page 10 — layered line collage, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "02-curve-sketch.webp",
+      "sha256": "ad64acd7b07cc65e4798d40c5139ca644cc3bec834325bd83ac75396812d56c3",
+      "bytes": 92820,
+      "from": "5757 page 10 — curve sketch of a building, x 79–100 %, y 62–100 %"
+    },
+    {
+      "name": "03-long-section.webp",
+      "sha256": "3b762025bbd59c4ed4db2a04206eacca0a4d0d79af808055b2f9854ab5a77a37",
+      "bytes": 243224,
+      "from": "5757 page 12 — long section, x 34–100 %, y 10–100 %"
+    },
+    {
+      "name": "04-terrace-view.webp",
+      "sha256": "4f0087076aff8e6748f96a8431b2d539de47fd51fa888f579cd14986e4e967aa",
+      "bytes": 230528,
+      "from": "5757 page 13 — terrace view render, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "05-aerial-view.webp",
+      "sha256": "676654473847d8a1c9a2399e44eb9cdad55c1ca025c30da0627a0933a7635e5e",
+      "bytes": 360344,
+      "from": "5757 page 13 — aerial view render, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "06-reference-poster.webp",
+      "sha256": "67eacd3304794082e1d2e3d4a4f1c4b6ee3a859ebccd7f63b677e6fa5fc3a08c",
+      "bytes": 12730,
+      "from": "5757 page 11 — film poster used as a reference, x 5–11 %, y 10–30 %"
+    }
+  ]
+}
