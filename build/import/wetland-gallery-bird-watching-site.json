@@ -1,0 +1,67 @@
+{
+  "project": "Wetland Gallery",
+  "dest": "assets/board/wetland-gallery-bird-watching-site",
+  "note": "Portfolio 30f3 pages 8-12 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with the instructor name, the location map on aerial imagery, the flood photo strip, the design-process grid with photos of people, and the rendering insets.",
+  "files": [
+    {
+      "name": "01-bird-gallery-axonometric.webp",
+      "sha256": "3aaef170839dd733de685d96ced051b7461e0b6da266af0181ef6765d6db2f13",
+      "bytes": 303246,
+      "from": "30f3 page 10 — axonometric of the gallery and rooftop"
+    },
+    {
+      "name": "02-chunk-model.webp",
+      "sha256": "fc5402718ef24184fc70f6675dbeecdf92b8ff8e8766ec68ba4a68c8382d3e4c",
+      "bytes": 64998,
+      "from": "30f3 page 8 — chunk model"
+    },
+    {
+      "name": "03-long-section.webp",
+      "sha256": "9498169a447b6d9f4daa2cf938d906349eb6f18afccde7ebf0f2a684e365fd0e",
+      "bytes": 61154,
+      "from": "30f3 page 8 — long section"
+    },
+    {
+      "name": "04-flora-and-fauna.webp",
+      "sha256": "02ca762ab23f9cc6bcb952dcf2d30d5339e9d8435c8d51491c4438b41b8e8de3",
+      "bytes": 90378,
+      "from": "30f3 page 9 — flora and fauna analysis"
+    },
+    {
+      "name": "05-tree-column-structure.webp",
+      "sha256": "89c6e51b82bbaa7c7af81a114dc2aab179ea3ad2b36e6e8fd37e5a9e05d1e508",
+      "bytes": 76342,
+      "from": "30f3 page 11 — tree-column structural diagrams"
+    },
+    {
+      "name": "06-nest-roof-plan.webp",
+      "sha256": "0d470517d6f8df1cfc829622446c680cb25906c64521f0e5b66b908aecc15b82",
+      "bytes": 86512,
+      "from": "30f3 page 11 — plan with artificial nests"
+    },
+    {
+      "name": "07-human-bird-interface.webp",
+      "sha256": "81a0b8331b1e3c74c90983d1e97369ee2c22b41c4e957f6c0c6623daefc851bb",
+      "bytes": 27976,
+      "from": "30f3 page 11 — human-bird interaction diagram"
+    },
+    {
+      "name": "08-spatial-relationships.webp",
+      "sha256": "5b6dae63642ae0718c8280bd6143e5c4e6081da26dbd3947f139becbe5109d0b",
+      "bytes": 83436,
+      "from": "30f3 page 11 — spatial relationship section"
+    },
+    {
+      "name": "09-exploded-axonometric.webp",
+      "sha256": "76c50564a64a576d7955992c1a1ccf82647d32ce3481865cd6cac57c8294bd9b",
+      "bytes": 312572,
+      "from": "30f3 page 12 — exploded axonometric"
+    },
+    {
+      "name": "10-floor-plans.webp",
+      "sha256": "164af9e913ba0231a684945e38e265514981d178fc6e11119d44242db9963fc7",
+      "bytes": 86490,
+      "from": "30f3 page 12 — floor plans"
+    }
+  ]
+}
