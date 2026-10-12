@@ -1,0 +1,61 @@
+{
+  "project": "Silvertown Vertical Farm",
+  "dest": "assets/board/silvertown-vertical-farm-london",
+  "note": "Portfolio ba4c pages 3, 5 and 6 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the cover and contents pages, the site analysis page with street photos, the market render with crowds, and the body text.",
+  "files": [
+    {
+      "name": "01-farm-axonometric.webp",
+      "sha256": "5b59cdff8d170270585b4406dc0da23dbf66122920cad099a638521d1088efe8",
+      "bytes": 160596,
+      "from": "ba4c page 3 — farm axonometric on the waterfront"
+    },
+    {
+      "name": "02-model-from-below.webp",
+      "sha256": "41ec6eb1c8da3bf3dcf1dba576b7503b781bc3bcaab448c5d3e498ab38266d0d",
+      "bytes": 13592,
+      "from": "ba4c page 5 — concept model from below"
+    },
+    {
+      "name": "03-model-light-study.webp",
+      "sha256": "61afd2bbadbbdadf8004f75d1900e48092d7b3f8b0fc1b7269f8d4e06d4ead18",
+      "bytes": 19546,
+      "from": "ba4c page 5 — concept model light study"
+    },
+    {
+      "name": "04-model-aggregation.webp",
+      "sha256": "a199cfe2365aec00a55b016b51a6d1a5223df401d9567fc5becb3df078f2aa2d",
+      "bytes": 33976,
+      "from": "ba4c page 5 — concept model aggregation"
+    },
+    {
+      "name": "05-daytime-use.webp",
+      "sha256": "2881bd9763c6fcc704e3afec3fac05c3cd5eb4f1b9a8544d6fc298773ea4beab",
+      "bytes": 27318,
+      "from": "ba4c page 5 — daytime analysis"
+    },
+    {
+      "name": "06-nighttime-operation.webp",
+      "sha256": "470d0df6ca3d348e85d2c118699ed39c1cdce0da57f5c25160aa839c55cc1399",
+      "bytes": 22544,
+      "from": "ba4c page 5 — nighttime analysis"
+    },
+    {
+      "name": "07-production-module.webp",
+      "sha256": "ca1285814672efc59dd9a7a25f5aa64483f3fdf3d6a2abf2c0c2480f54ee926f",
+      "bytes": 58506,
+      "from": "ba4c page 6 — production module exploded view"
+    },
+    {
+      "name": "08-module-layers.webp",
+      "sha256": "3d01ca764c617e1c8c5d263a35e7a97bfdcfefe334a1f5d980a3cc401474d551",
+      "bytes": 92370,
+      "from": "ba4c page 6 — module layer diagram"
+    },
+    {
+      "name": "09-district-energy-link.webp",
+      "sha256": "40070b32a05ed3508bda6f6c4f958f6e5127184a4d68e46bd2b2cce7abf3a974",
+      "bytes": 21638,
+      "from": "ba4c page 6 — district energy link"
+    }
+  ]
+}
