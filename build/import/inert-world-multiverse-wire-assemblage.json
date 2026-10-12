@@ -1,0 +1,37 @@
+{
+  "project": "The Inert World",
+  "dest": "assets/board/inert-world-multiverse-wire-assemblage",
+  "note": "Portfolio 0687 page 5 cropped to five images, WebP q88 (PIL). Not used: title and text, character names.",
+  "files": [
+    {
+      "name": "01-assemblage.webp",
+      "sha256": "fb8747405efd65cbe0bf8c74df154579bd1dded1645cac09c1cf6873c736dc56",
+      "bytes": 189084,
+      "from": "0687 page 5 — assemblage"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "2c3884b381bc2e8d4f28c4c45b264cf0fb270da4b86660a4be2a16c9265ddc3e",
+      "bytes": 49656,
+      "from": "0687 page 5 — concept sketch"
+    },
+    {
+      "name": "03-animated-series-stills.webp",
+      "sha256": "07fd00b265c0080c72e80c2c65d7c8e70045dee67e3393b0be4bc69f77dced8d",
+      "bytes": 22222,
+      "from": "0687 page 5 — animated series stills"
+    },
+    {
+      "name": "04-working-process.webp",
+      "sha256": "f2417c6ee4a4ec0487f75a4d81557dcc36eb5aa88be9490011722b5ccee616bf",
+      "bytes": 76646,
+      "from": "0687 page 5 — working process"
+    },
+    {
+      "name": "05-series-stills.webp",
+      "sha256": "a0be2602618886bda542115429b16d7c08dc03ee7719346fcf05456be89a77f0",
+      "bytes": 19804,
+      "from": "0687 page 5 — series stills"
+    }
+  ]
+}
