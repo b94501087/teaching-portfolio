@@ -1,0 +1,61 @@
+{
+  "project": "Assimilate Plan",
+  "dest": "assets/board/assimilate-plan-refugee-housing",
+  "note": "Portfolio dab3 pages 19–22 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage with war photos on page 18, the site analysis maps, portrait, word list, ink experiment and concept photos on page 19, the site visit photos of people and the street collage on page 19, the site strategy photos on page 19, and the interior and lake renderings with photo cut-out people on page 22. No retouching.",
+  "files": [
+    {
+      "name": "01-corner-space-exploded.webp",
+      "sha256": "0d6c3d48a328600318494bb373e15cbe3998224654e4dd756820a267c157851e",
+      "bytes": 42568,
+      "from": "dab3 page 21 — corner space exploded view of circulation, frame and blocks, x 17–50.5 %, y 5–70 %"
+    },
+    {
+      "name": "02-nouns-and-verbs-matrix.webp",
+      "sha256": "4b2b4662c203bdfaa9c1df13df4d71a33c8720b9c3c10c1b7d1ba73c5d0c6499",
+      "bytes": 81244,
+      "from": "page 19 — nouns and verbs model matrix, x 50–100 %, y 0–48 %"
+    },
+    {
+      "name": "03-unit-floor-plans.webp",
+      "sha256": "58423a14c1dbe1c1e9d8e35286ece89c81aed0dae1ea6631268043be8728ef76",
+      "bytes": 219962,
+      "from": "page 20 — floor plan of each unit, x 0–100 %, y 12–100 %"
+    },
+    {
+      "name": "04-corner-space-programmes.webp",
+      "sha256": "1b46d4c34b99c3f9f6696c093b8f6b2856656fa2ec234906a7b445be30cef523",
+      "bytes": 51242,
+      "from": "page 21 — corner space programmes, x 50–100 %, y 3–70 %"
+    },
+    {
+      "name": "05-corner-space-scenes.webp",
+      "sha256": "598f98aab105b8265f68807735d3cbea426229c71908c600b6ca3c840525d957",
+      "bytes": 73568,
+      "from": "page 21 — corner space scenes, x 37–97.5 %, y 70–97.5 %"
+    },
+    {
+      "name": "06-space-between-buildings.webp",
+      "sha256": "a1e5f138b1e6f47ef1b82b0e97f9b5d365298d0196038415f0414982d9224c75",
+      "bytes": 41276,
+      "from": "page 22 — empty space between buildings section, x 17–50 %, y 8–50 %"
+    },
+    {
+      "name": "07-building-empty-wall.webp",
+      "sha256": "fec3cf8e6867cc7ad40e9b91b3a6517a648d2f822060b4284d24598600617c2e",
+      "bytes": 85720,
+      "from": "page 22 — building empty wall, x 50.5–80 %, y 0–50 %"
+    },
+    {
+      "name": "08-lake-side-steps.webp",
+      "sha256": "1dbb721d433804baa91f9fae3d0fd1c7fcc43d4ea967260857d5454ebd50d93d",
+      "bytes": 8860,
+      "from": "page 22 — lake side form steps, x 10–24 %, y 51–72 %"
+    },
+    {
+      "name": "09-roof-space-west-elevation.webp",
+      "sha256": "24f0f81a8ba6d91e28a9ea08254ba4ac67f0a52bc506932b506e9e1a88640ad4",
+      "bytes": 33636,
+      "from": "page 22 — low building roof space west elevation, x 50.5–100 %, y 76–100 %"
+    }
+  ]
+}
