@@ -23646,6 +23646,8 @@
         "assets/board/kaolao-pier-past-and-future/04-market-way.webp",
         "assets/board/kaolao-pier-past-and-future/05-wharf-node-detail.webp",
         "assets/board/kaolao-pier-past-and-future/06-timber-jetty-section.webp",
+        "assets/board/kaolao-pier-past-and-future/09-stool-concept.webp",
+        "assets/board/kaolao-pier-past-and-future/10-pod-section.webp",
         "assets/board/kaolao-pier-past-and-future/07-museum-plan.webp",
         "assets/board/kaolao-pier-past-and-future/08-museum-sections.webp"
       ],
@@ -23713,11 +23715,13 @@
           "body": "Timber jetties tie the old concrete wharf to new market and leisure decks above the tidal flat. Each joint stacks layers of waterproofing, anti-damp mats and anti-corrosion paint to last by the sea.",
           "images": [
             "assets/board/kaolao-pier-past-and-future/05-wharf-node-detail.webp",
-            "assets/board/kaolao-pier-past-and-future/06-timber-jetty-section.webp"
+            "assets/board/kaolao-pier-past-and-future/06-timber-jetty-section.webp",
+            "assets/board/kaolao-pier-past-and-future/09-stool-concept.webp"
           ],
           "captions": [
             "Node detail of the timber jetty meeting the concrete wharf.",
-            "Timber jetty section with fishing, walking and resting along the deck."
+            "Timber jetty section with fishing, walking and resting along the deck.",
+            "Stool design concept: a prototype on the wharf railing that works as a chair or a desk."
           ],
           "i18n": {
             "zh-Hant": {
@@ -23725,7 +23729,8 @@
               "body": "木棧道將舊混凝土碼頭與潮間帶上的新市場及休閒平台相連。每個接點疊加防水、防潮墊與防腐塗層，以適應海邊環境。",
               "captions": [
                 "木棧道與混凝土碼頭交接的節點詳圖。",
-                "木棧道剖面，沿線有垂釣、散步與休憩。"
+                "木棧道剖面，沿線有垂釣、散步與休憩。",
+                "凳子設計概念：架在碼頭欄杆上的原型，可作為椅子或桌子使用。"
               ]
             }
           }
@@ -23734,10 +23739,12 @@
           "heading": "Outcome",
           "body": "A round history museum takes its plan from the lines of the nearby sea bridge, with a ramp circling the rooms. Its sections show seaweed roofs, oyster shell walls and white shell floors as the water and mud rise over time.",
           "images": [
+            "assets/board/kaolao-pier-past-and-future/10-pod-section.webp",
             "assets/board/kaolao-pier-past-and-future/07-museum-plan.webp",
             "assets/board/kaolao-pier-past-and-future/08-museum-sections.webp"
           ],
           "captions": [
+            "Section 1:100 of a round wharf unit, showing sunlight, low-e glass, moisture and waste flows.",
             "Museum plans with the circling ramp and the bridge-derived grid.",
             "Museum sections for three stages of water and mud levels."
           ],
@@ -23746,6 +23753,7 @@
               "heading": "成果",
               "body": "圓形的歷史博物館以鄰近跨海大橋的線條為平面依據，坡道環繞各個展間。剖面呈現海草屋頂、蚵殼牆與白貝殼地面，回應水位與淤泥隨時間上升。",
               "captions": [
+                "1:100剖面，呈現圓形碼頭單元的日照、低輻射玻璃、濕氣與廢水流向。",
                 "博物館平面，坡道環繞並以大橋線條劃分。",
                 "博物館三個水位與淤泥階段的剖面。"
               ]
@@ -24055,6 +24063,300 @@
             "zh-Hant": {
               "heading": "我如何教這套方法",
               "body": "1. 讀懂數據。\n2. 描繪日常節奏。\n3. 配對能互助的人。\n4. 向閒置空間生長。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Cambodian Restaurant and Cookery School",
+      "slug": "cambodian-restaurant-cookery-school",
+      "description": "A restaurant and cookery school in Brisbane draws on Cambodian cuisine, shared meals and green gardens.\n\nBrisbane, Australia | Restaurant and cookery school | 2018 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "柬埔寨餐廳與烹飪學校",
+          "description": "一座位於布里斯本的餐廳與烹飪學校，以柬埔寨料理、共享餐食與綠色花園為設計起點。\n\n澳洲布里斯本｜餐廳與烹飪學校｜2018年｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cambodian-restaurant-cookery-school/01-cuisine-process.webp",
+        "assets/board/cambodian-restaurant-cookery-school/02-eating-habits.webp",
+        "assets/board/cambodian-restaurant-cookery-school/03-site-massing.webp",
+        "assets/board/cambodian-restaurant-cookery-school/04-massing-studies.webp",
+        "assets/board/cambodian-restaurant-cookery-school/05-green-spaces.webp",
+        "assets/board/cambodian-restaurant-cookery-school/06-sections.webp",
+        "assets/board/cambodian-restaurant-cookery-school/07-level-axons.webp",
+        "assets/board/cambodian-restaurant-cookery-school/08-section-perspective.webp",
+        "assets/board/cambodian-restaurant-cookery-school/09-sectional-model.webp",
+        "assets/board/cambodian-restaurant-cookery-school/10-facade-design.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cambodian-restaurant-cookery-school/09-sectional-model.webp"
+          ],
+          "captions": [
+            "Sectional model of the restaurant and cookery school."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "餐廳與烹飪學校的剖面模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The brief asked for a restaurant and cookery school in Brisbane that carries the taste of one food culture. The project starts from Cambodian cuisine and the way people share a meal.",
+          "images": [
+            "assets/board/cambodian-restaurant-cookery-school/01-cuisine-process.webp",
+            "assets/board/cambodian-restaurant-cookery-school/02-eating-habits.webp"
+          ],
+          "captions": [
+            "The steps of a traditional noodle dish, from preparation and cooking to serving.",
+            "Table drawings of a small family, a group of friends and a couple, during and after meals."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "題目要求在布里斯本設計一座承載單一飲食文化的餐廳與烹飪學校。本案從柬埔寨料理以及人們共享一餐的方式出發。",
+              "captions": [
+                "一道傳統米線料理的步驟，從備料、烹煮到上菜。",
+                "小家庭、朋友聚餐與兩人用餐時，餐中與餐後的桌面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site sits where a secondary road meets a primary road, a spot that can draw in passers-by. A wide set of massing studies tested how the volumes could open to the street and to light.",
+          "images": [
+            "assets/board/cambodian-restaurant-cookery-school/03-site-massing.webp",
+            "assets/board/cambodian-restaurant-cookery-school/04-massing-studies.webp"
+          ],
+          "captions": [
+            "Massing model on the site at the corner of the two roads.",
+            "Massing studies comparing different ways of carving and stacking the volume."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地位於次要道路與主要道路的交會處，能吸引往來行人。大量量體研究測試建築如何向街道與光線打開。",
+              "captions": [
+                "位於兩條道路轉角的基地量體模型。",
+                "比較不同切削與堆疊方式的量體研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A central garden, a roof garden and planted shelves bring green space into a crowded neighbourhood. Dining sits on the lower levels and the cookery school above, with a basement for service.",
+          "images": [
+            "assets/board/cambodian-restaurant-cookery-school/05-green-spaces.webp",
+            "assets/board/cambodian-restaurant-cookery-school/06-sections.webp",
+            "assets/board/cambodian-restaurant-cookery-school/07-level-axons.webp"
+          ],
+          "captions": [
+            "Green spaces: roof garden, dining area, central garden, shelves and social space.",
+            "Sections 1 and 2 through the dining floors and the central garden.",
+            "Exploded levels from the basement to the cookery school."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "中央花園、屋頂花園與種植層架，為擁擠的街區帶來綠意。用餐空間位於下層，烹飪學校在上層，地下室作為後勤使用。",
+              "captions": [
+                "綠色空間：屋頂花園、用餐區、中央花園、層架與社交空間。",
+                "穿過用餐樓層與中央花園的剖面一與剖面二。",
+                "從地下室到烹飪學校的分層爆炸圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The street façade becomes a colourful billboard, while the side facing the garden stays clear and simple. A section perspective shows people cooking, eating and resting across the floors.",
+          "images": [
+            "assets/board/cambodian-restaurant-cookery-school/08-section-perspective.webp",
+            "assets/board/cambodian-restaurant-cookery-school/10-facade-design.webp"
+          ],
+          "captions": [
+            "Section perspective with the stairs, terraces and planting.",
+            "Façade design: glass panel sets, colour studies and elevations."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "面向街道的立面成為一面繽紛的看板，面向花園的一側則保持清透簡潔。剖透視呈現人們在各樓層烹飪、用餐與休憩。",
+              "captions": [
+                "呈現樓梯、露台與植栽的剖透視。",
+                "立面設計：玻璃面板組合、色彩研究與立面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a culture.\n2. Draw how people eat.\n3. Test many masses.\n4. Let green tie it together.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一種文化出發。\n2. 畫出人們如何用餐。\n3. 測試多種量體。\n4. 以綠意串連整體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Meerkat Mansion and Entrance Building",
+      "slug": "meerkat-mansion-entrance-building",
+      "description": "A zoo enclosure in Brisbane where visitors and meerkats watch each other along interlocking ramps.\n\nBrisbane, Australia | Zoo enclosure and entrance | 2017 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "狐獴屋與入口建築",
+          "description": "位於布里斯本的動物園展區，遊客與狐獴沿著交錯的坡道彼此觀看。\n\n澳洲布里斯本｜動物園展區與入口｜2017年｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/meerkat-mansion-entrance-building/01-mansion-model.webp",
+        "assets/board/meerkat-mansion-entrance-building/02-zoo-site-map.webp",
+        "assets/board/meerkat-mansion-entrance-building/03-zoo-strategies.webp",
+        "assets/board/meerkat-mansion-entrance-building/04-hybrid-forms.webp",
+        "assets/board/meerkat-mansion-entrance-building/05-viewing-concepts.webp",
+        "assets/board/meerkat-mansion-entrance-building/06-transformation.webp",
+        "assets/board/meerkat-mansion-entrance-building/07-site-plan.webp",
+        "assets/board/meerkat-mansion-entrance-building/08-entrance-plans.webp",
+        "assets/board/meerkat-mansion-entrance-building/09-mansion-plans.webp",
+        "assets/board/meerkat-mansion-entrance-building/10-sections.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/meerkat-mansion-entrance-building/01-mansion-model.webp"
+          ],
+          "captions": [
+            "Model of the meerkat mansion: interlocking ramps under a light roof."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "狐獴屋模型：輕盈屋頂下相互交錯的坡道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Brisbane once had zoos, but they closed amid growing concern for animals kept in poor enclosures under the constant gaze of the public. The brief asked for a new zoo layout where one enclosure and its entrance rethink how visitors and animals meet.",
+          "images": [
+            "assets/board/meerkat-mansion-entrance-building/02-zoo-site-map.webp",
+            "assets/board/meerkat-mansion-entrance-building/03-zoo-strategies.webp"
+          ],
+          "captions": [
+            "Zoo zoning, with the meerkat mansion and entry building at the heart of the plan.",
+            "From the conventional zoo to new strategies: interlocking levels, switched roles and spaces fitted to each animal."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "布里斯本曾有動物園，但因外界日益關注圈養動物的福祉而關閉，這些動物常處於簡陋的圍欄中、承受大眾不斷的注視。題目要求規劃一座新的動物園，以其中一個展區與入口建築重新思考遊客與動物的相遇方式。",
+              "captions": [
+                "動物園分區圖，狐獴屋與入口建築位於規劃核心。",
+                "從傳統動物園到新策略：交錯的樓層、互換的角色，以及依動物習性設計的空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Two assigned precedent buildings were taken apart and recombined into a set of hybrid forms. These forms were then matched to the habits of meerkats, which love to run, jump and watch moving things.",
+          "images": [
+            "assets/board/meerkat-mansion-entrance-building/04-hybrid-forms.webp",
+            "assets/board/meerkat-mansion-entrance-building/05-viewing-concepts.webp"
+          ],
+          "captions": [
+            "Hybrid forms drawn from transforming the two precedent buildings.",
+            "Viewing ideas: looking from the same level, from another structure, across, down and popping up from below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "將兩座指定的參考建築拆解、重組，發展出一系列混合形體。再將這些形體對應狐獴的習性：喜愛奔跑、跳躍，並好奇地觀察移動的事物。",
+              "captions": [
+                "由兩座參考建築轉化而來的混合形體。",
+                "觀看方式：平視、從另一結構觀看、橫向對望、俯視，以及從地下冒出觀看。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Spiral ramps for visitors and meerkats wrap around each other, so both sides watch one another. Towers, a roof terrace and an underground maze give each viewpoint its own place.",
+          "images": [
+            "assets/board/meerkat-mansion-entrance-building/06-transformation.webp",
+            "assets/board/meerkat-mansion-entrance-building/09-mansion-plans.webp"
+          ],
+          "captions": [
+            "Connection, transformation and event program for the mansion.",
+            "Mansion plans from the roof terrace down to the underground maze."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "遊客與狐獴的螺旋坡道彼此纏繞，讓雙方互相觀看。塔樓、屋頂平台與地下迷宮，為每一種觀看方式提供各自的位置。",
+              "captions": [
+                "狐獴屋的連結、轉化與活動計畫。",
+                "狐獴屋平面，從屋頂平台到地下迷宮。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The entrance building holds ticketing, a recreation area and a café beside the woodland paths. Sections show visitors climbing the ramps while the meerkats run and dig below.",
+          "images": [
+            "assets/board/meerkat-mansion-entrance-building/07-site-plan.webp",
+            "assets/board/meerkat-mansion-entrance-building/08-entrance-plans.webp",
+            "assets/board/meerkat-mansion-entrance-building/10-sections.webp"
+          ],
+          "captions": [
+            "Site plan of the mansion and the entrance building among the trees.",
+            "Ground and first level plans of the entrance building.",
+            "Three sections through the entrance building and the mansion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "入口建築容納售票、休閒區與咖啡廳，緊鄰林間步道。剖面呈現遊客沿坡道上行，狐獴則在下方奔跑與挖掘。",
+              "captions": [
+                "狐獴屋與入口建築在樹林中的配置圖。",
+                "入口建築一樓與二樓平面。",
+                "穿過入口建築與狐獴屋的三道剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Question the old model.\n2. Study the animal.\n3. Remix precedents.\n4. Design for both sides.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 質疑舊有模式。\n2. 研究動物習性。\n3. 重組參考案例。\n4. 為雙方而設計。"
             }
           }
         }
