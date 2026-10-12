@@ -1,0 +1,55 @@
+{
+  "project": "Auspicious Clouds",
+  "dest": "assets/board/auspicious-clouds-printed-cloud-tower",
+  "note": "Portfolio 606b page 10 cropped to eight images, WebP q88 (PIL). Not used: title and text, inspiration pattern images.",
+  "files": [
+    {
+      "name": "01-cloud-tower.webp",
+      "sha256": "378b89d1af5e7f3ad78e15b7f28758dbb10c9e8d7f537d75cebc39fa369fcbca",
+      "bytes": 18380,
+      "from": "606b page 10 — cloud tower"
+    },
+    {
+      "name": "02-pattern-study.webp",
+      "sha256": "df7fa1259ec2db8e689935e037b9ff24cf56d2cb181f18cdecb57b78b633c1ca",
+      "bytes": 12080,
+      "from": "606b page 10 — pattern study"
+    },
+    {
+      "name": "03-form-study.webp",
+      "sha256": "1e593d60dff2eea19e54d6d3816074287a0236c1a278864eb48f416d64d25356",
+      "bytes": 12208,
+      "from": "606b page 10 — form study"
+    },
+    {
+      "name": "04-mass-study.webp",
+      "sha256": "b944c95a2d9d2cc53d589f7bc3593c051d0e99b57dd1eccf96387123eb5cb6f0",
+      "bytes": 9166,
+      "from": "606b page 10 — mass study"
+    },
+    {
+      "name": "05-tower-view.webp",
+      "sha256": "cefd7c705b2c47a4bb25500f9cf1796dafef9f80c0167690d37b355d051cbad8",
+      "bytes": 18528,
+      "from": "606b page 10 — tower view"
+    },
+    {
+      "name": "06-drawing.webp",
+      "sha256": "e1f4a1a4d932a1598127117739cef564e51cc552f100472a9fabb289edc2d059",
+      "bytes": 32916,
+      "from": "606b page 10 — drawing"
+    },
+    {
+      "name": "07-inside-view.webp",
+      "sha256": "b72a4908bc163d052277fbd74b6c3e5d0eeb3ecf2d24cd717f6f64c0291813ff",
+      "bytes": 11190,
+      "from": "606b page 10 — inside view"
+    },
+    {
+      "name": "08-detail-view.webp",
+      "sha256": "c2793ed2dedd651a404bcd21fa473cd9ff4c7c7c295e170bef3041cf486fd78e",
+      "bytes": 10580,
+      "from": "606b page 10 — detail view"
+    }
+  ]
+}
