@@ -1,0 +1,55 @@
+{
+  "project": "House of Wishes",
+  "dest": "assets/board/house-of-wishes-seaside-learning-house-model",
+  "note": "Portfolio f312 page 2 cropped to eight images, WebP q88 (PIL). Not used: title and text, satellite site photo, a process photo showing the student.",
+  "files": [
+    {
+      "name": "01-section-model.webp",
+      "sha256": "9c921a196bf04456a47856e5cb45f994f0fe299ae2fd1e7d31772942986cc92c",
+      "bytes": 46694,
+      "from": "f312 page 2 — section model"
+    },
+    {
+      "name": "02-wall-parts.webp",
+      "sha256": "cabb95bfc7af89a015cee9d13d202d6e7a3694f01961e1d2c0a77be6a1b5274e",
+      "bytes": 7518,
+      "from": "f312 page 2 — wall parts"
+    },
+    {
+      "name": "03-wall-assembly.webp",
+      "sha256": "9d4cc22e7a003de1f79e24acf1f65a6c4d478c7623e22e8163ba1764494d7a6a",
+      "bytes": 6692,
+      "from": "f312 page 2 — wall assembly"
+    },
+    {
+      "name": "04-plan-diagrams.webp",
+      "sha256": "502bc18f38dfa2eb0bef6f417bc4aa3ab049ac71d499568c79e88cfd21e27c01",
+      "bytes": 8316,
+      "from": "f312 page 2 — plan diagrams"
+    },
+    {
+      "name": "05-early-model.webp",
+      "sha256": "22cde7ee9b9ffd9243720c16607ecba9c0defc2d071176d176951645779a79c1",
+      "bytes": 25802,
+      "from": "f312 page 2 — early model"
+    },
+    {
+      "name": "06-living-room.webp",
+      "sha256": "f9ae2d584c0cb67f7d7ac396d4b1954b1194eb28be86c86fa6774f77973ff50a",
+      "bytes": 7192,
+      "from": "f312 page 2 — living room"
+    },
+    {
+      "name": "07-top-view.webp",
+      "sha256": "5002c86a1f56af7cce9f6d98dec6de6daecc6d09ed72a4d74ceed1f198514627",
+      "bytes": 12412,
+      "from": "f312 page 2 — top view"
+    },
+    {
+      "name": "08-stair-hall.webp",
+      "sha256": "8d1fa0d00a5da670a52ed438005466d2e4b7567abd874af0b286486c4dd0f928",
+      "bytes": 31246,
+      "from": "f312 page 2 — stair hall"
+    }
+  ]
+}
