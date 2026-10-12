@@ -1,0 +1,67 @@
+{
+  "project": "Home in the Tongsui Store",
+  "dest": "assets/board/home-in-the-tongsui-store",
+  "note": "Portfolio 1c9f pages 13–17 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the project information panel and dessert photo on page 13, the field research photos of residents and the daily life chart on page 13, the site analysis maps, site photos and building characteristic photos on page 14, the design purpose diagram on page 14, and the private area interior renderings with photo figures on page 17. No retouching.",
+  "files": [
+    {
+      "name": "01-building-section-model.webp",
+      "sha256": "6bba560784aa6d22e02c145adc135e5334750a8b28321d26c4e87bfd4dca44cd",
+      "bytes": 109962,
+      "from": "1c9f page 13 — building section model, x 16.5–50 %, y 0–100 %"
+    },
+    {
+      "name": "02-bamboo-tube-house.webp",
+      "sha256": "e176929cb10c0fbc900c989a034e8ea604d32fa578f5fc0cfef681ea84f44d82",
+      "bytes": 75370,
+      "from": "page 14 — traditional bamboo tube house exploded axonometric, x 20.5–38.5 %, y 12–100 %"
+    },
+    {
+      "name": "03-existing-building-profile.webp",
+      "sha256": "4ca41008ebfa82af3a4fd7c48720a873f59c609e2a2c021fe9cce61978d0700a",
+      "bytes": 51718,
+      "from": "page 14 — general problem and existing building profile, x 50–80 %, y 0–58 %"
+    },
+    {
+      "name": "04-design-strategy.webp",
+      "sha256": "b0861da9da4c1360f46910be46a2993123e60ff7af474d629b57b1d8de50c8b0",
+      "bytes": 87990,
+      "from": "page 15 — design strategy and space generation, x 0–33.5 %, y 0–100 %"
+    },
+    {
+      "name": "05-physical-model.webp",
+      "sha256": "67701116db191f579c60262d600f71b51eddbd7ad15f9f82c731a0be145f1c12",
+      "bytes": 167786,
+      "from": "page 15 — design performance and physical model, x 33.5–82 %, y 0–100 %"
+    },
+    {
+      "name": "06-node-details.webp",
+      "sha256": "6e8da35261682db5151171071b8ff7a938b125b286f477a5077481b8d3d9b93f",
+      "bytes": 19298,
+      "from": "page 15 — sloping roof node details, x 89.8–98.5 %, y 8–66 %"
+    },
+    {
+      "name": "07-water-bar.webp",
+      "sha256": "cf9be41fa43b24c3f01e4bfb3897eba96dcd2df7d900827cd743ccc21c0f4c1e",
+      "bytes": 89154,
+      "from": "page 16 — water bar, x 0–22.5 %, y 0–100 %"
+    },
+    {
+      "name": "08-patio-platform.webp",
+      "sha256": "3cb7f5c467efe42b81d6461d1f089ef0aad0c54e3c54152cace00c05f74e5b09",
+      "bytes": 188680,
+      "from": "page 16 — patio platform, x 23–69 %, y 0–100 %"
+    },
+    {
+      "name": "09-workshop-gazebo.webp",
+      "sha256": "6a624ca68afc5cbec5e90ea1536737f1d83f9c93430a82cf28304f52e77da7ce",
+      "bytes": 95436,
+      "from": "page 16 — workshop and gazebo, x 69–100 %, y 0–100 %"
+    },
+    {
+      "name": "10-architectural-section.webp",
+      "sha256": "7653ec5fa0f7765657f065ac89cc91116f9b51504b78a5c86b36494f1ad0c29d",
+      "bytes": 118494,
+      "from": "page 17 — architectural section and the idea of epidermis, x 60–100 %, y 0–100 %"
+    }
+  ]
+}
