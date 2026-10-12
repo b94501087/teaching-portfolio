@@ -1,0 +1,37 @@
+{
+  "project": "Bio-based Material",
+  "dest": "assets/board/bio-based-hempcrete-ceiling",
+  "note": "Portfolio 30f3 page 25 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with the instructor name, the testing objectives text, the casting photos with hands and faces, and the closing text naming officials.",
+  "files": [
+    {
+      "name": "01-interlocking-hempcrete-block.webp",
+      "sha256": "c50323472d22a97581e8ad19d347da8631c079f4ce25f8ada01e849a3ead46c1",
+      "bytes": 14998,
+      "from": "30f3 page 25 — final interlocking block model"
+    },
+    {
+      "name": "02-casting-process.webp",
+      "sha256": "6ba9e2f5828462f8d683871d167fd1f39479d7405fd38c913539465fe99f8fc5",
+      "bytes": 21922,
+      "from": "30f3 page 25 — casting process diagram"
+    },
+    {
+      "name": "03-mould-design.webp",
+      "sha256": "88debe6c25572bf98782357539a2256812befcc9b22f9665ae02f8907c229f20",
+      "bytes": 29400,
+      "from": "30f3 page 25 — mould design"
+    },
+    {
+      "name": "04-ceiling-section.webp",
+      "sha256": "4f53482aa7cb96dc6f021c22205aafe88ca970d6154210bb75c5fdcfab12d93a",
+      "bytes": 11450,
+      "from": "30f3 page 25 — ceiling section"
+    },
+    {
+      "name": "05-ceiling-mock-up.webp",
+      "sha256": "7b608d5e4b4bd1a2b55a48785ee6127ad9df531d76e70557a98a44df9cb58ea7",
+      "bytes": 7768,
+      "from": "30f3 page 25 — ceiling mock-up"
+    }
+  ]
+}
