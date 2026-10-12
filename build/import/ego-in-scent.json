@@ -1,0 +1,67 @@
+{
+  "project": "Ego in Scent",
+  "dest": "assets/board/ego-in-scent",
+  "note": "Portfolio 871cf73b pages 6–9 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title block with instructor credit on page 6, the site map, the perfume and child photos and the sense photos on page 7, the bath and space reference photo rows on page 7, and the bath, sauna, shower, spa and massage renderings with photo figures on pages 8–9. The perfume brand name is omitted. No retouching.",
+  "files": [
+    {
+      "name": "01-interior-sequence.webp",
+      "sha256": "71dc74320d740906c9ac626b77da01aba6c86133d87b6f05900c4e1a1156b93c",
+      "bytes": 296926,
+      "from": "871cf73b page 6 — strip of seven interior views, x 50–100 %, y 0–71 %"
+    },
+    {
+      "name": "02-twelve-senses.webp",
+      "sha256": "8ff07895b789963f626ae42af110efd76c0f17f173a87d1fe1320ed3da59fc7c",
+      "bytes": 142348,
+      "from": "page 7 — twelve senses and pheromone diagram, x 26–39.5 %, y 3–95 %"
+    },
+    {
+      "name": "03-morphological-examination.webp",
+      "sha256": "4a56b1652ebfc538c0adfaf641e7c54ca053ad922b7606bf8c17bf413e59ae61",
+      "bytes": 163302,
+      "from": "page 7 — inspiration and morphological examination, x 50.5–99.5 %, y 3–45 %"
+    },
+    {
+      "name": "04-extraction-process.webp",
+      "sha256": "e49508406e200b42904016f0d9d4c2fba438571e76c27a0f72479ae8b1fb7c33",
+      "bytes": 143168,
+      "from": "page 8 — extraction process diagram, x 0–48.5 %, y 0–50 %"
+    },
+    {
+      "name": "05-block-generation.webp",
+      "sha256": "adae6cc9f1492f2feb730ca00cbfd830c95ee89cabee576271508f65f9f472cb",
+      "bytes": 110432,
+      "from": "page 8 — block generation, x 0–27.5 %, y 52–100 %"
+    },
+    {
+      "name": "06-streamline-organization.webp",
+      "sha256": "9284ca97a8f22abceda73528310c19fb88a6357f8af64eb56f5d6708b5806c98",
+      "bytes": 71472,
+      "from": "page 8 — streamline organization, x 28–48.5 %, y 52–98 %"
+    },
+    {
+      "name": "07-bath-plans.webp",
+      "sha256": "04fca9f494c70f4c95a5280ee4b70467173fb3890a84994bc6cfa390652fe600",
+      "bytes": 58830,
+      "from": "page 8 — bath space plans and materials, x 71.5–98.5 %, y 11–43 %"
+    },
+    {
+      "name": "08-aromatherapy.webp",
+      "sha256": "32402b59a43f8edbeb27ddf04a72f2400cd90def9bff07f21e5c3774a82c73f5",
+      "bytes": 134094,
+      "from": "page 9 — aromatherapy space rendering, x 51.5–70 %, y 32–86.5 %"
+    },
+    {
+      "name": "09-showroom.webp",
+      "sha256": "fd2589001d15e7f78ed4f1305a3f90a0e3894acd88607c9671ef9598d45a6b01",
+      "bytes": 151616,
+      "from": "page 9 — showroom rendering, x 71–98.5 %, y 21–57.5 %"
+    },
+    {
+      "name": "10-showroom-plan.webp",
+      "sha256": "d30f7478b95f64bf7077523274933ec701c9bf440e2386ee832e29a06bb4b1f3",
+      "bytes": 49132,
+      "from": "page 9 — showroom plan and materials, x 76.2–98.5 %, y 58.5–100 %"
+    }
+  ]
+}
