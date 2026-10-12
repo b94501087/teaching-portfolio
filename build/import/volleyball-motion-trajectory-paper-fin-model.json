@@ -1,0 +1,67 @@
+{
+  "project": "Volleyball Motion Trajectory",
+  "dest": "assets/board/volleyball-motion-trajectory-paper-fin-model",
+  "note": "Portfolio ce05 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, video frames showing the player, equipment diagram.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "b78edbc97808178f53ef93d3b06ca334ef9446416df7c8379d91f302c629e212",
+      "bytes": 131772,
+      "from": "ce05 page 3 — final model"
+    },
+    {
+      "name": "02-trajectory.webp",
+      "sha256": "b2a306933ea21e63176f130a300de4e2266d7ae384ecfd3f81b3de4d067cfcfd",
+      "bytes": 59668,
+      "from": "ce05 page 2 — trajectory"
+    },
+    {
+      "name": "03-digital-model.webp",
+      "sha256": "1c12b6b24eebbf3ca53c71cc3be02e8a1dfda3ed0a51602085cf4324fa2aa855",
+      "bytes": 17288,
+      "from": "ce05 page 2 — digital model"
+    },
+    {
+      "name": "04-fin-studies.webp",
+      "sha256": "74279cb7f37020b06aedff48c5da8604b2f79a3d93e0cb37518c7d669d7ae316",
+      "bytes": 44000,
+      "from": "ce05 page 2 — fin studies"
+    },
+    {
+      "name": "05-process.webp",
+      "sha256": "34b417eed3beccb5e6955df7b7d99758d702407af958b312f973f62b21fe4ebd",
+      "bytes": 76248,
+      "from": "ce05 page 2 — process"
+    },
+    {
+      "name": "06-frame-test.webp",
+      "sha256": "5873369c1d3a0b72d43a6c080c4e104146c5b5a5269c6bae3315b059a5dae67f",
+      "bytes": 87824,
+      "from": "ce05 page 2 — frame test"
+    },
+    {
+      "name": "07-line-drawings.webp",
+      "sha256": "c2a43c2ff07dd797b4e56f6389f598de53e0aa34e02b494116f2f20bdf5b1d64",
+      "bytes": 70056,
+      "from": "ce05 page 3 — line drawings"
+    },
+    {
+      "name": "08-colour-drawing.webp",
+      "sha256": "1b58dac59ab5cc87977841d7d037e5fad853bd24c8f0b5e4cc2db65afc7e7cc4",
+      "bytes": 81856,
+      "from": "ce05 page 3 — colour drawing"
+    },
+    {
+      "name": "09-side-view.webp",
+      "sha256": "4427e33139c2e6d89fcc74af7aac68baa58f634d799917ddede5511b6e91f9d5",
+      "bytes": 44316,
+      "from": "ce05 page 3 — side view"
+    },
+    {
+      "name": "10-corner-view.webp",
+      "sha256": "564ec300abcb39cec0f042a18d50dd2b7bb6bfa69edab2e2a0d7be8ee1c3f0e1",
+      "bytes": 38678,
+      "from": "ce05 page 3 — corner view"
+    }
+  ]
+}
