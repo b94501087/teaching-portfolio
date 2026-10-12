@@ -1,0 +1,67 @@
+{
+  "project": "Summer Studio II: Environmental Education Pavilion",
+  "dest": "assets/board/summer-studio-environmental-education-pavilion",
+  "note": "Portfolio ca16 pages 3-4 cropped to ten images, WebP q88 (PIL). Not used: title with programme name, description text naming the park, size and medium labels.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "ac4043a99fdfbc8e314a9342290e388a1437bde7ab6e0159ae8fc2926325315b",
+      "bytes": 32180,
+      "from": "ca16 page 4 — tower model, front"
+    },
+    {
+      "name": "02-functional-diagram.webp",
+      "sha256": "bb085ab41c14d3207ac728a624aaf0e377049d0983e4f51387ad0212a89edfd1",
+      "bytes": 11596,
+      "from": "ca16 page 3 — functional diagram"
+    },
+    {
+      "name": "03-plan.webp",
+      "sha256": "eb1723aa663a47a97b860c69ff0ac0ba1f873bc46a87cc4a0f65a0df534b85f8",
+      "bytes": 20346,
+      "from": "ca16 page 3 — architecture plan"
+    },
+    {
+      "name": "04-sections.webp",
+      "sha256": "44aa8f30225064f03c5b5f2703e487b06d92f3a525bdeb52508fb935fbab6971",
+      "bytes": 34934,
+      "from": "ca16 page 3 — sections A-A, B-B, C-C"
+    },
+    {
+      "name": "05-axonometric.webp",
+      "sha256": "e2310e4270e06cc303285fced89cb30894b68e324a842a259d01c4f7570fe674",
+      "bytes": 33662,
+      "from": "ca16 page 3 — axonometric sketch"
+    },
+    {
+      "name": "06-pavilion-model.webp",
+      "sha256": "636e0fa83d92543133ad280b85fb66fa8da49d9f6f284e8aa973e97358790c6f",
+      "bytes": 18806,
+      "from": "ca16 page 3 — pavilion model"
+    },
+    {
+      "name": "07-model-details.webp",
+      "sha256": "8d81a097d248d5039f6cb574ca871e3ae8a0d6dd2f0ffbeb67eee02d77657bcf",
+      "bytes": 32474,
+      "from": "ca16 page 3 — model details"
+    },
+    {
+      "name": "08-tower-interior.webp",
+      "sha256": "a3646624b3599ae19666a616924e1cc0041725ec3010be323c0801cebe3b565a",
+      "bytes": 41008,
+      "from": "ca16 page 4 — tower model interior"
+    },
+    {
+      "name": "09-tower-views.webp",
+      "sha256": "338284051c7196bc15766409412ccf0c1ddeef602745877ba790204369b8496a",
+      "bytes": 87256,
+      "from": "ca16 page 4 — tower model views"
+    },
+    {
+      "name": "10-tower-sketches.webp",
+      "sha256": "e2765dd5578da2179973c0fc570e88be9d486e49bfef647fc68f27cc898d98ae",
+      "bytes": 92920,
+      "from": "ca16 page 4 — tower perspective sketches"
+    }
+  ]
+}
