@@ -1,7 +1,7 @@
 {
   "project": "The Past and Future of KaoLao Pier",
   "dest": "assets/board/kaolao-pier-past-and-future",
-  "note": "Portfolio f45d pages 8–13 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the cover text with names and contacts, the interview comic pages with drawn portraits and street photos, the history timeline, the strategy and zoning diagrams with photo circles, the masterplan on an aerial photo, the beach, conveyor and museum renders with photo figures, the seasonal and energy charts with photos, the aquaculture drawing with photo circles and the body text.",
+  "note": "Portfolio f45d pages 8–14 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the cover text with names and contacts, the interview comic pages with drawn portraits and street photos, the history timeline, the strategy and zoning diagrams with photo circles, the masterplan on an aerial photo, the beach, conveyor and museum renders with photo figures, the seasonal and energy charts with photos, the aquaculture drawing with photo circles the plan on a landscape photo, the wharf and hotel render, the usage figures, the stool model photos with hands and the abacus photo, and the body text.",
   "files": [
     {
       "name": "01-cabin-section.webp",
@@ -38,6 +38,18 @@
       "sha256": "ce7b169298eac02d6c04bcce978e5f893bbe299720739b02b0efbde73eca9d5e",
       "bytes": 13646,
       "from": "page 12 — timber jetty section with silhouettes, x 0–50 %, y 93.5–100 %"
+    },
+    {
+      "name": "09-stool-concept.webp",
+      "sha256": "3dd7102b9536309dc2db6d08a98f50d6de8cb9a4c9d4ade18814a78be7849bba",
+      "bytes": 51430,
+      "from": "page 14 — stool design concept drawings, x 52–74 %, y 15.5–98.5 %"
+    },
+    {
+      "name": "10-pod-section.webp",
+      "sha256": "ee723da145c64d719b78dfeaeea0a3b332da5ffeff2990cd92799d277399307a",
+      "bytes": 18918,
+      "from": "page 14 — section 1:100 line drawing, x 23–50 %, y 47.5–77.5 %"
     },
     {
       "name": "07-museum-plan.webp",
