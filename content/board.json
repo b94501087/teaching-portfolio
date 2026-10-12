@@ -25475,6 +25475,149 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Heretical Intervention",
+      "slug": "heretical-intervention-folded-space",
+      "description": "One photo is read in many ways and grows into a folded space between two buildings.\n\nGuangzhou, China | Cultural building | 2018 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "異質介入",
+          "description": "一張照片被多角度解讀，生長為兩棟建築之間的摺疊空間。\n\n中國廣州｜文化建築｜2018｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/heretical-intervention-folded-space/01-folded-interior.webp",
+        "assets/board/heretical-intervention-folded-space/02-concept-extraction.webp",
+        "assets/board/heretical-intervention-folded-space/03-study-models.webp",
+        "assets/board/heretical-intervention-folded-space/04-wire-models.webp",
+        "assets/board/heretical-intervention-folded-space/05-model-details.webp",
+        "assets/board/heretical-intervention-folded-space/06-section.webp",
+        "assets/board/heretical-intervention-folded-space/07-model-top-view.webp",
+        "assets/board/heretical-intervention-folded-space/08-model-front-view.webp",
+        "assets/board/heretical-intervention-folded-space/09-model-overview.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/heretical-intervention-folded-space/01-folded-interior.webp"
+          ],
+          "captions": [
+            "Light falls through folded planes inside the building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "光線穿過建築內部的摺疊面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project starts from one photo the student took and asks how many design ideas a single image can hold. Each way of looking at it, from shape to colour to density, could lead to a different space.",
+          "images": [
+            "assets/board/heretical-intervention-folded-space/02-concept-extraction.webp"
+          ],
+          "captions": [
+            "Drawings that pull outlines, geometry and density out of the photo."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案從學生自己拍攝的一張照片出發，探問一張影像能容納多少設計概念。從形狀、色彩到密度，每一種觀看方式都可能導向不同的空間。",
+              "captions": [
+                "從照片中抽取輪廓、幾何與密度的圖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The extracted ideas are sorted into three themes: outline, geometry and density. Each theme is then tested with its own material in small study models.",
+          "images": [
+            "assets/board/heretical-intervention-folded-space/03-study-models.webp",
+            "assets/board/heretical-intervention-folded-space/04-wire-models.webp"
+          ],
+          "captions": [
+            "Study models for each theme.",
+            "Wire models that turn outlines into volume."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "抽取出的概念被歸納為輪廓、幾何與密度三個主題。每個主題再以各自的材料，在小型研究模型中測試。",
+              "captions": [
+                "各主題的研究模型。",
+                "把輪廓轉化為量體的線材模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The outline theme and the triangle theme are combined into a space of lines, surfaces and volume. This growth is drawn in section as it climbs between the floors of two blocks.",
+          "images": [
+            "assets/board/heretical-intervention-folded-space/05-model-details.webp",
+            "assets/board/heretical-intervention-folded-space/06-section.webp"
+          ],
+          "captions": [
+            "Close views of the folded paper model.",
+            "Section showing the structure growing between floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "輪廓主題與三角形主題被結合為由線、面與量體構成的空間。剖面圖呈現這個構造如何在兩棟量體的樓層之間向上生長。",
+              "captions": [
+                "摺紙模型的近景。",
+                "呈現構造在樓層間生長的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model sets a cluster of folded triangles between two plain boxes. The folded mass works as a medium that links the two buildings and casts changing light inside.",
+          "images": [
+            "assets/board/heretical-intervention-folded-space/07-model-top-view.webp",
+            "assets/board/heretical-intervention-folded-space/08-model-front-view.webp",
+            "assets/board/heretical-intervention-folded-space/09-model-overview.webp"
+          ],
+          "captions": [
+            "Physical model, top view.",
+            "Physical model, front view.",
+            "Physical model, overall view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型在兩個素淨的方盒之間置入一團摺疊三角形。這個摺疊量體作為媒介連接兩棟建築，並在室內投下變化的光影。",
+              "captions": [
+                "實體模型俯視。",
+                "實體模型正面。",
+                "實體模型整體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one image.\n2. Pull out several ideas.\n3. Test each with a material.\n4. Combine the strongest two.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一張影像出發。\n2. 抽取多個概念。\n3. 為每個概念選材料測試。\n4. 結合最有力的兩個。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
