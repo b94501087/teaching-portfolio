@@ -41380,6 +41380,570 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "A Spatial Narrative of Escape",
+      "slug": "spatial-narrative-of-escape-maze-model",
+      "description": "Four escape tactics from a prison drama become four linked spaces around a spiral stair, later rebuilt as a game level.\n\nModel making | Spatial narrative | Mixed-media maze | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "逃脫的空間敘事",
+          "description": "一部越獄影集中的四種逃脫手法，化為環繞螺旋梯相連的四個空間，之後再重建成遊戲關卡。\n\n模型製作｜空間敘事｜複合材料迷宮｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/spatial-narrative-of-escape-maze-model/01-escape-model.webp",
+        "assets/board/spatial-narrative-of-escape-maze-model/02-escape-route-sketch.webp",
+        "assets/board/spatial-narrative-of-escape-maze-model/03-wire-net-detail.webp",
+        "assets/board/spatial-narrative-of-escape-maze-model/04-stair-detail.webp",
+        "assets/board/spatial-narrative-of-escape-maze-model/05-arch-and-stair-detail.webp",
+        "assets/board/spatial-narrative-of-escape-maze-model/06-staircase-drawing.webp",
+        "assets/board/spatial-narrative-of-escape-maze-model/07-stair-and-arch-drawing.webp",
+        "assets/board/spatial-narrative-of-escape-maze-model/08-game-scenes.webp",
+        "assets/board/spatial-narrative-of-escape-maze-model/09-game-paths.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/spatial-narrative-of-escape-maze-model/01-escape-model.webp"
+          ],
+          "captions": [
+            "The finished escape model in PVC, sticks, wire net and clay."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以PVC、木棒、鐵絲網與黏土完成的逃脫模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student admired how a TV prison drama solves escape through careful planning rather than force. The project asks how a sequence of clever escape moves can be told as one continuous space.",
+          "images": [
+            "assets/board/spatial-narrative-of-escape-maze-model/02-escape-route-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of the escape route through four parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生欣賞一部監獄影集以縝密計畫而非蠻力完成逃脫。作品探問，一連串巧妙的逃脫行動，如何被敘述成一個連續的空間。",
+              "captions": [
+                "貫穿四個部分的逃脫路線草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Four moves were studied: chiselling a wall, a tattooed map, corroded sewer bars and an elevator-shaft climb. Each move was reduced to a material action such as cutting, layering, dissolving or climbing.",
+          "images": [
+            "assets/board/spatial-narrative-of-escape-maze-model/03-wire-net-detail.webp",
+            "assets/board/spatial-narrative-of-escape-maze-model/04-stair-detail.webp"
+          ],
+          "captions": [
+            "Shaping the wire net.",
+            "Stair pieces in progress."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究四個行動：鑿穿牆面、刺青地圖、腐蝕下水道鐵條與攀爬電梯井。每個行動都被轉譯為切割、層疊、溶解或攀爬等材料動作。",
+              "captions": [
+                "塑形鐵絲網。",
+                "製作中的樓梯構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A central spiral stair links four smaller spaces, with PVC window openings, a mapped surface and a criss-cross stick network. Hand drawings tested how stairs, arches and textures wind through the volume.",
+          "images": [
+            "assets/board/spatial-narrative-of-escape-maze-model/05-arch-and-stair-detail.webp",
+            "assets/board/spatial-narrative-of-escape-maze-model/06-staircase-drawing.webp",
+            "assets/board/spatial-narrative-of-escape-maze-model/07-stair-and-arch-drawing.webp"
+          ],
+          "captions": [
+            "Arches and stair in the model.",
+            "Drawing of the winding staircase.",
+            "Drawing of stairs and arches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "中央螺旋梯串連四個較小的空間，包含PVC窗洞、地圖化的表面與交錯的木棒網絡。手繪圖測試樓梯、拱與紋理如何在量體中盤繞。",
+              "captions": [
+                "模型中的拱與樓梯。",
+                "盤繞樓梯手繪圖。",
+                "樓梯與拱的手繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model reads as a dense maze where every route ends in a breakthrough. The student then rebuilt it in a game engine as a playable final level of an escape game.",
+          "images": [
+            "assets/board/spatial-narrative-of-escape-maze-model/08-game-scenes.webp",
+            "assets/board/spatial-narrative-of-escape-maze-model/09-game-paths.webp"
+          ],
+          "captions": [
+            "Scenes from the game level.",
+            "Stick paths in the game level."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型成為一座密集的迷宮，每條路線都通往一次突破。學生之後在遊戲引擎中重建模型，成為逃脫遊戲中可遊玩的最終關卡。",
+              "captions": [
+                "遊戲關卡場景。",
+                "遊戲關卡中的木棒路徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a story.\n2. Split it into moves.\n3. Give each move a space.\n4. Link them in one route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個故事。\n2. 拆解成行動。\n3. 為每個行動配置空間。\n4. 以一條路線串連。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Restyled Temple of Time",
+      "slug": "restyled-temple-of-time-bamboo-stick-model",
+      "description": "A stepped temple from a favourite video game is rebuilt in bamboo strips and ringed with hanging sticks of many heights.\n\nModel making | Game-inspired architecture | Bamboo stick model | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重塑時之神殿",
+          "description": "學生把喜愛的電玩中一座階梯式神殿，以竹條重新搭建，並以高低不一的垂掛木棒環繞。\n\n模型製作｜遊戲啟發建築｜竹木棒模型｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/01-stick-temple-model.webp",
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/02-facade-and-roof-sketches.webp",
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/03-vertical-line-translation.webp",
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/04-building-the-layers.webp",
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/05-assembling-the-base.webp",
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/06-interior-light.webp",
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/07-interior-sketch.webp",
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/08-top-view-with-figures.webp",
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/09-hanging-stick-details.webp",
+        "assets/board/restyled-temple-of-time-bamboo-stick-model/10-interior-corridor.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/01-stick-temple-model.webp"
+          ],
+          "captions": [
+            "The finished temple wrapped in hanging sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "被垂掛木棒包覆的完成神殿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student loved a calm, monumental temple in a video game and wanted to build it without making a copy. The question was how to keep its stepped silhouette while making it feel open and light.",
+          "images": [
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/02-facade-and-roof-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of the front facade and the roof space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生喜愛電玩中一座沉靜而宏偉的神殿，想將它做成模型卻不只是複製。問題在於如何保留階梯式輪廓，同時讓它顯得開放輕盈。",
+              "captions": [
+                "正立面與屋頂空間草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sketches broke the facade and roof into stacked layers that could be built in strips. The overall form was then redrawn as dense vertical lines, a step that set the language of the model.",
+          "images": [
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/03-vertical-line-translation.webp"
+          ],
+          "captions": [
+            "Translating the exterior into vertical lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以草圖把立面與屋頂拆解為可用條材搭建的堆疊層次。整體造型再被重繪成密集的垂直線條，奠定模型的語彙。",
+              "captions": [
+                "將外觀轉譯為垂直線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Thin bamboo strips were laid layer by layer and glued into curved floors and frames. Vertical sticks of varied heights were then added around the edge to form a loose boundary.",
+          "images": [
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/04-building-the-layers.webp",
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/05-assembling-the-base.webp",
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/07-interior-sketch.webp"
+          ],
+          "captions": [
+            "Building the layers.",
+            "Assembling the base frame.",
+            "Sketch of the interior structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以細竹條逐層鋪設，黏合成弧形樓板與框架。接著在外緣加上高低不一的垂直木棒，形成鬆散的邊界。",
+              "captions": [
+                "逐層搭建。",
+                "組裝底部框架。",
+                "室內結構素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "When lit, the sticks cast moving shadows across the stepped floors and give the temple depth. Small red figures show how the open interior can be walked through.",
+          "images": [
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/06-interior-light.webp",
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/08-top-view-with-figures.webp",
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/09-hanging-stick-details.webp",
+            "assets/board/restyled-temple-of-time-bamboo-stick-model/10-interior-corridor.webp"
+          ],
+          "captions": [
+            "Light falling into the interior.",
+            "Top view with scale figures.",
+            "Details of the hanging sticks.",
+            "The interior corridor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在燈光下，木棒於階梯樓板上投下變化的光影，讓神殿更有深度。紅色小人偶顯示開放的室內如何被穿行。",
+              "captions": [
+                "灑入室內的光線。",
+                "附比例人偶的俯視。",
+                "垂掛木棒細部。",
+                "室內廊道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a loved building.\n2. Sketch its layers.\n3. Translate into lines.\n4. Build and light it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一座喜愛的建築。\n2. 描繪它的層次。\n3. 轉譯為線條。\n4. 搭建並打光。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Medieval Castle Isometric Studies",
+      "slug": "medieval-castle-isometric-digital-models",
+      "description": "Gothic castle parts are modelled one by one and recombined into three coloured isometric castles.\n\nDigital modelling | Isometric design | Gothic castle | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "中世紀城堡等角研究",
+          "description": "哥德式城堡構件被逐一建模，再重組成三座上色的等角城堡。\n\n數位建模｜等角設計｜哥德城堡｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/medieval-castle-isometric-digital-models/01-pink-castle-render.webp",
+        "assets/board/medieval-castle-isometric-digital-models/02-tower-and-window-parts.webp",
+        "assets/board/medieval-castle-isometric-digital-models/03-roof-and-spire-parts.webp",
+        "assets/board/medieval-castle-isometric-digital-models/04-sand-castle-render.webp",
+        "assets/board/medieval-castle-isometric-digital-models/05-orange-castle-render.webp",
+        "assets/board/medieval-castle-isometric-digital-models/06-castle-elevations.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/medieval-castle-isometric-digital-models/01-pink-castle-render.webp"
+          ],
+          "captions": [
+            "A tall castle rendered in pink light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以粉色光線渲染的高聳城堡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A castle in a favourite animated series caught the student's eye with its bold gothic forms and colours. The aim was to rebuild that spirit as new castles rather than copy a single scene.",
+          "images": [
+            "assets/board/medieval-castle-isometric-digital-models/02-tower-and-window-parts.webp"
+          ],
+          "captions": [
+            "Tower, pier and window parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生被一部喜愛的動畫中城堡大膽的哥德造型與配色吸引。目標是將那份精神重建為新的城堡，而不是複製單一場景。",
+              "captions": [
+                "塔、柱墩與窗的構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student sketched typical parts such as towers, pointed windows, domes and spires. Each part was then modelled in Rhino as a reusable piece.",
+          "images": [
+            "assets/board/medieval-castle-isometric-digital-models/03-roof-and-spire-parts.webp"
+          ],
+          "captions": [
+            "Roof, dome and spire parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先描繪塔樓、尖拱窗、圓頂與尖塔等典型構件。再於Rhino中將每個構件建成可重複使用的元件。",
+              "captions": [
+                "屋頂、圓頂與尖塔構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The parts were combined into different castles with stairs, terraces and bridges between towers. Isometric views were exported and coloured with simple settings around them.",
+          "images": [
+            "assets/board/medieval-castle-isometric-digital-models/04-sand-castle-render.webp",
+            "assets/board/medieval-castle-isometric-digital-models/05-orange-castle-render.webp"
+          ],
+          "captions": [
+            "Castle on a sandy ground.",
+            "Castle with arcades in orange light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把構件組合成不同的城堡，以樓梯、平台與橋樑連接各塔。等角視圖匯出後加上色彩與簡單的環境布景。",
+              "captions": [
+                "立於沙地的城堡。",
+                "橘光下帶拱廊的城堡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Three castles show how one kit of parts can produce very different moods. Line elevations record the outlines of each design.",
+          "images": [
+            "assets/board/medieval-castle-isometric-digital-models/06-castle-elevations.webp"
+          ],
+          "captions": [
+            "Line elevations of the castles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "三座城堡顯示同一套構件能營造截然不同的氛圍。線稿立面記錄了每個設計的輪廓。",
+              "captions": [
+                "城堡的線稿立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a style you love.\n2. Collect its parts.\n3. Model each part.\n4. Recombine and colour.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一種喜愛的風格。\n2. 收集它的構件。\n3. 逐一建模。\n4. 重組並上色。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Vertical Terrains",
+      "slug": "vertical-terrains-stacked-landscape-forest",
+      "description": "Terrain data from places the student loves is stacked into layered landscapes held up by white columns, forming a vertical forest.\n\nModel making | Parametric terrain | Layered landscape | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "垂直地景",
+          "description": "學生把喜愛之地的地形資料堆疊成多層地景，由白色柱體支撐，形成一座垂直森林。\n\n模型製作｜參數化地形｜層疊地景｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/vertical-terrains-stacked-landscape-forest/01-forest-between-terrains.webp",
+        "assets/board/vertical-terrains-stacked-landscape-forest/02-terrain-data-sources.webp",
+        "assets/board/vertical-terrains-stacked-landscape-forest/03-terrain-script-and-surfaces.webp",
+        "assets/board/vertical-terrains-stacked-landscape-forest/04-stacked-terrain-axonometric.webp",
+        "assets/board/vertical-terrains-stacked-landscape-forest/05-column-interior-render.webp",
+        "assets/board/vertical-terrains-stacked-landscape-forest/06-model-in-progress.webp",
+        "assets/board/vertical-terrains-stacked-landscape-forest/07-planted-terrain-details.webp",
+        "assets/board/vertical-terrains-stacked-landscape-forest/08-finished-model-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/vertical-terrains-stacked-landscape-forest/01-forest-between-terrains.webp"
+          ],
+          "captions": [
+            "Trees and columns between two terrain layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "兩層地形之間的樹木與柱體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Travel lets people feel landscapes and local culture in a way screens cannot. The project asks how landscapes from many places could be gathered into one compact, vertical forest.",
+          "images": [
+            "assets/board/vertical-terrains-stacked-landscape-forest/02-terrain-data-sources.webp"
+          ],
+          "captions": [
+            "Height maps and landscape photos used as sources."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "旅行讓人以螢幕無法取代的方式感受地景與在地文化。作品探問，如何把多地的地景聚集成一座緊湊的垂直森林。",
+              "captions": [
+                "作為來源的高程圖與地景照片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student collected elevation data of places visited or wished for and read it as height maps. A node script turned each map into a 3D terrain surface.",
+          "images": [
+            "assets/board/vertical-terrains-stacked-landscape-forest/03-terrain-script-and-surfaces.webp"
+          ],
+          "captions": [
+            "Node script and generated terrain surfaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生收集曾造訪或嚮往之地的高程資料，並以高程圖讀取。透過節點程式，每張圖都被轉成立體地形曲面。",
+              "captions": [
+                "節點程式與生成的地形曲面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Two terrains were stacked and propped apart by tapered white columns. Layers of PVC plate were cut to the contours and the columns were 3D-printed.",
+          "images": [
+            "assets/board/vertical-terrains-stacked-landscape-forest/04-stacked-terrain-axonometric.webp",
+            "assets/board/vertical-terrains-stacked-landscape-forest/05-column-interior-render.webp",
+            "assets/board/vertical-terrains-stacked-landscape-forest/06-model-in-progress.webp"
+          ],
+          "captions": [
+            "Axonometric of the stacked terrains.",
+            "Render of the space between the columns.",
+            "The contour model in progress."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "兩層地形上下堆疊，由漸縮的白色柱體撐開。學生依等高線切割PVC板層層疊合，柱體則以3D列印製作。",
+              "captions": [
+                "堆疊地形軸測圖。",
+                "柱間空間渲染。",
+                "製作中的等高線模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Moss and small trees cover both levels so the model reads as a forest climbing upward. Between the layers, the columns frame a shaded valley.",
+          "images": [
+            "assets/board/vertical-terrains-stacked-landscape-forest/07-planted-terrain-details.webp",
+            "assets/board/vertical-terrains-stacked-landscape-forest/08-finished-model-views.webp"
+          ],
+          "captions": [
+            "Planted terrain details.",
+            "Views of the finished model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "苔蘚與小樹覆蓋上下兩層，讓模型讀起來像一座向上攀升的森林。層與層之間，柱體框出一處陰涼的山谷。",
+              "captions": [
+                "植栽地形細部。",
+                "完成模型各角度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect terrain data.\n2. Script the surfaces.\n3. Stack and support them.\n4. Plant the layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集地形資料。\n2. 以程式生成曲面。\n3. 堆疊並支撐。\n4. 為各層植栽。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
