@@ -1,0 +1,61 @@
+{
+  "project": "Frozen Harbour",
+  "dest": "assets/board/frozen-harbour-game-map-to-straw-and-stick-model",
+  "note": "Portfolio 9caf pages 12-13 cropped to nine images, WebP q88 (PIL). Not used: title and text, game title, process photos showing the student.",
+  "files": [
+    {
+      "name": "01-iceberg-view.webp",
+      "sha256": "4ef9f783de15cb1247bd52baba49f9d1ebce96681fc85e398c250b48686858cb",
+      "bytes": 122428,
+      "from": "9caf page 13 — iceberg view"
+    },
+    {
+      "name": "02-game-art.webp",
+      "sha256": "c0521a0eb5f5474aac5976b6eeee011b7bcb492b6f4173951b16145ce7c27591",
+      "bytes": 60508,
+      "from": "9caf page 12 — game art"
+    },
+    {
+      "name": "03-element-sketches.webp",
+      "sha256": "ab87ccf51203f38cbd6922e3c4f253ddd7d6168cc3b97ba7b2f88fe4be5aa784",
+      "bytes": 33242,
+      "from": "9caf page 12 — element sketches"
+    },
+    {
+      "name": "04-flat-composition.webp",
+      "sha256": "914f579981183e82a4dab7f1bdc0b96a96298040aa6876862618aecbaa2a6012",
+      "bytes": 25758,
+      "from": "9caf page 12 — flat composition"
+    },
+    {
+      "name": "05-process.webp",
+      "sha256": "ab9bb50472f9ff3a2098bd3d25cf01234344244d368516f3e87fb899aeecc24d",
+      "bytes": 24874,
+      "from": "9caf page 12 — process"
+    },
+    {
+      "name": "06-collage-drawing.webp",
+      "sha256": "c64a26fc2a84a63985bd2a403b6fe2eec54e12784d5bd69203fba7c383525e0a",
+      "bytes": 41274,
+      "from": "9caf page 13 — collage drawing"
+    },
+    {
+      "name": "07-container-detail.webp",
+      "sha256": "b1ac84f46dcbf60602c2211a2e3c68244e9d27716ce8952a71f6c27d5110d3d4",
+      "bytes": 23446,
+      "from": "9caf page 13 — container detail"
+    },
+    {
+      "name": "08-crane-detail.webp",
+      "sha256": "c6d6b0c5fb7127b805cbb4f066aac554eedfd7400228732cb6edae1ebe0cd6f1",
+      "bytes": 47126,
+      "from": "9caf page 13 — crane detail"
+    },
+    {
+      "name": "09-side-view.webp",
+      "sha256": "42752a93ddbb3a32dca08858480ed68a66b2c0447c482410de812f67e4b6cdbf",
+      "bytes": 31230,
+      "from": "9caf page 13 — side view"
+    }
+  ]
+}
