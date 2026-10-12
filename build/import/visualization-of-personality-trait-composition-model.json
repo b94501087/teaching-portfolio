@@ -1,0 +1,67 @@
+{
+  "project": "Visualization of Personality",
+  "dest": "assets/board/visualization-of-personality-trait-composition-model",
+  "note": "Portfolio 8409 pages 11-12 cropped to ten images, WebP q88 (PIL). Not used: personality-test labels, theorist names, process photo showing the student.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "5ebda8204972fd6be1ad2875630dcbb58dafae33ff96fcd33909f8cb437c1ce5",
+      "bytes": 82754,
+      "from": "8409 page 12 — final model"
+    },
+    {
+      "name": "02-warm-circles.webp",
+      "sha256": "8c75f4f3b93e5ab7d4a29292ee6ad3cc482e3074ec38074f10d15af7c55a6b19",
+      "bytes": 31402,
+      "from": "8409 page 11 — warm circles"
+    },
+    {
+      "name": "03-blocks-and-lines.webp",
+      "sha256": "70efbb99515fe903a77b4b71eefa48533d6ddab5184fc82b7f2ca2fec471068e",
+      "bytes": 24732,
+      "from": "8409 page 11 — blocks and lines"
+    },
+    {
+      "name": "04-closed-shape.webp",
+      "sha256": "62efae0ffbcb9e2f534834e3b4ce6ddd15bd95249ea7a026ec7b5556f7a5dc14",
+      "bytes": 16084,
+      "from": "8409 page 11 — closed shape"
+    },
+    {
+      "name": "05-mixed-patterns.webp",
+      "sha256": "de3038ae1b75d85cb7da0496c15421a55c3dfa766ad82061646c86173a579ffa",
+      "bytes": 34934,
+      "from": "8409 page 11 — mixed patterns"
+    },
+    {
+      "name": "06-line-drawing.webp",
+      "sha256": "004a680b4ef708fc2eb3361f7d4cfa39816cc40b17115bc0f3dc158fd2db47c6",
+      "bytes": 53708,
+      "from": "8409 page 11 — line drawing"
+    },
+    {
+      "name": "07-building-model.webp",
+      "sha256": "c9cd347762230707e166f62b5689aaa03c76351922035d1a6111140b28f1000b",
+      "bytes": 42680,
+      "from": "8409 page 11 — building model"
+    },
+    {
+      "name": "08-top-view-a.webp",
+      "sha256": "d4643799ddc02e0886a5bf83d7ebea7cb7f9ddc1ec8e4d4ba8dc4f1e6b1d1bc0",
+      "bytes": 27328,
+      "from": "8409 page 12 — top view a"
+    },
+    {
+      "name": "09-top-view-b.webp",
+      "sha256": "7859fcac40b63ef6cb09c863de34802a98c05a8f67bc513c09d2a2e8a41acbe9",
+      "bytes": 42732,
+      "from": "8409 page 12 — top view b"
+    },
+    {
+      "name": "10-angle-view.webp",
+      "sha256": "c0d423964cebe56efb07871eb3c058efb395f18f4dd972aa6f9761ba36320003",
+      "bytes": 52094,
+      "from": "8409 page 12 — angle view"
+    }
+  ]
+}
