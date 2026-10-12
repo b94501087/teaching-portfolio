@@ -1,0 +1,55 @@
+{
+  "project": "Rhythm",
+  "dest": "assets/board/rhythm-rowing-arm-structure-model",
+  "note": "Portfolio 2cd4 pages 9-10 cropped to eight images, WebP q88 (PIL). Not used: title and statement text.",
+  "files": [
+    {
+      "name": "01-kinetic-synergy-model.webp",
+      "sha256": "1509e99c1054ba269eeceeefd25c2c16a83d10feb94037a0f28f326c8194cf57",
+      "bytes": 90816,
+      "from": "2cd4 page 10 — model of rowing kinetic synergy"
+    },
+    {
+      "name": "02-study-models.webp",
+      "sha256": "79f2c4f6ab99649f335a7f1df139c73a9950c2caaf6afb37b2e27cdf5bededca",
+      "bytes": 21714,
+      "from": "2cd4 page 9 — three study models"
+    },
+    {
+      "name": "03-arm-motion-drawing.webp",
+      "sha256": "bdc4da4ab3d5d8927d3be4bee6d61e90560c255937515a8301ea3dfdb14789b2",
+      "bytes": 54132,
+      "from": "2cd4 page 9 — arm motion drawing"
+    },
+    {
+      "name": "04-arm-structure-a.webp",
+      "sha256": "2b2b4d2dc9665656b48f2b766f0a0a691ff7b4e5d09e31fe1040070fea4a4f58",
+      "bytes": 13668,
+      "from": "2cd4 page 9 — arm structure model, view one"
+    },
+    {
+      "name": "05-arm-structure-b.webp",
+      "sha256": "c8d6ca54367142b0f53051164ba3a263c722549fcc300c95663c99d72988b4e7",
+      "bytes": 15992,
+      "from": "2cd4 page 9 — arm structure model, view two"
+    },
+    {
+      "name": "06-arm-structure-model.webp",
+      "sha256": "a3b83ddd0abcddd723520c1056a2b8471645cf8454cc6b848b6b92ed1fa94b2f",
+      "bytes": 33380,
+      "from": "2cd4 page 9 — arm structure model, full view"
+    },
+    {
+      "name": "07-synergy-in-hand.webp",
+      "sha256": "29e328699ace764a97287fc5b945c4d35aa19c00acd1a345313148dad5c20ae2",
+      "bytes": 18794,
+      "from": "2cd4 page 10 — synergy model handled"
+    },
+    {
+      "name": "08-synergy-detail.webp",
+      "sha256": "12bb5aa64a7781dfd7de29e00dadaea22ab3131c906fde2389acff26ba30e4a5",
+      "bytes": 37928,
+      "from": "2cd4 page 10 — synergy model detail"
+    }
+  ]
+}
