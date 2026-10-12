@@ -1,0 +1,55 @@
+{
+  "project": "Herbal Garden",
+  "dest": "assets/board/herbal-garden-medicine-gallery",
+  "note": "Portfolio 6c37 pages 12–16 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title and institution name, the photo of the site, the book covers and charts on page 12, the questionnaire with herb photos, the street photos with people, the inset renders on page 15, the exhibition renders with artworks, the cafe render on page 16 and the body text.",
+  "files": [
+    {
+      "name": "01-garden-aerial.webp",
+      "sha256": "f5b3dcdf495c47db1c2a1e3dba1193ba9c405840ddbb3cd72298f3312b3e4f10",
+      "bytes": 149804,
+      "from": "6c37 page 15 — part of the aerial view with planting rings and the sunken space, x 34.5–69.5 %, y 0–60 %"
+    },
+    {
+      "name": "02-site-map.webp",
+      "sha256": "9b178210318ecd5ade3b5924d0b1cd959fef6d870ee09df31053e43e53e549cc",
+      "bytes": 167022,
+      "from": "page 12 — site map, x 0–57.5 %, y 0–53 %"
+    },
+    {
+      "name": "03-function-areas.webp",
+      "sha256": "b0f6541ab75a4b718ed271457dd019261b0773ba15bdbd1bdb74b658d7dba3ab",
+      "bytes": 58844,
+      "from": "page 13 — function areas, x 0–40 %, y 3–100 %"
+    },
+    {
+      "name": "04-tai-chi-and-foot-concept.webp",
+      "sha256": "4cfea05de42cdd25c0089966014dc7cc11569df7b07d285b96043525caf64d57",
+      "bytes": 71926,
+      "from": "page 13 — concept from the Tai Chi curve and the foot acupoint map, x 41–100 %, y 3–48 %"
+    },
+    {
+      "name": "05-block-steps.webp",
+      "sha256": "c697354651b3b716bbdb12af0748a69517942a7e31a57cba2c48e672e267e1b8",
+      "bytes": 45190,
+      "from": "page 13 — five block steps, x 41–100 %, y 48–100 %"
+    },
+    {
+      "name": "06-master-plan.webp",
+      "sha256": "0aab27e2a73e6f6784353a16b5adca1ad0060c2c306d00543ce956d041031ec5",
+      "bytes": 149220,
+      "from": "page 14 — master plan, x 0–100 %, y 0–65.5 %"
+    },
+    {
+      "name": "07-section-a-a.webp",
+      "sha256": "ee827c5d21db735cd6871e1c95b2f536c6e4532f3577a907b36c2939a021847e",
+      "bytes": 27538,
+      "from": "page 14 — section A-A, x 22–100 %, y 66.5–98 %"
+    },
+    {
+      "name": "08-experience-area.webp",
+      "sha256": "345f6ca6c690cc13a71b91401535efdf21656eea0c0fe585656677eb4f5655d8",
+      "bytes": 76974,
+      "from": "page 16 — experience area axonometric, x 53.5–98.5 %, y 15–59.5 %"
+    }
+  ]
+}
