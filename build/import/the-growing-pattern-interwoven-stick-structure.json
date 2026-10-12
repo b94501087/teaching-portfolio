@@ -1,0 +1,67 @@
+{
+  "project": "The Growing Pattern",
+  "dest": "assets/board/the-growing-pattern-interwoven-stick-structure",
+  "note": "Portfolio d824 pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: title and text, jungle reference photo.",
+  "files": [
+    {
+      "name": "01-chaotic-stick-structure.webp",
+      "sha256": "d398c62e37e03e01c3ef0a76e9b32e4cf05697e4583214ad4fc5cca255f99fcc",
+      "bytes": 95804,
+      "from": "d824 page 9 — final structure"
+    },
+    {
+      "name": "02-branch-angle-study.webp",
+      "sha256": "eee587767d213d2868a2d6580a9a30e788f39a0a43cc0a3d8f54fec92ae5a58e",
+      "bytes": 11714,
+      "from": "d824 page 8 — branch angle study"
+    },
+    {
+      "name": "03-tracing-pattern.webp",
+      "sha256": "5a3dff708da482b1a45059358f2a051953a6dc8750947bac2d8be70e746132e8",
+      "bytes": 45574,
+      "from": "d824 page 8 — tracing pattern"
+    },
+    {
+      "name": "04-painted-sticks.webp",
+      "sha256": "7b552725f0083621f18dea0afe7bf007d89b46e057a33adc82de66ede54b8a29",
+      "bytes": 22180,
+      "from": "d824 page 8 — painted sticks"
+    },
+    {
+      "name": "05-interwoven-sticks.webp",
+      "sha256": "70492cc4694b58b8bc9f1c1717cbc1fb9b7f437a90865c49be43b39ac8fe6b8c",
+      "bytes": 31020,
+      "from": "d824 page 8 — interwoven sticks"
+    },
+    {
+      "name": "06-acrylic-platforms.webp",
+      "sha256": "bc2834956fb49815b419edac09a61a6397c94d3fc815beadb20aa1c8335058fb",
+      "bytes": 39946,
+      "from": "d824 page 8 — acrylic platforms"
+    },
+    {
+      "name": "07-density-and-order.webp",
+      "sha256": "a760c167900f96b549baeb0a1b2a508c0feb3af700b9bfc8587058a4923ba43d",
+      "bytes": 34250,
+      "from": "d824 page 8 — density and order"
+    },
+    {
+      "name": "08-reflection-view-one.webp",
+      "sha256": "5b57169ca40f96896862c794de419869029f313bcd002c0d081392a37c5020a9",
+      "bytes": 17350,
+      "from": "d824 page 9 — reflection view"
+    },
+    {
+      "name": "09-reflection-view-two.webp",
+      "sha256": "a3f8c2f28470ed2c8e6332ee5489781c89babf6fa0f4bd5383548e017dd8d839",
+      "bytes": 24752,
+      "from": "d824 page 9 — reflection view"
+    },
+    {
+      "name": "10-reflection-view-three.webp",
+      "sha256": "72e2ad88332aa97be1fb6c7ae6b8326b8e6cc4a43522987b2a5158e8e6353e7e",
+      "bytes": 28892,
+      "from": "d824 page 9 — reflection view"
+    }
+  ]
+}
