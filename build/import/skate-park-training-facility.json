@@ -1,0 +1,61 @@
+{
+  "project": "Skate Park Training Facility",
+  "dest": "assets/board/skate-park-training-facility",
+  "note": "Portfolio 6d64 pages 19–23 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the project info text with the tutor and address, the precedent photos with names, the model photos, the user photos, the cutaway and sectional renders with photo cut-out people and the body text.",
+  "files": [
+    {
+      "name": "01-street-view.webp",
+      "sha256": "9f458e7e7a4fdccf41ac9564d393c2c0ec811127143f6ac9eabacc12159ef4b9",
+      "bytes": 82654,
+      "from": "6d64 pages 22–23 spread — street view render, x 0–100 %, y 51–95 %"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "7deb38516f9d4a1571616ac1a08488b716a6a629f00628caa2612dd0d839445e",
+      "bytes": 53294,
+      "from": "page 19 — site analysis maps, x 4–36 %, y 53–97 %"
+    },
+    {
+      "name": "03-user-groups.webp",
+      "sha256": "2e918b7d11a4f27700cd5399b374f79a2f22ec2d6f86db5a9d96f58ccee72965",
+      "bytes": 32938,
+      "from": "page 19 — user group wheel with silhouettes, x 37–66 %, y 52–97 %"
+    },
+    {
+      "name": "04-site-life-program.webp",
+      "sha256": "42ae5c351a03f8ed1452a836dc4b19311a02a30c37ed495d69e9595acb2653b5",
+      "bytes": 17122,
+      "from": "page 19 — site, life and program diagrams, x 69–81 %, y 60–95 %"
+    },
+    {
+      "name": "05-site-plan.webp",
+      "sha256": "c2631d747c660b50af6b6d6145ba392a607299c2940bf9e9f435b2189c01e2a0",
+      "bytes": 107788,
+      "from": "page 20 — rendered site plan, x 32–99 %, y 5–49 %"
+    },
+    {
+      "name": "06-ramp-types.webp",
+      "sha256": "2ab6ed249d1490578ea2298ec2b32ff3eb8c2f640f90e9a8651d76885b2e499e",
+      "bytes": 18202,
+      "from": "page 20 — skate element types, x 3–23 %, y 52–94 %"
+    },
+    {
+      "name": "07-skater-movement.webp",
+      "sha256": "f0cf5470702765e751e00f4a9a0cd59a77f50c8b1d42c74baf98bbe33c94cf69",
+      "bytes": 85554,
+      "from": "page 20 — skater movement drawing, x 22–99 %, y 68–96 %"
+    },
+    {
+      "name": "08-exploded-axon.webp",
+      "sha256": "a308950ddef90891e6dab894ef21a47d5b51c79567e9ada9dd2fccfcb061a791",
+      "bytes": 60540,
+      "from": "page 21 — exploded axonometric, x 3.5–40 %, y 3–95 %"
+    },
+    {
+      "name": "09-plans.webp",
+      "sha256": "6de40b829a625f03de2481f80f3becc683b1f692fcd7e3dca9fb5926df673863",
+      "bytes": 86678,
+      "from": "pages 22–23 spread — roof, first, ground and basement plans, x 10–98 %, y 8–51 %"
+    }
+  ]
+}
