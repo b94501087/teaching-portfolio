@@ -1,0 +1,67 @@
+{
+  "project": "Stones & Habitats",
+  "dest": "assets/board/stones-and-habitats-coastal-terrain-model",
+  "note": "Portfolio b66d pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-shore-model.webp",
+      "sha256": "ce40b1501b650024b3c2a046a40a163794bd851ad913c8f53932d865afe09248",
+      "bytes": 67186,
+      "from": "b66d page 3 — shore model"
+    },
+    {
+      "name": "02-stone-studies.webp",
+      "sha256": "25c5c855f58dd3a4c7a64db06a21dbde808ab03464a9629da27218322ccfeeb4",
+      "bytes": 23036,
+      "from": "b66d page 2 — stone studies"
+    },
+    {
+      "name": "03-hand-studies.webp",
+      "sha256": "c9a8314cc4f861a7c89599181d72f9e940463c0accee3433539bd761c2edda9b",
+      "bytes": 7084,
+      "from": "b66d page 2 — hand studies"
+    },
+    {
+      "name": "04-habitat-drawing.webp",
+      "sha256": "a73fad344fc32f276235c2917d1c8a915882d990e252d204753dddc954e368d5",
+      "bytes": 38536,
+      "from": "b66d page 2 — habitat drawing"
+    },
+    {
+      "name": "05-process-a.webp",
+      "sha256": "69bcd82bee1f069ab510be55dcd15a79aaf4c0b0eff10283b50f3e13a81b8857",
+      "bytes": 17380,
+      "from": "b66d page 2 — process a"
+    },
+    {
+      "name": "06-process-b.webp",
+      "sha256": "854d12bfa43cee0c6ea723ce4201e2cf78b81e668818e44c026eff1237cf141e",
+      "bytes": 26110,
+      "from": "b66d page 2 — process b"
+    },
+    {
+      "name": "07-cave-detail.webp",
+      "sha256": "85e74cdbb04a99f8039752fe5e7ab0dc905f76219a55fe21283ee940fc09b266",
+      "bytes": 13492,
+      "from": "b66d page 3 — cave detail"
+    },
+    {
+      "name": "08-rock-wall.webp",
+      "sha256": "711e1a929b21fba0f901c0d149eda5b815264352afa6b7289e43fdc3e16fa7a6",
+      "bytes": 24600,
+      "from": "b66d page 3 — rock wall"
+    },
+    {
+      "name": "09-terraces.webp",
+      "sha256": "f2f87043f0965616f0f9826a26b9b0010f619fb149f2bd2c93d2d0295c317f08",
+      "bytes": 19922,
+      "from": "b66d page 3 — terraces"
+    },
+    {
+      "name": "10-water-edge.webp",
+      "sha256": "16dfbd4dbf6fc9842f030a29d10237bd6762df23c70c5d5250eff00d3f3c6c52",
+      "bytes": 26368,
+      "from": "b66d page 3 — water edge"
+    }
+  ]
+}
