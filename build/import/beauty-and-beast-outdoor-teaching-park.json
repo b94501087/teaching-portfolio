@@ -1,0 +1,61 @@
+{
+  "project": "Beauty & Beast",
+  "dest": "assets/board/beauty-and-beast-outdoor-teaching-park",
+  "note": "Portfolio 15c1 pages 11–16 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with photo collage and site analysis maps on page 11, the ink experiment photos and concept collage with photo children on page 12, the atmosphere collage on page 13, and the renders with photo people on pages 14–16.",
+  "files": [
+    {
+      "name": "01-park-master-plan.webp",
+      "sha256": "1df5179c0bd27ab5da48ac3b8c51af5f45e0bb909427f41541df56490945c3c2",
+      "bytes": 70958,
+      "from": "15c1 page 13 — master plan with legend, x 0–18 %, y 0–100 %"
+    },
+    {
+      "name": "02-design-concept-diagrams.webp",
+      "sha256": "74e6c5e87248f61c8061508ab2727657f27350833bd8cecba92de8f4ebc0afcd",
+      "bytes": 42650,
+      "from": "page 13 — design concept overall plan and five analysis diagrams, x 36–80 %, y 2–47 % (atmosphere collage masked white)"
+    },
+    {
+      "name": "03-section-school-to-forest.webp",
+      "sha256": "aae0df6094bc8745fec0327d707fdf2971da8871fd84cb275b49219d0b60ddb8",
+      "bytes": 10978,
+      "from": "page 13 — section A-A from the school to the forest, x 60–99 %, y 56–70 %"
+    },
+    {
+      "name": "04-section-landscape-pockets.webp",
+      "sha256": "a54c43e7782f4df53fbac8a9877b35b014dead1bad5fbed51baf69f962a2553d",
+      "bytes": 58254,
+      "from": "page 13 — section B-B and five landscape vignettes, x 37–99 %, y 69–100 %"
+    },
+    {
+      "name": "05-archaeological-excavation-area.webp",
+      "sha256": "d3b9c8ce44d3d70edc61983233e79282f47c803b6d51673c7e1a7e4391bf74b2",
+      "bytes": 100242,
+      "from": "page 14 — archaeological excavation area axonometric, activities and section, x 0–50 %, y 0–52 %"
+    },
+    {
+      "name": "06-mural-rest-area.webp",
+      "sha256": "0284130da10abb7bcdb2e93545f542cb5a73f5594146cd261571f3e5a2903127",
+      "bytes": 107486,
+      "from": "page 14 — mural rest area axonometric, activities and section, x 50–100 %, y 0–52 %"
+    },
+    {
+      "name": "07-ecological-swimming-pool.webp",
+      "sha256": "46546e9b7e2fb11766170781c87a393cf3d5efde921a4887eee2e78cf2729b9f",
+      "bytes": 82660,
+      "from": "page 15 — ecological swimming pool axonometric and section elevation, x 0–50 %, y 0–52 %"
+    },
+    {
+      "name": "08-childrens-entertainment-area.webp",
+      "sha256": "bdc318a829ce49a4a1dcea022ede070ad68c4feecf7c126fe8780774f2e67969",
+      "bytes": 78306,
+      "from": "page 15 — children's entertainment area axonometric, activities and section elevation, x 50–100 %, y 0–52 %"
+    },
+    {
+      "name": "09-research-building-section.webp",
+      "sha256": "8bc1ae1f8bfae5a6378cea2981f16709752e7e3008819421b806018606efc049",
+      "bytes": 48728,
+      "from": "page 16 — research building section elevations, x 0–40.5 %, y 62.5–99 %"
+    }
+  ]
+}
