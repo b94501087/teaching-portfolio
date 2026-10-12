@@ -1,0 +1,43 @@
+{
+  "project": "New Toys for Kids",
+  "dest": "assets/board/new-toys-for-kids-bottle-blocks",
+  "note": "Portfolio e4dc pages 15–16 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: the title photo of branded water cartons and the background page with brand photos, hostel photo and rubbish photos on page 14, the recycling photos with brand labels on page 15, and the model test and renderings with photos of children on pages 16–17. No retouching.",
+  "files": [
+    {
+      "name": "01-combined-blocks.webp",
+      "sha256": "42f7cb291bb97fdd86be76aaac87bb0439e2d3ef162a2e34cf48eb1ae388a2b8",
+      "bytes": 104838,
+      "from": "e4dc page 16 — design development, individual and combined blocks, x 0–40 %, y 0–50 %"
+    },
+    {
+      "name": "02-wash-and-clean-bottles.webp",
+      "sha256": "5c61a0c82f68f91d848d04837fc53e02fb308676bf3cd66ae242069860e93a0f",
+      "bytes": 220676,
+      "from": "page 15 — recycling process steps 3 and 4, x 0–42 %, y 50–98 %"
+    },
+    {
+      "name": "03-bottle-building-block.webp",
+      "sha256": "8c12aaf4699d999d47ce8bd3662d84cc0a5de18ac845b8c9cbacbd25f2111f8c",
+      "bytes": 75890,
+      "from": "page 15 — strategy, the basic bottle building block, x 45–100 %, y 0–45 %"
+    },
+    {
+      "name": "04-ergonomic-sizes.webp",
+      "sha256": "dccc3635a9d34ce62130e14c60b294f06b86761e68e23e2b2ad3448e8c66055a",
+      "bytes": 112170,
+      "from": "page 15 — ergonomic sizes of the shelves, x 45–100 %, y 45–97 %"
+    },
+    {
+      "name": "05-more-combinations.webp",
+      "sha256": "cf32d43f800177d18c17cf3296d343d29a5dbceedfe29d3815632e566a6f296b",
+      "bytes": 178630,
+      "from": "page 16 — more combinations, x 0–40 %, y 50–100 %"
+    },
+    {
+      "name": "06-model-test-blocks.webp",
+      "sha256": "0dbccc3432f9c2d0b3d48855ab7f2083aa8ffa93b6463ebd60b93359d0e8c79b",
+      "bytes": 51996,
+      "from": "page 16 — 1:1 model test of the blocks, x 42–100 %, y 6–31 %"
+    }
+  ]
+}
