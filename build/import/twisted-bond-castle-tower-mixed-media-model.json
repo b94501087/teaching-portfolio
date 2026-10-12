@@ -1,0 +1,67 @@
+{
+  "project": "A Twisted Bond in Two Castles",
+  "dest": "assets/board/twisted-bond-castle-tower-mixed-media-model",
+  "note": "Portfolio ce4a pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, process photos showing the student, film title and character names.",
+  "files": [
+    {
+      "name": "01-castle-tower.webp",
+      "sha256": "28ab5d8da2b4c71c0e3cc21f3391c5de56b6d52c6e9cc506f00e359bf83535f0",
+      "bytes": 180972,
+      "from": "ce4a page 3 — castle tower"
+    },
+    {
+      "name": "02-tower-drawing.webp",
+      "sha256": "bdaee47434eb3f21e94defe2ae0f8f26d56ffd8b57e5d05b58a9e1013c82064f",
+      "bytes": 193536,
+      "from": "ce4a page 2 — tower drawing"
+    },
+    {
+      "name": "03-film-poster.webp",
+      "sha256": "0ed911a7d40dc4243365549b1865fc406c00bfe7c7d56425c8a559abd980fb4a",
+      "bytes": 10028,
+      "from": "ce4a page 2 — film poster"
+    },
+    {
+      "name": "04-film-stills-a.webp",
+      "sha256": "9c29fa69c72434514fd600a3b7eee2b074fd061058a387cdde5a55a8e8b12044",
+      "bytes": 15064,
+      "from": "ce4a page 2 — film stills a"
+    },
+    {
+      "name": "05-film-stills-b.webp",
+      "sha256": "9f7313d73dfb892616144697f8f59352768de0c9d9b72a7d93b2f79dbfcddc09",
+      "bytes": 6170,
+      "from": "ce4a page 2 — film stills b"
+    },
+    {
+      "name": "06-storyline-sketch.webp",
+      "sha256": "72e2522ad213a221e15e6c2f01506ad1163800c859c492e066baab88b4e405ba",
+      "bytes": 59452,
+      "from": "ce4a page 2 — storyline sketch"
+    },
+    {
+      "name": "07-process.webp",
+      "sha256": "74ed4a3d20297e17fe7d6ce2d34b159e11c74e2105ac3f1737c664e19f600da9",
+      "bytes": 11200,
+      "from": "ce4a page 3 — process"
+    },
+    {
+      "name": "08-detail-a.webp",
+      "sha256": "9c445c20f6fc7761b83c08acefc0b353b7ae68564b92fb745c750b1c48ca4fe1",
+      "bytes": 63066,
+      "from": "ce4a page 3 — detail a"
+    },
+    {
+      "name": "09-detail-b.webp",
+      "sha256": "cda039240bf237a2742b5998536526468969b1a54b1f45e4897ee9d1aa1985f7",
+      "bytes": 45498,
+      "from": "ce4a page 3 — detail b"
+    },
+    {
+      "name": "10-detail-c.webp",
+      "sha256": "8ce73a41360cc1b978a39d93773e6407489415f373d3cba8e8dd8d0d2f10de21",
+      "bytes": 73398,
+      "from": "ce4a page 3 — detail c"
+    }
+  ]
+}
