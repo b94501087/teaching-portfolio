@@ -1,0 +1,55 @@
+{
+  "project": "Behind the Wall",
+  "dest": "assets/board/behind-the-wall-riverside-park",
+  "note": "Portfolio 15c1 pages 3–10 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title text and the aerial site photo on pages 3–4, the visitor analysis with photo people and the phone collage on page 4, the section spatial arrangement on page 5, the landscape sections with photo people on pages 6–7, the vintage illustrations and forest walk renderings on page 8, the orchard renderings, vintage illustrations and plant drawings on page 9, and the renderings with people on page 10. No retouching.",
+  "files": [
+    {
+      "name": "01-park-master-plan.webp",
+      "sha256": "596ff6cae2440785e85fa8b069947ed9b77e466a2bd61a2669a66550b71c7a6c",
+      "bytes": 452778,
+      "from": "15c1 page 3 — master plan of the park with legend, x 0–100 %, y 27–96 %"
+    },
+    {
+      "name": "02-transport-planting-coast.webp",
+      "sha256": "d6e11e8f7fdd0bd3d1e73c4ac5279e37fc1e9de53efcd74ad6231ec43598f8db",
+      "bytes": 125820,
+      "from": "page 4 — public transport, current planting, coastal water situation and circulation, x 0–63 %, y 50–100 %"
+    },
+    {
+      "name": "03-sustainable-programs.webp",
+      "sha256": "23bc887712608eb6bd0770c4c7de00c4a259727ee3de9438435efcedbc794c98",
+      "bytes": 211946,
+      "from": "page 5 — sustainable programme planning and development, x 0–100 %, y 0–60 %"
+    },
+    {
+      "name": "04-design-process-sketches.webp",
+      "sha256": "7675a2a937f2c3e6d71ed49bf50cd2601d1bb141420e186263c8e1da2d388f38",
+      "bytes": 290898,
+      "from": "page 10 — concept and design process sketches, x 0–100 %, y 5–75 %"
+    },
+    {
+      "name": "05-green-wall-detail.webp",
+      "sha256": "f6091506e93e21fcd93038186e649cba3f376765ba2fe37aae380b0f60afacb1",
+      "bytes": 52166,
+      "from": "page 6 — the green wall and its detail drawing, x 0–34 %, y 42–86 %"
+    },
+    {
+      "name": "06-dance-palace-garden.webp",
+      "sha256": "bd8356d1e90ff4824ffdfb7f8a7363ec33110a9865dee024681a1d940ac2d96b",
+      "bytes": 110490,
+      "from": "page 8 — section B-B and the dance palace garden, x 0–32 %, y 0–100 %"
+    },
+    {
+      "name": "07-seasonal-squares.webp",
+      "sha256": "e41914336d00af7a2bce16185592875bb0683b6c8b0740c50a2093068ed8ae41",
+      "bytes": 55738,
+      "from": "page 8 — south square in late spring and north square in mid autumn, x 33–65 %, y 50–100 %"
+    },
+    {
+      "name": "08-vegetation-analysis.webp",
+      "sha256": "7fff1413c1c24133a0b6ba5776678aa31f785e0779ed92d97690e5ae81ee2d12",
+      "bytes": 36722,
+      "from": "page 9 — vegetation analysis, x 28–83 %, y 68–100 %"
+    }
+  ]
+}
