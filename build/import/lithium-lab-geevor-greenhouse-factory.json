@@ -1,0 +1,67 @@
+{
+  "project": "Lithium Lab Geevor",
+  "dest": "assets/board/lithium-lab-geevor-greenhouse-factory",
+  "note": "Portfolio 54f3 pages 3-10 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the cover and CV pages, the title text, the site context page with historic photos, satellite base and statistics.",
+  "files": [
+    {
+      "name": "01-greenhouse-factory.webp",
+      "sha256": "4cecb9f9cd901ebfb862ac810425d48be9696e752517b7c2c4efe187416b691f",
+      "bytes": 66822,
+      "from": "54f3 page 3 — greenhouse factory aerial render"
+    },
+    {
+      "name": "02-topography-tunnels.webp",
+      "sha256": "7127f02da11c90b178e560ff5463491ad8cd487bd0ec8e88716c02c1ae794cd5",
+      "bytes": 81006,
+      "from": "54f3 page 5 — site topography and mining tunnels"
+    },
+    {
+      "name": "03-energy-plant-research.webp",
+      "sha256": "0de6d113e09663d1ff30802b8d375026a5ea62f0c91eb5720a4becb89d263b4a",
+      "bytes": 90118,
+      "from": "54f3 page 5 — geothermal lithium plant research"
+    },
+    {
+      "name": "04-masterplan-steps.webp",
+      "sha256": "ba1cd5c61e534b33e2ab5db1b284d492aa622dcf8163dddf29c0b747f22564c2",
+      "bytes": 46438,
+      "from": "54f3 page 6 — masterplan steps"
+    },
+    {
+      "name": "05-masterplan.webp",
+      "sha256": "a94e9ae7bd34ae74056714a6985e43741410d8add6757e9aed8cb321dae4581b",
+      "bytes": 406032,
+      "from": "54f3 page 6 — masterplan"
+    },
+    {
+      "name": "06-program-axonometric.webp",
+      "sha256": "80724ae999db758b7000d0af5f17a8d9b10e36e2f3b5c296249ef4b40de9d497",
+      "bytes": 391738,
+      "from": "54f3 page 7 — architectural program axonometric"
+    },
+    {
+      "name": "07-greenhouse-core.webp",
+      "sha256": "7d224637f882481b9dc99374b98cfa3e8f2cdbb3720cf79e34589e7499d91794",
+      "bytes": 87416,
+      "from": "54f3 page 8 — greenhouse environmental core section"
+    },
+    {
+      "name": "08-visitor-factory-section.webp",
+      "sha256": "443222aba45fc5a8d6a656ef2e2b334fbe6fce4a5ca82160dbe8ad331eda352c",
+      "bytes": 132698,
+      "from": "54f3 page 8 — visitor to factory long section"
+    },
+    {
+      "name": "09-office-factory-explosion.webp",
+      "sha256": "562a42f55f88cc838ae46e70024045ff965caf2e854bff35d79068425008fb38",
+      "bytes": 93154,
+      "from": "54f3 page 9 — factory and office structure explosions"
+    },
+    {
+      "name": "10-construction-explodes.webp",
+      "sha256": "00ab033bf6670ffdf97e13d6a2abb9cfb5da8bdab298a758ed4a4de5b54b2a64",
+      "bytes": 401722,
+      "from": "54f3 page 10 — construction explodes"
+    }
+  ]
+}
