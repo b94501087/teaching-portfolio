@@ -1,0 +1,67 @@
+{
+  "project": "Sanctum - Renewal",
+  "dest": "assets/board/sanctum-renewal-biophilic-recovery-centre",
+  "note": "Portfolio 895c pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, material and seascape mood photos.",
+  "files": [
+    {
+      "name": "01-healing-tower-model.webp",
+      "sha256": "d55ca6ad17f66601c699c6370e0506abb8f50c4ef138b83d364cee93f6ac9b55",
+      "bytes": 114746,
+      "from": "895c page 7 — final site model"
+    },
+    {
+      "name": "02-spiral-concept-sketch.webp",
+      "sha256": "66c936acd66bf64c45c14865f72f212d8f60d65ab5e87b678a1bf063a6072c8b",
+      "bytes": 25294,
+      "from": "895c page 6 — spiral concept sketch"
+    },
+    {
+      "name": "03-curved-wall-making.webp",
+      "sha256": "648ad0d7cbd96fee8f2fa3900edccd9921fdb76d6b7053053403e6f91f4a563d",
+      "bytes": 13754,
+      "from": "895c page 6 — curved wall making"
+    },
+    {
+      "name": "04-terrain-layers.webp",
+      "sha256": "a60531c8152e528d3298cda6073dc6ffb72e11488bf54e43bcc01f040cdae49b",
+      "bytes": 17216,
+      "from": "895c page 6 — terrain layers"
+    },
+    {
+      "name": "05-stacked-terrace-test.webp",
+      "sha256": "bc246f29bb2ce1dbeeb61faa78f428fd4f14b2d79fbc6510ba85d5b2f88a2235",
+      "bytes": 18328,
+      "from": "895c page 6 — stacked terrace test"
+    },
+    {
+      "name": "06-spiral-stair-plan-view.webp",
+      "sha256": "1eddf773d48f30844bbd745de424a0e1931a6dbe82694767eaf7b5020536d709",
+      "bytes": 46088,
+      "from": "895c page 6 — spiral stair from above"
+    },
+    {
+      "name": "07-woven-shelter-interior.webp",
+      "sha256": "28866bfad8ee0ca200fcdef436d21ff25f3efa29aa03fbdeb813bddafa83ec94",
+      "bytes": 42528,
+      "from": "895c page 6 — woven shelter interior"
+    },
+    {
+      "name": "08-woven-shell-view.webp",
+      "sha256": "1add70be0991057b6e2dccbab38bacfdbc9545f8cd2f071a4d58949f459e1e73",
+      "bytes": 24824,
+      "from": "895c page 7 — woven shell view"
+    },
+    {
+      "name": "09-curved-pavilions.webp",
+      "sha256": "a73afef79fe888ea0685394d47cf21c58a95885a9d55788b5ffd8454209017ee",
+      "bytes": 19150,
+      "from": "895c page 7 — curved pavilions"
+    },
+    {
+      "name": "10-sheltered-ground-floor.webp",
+      "sha256": "58bbbb32cb242d071cd2037228389bd9574882ec6558cfd82d19de25afeb7e23",
+      "bytes": 14750,
+      "from": "895c page 7 — sheltered ground floor"
+    }
+  ]
+}
