@@ -1,0 +1,67 @@
+{
+  "project": "Urban Vertical Farm",
+  "dest": "assets/board/urban-vertical-farm-mill-transformation",
+  "note": "Portfolio c0e5 pages 3 and 5-9 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with school and supervisor, the history photo strip, the design-motivation page with a caricature and political slogans, the interior renders with figures and the model notes.",
+  "files": [
+    {
+      "name": "01-exploded-spatial-axon.webp",
+      "sha256": "f15c0d5a0dc6f2af2eaff2dd663e3a38a9ab10910055c66223199c22a1f912a2",
+      "bytes": 262166,
+      "from": "c0e5 page 5 — exploded spatial axonometric"
+    },
+    {
+      "name": "02-mill-axonometric.webp",
+      "sha256": "51ef24834a51224983fc23e825c82afe779fb38ea6d19552525a904a851183cd",
+      "bytes": 16464,
+      "from": "c0e5 page 3 — mill axonometric"
+    },
+    {
+      "name": "03-dockside-location-map.webp",
+      "sha256": "e149935985806786562b619133f1bf1359bf82f38f4a985ee96d76764d868133",
+      "bytes": 109966,
+      "from": "c0e5 page 3 — dockside location map"
+    },
+    {
+      "name": "04-strategy-map.webp",
+      "sha256": "de3531cf541643acd90c9fb427cf8d6cb0d3e636ee7aff7886406d856c868ad5",
+      "bytes": 63216,
+      "from": "c0e5 page 6 — strategy map"
+    },
+    {
+      "name": "05-water-circulation.webp",
+      "sha256": "8be6cab7aa9dcf1faa620c8c5cd18ac0995a0cca466dffa526efeb2c3fe5e51c",
+      "bytes": 68918,
+      "from": "c0e5 page 6 — water circulation system"
+    },
+    {
+      "name": "06-functional-system.webp",
+      "sha256": "01af1fcedb0d38c7bffc69d9fa1c1d381cd1b4e4062c2deccc87e9ca1d69a36a",
+      "bytes": 52580,
+      "from": "c0e5 page 6 — functional system"
+    },
+    {
+      "name": "07-section-one.webp",
+      "sha256": "3188bfd95ca7e0ed14f5668c2845b42ea80a3ce32e31cea7ce857a3640049008",
+      "bytes": 161342,
+      "from": "c0e5 page 7 — section one"
+    },
+    {
+      "name": "08-planting-and-equipment.webp",
+      "sha256": "c82db43737c57c6e96a004f4f855d2446c55a89c15935faf4417067598dbf88a",
+      "bytes": 89834,
+      "from": "c0e5 page 8 — planting types and equipment"
+    },
+    {
+      "name": "09-section-two.webp",
+      "sha256": "4a4c3bc24bf87e0017ec3dbfe7374a04356b9877cd700634ec64c5b787ea689b",
+      "bytes": 69372,
+      "from": "c0e5 page 8 — section two"
+    },
+    {
+      "name": "10-physical-model.webp",
+      "sha256": "0c5fa1f5b1153a42b182e54339e065242980180a428b82a561f9a13ed006a170",
+      "bytes": 145820,
+      "from": "c0e5 page 9 — physical model"
+    }
+  ]
+}
