@@ -1,0 +1,49 @@
+{
+  "project": "New Fishery Town",
+  "dest": "assets/board/new-fishery-town-oyster-shell",
+  "note": "Portfolio ab615aae pages 12–14 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: page 11 with photos of fishermen, location photos and research collages of real people, the individual practice experiments on page 12 with a portrait and photos, the site activities collage with photo cut-out people and the interior rendering on page 13, and the scene effects with photo cut-out figures on page 14. Page 15 (other works) skipped. No retouching.",
+  "files": [
+    {
+      "name": "01-process-of-thinking.webp",
+      "sha256": "af483d9d8299282f0d9155a5ab5ca0f7192437b43a9bc119cde2bc055388ef91",
+      "bytes": 73584,
+      "from": "ab615aae page 12 — process of thinking diagram, x 50–100 %, y 3–40 %"
+    },
+    {
+      "name": "02-three-systems.webp",
+      "sha256": "7f2e52f51744ef444b84f6e0f742aa0e6deb048c27cd0484588b2d096ac1947f",
+      "bytes": 154770,
+      "from": "page 12 — fishery system, shell processing and environment improvement, x 50–100 %, y 40–100 %"
+    },
+    {
+      "name": "03-design-process.webp",
+      "sha256": "82d1fe3457ee42691fe01b6ffbeb7624d2a114411b63246813316171860b38b1",
+      "bytes": 125360,
+      "from": "page 13 — design process diagrams, x 0–17.6 %, y 0–100 %"
+    },
+    {
+      "name": "04-master-plan.webp",
+      "sha256": "4de437c57e1f20fd69946ea3fe88f65432d325b823f8bf61c5482ad0618f3fc8",
+      "bytes": 302924,
+      "from": "page 13 — master plan, x 17.6–50 %, y 0–100 %"
+    },
+    {
+      "name": "05-second-floor-plan.webp",
+      "sha256": "4c4393ae16591dae302ce11654ca48f9f4a5cb284ef85b78fb1d256f12611027",
+      "bytes": 50970,
+      "from": "page 13 — 2F plan, x 81–100 %, y 9–41 %"
+    },
+    {
+      "name": "06-section.webp",
+      "sha256": "a584a9b964bcd50f1ed566cf9822666c00cd8e3b29e5d80436a0c8499707fd9f",
+      "bytes": 164404,
+      "from": "page 14 — section, x 0–50 %, y 62.5–100 %"
+    },
+    {
+      "name": "07-aerial-view.webp",
+      "sha256": "20ed7e54bdeef8bbf23c7cc2278eca3a0f480e251eb83b6257b33c0f27b037fd",
+      "bytes": 277890,
+      "from": "page 14 — aerial view, x 50–100 %, y 0–100 %"
+    }
+  ]
+}
