@@ -1,0 +1,67 @@
+{
+  "project": "The Home of Pottery",
+  "dest": "assets/board/home-of-pottery-jingdezhen",
+  "note": "Portfolio 6c37 pages 17–21 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title, the satellite and site photos, the photos of young makers, the user group charts and cartoon faces on page 17, the ceramic process photos on page 18, the renders with photo figures on page 20, the draft models with sketches on page 21 and the body text.",
+  "files": [
+    {
+      "name": "01-night-aerial.webp",
+      "sha256": "0be7a74bc0496f26f2bcd7f7974fb0442d5baf0022bbad4dec1647957d74cf8c",
+      "bytes": 88890,
+      "from": "6c37 page 21 — night aerial view, x 0–100 %, y 32–100 %"
+    },
+    {
+      "name": "02-site-layout.webp",
+      "sha256": "242a351544cf60b4efe424a340e8b93823a3bfcfcec2686b14daffdadc57ee97",
+      "bytes": 43462,
+      "from": "page 18 — site layout and sunken building section, x 50–100 %, y 7–34 %"
+    },
+    {
+      "name": "03-ceramic-process-concept.webp",
+      "sha256": "e21f302e4e086b714fb6c015a39951f871feafc53c1f09e3f0447552b07da505",
+      "bytes": 86458,
+      "from": "page 18 — concept from the ceramic process (element, site, space), x 15–50 %, y 10–97 %"
+    },
+    {
+      "name": "04-water-and-sun-yards.webp",
+      "sha256": "e937aaa7edbbe55faaeb4c6cc8c6af7f6b5c6625d8f9412507d1eb14b37f5a4f",
+      "bytes": 111678,
+      "from": "page 18 — important node design, water yard and sun yard, x 50–100 %, y 36–99 %"
+    },
+    {
+      "name": "05-programme-axonometric.webp",
+      "sha256": "cdd5ca6eb09b6149ae541f6670358ef77c2b5a9c4898e0a0fe6b22050fba51aa",
+      "bytes": 167872,
+      "from": "page 19 — programme axonometric, x 0–62 %, y 0–100 %"
+    },
+    {
+      "name": "06-ground-floor-plan.webp",
+      "sha256": "6c9533d2cc831d2c79e2af95873d37c0598f4f55973701345e2488ef0ebf81fd",
+      "bytes": 64424,
+      "from": "page 19 — ground floor plan, x 63–100 %, y 0–41 %"
+    },
+    {
+      "name": "07-master-plan.webp",
+      "sha256": "d9afb3f6756cc137d9502057998202034ea5518bc26d6b504fd68601858af3e2",
+      "bytes": 82488,
+      "from": "page 19 — master plan, x 63–100 %, y 41–100 %"
+    },
+    {
+      "name": "08-sections.webp",
+      "sha256": "8ae392b6ecc13d79a1e2c80cd8a8ad55762f14f87668d34e37ce838f6c63b3ff",
+      "bytes": 73586,
+      "from": "page 20 — sections A-A and B-B, x 0–100 %, y 31–55 %"
+    },
+    {
+      "name": "09-elevations.webp",
+      "sha256": "d4fe39899716f5c83dc24bbbcca44e9f375a10bcbd2c283967ae539c9ff0be12",
+      "bytes": 62178,
+      "from": "page 20 — elevations C-C and D-D, x 0–100 %, y 55–77.5 %"
+    },
+    {
+      "name": "10-study-models.webp",
+      "sha256": "cfa5e1797e52e7eb18094ba35ce959e3176d668f3fd7ffd7580bc5856a5997a6",
+      "bytes": 23894,
+      "from": "page 21 — study model photos, x 49–100 %, y 0–30 %"
+    }
+  ]
+}
