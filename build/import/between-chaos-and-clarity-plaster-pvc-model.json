@@ -1,0 +1,49 @@
+{
+  "project": "Between Chaos and Clarity",
+  "dest": "assets/board/between-chaos-and-clarity-plaster-pvc-model",
+  "note": "Portfolio ca16 page 10 cropped to seven images, WebP q88 (PIL). Not used: title, size labels and inspiration text with personal health details, photo of hands at work.",
+  "files": [
+    {
+      "name": "01-plaster-and-pvc-blocks.webp",
+      "sha256": "b98f6957717411bcd1fc14cd4ab097ff705b7e7aed1b3bd3f324a4a534cdb08a",
+      "bytes": 35466,
+      "from": "ca16 page 10 — final plaster and PVC blocks"
+    },
+    {
+      "name": "02-three-key-ideas.webp",
+      "sha256": "03c652d7e003508d6a9b83e54281d3ec43d199321f136e614090a3d241ed74b8",
+      "bytes": 26376,
+      "from": "ca16 page 10 — layering, material contrast and fragmentation tests"
+    },
+    {
+      "name": "03-layered-pvc-interior.webp",
+      "sha256": "9effcd9b4383e57b74a2ad0db6f7e1c002da22431cf1d70c675ca503a497f997",
+      "bytes": 21840,
+      "from": "ca16 page 10 — layered PVC interior"
+    },
+    {
+      "name": "04-cracked-pvc-plates.webp",
+      "sha256": "fecbbee2f92a963895944a7cac47703d273d66a3b59c01ad3626b876064f35e4",
+      "bytes": 22416,
+      "from": "ca16 page 10 — cracked PVC plates"
+    },
+    {
+      "name": "05-interior-detail-a.webp",
+      "sha256": "30bc6dc34f0539a581b93e8ce1e222c3d24b3f67989b95c0bb7dca3fa4575f28",
+      "bytes": 13048,
+      "from": "ca16 page 10 — interior detail one"
+    },
+    {
+      "name": "06-interior-detail-b.webp",
+      "sha256": "34ecdf469b3f8997504d56fdbf3a99b2f80990e2fa7e5f2eca7f126bb28e9533",
+      "bytes": 6272,
+      "from": "ca16 page 10 — interior detail two"
+    },
+    {
+      "name": "07-plaster-tests.webp",
+      "sha256": "f70afaf6015a4625a2b76bf5c73e83224bfe1337e7613e91f02e12223dc643a2",
+      "bytes": 19254,
+      "from": "ca16 page 10 — plaster casting tests"
+    }
+  ]
+}
