@@ -1,0 +1,67 @@
+{
+  "project": "Kinetics of Space",
+  "dest": "assets/board/kinetics-of-space-squash-court-installation",
+  "note": "Portfolio ce4a pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: title and text, photos of players on court.",
+  "files": [
+    {
+      "name": "01-installation.webp",
+      "sha256": "afc1682a57b98bf35fe20cd8abfc0bc0393ce7314ac54b08c24738b559a821dd",
+      "bytes": 95756,
+      "from": "ce4a page 9 — installation"
+    },
+    {
+      "name": "02-concept-sketches.webp",
+      "sha256": "170203835091cb2bf0293cf0c9a27b03f75beecf12a5da8791d8c5a176c5b15f",
+      "bytes": 118872,
+      "from": "ce4a page 8 — concept sketches"
+    },
+    {
+      "name": "03-speed.webp",
+      "sha256": "9eecd3adf196f50f0f680b13e5009b8578a4133d8d2f2668e7be9f913bed9fc8",
+      "bytes": 15180,
+      "from": "ce4a page 8 — speed"
+    },
+    {
+      "name": "04-timing.webp",
+      "sha256": "5dea80945ddac41c0be16029a6e65f9214ba452025972ed736b6b6f700664e60",
+      "bytes": 29860,
+      "from": "ce4a page 8 — timing"
+    },
+    {
+      "name": "05-angle.webp",
+      "sha256": "f9736cbc8cc28da582710ed03e1192929baecb5322154ee524c347b252302da9",
+      "bytes": 21296,
+      "from": "ce4a page 8 — angle"
+    },
+    {
+      "name": "06-division.webp",
+      "sha256": "a7ffa80cbc2539bf0351f93f1fa9fb2bf612d8de5488a13ddfd8fe33f79c7409",
+      "bytes": 15954,
+      "from": "ce4a page 8 — division"
+    },
+    {
+      "name": "07-top-view.webp",
+      "sha256": "9eee8a302528ba8dc97dd5ad859ccc9d90dda48c9a4f1585f342f05620610768",
+      "bytes": 115612,
+      "from": "ce4a page 9 — top view"
+    },
+    {
+      "name": "08-detail-a.webp",
+      "sha256": "06eb7c5ada81c8a8a7b7a370f49ecfeb2051f764a81d91a55130b172981cf9e3",
+      "bytes": 35144,
+      "from": "ce4a page 9 — detail a"
+    },
+    {
+      "name": "09-detail-b.webp",
+      "sha256": "3911c88dad8dfa5f36e5bad43a863a7e9390f7599af3baa258efe66b6fb7bd9e",
+      "bytes": 27680,
+      "from": "ce4a page 9 — detail b"
+    },
+    {
+      "name": "10-detail-c.webp",
+      "sha256": "610c107feef818141a58899ac886243e35c3fdf4005456e27ef668849ba02a64",
+      "bytes": 36440,
+      "from": "ce4a page 9 — detail c"
+    }
+  ]
+}
