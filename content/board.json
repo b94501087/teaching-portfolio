@@ -21972,6 +21972,411 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "The Artistic Rebirth of the Harbor",
+      "slug": "artistic-rebirth-of-the-harbor",
+      "description": "Art is woven into a working port so that an old industrial area can regain its vitality.\n\nLyon, France | Urban renewal | 163.5 ha | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "港口的藝術重生",
+          "description": "將藝術織入運作中的港口，讓舊工業區重獲活力。\n\n法國里昂｜都市更新｜163.5 公頃｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/artistic-rebirth-of-the-harbor/01-harbor-facade.webp",
+        "assets/board/artistic-rebirth-of-the-harbor/02-renovation-strategy.webp",
+        "assets/board/artistic-rebirth-of-the-harbor/03-port-operation.webp",
+        "assets/board/artistic-rebirth-of-the-harbor/04-scheme-generation.webp",
+        "assets/board/artistic-rebirth-of-the-harbor/05-factory-design.webp",
+        "assets/board/artistic-rebirth-of-the-harbor/06-diversification-in-time.webp",
+        "assets/board/artistic-rebirth-of-the-harbor/07-factory-section.webp",
+        "assets/board/artistic-rebirth-of-the-harbor/08-harbor-axonometric.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/artistic-rebirth-of-the-harbor/01-harbor-facade.webp"
+          ],
+          "captions": [
+            "The renovated factory facade, with slender vertical fins along the port."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "改造後的工廠立面，沿港口排列細長的垂直鰭片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Old industrial areas built on the edge of western cities have gradually been surrounded by new blocks and become part of the city. Port de Lyon at the southern end of Lyon once flourished, but as the city grew around it, its industrial development was held back.",
+          "images": [
+            "assets/board/artistic-rebirth-of-the-harbor/02-renovation-strategy.webp"
+          ],
+          "captions": [
+            "Aerial view of the port, with the warehouse, sheds and tanks chosen for renovation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "西方城市邊緣興建的舊工業區，逐漸被新街區包圍，成為城市的一部分。位於里昂南端的里昂港曾經繁榮，但城市在周圍擴張後，其工業發展受到阻礙。",
+              "captions": [
+                "港區鳥瞰，標示選定改造的倉庫、棚架與儲槽。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project studied the port's existing production chain and the gap left by the lack of art spaces in the south of the city. It kept the industrial character of the site and inserted exhibition, studio, business and service functions into the existing buildings.",
+          "images": [
+            "assets/board/artistic-rebirth-of-the-harbor/03-port-operation.webp",
+            "assets/board/artistic-rebirth-of-the-harbor/04-scheme-generation.webp"
+          ],
+          "captions": [
+            "Operation diagrams: art packaging is added to the original production line.",
+            "Scheme generation from site factors, with the resulting master plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案研究港口既有的生產鏈，以及城市南部缺乏藝術空間的空缺。設計保留基地的工業特色，並在既有建築中植入展覽、工作室、商業與服務機能。",
+              "captions": [
+                "運作圖解：在原有生產線中加入藝術包裝環節。",
+                "從基地要素推導的方案生成，以及最終總平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "In the factory, artist studios join the production line through an overpass and a light freight track. The original steel frame is kept, while balconies and railings strengthen the relationship between inside and outside.",
+          "images": [
+            "assets/board/artistic-rebirth-of-the-harbor/05-factory-design.webp",
+            "assets/board/artistic-rebirth-of-the-harbor/07-factory-section.webp"
+          ],
+          "captions": [
+            "Factory design: roof, frame, living floors, art studio and transport layers.",
+            "Long section through the exhibition, office, packaging line and storage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在工廠中，藝術家工作室透過天橋與輕型貨運軌道接入生產線。原有鋼構架被保留，陽台與欄杆則加強了室內外的關係。",
+              "captions": [
+                "工廠設計：屋頂、構架、居住樓層、藝術工作室與運輸層。",
+                "貫穿展覽、辦公、包裝生產線與倉儲的長剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Over time, artists settle in the port and more people come for leisure, work and living. The port is expected to become an art centre and a new symbol of Lyon.",
+          "images": [
+            "assets/board/artistic-rebirth-of-the-harbor/06-diversification-in-time.webp",
+            "assets/board/artistic-rebirth-of-the-harbor/08-harbor-axonometric.webp"
+          ],
+          "captions": [
+            "Diversification in time: workers, artists and the public gradually share the port.",
+            "Axonometric drawing of the renewed port and its streets."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "隨著時間推移，藝術家進駐港口，更多人前來休閒、工作與生活。港口可望成為一座藝術中心，以及里昂的新象徵。",
+              "captions": [
+                "隨時間多元化：工人、藝術家與大眾逐漸共享港口。",
+                "更新後港區與街道的軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the existing production chain.\n2. Keep the industrial character.\n3. Insert art into the working line.\n4. Show how use changes over time.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 梳理既有的生產鏈。\n2. 保留工業特色。\n3. 把藝術植入運作中的生產線。\n4. 呈現使用方式隨時間的變化。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Typological Exploration",
+      "slug": "typological-exploration-campus",
+      "description": "A new university campus built from a meta-language drawn from local vernacular buildings.\n\nKunming, China | Urban design | University campus | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "類型學探索",
+          "description": "以在地傳統民居提煉的後設語言，構築一座新的大學校園。\n\n中國昆明｜都市設計｜大學校園｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/typological-exploration-campus/01-campus-section-life.webp",
+        "assets/board/typological-exploration-campus/02-extract-the-type.webp",
+        "assets/board/typological-exploration-campus/03-meta-language-design.webp",
+        "assets/board/typological-exploration-campus/04-campus-master-plan.webp",
+        "assets/board/typological-exploration-campus/05-library-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/typological-exploration-campus/01-campus-section-life.webp"
+          ],
+          "captions": [
+            "A section through campus life, with drawn students meeting across the floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "穿越校園生活的剖面，以手繪學生在各樓層間相遇。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "As college enrolment grows year by year, universities in China are expanding and the old campus can no longer meet the needs of a new one. This graduation project designed the unbuilt north campus of a university in Kunming, Yunnan.",
+          "images": [
+            "assets/board/typological-exploration-campus/02-extract-the-type.webp"
+          ],
+          "captions": [
+            "Extracting the type from three local vernacular buildings, then combining basic prototypes into an object."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "隨著大學招生逐年增加，中國各地大學正在擴建，舊校區已無法滿足新校區的需求。本畢業設計以雲南昆明一所大學尚未開發的北校區為對象。",
+              "captions": [
+                "從三種在地傳統民居中提取類型，再將基本原型組合成單體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Typology describes a group of objects that share the same formal structure. The project drew a meta-language from local vernacular buildings, so that the regional memory could carry on in the new campus.",
+          "images": [
+            "assets/board/typological-exploration-campus/03-meta-language-design.webp"
+          ],
+          "captions": [
+            "Meta-language design, unit module deformation, and the library and dormitory built from the modules."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "類型學描述具有相同形式結構的一組物件。本案從在地傳統民居中提煉出一套後設語言，讓地域記憶得以延續到新校區。",
+              "captions": [
+                "後設語言設計、單元模組變形，以及由模組組成的圖書館與宿舍。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Teaching, research and living spaces were sized from a quota study of each discipline. The disciplines were set as islands around a central library to encourage exchange between them.",
+          "images": [
+            "assets/board/typological-exploration-campus/04-campus-master-plan.webp"
+          ],
+          "captions": [
+            "Strategy, concept, master plan and axonometric view of the new campus."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "教學、研究與居住空間的規模，依各學科的配額研究而定。各學科被安排成圍繞中央圖書館的島嶼，以促進彼此交流。",
+              "captions": [
+                "新校區的策略、概念、總平面與軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The library section shows how the courtyard type stacks into reading rooms and shared terraces. The campus offers a way to renew and expand a university while keeping its regional character.",
+          "images": [
+            "assets/board/typological-exploration-campus/05-library-section.webp"
+          ],
+          "captions": [
+            "Library section with reading rooms and terraces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "圖書館剖面呈現合院類型如何疊合成閱覽室與共享露台。這座校園提供了一種在延續地域特色的同時，更新與擴建大學的方式。",
+              "captions": [
+                "圖書館剖面，包含閱覽室與露台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study local building types.\n2. Draw a shared design language.\n3. Size spaces from real needs.\n4. Combine units into a campus.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究在地建築類型。\n2. 提煉共享的設計語言。\n3. 依實際需求決定空間規模。\n4. 把單元組合成校園。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Village Paradise in the City",
+      "slug": "village-paradise-in-the-city",
+      "description": "Activity platforms lifted into the air turn a village beside a new overpass into a paradise for its residents.\n\nChuxiong, China | Urban village renewal | 1.2 ha | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城中村樂園",
+          "description": "抬升至空中的活動平台，讓新高架橋旁的村落成為居民的樂園。\n\n中國楚雄｜城中村更新｜1.2 公頃｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/village-paradise-in-the-city/01-village-aerial.webp",
+        "assets/board/village-paradise-in-the-city/02-usage-demand.webp",
+        "assets/board/village-paradise-in-the-city/04-design-concept.webp",
+        "assets/board/village-paradise-in-the-city/05-platform-strategy.webp",
+        "assets/board/village-paradise-in-the-city/06-platform-scenes.webp",
+        "assets/board/village-paradise-in-the-city/07-master-plan.webp",
+        "assets/board/village-paradise-in-the-city/08-platform-composition.webp",
+        "assets/board/village-paradise-in-the-city/09-village-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/village-paradise-in-the-city/01-village-aerial.webp"
+          ],
+          "captions": [
+            "Aerial view of the village, with the new overpass curving past its edge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "村落鳥瞰，新建高架橋沿其邊緣彎曲而過。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In Chinese cities, many villages are surrounded by urban construction and are often ignored as the city develops. A viaduct built high above this village in Chuxiong, Yunnan brings heavy traffic noise and pollution to its residents.",
+          "images": [
+            "assets/board/village-paradise-in-the-city/02-usage-demand.webp"
+          ],
+          "captions": [
+            "Usage demand: user groups, main activities and the spaces they need."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在中國城市中，許多村落被城市建設包圍，在發展過程中常被忽視。一座高架橋從雲南楚雄這座村落上方高高跨過，為居民帶來嚴重的交通噪音與污染。",
+              "captions": [
+                "使用需求：使用族群、主要活動與所需空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Most young people work far away, so most residents are elderly people and children, and the village lacks public space and facilities. The plan answers the traffic and parking problems and the missing public space, turning the area into a place for many activities.",
+          "images": [
+            "assets/board/village-paradise-in-the-city/04-design-concept.webp",
+            "assets/board/village-paradise-in-the-city/05-platform-strategy.webp"
+          ],
+          "captions": [
+            "Design concept: an ecological barrier, new green space and an overhead ground.",
+            "Platform strategy: materials and activities combined along the platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "多數年輕人在外地工作，居民多為老人與兒童，村內缺乏公共空間與設施。規劃回應交通、停車與公共空間不足的問題，將此地轉化為容納多種活動的場所。",
+              "captions": [
+                "設計概念：生態屏障、新增綠地與架空地面。",
+                "平台策略：沿平台組合材料與活動。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Woods are planted along the overpass as an ecological barrier, and activity platforms are lifted into the air to save the scarce ground for vegetable plots. Corridors and stairs link the platforms so residents can reach each activity space easily.",
+          "images": [
+            "assets/board/village-paradise-in-the-city/06-platform-scenes.webp",
+            "assets/board/village-paradise-in-the-city/08-platform-composition.webp"
+          ],
+          "captions": [
+            "Column forest, spatial interaction, continuous space and band attachment.",
+            "Platform composition: furniture, building, gravel, platform and farm layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "沿高架橋種植樹林作為生態屏障，並將活動平台抬升至空中，把稀缺的地面留給菜地。廊道與樓梯串連各平台，讓居民能輕鬆抵達每個活動空間。",
+              "captions": [
+                "柱林、空間互動、連續空間與帶狀附著。",
+                "平台構成：家具、建築、礫石、平台與農地等層次。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The master plan brings together a forest park, a village square, a sports park, a cooperative farm and the activity platform. The village, its architecture and its landscape become a lively sky paradise for the residents.",
+          "images": [
+            "assets/board/village-paradise-in-the-city/07-master-plan.webp",
+            "assets/board/village-paradise-in-the-city/09-village-section.webp"
+          ],
+          "captions": [
+            "Master plan of the renewed village.",
+            "Long section across the village and its platforms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "總平面整合森林遊樂園、村落廣場、運動公園、合作農場與活動平台。村落、建築與地景共同成為屬於居民的活力空中樂園。",
+              "captions": [
+                "更新後村落的總平面。",
+                "橫跨村落與平台的長剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study who still lives there.\n2. Block noise with landscape.\n3. Lift activity off the ground.\n4. Link spaces into one route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究仍在此生活的人。\n2. 以地景阻隔噪音。\n3. 把活動抬離地面。\n4. 把空間串成一條路徑。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
