@@ -1,0 +1,61 @@
+{
+  "project": "Community Rescue Program",
+  "dest": "assets/board/community-rescue-program-zhangzhou",
+  "note": "Portfolio 10c5 pages 7–9 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title block with instructor and team names, the proposal axonometric and current circulation map with street photos, the commercial forms map and the page numbers.",
+  "files": [
+    {
+      "name": "01-divided-communities.webp",
+      "sha256": "82c034a1d661f2d4ed3e0790821c08cf61e3265bc89927dc4657830c94857d62",
+      "bytes": 48682,
+      "from": "10c5 page 7 — current and future communities divided by a new road, x 71.5–92 %, y 2.5–34 %"
+    },
+    {
+      "name": "02-new-commercial-form.webp",
+      "sha256": "d3013db8f76daae09aca811e4920892d9f8327e15e9608b045c451c26ec21457",
+      "bytes": 89944,
+      "from": "page 8 — new commercial form along the old street, x 0–14.8 %, y 5–95 %"
+    },
+    {
+      "name": "03-typology.webp",
+      "sha256": "dcd4952d1528874dcc7d4bc232193d0033507dd6862b7c1ad8e8ad55ffd92b38",
+      "bytes": 40580,
+      "from": "page 8 — shop typology, x 14.8–29 %, y 5–93 %"
+    },
+    {
+      "name": "04-street-sections.webp",
+      "sha256": "016989b9e1870cc72dd9ea0a7141d3a9b47c193ae36fae1ff81895ae8d558a93",
+      "bytes": 72890,
+      "from": "page 8 — commercial street and life street sections, x 29–50 %, y 6–97 %"
+    },
+    {
+      "name": "05-architectural-types.webp",
+      "sha256": "d433fbba783e308a6e612940b16b6bf18949541db5361e4aad08f25a861cc88e",
+      "bytes": 110584,
+      "from": "page 8 — original and new architectural types, x 50–74.5 %, y 2–98 %"
+    },
+    {
+      "name": "06-community-axonometric.webp",
+      "sha256": "2e1d3ed5b64ccebd5ef7087d9b1c371c72d9e06a44748cbb3f657db238fb1a16",
+      "bytes": 242152,
+      "from": "page 8 — axonometric of the opened-up community blocks, x 74.5–100 %, y 0–96.5 %"
+    },
+    {
+      "name": "07-underpass-plaza.webp",
+      "sha256": "2b86c45051103258a585f7734ce31e504fb325d37aa2402c60893a93d6cc9e3b",
+      "bytes": 346858,
+      "from": "page 9 — underpass commercial plaza, x 0–50 %, y 0–96.5 %"
+    },
+    {
+      "name": "08-landscape-bridges.webp",
+      "sha256": "173a48c468f9c3a11d0d0b061d4ba51effbb58edc057750107dc6ff20f43ae0c",
+      "bytes": 157534,
+      "from": "page 9 — eco theme line and landscape bridges, x 50–76.5 %, y 0–97 %"
+    },
+    {
+      "name": "09-raised-park.webp",
+      "sha256": "8192701660ed1dd5b64380a1870d07f870751aaa90140bb2ebde343a23df63c5",
+      "bytes": 173986,
+      "from": "page 9 — pedestrian raised park, x 76.5–100 %, y 0–96.5 %"
+    }
+  ]
+}
