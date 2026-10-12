@@ -1,0 +1,61 @@
+{
+  "project": "Passive Facade",
+  "dest": "assets/board/passive-facade-layered-timber-strip-model",
+  "note": "Portfolio 915e pages 11-12 cropped to nine images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "481ce772e5ed4478c9a7fdfaa47f33ddd0e86823fc008a88d0120262f1deab14",
+      "bytes": 62366,
+      "from": "915e page 12 — final model"
+    },
+    {
+      "name": "02-cut-strips.webp",
+      "sha256": "2075eedb0c24d3502d13f2d6f24ae473c250aa1fb0f9f542a80ae3bb0951ceb4",
+      "bytes": 68286,
+      "from": "915e page 11 — cut strips"
+    },
+    {
+      "name": "03-facade-texture.webp",
+      "sha256": "186cb4b7ad9f1770dc5f918b3a14d281f8d8a4cd9e419ad72815595eb17b40e2",
+      "bytes": 63832,
+      "from": "915e page 11 — facade texture"
+    },
+    {
+      "name": "04-light-on-floor.webp",
+      "sha256": "4f96af29f8c636d322dc8992aae9cde16f45f47367c46463c55c9ffc159f5ad8",
+      "bytes": 18310,
+      "from": "915e page 11 — light on floor"
+    },
+    {
+      "name": "05-shaded-room.webp",
+      "sha256": "e2b55d2d315aaceb1f4890686ec071293c56ec8ca6042fc72a56cbc00760e950",
+      "bytes": 21126,
+      "from": "915e page 11 — shaded room"
+    },
+    {
+      "name": "06-facade-side.webp",
+      "sha256": "fa448f035fedc945f0e72fa265ffbcdf6a5fcf39dc5c9978078b83f7d2b2329b",
+      "bytes": 30448,
+      "from": "915e page 11 — facade side"
+    },
+    {
+      "name": "07-shadow-a.webp",
+      "sha256": "833718b959730aad9780b25d496be93d5e2f4234974f85f4f794b3f13340e14c",
+      "bytes": 27862,
+      "from": "915e page 12 — shadow a"
+    },
+    {
+      "name": "08-shadow-b.webp",
+      "sha256": "bfef8a74e75e7974c2d676fe07eccf459abbc1079f35c9917d5b7830b7543ed7",
+      "bytes": 30814,
+      "from": "915e page 12 — shadow b"
+    },
+    {
+      "name": "09-interior-view.webp",
+      "sha256": "b2cc0df1533490824a3a59231d7409618792a544a896040a1cdcb0640e1b22ca",
+      "bytes": 34372,
+      "from": "915e page 12 — interior view"
+    }
+  ]
+}
