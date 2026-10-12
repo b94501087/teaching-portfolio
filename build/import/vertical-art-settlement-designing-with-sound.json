@@ -1,0 +1,49 @@
+{
+  "project": "Vertical Art Settlement",
+  "dest": "assets/board/vertical-art-settlement-designing-with-sound",
+  "note": "Portfolio 5757 pages 14-15 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the city map panel with photo cut-out figures and building photos, the sketch and photo strip beside the sound analysis, and the circular photo collage.",
+  "files": [
+    {
+      "name": "01-sound-form-model.webp",
+      "sha256": "28234cdcd780e02e050cd71c172fa3b47aa7502e19aef1a1af12bf1792b935a3",
+      "bytes": 45340,
+      "from": "5757 page 15 — site models of the settlement, x 25–38 %, y 7–95 %"
+    },
+    {
+      "name": "02-site-pressure-diagram.webp",
+      "sha256": "32cd8cf6453aa6b6e5b9d976412abaa417a6e874b0c8f3c17b13379f33418bec",
+      "bytes": 129482,
+      "from": "5757 page 14 — site survey of air pressure, terrain and sound, x 2–25 %, y 4–84 %"
+    },
+    {
+      "name": "03-sound-spectrograms.webp",
+      "sha256": "98a55356770f270e5476a71aac87d970187f2df353c42013c350b2d7ebf21541",
+      "bytes": 64068,
+      "from": "5757 page 14 — sound analysis spectrograms, x 62–81 %, y 6–43 %"
+    },
+    {
+      "name": "04-sound-plan.webp",
+      "sha256": "34ff87c25f861b51a152d36df281724647d5cb740864ec1130c7339726ad3d77",
+      "bytes": 160702,
+      "from": "5757 page 14 — plan composition from sound, x 52–82 %, y 45–92 %"
+    },
+    {
+      "name": "05-sound-to-form-layers.webp",
+      "sha256": "25a474b96d26500e40b57ef89c5dfc5cb685e0689b58ea5afbacfedd6a00d7f8",
+      "bytes": 100062,
+      "from": "5757 page 14 — layers from sound data to form, x 81–100 %, y 4–94 %"
+    },
+    {
+      "name": "06-settlement-axonometrics.webp",
+      "sha256": "b98f8a338a767e7e3dd102f5dd99cbbdba31430d8db7ee62ffb90ce1c0076dc9",
+      "bytes": 37808,
+      "from": "5757 page 15 — axonometric sequence of the settlement, x 3–25 %, y 53–97 %"
+    },
+    {
+      "name": "07-model-details.webp",
+      "sha256": "8ffaf54aed21d424ded2b01bb65c31e3b6576e24bf94c7a7e1a2fa0dade1f788",
+      "bytes": 77982,
+      "from": "5757 page 15 — model details, x 39–48 %, y 7–95 %"
+    }
+  ]
+}
