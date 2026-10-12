@@ -1,0 +1,55 @@
+{
+  "project": "Animal Box",
+  "dest": "assets/board/animal-box-guangzhou",
+  "note": "Portfolio 4439 pages 17–20 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title and body text, the background photo collage, the timeline of human and animal history with photos and plans of real zoos, the education word cloud, the virtual reality and real effect photo collage on page 21 and the body text.",
+  "files": [
+    {
+      "name": "01-animal-box-exterior.webp",
+      "sha256": "017b41a9287196700fd5eb0484a83035bb3f15f7676db370ebc83a99f3be6f2f",
+      "bytes": 377288,
+      "from": "4439 page 17 — exterior render of the Animal Box at night, x 1.5–73.5 %, y 2–99 %"
+    },
+    {
+      "name": "02-goal-diagram.webp",
+      "sha256": "11aa0827ef03a02a616374888661d04f33f09507662c41cd12f791433f2745c8",
+      "bytes": 37750,
+      "from": "page 19 — goal statement diagram, x 0–21 %, y 3–40 %"
+    },
+    {
+      "name": "03-conceptual-sketches.webp",
+      "sha256": "546748143ff511a1e3b369fab103c361eddc7db20aa2beefe303811b16d0f2c5",
+      "bytes": 218928,
+      "from": "page 19 — conceptual sketches of interlocking boxes, x 0–45 %, y 42–99 %"
+    },
+    {
+      "name": "04-exhibition-system.webp",
+      "sha256": "feaf0c26a1f57e6163db80af76e0e665d0dc644304add561458e4a397b1f1869",
+      "bytes": 52814,
+      "from": "page 19 — exhibition system arrangement table, x 46.5–100 %, y 3–30 %"
+    },
+    {
+      "name": "05-expected-contexts.webp",
+      "sha256": "f88231d7b6e64a3d79a6bd92ec33fa9f350562be91093ba5a684d0464a80434a",
+      "bytes": 284314,
+      "from": "page 19 — expected contexts of the animal boxes, x 46.5–97.5 %, y 33–97.5 %"
+    },
+    {
+      "name": "06-functional-distribution.webp",
+      "sha256": "e51cd605423b30eaab698d8d6a4e875191f5552ff0cdf29fde3c1f0dce0bf0e5",
+      "bytes": 95518,
+      "from": "page 20 — functional distribution axonometric, x 0–60 %, y 3–50 %"
+    },
+    {
+      "name": "07-blind-box-interior.webp",
+      "sha256": "327efe03c0115c1d144a635853ca41a4cdca2459a49d3c34b147a45706016f09",
+      "bytes": 99112,
+      "from": "page 20 — interior render of the blind box day, x 61–100 %, y 8.5–50.5 %"
+    },
+    {
+      "name": "08-section.webp",
+      "sha256": "5e2d18946368d7003f0b5c3a87061a9436af2d4433b6900cf11c0c5646c82407",
+      "bytes": 216418,
+      "from": "page 20 — long section with the legend, x 0–100 %, y 53–100 %"
+    }
+  ]
+}
