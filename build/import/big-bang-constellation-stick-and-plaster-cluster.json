@@ -1,0 +1,67 @@
+{
+  "project": "Big Bang Constellation",
+  "dest": "assets/board/big-bang-constellation-stick-and-plaster-cluster",
+  "note": "Portfolio 8409 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, night-sky reference photos.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "f0c064731a7ffdfc9088965f676d9a0e117ae4de879a4498b91b1fb0aaa5627a",
+      "bytes": 81936,
+      "from": "8409 page 3 — final model"
+    },
+    {
+      "name": "02-concept-models.webp",
+      "sha256": "ed7ec6908ee849299fb903158530705d94c5c34c6f8cac590ddfd830237a5b29",
+      "bytes": 10954,
+      "from": "8409 page 2 — concept models"
+    },
+    {
+      "name": "03-star-chart.webp",
+      "sha256": "bdf69b9c1e9098be5c4702dbcb0f1829b52b2bb5e700b03f4971d88a93bc9891",
+      "bytes": 11622,
+      "from": "8409 page 2 — star chart"
+    },
+    {
+      "name": "04-chart-to-3d.webp",
+      "sha256": "814bfd48482c28a833c9839ec49706b633680f50aa137c0d03f63e37822641ba",
+      "bytes": 15240,
+      "from": "8409 page 2 — chart to 3d"
+    },
+    {
+      "name": "05-combinations.webp",
+      "sha256": "9b6d9599a9779b56ab88220a5ce644e8e3d2963c376ba10d363b714bc0612345",
+      "bytes": 32038,
+      "from": "8409 page 2 — combinations"
+    },
+    {
+      "name": "06-stage-results.webp",
+      "sha256": "4aa6a575c8a27ff108286ac5f7e243500ca5dec5e971874be0d5b90514d134cc",
+      "bytes": 32992,
+      "from": "8409 page 2 — stage results"
+    },
+    {
+      "name": "07-left-view.webp",
+      "sha256": "e0666bc8f54699ac495897181a9791cad883f5592a4d5750b5fd1b45354b5de9",
+      "bytes": 28454,
+      "from": "8409 page 3 — left view"
+    },
+    {
+      "name": "08-inside-figure.webp",
+      "sha256": "c02d4f42e609f3fb262ee84333e09501db3532b7cfe8e2646f5b9c87ecda76cb",
+      "bytes": 12192,
+      "from": "8409 page 3 — inside figure"
+    },
+    {
+      "name": "09-lower-view.webp",
+      "sha256": "783ea1ec896fedce06c17bf7d51ac15e693811626dd87e930f711a9ab74310a4",
+      "bytes": 30904,
+      "from": "8409 page 3 — lower view"
+    },
+    {
+      "name": "10-inside-detail.webp",
+      "sha256": "d70e99967b5ee28071276d9d5b12cf1bd85b96f225dd3209ee3d7daeede49318",
+      "bytes": 39274,
+      "from": "8409 page 3 — inside detail"
+    }
+  ]
+}
