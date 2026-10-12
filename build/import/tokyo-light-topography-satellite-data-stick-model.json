@@ -1,0 +1,67 @@
+{
+  "project": "Tokyo Light Topography",
+  "dest": "assets/board/tokyo-light-topography-satellite-data-stick-model",
+  "note": "Portfolio 9caf pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: title and text, precedent photos and architect names, process photo showing the student.",
+  "files": [
+    {
+      "name": "01-light-mountain.webp",
+      "sha256": "c8f088e0a0f962b047158fdeecd6fbce6b61611cde9b79bee276617f126b6676",
+      "bytes": 23394,
+      "from": "9caf page 9 — light mountain"
+    },
+    {
+      "name": "02-satellite-image.webp",
+      "sha256": "0119af4bd9b361f1f965506a88ce8ca75aee0c35886fb0ad35c34c84e34d07e0",
+      "bytes": 46250,
+      "from": "9caf page 8 — satellite image"
+    },
+    {
+      "name": "03-triangle-map.webp",
+      "sha256": "b1b73283cc4a8b17498033e7e632a85ce3e03645068243604bbf3c0d3f8efcae",
+      "bytes": 22266,
+      "from": "9caf page 8 — triangle map"
+    },
+    {
+      "name": "04-strip-drawing.webp",
+      "sha256": "5ffa30a381f2b060f59b47a40523ae01c2065ea56fca7dd5ba8732d1e46775bc",
+      "bytes": 13130,
+      "from": "9caf page 8 — strip drawing"
+    },
+    {
+      "name": "05-material-tests.webp",
+      "sha256": "7dbb3bbfa67844f781c0a91b7bbfd5b8f84d6d3d32e9777cc407bab9915cefeb",
+      "bytes": 28854,
+      "from": "9caf page 8 — material tests"
+    },
+    {
+      "name": "06-sketch.webp",
+      "sha256": "7494ff8384cdd136a06539a684f00e62c20e37f1060964416bed59a99875bde0",
+      "bytes": 14922,
+      "from": "9caf page 8 — sketch"
+    },
+    {
+      "name": "07-process.webp",
+      "sha256": "f8374da648394609c51f8a5e37f63a17402f2255f32db588f94bc4fda468e740",
+      "bytes": 20712,
+      "from": "9caf page 9 — process"
+    },
+    {
+      "name": "08-side-view.webp",
+      "sha256": "24901fd0ba3c8e9b4b89535842876a7ffe4bda2b33552e31e2f425a9fa785b08",
+      "bytes": 31558,
+      "from": "9caf page 9 — side view"
+    },
+    {
+      "name": "09-view-b.webp",
+      "sha256": "082dd4a3a8eacb174cae9ff6676602c8600a13d0a570c7a53e51beff4474be56",
+      "bytes": 19720,
+      "from": "9caf page 9 — view b"
+    },
+    {
+      "name": "10-view-c.webp",
+      "sha256": "0079fc79f3d0d2270537abd4066467d175a1eca90ead1cf7ac3a3292ec1262eb",
+      "bytes": 23060,
+      "from": "9caf page 9 — view c"
+    }
+  ]
+}
