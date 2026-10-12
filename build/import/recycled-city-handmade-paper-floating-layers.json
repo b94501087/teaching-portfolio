@@ -1,0 +1,55 @@
+{
+  "project": "The Recycled City",
+  "dest": "assets/board/recycled-city-handmade-paper-floating-layers",
+  "note": "Portfolio ce4a page 14 cropped to eight images, WebP q88 (PIL). Not used: title and text, process photos showing the student.",
+  "files": [
+    {
+      "name": "01-floating-layers.webp",
+      "sha256": "d80bafba22e2b675b80903de519c9f04526a52dd261df4fc2ea992e60a869bc6",
+      "bytes": 95682,
+      "from": "ce4a page 14 — floating layers"
+    },
+    {
+      "name": "02-view-a.webp",
+      "sha256": "51bdbbd3d69decb805af179e60c38edd5dd7fc550f3d807db50fd4baf377836e",
+      "bytes": 45692,
+      "from": "ce4a page 14 — view a"
+    },
+    {
+      "name": "03-view-b.webp",
+      "sha256": "ba36f456b619a527e68e120a5922787b135554fbed616c71674ab3128323fd08",
+      "bytes": 38884,
+      "from": "ce4a page 14 — view b"
+    },
+    {
+      "name": "04-papermaking-steps.webp",
+      "sha256": "9f0d51f196c67db6a8e77c7b38ede5217c0e1f76df873c967f011dedc5fe061b",
+      "bytes": 61920,
+      "from": "ce4a page 14 — papermaking steps"
+    },
+    {
+      "name": "05-collecting.webp",
+      "sha256": "5b08caad5fc187169cee29808a389c58ea7cc4ce48e7b0f9c7710275bb7da443",
+      "bytes": 29786,
+      "from": "ce4a page 14 — collecting"
+    },
+    {
+      "name": "06-sheets.webp",
+      "sha256": "d5c114e40d115fed675fe31147cde47976a80f74a1627666ec683590bd4b3074",
+      "bytes": 35184,
+      "from": "ce4a page 14 — sheets"
+    },
+    {
+      "name": "07-stitching.webp",
+      "sha256": "6495bba301070cdb8079f727baa1293bd104eec7e69791b4194313230389bfd9",
+      "bytes": 8784,
+      "from": "ce4a page 14 — stitching"
+    },
+    {
+      "name": "08-stacking.webp",
+      "sha256": "0f0e4620a7240e34d46069590e397d18e47e3ba9df9315f0250e3d3bae77fd76",
+      "bytes": 30098,
+      "from": "ce4a page 14 — stacking"
+    }
+  ]
+}
