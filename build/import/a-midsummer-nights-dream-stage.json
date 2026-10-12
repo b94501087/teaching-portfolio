@@ -1,0 +1,49 @@
+{
+  "project": "A Midsummer Night’s Dream",
+  "dest": "assets/board/a-midsummer-nights-dream-stage",
+  "note": "Portfolio e4dc pages 11–12 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage with production stills on page 11, the sketch with production stills on page 11, the theatre name label and the aerial photo background on page 12, and the storyboard renderings with photo figures on page 13. No retouching.",
+  "files": [
+    {
+      "name": "01-spiral-ground-and-revolving-stages.webp",
+      "sha256": "7859bb90cd9bdd39ed657a8f6b82c7bec458cd3416b5dedec229de63048e9f60",
+      "bytes": 148108,
+      "from": "e4dc page 12 — spiral double-staircase, ground floor and revolving stages, x 63–100 %, y 5–97 %"
+    },
+    {
+      "name": "02-story-introduction.webp",
+      "sha256": "ffa286086f4e4c0a2647a4cf74405b45afae4e33d9fb3acdb0335c70c7dd3e0e",
+      "bytes": 105562,
+      "from": "page 11 — story introduction in seven scenes, x 40–100 %, y 0–42 %"
+    },
+    {
+      "name": "03-dream-within-a-dream-concepts.webp",
+      "sha256": "1d3cd58b0c6edbb87de427d349a1005ddbdd17059d9ec3249b5a4cea8c5ada51",
+      "bytes": 92172,
+      "from": "page 11 — design concepts 1 and 2, x 64.5–78 %, y 42–100 %"
+    },
+    {
+      "name": "04-stage-concept-sketch.webp",
+      "sha256": "1e925375055d5b19dff08c6dfb82fff8c55f89c60866f1a8445f306fac527f5e",
+      "bytes": 83804,
+      "from": "page 11 — stage concept sketch, x 78–100 %, y 42–96 %"
+    },
+    {
+      "name": "05-exploded-layers.webp",
+      "sha256": "7ca7d782e024f0359d7c4e75c9eee26db97576e20e10c9ee42591516e7e016c2",
+      "bytes": 78294,
+      "from": "page 12 — exploded layers of the design development, x 0–20 %, y 0–66 %"
+    },
+    {
+      "name": "06-inner-and-outer-layers.webp",
+      "sha256": "6798e95725314c9fd86e2d2796feb924a491381b82e32d992ee8dc4e68a75dd7",
+      "bytes": 37006,
+      "from": "page 12 — inner and outer layers of the performance area, x 20–40 %, y 18–55 %"
+    },
+    {
+      "name": "07-cyclorama-and-suspended-stage.webp",
+      "sha256": "5d258ada9cacb35608dafdb165f4cfa3e6b1db232e2a2ba6f0e14a4cd9187941",
+      "bytes": 97894,
+      "from": "page 12 — cyclorama and suspended stage, x 41.5–63 %, y 5–97 %"
+    }
+  ]
+}
