@@ -1,0 +1,67 @@
+{
+  "project": "Human Doll",
+  "dest": "assets/board/human-doll-board-game-stacked-house",
+  "note": "Portfolio 895c pages 10-11 cropped to ten images, WebP q88 (PIL). Not used: title and text, rule cards, hallway and stair board designs, advantage cards, card photos.",
+  "files": [
+    {
+      "name": "01-stacked-house-model.webp",
+      "sha256": "3c929447b399b84ea120442a4b3be6aadb6b396bb2822c350817c4b78fd7b2ec",
+      "bytes": 34016,
+      "from": "895c page 11 — final model"
+    },
+    {
+      "name": "02-classroom-board-designs.webp",
+      "sha256": "5dd7250c6f2c0e5444062fb6474fabf7470ae13f7aee8e4dbf6cb221c8f49ac1",
+      "bytes": 11430,
+      "from": "895c page 10 — classroom board designs"
+    },
+    {
+      "name": "03-game-pieces.webp",
+      "sha256": "812bf6320b2b83c9278744271a65641aa4bf2c6604cb9f5530bd3182519b09cc",
+      "bytes": 36356,
+      "from": "895c page 10 — game pieces"
+    },
+    {
+      "name": "04-character-cards.webp",
+      "sha256": "358fc7a7834b3205fa05c073383d5772983da730247d7876b56a885a8805d9d3",
+      "bytes": 21774,
+      "from": "895c page 10 — character cards"
+    },
+    {
+      "name": "05-board-game-in-play.webp",
+      "sha256": "88b52b4df67439b97171aa9c1d4f2cc91954f2ccb356cb9ef0c6c457a529e0bd",
+      "bytes": 20122,
+      "from": "895c page 10 — board game in play"
+    },
+    {
+      "name": "06-early-house-models.webp",
+      "sha256": "90ef3f4c3d90d7965f57790030ad9593ab7376171468a4194239c968e816f505",
+      "bytes": 20434,
+      "from": "895c page 11 — early house models"
+    },
+    {
+      "name": "07-cantilevered-rooms.webp",
+      "sha256": "d4fbffa97f942aaa45a54859e49439a566a12cb4f3205717c6504a15a2c31cf2",
+      "bytes": 24302,
+      "from": "895c page 11 — cantilevered rooms"
+    },
+    {
+      "name": "08-stair-and-balcony.webp",
+      "sha256": "8bb362c84a06de3b76a84d522dfd11daa9ef923d178b0deeac4af410dd2ae493",
+      "bytes": 21596,
+      "from": "895c page 11 — stair and balcony"
+    },
+    {
+      "name": "09-spiral-stair-view.webp",
+      "sha256": "1ca0e16a808c4a82bdea95936b53a3a1c038af908cba0f23006e9abaac836ece",
+      "bytes": 20140,
+      "from": "895c page 11 — spiral stair view"
+    },
+    {
+      "name": "10-ground-room-window.webp",
+      "sha256": "77f03eb858902fcfe8ebbaf1ad283f8b34c9a7dc7402316462f1571cd4aae349",
+      "bytes": 15326,
+      "from": "895c page 11 — ground room window"
+    }
+  ]
+}
