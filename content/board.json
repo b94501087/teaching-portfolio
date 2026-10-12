@@ -25618,6 +25618,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Modern Garden Architecture",
+      "slug": "modern-garden-architecture-suzhou",
+      "description": "Principles of the classical garden shape a new commercial complex.\n\nSuzhou, China | Commercial complex | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "現代園林建築",
+          "description": "古典園林的原則塑造一座新的商業綜合體。\n\n中國蘇州｜商業綜合體｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/modern-garden-architecture-suzhou/01-front-section.webp",
+        "assets/board/modern-garden-architecture-suzhou/02-functional-principle-sketches.webp",
+        "assets/board/modern-garden-architecture-suzhou/03-courtyard-decomposition.webp",
+        "assets/board/modern-garden-architecture-suzhou/04-single-building-forms.webp",
+        "assets/board/modern-garden-architecture-suzhou/05-garden-complex-elevation.webp",
+        "assets/board/modern-garden-architecture-suzhou/06-entrance-sections.webp",
+        "assets/board/modern-garden-architecture-suzhou/07-exploded-axonometric.webp",
+        "assets/board/modern-garden-architecture-suzhou/08-roof-and-courtyard-studies.webp",
+        "assets/board/modern-garden-architecture-suzhou/09-garden-and-city-section.webp",
+        "assets/board/modern-garden-architecture-suzhou/10-maker-space-profile.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/modern-garden-architecture-suzhou/01-front-section.webp"
+          ],
+          "captions": [
+            "A long section shows shops, offices and courtyards under layered roofs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "長剖面呈現層疊屋頂下的商店、辦公與庭院。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks whether the classical Chinese garden still has something to teach modern architecture. It tests this question on a new commercial complex in Suzhou.",
+          "images": [
+            "assets/board/modern-garden-architecture-suzhou/02-functional-principle-sketches.webp",
+            "assets/board/modern-garden-architecture-suzhou/03-courtyard-decomposition.webp"
+          ],
+          "captions": [
+            "Hand sketches of how garden buildings mix daily uses.",
+            "Rockery, plants and water taken apart in sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案探問中國古典園林是否仍能為現代建築帶來啟發。這個問題在蘇州一座新的商業綜合體中被檢驗。",
+              "captions": [
+                "手繪速寫：園林建築如何混合日常機能。",
+                "以速寫拆解假山、植栽與水景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Seven principles are drawn out of the garden, from free function and asymmetry to winding routes and borrowed scenery. Each one is turned into simple building forms and roof studies.",
+          "images": [
+            "assets/board/modern-garden-architecture-suzhou/04-single-building-forms.webp",
+            "assets/board/modern-garden-architecture-suzhou/08-roof-and-courtyard-studies.webp"
+          ],
+          "captions": [
+            "Single building forms made from roof and box types.",
+            "Studies of the roof structure and the atrium courtyard."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "從園林中歸納出七項原則，包括自由的機能、不對稱、曲折的路徑與借景。每一項都被轉化為簡單的建築形體與屋頂研究。",
+              "captions": [
+                "由屋頂與方盒類型組合的單體形式。",
+                "屋頂結構與中庭的研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The complex is stacked as layers of shops, public rooms, offices and roof gardens. Curved roofs and broken volumes keep the garden feeling of many small buildings.",
+          "images": [
+            "assets/board/modern-garden-architecture-suzhou/07-exploded-axonometric.webp",
+            "assets/board/modern-garden-architecture-suzhou/05-garden-complex-elevation.webp"
+          ],
+          "captions": [
+            "Exploded axonometric of the spaces and roofs.",
+            "Line elevation of the complex."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "綜合體被堆疊為商業、公共活動、辦公與屋頂花園等層次。彎曲的屋頂與錯落的量體，保留了園林中眾多小建築的感受。",
+              "captions": [
+                "空間與屋頂的爆炸軸測圖。",
+                "綜合體的線稿立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Low garden buildings sit at the base while a tower rises to meet the city. Inside, a maker space opens floor by floor for different groups of people.",
+          "images": [
+            "assets/board/modern-garden-architecture-suzhou/06-entrance-sections.webp",
+            "assets/board/modern-garden-architecture-suzhou/09-garden-and-city-section.webp",
+            "assets/board/modern-garden-architecture-suzhou/10-maker-space-profile.webp"
+          ],
+          "captions": [
+            "Sections at the four entrances.",
+            "The complex set against the city.",
+            "Sectional perspective of the maker space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "低矮的園林建築位於基座，塔樓則向上與城市對話。內部的創客空間逐層展開，服務不同的人群。",
+              "captions": [
+                "四個入口的剖面。",
+                "綜合體與城市的關係。",
+                "創客空間的剖透視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Sketch a historic type.\n2. Name its principles.\n3. Turn each into form.\n4. Stack them into a program.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 速寫一種歷史類型。\n2. 歸納它的原則。\n3. 把每項原則轉為形體。\n4. 把形體疊合成機能。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
