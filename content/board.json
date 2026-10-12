@@ -34309,6 +34309,582 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "House in Nesso",
+      "slug": "house-in-nesso-climate-responsive-home",
+      "description": "A lakeside house on a steep slope, shaped by climate simulations.\n\nNesso, Italy | Architecture | Climate-responsive house | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "內索湖畔住宅",
+          "description": "一棟依氣候模擬塑形的陡坡湖畔住宅。\n\n義大利內索｜建築｜氣候回應住宅｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/house-in-nesso-climate-responsive-home/01-section-airflow.webp",
+        "assets/board/house-in-nesso-climate-responsive-home/02-local-climate-analysis.webp",
+        "assets/board/house-in-nesso-climate-responsive-home/03-site-location-map.webp",
+        "assets/board/house-in-nesso-climate-responsive-home/04-roof-study-level-one.webp",
+        "assets/board/house-in-nesso-climate-responsive-home/05-roof-study-level-two.webp",
+        "assets/board/house-in-nesso-climate-responsive-home/06-cfd-analysis.webp",
+        "assets/board/house-in-nesso-climate-responsive-home/07-section-two.webp",
+        "assets/board/house-in-nesso-climate-responsive-home/08-site-plan.webp",
+        "assets/board/house-in-nesso-climate-responsive-home/09-floor-plans.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/house-in-nesso-climate-responsive-home/01-section-airflow.webp"
+          ],
+          "captions": [
+            "Section showing sun paths and airflow through the house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "呈現日照與氣流穿越住宅的剖面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A small single-family house sits on a steep slope above Lake Como in northern Italy. The brief asks how the form can answer the local climate instead of relying on machines.",
+          "images": [
+            "assets/board/house-in-nesso-climate-responsive-home/02-local-climate-analysis.webp",
+            "assets/board/house-in-nesso-climate-responsive-home/03-site-location-map.webp"
+          ],
+          "captions": [
+            "Local climate and lake breeze analysis.",
+            "Site location from region to slope."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一棟小型獨棟住宅，位於義大利北部科莫湖畔的陡坡上。設計題目是讓建築形體回應在地氣候，而不是依賴機械設備。",
+              "captions": [
+                "在地氣候與湖風分析。",
+                "從區域到坡地的基地位置圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Gable, flat and curved roofs in several orientations are tested with thermal simulations for the hottest and coldest days. An east-west gable roof gives the lowest indoor peak and becomes the base for a second round.",
+          "images": [
+            "assets/board/house-in-nesso-climate-responsive-home/04-roof-study-level-one.webp",
+            "assets/board/house-in-nesso-climate-responsive-home/05-roof-study-level-two.webp"
+          ],
+          "captions": [
+            "First round of roof performance tests.",
+            "Second round comparing gable and hipped variants."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以熱環境模擬，在最熱與最冷的日子測試不同朝向的山牆屋頂、平屋頂與曲面屋頂。東西向山牆屋頂的室內峰值溫度最低，成為第二輪測試的基礎。",
+              "captions": [
+                "第一輪屋頂性能測試。",
+                "第二輪比較山牆與四坡屋頂變化。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Airflow simulations check how valley and lake breezes move around the chosen volume. Deep roof overhangs and solar panels on the roof and boundary walls are then tuned to the western sun.",
+          "images": [
+            "assets/board/house-in-nesso-climate-responsive-home/06-cfd-analysis.webp",
+            "assets/board/house-in-nesso-climate-responsive-home/07-section-two.webp"
+          ],
+          "captions": [
+            "Airflow simulation around the house.",
+            "Second section through the slope."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "氣流模擬檢查山谷風與湖風如何繞過選定的量體。接著依西向日照調整深遠的屋簷，以及屋頂與邊牆上的太陽能板。",
+              "captions": [
+                "住宅周邊的氣流模擬。",
+                "穿越坡地的第二道剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The house turns west toward the lake and steps across three floors on the slope. Shading, cross-ventilation and solar energy work together to keep the rooms comfortable with less energy.",
+          "images": [
+            "assets/board/house-in-nesso-climate-responsive-home/08-site-plan.webp",
+            "assets/board/house-in-nesso-climate-responsive-home/09-floor-plans.webp"
+          ],
+          "captions": [
+            "Site plan.",
+            "Plans of the three floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "住宅面西朝向湖面，沿坡地分為三層。遮陽、對流通風與太陽能共同作用，以較少的能源維持室內舒適。",
+              "captions": [
+                "配置圖。",
+                "三個樓層的平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the local climate first.\n2. Test simple roof options.\n3. Keep the best one and refine it.\n4. Let the section carry the idea.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先讀懂在地氣候。\n2. 測試簡單的屋頂選項。\n3. 保留最佳方案並深化。\n4. 讓剖面承載設計概念。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Dongshan Bus Station",
+      "slug": "dongshan-bus-station-fissures",
+      "description": "A small bus station with a folded canopy in an old Guangzhou quarter.\n\nGuangzhou, China | Architecture | Bus station | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "東山公車站",
+          "description": "廣州老街區中一座帶有折板頂篷的小型公車站。\n\n中國廣州｜建築｜公車站｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/dongshan-bus-station-fissures/01-tower-aerial-render.webp",
+        "assets/board/dongshan-bus-station-fissures/02-building-volume.webp",
+        "assets/board/dongshan-bus-station-fissures/03-isometric-drawing.webp",
+        "assets/board/dongshan-bus-station-fissures/04-floor-selection.webp",
+        "assets/board/dongshan-bus-station-fissures/05-beam-and-column.webp",
+        "assets/board/dongshan-bus-station-fissures/06-building-plans.webp",
+        "assets/board/dongshan-bus-station-fissures/07-west-street-view.webp",
+        "assets/board/dongshan-bus-station-fissures/08-fourth-floor-view.webp",
+        "assets/board/dongshan-bus-station-fissures/09-street-view-building.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/dongshan-bus-station-fissures/01-tower-aerial-render.webp"
+          ],
+          "captions": [
+            "Aerial render of the station and its folded canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "車站與折板頂篷的鳥瞰渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Dongshankou in Guangzhou is an old residential quarter that mixes Eastern and Western building styles and has recently become a social media hotspot. The project asks how a small bus station can respond to this crowded image of the place.",
+          "images": [
+            "assets/board/dongshan-bus-station-fissures/02-building-volume.webp"
+          ],
+          "captions": [
+            "Volume studies from floor to main structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州東山口是融合中西建築風格的老住宅區，近年成為社群媒體上的熱門地點。專案思考一座小型公車站，如何回應這個被大量影像包圍的場所。",
+              "captions": [
+                "從樓層到主結構的量體研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student reads the district as a mix of the real street and its online image. Floors are stacked as varied blocks and then tied together by a simple frame.",
+          "images": [
+            "assets/board/dongshan-bus-station-fissures/03-isometric-drawing.webp",
+            "assets/board/dongshan-bus-station-fissures/04-floor-selection.webp"
+          ],
+          "captions": [
+            "Isometric drawing of the station.",
+            "Selection of floor plates and materials."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把街區解讀為真實街道與網路影像的混合。各樓層以不同的量塊堆疊，再由簡潔的框架串連起來。",
+              "captions": [
+                "車站的等角透視圖。",
+                "樓板與材質的選擇。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A beam and column grid holds the stacked rooms and a folded canopy above them. Bus bays sit on the ground floor while the upper floors open to the street.",
+          "images": [
+            "assets/board/dongshan-bus-station-fissures/05-beam-and-column.webp",
+            "assets/board/dongshan-bus-station-fissures/06-building-plans.webp"
+          ],
+          "captions": [
+            "Beam and column construction.",
+            "Plans of the four floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "梁柱網格承托堆疊的房間與上方的折板頂篷。公車停靠位設在地面層，上層樓面則向街道開放。",
+              "captions": [
+                "梁柱構造。",
+                "四個樓層的平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Street views show the canopy as a strange flash above the old lanes at night. By day the station reads as a light marker that invites people in from the street.",
+          "images": [
+            "assets/board/dongshan-bus-station-fissures/07-west-street-view.webp",
+            "assets/board/dongshan-bus-station-fissures/08-fourth-floor-view.webp",
+            "assets/board/dongshan-bus-station-fissures/09-street-view-building.webp"
+          ],
+          "captions": [
+            "Night view from the west street.",
+            "View from the fourth floor.",
+            "Street view of the station."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "街景圖中，頂篷在夜晚的老街上方如同一道奇異的閃光。白天車站則像一個輕盈的地標，邀請行人從街上進入。",
+              "captions": [
+                "西側街道的夜景。",
+                "四樓視角。",
+                "車站街景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read both the street and its image.\n2. Stack simple blocks first.\n3. Tie them with one clear frame.\n4. Test the idea in street views.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 同時閱讀街道與它的影像。\n2. 先堆疊簡單的量塊。\n3. 以一套清楚的框架串連。\n4. 用街景檢驗概念。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Campus District Reformation",
+      "slug": "campus-district-reformation-guangzhou",
+      "description": "Looping public routes that open a closed campus to its city.\n\nGuangzhou, China | Landscape urbanism | Campus district | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "校園街區再造",
+          "description": "以環狀公共路徑把封閉校園向城市打開。\n\n中國廣州｜地景都市主義｜校園街區｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/campus-district-reformation-guangzhou/01-overhead-perspective.webp",
+        "assets/board/campus-district-reformation-guangzhou/02-heat-maps.webp",
+        "assets/board/campus-district-reformation-guangzhou/03-landscape-analysis.webp",
+        "assets/board/campus-district-reformation-guangzhou/04-site-plan.webp",
+        "assets/board/campus-district-reformation-guangzhou/05-corridor-structure.webp",
+        "assets/board/campus-district-reformation-guangzhou/06-field-structure.webp",
+        "assets/board/campus-district-reformation-guangzhou/07-line-studies.webp",
+        "assets/board/campus-district-reformation-guangzhou/08-stereoscopic-structure.webp",
+        "assets/board/campus-district-reformation-guangzhou/09-waterfront-chapel.webp",
+        "assets/board/campus-district-reformation-guangzhou/10-central-park-after-rain.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/campus-district-reformation-guangzhou/01-overhead-perspective.webp"
+          ],
+          "captions": [
+            "Overhead perspective of the new campus district."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "新校園街區的俯瞰透視圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A university district in Guangzhou presents itself as a symbol of progress, yet its campus is closed and cut off from the city around it. The project asks how planning can open this gap between the official image and everyday space.",
+          "images": [
+            "assets/board/campus-district-reformation-guangzhou/02-heat-maps.webp",
+            "assets/board/campus-district-reformation-guangzhou/03-landscape-analysis.webp"
+          ],
+          "captions": [
+            "Industrial and public service heat maps.",
+            "Landscape analysis of the district."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州的一處大學街區以進步的象徵自居，校園卻封閉且與周邊城市隔絕。專案探問規劃如何打開官方形象與日常空間之間的落差。",
+              "captions": [
+                "產業與公共服務熱度圖。",
+                "街區的地景分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student maps industry, public services and green space to find where the campus and the city could meet. Three kinds of lines from philosophy, rigid, supple and flight, become a way to turn these readings into space.",
+          "images": [
+            "assets/board/campus-district-reformation-guangzhou/04-site-plan.webp",
+            "assets/board/campus-district-reformation-guangzhou/07-line-studies.webp"
+          ],
+          "captions": [
+            "Site plan with the new routes.",
+            "Studies of rigid, supple and flight lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生分析產業、公共服務與綠地，找出校園與城市可以相遇的地方。哲學中的剛性線、柔性線與逃逸線，成為把分析轉化為空間的方法。",
+              "captions": [
+                "加入新路徑的配置圖。",
+                "剛性線、柔性線與逃逸線的研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Looping corridors lift public routes over roads and link campus buildings, parks and the waterfront. A layered section stacks academic, public and natural levels across the district.",
+          "images": [
+            "assets/board/campus-district-reformation-guangzhou/05-corridor-structure.webp",
+            "assets/board/campus-district-reformation-guangzhou/06-field-structure.webp",
+            "assets/board/campus-district-reformation-guangzhou/08-stereoscopic-structure.webp"
+          ],
+          "captions": [
+            "Corridor structure.",
+            "Field structure logic of order and conflict.",
+            "Stereoscopic structure of the layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "環狀廊道把公共路徑抬升越過道路，串連校園建築、公園與水岸。分層剖面把學術、公共與自然三個層次疊合在街區之中。",
+              "captions": [
+                "廊道結構。",
+                "秩序與衝突的場域結構邏輯。",
+                "各層次的立體結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The plan turns the closed campus into a network of shared paths, gardens and gathering places. Views of a waterfront chapel and a central park show the calm everyday spaces it creates.",
+          "images": [
+            "assets/board/campus-district-reformation-guangzhou/09-waterfront-chapel.webp",
+            "assets/board/campus-district-reformation-guangzhou/10-central-park-after-rain.webp"
+          ],
+          "captions": [
+            "Waterfront chapel.",
+            "Central park after the rain."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "方案把封閉的校園轉化為共享路徑、花園與聚集場所的網絡。水岸禮拜堂與中央公園的視角，呈現它所創造的寧靜日常空間。",
+              "captions": [
+                "水岸禮拜堂。",
+                "雨後的中央公園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Compare the image with the ground.\n2. Map what the city already has.\n3. Use a concept to draw lines.\n4. Show the result as daily life.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 比較形象與真實場地。\n2. 盤點城市既有的資源。\n3. 用概念來畫出路徑。\n4. 以日常生活呈現成果。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Rooftop Farm in an Urban Village",
+      "slug": "rooftop-farm-urban-village-shenzhen",
+      "description": "A light rooftop farm frame that brings light and nature to an urban village.\n\nShenzhen, China | Urban design | Urban village rooftop | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城中村屋頂農場",
+          "description": "以輕盈的屋頂農場框架，為城中村帶來光線與自然。\n\n中國深圳｜都市設計｜城中村屋頂｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rooftop-farm-urban-village-shenzhen/01-rooftop-farm-render.webp",
+        "assets/board/rooftop-farm-urban-village-shenzhen/02-regulatory-planning-map.webp",
+        "assets/board/rooftop-farm-urban-village-shenzhen/04-urban-village-sections.webp",
+        "assets/board/rooftop-farm-urban-village-shenzhen/05-problem-and-solution.webp",
+        "assets/board/rooftop-farm-urban-village-shenzhen/06-sunlight-analysis.webp",
+        "assets/board/rooftop-farm-urban-village-shenzhen/07-building-systems.webp",
+        "assets/board/rooftop-farm-urban-village-shenzhen/08-material-axonometric.webp",
+        "assets/board/rooftop-farm-urban-village-shenzhen/09-rooftop-canopies.webp",
+        "assets/board/rooftop-farm-urban-village-shenzhen/10-rooftop-room-interior.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rooftop-farm-urban-village-shenzhen/01-rooftop-farm-render.webp"
+          ],
+          "captions": [
+            "A rooftop farm frame rising above the lanes of an urban village."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "在城中村巷弄上方升起的屋頂農場框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Urban villages in Shenzhen are dense, dark and left out of formal planning. Many residents live in rooms with little sunlight, few shared spaces and almost no contact with nature.",
+          "images": [
+            "assets/board/rooftop-farm-urban-village-shenzhen/02-regulatory-planning-map.webp",
+            "assets/board/rooftop-farm-urban-village-shenzhen/04-urban-village-sections.webp"
+          ],
+          "captions": [
+            "Regulatory planning map of the city.",
+            "Sections of village life by day and night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "深圳的城中村密集、昏暗，長期被排除在正式規劃之外。許多居民住在缺乏日照與共享空間、幾乎接觸不到自然的房間裡。",
+              "captions": [
+                "城市的控制性規劃圖。",
+                "城中村日夜生活的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student compares problems inside the village with possible fixes such as shared rooms, greenery and rooftop light. Sunlight studies show that the rooftop is the brightest and most natural place left in the village.",
+          "images": [
+            "assets/board/rooftop-farm-urban-village-shenzhen/05-problem-and-solution.webp",
+            "assets/board/rooftop-farm-urban-village-shenzhen/06-sunlight-analysis.webp"
+          ],
+          "captions": [
+            "Problem and solution diagrams.",
+            "Sunlight, city texture and field studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把城中村內部的問題與可能的對策對照，例如共享空間、綠化與屋頂採光。日照分析顯示，屋頂是城中村裡最明亮、也最接近自然的地方。",
+              "captions": [
+                "問題與對策分析圖。",
+                "日照、城市肌理與場域研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A light steel frame is added on top of existing buildings, with a roof that collects rainwater and modules for planting. Simple joints let the parts be assembled and grown step by step.",
+          "images": [
+            "assets/board/rooftop-farm-urban-village-shenzhen/07-building-systems.webp",
+            "assets/board/rooftop-farm-urban-village-shenzhen/08-material-axonometric.webp"
+          ],
+          "captions": [
+            "Structure, water and planting systems.",
+            "Material axonometric of the rooftop frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在既有建築頂部加建輕鋼框架，屋頂收集雨水，並配置種植模組。簡單的接頭讓構件可以逐步組裝與擴展。",
+              "captions": [
+                "結構、水與種植系統。",
+                "屋頂框架的材料軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Folded canopies spread across the rooftops and form a shared farm above the lanes. Residents gain bright rooms for growing food, resting and meeting neighbours.",
+          "images": [
+            "assets/board/rooftop-farm-urban-village-shenzhen/09-rooftop-canopies.webp",
+            "assets/board/rooftop-farm-urban-village-shenzhen/10-rooftop-room-interior.webp"
+          ],
+          "captions": [
+            "Rooftop canopies across the village.",
+            "Shared rooftop room."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "折板頂篷在屋頂之間延展，在巷弄上方形成共享農場。居民因此獲得明亮的空間，可以種植、休息並與鄰居相遇。",
+              "captions": [
+                "橫跨城中村的屋頂頂篷。",
+                "共享的屋頂空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find what daily life lacks.\n2. Look for unused light and space.\n3. Design a kit that can grow.\n4. Show it in real streets.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出日常生活缺少什麼。\n2. 尋找被閒置的光線與空間。\n3. 設計一套可以生長的構件。\n4. 在真實街道中呈現成果。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
