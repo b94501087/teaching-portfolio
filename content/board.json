@@ -27763,6 +27763,558 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Bridge: Renewing the Fengqing Community",
+      "slug": "fengqing-community-bridge-renewal",
+      "description": "A light new layer above old houses joins young newcomers and long-time residents.\n\nGuangzhou, China | Community renewal | Housing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "橋：鳳慶社區的更新",
+          "description": "在老屋之上加建輕量層體，連接年輕新住民與原有居民。\n\n中國廣州｜社區更新｜住宅｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fengqing-community-bridge-renewal/01-community-aerial-render.webp",
+        "assets/board/fengqing-community-bridge-renewal/02-site-status-charts.webp",
+        "assets/board/fengqing-community-bridge-renewal/03-renovation-concept-steps.webp",
+        "assets/board/fengqing-community-bridge-renewal/04-residential-and-office-concept.webp",
+        "assets/board/fengqing-community-bridge-renewal/05-residential-floor-plans.webp",
+        "assets/board/fengqing-community-bridge-renewal/06-tube-house-sections.webp",
+        "assets/board/fengqing-community-bridge-renewal/07-future-growth-stages.webp",
+        "assets/board/fengqing-community-bridge-renewal/08-module-units.webp",
+        "assets/board/fengqing-community-bridge-renewal/09-landscape-typology.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fengqing-community-bridge-renewal/01-community-aerial-render.webp"
+          ],
+          "captions": [
+            "Aerial view of the renewed community."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "更新後社區的鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "An old community in the historic core of Guangzhou faces an ageing population, ageing houses and many empty homes. Large demolition and rebuilding would erase its history, so the project looks for a gentler way to renew it.",
+          "images": [
+            "assets/board/fengqing-community-bridge-renewal/02-site-status-charts.webp"
+          ],
+          "captions": [
+            "Site status of planning, ownership, height and protection."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州歷史城區中的一個老社區，面臨人口老化、房屋老舊與空置率高的問題。大規模拆除重建會抹去其歷史，因此本案尋找一種更溫和的更新方式。",
+              "captions": [
+                "規劃、權屬、層數與保護狀態的現況分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each plot was mapped by planning status, land ownership, storey count and protection level. The local tube house type, long and narrow with small courtyards, was studied in section as the base unit.",
+          "images": [
+            "assets/board/fengqing-community-bridge-renewal/06-tube-house-sections.webp",
+            "assets/board/fengqing-community-bridge-renewal/03-renovation-concept-steps.webp"
+          ],
+          "captions": [
+            "Sections of the tube house and the new residential building.",
+            "Steps for layering and joining the communities."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每塊基地依規劃狀態、土地權屬、樓層數與保護等級逐一標記。並以剖面研究在地狹長、帶小天井的竹筒屋，作為基本單元。",
+              "captions": [
+                "竹筒屋與新住宅的剖面。",
+                "社區分層與整合的步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "New homes and offices for young people are built as a light layer above the old houses, keeping the original structure below. Standard module units for living, work and shared use are joined by simple nodes.",
+          "images": [
+            "assets/board/fengqing-community-bridge-renewal/04-residential-and-office-concept.webp",
+            "assets/board/fengqing-community-bridge-renewal/05-residential-floor-plans.webp",
+            "assets/board/fengqing-community-bridge-renewal/08-module-units.webp"
+          ],
+          "captions": [
+            "Concept steps for the residential and office buildings.",
+            "Floor plans of a residential building.",
+            "Module units and their structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "為年輕人設計的新住宅與辦公空間，以輕量層體建於老屋之上，保留下方原有結構。居住、工作與共享用途的標準模組，以簡單節點相互連接。",
+              "captions": [
+                "住宅與辦公建築的概念步驟。",
+                "住宅建築的各層平面。",
+                "模組單元與其構造。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A shared upper level links the new and old communities with landscape spaces for rest, shelter and meeting. Over time the new layer grows step by step until the two communities blend into one.",
+          "images": [
+            "assets/board/fengqing-community-bridge-renewal/09-landscape-typology.webp",
+            "assets/board/fengqing-community-bridge-renewal/07-future-growth-stages.webp"
+          ],
+          "captions": [
+            "Landscape elements drawn from local street life.",
+            "Future growth of the community in stages."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "共享的上層空間以休憩、遮蔽與交流的景觀場所連接新舊社區。隨時間推移，新的層體逐步生長，直到兩個社區融為一體。",
+              "captions": [
+                "取自在地街道生活的景觀元素。",
+                "社區未來的分階段生長。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the site plot by plot.\n2. Study the local house type in section.\n3. Add a light layer that keeps the old below.\n4. Plan growth in stages.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 逐塊記錄基地現況。\n2. 以剖面研究在地屋型。\n3. 加上保留老屋的輕量層體。\n4. 分階段規劃生長。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Cantonese Opera Street Museum",
+      "slug": "cantonese-opera-street-museum",
+      "description": "A path of open stages brings Cantonese opera back into the streets of the old town.\n\nGuangzhou, China | Museum | Cultural heritage | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "粵劇街道博物館",
+          "description": "一條開放舞台的路徑，讓粵劇重回老城的街道。\n\n中國廣州｜博物館｜文化遺產｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cantonese-opera-street-museum/01-opera-street-aerial.webp",
+        "assets/board/cantonese-opera-street-museum/02-stage-form-development.webp",
+        "assets/board/cantonese-opera-street-museum/03-site-analysis.webp",
+        "assets/board/cantonese-opera-street-museum/04-four-theme-areas.webp",
+        "assets/board/cantonese-opera-street-museum/05-first-floor-plan.webp",
+        "assets/board/cantonese-opera-street-museum/06-light-analysis-sections.webp",
+        "assets/board/cantonese-opera-street-museum/07-lighting-construction-model.webp",
+        "assets/board/cantonese-opera-street-museum/08-partial-facade-and-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cantonese-opera-street-museum/01-opera-street-aerial.webp"
+          ],
+          "captions": [
+            "Aerial drawing of the opera street by the river."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "河畔戲曲街道的鳥瞰圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The existing opera museum stands closed off inside its block and feels apart from the old town around it. The project asks how Cantonese opera could return to the daily life of the streets.",
+          "images": [
+            "assets/board/cantonese-opera-street-museum/03-site-analysis.webp"
+          ],
+          "captions": [
+            "Site analysis of texture, height, green and roads."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "現有的戲曲博物館在街區中自成一體，與周邊老城區顯得疏離。本案探問粵劇如何重新回到街道的日常生活之中。",
+              "captions": [
+                "肌理、高度、綠化與道路的基地分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Staff, residents, visitors and performers were studied to see how each group meets the opera. Four kinds of stage were compared for sound, light, sight lines and comfort.",
+          "images": [
+            "assets/board/cantonese-opera-street-museum/02-stage-form-development.webp"
+          ],
+          "captions": [
+            "Development of four stage forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究工作人員、居民、遊客與演員，了解各群體如何接觸戲曲。並比較四種舞台在聲音、光線、視線與舒適度上的表現。",
+              "captions": [
+                "四種舞台形式的推演。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A path of open stages winds from the river through the old blocks to the museum. Each of four theme areas ties the opera to a different part of the city, from the river to city life.",
+          "images": [
+            "assets/board/cantonese-opera-street-museum/04-four-theme-areas.webp",
+            "assets/board/cantonese-opera-street-museum/05-first-floor-plan.webp"
+          ],
+          "captions": [
+            "The four theme areas at night.",
+            "First floor plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一條由開放舞台串成的路徑，從河岸穿過老街區通往博物館。四個主題區各自將戲曲連結到城市的不同部分，從河流到城市生活。",
+              "captions": [
+                "夜間的四個主題區。",
+                "一層平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Light is brought into the halls through roof joints, studied in sections and a physical model. The facade details show how the new building meets the brick fabric of the old town.",
+          "images": [
+            "assets/board/cantonese-opera-street-museum/06-light-analysis-sections.webp",
+            "assets/board/cantonese-opera-street-museum/07-lighting-construction-model.webp",
+            "assets/board/cantonese-opera-street-museum/08-partial-facade-and-section.webp"
+          ],
+          "captions": [
+            "Light analysis sections.",
+            "Physical model of the lighting construction.",
+            "Partial facade and wall section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "光線透過屋頂接縫引入展廳，並以剖面與實體模型加以研究。立面細部說明新建築如何與老城的磚造肌理相接。",
+              "captions": [
+                "光線分析剖面。",
+                "採光構造的實體模型。",
+                "局部立面與牆身剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask who meets the culture today.\n2. Compare stage types side by side.\n3. Link stages into one city path.\n4. Test light with a real model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 探問今天誰接觸這項文化。\n2. 並列比較各種舞台類型。\n3. 將舞台串成一條城市路徑。\n4. 以實體模型測試光線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Spatial Experiment: Gradient Prototype",
+      "slug": "gradient-prototype-spatial-experiment",
+      "description": "Model studies turn density into a tower that shifts from closed to open.\n\nStudio study | Model study | Spatial experiment | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "空間實驗：漸變原型",
+          "description": "以模型研究將密度轉化為由封閉漸變為開放的塔。\n\n設計課研究｜模型研究｜空間實驗｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/gradient-prototype-spatial-experiment/01-fifty-test-models.webp",
+        "assets/board/gradient-prototype-spatial-experiment/02-concept-joints.webp",
+        "assets/board/gradient-prototype-spatial-experiment/03-models-a-to-d.webp",
+        "assets/board/gradient-prototype-spatial-experiment/04-models-version-two.webp",
+        "assets/board/gradient-prototype-spatial-experiment/05-combined-concept-model.webp",
+        "assets/board/gradient-prototype-spatial-experiment/06-model-close-ups.webp",
+        "assets/board/gradient-prototype-spatial-experiment/07-opening-degree-plans.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/gradient-prototype-spatial-experiment/01-fifty-test-models.webp"
+          ],
+          "captions": [
+            "Fifty test models of tall buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "五十個高層建築測試模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "We often notice only what we can see and miss the parts of a space that we cannot. The project explores concentration and density through a series of diagrams and models.",
+          "images": [
+            "assets/board/gradient-prototype-spatial-experiment/02-concept-joints.webp"
+          ],
+          "captions": [
+            "Four ways of joining parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "我們常只注意看得見的部分，而忽略空間中看不見的部分。本案透過一系列圖解與模型，探索集中度與密度。",
+              "captions": [
+                "四種構件的接合方式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Fifty tall building models were made first to test how a building looks from outside. Simple actions such as inlay, join, hook and collect were then used to build new models.",
+          "images": [
+            "assets/board/gradient-prototype-spatial-experiment/03-models-a-to-d.webp"
+          ],
+          "captions": [
+            "Models A to D."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "首先製作五十個高層建築模型，測試建築的外在形貌。再以嵌入、接合、勾掛與聚集等簡單動作建構新的模型。",
+              "captions": [
+                "模型 A 至 D。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each model was rebuilt as a second version that stacks floors of changing density. Openings grow from closed rooms at the base to open space at the top.",
+          "images": [
+            "assets/board/gradient-prototype-spatial-experiment/04-models-version-two.webp",
+            "assets/board/gradient-prototype-spatial-experiment/07-opening-degree-plans.webp"
+          ],
+          "captions": [
+            "Second versions of the four models.",
+            "Plans showing the change in opening degree."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每個模型再發展為第二版本，以密度漸變的樓層堆疊而成。開口由底部封閉的房間，逐漸過渡到頂部的開放空間。",
+              "captions": [
+                "四個模型的第二版本。",
+                "開口程度漸變的平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A final concept model joins the studies into one tower with a soft, blurred edge. Its arches and frames move from public space at the bottom to private space at the top.",
+          "images": [
+            "assets/board/gradient-prototype-spatial-experiment/05-combined-concept-model.webp",
+            "assets/board/gradient-prototype-spatial-experiment/06-model-close-ups.webp"
+          ],
+          "captions": [
+            "Combined concept model.",
+            "Close views of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終概念模型將各項研究整合為一座邊界模糊的塔。其拱與框架由底部的公共空間過渡到頂部的私密空間。",
+              "captions": [
+                "整合概念模型。",
+                "模型近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Make many quick models.\n2. Name a few simple actions.\n3. Rebuild each model as a gradient.\n4. Join the best into one.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 快速製作大量模型。\n2. 定義幾個簡單動作。\n3. 將每個模型重建為漸變。\n4. 將最佳者整合為一。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Period of Solidification",
+      "slug": "period-of-solidification",
+      "description": "A printed vase cut into slices becomes columns that give time a form.\n\nStudio study | Concept design | 3D printing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "凝固期",
+          "description": "將列印的花瓶切片重組成柱體，為時間賦予形體。\n\n設計課研究｜概念設計｜3D 列印｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/period-of-solidification/01-column-hall-render.webp",
+        "assets/board/period-of-solidification/02-circle-slices.webp",
+        "assets/board/period-of-solidification/03-printed-vase-model.webp",
+        "assets/board/period-of-solidification/04-hand-reassembly.webp",
+        "assets/board/period-of-solidification/05-column-variants.webp",
+        "assets/board/period-of-solidification/06-reassembled-column.webp",
+        "assets/board/period-of-solidification/07-column-field-render.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/period-of-solidification/01-column-hall-render.webp"
+          ],
+          "captions": [
+            "Render of a hall of reassembled columns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "重組柱體構成的大廳渲染。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Time is everywhere in daily life, yet it is hard to explain what it is. The project tries to give this abstract idea a form through 3D printed models and space.",
+          "images": [
+            "assets/board/period-of-solidification/02-circle-slices.webp"
+          ],
+          "captions": [
+            "Circle slices of different sizes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "時間存在於日常生活的每個角落，卻很難說清它是什麼。本案嘗試透過 3D 列印模型與空間，為這個抽象概念賦予形體。",
+              "captions": [
+                "不同大小的圓形切片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Ideas of time from several thinkers were read as the starting point. One view, that a life is made of many moments, led to the idea of a column made of slices.",
+          "images": [
+            "assets/board/period-of-solidification/03-printed-vase-model.webp"
+          ],
+          "captions": [
+            "A 3D printed vase model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以多位思想家對時間的看法作為出發點。其中一種觀點認為人生由許多片刻構成，由此發展出由切片組成柱體的想法。",
+              "captions": [
+                "3D 列印的花瓶模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A printed vase was cut into slices and the pieces were stacked again by hand in new orders. Each new column keeps the same material but takes a different shape.",
+          "images": [
+            "assets/board/period-of-solidification/04-hand-reassembly.webp",
+            "assets/board/period-of-solidification/05-column-variants.webp",
+            "assets/board/period-of-solidification/06-reassembled-column.webp"
+          ],
+          "captions": [
+            "Stacking the slices again by hand.",
+            "Column variants from the same slices.",
+            "One reassembled column."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "將列印的花瓶切成薄片，再以手工依新的順序重新堆疊。每根新柱體材料不變，形狀卻各不相同。",
+              "captions": [
+                "以手工重新堆疊切片。",
+                "由相同切片組成的各式柱體。",
+                "一根重組後的柱體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The columns are set out as a field that people can walk through at full scale. The space suggests that time is only a period of solidification between city and nature.",
+          "images": [
+            "assets/board/period-of-solidification/07-column-field-render.webp"
+          ],
+          "captions": [
+            "Render of the column field."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這些柱體以實際尺度排列成可供穿行的柱林。空間暗示時間只是城市與自然之間的一段凝固期。",
+              "captions": [
+                "柱林的渲染。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick an abstract idea.\n2. Read a few views on it.\n3. Make it into one simple object.\n4. Scale the object up to space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選定一個抽象概念。\n2. 閱讀關於它的幾種觀點。\n3. 將其轉化為一個簡單物件。\n4. 把物件放大成空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
