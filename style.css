@@ -50,7 +50,7 @@ body.detail{background:#fff}
 .detail .desc p{margin:0 0 1em;font-size:15px;line-height:1.75;color:#333}
 .detail .gallery{display:flex;flex-direction:column;gap:18px;margin-top:22px}
 .detail .gallery a{display:block;align-self:flex-start;max-width:100%}
-.detail .gallery img{display:block;max-width:100%;height:auto;border-radius:6px;background:#f0f0f0}
+.detail .gallery img{display:block;max-width:100%;height:auto;border-radius:6px}
 /* detail pages that use sections (pin.sections): one centred column. Section text and images share the
    same width, and every image sits in the same 4:3 box (whole image shown, letterboxed on a neutral
    background), on desktop and phones alike. Other pages and plain detail pages are unchanged. */
@@ -63,8 +63,13 @@ body.detail{background:#fff}
 .detail .sec-text p:last-child{margin-bottom:0}
 .detail .sec-text + .sec-media{margin-top:16px}
 .detail .sec-imgs{display:flex;flex-direction:column;gap:16px}
-.detail .sec-imgs a{display:block;width:100%;aspect-ratio:4/3;background:#f0f0f0;border-radius:6px;overflow:hidden}
-.detail .sec-imgs img{display:block;width:100%;height:100%;object-fit:contain}
+.detail .sec-imgs a{display:block;width:100%}
+.detail .sec-imgs img{display:block;width:100%;height:auto;border-radius:6px}
+.detail a.zoom{cursor:zoom-in}
+.lb{position:fixed;inset:0;z-index:100;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.88);cursor:zoom-out;-webkit-tap-highlight-color:transparent}
+.lb[hidden]{display:none}
+.lb img{display:block;max-width:100vw;max-height:100vh;max-height:100dvh;width:auto;height:auto;object-fit:contain}
+html.lb-on,html.lb-on body{overflow:hidden}
 .detail .sec-media figcaption{margin-top:8px;font-size:13px;line-height:1.5;color:#888}
 .detail .lang-row{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
 .detail .langs{display:flex;gap:12px}

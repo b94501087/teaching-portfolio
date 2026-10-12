@@ -40,7 +40,30 @@ await copyDir(root, out);
 
 // ?v= on the root stylesheet link changes whenever style.css changes, so returning visitors get the new CSS.
 const v = createHash('sha256').update(await fs.readFile(path.join(root, 'style.css'))).digest('hex').slice(0, 10);
-const pages = renderAll(all, { v });
+// Natural size of every board image (WebP/PNG/JPEG header), so detail pages can set width/height.
+function imgSize(b) {
+  if (b.toString('ascii', 0, 4) === 'RIFF' && b.toString('ascii', 8, 12) === 'WEBP') {
+    const t = b.toString('ascii', 12, 16);
+    if (t === 'VP8X') return [1 + b.readUIntLE(24, 3), 1 + b.readUIntLE(27, 3)];
+    if (t === 'VP8L') { const n = b.readUInt32LE(21); return [1 + (n & 0x3fff), 1 + ((n >> 14) & 0x3fff)]; }
+    if (t === 'VP8 ') return [b.readUInt16LE(26) & 0x3fff, b.readUInt16LE(28) & 0x3fff];
+  }
+  if (b.readUInt32BE(0) === 0x89504e47) return [b.readUInt32BE(16), b.readUInt32BE(20)];
+  if (b[0] === 0xff && b[1] === 0xd8) {
+    for (let o = 2; o + 9 < b.length;) {
+      const m = b[o + 1], len = b.readUInt16BE(o + 2);
+      if (m >= 0xc0 && m <= 0xcf && m !== 0xc4 && m !== 0xc8 && m !== 0xcc) return [b.readUInt16BE(o + 7), b.readUInt16BE(o + 5)];
+      o += 2 + len;
+    }
+  }
+  return null;
+}
+const dims = {};
+for (const p of all.board.pins || []) for (const src of p.images || []) {
+  if (typeof src !== 'string' || dims[src] || /^(https?:|data:|\/)/i.test(src)) continue;
+  try { const d = imgSize(await fs.readFile(path.join(root, src))); if (d && d[0] > 0 && d[1] > 0) dims[src] = d; } catch {}
+}
+const pages = renderAll(all, { v, dims });
 for (const [rel, html] of Object.entries(pages)) {
   await fs.mkdir(path.dirname(path.join(out, rel)), { recursive: true });
   await fs.writeFile(path.join(out, rel), html);

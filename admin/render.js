@@ -300,10 +300,22 @@ export function pinLangs(pin) {
   return LANGS.filter(l => l === 'en' || has(l));
 }
 
-function galleryImg(src, alt, lazy) {
-  const u = esc(assetUrl(src, 2));
-  return '<a href="' + u + '"><img src="' + u + '" alt="' + esc(alt) + '"' + (lazy ? ' loading="lazy"' : '') + '></a>';
+// dims (optional, from build/build.mjs): { "<src>": [width, height] } read from the image files, so the
+// browser reserves each image's own natural box before it loads (no layout jump, no fixed-ratio frame).
+function galleryImg(src, alt, lazy, dims) {
+  const u = esc(assetUrl(src, 2)), d = dims && dims[String(src)];
+  return '<a class="zoom" href="' + u + '"><img src="' + u + '" alt="' + esc(alt) + '"' +
+    (d ? ' width="' + d[0] + '" height="' + d[1] + '"' : '') + (lazy ? ' loading="lazy"' : '') + ' decoding="async"></a>';
 }
+
+// Click/tap an image: show the full file (the original asset, not a resized copy) in an overlay.
+// Tap the image or the backdrop, or press Esc, to close; the page never scrolls or navigates, and
+// no history entry is added, so browser Back still leaves the page as usual.
+const ZOOM_JS = '<div class="lb" hidden role="dialog" aria-modal="true" aria-label="Image"><img alt=""></div>\n' +
+  '<script>(function(){var b=document.querySelector(".lb"),i=b.querySelector("img"),last=null;' +
+  'function close(){if(b.hidden)return;b.hidden=true;i.removeAttribute("src");document.documentElement.classList.remove("lb-on");if(last)try{last.focus({preventScroll:true})}catch(e){}}' +
+  'document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a.zoom");if(!a||e.metaKey||e.ctrlKey||e.shiftKey||e.button)return;e.preventDefault();last=a;var t=a.querySelector("img");i.alt=t?t.alt:"";i.src=a.getAttribute("href");b.hidden=false;document.documentElement.classList.add("lb-on")});' +
+  'b.addEventListener("click",close);document.addEventListener("keydown",function(e){if(e.key==="Escape"||e.key==="Esc")close()})})();</script>\n';
 
 // One value per language (empty = English). Identical values are written once, untagged;
 // otherwise one copy per language tagged data-l, and the page CSS shows only the chosen one.
@@ -374,9 +386,9 @@ export function renderDetail(site, board, pin, opts) {
         const filled = s.captions.en.map((c, k) => langs.some(l => s.captions[l][k]));
         const shared = s.images.length === 1 || (filled[0] && filled.filter(Boolean).length === 1);
         if (shared) {
-          h += '<figure class="sec-media"><div class="sec-imgs">' + s.images.map(src => galleryImg(src, alt(src), shown++ > 0)).join('') + '</div>' + cap(s, 0) + '</figure>\n';
+          h += '<figure class="sec-media"><div class="sec-imgs">' + s.images.map(src => galleryImg(src, alt(src), shown++ > 0, opts && opts.dims)).join('') + '</div>' + cap(s, 0) + '</figure>\n';
         } else {
-          h += '<div class="sec-media"><div class="sec-imgs">' + s.images.map((src, k) => '<figure>' + galleryImg(src, alt(src), shown++ > 0) + cap(s, k) + '</figure>').join('') + '</div></div>\n';
+          h += '<div class="sec-media"><div class="sec-imgs">' + s.images.map((src, k) => '<figure>' + galleryImg(src, alt(src), shown++ > 0, opts && opts.dims) + cap(s, k) + '</figure>').join('') + '</div></div>\n';
         }
         s.images.forEach(x => used.add(x));
       }
@@ -386,11 +398,11 @@ export function renderDetail(site, board, pin, opts) {
   }
   if (rest.length || !secs.length) {
     h += '<div class="gallery">\n';
-    rest.forEach(src => { h += '  ' + galleryImg(src, alt(src), shown++ > 0) + '\n'; });
+    rest.forEach(src => { h += '  ' + galleryImg(src, alt(src), shown++ > 0, opts && opts.dims) + '\n'; });
     h += '</div>\n';
   }
   h += '<p class="back end"><a href="../">← ' + esc(backLabel) + '</a></p>\n' +
-    '</main>\n' + (multi ? LANG_SWITCH_JS : '') + '</body></html>\n';
+    '</main>\n' + ZOOM_JS + (multi ? LANG_SWITCH_JS : '') + '</body></html>\n';
   return h;
 }
 
