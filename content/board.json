@@ -35612,6 +35612,558 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Turtle Tower",
+      "slug": "turtle-tower-stacked-shell-model",
+      "description": "A tower of shell-like rooms inspired by how turtles stack.\n\nSpatial Design | Model | Shell tower | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "龜塔",
+          "description": "一座受烏龜堆疊習性啟發的殼狀空間塔。\n\n空間設計｜模型｜殼體塔｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/turtle-tower-stacked-shell-model/01-tower-model.webp",
+        "assets/board/turtle-tower-stacked-shell-model/02-concept-drawing.webp",
+        "assets/board/turtle-tower-stacked-shell-model/03-shell-plate-sketches.webp",
+        "assets/board/turtle-tower-stacked-shell-model/04-stacking-sketches.webp",
+        "assets/board/turtle-tower-stacked-shell-model/05-shell-plate-studies.webp",
+        "assets/board/turtle-tower-stacked-shell-model/06-assembly-process.webp",
+        "assets/board/turtle-tower-stacked-shell-model/07-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/turtle-tower-stacked-shell-model/01-tower-model.webp"
+          ],
+          "captions": [
+            "Final model of the turtle tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "龜塔的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student has kept turtles for years and noticed that they stack on top of each other. The project asks whether this habit of stacking for safety and sunlight can become a spatial tower.",
+          "images": [
+            "assets/board/turtle-tower-stacked-shell-model/02-concept-drawing.webp"
+          ],
+          "captions": [
+            "Concept drawing of stacked shell volumes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生多年飼養烏龜，觀察到牠們會彼此堆疊。這個作品探問，這種為了安全與日照而堆疊的習性，能否轉化為一座空間塔。",
+              "captions": [
+                "堆疊殼體量體的概念圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student draws the plates of shells and undersides to learn their patterns and joints. These drawings become a kit of interlocking plates.",
+          "images": [
+            "assets/board/turtle-tower-stacked-shell-model/03-shell-plate-sketches.webp",
+            "assets/board/turtle-tower-stacked-shell-model/04-stacking-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of shell and underside plates.",
+            "Sketches of shell patterns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生描繪龜甲與腹甲的甲片，以理解其紋理與接合方式。這些圖面成為一套可互相嵌合的板片系統。",
+              "captions": [
+                "龜甲與腹甲板片的草圖。",
+                "龜甲紋理的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Paper plates are cut to mimic shell plates, and wooden sticks form the frame that holds them. Painted panels, jelly-wax water and small stones tie the tower to a pond setting.",
+          "images": [
+            "assets/board/turtle-tower-stacked-shell-model/05-shell-plate-studies.webp",
+            "assets/board/turtle-tower-stacked-shell-model/06-assembly-process.webp"
+          ],
+          "captions": [
+            "Shell plate studies in paper and wood.",
+            "Cutting, painting and assembling the plates."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "紙板被裁切成仿龜甲的板片，木條則構成支撐它們的框架。上色的板片、果凍蠟水面與小石頭，讓塔與池塘環境相連。",
+              "captions": [
+                "以紙與木製作的甲片研究。",
+                "裁切、上色與組裝板片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model stacks shell-like rooms on a light frame above a pond. Close views show how scale figures move through the layered shells.",
+          "images": [
+            "assets/board/turtle-tower-stacked-shell-model/07-model-details.webp"
+          ],
+          "captions": [
+            "Close views of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型將殼狀空間堆疊在池塘上方的輕框架上。近景顯示比例人如何穿行於層層殼體之間。",
+              "captions": [
+                "模型近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch a habit in nature.\n2. Draw its parts closely.\n3. Turn the parts into a kit.\n4. Build and test the stack.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察自然中的一種習性。\n2. 細緻描繪其組成部分。\n3. 把部分轉化為構件。\n4. 動手搭建並測試堆疊。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Turtle Habitat",
+      "slug": "turtle-habitat-ecological-landscape",
+      "description": "A landscape model that gives turtles water, caves, grass and islands.\n\nLandscape Design | Model | Animal habitat | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "烏龜棲地",
+          "description": "一座為烏龜提供水域、洞穴、草地與島嶼的地景模型。\n\n地景設計｜模型｜動物棲地｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/turtle-habitat-ecological-landscape/01-habitat-model.webp",
+        "assets/board/turtle-habitat-ecological-landscape/02-terrain-outlines.webp",
+        "assets/board/turtle-habitat-ecological-landscape/03-habitat-plan-sketch.webp",
+        "assets/board/turtle-habitat-ecological-landscape/04-clay-terrain-base.webp",
+        "assets/board/turtle-habitat-ecological-landscape/05-planting-and-water.webp",
+        "assets/board/turtle-habitat-ecological-landscape/06-water-and-cave-views.webp",
+        "assets/board/turtle-habitat-ecological-landscape/07-island-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/turtle-habitat-ecological-landscape/01-habitat-model.webp"
+          ],
+          "captions": [
+            "Final model of the turtle habitat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "烏龜棲地的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "After years of building small habitats at home, the student asks what an ideal home for turtles could be. The design must offer water, caves, grass and islands in one landscape.",
+          "images": [
+            "assets/board/turtle-habitat-ecological-landscape/02-terrain-outlines.webp"
+          ],
+          "captions": [
+            "Outline studies of the terrain."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "多年在家中搭建小型棲地後，學生探問烏龜理想的家是什麼樣子。設計必須在同一地景中提供水域、洞穴、草地與島嶼。",
+              "captions": [
+                "地形輪廓研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each zone is matched to a need: caves for rest, grass for basking and water for swimming. A plan sketch arranges these zones around a looping stream.",
+          "images": [
+            "assets/board/turtle-habitat-ecological-landscape/03-habitat-plan-sketch.webp"
+          ],
+          "captions": [
+            "Plan sketch of the habitat zones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每個區域都對應一種需求：洞穴供休息、草地供曬背、水域供游泳。平面草圖將這些區域安排在一條環繞的溪流周圍。",
+              "captions": [
+                "棲地分區的平面草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The base terrain is shaped in clay, with caves built over a wire frame. Sand, grass powder and small shrubs are added, and wax is poured to form the water.",
+          "images": [
+            "assets/board/turtle-habitat-ecological-landscape/04-clay-terrain-base.webp",
+            "assets/board/turtle-habitat-ecological-landscape/05-planting-and-water.webp"
+          ],
+          "captions": [
+            "Clay terrain with caves and islands.",
+            "Planting and water surfaces added."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "基地地形以黏土塑造，洞穴則建在鐵絲框架上。接著加入沙、草粉與小型灌木，再倒入蠟形成水面。",
+              "captions": [
+                "帶有洞穴與島嶼的黏土地形。",
+                "加上植栽與水面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model joins shallow and deep water, streams, caves and marsh into one habitat. It shows how zoning and material choices can shape a whole ecosystem.",
+          "images": [
+            "assets/board/turtle-habitat-ecological-landscape/06-water-and-cave-views.webp",
+            "assets/board/turtle-habitat-ecological-landscape/07-island-details.webp"
+          ],
+          "captions": [
+            "Views of water and cave spaces.",
+            "Close views of islands and caves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型把淺水、深水、溪流、洞穴與濕地整合為一個棲地。它展示分區與材料選擇如何塑造完整的生態系統。",
+              "captions": [
+                "水域與洞穴空間的視圖。",
+                "島嶼與洞穴的近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a real need.\n2. Map each need to a zone.\n3. Shape the ground by hand.\n4. Add material in layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從真實需求出發。\n2. 將每種需求對應到一個分區。\n3. 親手塑造地形。\n4. 分層加入材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Metallic Foam Morphologies",
+      "slug": "metallic-foam-morphologies-fish-habitat",
+      "description": "Porous printed forms that turn a lab material into a home for fish.\n\nSpatial Design | Material study | Porous habitat | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "金屬泡沫形態",
+          "description": "將實驗室材料轉化為魚類棲所的多孔列印形態。\n\n空間設計｜材料研究｜多孔棲地｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/metallic-foam-morphologies-fish-habitat/01-foam-reef-model.webp",
+        "assets/board/metallic-foam-morphologies-fish-habitat/02-hexagon-tiles.webp",
+        "assets/board/metallic-foam-morphologies-fish-habitat/03-hanging-columns.webp",
+        "assets/board/metallic-foam-morphologies-fish-habitat/04-fish-in-the-model.webp",
+        "assets/board/metallic-foam-morphologies-fish-habitat/05-cathode-process-diagram.webp",
+        "assets/board/metallic-foam-morphologies-fish-habitat/06-parametric-script.webp",
+        "assets/board/metallic-foam-morphologies-fish-habitat/07-porous-form-renders.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/metallic-foam-morphologies-fish-habitat/01-foam-reef-model.webp"
+          ],
+          "captions": [
+            "Printed porous model with small fish."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "帶有小魚的列印多孔模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project grows out of a summer research study on nickel foam used to break down an antibiotic in water. The student asks how such porous materials could later return to nature as shelter for fish and other sea life.",
+          "images": [
+            "assets/board/metallic-foam-morphologies-fish-habitat/05-cathode-process-diagram.webp"
+          ],
+          "captions": [
+            "Hand-drawn diagram of the material preparation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個作品源自一項暑期研究，主題是用於分解水中抗生素的鎳泡沫。學生探問，這類多孔材料日後能否回到自然，成為魚類與其他海洋生物的棲身之所。",
+              "captions": [
+                "材料製備流程的手繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The hand-drawn diagram records each step from mixing to firing the porous structure. This lab process sets the logic of pores and channels that the design follows.",
+          "images": [
+            "assets/board/metallic-foam-morphologies-fish-habitat/06-parametric-script.webp"
+          ],
+          "captions": [
+            "Parametric script that grows the porous form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "手繪圖記錄了從混合到燒製多孔結構的每一個步驟。這個實驗流程確立了設計所依循的孔洞與通道邏輯。",
+              "captions": [
+                "生成多孔形態的參數化程式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A parametric script turns the foam pattern into hollow units under a hexagon cap. The units can hang alone or join into clusters like a reef.",
+          "images": [
+            "assets/board/metallic-foam-morphologies-fish-habitat/07-porous-form-renders.webp",
+            "assets/board/metallic-foam-morphologies-fish-habitat/02-hexagon-tiles.webp"
+          ],
+          "captions": [
+            "Renders of single and clustered units.",
+            "Hexagon caps seen from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "參數化程式將泡沫紋理轉化為六角形頂蓋下的中空單元。這些單元可以單獨懸掛，也可以像礁石一樣組合成群。",
+              "captions": [
+                "單一與群組單元的渲染圖。",
+                "從上方看六角形頂蓋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The resin models are hung in water, and small fish swim in and out of the pores. The test shows how a lab material can be reshaped into a living habitat.",
+          "images": [
+            "assets/board/metallic-foam-morphologies-fish-habitat/03-hanging-columns.webp",
+            "assets/board/metallic-foam-morphologies-fish-habitat/04-fish-in-the-model.webp"
+          ],
+          "captions": [
+            "Hanging columns in water.",
+            "Fish moving through the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "樹脂模型被懸掛在水中，小魚在孔洞間穿梭進出。這次測試展示實驗室材料如何被重塑為有生命的棲地。",
+              "captions": [
+                "水中的懸掛柱體。",
+                "在模型中穿梭的魚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a material study.\n2. Draw the process by hand.\n3. Script the form.\n4. Test it with living users.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從材料研究出發。\n2. 親手畫出流程。\n3. 以程式生成形態。\n4. 與真實使用者一起測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Travel Tales",
+      "slug": "travel-tales-layered-landscape-model",
+      "description": "Travel sketches cut, recombined and built into a layered landscape.\n\nSpatial Design | Model | Landscape collage | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "旅行故事",
+          "description": "將旅行速寫裁切、重組，並建構成層疊地景。\n\n空間設計｜模型｜地景拼貼｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/travel-tales-layered-landscape-model/01-landscape-model.webp",
+        "assets/board/travel-tales-layered-landscape-model/02-landscape-sketches.webp",
+        "assets/board/travel-tales-layered-landscape-model/03-model-making.webp",
+        "assets/board/travel-tales-layered-landscape-model/04-volume-one-top.webp",
+        "assets/board/travel-tales-layered-landscape-model/05-volume-one-side.webp",
+        "assets/board/travel-tales-layered-landscape-model/06-volume-two-top.webp",
+        "assets/board/travel-tales-layered-landscape-model/07-volume-two-side.webp",
+        "assets/board/travel-tales-layered-landscape-model/08-close-up-views.webp",
+        "assets/board/travel-tales-layered-landscape-model/09-layered-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/travel-tales-layered-landscape-model/01-landscape-model.webp"
+          ],
+          "captions": [
+            "Final model of layered landscapes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "層疊地景的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student keeps a sketchbook on every trip and is drawn to natural landscapes. The project asks how scattered travel memories could become one three-dimensional space.",
+          "images": [
+            "assets/board/travel-tales-layered-landscape-model/02-landscape-sketches.webp"
+          ],
+          "captions": [
+            "Travel sketches cut and collaged into new scenes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生每次旅行都帶著速寫本，並深受自然地景吸引。這個作品探問，零散的旅行記憶能否成為一個立體空間。",
+              "captions": [
+                "旅行速寫被裁切並拼貼成新的場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sketches of favourite places are cut into distinct fragments and recombined into new images. Each fragment keeps one strong trait of its scene, such as layers of rock or lines of trees.",
+          "images": [
+            "assets/board/travel-tales-layered-landscape-model/03-model-making.webp"
+          ],
+          "captions": [
+            "Cutting and assembling board pieces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生將喜愛地點的速寫裁切成不同碎片，再重新組合成新的畫面。每個碎片都保留其場景的一項鮮明特徵，例如岩層或樹列。",
+              "captions": [
+                "裁切與組裝板材構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The collages are translated into two volumes built from stacked and slotted board. Solid and void are balanced so that each volume reads as one composition.",
+          "images": [
+            "assets/board/travel-tales-layered-landscape-model/04-volume-one-top.webp",
+            "assets/board/travel-tales-layered-landscape-model/05-volume-one-side.webp",
+            "assets/board/travel-tales-layered-landscape-model/06-volume-two-top.webp",
+            "assets/board/travel-tales-layered-landscape-model/07-volume-two-side.webp"
+          ],
+          "captions": [
+            "Volume one from above.",
+            "Volume one from the side.",
+            "Volume two from above.",
+            "Volume two from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "拼貼被轉譯為兩個以堆疊與插接板材構成的量體。實與虛之間取得平衡，使每個量體都成為完整的構圖。",
+              "captions": [
+                "從上方看第一量體。",
+                "從側面看第一量體。",
+                "從上方看第二量體。",
+                "從側面看第二量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model hangs a cloud of layers over thin columns and terraced ground. Close views show how lines from the sketches become ramps, ribs and caves.",
+          "images": [
+            "assets/board/travel-tales-layered-landscape-model/08-close-up-views.webp",
+            "assets/board/travel-tales-layered-landscape-model/09-layered-details.webp"
+          ],
+          "captions": [
+            "Close-up views of the model.",
+            "Layered details of ground and canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型將層層雲狀量體懸於細柱與階梯狀地面之上。近景顯示速寫中的線條如何化為坡道、肋片與洞穴。",
+              "captions": [
+                "模型近景。",
+                "地面與頂蓋的層疊細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Sketch what moves you.\n2. Cut it into fragments.\n3. Recompose a new scene.\n4. Build it in layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 速寫打動你的事物。\n2. 將它裁切成碎片。\n3. 重組出新的場景。\n4. 以層疊方式建構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
