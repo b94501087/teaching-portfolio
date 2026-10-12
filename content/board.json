@@ -36436,6 +36436,522 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Pulling, Intersect, Arrange",
+      "slug": "pulling-intersect-arrange-hybrid-model",
+      "description": "Three spatial verbs tested in sticks and card, then joined in one hybrid model.\n\nSpatial Design | Model | Spatial tension | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "拉伸、交錯、排列",
+          "description": "以木條與紙板測試三個空間動詞，再結合成一個混合模型。\n\n空間設計｜模型｜空間張力｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/pulling-intersect-arrange-hybrid-model/01-hybrid-model.webp",
+        "assets/board/pulling-intersect-arrange-hybrid-model/02-verb-diagrams.webp",
+        "assets/board/pulling-intersect-arrange-hybrid-model/03-pulling-models.webp",
+        "assets/board/pulling-intersect-arrange-hybrid-model/04-intersect-models.webp",
+        "assets/board/pulling-intersect-arrange-hybrid-model/05-triangle-drawing.webp",
+        "assets/board/pulling-intersect-arrange-hybrid-model/06-tower-model.webp",
+        "assets/board/pulling-intersect-arrange-hybrid-model/07-tension-drawings.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/pulling-intersect-arrange-hybrid-model/01-hybrid-model.webp"
+          ],
+          "captions": [
+            "The hybrid model in card, wood sticks and PVC sheet."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以紙板、木條與 PVC 片製作的混合模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was drawn to the layered triangular geometry of a well-known pavilion. The project asks how that tension could be turned into simple actions that make space.",
+          "images": [
+            "assets/board/pulling-intersect-arrange-hybrid-model/02-verb-diagrams.webp"
+          ],
+          "captions": [
+            "Diagrams of pulling, intersecting and arranging."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生深受一座知名展館層疊三角幾何的吸引。這個作品探問，這種張力如何轉化為能生成空間的簡單動作。",
+              "captions": [
+                "拉伸、交錯與排列的圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Three verbs were drawn out of the geometry: pulling, intersecting and arranging. Each verb was tested with wooden sticks and card in small study models.",
+          "images": [
+            "assets/board/pulling-intersect-arrange-hybrid-model/03-pulling-models.webp",
+            "assets/board/pulling-intersect-arrange-hybrid-model/04-intersect-models.webp"
+          ],
+          "captions": [
+            "Study models of pulling.",
+            "Study models of intersecting and arranging."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從幾何中提煉出三個動詞：拉伸、交錯與排列。每個動詞都以木條與紙板在小型研究模型中測試。",
+              "captions": [
+                "拉伸的研究模型。",
+                "交錯與排列的研究模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Of the three verbs, pulling gave the strongest sense of spatial tension and became the focus. Drawings and a tall study model pushed the stretched triangles into denser layers.",
+          "images": [
+            "assets/board/pulling-intersect-arrange-hybrid-model/05-triangle-drawing.webp",
+            "assets/board/pulling-intersect-arrange-hybrid-model/06-tower-model.webp",
+            "assets/board/pulling-intersect-arrange-hybrid-model/07-tension-drawings.webp"
+          ],
+          "captions": [
+            "Pattern drawing of stretched triangles.",
+            "Vertical study model.",
+            "Tension drawings and an elevation study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三個動詞之中，拉伸最能表現空間張力，因此成為重點。圖面與高聳的研究模型將被拉伸的三角形推向更密集的層次。",
+              "captions": [
+                "被拉伸三角形的圖樣繪圖。",
+                "垂直研究模型。",
+                "張力繪圖與立面研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The hybrid model, about thirty-two inches long, combines all three verbs along one ground. Pulled peaks rise over intersecting frames and arranged planes to form a continuous landscape.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "約三十二英吋長的混合模型將三個動詞結合於同一基地上。被拉起的尖峰升起於交錯的框架與排列的平面之上，形成連續的地景。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a form you admire.\n2. Name the actions inside it.\n3. Test each action in a model.\n4. Combine the strongest ones.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一個你欣賞的形式。\n2. 為其中的動作命名。\n3. 以模型測試每個動作。\n4. 結合最有力的動作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Echoes of the Horizon",
+      "slug": "echoes-of-the-horizon-pavilion-model",
+      "description": "A pavilion of stretched card planes over a timber frame.\n\nSpatial Design | Pavilion | Model | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "地平線的回聲",
+          "description": "在木構架上撐開紙板平面的展亭。\n\n空間設計｜展亭｜模型｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/echoes-of-the-horizon-pavilion-model/01-pavilion-model.webp",
+        "assets/board/echoes-of-the-horizon-pavilion-model/02-model-top.webp",
+        "assets/board/echoes-of-the-horizon-pavilion-model/03-model-side.webp",
+        "assets/board/echoes-of-the-horizon-pavilion-model/04-interior-view.webp",
+        "assets/board/echoes-of-the-horizon-pavilion-model/05-interior-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/echoes-of-the-horizon-pavilion-model/01-pavilion-model.webp"
+          ],
+          "captions": [
+            "The pavilion model in card, wood sticks and PVC sheet."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以紙板、木條與 PVC 片製作的展亭模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The pavilion grows from the pulling studies of an earlier exercise. The project asks how stretched planes could become a roof that people walk beneath.",
+          "images": [
+            "assets/board/echoes-of-the-horizon-pavilion-model/02-model-top.webp"
+          ],
+          "captions": [
+            "The roof planes seen from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這座展亭延續自先前練習中的拉伸研究。這個作品探問，被拉伸的平面如何成為人們可在其下行走的屋頂。",
+              "captions": [
+                "從上方看屋頂平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Thin sticks act as cables that pull folded card planes into sharp peaks. The frame below sets a raised floor and a stair so the roof can be seen from inside.",
+          "images": [
+            "assets/board/echoes-of-the-horizon-pavilion-model/03-model-side.webp"
+          ],
+          "captions": [
+            "Side view of the frame and roof."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "細木條如拉索般將折疊紙板拉成尖峰。下方的構架設定了抬高的樓板與樓梯，使人能從內部觀看屋頂。",
+              "captions": [
+                "構架與屋頂的側視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The model was photographed from eye level to test the feeling of the interior. A charcoal drawing then studied light, shadow and the stair inside the space.",
+          "images": [
+            "assets/board/echoes-of-the-horizon-pavilion-model/04-interior-view.webp",
+            "assets/board/echoes-of-the-horizon-pavilion-model/05-interior-drawing.webp"
+          ],
+          "captions": [
+            "Eye-level view inside the model.",
+            "Charcoal drawing of the interior space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生從視線高度拍攝模型，測試室內的空間感受。接著以炭筆繪圖研究空間中的光影與樓梯。",
+              "captions": [
+                "模型內部的視線高度視角。",
+                "室內空間的炭筆繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model is about twenty-five inches wide and eighteen inches tall. Its peaks and cables echo a horizon line seen from the raised floor.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型約二十五英吋寬、十八英吋高。其尖峰與拉索呼應從抬高樓板望出的地平線。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from an earlier study.\n2. Give it a ground and a frame.\n3. Look at it from eye level.\n4. Draw the space you see.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從先前的研究出發。\n2. 為它加上地面與構架。\n3. 從視線高度觀看。\n4. 畫出你看見的空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Garden",
+      "slug": "sculpture-garden-cliffside-cuboids",
+      "description": "A cliffside sculpture garden shaped through colour collages and small cuboid models.\n\nLandscape Design | Sculpture garden | Model | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "花園",
+          "description": "透過色彩拼貼與小型立方體模型塑造的崖邊雕塑花園。\n\n景觀設計｜雕塑花園｜模型｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sculpture-garden-cliffside-cuboids/01-cuboid-models-a.webp",
+        "assets/board/sculpture-garden-cliffside-cuboids/02-colour-collage.webp",
+        "assets/board/sculpture-garden-cliffside-cuboids/03-garden-study-a.webp",
+        "assets/board/sculpture-garden-cliffside-cuboids/04-garden-study-b.webp",
+        "assets/board/sculpture-garden-cliffside-cuboids/05-cuboid-models-b.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sculpture-garden-cliffside-cuboids/01-cuboid-models-a.webp"
+          ],
+          "captions": [
+            "Small cuboid models in foam-core and card."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以泡沫板與紙板製作的小型立方體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The brief is a sculpture garden on a cliffside site, shielded by buildings and facing the sea. The garden must hold two sculptures, one tall and one flat, set in visual contrast.",
+          "images": [
+            "assets/board/sculpture-garden-cliffside-cuboids/02-colour-collage.webp"
+          ],
+          "captions": [
+            "Colour collage of flowing shapes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "題目是一座位於崖邊、被建築包圍且面向大海的雕塑花園。花園須容納一高一平的兩件雕塑，並形成視覺對比。",
+              "captions": [
+                "流動形狀的色彩拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A first model set out the layout and the spatial links across the site. Collages then explored texture, colour and the character of each sculpture.",
+          "images": [
+            "assets/board/sculpture-garden-cliffside-cuboids/03-garden-study-a.webp",
+            "assets/board/sculpture-garden-cliffside-cuboids/04-garden-study-b.webp"
+          ],
+          "captions": [
+            "Collage and plan study of the garden.",
+            "A second collage and plan study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "第一個模型先確立配置與基地中的空間關係。接著以拼貼探索質感、色彩與每件雕塑的性格。",
+              "captions": [
+                "花園的拼貼與平面研究。",
+                "第二組拼貼與平面研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Small models about two inches on each side tested how solid blocks could be carved and opened. Each cuboid tried a different balance of mass, void and surface.",
+          "images": [
+            "assets/board/sculpture-garden-cliffside-cuboids/05-cuboid-models-b.webp"
+          ],
+          "captions": [
+            "More cuboid studies of carving and opening."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "邊長約兩英吋的小模型測試實心量體如何被切削與打開。每個立方體都嘗試不同的量體、虛空與表面平衡。",
+              "captions": [
+                "更多切削與開口的立方體研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The work brings together visual appeal, user comfort and smooth circulation along the cliff. The collages and cuboids give the garden a clear and distinct character.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這件作品在崖邊兼顧視覺吸引力、使用者舒適度與流暢的動線。拼貼與立方體賦予花園清晰而獨特的性格。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the site and its edges.\n2. Collage colour and texture.\n3. Carve small blocks.\n4. Set them on the site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀基地與其邊界。\n2. 拼貼色彩與質感。\n3. 切削小型量體。\n4. 將它們置於基地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Vertical Garden",
+      "slug": "vertical-garden-knitted-micro-ecosystem",
+      "description": "A knitted wall garden where other species are invited to settle and grow.\n\nLandscape Design | Vertical garden | Habitat | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "垂直花園",
+          "description": "一面編織的牆面花園，邀請其他物種前來棲居與生長。\n\n景觀設計｜垂直花園｜棲地｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/vertical-garden-knitted-micro-ecosystem/01-final-wall.webp",
+        "assets/board/vertical-garden-knitted-micro-ecosystem/02-materials.webp",
+        "assets/board/vertical-garden-knitted-micro-ecosystem/03-wetness-tests.webp",
+        "assets/board/vertical-garden-knitted-micro-ecosystem/04-knitted-panels.webp",
+        "assets/board/vertical-garden-knitted-micro-ecosystem/05-planted-panels.webp",
+        "assets/board/vertical-garden-knitted-micro-ecosystem/06-close-up.webp",
+        "assets/board/vertical-garden-knitted-micro-ecosystem/07-growing-process.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/vertical-garden-knitted-micro-ecosystem/01-final-wall.webp"
+          ],
+          "captions": [
+            "The finished wall of sticks, soil, stones and plants."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以木條、土壤、石頭與植物完成的牆面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In traditional gardens, people are the only authors of the design. The project shifts the act of drawing a garden to other species and lets them choose where to settle.",
+          "images": [
+            "assets/board/vertical-garden-knitted-micro-ecosystem/02-materials.webp"
+          ],
+          "captions": [
+            "Natural materials collected around the community."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在傳統花園中，人類是唯一的設計者。這個作品將「繪製花園」的行為交給其他物種，讓牠們自行選擇棲居之處。",
+              "captions": [
+                "在社區周邊收集的天然材料。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Natural materials were collected nearby and sorted into small micro-environments. Tests of dry to moist soil, stone and mixes found that a soil and stone mix worked best for plant growth.",
+          "images": [
+            "assets/board/vertical-garden-knitted-micro-ecosystem/03-wetness-tests.webp"
+          ],
+          "captions": [
+            "Soil, stone and mixed samples at four wetness levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生在附近收集天然材料，並將其分成不同的微環境。從乾燥到濕潤的土壤、石頭與混合物測試中，發現土石混合最有利於植物生長。",
+              "captions": [
+                "四種濕度下的土壤、石頭與混合樣本。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Knitted patterns turn the wall into a habitat with zones for plants, rocky insect shelters and flowers for butterflies. Branches woven through the panels support soil health.",
+          "images": [
+            "assets/board/vertical-garden-knitted-micro-ecosystem/04-knitted-panels.webp",
+            "assets/board/vertical-garden-knitted-micro-ecosystem/05-planted-panels.webp"
+          ],
+          "captions": [
+            "Knitted panels with mapped habitat zones.",
+            "Panels after planting."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "編織圖樣將牆面轉化為棲地，劃分出植物、多岩昆蟲棲所與吸引蝴蝶的花卉區。穿插於板片間的枝條則維持土壤健康。",
+              "captions": [
+                "標示棲地分區的編織板片。",
+                "種植後的板片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final wall is about forty-five inches tall and built from wooden sticks, soil, branches, stones and plants. Over time the growth on the wall records where life chose to stay.",
+          "images": [
+            "assets/board/vertical-garden-knitted-micro-ecosystem/06-close-up.webp",
+            "assets/board/vertical-garden-knitted-micro-ecosystem/07-growing-process.webp"
+          ],
+          "captions": [
+            "Close-up of the growing surface.",
+            "The panels during the growing process."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終牆面約四十五英吋高，以木條、土壤、枝條、石頭與植物構成。隨著時間推移，牆上的生長記錄了生命選擇停留之處。",
+              "captions": [
+                "生長表面的近景。",
+                "生長過程中的板片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect what is nearby.\n2. Test it in small samples.\n3. Weave a frame for growth.\n4. Let other life finish it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集身邊的材料。\n2. 以小樣本測試。\n3. 編織供生長的框架。\n4. 讓其他生命完成它。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
