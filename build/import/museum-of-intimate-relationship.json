@@ -1,0 +1,61 @@
+{
+  "project": "Museum of Intimate Relationship",
+  "dest": "assets/board/museum-of-intimate-relationship",
+  "note": "Portfolio 37f4 pages 6–7 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the name and contact text, the background photo collage with people and the statistics charts, the site photo panorama, the stock image strips for each type of love, and the body text.",
+  "files": [
+    {
+      "name": "01-sequence-sections.webp",
+      "sha256": "273b354b193d021a864c35339e4519d40454b41675417e336274e79fb6b56c8e",
+      "bytes": 137230,
+      "from": "37f4 page 7 — sections along the visitor sequence, x 50–100 %, y 0–63 %"
+    },
+    {
+      "name": "02-riverside-site-map.webp",
+      "sha256": "92e727a3837cbe3cbf750677dea9849be3420a230b54090f344177e0190ba32f",
+      "bytes": 56410,
+      "from": "page 6 — riverside site map, x 0–21 %, y 25–50 %"
+    },
+    {
+      "name": "03-site-environment-analysis.webp",
+      "sha256": "d0b8c9d8ad5913fb2b3457061bef820d5d3968ac85c475055d3c59df510d8ef3",
+      "bytes": 56838,
+      "from": "page 6 — site, nature and streamline analysis, x 31–50 %, y 3–40 %"
+    },
+    {
+      "name": "04-ground-comparison.webp",
+      "sha256": "ee87ad7e529f0f248eec8091f6682d432cb8b07531492f5ce85f39084946ebb9",
+      "bytes": 49866,
+      "from": "page 6 — comparison of two ground conditions, x 0–21 %, y 79–100 %"
+    },
+    {
+      "name": "05-space-feeling-matrix.webp",
+      "sha256": "c150921a2b42b76e1ae988c2e33078f4b23086971d242dfdf8e77c4c154a7fb5",
+      "bytes": 64968,
+      "from": "page 6 — environmental conditions, space feeling and mood charts, x 50–88 %, y 48–100 %"
+    },
+    {
+      "name": "06-concept-and-plane-generation.webp",
+      "sha256": "23200f901ad718fa02a112f2002cba23198e67b525b9be5788510611a2683c0d",
+      "bytes": 87378,
+      "from": "page 6 — design concept and plane generation, x 88–100 %"
+    },
+    {
+      "name": "07-wind-water-light-studies.webp",
+      "sha256": "7358710069672e29b9e913a11306d36e6a1d2d03b389aa26fa8648e3c1ddbf1e",
+      "bytes": 97890,
+      "from": "page 7 — wind, water and light space studies, x 25–50 %, y 0–72 %"
+    },
+    {
+      "name": "08-function-and-streamline.webp",
+      "sha256": "a2aad62a550f8697384f8b4eee8e115c81e9e6e8454c71349f7c1b808c061464",
+      "bytes": 86260,
+      "from": "page 7 — function nodes and streamline analysis, x 0–50 %, y 73–100 %"
+    },
+    {
+      "name": "09-water-section-perspective.webp",
+      "sha256": "e7167177184de28ed82ee1123fa55bcb048664d2fb6f1ecdbdb89266a8063e36",
+      "bytes": 102140,
+      "from": "page 7 — section perspective along the water, x 50–100 %, y 63–100 %"
+    }
+  ]
+}
