@@ -1,0 +1,49 @@
+{
+  "project": "Metallic Foam Morphologies",
+  "dest": "assets/board/metallic-foam-morphologies-fish-habitat",
+  "note": "Portfolio 188e pages 8-9 cropped to seven images, WebP q88 (PIL). Not used: title and body text, small lab photos.",
+  "files": [
+    {
+      "name": "01-foam-reef-model.webp",
+      "sha256": "a02de922dd3775fd4d5aac5b4966a741a489623ebe3ed026fe9295222dd8c40d",
+      "bytes": 42726,
+      "from": "188e page 9 — final model with fish"
+    },
+    {
+      "name": "02-hexagon-tiles.webp",
+      "sha256": "eea458ae71a85b51817553640d8b2e8958cdbc96b478f54d0727baa28694ecb9",
+      "bytes": 22756,
+      "from": "188e page 9 — hexagon tiles"
+    },
+    {
+      "name": "03-hanging-columns.webp",
+      "sha256": "7fdfb32057fbd15b4a66bed497100c42382068ad880c1e3e048faa874ba3aa40",
+      "bytes": 61474,
+      "from": "188e page 9 — hanging columns"
+    },
+    {
+      "name": "04-fish-in-the-model.webp",
+      "sha256": "11fc15b1396df1d760f693f098fceb1a70ef87cdbc3e31c08e0d04a8e2064b6d",
+      "bytes": 26910,
+      "from": "188e page 9 — model details"
+    },
+    {
+      "name": "05-cathode-process-diagram.webp",
+      "sha256": "7890fdd93297c0ab4fa951cd1b66e7d1520d4b248f5b29c8ada6db2c320d3739",
+      "bytes": 42194,
+      "from": "188e page 8 — hand-drawn process diagram"
+    },
+    {
+      "name": "06-parametric-script.webp",
+      "sha256": "adb311b23186ae11f719c2133beef75728c97fd27dfa157448692f7db42db2c4",
+      "bytes": 13216,
+      "from": "188e page 8 — parametric script"
+    },
+    {
+      "name": "07-porous-form-renders.webp",
+      "sha256": "58f5832155ca9d60a8ff0ef7b3d18486f788cee33bfd86b3051b1b397e2993e3",
+      "bytes": 37928,
+      "from": "188e page 8 — porous form renders"
+    }
+  ]
+}
