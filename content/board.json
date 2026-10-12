@@ -37644,6 +37644,294 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Summer Studio I: Form Operations",
+      "slug": "summer-studio-form-operation-models",
+      "description": "A series of physical models that test basic form operations and combine them into one layered composition.\n\nArchitecture | Physical model | Form operations | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "暑期設計課 I：形式操作",
+          "description": "以一系列實體模型測試基本形式操作，並將它們組合為一件層疊的構成。\n\n建築設計｜實體模型｜形式操作｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/summer-studio-form-operation-models/01-collage-model.webp",
+        "assets/board/summer-studio-form-operation-models/02-operation-models.webp",
+        "assets/board/summer-studio-form-operation-models/03-operation-diagrams.webp",
+        "assets/board/summer-studio-form-operation-models/04-spiral-model-a.webp",
+        "assets/board/summer-studio-form-operation-models/05-spiral-model-b.webp",
+        "assets/board/summer-studio-form-operation-models/06-filter-boxes-a.webp",
+        "assets/board/summer-studio-form-operation-models/07-filter-boxes-b.webp",
+        "assets/board/summer-studio-form-operation-models/08-layered-model-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/summer-studio-form-operation-models/01-collage-model.webp"
+          ],
+          "captions": [
+            "The final layered model of paper, card and sticks over a line drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以紙、卡紙與木條疊合在線稿上的最終層疊模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The studio starts from simple verbs of form rather than a building program. Each operation has to be shown clearly in a small physical model.",
+          "images": [
+            "assets/board/summer-studio-form-operation-models/02-operation-models.webp",
+            "assets/board/summer-studio-form-operation-models/03-operation-diagrams.webp"
+          ],
+          "captions": [
+            "Reflection, stack and geometry models.",
+            "Intersect, span and filter diagrams."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這門課以形式的基本動詞為起點，而非建築機能。每一種操作都必須在小型實體模型中清楚呈現。",
+              "captions": [
+                "反射、堆疊與幾何模型。",
+                "交錯、跨越與過濾的圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Six operations were tested: reflection, stack, geometry, intersect, span and filter. Quick diagrams fixed the logic of each one before it was built.",
+          "images": [
+            "assets/board/summer-studio-form-operation-models/04-spiral-model-a.webp",
+            "assets/board/summer-studio-form-operation-models/05-spiral-model-b.webp"
+          ],
+          "captions": [
+            "Spiral stick model, first view.",
+            "Spiral stick model, second view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生測試了六種操作：反射、堆疊、幾何、交錯、跨越與過濾。在動手製作前，先以快速圖解確立每一種操作的邏輯。",
+              "captions": [
+                "螺旋木條模型，第一視角。",
+                "螺旋木條模型，第二視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Rotating sticks around black blocks turned repetition into a spiral of movement. Wavy cut screens on stacked boxes explored how light is filtered through a surface.",
+          "images": [
+            "assets/board/summer-studio-form-operation-models/06-filter-boxes-a.webp",
+            "assets/board/summer-studio-form-operation-models/07-filter-boxes-b.webp"
+          ],
+          "captions": [
+            "Filter box model from the front.",
+            "Filter box model from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木條繞著黑色量塊旋轉，讓重複變成螺旋的運動。堆疊盒體上的波浪鏤空面則探討光線如何穿過表面被過濾。",
+              "captions": [
+                "過濾盒體模型正面。",
+                "過濾盒體模型俯視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final piece layers the earlier operations over a large line drawing. Curved screens, stick fans and black frames meet in one composition.",
+          "images": [
+            "assets/board/summer-studio-form-operation-models/08-layered-model-view.webp"
+          ],
+          "captions": [
+            "Perspective of the layered model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終作品將先前的操作疊合在一張大幅線稿上。曲面屏、木條扇形與黑色框架在同一個構成中交會。",
+              "captions": [
+                "層疊模型透視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick one verb of form.\n2. Diagram it first.\n3. Build it small and fast.\n4. Combine the verbs into one piece.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個形式動詞。\n2. 先畫圖解。\n3. 小而快地做出來。\n4. 把動詞組合成一件作品。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Summer Studio II: Environmental Education Pavilion",
+      "slug": "summer-studio-environmental-education-pavilion",
+      "description": "A park pavilion of towers, decks and a walkway over water, studied in plans, sections and stick models.\n\nArchitecture | Pavilion | Environmental education | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "暑期設計課 II：環境教育亭",
+          "description": "由塔、平台與水上步道組成的公園展亭，以平面、剖面與木條模型推演。\n\n建築設計｜展亭｜環境教育｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/summer-studio-environmental-education-pavilion/01-tower-model.webp",
+        "assets/board/summer-studio-environmental-education-pavilion/02-functional-diagram.webp",
+        "assets/board/summer-studio-environmental-education-pavilion/03-plan.webp",
+        "assets/board/summer-studio-environmental-education-pavilion/04-sections.webp",
+        "assets/board/summer-studio-environmental-education-pavilion/05-axonometric.webp",
+        "assets/board/summer-studio-environmental-education-pavilion/06-pavilion-model.webp",
+        "assets/board/summer-studio-environmental-education-pavilion/07-model-details.webp",
+        "assets/board/summer-studio-environmental-education-pavilion/08-tower-interior.webp",
+        "assets/board/summer-studio-environmental-education-pavilion/09-tower-views.webp",
+        "assets/board/summer-studio-environmental-education-pavilion/10-tower-sketches.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/summer-studio-environmental-education-pavilion/01-tower-model.webp"
+          ],
+          "captions": [
+            "Larger stick model of the tower in basswood, plywood and tracing paper."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以椴木條、夾板與描圖紙製作的大型塔體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The pavilion invites visitors from a busy setting gradually into nature. It needs places to meditate, look out, gather and observe local ecology.",
+          "images": [
+            "assets/board/summer-studio-environmental-education-pavilion/02-functional-diagram.webp",
+            "assets/board/summer-studio-environmental-education-pavilion/03-plan.webp"
+          ],
+          "captions": [
+            "Functional diagram of the five spaces.",
+            "Architecture plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這座展亭引導訪客從喧囂環境逐步走入自然。它需要提供冥想、眺望、聚會與觀察在地生態的場所。",
+              "captions": [
+                "五個空間的機能圖。",
+                "建築平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The program was split into a contemplation niche, a watch tower, a group learning deck, an exhibition corner and a sensory walkway. A functional diagram arranged them around a green platform.",
+          "images": [
+            "assets/board/summer-studio-environmental-education-pavilion/04-sections.webp"
+          ],
+          "captions": [
+            "Sections through the tower, deck and walkway."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "機能被拆解為冥想角落、瞭望塔、團體學習平台、展示角與感官步道。機能圖將它們環繞一座綠色平台配置。",
+              "captions": [
+                "穿越塔、平台與步道的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sections test how the tower rises above the trees while the walkway stays low over the water. Basswood and card models check the joints between the parts.",
+          "images": [
+            "assets/board/summer-studio-environmental-education-pavilion/05-axonometric.webp",
+            "assets/board/summer-studio-environmental-education-pavilion/06-pavilion-model.webp",
+            "assets/board/summer-studio-environmental-education-pavilion/07-model-details.webp"
+          ],
+          "captions": [
+            "Axonometric sketch.",
+            "Pavilion model in basswood and card.",
+            "Details of stairs and frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "剖面測試塔體如何高出樹冠，而步道則低伏於水面之上。椴木與卡紙模型檢查各部分之間的銜接。",
+              "captions": [
+                "軸測草圖。",
+                "椴木與卡紙製作的展亭模型。",
+                "樓梯與框架細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A larger stick model develops the tower as an open frame of stairs, trusses and enclosed rooms. Hand sketches study the light and depth inside the structure.",
+          "images": [
+            "assets/board/summer-studio-environmental-education-pavilion/08-tower-interior.webp",
+            "assets/board/summer-studio-environmental-education-pavilion/09-tower-views.webp",
+            "assets/board/summer-studio-environmental-education-pavilion/10-tower-sketches.webp"
+          ],
+          "captions": [
+            "Inside the tower model.",
+            "Views of the tower model.",
+            "Perspective sketches of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "大型木條模型將塔體發展為由樓梯、桁架與封閉房間組成的開放框架。手繪草圖研究結構內部的光線與深度。",
+              "captions": [
+                "塔體模型內部。",
+                "塔體模型各視角。",
+                "塔體透視草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. List the experiences first.\n2. Diagram how they connect.\n3. Cut sections to test height.\n4. Build to check the joints.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先列出要提供的體驗。\n2. 以圖解說明它們如何連結。\n3. 以剖面測試高度。\n4. 動手製作檢查銜接。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
