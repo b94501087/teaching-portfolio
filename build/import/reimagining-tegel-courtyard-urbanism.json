@@ -1,0 +1,61 @@
+{
+  "project": "Reimagining Tegel",
+  "dest": "assets/board/reimagining-tegel-courtyard-urbanism",
+  "note": "Portfolio 30f3 pages 13-18 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title collage with news clippings and photos of people, the history and user collage with photos of people, landmarks and logos, renders with photo cut-out figures, and the body text.",
+  "files": [
+    {
+      "name": "01-hexagon-masterplan.webp",
+      "sha256": "e5105efab7b532941e6ae62e94ca1afeb50655fa95776644a3ff2dc38098933a",
+      "bytes": 357820,
+      "from": "30f3 page 15 — hexagonal courtyard masterplan"
+    },
+    {
+      "name": "02-stick-models.webp",
+      "sha256": "0afa8d73f615949199187ed8a6c4f47ce6a18d1daf1ed377f434d4b4dec98834",
+      "bytes": 59774,
+      "from": "30f3 page 13 — timber stick models"
+    },
+    {
+      "name": "03-site-plan.webp",
+      "sha256": "47b6be91d135d76831c899488279a11b6c73510ca6d2c49fa46d0a7d7253d955",
+      "bytes": 277416,
+      "from": "30f3 page 14 — city site plan"
+    },
+    {
+      "name": "05-adaptable-units.webp",
+      "sha256": "a25f751f18cd37f3d9d7b7d9a901b03e9119f9cf3be7eeb1c18da5de080e38f3",
+      "bytes": 144826,
+      "from": "30f3 page 15 — adaptable housing units"
+    },
+    {
+      "name": "06-trellis-model.webp",
+      "sha256": "bdaf011b846b6dd7335c63e2c1ca92d74a80e96c5f63533ca54beb2298b0403f",
+      "bytes": 62746,
+      "from": "30f3 page 16 — planting trellis model"
+    },
+    {
+      "name": "07-trellis-joints.webp",
+      "sha256": "3375e06bd2ab5cdd816fec14fa5577d7c0308e575b5efefc50a12a026b3e9cf4",
+      "bytes": 22648,
+      "from": "30f3 page 16 — trellis joint diagrams"
+    },
+    {
+      "name": "08-roof-light-control.webp",
+      "sha256": "b67dc834913315c23ad710a484911b6c35c719388b0970eb72206eef81b9a20e",
+      "bytes": 70094,
+      "from": "30f3 page 17 — roof light control"
+    },
+    {
+      "name": "09-long-section.webp",
+      "sha256": "0875b7b72726ea915ba88febcdd7f81ae03e21afb100a92a5ba019b357831788",
+      "bytes": 58316,
+      "from": "30f3 page 18 — long section"
+    },
+    {
+      "name": "10-tower-and-workshops.webp",
+      "sha256": "be34b1020f000ed1556e141a14cfb09841e55ff3664bf9b55cb415c10e201937",
+      "bytes": 115612,
+      "from": "30f3 page 18 — viewing tower and workshop details"
+    }
+  ]
+}
