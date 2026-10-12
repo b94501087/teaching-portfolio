@@ -50648,6 +50648,722 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Material Regeneration",
+      "slug": "material-regeneration-plastic-bag-and-chopstick-weave",
+      "description": "Plastic bags, bamboo chopsticks and old mesh are knotted into a new woven surface.\n\nModel making | Material reuse | Plastic bags, bamboo chopsticks, iron mesh and hemp rope | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "材料再生",
+          "description": "塑膠袋、竹筷與舊網片被打結編織成全新的表面。\n\n模型製作｜材料再利用｜塑膠袋、竹筷、鐵網與麻繩｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/01-final-model.webp",
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/02-chopstick-grid.webp",
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/03-hands-knotting.webp",
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/04-bag-layers.webp",
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/05-mesh-detail.webp",
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/06-joint-detail.webp",
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/07-top-view.webp",
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/08-side-view.webp",
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/09-corner.webp",
+        "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/10-close-up.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished woven panel."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的編織板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Everyday waste such as plastic bags and old mesh is usually thrown away after one use. The project asks how these overlooked materials could gain a second life as a new building surface.",
+          "images": [
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/02-chopstick-grid.webp"
+          ],
+          "captions": [
+            "Tying chopsticks into a grid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "塑膠袋與舊網片等日常廢棄物通常用過一次就被丟棄。這個專案思考這些被忽略的材料，如何以新的建築表面重獲第二次生命。",
+              "captions": [
+                "把竹筷綁成格網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student collected common household waste and tested how it could be tied, wrapped and woven. Bamboo chopsticks became a light frame that could hold softer materials.",
+          "images": [
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/03-hands-knotting.webp"
+          ],
+          "captions": [
+            "Knotting the joints by hand."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生收集常見的家庭廢棄物，測試如何綁、包與編織它們。竹筷成為能承載柔軟材料的輕巧框架。",
+              "captions": [
+                "親手打結固定節點。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Plastic bags were stretched and knotted across the chopstick grid in several layers. Mesh strips and rope were woven in to add strength and texture.",
+          "images": [
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/04-bag-layers.webp",
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/05-mesh-detail.webp",
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/06-joint-detail.webp"
+          ],
+          "captions": [
+            "Plastic bags stretched over the frame.",
+            "Mesh strips woven in.",
+            "A tied joint up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "塑膠袋被拉開並分層綁在竹筷格網上。網條與麻繩被編入其中，增加強度與質感。",
+              "captions": [
+                "塑膠袋包覆在框架上。",
+                "編入的網狀條帶。",
+                "綁好的節點特寫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final panel is a light, translucent skin that shows waste in a new form. It also works as a teaching piece that invites neighbours to rethink what they throw away.",
+          "images": [
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/07-top-view.webp",
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/08-side-view.webp",
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/09-corner.webp",
+            "assets/board/material-regeneration-plastic-bag-and-chopstick-weave/10-close-up.webp"
+          ],
+          "captions": [
+            "Top view of the surface.",
+            "Side view showing depth.",
+            "A folded corner.",
+            "Close-up of the woven skin."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的板材是輕盈、半透明的表皮，以新形式呈現廢棄物。它也是一件教材，邀請鄰里重新思考自己丟掉的東西。",
+              "captions": [
+                "表面的俯視。",
+                "呈現厚度的側面。",
+                "折起的轉角。",
+                "編織表皮的特寫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect everyday waste.\n2. Test how each piece joins.\n3. Build a simple frame.\n4. Layer and weave the skin.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集日常廢棄物。\n2. 測試每種材料如何接合。\n3. 搭出簡單的框架。\n4. 分層編織表皮。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Urban Rain Garden",
+      "slug": "urban-rain-garden-sponge-city-terrain-model",
+      "description": "A terrain model shows rainwater cleaned in four steps as it flows to a pond.\n\nModel making | Landscape and water | Foam, clay, sand, stone, wax and model plants | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市雨水花園",
+          "description": "一座地形模型呈現雨水流向水池時經過的四道淨化步驟。\n\n模型製作｜地景與水｜泡棉、黏土、沙、石頭、蠟與模型植物｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/01-final-model.webp",
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/02-site-terraces.webp",
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/03-site-pool.webp",
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/04-section-sketch.webp",
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/05-foam-base.webp",
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/06-clay-layer.webp",
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/07-stones-water.webp",
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/08-planting.webp",
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/09-flow-diagram.webp",
+        "assets/board/urban-rain-garden-sponge-city-terrain-model/10-pond-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished rain garden model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的雨水花園模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Cities face heavier storms and flooding as the climate changes. The student asked how a garden could hold, clean and reuse rainwater while staying pleasant for people.",
+          "images": [
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/02-site-terraces.webp"
+          ],
+          "captions": [
+            "Terraced wetland on a site visit."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "氣候變遷讓城市面對更強的暴雨與淹水。學生思考一座花園如何留住、淨化並再利用雨水，同時讓人感到舒適。",
+              "captions": [
+                "實地考察時的階梯式濕地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A site visit to a terraced park wetland showed how stepped pools slow water down. The student sketched the flow from street runoff through filters to a retention pool.",
+          "images": [
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/03-site-pool.webp",
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/04-section-sketch.webp"
+          ],
+          "captions": [
+            "A planted pool beside the city.",
+            "Hand sketch of the water path."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "實地走訪一座階梯式公園濕地，看見層層水池如何減緩水流。學生畫出雨水從街道逕流、經過過濾到滯留池的路徑。",
+              "captions": [
+                "城市旁的植栽水池。",
+                "水流路徑的手繪草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The landform was carved from foam, then covered with clay and sand for texture. Stones of different sizes, wax water and white tubes showed each cleaning stage.",
+          "images": [
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/05-foam-base.webp",
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/06-clay-layer.webp",
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/07-stones-water.webp",
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/08-planting.webp"
+          ],
+          "captions": [
+            "Cutting the foam base.",
+            "Covering the landform with clay.",
+            "Adding stone layers.",
+            "Planting and wax water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "地形以泡棉雕出，再覆上黏土與沙增加質感。不同大小的石頭、蠟製水面與白色管線呈現每一道淨化階段。",
+              "captions": [
+                "切割泡棉底座。",
+                "以黏土覆蓋地形。",
+                "加入石材層。",
+                "種植與蠟製水面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model reads as a section of sedimentation, plant filter, gravel filter and pond. It shows how a park can work like a sponge while also offering a green place to rest.",
+          "images": [
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/09-flow-diagram.webp",
+            "assets/board/urban-rain-garden-sponge-city-terrain-model/10-pond-detail.webp"
+          ],
+          "captions": [
+            "The four purification stages.",
+            "Detail of the gravel and pond."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型以剖面呈現沉澱、植物過濾、礫石過濾與水池。它展示公園如何像海綿一樣運作，同時提供可休憩的綠地。",
+              "captions": [
+                "四個淨化階段。",
+                "礫石與水池細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Visit a real water site.\n2. Draw the water path.\n3. Build the landform in layers.\n4. Label each stage clearly.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 走訪真實的水環境。\n2. 畫出水流路徑。\n3. 分層建造地形。\n4. 清楚標示每個階段。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Shared Kitchen",
+      "slug": "shared-kitchen-modular-community-frame-model",
+      "description": "Stackable kitchen modules grow from a single dining unit into a community hub.\n\nModel making | Community space | PLA frames, wooden sticks, resin prints and laser cutting | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "共享廚房",
+          "description": "可堆疊的廚房模組，從單一用餐單元長成社區據點。\n\n模型製作｜社區空間｜PLA框架、木棒、樹脂列印與雷射切割｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/shared-kitchen-modular-community-frame-model/01-final-model.webp",
+        "assets/board/shared-kitchen-modular-community-frame-model/02-front-elevation.webp",
+        "assets/board/shared-kitchen-modular-community-frame-model/03-module-interior.webp",
+        "assets/board/shared-kitchen-modular-community-frame-model/04-dining-floor.webp",
+        "assets/board/shared-kitchen-modular-community-frame-model/05-top-view.webp",
+        "assets/board/shared-kitchen-modular-community-frame-model/06-upper-module.webp",
+        "assets/board/shared-kitchen-modular-community-frame-model/07-stacked-corner.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/shared-kitchen-modular-community-frame-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished stacked kitchen."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的堆疊廚房。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Cooking and eating together is one of the easiest ways for neighbours to meet. The project asks how a kitchen could become a flexible social space for communities of any size.",
+          "images": [
+            "assets/board/shared-kitchen-modular-community-frame-model/02-front-elevation.webp"
+          ],
+          "captions": [
+            "Front view of the modules."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一起煮飯吃飯是鄰居相遇最自然的方式之一。這個專案思考廚房如何成為適合不同規模社區的彈性社交空間。",
+              "captions": [
+                "模組的正面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student treated everyday activities as social moments and studied how dining, teaching and workshops could share one space. A single module was sized for a small neighbourhood meal.",
+          "images": [
+            "assets/board/shared-kitchen-modular-community-frame-model/03-module-interior.webp"
+          ],
+          "captions": [
+            "Inside one module."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把日常活動視為社交時刻，研究用餐、教學與工作坊如何共用空間。單一模組的尺度適合小型鄰里聚餐。",
+              "captions": [
+                "單一模組內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Black frames were printed and filled with timber floors, slatted screens and white furniture. Modules were stacked and shifted to test larger kitchens and movable units.",
+          "images": [
+            "assets/board/shared-kitchen-modular-community-frame-model/04-dining-floor.webp",
+            "assets/board/shared-kitchen-modular-community-frame-model/05-top-view.webp"
+          ],
+          "captions": [
+            "A shared dining floor.",
+            "Modules seen from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生列印黑色框架，再放入木地板、格柵屏風與白色家具。模組被堆疊與錯位，測試更大的廚房與可移動單元。",
+              "captions": [
+                "共享用餐樓層。",
+                "從上方看模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model stacks modules into a stepped community kitchen with stairs and terraces. It shows a building that can grow or shrink with the people who use it.",
+          "images": [
+            "assets/board/shared-kitchen-modular-community-frame-model/06-upper-module.webp",
+            "assets/board/shared-kitchen-modular-community-frame-model/07-stacked-corner.webp"
+          ],
+          "captions": [
+            "Stairs and screens in a module.",
+            "A stacked corner."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型把模組堆成有樓梯與平台的階梯式社區廚房。它展示一座能隨使用者增減而成長或縮小的建築。",
+              "captions": [
+                "模組中的樓梯與屏風。",
+                "堆疊的轉角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a daily activity.\n2. Design one module.\n3. Stack and shift modules.\n4. Add people and furniture.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從日常活動出發。\n2. 設計一個模組。\n3. 堆疊與錯位模組。\n4. 加入人物與家具。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Living Layers, Watching Streets",
+      "slug": "living-layers-watching-streets-staggered-plate-model",
+      "description": "Shifting floor plates let residents on every level keep an eye on the street.\n\nModel making | Housing and safety | PVC sheets and red figures | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "層層生活，守望街道",
+          "description": "錯動的樓板讓每一層的住戶都能看顧街道。\n\n模型製作｜住宅與安全｜PVC板與紅色人偶｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/living-layers-watching-streets-staggered-plate-model/01-final-model.webp",
+        "assets/board/living-layers-watching-streets-staggered-plate-model/02-front-view.webp",
+        "assets/board/living-layers-watching-streets-staggered-plate-model/03-red-figures.webp",
+        "assets/board/living-layers-watching-streets-staggered-plate-model/04-floor-edge.webp",
+        "assets/board/living-layers-watching-streets-staggered-plate-model/05-terrace.webp",
+        "assets/board/living-layers-watching-streets-staggered-plate-model/06-upper-floors.webp",
+        "assets/board/living-layers-watching-streets-staggered-plate-model/07-edge-view.webp",
+        "assets/board/living-layers-watching-streets-staggered-plate-model/08-side-close.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/living-layers-watching-streets-staggered-plate-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished staggered towers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的錯層塔樓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Streets feel safer when people living nearby can see them. The project asks how a housing block could keep that link to the street across several floors.",
+          "images": [
+            "assets/board/living-layers-watching-streets-staggered-plate-model/02-front-view.webp"
+          ],
+          "captions": [
+            "Front view of the floor plates."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "當附近居民看得見街道時，街道會更讓人安心。這個專案思考一棟住宅如何在好幾層樓之間維持與街道的連結。",
+              "captions": [
+                "樓板的正面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student started from a well-known urban idea that residents watching from home keep streets safe. That effect fades above a few storeys, so height and openness became the key questions.",
+          "images": [
+            "assets/board/living-layers-watching-streets-staggered-plate-model/03-red-figures.webp"
+          ],
+          "captions": [
+            "Red figures mark the watchers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從一個知名的城市觀念出發：居民在家中看著街道，就能讓街道更安全。這種效果在幾層樓以上會減弱，所以高度與開放性成為關鍵。",
+              "captions": [
+                "紅色人偶標示觀察者。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Thin PVC plates were staggered and held by short vertical partitions. Red figures were placed at edges and terraces to test where people could look out.",
+          "images": [
+            "assets/board/living-layers-watching-streets-staggered-plate-model/04-floor-edge.webp",
+            "assets/board/living-layers-watching-streets-staggered-plate-model/05-terrace.webp"
+          ],
+          "captions": [
+            "A figure at the floor edge.",
+            "An open terrace."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "薄PVC樓板被錯開排列，以短隔牆支撐。紅色人偶放在邊緣與平台上，測試人們能從哪裡往外看。",
+              "captions": [
+                "樓板邊緣的人偶。",
+                "開放的平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final towers turn every level into a lookout while keeping private corners. They show how small choices in floor layout can shape a sense of safety.",
+          "images": [
+            "assets/board/living-layers-watching-streets-staggered-plate-model/06-upper-floors.webp",
+            "assets/board/living-layers-watching-streets-staggered-plate-model/07-edge-view.webp",
+            "assets/board/living-layers-watching-streets-staggered-plate-model/08-side-close.webp"
+          ],
+          "captions": [
+            "Upper floors and partitions.",
+            "Looking along a slab edge.",
+            "Close side view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的塔樓讓每一層都成為瞭望點，同時保留私密角落。它們展示樓層配置上的小選擇如何影響安全感。",
+              "captions": [
+                "上層樓板與隔牆。",
+                "沿著樓板邊緣看去。",
+                "近距離側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a city idea.\n2. Turn it into a section.\n3. Stagger the floors.\n4. Test sightlines with figures.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從城市觀念出發。\n2. 把它轉成剖面。\n3. 錯開樓板。\n4. 用人偶測試視線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Passive Facade",
+      "slug": "passive-facade-layered-timber-strip-model",
+      "description": "Layered timber strips shade, cool and quiet the rooms behind them.\n\nModel making | Facade and climate | Wooden sticks and laser-cut panels | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "被動式立面",
+          "description": "層疊的木條為後方的房間遮陽、降溫並隔音。\n\n模型製作｜立面與氣候｜木棒與雷射切割板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/passive-facade-layered-timber-strip-model/01-final-model.webp",
+        "assets/board/passive-facade-layered-timber-strip-model/02-cut-strips.webp",
+        "assets/board/passive-facade-layered-timber-strip-model/03-facade-texture.webp",
+        "assets/board/passive-facade-layered-timber-strip-model/04-light-on-floor.webp",
+        "assets/board/passive-facade-layered-timber-strip-model/05-shaded-room.webp",
+        "assets/board/passive-facade-layered-timber-strip-model/06-facade-side.webp",
+        "assets/board/passive-facade-layered-timber-strip-model/07-shadow-a.webp",
+        "assets/board/passive-facade-layered-timber-strip-model/08-shadow-b.webp",
+        "assets/board/passive-facade-layered-timber-strip-model/09-interior-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/passive-facade-layered-timber-strip-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished facade model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的立面模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Large glass walls let in too much sun and noise, so buildings rely on air conditioning. The project asks whether a facade itself could control light, heat and sound.",
+          "images": [
+            "assets/board/passive-facade-layered-timber-strip-model/02-cut-strips.webp"
+          ],
+          "captions": [
+            "Laser-cut strips being assembled."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "大面玻璃牆引入過多陽光與噪音，使建築依賴空調。這個專案思考立面本身能否調節光線、熱與聲音。",
+              "captions": [
+                "組裝雷射切割木條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied how layered surfaces filter sunlight and scatter sound waves. Cutting diagrams were drawn in software for every floor and strip.",
+          "images": [
+            "assets/board/passive-facade-layered-timber-strip-model/03-facade-texture.webp"
+          ],
+          "captions": [
+            "The staggered strip texture."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究層疊表面如何過濾陽光並分散聲波。每一層樓與每根木條都以軟體繪製切割圖。",
+              "captions": [
+                "錯落的木條紋理。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Thin strips were laser-cut, assembled in a staggered sequence and lightly sanded. Light tests showed soft patterns falling across the floors.",
+          "images": [
+            "assets/board/passive-facade-layered-timber-strip-model/04-light-on-floor.webp",
+            "assets/board/passive-facade-layered-timber-strip-model/05-shaded-room.webp",
+            "assets/board/passive-facade-layered-timber-strip-model/06-facade-side.webp"
+          ],
+          "captions": [
+            "Filtered light on the floor.",
+            "A shaded interior.",
+            "Side view of the facade."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "細木條經雷射切割，依錯落順序組裝並輕輕打磨。光線測試呈現灑落在樓板上的柔和圖案。",
+              "captions": [
+                "灑在地板上的過濾光線。",
+                "被遮蔭的室內。",
+                "立面的側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model shows a rough, deep facade that shades rooms and breaks up noise. It treats beauty and comfort as one goal rather than two.",
+          "images": [
+            "assets/board/passive-facade-layered-timber-strip-model/07-shadow-a.webp",
+            "assets/board/passive-facade-layered-timber-strip-model/08-shadow-b.webp",
+            "assets/board/passive-facade-layered-timber-strip-model/09-interior-view.webp"
+          ],
+          "captions": [
+            "Shadow patterns inside.",
+            "Light through the gaps.",
+            "Looking out through the strips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型呈現粗糙而有深度的立面，為室內遮陽並打散噪音。它把美感與舒適視為同一個目標。",
+              "captions": [
+                "室內的光影圖案。",
+                "穿過縫隙的光線。",
+                "透過木條往外看。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name the climate problem.\n2. Draw the facade layers.\n3. Cut and assemble strips.\n4. Test with real light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 說出氣候問題。\n2. 畫出立面層次。\n3. 切割並組裝木條。\n4. 以真實光線測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
