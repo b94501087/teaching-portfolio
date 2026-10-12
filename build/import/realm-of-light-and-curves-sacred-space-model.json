@@ -1,0 +1,67 @@
+{
+  "project": "Realm of Light and Curves",
+  "dest": "assets/board/realm-of-light-and-curves-sacred-space-model",
+  "note": "Portfolio 895c pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text, precedent building photos, film-pressing process photos, two sketches.",
+  "files": [
+    {
+      "name": "01-stained-light-model.webp",
+      "sha256": "af58e73a3c36fc8428ebb86b6c871f889569b1ee23124dc53040cc3188919065",
+      "bytes": 63924,
+      "from": "895c page 5 — final model"
+    },
+    {
+      "name": "02-spire-sketch.webp",
+      "sha256": "daf9d6b1d080bec756f2136f410f70829af47c67bb28d1dd170cdf6305ddffab",
+      "bytes": 38784,
+      "from": "895c page 4 — spire sketch"
+    },
+    {
+      "name": "03-facade-sketches.webp",
+      "sha256": "8a5be75f6a545d5b078cd80d4f64e7493996dfd8401be72ffc043a51113aad38",
+      "bytes": 51890,
+      "from": "895c page 4 — facade and form sketches"
+    },
+    {
+      "name": "04-timber-framework.webp",
+      "sha256": "90c9a703dd403870980c3240e56185329d70d67a672ac019f08ff79d9d9bdc6f",
+      "bytes": 14652,
+      "from": "895c page 4 — timber framework"
+    },
+    {
+      "name": "05-clay-curve-framework.webp",
+      "sha256": "2587f5d6b02fee916f83096fd8e7191c8823dd5f37d6cf82f2ac52bf51217167",
+      "bytes": 16248,
+      "from": "895c page 4 — clay curve framework"
+    },
+    {
+      "name": "06-coloured-film-test.webp",
+      "sha256": "8dd6d34d7400dd0f2601408f973669584b6e1b41283e11a4df89cf7bc3a3e358",
+      "bytes": 8118,
+      "from": "895c page 4 — coloured film test"
+    },
+    {
+      "name": "07-glass-tower-close-up.webp",
+      "sha256": "3604a8648e70987038c51d8c8a05da8d24a841d999cb2ba3eff7a87be789c947",
+      "bytes": 19752,
+      "from": "895c page 5 — tower close-up"
+    },
+    {
+      "name": "08-terrace-and-bridge.webp",
+      "sha256": "c66c8745340d33f277f62c55422dfafd734944abacb8541f04196ead8bb6fef2",
+      "bytes": 21154,
+      "from": "895c page 5 — terrace and bridge"
+    },
+    {
+      "name": "09-light-through-film.webp",
+      "sha256": "5cc0c67d27004627872b58b01b7e3447406ba64a9aaa688a143c76af724561c9",
+      "bytes": 35408,
+      "from": "895c page 5 — light through film"
+    },
+    {
+      "name": "10-curved-interior.webp",
+      "sha256": "43c6860c63ab055811f2c0cc6e04f48a836e948ce115c94592f90f8c5fe313c2",
+      "bytes": 25140,
+      "from": "895c page 5 — curved interior"
+    }
+  ]
+}
