@@ -49672,6 +49672,982 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Geometry in Flux",
+      "slug": "geometry-in-flux-concrete-and-metal-fusion-model",
+      "description": "Pure concrete geometry meets free-flowing metal curves in one model joined by corridors.\n\nModel making | Form and structure | Plywood, steel wire, concrete, iron mesh and metal-effect film | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "流動中的幾何",
+          "description": "純粹的混凝土幾何與自由流動的金屬曲線，在一座以廊道相連的模型中相遇。\n\n模型製作｜造型與結構｜夾板、鋼線、混凝土、鐵網與金屬質感膜｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/01-final-model.webp",
+        "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/02-form-sketches.webp",
+        "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/03-curve-sketch.webp",
+        "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/04-watercolour.webp",
+        "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/05-cast-rings.webp",
+        "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/06-corridor.webp",
+        "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/07-side-view.webp",
+        "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/08-drum-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished concrete and metal model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的混凝土與金屬模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wondered what happens when strict concrete geometry and free metal curves meet. The aim was to merge two opposite design languages without simply placing them side by side.",
+          "images": [
+            "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/02-form-sketches.webp"
+          ],
+          "captions": [
+            "Shapes pulled from solid geometry."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生好奇嚴謹的混凝土幾何與自由的金屬曲線相遇時會發生什麼。目標是融合兩種對立的設計語言，而非只是把它們並置。",
+              "captions": [
+                "從實體幾何中提取的形狀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Two precedents were studied, one for its solid cut-out forms and one for its flowing metal skins. Sketches pulled out basic shapes and simplified the curves into layers.",
+          "images": [
+            "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/03-curve-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of layered metal curves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究兩個先例，一個著重實體挖孔造型，一個著重流動的金屬表皮。草圖提取基本形狀，並把曲線簡化成層次。",
+              "captions": [
+                "層疊金屬曲線的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A watercolour tested how corridors could tie the solid pieces to the flowing parts. Concrete rings were then cast and joined with plywood, wire and metal film.",
+          "images": [
+            "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/04-watercolour.webp",
+            "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/05-cast-rings.webp"
+          ],
+          "captions": [
+            "Watercolour of the fused idea.",
+            "Cast concrete rings drying."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "水彩畫測試廊道如何把實體部分與流動部分串連。接著澆鑄混凝土環，並以夾板、金屬線與金屬膜結合。",
+              "captions": [
+                "融合構想的水彩畫。",
+                "正在乾燥的混凝土環。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model sets a pierced concrete drum on timber stilts beside a ring-topped tower. Corridors and curved metal roofs link them into one walkable piece.",
+          "images": [
+            "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/06-corridor.webp",
+            "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/07-side-view.webp",
+            "assets/board/geometry-in-flux-concrete-and-metal-fusion-model/08-drum-view.webp"
+          ],
+          "captions": [
+            "Inside the linking corridor.",
+            "Side view with timber struts.",
+            "The concrete drum on stilts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型把穿孔的混凝土圓筒架在木支柱上，旁邊是頂部有圓環的塔。廊道與彎曲的金屬屋頂把它們連成一個可穿行的整體。",
+              "captions": [
+                "連接廊道的內部。",
+                "帶木支柱的側面。",
+                "架高的混凝土圓筒。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick two opposite ideas.\n2. Extract their basic shapes.\n3. Find a linking element.\n4. Test it in real materials.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇兩個相反的概念。\n2. 提取它們的基本形狀。\n3. 找出連結的元素。\n4. 以真實材料測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Movement & Form",
+      "slug": "movement-and-form-dance-trajectory-stick-model",
+      "description": "The paths of two dancers become a tower of wooden strips and red and blue rods.\n\nModel making | Movement and space | Wooden sticks and plastic rods | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "動態與形體",
+          "description": "兩位舞者的軌跡，化為一座由木條與紅藍塑膠棒構成的塔。\n\n模型製作｜動態與空間｜木棒與塑膠棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/movement-and-form-dance-trajectory-stick-model/01-final-model.webp",
+        "assets/board/movement-and-form-dance-trajectory-stick-model/02-dance-sketches.webp",
+        "assets/board/movement-and-form-dance-trajectory-stick-model/03-path-sketch.webp",
+        "assets/board/movement-and-form-dance-trajectory-stick-model/04-trajectory-drawing.webp",
+        "assets/board/movement-and-form-dance-trajectory-stick-model/05-base-grid.webp",
+        "assets/board/movement-and-form-dance-trajectory-stick-model/06-hands-building.webp",
+        "assets/board/movement-and-form-dance-trajectory-stick-model/07-rods-added.webp",
+        "assets/board/movement-and-form-dance-trajectory-stick-model/08-top-detail.webp",
+        "assets/board/movement-and-form-dance-trajectory-stick-model/09-mid-detail.webp",
+        "assets/board/movement-and-form-dance-trajectory-stick-model/10-base-shadows.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/movement-and-form-dance-trajectory-stick-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished dance model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的舞蹈模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student asked how the movement of dancing bodies could become a 3D space. The goal was a sculptural model that feels like a fluid dance space.",
+          "images": [
+            "assets/board/movement-and-form-dance-trajectory-stick-model/02-dance-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of dancers in motion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生思考舞動身體的動作如何成為立體空間。目標是一座讓人感受到流動舞蹈空間的雕塑模型。",
+              "captions": [
+                "舞者動態的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Figure sketches marked joints and turns as dots and arcs. One path was then pulled out on its own to study its shape.",
+          "images": [
+            "assets/board/movement-and-form-dance-trajectory-stick-model/03-path-sketch.webp"
+          ],
+          "captions": [
+            "A single motion path."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "人物草圖把關節與轉身標記成點與弧線。接著單獨抽出一條軌跡，研究它的形狀。",
+              "captions": [
+                "單一動作軌跡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Single trajectories were built in 3D software, then combined, rotated and stretched into one drawing. Wooden strips set the frame and red and blue rods traced the two dancers.",
+          "images": [
+            "assets/board/movement-and-form-dance-trajectory-stick-model/04-trajectory-drawing.webp",
+            "assets/board/movement-and-form-dance-trajectory-stick-model/05-base-grid.webp",
+            "assets/board/movement-and-form-dance-trajectory-stick-model/06-hands-building.webp",
+            "assets/board/movement-and-form-dance-trajectory-stick-model/07-rods-added.webp"
+          ],
+          "captions": [
+            "Drawing of combined trajectories.",
+            "Setting sticks on a grid.",
+            "Building the frame by hand.",
+            "Red rods trace the paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "單一軌跡先在3D軟體中建立，再組合、旋轉與拉伸成一張圖。木條定出框架，紅藍棒材描繪兩位舞者。",
+              "captions": [
+                "組合軌跡的繪圖。",
+                "在格線上立起木棒。",
+                "親手搭建框架。",
+                "紅色棒材描出軌跡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model merges structure and motion into one expressive form with foil nodes at the joints. The fabric base records the dancers' shadows and extended paths.",
+          "images": [
+            "assets/board/movement-and-form-dance-trajectory-stick-model/08-top-detail.webp",
+            "assets/board/movement-and-form-dance-trajectory-stick-model/09-mid-detail.webp",
+            "assets/board/movement-and-form-dance-trajectory-stick-model/10-base-shadows.webp"
+          ],
+          "captions": [
+            "Upper part of the model.",
+            "Foil nodes and blue rods.",
+            "Shadows drawn on the fabric base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以關節處的鋁箔節點，把結構與動態融為一個有表現力的形體。布面底座記錄舞者的影子與延伸的軌跡。",
+              "captions": [
+                "模型上半部。",
+                "鋁箔節點與藍色棒材。",
+                "畫在布面底座上的影子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch real movement.\n2. Sketch it as lines.\n3. Combine paths digitally.\n4. Build the paths by hand.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察真實的動作。\n2. 以線條速寫。\n3. 以數位方式組合軌跡。\n4. 親手建造軌跡。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Dog Hill",
+      "slug": "dog-hill-canine-habitat-landscape-model",
+      "description": "A soft hill with caves and holes gives dogs and people a shared place to play.\n\nModel making | Landscape and habitat | Clay, pebbles, grass powder and artificial plants | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "狗狗山丘",
+          "description": "一座有洞穴與孔洞的柔和山丘，讓狗與人有共享的遊憩場所。\n\n模型製作｜地景與棲地｜黏土、卵石、草粉與人造植物｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/dog-hill-canine-habitat-landscape-model/01-hill-close-up.webp",
+        "assets/board/dog-hill-canine-habitat-landscape-model/02-watercolour.webp",
+        "assets/board/dog-hill-canine-habitat-landscape-model/03-route-map.webp",
+        "assets/board/dog-hill-canine-habitat-landscape-model/04-3d-model.webp",
+        "assets/board/dog-hill-canine-habitat-landscape-model/05-clay-shell.webp",
+        "assets/board/dog-hill-canine-habitat-landscape-model/06-textured-shell.webp",
+        "assets/board/dog-hill-canine-habitat-landscape-model/07-side-view.webp",
+        "assets/board/dog-hill-canine-habitat-landscape-model/08-caves-view.webp",
+        "assets/board/dog-hill-canine-habitat-landscape-model/09-flower-view.webp",
+        "assets/board/dog-hill-canine-habitat-landscape-model/10-top-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/dog-hill-canine-habitat-landscape-model/01-hill-close-up.webp"
+          ],
+          "captions": [
+            "Close-up of the hill with a figure and dog."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "人偶與狗在山丘旁的近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted a landscape where dogs and their owners can share space. The question was how terrain itself could invite play, rest and hiding.",
+          "images": [
+            "assets/board/dog-hill-canine-habitat-landscape-model/02-watercolour.webp"
+          ],
+          "captions": [
+            "Watercolour of the hill idea."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想打造一處讓狗與飼主共享的地景。問題是地形本身如何引發遊戲、休息與躲藏。",
+              "captions": [
+                "山丘構想的水彩畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student mapped how dogs move, sniff and stop along a route. These notes became a plan of paths and resting spots.",
+          "images": [
+            "assets/board/dog-hill-canine-habitat-landscape-model/03-route-map.webp"
+          ],
+          "captions": [
+            "Map of dog routes and stops."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生描繪狗沿路移動、嗅聞與停留的方式。這些筆記成為步道與休息點的平面。",
+              "captions": [
+                "狗狗路線與停留點的地圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Soft mounds were modelled in 3D to test sizes and openings. The forms were then built as hollow clay shells and given a rough stone texture.",
+          "images": [
+            "assets/board/dog-hill-canine-habitat-landscape-model/04-3d-model.webp",
+            "assets/board/dog-hill-canine-habitat-landscape-model/05-clay-shell.webp",
+            "assets/board/dog-hill-canine-habitat-landscape-model/06-textured-shell.webp"
+          ],
+          "captions": [
+            "3D study of the mounds.",
+            "Shaping the hollow clay shell.",
+            "The shell with a rough texture."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以3D建立柔和的土丘，測試尺度與開口。接著把造型做成中空黏土殼，並加上粗糙的石材質感。",
+              "captions": [
+                "土丘的3D研究。",
+                "塑造中空的黏土殼。",
+                "帶粗糙質感的外殼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final hill is full of caves and holes framed by grass, flowers and trees. Small figures of a person and a dog show how the hill is shared.",
+          "images": [
+            "assets/board/dog-hill-canine-habitat-landscape-model/07-side-view.webp",
+            "assets/board/dog-hill-canine-habitat-landscape-model/08-caves-view.webp",
+            "assets/board/dog-hill-canine-habitat-landscape-model/09-flower-view.webp",
+            "assets/board/dog-hill-canine-habitat-landscape-model/10-top-view.webp"
+          ],
+          "captions": [
+            "Side view of the hill.",
+            "Caves along the hill.",
+            "Flowers and pebbles at the base.",
+            "Top view of the whole site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的山丘布滿洞穴與孔洞，四周是草地、花與樹。人與狗的小人偶呈現山丘如何被共享。",
+              "captions": [
+                "山丘側面。",
+                "沿著山丘的洞穴。",
+                "底部的花與卵石。",
+                "整個基地的俯視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe the user, even an animal.\n2. Map their habits.\n3. Model soft forms digitally.\n4. Build and texture by hand.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察使用者，即使是動物。\n2. 描繪牠們的習慣。\n3. 以數位建立柔和形體。\n4. 親手建造並加上質感。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Silk Road",
+      "slug": "silk-road-woven-silk-thread-structure",
+      "description": "The lightness of silk is turned into a floating frame of woven curves.\n\nModel making | Culture and material | PLA, acrylic, hot-melt glue and silk | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "絲路",
+          "description": "把絲的輕盈轉化為一座由編織曲線構成的漂浮框架。\n\n模型製作｜文化與材料｜PLA、壓克力、熱熔膠與絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/silk-road-woven-silk-thread-structure/01-final-structure.webp",
+        "assets/board/silk-road-woven-silk-thread-structure/02-fabric-concept.webp",
+        "assets/board/silk-road-woven-silk-thread-structure/03-line-sketch.webp",
+        "assets/board/silk-road-woven-silk-thread-structure/04-cocoon-process.webp",
+        "assets/board/silk-road-woven-silk-thread-structure/05-frame-process.webp",
+        "assets/board/silk-road-woven-silk-thread-structure/06-form-steps.webp",
+        "assets/board/silk-road-woven-silk-thread-structure/07-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/silk-road-woven-silk-thread-structure/01-final-structure.webp"
+          ],
+          "captions": [
+            "The finished silk thread structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的絲線結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was moved by the ancient trade route and the silk carried along it. The question was how the lightness and weave of silk could become architecture.",
+          "images": [
+            "assets/board/silk-road-woven-silk-thread-structure/02-fabric-concept.webp"
+          ],
+          "captions": [
+            "Crumpled silk concept studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生被古老的貿易路線與沿途運送的絲綢所觸動。問題是絲的輕盈與編織如何成為建築。",
+              "captions": [
+                "揉皺的絲質概念研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Crumpled silk was photographed to study folds and light. Line sketches then traced how threads loop and overlap.",
+          "images": [
+            "assets/board/silk-road-woven-silk-thread-structure/03-line-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of looping thread lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生拍攝揉皺的絲，研究皺褶與光線。線條草圖接著描繪絲線如何環繞與重疊。",
+              "captions": [
+                "環繞線條的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Printed frames were tested with silk fibres and hot-melt glue. A sequence of digital steps grew a single loop into a layered curve frame.",
+          "images": [
+            "assets/board/silk-road-woven-silk-thread-structure/04-cocoon-process.webp",
+            "assets/board/silk-road-woven-silk-thread-structure/05-frame-process.webp",
+            "assets/board/silk-road-woven-silk-thread-structure/06-form-steps.webp"
+          ],
+          "captions": [
+            "Testing silk and printed frames.",
+            "Frame with silk fibres.",
+            "Steps from loop to layered form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以絲纖維與熱熔膠測試列印框架。一連串數位步驟把單一環形發展成層狀曲線框架。",
+              "captions": [
+                "測試絲與列印框架。",
+                "帶絲纖維的框架。",
+                "從環形到層狀造型的步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final work is a flowing curve frame that seems to float like a silk thread. It links craft, material and space as a dialogue between cultures.",
+          "images": [
+            "assets/board/silk-road-woven-silk-thread-structure/07-details.webp"
+          ],
+          "captions": [
+            "Close-ups of woven curves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終作品是一座彷彿絲線般漂浮的流動曲線框架。它把工藝、材料與空間連結成一場文化之間的對話。",
+              "captions": [
+                "編織曲線的近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a personal journey.\n2. Study one material closely.\n3. Translate it into lines.\n4. Build a light frame.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從個人的旅程出發。\n2. 仔細研究一種材料。\n3. 把它轉化為線條。\n4. 建造輕盈的框架。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Civic Stage: Performing Arts Complex",
+      "slug": "civic-stage-performing-arts-complex-renders",
+      "description": "A parking lot becomes an arts complex of stacked blocks and a spherical theatre.\n\nDigital design | Urban architecture | 3D modelling, rendering and watercolour | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市舞台：表演藝術綜合體",
+          "description": "一座停車場化身為由堆疊量體與球形劇場組成的藝術綜合體。\n\n數位設計｜城市建築｜3D建模、算圖與水彩｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/civic-stage-performing-arts-complex-renders/01-aerial-render.webp",
+        "assets/board/civic-stage-performing-arts-complex-renders/02-zoning-map.webp",
+        "assets/board/civic-stage-performing-arts-complex-renders/03-massing-steps.webp",
+        "assets/board/civic-stage-performing-arts-complex-renders/04-program-axo.webp",
+        "assets/board/civic-stage-performing-arts-complex-renders/05-front-view.webp",
+        "assets/board/civic-stage-performing-arts-complex-renders/06-street-view.webp",
+        "assets/board/civic-stage-performing-arts-complex-renders/07-watercolour.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/civic-stage-performing-arts-complex-renders/01-aerial-render.webp"
+          ],
+          "captions": [
+            "Aerial render of the complex."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "綜合體的鳥瞰算圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project turns a city parking lot into a complex for the arts, culture and learning. It asks how one building can bring students, artists and the public together.",
+          "images": [
+            "assets/board/civic-stage-performing-arts-complex-renders/02-zoning-map.webp"
+          ],
+          "captions": [
+            "Land-use map of the area."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專案把城市停車場改造成藝術、文化與學習的綜合體。它探討一座建築如何讓學生、藝術家與大眾聚在一起。",
+              "captions": [
+                "地區的土地使用圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied land use, routes and street life around the site. Simple block moves such as shifting, lifting and cutting were then tested.",
+          "images": [
+            "assets/board/civic-stage-performing-arts-complex-renders/03-massing-steps.webp"
+          ],
+          "captions": [
+            "Massing steps from block to cluster."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究基地周邊的土地使用、動線與街道生活。接著測試平移、抬升與切割等簡單的量體操作。",
+              "captions": [
+                "從方塊到群組的量體步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Four programmes were given their own blocks and colours: an academy, a civic hall, an innovation hub and a theatre. They were stacked so their edges overlap and open onto shared spaces.",
+          "images": [
+            "assets/board/civic-stage-performing-arts-complex-renders/04-program-axo.webp"
+          ],
+          "captions": [
+            "Colour-coded programme diagram."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "四種機能各自分配量體與顏色：學院、市民空間、創新中心與劇場。它們互相堆疊，讓邊緣重疊並通往共享空間。",
+              "captions": [
+                "以顏色標示的機能圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Renders show a raised performance deck and a spherical theatre forming a strong public landmark. A watercolour adds daylight and people to show an open, walkable arts campus.",
+          "images": [
+            "assets/board/civic-stage-performing-arts-complex-renders/05-front-view.webp",
+            "assets/board/civic-stage-performing-arts-complex-renders/06-street-view.webp",
+            "assets/board/civic-stage-performing-arts-complex-renders/07-watercolour.webp"
+          ],
+          "captions": [
+            "Front view of the arrival deck.",
+            "Street view with the theatre sphere.",
+            "Watercolour of the public plaza."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "算圖呈現抬高的表演平台與球形劇場構成鮮明的公共地標。水彩畫加入日光與人群，表現開放、適合步行的藝術園區。",
+              "captions": [
+                "入口平台的正面。",
+                "有球形劇場的街景。",
+                "公共廣場的水彩畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the site first.\n2. Test simple block moves.\n3. Give each use its own volume.\n4. Show it in render and paint.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先閱讀基地。\n2. 測試簡單的量體操作。\n3. 為每種用途分配量體。\n4. 以算圖與繪畫呈現。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Emerging Eco-Architecture",
+      "slug": "emerging-eco-architecture-stacked-frame-slope",
+      "description": "Square wooden frames climb a rocky slope like a structure growing out of the land.\n\nModel making | Architecture and nature | Wooden strips, white board and gravel | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "浮現的生態建築",
+          "description": "方形木框沿著岩坡攀升，彷彿從大地長出的結構。\n\n模型製作｜建築與自然｜木條、白板與碎石｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/emerging-eco-architecture-stacked-frame-slope/01-final-model.webp",
+        "assets/board/emerging-eco-architecture-stacked-frame-slope/02-watercolour.webp",
+        "assets/board/emerging-eco-architecture-stacked-frame-slope/03-line-sketch.webp",
+        "assets/board/emerging-eco-architecture-stacked-frame-slope/04-concept-modules.webp",
+        "assets/board/emerging-eco-architecture-stacked-frame-slope/05-frame-building.webp",
+        "assets/board/emerging-eco-architecture-stacked-frame-slope/06-gravel-detail-a.webp",
+        "assets/board/emerging-eco-architecture-stacked-frame-slope/07-gravel-detail-b.webp",
+        "assets/board/emerging-eco-architecture-stacked-frame-slope/08-side-view.webp",
+        "assets/board/emerging-eco-architecture-stacked-frame-slope/09-end-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/emerging-eco-architecture-stacked-frame-slope/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished frame structure on gravel."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "碎石上完成的框架結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was struck by recent natural disasters and saw them as a sign of nature under stress. The question was whether architecture could help restore balance between people and land.",
+          "images": [
+            "assets/board/emerging-eco-architecture-stacked-frame-slope/02-watercolour.webp"
+          ],
+          "captions": [
+            "Watercolour of the frame idea."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生被近年的天然災害所觸動，視之為自然承受壓力的訊號。問題是建築能否幫助恢復人與土地之間的平衡。",
+              "captions": [
+                "框架構想的水彩畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Two precedents were studied for how they blend with landscape and use repeated modules. Sketches turned these ideas into crossing frames.",
+          "images": [
+            "assets/board/emerging-eco-architecture-stacked-frame-slope/03-line-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of crossing frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究兩個先例如何融入地景並運用重複模組。草圖把這些概念轉化為交錯的框架。",
+              "captions": [
+                "交錯框架的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Small cube frames were made as concept modules. They were then stacked along a slope so the structure seems to rise from the rock.",
+          "images": [
+            "assets/board/emerging-eco-architecture-stacked-frame-slope/04-concept-modules.webp",
+            "assets/board/emerging-eco-architecture-stacked-frame-slope/05-frame-building.webp"
+          ],
+          "captions": [
+            "Small cube frame modules.",
+            "Frames stacked on the slope."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生製作小型立方框架作為概念模組。接著沿坡堆疊，使結構彷彿從岩石中升起。",
+              "captions": [
+                "小型立方框架模組。",
+                "沿坡堆疊的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model uses square frames as structure and slopes to create porosity. Flat platforms woven between them act as public spaces that grow from the rocky ground.",
+          "images": [
+            "assets/board/emerging-eco-architecture-stacked-frame-slope/06-gravel-detail-a.webp",
+            "assets/board/emerging-eco-architecture-stacked-frame-slope/07-gravel-detail-b.webp",
+            "assets/board/emerging-eco-architecture-stacked-frame-slope/08-side-view.webp",
+            "assets/board/emerging-eco-architecture-stacked-frame-slope/09-end-view.webp"
+          ],
+          "captions": [
+            "Frames meeting the gravel.",
+            "Close-up of the joints.",
+            "Side view on the white base.",
+            "End view with platforms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以方形框架為結構，並以坡度創造孔隙。穿插其間的平台成為從岩地長出的公共空間。",
+              "captions": [
+                "框架與碎石相接。",
+                "接點的近景。",
+                "白色底座上的側面。",
+                "帶平台的端景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a real concern.\n2. Study how others answer it.\n3. Design one repeatable module.\n4. Grow it across the site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從真實的關注出發。\n2. 研究他人如何回應。\n3. 設計一個可重複的模組。\n4. 讓它在基地上生長。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Streamlined High-rise",
+      "slug": "streamlined-high-rise-parametric-tower",
+      "description": "A stack of distorted ellipses grows into a porous, layered tower through a visual script.\n\nDigital design | Parametric tower | Visual scripting and 3D modelling | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "流線高層建築",
+          "description": "一疊變形的橢圓透過視覺化程式長成多孔、層疊的塔。\n\n數位設計｜參數化高塔｜視覺化程式與3D建模｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/streamlined-high-rise-parametric-tower/01-tower-render.webp",
+        "assets/board/streamlined-high-rise-parametric-tower/02-array-and-scale.webp",
+        "assets/board/streamlined-high-rise-parametric-tower/03-surface-and-colour.webp",
+        "assets/board/streamlined-high-rise-parametric-tower/04-script.webp",
+        "assets/board/streamlined-high-rise-parametric-tower/05-loft-and-mesh.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/streamlined-high-rise-parametric-tower/01-tower-render.webp"
+          ],
+          "captions": [
+            "The finished layered tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的層疊高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project explores how rules can shape a high-rise instead of drawing it by hand. It asks whether simple geometry can produce an organic, flowing tower skin.",
+          "images": [
+            "assets/board/streamlined-high-rise-parametric-tower/02-array-and-scale.webp"
+          ],
+          "captions": [
+            "Ellipse array, mapping and random scale."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專案探討如何以規則而非手繪來塑造高樓。它思考簡單的幾何能否產生有機、流動的塔樓表皮。",
+              "captions": [
+                "橢圓陣列、映射與隨機縮放。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A single ellipse was arrayed upward, then distorted with mapping and random scaling. Surfaces and colours were added to preview the stack.",
+          "images": [
+            "assets/board/streamlined-high-rise-parametric-tower/03-surface-and-colour.webp"
+          ],
+          "captions": [
+            "Surfaces and colour preview."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "單一橢圓向上陣列，再以映射與隨機縮放加以變形。學生加上曲面與顏色來預覽堆疊效果。",
+              "captions": [
+                "曲面與顏色預覽。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A visual script links every step so one change updates the whole tower. The curves were rebuilt, lofted, subdivided into a mesh and merged into two layers.",
+          "images": [
+            "assets/board/streamlined-high-rise-parametric-tower/04-script.webp",
+            "assets/board/streamlined-high-rise-parametric-tower/05-loft-and-mesh.webp"
+          ],
+          "captions": [
+            "The visual script.",
+            "Rebuild, loft, mesh and merge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "視覺化程式串連每個步驟，改動一處就更新整座塔。曲線經過重建、放樣、細分成網格，再合併成兩層。",
+              "captions": [
+                "視覺化程式。",
+                "重建、放樣、網格與合併。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final tower reads like layers of rock built up over time. It shows how a clear digital workflow can lead to expressive yet buildable facades.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的塔看起來像長年堆積的岩層。它展示清楚的數位流程如何帶來有表現力又可建造的立面。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one curve.\n2. Change one rule at a time.\n3. Link steps in a script.\n4. Merge the best layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一條曲線開始。\n2. 一次改變一條規則。\n3. 以程式串連步驟。\n4. 合併最佳的層次。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
