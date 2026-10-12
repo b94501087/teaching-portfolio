@@ -20296,6 +20296,145 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Behind the Wall",
+      "slug": "behind-the-wall-riverside-park",
+      "description": "Turning a walled-off riverside site into a park of lawns, wetland, forest and orchard.\n\nSaint Petersburg, Russia | Landscape | Park renovation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "藍牆之後",
+          "description": "把被圍牆封閉的河畔基地，改造成擁有草坪、濕地、森林與果園的公園。\n\n俄羅斯聖彼得堡｜景觀｜公園改造｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/behind-the-wall-riverside-park/01-park-master-plan.webp",
+        "assets/board/behind-the-wall-riverside-park/02-transport-planting-coast.webp",
+        "assets/board/behind-the-wall-riverside-park/03-sustainable-programs.webp",
+        "assets/board/behind-the-wall-riverside-park/04-design-process-sketches.webp",
+        "assets/board/behind-the-wall-riverside-park/05-green-wall-detail.webp",
+        "assets/board/behind-the-wall-riverside-park/06-dance-palace-garden.webp",
+        "assets/board/behind-the-wall-riverside-park/07-seasonal-squares.webp",
+        "assets/board/behind-the-wall-riverside-park/08-vegetation-analysis.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/behind-the-wall-riverside-park/01-park-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan of the park by the river, from the green wall to the orchard farm."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "河畔公園的總平面圖，從綠牆到果園農場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "For many years this riverside site was surrounded by blue iron walls and went through a lot of construction and demolition. People in the surrounding communities knew little about what lay behind the wall, but they still hoped it could become a green, comfortable and beautiful park.",
+          "images": [
+            "assets/board/behind-the-wall-riverside-park/02-transport-planting-coast.webp"
+          ],
+          "captions": [
+            "Public transport, current planting, the coastal water situation and circulation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "多年來，這塊河畔基地一直被藍色鐵皮圍牆包圍，經歷了多次興建與拆除。周邊社區的居民對牆後的土地所知甚少，卻仍希望它能成為一座綠意盎然、舒適又美麗的公園。",
+              "captions": [
+                "大眾運輸、現況植栽、沿岸水域狀況與動線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The analysis showed that the site sits at a fork in the road with convenient transport, which makes it suitable for people to walk and go sightseeing. The student also planned sustainable programmes for outdoor comfort, materials, emissions, climate resilience and social life.",
+          "images": [
+            "assets/board/behind-the-wall-riverside-park/03-sustainable-programs.webp",
+            "assets/board/behind-the-wall-riverside-park/04-design-process-sketches.webp"
+          ],
+          "captions": [
+            "Sustainable programme planning and development.",
+            "Design process sketches, from zoning bubbles to the latest draft."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "分析顯示，基地位於道路分岔處，交通便利，適合人們散步與觀光。學生也針對戶外舒適度、材料、排放、氣候韌性與社會生活，規劃了永續計畫。",
+              "captions": [
+                "永續計畫的規劃與發展。",
+                "設計過程草圖：從分區泡泡圖到最新草案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Through the design process, the student found that plants shape a park through their height, density, light and darkness, and seasons, and used these to divide its spaces. The original blue iron wall on one side was turned into a green ornamental slope with progressive plants.",
+          "images": [
+            "assets/board/behind-the-wall-riverside-park/05-green-wall-detail.webp",
+            "assets/board/behind-the-wall-riverside-park/06-dance-palace-garden.webp"
+          ],
+          "captions": [
+            "The green wall replacing the old iron wall, with its construction detail.",
+            "Section and plan of the quiet dance palace garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在設計過程中，學生發現植物會透過高度、密度、明暗與季節影響公園，並以此劃分公園的空間。基地一側原有的藍色鐵皮牆，被改造成種植層次植物的綠色觀賞斜坡。",
+              "captions": [
+                "取代舊鐵皮牆的綠牆與構造細部。",
+                "安靜的舞蹈宮花園剖面與平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The park links a green wall, great lawn, grassland slope, wetland, boat-shaped platform, dance palace garden, forest walk and orchard farm. Two squares beside the dance palace show different scenery in each season, from blossoms in late spring to warm colours in mid autumn.",
+          "images": [
+            "assets/board/behind-the-wall-riverside-park/07-seasonal-squares.webp",
+            "assets/board/behind-the-wall-riverside-park/08-vegetation-analysis.webp"
+          ],
+          "captions": [
+            "The south square in late spring and the north square in mid autumn.",
+            "Vegetation analysis of tree heights across the park."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "公園串連了綠牆、大草坪、草坡、濕地、船形平台、舞蹈宮花園、森林步道與果園農場。舞蹈宮兩側的兩座廣場在不同季節呈現不同景色，從晚春的花開到仲秋的暖色。",
+              "captions": [
+                "晚春的南廣場與仲秋的北廣場。",
+                "公園樹木高度的植栽分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask what people hope for.\n2. Read the site's flows and edges.\n3. Let plants divide the space.\n4. Design for every season.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 了解人們的期待。\n2. 解讀基地的動線與邊界。\n3. 讓植物劃分空間。\n4. 為每個季節而設計。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
