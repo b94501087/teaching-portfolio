@@ -1,0 +1,67 @@
+{
+  "project": "Tartu Cultural Centre",
+  "dest": "assets/board/tartu-folded-cultural-centre",
+  "note": "Portfolio 5b5b pages 2-5 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the cover, title text with instructor name, the project text and the map legend.",
+  "files": [
+    {
+      "name": "01-folded-cultural-centre.webp",
+      "sha256": "23ccbc4c961596a13ce0ed041f9daebd40be4701e2794c09c34d902f155dce70",
+      "bytes": 167618,
+      "from": "5b5b page 2 — cultural centre render"
+    },
+    {
+      "name": "02-sculpted-form-render.webp",
+      "sha256": "ec6ce497de275e5b8c1b57443c3939cfc11be5591fe6566c73de3cd442af3e64",
+      "bytes": 9392,
+      "from": "5b5b page 2 — sculpted form render"
+    },
+    {
+      "name": "03-site-analysis.webp",
+      "sha256": "32119a1871813c1059c84de025c44257da0760116c0c6264a78c6ffaa9d31225",
+      "bytes": 37516,
+      "from": "5b5b page 3 — site and movement maps"
+    },
+    {
+      "name": "04-form-studies.webp",
+      "sha256": "17b2041b7647d9097a5c3dd4a08762fff2484b780a1159d6dceef777907667c8",
+      "bytes": 53146,
+      "from": "5b5b page 3 — morphological study"
+    },
+    {
+      "name": "05-exploded-axonometric.webp",
+      "sha256": "b593af236b72b2dbb651401cd5e07d8c74b108265d506a301b334a6ca11fc887",
+      "bytes": 67464,
+      "from": "5b5b page 3 — exploded axonometric"
+    },
+    {
+      "name": "06-form-and-model.webp",
+      "sha256": "a9b786dc6e5425a75179379cc0ac3147f42dce513f5138b15312d2bf7cb9dcd6",
+      "bytes": 82796,
+      "from": "5b5b page 4 — form diagram and physical model"
+    },
+    {
+      "name": "07-model-detail.webp",
+      "sha256": "9e788a1f042ec190f640153a9ea5b53331870fa36ec9327fa1d9a3a8ea24e630",
+      "bytes": 94174,
+      "from": "5b5b page 4 — model detail"
+    },
+    {
+      "name": "08-floor-plan.webp",
+      "sha256": "770414d7e81e5c647d17d8b21ffe53f5bcb8fda51b80039678c0299ad440dd39",
+      "bytes": 116226,
+      "from": "5b5b page 5 — floor plan"
+    },
+    {
+      "name": "09-section.webp",
+      "sha256": "73fa62b8a1cab0e443bf99d995347d57aeefb48d9ee49530c594c7e59382ff66",
+      "bytes": 105024,
+      "from": "5b5b page 5 — section"
+    },
+    {
+      "name": "10-interior-views.webp",
+      "sha256": "3683061596dd859a30e950f0fc7de837e5b412be771d64311568d0e61269a1a8",
+      "bytes": 67494,
+      "from": "5b5b page 5 — interior views"
+    }
+  ]
+}
