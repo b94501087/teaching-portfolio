@@ -1,0 +1,61 @@
+{
+  "project": "Occupying the Void",
+  "dest": "assets/board/occupying-the-void-fruit-market",
+  "note": "Portfolio 734e pages 18-23 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title page photo render with shop signs, the site photos and timeline photos, the survey page naming a district group, the weekly schedule with photos of vendors, the shophouse prototype with a shop sign, the footbridge and greenhouse renders with people and the body text.",
+  "files": [
+    {
+      "name": "01-market-rooftop-aerial.webp",
+      "sha256": "1a0301008de83f38f0a920c3772ab30963941edcb1bd8759e3d7deb9fa52457f",
+      "bytes": 122502,
+      "from": "734e page 23 — aerial render of the market roof"
+    },
+    {
+      "name": "02-site-analysis-map.webp",
+      "sha256": "c6529bd8fa0964cf008d91b7b409edf45c09d18a37c5c63c897df695f77a3c5f",
+      "bytes": 164170,
+      "from": "734e page 18 — site analysis map"
+    },
+    {
+      "name": "04-nighttime-distribution-section.webp",
+      "sha256": "475e3a80a629274c222ec3ca7a30a890a5fc053baa950422b9b973ff466e21ed",
+      "bytes": 95214,
+      "from": "734e page 21 — nighttime distribution section"
+    },
+    {
+      "name": "05-truck-routes.webp",
+      "sha256": "2a82d15ba588a25f3b01058bcafec1b0344da5af9b8d5d358252d05546735105",
+      "bytes": 136090,
+      "from": "734e page 21 — truck route diagrams"
+    },
+    {
+      "name": "06-floor-plans.webp",
+      "sha256": "89c4cfeea1d395280e8924bfbe08fba25153c538417015f058033267c1bd17c0",
+      "bytes": 289074,
+      "from": "734e page 22 — floor plans"
+    },
+    {
+      "name": "07-greenhouse-shell.webp",
+      "sha256": "ea6924c070a4769af319b04f3c03c6d4a6495d3feb7f283eb3d595c3679972f6",
+      "bytes": 64820,
+      "from": "734e page 22 — greenhouse shell layers"
+    },
+    {
+      "name": "08-long-section.webp",
+      "sha256": "f1b5f9eb306389eced7881b31325fe9e4e580a5208e08126dcf8eb0c13dc22ca",
+      "bytes": 204524,
+      "from": "734e page 23 — long section"
+    },
+    {
+      "name": "09-cross-section.webp",
+      "sha256": "e5054901700363cf9539218981365e767a3592fea59bcb5a3e409c5bb1ca2c70",
+      "bytes": 222470,
+      "from": "734e page 23 — cross section"
+    },
+    {
+      "name": "10-key-metrics.webp",
+      "sha256": "195c81662d572a4ed872c686c6a8ac8bc5e614fb71cc20343218ebba57667f45",
+      "bytes": 97328,
+      "from": "734e page 23 — key metrics and targets"
+    }
+  ]
+}
