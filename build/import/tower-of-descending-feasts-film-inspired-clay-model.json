@@ -1,0 +1,55 @@
+{
+  "project": "Tower of Descending Feasts",
+  "dest": "assets/board/tower-of-descending-feasts-film-inspired-clay-model",
+  "note": "Portfolio f312 pages 14-15 cropped to eight images, WebP q88 (PIL). Not used: title and text (film, director names), a film title frame, a film still, process photos showing hands.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "36a409c0c3736faecf32712ba682d01c5c2d2e1f6092c4d072dffb24481b4c7e",
+      "bytes": 168470,
+      "from": "f312 page 15 — final tower"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "48db9064ddc969468d7d074855d2d9d9f2533db601baaf06955e7698e91bc469",
+      "bytes": 62672,
+      "from": "f312 page 14 — concept sketch"
+    },
+    {
+      "name": "03-film-feast.webp",
+      "sha256": "752d3815f00cda166ca95e23c345d16988da73a2f80c42bdbd173f366ee2d551",
+      "bytes": 22998,
+      "from": "f312 page 14 — film feast"
+    },
+    {
+      "name": "04-film-leftovers.webp",
+      "sha256": "fe2c1d97a99f16890cc484fc34b9c3d20a369a4d62dde8f5aa6dcba31b7284d3",
+      "bytes": 28486,
+      "from": "f312 page 14 — film leftovers"
+    },
+    {
+      "name": "05-film-platform.webp",
+      "sha256": "b500bb0e7f4c7bb08258d382bfbfda222e5b1c40112192fcb928bbe2a4c7ee00",
+      "bytes": 12032,
+      "from": "f312 page 14 — film platform"
+    },
+    {
+      "name": "06-middle-level.webp",
+      "sha256": "00987aff933bac10eaa50fde8888795de2ca8211dd4a6590e2b075b67aec4915",
+      "bytes": 51668,
+      "from": "f312 page 15 — middle level"
+    },
+    {
+      "name": "07-dome-top.webp",
+      "sha256": "d060e0c7c12739d9d9a2e399d49e4c6855dca73d33f031ef88ab9a6b17022252",
+      "bytes": 33932,
+      "from": "f312 page 15 — dome top"
+    },
+    {
+      "name": "08-lower-level.webp",
+      "sha256": "fa05eca246333bd0e7db267caf1ff8df7575e4cd711458f941c1bceb297e063d",
+      "bytes": 85816,
+      "from": "f312 page 15 — lower level"
+    }
+  ]
+}
