@@ -1,0 +1,67 @@
+{
+  "project": "Movement & Form",
+  "dest": "assets/board/movement-and-form-dance-trajectory-stick-model",
+  "note": "Portfolio b66d pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "94862121278f6742aff27dc86572afc9d2df4ba4ce54d34c7c7a945c4bbee623",
+      "bytes": 145810,
+      "from": "b66d page 7 — final model"
+    },
+    {
+      "name": "02-dance-sketches.webp",
+      "sha256": "d024395b15dd78ee78974bffaedd226c9e285e2c349e1d1837fa39bca25255b6",
+      "bytes": 20402,
+      "from": "b66d page 6 — dance sketches"
+    },
+    {
+      "name": "03-path-sketch.webp",
+      "sha256": "389f44ba40993cc4471611dd1bedecac1bcad66f202b5505f823ee1a53317401",
+      "bytes": 3230,
+      "from": "b66d page 6 — path sketch"
+    },
+    {
+      "name": "04-trajectory-drawing.webp",
+      "sha256": "a4c35214ba3291505c1b7adca3e5cf913f419545f4cf84d2eb577ad81eeefb1a",
+      "bytes": 45394,
+      "from": "b66d page 6 — trajectory drawing"
+    },
+    {
+      "name": "05-base-grid.webp",
+      "sha256": "b9a28b354a2693d4672d85c79d4f53f2516fd2aa1f60d851bb48560311895f5c",
+      "bytes": 13674,
+      "from": "b66d page 6 — base grid"
+    },
+    {
+      "name": "06-hands-building.webp",
+      "sha256": "974be9c50569e6fca7b35f64769216d4e322dbb8499623a707d1b68cd38ec38a",
+      "bytes": 16752,
+      "from": "b66d page 6 — hands building"
+    },
+    {
+      "name": "07-rods-added.webp",
+      "sha256": "92fec9a5d0001dd0e54b57f4f7836df71aecbf64789a2d1e2cc85abc52c92670",
+      "bytes": 28852,
+      "from": "b66d page 6 — rods added"
+    },
+    {
+      "name": "08-top-detail.webp",
+      "sha256": "ec6e92c1c7e869d632ab22f55916e7e7c5f46baab9a027bce62e48d7b088e2d7",
+      "bytes": 22188,
+      "from": "b66d page 7 — top detail"
+    },
+    {
+      "name": "09-mid-detail.webp",
+      "sha256": "342efbb13e58368d7eed951afc056fe2bc86f3cbaccc19b3a58f28d8f80ffa3c",
+      "bytes": 24326,
+      "from": "b66d page 7 — mid detail"
+    },
+    {
+      "name": "10-base-shadows.webp",
+      "sha256": "46a9897aa9c9e6e7f2a7c66e3afe4e53de944eff71854ec7b87d384a3ec7c127",
+      "bytes": 21054,
+      "from": "b66d page 7 — base shadows"
+    }
+  ]
+}
