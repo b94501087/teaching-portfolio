@@ -1,0 +1,37 @@
+{
+  "project": "Continuum",
+  "dest": "assets/board/continuum-carved-torus-tower-render",
+  "note": "Portfolio 0687 page 2 cropped to five images, WebP q88 (PIL). Not used: title and text, program name.",
+  "files": [
+    {
+      "name": "01-tower-render.webp",
+      "sha256": "36e3132656f1cfe4e46cc9c7557004518761f3bcd0cdb7593d58f24bc6a0953e",
+      "bytes": 20474,
+      "from": "0687 page 2 — tower render"
+    },
+    {
+      "name": "02-generation-steps.webp",
+      "sha256": "f28d9bb46d32558921110cac8720dd427924dab9ffa8da9cab2863a841fd7015",
+      "bytes": 7082,
+      "from": "0687 page 2 — generation steps"
+    },
+    {
+      "name": "03-section.webp",
+      "sha256": "be198e4d8e3b0725c09a07f535266dad67c710c27eb8d9f35e5c40244cff66e4",
+      "bytes": 27856,
+      "from": "0687 page 2 — section"
+    },
+    {
+      "name": "04-rotation-projection.webp",
+      "sha256": "392ceba46f441138cdc6f305f0eecc9d839862a4dcb5239d3441ad183a191a51",
+      "bytes": 18272,
+      "from": "0687 page 2 — rotation projection"
+    },
+    {
+      "name": "05-rotation-projection-plan.webp",
+      "sha256": "e5d4acc69880465c4b9dac822248369809868c8f492e6501f39da3d379b413f6",
+      "bytes": 22764,
+      "from": "0687 page 2 — rotation projection plan"
+    }
+  ]
+}
