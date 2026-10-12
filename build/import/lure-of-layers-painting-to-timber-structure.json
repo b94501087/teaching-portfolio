@@ -1,0 +1,67 @@
+{
+  "project": "The Lure of Layers",
+  "dest": "assets/board/lure-of-layers-painting-to-timber-structure",
+  "note": "Portfolio 895c pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: title and text, the source painting and its overlay images, two fabrication photos.",
+  "files": [
+    {
+      "name": "01-suspended-timber-model.webp",
+      "sha256": "70bf5ae4e995ea7e778b9519fae03774f563b7bc5ea27197f7cfbe30f35d576c",
+      "bytes": 67192,
+      "from": "895c page 9 — final model"
+    },
+    {
+      "name": "02-angular-line-extraction.webp",
+      "sha256": "ab40d58786f2f2b337b6b01fb7a058f021759b52a43fa1fa2a92fff4b9dc267e",
+      "bytes": 9102,
+      "from": "895c page 8 — angular line extraction"
+    },
+    {
+      "name": "03-fluid-curve-extraction.webp",
+      "sha256": "5474be2569108885b2a390a84207cc24952a26823adc892b0b37ed203c1d8a59",
+      "bytes": 19502,
+      "from": "895c page 8 — fluid curve extraction"
+    },
+    {
+      "name": "04-layered-line-model.webp",
+      "sha256": "197faa44c476395fdfaa0fd2a63e58230e1a842b5b04ebcc3e568e9a5587659f",
+      "bytes": 5528,
+      "from": "895c page 8 — layered line model"
+    },
+    {
+      "name": "05-gridded-plan-model.webp",
+      "sha256": "8c2e73a4268705d88d5b9e81294dab0139120a54e7be9f34d57742d355539c41",
+      "bytes": 7924,
+      "from": "895c page 8 — gridded plan model"
+    },
+    {
+      "name": "06-timber-frame-assembly.webp",
+      "sha256": "b3dfd8aee4c51cabb47ac068961004eddb93e3d9b922dcd4f756c6ea7abf81f6",
+      "bytes": 16706,
+      "from": "895c page 8 — timber frame assembly"
+    },
+    {
+      "name": "07-gridded-base-making.webp",
+      "sha256": "751e11b9df8014750ef23794de5d493910dec6a6efed3bfd98320a9ddfef73b6",
+      "bytes": 15972,
+      "from": "895c page 8 — gridded base making"
+    },
+    {
+      "name": "08-water-surface-detail.webp",
+      "sha256": "29cbb18ef4ed2c3c90c24b351b7e2b17272f48fd8487e754e18b16b815e34575",
+      "bytes": 24982,
+      "from": "895c page 9 — water surface detail"
+    },
+    {
+      "name": "09-cement-forms-in-frame.webp",
+      "sha256": "cd76cc565010ce8f590377502c293641a72a524cd4b7f2de1fb6e05918d97609",
+      "bytes": 29804,
+      "from": "895c page 9 — cement forms in the frame"
+    },
+    {
+      "name": "10-elevation-view.webp",
+      "sha256": "0b2b9ff51645b58de1c7181d67784868ba50f267a42272b642f3b68ffee2035c",
+      "bytes": 22210,
+      "from": "895c page 9 — elevation view"
+    }
+  ]
+}
