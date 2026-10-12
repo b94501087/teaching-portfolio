@@ -1,0 +1,67 @@
+{
+  "project": "The Ghost Net",
+  "dest": "assets/board/ghost-net-marine-pollution-tide-model",
+  "note": "Portfolio e7c5 pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: title and text, net drawing, reference photo of a net.",
+  "files": [
+    {
+      "name": "01-tank-model.webp",
+      "sha256": "f671a1933334829fd5f19797595147d9f652dde49a7237ee3aad8da27760c9ea",
+      "bytes": 56832,
+      "from": "e7c5 page 9 — tank model"
+    },
+    {
+      "name": "02-hook-detail.webp",
+      "sha256": "4d9fc81d16b116174a167dd714e1b104f765502f2a4331e47482632e64a628e8",
+      "bytes": 5258,
+      "from": "e7c5 page 9 — hook detail"
+    },
+    {
+      "name": "03-cage-detail.webp",
+      "sha256": "5c04c5cbab4f169e7c721441ad7d45eeb32e31d46234cb924cc7b03cff120d80",
+      "bytes": 9622,
+      "from": "e7c5 page 9 — cage detail"
+    },
+    {
+      "name": "04-bottle-detail.webp",
+      "sha256": "fc15d36c8670f1f899f613678cb8a8605ad2003483b2fcfe3dfb1c683b0a1487",
+      "bytes": 4656,
+      "from": "e7c5 page 9 — bottle detail"
+    },
+    {
+      "name": "05-seabed-stones.webp",
+      "sha256": "96cd5257b1c256794b35b5c529481c7cb945401fba60e4ffe116b965770e09e6",
+      "bytes": 37558,
+      "from": "e7c5 page 9 — seabed stones"
+    },
+    {
+      "name": "06-seabed-debris.webp",
+      "sha256": "2d47506f92327735695a548cf88f289d413ca652882b2d17d47fd60eb37147a5",
+      "bytes": 19984,
+      "from": "e7c5 page 9 — seabed debris"
+    },
+    {
+      "name": "07-shoreline-view.webp",
+      "sha256": "b0ef99d0dfee8b0068a2b576b45d442d5579208dba5bec48c5f0ccf6f7c3679a",
+      "bytes": 43634,
+      "from": "e7c5 page 9 — shoreline view"
+    },
+    {
+      "name": "08-experiment-setup.webp",
+      "sha256": "6014b8d2d09af3a4da1ea9ed780f856a9d8bb16fb298811717053a4d05738703",
+      "bytes": 15612,
+      "from": "e7c5 page 8 — experiment setup"
+    },
+    {
+      "name": "09-low-tide.webp",
+      "sha256": "7cd4125cbdf0020064ac8ec79f7f3c81fe0777caa0d6694cec3f2d22062083cb",
+      "bytes": 11804,
+      "from": "e7c5 page 8 — low tide"
+    },
+    {
+      "name": "10-high-tide.webp",
+      "sha256": "aeed9b718867c940cf0a616cf764aad3ef62da00a94f933e2def9250cf53f6e9",
+      "bytes": 12736,
+      "from": "e7c5 page 8 — high tide"
+    }
+  ]
+}
