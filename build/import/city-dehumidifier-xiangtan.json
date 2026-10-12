@@ -1,0 +1,67 @@
+{
+  "project": "The City Dehumidifier",
+  "dest": "assets/board/city-dehumidifier-xiangtan",
+  "note": "Portfolio 4439 pages 2–6 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text, the photo panels of diseases, organs and local users, the interior renders with photo people, the skylight detail, the pool render and the body text.",
+  "files": [
+    {
+      "name": "01-dehumidifier-model.webp",
+      "sha256": "a19005d528c98ab8231e8772f22eedc7ef3bde10b4e3115440dd16c2790fe9fb",
+      "bytes": 121080,
+      "from": "4439 page 2 — photo of the dehumidifier model with its timber grille, x 0–62 %, y 0–100 %"
+    },
+    {
+      "name": "02-airflow-section.webp",
+      "sha256": "f60e768a41a638262d7338ebd50eadd1a27e6832d8346c86828f09fe86a23fde",
+      "bytes": 40556,
+      "from": "page 2 — section of moist and dry air flow, x 67–93 %, y 10–49 %"
+    },
+    {
+      "name": "03-prototype-space-models.webp",
+      "sha256": "5122f5dbdd5c9a5e83cb1a97a6121bce24ac4c4d969261697b438f6fc745a51f",
+      "bytes": 62274,
+      "from": "page 3 — prototype space deduction models and sketches, x 0–100 %, y 80–99 %"
+    },
+    {
+      "name": "04-model-sun-study.webp",
+      "sha256": "bfe2c46f0607bafe2a9e7f21b34f5cb6a7ab7b1919601f6e2c932b3b8ef069ed",
+      "bytes": 101138,
+      "from": "page 4 — model perspective and summer/winter sunshine study, x 0–62 %, y 6–31 %"
+    },
+    {
+      "name": "05-dehumidification-model.webp",
+      "sha256": "20dac504a1615c4e56ddbb4ff83768dd0ff913f2e169ac4ae05bda23661d87ea",
+      "bytes": 170174,
+      "from": "page 4 — sectional dehumidification model with air paths, x 12–83 %, y 41–99 %"
+    },
+    {
+      "name": "06-floor-plans.webp",
+      "sha256": "495c76cdf7b9857725788f02fadf682afcff70295c7c3a3b1e14a1df792cbe1d",
+      "bytes": 145686,
+      "from": "page 5 — floor plans, x 0–30 %, y 0–100 %"
+    },
+    {
+      "name": "07-sections.webp",
+      "sha256": "14d05c3da1d7e657e9172cf9b6079ec41f67d094aa6119e8d3b47159d28858dd",
+      "bytes": 143110,
+      "from": "page 5 — sections A and B, x 31–100 %, y 3–33 %"
+    },
+    {
+      "name": "08-exploded-view.webp",
+      "sha256": "bea7ce7f03758558c2590cd58712fe2dbc2184010c50eb2bea2978fc809e46a7",
+      "bytes": 199846,
+      "from": "page 5 — exploded view of the programme, x 31–72.5 %, y 43–100 %"
+    },
+    {
+      "name": "09-vertical-section.webp",
+      "sha256": "41efb09d81f28a0f0e7889afcd85b3d545e0b9372b1e39e3be9209eda3c7956d",
+      "bytes": 67450,
+      "from": "page 6 — detailed vertical section of the pool wall, x 0–35 %, y 5–66 %"
+    },
+    {
+      "name": "10-wall-section.webp",
+      "sha256": "cfb33fa08cfcad4e9f58dd12b28fe1a60717e1382e826443fb5bcc96d21800ee",
+      "bytes": 106324,
+      "from": "page 6 — wall section with the aerial-root air layer, x 70.5–100 %, y 5.5–97.5 %"
+    }
+  ]
+}
