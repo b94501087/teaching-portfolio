@@ -1,0 +1,67 @@
+{
+  "project": "Life & Preservation",
+  "dest": "assets/board/life-and-preservation-floating-village-memorial",
+  "note": "Portfolio 895c pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, fishing-village photo, painting process photo, underwater sculpture reference photos, one dark detail view.",
+  "files": [
+    {
+      "name": "01-floating-memorial-model.webp",
+      "sha256": "be86d98aa57da72a51b291692eec24788e830ac0c5f07f4415002baebfede1c5",
+      "bytes": 70556,
+      "from": "895c page 3 — final model"
+    },
+    {
+      "name": "02-elevation-sketch.webp",
+      "sha256": "806774877abee9569a15d971989456d7a08d224407c2bf0887054c6b532c4497",
+      "bytes": 27734,
+      "from": "895c page 2 — elevation sketch"
+    },
+    {
+      "name": "03-frame-structure-process.webp",
+      "sha256": "20a8cdc2e1a31979547cd8cf1151ad886d71916856de55fce283bdd60754c3d7",
+      "bytes": 11438,
+      "from": "895c page 2 — frame structure process"
+    },
+    {
+      "name": "04-cross-bracing-prototype.webp",
+      "sha256": "743b0ffe3140761acf6a2d3fe095b02d8f2cb2cb78e1419bb812dd2350d981c6",
+      "bytes": 10004,
+      "from": "895c page 2 — cross-bracing prototype"
+    },
+    {
+      "name": "05-net-mesh-plinth.webp",
+      "sha256": "798d721f646ae9d4acc77ac58d2caec5bdca94d52ab0fa379b577cbe1bf0e199",
+      "bytes": 12910,
+      "from": "895c page 2 — net and mesh plinth"
+    },
+    {
+      "name": "06-hanging-fleet-system.webp",
+      "sha256": "0f67d23d0a53f37b1cc430305713ec31f7d178a3fb2c5d439e3478ae80cf33e5",
+      "bytes": 9556,
+      "from": "895c page 2 — hanging fleet system"
+    },
+    {
+      "name": "07-gantry-and-boats.webp",
+      "sha256": "498b05e2e0573d71ebd4d35a460081999cd2d347270ba636fd25d16134ababee",
+      "bytes": 12362,
+      "from": "895c page 2 — gantry with hoisted boats"
+    },
+    {
+      "name": "08-roof-and-sign-detail.webp",
+      "sha256": "f0feeb3c3174040b3a37d3d69418b5cdd30951e18defaabd27cd0cc91589d320",
+      "bytes": 15162,
+      "from": "895c page 3 — roof and sign detail"
+    },
+    {
+      "name": "09-side-view-figures.webp",
+      "sha256": "4a4de249dd7b4ff921fc86f2e43fc69dbb59b5382ff259d4cc583c309ddf07bc",
+      "bytes": 18854,
+      "from": "895c page 3 — side view"
+    },
+    {
+      "name": "10-tarpaulin-roof-view.webp",
+      "sha256": "62f41fc6b7eef2a98c45e25d0b18cef6c7a6170f648fd5ee61ddfc8944b01c92",
+      "bytes": 22452,
+      "from": "895c page 3 — tarpaulin roof view"
+    }
+  ]
+}
