@@ -1,0 +1,67 @@
+{
+  "project": "Romain Vacation Home",
+  "dest": "assets/board/romain-vacation-home",
+  "note": "Portfolio dab3 pages 4, 6 and 7 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with site photos and a photo of a person on page 3, the site analysis maps and users and nature analysis with photos of people on page 3, the section and interior renderings with photo cut-out people on page 5, and the aerial overview and exterior rendering with photo backdrops and photo figures on page 6. No retouching.",
+  "files": [
+    {
+      "name": "01-exploded-axonometric.webp",
+      "sha256": "ea3832b10035e480d504fbfb3ec63248810818492d89b2e88d2187aa6d6516d6",
+      "bytes": 133020,
+      "from": "dab3 page 7 — exploded axonometric with vegetation, rain and wind diagrams, x 51–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-programme-wheel.webp",
+      "sha256": "e60efee0fd85fa0b4251fc24c1ea1ee0353cb743d201c7b97d43ff5f4df1f7c1",
+      "bytes": 82834,
+      "from": "page 4 — existing situation programme wheel, x 0–49 %, y 0–57 %"
+    },
+    {
+      "name": "03-concept-development.webp",
+      "sha256": "98f55dd61d79e100130c2327981bfec15a69c1808a61adba772719994f35b18a",
+      "bytes": 61434,
+      "from": "page 4 — concept development models, x 50–100 %, y 0–50 %"
+    },
+    {
+      "name": "04-floor-relationship.webp",
+      "sha256": "153c74de3f5a27f6a6bd3d7f50b105c27cde281bea4faa69b2bcefc435ef988d",
+      "bytes": 72476,
+      "from": "page 4 — floor relationship diagrams, x 50–100 %, y 50–98 %"
+    },
+    {
+      "name": "05-top-cutting-section.webp",
+      "sha256": "03d76353e203104d4e8094fcacba031b1bace948f7650ca8b46b56c94950de8a",
+      "bytes": 49980,
+      "from": "page 4 — top cutting section, x 0–49 %, y 57–98 %"
+    },
+    {
+      "name": "06-section-b.webp",
+      "sha256": "f67c084146562c5b2ab2e24c304f3cf17e33cd25320822d51a630b818446b636",
+      "bytes": 31768,
+      "from": "page 6 — section B-B', x 0.9–28.9 %, y 1.7–24.7 %"
+    },
+    {
+      "name": "07-section-c.webp",
+      "sha256": "da7e4851eae9a88b7e64cb92b6fc16f6a99c8a89f688a187062d8c4d07f33b33",
+      "bytes": 36002,
+      "from": "page 6 — section C-C', x 0.9–28.9 %, y 32.2–56.4 %"
+    },
+    {
+      "name": "08-climate-section.webp",
+      "sha256": "42b274bd286c91611342bd888bfa2e3d7a25fe9379231189b492d946f8c3b795",
+      "bytes": 27714,
+      "from": "page 6 — section D-D' climate analysis, x 0.9–28.9 %, y 64–92 %"
+    },
+    {
+      "name": "09-window-and-hallway-explosion.webp",
+      "sha256": "285b8f68a5af4a618e8cd562c0e3a0b6ed435d26e393253bd2b50273936a2a8a",
+      "bytes": 42726,
+      "from": "page 7 — windows and hallway explosion, x 0–51 %, y 0–47 %"
+    },
+    {
+      "name": "10-facade-explosion.webp",
+      "sha256": "865e316585c95fc7455c2dc690d919b723d2d4558bbaed07320f71a22495f6ea",
+      "bytes": 64306,
+      "from": "page 7 — facade explosion, x 0–51 %, y 47–98 %"
+    }
+  ]
+}
