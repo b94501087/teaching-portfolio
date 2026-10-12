@@ -1,0 +1,67 @@
+{
+  "project": "Fragmented Self",
+  "dest": "assets/board/fragmented-self-personality-tower",
+  "note": "Portfolio de5b pages 16-17 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the actor photo collage and film-still timeline on page 15, the character portraits and radar charts on page 16, the supervisor line and the plot text.",
+  "files": [
+    {
+      "name": "01-tower-axonometric.webp",
+      "sha256": "1d52ea82efed4c2d388aa0773383fad436721588d418ec9257986efbacbf9d31",
+      "bytes": 317488,
+      "from": "de5b page 17 — exploded tower axonometric"
+    },
+    {
+      "name": "02-anxious-self.webp",
+      "sha256": "b4e3d025f7270ff1529adb37bc30c9b2028c5039a1ad0242f8a461b365f36a7d",
+      "bytes": 41568,
+      "from": "de5b page 16 — personality one drawing and model"
+    },
+    {
+      "name": "03-artistic-self.webp",
+      "sha256": "2ef27fe19cc62e83bfc316ce1bcab8fdc545c4ea5842fd40d74507fa3b52101b",
+      "bytes": 29044,
+      "from": "de5b page 16 — personality two drawing and model"
+    },
+    {
+      "name": "04-ordered-self.webp",
+      "sha256": "6a56e160ad56b7dbee5959f7b96f882c7882aff5937bbbb1d5bd9ffe34b8ccc2",
+      "bytes": 52700,
+      "from": "de5b page 16 — personality three drawing and model"
+    },
+    {
+      "name": "05-childlike-self.webp",
+      "sha256": "3f1628c02fad41af6318142155972693ad5d6325af4dcfe77703585a2af911cc",
+      "bytes": 37894,
+      "from": "de5b page 16 — personality four drawing and model"
+    },
+    {
+      "name": "06-controlling-self.webp",
+      "sha256": "531e0dae40bbf205d57362cb7f6b9816ff870690c667ba4b23776a2e00c1d9d7",
+      "bytes": 34774,
+      "from": "de5b page 16 — personality five drawing and model"
+    },
+    {
+      "name": "07-defensive-self.webp",
+      "sha256": "9d83bb7660ce1c7a32780a61e2324bbd93b9b75c01081a1ff4dae970c3a856f5",
+      "bytes": 45342,
+      "from": "de5b page 16 — personality six drawing and model"
+    },
+    {
+      "name": "08-plans.webp",
+      "sha256": "200ce7ad65d9936825789c9d10dd13e35d965e725d4ba4ecc3a9329876bfcf1f",
+      "bytes": 79650,
+      "from": "de5b page 17 — two floor plans"
+    },
+    {
+      "name": "09-section.webp",
+      "sha256": "6b12623e1a990b8b972c71a2b41d333f24cb338bb51f268a8e4fe85a0d0a8c6b",
+      "bytes": 80200,
+      "from": "de5b page 17 — tower section"
+    },
+    {
+      "name": "10-model-views.webp",
+      "sha256": "9b3495fcbb46326639fb671ced5e574baf00e074bab3481c60e0647134733450",
+      "bytes": 40922,
+      "from": "de5b page 17 — three model views"
+    }
+  ]
+}
