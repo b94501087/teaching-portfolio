@@ -1,0 +1,67 @@
+{
+  "project": "The Fragile Arctic: Revolving Ice",
+  "dest": "assets/board/fragile-arctic-melting-ice-acrylic-tower",
+  "note": "Portfolio ce05 pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text, sea-ice data map, a signature on the watercolour.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "aeb7189f0dc839d42689c20f22ffc726f3606b130bb003c6465a85e4fec78665",
+      "bytes": 57358,
+      "from": "ce05 page 5 — final tower"
+    },
+    {
+      "name": "02-arctic-animals.webp",
+      "sha256": "d73a09b5c91febb96f18248d16500b70e3c59f53c5569c578d2b5725154a1367",
+      "bytes": 27246,
+      "from": "ce05 page 4 — arctic animals"
+    },
+    {
+      "name": "03-melt-test.webp",
+      "sha256": "e32a37d59e152828ad18eaf9fba173df96532cbf26b23dccd8876f6985e6a134",
+      "bytes": 23752,
+      "from": "ce05 page 4 — melt test"
+    },
+    {
+      "name": "04-thermometer.webp",
+      "sha256": "e459725912b6a75306c60c11824264b3ea8246e57b4e6f39fb37e0e830f4ef1d",
+      "bytes": 10216,
+      "from": "ce05 page 4 — thermometer"
+    },
+    {
+      "name": "05-ice-samples.webp",
+      "sha256": "6bd7e4d211c44db102f380940a1a1de71c4abee494371a4939f46c6a8a9352ed",
+      "bytes": 27828,
+      "from": "ce05 page 4 — ice samples"
+    },
+    {
+      "name": "06-watercolour.webp",
+      "sha256": "3d89890dd59f1c0b78b1d60c88758ad4d123649e28d3ea76e69395744f93d8a5",
+      "bytes": 130298,
+      "from": "ce05 page 4 — watercolour"
+    },
+    {
+      "name": "07-sketch.webp",
+      "sha256": "d906a98a29c0124e8da0b8755ee6bb63012e20a679dca8e257cb15817aa029f1",
+      "bytes": 10842,
+      "from": "ce05 page 5 — sketch"
+    },
+    {
+      "name": "08-building.webp",
+      "sha256": "4047a7c7df8fe3f94296397ac36c325c804c8c02e73963ca9383db4823b01bd4",
+      "bytes": 32676,
+      "from": "ce05 page 5 — building"
+    },
+    {
+      "name": "09-details.webp",
+      "sha256": "2da4338e010442e107af62f94b4f7982dc2f8716bd1df8989afae744fc56a97e",
+      "bytes": 47746,
+      "from": "ce05 page 5 — details"
+    },
+    {
+      "name": "10-drawing.webp",
+      "sha256": "2a106b08f352ac02a95b2d5d569252aafc8203f7adf5bfd47736b89b50af6a07",
+      "bytes": 105002,
+      "from": "ce05 page 5 — drawing"
+    }
+  ]
+}
