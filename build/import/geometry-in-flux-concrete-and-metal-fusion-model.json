@@ -1,0 +1,55 @@
+{
+  "project": "Geometry in Flux",
+  "dest": "assets/board/geometry-in-flux-concrete-and-metal-fusion-model",
+  "note": "Portfolio b66d pages 4-5 cropped to eight images, WebP q88 (PIL). Not used: precedent building photos, architect names, process photo showing the student.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "696769ecb3858946c58ec299250a141c7ce486cb22698933e889ae7ca3e1a261",
+      "bytes": 55592,
+      "from": "b66d page 5 — final model"
+    },
+    {
+      "name": "02-form-sketches.webp",
+      "sha256": "3bc5edc135bc890f605085ddf41b0bc143d79adea890fdf976ea7a12314cc308",
+      "bytes": 8320,
+      "from": "b66d page 4 — form sketches"
+    },
+    {
+      "name": "03-curve-sketch.webp",
+      "sha256": "83a247db400c1df3d754c98c8ebaa13453f583217b0e9d233cca5455ea7cf0f3",
+      "bytes": 9210,
+      "from": "b66d page 4 — curve sketch"
+    },
+    {
+      "name": "04-watercolour.webp",
+      "sha256": "c74740b7005992a8b80b92c373b6647c0a159897ed8870344f9f08548c4e107d",
+      "bytes": 51488,
+      "from": "b66d page 4 — watercolour"
+    },
+    {
+      "name": "05-cast-rings.webp",
+      "sha256": "92fc7787d24f8f27e2c06bb813bfe409bad2781305a6ce84e39e3d90e13242a7",
+      "bytes": 32828,
+      "from": "b66d page 4 — cast rings"
+    },
+    {
+      "name": "06-corridor.webp",
+      "sha256": "c9ae855877a894500f9d698674fd720de51efa6731438272309b5f25a1faf7e8",
+      "bytes": 13592,
+      "from": "b66d page 5 — corridor"
+    },
+    {
+      "name": "07-side-view.webp",
+      "sha256": "adbd7c4767a070b67178454b3c8839dab4df6fe04b26b91b9d031b2129bf3b41",
+      "bytes": 25508,
+      "from": "b66d page 5 — side view"
+    },
+    {
+      "name": "08-drum-view.webp",
+      "sha256": "83a9a83a40d89b4cf0df71d4acb8c75443fc91b9185f54d4e7d8eba6b8a8391c",
+      "bytes": 23062,
+      "from": "b66d page 5 — drum view"
+    }
+  ]
+}
