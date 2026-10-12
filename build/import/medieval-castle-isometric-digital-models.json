@@ -1,0 +1,43 @@
+{
+  "project": "Medieval Castle Isometric Studies",
+  "dest": "assets/board/medieval-castle-isometric-digital-models",
+  "note": "Portfolio 6c64 page 17 cropped to six images, WebP q88 (PIL). Not used: title and text, the animated-series still and the game screenshot used as references; the series is not named.",
+  "files": [
+    {
+      "name": "01-pink-castle-render.webp",
+      "sha256": "0ee1d2983d81e2d2662e3e4818a2d0645c4ee83e316688f78c915eb1ad3e2db6",
+      "bytes": 12554,
+      "from": "6c64 page 17 — pink castle render"
+    },
+    {
+      "name": "02-tower-and-window-parts.webp",
+      "sha256": "268e085cd21fb75732d95ad969b17636b96d4a16f2dcd0036aceffcfff438447",
+      "bytes": 9402,
+      "from": "6c64 page 17 — tower and window parts"
+    },
+    {
+      "name": "03-roof-and-spire-parts.webp",
+      "sha256": "ebcb8b8fef71576db186c152a140260daee2c4829402de4cde7b023ca2ec11bd",
+      "bytes": 14942,
+      "from": "6c64 page 17 — roof and spire parts"
+    },
+    {
+      "name": "04-sand-castle-render.webp",
+      "sha256": "67dea30411cb9fd11f810dda425dfc4e69fd6d8775da0f355fc73e226e5f0925",
+      "bytes": 17370,
+      "from": "6c64 page 17 — sand castle render"
+    },
+    {
+      "name": "05-orange-castle-render.webp",
+      "sha256": "878c041e475c1b055ed6edb0860b29a40822ae261d5694cc29e6bf9cde1c9927",
+      "bytes": 13542,
+      "from": "6c64 page 17 — orange castle render"
+    },
+    {
+      "name": "06-castle-elevations.webp",
+      "sha256": "1c6218a2ed42e0ffb4503c226a1513616b729079c6ed932b482a281a89694845",
+      "bytes": 13300,
+      "from": "6c64 page 17 — castle elevations"
+    }
+  ]
+}
