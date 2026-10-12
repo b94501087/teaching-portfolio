@@ -1,0 +1,61 @@
+{
+  "project": "The Power of Plants",
+  "dest": "assets/board/power-of-plants-tree-tower",
+  "note": "Portfolio ab615aae pages 8–10 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the energy crisis background with press and news photos, the technology page with a company logo, the hand-held experiment and model photos, the city photo strip under the strategy diagrams, the plant photo list on page 9, and the future vision with a drawn portrait and photos on page 10. No retouching.",
+  "files": [
+    {
+      "name": "01-site-selection.webp",
+      "sha256": "3593088e85fcd008e862b90f7c264b8f85d1d96f7b733ebe13952078401aa74d",
+      "bytes": 84488,
+      "from": "ab615aae page 8 — site selection map, x 38–56.5 %, y 25–58.5 %"
+    },
+    {
+      "name": "02-vertical-tree-strategy.webp",
+      "sha256": "0a15ab7a6506d0497f80278e093dd96e172a517e85b7772944b53bad0b06acf7",
+      "bytes": 64326,
+      "from": "page 8 — strategy diagrams, x 38–70 %, y 60–82.5 %"
+    },
+    {
+      "name": "03-tower-section.webp",
+      "sha256": "1cea80492fd53494cff6e6d0f5a1af22810f54ccb35124e1b6359934812861e8",
+      "bytes": 336238,
+      "from": "page 9 — tower section with details, x 13–60.5 %, y 5–100 %"
+    },
+    {
+      "name": "04-cooling-effect.webp",
+      "sha256": "6b73efdbdac3bdc73e967f2366c036abf48efd72136baaa69bb543ac2bf79da8",
+      "bytes": 52928,
+      "from": "page 9 — cooling effect simulations, x 60–76.5 %, y 8.5–62.5 %"
+    },
+    {
+      "name": "05-plant-power-kit.webp",
+      "sha256": "fa960e8b993327405d5cb209d13139fd34f6dc8b24eb581b917d28e7427e9d7a",
+      "bytes": 88516,
+      "from": "page 9 — construction manual and DIY kit drawings, x 60–86.8 %, y 62–100 %"
+    },
+    {
+      "name": "06-visitor-storyboard.webp",
+      "sha256": "927aa171dbf9e8beb5e81dce5007a420d337fb967f835497efa505ad97f78b86",
+      "bytes": 122160,
+      "from": "page 9 — visitor storyboard drawings, x 86.8–100 %, y 5–100 %"
+    },
+    {
+      "name": "07-travel-tour.webp",
+      "sha256": "ee3382032aebd7c35b6069f64413b87172e50e547a9fb31597b8012d1f97dd15",
+      "bytes": 425946,
+      "from": "page 10 — travel tour storyboard, x 0–35 %, y 5–100 %"
+    },
+    {
+      "name": "08-stratified-plan.webp",
+      "sha256": "54e39dd111cbf0357129a620130aec9e21fb4f47febf000ea9828ee1fb7d7aac",
+      "bytes": 84170,
+      "from": "page 10 — stratified plan, x 35–50 %, y 8–97 %"
+    },
+    {
+      "name": "09-day-and-night.webp",
+      "sha256": "a89e3f956ccefa9cac3b377a0d77bc234c05146d3c8e4ef80002de3879a1a398",
+      "bytes": 274936,
+      "from": "page 10 — day and night renderings, x 70–100 %, y 0–100 %"
+    }
+  ]
+}
