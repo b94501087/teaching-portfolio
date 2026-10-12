@@ -1,0 +1,43 @@
+{
+  "project": "The Sharpness of Language",
+  "dest": "assets/board/sharpness-of-language-mirror-cube-mouths",
+  "note": "Portfolio ce05 page 12 cropped to six images, WebP q88 (PIL). Not used: title and text, magazine scraps, process photo with a face.",
+  "files": [
+    {
+      "name": "01-final-cube.webp",
+      "sha256": "11bef315a84058581fd3e8c972ec6c255d3fbb1eb6895952ea21980538024307",
+      "bytes": 75898,
+      "from": "ce05 page 12 — final cube"
+    },
+    {
+      "name": "02-sketch.webp",
+      "sha256": "2a5b6a32b8bda2166d82fd356c17b2866112457ff3881cf4ade7a5e08ca8f929",
+      "bytes": 5956,
+      "from": "ce05 page 12 — sketch"
+    },
+    {
+      "name": "03-sculpting.webp",
+      "sha256": "bb170d5fcf14813cf6bb1e364cfdc814700691424a35c8b43226dc0670eb0ac0",
+      "bytes": 13988,
+      "from": "ce05 page 12 — sculpting"
+    },
+    {
+      "name": "04-assembling.webp",
+      "sha256": "951c27d4d3c46fb9cecfcfa2158202d2977b278a7da1e5c17eac9e0ce65bf560",
+      "bytes": 19352,
+      "from": "ce05 page 12 — assembling"
+    },
+    {
+      "name": "05-top-view.webp",
+      "sha256": "597cfbc3e2943b3171a2e9f3568926b20d8d9c91cdb3cce947ea9613ea275c08",
+      "bytes": 33578,
+      "from": "ce05 page 12 — top view"
+    },
+    {
+      "name": "06-cube-view.webp",
+      "sha256": "c9bfab793f91ad40fba254bc990bfe29d45eb91d6406937e9273e6c0165936f5",
+      "bytes": 35388,
+      "from": "ce05 page 12 — cube view"
+    }
+  ]
+}
