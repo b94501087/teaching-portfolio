@@ -1,0 +1,67 @@
+{
+  "project": "Interpretation of Music as a Sculpture",
+  "dest": "assets/board/music-as-sculpture-flute-straw-waves",
+  "note": "Portfolio ce05 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-waves.webp",
+      "sha256": "6ef4f9316f001cf086b0ad5a532476043a7325fa39b9d48a09b0a1c748094b27",
+      "bytes": 56326,
+      "from": "ce05 page 7 — final waves"
+    },
+    {
+      "name": "02-first-trial.webp",
+      "sha256": "1f7f29d4769e13ddaabf11b11917eb17b1542aa08d278cf6ff18298cc188519d",
+      "bytes": 111008,
+      "from": "ce05 page 6 — first trial"
+    },
+    {
+      "name": "03-first-sketches.webp",
+      "sha256": "d24dc9b5b3b6820887dfb02aafe3bf4fe5f43f88872b15ef4dd67f20999b1ebb",
+      "bytes": 71534,
+      "from": "ce05 page 6 — first sketches"
+    },
+    {
+      "name": "04-flute-drawing.webp",
+      "sha256": "39f7722c4cf2a9014b395147fb47a302ae2afcf5dc69689df9b6fd4f31300a61",
+      "bytes": 37812,
+      "from": "ce05 page 6 — flute drawing"
+    },
+    {
+      "name": "05-first-watercolour.webp",
+      "sha256": "2d27b149807a096b9d6053ba5d83099577d58acca456f9337ccc92fcde267c5e",
+      "bytes": 69030,
+      "from": "ce05 page 6 — first watercolour"
+    },
+    {
+      "name": "06-first-detail.webp",
+      "sha256": "6f75e6f6355adcf1c3f9b02b7fafdcf0f129815e7c74ad295057018d3ad040ca",
+      "bytes": 44890,
+      "from": "ce05 page 6 — first detail"
+    },
+    {
+      "name": "07-straw-drawing.webp",
+      "sha256": "e7b324bd2b644ce099f07bc990aaedee4e7be2c639b1690d1c7809796323cd0b",
+      "bytes": 88284,
+      "from": "ce05 page 7 — straw drawing"
+    },
+    {
+      "name": "08-line-sketches.webp",
+      "sha256": "93cce106d056314e226da61355a762ad248a9c4735bb2d29a00e8533f4e54646",
+      "bytes": 39416,
+      "from": "ce05 page 7 — line sketches"
+    },
+    {
+      "name": "09-cutting-straws.webp",
+      "sha256": "03ce8039d9b4fdaee6ca27ac4dc97adf77b44d77bebf23deeedbe147a252b9b2",
+      "bytes": 52100,
+      "from": "ce05 page 7 — cutting straws"
+    },
+    {
+      "name": "10-details.webp",
+      "sha256": "c2dbbca129bb7a2a5881f816c634ff56b8e2b26fe02db9875030d8b9ed531ee9",
+      "bytes": 66372,
+      "from": "ce05 page 7 — details"
+    }
+  ]
+}
