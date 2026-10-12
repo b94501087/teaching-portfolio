@@ -39060,6 +39060,746 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Life & Preservation",
+      "slug": "life-and-preservation-floating-village-memorial",
+      "description": "A timber model of a floating memorial shelter that keeps the vernacular of fishing villages alive on the water.\n\nHong Kong | Model | Floating fishing village | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "生命與保存",
+          "description": "以木構模型打造漂浮紀念庇護所，讓漁村的地方語彙在水上延續。\n\n香港｜模型｜水上漁村｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/life-and-preservation-floating-village-memorial/01-floating-memorial-model.webp",
+        "assets/board/life-and-preservation-floating-village-memorial/02-elevation-sketch.webp",
+        "assets/board/life-and-preservation-floating-village-memorial/03-frame-structure-process.webp",
+        "assets/board/life-and-preservation-floating-village-memorial/04-cross-bracing-prototype.webp",
+        "assets/board/life-and-preservation-floating-village-memorial/05-net-mesh-plinth.webp",
+        "assets/board/life-and-preservation-floating-village-memorial/06-hanging-fleet-system.webp",
+        "assets/board/life-and-preservation-floating-village-memorial/07-gantry-and-boats.webp",
+        "assets/board/life-and-preservation-floating-village-memorial/08-roof-and-sign-detail.webp",
+        "assets/board/life-and-preservation-floating-village-memorial/09-side-view-figures.webp",
+        "assets/board/life-and-preservation-floating-village-memorial/10-tarpaulin-roof-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/life-and-preservation-floating-village-memorial/01-floating-memorial-model.webp"
+          ],
+          "captions": [
+            "The final memorial shelter model in weathered wooden sticks, tarpaulin and painted boats."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以風化木條、帆布與彩繪小船製作的紀念庇護所最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Redevelopment often removes structures with deep cultural value, such as the floating fishing villages of rafts, timber grids and net cages. The project asks how that heritage can live on while meeting present-day needs.",
+          "images": [
+            "assets/board/life-and-preservation-floating-village-memorial/02-elevation-sketch.webp"
+          ],
+          "captions": [
+            "Elevation sketch of the shelter above sculpted reef forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "都市更新常會移除具有深厚文化價值的構造，例如由竹筏、木格架與網箱組成的水上漁村。這個作品探問這份遺產如何在回應當代需求的同時延續下去。",
+              "captions": [
+                "庇護所立於雕塑礁體之上的立面草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied raft typologies, tying and lashing joints and the way boats are stored around a working structure. A low-carbon marine cement was considered for reef sculptures below the shelter, so coral could settle on its rough surface.",
+          "images": [
+            "assets/board/life-and-preservation-floating-village-memorial/03-frame-structure-process.webp",
+            "assets/board/life-and-preservation-floating-village-memorial/04-cross-bracing-prototype.webp"
+          ],
+          "captions": [
+            "Weathered sticks cut and framed into grids.",
+            "Cross-bracing prototype derived from raft types."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究竹筏類型、綁紮與捆接節點，以及小船如何收納在作業構造周圍。庇護所下方的礁體雕塑考慮使用低碳海洋水泥，讓珊瑚能附著於粗糙表面。",
+              "captions": [
+                "風化木條切割並組成格架。",
+                "源自竹筏類型的斜撐原型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Nets and meshes form a breathable plinth that recalls cage-culture farms. A perimeter gantry lets boats be hoisted along the facade, so the shelter doubles as a typhoon-day harbour.",
+          "images": [
+            "assets/board/life-and-preservation-floating-village-memorial/05-net-mesh-plinth.webp",
+            "assets/board/life-and-preservation-floating-village-memorial/06-hanging-fleet-system.webp",
+            "assets/board/life-and-preservation-floating-village-memorial/07-gantry-and-boats.webp"
+          ],
+          "captions": [
+            "Net and mesh plinth.",
+            "Hanging fleet system.",
+            "Gantry with hoisted boats."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "網與網布構成可透氣的基座，呼應網箱養殖場。外圍吊架讓小船沿立面吊起收納，使庇護所在颱風天也能兼作避風港。",
+              "captions": [
+                "網與網布基座。",
+                "懸吊船隊系統。",
+                "吊架與吊起的小船。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model combines a pitched timber roof, a green tarpaulin and a ring of painted boats into one floating memorial. Its hand-built frames keep the rough character of the village while giving it a new public role.",
+          "images": [
+            "assets/board/life-and-preservation-floating-village-memorial/08-roof-and-sign-detail.webp",
+            "assets/board/life-and-preservation-floating-village-memorial/09-side-view-figures.webp",
+            "assets/board/life-and-preservation-floating-village-memorial/10-tarpaulin-roof-view.webp"
+          ],
+          "captions": [
+            "Roof and sign detail.",
+            "Side view with scale figures.",
+            "Tarpaulin roof view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型將斜木屋頂、綠色帆布與一圈彩繪小船結合為一座漂浮紀念物。手作框架保留漁村的粗獷質感，同時賦予它新的公共角色。",
+              "captions": [
+                "屋頂與招牌細部。",
+                "附比例人偶的側視。",
+                "帆布屋頂視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a heritage at risk.\n2. Study how it is built.\n3. Test joints by hand.\n4. Give it a new role.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇一項瀕危遺產。\n2. 研究它的構築方式。\n3. 親手測試節點。\n4. 賦予它新的角色。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Realm of Light and Curves",
+      "slug": "realm-of-light-and-curves-sacred-space-model",
+      "description": "A clay and timber model of a sacred space where coloured light filters through hand-made translucent films.\n\nArchitecture | Model | Sacred space | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "光與曲線之境",
+          "description": "以黏土與木材打造的神聖空間模型，讓光線穿過手作半透明膜片染上色彩。\n\n建築｜模型｜神聖空間｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/realm-of-light-and-curves-sacred-space-model/01-stained-light-model.webp",
+        "assets/board/realm-of-light-and-curves-sacred-space-model/02-spire-sketch.webp",
+        "assets/board/realm-of-light-and-curves-sacred-space-model/03-facade-sketches.webp",
+        "assets/board/realm-of-light-and-curves-sacred-space-model/04-timber-framework.webp",
+        "assets/board/realm-of-light-and-curves-sacred-space-model/05-clay-curve-framework.webp",
+        "assets/board/realm-of-light-and-curves-sacred-space-model/06-coloured-film-test.webp",
+        "assets/board/realm-of-light-and-curves-sacred-space-model/07-glass-tower-close-up.webp",
+        "assets/board/realm-of-light-and-curves-sacred-space-model/08-terrace-and-bridge.webp",
+        "assets/board/realm-of-light-and-curves-sacred-space-model/09-light-through-film.webp",
+        "assets/board/realm-of-light-and-curves-sacred-space-model/10-curved-interior.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/realm-of-light-and-curves-sacred-space-model/01-stained-light-model.webp"
+          ],
+          "captions": [
+            "The final model of curved clay framework and coloured translucent panels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "由彎曲黏土骨架與彩色半透明面板組成的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was drawn to organic modernist architecture that seems to grow from nature, with curves, mosaics and stained glass. The project asks how a simple model can capture that sense of a sacred, dreamlike space.",
+          "images": [
+            "assets/board/realm-of-light-and-curves-sacred-space-model/02-spire-sketch.webp",
+            "assets/board/realm-of-light-and-curves-sacred-space-model/03-facade-sketches.webp"
+          ],
+          "captions": [
+            "Hand sketch of a spired church.",
+            "Facade, tower and form sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生深受彷彿從自然生長而出的有機現代建築吸引，著迷於其曲線、馬賽克與彩色玻璃。這個作品探問一個簡單的模型如何捕捉那種神聖而夢幻的空間感。",
+              "captions": [
+                "尖塔教堂手繪草圖。",
+                "立面、塔樓與形體草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sketches of towers, facades and twisting forms helped the student read how curves radiate with structural strength. Light filtering through coloured glass became the key quality to recreate.",
+          "images": [
+            "assets/board/realm-of-light-and-curves-sacred-space-model/04-timber-framework.webp",
+            "assets/board/realm-of-light-and-curves-sacred-space-model/05-clay-curve-framework.webp"
+          ],
+          "captions": [
+            "Wooden slat framework.",
+            "Clay shaped over the frame into organic curves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "透過繪製塔樓、立面與扭轉形體，學生理解曲線如何帶著結構力量向外放射。光線穿過彩色玻璃的效果成為最需要重現的特質。",
+              "captions": [
+                "木條骨架。",
+                "以黏土包覆骨架塑出有機曲線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wooden slats formed the base frame, then clay was shaped over it into contorted, vine-like curves. Heat-pressed plastic bags made translucent films in different colours that lock sunlight inside the model.",
+          "images": [
+            "assets/board/realm-of-light-and-curves-sacred-space-model/06-coloured-film-test.webp",
+            "assets/board/realm-of-light-and-curves-sacred-space-model/07-glass-tower-close-up.webp"
+          ],
+          "captions": [
+            "Coloured film test in the frame.",
+            "Tower close-up with coloured panels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生先以木條構成基本骨架，再以黏土塑出扭曲、如藤蔓般的曲線。以熱壓塑膠袋製成不同顏色的半透明膜片，將陽光鎖在模型之中。",
+              "captions": [
+                "框架中的彩色膜片測試。",
+                "彩色面板塔體近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model joins towers, a terrace bridge and a vaulted arch, with plants growing along its edges. Light passing through the films casts shifting colours across the interior, so nature and the sacred feel joined in one space.",
+          "images": [
+            "assets/board/realm-of-light-and-curves-sacred-space-model/08-terrace-and-bridge.webp",
+            "assets/board/realm-of-light-and-curves-sacred-space-model/09-light-through-film.webp",
+            "assets/board/realm-of-light-and-curves-sacred-space-model/10-curved-interior.webp"
+          ],
+          "captions": [
+            "Terrace and bridge.",
+            "Light through the coloured films.",
+            "Curved interior under the arch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型結合塔體、平台橋與拱頂，邊緣長出植物。光線穿過膜片在室內投下變化的色彩，讓自然與神聖在同一空間中交融。",
+              "captions": [
+                "平台與橋。",
+                "光線穿過彩色膜片。",
+                "拱下的彎曲室內。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Sketch what moves you.\n2. Name one quality.\n3. Invent a cheap material.\n4. Test it with light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 描繪打動你的事物。\n2. 指出一項特質。\n3. 發明一種低成本材料。\n4. 用光來測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Sanctum - Renewal",
+      "slug": "sanctum-renewal-biophilic-recovery-centre",
+      "description": "A biophilic recovery centre model where terraced floors, hanging greenery and a woven timber shelter support healing.\n\nArchitecture | Model | Recovery centre | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "聖所・新生",
+          "description": "以退台樓層、懸垂綠意與編織木構遮棚支持療癒的親生物復原中心模型。\n\n建築｜模型｜復原中心｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/01-healing-tower-model.webp",
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/02-spiral-concept-sketch.webp",
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/03-curved-wall-making.webp",
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/04-terrain-layers.webp",
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/05-stacked-terrace-test.webp",
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/06-spiral-stair-plan-view.webp",
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/07-woven-shelter-interior.webp",
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/08-woven-shell-view.webp",
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/09-curved-pavilions.webp",
+        "assets/board/sanctum-renewal-biophilic-recovery-centre/10-sheltered-ground-floor.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/01-healing-tower-model.webp"
+          ],
+          "captions": [
+            "The final site model with the terraced tower, woven shelter and garden path."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "最終基地模型，包含退台塔樓、編織遮棚與花園步道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The brief is a centre that helps people recover from injury and other health challenges. The project asks how architecture can lower stress and give users calm, autonomy and a sense of belonging.",
+          "images": [
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/02-spiral-concept-sketch.webp"
+          ],
+          "captions": [
+            "Spiral concept sketch of stacked circular floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "設計任務是一座幫助人們從傷病與其他健康挑戰中復原的中心。這個作品探問建築如何降低壓力，並給予使用者平靜、自主與歸屬感。",
+              "captions": [
+                "層疊圓形樓層的螺旋概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew on biophilic principles such as large windows, hanging plants and wood finishes. Circular communal spaces with shortened terrace floors were sketched to connect users with nature and with each other.",
+          "images": [
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/03-curved-wall-making.webp",
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/04-terrain-layers.webp"
+          ],
+          "captions": [
+            "Making the curved walls.",
+            "Layered terrain in foam board."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生參考親生物設計原則，例如大面開窗、懸垂植物與木質飾面。草圖中以縮短的退台樓層構成圓形公共空間，讓使用者與自然及彼此相連。",
+              "captions": [
+                "製作彎曲牆面。",
+                "以泡棉板疊出的地形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Foam board, wood and rattan were used to test stacked terraces, curved walls and a layered landscape. A swirling half-shelter of stacked wood was added so filtered sunlight casts soft patterns inside.",
+          "images": [
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/05-stacked-terrace-test.webp",
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/06-spiral-stair-plan-view.webp",
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/07-woven-shelter-interior.webp"
+          ],
+          "captions": [
+            "Stacked terrace test.",
+            "Spiral stair seen from above.",
+            "Interior under the woven shelter."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以泡棉板、木材與藤條測試層疊退台、彎曲牆面與分層地景。再加入以木條堆疊的旋轉半遮棚，讓篩落的陽光在室內投下柔和光影。",
+              "captions": [
+                "層疊退台測試。",
+                "俯視螺旋樓梯。",
+                "編織遮棚下的室內。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model sets the tower among low curved pavilions, linked by a gravel garden path. Open terraces, rigid pillars and the woven shell balance openness with a feeling of safety.",
+          "images": [
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/08-woven-shell-view.webp",
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/09-curved-pavilions.webp",
+            "assets/board/sanctum-renewal-biophilic-recovery-centre/10-sheltered-ground-floor.webp"
+          ],
+          "captions": [
+            "The woven shell around the tower.",
+            "Low curved pavilions.",
+            "The sheltered ground floor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型將塔樓置於低矮的彎曲展館之間，以碎石花園步道相連。開放的退台、堅實的柱子與編織殼體，在開放與安全感之間取得平衡。",
+              "captions": [
+                "環繞塔樓的編織殼體。",
+                "低矮的彎曲展館。",
+                "有遮蔽的地面層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the user's needs.\n2. Pick calming principles.\n3. Test them in layers.\n4. Shape light last.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從使用者需求出發。\n2. 選定安定身心的原則。\n3. 分層測試。\n4. 最後塑造光線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Lure of Layers",
+      "slug": "lure-of-layers-painting-to-timber-structure",
+      "description": "Gestures and water ripples from a classical painting translated into a layered timber structure over a gridded base.\n\nArchitecture | Model | Painting translation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "層次之誘",
+          "description": "將古典畫作中的姿態與水波轉譯為立於格狀基座上的層疊木構。\n\n建築｜模型｜畫作轉譯｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/lure-of-layers-painting-to-timber-structure/01-suspended-timber-model.webp",
+        "assets/board/lure-of-layers-painting-to-timber-structure/02-angular-line-extraction.webp",
+        "assets/board/lure-of-layers-painting-to-timber-structure/03-fluid-curve-extraction.webp",
+        "assets/board/lure-of-layers-painting-to-timber-structure/04-layered-line-model.webp",
+        "assets/board/lure-of-layers-painting-to-timber-structure/05-gridded-plan-model.webp",
+        "assets/board/lure-of-layers-painting-to-timber-structure/06-timber-frame-assembly.webp",
+        "assets/board/lure-of-layers-painting-to-timber-structure/07-gridded-base-making.webp",
+        "assets/board/lure-of-layers-painting-to-timber-structure/08-water-surface-detail.webp",
+        "assets/board/lure-of-layers-painting-to-timber-structure/09-cement-forms-in-frame.webp",
+        "assets/board/lure-of-layers-painting-to-timber-structure/10-elevation-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/lure-of-layers-painting-to-timber-structure/01-suspended-timber-model.webp"
+          ],
+          "captions": [
+            "The final model of stained timber posts above a gridded base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "立於格狀基座上的染色木柱最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project starts from a classical painting of figures in water and the tension between bodies and nature in the scene. It asks how gesture, movement and visual seduction in an image can become architectural space.",
+          "images": [
+            "assets/board/lure-of-layers-painting-to-timber-structure/02-angular-line-extraction.webp",
+            "assets/board/lure-of-layers-painting-to-timber-structure/03-fluid-curve-extraction.webp"
+          ],
+          "captions": [
+            "Angular lines from the figure composition.",
+            "Fluid curves from gestures, hair and ripples."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個作品從一幅描繪水中人物的古典畫作出發，關注畫面中身體與自然之間的張力。它探問圖像中的姿態、動作與視覺誘惑如何轉化為建築空間。",
+              "captions": [
+                "取自人物構圖的角狀線條。",
+                "取自姿態、髮絲與水波的流動曲線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Through overlaid diagrams, the student extracted angular lines from the composition and fluid curves from gestures and ripples. These line systems set the rhythm, direction and edges of the space.",
+          "images": [
+            "assets/board/lure-of-layers-painting-to-timber-structure/04-layered-line-model.webp",
+            "assets/board/lure-of-layers-painting-to-timber-structure/05-gridded-plan-model.webp"
+          ],
+          "captions": [
+            "Lines extruded into a layered digital structure.",
+            "Gridded plan of interlaced members."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生透過疊圖分析，從構圖中萃取角狀線條，並從姿態與水波中萃取流動曲線。這些線條系統決定了空間的節奏、方向與邊界。",
+              "captions": [
+                "線條擠出為層疊的數位結構。",
+                "交織構件的格狀平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The lines were modelled in 3D software as layers whose height and density follow the tension among the figures. The model was then built from laser-cut and hand-assembled wood, with a gridded lower base and a folded upper lattice.",
+          "images": [
+            "assets/board/lure-of-layers-painting-to-timber-structure/06-timber-frame-assembly.webp",
+            "assets/board/lure-of-layers-painting-to-timber-structure/07-gridded-base-making.webp"
+          ],
+          "captions": [
+            "Assembling the timber frame.",
+            "Making the gridded base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生在 3D 軟體中將線條建模為層次，其高度與密度對應人物之間的張力。模型再以雷射切割與手工組裝的木構件製作，下層為格狀基座，上層為折疊格架。",
+              "captions": [
+                "組裝木構框架。",
+                "製作格狀基座。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model suspends cement and wax forms within a dynamic timber frame, like water caught in motion. Hand-stained colours echo the contrast of water and skin, linking the drawn overlays to the built object.",
+          "images": [
+            "assets/board/lure-of-layers-painting-to-timber-structure/08-water-surface-detail.webp",
+            "assets/board/lure-of-layers-painting-to-timber-structure/09-cement-forms-in-frame.webp",
+            "assets/board/lure-of-layers-painting-to-timber-structure/10-elevation-view.webp"
+          ],
+          "captions": [
+            "Water surface detail in cement and wax.",
+            "Cement forms held in the frame.",
+            "Elevation view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型在動態的木構框架中懸掛水泥與蠟製形體，彷彿凝結的水流。手工染色呼應水與肌膚的對比，將疊圖分析與實體構築連結起來。",
+              "captions": [
+                "以水泥與蠟製作的水面細部。",
+                "嵌於框架中的水泥形體。",
+                "立面視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose an image.\n2. Trace its lines.\n3. Layer them in 3D.\n4. Build with real materials.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇一張圖像。\n2. 描出它的線條。\n3. 在 3D 中分層。\n4. 以真實材料構築。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Human Doll",
+      "slug": "human-doll-board-game-stacked-house",
+      "description": "A board game about meeting face to face, translated into a stacked timber house whose rooms shift like game pieces.\n\nArchitecture | Game and model | Social space | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "人形",
+          "description": "以促進面對面交流的桌遊為起點，轉化為房間如棋子般錯動的層疊木構住宅。\n\n建築｜桌遊與模型｜社交空間｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/human-doll-board-game-stacked-house/01-stacked-house-model.webp",
+        "assets/board/human-doll-board-game-stacked-house/02-classroom-board-designs.webp",
+        "assets/board/human-doll-board-game-stacked-house/03-game-pieces.webp",
+        "assets/board/human-doll-board-game-stacked-house/04-character-cards.webp",
+        "assets/board/human-doll-board-game-stacked-house/05-board-game-in-play.webp",
+        "assets/board/human-doll-board-game-stacked-house/06-early-house-models.webp",
+        "assets/board/human-doll-board-game-stacked-house/07-cantilevered-rooms.webp",
+        "assets/board/human-doll-board-game-stacked-house/08-stair-and-balcony.webp",
+        "assets/board/human-doll-board-game-stacked-house/09-spiral-stair-view.webp",
+        "assets/board/human-doll-board-game-stacked-house/10-ground-room-window.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/human-doll-board-game-stacked-house/01-stacked-house-model.webp"
+          ],
+          "captions": [
+            "The final model of rooms stacked on columns and linked by stairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "房間疊於柱上並以樓梯相連的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to create a board game that brings people together for real, face-to-face connection. The project then asks how the game's shifting positions could shape a building.",
+          "images": [
+            "assets/board/human-doll-board-game-stacked-house/02-classroom-board-designs.webp"
+          ],
+          "captions": [
+            "Classroom boards modelled in 3D software."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生希望設計一款讓人們真正面對面交流的桌遊。作品接著探問，遊戲中不斷變換的位置能如何塑造一棟建築。",
+              "captions": [
+                "以 3D 軟體建模的教室版圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Boards for classrooms, hallways, a cafeteria and stairs were modelled digitally and printed. Hand-drawn character cards and game pieces gave each player a role and set of advantages.",
+          "images": [
+            "assets/board/human-doll-board-game-stacked-house/03-game-pieces.webp",
+            "assets/board/human-doll-board-game-stacked-house/04-character-cards.webp",
+            "assets/board/human-doll-board-game-stacked-house/05-board-game-in-play.webp"
+          ],
+          "captions": [
+            "Student, advantage and extra game pieces.",
+            "Digitally drawn character cards.",
+            "The game laid out in play."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "教室、走廊、餐廳與樓梯的版圖先以數位建模再列印。手繪角色卡與棋子讓每位玩家擁有角色與優勢。",
+              "captions": [
+                "學生、優勢與額外棋子。",
+                "數位繪製的角色卡。",
+                "遊戲進行中的桌面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Early card models tested simple house volumes with windows. A stacking method was then chosen so rooms could shift position, as pieces do on the board.",
+          "images": [
+            "assets/board/human-doll-board-game-stacked-house/06-early-house-models.webp"
+          ],
+          "captions": [
+            "Early cardboard house models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "早期的紙板模型測試帶窗的簡單住宅量體。學生隨後選擇堆疊的方式，讓房間能像版圖上的棋子一樣變換位置。",
+              "captions": [
+                "早期紙板住宅模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model of wooden sticks and printed parts stacks rooms on slim columns, linked by open stairs and balconies. A traditional-style exterior contrasts with more western interiors, seen through clear ceilings.",
+          "images": [
+            "assets/board/human-doll-board-game-stacked-house/07-cantilevered-rooms.webp",
+            "assets/board/human-doll-board-game-stacked-house/08-stair-and-balcony.webp",
+            "assets/board/human-doll-board-game-stacked-house/09-spiral-stair-view.webp",
+            "assets/board/human-doll-board-game-stacked-house/10-ground-room-window.webp"
+          ],
+          "captions": [
+            "Cantilevered rooms.",
+            "Stair and balcony.",
+            "Spiral stair view.",
+            "Ground-floor room and window."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以木條與列印構件製作，將房間堆疊在細柱上，並以開放樓梯與陽台相連。傳統風格的外觀與較西式的室內形成對比，可透過透明天花窺見。",
+              "captions": [
+                "懸挑的房間。",
+                "樓梯與陽台。",
+                "螺旋樓梯視角。",
+                "地面層房間與窗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Design the play first.\n2. Map how players move.\n3. Turn moves into rooms.\n4. Stack and test.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先設計遊戲。\n2. 描繪玩家的移動。\n3. 將移動化為房間。\n4. 堆疊並測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
