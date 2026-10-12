@@ -27215,6 +27215,554 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "The Bridging",
+      "slug": "the-bridging-embedded-renewal",
+      "description": "Light new units bridge over an old block so new and old neighbours can stay together.\n\nGuangzhou, China | Community renewal | 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "橋接",
+          "description": "輕量的新單元跨越舊街區，讓新舊鄰里得以共同生活。\n\n中國廣州｜社區更新｜2019｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/the-bridging-embedded-renewal/01-model-photo.webp",
+        "assets/board/the-bridging-embedded-renewal/02-section-sketch.webp",
+        "assets/board/the-bridging-embedded-renewal/03-courtyard-evolution.webp",
+        "assets/board/the-bridging-embedded-renewal/04-house-types.webp",
+        "assets/board/the-bridging-embedded-renewal/05-model-detail.webp",
+        "assets/board/the-bridging-embedded-renewal/06-old-new-section.webp",
+        "assets/board/the-bridging-embedded-renewal/07-embedding-steps.webp",
+        "assets/board/the-bridging-embedded-renewal/08-aerial-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/the-bridging-embedded-renewal/08-aerial-view.webp"
+          ],
+          "captions": [
+            "The new units laid over the old blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "新單元疊置於舊街區之上。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Large-scale demolition of old city blocks pushes residents out and breaks long-standing community life. The project asks whether a gentler, embedded way of renewal can let new and old communities live together.",
+          "images": [
+            "assets/board/the-bridging-embedded-renewal/02-section-sketch.webp",
+            "assets/board/the-bridging-embedded-renewal/01-model-photo.webp"
+          ],
+          "captions": [
+            "First sketch of units bridging the old houses.",
+            "Model of two stacked units."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "舊城街區的大規模拆除迫使居民離開，也打斷了長久以來的社區生活。本案探問一種更溫和的嵌入式更新，能否讓新舊社區共同生活。",
+              "captions": [
+                "新單元跨越舊屋的初步草圖。",
+                "兩層疊置單元的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The survey traces how open space in the courtyard houses shrank over time as land prices rose. The narrow tube houses that remain were then catalogued as a set of types.",
+          "images": [
+            "assets/board/the-bridging-embedded-renewal/03-courtyard-evolution.webp",
+            "assets/board/the-bridging-embedded-renewal/04-house-types.webp"
+          ],
+          "captions": [
+            "Courtyard houses and their shrinking open space.",
+            "Survey of existing house types."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "調查追溯合院住宅的開放空間如何隨地價上漲而逐漸縮減。留存下來的狹長竹筒屋被整理成一組類型。",
+              "captions": [
+                "合院住宅與逐漸縮減的開放空間。",
+                "既有住宅類型調查。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Light modules are set on top of retained structures, with a shared middle layer for public activities. Youth apartments sit above, while original residents keep their homes below.",
+          "images": [
+            "assets/board/the-bridging-embedded-renewal/07-embedding-steps.webp",
+            "assets/board/the-bridging-embedded-renewal/06-old-new-section.webp"
+          ],
+          "captions": [
+            "Steps of the embedding strategy.",
+            "Section through the old and new community."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "輕量模組被架設在保留的結構之上，中間層作為公共活動的共享空間。青年公寓位於上方，原有居民則保留下方的住所。",
+              "captions": [
+                "嵌入策略的步驟。",
+                "新舊社區的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Roof walkways tie the new units together across the block and lead down to an open square. The model shows how the added construction rests lightly on the existing house.",
+          "images": [
+            "assets/board/the-bridging-embedded-renewal/05-model-detail.webp"
+          ],
+          "captions": [
+            "Model detail of the added construction."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "屋頂步道將街區中的新單元串連起來，並通往一處開放廣場。模型呈現加建部分如何輕巧地落在既有住宅之上。",
+              "captions": [
+                "加建部分的模型細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read how the block changed over time.\n2. Keep what residents still use.\n3. Add light layers instead of clearing.\n4. Link the layers with a shared route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀街區隨時間的變化。\n2. 保留居民仍在使用的部分。\n3. 以輕量層次取代拆除。\n4. 用共享路徑連結各層。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Another Sustainable",
+      "slug": "another-sustainable-participatory-building",
+      "description": "A community building that changes shape as residents earn points for green habits.\n\nArchitecture | Community building | Participatory design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "另一種永續",
+          "description": "一座隨居民累積環保點數而改變形態的社區建築。\n\n建築｜社區建築｜參與式設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/another-sustainable-participatory-building/01-community-building-view.webp",
+        "assets/board/another-sustainable-participatory-building/02-site-plan.webp",
+        "assets/board/another-sustainable-participatory-building/03-game-mechanism.webp",
+        "assets/board/another-sustainable-participatory-building/04-scheme-illustration.webp",
+        "assets/board/another-sustainable-participatory-building/05-assembly-and-disassembly.webp",
+        "assets/board/another-sustainable-participatory-building/06-transformation-steps.webp",
+        "assets/board/another-sustainable-participatory-building/07-possible-forms.webp",
+        "assets/board/another-sustainable-participatory-building/08-third-floor-plan.webp",
+        "assets/board/another-sustainable-participatory-building/09-interaction-section.webp",
+        "assets/board/another-sustainable-participatory-building/10-facade-logic.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/another-sustainable-participatory-building/01-community-building-view.webp"
+          ],
+          "captions": [
+            "The community building seen from the square."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從廣場望向社區建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Sustainable design is often reduced to technology alone, while the habits of the people using a building are left out. The project asks whether a building can encourage residents to act sustainably themselves.",
+          "images": [
+            "assets/board/another-sustainable-participatory-building/02-site-plan.webp",
+            "assets/board/another-sustainable-participatory-building/03-game-mechanism.webp"
+          ],
+          "captions": [
+            "Site plan of the community building.",
+            "Points earned for saving water, saving power and sorting waste."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "永續設計常被簡化為技術問題，使用建築的人的習慣卻被忽略。本案探問建築能否鼓勵居民自己採取永續的行動。",
+              "captions": [
+                "社區建築的配置圖。",
+                "節水、節電與垃圾分類所累積的點數。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Residents earn points on a phone app for everyday green actions, and the community level rises as the points add up. With these points they vote on which functions and forms the building should take.",
+          "images": [
+            "assets/board/another-sustainable-participatory-building/04-scheme-illustration.webp",
+            "assets/board/another-sustainable-participatory-building/07-possible-forms.webp"
+          ],
+          "captions": [
+            "Illustration of the scheme and its spaces.",
+            "Possible forms the building can take."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "居民透過手機應用程式，為日常的環保行動累積點數，社區等級也隨之提升。他們再以這些點數投票，決定建築應有的功能與形式。",
+              "captions": [
+                "方案及其空間的圖解。",
+                "建築可能呈現的各種形式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Floors are built from modular components that can be rotated, reversed or added as needs change. The plan groups a tea hall, reading, fitness and game rooms around a shared platform.",
+          "images": [
+            "assets/board/another-sustainable-participatory-building/05-assembly-and-disassembly.webp",
+            "assets/board/another-sustainable-participatory-building/06-transformation-steps.webp",
+            "assets/board/another-sustainable-participatory-building/08-third-floor-plan.webp"
+          ],
+          "captions": [
+            "Assembly and disassembly of the components.",
+            "Steps of a transforming floor in the model.",
+            "Third floor plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "樓層由可旋轉、翻轉或增加的模組構件組成，以回應不同需求。平面將茶室、閱讀、健身與遊戲空間環繞一處共享平台配置。",
+              "captions": [
+                "構件的組裝與拆卸。",
+                "模型中樓層轉換的步驟。",
+                "三樓平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The facade panels unfold, half fold or fold depending on sun and wind, and their pattern follows the residents' votes. The section shows how farm, reading, fitness and public spaces stack around a central core.",
+          "images": [
+            "assets/board/another-sustainable-participatory-building/09-interaction-section.webp",
+            "assets/board/another-sustainable-participatory-building/10-facade-logic.webp"
+          ],
+          "captions": [
+            "Section through the stacked functions.",
+            "How votes and weather shape the facade."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "立面板依日照與風況而展開、半折或收合，其圖樣也隨居民的投票而改變。剖面呈現農園、閱讀、健身與公共空間如何圍繞中央核心堆疊。",
+              "captions": [
+                "穿越堆疊功能的剖面。",
+                "投票與天氣如何塑造立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Treat behaviour as part of sustainability.\n2. Turn daily actions into simple rules.\n3. Let users vote on the form.\n4. Build with parts that can change.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把行為視為永續的一部分。\n2. 將日常行動轉為簡單規則。\n3. 讓使用者投票決定形式。\n4. 用可變的構件來建造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Rhapsody of Future Office",
+      "slug": "rhapsody-of-future-office",
+      "description": "Robotic arms build and remove rooms inside an open frame, following each worker's space rights.\n\nGuangzhou, China | Office building | Future work | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "未來辦公狂想曲",
+          "description": "機械手臂依每位工作者的空間權利，在開放框架中建造與拆除房間。\n\n中國廣州｜辦公建築｜未來工作｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rhapsody-of-future-office/01-office-section.webp",
+        "assets/board/rhapsody-of-future-office/02-space-rules.webp",
+        "assets/board/rhapsody-of-future-office/03-user-density.webp",
+        "assets/board/rhapsody-of-future-office/04-robotic-arm-axonometric.webp",
+        "assets/board/rhapsody-of-future-office/05-room-generation-steps.webp",
+        "assets/board/rhapsody-of-future-office/06-virtual-preview.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rhapsody-of-future-office/01-office-section.webp"
+          ],
+          "captions": [
+            "Section through the office and its customised rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "辦公室及其客製房間的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Long working hours have pulled many people's lives apart from their work. The project asks whether a future office can be humane enough that people want to come to work.",
+          "images": [
+            "assets/board/rhapsody-of-future-office/03-user-density.webp"
+          ],
+          "captions": [
+            "The frame filling up as more users arrive."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "長工時讓許多人的生活與工作逐漸脫節。本案探問未來的辦公室能否足夠人性化，讓人們願意前來工作。",
+              "captions": [
+                "隨使用者增加而逐漸填滿的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each person has a set right to space for working, furniture and shared use. These rights become the rules that decide how large each office can grow.",
+          "images": [
+            "assets/board/rhapsody-of-future-office/02-space-rules.webp"
+          ],
+          "captions": [
+            "Rules for personal, furniture and public space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每個人都擁有一定的工作、家具與公共空間使用權。這些權利成為決定每間辦公室能擴展多大的規則。",
+              "captions": [
+                "個人、家具與公共空間的規則。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Inside an open steel frame, robotic arms pick components, stretch floor slabs and close each room to suit the program. Before a room is made, users can preview it in a virtual view and decide whether to build it.",
+          "images": [
+            "assets/board/rhapsody-of-future-office/05-room-generation-steps.webp",
+            "assets/board/rhapsody-of-future-office/06-virtual-preview.webp"
+          ],
+          "captions": [
+            "Steps of room generation.",
+            "Previewing a room before it is built."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在開放的鋼構框架中，機械手臂挑選構件、延展樓板，並依需求圍合出每個房間。房間生成之前，使用者可先在虛擬畫面中預覽，再決定是否建造。",
+              "captions": [
+                "房間生成的步驟。",
+                "建造前預覽房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each zone has two robotic arms that work along set tracks to make and remove rooms. Offices, a lobby, a bar, a restaurant and a fitness room share one changing frame.",
+          "images": [
+            "assets/board/rhapsody-of-future-office/04-robotic-arm-axonometric.webp"
+          ],
+          "captions": [
+            "Robotic arm zones in the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每個分區配有兩支機械手臂，沿既定軌道建造與拆除房間。辦公室、大廳、酒吧、餐廳與健身房共享同一個可變的框架。",
+              "captions": [
+                "框架中的機械手臂分區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from how people feel at work.\n2. Write space rights as rules.\n3. Let the frame stay, and rooms change.\n4. Preview before you build.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從人們工作時的感受出發。\n2. 把空間權利寫成規則。\n3. 框架固定，房間可變。\n4. 先預覽，再建造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Family Unit",
+      "slug": "family-unit-council-house",
+      "description": "Folding living units slot into idle city spaces as a new kind of council house.\n\nLondon, United Kingdom | Council housing | Modular design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "家庭單元",
+          "description": "可折疊的居住單元嵌入城市閒置空間，成為新型公共住宅。\n\n英國倫敦｜公共住宅｜模組化設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/family-unit-council-house/01-family-unit-illustration.webp",
+        "assets/board/family-unit-council-house/02-construction-details.webp",
+        "assets/board/family-unit-council-house/03-council-house-comparison.webp",
+        "assets/board/family-unit-council-house/04-schemes-for-idle-space.webp",
+        "assets/board/family-unit-council-house/05-model-sequence.webp",
+        "assets/board/family-unit-council-house/06-transport-and-assembly.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/family-unit-council-house/01-family-unit-illustration.webp"
+          ],
+          "captions": [
+            "Exploded section of the family unit."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "家庭單元的爆炸剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In a dense, high-priced city, council housing is slow to build and costly to rent. The project looks for a new type of council house that fits into narrow and rarely used spaces.",
+          "images": [
+            "assets/board/family-unit-council-house/03-council-house-comparison.webp"
+          ],
+          "captions": [
+            "Traditional and new council houses compared."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在高密度、高房價的城市中，公共住宅興建緩慢且租金昂貴。本案尋找一種能嵌入狹窄或少用空間的新型公共住宅。",
+              "captions": [
+                "傳統與新型公共住宅的比較。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Idle plots in the city were sorted by shape into rectangles, trapezoids and triangles. A scheme was then drawn for each shape, with standard and ground floor plans.",
+          "images": [
+            "assets/board/family-unit-council-house/04-schemes-for-idle-space.webp"
+          ],
+          "captions": [
+            "Three schemes for different idle spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "城市中的閒置地塊依形狀被分為矩形、梯形與三角形。再針對每種形狀繪製方案，包含標準層與地面層平面。",
+              "captions": [
+                "針對不同閒置空間的三種方案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each living unit folds like a small tent and stretches down when in use, with a shared living room below. Units are made in a standard set that fits on a medium truck and is spliced together on site.",
+          "images": [
+            "assets/board/family-unit-council-house/06-transport-and-assembly.webp",
+            "assets/board/family-unit-council-house/05-model-sequence.webp"
+          ],
+          "captions": [
+            "How the units are moved and assembled.",
+            "Model of a unit unfolding."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每個居住單元像小帳篷一樣折疊，使用時向下展開，下方則是共享客廳。單元以標準組件製作，可裝上中型貨車，並在現場拼接。",
+              "captions": [
+                "單元的運輸與組裝方式。",
+                "單元展開的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The structure goes up first and the units are then hung inside, which saves time and cost. Louvres and rain shields fold with the weather to keep air moving and rain out.",
+          "images": [
+            "assets/board/family-unit-council-house/02-construction-details.webp"
+          ],
+          "captions": [
+            "Construction details of the unit."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "先建立結構，再將單元吊掛其中，節省時間與成本。百葉與遮雨板隨天氣折疊，保持通風並阻擋雨水。",
+              "captions": [
+                "單元的構造細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find the spaces the city leaves idle.\n2. Sort them by shape.\n3. Design one kit that fits many shapes.\n4. Plan how it travels and assembles.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出城市閒置的空間。\n2. 依形狀加以分類。\n3. 設計一套適用多種形狀的組件。\n4. 規劃其運輸與組裝方式。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
