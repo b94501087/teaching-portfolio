@@ -26059,6 +26059,582 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Container Kindergarten",
+      "slug": "container-kindergarten-xiangtan",
+      "description": "Seven containers give a crowded neighbourhood a kindergarten with play on every roof.\n\nXiangtan, China | Kindergarten | 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "貨櫃幼兒園",
+          "description": "七個貨櫃量體，讓擁擠的社區擁有一座屋頂也能遊戲的幼兒園。\n\n中國湘潭｜幼兒園｜2019｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/container-kindergarten-xiangtan/01-kindergarten-model.webp",
+        "assets/board/container-kindergarten-xiangtan/02-plane-generation.webp",
+        "assets/board/container-kindergarten-xiangtan/03-form-generation.webp",
+        "assets/board/container-kindergarten-xiangtan/04-container-axonometric.webp",
+        "assets/board/container-kindergarten-xiangtan/05-exploded-layout-and-plans.webp",
+        "assets/board/container-kindergarten-xiangtan/06-general-layout.webp",
+        "assets/board/container-kindergarten-xiangtan/07-elevations-and-section.webp",
+        "assets/board/container-kindergarten-xiangtan/08-parent-trail-render.webp",
+        "assets/board/container-kindergarten-xiangtan/09-physical-model-overview.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/container-kindergarten-xiangtan/01-kindergarten-model.webp"
+          ],
+          "captions": [
+            "Physical model of the kindergarten and its courtyards."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "幼兒園與庭院的實體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The kindergarten sits in a dense residential community in Xiangtan with little open ground. Children lack space to play and the old building gives them little to enjoy.",
+          "images": [
+            "assets/board/container-kindergarten-xiangtan/06-general-layout.webp",
+            "assets/board/container-kindergarten-xiangtan/04-container-axonometric.webp"
+          ],
+          "captions": [
+            "General layout of the site.",
+            "Axonometric of the container buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這所幼兒園位於湘潭一個密集的住宅社區，開放用地很少。孩子缺少遊戲的空間，舊建築也難以帶給他們樂趣。",
+              "captions": [
+                "基地總平面。",
+                "貨櫃式建築群的軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site plan is first divided by function and then rotated to add interest. A corridor is set up to tie each part together.",
+          "images": [
+            "assets/board/container-kindergarten-xiangtan/02-plane-generation.webp",
+            "assets/board/container-kindergarten-xiangtan/03-form-generation.webp"
+          ],
+          "captions": [
+            "Steps of the plane generation.",
+            "Steps of the form and circulation generation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "總平面先依功能劃分，再加以旋轉以增加趣味。接著設置一條廊道把各部分串連起來。",
+              "captions": [
+                "平面生成的步驟。",
+                "形體與動線生成的步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A U-shaped layout holds seven containers around an inner and an outer courtyard. Classrooms, dining and play rooms are stacked and linked by ramps and terraces.",
+          "images": [
+            "assets/board/container-kindergarten-xiangtan/05-exploded-layout-and-plans.webp",
+            "assets/board/container-kindergarten-xiangtan/07-elevations-and-section.webp"
+          ],
+          "captions": [
+            "Exploded layout with the floor plans.",
+            "Elevations and a section through the courtyard."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "U 形布局把七個貨櫃量體圍繞內外兩個庭院排列。教室、餐廳與活動室層層疊放，並以坡道和平台相連。",
+              "captions": [
+                "分層布局與各層平面。",
+                "立面與穿過庭院的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "An air trail lets children walk from the ground up to the roof and lets parents watch over them. The playground rises across the roofs so the small site gains more room for activity.",
+          "images": [
+            "assets/board/container-kindergarten-xiangtan/08-parent-trail-render.webp",
+            "assets/board/container-kindergarten-xiangtan/09-physical-model-overview.webp"
+          ],
+          "captions": [
+            "Render of the outdoor parent trail.",
+            "Overview of the physical model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一條空中步道讓孩子能從地面走上屋頂，也讓家長能從旁看顧。遊戲場沿屋頂抬升，使小小的基地獲得更多活動空間。",
+              "captions": [
+                "戶外家長步道的渲染圖。",
+                "實體模型全景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the limits of the site.\n2. Divide the plan by function.\n3. Link the parts with one path.\n4. Test the form in a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀基地的限制。\n2. 依功能劃分平面。\n3. 用一條路徑串連各部分。\n4. 以模型檢驗形體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Museum of Intimate Relationship",
+      "slug": "museum-of-intimate-relationship",
+      "description": "A riverside museum turns water, wind and light into a walk through the parts of love.\n\nGuangzhou, China | Museum | 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "親密關係博物館",
+          "description": "一座河岸博物館，把水、風與光化為穿越愛情各個面向的散步。\n\n中國廣州｜博物館｜2019｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/museum-of-intimate-relationship/01-sequence-sections.webp",
+        "assets/board/museum-of-intimate-relationship/02-riverside-site-map.webp",
+        "assets/board/museum-of-intimate-relationship/03-site-environment-analysis.webp",
+        "assets/board/museum-of-intimate-relationship/04-ground-comparison.webp",
+        "assets/board/museum-of-intimate-relationship/05-space-feeling-matrix.webp",
+        "assets/board/museum-of-intimate-relationship/06-concept-and-plane-generation.webp",
+        "assets/board/museum-of-intimate-relationship/07-wind-water-light-studies.webp",
+        "assets/board/museum-of-intimate-relationship/08-function-and-streamline.webp",
+        "assets/board/museum-of-intimate-relationship/09-water-section-perspective.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/museum-of-intimate-relationship/01-sequence-sections.webp"
+          ],
+          "captions": [
+            "Sections along the visitor route, from dark rooms to open water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "沿參觀路線的剖面，從幽暗空間走向開闊水面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "When love fades, both partners are affected. The museum asks whether walking through different spaces can help couples understand love and keep it alive.",
+          "images": [
+            "assets/board/museum-of-intimate-relationship/02-riverside-site-map.webp",
+            "assets/board/museum-of-intimate-relationship/03-site-environment-analysis.webp"
+          ],
+          "captions": [
+            "Map of the riverside site.",
+            "Analysis of the site, its natural conditions and the route."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "當愛情逐漸消退，雙方都會受到影響。這座博物館探問，走過不同的空間能否幫助伴侶理解愛並讓它延續。",
+              "captions": [
+                "河岸基地的地圖。",
+                "基地、自然條件與路線的分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Love is read as three parts, intimacy, passion and commitment, which mix into eight types. Each type is matched with a mix of water, wind and light and the mood it creates.",
+          "images": [
+            "assets/board/museum-of-intimate-relationship/05-space-feeling-matrix.webp",
+            "assets/board/museum-of-intimate-relationship/04-ground-comparison.webp"
+          ],
+          "captions": [
+            "Conditions, space feelings and mood swings for each type of love.",
+            "Comparison of two ground conditions on the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "愛被解讀為親密、激情與承諾三個部分，並組合出八種類型。每一種類型都對應一組水、風與光的條件，以及它帶來的情緒。",
+              "captions": [
+                "各種愛情類型對應的環境條件、空間感受與情緒起伏。",
+                "基地上兩種地面狀態的比較。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The museum opens to the city instead of closing itself off from it. Small spaces test wind corridors, underwater galleries and rooms with strong or weak light.",
+          "images": [
+            "assets/board/museum-of-intimate-relationship/06-concept-and-plane-generation.webp",
+            "assets/board/museum-of-intimate-relationship/07-wind-water-light-studies.webp"
+          ],
+          "captions": [
+            "Design concept and plane generation.",
+            "Studies of wind, water and light spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "博物館向城市開放，而不是自我封閉。一系列小空間分別測試風廊、水下展廊，以及光線強弱不同的房間。",
+              "captions": [
+                "設計概念與平面生成。",
+                "風、水與光的空間研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Three routes, light for commitment, water for intimacy and wind for passion, lead visitors from dark spaces to the open river. Along the way the feeling of each space changes step by step.",
+          "images": [
+            "assets/board/museum-of-intimate-relationship/08-function-and-streamline.webp",
+            "assets/board/museum-of-intimate-relationship/09-water-section-perspective.webp"
+          ],
+          "captions": [
+            "Function nodes and the three routes.",
+            "Section perspective along the water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "三條路線分別以光代表承諾、以水代表親密、以風代表激情，引導參觀者從幽暗空間走向開闊的河面。沿途每個空間的感受都逐步轉變。",
+              "captions": [
+                "功能節點與三條路線。",
+                "沿水面的剖透視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name the feeling to design.\n2. Break it into simple parts.\n3. Match each part to a condition.\n4. Link them along one route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 說出要設計的感受。\n2. 把它拆成簡單的部分。\n3. 為每個部分配上一種環境條件。\n4. 沿著一條路線串連起來。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Urban Street Renovation and Flyover",
+      "slug": "street-renovation-and-flyover-tianhe",
+      "description": "A kapok-shaped flyover and three new street styles give walkers room in a busy district.\n\nGuangzhou, China | Flyover and street | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市街道改造與天橋設計",
+          "description": "一座木棉造型的天橋與三種新街道風格，為繁忙地區的行人留出空間。\n\n中國廣州｜天橋與街道｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/street-renovation-and-flyover-tianhe/01-flyover-aerial-render.webp",
+        "assets/board/street-renovation-and-flyover-tianhe/02-plane-generation.webp",
+        "assets/board/street-renovation-and-flyover-tianhe/03-form-development.webp",
+        "assets/board/street-renovation-and-flyover-tianhe/04-activity-space-analysis.webp",
+        "assets/board/street-renovation-and-flyover-tianhe/05-traffic-flow-analysis.webp",
+        "assets/board/street-renovation-and-flyover-tianhe/06-flyover-exploded-view.webp",
+        "assets/board/street-renovation-and-flyover-tianhe/07-flyover-section.webp",
+        "assets/board/street-renovation-and-flyover-tianhe/08-general-layout.webp",
+        "assets/board/street-renovation-and-flyover-tianhe/09-street-renovation-plan.webp",
+        "assets/board/street-renovation-and-flyover-tianhe/10-three-street-styles.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/street-renovation-and-flyover-tianhe/01-flyover-aerial-render.webp"
+          ],
+          "captions": [
+            "Aerial render of the diamond-shaped flyover and its central spire."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "菱形天橋與中央尖塔的鳥瞰渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Busy roads in the Tianhe District cut the area apart and leave walkers with little room to stop. The streets also lack a clear local character.",
+          "images": [
+            "assets/board/street-renovation-and-flyover-tianhe/05-traffic-flow-analysis.webp",
+            "assets/board/street-renovation-and-flyover-tianhe/04-activity-space-analysis.webp"
+          ],
+          "captions": [
+            "Analysis of traffic flow at the junction.",
+            "Activities the flyover should hold."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "天河區繁忙的道路把地區切割開來，行人幾乎沒有停留的空間。街道也缺少鮮明的在地特色。",
+              "captions": [
+                "路口交通流線分析。",
+                "天橋需要容納的活動分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The plan starts from a diamond that follows the edges of the road. It then takes the petals of the kapok, the city flower, as its shape.",
+          "images": [
+            "assets/board/street-renovation-and-flyover-tianhe/02-plane-generation.webp",
+            "assets/board/street-renovation-and-flyover-tianhe/03-form-development.webp"
+          ],
+          "captions": [
+            "Steps of the plane generation.",
+            "Steps of the form development."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "平面從一個貼合道路邊緣的菱形開始。接著以市花木棉的花瓣作為形態。",
+              "captions": [
+                "平面生成的步驟。",
+                "形體推演的步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "An outer ring keeps walkers moving while an inner ring gives them places to stay and rest. A central spire holds the deck and links it to the skyline of the district.",
+          "images": [
+            "assets/board/street-renovation-and-flyover-tianhe/06-flyover-exploded-view.webp",
+            "assets/board/street-renovation-and-flyover-tianhe/07-flyover-section.webp",
+            "assets/board/street-renovation-and-flyover-tianhe/08-general-layout.webp"
+          ],
+          "captions": [
+            "Exploded view of the flyover.",
+            "Section through the flyover.",
+            "General layout at the junction."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "外環讓行人順暢通行，內環則提供停留與休息的地方。中央尖塔拉起橋面，並與地區的天際線呼應。",
+              "captions": [
+                "天橋的分層爆炸圖。",
+                "穿過天橋的剖面。",
+                "路口的總平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Below the flyover, the old roads are moved and planted to make streets for walking. Three street styles, classical garden, local flower and future frame, give each part its own feel.",
+          "images": [
+            "assets/board/street-renovation-and-flyover-tianhe/09-street-renovation-plan.webp",
+            "assets/board/street-renovation-and-flyover-tianhe/10-three-street-styles.webp"
+          ],
+          "captions": [
+            "Plan of the renovated street.",
+            "Three street styles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在天橋下方，舊道路被調整並加以綠化，成為適合步行的街道。古典園林、在地花卉與未來框架三種街道風格，讓每一段都有自己的氛圍。",
+              "captions": [
+                "改造後街道的平面。",
+                "三種街道風格。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Trace how people move.\n2. Find a local symbol.\n3. Separate passing from staying.\n4. Give each street a theme.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 追蹤人們如何移動。\n2. 找出在地的象徵。\n3. 區分通行與停留。\n4. 為每條街道設定主題。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Residential in Green Space",
+      "slug": "residential-in-green-space-shenzhen",
+      "description": "Stepped green housing offers affordable homes to people who move to the city for work.\n\nShenzhen, China | Housing | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "綠色空間中的住宅",
+          "description": "層層退台的綠色住宅，為到城市工作的人提供負擔得起的家。\n\n中國深圳｜住宅｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/residential-in-green-space-shenzhen/01-roof-greening-axonometric.webp",
+        "assets/board/residential-in-green-space-shenzhen/02-building-program.webp",
+        "assets/board/residential-in-green-space-shenzhen/03-green-space-strategies.webp",
+        "assets/board/residential-in-green-space-shenzhen/04-block-generation.webp",
+        "assets/board/residential-in-green-space-shenzhen/05-apartment-types.webp",
+        "assets/board/residential-in-green-space-shenzhen/06-standard-floor-plans.webp",
+        "assets/board/residential-in-green-space-shenzhen/07-roof-and-visor-construction.webp",
+        "assets/board/residential-in-green-space-shenzhen/08-solar-panel-section-model.webp",
+        "assets/board/residential-in-green-space-shenzhen/09-vertical-greening-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/residential-in-green-space-shenzhen/01-roof-greening-axonometric.webp"
+          ],
+          "captions": [
+            "Layers of the green roof over the housing blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "住宅群上方綠色屋頂的分層圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Many people who move to Shenzhen for work cannot afford homes in the city centre. Low-income families, new graduates, people looking for work and people with disabilities all need a place to live.",
+          "images": [
+            "assets/board/residential-in-green-space-shenzhen/02-building-program.webp",
+            "assets/board/residential-in-green-space-shenzhen/03-green-space-strategies.webp"
+          ],
+          "captions": [
+            "Building program and links to the city.",
+            "Ways to combine buildings with green space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "許多到深圳工作的人負擔不起市中心的住房。低收入家庭、應屆畢業生、正在求職的人與行動不便者都需要一個安身之處。",
+              "captions": [
+                "建築計畫與城市的連結。",
+                "建築與綠地結合的方式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Green space and buildings in the city are often kept apart. The project tests balconies, roof gardens, courtyards and green walls as ways to bring them together.",
+          "images": [
+            "assets/board/residential-in-green-space-shenzhen/04-block-generation.webp",
+            "assets/board/residential-in-green-space-shenzhen/05-apartment-types.webp"
+          ],
+          "captions": [
+            "Steps of the block generation.",
+            "Apartment types and the functional partition."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "城市中的綠地與建築往往彼此分離。本案測試陽台、屋頂花園、庭院與綠牆，作為讓兩者結合的方法。",
+              "captions": [
+                "量體生成的步驟。",
+                "各種戶型與功能分區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The blocks are divided by function and stepped so that ramps and green terraces run through them. Several apartment types serve the different groups of residents.",
+          "images": [
+            "assets/board/residential-in-green-space-shenzhen/06-standard-floor-plans.webp"
+          ],
+          "captions": [
+            "Standard floor plans of the two blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "量體依功能劃分並層層退台，讓坡道與綠色平台貫穿其中。多種戶型對應不同的居民群體。",
+              "captions": [
+                "兩棟住宅的標準層平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Solar panels, sun visors, green roofs and vertical planting help lower the energy use of the homes. Ramps let residents with disabilities walk through the whole building.",
+          "images": [
+            "assets/board/residential-in-green-space-shenzhen/08-solar-panel-section-model.webp",
+            "assets/board/residential-in-green-space-shenzhen/07-roof-and-visor-construction.webp",
+            "assets/board/residential-in-green-space-shenzhen/09-vertical-greening-model.webp"
+          ],
+          "captions": [
+            "Solar panel and building section model.",
+            "Roof structure, sun visor and wetland section.",
+            "Vertical greening model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "太陽能板、遮陽板、綠色屋頂與垂直綠化幫助降低住宅的能耗。坡道讓行動不便的居民也能走遍整棟建築。",
+              "captions": [
+                "太陽能板與建築剖面模型。",
+                "屋頂構造、遮陽板與濕地剖面。",
+                "垂直綠化模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name who will live there.\n2. List what each group needs.\n3. Weave green space into the blocks.\n4. Detail the green systems.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 說出誰會住在這裡。\n2. 列出各群體的需求。\n3. 把綠地編織進量體。\n4. 深化綠色系統的細部。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
