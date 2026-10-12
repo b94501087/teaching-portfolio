@@ -1,0 +1,67 @@
+{
+  "project": "Cambodian Restaurant and Cookery School",
+  "dest": "assets/board/cambodian-restaurant-cookery-school",
+  "note": "Portfolio 6d64 pages 4–15 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the cover and contents pages, the project info text with the tutor and address, the photo collage of a village meal, the food photo, the history page with a crowd photo, the site photo pages, the model photo and the body text.",
+  "files": [
+    {
+      "name": "01-cuisine-process.webp",
+      "sha256": "f734ec9d3cc9dfbe29ceefda996dd3687eedf6ee973408078d1b0dc1fe5534fe",
+      "bytes": 129324,
+      "from": "6d64 page 4 — hand drawing of a traditional noodle dish from field to serving, x 34.5–100 %, y 10–98 %"
+    },
+    {
+      "name": "02-eating-habits.webp",
+      "sha256": "7e1c661fe1149dc2a924a9564b8f2f2473d6f39ee138e2cdef1f1004c50dfa03",
+      "bytes": 109452,
+      "from": "page 5 — table drawings during and after meals, x 27.5–95.5 %, y 31.5–95.5 %"
+    },
+    {
+      "name": "03-site-massing.webp",
+      "sha256": "e25582f57cacd20dc1a4c25e22c9479384b678472da17e3ca4317da4eead19d3",
+      "bytes": 113358,
+      "from": "page 7 — massing model on the site, x 2–100 %, y 15–80 %"
+    },
+    {
+      "name": "04-massing-studies.webp",
+      "sha256": "44be281f087440b3b2d6365972771862f763ecbdc53fc20f89aabd19a0075849",
+      "bytes": 74364,
+      "from": "page 10 — grid of massing studies, x 0–87 %, y 0–100 %"
+    },
+    {
+      "name": "05-green-spaces.webp",
+      "sha256": "c6c6e2ca69e548fbc7eddc56d0b55c58751ae288fed0e75f686faaa3129626e3",
+      "bytes": 90526,
+      "from": "page 11 — green space axonometric diagram, x 45–100 %, y 5–58 %"
+    },
+    {
+      "name": "06-sections.webp",
+      "sha256": "80f9d9fb8d94997de66f44e080522030c306366914a6ef0aea4ab9b383252db8",
+      "bytes": 64564,
+      "from": "page 11 — sections 1 and 2, x 16.5–94 %, y 62–97 %"
+    },
+    {
+      "name": "07-level-axons.webp",
+      "sha256": "885182bbc060732c4fcda7d21369d5e6009fe46b3dc004cef9d6c0db79a50e3e",
+      "bytes": 73290,
+      "from": "page 12 — exploded level axonometric, x 0–41 %, y 0–95 %"
+    },
+    {
+      "name": "08-section-perspective.webp",
+      "sha256": "c8a44de76126783e6a578c4542688e7c5acfeb55b30d255f24f2206023130697",
+      "bytes": 147616,
+      "from": "page 13 — section perspective, x 10–100 %, y 0–100 %"
+    },
+    {
+      "name": "09-sectional-model.webp",
+      "sha256": "42bff0324b04f7983ebd40780c71d8f07387cc814dc29068067816ddc14ef268",
+      "bytes": 73886,
+      "from": "page 14 — sectional model render, x 0–100 %, y 0–97 %"
+    },
+    {
+      "name": "10-facade-design.webp",
+      "sha256": "5e17866976b7f83b0ee4c460c3a2ab5ac897f06d6a64d10d1a51acd1ba8129e2",
+      "bytes": 113964,
+      "from": "page 15 — façade design diagrams and elevations, x 0–72 %, y 6–97 %"
+    }
+  ]
+}
