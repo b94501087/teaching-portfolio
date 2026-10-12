@@ -17442,7 +17442,7 @@
         },
         {
           "heading": "Development",
-          "body": "The design works across three times, the survival of the past, the growth of the present and the rebirth of the future, and keeps traces of the old house while adding new parts. A red stair, coloured after brown sugar used in tongsui desserts, winds through the floors to link the public dessert shop below with the family's private rooms above.",
+          "body": "The design works across three times, the survival of the past, the growth of the present and the rebirth of the future, and keeps traces of the old house while adding new parts. A red stair, its colour taken from brown sugar, winds through the floors to link the public dessert shop below with the family's private rooms above.",
           "images": [
             "assets/board/home-in-the-tongsui-store/04-design-strategy.webp",
             "assets/board/home-in-the-tongsui-store/05-physical-model.webp",
@@ -17456,7 +17456,7 @@
           "i18n": {
             "zh-Hant": {
               "heading": "推演",
-              "body": "設計以三個時間面向展開：過去的存續、現在的生長與未來的重生，在加入新構件的同時保留老屋的痕跡。一道紅色樓梯取色自糖水甜品所用的紅糖，蜿蜒穿過各層，連結樓下對外的糖水鋪與樓上家人的私密空間。",
+              "body": "設計以三個時間面向展開：過去的存續、現在的生長與未來的重生，在加入新構件的同時保留老屋的痕跡。一道紅色樓梯取色自紅糖，蜿蜒穿過各層，連結樓下對外的糖水鋪與樓上家人的私密空間。",
               "captions": [
                 "設計策略：存續、生長與重生，以及空間生成的步驟。",
                 "設計表現：實體模型中的公共與私密區域。",
@@ -17788,6 +17788,423 @@
             "zh-Hant": {
               "heading": "我如何教這套方法",
               "body": "1. 從被留下來的人出發。\n2. 把每一種感官拆解成設計元素。\n3. 親手測試材料。\n4. 讓路線的終點成為可以停留的地方。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Campus Corner Space Renovation",
+      "slug": "campus-corner-space-renovation",
+      "description": "Four corner spaces on a crowded campus renovated into a walkway, a rooftop canopy, movable activity modules and a vertical garden.\n\nTaipa, Macau | Campus renovation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "校園角落空間改造",
+          "description": "將擁擠校園中的四處角落，改造為步道、屋頂頂棚、可移動活動模組與垂直花園。\n\n澳門氹仔｜校園改造｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/campus-corner-space-renovation/01-rooftop-canopy-section.webp",
+        "assets/board/campus-corner-space-renovation/02-storm-shelter-problem.webp",
+        "assets/board/campus-corner-space-renovation/03-seating-and-exploded-view.webp",
+        "assets/board/campus-corner-space-renovation/04-mesh-speculation.webp",
+        "assets/board/campus-corner-space-renovation/05-vertical-wall-strategies.webp",
+        "assets/board/campus-corner-space-renovation/06-activity-modules.webp",
+        "assets/board/campus-corner-space-renovation/07-module-exploded-view.webp",
+        "assets/board/campus-corner-space-renovation/08-production-process.webp",
+        "assets/board/campus-corner-space-renovation/09-vertical-garden-lounge.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/campus-corner-space-renovation/01-rooftop-canopy-section.webp"
+          ],
+          "captions": [
+            "Section through the open rooftop exchange area, with its mesh canopy and structural details."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "開放屋頂交流區的剖面，呈現網狀頂棚與構造細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A university campus in Taipa, Macau, has around 16,000 students but only 0.21 sq km of land, and it is welcoming more and more students, parents and visitors. The traditional functional set-up no longer meets the needs of this diverse population, so the student selected four corner spaces on campus for renovation.",
+          "images": [
+            "assets/board/campus-corner-space-renovation/02-storm-shelter-problem.webp"
+          ],
+          "captions": [
+            "Scheme one: the traditional storm shelter only shelters from rain and sunlight."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "澳門氹仔的一所大學校園約有一萬六千名學生，土地卻只有 0.21 平方公里，同時迎來愈來愈多的學生、家長與訪客。傳統的功能配置已無法滿足這群多元使用者的需求，因此學生選定校園中的四處角落空間進行改造。",
+              "captions": [
+                "方案一：傳統的避雨亭只能遮雨與遮陽。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each corner was read through its own problem: a shelter with a single function at the bus stop, an office where too many teachers make students nervous, a playground used only for football and running, and candidates with nowhere to wait during exams. The campus also lacks greenery, and the school is looking for ways to create a garden.",
+          "images": [
+            "assets/board/campus-corner-space-renovation/03-seating-and-exploded-view.webp",
+            "assets/board/campus-corner-space-renovation/04-mesh-speculation.webp"
+          ],
+          "captions": [
+            "Seating forms for people waiting for the bus and the exploded view of the walkway, with its smart screen and all-in-one seating.",
+            "Structural speculation for the rooftop: mesh forms from moving points, and the layered canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每個角落都從各自的問題出發：公車站旁只有單一功能的避雨亭、教師過多而讓學生緊張的辦公室、只用來踢足球與跑步的操場，以及考試時無處等候的考生。校園也缺乏綠化，學校正在尋找打造花園的方法。",
+              "captions": [
+                "為候車者設計的座椅形態，以及步道的爆炸圖，包含智慧螢幕與一體式座椅。",
+                "屋頂的結構推演：移動控制點生成的網狀形態，以及分層的頂棚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The walkway gains seats and side screens that start working when the ground senses a person's pressure, and the rooftop canopy varies the number and position of its points to create different spaces. The activity module evolves from hexagons with folding walls, and its wood panels divide into displays, tables, chairs and other functions.",
+          "images": [
+            "assets/board/campus-corner-space-renovation/05-vertical-wall-strategies.webp",
+            "assets/board/campus-corner-space-renovation/07-module-exploded-view.webp",
+            "assets/board/campus-corner-space-renovation/08-production-process.webp"
+          ],
+          "captions": [
+            "Design strategies for the vertical walls and the three- and six-section wood panels.",
+            "Exploded view of the module, from the raising objects and base plate to the insulation layer.",
+            "Production process: disassembly of parts, assembling the track, building a stand and installing the panels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "步道加入座椅，以及在地面感應到人的壓力時啟動的側邊螢幕；屋頂頂棚則改變控制點的數量與位置，創造不同的空間。活動模組由可折疊牆面的六邊形演變而來，木板再分割為展示、桌、椅等不同功能。",
+              "captions": [
+                "垂直牆面的設計策略，以及三段式與六段式木板。",
+                "模組的爆炸圖，從架高構件、底板到隔熱層。",
+                "生產流程：拆解構件、組裝軌道、搭建支架與安裝面板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The playground gains clusters of modules for meals, performances, displays and lounging, while the exam waiting area becomes a vertical garden lounge built by setting up floor slabs. Its 24 plant modules can be moved at will to form aggregated, discrete and other spatial forms.",
+          "images": [
+            "assets/board/campus-corner-space-renovation/06-activity-modules.webp",
+            "assets/board/campus-corner-space-renovation/09-vertical-garden-lounge.webp"
+          ],
+          "captions": [
+            "Activity modules on the playground: mealtime, stage, display and lounge areas.",
+            "Functional analysis and the vertical garden lounge with its variable vegetation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "操場加入一組組可供用餐、表演、展示與休憩的模組；考試等候區則透過架設樓板，成為垂直花園休憩空間。其中 24 個植栽模組可自由移動，組成聚合、分散等不同的空間形態。",
+              "captions": [
+                "操場上的活動模組：用餐、舞台、展示與休憩區。",
+                "功能分析，以及具可變植栽的垂直花園休憩空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find the corners people already use.\n2. Name one problem for each corner.\n3. Design parts that can be built and moved.\n4. Let users change the space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出人們已在使用的角落。\n2. 為每個角落指出一個問題。\n3. 設計可以建造與移動的構件。\n4. 讓使用者改變空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Mine Air Purifier",
+      "slug": "mine-air-purifier",
+      "description": "An air purifier for a coal mining area that gives workers fresh air and resting platforms and heals the abandoned land.\n\nInner Mongolia, China | Air purification and technology | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "礦區空氣淨化器",
+          "description": "為採煤礦區設計的空氣淨化器，為工人提供新鮮空氣與休憩平台，並修復廢棄的土地。\n\n中國內蒙古｜空氣淨化與科技｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/mine-air-purifier/01-profile-analysis.webp",
+        "assets/board/mine-air-purifier/02-functional-concept.webp",
+        "assets/board/mine-air-purifier/03-jellyfish-inspiration.webp",
+        "assets/board/mine-air-purifier/04-plant-purification-theory.webp",
+        "assets/board/mine-air-purifier/05-how-air-purifiers-work.webp",
+        "assets/board/mine-air-purifier/06-physical-and-chemical-approach.webp",
+        "assets/board/mine-air-purifier/07-additional-details.webp",
+        "assets/board/mine-air-purifier/08-cleaning-process-and-floor-plans.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/mine-air-purifier/01-profile-analysis.webp"
+          ],
+          "captions": [
+            "Profile analysis: vegetation zones, activity platform, circular walkway and the decontamination areas below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖面分析：植栽區、活動平台、環形步道，以及下方的淨化區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Since the industrial revolution the demand for energy has never ceased, and coal mining has harmed not only the ecology but also the health of the workers who mine it. Countless abandoned pits cannot grow new vegetation, and countless workers suffer from cancer in their lungs.",
+          "images": [
+            "assets/board/mine-air-purifier/02-functional-concept.webp"
+          ],
+          "captions": [
+            "Functional concept: spiral staircase, vertical lifts, platforms, chat area, circular walkway and a high level garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "自工業革命以來，能源需求從未停止，而採煤不僅衝擊生態，也損害了採煤工人的健康。無數廢棄礦坑長不出新的植被，無數工人也飽受肺癌之苦。",
+              "captions": [
+                "功能構想：螺旋景觀樓梯、垂直電梯、各種平台、交談區、環形步道與高處花園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The user analysis followed travellers, office workers, workers and residents through a day of vehicle exhaust, factory exhaust gas and domestic waste gas. The study then looked at how plants absorb carbon dioxide and block dust, and at the jellyfish, whose small holes in the tentacles control the flow of water and nutrients.",
+          "images": [
+            "assets/board/mine-air-purifier/03-jellyfish-inspiration.webp",
+            "assets/board/mine-air-purifier/04-plant-purification-theory.webp"
+          ],
+          "captions": [
+            "Sources of inspiration: sketches of the jellyfish head and body.",
+            "The theory of air purification by plants, through chemical and physical approaches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "使用者分析追蹤旅人、上班族、工人與居民的一天，他們分別面對汽車廢氣、工廠廢氣與家庭廢氣。研究接著探討植物如何吸收二氧化碳並阻擋粉塵，以及水母如何透過觸手上的小孔控制水與養分的進出。",
+              "captions": [
+                "靈感來源：水母頭部與身體的草圖。",
+                "植物淨化空氣的原理，分為化學與物理兩種途徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The chemical approach removes nitrogen from the air so that the remaining gas is oxygen with a purity of about 90 to 95 %, while the physical approach uses multiple layers of filters that keep out dust by the density of the mesh. Each approach became a stacked unit of fans, tanks and buffer systems, with rotating staircases, an elevator and rainwater collectors added around them.",
+          "images": [
+            "assets/board/mine-air-purifier/05-how-air-purifiers-work.webp",
+            "assets/board/mine-air-purifier/06-physical-and-chemical-approach.webp",
+            "assets/board/mine-air-purifier/07-additional-details.webp"
+          ],
+          "captions": [
+            "How air purifiers work, chemically and physically.",
+            "The physical and chemical purification units and their components.",
+            "Additional details: rotating staircases, elevator, mechanical clamps, shock absorber, rotating track and rainwater collectors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "化學途徑將空氣中的氮氣移除，使剩下的氣體成為純度約 90 至 95 % 的氧氣；物理途徑則以多層濾網，依網目的密度阻擋粉塵。兩種途徑各自發展為由風扇、儲氣槽與緩衝系統堆疊而成的單元，周圍再加入旋轉樓梯、電梯與雨水收集器。",
+              "captions": [
+                "空氣淨化器的化學與物理運作方式。",
+                "物理與化學淨化單元及其構件。",
+                "其他細部：旋轉樓梯、電梯、機械夾具、減震器、旋轉軌道與雨水收集器。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The mine air purifier gives workers fresh air and elevated resting platforms, and it purifies rainwater to heal the abandoned land. Its environmental cleaning process shows the ground turning green over three, six and twelve months.",
+          "images": [
+            "assets/board/mine-air-purifier/08-cleaning-process-and-floor-plans.webp"
+          ],
+          "captions": [
+            "Environmental cleaning process over three, six and twelve months, with the ground floor and second layer plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "礦區空氣淨化器為工人提供新鮮空氣與高處的休憩平台，並淨化雨水，修復廢棄的土地。環境淨化過程呈現地面在三個月、六個月與十二個月後逐漸轉綠。",
+              "captions": [
+                "三個月、六個月與十二個月的環境淨化過程，以及首層與第二層平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the health of the people on site.\n2. Learn how nature already cleans the air.\n3. Turn each process into a working part.\n4. Show the land changing over time.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從基地上人們的健康出發。\n2. 了解自然如何淨化空氣。\n3. 把每個過程轉化為可運作的構件。\n4. 呈現土地隨時間的改變。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Space Generated by the Body",
+      "slug": "space-generated-by-the-body",
+      "description": "An experimental house interior whose rooms are generated from the movements of the human body.\n\nExperimental | Human scale space | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "由身體生成的空間",
+          "description": "一個實驗性的住宅室內設計，以人體動作生成每一個房間。\n\n實驗性｜人體尺度空間｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/space-generated-by-the-body/01-profile-analysis.webp",
+        "assets/board/space-generated-by-the-body/02-clay-models.webp",
+        "assets/board/space-generated-by-the-body/03-spatial-models.webp",
+        "assets/board/space-generated-by-the-body/04-shape-combinations.webp",
+        "assets/board/space-generated-by-the-body/05-space-combinations.webp",
+        "assets/board/space-generated-by-the-body/06-floor-plan.webp",
+        "assets/board/space-generated-by-the-body/07-renderings.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/space-generated-by-the-body/01-profile-analysis.webp"
+          ],
+          "captions": [
+            "Profile analysis: left and front views of the house at 1:50."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖面分析：住宅的左視與前視圖，比例 1:50。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Residential spaces are usually formed by creating a space, dividing it into functions and finally placing people in it. The project asks whether this can work the other way round, using the dynamics of human limbs to generate the space of a house interior.",
+          "images": [
+            "assets/board/space-generated-by-the-body/02-clay-models.webp"
+          ],
+          "captions": [
+            "Clay models of the standing, sitting and reclining positions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "住宅空間通常先建立空間，再劃分功能，最後才把人放進去。本案反過來思考，嘗試以人體四肢的動態來生成住宅的室內空間。",
+              "captions": [
+                "站姿、坐姿與臥姿的黏土模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A life timeline recorded how often each room was used through the day, and motion extraction showed that different activities in different spaces change the body's impact on its surroundings. Standing space proved long and wider in its upper half for arm extension, sitting space was shaped by the inward and outward concavity of the walls, and lying space was flat and long with an M-shape.",
+          "images": [
+            "assets/board/space-generated-by-the-body/03-spatial-models.webp"
+          ],
+          "captions": [
+            "Spatial models for walking, shaking the limbs, standing work, sitting and lying flat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "生活時間軸記錄一天之中各房間的使用頻率，動作萃取則顯示不同空間中的不同活動，會改變身體對周遭環境的影響。研究發現站姿空間狹長、上半部較寬以容納手臂伸展；坐姿空間由牆面的內凹與外凸塑造；臥姿空間則平而長，呈 M 形。",
+              "captions": [
+                "行走、擺動四肢、站立工作、坐與平躺的空間模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Eight sets of shape combinations were made with models in the three postures, and each room mixes them in its own ratio, such as 60 % reclining and 40 % standing space for the bedroom. The bedroom and study room are the most used spaces, at 30 % and 25 %, followed by the living room and the kitchen.",
+          "images": [
+            "assets/board/space-generated-by-the-body/04-shape-combinations.webp",
+            "assets/board/space-generated-by-the-body/05-space-combinations.webp"
+          ],
+          "captions": [
+            "Shape combinations from the solid models of different poses.",
+            "Space combinations for the bedroom, kitchen, living room and study room, with the percentage of functions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以三種姿態的模型做出八組形態組合，每個房間再依各自的比例混合，例如臥室為 60 % 臥姿空間加 40 % 站姿空間。臥室與書房是最常使用的空間，分別占 30 % 與 25 %，其次是客廳與廚房。",
+              "captions": [
+                "由不同姿態實體模型組合而成的形態。",
+                "臥室、廚房、客廳與書房的空間組合，以及各功能的比例。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The resulting house joins the entrance, bedroom, living room, lounge area, kitchen, study room, toilets and back door in one curved plan. Its rooms take the shapes of the bodies that use them.",
+          "images": [
+            "assets/board/space-generated-by-the-body/06-floor-plan.webp",
+            "assets/board/space-generated-by-the-body/07-renderings.webp"
+          ],
+          "captions": [
+            "Floor plan with the entrance, bedroom, living room, lounge area, kitchen, study room, back door and toilets.",
+            "Renderings of the interior spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的住宅以一個曲線平面，串起入口、臥室、客廳、休憩區、廚房、書房、廁所與後門。每個房間都呈現使用它的身體所形成的形狀。",
+              "captions": [
+                "平面圖：入口、臥室、客廳、休憩區、廚房、書房、後門與廁所。",
+                "室內空間的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe how you use your own home.\n2. Record the body in each activity.\n3. Model the space each posture needs.\n4. Combine the shapes into rooms.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察自己如何使用自己的家。\n2. 記錄每種活動中的身體。\n3. 為每種姿態需要的空間做模型。\n4. 把形態組合成房間。"
             }
           }
         }
