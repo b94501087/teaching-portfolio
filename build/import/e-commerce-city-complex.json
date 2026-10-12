@@ -1,0 +1,55 @@
+{
+  "project": "E-commerce City Complex",
+  "dest": "assets/board/e-commerce-city-complex",
+  "note": "Portfolio 849ed414 pages 2–8 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the project header with names, the e-commerce village map and timeline with photos on page 3, the site problem photo strip on page 4, and the renderings with photo cut-out people on pages 5–7. No retouching.",
+  "files": [
+    {
+      "name": "01-complex-axonometric.webp",
+      "sha256": "111472ed88334229dcc057a319b81bd33722eacf4af43416f10eae8ccc08761e",
+      "bytes": 134144,
+      "from": "849ed414 page 2 — axonometric drawing of the complex, x 0–62 %, y 28–100 %"
+    },
+    {
+      "name": "02-identity-and-framework.webp",
+      "sha256": "64bfd1c618249f2de749c7cc7d9bca713d1bd91c19b5821c9cd243e5f79843aa",
+      "bytes": 111206,
+      "from": "page 4 — crowd identity transformation mechanism and framework, x 0–100 %, y 32–100 %"
+    },
+    {
+      "name": "03-strategy.webp",
+      "sha256": "a9c17056b2f1fe959b5345892998f1cc31c0dcf5d461cc981faeede7a01a4703",
+      "bytes": 70360,
+      "from": "page 5 — strategy diagrams, x 0–100 %, y 0–38 %"
+    },
+    {
+      "name": "04-section-model.webp",
+      "sha256": "bc4e80c051d54a3d1784556df75149a7eb0b095b4bb7a210bb4c34414fd6c412",
+      "bytes": 143532,
+      "from": "page 6 — section model, x 33.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "05-design-process.webp",
+      "sha256": "768195f024ebf4f535e91b4cdd9e8f98f658fdbfffe280c2b2b60ce93968cf4b",
+      "bytes": 51520,
+      "from": "page 7 — design process diagrams, x 0–100 %, y 0–27 %"
+    },
+    {
+      "name": "06-floor-plans.webp",
+      "sha256": "31337622680d0db443823fbfe33caeb0d946f7828b8c5e098da7bf152ea2801a",
+      "bytes": 73758,
+      "from": "page 7 — 1st, 2nd and 3rd floor plans, combined side by side"
+    },
+    {
+      "name": "07-model-photos.webp",
+      "sha256": "24ab42fbc7d47a4ff69ffdd4cc61b947e3d7d33f30855d720dc4b3dcf82077a9",
+      "bytes": 55238,
+      "from": "page 8 — model photos, x 0–100 %, y 0–35 %"
+    },
+    {
+      "name": "08-model-rendering.webp",
+      "sha256": "d00caa84ee24a37ea4558839acb7c3538ca250ade43f2671bb82dd48e52dcf50",
+      "bytes": 124310,
+      "from": "page 8 — rendering of the complex, x 0–100 %, y 40–100 %"
+    }
+  ]
+}
