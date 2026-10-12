@@ -16074,6 +16074,435 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Street Reset",
+      "slug": "street-reset-participatory-design",
+      "description": "Four micro-renewals reconnect an old Zhuhai alley as a line people enjoy walking.\n\nZhuhai, China | Participatory street design | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "街道重置",
+          "description": "四處微更新重新串連珠海的老巷弄，成為人們樂於漫步的路線。\n\n中國珠海｜參與式街道設計｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/street-reset-participatory-design/01-life-on-the-street.webp",
+        "assets/board/street-reset-participatory-design/02-road-analysis.webp",
+        "assets/board/street-reset-participatory-design/03-concept-views-on-the-street.webp",
+        "assets/board/street-reset-participatory-design/04-sensory-map.webp",
+        "assets/board/street-reset-participatory-design/05-parents-waiting-area.webp",
+        "assets/board/street-reset-participatory-design/06-healthy-streets.webp",
+        "assets/board/street-reset-participatory-design/07-neighbourhood-before-after.webp",
+        "assets/board/street-reset-participatory-design/08-community-events-kitchen.webp",
+        "assets/board/street-reset-participatory-design/09-street-speed-design-process.webp",
+        "assets/board/street-reset-participatory-design/10-street-speed-master-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/street-reset-participatory-design/01-life-on-the-street.webp"
+          ],
+          "captions": [
+            "Life on the street: a weekday and a weekend along the four renewed points of the alley."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "街道生活：沿著巷弄四個更新節點的平日與週末。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In fast-moving, car-planned cities, urban roads are designed with the car as king, while pedestrians come second and lose their enjoyment of public streets. In an old neighbourhood near Gongbei Port in Zhuhai, the lively alleys have fallen into disrepair and are often avoided.",
+          "images": [
+            "assets/board/street-reset-participatory-design/02-road-analysis.webp"
+          ],
+          "captions": [
+            "Road analysis: congested main and feeder roads, overlooked alleys, and a new path through four points."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在快速發展、以汽車為規劃核心的城市裡，道路以車為王，行人退居次位，也失去了享受公共街道的樂趣。在珠海拱北口岸附近的老社區，原本熱鬧的巷弄日漸破敗，常被人們繞道避開。",
+              "captions": [
+                "道路分析：擁擠的主幹道與支路、被忽視的巷弄，以及串連四個節點的新路徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Street users, from the elderly and office workers to residents and students, were interviewed about their vision for the alley and involved in the planning with the designer. A sensory map recorded four sites: crowded and messy, an unpleasant odour, plant clutter and vacant land.",
+          "images": [
+            "assets/board/street-reset-participatory-design/03-concept-views-on-the-street.webp",
+            "assets/board/street-reset-participatory-design/04-sensory-map.webp"
+          ],
+          "captions": [
+            "Concept: views on the street from residents, students, tenants and tourists become key views for the design.",
+            "Sensory map of the four sites along the alley."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "設計者訪談了長者、上班族、居民與學生等街道使用者，了解他們對巷弄的想像，並邀請他們與設計者一起參與規劃。感官地圖記錄了四個基地：擁擠雜亂、氣味難聞、植栽雜亂與閒置空地。",
+              "captions": [
+                "概念：居民、學生、租戶與遊客對街道的看法，轉化為設計的關鍵視角。",
+                "沿著巷弄四個基地的感官地圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The four small points are micro-renovated around safety, health, identity and speed. A parents' waiting area separates people from motor vehicles, courier lockers with plants and seating replace the smelly rubbish corner, and a telescopic kitchen gives the community a place for picnics.",
+          "images": [
+            "assets/board/street-reset-participatory-design/05-parents-waiting-area.webp",
+            "assets/board/street-reset-participatory-design/06-healthy-streets.webp",
+            "assets/board/street-reset-participatory-design/07-neighbourhood-before-after.webp",
+            "assets/board/street-reset-participatory-design/08-community-events-kitchen.webp"
+          ],
+          "captions": [
+            "Site 1, parents' waiting area: design process, area functions and plan.",
+            "Site 2, healthy streets: courier lockers, plant areas and enclosed activity areas.",
+            "Site 3, before and after: clearing overgrown vegetation and opening access to homes.",
+            "Site 3, community events: a telescopic kitchen unfolds into an open picnic table."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "四個小節點分別以安全、健康、認同與速度為主題進行微更新。家長等候區將行人與車輛分開，結合植栽與座椅的快遞櫃取代了氣味難聞的垃圾角落，可伸縮的廚房則讓社區有了野餐的場所。",
+              "captions": [
+                "基地一，家長等候區：設計流程、區域機能與平面。",
+                "基地二，健康街道：快遞櫃、植栽區與圍合的活動區。",
+                "基地三，改造前後：清理過度生長的植栽，打開通往住家的動線。",
+                "基地三，社區活動：可伸縮的廚房展開成開放的野餐桌。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "On the wide street of Site 4, the road is divided into super fast, fast and slow levels, and a separate cycle lane avoids conflicts with pedestrians. The four themes are linked into one living line, so that people can enjoy walking through the alleys again.",
+          "images": [
+            "assets/board/street-reset-participatory-design/09-street-speed-design-process.webp",
+            "assets/board/street-reset-participatory-design/10-street-speed-master-plan.webp"
+          ],
+          "captions": [
+            "Site 4, street speed: problems, strategies and the design process from human behaviour to form.",
+            "Site 4 master plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在基地四的寬闊街道上，道路依速度分為極快、快與慢三個層級，獨立的自行車道則避免與行人衝突。四個主題串連成一條生活軸線，讓人們重新享受在巷弄中漫步。",
+              "captions": [
+                "基地四，街道速度：問題、策略，以及從人的行為到形態的設計流程。",
+                "基地四總平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Walk the street and map how each group uses it.\n2. Interview the people who live there.\n3. Pick small points for micro-renewal.\n4. Link the points into one walking line.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 走訪街道，記錄不同族群的使用方式。\n2. 訪談在地居民。\n3. 選定小節點進行微更新。\n4. 將節點串連成一條步行路線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Stitching River Side",
+      "slug": "stitching-river-side",
+      "description": "A former brewery on the Guangzhou riverfront is stitched back to the water and the city around the clock.\n\nGuangzhou, China | Waterfront and industrial heritage | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "縫合河岸",
+          "description": "廣州河岸的舊啤酒廠，全天候重新與水岸及城市縫合。\n\n中國廣州｜濱水與工業遺產｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/stitching-river-side/01-physical-model.webp",
+        "assets/board/stitching-river-side/02-uneven-use-of-space.webp",
+        "assets/board/stitching-river-side/03-people-flow-analysis.webp",
+        "assets/board/stitching-river-side/04-24-hour-activities-schedule.webp",
+        "assets/board/stitching-river-side/05-strategy-stitch-blur-increase.webp",
+        "assets/board/stitching-river-side/06-natural-boundaries-and-beer-business.webp",
+        "assets/board/stitching-river-side/07-master-plan.webp",
+        "assets/board/stitching-river-side/08-overall-view-day-to-night.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/stitching-river-side/01-physical-model.webp"
+          ],
+          "captions": [
+            "Physical model: the red walkways stitch the riverside site to the water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "實體模型：紅色步道將河岸基地與水面縫合在一起。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site on the bank of the Pearl River in Guangzhou was originally a brewery, later turned into a beer culture street for food, entertainment and leisure. It is used mostly at night and lacks popularity on weekdays, its office, culture, catering and landscape areas are rarely connected, and few people pass through the ground-floor waterfront.",
+          "images": [
+            "assets/board/stitching-river-side/02-uneven-use-of-space.webp",
+            "assets/board/stitching-river-side/03-people-flow-analysis.webp"
+          ],
+          "captions": [
+            "Uneven use of space between culture, catering and office, night and morning.",
+            "People flow analysis: fragmentation with the surroundings by day and vertical fragmentation at night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於廣州珠江岸邊，原為一座啤酒廠，後來轉型為結合餐飲、娛樂與休閒的啤酒文化街。這裡多半只在夜間使用，平日人氣不足；辦公、文化、餐飲與景觀四個區域彼此少有連結，也很少有人經過一樓的濱水空間。",
+              "captions": [
+                "文化、餐飲與辦公空間在夜間與早晨的使用不均。",
+                "人流分析：白天與周邊斷裂，夜間則出現垂直方向的空間斷裂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "To use the site efficiently, the project proposes a 24-hour event. The three themes of ecology, history and experience stitch together the inside and outside of the site, blur its hard boundary and add day and night activities.",
+          "images": [
+            "assets/board/stitching-river-side/04-24-hour-activities-schedule.webp",
+            "assets/board/stitching-river-side/05-strategy-stitch-blur-increase.webp"
+          ],
+          "captions": [
+            "Activities schedule planning for a 24-hour party across office, culture, catering and leisure.",
+            "Strategy: stitch, blur the boundary, and increase day and night activities."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "為了有效利用基地，本案提出二十四小時活動的構想。生態、歷史與體驗三個主題縫合基地的內外，模糊原本生硬的邊界，並增加日夜的活動。",
+              "captions": [
+                "二十四小時派對的活動時程規劃，涵蓋辦公、文化、餐飲與休閒。",
+                "策略：縫合、模糊邊界，以及增加日夜活動。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The hard barge gradually becomes a soft one, blurring the separation between water and site and increasing biodiversity. The malt barn, the original starting point of brewing, becomes a beer-making experience workshop and the start of a browsing route through the production flow.",
+          "images": [
+            "assets/board/stitching-river-side/06-natural-boundaries-and-beer-business.webp",
+            "assets/board/stitching-river-side/07-master-plan.webp"
+          ],
+          "captions": [
+            "Topic 1, opening natural boundaries, and Topic 2, the new beer business.",
+            "Master plan with the workshop, cultural square, platforms and cruise terminal."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "原本生硬的駁岸逐步轉為柔性駁岸，模糊水與基地的分隔，也增加生物多樣性。原本作為釀酒起點的麥芽倉，改造成啤酒釀造體驗工坊，並成為穿越生產流程的參觀路線起點。",
+              "captions": [
+                "主題一，打開自然邊界；主題二，新的啤酒產業。",
+                "總平面：工坊、文化廣場、親水平台與遊船碼頭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The day and night activities of different groups are carried out throughout the 24 hours of the day. The site is stitched together both horizontally and vertically, so that people can fully experience the industrial heritage of the city's waterfront.",
+          "images": [
+            "assets/board/stitching-river-side/08-overall-view-day-to-night.webp"
+          ],
+          "captions": [
+            "Overall view from morning to dusk and night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "不同族群的日夜活動在一天二十四小時中持續進行。基地在水平與垂直方向上都被縫合起來，讓人們能完整體驗城市濱水區的工業遺產。",
+              "captions": [
+                "從早晨到黃昏與夜晚的整體鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map who uses the site, when and where.\n2. Find the breaks in time and space.\n3. Plan a full 24-hour schedule.\n4. Stitch the site with routes and soft edges.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 記錄誰在何時、何處使用基地。\n2. 找出時間與空間上的斷裂。\n3. 規劃完整的二十四小時時程。\n4. 以路徑與柔性邊界縫合基地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Zhuhai 2050",
+      "slug": "zhuhai-2050-30-minute-city",
+      "description": "A new transport system links Zhuhai's four industries into a 30-minute city of the future.\n\nZhuhai, China | Urban transport and planning | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "珠海2050",
+          "description": "以新的交通系統串連珠海四大產業，打造未來的三十分鐘城市。\n\n中國珠海｜城市交通與規劃｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/zhuhai-2050-30-minute-city/01-city-of-future-collage.webp",
+        "assets/board/zhuhai-2050-30-minute-city/02-compare-shenzhen-zhuhai.webp",
+        "assets/board/zhuhai-2050-30-minute-city/03-urban-texture-analysis.webp",
+        "assets/board/zhuhai-2050-30-minute-city/04-site-land-use-analysis.webp",
+        "assets/board/zhuhai-2050-30-minute-city/05-population-analysis.webp",
+        "assets/board/zhuhai-2050-30-minute-city/06-new-urban-transport-system.webp",
+        "assets/board/zhuhai-2050-30-minute-city/07-education-connections.webp",
+        "assets/board/zhuhai-2050-30-minute-city/08-business-towers.webp",
+        "assets/board/zhuhai-2050-30-minute-city/09-business-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/zhuhai-2050-30-minute-city/01-city-of-future-collage.webp"
+          ],
+          "captions": [
+            "Zhuhai 2050: a collage of the 30-minute city of the future."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "珠海2050：未來三十分鐘城市的拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Zhuhai is an important node city in the Guangdong-Hong Kong-Macao Greater Bay Area, but because of its own unbalanced development it cannot effectively link up the urban clusters. Its existing basic transportation cannot help the city develop.",
+          "images": [
+            "assets/board/zhuhai-2050-30-minute-city/02-compare-shenzhen-zhuhai.webp"
+          ],
+          "captions": [
+            "Compare: land area, population density, city model and traffic connection of Shenzhen and Zhuhai."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "珠海是粵港澳大灣區的重要節點城市，但由於城市本身發展不均，無法有效串連周邊的城市群。現有的基礎交通也無法帶動城市發展。",
+              "captions": [
+                "比較：深圳與珠海的土地面積、人口密度、城市模型與交通連結。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The analysis found that the east-west road links are mainly carried by a single highway, passenger rail hubs sit in the east and industrial ones in the west, and most buildings and land-use types are concentrated in the east. Population is unevenly distributed as people move towards the education and business regions.",
+          "images": [
+            "assets/board/zhuhai-2050-30-minute-city/03-urban-texture-analysis.webp",
+            "assets/board/zhuhai-2050-30-minute-city/04-site-land-use-analysis.webp",
+            "assets/board/zhuhai-2050-30-minute-city/05-population-analysis.webp"
+          ],
+          "captions": [
+            "Urban texture analysis: road networks, waterway grids, rail systems, building texture and population density.",
+            "Site land use analysis.",
+            "Population analysis: eastern and western population and migration direction."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "分析發現，城市東西向的道路連結主要只靠一條高速公路，客運鐵路樞紐集中在東部，工業鐵路樞紐則在西部，大部分建築與多元的土地使用也集中在東部。隨著人們逐漸遷往教育與商業區域，人口分布也不均衡。",
+              "captions": [
+                "城市紋理分析：道路網、水道網、鐵路系統、建築紋理與人口密度。",
+                "基地土地使用分析。",
+                "人口分析：東西部人口與遷移方向。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The transport system is rebuilt to link education, business, industry and agriculture, the four industries of the city. Each industry gets its own transport node, connected by new routes across the city.",
+          "images": [
+            "assets/board/zhuhai-2050-30-minute-city/06-new-urban-transport-system.webp",
+            "assets/board/zhuhai-2050-30-minute-city/07-education-connections.webp"
+          ],
+          "captions": [
+            "New urban transport system linking agriculture, education, business and industry.",
+            "Education: leisure connections let students and teachers skateboard, cycle and walk to the external railway system."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計重建交通系統，串連教育、商業、工業與農業四大產業。每個產業都有自己的交通節點，並以橫跨全市的新路線相連。",
+              "captions": [
+                "串連農業、教育、商業與工業的新城市交通系統。",
+                "教育：休閒連結讓師生可以滑板、騎車與步行，通往對外鐵路系統。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the business area, people can arrive by aircraft and enter the offices through a sky lobby, avoiding congestion in the buildings at peak hours. The formerly single-function node city becomes an industrial service city that attracts people from within and beyond Zhuhai.",
+          "images": [
+            "assets/board/zhuhai-2050-30-minute-city/08-business-towers.webp",
+            "assets/board/zhuhai-2050-30-minute-city/09-business-section.webp"
+          ],
+          "captions": [
+            "Business: towers wrapped by ramps and landing platforms.",
+            "Section through the business tower with sky platforms and the sky lobby."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在商業區，人們可以搭乘飛行器抵達，經由空中大廳進入辦公室，避開尖峰時段大樓內的擁擠。原本機能單一的節點城市，轉型為吸引城內外人口的產業服務型城市。",
+              "captions": [
+                "商業：以坡道與起降平台環繞的高塔。",
+                "商業高塔剖面：空中平台與空中大廳。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Compare the city with its neighbours.\n2. Map roads, rail, water and land use in layers.\n3. Find where people and industries are unbalanced.\n4. Link the industries with one transport system.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 將城市與鄰近城市比較。\n2. 分層繪製道路、鐵路、水系與土地使用。\n3. 找出人口與產業失衡之處。\n4. 以一套交通系統串連各產業。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
