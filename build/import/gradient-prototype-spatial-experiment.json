@@ -1,0 +1,49 @@
+{
+  "project": "Spatial Experiment: Gradient Prototype",
+  "dest": "assets/board/gradient-prototype-spatial-experiment",
+  "note": "Portfolio d2e6 pages 10–12 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title text, the density and concentration experiment photos, the photos and drawings of named buildings and artworks, the artist portrait and the list of verbs.",
+  "files": [
+    {
+      "name": "01-fifty-test-models.webp",
+      "sha256": "db98331089a1ce5a6c17a4563f4781dbd3f044b6eeac6f525e9193860d64bf01",
+      "bytes": 156724,
+      "from": "d2e6 page 10 — fifty test models, x 0–50 %, y 25–88 %"
+    },
+    {
+      "name": "02-concept-joints.webp",
+      "sha256": "6a7a27041c2a91afca49d1a5ed69f209c3c61df1bee9ac6c56d5598b8dbe0382",
+      "bytes": 42378,
+      "from": "page 11 — concept joints inlay, join, hook and collect, x 0–30 %, y 45–100 %"
+    },
+    {
+      "name": "03-models-a-to-d.webp",
+      "sha256": "053e930027748e592d0740af2d5adf780f546fc594266a3c7bbd5b339ebb1aae",
+      "bytes": 131494,
+      "from": "page 11 — models A to D, x 30–66 %, y 0–100 %"
+    },
+    {
+      "name": "04-models-version-two.webp",
+      "sha256": "d60f34386158a61c19100a1acb017c058fc4a41e16da3d91f08cab66c1efc75d",
+      "bytes": 224810,
+      "from": "page 11 — models A to D version two, x 66–100 %, y 0–100 %"
+    },
+    {
+      "name": "05-combined-concept-model.webp",
+      "sha256": "91ad8ae220f8deba38fb755c1d88e8f9a089747f8553e7ed0695be7b951f3c4c",
+      "bytes": 139396,
+      "from": "page 12 — combined concept model, x 0–20 %, y 0–100 %"
+    },
+    {
+      "name": "06-model-close-ups.webp",
+      "sha256": "12a62e139a0300c5289742e8e4c89d2759c3bddcaca37e3a3e68fa0af7ddafaa",
+      "bytes": 72292,
+      "from": "page 12 — model close-ups, x 34–50 %, y 0–100 %"
+    },
+    {
+      "name": "07-opening-degree-plans.webp",
+      "sha256": "1f0290e070a688792be25d21b453eeba330a10bd1dc83d3257319edb8ab267ae",
+      "bytes": 115278,
+      "from": "page 12 — plans of the opening degree, x 55–96 %, y 0–88 %"
+    }
+  ]
+}
