@@ -1,0 +1,49 @@
+{
+  "project": "Implantation of Welfare Index",
+  "dest": "assets/board/welfare-index-urban-village",
+  "note": "Portfolio dba6 pages 6–9 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the satellite photo of the village, the city map on an aerial photo, the development timeline with photo people, the site and street photos, the resident portraits, the interview comic pages, the hand-drawn section with photo insets, the theorist portrait, the welfare index wheel with photo circles, the strategy photo circles, and the body text.",
+  "files": [
+    {
+      "name": "01-renewed-village.webp",
+      "sha256": "04e637c36081e8e32bec245392ac8d4cd864bfb0ff32952b79bbb98f7a8f3e72",
+      "bytes": 279512,
+      "from": "dba6 page 9 — drawn axonometric of the renewed village with drawn residents, full page"
+    },
+    {
+      "name": "02-village-patterns.webp",
+      "sha256": "354d42cc0ec88e995fe2c1d83e498ad0bbffc2b90872bf6b5390bfb027327a08",
+      "bytes": 79514,
+      "from": "page 6 — village types and aggregation patterns, x 88.5–100 %, y 3–72 %"
+    },
+    {
+      "name": "03-village-growth-maps.webp",
+      "sha256": "1d0e3ca747ba64a02aaf97fbfc798326b66b243fddefc064db44487a02e45274",
+      "bytes": 45426,
+      "from": "page 7 — village growth maps by period, x 0–25 %, y 76–100 %"
+    },
+    {
+      "name": "04-exploded-analysis.webp",
+      "sha256": "a7ee8c44828e383bcdcf319e30c6a659ab34e7abd009351d8aea9a357262c9ad",
+      "bytes": 370176,
+      "from": "page 7 — exploded analysis of the village layers, x 26–50 %, y 0–100 %"
+    },
+    {
+      "name": "05-village-models.webp",
+      "sha256": "f236bea875457ea5775fb4226312f9ddf23c52fc55088ab913fac594183fcc81",
+      "bytes": 49438,
+      "from": "page 8 — hand-made section models of village buildings, x 27–50 %, y 0–30 %"
+    },
+    {
+      "name": "06-indicator-chart.webp",
+      "sha256": "521099ca78582439fce8f0eeebc93384662ea40251fc30ba9a9af4343f0eab49",
+      "bytes": 28762,
+      "from": "page 8 — welfare indicators chart, x 85–100 %, y 0–30 %"
+    },
+    {
+      "name": "07-design-strategy.webp",
+      "sha256": "593752d4a2637bdab0c7c628b93e9790f45509b3ea442cdd9857fa6d3d369dc2",
+      "bytes": 124290,
+      "from": "page 8 — present situation, improvement direction and strategies, x 80–100 %, y 33–100 %"
+    }
+  ]
+}
