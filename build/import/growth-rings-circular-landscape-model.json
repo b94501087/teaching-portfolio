@@ -1,0 +1,67 @@
+{
+  "project": "Growth Rings",
+  "dest": "assets/board/growth-rings-circular-landscape-model",
+  "note": "Portfolio d824 pages 10-11 cropped to ten images, WebP q88 (PIL). Not used: title and text, precedent diagrams, purple pattern drawing, two process photos.",
+  "files": [
+    {
+      "name": "01-landscape-model-at-night.webp",
+      "sha256": "dd1dcef03b5e8991305eb15fecf9d9a39257ba00b3721fdf7d60c7aee39687ad",
+      "bytes": 88374,
+      "from": "d824 page 11 — landscape model"
+    },
+    {
+      "name": "02-circular-pattern-drawing.webp",
+      "sha256": "01d7fa66abfba2845eb9ca5303a6c8b4adba6a141dff65c9bfae91f8b539dd22",
+      "bytes": 24682,
+      "from": "d824 page 10 — circular pattern drawing"
+    },
+    {
+      "name": "03-blue-ring-pattern.webp",
+      "sha256": "41614d0c5ad02c5dc2bb8c3adb70f01415a3dae446858ea8e573337b9f5dccb6",
+      "bytes": 9768,
+      "from": "d824 page 10 — blue ring pattern"
+    },
+    {
+      "name": "04-ring-hand-drawing.webp",
+      "sha256": "87df67bb44a5b3084d5a76b90ba363f0ab1cad5031910e1ffb6b88d24105dc24",
+      "bytes": 36102,
+      "from": "d824 page 10 — ring hand drawing"
+    },
+    {
+      "name": "05-cut-pvc-rings.webp",
+      "sha256": "6a8cb894a96d8f183028c21584a0f8372f1abc59059783746090d4ed293667c5",
+      "bytes": 5616,
+      "from": "d824 page 10 — cut PVC rings"
+    },
+    {
+      "name": "06-assembled-ring-units.webp",
+      "sha256": "a27caf1eb4d73e3b4e197e7313530d06d8bdb060c0b64c7daabc2f5d45948f08",
+      "bytes": 10452,
+      "from": "d824 page 10 — assembled ring units"
+    },
+    {
+      "name": "07-continuous-landscape.webp",
+      "sha256": "9199225e5e40a96af58135d5b4bf0d7c085a618754bea98b441009ee30d84900",
+      "bytes": 15272,
+      "from": "d824 page 10 — continuous landscape"
+    },
+    {
+      "name": "08-ring-terraces.webp",
+      "sha256": "4ce8d49d1b261f6cc13c3202b30e0c0c94ccaffeda24f294ed917ce2a001fd48",
+      "bytes": 22798,
+      "from": "d824 page 11 — ring terraces"
+    },
+    {
+      "name": "09-trees-among-rings.webp",
+      "sha256": "65a64005baf237e9236b199e6de5dd1a6db72354c5863dcbd1e141d7ea057292",
+      "bytes": 19160,
+      "from": "d824 page 11 — trees among rings"
+    },
+    {
+      "name": "10-ring-canopy-view.webp",
+      "sha256": "283ca3168400bb1fac441bd2500730b26e790536c7e9b9101594b6a44a01abb2",
+      "bytes": 24778,
+      "from": "d824 page 11 — ring canopy view"
+    }
+  ]
+}
