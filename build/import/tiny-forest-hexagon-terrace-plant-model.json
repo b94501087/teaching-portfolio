@@ -1,0 +1,67 @@
+{
+  "project": "Tiny Forest",
+  "dest": "assets/board/tiny-forest-hexagon-terrace-plant-model",
+  "note": "Portfolio 8409 pages 6-8 cropped to ten images, WebP q88 (PIL). Not used: plant-species photo grid, rough first sketches.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "c8955f1f500e5bb33741f6dbcf730a5694fe318fed780a7b1e632531796b749a",
+      "bytes": 59912,
+      "from": "8409 page 8 — final model"
+    },
+    {
+      "name": "02-terrace-view.webp",
+      "sha256": "3d37acf6d173f9dd635dc65ebf124872c4056bb9f8002e334eb15bbbefad5b22",
+      "bytes": 14432,
+      "from": "8409 page 6 — terrace view"
+    },
+    {
+      "name": "03-plan-drawing.webp",
+      "sha256": "4e163a7d3adc6a93520deb5cae30f21871d99bc5200c0afebf8149e3f05eef20",
+      "bytes": 48942,
+      "from": "8409 page 6 — plan drawing"
+    },
+    {
+      "name": "04-garden-watercolour.webp",
+      "sha256": "ebc7c6d98fe9d0b3332647dd084229e7d489954e7852dc19ea40c337d63ead09",
+      "bytes": 99650,
+      "from": "8409 page 6 — garden watercolour"
+    },
+    {
+      "name": "05-hexagon-cutting.webp",
+      "sha256": "1c84c2e77822cce53f7b77e8efdd4b42f63cd9036296ff2c3c8ce6d9ce38922e",
+      "bytes": 7510,
+      "from": "8409 page 7 — hexagon cutting"
+    },
+    {
+      "name": "06-straw-columns.webp",
+      "sha256": "68aa5503f34c4747934caeab5439b4043e00fb873e7780d6431cec8259f15efd",
+      "bytes": 10738,
+      "from": "8409 page 7 — straw columns"
+    },
+    {
+      "name": "07-terrace-sketch.webp",
+      "sha256": "0bec7bc6f45a8938d50c37e30b605dbefc10e30b945cec509461042bcce70987",
+      "bytes": 65650,
+      "from": "8409 page 7 — terrace sketch"
+    },
+    {
+      "name": "08-top-view.webp",
+      "sha256": "57a061aac91a465e98865f712cbf6efd9e7866ffc2d714eaf7eaf2cd176b9e8f",
+      "bytes": 92056,
+      "from": "8409 page 7 — top view"
+    },
+    {
+      "name": "09-side-view-a.webp",
+      "sha256": "846f35e450a1188a2e5ec7d2e5a231c46fb3e5b0226a9dadf1b4087b80f31982",
+      "bytes": 15628,
+      "from": "8409 page 8 — side view a"
+    },
+    {
+      "name": "10-side-view-b.webp",
+      "sha256": "dba18b4a315e2785ad6418d6224a3bf65e7a77ff34cf1f1ae72d95a4388198de",
+      "bytes": 15884,
+      "from": "8409 page 8 — side view b"
+    }
+  ]
+}
