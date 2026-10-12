@@ -20435,6 +20435,431 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Beauty & Beast",
+      "slug": "beauty-and-beast-outdoor-teaching-park",
+      "description": "A children's outdoor teaching park where Chinese culture blends with the landscape.\n\nShenzhen, China | Landscape | Outdoor teaching park | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "美與野",
+          "description": "一座讓中華文化融入地景的兒童戶外教學公園。\n\n中國深圳｜景觀｜戶外教學公園｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/beauty-and-beast-outdoor-teaching-park/01-park-master-plan.webp",
+        "assets/board/beauty-and-beast-outdoor-teaching-park/02-design-concept-diagrams.webp",
+        "assets/board/beauty-and-beast-outdoor-teaching-park/03-section-school-to-forest.webp",
+        "assets/board/beauty-and-beast-outdoor-teaching-park/04-section-landscape-pockets.webp",
+        "assets/board/beauty-and-beast-outdoor-teaching-park/05-archaeological-excavation-area.webp",
+        "assets/board/beauty-and-beast-outdoor-teaching-park/06-mural-rest-area.webp",
+        "assets/board/beauty-and-beast-outdoor-teaching-park/07-ecological-swimming-pool.webp",
+        "assets/board/beauty-and-beast-outdoor-teaching-park/08-childrens-entertainment-area.webp",
+        "assets/board/beauty-and-beast-outdoor-teaching-park/09-research-building-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/beauty-and-beast-outdoor-teaching-park/01-park-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan of the teaching park beside a primary school, wrapped by hills on three sides."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "緊鄰小學、三面環山的教學公園總平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Some schools in China value the teaching of Chinese culture, but children mostly learn it from classrooms and books and do not enjoy it. The site, surrounded by mountains on three sides, sits next to a primary school and nearby residential communities.",
+          "images": [
+            "assets/board/beauty-and-beast-outdoor-teaching-park/02-design-concept-diagrams.webp"
+          ],
+          "captions": [
+            "Design concept: the overall plan built from plant communities, water collection nodes, paths, key nodes and terrain drops."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "中國有些學校重視中華文化教育，但孩子們多半只從教室與課本中學習，並不快樂。基地三面環山，緊鄰一所小學與周邊的住宅社區。",
+              "captions": [
+                "設計概念：由植物群落、集水節點、路徑、重要節點與地形落差組成的整體配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Starting from an experiment of dropping ink into water, the student saw how culture and wildness can blend with each other. The site analysis was then divided into five parts, giving the plan a streamlined form from top to bottom.",
+          "images": [
+            "assets/board/beauty-and-beast-outdoor-teaching-park/03-section-school-to-forest.webp",
+            "assets/board/beauty-and-beast-outdoor-teaching-park/04-section-landscape-pockets.webp"
+          ],
+          "captions": [
+            "Section A-A: a children's hillside forms a soft border between the school and the park.",
+            "Section B-B with vignettes of the landscape pockets along the route."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從把墨滴入水中的實驗出發，看見文化與野性可以彼此交融。接著把基地分析分成五個部分，讓整體配置呈現由上而下的流線形態。",
+              "captions": [
+                "A-A剖面：兒童山坡在學校與公園之間形成柔和的邊界。",
+                "B-B剖面與沿線各景觀節點的小透視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The biggest change in level, between the campus and the park, was shaped into a children's hillside that gives the two a gentle border. Cultural areas let children try printing, archaeology, clay sculpture and wall engraving, and read ancient Chinese inscriptions on a mural wall.",
+          "images": [
+            "assets/board/beauty-and-beast-outdoor-teaching-park/05-archaeological-excavation-area.webp",
+            "assets/board/beauty-and-beast-outdoor-teaching-park/06-mural-rest-area.webp"
+          ],
+          "captions": [
+            "The archaeological excavation area, a cultural activity area for children.",
+            "The mural rest area, where visitors can sit on the platform and read the inscriptions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "校園與公園之間最大的高低落差，被塑造成兒童山坡，為兩者形成柔和的邊界。文化區讓孩子體驗拓印、考古、陶土雕塑與牆面刻畫，並在壁畫牆上閱讀古代中文銘文。",
+              "captions": [
+                "考古挖掘區，為孩子設計的文化活動區。",
+                "壁畫休憩區，訪客可坐在平台上閱讀牆上銘文。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "An ecological swimming pool protects the natural environment while letting children swim and play, and a puzzle play area adds to their campus life. A research building in the woods serves as an outdoor class where students observe natural species.",
+          "images": [
+            "assets/board/beauty-and-beast-outdoor-teaching-park/07-ecological-swimming-pool.webp",
+            "assets/board/beauty-and-beast-outdoor-teaching-park/08-childrens-entertainment-area.webp",
+            "assets/board/beauty-and-beast-outdoor-teaching-park/09-research-building-section.webp"
+          ],
+          "captions": [
+            "The ecological swimming pool and its section elevation.",
+            "The children's entertainment area with its puzzle activities.",
+            "Section elevations of the research building with its winding wooden ramps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "生態泳池在保護自然環境的同時，讓孩子游泳與玩耍，益智遊戲區則豐富了他們的校園生活。林中的研究建築是一間戶外教室，讓學生觀察自然物種。",
+              "captions": [
+                "生態泳池與其剖立面。",
+                "設有益智活動的兒童遊戲區。",
+                "研究建築剖立面與蜿蜒的木構坡道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find what children miss.\n2. Test the idea with a material experiment.\n3. Shape the terrain into borders.\n4. Turn culture into hands-on play.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出孩子缺少的經驗。\n2. 用材料實驗測試想法。\n3. 把地形塑造成邊界。\n4. 讓文化變成動手玩的活動。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Festival Village",
+      "slug": "festival-village-ancient-village-reconstruction",
+      "description": "Bringing festivals, play and markets back into the public spaces of an old village.\n\nXiamen, China | Urban renewal | Ancient village reconstruction | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "節慶村落",
+          "description": "讓節慶、遊戲與市集重回老村落的公共空間。\n\n中國廈門｜城市更新｜古村落改造｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/festival-village-ancient-village-reconstruction/01-village-axonometric.webp",
+        "assets/board/festival-village-ancient-village-reconstruction/02-development-process.webp",
+        "assets/board/festival-village-ancient-village-reconstruction/04-initial-concept.webp",
+        "assets/board/festival-village-ancient-village-reconstruction/05-five-elements-process.webp",
+        "assets/board/festival-village-ancient-village-reconstruction/06-sinking-rest-area.webp",
+        "assets/board/festival-village-ancient-village-reconstruction/07-stage-deformation.webp",
+        "assets/board/festival-village-ancient-village-reconstruction/08-market-plan.webp",
+        "assets/board/festival-village-ancient-village-reconstruction/09-market-stall-deformation.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/festival-village-ancient-village-reconstruction/01-village-axonometric.webp"
+          ],
+          "captions": [
+            "Axonometric of the festival village, from the theatre stage to the rainbow hill."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "節慶村落軸測圖，從戲台到彩虹山丘。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Since the late 1980s many ancient buildings in China have been demolished, and uniform concrete buildings have gradually weakened local culture and traditional public space. In this old village in Xiamen, the space under the ancient trees is piled with rubbish, the stage in front of the ancestral hall is abandoned and children have nowhere to play.",
+          "images": [
+            "assets/board/festival-village-ancient-village-reconstruction/02-development-process.webp"
+          ],
+          "captions": [
+            "Development process, from a poorly used site to a cultural exchange platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "自1980年代末以來，中國許多古建築遭到拆除，整齊劃一的混凝土建築也逐漸削弱了地方文化與傳統公共空間。在這座廈門的老村落裡，古樹下堆滿垃圾，祠堂前的戲台被廢棄，孩子們也沒有地方玩耍。",
+              "captions": [
+                "發展進程：從低度利用的基地，到文化交流平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied the village's festivals and turned them into three ideas: dice-shaped play devices, lanterns that create a festive atmosphere and a movable stage. The eave forms of the ancient houses, read through the five elements, became the starting point for new structures.",
+          "images": [
+            "assets/board/festival-village-ancient-village-reconstruction/04-initial-concept.webp",
+            "assets/board/festival-village-ancient-village-reconstruction/05-five-elements-process.webp"
+          ],
+          "captions": [
+            "Initial concept: dice conversion, festive atmosphere and stage reconstruction.",
+            "The eaves of the ancient houses, read through water, wood, gold, earth and fire."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究村落的節慶活動，並轉化為三個構想：骰子造型的遊戲裝置、營造節慶氣氛的燈籠，以及可移動的戲台。古厝屋簷的形式透過五行來解讀，成為新構造的起點。",
+              "captions": [
+                "初步概念：骰子轉化、營造氛圍與戲台改造。",
+                "以水、木、金、土、火解讀古厝屋簷。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The village is divided into three areas: a historical introduction area with a movable stage in front of the ancestral hall, a square with a rest area and market, and an entertainment area for children. Beside the old tree at the entrance, movable dice chairs and flowers form a sinking rest area.",
+          "images": [
+            "assets/board/festival-village-ancient-village-reconstruction/06-sinking-rest-area.webp",
+            "assets/board/festival-village-ancient-village-reconstruction/07-stage-deformation.webp"
+          ],
+          "captions": [
+            "Process and before/after plans of the sinking rest area.",
+            "The seats are removed, stacked and joined into a movable stage with a screen that can be raised and lowered."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "村落被分為三個區域：祠堂前設有可移動戲台的歷史介紹區、設有休憩區與市集的廣場，以及兒童遊樂區。入口的老樹旁，可移動的骰子座椅與花卉構成一處下沉式休憩區。",
+              "captions": [
+                "下沉式休憩區的推演與改造前後平面。",
+                "座椅被移出、堆疊並組成可移動的戲台，配有可自由升降的屏幕。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the busiest open area, mobile carts can be taken apart and put together again, forming a long market by day. At night the same carts are regrouped into sheltered booths for the barbecue restaurant.",
+          "images": [
+            "assets/board/festival-village-ancient-village-reconstruction/08-market-plan.webp",
+            "assets/board/festival-village-ancient-village-reconstruction/09-market-stall-deformation.webp"
+          ],
+          "captions": [
+            "Market plans before and after renovation, from morning to night.",
+            "The cart evolves from the five-element eaves and changes from a long market to night shelters."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在人潮最多的開放區，可拆裝的移動推車白天能組成一條長長的市集。到了晚上，同樣的推車重新組合，成為燒烤餐廳的遮蔽攤位。",
+              "captions": [
+                "改造前後從早到晚的市集平面。",
+                "推車由五行屋簷演變而來，從長市集轉變為夜間遮棚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the losses in an old village.\n2. Turn festivals into design ideas.\n3. Draw forms from local architecture.\n4. Let one structure serve day and night.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀老村落失去了什麼。\n2. 把節慶轉化為設計構想。\n3. 從在地建築汲取形式。\n4. 讓同一構造服務白天與夜晚。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Child Living in the Rivers",
+      "slug": "child-living-in-the-rivers-narrative-landscape",
+      "description": "A narrative landscape that rebuilds a remembered journey into the kingdom of a river child.\n\nExperimental | Landscape | Narrative landscape design | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "住在河裡的孩子",
+          "description": "以敘事景觀重建一段走進河童國度的記憶旅程。\n\n實驗性｜景觀｜敘事景觀設計｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/child-living-in-the-rivers-narrative-landscape/01-kingdom-aerial-render.webp",
+        "assets/board/child-living-in-the-rivers-narrative-landscape/02-kappa-ink-drawing.webp",
+        "assets/board/child-living-in-the-rivers-narrative-landscape/03-journey-storyboard.webp",
+        "assets/board/child-living-in-the-rivers-narrative-landscape/04-kingdom-plan.webp",
+        "assets/board/child-living-in-the-rivers-narrative-landscape/05-sinking-entrance.webp",
+        "assets/board/child-living-in-the-rivers-narrative-landscape/06-three-roads.webp",
+        "assets/board/child-living-in-the-rivers-narrative-landscape/07-elastic-net.webp",
+        "assets/board/child-living-in-the-rivers-narrative-landscape/08-section-a-a.webp",
+        "assets/board/child-living-in-the-rivers-narrative-landscape/09-leaving-aerial.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/child-living-in-the-rivers-narrative-landscape/01-kingdom-aerial-render.webp"
+          ],
+          "captions": [
+            "The mysterious kingdom between the mountains and the lake, wrapped in forest and mist."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "山與湖之間神秘的國度，被森林與霧氣包圍。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "This narrative landscape begins with a story: one summer the narrator meets a child of the river, a kappa, follows it and accidentally falls into an isolated place. The path to that kingdom no longer exists, so the design has to rebuild the journey from memory.",
+          "images": [
+            "assets/board/child-living-in-the-rivers-narrative-landscape/02-kappa-ink-drawing.webp"
+          ],
+          "captions": [
+            "Ink line drawing of the kappa, the child who lives in the rivers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個敘事景觀從一個故事開始：某個夏天，敘事者遇見一個住在河裡的孩子——河童，跟著牠走，意外跌入一處與世隔絕的地方。通往那個國度的路已不復存在，因此設計必須憑記憶重建這段旅程。",
+              "captions": [
+                "河童的墨線繪圖，那個住在河裡的孩子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew the whole story as a storyboard, moving from bare winter trees to walls, stairs, water and forest. The kingdom was then mapped as a route between the mountains and the lake, with each feeling noted along the way.",
+          "images": [
+            "assets/board/child-living-in-the-rivers-narrative-landscape/03-journey-storyboard.webp",
+            "assets/board/child-living-in-the-rivers-narrative-landscape/04-kingdom-plan.webp"
+          ],
+          "captions": [
+            "Storyboard of the journey into the kappa's world.",
+            "Plan of the kingdom, with the feelings noted along the route."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把整個故事畫成分鏡，從冬日的枯樹一路走到牆、階梯、水與森林。接著把這個國度描繪成山與湖之間的一條路徑，並沿途標記每一種感受。",
+              "captions": [
+                "進入河童世界的旅程分鏡。",
+                "國度平面圖，沿途標記各段感受。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "From the entrance, a wooden bridge sinks into the distance, the stream slowly floods up to the walker's shoes and the walls on both sides gradually drop. The path then divides into three roads: one climbs up, one leads to a small hole and one is blocked by tall trees and a dense forest.",
+          "images": [
+            "assets/board/child-living-in-the-rivers-narrative-landscape/05-sinking-entrance.webp",
+            "assets/board/child-living-in-the-rivers-narrative-landscape/06-three-roads.webp"
+          ],
+          "captions": [
+            "At the entrance, the wooden bridge sinks and the water rises.",
+            "The three roads: climbing, going down into a hole and meeting the forest."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "從入口開始，木橋向遠方下沉，溪水慢慢漫上行人的鞋子，兩側的牆也逐漸降低。接著路徑分成三條：一條向上攀升，一條通往一個小洞，另一條則被高大的樹木與茂密的森林擋住。",
+              "captions": [
+                "入口處木橋下沉、水面上升。",
+                "三條路：向上攀升、下探洞口與遇見森林。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "An elastic net laid over the water lets visitors bounce and play like the kappa jumping in the creek. The ponds, bridges and paths are set within the forest so that the walk feels like entering and then leaving a dream.",
+          "images": [
+            "assets/board/child-living-in-the-rivers-narrative-landscape/07-elastic-net.webp",
+            "assets/board/child-living-in-the-rivers-narrative-landscape/08-section-a-a.webp",
+            "assets/board/child-living-in-the-rivers-narrative-landscape/09-leaving-aerial.webp"
+          ],
+          "captions": [
+            "The elastic net laid out over the water.",
+            "Section A-A along the route from the entrance into the forest.",
+            "Aerial render of the ponds and bridges seen when leaving."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "鋪在水面上的彈性網，讓訪客像在溪中跳躍的河童一樣彈跳玩耍。池塘、橋與步道都安置在森林之中，讓這段散步就像走進又走出一場夢。",
+              "captions": [
+                "鋪在水面上的彈性網。",
+                "從入口到森林的A-A剖面。",
+                "離開時看見的池塘與橋的鳥瞰圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a personal story.\n2. Draw the journey as a storyboard.\n3. Map each feeling onto the route.\n4. Build moments the body can feel.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從個人的故事出發。\n2. 把旅程畫成分鏡。\n3. 把每種感受對應到路徑上。\n4. 打造身體能感受的時刻。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
