@@ -52100,6 +52100,550 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Chilling Refuge: Penguin Habitat",
+      "slug": "chilling-refuge-stone-penguin-habitat-model",
+      "description": "A ring of stacked stones and a light acrylic frame form a shared home for penguins.\n\nModel making | Animal habitat | Stone, wood strips, jelly wax, acrylic strips and foamboard | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "寒冷避風港：企鵝棲地",
+          "description": "堆疊的石塊與輕巧的壓克力框架，圍成企鵝共享的家。\n\n模型製作｜動物棲地｜石塊、木條、果凍蠟、壓克力條與珍珠板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/chilling-refuge-stone-penguin-habitat-model/01-final-model.webp",
+        "assets/board/chilling-refuge-stone-penguin-habitat-model/02-inspiration.webp",
+        "assets/board/chilling-refuge-stone-penguin-habitat-model/03-concept-drawing.webp",
+        "assets/board/chilling-refuge-stone-penguin-habitat-model/04-process.webp",
+        "assets/board/chilling-refuge-stone-penguin-habitat-model/05-model-views.webp",
+        "assets/board/chilling-refuge-stone-penguin-habitat-model/06-structure-drawing.webp",
+        "assets/board/chilling-refuge-stone-penguin-habitat-model/07-frame-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/chilling-refuge-stone-penguin-habitat-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished stone habitat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的石塊棲地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Penguins kept on hard concrete can fall ill because the ground does not suit them. The student asked how a man-made habitat could feel natural and still support their social life.",
+          "images": [
+            "assets/board/chilling-refuge-stone-penguin-habitat-model/02-inspiration.webp"
+          ],
+          "captions": [
+            "Penguins living among stones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "企鵝若住在堅硬的混凝土上容易生病，因為地面不適合牠們。學生思考人工棲地如何既自然又能支持牠們的群居生活。",
+              "captions": [
+                "生活在石塊間的企鵝。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Some penguins build nests from stones, so stacked rock became the main material. A round, inward-facing house type was studied because it lets neighbours meet in a shared centre.",
+          "images": [
+            "assets/board/chilling-refuge-stone-penguin-habitat-model/03-concept-drawing.webp"
+          ],
+          "captions": [
+            "Concept drawings of the habitat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "有些企鵝會用石頭築巢，因此堆疊的石塊成為主要材料。學生也研究一種向內圍合的圓形住屋，因為它讓鄰居能在共享的中心相遇。",
+              "captions": [
+                "棲地概念圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stones were glued into a ring of nests around a pool made from jelly wax. A thin acrylic frame was then raised over the ring to suggest shelter without blocking light.",
+          "images": [
+            "assets/board/chilling-refuge-stone-penguin-habitat-model/04-process.webp",
+            "assets/board/chilling-refuge-stone-penguin-habitat-model/06-structure-drawing.webp"
+          ],
+          "captions": [
+            "Building the ring and stone nests.",
+            "Drawing of the frame over the stones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把石塊黏成一圈巢穴，圍繞著以果凍蠟做成的水池。接著在環上架起細壓克力框架，暗示遮蔽又不擋住光線。",
+              "captions": [
+                "搭建環形與石巢。",
+                "石塊上方框架的圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model joins rough natural stone with a light, regular frame. Small penguin figures show how the ring creates a shared, protected home.",
+          "images": [
+            "assets/board/chilling-refuge-stone-penguin-habitat-model/05-model-views.webp",
+            "assets/board/chilling-refuge-stone-penguin-habitat-model/07-frame-detail.webp"
+          ],
+          "captions": [
+            "Three views of the model.",
+            "Close view of the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型結合粗糙的天然石塊與輕巧規則的框架。小企鵝模型顯示環形如何創造一個共享且受保護的家。",
+              "captions": [
+                "模型的三個視角。",
+                "框架近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study how the animal lives.\n2. Choose a natural material.\n3. Shape a shared space.\n4. Add a light shelter.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究動物如何生活。\n2. 選擇天然材料。\n3. 塑造共享空間。\n4. 加上輕巧的遮蔽。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Spatial Deconstruction of Chinese Gardens",
+      "slug": "spatial-deconstruction-of-a-classical-garden-model",
+      "description": "Fragments of classical garden plans are reassembled into a new winding water garden.\n\nModel making | Garden space | PVC board, stone clay, wooden sticks and landscape materials | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "中國園林的空間解構",
+          "description": "古典園林平面的片段被重新組合成一座蜿蜒的新水景園。\n\n模型製作｜園林空間｜PVC板、石粉黏土、木棒與造景材料｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/spatial-deconstruction-of-a-classical-garden-model/01-final-model.webp",
+        "assets/board/spatial-deconstruction-of-a-classical-garden-model/02-plan-collage.webp",
+        "assets/board/spatial-deconstruction-of-a-classical-garden-model/03-garden-photo.webp",
+        "assets/board/spatial-deconstruction-of-a-classical-garden-model/04-modeling.webp",
+        "assets/board/spatial-deconstruction-of-a-classical-garden-model/05-pavilion-detail.webp",
+        "assets/board/spatial-deconstruction-of-a-classical-garden-model/06-stick-frames.webp",
+        "assets/board/spatial-deconstruction-of-a-classical-garden-model/07-night-frames.webp",
+        "assets/board/spatial-deconstruction-of-a-classical-garden-model/08-pond-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/spatial-deconstruction-of-a-classical-garden-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished water garden from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從上方看完成的水景園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Classical gardens hide and reveal views as people walk, which makes them feel larger than they are. The project asks how this effect could be taken apart and rebuilt in a new layout.",
+          "images": [
+            "assets/board/spatial-deconstruction-of-a-classical-garden-model/03-garden-photo.webp"
+          ],
+          "captions": [
+            "A classical garden pavilion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "古典園林隨著行走藏景與露景，讓空間感覺比實際更大。這個專案思考如何拆解這種效果，再在新的配置中重建。",
+              "captions": [
+                "古典園林的亭子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied gardens from Yangzhou and Suzhou and the idea that scenery changes with every step. Pieces of their plans were cut out and reassembled into one new plan.",
+          "images": [
+            "assets/board/spatial-deconstruction-of-a-classical-garden-model/02-plan-collage.webp"
+          ],
+          "captions": [
+            "Plan fragments reassembled."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究揚州與蘇州的園林，以及「移步換景」的概念。接著把它們的平面片段剪下，重新組合成一張新的平面。",
+              "captions": [
+                "重新組合的平面片段。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The new plan was refined in pencil and then built with PVC board, stone clay and wooden sticks. Halls were framed in sticks so their outlines stay light against the water.",
+          "images": [
+            "assets/board/spatial-deconstruction-of-a-classical-garden-model/04-modeling.webp",
+            "assets/board/spatial-deconstruction-of-a-classical-garden-model/06-stick-frames.webp",
+            "assets/board/spatial-deconstruction-of-a-classical-garden-model/07-night-frames.webp"
+          ],
+          "captions": [
+            "Drawing and building the model.",
+            "Stick frames of the halls.",
+            "Frames in low light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "新平面先以鉛筆修整，再用PVC板、石粉黏土與木棒製作。廳堂以木棒搭出框架，使輪廓在水面前保持輕盈。",
+              "captions": [
+                "繪圖與製作模型。",
+                "廳堂的木棒框架。",
+                "低光下的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model winds paths and bridges around a bright blue pond. Each turn opens a new view, just as in the gardens that inspired it.",
+          "images": [
+            "assets/board/spatial-deconstruction-of-a-classical-garden-model/05-pavilion-detail.webp",
+            "assets/board/spatial-deconstruction-of-a-classical-garden-model/08-pond-view.webp"
+          ],
+          "captions": [
+            "Pavilions beside the water.",
+            "The pond and its edges."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型讓小徑與橋繞著亮藍色的水池蜿蜒。每一次轉折都開啟新的景色，正如啟發它的園林。",
+              "captions": [
+                "水邊的亭子。",
+                "水池與岸線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a classic space.\n2. Cut it into fragments.\n3. Reassemble a new plan.\n4. Build and test the views.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究經典空間。\n2. 把它切成片段。\n3. 重組新的平面。\n4. 製作並檢驗景觀。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Flowing Sleeves: Dance to Space Design",
+      "slug": "flowing-sleeves-dance-to-space-fabric-frames",
+      "description": "Silk hung in lattice frames captures the soft lines of a traditional sleeve dance.\n\nModel making | Movement to space | Wood strips, cloth, yarn, fishing line and a wooden doll | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "流動水袖：從舞蹈到空間設計",
+          "description": "懸掛在格柵框架中的絲布，捕捉傳統水袖舞的柔和線條。\n\n模型製作｜從動作到空間｜木條、布料、紗線、釣魚線與木偶｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/flowing-sleeves-dance-to-space-fabric-frames/01-final-frames.webp",
+        "assets/board/flowing-sleeves-dance-to-space-fabric-frames/02-drama-stills.webp",
+        "assets/board/flowing-sleeves-dance-to-space-fabric-frames/03-line-drawings.webp",
+        "assets/board/flowing-sleeves-dance-to-space-fabric-frames/04-window-pattern.webp",
+        "assets/board/flowing-sleeves-dance-to-space-fabric-frames/05-frame-drawing.webp",
+        "assets/board/flowing-sleeves-dance-to-space-fabric-frames/06-frame-by-frame.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/flowing-sleeves-dance-to-space-fabric-frames/01-final-frames.webp"
+          ],
+          "captions": [
+            "Fabric spaces inside the frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "框架中的布料空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A sleeve dance creates soft lines in the air that vanish a moment later. The student asked how those passing movements could be turned into lasting space.",
+          "images": [
+            "assets/board/flowing-sleeves-dance-to-space-fabric-frames/02-drama-stills.webp"
+          ],
+          "captions": [
+            "Stills of a sleeve dance from a period drama."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "水袖舞在空中畫出柔和的線條，轉瞬即逝。學生思考如何把這些短暫的動作轉化為持久的空間。",
+              "captions": [
+                "古裝劇中的水袖舞劇照。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Scenes from a period drama were studied and the sleeve paths were traced as coloured lines. Traditional cracked-ice window patterns gave a frame for holding these lines.",
+          "images": [
+            "assets/board/flowing-sleeves-dance-to-space-fabric-frames/03-line-drawings.webp",
+            "assets/board/flowing-sleeves-dance-to-space-fabric-frames/04-window-pattern.webp"
+          ],
+          "captions": [
+            "Drawings of the dance lines.",
+            "A cracked-ice window pattern."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究古裝劇中的片段，把水袖的軌跡描成彩色線條。傳統冰裂紋窗格則提供承載這些線條的框架。",
+              "captions": [
+                "舞蹈線條的繪圖。",
+                "冰裂紋窗格。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Three wooden frames of different sizes were filled with thin strips and fishing line. Silk was then hung and pulled in different ways, and each change was photographed frame by frame.",
+          "images": [
+            "assets/board/flowing-sleeves-dance-to-space-fabric-frames/05-frame-drawing.webp"
+          ],
+          "captions": [
+            "Pattern turned into a frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以木條製作三個不同大小的框架，並加入細條與釣魚線。接著以不同方式懸掛與拉動絲布，逐格拍攝每一次變化。",
+              "captions": [
+                "窗格化為框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final frames hold layers of pink and white fabric like a dancer frozen mid-turn. Together they show one movement unfolding through space and time.",
+          "images": [
+            "assets/board/flowing-sleeves-dance-to-space-fabric-frames/06-frame-by-frame.webp"
+          ],
+          "captions": [
+            "Frame-by-frame record of pulling the fabric."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的框架容納層層粉白布料，像舞者在旋轉中定格。它們一起呈現一個動作在時空中展開。",
+              "captions": [
+                "逐格記錄拉動布料。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch a movement closely.\n2. Trace its lines.\n3. Build a frame to hold them.\n4. Record the changes.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 仔細觀察一個動作。\n2. 描出它的線條。\n3. 製作承載的框架。\n4. 記錄變化過程。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tranquil Retreat House",
+      "slug": "tranquil-retreat-minimal-forest-house-model",
+      "description": "A small timber house keeps only the essentials and frames the forest through one low window.\n\nModel making | Small house | Wooden board, laser cutting, PVC board and clay | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "寧靜隱居小屋",
+          "description": "一座小木屋只保留必需品，並以一扇與視線同高的窗框住森林。\n\n模型製作｜小住宅｜木板、雷射切割、PVC板與黏土｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tranquil-retreat-minimal-forest-house-model/01-top-view.webp",
+        "assets/board/tranquil-retreat-minimal-forest-house-model/02-concept-sketch.webp",
+        "assets/board/tranquil-retreat-minimal-forest-house-model/03-process-a.webp",
+        "assets/board/tranquil-retreat-minimal-forest-house-model/04-process-b.webp",
+        "assets/board/tranquil-retreat-minimal-forest-house-model/05-night-views.webp",
+        "assets/board/tranquil-retreat-minimal-forest-house-model/06-interiors.webp",
+        "assets/board/tranquil-retreat-minimal-forest-house-model/07-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tranquil-retreat-minimal-forest-house-model/01-top-view.webp"
+          ],
+          "captions": [
+            "The finished house from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從上方看完成的小屋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Stress and conflict can make city life feel overwhelming. The student wanted a small place in the forest that helps a person slow down and think.",
+          "images": [
+            "assets/board/tranquil-retreat-minimal-forest-house-model/02-concept-sketch.webp"
+          ],
+          "captions": [
+            "Concept sketch of the house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "壓力與衝突會讓城市生活令人喘不過氣。學生想要一個森林中的小地方，幫助人放慢腳步思考。",
+              "captions": [
+                "小屋的概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The house was kept small, with only essential furniture and functions. A window set at eye height became the key idea, turning the view outside into a calm daily ritual.",
+          "images": [
+            "assets/board/tranquil-retreat-minimal-forest-house-model/06-interiors.webp"
+          ],
+          "captions": [
+            "Furniture and windows inside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "小屋保持小巧，只有必要的家具與功能。與視線同高的窗成為關鍵概念，讓看向窗外成為平靜的日常儀式。",
+              "captions": [
+                "室內的家具與窗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The form was modelled digitally, turned into flat drawings and laser cut from wood. Walls, furniture and framed clear windows were then glued together piece by piece.",
+          "images": [
+            "assets/board/tranquil-retreat-minimal-forest-house-model/03-process-a.webp",
+            "assets/board/tranquil-retreat-minimal-forest-house-model/04-process-b.webp"
+          ],
+          "captions": [
+            "Cutting and gluing the walls.",
+            "Rooms taking shape."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "造型先以數位建模，再轉成平面圖並以雷射切割木板。接著逐片黏合牆面、家具與嵌有透明片的窗框。",
+              "captions": [
+                "切割與黏合牆面。",
+                "房間逐漸成形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model shows a quiet timber shelter that glows warmly at night. Its simple rooms keep the focus on light, wood and the view.",
+          "images": [
+            "assets/board/tranquil-retreat-minimal-forest-house-model/05-night-views.webp",
+            "assets/board/tranquil-retreat-minimal-forest-house-model/07-side-view.webp"
+          ],
+          "captions": [
+            "Model lit at night.",
+            "Timber walls from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型呈現一座在夜裡透出暖光的安靜木屋。簡單的房間讓焦點留在光、木材與景色上。",
+              "captions": [
+                "夜間打光的模型。",
+                "側看木牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name the feeling you need.\n2. Keep only the essentials.\n3. Frame one key view.\n4. Build and light the model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 說出你需要的感受。\n2. 只保留必需品。\n3. 框出一個關鍵景色。\n4. 製作並為模型打光。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
