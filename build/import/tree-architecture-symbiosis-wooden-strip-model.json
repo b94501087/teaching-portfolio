@@ -1,0 +1,67 @@
+{
+  "project": "Tree-Architecture Symbiosis",
+  "dest": "assets/board/tree-architecture-symbiosis-wooden-strip-model",
+  "note": "Portfolio 9caf pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, precedent photo and architect name.",
+  "files": [
+    {
+      "name": "01-tree-model.webp",
+      "sha256": "f7f52adfa065f25e636f7bf223e26b115d7245d4e0af5f035d916599730901da",
+      "bytes": 191284,
+      "from": "9caf page 7 — tree model"
+    },
+    {
+      "name": "02-sketch.webp",
+      "sha256": "21ccbaaefea3f93ecfb10cd4080249283def9ee89a6c1ca421f7e979d9a0b459",
+      "bytes": 27732,
+      "from": "9caf page 6 — sketch"
+    },
+    {
+      "name": "03-process-a.webp",
+      "sha256": "7e9b0a904a197d0637538a9dd416a0499cf7d2923177e159f2ca837b472db43e",
+      "bytes": 41168,
+      "from": "9caf page 6 — process a"
+    },
+    {
+      "name": "04-process-b.webp",
+      "sha256": "d5cf5485fd269e73be61172992d11d273e06ef4c740e0c7113137b311a8f4418",
+      "bytes": 44924,
+      "from": "9caf page 6 — process b"
+    },
+    {
+      "name": "05-process-c.webp",
+      "sha256": "460b6936534ad469fa35ac99842abaf32b8ffcead6a4e14c5e29bca5e95b2fb1",
+      "bytes": 30838,
+      "from": "9caf page 6 — process c"
+    },
+    {
+      "name": "06-process-d.webp",
+      "sha256": "2dfebe9eb47908ffd3c4dc99333c7c51372e2d701fde8ecba7758bf7d146aad2",
+      "bytes": 72908,
+      "from": "9caf page 6 — process d"
+    },
+    {
+      "name": "07-detail-a.webp",
+      "sha256": "6892ae37d36e3b0ddbe97d11aa09b0e5b864d01dc1448fcee67dcce1d1a366da",
+      "bytes": 44978,
+      "from": "9caf page 7 — detail a"
+    },
+    {
+      "name": "08-detail-b.webp",
+      "sha256": "ce9dafcdb85dcbbacfee9ebb29e521177088847a1afd6c911e2d7d1ce026345b",
+      "bytes": 33706,
+      "from": "9caf page 7 — detail b"
+    },
+    {
+      "name": "09-detail-c.webp",
+      "sha256": "ad83e38583478265fe789fc1f0324b94333b1cdc0e4c982511223a95c4461efb",
+      "bytes": 34310,
+      "from": "9caf page 7 — detail c"
+    },
+    {
+      "name": "10-detail-d.webp",
+      "sha256": "512ec6c315dd2e9bcb79b6cc75a35dc06f8353f95c3bf528be751689e27494f2",
+      "bytes": 30566,
+      "from": "9caf page 7 — detail d"
+    }
+  ]
+}
