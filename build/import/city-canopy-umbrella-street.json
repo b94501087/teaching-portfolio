@@ -1,0 +1,61 @@
+{
+  "project": "Implantation of City Canopy",
+  "dest": "assets/board/city-canopy-umbrella-street",
+  "note": "Portfolio dba6 pages 10–12 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the street photo with the photographer credit, the site location and history panels with street photo strips, the strategy one render with shop signage, and the body text.",
+  "files": [
+    {
+      "name": "01-canopy-over-street.webp",
+      "sha256": "bdcfc75bf2b44aa99b9c39721e63e3d44b195aa3018e673337e4d710bdff48cb",
+      "bytes": 164730,
+      "from": "dba6 page 12 — canopy strategy three diagram, model views and render, x 50.5–75.5 %, y 0–100 %"
+    },
+    {
+      "name": "02-umbrella-study.webp",
+      "sha256": "d31d9bf31faef1db6847c9e6f18719168b98a52e285f6252b482cffe4ffa3bbc",
+      "bytes": 197502,
+      "from": "page 10 — umbrella opening process and raindrop trajectory study, x 49–75 %, y 0–100 %"
+    },
+    {
+      "name": "03-umbrella-frame-pattern.webp",
+      "sha256": "bee316033b3c840a7138983510c6a1ddbf6c6af2410229960900cf3be65a3fff",
+      "bytes": 283788,
+      "from": "page 10 — umbrella frame pattern drawing, x 75–100 %, y 0–100 %"
+    },
+    {
+      "name": "04-node-and-fixture.webp",
+      "sha256": "c6026789287ffa1d3b6acc4cd3fab1e5784212254878d54132af2ffd99059a69",
+      "bytes": 161682,
+      "from": "page 11 — node design, fixture design and movement process, x 0–27 %, y 0–100 %"
+    },
+    {
+      "name": "05-physical-models.webp",
+      "sha256": "3f13222b7a906a5eacd8606d7d8e70d3673f374f961380487c68c6c754bf8a5d",
+      "bytes": 124390,
+      "from": "page 11 — physical study models of the node application, x 27–50 %, y 0–100 %"
+    },
+    {
+      "name": "06-street-axonometric.webp",
+      "sha256": "33e6460f4ea3e091b0add62ecf461e96cc2d96e9bf99f37eab55a7321e1525b4",
+      "bytes": 336144,
+      "from": "page 11 — axonometric of the commercial street with zoom circles, x 75–100 %, y 0–100 %"
+    },
+    {
+      "name": "07-canopy-strategy-one.webp",
+      "sha256": "e37bedd53a44fbd3a5218a75bbc619f1472b6e9b0f360d0465983dd990403c52",
+      "bytes": 51588,
+      "from": "page 12 — canopy strategy one diagram and model views, x 0–25 %, y 0–47 %"
+    },
+    {
+      "name": "08-canopy-strategy-two.webp",
+      "sha256": "85e61aa454503cd04d090df171b0bf2a9c6a663bb0c3f980942269cbb70121c5",
+      "bytes": 184378,
+      "from": "page 12 — canopy strategy two diagram, model views and render, x 25.5–50.5 %, y 0–100 %"
+    },
+    {
+      "name": "09-canopy-strategy-four.webp",
+      "sha256": "0a5a6dff2c8e61dfa78231722a262c19813ece7a391778526b2c34f944ac7d64",
+      "bytes": 183960,
+      "from": "page 12 — canopy strategy four diagram, model views and render, x 75.5–100 %, y 0–100 %"
+    }
+  ]
+}
