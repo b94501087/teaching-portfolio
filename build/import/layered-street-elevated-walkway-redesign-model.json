@@ -1,0 +1,67 @@
+{
+  "project": "The Layered Street",
+  "dest": "assets/board/layered-street-elevated-walkway-redesign-model",
+  "note": "Portfolio 606b pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, site map, inspiration and precedent photos, program and school names.",
+  "files": [
+    {
+      "name": "01-street-model.webp",
+      "sha256": "eacbd4686e59cedf1796f6707b2949ae6c456ff8b4a8691815ead73f0aa7f60c",
+      "bytes": 31028,
+      "from": "606b page 3 — street model"
+    },
+    {
+      "name": "02-walkway-sketch.webp",
+      "sha256": "ca3dc8a2c6417eb2c1963c5f71ea2878a47bfb29546d1fe59e1be3b09fa4720a",
+      "bytes": 29644,
+      "from": "606b page 2 — walkway sketch"
+    },
+    {
+      "name": "03-stair-render.webp",
+      "sha256": "2cb400f6409e682308a0d994d3518947bd4b87c4e0303023f4745b98db95eee2",
+      "bytes": 44956,
+      "from": "606b page 2 — stair render"
+    },
+    {
+      "name": "04-street-section.webp",
+      "sha256": "b2639e79c6b31f07c05be386b613c229b52b57ea12a3e9a1903dfeb5cf4a41b2",
+      "bytes": 47906,
+      "from": "606b page 2 — street section"
+    },
+    {
+      "name": "05-ground-sketch.webp",
+      "sha256": "bfaa5e0018579b2d41b770b13b321724de2ee69d1d8de13c25562adb78037ed0",
+      "bytes": 65548,
+      "from": "606b page 3 — ground sketch"
+    },
+    {
+      "name": "06-before-after.webp",
+      "sha256": "dff6627819a9db0516efd37f8349dff05dcc533799b708a623c4e121dbb4438e",
+      "bytes": 26510,
+      "from": "606b page 3 — before after"
+    },
+    {
+      "name": "07-ai-render-a.webp",
+      "sha256": "3f52ea5f50f753035651cd7cf5dec90266b520c4269edd04763e36e850b9b703",
+      "bytes": 50610,
+      "from": "606b page 3 — ai render a"
+    },
+    {
+      "name": "08-ai-render-b.webp",
+      "sha256": "022e1130b47e0f68ec83893a5e8395d97a3cabc964f3f2649d0f0b88bf8c6a46",
+      "bytes": 36900,
+      "from": "606b page 3 — ai render b"
+    },
+    {
+      "name": "09-model-detail-a.webp",
+      "sha256": "4dd01abe69f313ff244349169a6caf32427a3c667a533866e8164a07e80f0145",
+      "bytes": 16540,
+      "from": "606b page 3 — model detail a"
+    },
+    {
+      "name": "10-model-long-view.webp",
+      "sha256": "5eab4b07680396c21b503707d9a6c922b2bb642f74b4999a52dc4b669a8d55e1",
+      "bytes": 41922,
+      "from": "606b page 3 — model long view"
+    }
+  ]
+}
