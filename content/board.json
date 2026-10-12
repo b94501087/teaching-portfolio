@@ -14680,6 +14680,145 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "E-commerce City Complex",
+      "slug": "e-commerce-city-complex",
+      "description": "A three-layer rural complex stacks homes, a live-streaming economy and a Hanfu factory to bring talent back to the countryside.\n\nChina | Rural urban complex | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "電商城市綜合體",
+          "description": "一座三層的鄉村綜合體，疊合居住、直播經濟與漢服工廠，吸引人才回到鄉村。\n\n中國｜鄉村城市綜合體｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/e-commerce-city-complex/01-complex-axonometric.webp",
+        "assets/board/e-commerce-city-complex/02-identity-and-framework.webp",
+        "assets/board/e-commerce-city-complex/03-strategy.webp",
+        "assets/board/e-commerce-city-complex/04-section-model.webp",
+        "assets/board/e-commerce-city-complex/05-design-process.webp",
+        "assets/board/e-commerce-city-complex/06-floor-plans.webp",
+        "assets/board/e-commerce-city-complex/07-model-photos.webp",
+        "assets/board/e-commerce-city-complex/08-model-rendering.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/e-commerce-city-complex/08-model-rendering.webp"
+          ],
+          "captions": [
+            "The urban complex stacked in three layers above the countryside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "在鄉村之上疊成三層的城市綜合體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "E-commerce villages have multiplied across rural China, from 3 in 2009 to 5,425 in 2020, driven by residents, government support and online platforms. This design hopes to attract talent back to the countryside through an attractive urban complex, and to promote Hanfu culture through live-streaming with goods as a key function.",
+          "images": [
+            "assets/board/e-commerce-city-complex/01-complex-axonometric.webp"
+          ],
+          "captions": [
+            "Axonometric drawing: the original rural texture as the top living layer."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "中國鄉村的電商村快速增加，從 2009 年的 3 個成長到 2020 年的 5,425 個，背後是居民自發、政府支持與電商平台的發展。這個設計希望透過一座有吸引力的城市綜合體，吸引人才回到鄉村，並以直播帶貨為核心機能推廣漢服文化。",
+              "captions": [
+                "軸測圖：以原有的鄉村肌理作為頂層的居住空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site problems include poor living conditions, a loss of talent to big cities, traffic jams caused by the factories, a single industrial chain and a saturated market. A crowd identity transformation mechanism maps how villagers, workers and newcomers can change roles, and a framework links living, production and display.",
+          "images": [
+            "assets/board/e-commerce-city-complex/02-identity-and-framework.webp",
+            "assets/board/e-commerce-city-complex/03-strategy.webp"
+          ],
+          "captions": [
+            "Crowd identity transformation mechanism and the design framework.",
+            "Strategy diagrams linking the functions of the complex with its surroundings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地的問題包括居住條件不佳、人才外流到大城市、工廠造成交通壅塞、產業鏈單一與市場飽和。人群身分轉換機制描繪村民、工人與新來者如何轉換角色，再以架構圖串連居住、生產與展示。",
+              "captions": [
+                "人群身分轉換機制與設計架構。",
+                "串連綜合體機能與周邊環境的策略圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The complex takes the original rural texture as the top living area, with live broadcast sales, traffic supervision, opinion collection and influencer training in the middle layer, and the factory producing Hanfu in the bottom layer. Residents move up and down through the elevators and stairs of the traffic centre, while a corridor on the second floor leads out to the surrounding countryside.",
+          "images": [
+            "assets/board/e-commerce-city-complex/04-section-model.webp",
+            "assets/board/e-commerce-city-complex/05-design-process.webp",
+            "assets/board/e-commerce-city-complex/06-floor-plans.webp"
+          ],
+          "captions": [
+            "Section model connecting the urban complex and the surrounding site.",
+            "Design process: from the original village to the layered complex.",
+            "1st, 2nd and 3rd floor plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "綜合體以原有的鄉村肌理作為頂層居住空間，中層容納直播銷售、交通管理、意見收集與網紅培訓，底層則是生產漢服的工廠。居民經由交通核的電梯與樓梯上下移動，二樓的廊道則通往周邊的鄉村。",
+              "captions": [
+                "連接城市綜合體與周邊基地的剖面模型。",
+                "設計過程：從原有村落到分層的綜合體。",
+                "一樓、二樓與三樓平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The physical model and the final rendering show the three layers working together: homes on top, a live-streaming economy in the middle and production at the base. In this teamwork project, the student's contribution covered site analysis, the model and the renderings.",
+          "images": [
+            "assets/board/e-commerce-city-complex/07-model-photos.webp"
+          ],
+          "captions": [
+            "Physical model photos of the layered complex."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "實體模型與最終渲染呈現三層如何協同運作：上層居住、中層直播經濟、底層生產。這是一個團隊作業，學生負責基地分析、模型與渲染。",
+              "captions": [
+                "分層綜合體的實體模型照片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the data behind a rural trend.\n2. Map who lives, works and visits.\n3. Stack the functions by layer.\n4. Keep the original texture alive.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀鄉村趨勢背後的數據。\n2. 描繪誰在這裡居住、工作與造訪。\n3. 依層次疊合機能。\n4. 保留原有的肌理。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
