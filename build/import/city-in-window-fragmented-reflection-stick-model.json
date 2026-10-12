@@ -1,0 +1,49 @@
+{
+  "project": "City in Window",
+  "dest": "assets/board/city-in-window-fragmented-reflection-stick-model",
+  "note": "Portfolio ce05 pages 10-11 cropped to seven images, WebP q88 (PIL). Not used: title and text, street photos of buildings, theorist and book names.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "903025c07994fa005e1a34fcaf6609c833627de24ce4e234583b88485794c896",
+      "bytes": 173842,
+      "from": "ce05 page 11 — final model"
+    },
+    {
+      "name": "02-window-sketches.webp",
+      "sha256": "58bd5c142c095d70ec768f0fa2df6dc421866c70d16b25d0c0c7eb2ffd99cca7",
+      "bytes": 63932,
+      "from": "ce05 page 10 — window sketches"
+    },
+    {
+      "name": "03-collage.webp",
+      "sha256": "5b1b510c05823899b2d8bb07af54acbbf2686ed835c56256cfd6784b9a4b7607",
+      "bytes": 58552,
+      "from": "ce05 page 10 — collage"
+    },
+    {
+      "name": "04-process.webp",
+      "sha256": "9f7091cd654fddeea81c7344e35ad286d178e6a6125664ac55f9a5d5f58d364e",
+      "bytes": 46554,
+      "from": "ce05 page 10 — process"
+    },
+    {
+      "name": "05-phase-one.webp",
+      "sha256": "d1ce8eee3680a31699e510ef409684fa7459189f345d130b012dd0b64799aa7a",
+      "bytes": 25504,
+      "from": "ce05 page 11 — phase one"
+    },
+    {
+      "name": "06-phase-two.webp",
+      "sha256": "b3ee25d42ecfc455178165331bc3585bd5629b21ceb72a6ef5af39d028827e6c",
+      "bytes": 33436,
+      "from": "ce05 page 11 — phase two"
+    },
+    {
+      "name": "07-phase-three.webp",
+      "sha256": "0c39f0e9a91683e7eb091b2d26cbb73e276f3a698a3dc9f0670a67c09a9d1abe",
+      "bytes": 64224,
+      "from": "ce05 page 11 — phase three"
+    }
+  ]
+}
