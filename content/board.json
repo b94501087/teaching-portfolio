@@ -48512,6 +48512,1018 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "A Tower of Two Cities",
+      "slug": "two-cities-tower-from-animated-series-to-space",
+      "description": "A cardboard and wire tower turns an animated series about two divided cities and two sisters into space.\n\nModel making | Spatial narrative | Pencil, card paper and wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "雙城之塔",
+          "description": "以紙板與金屬線構成的塔，把一部關於兩座分裂城市與一對姊妹的動畫影集轉化為空間。\n\n模型製作｜空間敘事｜鉛筆、卡紙與木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/two-cities-tower-from-animated-series-to-space/01-tower-model.webp",
+        "assets/board/two-cities-tower-from-animated-series-to-space/02-series-poster.webp",
+        "assets/board/two-cities-tower-from-animated-series-to-space/03-stills-a.webp",
+        "assets/board/two-cities-tower-from-animated-series-to-space/04-storyline-sketch.webp",
+        "assets/board/two-cities-tower-from-animated-series-to-space/05-stills-b.webp",
+        "assets/board/two-cities-tower-from-animated-series-to-space/06-process.webp",
+        "assets/board/two-cities-tower-from-animated-series-to-space/07-detail-houses.webp",
+        "assets/board/two-cities-tower-from-animated-series-to-space/08-house-drawing.webp",
+        "assets/board/two-cities-tower-from-animated-series-to-space/09-top-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/two-cities-tower-from-animated-series-to-space/01-tower-model.webp"
+          ],
+          "captions": [
+            "The finished tower model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的塔模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student chose an animated series about two divided cities and the broken bond between two sisters. The aim was to show how inequality and conflict can shape a person's path.",
+          "images": [
+            "assets/board/two-cities-tower-from-animated-series-to-space/02-series-poster.webp",
+            "assets/board/two-cities-tower-from-animated-series-to-space/03-stills-a.webp"
+          ],
+          "captions": [
+            "Poster art of the series.",
+            "Stills of the story, part one."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生選擇了一部關於兩座分裂城市與一對姊妹破裂情誼的動畫影集。目標是呈現不平等與衝突如何塑造一個人的道路。",
+              "captions": [
+                "影集的海報畫面。",
+                "故事劇照之一。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Key scenes were collected and lined up as a storyline from the crowded lower city to the final flare. Each scene was then given a layer in a sketch of the tower.",
+          "images": [
+            "assets/board/two-cities-tower-from-animated-series-to-space/04-storyline-sketch.webp",
+            "assets/board/two-cities-tower-from-animated-series-to-space/05-stills-b.webp"
+          ],
+          "captions": [
+            "Storyline sketch of the tower.",
+            "Stills of the story, part two."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生收集關鍵場景，從擁擠的下城到最後的信號火光排成一條故事線。每個場景都在塔的草圖中對應一個層次。",
+              "captions": [
+                "塔的故事線草圖。",
+                "故事劇照之二。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Cardboard houses form the base and a bar sits at the centre, with silver cards and blue wire for an explosion. Above them, black sticks form a prison and wire wrapped in mesh shows a restless mind.",
+          "images": [
+            "assets/board/two-cities-tower-from-animated-series-to-space/06-process.webp",
+            "assets/board/two-cities-tower-from-animated-series-to-space/07-detail-houses.webp",
+            "assets/board/two-cities-tower-from-animated-series-to-space/08-house-drawing.webp"
+          ],
+          "captions": [
+            "Building the model by hand.",
+            "Houses at the base.",
+            "Drawing of the crowded houses."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "紙板房屋構成底座，中央是一間酒館，銀色卡片與藍色金屬線代表爆炸。上方的黑色木棒形成牢籠，包覆網布的金屬線呈現不安的心境。",
+              "captions": [
+                "親手製作模型。",
+                "底部的房屋。",
+                "擁擠房屋的手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished tower reads from bottom to top as one journey through the story. Blue straws at the very top stand for a flare, a promise to find each other again.",
+          "images": [
+            "assets/board/two-cities-tower-from-animated-series-to-space/09-top-detail.webp"
+          ],
+          "captions": [
+            "Wire and straws at the top."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的塔由下而上讀起來就是穿越故事的一段旅程。最頂端的藍色吸管象徵信號火光，也是再次找到彼此的承諾。",
+              "captions": [
+                "頂部的金屬線與吸管。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a story that moves you.\n2. Line up its key scenes.\n3. Give each scene a layer.\n4. Read the model as a journey.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個打動你的故事。\n2. 排出它的關鍵場景。\n3. 為每個場景安排一個層次。\n4. 把模型當作一段旅程來閱讀。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Shade Pavilion for a Seaside Plaza",
+      "slug": "seaside-plaza-shade-pavilion-wooden-stick-model",
+      "description": "A light wooden pavilion gives shade, seats and a place for events on a windy, sunny plaza by the sea.\n\nModel making | Public space | Pencil, card paper and wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "海濱廣場遮陽亭",
+          "description": "一座輕巧的木構亭為海邊多風、日曬強烈的廣場提供遮陽、座位與活動空間。\n\n模型製作｜公共空間｜鉛筆、卡紙與木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/01-plaza-render.webp",
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/02-site-map.webp",
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/03-shortcomings.webp",
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/04-strategies.webp",
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/05-model-a.webp",
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/06-model-b.webp",
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/07-model-c.webp",
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/08-model-d.webp",
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/09-aerial-render.webp",
+        "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/10-seat-render.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/01-plaza-render.webp"
+          ],
+          "captions": [
+            "The pavilion on the plaza."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "廣場上的亭子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The plaza by the sea has few obstructions, so summer sun is strong and winter wind is harsh. Outdoor seats are also scarce, and the space stays empty when no events are held.",
+          "images": [
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/02-site-map.webp",
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/03-shortcomings.webp"
+          ],
+          "captions": [
+            "Site map around the plaza.",
+            "Problems found on site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這座海邊廣場幾乎沒有遮蔽，夏天日曬強烈，冬天風勢猛烈。戶外座位也很少，沒有活動時空間便閒置。",
+              "captions": [
+                "廣場周邊的基地圖。",
+                "基地上發現的問題。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student mapped the park, food places, offices and the ferry terminal around the plaza. Simple sketches then tested three needs: shade, rest and activity.",
+          "images": [
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/04-strategies.webp"
+          ],
+          "captions": [
+            "Shade, rest and activity ideas."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生繪出廣場周邊的公園、餐飲、辦公與渡輪碼頭。接著以簡單草圖測試三種需求：遮陽、休憩與活動。",
+              "captions": [
+                "遮陽、休憩與活動的構想。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A ring of wooden sticks holds a fabric roof that dips between the posts. Double seats along the edge let people face in or out.",
+          "images": [
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/05-model-a.webp",
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/06-model-b.webp",
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/07-model-c.webp",
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/08-model-d.webp"
+          ],
+          "captions": [
+            "Model from above.",
+            "The roof frame.",
+            "Model from the side.",
+            "Looking up inside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一圈木棒撐起在柱間下垂的布質屋頂。邊緣的雙向座椅讓人可以面向內或外。",
+              "captions": [
+                "俯視模型。",
+                "屋頂框架。",
+                "模型側面。",
+                "由內部向上看。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Renders place the temporary pavilion on the plaza as a spot for meals, rest and small events. It brings life to an empty space while keeping people out of the strong sun.",
+          "images": [
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/09-aerial-render.webp",
+            "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/10-seat-render.webp"
+          ],
+          "captions": [
+            "Aerial view of the site.",
+            "Sitting under the canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "渲染圖將這座臨時亭子置於廣場上，作為用餐、休息與小型活動的場所。它為閒置空間帶來活力，也讓人避開強烈日曬。",
+              "captions": [
+                "基地鳥瞰。",
+                "坐在頂篷下。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Visit the site in different seasons.\n2. List what is missing.\n3. Sketch one idea per need.\n4. Test the frame in a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 在不同季節觀察基地。\n2. 列出缺少的東西。\n3. 每個需求畫一個構想。\n4. 用模型測試結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tree-Architecture Symbiosis",
+      "slug": "tree-architecture-symbiosis-wooden-strip-model",
+      "description": "Thousands of wooden strips grow like a tree around metal platforms, so nature and building become one.\n\nModel making | Nature and structure | Wooden sticks, wooden board, paint and steel frames | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "樹與建築的共生",
+          "description": "成千上萬的木條像樹一樣圍繞金屬平台生長，讓自然與建築合而為一。\n\n模型製作｜自然與結構｜木棒、木板、顏料與鋼框｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/01-tree-model.webp",
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/02-sketch.webp",
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/03-process-a.webp",
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/04-process-b.webp",
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/05-process-c.webp",
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/06-process-d.webp",
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/07-detail-a.webp",
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/08-detail-b.webp",
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/09-detail-c.webp",
+        "assets/board/tree-architecture-symbiosis-wooden-strip-model/10-detail-d.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/01-tree-model.webp"
+          ],
+          "captions": [
+            "The finished tree model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的樹模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Much building begins by clearing forests, and modern buildings often feel cold and over-refined. The student asked how a building could grow with a tree instead of replacing it.",
+          "images": [
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/02-sketch.webp"
+          ],
+          "captions": [
+            "Sketches of tree houses."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "許多建造始於砍伐森林，現代建築也常顯得冰冷、過度精緻。學生思考建築如何能與樹一起生長，而不是取代它。",
+              "captions": [
+                "樹屋草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Tree houses seen on trips abroad showed how small rooms can sit high in branches. Sketches tested posts, roofs and ladders that lean on a trunk.",
+          "images": [
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/05-process-c.webp",
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/06-process-d.webp"
+          ],
+          "captions": [
+            "The trunk taking shape.",
+            "Strips graded thick to thin."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "在國外旅行看到的樹屋，展示了小房間如何高掛在枝幹間。草圖測試了倚靠樹幹的支柱、屋頂與梯子。",
+              "captions": [
+                "逐漸成形的樹幹。",
+                "由粗到細的木條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wooden strips were graded from thick to thin to follow the taper of a real tree. Silver-painted frames and platforms were then tied in with ladders and weathered with acrylic.",
+          "images": [
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/03-process-a.webp",
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/04-process-b.webp",
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/07-detail-a.webp"
+          ],
+          "captions": [
+            "Branches being layered.",
+            "Platforms among the branches.",
+            "Silver frames in the crown."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木條由粗到細分級，以呼應真實樹木的漸細形態。接著以梯子連接漆成銀色的框架與平台，並用壓克力顏料做出風化效果。",
+              "captions": [
+                "層層疊加的枝幹。",
+                "枝幹間的平台。",
+                "樹冠中的銀色框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the final model, branches and rusted steel frames merge into one form linked by free paths. It suggests a future where people, trees and buildings live as partners.",
+          "images": [
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/08-detail-b.webp",
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/09-detail-c.webp",
+            "assets/board/tree-architecture-symbiosis-wooden-strip-model/10-detail-d.webp"
+          ],
+          "captions": [
+            "Ladders between platforms.",
+            "Frames at the top.",
+            "Steel and wood together."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在最終模型中，枝幹與生鏽鋼框融為一體，並以自由的路徑串連。它描繪出人、樹與建築成為夥伴的未來。",
+              "captions": [
+                "平台之間的梯子。",
+                "頂部的框架。",
+                "鋼與木結合。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a doubt about building.\n2. Study how a tree grows.\n3. Grade materials by size.\n4. Let structure and nature merge.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從對建造的疑問出發。\n2. 研究樹如何生長。\n3. 依尺寸分級材料。\n4. 讓結構與自然融合。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tokyo Light Topography",
+      "slug": "tokyo-light-topography-satellite-data-stick-model",
+      "description": "A night satellite image of Tokyo Bay becomes a mountain of wooden triangles, taller where the city glows brighter.\n\nModel making | Data to form | Pencil, card paper and wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "東京光之地形",
+          "description": "一張東京灣夜間衛星影像化為木棒三角形構成的山，城市越亮的地方就越高。\n\n模型製作｜數據轉化造型｜鉛筆、卡紙與木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/01-light-mountain.webp",
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/02-satellite-image.webp",
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/03-triangle-map.webp",
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/04-strip-drawing.webp",
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/05-material-tests.webp",
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/06-sketch.webp",
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/07-process.webp",
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/08-side-view.webp",
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/09-view-b.webp",
+        "assets/board/tokyo-light-topography-satellite-data-stick-model/10-view-c.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/01-light-mountain.webp"
+          ],
+          "captions": [
+            "The finished light mountain."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的光之山。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to turn abstract city data into a physical form. A night satellite image of Tokyo Bay shows where people live and work most densely.",
+          "images": [
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/02-satellite-image.webp"
+          ],
+          "captions": [
+            "Night satellite image of the bay."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想把抽象的城市數據轉化為實體造型。東京灣的夜間衛星影像顯示人們居住與工作最密集的地方。",
+              "captions": [
+                "海灣的夜間衛星影像。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The image was split into a grid and each cell was given a grey value. Each value became a height, so brightness turns directly into elevation.",
+          "images": [
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/03-triangle-map.webp",
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/04-strip-drawing.webp"
+          ],
+          "captions": [
+            "Brightness mapped to triangles.",
+            "A strip of triangles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "影像被切成網格，每一格都給予灰階值。每個數值轉為高度，讓亮度直接變成海拔。",
+              "captions": [
+                "亮度轉換為三角形。",
+                "一條三角形帶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Triangles of wooden sticks were joined into a frame that rises over the brightest areas. Coloured and shiny films were tested to catch light inside the frame.",
+          "images": [
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/05-material-tests.webp",
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/06-sketch.webp",
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/07-process.webp"
+          ],
+          "captions": [
+            "Material tests for colour.",
+            "Sketch of the peak.",
+            "Joining the sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木棒三角形接合成框架，在最亮的區域升起。學生也測試了彩色與亮面薄膜，讓框架內部捕捉光線。",
+              "captions": [
+                "色彩材料測試。",
+                "山峰草圖。",
+                "接合木棒。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model reads as an urban mountain range made of light. It is a study in data, material logic and the shape of a city.",
+          "images": [
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/08-side-view.webp",
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/09-view-b.webp",
+            "assets/board/tokyo-light-topography-satellite-data-stick-model/10-view-c.webp"
+          ],
+          "captions": [
+            "Stairs on the side.",
+            "The peak from another side.",
+            "The spreading base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型讀起來像一座由光構成的城市山脈。它是一項關於數據、材料邏輯與城市形態的研究。",
+              "captions": [
+                "側面的階梯。",
+                "另一側的山峰。",
+                "向外展開的底部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a data image.\n2. Turn values into heights.\n3. Build with one repeated unit.\n4. Check the form against the data.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇一張數據影像。\n2. 把數值轉為高度。\n3. 以單一重複單元建造。\n4. 對照數據檢查造型。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Night Market and Housing",
+      "slug": "night-market-housing-wooden-strip-facade-model",
+      "description": "An empty parking lot becomes a night market with homes, wrapped in a facade of hundreds of thin wooden strips.\n\nModel making | Housing | Wooden board, wooden strips and PLA | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "夜市與住宅",
+          "description": "一塊閒置停車場化為結合住宅的夜市，外牆包覆數百根細木條。\n\n模型製作｜住宅設計｜木板、木條與PLA｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/night-market-housing-wooden-strip-facade-model/01-house-model.webp",
+        "assets/board/night-market-housing-wooden-strip-facade-model/02-site-plan.webp",
+        "assets/board/night-market-housing-wooden-strip-facade-model/03-scale-studies.webp",
+        "assets/board/night-market-housing-wooden-strip-facade-model/04-process-a.webp",
+        "assets/board/night-market-housing-wooden-strip-facade-model/05-process-b.webp",
+        "assets/board/night-market-housing-wooden-strip-facade-model/06-process-c.webp",
+        "assets/board/night-market-housing-wooden-strip-facade-model/07-process-d.webp",
+        "assets/board/night-market-housing-wooden-strip-facade-model/08-interior-a.webp",
+        "assets/board/night-market-housing-wooden-strip-facade-model/09-interior-b.webp",
+        "assets/board/night-market-housing-wooden-strip-facade-model/10-plan-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/night-market-housing-wooden-strip-facade-model/01-house-model.webp"
+          ],
+          "captions": [
+            "The house with its strip facade."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "帶木條外牆的住宅。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is a wasteful parking lot in a busy city district. The student proposed turning it into a night market and public community, keeping a free parking section.",
+          "images": [
+            "assets/board/night-market-housing-wooden-strip-facade-model/02-site-plan.webp"
+          ],
+          "captions": [
+            "Hand-drawn site plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地是繁忙城區中一塊浪費的停車場。學生提議將其改造為夜市與公共社區，並保留一區免費停車。",
+              "captions": [
+                "手繪基地配置圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "To get sizes right, the student studied how human figures scale against furniture and rooms. Each drawn figure became a gauge for real bodies and movement.",
+          "images": [
+            "assets/board/night-market-housing-wooden-strip-facade-model/03-scale-studies.webp"
+          ],
+          "captions": [
+            "Studies of the human scale."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "為了掌握尺寸，學生研究人體與家具、房間之間的比例。每個繪製的人形都成為衡量真實身體與動作的尺規。",
+              "captions": [
+                "人體尺度研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "In a later step, one corner became homes for couples, singles and families. All parts were drawn to scale, laser-cut from wood and joined, with window frames painted black.",
+          "images": [
+            "assets/board/night-market-housing-wooden-strip-facade-model/04-process-a.webp",
+            "assets/board/night-market-housing-wooden-strip-facade-model/05-process-b.webp",
+            "assets/board/night-market-housing-wooden-strip-facade-model/06-process-c.webp",
+            "assets/board/night-market-housing-wooden-strip-facade-model/07-process-d.webp"
+          ],
+          "captions": [
+            "Laser-cut wooden parts.",
+            "Black window frames.",
+            "Assembling the floors.",
+            "Facade strips going on."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在後續階段，一角被規劃為情侶、單身者與家庭的住宅。所有構件依比例繪製、以雷射切割木材並接合，窗框漆成黑色。",
+              "captions": [
+                "雷射切割的木構件。",
+                "黑色窗框。",
+                "組裝樓層。",
+                "安裝外牆木條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The frame is wrapped in hundreds of hand-cut basswood strips that give a rhythmic, tactile facade. White 3D-printed furniture shows how the rooms are lived in.",
+          "images": [
+            "assets/board/night-market-housing-wooden-strip-facade-model/08-interior-a.webp",
+            "assets/board/night-market-housing-wooden-strip-facade-model/09-interior-b.webp",
+            "assets/board/night-market-housing-wooden-strip-facade-model/10-plan-view.webp"
+          ],
+          "captions": [
+            "Dining room inside.",
+            "Hall and stairs.",
+            "The model from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "框架外包覆數百根手工切割的椴木條，形成富有節奏與觸感的外牆。白色3D列印家具呈現房間的使用方式。",
+              "captions": [
+                "室內的餐廳。",
+                "走廊與樓梯。",
+                "俯視模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find a wasted site.\n2. Learn the human scale.\n3. Cut parts to exact sizes.\n4. Give the facade a texture.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出被浪費的基地。\n2. 學習人體尺度。\n3. 依精確尺寸切割構件。\n4. 為外牆賦予質感。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Frozen Harbour",
+      "slug": "frozen-harbour-game-map-to-straw-and-stick-model",
+      "description": "A snowy harbour map from a video game is broken into flat shapes, then rebuilt with straws, sticks and shiny paper.\n\nModel making | Game space | Wood sticks, plastic, straws, corrugated paper and laser paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "冰封港灣",
+          "description": "把電子遊戲中的雪地港灣地圖拆成平面造型，再以吸管、木棒與亮面紙重建。\n\n模型製作｜遊戲空間｜木棒、塑膠片、吸管、瓦楞紙與雷射紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/01-iceberg-view.webp",
+        "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/02-game-art.webp",
+        "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/03-element-sketches.webp",
+        "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/04-flat-composition.webp",
+        "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/05-process.webp",
+        "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/06-collage-drawing.webp",
+        "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/07-container-detail.webp",
+        "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/08-crane-detail.webp",
+        "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/09-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/01-iceberg-view.webp"
+          ],
+          "captions": [
+            "Among the iceberg towers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "冰山塔之間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student took a snowy harbour map from a video game as the starting point. The aim was to take its spaces apart and rebuild them by hand.",
+          "images": [
+            "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/02-game-art.webp"
+          ],
+          "captions": [
+            "Views of the game map."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生以一款電子遊戲中的雪地港灣地圖作為起點。目標是拆解它的空間，再親手重建。",
+              "captions": [
+                "遊戲地圖畫面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Elements such as the curved dome, lanes, cranes and containers were sketched one by one. They were then arranged into a composition of pure flat shapes.",
+          "images": [
+            "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/03-element-sketches.webp",
+            "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/04-flat-composition.webp"
+          ],
+          "captions": [
+            "Sketches of map elements.",
+            "The map as flat shapes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "圓頂、通道、吊車與貨櫃等元素被逐一描繪。接著它們被排列成純粹的平面幾何構成。",
+              "captions": [
+                "地圖元素草圖。",
+                "轉為平面造型的地圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The flat design was translated into 3D through a careful choice of materials. White and blue straws stand for water, and silver and brown strips frame the crane.",
+          "images": [
+            "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/05-process.webp",
+            "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/06-collage-drawing.webp"
+          ],
+          "captions": [
+            "Straw towers on the base.",
+            "Drawing of the composition."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "平面設計透過精選的材料轉化為立體。白色與藍色吸管代表水，銀色與棕色木條構成吊車的骨架。",
+              "captions": [
+                "底座上的吸管塔。",
+                "構成的手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Icebergs became white sticks and holographic paper that catch cold light. Orange and green cubes clad in corrugated card recall the harbour's metal containers.",
+          "images": [
+            "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/07-container-detail.webp",
+            "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/08-crane-detail.webp",
+            "assets/board/frozen-harbour-game-map-to-straw-and-stick-model/09-side-view.webp"
+          ],
+          "captions": [
+            "Corrugated containers.",
+            "Holographic paper in the crane.",
+            "The model from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "冰山化為白色木棒與雷射紙，捕捉冷冽光線。包覆瓦楞紙的橘色與綠色方塊讓人想起港灣的金屬貨櫃。",
+              "captions": [
+                "瓦楞紙貨櫃。",
+                "吊車中的雷射紙。",
+                "模型側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a space you know well.\n2. Break it into elements.\n3. Flatten them into shapes.\n4. Rebuild them with materials.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個你熟悉的空間。\n2. 把它拆成元素。\n3. 將元素轉為平面造型。\n4. 用材料重新建造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Parametric Morphogenesis",
+      "slug": "parametric-morphogenesis-curve-to-tower-form",
+      "description": "One free curve is copied, scaled and rotated in a script until it grows into a flowing tower.\n\nDigital design | Parametric form | 3D modelling and visual scripting | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "參數化形態生成",
+          "description": "一條自由曲線經程式複製、縮放與旋轉，逐步長成流動的塔。\n\n數位設計｜參數化造型｜3D建模與視覺化程式｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/parametric-morphogenesis-curve-to-tower-form/01-final-form.webp",
+        "assets/board/parametric-morphogenesis-curve-to-tower-form/02-curve.webp",
+        "assets/board/parametric-morphogenesis-curve-to-tower-form/03-array-scale-rotate.webp",
+        "assets/board/parametric-morphogenesis-curve-to-tower-form/04-script.webp",
+        "assets/board/parametric-morphogenesis-curve-to-tower-form/05-loft-to-pipe.webp",
+        "assets/board/parametric-morphogenesis-curve-to-tower-form/06-top-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/parametric-morphogenesis-curve-to-tower-form/01-final-form.webp"
+          ],
+          "captions": [
+            "The final flowing tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "最終的流動之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks how a single simple line can grow into a complex 3D structure. It is a first step into designing with rules instead of drawing every shape by hand.",
+          "images": [
+            "assets/board/parametric-morphogenesis-curve-to-tower-form/02-curve.webp"
+          ],
+          "captions": [
+            "The starting curve."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專案探討一條簡單的線如何長成複雜的立體結構。這是以規則設計、而非手繪每個造型的第一步。",
+              "captions": [
+                "起始曲線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student tested three basic moves on the curve: array, scale and rotate. Each move changed how the copies stacked into layers.",
+          "images": [
+            "assets/board/parametric-morphogenesis-curve-to-tower-form/03-array-scale-rotate.webp"
+          ],
+          "captions": [
+            "Array, scale and rotate."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生在曲線上測試三種基本操作：陣列、縮放與旋轉。每種操作都改變了複本堆疊成層的方式。",
+              "captions": [
+                "陣列、縮放與旋轉。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A visual script links the steps, so changing one value updates the whole form. Loft, extrude and contour with pipe turned the layers into surfaces and lines.",
+          "images": [
+            "assets/board/parametric-morphogenesis-curve-to-tower-form/04-script.webp",
+            "assets/board/parametric-morphogenesis-curve-to-tower-form/05-loft-to-pipe.webp"
+          ],
+          "captions": [
+            "The visual script.",
+            "Loft, extrude and contour."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "視覺化程式串連各個步驟，改動一個數值就能更新整個造型。放樣、擠出與等高線加管線把層次轉為曲面與線條。",
+              "captions": [
+                "視覺化程式。",
+                "放樣、擠出與等高線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final tower flares at the base and splits into two peaks at the top. Its contour lines show form, structure and visual complexity under one set of rules.",
+          "images": [
+            "assets/board/parametric-morphogenesis-curve-to-tower-form/06-top-view.webp"
+          ],
+          "captions": [
+            "The form from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終的塔在底部展開，頂端分成兩座峰。它的等高線在同一組規則下呈現造型、結構與視覺的複雜度。",
+              "captions": [
+                "俯視造型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one line.\n2. Try one operation at a time.\n3. Link the steps in a script.\n4. Compare versions side by side.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一條線開始。\n2. 一次嘗試一種操作。\n3. 用程式串連步驟。\n4. 並排比較各個版本。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
