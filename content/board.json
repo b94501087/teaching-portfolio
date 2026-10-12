@@ -46492,6 +46492,862 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Cage of a Broken Friendship",
+      "slug": "cage-of-a-broken-friendship-stick-stage-model",
+      "description": "A stage model of sticks, corroded blocks and wire tells how a friendship on a quiet island falls apart.\n\nModel making | Stage design | Card paper and wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "破碎友誼之籠",
+          "description": "以木棒、侵蝕方塊與金屬線構成的舞台模型，講述寧靜島嶼上一段友誼的崩解。\n\n模型製作｜舞台設計｜卡紙與木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/01-stage-model.webp",
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/02-process-a.webp",
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/03-process-b.webp",
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/04-lit-model.webp",
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/05-process-c.webp",
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/06-burn-test.webp",
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/07-view-a.webp",
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/08-view-b.webp",
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/09-detail-a.webp",
+        "assets/board/cage-of-a-broken-friendship-stick-stage-model/10-detail-b.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/01-stage-model.webp"
+          ],
+          "captions": [
+            "The finished stage model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的舞台模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to turn a story about two friends who drift apart on an island into space. The model had to show isolation, rupture and a final act of revenge.",
+          "images": [
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/02-process-a.webp",
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/03-process-b.webp"
+          ],
+          "captions": [
+            "Shaping the water base.",
+            "Gluing the stick frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想把一段發生在島上、兩位朋友逐漸疏遠的故事轉化為空間。模型必須呈現孤立、斷裂與最後的報復。",
+              "captions": [
+                "製作水面底座。",
+                "黏合木棒框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The story was broken into six moments, from a quiet life to a last farewell by the sea. Each moment was linked to a material, such as sticks for the cage of daily life.",
+          "images": [
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/04-lit-model.webp",
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/05-process-c.webp"
+          ],
+          "captions": [
+            "The model lit from inside.",
+            "The frame growing upward."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "故事被拆成六個時刻，從平靜生活到海邊的最後告別。每個時刻都對應一種材料，例如以木棒代表日常生活的牢籠。",
+              "captions": [
+                "從內部打光的模型。",
+                "框架向上生長。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Corroded paper blocks show a friendship worn down over time, while tangled curves show an obsession. Aluminium wire shaped like flowing water marks a sister leaving the island.",
+          "images": [
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/06-burn-test.webp",
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/09-detail-a.webp",
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/10-detail-b.webp"
+          ],
+          "captions": [
+            "Burning part of the model.",
+            "Tangled curves at the top.",
+            "Corroded blocks over the water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "侵蝕的紙方塊表現隨時間磨損的友誼，糾結的曲線則表現執念。像流水般的鋁線代表離開島嶼的妹妹。",
+              "captions": [
+                "燒灼模型的一部分。",
+                "頂部糾結的曲線。",
+                "水面上的侵蝕方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Part of the model was burned on purpose, and the burn marks were kept. The final cage reads as a ruin of a relationship standing on the water.",
+          "images": [
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/07-view-a.webp",
+            "assets/board/cage-of-a-broken-friendship-stick-stage-model/08-view-b.webp"
+          ],
+          "captions": [
+            "Front view of the cage.",
+            "Side view of the cage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型的一部分被刻意燒灼，並保留燒痕。最終的籠體就像一段關係的廢墟立在水面上。",
+              "captions": [
+                "籠體正面。",
+                "籠體側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Break a story into moments.\n2. Give each moment a material.\n3. Let the form tell the plot.\n4. Keep the traces of making.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把故事拆成數個時刻。\n2. 為每個時刻選一種材料。\n3. 讓形體講述情節。\n4. 保留製作的痕跡。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Four Detectives in Paper",
+      "slug": "four-detectives-pattern-to-paper-space-models",
+      "description": "Four characters from a mystery game are turned into patterns and then into four paper models.\n\nModel making | Spatial narrative | PVC board, card paper and wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "紙中的四位偵探",
+          "description": "把推理遊戲中的四個角色轉化為圖案，再轉化為四座紙模型。\n\n模型製作｜空間敘事｜PVC板、卡紙與金屬線｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/four-detectives-pattern-to-paper-space-models/01-first-model.webp",
+        "assets/board/four-detectives-pattern-to-paper-space-models/02-pattern-a.webp",
+        "assets/board/four-detectives-pattern-to-paper-space-models/03-model-a.webp",
+        "assets/board/four-detectives-pattern-to-paper-space-models/04-pattern-b.webp",
+        "assets/board/four-detectives-pattern-to-paper-space-models/05-model-b.webp",
+        "assets/board/four-detectives-pattern-to-paper-space-models/06-pattern-c.webp",
+        "assets/board/four-detectives-pattern-to-paper-space-models/07-model-c.webp",
+        "assets/board/four-detectives-pattern-to-paper-space-models/08-second-model.webp",
+        "assets/board/four-detectives-pattern-to-paper-space-models/09-third-model.webp",
+        "assets/board/four-detectives-pattern-to-paper-space-models/10-fourth-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/four-detectives-pattern-to-paper-space-models/01-first-model.webp"
+          ],
+          "captions": [
+            "The first character model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "第一個角色模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student loves story-driven role-playing games where four officers solve a series of crimes. The question was how a personality could become a space.",
+          "images": [
+            "assets/board/four-detectives-pattern-to-paper-space-models/02-pattern-a.webp"
+          ],
+          "captions": [
+            "Pattern of the first character."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生熱愛由劇情推動的角色扮演遊戲，故事中四位警員偵辦一連串案件。問題是一種性格如何成為一個空間。",
+              "captions": [
+                "第一個角色的圖案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Keywords were pulled from each officer's personality and behaviour, such as nervous, rigorous or talkative. These words were drawn as flat black and white patterns.",
+          "images": [
+            "assets/board/four-detectives-pattern-to-paper-space-models/04-pattern-b.webp",
+            "assets/board/four-detectives-pattern-to-paper-space-models/06-pattern-c.webp"
+          ],
+          "captions": [
+            "Pattern of the second character.",
+            "Pattern of the third character."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從每位警員的性格與行為中萃取關鍵字，例如緊張、嚴謹或健談。這些詞被畫成黑白的平面圖案。",
+              "captions": [
+                "第二個角色的圖案。",
+                "第三個角色的圖案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each pattern was folded, cut and stacked into a model on a square base. Curves, slats, rings and coloured film gave each character its own spatial language.",
+          "images": [
+            "assets/board/four-detectives-pattern-to-paper-space-models/03-model-a.webp",
+            "assets/board/four-detectives-pattern-to-paper-space-models/05-model-b.webp",
+            "assets/board/four-detectives-pattern-to-paper-space-models/07-model-c.webp"
+          ],
+          "captions": [
+            "From pattern to model.",
+            "The second model from above.",
+            "The third model from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每個圖案被摺疊、切割並堆疊成方形底座上的模型。曲線、條板、圓環與彩色薄膜賦予每個角色自己的空間語言。",
+              "captions": [
+                "從圖案到模型。",
+                "俯視第二個模型。",
+                "俯視第三個模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Four models now retell the story through space instead of words. Seen side by side, they show how different minds work on the same case.",
+          "images": [
+            "assets/board/four-detectives-pattern-to-paper-space-models/08-second-model.webp",
+            "assets/board/four-detectives-pattern-to-paper-space-models/09-third-model.webp",
+            "assets/board/four-detectives-pattern-to-paper-space-models/10-fourth-model.webp"
+          ],
+          "captions": [
+            "The second character model.",
+            "The third character model.",
+            "The fourth character model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "四座模型以空間而非文字重述故事。並排觀看時，它們呈現不同的思維如何面對同一個案件。",
+              "captions": [
+                "第二個角色模型。",
+                "第三個角色模型。",
+                "第四個角色模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Describe a character in words.\n2. Draw the words as patterns.\n3. Fold patterns into space.\n4. Compare the models.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 用文字描述角色。\n2. 把文字畫成圖案。\n3. 把圖案摺成空間。\n4. 比較各個模型。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "A Settlement Growing from Ruins",
+      "slug": "settlement-growing-from-ruins-pvc-model",
+      "description": "Broken walls become the base of a settlement that keeps growing with scaffolds, ladders and bridges.\n\nModel making | Speculative architecture | PVC board and sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "從廢墟生長的聚落",
+          "description": "斷牆成為聚落的基座，鷹架、梯子與橋不斷向外生長。\n\n模型製作｜思辨建築｜PVC板與木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/settlement-growing-from-ruins-pvc-model/01-settlement-model.webp",
+        "assets/board/settlement-growing-from-ruins-pvc-model/02-block-study-a.webp",
+        "assets/board/settlement-growing-from-ruins-pvc-model/03-block-study-b.webp",
+        "assets/board/settlement-growing-from-ruins-pvc-model/04-block-study-c.webp",
+        "assets/board/settlement-growing-from-ruins-pvc-model/05-block-study-d.webp",
+        "assets/board/settlement-growing-from-ruins-pvc-model/06-view-a.webp",
+        "assets/board/settlement-growing-from-ruins-pvc-model/07-view-b.webp",
+        "assets/board/settlement-growing-from-ruins-pvc-model/08-detail-a.webp",
+        "assets/board/settlement-growing-from-ruins-pvc-model/09-detail-b.webp",
+        "assets/board/settlement-growing-from-ruins-pvc-model/10-detail-c.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/settlement-growing-from-ruins-pvc-model/01-settlement-model.webp"
+          ],
+          "captions": [
+            "The settlement model lit at night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "夜間打光的聚落模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project imagines a people forced to keep living before their wounds have healed. Instead of rebuilding a perfect building, it keeps the sense of fragments and temporary repair.",
+          "images": [
+            "assets/board/settlement-growing-from-ruins-pvc-model/02-block-study-a.webp"
+          ],
+          "captions": [
+            "Stacked hollow blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品想像一群在傷口尚未癒合前就必須繼續生活的人。它不重建完美的建築，而是保留碎片與臨時修補的感覺。",
+              "captions": [
+                "堆疊的中空方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student first tested broken forms with stacked hollow PVC blocks. Tilting and leaning the blocks showed how ruins could still carry weight.",
+          "images": [
+            "assets/board/settlement-growing-from-ruins-pvc-model/03-block-study-b.webp",
+            "assets/board/settlement-growing-from-ruins-pvc-model/04-block-study-c.webp",
+            "assets/board/settlement-growing-from-ruins-pvc-model/05-block-study-d.webp"
+          ],
+          "captions": [
+            "Blocks turned and tilted.",
+            "A tower of broken frames.",
+            "Blocks leaning on each other."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先以堆疊的中空PVC方塊測試破碎形體。傾斜與倚靠的方塊顯示廢墟仍能承重。",
+              "captions": [
+                "旋轉傾斜的方塊。",
+                "破碎框架之塔。",
+                "互相倚靠的方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Collapsed walls became the base, and scaffolds, platforms and bridges were added layer by layer. Mesh, ladders and tiny figures made the settlement feel lived in.",
+          "images": [
+            "assets/board/settlement-growing-from-ruins-pvc-model/06-view-a.webp",
+            "assets/board/settlement-growing-from-ruins-pvc-model/08-detail-a.webp",
+            "assets/board/settlement-growing-from-ruins-pvc-model/09-detail-b.webp",
+            "assets/board/settlement-growing-from-ruins-pvc-model/10-detail-c.webp"
+          ],
+          "captions": [
+            "Scaffolds around the ruin.",
+            "Lit windows at the top.",
+            "Mesh and repairs.",
+            "Tiny figures among the sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "倒塌的牆成為基座，鷹架、平台與橋被一層層加上。網片、梯子與小人物讓聚落顯得有人居住。",
+              "captions": [
+                "廢墟周圍的鷹架。",
+                "頂部亮燈的窗。",
+                "網片與修補。",
+                "木棒間的小人物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The lit model shows a settlement that is repairing, living and defending at the same time. Red light and warm windows make the ruin feel both fragile and alive.",
+          "images": [
+            "assets/board/settlement-growing-from-ruins-pvc-model/07-view-b.webp"
+          ],
+          "captions": [
+            "The ruin in red light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "打光後的模型呈現一座同時在修補、居住與防禦的聚落。紅光與溫暖的窗讓廢墟既脆弱又充滿生命。",
+              "captions": [
+                "紅光中的廢墟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a broken form.\n2. Test how it carries weight.\n3. Add layers of repair.\n4. Light it to tell a mood.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從破碎的形體開始。\n2. 測試它如何承重。\n3. 加上一層層修補。\n4. 用光說出氛圍。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Chromatic Narratives",
+      "slug": "chromatic-narratives-three-coloured-room-models",
+      "description": "Three small rooms in blue, red and warm white follow a girl from loneliness to fantasy and back.\n\nModel making | Stage design | Plywood, clay and plastic tile | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "色彩敘事",
+          "description": "藍、紅與暖白三個小房間，跟隨一個女孩從孤獨走入幻想再回到現實。\n\n模型製作｜舞台設計｜夾板、黏土與塑膠磁磚｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/chromatic-narratives-three-coloured-room-models/01-blue-classroom.webp",
+        "assets/board/chromatic-narratives-three-coloured-room-models/02-brick-wall.webp",
+        "assets/board/chromatic-narratives-three-coloured-room-models/03-red-bedroom.webp",
+        "assets/board/chromatic-narratives-three-coloured-room-models/04-white-hospital.webp",
+        "assets/board/chromatic-narratives-three-coloured-room-models/05-classroom-detail.webp",
+        "assets/board/chromatic-narratives-three-coloured-room-models/06-bedroom-detail.webp",
+        "assets/board/chromatic-narratives-three-coloured-room-models/07-hospital-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/chromatic-narratives-three-coloured-room-models/01-blue-classroom.webp"
+          ],
+          "captions": [
+            "The blue classroom model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "藍色教室模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began with a drama the student created and performed at school. The story follows a girl who loses a close friend, escapes into fantasy and then returns to reality.",
+          "images": [
+            "assets/board/chromatic-narratives-three-coloured-room-models/02-brick-wall.webp"
+          ],
+          "captions": [
+            "Building the brick wall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品源自學生在學校創作並演出的戲劇。故事跟隨一個女孩失去好友、逃入幻想，最後回到現實。",
+              "captions": [
+                "製作磚牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Key moments of the play were collaged into three scenes: a classroom, a bedroom and a hospital. Each scene was given its own colour of light.",
+          "images": [
+            "assets/board/chromatic-narratives-three-coloured-room-models/05-classroom-detail.webp"
+          ],
+          "captions": [
+            "Desks in the classroom."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "戲中的關鍵時刻被拼貼成三個場景：教室、臥室與醫院。每個場景都被賦予自己的光色。",
+              "captions": [
+                "教室裡的課桌。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The classroom uses brick walls and square tiles to show rigid rules. The bedroom is wrapped in grey clay, like concrete closing in on a dream.",
+          "images": [
+            "assets/board/chromatic-narratives-three-coloured-room-models/03-red-bedroom.webp",
+            "assets/board/chromatic-narratives-three-coloured-room-models/06-bedroom-detail.webp"
+          ],
+          "captions": [
+            "The red bedroom model.",
+            "The bed in daylight."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "教室以磚牆與方形磁磚表現僵硬的規範。臥室被灰色黏土包覆，像混凝土包圍著一場夢。",
+              "captions": [
+                "紅色臥室模型。",
+                "日光下的床。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The hospital is finished in bright white clay to suggest letting go and starting again. Together the three rooms tell the whole story through colour and material.",
+          "images": [
+            "assets/board/chromatic-narratives-three-coloured-room-models/04-white-hospital.webp",
+            "assets/board/chromatic-narratives-three-coloured-room-models/07-hospital-detail.webp"
+          ],
+          "captions": [
+            "The white hospital model.",
+            "Beds in the hospital."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "醫院以明亮的白色黏土完成，暗示放下與重新開始。三個房間一起以色彩與材料講完整個故事。",
+              "captions": [
+                "白色醫院模型。",
+                "醫院裡的病床。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick key moments of a story.\n2. Give each one a room.\n3. Choose a colour and material.\n4. Light the rooms in order.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 挑出故事的關鍵時刻。\n2. 為每個時刻安排一個房間。\n3. 選定色彩與材料。\n4. 依序為房間打光。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "A Triptych Set for a Lakeside Drama",
+      "slug": "triptych-set-design-lakeside-drama-model",
+      "description": "A stage split into three rooms, with a painted bird at the centre standing for lost dreams.\n\nModel making | Stage design | Foam board, balsa and acrylic paint | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "湖畔戲劇的三聯舞台",
+          "description": "一座分成三個房間的舞台，中央手繪的飛鳥象徵失落的夢想。\n\n模型製作｜舞台設計｜泡棉板、輕木與壓克力顏料｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/triptych-set-design-lakeside-drama-model/01-triptych-model.webp",
+        "assets/board/triptych-set-design-lakeside-drama-model/02-structure-diagram.webp",
+        "assets/board/triptych-set-design-lakeside-drama-model/03-plan-and-materials.webp",
+        "assets/board/triptych-set-design-lakeside-drama-model/04-process-a.webp",
+        "assets/board/triptych-set-design-lakeside-drama-model/05-process-b.webp",
+        "assets/board/triptych-set-design-lakeside-drama-model/06-set-front.webp",
+        "assets/board/triptych-set-design-lakeside-drama-model/07-centre-panel.webp",
+        "assets/board/triptych-set-design-lakeside-drama-model/08-living-room.webp",
+        "assets/board/triptych-set-design-lakeside-drama-model/09-bedroom.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/triptych-set-design-lakeside-drama-model/01-triptych-model.webp"
+          ],
+          "captions": [
+            "The three-part set model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "三聯舞台模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The play is about the clash between a stifling home and a restless wish to make art. The student wanted the set itself to split the characters' worlds apart.",
+          "images": [
+            "assets/board/triptych-set-design-lakeside-drama-model/02-structure-diagram.webp"
+          ],
+          "captions": [
+            "Structure and movement diagrams."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這齣戲講述窒息的家庭與不安的藝術渴望之間的衝突。學生希望舞台本身就把角色們的世界分開。",
+              "captions": [
+                "結構與動線圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Diagrams mapped a domestic zone on each side and a symbolic void in the middle. A material palette of wood, brick and white surfaces was set for each room.",
+          "images": [
+            "assets/board/triptych-set-design-lakeside-drama-model/03-plan-and-materials.webp",
+            "assets/board/triptych-set-design-lakeside-drama-model/04-process-a.webp",
+            "assets/board/triptych-set-design-lakeside-drama-model/05-process-b.webp"
+          ],
+          "captions": [
+            "Plan and material palette.",
+            "Laying the wood strips.",
+            "Wall slats in progress."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "圖解在兩側配置家庭區，中央則是象徵性的虛空。學生為每個房間設定木、磚與白色表面的材料配置。",
+              "captions": [
+                "平面與材料配置。",
+                "鋪設木條。",
+                "製作中的牆面條板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The living room uses vertical wooden slats like a cage, while the bedroom uses heavy exposed brick. The centre is not a literal lake but a highly textured painting of a bird.",
+          "images": [
+            "assets/board/triptych-set-design-lakeside-drama-model/06-set-front.webp",
+            "assets/board/triptych-set-design-lakeside-drama-model/07-centre-panel.webp"
+          ],
+          "captions": [
+            "The set from the front.",
+            "The painted bird at the centre."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "客廳以垂直木條營造籠子般的感覺，臥室則用厚重的裸磚。中央不是真實的湖，而是一幅肌理豐富的飛鳥畫作。",
+              "captions": [
+                "舞台正面。",
+                "中央手繪的飛鳥。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The audience looks at both homes through the painted void at the centre. The set turns the play's emotional fracture into three separate rooms.",
+          "images": [
+            "assets/board/triptych-set-design-lakeside-drama-model/08-living-room.webp",
+            "assets/board/triptych-set-design-lakeside-drama-model/09-bedroom.webp"
+          ],
+          "captions": [
+            "The living room wing.",
+            "The bedroom wing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "觀眾透過中央的繪畫虛空觀看兩側的家。舞台把戲中的情感裂痕轉化為三個分離的房間。",
+              "captions": [
+                "客廳側翼。",
+                "臥室側翼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find the conflict in a play.\n2. Split the stage to show it.\n3. Give each part a material.\n4. Keep a symbol at the centre.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出劇中的衝突。\n2. 用分割舞台呈現它。\n3. 為每部分選擇材料。\n4. 在中央保留一個象徵。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Water Prison Stage",
+      "slug": "water-prison-semicircular-stage-led-model",
+      "description": "Curved stairs and arches rise around a round water prison inside a curtain of glowing acrylic.\n\nModel making | Stage design | PVC board, acrylic and LED light | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "水牢舞台",
+          "description": "弧形階梯與拱圈環繞圓形水牢，外圍是一圈發光的壓克力簾幕。\n\n模型製作｜舞台設計｜PVC板、壓克力與LED燈｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/water-prison-semicircular-stage-led-model/01-stage-model.webp",
+        "assets/board/water-prison-semicircular-stage-led-model/02-process-a.webp",
+        "assets/board/water-prison-semicircular-stage-led-model/03-process-b.webp",
+        "assets/board/water-prison-semicircular-stage-led-model/04-arch-detail.webp",
+        "assets/board/water-prison-semicircular-stage-led-model/05-red-light.webp",
+        "assets/board/water-prison-semicircular-stage-led-model/06-blue-light.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/water-prison-semicircular-stage-led-model/01-stage-model.webp"
+          ],
+          "captions": [
+            "The stage model in coloured light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "彩色光中的舞台模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student set out to design a semicircular stage for a tragic drama of desire. At its heart stands a round water prison, a symbol of confinement.",
+          "images": [
+            "assets/board/water-prison-semicircular-stage-led-model/04-arch-detail.webp"
+          ],
+          "captions": [
+            "Arches and the water prison."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生為一齣關於慾望的悲劇設計半圓形舞台。舞台中心是一座圓形水牢，象徵禁錮。",
+              "captions": [
+                "拱圈與水牢。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Curved stairs and arches were drawn to create a flowing route of entrances, escapes and gazes. The ground and the prison were shaped in clay in muted yellow-grey tones.",
+          "images": [
+            "assets/board/water-prison-semicircular-stage-led-model/02-process-a.webp"
+          ],
+          "captions": [
+            "Fixing the curved stair."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生繪製弧形階梯與拱圈，營造入口、逃離與凝視交織的流動路徑。地面與水牢以黏土塑形，呈現低調的黃灰色調。",
+              "captions": [
+                "固定弧形階梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Clear acrylic panels were set around the stage like a curtain. LED strips behind them refract changing colours across the panels.",
+          "images": [
+            "assets/board/water-prison-semicircular-stage-led-model/03-process-b.webp",
+            "assets/board/water-prison-semicircular-stage-led-model/05-red-light.webp"
+          ],
+          "captions": [
+            "Fitting the LED strip.",
+            "The stage in red light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "透明壓克力板像簾幕一樣圍繞舞台。後方的LED燈條讓變換的色彩折射在板面上。",
+              "captions": [
+                "安裝LED燈條。",
+                "紅光中的舞台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "As the light shifts from red to blue, the same stage moves between moods. Simple geometric forms carry the tension of the story.",
+          "images": [
+            "assets/board/water-prison-semicircular-stage-led-model/06-blue-light.webp"
+          ],
+          "captions": [
+            "The stage in blue light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "當燈光從紅轉藍，同一個舞台在不同情緒之間轉換。簡單的幾何形體承載故事的張力。",
+              "captions": [
+                "藍光中的舞台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find the core symbol.\n2. Build routes around it.\n3. Wrap it in light.\n4. Test moods with colour.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出核心象徵。\n2. 圍繞它安排路徑。\n3. 用光包覆它。\n4. 用色彩測試情緒。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
