@@ -1,0 +1,49 @@
+{
+  "project": "Intertwining Surfaces",
+  "dest": "assets/board/intertwining-surfaces-bamboo-stick-frame",
+  "note": "Portfolio 6c64 pages 4-5 cropped to seven images, WebP q88 (PIL). Not used: title and text, precedent photos and portraits.",
+  "files": [
+    {
+      "name": "01-bamboo-frame-model.webp",
+      "sha256": "97a85d96852f0b7eb976951929d89ef599400dc940f831c126308b61c6a5ee0b",
+      "bytes": 230466,
+      "from": "6c64 page 5 — bamboo frame model"
+    },
+    {
+      "name": "02-fabric-and-foam-tests.webp",
+      "sha256": "91417c883888c3a1d974b548ffb02882b87256a527dc63dcdbbe2375eb2f57be",
+      "bytes": 59650,
+      "from": "6c64 page 4 — fabric and foam tests"
+    },
+    {
+      "name": "03-curved-surface-details.webp",
+      "sha256": "dde44c09141cdb3391748920e73a4e71001aab6844150a014cbb71a0f4af7124",
+      "bytes": 64932,
+      "from": "6c64 page 4 — curved surface details"
+    },
+    {
+      "name": "04-woven-stick-structure.webp",
+      "sha256": "30b0ff5b672a21e76a470e80c5e79a6cf442fbac10f0faa19338f4edb66277ed",
+      "bytes": 134316,
+      "from": "6c64 page 4 — woven stick structure"
+    },
+    {
+      "name": "05-frame-sketch.webp",
+      "sha256": "a6dd75dbc1af9e777e3b75e69459309068291b487cfe7bc6c8a381ebe935ffa1",
+      "bytes": 49210,
+      "from": "6c64 page 5 — frame sketch"
+    },
+    {
+      "name": "06-model-tall-view.webp",
+      "sha256": "7947620b4f7e18f22545e2a78deb5d0f1d7c33a06477282d8050a872c095dad5",
+      "bytes": 73960,
+      "from": "6c64 page 5 — model tall view"
+    },
+    {
+      "name": "07-model-side-views.webp",
+      "sha256": "9c12b0f55153afc7e6f809f6eb659f013c5be8009a87591a91ec0135bbc968b0",
+      "bytes": 78284,
+      "from": "6c64 page 5 — model side views"
+    }
+  ]
+}
