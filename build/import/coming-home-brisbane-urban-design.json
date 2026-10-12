@@ -1,0 +1,67 @@
+{
+  "project": "Coming Home",
+  "dest": "assets/board/coming-home-brisbane-urban-design",
+  "note": "Portfolio 6c37 pages 7–11 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the aerial render and master plan built on aerial photos, the survey page with photos of people and streets, the park render on an aerial photo, the street render under the bridge, the photo thumbnails beside the public space nodes and the body text.",
+  "files": [
+    {
+      "name": "01-urban-building-aerial.webp",
+      "sha256": "eb6778b70d783f14f9bbcb47b5aba463a987ca3bf816c31e2139edf0016d778f",
+      "bytes": 206848,
+      "from": "6c37 page 11 — aerial view of the urban building areas, x 0–50 %, y 50–100 %"
+    },
+    {
+      "name": "02-site-analysis-circles.webp",
+      "sha256": "3928c6a879c3d8c148a9daf21d98b7c6ac044b579cb751dd95339160700d65f6",
+      "bytes": 32320,
+      "from": "page 7 — site analysis circles, x 74–100 %, y 74–100 %"
+    },
+    {
+      "name": "03-district-conditions.webp",
+      "sha256": "08e4d94955323512b33798248f48b298276fafb4890535cf79c8867d901305e7",
+      "bytes": 46216,
+      "from": "page 7 — district condition maps, x 41–73.5 %, y 74–100 %"
+    },
+    {
+      "name": "04-proposed-activities.webp",
+      "sha256": "a7bf7e15163c78ce3f2a6ae0b0583f503e1b6141e7c81d880966fddfe08cffaf",
+      "bytes": 69192,
+      "from": "page 11 — proposed activities diagram, x 0–48 %, y 3–48 %"
+    },
+    {
+      "name": "05-planning-process.webp",
+      "sha256": "085a2a4e5a74e9e8546a7871977d0e3553aa7b35e5b3f844c0a96e80a1447821",
+      "bytes": 48562,
+      "from": "page 10 — five-step planning process, x 1–74.5 %, y 64–75.5 %"
+    },
+    {
+      "name": "06-under-bridge-strategy.webp",
+      "sha256": "9a853398e7623499e019de89dba3b51dbd8f179dd0ae2385d69efd5efa3e148c",
+      "bytes": 35398,
+      "from": "page 10 — strategy and planning steps for the space under the bridge, x 75.5–100 %, y 64.5–100 %"
+    },
+    {
+      "name": "07-axis-generation.webp",
+      "sha256": "fca94350f46b1a6134044ad69d28fbd84a42cfe9079508a6265bdc6475e033c8",
+      "bytes": 145610,
+      "from": "page 11 — planning and axis generation, x 50–100 %, y 3–45 %"
+    },
+    {
+      "name": "08-key-building-generation.webp",
+      "sha256": "c5f2bf2b3185fddc00e566b4f5eed6db0ebeb64fa0c4dea898fb4865846296c4",
+      "bytes": 290998,
+      "from": "page 9 — generation of key buildings, x 55–100 %, y 0–100 %"
+    },
+    {
+      "name": "09-public-space-nodes.webp",
+      "sha256": "27a52c4e7d33092c3722752a561e109ea1a03d5a8ed224a3f0a91fe2b85dd964",
+      "bytes": 84634,
+      "from": "page 11 — public space nodes, x 59.5–90.5 %, y 52–100 %"
+    },
+    {
+      "name": "10-a-a-section.webp",
+      "sha256": "506c9dc8d4ca0690545bae2bc5c706305c9110b0c30933091c824dea6f0192a9",
+      "bytes": 33670,
+      "from": "page 9 — A-A section, x 0–55 %, y 81.5–100 %"
+    }
+  ]
+}
