@@ -1,0 +1,55 @@
+{
+  "project": "The Past and Future of KaoLao Pier",
+  "dest": "assets/board/kaolao-pier-past-and-future",
+  "note": "Portfolio f45d pages 8–13 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the cover text with names and contacts, the interview comic pages with drawn portraits and street photos, the history timeline, the strategy and zoning diagrams with photo circles, the masterplan on an aerial photo, the beach, conveyor and museum renders with photo figures, the seasonal and energy charts with photos, the aquaculture drawing with photo circles and the body text.",
+  "files": [
+    {
+      "name": "01-cabin-section.webp",
+      "sha256": "6aca390afcd3daf3d2affb115e3cb3f615a605a8e5ea293651c0b4a9a8030a2b",
+      "bytes": 60180,
+      "from": "f45d page 13 — cabin section line drawing, x 0–57 %, y 22.5–60 %"
+    },
+    {
+      "name": "02-fishing-change-chart.webp",
+      "sha256": "15dbd90f39fbe6454992fadd912e5c7761fe4f10340b402b052d7839e06f37ed",
+      "bytes": 17990,
+      "from": "page 8 — bar chart of fishing places, nets, storage, materials, power and food by decade, x 50–100 %, y 44–60 %"
+    },
+    {
+      "name": "03-income-chart.webp",
+      "sha256": "916610bc12b4695dfcbd72f19a3a583af8602aba86cf856e859b377bdce0b99c",
+      "bytes": 18806,
+      "from": "page 9 — income chart by village occupation, x 50–100 %, y 0–25 %"
+    },
+    {
+      "name": "04-market-way.webp",
+      "sha256": "542e56975df8f490a19cecc063c5ec1070ea2e4c70ff05bd0f51bb413d7a26fa",
+      "bytes": 33566,
+      "from": "page 12 — market way and aim diagrams, x 50–92 %, y 0–24.5 %"
+    },
+    {
+      "name": "05-wharf-node-detail.webp",
+      "sha256": "9101f4c563b4943e93cf753df2cc8f2954a005d8e32e00ab2185d58d0e28aa92",
+      "bytes": 16422,
+      "from": "page 12 — timber jetty and concrete wharf node detail, x 87–100 %, y 29.5–60 %"
+    },
+    {
+      "name": "06-timber-jetty-section.webp",
+      "sha256": "ce7b169298eac02d6c04bcce978e5f893bbe299720739b02b0efbde73eca9d5e",
+      "bytes": 13646,
+      "from": "page 12 — timber jetty section with silhouettes, x 0–50 %, y 93.5–100 %"
+    },
+    {
+      "name": "07-museum-plan.webp",
+      "sha256": "07d16aa5db042fce8283de6eca74dccb71cca7c146262658003d89682a915d36",
+      "bytes": 25282,
+      "from": "page 13 — museum plans, x 71–100 %, y 43–69 %"
+    },
+    {
+      "name": "08-museum-sections.webp",
+      "sha256": "5a4831861e032646294b4cdd88bf4fd6bdac2b18d136dcc411b82e7fc45c0e0f",
+      "bytes": 19240,
+      "from": "page 13 — museum sections for three tide stages, x 76.5–100 %, y 69–99 %"
+    }
+  ]
+}
