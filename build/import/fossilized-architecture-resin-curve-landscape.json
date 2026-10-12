@@ -1,0 +1,67 @@
+{
+  "project": "Fossilized Architecture",
+  "dest": "assets/board/fossilized-architecture-resin-curve-landscape",
+  "note": "Portfolio 6c64 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, site reference photo, stone pile photos.",
+  "files": [
+    {
+      "name": "01-overgrown-model-view.webp",
+      "sha256": "3d39fced6658ddaa9076d6a2ea24f645e04eeadf01750eddc74dfe88e3172ae7",
+      "bytes": 170966,
+      "from": "6c64 page 7 — overgrown model view"
+    },
+    {
+      "name": "02-curve-system-diagrams.webp",
+      "sha256": "e3dc6aebcae2b39ea4b9556beb0ad6912ae9d498430e01a2068b059481805e89",
+      "bytes": 21440,
+      "from": "6c64 page 6 — curve system diagrams"
+    },
+    {
+      "name": "03-resin-curve-parts.webp",
+      "sha256": "cf169ef726b9c31842a512a4ce1df1b7b9b76917a001d209a4e464a1e17dd575",
+      "bytes": 10544,
+      "from": "6c64 page 6 — resin curve parts"
+    },
+    {
+      "name": "04-assembly-in-progress.webp",
+      "sha256": "c433a1aa776c70475325d855e7ba77c0ef9c14528e2cff75fc5ba891591365af",
+      "bytes": 101564,
+      "from": "6c64 page 6 — assembly in progress"
+    },
+    {
+      "name": "05-planting-and-frames.webp",
+      "sha256": "08e46b3adab7e62c87f4b6a84e222834550ae27ef8a234ced9ff3a2190a5ddbb",
+      "bytes": 90090,
+      "from": "6c64 page 6 — planting and frames"
+    },
+    {
+      "name": "06-model-in-acrylic-box.webp",
+      "sha256": "6ffb902f04d296b7df211a4e3a3d3f978e9ad1651e8438c85cd8e1a17cce4895",
+      "bytes": 26508,
+      "from": "6c64 page 6 — model in acrylic box"
+    },
+    {
+      "name": "07-curves-over-stones.webp",
+      "sha256": "bad3b8ca9b69e922c5c93808f076502526fc9517a911c716a6717dc45e5223df",
+      "bytes": 57512,
+      "from": "6c64 page 6 — curves over stones"
+    },
+    {
+      "name": "08-hand-sketch.webp",
+      "sha256": "871cfe9f94e327d44927abc8330069db645e7cb7e2ed7531382b5e60bd0700a5",
+      "bytes": 73046,
+      "from": "6c64 page 7 — hand sketch"
+    },
+    {
+      "name": "09-close-up-views.webp",
+      "sha256": "1f3fb8c095d2fe0c4b9818ff8cd572277a0787ab6b21ad6092feb2bb59bd85aa",
+      "bytes": 95826,
+      "from": "6c64 page 7 — close-up views"
+    },
+    {
+      "name": "10-curve-and-trees.webp",
+      "sha256": "357d1e20b6a10a19f39122c86422ca1a90d53f60c332fe5c7ad5eb2b84f0d308",
+      "bytes": 24468,
+      "from": "6c64 page 7 — curve and trees"
+    }
+  ]
+}
