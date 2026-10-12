@@ -1,0 +1,55 @@
+{
+  "project": "CoHabit",
+  "dest": "assets/board/cohabit-cat-and-human-stick-framework",
+  "note": "Portfolio 0687 page 6 cropped to eight images, WebP q88 (PIL). Not used: title and text, film and book titles.",
+  "files": [
+    {
+      "name": "01-framework-model.webp",
+      "sha256": "bec7e851356cb5a5caa36ce070d79be035013522be5ede76f63f86fd98e44e3c",
+      "bytes": 89784,
+      "from": "0687 page 6 — framework model"
+    },
+    {
+      "name": "02-cat-behaviour-studies.webp",
+      "sha256": "10736033eaabd3ea5a9fc028548cf92a290a6169443853d91deb52195449c74e",
+      "bytes": 42916,
+      "from": "0687 page 6 — cat behaviour studies"
+    },
+    {
+      "name": "03-stick-grid-sketch-model.webp",
+      "sha256": "570f989fe240ba472904d8a1f6ac7bfc0f75cb0035a9f78445b05e9fc9ace89a",
+      "bytes": 76156,
+      "from": "0687 page 6 — stick grid sketch model"
+    },
+    {
+      "name": "04-tower-test.webp",
+      "sha256": "ec3fafa71c3e6309de324d9a83cca906f2496a70120f18b6caca33c4a7b6166e",
+      "bytes": 33214,
+      "from": "0687 page 6 — tower test"
+    },
+    {
+      "name": "05-sketch-model-row.webp",
+      "sha256": "69c30e17f05ca55099c4a5804a91d270b9593e1c59d58f88d1284f4b0ff75740",
+      "bytes": 56600,
+      "from": "0687 page 6 — sketch model row"
+    },
+    {
+      "name": "06-framework-close-views.webp",
+      "sha256": "2ee7dbaba985c08b871df319b00ee21b2297a4a3f03055ad1d3dc35a852c961b",
+      "bytes": 76808,
+      "from": "0687 page 6 — framework close views"
+    },
+    {
+      "name": "07-framework-overview.webp",
+      "sha256": "e246d320d9e48beb0e3e2dc19eaaa43fa6094f4d0c20739b849abf7c11de1313",
+      "bytes": 77832,
+      "from": "0687 page 6 — framework overview"
+    },
+    {
+      "name": "08-joint-detail.webp",
+      "sha256": "0c5980bbe3c9812bfa7b90e30691e15130006122bfeda684540332078456d7ff",
+      "bytes": 25138,
+      "from": "0687 page 6 — joint detail"
+    }
+  ]
+}
