@@ -1,0 +1,67 @@
+{
+  "project": "Signals of the Heart",
+  "dest": "assets/board/signals-of-the-heart-meeting-pavilion",
+  "note": "Portfolio 4439 pages 14–16 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title page photo collage and timeline, the comic page with photo scenes, the four small theme renders on page 14, the inspiration stills, the photo boxes and silhouette viewing scene, the curtain height and colour key diagrams, the comic-style material vignettes, the maze plan and the body text.",
+  "files": [
+    {
+      "name": "01-ice-breaking-dance-dome.webp",
+      "sha256": "536831d87566b0650814fc8e98b98b522541bbc9025f7299e6e9667a16f872d2",
+      "bytes": 210490,
+      "from": "4439 page 14 — render of the ice-breaking dance space under the dome, x 53.5–99 %, y 4–47 %"
+    },
+    {
+      "name": "02-ramp-and-dome-exploded.webp",
+      "sha256": "2034c42e0da253fb28244e7f1677013b1b52084a6191d6c48f237e0da7292fca",
+      "bytes": 45382,
+      "from": "page 14 — exploded view of the ramp, pillars and dome, x 53.5–74 %, y 50–95 %"
+    },
+    {
+      "name": "03-memory-wall.webp",
+      "sha256": "b34fca99b3cb5899d67333f6cb1ccb3cba8b28460d8fd9c1e6054bee5b3ed4e4",
+      "bytes": 131972,
+      "from": "page 15 — render of the wall of memories, x 0–48 %, y 4–50 %"
+    },
+    {
+      "name": "04-memory-box-exploded.webp",
+      "sha256": "ebee047bb1f31ffcd0694040346aeac6196cc4bba1c5511e5d7e9a09236d2583",
+      "bytes": 28528,
+      "from": "page 15 — exploded view of the memory wall boxes, x 49–72 %, y 4–30 %"
+    },
+    {
+      "name": "05-choose-time-pillars.webp",
+      "sha256": "72222cdd5b7d931fe5534caf1d9fefcc8eaa6e1d22e7c18593903154e6a3c2dc",
+      "bytes": 44038,
+      "from": "page 15 — exploded view of the choosing device, x 0–23 %, y 56.5–99 %"
+    },
+    {
+      "name": "06-choose-time-curtain.webp",
+      "sha256": "fe609195eff2580943884e727768ce5592743bd2a52c030072226feb8a3a04f9",
+      "bytes": 157262,
+      "from": "page 15 — render of the metal curtain among trees, x 52–100 %, y 54–99 %"
+    },
+    {
+      "name": "07-love-catalyst-stairs.webp",
+      "sha256": "1ffdc80ceae530cd9afb4bfe1583f4c176e2cbe6b798b6d44c8b8277524c296e",
+      "bytes": 186676,
+      "from": "page 16 — render of the stepped cinema space, x 0–49 %, y 4–49 %"
+    },
+    {
+      "name": "08-love-catalyst-exploded.webp",
+      "sha256": "86d2de899e0133ed09ce74648adfe6f1b1c25e82bbd6f734a144eedf3d509e01",
+      "bytes": 41534,
+      "from": "page 16 — exploded view of the cinema roof and frame, x 49–67 %, y 5–48 %"
+    },
+    {
+      "name": "09-heartbeat-maze-layers.webp",
+      "sha256": "193b7bf587ecda03df27cfcf777f5631ca222e99e99b7ee0f8e33070427344b4",
+      "bytes": 40348,
+      "from": "page 16 — exploded layers of the heartbeat maze, x 0–18.5 %, y 54–99 %"
+    },
+    {
+      "name": "10-heartbeat-maze.webp",
+      "sha256": "253954c18ae6194785cd624a07f7ab7cb01bbc93cbb288de93326344c77e64e4",
+      "bytes": 208254,
+      "from": "page 16 — render of the heartbeat maze, x 52–100 %, y 54–99 %"
+    }
+  ]
+}
