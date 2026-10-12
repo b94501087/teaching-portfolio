@@ -33729,6 +33729,586 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Urban Vertical Farm",
+      "slug": "urban-vertical-farm-mill-transformation",
+      "description": "A disused dockside flour mill reborn as a vertical farm open to the public.\n\nLondon, UK | Architecture | Vertical farm | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "都市垂直農場",
+          "description": "把碼頭旁的廢棄麵粉廠改造為向大眾開放的垂直農場。\n\n英國倫敦｜建築｜垂直農場｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/urban-vertical-farm-mill-transformation/01-exploded-spatial-axon.webp",
+        "assets/board/urban-vertical-farm-mill-transformation/02-mill-axonometric.webp",
+        "assets/board/urban-vertical-farm-mill-transformation/03-dockside-location-map.webp",
+        "assets/board/urban-vertical-farm-mill-transformation/04-strategy-map.webp",
+        "assets/board/urban-vertical-farm-mill-transformation/05-water-circulation.webp",
+        "assets/board/urban-vertical-farm-mill-transformation/06-functional-system.webp",
+        "assets/board/urban-vertical-farm-mill-transformation/07-section-one.webp",
+        "assets/board/urban-vertical-farm-mill-transformation/08-planting-and-equipment.webp",
+        "assets/board/urban-vertical-farm-mill-transformation/09-section-two.webp",
+        "assets/board/urban-vertical-farm-mill-transformation/10-physical-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/urban-vertical-farm-mill-transformation/01-exploded-spatial-axon.webp"
+          ],
+          "captions": [
+            "Exploded axonometric of the farm, leisure and market spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "農場、休閒與市集空間的爆炸軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A large disused flour mill stands empty beside the old docks of east London. The project turns it into an urban vertical farm that grows fresh food and opens the building to the public.",
+          "images": [
+            "assets/board/urban-vertical-farm-mill-transformation/02-mill-axonometric.webp",
+            "assets/board/urban-vertical-farm-mill-transformation/03-dockside-location-map.webp"
+          ],
+          "captions": [
+            "Axonometric of the existing mill.",
+            "Location map of the docks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座廢棄的大型麵粉廠閒置在倫敦東區的舊碼頭旁。專案把它轉化為都市垂直農場，既生產新鮮食物，也讓建築重新向大眾開放。",
+              "captions": [
+                "既有磨坊的軸測圖。",
+                "碼頭區位圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A strategy map links cultivation, education, business and environment into one loop. Rainwater and river water are filtered and stored to feed the planting.",
+          "images": [
+            "assets/board/urban-vertical-farm-mill-transformation/04-strategy-map.webp",
+            "assets/board/urban-vertical-farm-mill-transformation/05-water-circulation.webp"
+          ],
+          "captions": [
+            "Strategy map of the farm.",
+            "Water circulation system."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "策略圖把種植、教育、商業與環境串成一個循環。雨水與河水經過過濾與儲存後，用來灌溉植栽。",
+              "captions": [
+                "垂直農場的策略圖。",
+                "水循環系統。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Staff routes, visitor routes and water pipes are layered through every floor. Each crop gets its own planting method, light level and growing equipment.",
+          "images": [
+            "assets/board/urban-vertical-farm-mill-transformation/06-functional-system.webp",
+            "assets/board/urban-vertical-farm-mill-transformation/08-planting-and-equipment.webp"
+          ],
+          "captions": [
+            "Functional system of routes and water.",
+            "Planting types and equipment."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "員工動線、訪客動線與水管系統逐層穿過每一個樓層。每一種作物都有各自的種植方式、光照條件與栽培設備。",
+              "captions": [
+                "動線與水系統的功能分析。",
+                "植栽類型與設備。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Two long sections show the farm floors, gardens and water tanks working together inside the old frame. A physical model tests the new structure set into the existing mill.",
+          "images": [
+            "assets/board/urban-vertical-farm-mill-transformation/07-section-one.webp",
+            "assets/board/urban-vertical-farm-mill-transformation/09-section-two.webp",
+            "assets/board/urban-vertical-farm-mill-transformation/10-physical-model.webp"
+          ],
+          "captions": [
+            "Long section one.",
+            "Long section two.",
+            "Physical model of the mill."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "兩張長剖面呈現農場樓層、花園與水箱如何在舊結構中協同運作。實體模型則檢驗新結構嵌入既有磨坊的方式。",
+              "captions": [
+                "長剖面一。",
+                "長剖面二。",
+                "磨坊的實體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the old building first.\n2. Draw the full resource loop.\n3. Layer routes and water together.\n4. Test the insertion in a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先閱讀舊建築。\n2. 畫出完整的資源循環。\n3. 把動線與水系統疊合在一起。\n4. 用模型檢驗新舊結合。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "From Shelter to Community",
+      "slug": "from-shelter-to-community-refugee-camp",
+      "description": "A former airport refugee camp rethought as a lasting community.\n\nBerlin, Germany | Architecture | Community housing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "從庇護所到社區",
+          "description": "把前機場的難民營重新思考為長久的社區。\n\n德國柏林｜建築｜社區住宅｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/from-shelter-to-community-refugee-camp/01-hexagon-community-axon.webp",
+        "assets/board/from-shelter-to-community-refugee-camp/02-airport-site-map.webp",
+        "assets/board/from-shelter-to-community-refugee-camp/03-modular-house-plans.webp",
+        "assets/board/from-shelter-to-community-refugee-camp/04-floor-plans.webp",
+        "assets/board/from-shelter-to-community-refugee-camp/05-dome-render.webp",
+        "assets/board/from-shelter-to-community-refugee-camp/06-section-one.webp",
+        "assets/board/from-shelter-to-community-refugee-camp/07-section-two.webp",
+        "assets/board/from-shelter-to-community-refugee-camp/08-market-frame-model.webp",
+        "assets/board/from-shelter-to-community-refugee-camp/09-modular-house-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/from-shelter-to-community-refugee-camp/01-hexagon-community-axon.webp"
+          ],
+          "captions": [
+            "Axonometric of the self-sustaining community around the terminal ring."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "環繞航廈環形建築的自給社區軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A closed city airport holds large empty halls and open land at the edge of Berlin. The project rethinks a temporary refugee camp there as a lasting community with homes, work and shared life.",
+          "images": [
+            "assets/board/from-shelter-to-community-refugee-camp/02-airport-site-map.webp"
+          ],
+          "captions": [
+            "Site map and terrain studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座已關閉的城市機場在柏林邊緣留下大片空置的航廈與空地。專案把那裡的臨時難民營重新思考為一個長久的社區，結合住所、工作與共同生活。",
+              "captions": [
+                "基地地圖與地形分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Prefabricated modular homes are studied as a base unit that families can assemble quickly. Several plan types grow from single rooms to larger households over time.",
+          "images": [
+            "assets/board/from-shelter-to-community-refugee-camp/03-modular-house-plans.webp"
+          ],
+          "captions": [
+            "Modular house plan types."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究以預製模組住宅作為家庭可以快速組裝的基本單元。多種平面類型可以隨時間從單人房間擴展為較大的家庭住宅。",
+              "captions": [
+                "模組住宅的平面類型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The plans place a market, study areas, a public park, a church and a mosque inside and around the ring. Shared buildings use arches and domes to give each gathering place its own character.",
+          "images": [
+            "assets/board/from-shelter-to-community-refugee-camp/04-floor-plans.webp",
+            "assets/board/from-shelter-to-community-refugee-camp/05-dome-render.webp"
+          ],
+          "captions": [
+            "First and second floor plans.",
+            "Render of a domed prayer hall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "平面在環形建築內外配置市集、學習區、公園、教堂與清真寺。公共建築以拱圈與圓頂，讓每一個聚集場所都有自己的性格。",
+              "captions": [
+                "一樓與二樓平面圖。",
+                "圓頂禮拜堂的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Two long sections show the craft workshops, homes and market stalls set under the old terminal roof. Physical models test the timber market frame and the stacked modular houses.",
+          "images": [
+            "assets/board/from-shelter-to-community-refugee-camp/06-section-one.webp",
+            "assets/board/from-shelter-to-community-refugee-camp/07-section-two.webp",
+            "assets/board/from-shelter-to-community-refugee-camp/08-market-frame-model.webp",
+            "assets/board/from-shelter-to-community-refugee-camp/09-modular-house-model.webp"
+          ],
+          "captions": [
+            "Long section one.",
+            "Long section two.",
+            "Model of the market frame.",
+            "Model of the modular houses."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "兩張長剖面呈現手作工坊、住宅與市集攤位如何安置在舊航廈屋頂下。實體模型則檢驗木構市集框架與堆疊的模組住宅。",
+              "captions": [
+                "長剖面一。",
+                "長剖面二。",
+                "市集框架模型。",
+                "模組住宅模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the people who will live there.\n2. Design one unit that can grow.\n3. Give shared places a clear identity.\n4. Test the system in models.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從將要居住的人出發。\n2. 設計一個可以生長的單元。\n3. 讓公共場所擁有清楚的識別。\n4. 用模型檢驗整個系統。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Tangjia Bay Reborn",
+      "slug": "tangjia-bay-reborn-living-shoreline",
+      "description": "A mangrove reserve and shoreline museum that help an endangered seagrass recover.\n\nZhuhai, China | Landscape | Coastal restoration | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "唐家灣重生",
+          "description": "以紅樹林保護區與海岸博物館協助瀕危海草復育。\n\n中國珠海｜地景｜海岸復育｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tangjia-bay-reborn-living-shoreline/01-cutaway-section.webp",
+        "assets/board/tangjia-bay-reborn-living-shoreline/02-bay-location-map.webp",
+        "assets/board/tangjia-bay-reborn-living-shoreline/03-ecological-strategy.webp",
+        "assets/board/tangjia-bay-reborn-living-shoreline/04-surrounding-analysis.webp",
+        "assets/board/tangjia-bay-reborn-living-shoreline/05-masterplan-axon.webp",
+        "assets/board/tangjia-bay-reborn-living-shoreline/06-landscape-plan.webp",
+        "assets/board/tangjia-bay-reborn-living-shoreline/07-museum-floor-plan.webp",
+        "assets/board/tangjia-bay-reborn-living-shoreline/08-tidal-sections.webp",
+        "assets/board/tangjia-bay-reborn-living-shoreline/09-mangrove-section.webp",
+        "assets/board/tangjia-bay-reborn-living-shoreline/10-physical-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tangjia-bay-reborn-living-shoreline/01-cutaway-section.webp"
+          ],
+          "captions": [
+            "Cutaway section of the shoreline museum among the mangroves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "紅樹林間海岸博物館的剖透視圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "An endangered seagrass along the shore of Tangjia Bay is fading under intensive human activity. The project restores the living shoreline with a mangrove reserve and a small public museum.",
+          "images": [
+            "assets/board/tangjia-bay-reborn-living-shoreline/02-bay-location-map.webp",
+            "assets/board/tangjia-bay-reborn-living-shoreline/04-surrounding-analysis.webp"
+          ],
+          "captions": [
+            "Location map of the bay.",
+            "Analysis of the surrounding coast."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "唐家灣沿岸一種瀕危海草在密集的人為活動下逐漸消失。專案以紅樹林保護區與一座小型公共博物館，修復這條有生命的海岸線。",
+              "captions": [
+                "海灣區位圖。",
+                "周邊海岸分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "An ecological drawing maps how birds, fish, crabs and plants depend on the mangrove. Planting mangroves first is used to calm the water and hold sediment for the seagrass.",
+          "images": [
+            "assets/board/tangjia-bay-reborn-living-shoreline/03-ecological-strategy.webp"
+          ],
+          "captions": [
+            "Ecological relationship drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "生態關係圖描繪鳥類、魚類、螃蟹與植物如何依賴紅樹林。先種植紅樹林，可以讓水流趨緩並留住泥沙，為海草創造生長條件。",
+              "captions": [
+                "生態關係圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Curving paths and boardwalks thread through planted islands across the reserve. The museum sits at the edge with exhibition rooms, a café and open decks facing the water.",
+          "images": [
+            "assets/board/tangjia-bay-reborn-living-shoreline/05-masterplan-axon.webp",
+            "assets/board/tangjia-bay-reborn-living-shoreline/06-landscape-plan.webp",
+            "assets/board/tangjia-bay-reborn-living-shoreline/07-museum-floor-plan.webp"
+          ],
+          "captions": [
+            "Master plan axonometric.",
+            "Landscape plan of the reserve.",
+            "Museum floor plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "彎曲的步道與棧道穿梭在保護區的植栽島之間。博物館位於邊緣，配置展覽室、咖啡廳與面向水面的開放平台。",
+              "captions": [
+                "總體配置軸測圖。",
+                "保護區地景平面圖。",
+                "博物館平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Sections compare the young saplings in the first year with a denser mangrove five years later. A physical model shows the timber roofs and boardwalks floating over the restored water.",
+          "images": [
+            "assets/board/tangjia-bay-reborn-living-shoreline/08-tidal-sections.webp",
+            "assets/board/tangjia-bay-reborn-living-shoreline/09-mangrove-section.webp",
+            "assets/board/tangjia-bay-reborn-living-shoreline/10-physical-model.webp"
+          ],
+          "captions": [
+            "Sections in the first year and later.",
+            "Long section through the mangrove.",
+            "Physical model of the museum."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "剖面比較第一年剛種下的幼苗與五年後更茂密的紅樹林。實體模型呈現木構屋頂與棧道漂浮在修復後的水面上。",
+              "captions": [
+                "第一年與數年後的剖面。",
+                "穿越紅樹林的長剖面。",
+                "博物館的實體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one species at risk.\n2. Map the whole ecosystem.\n3. Let landscape lead the building.\n4. Draw the site over time.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個瀕危物種開始。\n2. 畫出整個生態系統。\n3. 讓地景引導建築。\n4. 畫出基地隨時間的變化。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Urban Living Room",
+      "slug": "urban-living-room-art-museum-renewal",
+      "description": "A district art museum extended and renovated as a living room for the city.\n\nShenzhen, China | Architecture | Museum renovation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市客廳",
+          "description": "把區級美術館擴建改造為城市的客廳。\n\n中國深圳｜建築｜美術館改造｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/urban-living-room-art-museum-renewal/01-cutaway-galleries.webp",
+        "assets/board/urban-living-room-art-museum-renewal/02-existing-building-axon.webp",
+        "assets/board/urban-living-room-art-museum-renewal/03-site-context-maps.webp",
+        "assets/board/urban-living-room-art-museum-renewal/04-activation-strategy.webp",
+        "assets/board/urban-living-room-art-museum-renewal/05-concept-sketch.webp",
+        "assets/board/urban-living-room-art-museum-renewal/06-form-evolution.webp",
+        "assets/board/urban-living-room-art-museum-renewal/07-aerial-render.webp",
+        "assets/board/urban-living-room-art-museum-renewal/08-space-to-form-diagrams.webp",
+        "assets/board/urban-living-room-art-museum-renewal/09-gallery-interior.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/urban-living-room-art-museum-renewal/01-cutaway-galleries.webp"
+          ],
+          "captions": [
+            "Cutaway of the old and new galleries."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "新舊展廳的剖透視圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A district art museum in dense Shenzhen mostly draws parents with young children and feels closed to the street. The project extends and renovates it as an urban living room for everyday public life.",
+          "images": [
+            "assets/board/urban-living-room-art-museum-renewal/02-existing-building-axon.webp",
+            "assets/board/urban-living-room-art-museum-renewal/03-site-context-maps.webp"
+          ],
+          "captions": [
+            "Axonometric of the existing building.",
+            "Site and context maps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "深圳高密度城區中的一座區級美術館，觀眾多為家長與幼童，對街道也顯得封閉。專案透過擴建與改造，把它變成服務日常公共生活的城市客廳。",
+              "captions": [
+                "既有建築的軸測圖。",
+                "基地與周邊脈絡圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Local opera groups, office workers, young people and older residents are studied as new audiences. The strategy links immersion, flexibility and activation through markets, a park and an outdoor theatre.",
+          "images": [
+            "assets/board/urban-living-room-art-museum-renewal/04-activation-strategy.webp",
+            "assets/board/urban-living-room-art-museum-renewal/05-concept-sketch.webp"
+          ],
+          "captions": [
+            "Museum activation strategy.",
+            "Early concept sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究把在地戲曲團體、上班族、年輕人與年長居民視為新的觀眾。策略以市集、公園與戶外劇場，串連沉浸、彈性與活化三個目標。",
+              "captions": [
+                "美術館活化策略。",
+                "早期概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The form grows from the existing block through an extension, a viewing platform and a sunken plaza. A green roof and a sloping garden route lift the public realm above the street.",
+          "images": [
+            "assets/board/urban-living-room-art-museum-renewal/06-form-evolution.webp",
+            "assets/board/urban-living-room-art-museum-renewal/07-aerial-render.webp"
+          ],
+          "captions": [
+            "Form evolution diagrams.",
+            "Aerial render of the extension."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "量體從既有建築出發，依序加入擴建、觀景平台與下沉廣場。綠色屋頂與坡道花園路徑，把公共空間抬升到街道之上。",
+              "captions": [
+                "量體演變圖。",
+                "擴建的鳥瞰渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Five gallery types range from the preserved old hall to a sculpture garden and an exploratory gallery. Calm classic rooms sit beside open and changing spaces so the museum serves many kinds of visits.",
+          "images": [
+            "assets/board/urban-living-room-art-museum-renewal/08-space-to-form-diagrams.webp",
+            "assets/board/urban-living-room-art-museum-renewal/09-gallery-interior.webp"
+          ],
+          "captions": [
+            "Diagrams of the five gallery types.",
+            "Render of a classic gallery."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "五種展廳類型，從保留的舊展廳到雕塑花園與探索式展廳。安靜的經典展室與開放多變的空間並置，讓美術館能容納各種參觀方式。",
+              "captions": [
+                "五種展廳類型的分析圖。",
+                "經典展廳的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask who is missing today.\n2. Turn each audience into a space.\n3. Grow the form step by step.\n4. Mix calm and lively rooms.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先問今天誰沒有來。\n2. 把每一種觀眾轉化為空間。\n3. 一步步發展量體。\n4. 讓安靜與活潑的空間並置。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
