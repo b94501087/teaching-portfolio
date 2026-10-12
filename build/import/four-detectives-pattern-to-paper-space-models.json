@@ -1,0 +1,67 @@
+{
+  "project": "Four Detectives in Paper",
+  "dest": "assets/board/four-detectives-pattern-to-paper-space-models",
+  "note": "Portfolio 1390 pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text, game character images, character and game names.",
+  "files": [
+    {
+      "name": "01-first-model.webp",
+      "sha256": "8e2c1664700d8510b407fd1da4fd76c645f348b520d6cb70a0b1b944230b80e0",
+      "bytes": 41660,
+      "from": "1390 page 5 — first model"
+    },
+    {
+      "name": "02-pattern-a.webp",
+      "sha256": "612c8dd84cc237fbc6bedde71c9c242057e894345d4eeadf2c0154f86f80b9a7",
+      "bytes": 28048,
+      "from": "1390 page 4 — pattern a"
+    },
+    {
+      "name": "03-model-a.webp",
+      "sha256": "cdf1ba4351bf9ae027c5a6fa20da6291d2b227ff60bf733ab13f2a2e25ca5d62",
+      "bytes": 37354,
+      "from": "1390 page 4 — model a"
+    },
+    {
+      "name": "04-pattern-b.webp",
+      "sha256": "745de190a5c85a72d92e00e5977a5e247bb367ac75b79ba738c9d8b0b4f99532",
+      "bytes": 24002,
+      "from": "1390 page 4 — pattern b"
+    },
+    {
+      "name": "05-model-b.webp",
+      "sha256": "117e44cbea5f5f2fc2ea22ed82b194eee5f64a244dcbcdc15b378cdeaaca3336",
+      "bytes": 25206,
+      "from": "1390 page 4 — model b"
+    },
+    {
+      "name": "06-pattern-c.webp",
+      "sha256": "d33df9ad6d107361383fa00d982caaae2eed14eb316d96731815fa44bd430e81",
+      "bytes": 24636,
+      "from": "1390 page 4 — pattern c"
+    },
+    {
+      "name": "07-model-c.webp",
+      "sha256": "d9a9990458c3c314b63ec58912c49344ce748467963a96ebe9c122cc44c49ded",
+      "bytes": 29078,
+      "from": "1390 page 4 — model c"
+    },
+    {
+      "name": "08-second-model.webp",
+      "sha256": "f1f052b26cbbe06cd64fb2db95532de881f6fd94f2d870c7ffabe3162668e95b",
+      "bytes": 23688,
+      "from": "1390 page 5 — second model"
+    },
+    {
+      "name": "09-third-model.webp",
+      "sha256": "4f2e57b166ed2c5999716a170a381c4e4ad3fdbb9b8ee4382924d93b2dd18753",
+      "bytes": 43766,
+      "from": "1390 page 5 — third model"
+    },
+    {
+      "name": "10-fourth-model.webp",
+      "sha256": "9bc7baa22e7af9364c1f484603257cc67b318bbe2ff9cca4849d244afcad55df",
+      "bytes": 40524,
+      "from": "1390 page 5 — fourth model"
+    }
+  ]
+}
