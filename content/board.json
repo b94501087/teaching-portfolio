@@ -37932,6 +37932,562 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Rift Pavilion",
+      "slug": "rift-pavilion-twisted-wind-tower",
+      "description": "A twisted wind tower of rotated floors that turns a sunken city plaza into a quiet green retreat.\n\nArchitecture | Pavilion | Wind tower | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "裂隙展亭",
+          "description": "以旋轉樓板構成的扭轉風塔，將下沉的城市廣場轉化為安靜的綠色休憩地。\n\n建築設計｜展亭｜風塔｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rift-pavilion-twisted-wind-tower/01-tower-model.webp",
+        "assets/board/rift-pavilion-twisted-wind-tower/02-floor-plans.webp",
+        "assets/board/rift-pavilion-twisted-wind-tower/03-tower-line-drawings.webp",
+        "assets/board/rift-pavilion-twisted-wind-tower/04-interior-model-views.webp",
+        "assets/board/rift-pavilion-twisted-wind-tower/05-plaza-aerial.webp",
+        "assets/board/rift-pavilion-twisted-wind-tower/06-tower-sketch.webp",
+        "assets/board/rift-pavilion-twisted-wind-tower/08-site-model-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rift-pavilion-twisted-wind-tower/01-tower-model.webp"
+          ],
+          "captions": [
+            "Tower model in plywood, frosted acetate and green fibre."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以夾板、霧面醋酸片與綠色纖維製作的塔體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is a sunken city plaza that feels cut off, underused and short of greenery. The project turns this isolation into a chance for a quiet, green retreat.",
+          "images": [
+            "assets/board/rift-pavilion-twisted-wind-tower/05-plaza-aerial.webp"
+          ],
+          "captions": [
+            "Aerial view of the tower in the plaza."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地是一處下沉的城市廣場，與城市隔絕、使用率低且缺乏綠意。這個作品將這份隔絕轉化為打造安靜綠色休憩地的機會。",
+              "captions": [
+                "塔體位於廣場中的鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The concept draws on traditional windcatchers that capture air from above and cool it through underground water. A twisted form was chosen to catch wind from all sides.",
+          "images": [
+            "assets/board/rift-pavilion-twisted-wind-tower/02-floor-plans.webp"
+          ],
+          "captions": [
+            "Floor plans rotating up the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "概念取自傳統捕風塔，從高處擷取空氣，並透過地下水流降溫。扭轉的形體則用來從各個方向捕捉風。",
+              "captions": [
+                "沿塔身逐層旋轉的平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Rotated floors form a spiral void that brings air and light down through the tower. Lower levels stay shaded, middle levels hold plants, and the top opens to the sky through an oval skylight.",
+          "images": [
+            "assets/board/rift-pavilion-twisted-wind-tower/03-tower-line-drawings.webp",
+            "assets/board/rift-pavilion-twisted-wind-tower/06-tower-sketch.webp"
+          ],
+          "captions": [
+            "Line drawings of the tower.",
+            "Hand sketch of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "旋轉的樓板形成螺旋狀中空，將空氣與光線引入塔內。下層保持陰涼，中層種植植物，頂層則透過橢圓天窗向天空開放。",
+              "captions": [
+                "塔體線稿。",
+                "塔體手繪草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A staircase circles the centre and reveals changing light and views on the way up. Models show the planted floors and the water channels that run through the site.",
+          "images": [
+            "assets/board/rift-pavilion-twisted-wind-tower/04-interior-model-views.webp",
+            "assets/board/rift-pavilion-twisted-wind-tower/08-site-model-views.webp"
+          ],
+          "captions": [
+            "Inside the tower model.",
+            "Site model with water channels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "樓梯環繞中心而上，沿途展現變化的光線與景觀。模型呈現種植樓層，以及穿越基地的水道。",
+              "captions": [
+                "塔體模型內部。",
+                "帶水道的基地模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name what the site lacks.\n2. Borrow a climate idea.\n3. Draw it floor by floor.\n4. Build it to test light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 指出基地缺少什麼。\n2. 借用一種氣候策略。\n3. 逐層繪製。\n4. 動手製作測試光線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Reimagined Vaultypes",
+      "slug": "reimagined-vaultypes-rattan-vault-pavilion",
+      "description": "Historic vault types redrawn as light frameworks of rattan, wire and mesh for temporary public rest spaces.\n\nArchitecture | Temporary pavilion | Vault structure | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重構拱頂類型",
+          "description": "將歷史拱頂類型重新詮釋為藤條、金屬線與網材構成的輕量框架，作為臨時公共休憩空間。\n\n建築設計｜臨時展亭｜拱頂結構｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/01-vault-pavilion-model.webp",
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/02-vault-type-sketches.webp",
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/03-side-and-top-views.webp",
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/04-chipboard-study-models.webp",
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/05-rattan-rib-tests.webp",
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/06-mesh-vaults.webp",
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/07-sail-vault-detail.webp",
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/08-interior-vistas.webp",
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/09-model-elevation.webp",
+        "assets/board/reimagined-vaultypes-rattan-vault-pavilion/10-model-from-above.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/01-vault-pavilion-model.webp"
+          ],
+          "captions": [
+            "Final model in rattan rods, wire mesh, metal wire and wooden dowels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以藤條、金屬網、金屬線與木釘製作的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project designs temporary public spaces for people waiting in airport transit zones, such as asylum seekers. These spaces offer rest, social contact and calm through light and geometry.",
+          "images": [
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/02-vault-type-sketches.webp"
+          ],
+          "captions": [
+            "Sketches comparing vault types."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個作品為在機場轉運區等候的人們，例如尋求庇護者，設計臨時公共空間。這些空間透過光線與幾何提供休息、交流與平靜。",
+              "captions": [
+                "比較各種拱頂類型的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sketches compared barrel, cross, quadripartite, fan and sail vaults for structure and proportion. Stripped of stone, each vault was reduced to lines and curves that meet.",
+          "images": [
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/03-side-and-top-views.webp",
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/04-chipboard-study-models.webp"
+          ],
+          "captions": [
+            "Side and top views set on a square grid.",
+            "Chipboard study models from bent strips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "草圖比較筒拱、交叉拱、四分肋拱、扇形拱與帆拱的結構與比例。去除石材後，每種拱頂被簡化為交會的線與曲線。",
+              "captions": [
+                "置於方格上的側視與俯視圖。",
+                "以彎折紙板條製作的研究模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Chipboard strips bent over moulds tested rib spacing and spatial logic. The vault types were then composed into one system on a grid to keep the scale consistent.",
+          "images": [
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/05-rattan-rib-tests.webp",
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/06-mesh-vaults.webp",
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/07-sail-vault-detail.webp"
+          ],
+          "captions": [
+            "Rattan rib tests on the cutting mat.",
+            "Mesh vaults over the platforms.",
+            "Detail of a sail vault."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以模具彎折的紙板條測試肋的間距與空間邏輯。接著將各種拱頂組合在方格上，形成尺度一致的系統。",
+              "captions": [
+                "切割墊上的藤條肋測試。",
+                "平台上方的網材拱頂。",
+                "帆拱細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the final model, rattan forms the quadripartite and fan vaults while bent wire defines the cross vaults. Wooden dowels give vertical support and wire mesh adds depth beneath the ribs.",
+          "images": [
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/08-interior-vistas.webp",
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/09-model-elevation.webp",
+            "assets/board/reimagined-vaultypes-rattan-vault-pavilion/10-model-from-above.webp"
+          ],
+          "captions": [
+            "Vistas under the vaults.",
+            "Elevation of the model.",
+            "The model from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以藤條構成四分肋拱與扇形拱，以彎折金屬線界定交叉拱。木釘提供垂直支撐，肋下的金屬網則增添層次。",
+              "captions": [
+                "拱頂下的視景。",
+                "模型立面。",
+                "模型俯視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a historic type.\n2. Reduce it to lines.\n3. Test the lines in material.\n4. Compose them into a system.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一種歷史類型。\n2. 將它簡化為線條。\n3. 以材料測試線條。\n4. 組合成一套系統。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Labyrinth of Faith and Ruin",
+      "slug": "labyrinth-of-faith-and-ruin-spatial-narrative",
+      "description": "A circular maze tower in resin, acrylic and clay that retells a journey through a ruined world.\n\nSpatial Narrative | Model | Maze tower | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "信念與廢墟的迷宮",
+          "description": "以樹脂、壓克力與黏土製作的環形迷宮塔，重述一段穿越廢墟世界的旅程。\n\n空間敘事｜模型｜迷宮塔｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/01-labyrinth-tower-model.webp",
+        "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/02-maze-concept-sketch.webp",
+        "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/03-model-on-resin-sea.webp",
+        "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/04-making-process.webp",
+        "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/05-inner-walls-a.webp",
+        "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/06-inner-walls-b.webp",
+        "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/07-inner-walls-c.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/01-labyrinth-tower-model.webp"
+          ],
+          "captions": [
+            "The tower model lit from within."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "由內部照亮的塔體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project was inspired by a post-apocalyptic novel about a father and son on a long journey. It asks how that path can be rebuilt as a maze where life and death seem reversed.",
+          "images": [
+            "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/02-maze-concept-sketch.webp"
+          ],
+          "captions": [
+            "Concept sketch of the circular maze."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個作品的靈感來自一部描寫父子長途跋涉的末日小說。它探問如何將這段旅程重建為一座生死彷彿顛倒的迷宮。",
+              "captions": [
+                "環形迷宮的概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A sketch mapped the journey as rings of walls around a central goal. At the centre sits a fragile belief that keeps the travellers moving forward.",
+          "images": [
+            "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/04-making-process.webp"
+          ],
+          "captions": [
+            "Making the walls, base and resin sea."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "草圖將旅程描繪為環繞中心目標的層層牆體。中心是一份讓旅人持續前行的脆弱信念。",
+              "captions": [
+                "製作牆體、基座與樹脂海面的過程。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Circular walls and floor plates create a fragmented terrain, linked by small ladders. Dark acrylic and clay give a worn wooden texture, while yellow layers stand for flashbacks breaking through.",
+          "images": [
+            "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/03-model-on-resin-sea.webp"
+          ],
+          "captions": [
+            "The tower on its resin sea base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "環形牆體與樓板構成破碎的地形，並以小梯子相連。深色壓克力與黏土營造出磨損的木質紋理，黃色層次則象徵穿透而出的回憶。",
+              "captions": [
+                "置於樹脂海面基座上的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished tower rises from an epoxy sea that holds the remains of a lost civilisation. Close views show the narrow passages and ladders that make up the journey.",
+          "images": [
+            "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/05-inner-walls-a.webp",
+            "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/06-inner-walls-b.webp",
+            "assets/board/labyrinth-of-faith-and-ruin-spatial-narrative/07-inner-walls-c.webp"
+          ],
+          "captions": [
+            "Inner walls and ladders.",
+            "A passage between the rings.",
+            "The upper rings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的塔從環氧樹脂海面中升起，海中留存著消逝文明的殘骸。近景呈現構成旅程的狹窄通道與梯子。",
+              "captions": [
+                "內牆與梯子。",
+                "環與環之間的通道。",
+                "上層的環。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a story.\n2. Map the journey as a plan.\n3. Give each moment a material.\n4. Build the path to be walked.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個故事出發。\n2. 將旅程畫成平面。\n3. 為每個時刻選擇材料。\n4. 把路徑做成可走的空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Between Chaos and Clarity",
+      "slug": "between-chaos-and-clarity-plaster-pvc-model",
+      "description": "Plaster blocks and layered clear PVC that turn a personal rhythm of thinking into structure.\n\nSpatial Design | Concept model | Material contrast | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "混沌與清晰之間",
+          "description": "以石膏量塊與層疊透明PVC，將個人的思考節奏轉化為結構。\n\n空間設計｜概念模型｜材料對比｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/between-chaos-and-clarity-plaster-pvc-model/01-plaster-and-pvc-blocks.webp",
+        "assets/board/between-chaos-and-clarity-plaster-pvc-model/02-three-key-ideas.webp",
+        "assets/board/between-chaos-and-clarity-plaster-pvc-model/03-layered-pvc-interior.webp",
+        "assets/board/between-chaos-and-clarity-plaster-pvc-model/04-cracked-pvc-plates.webp",
+        "assets/board/between-chaos-and-clarity-plaster-pvc-model/05-interior-detail-a.webp",
+        "assets/board/between-chaos-and-clarity-plaster-pvc-model/06-interior-detail-b.webp",
+        "assets/board/between-chaos-and-clarity-plaster-pvc-model/07-plaster-tests.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/between-chaos-and-clarity-plaster-pvc-model/01-plaster-and-pvc-blocks.webp"
+          ],
+          "captions": [
+            "Final model in plaster, PVC sheets and PVC rods."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以石膏、PVC板與PVC棒製作的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began from the student's curiosity about their own way of thinking. It treats a restless rhythm of attention as a source of design rather than a weakness.",
+          "images": [
+            "assets/board/between-chaos-and-clarity-plaster-pvc-model/02-three-key-ideas.webp"
+          ],
+          "captions": [
+            "Tests of layering, material contrast and fragmentation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品源自學生對自身思考方式的好奇。它將不安定的專注節奏視為設計的來源，而非缺點。",
+              "captions": [
+                "層疊、材料對比與碎裂的測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The experience was summed up in three ideas: layering, material contrast and fragmentation. Each idea was tested in a quick model before the final piece.",
+          "images": [
+            "assets/board/between-chaos-and-clarity-plaster-pvc-model/07-plaster-tests.webp"
+          ],
+          "captions": [
+            "Plaster casting tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生將經驗歸納為三個關鍵概念：層疊、材料對比與碎裂。每個概念都先以快速模型測試，再進入最終作品。",
+              "captions": [
+                "石膏翻模測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Plaster stands for focus while clear PVC expresses scattered thought. Layered and cracked plates show how the mind reorganises information to find order.",
+          "images": [
+            "assets/board/between-chaos-and-clarity-plaster-pvc-model/03-layered-pvc-interior.webp",
+            "assets/board/between-chaos-and-clarity-plaster-pvc-model/04-cracked-pvc-plates.webp"
+          ],
+          "captions": [
+            "Layered PVC inside a block.",
+            "Cracked PVC plates."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "石膏代表專注，透明PVC則表達發散的思緒。層疊與碎裂的板片呈現心智如何重組資訊以找到秩序。",
+              "captions": [
+                "量塊內的層疊PVC。",
+                "碎裂的PVC板片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Sharp triangular openings in the walls mark moments of heightened awareness. Gaps between the four blocks suggest mental jumps that still connect.",
+          "images": [
+            "assets/board/between-chaos-and-clarity-plaster-pvc-model/05-interior-detail-a.webp",
+            "assets/board/between-chaos-and-clarity-plaster-pvc-model/06-interior-detail-b.webp"
+          ],
+          "captions": [
+            "Interior between the blocks.",
+            "View through a triangular opening."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "牆面上尖銳的三角開口標示出感知高度敏銳的時刻。四個量塊之間的縫隙則暗示仍然相連的思緒跳躍。",
+              "captions": [
+                "量塊之間的內部。",
+                "透過三角開口的視景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe your own habits.\n2. Name three key ideas.\n3. Give each a material.\n4. Let the contrast become form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察自己的習慣。\n2. 歸納三個關鍵概念。\n3. 為每個概念選擇材料。\n4. 讓對比成為形式。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
