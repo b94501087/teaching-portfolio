@@ -1,0 +1,49 @@
+{
+  "project": "Silk Road",
+  "dest": "assets/board/silk-road-woven-silk-thread-structure",
+  "note": "Portfolio b66d pages 10-11 cropped to seven images, WebP q88 (PIL). Not used: historical figure collage, process photo with a person.",
+  "files": [
+    {
+      "name": "01-final-structure.webp",
+      "sha256": "46ebe054cbbb1ca9ae4afa586c5f12d8bde69ed798a90b4e81009bcf730d7065",
+      "bytes": 105780,
+      "from": "b66d page 11 — final structure"
+    },
+    {
+      "name": "02-fabric-concept.webp",
+      "sha256": "89c2f38ca587c13e4236dead4bd97cba7fb78064b96d37f8542e507696cfa3dc",
+      "bytes": 10692,
+      "from": "b66d page 10 — fabric concept"
+    },
+    {
+      "name": "03-line-sketch.webp",
+      "sha256": "c8147584bc72ff4518937a1ee40cba480604390344106b753e9a92dfd12fc1c1",
+      "bytes": 60042,
+      "from": "b66d page 10 — line sketch"
+    },
+    {
+      "name": "04-cocoon-process.webp",
+      "sha256": "b02311e37ad314e2efea97986dce5ab05534643849a8c9f2fc1557172fe57850",
+      "bytes": 11118,
+      "from": "b66d page 10 — cocoon process"
+    },
+    {
+      "name": "05-frame-process.webp",
+      "sha256": "964dfa1d80ca34f0a1a127eed01c87af61e255894f41c676039eea93e58041ec",
+      "bytes": 12582,
+      "from": "b66d page 10 — frame process"
+    },
+    {
+      "name": "06-form-steps.webp",
+      "sha256": "438f83eac812c3d726a0365f44154c9eda1b274c99798f425e006b1f71f5d4ec",
+      "bytes": 18104,
+      "from": "b66d page 11 — form steps"
+    },
+    {
+      "name": "07-details.webp",
+      "sha256": "fa853a94786f902e4a5b4e57b87167dd6b47e542697deba553fa04afee60768c",
+      "bytes": 100648,
+      "from": "b66d page 11 — details"
+    }
+  ]
+}
