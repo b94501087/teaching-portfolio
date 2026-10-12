@@ -1,0 +1,61 @@
+{
+  "project": "House in Nesso",
+  "dest": "assets/board/house-in-nesso-climate-responsive-home",
+  "note": "Portfolio c0e5 pages 28-30 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with school, supervisor and dates, the lake and village photos, and the body text.",
+  "files": [
+    {
+      "name": "01-section-airflow.webp",
+      "sha256": "5e74c450826e3bbd04e8eb09c173599802aea72d264c15a9e679d676053cac0a",
+      "bytes": 85818,
+      "from": "c0e5 page 30 — section with sun and airflow"
+    },
+    {
+      "name": "02-local-climate-analysis.webp",
+      "sha256": "bb27fc4151770e7824185f5435a327bcff858ed7cf8e5c9550929fb01f1e96de",
+      "bytes": 68592,
+      "from": "c0e5 page 28 — local climate analysis"
+    },
+    {
+      "name": "03-site-location-map.webp",
+      "sha256": "f2b048e635d3a3ba70db5355968ff2a2075bc99c656adf4f65194399a43112e9",
+      "bytes": 62988,
+      "from": "c0e5 page 28 — site location map"
+    },
+    {
+      "name": "04-roof-study-level-one.webp",
+      "sha256": "76a3c2f277db7db834db9c92d89e8fc62f914252a4df7731253c601fd7aef8a2",
+      "bytes": 74554,
+      "from": "c0e5 page 28 — roof performance study, first round"
+    },
+    {
+      "name": "05-roof-study-level-two.webp",
+      "sha256": "10256d6d9583aa2be20ea527d37ce1683dac6b99ceda10a2dc40409a3dc97911",
+      "bytes": 260588,
+      "from": "c0e5 page 29 — roof performance study, second round"
+    },
+    {
+      "name": "06-cfd-analysis.webp",
+      "sha256": "6a017171af4c95af69cd83a0ea6a822079f1acf37eaed775ccd90aca16659bac",
+      "bytes": 56196,
+      "from": "c0e5 page 30 — airflow simulation"
+    },
+    {
+      "name": "07-section-two.webp",
+      "sha256": "061821463c640377adef360143a82c570c515b35d73fcc3d8dcee24ac6c8cbe8",
+      "bytes": 39744,
+      "from": "c0e5 page 30 — second section"
+    },
+    {
+      "name": "08-site-plan.webp",
+      "sha256": "355d5c53b81287538cc33f978c8c8d2e3d3bc6bfba8225c256d625344d562593",
+      "bytes": 83492,
+      "from": "c0e5 page 30 — site plan"
+    },
+    {
+      "name": "09-floor-plans.webp",
+      "sha256": "caaf64edf8dafbf71abbfa581e466e314c85045d395c6aa4972dd7fdff530481",
+      "bytes": 26490,
+      "from": "c0e5 page 30 — floor plans"
+    }
+  ]
+}
