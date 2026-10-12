@@ -1,0 +1,61 @@
+{
+  "project": "Container Kindergarten",
+  "dest": "assets/board/container-kindergarten-xiangtan",
+  "note": "Portfolio 37f4 pages 3–5 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the name and contact text, the comic panels and site photos, the interior renders and the trail section with photo figures, the entrance render with figures, and the body text.",
+  "files": [
+    {
+      "name": "01-kindergarten-model.webp",
+      "sha256": "065c0dab9b00df638067c30870985fa67417ffc2ca0a58ab777cda33ddfb9a39",
+      "bytes": 165460,
+      "from": "37f4 page 3 — physical model of the kindergarten, x 0–45 %, y 0–80 %"
+    },
+    {
+      "name": "02-plane-generation.webp",
+      "sha256": "873ff94063e3598fe70194ff1b72fefe7fcbba1ec211019168796743833c3128",
+      "bytes": 52060,
+      "from": "page 3 — plane generation diagrams, x 83.5–100 %, y 0–43 %"
+    },
+    {
+      "name": "03-form-generation.webp",
+      "sha256": "c029fe85e587c1c601f4a96b4b0b892e6a94c2c769a2d6a7ad81cadd26943b7f",
+      "bytes": 80288,
+      "from": "page 3 — form and circulation generation diagrams, x 83.5–100 %, y 43–100 %"
+    },
+    {
+      "name": "04-container-axonometric.webp",
+      "sha256": "7d212fdebc38c603b14db2cc2c6dc1b37f454f166d16d3bb7f743332632a3e07",
+      "bytes": 484264,
+      "from": "page 4 — axonometric of the container buildings, x 0–36 %"
+    },
+    {
+      "name": "05-exploded-layout-and-plans.webp",
+      "sha256": "3ec4be6c15deeed411ef05593d5f7823dec7e0d768e2653818927cc15c61b5d0",
+      "bytes": 141192,
+      "from": "page 4 — exploded layout and floor plans, x 36–50 %"
+    },
+    {
+      "name": "06-general-layout.webp",
+      "sha256": "fa572687e333b51663cc239c4e91040da9194395afb2c57d679f589a284b3191",
+      "bytes": 58718,
+      "from": "page 4 — general layout plan, x 50.5–66.5 %, y 0–50 %"
+    },
+    {
+      "name": "07-elevations-and-section.webp",
+      "sha256": "70405b09955caea118ac219d000b2a14213d67b57ef8c9377f3ace9b30dac51d",
+      "bytes": 176924,
+      "from": "page 4 — elevations and section, x 50.5–85 %, y 50–100 %"
+    },
+    {
+      "name": "08-parent-trail-render.webp",
+      "sha256": "a0cd80ca9aadc941ce5ffe8b019f2f68108c628d3a8a3b844de19e8c9973370d",
+      "bytes": 98194,
+      "from": "page 5 — render of the outdoor trail, x 20–38.5 %, y 4–57 %"
+    },
+    {
+      "name": "09-physical-model-overview.webp",
+      "sha256": "051e60c73ef6c04dfacf65723ff2bbce0794c538b732dde4fbcbe15bade33fad",
+      "bytes": 138858,
+      "from": "page 5 — physical model overview, x 50–87.5 %, y 55–100 %"
+    }
+  ]
+}
