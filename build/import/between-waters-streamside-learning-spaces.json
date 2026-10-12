@@ -1,0 +1,67 @@
+{
+  "project": "Between Waters",
+  "dest": "assets/board/between-waters-streamside-learning-spaces",
+  "note": "Portfolio ca16 pages 11-12 cropped to ten images, WebP q88 (PIL). Not used: title, size labels and concept text, master plan of the school campus.",
+  "files": [
+    {
+      "name": "01-stream-campus-model.webp",
+      "sha256": "a4d26b255b36c4c7eef008d179c8b132ca27eec6345ec57eb5a66cd2c322563c",
+      "bytes": 83082,
+      "from": "ca16 page 12 — site model overview"
+    },
+    {
+      "name": "02-watercolour-concept.webp",
+      "sha256": "42330b2464881f069b5157fc6ba7242c01a9cb215efba2fe1d6453939ac76b47",
+      "bytes": 119328,
+      "from": "ca16 page 11 — watercolour concept view"
+    },
+    {
+      "name": "03-pencil-site-sketches.webp",
+      "sha256": "f6d710fd5e5f3850a117300ae736acbc65884aa3b46410e21b8a7ebf642b9c77",
+      "bytes": 37690,
+      "from": "ca16 page 11 — pencil site sketches"
+    },
+    {
+      "name": "04-making-the-model.webp",
+      "sha256": "7c074f74c82ab8f5968f3e75dbd0817e13e48be765df19ce09d746f9cbcbbed1",
+      "bytes": 91122,
+      "from": "ca16 page 11 — making the model"
+    },
+    {
+      "name": "05-view-under-the-bridge.webp",
+      "sha256": "255b8638b6dad220e565e984808305ffd70e4e51bb72be5cad829a53b7fdbd4f",
+      "bytes": 27208,
+      "from": "ca16 page 12 — view under the bridge"
+    },
+    {
+      "name": "06-acrylic-waterway.webp",
+      "sha256": "e4cd85e9d071695f4db75e0cd16e3329d8b7ef6cb746477a94fddee6cb99a93e",
+      "bytes": 32374,
+      "from": "ca16 page 12 — acrylic waterway"
+    },
+    {
+      "name": "07-raised-pavilion.webp",
+      "sha256": "131035465f06244d212a992c14a4f9437d17312ff4f5497dd34cb3b5b80ad48f",
+      "bytes": 19830,
+      "from": "ca16 page 12 — raised pavilion"
+    },
+    {
+      "name": "08-model-from-above.webp",
+      "sha256": "c13a0e25f7520e42b6b0dea0d4ecdab0707f36815a8bd8d60eda63a55b8c3de2",
+      "bytes": 52960,
+      "from": "ca16 page 12 — model from above"
+    },
+    {
+      "name": "09-stair-and-trees.webp",
+      "sha256": "290d13a47bf629ce9a1eb19933a1b1b83d64c94971c4aefca170a253b27e3696",
+      "bytes": 34494,
+      "from": "ca16 page 12 — stairs and trees"
+    },
+    {
+      "name": "10-long-elevation.webp",
+      "sha256": "2f2c92e8bef7ecc3071867793ddbea9f7944191636dc13626434d80190047f59",
+      "bytes": 46508,
+      "from": "ca16 page 12 — long elevation"
+    }
+  ]
+}
