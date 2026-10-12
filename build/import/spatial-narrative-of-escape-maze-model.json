@@ -1,0 +1,61 @@
+{
+  "project": "A Spatial Narrative of Escape",
+  "dest": "assets/board/spatial-narrative-of-escape-maze-model",
+  "note": "Portfolio 6c64 pages 12-13 cropped to nine images, WebP q88 (PIL). Not used: title and text, series poster, film stills, code screenshots, game-over screen, engine logo and QR code.",
+  "files": [
+    {
+      "name": "01-escape-model.webp",
+      "sha256": "83c49a1d67afa5f5ae5d4d2b26db1fc40420f938330ad47d147b521fa2383dbe",
+      "bytes": 94260,
+      "from": "6c64 page 12 — escape model"
+    },
+    {
+      "name": "02-escape-route-sketch.webp",
+      "sha256": "e3d852b0c935896118a937bfeebfdfe1affc75055e078eb592b6be259e89654a",
+      "bytes": 32264,
+      "from": "6c64 page 12 — escape route sketch"
+    },
+    {
+      "name": "03-wire-net-detail.webp",
+      "sha256": "80a5626d098b3b6bb51279bed0a543a64de534640e626a423a5ee1f8dc247546",
+      "bytes": 19466,
+      "from": "6c64 page 12 — wire net detail"
+    },
+    {
+      "name": "04-stair-detail.webp",
+      "sha256": "2f052bb14cb5bf42fffbaec76558e94baf2e5bd5230b5465dd3bb4cb0cb930ae",
+      "bytes": 11084,
+      "from": "6c64 page 12 — stair detail"
+    },
+    {
+      "name": "05-arch-and-stair-detail.webp",
+      "sha256": "01e0ea50894e6b9b0c4bacf3f02df093d2b4e388bf087c037c809026fb521a7d",
+      "bytes": 13534,
+      "from": "6c64 page 12 — arch and stair detail"
+    },
+    {
+      "name": "06-staircase-drawing.webp",
+      "sha256": "64f2ef77b8403a3ad35686fd02b9be401faebb9add71b59c9ecad6768486f9bb",
+      "bytes": 44768,
+      "from": "6c64 page 13 — staircase drawing"
+    },
+    {
+      "name": "07-stair-and-arch-drawing.webp",
+      "sha256": "5ec0fad497ef1d40e7721fcfe90c7038a69963885abe5078e0c6572bb74271d8",
+      "bytes": 45490,
+      "from": "6c64 page 13 — stair and arch drawing"
+    },
+    {
+      "name": "08-game-scenes.webp",
+      "sha256": "824c847f66056cca8e6492a937fda0e313ae96425bf1be6fe480d2ed1228ef39",
+      "bytes": 28122,
+      "from": "6c64 page 13 — game scenes"
+    },
+    {
+      "name": "09-game-paths.webp",
+      "sha256": "44af4dada539b40c91c96a6f2223de71fc9de87fc42a1c833590f0fe8b0b4884",
+      "bytes": 29142,
+      "from": "6c64 page 13 — game paths"
+    }
+  ]
+}
