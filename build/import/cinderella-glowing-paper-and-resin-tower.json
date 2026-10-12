@@ -1,0 +1,37 @@
+{
+  "project": "Cinderella",
+  "dest": "assets/board/cinderella-glowing-paper-and-resin-tower",
+  "note": "Portfolio f986 page 6 cropped to five images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "887d4384e194acaf5ac6942620c264d1b31f52e5a5130e88f6ea092057a125be",
+      "bytes": 103926,
+      "from": "f986 page 6 — tower model"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "cd6919bf06d77f1802f6fd1f89c7d78821383b8cbc9c989aa09d7e177f93cd1f",
+      "bytes": 35864,
+      "from": "f986 page 6 — concept sketch"
+    },
+    {
+      "name": "03-making-process.webp",
+      "sha256": "857706a74d4f94a24090e7feaf15d97b143fff9f93c254f3a9e38d06c953a5ba",
+      "bytes": 34454,
+      "from": "f986 page 6 — making process"
+    },
+    {
+      "name": "04-tower-top.webp",
+      "sha256": "f14c4f20d96ab67d437da962527185c7dfb7be088142d6f519e78cf228aac7df",
+      "bytes": 38492,
+      "from": "f986 page 6 — tower top"
+    },
+    {
+      "name": "05-tower-base.webp",
+      "sha256": "44e8f72844948d2b1ad904c621f88212702eb842fb8d18b8e8a48c2448af7300",
+      "bytes": 40816,
+      "from": "f986 page 6 — tower base"
+    }
+  ]
+}
