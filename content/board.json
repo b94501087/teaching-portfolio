@@ -24649,6 +24649,153 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Inspired by Structure",
+      "slug": "inspired-by-structure-modular-tower",
+      "description": "Folded models and joint tests grow into a modular tower that is both structure and home.\n\nArchitecture | Modular tower | Structure study | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "從結構出發",
+          "description": "從摺疊模型與接點實驗出發，發展成一座兼具結構與居所的模組化高塔。\n\n建築｜模組化高塔｜結構研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/inspired-by-structure-modular-tower/01-forming-a-building.webp",
+        "assets/board/inspired-by-structure-modular-tower/02-exploded-figure.webp",
+        "assets/board/inspired-by-structure-modular-tower/03-triangle-models.webp",
+        "assets/board/inspired-by-structure-modular-tower/04-connection-research.webp",
+        "assets/board/inspired-by-structure-modular-tower/05-physical-model-studies.webp",
+        "assets/board/inspired-by-structure-modular-tower/06-structural-deduction.webp",
+        "assets/board/inspired-by-structure-modular-tower/07-structural-analysis.webp",
+        "assets/board/inspired-by-structure-modular-tower/08-planar-graph.webp",
+        "assets/board/inspired-by-structure-modular-tower/09-room-models.webp",
+        "assets/board/inspired-by-structure-modular-tower/10-derivative-tower.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/inspired-by-structure-modular-tower/01-forming-a-building.webp"
+          ],
+          "captions": [
+            "Forming a building: a tower wrapped in a repeating structural frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "形成建築：以重複結構框架包覆的高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks how a structure can be both beautiful and useful at the same time. It starts from small material tests rather than from a given site or program.",
+          "images": [
+            "assets/board/inspired-by-structure-modular-tower/02-exploded-figure.webp",
+            "assets/board/inspired-by-structure-modular-tower/03-triangle-models.webp"
+          ],
+          "captions": [
+            "Exploded figure: a hand-made model pulled apart into its parts.",
+            "Models formed by folding and transforming triangles, cast in a cardboard mould."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案探討結構如何同時兼具美感與實用性。它從小型材料實驗出發，而非從既定的基地或機能開始。",
+              "captions": [
+                "爆炸模型：將手作模型拆解成各個部件。",
+                "以三角形連續摺疊與變形而成的模型，以紙板模具澆鑄。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Different joint types were compared for strength, stiffness, complexity and reliability. Physical models then tested which joint could be repeated and assembled.",
+          "images": [
+            "assets/board/inspired-by-structure-modular-tower/04-connection-research.webp",
+            "assets/board/inspired-by-structure-modular-tower/05-physical-model-studies.webp"
+          ],
+          "captions": [
+            "Comparing joint types by strength, stiffness, complexity, reliability and stress mode.",
+            "Exploring the physical model, from single joints to a final assembled unit."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "比較不同接點類型的強度、剛度、複雜度與可靠度。再以實體模型測試哪一種接點可以重複組裝。",
+              "captions": [
+                "依強度、剛度、複雜度、可靠度與受力方式比較接點類型。",
+                "探索實體模型，從單一接點到最終組裝單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The chosen joint grows from a tetrahedron into a three-way node. A stress analysis shows that the frame is fairly even in stress, which suits modular building in many directions.",
+          "images": [
+            "assets/board/inspired-by-structure-modular-tower/06-structural-deduction.webp",
+            "assets/board/inspired-by-structure-modular-tower/07-structural-analysis.webp"
+          ],
+          "captions": [
+            "Joints constructed from a tetrahedron, step by step.",
+            "Stress analysis of the frame, with drawings of the repeated structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "選定的接點由四面體發展為三向節點。應力分析顯示整體框架受力相當均勻，適合向多個方向進行模組化建造。",
+              "captions": [
+                "由四面體逐步建構而成的接點。",
+                "框架的應力分析，以及重複結構的圖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The frame becomes a tower that holds single rooms, lofts and family units in triangular plans. A derivative tower stacks a commercial base, apartments, lofts and penthouses inside the same structure.",
+          "images": [
+            "assets/board/inspired-by-structure-modular-tower/08-planar-graph.webp",
+            "assets/board/inspired-by-structure-modular-tower/09-room-models.webp",
+            "assets/board/inspired-by-structure-modular-tower/10-derivative-tower.webp"
+          ],
+          "captions": [
+            "Planar graph of room types in a triangular plan.",
+            "Room models: loft, single room, compact and continuity.",
+            "Derivative building: commercial complex, apartment, loft and penthouse."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "框架發展成一座高塔，在三角形平面中容納單人房、樓中樓與家庭單元。衍生出的高塔在同一結構內，依序疊放商業基座、公寓、樓中樓與頂層住宅。",
+              "captions": [
+                "三角形平面中各種房型的平面圖。",
+                "房間模型：樓中樓、單人房、緊湊型與連續型。",
+                "衍生建築：商業綜合體、公寓、樓中樓與頂層住宅。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start with material.\n2. Test the joint.\n3. Check the stress.\n4. Grow it into space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從材料開始。\n2. 測試接點。\n3. 檢查受力。\n4. 發展成空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
