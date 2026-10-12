@@ -1,0 +1,61 @@
+{
+  "project": "New Corridor",
+  "dest": "assets/board/new-corridor-urban-village-promenade",
+  "note": "Portfolio 10c5 pages 3–5 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with instructor name, the comic strip with street photos, the newspaper mock-up, the interview photos and the photo collage line on page 3, the case study photos, activity photos and renders with photo people on page 4.",
+  "files": [
+    {
+      "name": "01-promenade-aerial-plan.webp",
+      "sha256": "6dddb8c6a16c2fb74316907620d82d92e0997087a298348fa74033fbb65dd5ff",
+      "bytes": 141216,
+      "from": "10c5 page 4 — aerial plan of the promenade and zones, x 62–86.5 %, y 0–70 %"
+    },
+    {
+      "name": "02-scheme-generation.webp",
+      "sha256": "2ea970231437a5038f2f2d0aa42ebc5d1a77c176000435f13677e9d83b91b541",
+      "bytes": 60688,
+      "from": "page 4 — scheme generation sketches for six activities, x 0–29 %, y 34.5–60.5 %"
+    },
+    {
+      "name": "03-path-generation.webp",
+      "sha256": "f3db941ac04a00efff5ef16b7072cab236ded434387827fcbc68bfaff1a62116",
+      "bytes": 38774,
+      "from": "page 4 — path generation massing studies, x 0–29 %, y 75–100 %"
+    },
+    {
+      "name": "04-exploded-axonometric.webp",
+      "sha256": "1567b4d68f7a641a5af9e37715196a131059ed153ffbbabc5d69b638e54f16ef",
+      "bytes": 106990,
+      "from": "page 4 — exploded axonometric of the three layers, x 29–48 %, y 34.5–100 %"
+    },
+    {
+      "name": "05-section-a-a.webp",
+      "sha256": "413a18610814875ccf67abb2bf93bf4fc520eac7c75726c711d2122ec7bfbccc",
+      "bytes": 54872,
+      "from": "page 3 — section A-A through the village, x 50–100 %, y 72–100 %"
+    },
+    {
+      "name": "06-sectional-perspective.webp",
+      "sha256": "2a21c8375c736ef2aa5c7bfd99d09bee47f31ed433064ead20e307137e8426e2",
+      "bytes": 73754,
+      "from": "page 4 — sectional perspective of the promenade, x 50–100 %, y 70–100 %"
+    },
+    {
+      "name": "07-community-school.webp",
+      "sha256": "4ba287a6bbf5b12e5fb6d7fd965131b5b758317c0a83febe1db9bfb1573c07bb",
+      "bytes": 228138,
+      "from": "page 5 — community school section with joint details, x 0–50 %, y 0–50 %"
+    },
+    {
+      "name": "08-game-zone.webp",
+      "sha256": "1d32129275c6a34ebd74ed1ad998aa3b5bcca92f4f5d26d3fde0bc852fa11548",
+      "bytes": 44792,
+      "from": "page 5 — game zone section, x 0–19 %, y 50–100 %"
+    },
+    {
+      "name": "09-creative-center.webp",
+      "sha256": "8b7b3595292a9389dfab1c5294cf7d6a24ed5c5bc05eb46cac4c538e55025216",
+      "bytes": 42060,
+      "from": "page 5 — creative center section, x 20–50 %, y 69–99 %"
+    }
+  ]
+}
