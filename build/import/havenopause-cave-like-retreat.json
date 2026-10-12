@@ -1,0 +1,67 @@
+{
+  "project": "Havenopause",
+  "dest": "assets/board/havenopause-cave-like-retreat",
+  "note": "Portfolio de5b pages 7-10 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the supervisor line, the personal comic story, the news-outlet cards with logos, the named quotation, the rendered vignettes, and the render with photo cut-out people.",
+  "files": [
+    {
+      "name": "01-retreat-elevation.webp",
+      "sha256": "0b324725c25f2012c18bed805c3ea0f32ed0b91a780751422992edc82bc83840",
+      "bytes": 212098,
+      "from": "de5b page 8 — retreat elevation"
+    },
+    {
+      "name": "02-symptom-stages.webp",
+      "sha256": "e977660d44ca90534c284a7376a4fea26283e0ae25d5fce7211199cf543ad0dc",
+      "bytes": 23306,
+      "from": "de5b page 7 — symptom stage diagrams"
+    },
+    {
+      "name": "03-medication-charts.webp",
+      "sha256": "d27f2466bad3741b204171d49ac4070d97e41f25835f4fd497c5fc599483be0b",
+      "bytes": 41894,
+      "from": "de5b page 7 — medication use and side-effect charts"
+    },
+    {
+      "name": "04-cave-like-support.webp",
+      "sha256": "5f0d023039f944261724e10fa6076857cf33757789f584f8eda54d79d880e8e9",
+      "bytes": 57580,
+      "from": "de5b page 8 — cave-like space diagram"
+    },
+    {
+      "name": "05-clay-models.webp",
+      "sha256": "ea067c8ac8cbc6adb33737deebb273c3e6b2fd0800ad937f0e410fbed5f601a5",
+      "bytes": 39754,
+      "from": "de5b page 8 — hand-made clay models"
+    },
+    {
+      "name": "06-digital-concept-models.webp",
+      "sha256": "0acf9010052c3146b65c666a524ce9625bc109585bac33fca4ae6f7908167a46",
+      "bytes": 23978,
+      "from": "de5b page 8 — digital concept models"
+    },
+    {
+      "name": "07-floor-plans.webp",
+      "sha256": "b48fb9a4c093382e55fbb7056ce65bfe59c5d5faa44699d0e5a7dc69603d73de",
+      "bytes": 76114,
+      "from": "de5b page 8 — floor plans"
+    },
+    {
+      "name": "08-perspective-section.webp",
+      "sha256": "22ca6ff8e003340364e3cb542299a6c12bf020b1bb36f17584e05a31e4ad529d",
+      "bytes": 370730,
+      "from": "de5b page 9 — perspective section"
+    },
+    {
+      "name": "09-white-model.webp",
+      "sha256": "161919a9eb94e6700f0c7009b220346253f9ef6263b6c20332d799b6c2205aae",
+      "bytes": 76930,
+      "from": "de5b page 10 — white physical model"
+    },
+    {
+      "name": "10-model-details.webp",
+      "sha256": "e7c87f97bfd34e2f89e8ebf6a30888b41cb1dbdfd2b8a641f5102b4628b9e875",
+      "bytes": 28444,
+      "from": "de5b page 10 — model details"
+    }
+  ]
+}
