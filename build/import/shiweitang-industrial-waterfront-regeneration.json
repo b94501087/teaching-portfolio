@@ -1,0 +1,67 @@
+{
+  "project": "Shiweitang Regeneration",
+  "dest": "assets/board/shiweitang-industrial-waterfront-regeneration",
+  "note": "Portfolio 5757 pages 16-18 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: site and history photos, the panel naming an outside research project, the user-group panel, and the street and interior renders with figures.",
+  "files": [
+    {
+      "name": "01-riverside-masterplan.webp",
+      "sha256": "c01a77f61da6104f9cb9db9e07fcc046f2cd090f981fde3ae70f03765cb36ca1",
+      "bytes": 91644,
+      "from": "5757 page 17 — masterplan of the site strategy, x 0–25 %, y 22–78 %"
+    },
+    {
+      "name": "02-skyline-section.webp",
+      "sha256": "46a106a32ca43553128cd6d738bff136ba6141de11146091519de39ac885f3c9",
+      "bytes": 27800,
+      "from": "5757 page 17 — long site section, x 0–49 %, y 0–22 %"
+    },
+    {
+      "name": "03-strategy-diagrams.webp",
+      "sha256": "38a0cff1cf37b4f8cb034649878c2a764639e05ad209ebf7acda6801a9a91098",
+      "bytes": 119680,
+      "from": "5757 page 17 — strategy diagrams and mobility, x 25–49 %, y 22–100 %"
+    },
+    {
+      "name": "04-location-table.webp",
+      "sha256": "985d89c5d536252a8f2876319e9ccbf266f2eef4092db5e36dc077e13bffe201",
+      "bytes": 223964,
+      "from": "5757 page 17 — location table of new programmes, x 50–85 %, y 0–100 %"
+    },
+    {
+      "name": "05-site-analysis-maps.webp",
+      "sha256": "fab8c382158f948b0cef3f008c8d670ffca73a6085e0f54ae351865c235daedb",
+      "bytes": 156488,
+      "from": "5757 page 16 — site analysis maps, x 27–50 %, y 0–100 %"
+    },
+    {
+      "name": "06-planning-concept.webp",
+      "sha256": "44341117d1db2e230dc6547c087ef25b8ceef83ca5db39a98436bc696f709b02",
+      "bytes": 92276,
+      "from": "5757 page 16 — five planning concepts, x 50–73 %, y 0–65 %"
+    },
+    {
+      "name": "07-concept-drawing.webp",
+      "sha256": "e482e389eda346be921c3b64c27de004a6ad1995b6d3095569e5cbb93d3840ac",
+      "bytes": 42830,
+      "from": "5757 page 16 — concept drawing, x 50–73 %, y 66–100 %"
+    },
+    {
+      "name": "08-management-diagram.webp",
+      "sha256": "a8b08dc67110e099900b53bb4870bbc964f646cd1188f092b1101c24f4f0e9cb",
+      "bytes": 155854,
+      "from": "5757 page 16 — management and fund flow diagrams, x 75–99 %, y 0–95 %"
+    },
+    {
+      "name": "09-waterway-nodes-map.webp",
+      "sha256": "693a73538b4ab515de601257480a49b5a2ee77757f22bf6c8148c2b484eadd85",
+      "bytes": 122000,
+      "from": "5757 page 18 — waterway key nodes map, x 25–50 %, y 5–60 %"
+    },
+    {
+      "name": "10-factory-axonometric-section.webp",
+      "sha256": "abe0a6353b5ef880ceaf9c94eed861744d739a6a6b26cf5e08197fb5e9e90b8f",
+      "bytes": 43194,
+      "from": "5757 page 18 — factory axonometric and section, x 50–100 %, y 60–100 %"
+    }
+  ]
+}
