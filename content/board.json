@@ -53632,6 +53632,578 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "House of Wishes",
+      "slug": "house-of-wishes-seaside-learning-house-model",
+      "description": "A two-storey timber house by the sea gives children calm rooms for learning and rest.\n\nModel making | Care-centred housing | Wooden board and spray paint | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "願望之家",
+          "description": "一座海邊的雙層木構住宅，為孩子提供安靜的學習與休息空間。\n\n模型製作｜以照護為核心的住宅｜木板與噴漆｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/house-of-wishes-seaside-learning-house-model/01-section-model.webp",
+        "assets/board/house-of-wishes-seaside-learning-house-model/02-wall-parts.webp",
+        "assets/board/house-of-wishes-seaside-learning-house-model/03-wall-assembly.webp",
+        "assets/board/house-of-wishes-seaside-learning-house-model/04-plan-diagrams.webp",
+        "assets/board/house-of-wishes-seaside-learning-house-model/05-early-model.webp",
+        "assets/board/house-of-wishes-seaside-learning-house-model/06-living-room.webp",
+        "assets/board/house-of-wishes-seaside-learning-house-model/07-top-view.webp",
+        "assets/board/house-of-wishes-seaside-learning-house-model/08-stair-hall.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/house-of-wishes-seaside-learning-house-model/01-section-model.webp"
+          ],
+          "captions": [
+            "The finished house cut open in section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖開的完成住宅模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Children who need a quiet setting often learn in crowded, worn-out rooms. The student asked what a calm, purpose-built house for them could look like.",
+          "images": [
+            "assets/board/house-of-wishes-seaside-learning-house-model/02-wall-parts.webp"
+          ],
+          "captions": [
+            "Laser-cut wall parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "需要安靜環境的孩子，常在擁擠老舊的房間裡學習。學生思考一座為他們量身打造的安靜住宅會是什麼樣子。",
+              "captions": [
+                "雷射切割的牆板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A seaside site was chosen because the steady sound of waves helps focus. The rooms were sorted into learning, sleeping and relaxing zones on two floors.",
+          "images": [
+            "assets/board/house-of-wishes-seaside-learning-house-model/04-plan-diagrams.webp"
+          ],
+          "captions": [
+            "Plan diagrams of the rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生選擇海邊基地，因為規律的海浪聲有助專注。房間被分為學習、睡眠與放鬆三區，配置在兩層樓中。",
+              "captions": [
+                "房間的平面配置圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The layout was modelled digitally at 1:50 and cut from wooden board. Walls were glued cleanly and small furniture was made to test the scale.",
+          "images": [
+            "assets/board/house-of-wishes-seaside-learning-house-model/03-wall-assembly.webp",
+            "assets/board/house-of-wishes-seaside-learning-house-model/05-early-model.webp"
+          ],
+          "captions": [
+            "Assembling the walls.",
+            "The frame during assembly."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "平面以 1:50 比例數位建模，再從木板切割。牆面以乾淨的膠合方式組裝，並製作小家具來檢驗尺度。",
+              "captions": [
+                "組裝牆面。",
+                "組裝中的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model opens in section to show a tall stair hall and bright rooms. Large glass walls and a deep roof keep the house light but sheltered.",
+          "images": [
+            "assets/board/house-of-wishes-seaside-learning-house-model/06-living-room.webp",
+            "assets/board/house-of-wishes-seaside-learning-house-model/07-top-view.webp",
+            "assets/board/house-of-wishes-seaside-learning-house-model/08-stair-hall.webp"
+          ],
+          "captions": [
+            "The living room interior.",
+            "Rooms seen from above.",
+            "The double-height stair hall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以剖面打開，展現高聳的樓梯廳與明亮的房間。大片玻璃牆與深遠的屋簷，使住宅明亮又有遮蔽。",
+              "captions": [
+                "客廳室內。",
+                "從上方看各房間。",
+                "挑高的樓梯廳。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Define the users' needs.\n2. Zone the rooms.\n3. Model at a fixed scale.\n4. Add furniture to check size.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 定義使用者的需求。\n2. 劃分房間區域。\n3. 以固定比例建模。\n4. 加入家具檢查尺寸。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Extension of Motions",
+      "slug": "extension-of-motions-violin-gesture-clay-and-stick-model",
+      "description": "Violin bowing paths become clay caves wrapped in a net of wooden sticks.\n\nModel making | Motion to form | Air-dry clay, wood sticks and wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "動作的延伸",
+          "description": "拉小提琴的運弓軌跡化為黏土洞穴，外覆木棒網架。\n\n模型製作｜從動作到造型｜風乾黏土、木棒與鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/01-final-model.webp",
+        "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/02-motion-lines.webp",
+        "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/03-clay-base.webp",
+        "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/04-clay-caves.webp",
+        "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/05-first-sticks.webp",
+        "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/06-stick-net.webp",
+        "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/07-perspective.webp",
+        "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/08-close-view.webp",
+        "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/09-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished clay and stick model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的黏土與木棒模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Playing the violin is a chain of quick arm movements that leave no trace. The student wanted to see the space her own bowing motions create.",
+          "images": [
+            "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/02-motion-lines.webp"
+          ],
+          "captions": [
+            "Bowing paths traced as lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "拉小提琴是一連串快速、不留痕跡的手臂動作。學生想看見自己的運弓動作所創造出的空間。",
+              "captions": [
+                "把運弓路徑描成線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A video of her playing was broken down frame by frame to study each angle. The paths were layered in sketches to find where they meet.",
+          "images": [
+            "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/03-clay-base.webp"
+          ],
+          "captions": [
+            "Clay shaped over the wire paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把自己演奏的影片逐格拆解，研究每個角度。這些路徑在草圖中層層疊合，找出彼此交會之處。",
+              "captions": [
+                "黏土包覆鐵絲路徑成形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wires twisted into a foam base were wrapped in clay to form half-closed caves. Wooden sticks then stretched the hollows outward like a skeleton.",
+          "images": [
+            "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/04-clay-caves.webp",
+            "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/05-first-sticks.webp",
+            "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/06-stick-net.webp",
+            "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/07-perspective.webp"
+          ],
+          "captions": [
+            "Cave-like clay spaces.",
+            "First sticks over the clay.",
+            "Extending the stick net.",
+            "Perspective drawing of the space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "插在泡棉底座上的鐵絲被黏土包覆，形成半封閉的洞穴。接著以木棒把空洞向外延伸，如同骨架。",
+              "captions": [
+                "洞穴般的黏土空間。",
+                "黏土上的第一批木棒。",
+                "延伸木棒網架。",
+                "空間的透視圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model joins solid white caves with an open stick net. Light falling through the net casts shadows that echo the moving bow.",
+          "images": [
+            "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/08-close-view.webp",
+            "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model/09-side-view.webp"
+          ],
+          "captions": [
+            "Light through the stick net.",
+            "The model from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型結合白色實心洞穴與開放的木棒網架。穿過網架的光影，呼應移動中的琴弓。",
+              "captions": [
+                "穿過木棒網架的光線。",
+                "模型側視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Record a movement.\n2. Layer the paths in sketches.\n3. Shape the solids.\n4. Extend with a light frame.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 記錄一個動作。\n2. 在草圖中疊合路徑。\n3. 塑造實體量體。\n4. 以輕巧框架延伸。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Three-Dimensional Violin Sound Waves",
+      "slug": "violin-sound-waves-triangular-stick-model",
+      "description": "Sketched sound waves from a violin piece are rebuilt as triangles of sticks and board.\n\nModel making | Sound to form | Wood sticks and PVC board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "小提琴聲波的立體呈現",
+          "description": "把小提琴樂曲的聲波草圖，重建為木棒與板材的三角形結構。\n\n模型製作｜從聲音到造型｜木棒與PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/violin-sound-waves-triangular-stick-model/01-final-model.webp",
+        "assets/board/violin-sound-waves-triangular-stick-model/02-wave-sketch.webp",
+        "assets/board/violin-sound-waves-triangular-stick-model/03-wave-drawings.webp",
+        "assets/board/violin-sound-waves-triangular-stick-model/04-frame-start.webp",
+        "assets/board/violin-sound-waves-triangular-stick-model/05-board-infill.webp",
+        "assets/board/violin-sound-waves-triangular-stick-model/06-frame-detail.webp",
+        "assets/board/violin-sound-waves-triangular-stick-model/07-dense-sticks.webp",
+        "assets/board/violin-sound-waves-triangular-stick-model/08-whole-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/violin-sound-waves-triangular-stick-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished sound-wave model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的聲波模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Sound waves from an instrument are invisible, yet they have shape and rhythm. The student wondered whether the waves of her violin were curved or sharp.",
+          "images": [
+            "assets/board/violin-sound-waves-triangular-stick-model/02-wave-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of the sound waves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "樂器的聲波看不見，卻有形狀與節奏。學生好奇自己小提琴的聲波是彎曲的還是尖銳的。",
+              "captions": [
+                "聲波草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She recorded a favourite piece and sketched its waves, linking their key points. The waves repeated with small changes, which suggested a triangular system.",
+          "images": [
+            "assets/board/violin-sound-waves-triangular-stick-model/03-wave-drawings.webp"
+          ],
+          "captions": [
+            "Waves redrawn as triangles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她錄下喜愛的曲子並描繪聲波，把關鍵點連接起來。聲波重複中帶有細微變化，啟發了三角形的系統。",
+              "captions": [
+                "把聲波重繪為三角形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "PVC board was cut into triangles of many sizes to stand for each wave form. Sticks were glued into a frame, then added where the music grew more complex.",
+          "images": [
+            "assets/board/violin-sound-waves-triangular-stick-model/04-frame-start.webp",
+            "assets/board/violin-sound-waves-triangular-stick-model/05-board-infill.webp",
+            "assets/board/violin-sound-waves-triangular-stick-model/06-frame-detail.webp"
+          ],
+          "captions": [
+            "Starting the stick frame.",
+            "Adding PVC triangles.",
+            "A corner of the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "PVC板被切成大小不一的三角形，代表各種波形。木棒先黏成框架，再在樂曲更複雜之處加密。",
+              "captions": [
+                "開始搭建木棒框架。",
+                "加入PVC三角板。",
+                "框架的一角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model rises in sharp peaks of sticks over white panels. Denser areas mark the busiest moments of the piece.",
+          "images": [
+            "assets/board/violin-sound-waves-triangular-stick-model/07-dense-sticks.webp",
+            "assets/board/violin-sound-waves-triangular-stick-model/08-whole-view.webp"
+          ],
+          "captions": [
+            "Dense sticks show busy passages.",
+            "The whole model on its base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以尖銳的木棒峰頂聳立在白色板面上。較密集的區域標示出曲中最繁複的時刻。",
+              "captions": [
+                "密集木棒呈現繁複的樂段。",
+                "底座上的完整模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Record a sound.\n2. Map its wave points.\n3. Choose one geometry.\n4. Vary density with intensity.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 錄下一段聲音。\n2. 標出波形節點。\n3. 選定一種幾何。\n4. 依強度改變密度。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Blooming with the Bamboo",
+      "slug": "blooming-with-bamboo-chrysanthemum-strip-model",
+      "description": "Layered petals of a chrysanthemum become arching bamboo strips around an open centre.\n\nModel making | Nature to structure | Bamboo strips and wood sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "與竹共綻",
+          "description": "菊花層層的花瓣化為環繞開放中心的拱形竹條。\n\n模型製作｜從自然到結構｜竹條與木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/01-final-model.webp",
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/02-flower-study.webp",
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/03-stick-frame.webp",
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/04-strip-curves.webp",
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/05-frame-side.webp",
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/06-adding-strips.webp",
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/07-digital-model.webp",
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/08-top-view.webp",
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/09-inner-layers.webp",
+        "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/10-low-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished bamboo flower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的竹製花朵。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A chrysanthemum packs many layers of petals into a small, ordered space. The student asked how that hidden complexity could be built at a larger scale.",
+          "images": [
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/02-flower-study.webp"
+          ],
+          "captions": [
+            "Study of the flower's petals."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "菊花在小小空間裡容納了層層有序的花瓣。學生思考如何以更大尺度建構這種隱藏的複雜性。",
+              "captions": [
+                "花瓣的觀察研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She drew the flower's main shape, structure and petal directions step by step. Bamboo strips alone were chosen to show its curves clearly.",
+          "images": [
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/03-stick-frame.webp"
+          ],
+          "captions": [
+            "The first radiating stick frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她逐步描繪花的主要形狀、結構與花瓣方向。只選用竹條，以清楚呈現花的曲線。",
+              "captions": [
+                "第一版放射狀木棒框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A radiating stick frame was built first and repeated for the centre. Bamboo strips were then bent into arching petals in an oval outer ring.",
+          "images": [
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/04-strip-curves.webp",
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/05-frame-side.webp",
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/06-adding-strips.webp",
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/07-digital-model.webp"
+          ],
+          "captions": [
+            "Testing bamboo curves.",
+            "The frame from the side.",
+            "Adding the petal layers.",
+            "Digital model of the petals."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "先搭建放射狀木棒框架，並在中心重複這套結構。接著把竹條彎成拱形花瓣，形成橢圓外環。",
+              "captions": [
+                "測試竹條曲線。",
+                "框架側視。",
+                "加上花瓣層。",
+                "花瓣的數位模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model blooms in layers of curved strips that viewers can look through. Repetition in the centre and outer ring keeps the flower's order.",
+          "images": [
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/08-top-view.webp",
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/09-inner-layers.webp",
+            "assets/board/blooming-with-bamboo-chrysanthemum-strip-model/10-low-view.webp"
+          ],
+          "captions": [
+            "The flower seen from above.",
+            "The inner petal layers.",
+            "A low view through the petals."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以層層彎曲竹條綻放，觀者可穿透觀看內部。中心與外環的重複保留了花的秩序。",
+              "captions": [
+                "從上方看花朵。",
+                "內層花瓣。",
+                "低角度穿看花瓣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe a natural form.\n2. Draw its structure.\n3. Pick one material.\n4. Repeat to build layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察一個自然形態。\n2. 畫出它的結構。\n3. 選定一種材料。\n4. 以重複建立層次。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
