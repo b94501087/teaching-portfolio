@@ -1,0 +1,61 @@
+{
+  "project": "Line Offset Pop-up Shop",
+  "dest": "assets/board/line-offset-pop-up-shop",
+  "note": "Portfolio 9134 pages 15–16 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with a photo collage of people and logos, the brand analysis collage, the site analysis over an aerial city photo, the vertical collage with photo people, and the spatial organisation sheet with interior photos. The shop brand name is omitted.",
+  "files": [
+    {
+      "name": "01-urban-axonometric.webp",
+      "sha256": "6316b88861577ce32101d239a585017d756ee475b59993c0cb64f9e2692d86b4",
+      "bytes": 16408,
+      "from": "9134 page 16 — axonometric of the site in the city, x 38–50 %, y 50–100 %"
+    },
+    {
+      "name": "02-paper-models.webp",
+      "sha256": "9020f62b4f6d7fe9b50da3a36c489bb020391cb5079847feaf8992029db6325d",
+      "bytes": 7258,
+      "from": "page 15 — paper study models, x 0–24 %, y 0–11 %"
+    },
+    {
+      "name": "03-parti-diagrams.webp",
+      "sha256": "61e0f5739786c5129b2cbff9d725a1e9be02ffa98abe0f071c225e66376708f7",
+      "bytes": 42016,
+      "from": "page 15 — parti diagrams, x 0–11 %, y 13–98 %"
+    },
+    {
+      "name": "04-conception-phase.webp",
+      "sha256": "60fe4a1663a5cc20f31d9f8bdc998a41ca01f6e1d1575978bfee80ed04ec179b",
+      "bytes": 25672,
+      "from": "page 15 — conception phase line studies, x 11–30 %, y 13–98 %"
+    },
+    {
+      "name": "05-behaviour-patterns.webp",
+      "sha256": "71e4388761c2d7f65fbd984aaa50634498b57f16e47b66b3e4cc82ba95d18a82",
+      "bytes": 16916,
+      "from": "page 16 — behaviour pattern diagrams, x 0–10 %, y 3–50 %"
+    },
+    {
+      "name": "06-central-space.webp",
+      "sha256": "37d79a940168577b38cc0cc8206849640a1f88d1c0eebdac4b68bc97bca9e242",
+      "bytes": 12826,
+      "from": "page 16 — central main space diagram, x 11–26 %, y 4–33 %"
+    },
+    {
+      "name": "07-experience-rooms.webp",
+      "sha256": "2c289271fdc1ec74200ee1996c6fb6c47d74e5bc9fdda4d6bc4f1381cb59917c",
+      "bytes": 32560,
+      "from": "page 16 — experience room axonometrics, x 11–49 %, y 34–50 %"
+    },
+    {
+      "name": "08-exploded-elements.webp",
+      "sha256": "e46f4a0c093842419787e8a0c7d093ac0f72487b7d9fa390baa98ea1a1e81868",
+      "bytes": 8168,
+      "from": "page 16 — exploded elements, x 1–10 %, y 50–96 %"
+    },
+    {
+      "name": "09-element-matrix.webp",
+      "sha256": "933376bd2891ccaaacc74b3d508d84aba02169e7cd09606e0d44e4b1dc93dc62",
+      "bytes": 43448,
+      "from": "page 16 — element and material matrix, x 10–37 %, y 50–100 %"
+    }
+  ]
+}
