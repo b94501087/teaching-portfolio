@@ -14402,6 +14402,284 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "The Power of Plants",
+      "slug": "power-of-plants-tree-tower",
+      "description": "A vertical tree tower in Mannheim generates electricity from living plants and shares it with the neighbourhood.\n\nMannheim, Germany | Energy landscape | 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "植物的力量",
+          "description": "曼海姆的一座垂直樹塔，以活體植物發電，並與鄰里共享電力。\n\n德國曼海姆｜能源景觀｜2022｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/power-of-plants-tree-tower/01-site-selection.webp",
+        "assets/board/power-of-plants-tree-tower/02-vertical-tree-strategy.webp",
+        "assets/board/power-of-plants-tree-tower/03-tower-section.webp",
+        "assets/board/power-of-plants-tree-tower/04-cooling-effect.webp",
+        "assets/board/power-of-plants-tree-tower/05-plant-power-kit.webp",
+        "assets/board/power-of-plants-tree-tower/06-visitor-storyboard.webp",
+        "assets/board/power-of-plants-tree-tower/07-travel-tour.webp",
+        "assets/board/power-of-plants-tree-tower/08-stratified-plan.webp",
+        "assets/board/power-of-plants-tree-tower/09-day-and-night.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/power-of-plants-tree-tower/09-day-and-night.webp"
+          ],
+          "captions": [
+            "The tree tower by day and by night, lit by electricity from its own plants."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "白天與夜晚的樹塔，由自身植物產生的電力點亮。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In 2022 Europe fell into an energy crisis: many households could not afford their electricity bills, and many places lacked heating in winter. As a landscape architecture student, the designer asked whether living plants, which can also generate electricity, could help light the city's future.",
+          "images": [
+            "assets/board/power-of-plants-tree-tower/01-site-selection.webp"
+          ],
+          "captions": [
+            "The site: a planned green area of 53 hectares next to two residential areas in Mannheim."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "2022 年歐洲陷入能源危機，許多家庭負擔不起電費，不少地方冬季暖氣不足。身為景觀建築學生，設計者探問：同樣能夠發電的活體植物，能否幫忙點亮城市的未來。",
+              "captions": [
+                "基地：曼海姆兩個住宅區旁、占地 53 公頃的規劃綠地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The residents here are densely concentrated and their demand for electricity is high, at about 45 cents per kWh. Instead of a large city garden, the project stacks the green space into one vertical tree tower, saving about 99% of the area while adding lighting, co-planting, communication, public space and shared charging.",
+          "images": [
+            "assets/board/power-of-plants-tree-tower/02-vertical-tree-strategy.webp",
+            "assets/board/power-of-plants-tree-tower/03-tower-section.webp"
+          ],
+          "captions": [
+            "Strategy: from a large city garden to a vertical garden with different functions, creating a new tree.",
+            "Tower section: steel structure, planting platforms, water purifying layers, storage battery and shared charging station."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "這裡的居民高度集中、用電需求大，電價約每度 45 歐分。專題不做大面積的城市花園，而是把綠地疊成一座垂直的樹塔，省下約 99% 的面積，同時加入燈光、共同種植、交流、公共空間與共享充電等功能。",
+              "captions": [
+                "策略：從大面積城市花園，到具多重功能的垂直花園，創造一棵新的樹。",
+                "樹塔剖面：型鋼結構、種植平台、淨水層、蓄電池與共享充電站。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Visitors start from the square on the ground floor, with a shared charging station and a water plaza, then climb to plant platforms where they choose their favourite plants to cultivate. The planted tower also cools the area, and DIY kits from the kiosk let people assemble wires and plants to make plant electricity at home.",
+          "images": [
+            "assets/board/power-of-plants-tree-tower/04-cooling-effect.webp",
+            "assets/board/power-of-plants-tree-tower/05-plant-power-kit.webp",
+            "assets/board/power-of-plants-tree-tower/06-visitor-storyboard.webp"
+          ],
+          "captions": [
+            "Simulations show the tower keeping the space cool even when many people gather.",
+            "Construction manual of the plant power kit: prepare the plant, install the wire, measure the electricity.",
+            "Storyboard of residents choosing plants, buying a kit and assembling it."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "遊客從一樓廣場出發，那裡有共享充電站與水廣場，再沿樓梯走上種植平台，挑選喜歡的植物栽種。種滿植物的樹塔也為周邊降溫；售亭的 DIY 套件，讓人們在家組裝電線與植物，自己產生植物電力。",
+              "captions": [
+                "模擬顯示即使人群聚集，樹塔仍能讓空間保持涼爽。",
+                "植物電力套件的組裝說明：準備植物、安裝電線、量測電力。",
+                "居民挑選植物、購買套件並動手組裝的分鏡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A travel tour leads visitors through the plaza, the plantation platform and the water purifying layers, and at night the tower glows with light from its plants. The future vision imagines the tower being replicated across Europe, supplying electricity to the surrounding communities.",
+          "images": [
+            "assets/board/power-of-plants-tree-tower/07-travel-tour.webp",
+            "assets/board/power-of-plants-tree-tower/08-stratified-plan.webp"
+          ],
+          "captions": [
+            "Travel tour storyboard of visitors exploring the tower.",
+            "Stratified plan: ground floor plaza, plantation platform and water purifying layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "遊覽路線帶領遊客走過廣場、種植平台與淨水層；入夜後，樹塔以植物產生的光發亮。未來願景設想這座樹塔在歐洲各地複製，為周邊社區供電。",
+              "captions": [
+                "遊客探索樹塔的遊覽分鏡。",
+                "分層平面：一樓廣場、種植平台與淨水層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a pressing public problem.\n2. Test the technology with your own hands.\n3. Stack functions to save land.\n4. Let visitors take the idea home.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從迫切的公共問題出發。\n2. 親手測試技術。\n3. 疊合機能以節省土地。\n4. 讓遊客把想法帶回家。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "New Fishery Town",
+      "slug": "new-fishery-town-oyster-shell",
+      "description": "Waste oyster shells become soil additives and the core of a new water-town fishery complex in Nansha, Guangzhou.\n\nNansha, Guangzhou, China | Fishery and recycling | 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "新漁鎮",
+          "description": "廢棄蠔殼化為土壤添加劑，成為廣州南沙新水鄉漁業綜合體的核心。\n\n中國廣州南沙｜漁業與回收｜2022｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/new-fishery-town-oyster-shell/01-process-of-thinking.webp",
+        "assets/board/new-fishery-town-oyster-shell/02-three-systems.webp",
+        "assets/board/new-fishery-town-oyster-shell/03-design-process.webp",
+        "assets/board/new-fishery-town-oyster-shell/04-master-plan.webp",
+        "assets/board/new-fishery-town-oyster-shell/05-second-floor-plan.webp",
+        "assets/board/new-fishery-town-oyster-shell/06-section.webp",
+        "assets/board/new-fishery-town-oyster-shell/07-aerial-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/new-fishery-town-oyster-shell/07-aerial-view.webp"
+          ],
+          "captions": [
+            "Aerial view of the new fishery town on the water's edge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "水岸新漁鎮的鳥瞰圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Nansha is a well-known water town in Guangzhou, but with urbanisation, densely packed high-rise buildings have appeared in many places and the character of the water town is being lost. The site lies between undeveloped farmland and the modernised area, and about 48% of the residents nearby still work in fishing, mainly catching shellfish such as oysters.",
+          "images": [
+            "assets/board/new-fishery-town-oyster-shell/01-process-of-thinking.webp"
+          ],
+          "captions": [
+            "Process of thinking: the oyster shell as the core of a fishery system, shell processing and environment improvement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "南沙是廣州著名的水鄉，但隨著都市化，密集的高樓在許多地方出現，水鄉的特色逐漸流失。基地位於未開發農地與現代化城區之間，周邊約 48% 的居民仍從事漁業，主要捕撈蠔等貝類。",
+              "captions": [
+                "思考過程：以蠔殼為核心，串起漁業系統、殼料處理與環境改善。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project builds a new fishery system around the oyster shell. Waste shells from seafood restaurants and the aquatic market are transported, cleaned, sifted, dried, smashed and processed into additives that improve the soft clay soil of the area, and the whole production line becomes part of the landscape.",
+          "images": [
+            "assets/board/new-fishery-town-oyster-shell/02-three-systems.webp"
+          ],
+          "captions": [
+            "The fishery system, the shell processing steps and the spaces that improve the environment."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "專題以蠔殼為核心建立新的漁業系統。海鮮餐廳與水產市場的廢棄蠔殼經過運送、清洗、篩砂、乾燥、粉碎與加工，成為改良當地軟土的添加劑，整條生產線也成為景觀的一部分。",
+              "captions": [
+                "漁業系統、殼料處理步驟，以及改善環境的各個空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The complex follows the fishermen's boating routes and the convenience of the residential area. The original fish pond is connected to the waterside, and the abandoned factory is taken apart, divided into three parts around a new canal, then rotated and lifted to open views and connect the blocks.",
+          "images": [
+            "assets/board/new-fishery-town-oyster-shell/03-design-process.webp",
+            "assets/board/new-fishery-town-oyster-shell/04-master-plan.webp",
+            "assets/board/new-fishery-town-oyster-shell/05-second-floor-plan.webp"
+          ],
+          "captions": [
+            "Design process: from the original site to divided, rotated and lifted blocks.",
+            "Master plan of the fishery town and its waterfront.",
+            "Second floor plan, 1:1000."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "綜合體依循漁民的行船路線與住宅區的便利性配置。原有魚塘接上水岸，廢棄工廠則被拆解，沿一條新運河分成三個部分，再經旋轉與抬升，打開視野並串連各個量體。",
+              "captions": [
+                "設計過程：從原始基地到分割、旋轉與抬升的量體。",
+                "漁鎮與水岸的總平面圖。",
+                "二樓平面圖，1:1000。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Fishermen find a place to sell their catch, residents come to experience the culture of the water town and eat fresh seafood, and tourists learn how oyster shells are recycled. The section follows the shell from tasting seafood to recycling, the shell elevator, processing, the shell lab and the delivery of products.",
+          "images": [
+            "assets/board/new-fishery-town-oyster-shell/06-section.webp"
+          ],
+          "captions": [
+            "Section through the restaurant, the aquatic market and the shell processing spaces (17 m, 20 m and 66 m)."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "漁民有了販售漁獲的地方，居民來此體驗水鄉文化、品嚐新鮮海鮮，遊客則認識蠔殼如何被回收。剖面沿著蠔殼的旅程展開：品嚐海鮮、回收殼料、殼料電梯、加工、殼料實驗室，到產品出貨。",
+              "captions": [
+                "貫穿餐廳、水產市場與殼料處理空間的剖面（17 m、20 m 與 66 m）。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the local livelihood.\n2. Turn waste into a resource.\n3. Let the production line shape the space.\n4. Reuse what the site already has.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從在地生計出發。\n2. 把廢棄物變成資源。\n3. 讓生產線塑造空間。\n4. 善用基地既有的元素。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
