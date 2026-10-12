@@ -1,0 +1,37 @@
+{
+  "project": "Edge of Thaw",
+  "dest": "assets/board/edge-of-thaw-glacier-water-purifier",
+  "note": "Portfolio 0687 page 4 cropped to five images, WebP q88 (PIL). Not used: title and text, glacier reference photo.",
+  "files": [
+    {
+      "name": "01-gallery-model.webp",
+      "sha256": "26a1a8dbb7f754dec3008a566107ab1cc1379a24d6f2c9d168f96165ebcfa311",
+      "bytes": 120708,
+      "from": "0687 page 4 — gallery model"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "e268fc5600dc2c7406ac79b49eadaf38c0134dc86ac5c2337f6ed5731419020a",
+      "bytes": 12312,
+      "from": "0687 page 4 — concept sketch"
+    },
+    {
+      "name": "03-glacier-render.webp",
+      "sha256": "2dee7ef0efb6e2127c3fc65d0fe2efa8686ac5cdf818366f64298073a0acffbc",
+      "bytes": 2948,
+      "from": "0687 page 4 — glacier render"
+    },
+    {
+      "name": "04-material-tests.webp",
+      "sha256": "90ca525acc910b8f66bfc33838bb1214dd4dfb1f1d56a579982128c8e05355a5",
+      "bytes": 48000,
+      "from": "0687 page 4 — material tests"
+    },
+    {
+      "name": "05-filter-tests.webp",
+      "sha256": "eafef859c500f916c1dd11597fe4738a0da4f3344bc5b4dc95acd868b6af3838",
+      "bytes": 64676,
+      "from": "0687 page 4 — filter tests"
+    }
+  ]
+}
