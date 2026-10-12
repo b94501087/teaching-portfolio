@@ -1,0 +1,67 @@
+{
+  "project": "Material Regeneration",
+  "dest": "assets/board/material-regeneration-plastic-bag-and-chopstick-weave",
+  "note": "Portfolio 915e pages 3-4 cropped to ten images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "19eacbc3ee01e5b20bf96605a128d133470aae546f6329a5d8ab3b4f9d59eba4",
+      "bytes": 83034,
+      "from": "915e page 4 — final model"
+    },
+    {
+      "name": "02-chopstick-grid.webp",
+      "sha256": "2743df2bb199c4f90c8f1ef50657f659887bc1879d85be1f349fdaf79021c96c",
+      "bytes": 36240,
+      "from": "915e page 3 — chopstick grid"
+    },
+    {
+      "name": "03-hands-knotting.webp",
+      "sha256": "f86d393cf7ec5c99c5e1035698572ebc33b8f38fcbd3e67834d837c8326342aa",
+      "bytes": 40582,
+      "from": "915e page 3 — hands knotting"
+    },
+    {
+      "name": "04-bag-layers.webp",
+      "sha256": "2f1fdc24edfc8935b8890c68e3033f9899e1d2db960d56af8512c7317439a036",
+      "bytes": 82244,
+      "from": "915e page 3 — bag layers"
+    },
+    {
+      "name": "05-mesh-detail.webp",
+      "sha256": "7ccc1b8e82a9cdf0a2f1141c36876ebfb57a91dfb65b1443e7058ac5638fe32c",
+      "bytes": 14500,
+      "from": "915e page 3 — mesh detail"
+    },
+    {
+      "name": "06-joint-detail.webp",
+      "sha256": "7c3b9a60139712cfc69d8eb25b6b3ba7c298c702f83f554f52a4c0d9608d3f38",
+      "bytes": 22820,
+      "from": "915e page 3 — joint detail"
+    },
+    {
+      "name": "07-top-view.webp",
+      "sha256": "c96d3229e5717bcb586ae32a078785f10781e77218498fff9a3a3b0e8691fb25",
+      "bytes": 42456,
+      "from": "915e page 4 — top view"
+    },
+    {
+      "name": "08-side-view.webp",
+      "sha256": "5ab14435139d5fd092663e3243debc64fb3d4c037bbef0ec97d1b3c5ffb5cd1b",
+      "bytes": 33270,
+      "from": "915e page 4 — side view"
+    },
+    {
+      "name": "09-corner.webp",
+      "sha256": "258b90b44a65adeee924eceab1c993b9b3f97478c22090d6edc4f872f7ed39c4",
+      "bytes": 32328,
+      "from": "915e page 4 — corner"
+    },
+    {
+      "name": "10-close-up.webp",
+      "sha256": "26cde7ec9516fea6996fc0c99dd2a052e3a34d81b1595b69e5377fd0d7e85df2",
+      "bytes": 63978,
+      "from": "915e page 4 — close up"
+    }
+  ]
+}
