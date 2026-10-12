@@ -17079,6 +17079,578 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Multiple Realities",
+      "slug": "multiple-realities-waste-material-installation",
+      "description": "A material installation made from waste collected around the site, exploring existence through space, time and material.\n\nTaipei | Material experiment and installation | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "多重現實",
+          "description": "以基地周邊蒐集的廢棄物製成的材料裝置，從空間、時間與材料探討存在。\n\n台北｜材料實驗與裝置｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/multiple-realities-waste-material-installation/01-installation-hero.webp",
+        "assets/board/multiple-realities-waste-material-installation/02-material-properties.webp",
+        "assets/board/multiple-realities-waste-material-installation/03-texture-experiments.webp",
+        "assets/board/multiple-realities-waste-material-installation/04-light-transmission.webp",
+        "assets/board/multiple-realities-waste-material-installation/05-tenacity-tests.webp",
+        "assets/board/multiple-realities-waste-material-installation/06-project-concept.webp",
+        "assets/board/multiple-realities-waste-material-installation/07-form-generation.webp",
+        "assets/board/multiple-realities-waste-material-installation/08-design-presentation.webp",
+        "assets/board/multiple-realities-waste-material-installation/09-installation-size.webp",
+        "assets/board/multiple-realities-waste-material-installation/10-recycling-circle.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/multiple-realities-waste-material-installation/01-installation-hero.webp"
+          ],
+          "captions": [
+            "The installation in multiple dimensions: which is real, which is imaginary."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "多重維度中的裝置：哪個是真實，哪個是想像。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Reality, in other words, is existence, and the project describes existence through three aspects, space, time and material. It asks how materials can let people truly touch existence in a multi-dimensional perspective of 2D, 2.5D and 3D space.",
+          "images": [
+            "assets/board/multiple-realities-waste-material-installation/06-project-concept.webp"
+          ],
+          "captions": [
+            "Project concept: space as form in multiple dimensions, time as traces of change, material as the feelings of people."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "換句話說，現實就是存在，本案從空間、時間與材料三個面向描述存在。它探問材料如何在 2D、2.5D 與 3D 的多維空間中，讓人真正觸摸到存在。",
+              "captions": [
+                "專案概念：空間是多維度的形式，時間是變化的痕跡，材料是人的感受。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The materials were selected from domestic garbage and waste collected around the site in Taipei: coffee grounds, peanut shells, chaff, hair, waste paper and branches. Each was combined with cement, resin or gelatin, and the samples were compared for flexibility, strength, workability, weight, tensile strength and water resistance.",
+          "images": [
+            "assets/board/multiple-realities-waste-material-installation/02-material-properties.webp",
+            "assets/board/multiple-realities-waste-material-installation/03-texture-experiments.webp"
+          ],
+          "captions": [
+            "Material properties of each waste material across six criteria.",
+            "Texture experiments mixing waste materials with cement, resin and gelatin, with an original group, a time-variable group and a proportional control group."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "材料取自台北基地周邊的生活垃圾與廢棄物：咖啡渣、花生殼、穀糠、頭髮、廢紙與樹枝。每種材料分別與水泥、樹脂或明膠結合，並比較樣本的柔韌度、強度、可加工性、重量、抗拉強度與防水性。",
+              "captions": [
+                "各種廢棄材料在六項指標上的性能比較。",
+                "將廢棄材料與水泥、樹脂及明膠混合的質感實驗，分為原始組、時間變化組與比例對照組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Further tests explored the contrast between vision and touch, and how light passes through each sample. Form studies then moved from a single plane to doubled planes, inserting earlier 2D drawings and creating a morphological surface, so that the materials could be combined into blocks of different sizes.",
+          "images": [
+            "assets/board/multiple-realities-waste-material-installation/05-tenacity-tests.webp",
+            "assets/board/multiple-realities-waste-material-installation/04-light-transmission.webp",
+            "assets/board/multiple-realities-waste-material-installation/07-form-generation.webp"
+          ],
+          "captions": [
+            "Tenacity tests: samples that look hard may feel soft, and the other way round.",
+            "Light transmission of each sample from strong to weak.",
+            "Form generation from a single plane to combined blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "進一步的實驗探討視覺與觸覺之間的反差，以及光線如何穿透每個樣本。形態研究則從單一平面發展到雙重平面，置入先前的 2D 圖面並生成形態曲面，讓材料能組合成不同尺寸的塊體。",
+              "captions": [
+                "韌性測試：看起來堅硬的樣本，摸起來可能是柔軟的，反之亦然。",
+                "各樣本由強到弱的透光程度。",
+                "從單一平面到組合塊體的形態生成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The installation hangs strips of material above an arrangement of blocks, recording how objects fade, wither and shrink over time, and visitors experience it in real duration and perceive different existences, each forming their own insight into multiple realities. As a public installation it can be disassembled, reassembled and recycled, and the remaining waste can be reused in other industries.",
+          "images": [
+            "assets/board/multiple-realities-waste-material-installation/08-design-presentation.webp",
+            "assets/board/multiple-realities-waste-material-installation/09-installation-size.webp",
+            "assets/board/multiple-realities-waste-material-installation/10-recycling-circle.webp"
+          ],
+          "captions": [
+            "Design presentation: hanging strips above blocks of cement, resin and gelatin composites.",
+            "Installation size and construction, at 12.5 m by 12.5 m.",
+            "Recycling circle: raw material, process, processed products, heating and boiling back into material."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "裝置在塊體群上方懸掛材料條帶，記錄物件隨時間褪色、枯萎與收縮的過程；觀者在真實的時間中體驗它，感知不同的存在，各自形成對多重現實的理解。作為公共裝置，它可以拆解、重組與回收，剩餘的廢料也能再用於其他產業。",
+              "captions": [
+                "設計呈現：懸掛的條帶與下方水泥、樹脂及明膠複合材料塊體。",
+                "裝置尺寸與構造，平面為 12.5 公尺見方。",
+                "回收循環：原料、加工、成品，再經加熱熬煮回到原料。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Turn an abstract idea into three testable aspects.\n2. Collect materials within walking distance of the site.\n3. Test every sample with a control group.\n4. Plan the end of life from the start.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把抽象概念拆成三個可以測試的面向。\n2. 在基地步行範圍內蒐集材料。\n3. 每個樣本都設對照組測試。\n4. 從一開始就規劃材料的後續去處。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Consumption Binge",
+      "slug": "consumption-binge-vertical-carnival",
+      "description": "A vertical tower of heaven, earth and inferno that turns the frenzy of consumption into a space for reflection.\n\nGuangzhou, China | Conceptual architecture and urban device | 2020–2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "消費狂歡",
+          "description": "由天堂、人間與地獄垂直組成的塔，把消費的狂熱轉化為反思的空間。\n\n中國廣州｜概念建築與城市裝置｜2020–2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/consumption-binge-vertical-carnival/01-model-perspective.webp",
+        "assets/board/consumption-binge-vertical-carnival/02-theoretical-research.webp",
+        "assets/board/consumption-binge-vertical-carnival/03-type-by-morphology.webp",
+        "assets/board/consumption-binge-vertical-carnival/04-base-form.webp",
+        "assets/board/consumption-binge-vertical-carnival/05-tower-section.webp",
+        "assets/board/consumption-binge-vertical-carnival/06-architectural-composition.webp",
+        "assets/board/consumption-binge-vertical-carnival/07-space-installation.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/consumption-binge-vertical-carnival/01-model-perspective.webp"
+          ],
+          "captions": [
+            "Model perspective: heaven, earth and inferno stacked as three progressive states of consumption."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "模型透視：天堂、人間與地獄垂直堆疊，呈現三種逐步推進的消費狀態。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project is a reflection on the frenzy of capitalist consumption, imagined as a paradise of vertical value fission and an experience pavilion for media. The outbreak of COVID-19 in 2020 made people rethink contemporary desires, and the project asks whether we can look again at this carnival from another angle.",
+          "images": [
+            "assets/board/consumption-binge-vertical-carnival/02-theoretical-research.webp"
+          ],
+          "captions": [
+            "Theoretical research: from the primitive accumulation of capital to capitalism, consumerism and consumption alienation, from the 15th to the 21st century."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案反思資本主義消費的狂熱，將其想像為一座價值垂直裂變的樂園，以及一座媒體體驗館。2020 年新冠疫情爆發，促使人們重新思考當代的慾望，本案也藉此探問：我們能否從另一個角度重新審視這場狂歡。",
+              "captions": [
+                "理論研究：從資本原始積累到資本主義、消費主義與消費異化，橫跨 15 至 21 世紀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The design strategy traced three consumer phases, original consumption, symbolic consumption and simulacrum consumption, and matched them to the heaven, the world and the inferno. Each phase was translated into spatial types such as a garden arcade, a market public space, a central church space, an inverted cone platform and an endless contradictory ladder.",
+          "images": [
+            "assets/board/consumption-binge-vertical-carnival/03-type-by-morphology.webp",
+            "assets/board/consumption-binge-vertical-carnival/04-base-form.webp"
+          ],
+          "captions": [
+            "Types by morphology for each consumer phase.",
+            "Base forms of the three levels developed from the types."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "設計策略梳理出三個消費階段：原始消費、符號消費與擬像消費，並分別對應天堂、人間與地獄。每個階段再轉譯為空間類型，例如花園拱廊、市集公共空間、中央教堂空間、倒錐平台，以及無盡矛盾的階梯。",
+              "captions": [
+                "依消費階段歸納的形態類型。",
+                "由這些類型發展出的三層基本形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The base forms were stacked vertically into one tower above an underground space, with the structural system and atrium arranged to support the climb. Separate routes were planned for participants and bystanders, so that some people move through the carnival while others watch it.",
+          "images": [
+            "assets/board/consumption-binge-vertical-carnival/05-tower-section.webp",
+            "assets/board/consumption-binge-vertical-carnival/06-architectural-composition.webp"
+          ],
+          "captions": [
+            "Experience tower section view.",
+            "Architectural composition: structural system, atrium structure, participant route and bystander route."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三層基本形體垂直疊合成一座塔，下方連接地下空間，並安排結構系統與中庭支撐向上的動線。參與者與旁觀者各有不同的路線，讓一部分人穿行於狂歡之中，另一部分人則在旁觀看。",
+              "captions": [
+                "體驗塔剖面。",
+                "建築構成：結構系統、中庭結構、參與者動線與旁觀者動線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Participants follow a sequence of devices, from the tower of the world with an atrium more than 50 meters high to the ring coil, the world loop of advertising screens, brainwashing rings, electric shock strings, a sky elevator and endless stairs. The urban device turns the absurdity of endless desire into a spatial experience that invites visitors to reflect on it.",
+          "images": [
+            "assets/board/consumption-binge-vertical-carnival/07-space-installation.webp"
+          ],
+          "captions": [
+            "Space installation: the participants' tour sequence through the operative devices."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "參與者依序經過一系列裝置：從中庭高逾 50 公尺的「世界之塔」，到環形線圈、布滿廣告螢幕的「世界迴圈」、洗腦環、電擊弦、天空電梯，以及無盡的階梯。這座城市裝置把無止境慾望的荒謬轉化為空間體驗，邀請觀者重新反思。",
+              "captions": [
+                "空間裝置：參與者穿越各個操作裝置的遊覽順序。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Build a theory diagram before drawing space.\n2. Map each idea to a spatial type.\n3. Stack the types into one clear section.\n4. Design separate routes for actors and viewers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 在畫空間之前，先建立理論圖解。\n2. 把每個概念對應到一種空間類型。\n3. 將這些類型疊合成一張清楚的剖面。\n4. 為參與者與觀看者分別設計路線。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Home in the Tongsui Store",
+      "slug": "home-in-the-tongsui-store",
+      "description": "A Guangzhou bamboo tube house renovated into a home above a tongsui dessert shop, linked by a red stair.\n\nGuangzhou, China | Heritage reuse and housing | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "糖水鋪裡的家",
+          "description": "將廣州竹筒屋改造為樓下糖水鋪、樓上住家的空間，以一道紅色樓梯串連。\n\n中國廣州｜舊建築再利用與住宅｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/home-in-the-tongsui-store/01-building-section-model.webp",
+        "assets/board/home-in-the-tongsui-store/02-bamboo-tube-house.webp",
+        "assets/board/home-in-the-tongsui-store/03-existing-building-profile.webp",
+        "assets/board/home-in-the-tongsui-store/04-design-strategy.webp",
+        "assets/board/home-in-the-tongsui-store/05-physical-model.webp",
+        "assets/board/home-in-the-tongsui-store/06-node-details.webp",
+        "assets/board/home-in-the-tongsui-store/07-water-bar.webp",
+        "assets/board/home-in-the-tongsui-store/08-patio-platform.webp",
+        "assets/board/home-in-the-tongsui-store/09-workshop-gazebo.webp",
+        "assets/board/home-in-the-tongsui-store/10-architectural-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/home-in-the-tongsui-store/01-building-section-model.webp"
+          ],
+          "captions": [
+            "Building section model of the renovated bamboo house with its red stair."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "改造後竹筒屋的剖面模型與紅色樓梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is an old bamboo tube house on an arcade commercial street in Guangzhou, a dangerous residential building that has become isolated and out of place. Interviews and a site survey with the homeowner showed narrow, unreasonable divisions of space, weak daylight, a lack of infrastructure and stairs too steep for the elderly.",
+          "images": [
+            "assets/board/home-in-the-tongsui-store/03-existing-building-profile.webp"
+          ],
+          "captions": [
+            "General problem: the existing building profile and its divisions of space, daylight, infrastructure and stairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地是廣州一條騎樓商業街上的老竹筒屋，這棟危樓如今顯得孤立且格格不入。透過與屋主的訪談與現場調查，發現空間分隔狹窄且不合理、採光不足、基礎設施缺乏，樓梯也陡得讓長者難以行走。",
+              "captions": [
+                "主要問題：既有建築剖面，以及空間分隔、採光、基礎設施與樓梯的狀況。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Bamboo tube houses are long, narrow and deep, a characteristic Lingnan residence with a bay, a patio and a lane that bring in light and air. The study traced how the house grew through horizontal and vertical additions and partial demolition, and how a business and residence model could keep it alive.",
+          "images": [
+            "assets/board/home-in-the-tongsui-store/02-bamboo-tube-house.webp"
+          ],
+          "captions": [
+            "Traditional bamboo tube house in its most original type, with bay, patio and lane."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "竹筒屋是嶺南特色民居，面寬窄、進深長，透過開間、天井與巷道引入光線與空氣。研究梳理了房屋如何經由水平與垂直加建及局部拆除逐步演變，以及「前店後居」的模式如何讓它延續生命。",
+              "captions": [
+                "最原始類型的傳統竹筒屋，包含開間、天井與巷道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The design works across three times, the survival of the past, the growth of the present and the rebirth of the future, and keeps traces of the old house while adding new parts. A red stair, coloured after brown sugar used in tongsui desserts, winds through the floors to link the public dessert shop below with the family's private rooms above.",
+          "images": [
+            "assets/board/home-in-the-tongsui-store/04-design-strategy.webp",
+            "assets/board/home-in-the-tongsui-store/05-physical-model.webp",
+            "assets/board/home-in-the-tongsui-store/06-node-details.webp"
+          ],
+          "captions": [
+            "Design strategy: subsistence, growth and renascence, with the steps of space generation.",
+            "Design performance: the physical model with public and private areas.",
+            "Sloping roof node details."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計以三個時間面向展開：過去的存續、現在的生長與未來的重生，在加入新構件的同時保留老屋的痕跡。一道紅色樓梯取色自糖水甜品所用的紅糖，蜿蜒穿過各層，連結樓下對外的糖水鋪與樓上家人的私密空間。",
+              "captions": [
+                "設計策略：存續、生長與重生，以及空間生成的步驟。",
+                "設計表現：實體模型中的公共與私密區域。",
+                "坡屋頂節點細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The public area gains a water bar, a patio platform that collects rainwater for a tree, and a workshop and gazebo whose flexible modules switch between work, exhibition and rest. Brick walls with varied openness form a new epidermis, so the house becomes both a home for the elderly owners and a place that shares the local tongsui culture.",
+          "images": [
+            "assets/board/home-in-the-tongsui-store/07-water-bar.webp",
+            "assets/board/home-in-the-tongsui-store/08-patio-platform.webp",
+            "assets/board/home-in-the-tongsui-store/09-workshop-gazebo.webp",
+            "assets/board/home-in-the-tongsui-store/10-architectural-section.webp"
+          ],
+          "captions": [
+            "Water bar with its size and views.",
+            "Patio platform: a patio that collects water, the red stair and the new rooftop.",
+            "Workshop and gazebo with free organized workshop modes.",
+            "Architectural section and the idea of a brick epidermis."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "公共區域新增了水吧、一處收集雨水澆灌樹木的天井平台，以及可在工作、展覽與休息之間切換的彈性模組工作坊與涼亭。開放程度不一的磚牆形成新的表皮，讓這棟房子既是年長屋主的家，也是分享在地糖水文化的場所。",
+              "captions": [
+                "水吧的尺寸與視圖。",
+                "天井平台：可集水的天井、紅色樓梯與新屋頂。",
+                "工作坊與涼亭，以及自由組織的工作坊模式。",
+                "建築剖面與磚砌表皮的構想。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Interview the people who live there.\n2. Trace how the building type grew.\n3. Plan for past, present and future.\n4. Let one local story set the colour.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 訪談真正住在那裡的人。\n2. 追溯建築類型的演變。\n3. 同時規劃過去、現在與未來。\n4. 讓一個在地故事決定色彩。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Birth of a Bowl of Xi’an Pasta",
+      "slug": "birth-of-a-bowl-of-xian-pasta",
+      "description": "A themed noodle pavilion where visitors follow wheat to bowl and make Shaanxi pasta with their own hands.\n\nXi’an, China | Commercial space and exhibition design | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "一碗西安麵的誕生",
+          "description": "以麵食為主題的體驗館，讓參觀者從小麥走到一碗麵，親手做出陝西麵食。\n\n中國西安｜商業空間與展覽設計｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/birth-of-a-bowl-of-xian-pasta/01-broadcast-box-detail.webp",
+        "assets/board/birth-of-a-bowl-of-xian-pasta/02-design-idea.webp",
+        "assets/board/birth-of-a-bowl-of-xian-pasta/03-consumer-analysis.webp",
+        "assets/board/birth-of-a-bowl-of-xian-pasta/04-spatial-development.webp",
+        "assets/board/birth-of-a-bowl-of-xian-pasta/05-operation-table-design.webp",
+        "assets/board/birth-of-a-bowl-of-xian-pasta/06-experience-processes.webp",
+        "assets/board/birth-of-a-bowl-of-xian-pasta/07-operating-ways.webp",
+        "assets/board/birth-of-a-bowl-of-xian-pasta/08-display-openings.webp",
+        "assets/board/birth-of-a-bowl-of-xian-pasta/09-raw-material-wall.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/birth-of-a-bowl-of-xian-pasta/01-broadcast-box-detail.webp"
+          ],
+          "captions": [
+            "Broadcast box: equipment room, live room and seats, finished in red brick, acoustic board and wood."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "直播盒：設備間、直播室與座席，以紅磚、吸音板與木材收尾。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A Xi'an restaurant brand with a history of nearly one hundred years faces a changing market and needs to be rebuilt, while the pasta culture of Shaanxi cuisine behind it is fading and many young people no longer know it. People now expect consumer places that are not only for eating but also fun and interesting.",
+          "images": [
+            "assets/board/birth-of-a-bowl-of-xian-pasta/03-consumer-analysis.webp"
+          ],
+          "captions": [
+            "Consumer analysis of children, youth, the middle-aged and the elderly, with their keywords, consuming ability and ways of participating."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一家擁有近百年歷史的西安餐飲品牌面臨市場變化，需要重新打造；而它背後的陝西麵食文化正逐漸淡出視野，許多年輕人已不再了解。如今人們期待的消費場所，不只是用餐，也要有趣、好玩。",
+              "captions": [
+                "針對兒童、青年、中年與長者的消費者分析，包括關鍵字、消費能力與參與方式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project combines the prototypes of a museum, a restaurant, a workshop and a retail store into one themed scene. It responds to demand, to the site and to the future, so the space becomes a transmitter of information, a platform for hands-on experience and a place that brings people together.",
+          "images": [
+            "assets/board/birth-of-a-bowl-of-xian-pasta/02-design-idea.webp"
+          ],
+          "captions": [
+            "Design idea: space prototypes for exhibiting, eating, making and shopping, developed in response to demand, the site and the future."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案將博物館、餐廳、工作坊與零售店的空間原型結合為一個主題場景。設計回應需求、基地與未來，讓空間成為資訊的傳遞者、親手體驗的平台，以及凝聚人群的場所。",
+              "captions": [
+                "設計構想：展示、用餐、製作與購物的空間原型，回應需求、基地與未來而發展。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The plan starts from the symmetrical layout of the historic city, places the main functions for operation and dining, then adds auxiliary functions, exhibition items and the final partition. Visitors follow the journey from wheat, grain and flour to paste, raw noodles, boiled noodles and the finished bowl.",
+          "images": [
+            "assets/board/birth-of-a-bowl-of-xian-pasta/04-spatial-development.webp",
+            "assets/board/birth-of-a-bowl-of-xian-pasta/05-operation-table-design.webp"
+          ],
+          "captions": [
+            "Spatial development from historical context to the basic plane partition.",
+            "How to participate in the preparation workshop and the detail design of the operation table."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "平面從古城的對稱格局出發，先配置操作與用餐的主要機能，再加入輔助機能、展示項目，最後完成空間分區。參觀者沿著從小麥、穀粒、麵粉到麵團、生麵、煮麵，直到完成一碗麵的旅程前進。",
+              "captions": [
+                "從歷史脈絡到基本平面分區的空間推演。",
+                "如何參與製麵工作坊，以及操作台的細部設計。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the family workshop visitors select raw materials, mill flour, knead dough and cook their own noodles, while masters perform the eight dishes of Shaanxi cuisine and teach one on one. Display walls of grain, motion-sensitive cabinets and a broadcast box for live streaming turn the dining space into a social place and a transmitter of culture.",
+          "images": [
+            "assets/board/birth-of-a-bowl-of-xian-pasta/06-experience-processes.webp",
+            "assets/board/birth-of-a-bowl-of-xian-pasta/07-operating-ways.webp",
+            "assets/board/birth-of-a-bowl-of-xian-pasta/08-display-openings.webp",
+            "assets/board/birth-of-a-bowl-of-xian-pasta/09-raw-material-wall.webp"
+          ],
+          "captions": [
+            "Experience processes from raw material selection to the chef foundry area.",
+            "Operating ways: master operation area and apprenticeship practice area.",
+            "Cultural cabinet with motion-sensitive and manual openings at three heights.",
+            "Raw material display wall and grain fiber wall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在家庭工作坊中，參觀者挑選原料、磨粉、揉麵並親手煮麵，師傅則現場展演陝西八大碗，並一對一教學。穀物展示牆、感應式展櫃與直播盒，讓用餐空間轉變為社交場所與文化的傳播者。",
+              "captions": [
+                "從挑選原料到主廚工坊區的體驗流程。",
+                "操作方式：師傅操作區與學徒練習區。",
+                "文化展櫃，設有感應式與手動開啟的三種高度。",
+                "原料展示牆與穀物纖維牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Follow the product from raw material to table.\n2. Mix programs that rarely meet.\n3. Let visitors make, not only watch.\n4. Size every display to the body.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 跟著產品從原料一路走到餐桌。\n2. 混合平常很少相遇的機能。\n3. 讓參觀者動手做，而不只是觀看。\n4. 依人體尺度設計每一處展示。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
