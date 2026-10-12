@@ -1,0 +1,67 @@
+{
+  "project": "Modern Garden Architecture",
+  "dest": "assets/board/modern-garden-architecture-suzhou",
+  "note": "Portfolio 494d pages 3, 5–8 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the aerial photo, the site map and photo circles, the garden photo collages and case photos, the street renders with figures, and the body text.",
+  "files": [
+    {
+      "name": "01-front-section.webp",
+      "sha256": "a5cc5e257e7fe51a18dd9b69b1e762d8fba7853e3c9474af0ca674a3c51cbf49",
+      "bytes": 320356,
+      "from": "494d page 6 — long section through the complex, x 50.5–100 %, y 0–70 %"
+    },
+    {
+      "name": "02-functional-principle-sketches.webp",
+      "sha256": "f3375ff54ecef6e91595fbf311ac2ee7b8c7d83205451d28819ef34e1d654866",
+      "bytes": 366546,
+      "from": "page 5 — hand sketches of the functional principle, x 0–23.5 %, y 0–100 %"
+    },
+    {
+      "name": "03-courtyard-decomposition.webp",
+      "sha256": "5f33acd149d4c762965f395683967566f8b9c179441b50efa09080f1576e8377",
+      "bytes": 536170,
+      "from": "page 5 — hand sketches of courtyard decomposition, x 50–80 %, y 0–100 %"
+    },
+    {
+      "name": "04-single-building-forms.webp",
+      "sha256": "c027d212ca885a5995ac2b0d303e45ae48c7fc63b5f63e768b52bdcfde088994",
+      "bytes": 132342,
+      "from": "page 6 — single building form diagrams, x 30–50 %, y 0–56 %"
+    },
+    {
+      "name": "05-garden-complex-elevation.webp",
+      "sha256": "96a738e82381523bc84bcfbd66e56117da3912b05bf8568a51df764c23e59205",
+      "bytes": 196470,
+      "from": "page 3 — line elevation of the complex, x 30–100 %, y 12–88 %"
+    },
+    {
+      "name": "06-entrance-sections.webp",
+      "sha256": "55ad12fa9df5b1d7dcbf812ee277b1692b6571fac9f95d9923a790f4e168c739",
+      "bytes": 148702,
+      "from": "page 6 — sections at the four entrances, x 50.5–100 %, y 72–100 %"
+    },
+    {
+      "name": "07-exploded-axonometric.webp",
+      "sha256": "9ab7d9c4765b256df7d2417672d1219ac530a0cd6382e92e95ccfca8b6d72da8",
+      "bytes": 330496,
+      "from": "page 7 — exploded axonometric of spaces and roofs, x 0–34.5 %, y 0–100 %"
+    },
+    {
+      "name": "08-roof-and-courtyard-studies.webp",
+      "sha256": "5780538f2e6ee35c8515069fccf388753d9f72fa77cdc40a448787f38bfeb66a",
+      "bytes": 213138,
+      "from": "page 7 — roof structure and atrium studies, x 80–100 %, y 0–100 %"
+    },
+    {
+      "name": "09-garden-and-city-section.webp",
+      "sha256": "8b6f682584141e8fd6c462c095de90925a49a9488d7c8c62f46ef5ffa970661b",
+      "bytes": 340534,
+      "from": "page 8 — section of the complex against the city, x 0–58 %, y 0–100 %"
+    },
+    {
+      "name": "10-maker-space-profile.webp",
+      "sha256": "3020f3834909fbc5e45f53d9d7a3e3837599456e38c1eb34f2cf9fa0ef8098a0",
+      "bytes": 634204,
+      "from": "page 8 — sectional perspective of the maker space, x 58.5–100 %, y 0–100 %"
+    }
+  ]
+}
