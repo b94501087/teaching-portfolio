@@ -41944,6 +41944,1210 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "The Fusion Cafe",
+      "slug": "the-fusion-cafe-composite-coffee-shop-model",
+      "description": "Favourite details from many neighbourhood coffee shops are combined into one composite cafe model.\n\nModel making | Interior design | Composite cafe | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "融合咖啡館",
+          "description": "把社區裡多間咖啡店最喜愛的細節，組合成一座複合式咖啡館模型。\n\n模型製作｜室內設計｜複合式咖啡館｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/the-fusion-cafe-composite-coffee-shop-model/01-cafe-model.webp",
+        "assets/board/the-fusion-cafe-composite-coffee-shop-model/02-cafe-ink-drawing.webp",
+        "assets/board/the-fusion-cafe-composite-coffee-shop-model/03-material-sketches.webp",
+        "assets/board/the-fusion-cafe-composite-coffee-shop-model/04-interior-model-views.webp",
+        "assets/board/the-fusion-cafe-composite-coffee-shop-model/05-terrace-and-facade-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/the-fusion-cafe-composite-coffee-shop-model/01-cafe-model.webp"
+          ],
+          "captions": [
+            "The finished composite cafe model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的複合式咖啡館模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student visited many coffee shops in the community, from cafes in office towers to an old house in the old town, and found that each had its own charm. The project asks how favourite elements from different cafes can be combined into one place for both rest and work.",
+          "images": [
+            "assets/board/the-fusion-cafe-composite-coffee-shop-model/02-cafe-ink-drawing.webp"
+          ],
+          "captions": [
+            "Ink and watercolour drawing of a cafe interior."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生走訪社區中許多咖啡店，從辦公大樓裡的咖啡館到老城區的老屋，發現每一間都有自己的魅力。作品探問，如何把不同咖啡館中喜愛的元素，組合成一個兼顧休息與工作的空間。",
+              "captions": [
+                "咖啡館室內的鋼筆淡彩圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Favourite elements such as bold greens, spacious tables, comfortable chairs and bright lighting were recorded in watercolour. Patterns, brick, tiles and chair forms were collected as a small library of details.",
+          "images": [
+            "assets/board/the-fusion-cafe-composite-coffee-shop-model/03-material-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of plants, tiles, brick, chairs and furniture."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "鮮明的綠色、寬敞的桌子、舒適的椅子與明亮的燈光等喜愛元素，都以水彩記錄下來。花紋、磚牆、磁磚與椅子造型被整理成一個細節資料庫。",
+              "captions": [
+                "植物、磁磚、磚牆、椅子與家具的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The composite cafe was modelled digitally, then scaled and translated into PVC components. The parts were finished with wallpaper and paint and assembled with furniture, glass, plants and an acrylic block mosaic.",
+          "images": [
+            "assets/board/the-fusion-cafe-composite-coffee-shop-model/04-interior-model-views.webp"
+          ],
+          "captions": [
+            "Interior views of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "複合式咖啡館先以數位模型建構，再依比例轉譯為PVC構件。構件貼上壁紙、上漆，並組裝家具、玻璃、植物與壓克力方塊馬賽克。",
+              "captions": [
+                "模型室內視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model joins a dark green cafe front, a tiled wall, a timber terrace and an open stair into one building. Seating, lighting and planting are arranged so visitors can both relax and work.",
+          "images": [
+            "assets/board/the-fusion-cafe-composite-coffee-shop-model/05-terrace-and-facade-views.webp"
+          ],
+          "captions": [
+            "Terrace and tiled facade of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型把深綠色的店面、磁磚牆、木露台與開放樓梯結合成一棟建築。座位、燈光與植栽的安排，讓來客既能放鬆也能工作。",
+              "captions": [
+                "模型的露台與磁磚立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Visit real places.\n2. Record what you love.\n3. Combine the elements.\n4. Build it as a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 走訪真實場所。\n2. 記錄喜愛的元素。\n3. 組合這些元素。\n4. 做成模型。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Living and Farming",
+      "slug": "living-and-farming-vertical-garden-complex",
+      "description": "A stacked complex where purifying, farming and living share one green tower.\n\nModel making | Vertical farming | Mixed-media complex | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "生活與耕種",
+          "description": "一座把淨化、耕種與居住疊在同一座綠色塔中的複合建築。\n\n模型製作｜垂直農耕｜複合材料建築｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/living-and-farming-vertical-garden-complex/01-farming-complex-model.webp",
+        "assets/board/living-and-farming-vertical-garden-complex/02-living-planting-purifying-diagram.webp",
+        "assets/board/living-and-farming-vertical-garden-complex/03-model-sketch.webp",
+        "assets/board/living-and-farming-vertical-garden-complex/04-model-details.webp",
+        "assets/board/living-and-farming-vertical-garden-complex/05-model-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/living-and-farming-vertical-garden-complex/01-farming-complex-model.webp"
+          ],
+          "captions": [
+            "The finished living and farming complex."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的生活與耕種複合建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A classic study of rural society describes the deep attachment of Chinese people to the land. Many families still tend plants on balconies and rooftop gardens, so the project asks how farming and daily life can share one building.",
+          "images": [
+            "assets/board/living-and-farming-vertical-garden-complex/02-living-planting-purifying-diagram.webp"
+          ],
+          "captions": [
+            "Diagrams of plant, soil and roots, and the three layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部探討鄉土社會的經典著作，描述了華人與土地之間深厚的連結。許多家庭至今仍在陽台與屋頂花園種植，因此作品探問，耕種與日常生活如何共享一棟建築。",
+              "captions": [
+                "植物、土壤與根系，以及三個層次的圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Plant structure, soil and roots were studied in diagrams. The building was then organised in three parts from bottom to top: purifying, farming and living.",
+          "images": [
+            "assets/board/living-and-farming-vertical-garden-complex/03-model-sketch.webp"
+          ],
+          "captions": [
+            "Pencil sketch of the stacked model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以圖解研究植物構造、土壤與根系。建築由下而上分為三個部分：淨化、耕種與居住。",
+              "captions": [
+                "堆疊模型的鉛筆素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "White living boxes were tested above timber planting decks. Sticks, fabric, clay, straw, yarn and acrylic were combined for structure, shade and water.",
+          "images": [
+            "assets/board/living-and-farming-vertical-garden-complex/04-model-details.webp"
+          ],
+          "captions": [
+            "Details of homes and planting decks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "白色的居住量體被安排在木構種植平台之上反覆測試。木棒、布料、黏土、吸管、毛線與壓克力被組合成結構、遮陽與水路。",
+              "captions": [
+                "住居與種植平台的細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model stacks a purifying base, planted terraces and white homes into one tower. Greenery spills over every level, making farming part of everyday life.",
+          "images": [
+            "assets/board/living-and-farming-vertical-garden-complex/05-model-views.webp"
+          ],
+          "captions": [
+            "Three views of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型把淨化基座、種植平台與白色住居堆疊成一座塔。綠意溢出每一層，讓耕種成為日常生活的一部分。",
+              "captions": [
+                "模型的三個視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a value.\n2. Find it in daily life.\n3. Stack the functions.\n4. Test them in a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個價值出發。\n2. 在日常生活中找到它。\n3. 把機能堆疊起來。\n4. 用模型測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "A Plant Stand That Breathes",
+      "slug": "plant-stand-that-breathes-coconut-fibre-concrete",
+      "description": "Coconut fibre from food waste strengthens cement pots for a plant stand that breathes.\n\nMaterial research | Product design | Bio-based concrete | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "會呼吸的植物架",
+          "description": "以廚餘中的椰子纖維強化水泥花盆，做成一座會呼吸的植物架。\n\n材料研究｜產品設計｜生質混凝土｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/01-plant-stand-in-light.webp",
+        "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/02-coconut-to-fibre-process.webp",
+        "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/03-material-test-discs.webp",
+        "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/04-fibre-concrete-pots.webp",
+        "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/05-hanging-pot.webp",
+        "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/06-air-plant-pots.webp",
+        "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/07-plant-stand-daylight.webp",
+        "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/08-stand-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/01-plant-stand-in-light.webp"
+          ],
+          "captions": [
+            "The finished plant stand."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的植物架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Flower pots made of coconut fibre at home led the student to experiment with food waste. The aim was a breathing plant stand that can really be used to grow plants.",
+          "images": [
+            "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/02-coconut-to-fibre-process.webp"
+          ],
+          "captions": [
+            "From fresh coconut to chunks, fibre, fertiliser and powder."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "家中的椰纖花盆，啟發學生以廚餘進行實驗。目標是做出一座真的能種植物、會呼吸的植物架。",
+              "captions": [
+                "從新鮮椰子到碎塊、纖維、肥料與粉末。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Coconut was chopped, shredded into fibre, fermented into fertiliser and ground into powder. Shrimp shells, eggshells and other wastes were mixed with concrete in different amounts and compared.",
+          "images": [
+            "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/03-material-test-discs.webp"
+          ],
+          "captions": [
+            "Test discs of concrete mixed with different food wastes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "椰子被切塊、撕成纖維、發酵成肥料，並磨成粉末。蝦殼、蛋殼等廚餘以不同比例混入混凝土並加以比較。",
+              "captions": [
+                "混入不同廚餘的混凝土試片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Coconut fibre was chosen because it bridges micro-cracks in cement while its porous fibres carry water and air. Pots were cast and planted to test drainage, moisture and root health.",
+          "images": [
+            "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/04-fibre-concrete-pots.webp",
+            "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/05-hanging-pot.webp",
+            "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/06-air-plant-pots.webp"
+          ],
+          "captions": [
+            "Planted fibre-concrete pots.",
+            "A hanging pot in rope netting.",
+            "Small pots for air plants."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "選擇椰纖，是因為它能橋接水泥中的微裂縫，多孔的纖維又能輸送水分與空氣。學生灌製花盆並種上植物，測試排水、保濕與根系健康。",
+              "captions": [
+                "種上植物的纖維混凝土花盆。",
+                "以繩網懸吊的花盆。",
+                "放置空氣鳳梨的小花盆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The stand combines timber shelves, branches and fibre-concrete pots, including a hanging pot. Leftover coconut shells can also be processed into nutrient-rich soil.",
+          "images": [
+            "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/07-plant-stand-daylight.webp",
+            "assets/board/plant-stand-that-breathes-coconut-fibre-concrete/08-stand-details.webp"
+          ],
+          "captions": [
+            "The stand in daylight.",
+            "Details of shelves and disc pots."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "植物架結合木層架、樹枝與纖維混凝土花盆，還有一只懸吊花盆。剩下的椰殼也能再處理成養分豐富的土壤。",
+              "captions": [
+                "日光下的植物架。",
+                "層架與圓形花盆的細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Notice a waste.\n2. Test it as a material.\n3. Compare the results.\n4. Make a useful object.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 留意一種廢料。\n2. 把它當材料測試。\n3. 比較結果。\n4. 做成實用的物件。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Cinderella",
+      "slug": "cinderella-glowing-paper-and-resin-tower",
+      "description": "A favourite fairy-tale film becomes a tower that grows from paper arches into glowing blue petals.\n\nModel making | Film-inspired narrative | Mixed-media tower | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "灰姑娘",
+          "description": "一部喜愛的童話電影，化為一座從紙拱長成發光藍色花瓣的塔。\n\n模型製作｜電影敘事｜複合材料塔｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cinderella-glowing-paper-and-resin-tower/01-tower-model.webp",
+        "assets/board/cinderella-glowing-paper-and-resin-tower/02-concept-sketch.webp",
+        "assets/board/cinderella-glowing-paper-and-resin-tower/03-making-process.webp",
+        "assets/board/cinderella-glowing-paper-and-resin-tower/04-tower-top.webp",
+        "assets/board/cinderella-glowing-paper-and-resin-tower/05-tower-base.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cinderella-glowing-paper-and-resin-tower/01-tower-model.webp"
+          ],
+          "captions": [
+            "The finished tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student's favourite film is a live-action version of a classic fairy tale, with harmonious colours and pastoral, intricate details. The project asks how the heroine's growth, gentle yet resilient, can become a physical model.",
+          "images": [
+            "assets/board/cinderella-glowing-paper-and-resin-tower/02-concept-sketch.webp"
+          ],
+          "captions": [
+            "Annotated concept sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生最喜愛的電影是一部經典童話的真人版，色彩和諧，田園氣息與精緻細節兼具。作品探問，女主角溫柔而堅韌的成長歷程，如何化為實體模型。",
+              "captions": [
+                "附註解的概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each stage of the story was mapped onto a part of a tower, from a closed white base to an open, blooming top. The signature blue, natural greenery and glowing details became the palette.",
+          "images": [
+            "assets/board/cinderella-glowing-paper-and-resin-tower/03-making-process.webp"
+          ],
+          "captions": [
+            "Shaping plastic, cutting card and testing colour."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "故事的每個階段被對應到塔的不同部位，從封閉的白色基座到綻放的頂端。招牌藍色、自然綠意與發光細節構成材料色盤。",
+              "captions": [
+                "塑形塑膠片、切割卡紙與測試色彩。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Card arcades, bamboo weaving, organza, resin and heat-shaped plastic were tested layer by layer. An LED strip and UV light make the transparent pieces glow.",
+          "images": [
+            "assets/board/cinderella-glowing-paper-and-resin-tower/04-tower-top.webp"
+          ],
+          "captions": [
+            "The blue petals and the paper arcade."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "卡紙拱廊、竹編、歐根紗、樹脂與熱塑塑膠被逐層測試。LED燈條與紫外光讓透明構件發光。",
+              "captions": [
+                "藍色花瓣與紙拱廊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The tower rises from paper arches into swirling blue petals, a bamboo ribbon and branches. Each layer stands for one stage of growth.",
+          "images": [
+            "assets/board/cinderella-glowing-paper-and-resin-tower/05-tower-base.webp"
+          ],
+          "captions": [
+            "Branches and petals over the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "塔從紙拱升起，轉為旋繞的藍色花瓣、竹帶與枝葉。每一層代表成長的一個階段。",
+              "captions": [
+                "基座上方的枝葉與花瓣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a story you love.\n2. Map its stages.\n3. Give each stage a material.\n4. Stack them in one form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個喜愛的故事。\n2. 拆出它的階段。\n3. 為每個階段配置材料。\n4. 堆疊成一個形體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Spinning Motion",
+      "slug": "spinning-motion-stick-and-paper-wearable-model",
+      "description": "A paper volume and a personal spinning gesture merge into a wearable model of sticks and paper.\n\nModel making | Motion study | Stick and paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "旋轉的動作",
+          "description": "紙量體與個人旋轉的動作結合，成為以木棒與紙製作的可穿戴模型。\n\n模型製作｜動作研究｜木棒與紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/spinning-motion-stick-and-paper-wearable-model/01-wearable-stick-model.webp",
+        "assets/board/spinning-motion-stick-and-paper-wearable-model/02-paper-volume-model.webp",
+        "assets/board/spinning-motion-stick-and-paper-wearable-model/03-volume-render.webp",
+        "assets/board/spinning-motion-stick-and-paper-wearable-model/04-render-studies.webp",
+        "assets/board/spinning-motion-stick-and-paper-wearable-model/05-stick-frame-in-progress.webp",
+        "assets/board/spinning-motion-stick-and-paper-wearable-model/06-motion-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/spinning-motion-stick-and-paper-wearable-model/01-wearable-stick-model.webp"
+          ],
+          "captions": [
+            "The wearable stick-and-paper model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "木棒與紙的可穿戴模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project starts from a three-dimensional paper model built from a painting. The student asks how that volume can be joined with a personal movement, spinning with arms outstretched.",
+          "images": [
+            "assets/board/spinning-motion-stick-and-paper-wearable-model/02-paper-volume-model.webp"
+          ],
+          "captions": [
+            "The paper volume model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品從一件依據畫作製作的立體紙模型出發。學生探問，這個量體如何與張開雙臂旋轉的個人動作結合。",
+              "captions": [
+                "紙量體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The paper volume was photographed and rendered to read its rhythm of ribs and curves. Digital studies looked at it from several angles.",
+          "images": [
+            "assets/board/spinning-motion-stick-and-paper-wearable-model/03-volume-render.webp",
+            "assets/board/spinning-motion-stick-and-paper-wearable-model/04-render-studies.webp"
+          ],
+          "captions": [
+            "Render of the volume.",
+            "Digital studies from several angles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生拍攝並渲染紙量體，閱讀肋片與曲線的節奏。數位研究從多個角度觀察它。",
+              "captions": [
+                "量體渲染圖。",
+                "多角度數位研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The spinning motion was captured and frozen in a large hatched drawing. Its form was then abstracted and rebuilt as a light frame of sticks.",
+          "images": [
+            "assets/board/spinning-motion-stick-and-paper-wearable-model/06-motion-drawing.webp"
+          ],
+          "captions": [
+            "Drawing of the frozen spinning motion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "旋轉的動作被捕捉並凝結在一張大幅排線手繪中。接著將其形體抽象化，重建為輕盈的木棒框架。",
+              "captions": [
+                "凝結旋轉動作的手繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A new wearable model was assembled piece by piece from wooden sticks and paper. The finished frame follows the sweeping path of the spin.",
+          "images": [
+            "assets/board/spinning-motion-stick-and-paper-wearable-model/05-stick-frame-in-progress.webp"
+          ],
+          "captions": [
+            "The stick frame in progress."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "學生以木棒與紙逐件組裝出新的可穿戴模型。完成的框架順著旋轉時掃過的軌跡延伸。",
+              "captions": [
+                "製作中的木棒框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a volume.\n2. Add a body movement.\n3. Freeze it in a drawing.\n4. Build it to be worn.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個量體出發。\n2. 加入身體動作。\n3. 以手繪凝結它。\n4. 做成可穿戴的模型。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "A Scaffold of Growth",
+      "slug": "scaffold-of-growth-cement-and-wire-tower",
+      "description": "A cement-and-wire viewing tower grows a ligament of clay and wire around its spiral stair.\n\nModel making | Bio-inspired structure | Cement and wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "生長的支架",
+          "description": "一座水泥與鐵絲的觀景塔，沿著螺旋梯長出黏土與鐵絲的韌帶。\n\n模型製作｜仿生結構｜水泥與鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/scaffold-of-growth-cement-and-wire-tower/01-viewing-tower-model.webp",
+        "assets/board/scaffold-of-growth-cement-and-wire-tower/02-knee-structure-drawings.webp",
+        "assets/board/scaffold-of-growth-cement-and-wire-tower/03-tower-concept-sketch.webp",
+        "assets/board/scaffold-of-growth-cement-and-wire-tower/04-joint-tests.webp",
+        "assets/board/scaffold-of-growth-cement-and-wire-tower/05-wire-ligament-test.webp",
+        "assets/board/scaffold-of-growth-cement-and-wire-tower/06-tower-top.webp",
+        "assets/board/scaffold-of-growth-cement-and-wire-tower/07-stair-and-ligament-detail.webp",
+        "assets/board/scaffold-of-growth-cement-and-wire-tower/08-tower-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/scaffold-of-growth-cement-and-wire-tower/01-viewing-tower-model.webp"
+          ],
+          "captions": [
+            "The finished viewing tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的觀景塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The work is inspired by how a torn knee ligament can be rebuilt, with a braided graft fixed by absorbable pins becoming a new ligament. The project asks how this process of repair and growth can shape a structure.",
+          "images": [
+            "assets/board/scaffold-of-growth-cement-and-wire-tower/02-knee-structure-drawings.webp"
+          ],
+          "captions": [
+            "Drawings of knee structures."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品的靈感來自膝關節韌帶的重建：以編織的移植物搭配可吸收的固定釘，長成新的韌帶。作品探問，這種修復與生長的過程，如何塑造一個結構。",
+              "captions": [
+                "膝關節結構手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Knee structures were drawn with bones as support and muscles and ligaments as flexible protectors. Joint-like wire-and-cement pieces were then tested for strength and load-bearing.",
+          "images": [
+            "assets/board/scaffold-of-growth-cement-and-wire-tower/03-tower-concept-sketch.webp",
+            "assets/board/scaffold-of-growth-cement-and-wire-tower/04-joint-tests.webp"
+          ],
+          "captions": [
+            "Concept sketch of the tower.",
+            "Cement and wire joint tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生描繪膝關節結構，以骨骼為支撐，肌肉與韌帶為柔性的保護。接著測試類似關節的鐵絲與水泥構件的強度與承重。",
+              "captions": [
+                "觀景塔概念草圖。",
+                "水泥與鐵絲的關節測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Most joint tests succeeded, though one wood-like tensile form did not. Several moulds of the cement tower failed under their own weight before the structure was reinforced.",
+          "images": [
+            "assets/board/scaffold-of-growth-cement-and-wire-tower/05-wire-ligament-test.webp",
+            "assets/board/scaffold-of-growth-cement-and-wire-tower/06-tower-top.webp"
+          ],
+          "captions": [
+            "A wire ligament test.",
+            "The top of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "多數關節測試成功，只有一個仿木的張力形體失敗。水泥塔的數個模具在自重下失敗，之後才補強成功。",
+              "captions": [
+                "鐵絲韌帶測試。",
+                "塔頂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A clay-and-wire ligament grows along the tower and wraps its spiral stair. Intentional cracks in the cement express damage, repair and growth.",
+          "images": [
+            "assets/board/scaffold-of-growth-cement-and-wire-tower/07-stair-and-ligament-detail.webp",
+            "assets/board/scaffold-of-growth-cement-and-wire-tower/08-tower-view.webp"
+          ],
+          "captions": [
+            "Spiral stair inside the strands.",
+            "Another view of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "黏土與鐵絲的韌帶沿著塔身生長，包覆螺旋梯。水泥上刻意留下的裂痕，表達損傷、修復與生長。",
+              "captions": [
+                "包覆在纖維中的螺旋梯。",
+                "觀景塔另一視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a living system.\n2. Draw its parts.\n3. Test the joints.\n4. Grow it into a structure.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一個生命系統。\n2. 描繪它的組成。\n3. 測試接合。\n4. 讓它長成結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Oranges Pavilion",
+      "slug": "oranges-pavilion-bamboo-grove-shelter",
+      "description": "Mandarin pulp segments become the woven roofs of a bamboo pavilion in an orange grove.\n\nModel making | Pavilion | Bamboo strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "橘子涼亭",
+          "description": "橘子果肉的瓣形，化為果園中竹編涼亭的屋頂。\n\n模型製作｜涼亭｜竹條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/oranges-pavilion-bamboo-grove-shelter/01-pavilion-model.webp",
+        "assets/board/oranges-pavilion-bamboo-grove-shelter/02-fruit-cross-sections.webp",
+        "assets/board/oranges-pavilion-bamboo-grove-shelter/03-pulp-form-studies.webp",
+        "assets/board/oranges-pavilion-bamboo-grove-shelter/04-pavilion-in-grove-sketch.webp",
+        "assets/board/oranges-pavilion-bamboo-grove-shelter/05-model-views.webp",
+        "assets/board/oranges-pavilion-bamboo-grove-shelter/06-roof-and-deck-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/oranges-pavilion-bamboo-grove-shelter/01-pavilion-model.webp"
+          ],
+          "captions": [
+            "The finished pavilion model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的涼亭模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student studied the cross-sections of more than twenty fruits and chose the mandarin orange. The project explores how nature and architecture relate through a pavilion set inside an orange grove.",
+          "images": [
+            "assets/board/oranges-pavilion-bamboo-grove-shelter/02-fruit-cross-sections.webp"
+          ],
+          "captions": [
+            "Cross-sections of different fruits."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生研究了二十多種水果的剖面，最後選擇橘子。作品透過一座位於橘子園中的涼亭，探索自然與建築的關係。",
+              "captions": [
+                "各種水果的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The pulp segments were drawn and then shaped digitally. The forms were scattered on a grid to test spacing and rhythm.",
+          "images": [
+            "assets/board/oranges-pavilion-bamboo-grove-shelter/03-pulp-form-studies.webp"
+          ],
+          "captions": [
+            "Pulp segment forms on a grid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生描繪果肉瓣形，再以數位方式塑形。這些形體被散佈在網格上，測試間距與節奏。",
+              "captions": [
+                "網格上的果肉瓣形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The pulp forms were stretched into curved roofs over raised timber decks. A sketch placed the pavilion among the orange trees.",
+          "images": [
+            "assets/board/oranges-pavilion-bamboo-grove-shelter/04-pavilion-in-grove-sketch.webp",
+            "assets/board/oranges-pavilion-bamboo-grove-shelter/05-model-views.webp"
+          ],
+          "captions": [
+            "Sketch of the pavilion in the grove.",
+            "Two views of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "果肉形體被拉伸成架高木平台上方的曲面屋頂。一張草圖把涼亭放進橘子樹之間。",
+              "captions": [
+                "果園中的涼亭草圖。",
+                "模型的兩個視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The bamboo-strip model shows woven shells floating above a walkway. The organic shapes form a harmonious space that blends with the grove.",
+          "images": [
+            "assets/board/oranges-pavilion-bamboo-grove-shelter/06-roof-and-deck-details.webp"
+          ],
+          "captions": [
+            "Roof shells and deck details."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "竹條模型呈現漂浮在步道上方的編織殼體。有機的形體構成一個與果園融為一體的和諧空間。",
+              "captions": [
+                "屋頂殼體與平台細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect natural samples.\n2. Cut and compare them.\n3. Pick one form.\n4. Build it as a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集自然樣本。\n2. 切開並比較。\n3. 選定一個形體。\n4. 以模型建造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Redesigning a Civic Plaza",
+      "slug": "civic-plaza-redesign-san-francisco-digital-model",
+      "description": "Angled terraces, pools and planters reshape a downtown plaza for rest and market stalls.\n\nSan Francisco | Digital model | Public plaza | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "市民廣場再設計",
+          "description": "以傾斜平台、水池與植栽重塑市中心廣場，容納休憩與市集攤位。\n\n舊金山｜數位模型｜公共廣場｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/civic-plaza-redesign-san-francisco-digital-model/01-plaza-perspective.webp",
+        "assets/board/civic-plaza-redesign-san-francisco-digital-model/02-green-zone-diagram.webp",
+        "assets/board/civic-plaza-redesign-san-francisco-digital-model/03-route-diagram.webp",
+        "assets/board/civic-plaza-redesign-san-francisco-digital-model/04-plaza-plan-render.webp",
+        "assets/board/civic-plaza-redesign-san-francisco-digital-model/05-fountain-court-render.webp",
+        "assets/board/civic-plaza-redesign-san-francisco-digital-model/06-terrace-render.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/civic-plaza-redesign-san-francisco-digital-model/01-plaza-perspective.webp"
+          ],
+          "captions": [
+            "Perspective of the redesigned plaza."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "再設計後的廣場透視圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A high school design competition asked students to reimagine a downtown plaza in San Francisco. The plaza is surrounded by office buildings and hosts events such as free lessons and markets, so it needs places to rest and room for stalls.",
+          "images": [
+            "assets/board/civic-plaza-redesign-san-francisco-digital-model/02-green-zone-diagram.webp"
+          ],
+          "captions": [
+            "Diagram of green zones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一項高中設計競賽，邀請學生重新想像舊金山市中心的一座廣場。廣場被辦公大樓包圍，並舉辦免費課程與市集等活動，因此需要休憩空間與攤位位置。",
+              "captions": [
+                "綠地分區圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site was studied through maps, photos and the directions people walk. Diagrams marked green zones and the main routes across the plaza.",
+          "images": [
+            "assets/board/civic-plaza-redesign-san-francisco-digital-model/03-route-diagram.webp"
+          ],
+          "captions": [
+            "Diagram of walking routes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生透過地圖、照片與行人方向研究基地。圖解標示出綠地分區與穿越廣場的主要動線。",
+              "captions": [
+                "步行動線圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The design took cues from the plaza's fountain and was oriented along pedestrian movement. Faceted planters, pools and seats were modelled as one landscape.",
+          "images": [
+            "assets/board/civic-plaza-redesign-san-francisco-digital-model/04-plaza-plan-render.webp",
+            "assets/board/civic-plaza-redesign-san-francisco-digital-model/05-fountain-court-render.webp"
+          ],
+          "captions": [
+            "Aerial render of the plaza.",
+            "Pools and planters."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計從廣場的噴泉取得靈感，並順著行人移動的方向配置。多面體的植栽、水池與座椅被塑造成一整片地景。",
+              "captions": [
+                "廣場鳥瞰渲染圖。",
+                "水池與植栽。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The digital model shows angled terraces wrapping pools and green islands. People can rest along the edges while open ground stays free for stalls.",
+          "images": [
+            "assets/board/civic-plaza-redesign-san-francisco-digital-model/06-terrace-render.webp"
+          ],
+          "captions": [
+            "Terraces at one end."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "數位模型呈現傾斜平台環抱水池與綠島。人們可以在邊緣休憩，開放的地面則留給攤位使用。",
+              "captions": [
+                "一端的平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the brief.\n2. Watch how people move.\n3. Shape the ground.\n4. Leave room for events.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 閱讀題目。\n2. 觀察人的移動。\n3. 塑造地面。\n4. 為活動留出空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Garden of Eternity",
+      "slug": "garden-of-eternity-mourning-space-model",
+      "description": "A mourning space that treats death as a milestone, with flower tombstones, roots and light.\n\nModel making | Installation | Mourning space | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "永恆花園",
+          "description": "一個把死亡視為里程碑的追思空間，以花朵墓碑、根系與光影構成。\n\n模型製作｜裝置｜追思空間｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/garden-of-eternity-mourning-space-model/01-garden-model.webp",
+        "assets/board/garden-of-eternity-mourning-space-model/02-roof-frame-models.webp",
+        "assets/board/garden-of-eternity-mourning-space-model/03-flower-tombstones.webp",
+        "assets/board/garden-of-eternity-mourning-space-model/04-interior-figures.webp",
+        "assets/board/garden-of-eternity-mourning-space-model/05-root-and-stair-interior.webp",
+        "assets/board/garden-of-eternity-mourning-space-model/06-model-views.webp",
+        "assets/board/garden-of-eternity-mourning-space-model/07-hanging-bloom.webp",
+        "assets/board/garden-of-eternity-mourning-space-model/08-woven-canopy-detail.webp",
+        "assets/board/garden-of-eternity-mourning-space-model/09-cyanotype-installation.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/garden-of-eternity-mourning-space-model/01-garden-model.webp"
+          ],
+          "captions": [
+            "The finished garden model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的花園模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Cemeteries hold people's thoughts about eternity, and every farewell shows how fleeting life is. The project designs a mourning space that treats death as a milestone in a continuing journey rather than an end.",
+          "images": [
+            "assets/board/garden-of-eternity-mourning-space-model/02-roof-frame-models.webp"
+          ],
+          "captions": [
+            "Early frame and roof models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "墓園承載人們對永恆的思索，每一次告別都讓人感受生命的短暫。作品設計一個追思空間，把死亡視為持續旅程中的里程碑，而非終點。",
+              "captions": [
+                "初期的框架與屋頂模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Natural materials, light and shadow were chosen to show the cycle of life. Tombstones were made from flowers set in glue, to capture each bloom and pass hope to the next generation.",
+          "images": [
+            "assets/board/garden-of-eternity-mourning-space-model/03-flower-tombstones.webp"
+          ],
+          "captions": [
+            "Tombstones made of flowers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生選用自然材料與光影，表現生命的循環。墓碑以花朵封入膠中製成，留住盛放的瞬間，並把希望傳給下一代。",
+              "captions": [
+                "以花朵製作的墓碑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A grassy roof, a bamboo frame and twisting roots shelter small figures, coils and stairs inside. Model views test how light falls through the slatted walls.",
+          "images": [
+            "assets/board/garden-of-eternity-mourning-space-model/04-interior-figures.webp",
+            "assets/board/garden-of-eternity-mourning-space-model/05-root-and-stair-interior.webp",
+            "assets/board/garden-of-eternity-mourning-space-model/06-model-views.webp"
+          ],
+          "captions": [
+            "Figures among coils and stairs inside.",
+            "Roots and stairs in the interior.",
+            "Two views of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "草皮屋頂、竹構框架與蜿蜒的根系，庇護著室內的小人形、線圈與樓梯。模型視角測試光線如何穿過條狀牆面。",
+              "captions": [
+                "室內線圈與樓梯間的人形。",
+                "室內的根系與樓梯。",
+                "模型的兩個視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Two installations extend the garden: a rope bloom hung on a tree, and a corner of cyanotypes and netting about the threads that bind people together. Together they say that life continues in memory and that separation need not be feared.",
+          "images": [
+            "assets/board/garden-of-eternity-mourning-space-model/07-hanging-bloom.webp",
+            "assets/board/garden-of-eternity-mourning-space-model/08-woven-canopy-detail.webp",
+            "assets/board/garden-of-eternity-mourning-space-model/09-cyanotype-installation.webp"
+          ],
+          "captions": [
+            "A rope bloom hung on a tree.",
+            "Looking up into the rope canopy.",
+            "Cyanotypes and netting on a red corner."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "兩件裝置延伸了花園：一朵懸掛在樹上的繩結花，以及一個以藍曬與網講述人與人之間牽絆的牆角。它們共同訴說生命延續在記憶裡，分離不必畏懼。",
+              "captions": [
+                "懸掛在樹上的繩結花。",
+                "仰望繩結頂篷。",
+                "紅色牆角上的藍曬與網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Face a hard theme.\n2. Find a hopeful view.\n3. Choose living materials.\n4. Let light tell the story.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 面對一個沉重主題。\n2. 找到充滿希望的角度。\n3. 選擇有生命的材料。\n4. 讓光說故事。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
