@@ -1,0 +1,67 @@
+{
+  "project": "City of Masks",
+  "dest": "assets/board/city-of-masks-ritual-mask-pavilion-shenzhen",
+  "note": "Portfolio ca16 pages 13-14 cropped to ten images, WebP q88 (PIL). Not used: title and inspiration text, mask photos with deity name labels, city reference photos, model-making photos, two small model views.",
+  "files": [
+    {
+      "name": "01-mask-pavilion-model.webp",
+      "sha256": "74c5c951069d923ae441372a1286a8f3f337a8386c3018dc8dc3f39fd2e0e6a4",
+      "bytes": 57410,
+      "from": "ca16 page 14 — final pavilion model"
+    },
+    {
+      "name": "02-mask-line-extraction.webp",
+      "sha256": "7d126316c9ae8c219cdbb4ade425f9883f387a3b3d4acc313e51b230db591478",
+      "bytes": 14598,
+      "from": "ca16 page 13 — line drawings of four masks"
+    },
+    {
+      "name": "03-geometric-reduction-grid.webp",
+      "sha256": "29b59ff5ce5aef70eb1786a4dd87a12eecb4362a8a696575482728cf9b7c2400",
+      "bytes": 14838,
+      "from": "ca16 page 13 — geometric reduction and grid abstraction"
+    },
+    {
+      "name": "04-space-model-discipline.webp",
+      "sha256": "a05ebb7170488bfd0924f3dedfb76301e8e49d5022d99d1e27806cb4b08ab04d",
+      "bytes": 7994,
+      "from": "ca16 page 13 — spatial model: discipline and protection"
+    },
+    {
+      "name": "05-space-model-care.webp",
+      "sha256": "85ecbf0b04dfc9972541d636e8f040080498e2a688cee36ec19a2d11062c5cac",
+      "bytes": 7038,
+      "from": "ca16 page 13 — spatial model: kindness and care"
+    },
+    {
+      "name": "06-space-model-loyalty.webp",
+      "sha256": "b78ce57ca67bc892ad148b09661935c773724bc62f79107869a7f7609bc12a51",
+      "bytes": 10362,
+      "from": "ca16 page 13 — spatial model: loyalty and strength"
+    },
+    {
+      "name": "07-space-model-energy.webp",
+      "sha256": "32cc49dcb382fc4b272a9a8198ef72c6c15b2e843a2c77f0f3e8700cadd57f39",
+      "bytes": 6280,
+      "from": "ca16 page 13 — spatial model: energy and power"
+    },
+    {
+      "name": "08-curved-gold-ribbons.webp",
+      "sha256": "1f14713c71e56f4624b2e5f80f91777bbd2a8c8d7ffa8bac25bd92d13af6da79",
+      "bytes": 37546,
+      "from": "ca16 page 14 — model with curved gold ribbons"
+    },
+    {
+      "name": "09-corrugated-towers.webp",
+      "sha256": "41459990ed899f5217243fc12beea6faefcef00bd364dc54c28863711fced8a5",
+      "bytes": 45676,
+      "from": "ca16 page 14 — corrugated towers"
+    },
+    {
+      "name": "10-reflecting-court.webp",
+      "sha256": "531aad498055060b8c8fabaddcf8d6740598c5a55e5a37e1f3877055732a25c4",
+      "bytes": 19958,
+      "from": "ca16 page 14 — reflecting court"
+    }
+  ]
+}
