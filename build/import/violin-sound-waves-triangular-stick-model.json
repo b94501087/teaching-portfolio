@@ -1,0 +1,55 @@
+{
+  "project": "Three-Dimensional Violin Sound Waves",
+  "dest": "assets/board/violin-sound-waves-triangular-stick-model",
+  "note": "Portfolio f312 page 5 cropped to eight images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "705b52e9e240b1f4e56b5a2cdcfc3654abf7e3c35b2bd2b008fa4d77b3457ef2",
+      "bytes": 95718,
+      "from": "f312 page 5 — final model"
+    },
+    {
+      "name": "02-wave-sketch.webp",
+      "sha256": "91641bd9dfd428a66435e490b65cc0d1f2fbba86e5d397f625e3e6499f34a457",
+      "bytes": 8218,
+      "from": "f312 page 5 — wave sketch"
+    },
+    {
+      "name": "03-wave-drawings.webp",
+      "sha256": "ae0413ddb5d1fdba0c41ad2f738e99a96c4c24199448e4ad311172e5138077ca",
+      "bytes": 34488,
+      "from": "f312 page 5 — wave drawings"
+    },
+    {
+      "name": "04-frame-start.webp",
+      "sha256": "4034f63131f8d3f9cfe25c513da1fb2b59b11f63d201a31641867942fde0fa3c",
+      "bytes": 14720,
+      "from": "f312 page 5 — frame start"
+    },
+    {
+      "name": "05-board-infill.webp",
+      "sha256": "dafc9525b54e4e6bc0dea345aaec63dc572317fc008b78890d0bad4e648f23bf",
+      "bytes": 17140,
+      "from": "f312 page 5 — board infill"
+    },
+    {
+      "name": "06-frame-detail.webp",
+      "sha256": "1eddb07e908d9db9d732de4dc476a93d93d1ec10b93fb09ec5f0fd280c965478",
+      "bytes": 10850,
+      "from": "f312 page 5 — frame detail"
+    },
+    {
+      "name": "07-dense-sticks.webp",
+      "sha256": "d490df19b5469655f8a9d8d5fbad2b26385621883c3f399a7104fe7db1edd260",
+      "bytes": 21620,
+      "from": "f312 page 5 — dense sticks"
+    },
+    {
+      "name": "08-whole-view.webp",
+      "sha256": "58a5d01b6098cafd665b4f614c3fef2808800bca0106c8157831b1efc285d215",
+      "bytes": 16662,
+      "from": "f312 page 5 — whole view"
+    }
+  ]
+}
