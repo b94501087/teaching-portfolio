@@ -1,0 +1,49 @@
+{
+  "project": "Infinite Loop: Memory Paths",
+  "dest": "assets/board/infinite-loop-memory-paths-stair-tower",
+  "note": "Portfolio 606b page 13 cropped to seven images, WebP q88 (PIL). Not used: title and text, signature.",
+  "files": [
+    {
+      "name": "01-stair-tower.webp",
+      "sha256": "7c3254caa5ab4e09929696e7d9acb34756c988152539d5c00c5a766ea57d00fb",
+      "bytes": 78720,
+      "from": "606b page 13 — stair tower"
+    },
+    {
+      "name": "02-unit-blocks.webp",
+      "sha256": "1be6a761c04e648fc35d97444391565c61c6b77a7d2432c671ea15f71d9de34a",
+      "bytes": 14076,
+      "from": "606b page 13 — unit blocks"
+    },
+    {
+      "name": "03-unit-stack.webp",
+      "sha256": "c3952eefe016a95e116ef592a9be1485204c6afced1c7bd4df675ff9b2614d6a",
+      "bytes": 16510,
+      "from": "606b page 13 — unit stack"
+    },
+    {
+      "name": "04-frame-process.webp",
+      "sha256": "df47e7c06298cd241f9ce508dfb40bf19aebf7b9e5dad26cdb4a0b69e9b382dd",
+      "bytes": 15308,
+      "from": "606b page 13 — frame process"
+    },
+    {
+      "name": "05-stair-process.webp",
+      "sha256": "26c95867c5a43c48a66f990f4ce985e08137ae65d772a98c21346fa57b2fecb0",
+      "bytes": 21174,
+      "from": "606b page 13 — stair process"
+    },
+    {
+      "name": "06-final-top.webp",
+      "sha256": "b2f6fb828a9f4dab90e122584bb01f5609fd9c361e1fb8b51cfa09b200938b53",
+      "bytes": 40238,
+      "from": "606b page 13 — final top"
+    },
+    {
+      "name": "07-final-side.webp",
+      "sha256": "455cd547128e5cc1ede322c3db2cd618f624732a2f5558f20bc9b551dc692602",
+      "bytes": 30174,
+      "from": "606b page 13 — final side"
+    }
+  ]
+}
