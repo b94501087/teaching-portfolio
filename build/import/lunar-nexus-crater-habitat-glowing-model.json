@@ -1,0 +1,67 @@
+{
+  "project": "Lunar Nexus",
+  "dest": "assets/board/lunar-nexus-crater-habitat-glowing-model",
+  "note": "Portfolio 606b pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: title and text, lunar feature drawings, agency and theorist names.",
+  "files": [
+    {
+      "name": "01-glowing-tower.webp",
+      "sha256": "9e1a9f98af5224449bf97131e8ae027fa558022431842b8e2070eb4e33c0ce5e",
+      "bytes": 71342,
+      "from": "606b page 9 — glowing tower"
+    },
+    {
+      "name": "02-crater-section.webp",
+      "sha256": "96d2dedb5e18793294fc3b72daf27b5f422295f4cdfd1b09de6a9eac65727341",
+      "bytes": 33548,
+      "from": "606b page 8 — crater section"
+    },
+    {
+      "name": "03-plan-sketch.webp",
+      "sha256": "66be88f25246594f0dc12443ab7d08a27d5a9df0ae51ec0468bbe14065cc2673",
+      "bytes": 35860,
+      "from": "606b page 8 — plan sketch"
+    },
+    {
+      "name": "04-glass-dome.webp",
+      "sha256": "0523b79a980080e8cd4e58e2879580db2539173f021475af1591416bd48e3c1c",
+      "bytes": 28076,
+      "from": "606b page 8 — glass dome"
+    },
+    {
+      "name": "05-structure-render.webp",
+      "sha256": "df1766ac37bbb7878f48ef68844f50b34ab7132575a7218ec128b41c98491e57",
+      "bytes": 13148,
+      "from": "606b page 8 — structure render"
+    },
+    {
+      "name": "06-pod-model.webp",
+      "sha256": "fa0171368e7b9f434f6f4fd7dcd1d9bb6b5670d91eb41669b06088563b468eb4",
+      "bytes": 25172,
+      "from": "606b page 9 — pod model"
+    },
+    {
+      "name": "07-tower-view.webp",
+      "sha256": "52fd621da67ef6792647bb9d115028d1f924f2b1b0e6117a8c5a87940a7ff53e",
+      "bytes": 43684,
+      "from": "606b page 9 — tower view"
+    },
+    {
+      "name": "08-crater-base.webp",
+      "sha256": "1d64ea7c112b3b9ec2b515b53300e8df1ef41116cc9d4cf935af3e3b9e04fe71",
+      "bytes": 111224,
+      "from": "606b page 9 — crater base"
+    },
+    {
+      "name": "09-garden-pod.webp",
+      "sha256": "b793013f9001dff76f98e97db837a65309fd5b6874fba33a3590b79468b6ab92",
+      "bytes": 21692,
+      "from": "606b page 9 — garden pod"
+    },
+    {
+      "name": "10-control-pod.webp",
+      "sha256": "288325688fde0150cf07dce5b7ec4493037556edf28b72d8ce8e8506dc16d775",
+      "bytes": 30462,
+      "from": "606b page 9 — control pod"
+    }
+  ]
+}
