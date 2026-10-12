@@ -1,0 +1,61 @@
+{
+  "project": "Campus Corner Space Renovation",
+  "dest": "assets/board/campus-corner-space-renovation",
+  "note": "Portfolio cd99 pages 8–11 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with a photo figure, campus aerial and project description on page 7, the satellite site map and site model on page 7, the individual site analysis photos, design strategy portraits and reference book covers on page 8, the walkway rendering with the institution name on page 8, the office photos on page 9, the material swatches on page 10, the waiting-area photos on page 11 and the renderings with photo backdrops on page 11. No retouching.",
+  "files": [
+    {
+      "name": "01-rooftop-canopy-section.webp",
+      "sha256": "5df30fee84bc0e1ee11c8af5f8667bd0197aefd4f01c91bd162c59f8db72eaba",
+      "bytes": 419356,
+      "from": "cd99 page 9 — rooftop canopy section with structural details, x 62–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-storm-shelter-problem.webp",
+      "sha256": "dfed543f2e541b829e35abc51466479b7a8a39d8feeb68aa70a328449c9bcb65",
+      "bytes": 56614,
+      "from": "page 8 — scheme one problem diagram, x 50–74 %, y 0–36 %"
+    },
+    {
+      "name": "03-seating-and-exploded-view.webp",
+      "sha256": "db4e88f488efcfad675c231651c5e5238df021b7c283b78de09926dea691e9bf",
+      "bytes": 89390,
+      "from": "page 8 — seating forms and exploded view, x 74–100 %, y 0–57 %"
+    },
+    {
+      "name": "04-mesh-speculation.webp",
+      "sha256": "f46c93f010ef85d747cae99185b069cece26dea04a95bd1eae059d76ca0652a8",
+      "bytes": 178130,
+      "from": "page 9 — structural speculation and exploded view, x 29–62 %, y 0–100 %"
+    },
+    {
+      "name": "05-vertical-wall-strategies.webp",
+      "sha256": "3bb72abf4386c77d25141cbd49282f26c44c51f8f0a258237c896669a50f1592",
+      "bytes": 102456,
+      "from": "page 10 — vertical wall strategies, x 21–66 %, y 0–42 %"
+    },
+    {
+      "name": "06-activity-modules.webp",
+      "sha256": "94b489be9ca388509d7a2029b2bd816675052e9305f2edda377fd656fe075376",
+      "bytes": 197672,
+      "from": "page 10 — activity module cluster, x 26.5–70 %, y 40–100 %"
+    },
+    {
+      "name": "07-module-exploded-view.webp",
+      "sha256": "b24046abb0836328e731edf9cb7cd6c68f5e9279c92f957814d1b95aa335d17d",
+      "bytes": 159594,
+      "from": "page 10 — module exploded view, x 70–100 %, y 0–100 %"
+    },
+    {
+      "name": "08-production-process.webp",
+      "sha256": "05fb5e7983dfafbe2ed76e419c9f5ea420ea9cf6590501461999b7b9e909bdaf",
+      "bytes": 40070,
+      "from": "page 10 — production process, x 0–21 %, y 46.5–83.5 %"
+    },
+    {
+      "name": "09-vertical-garden-lounge.webp",
+      "sha256": "69b35d4bffb5fdb73206016121cfc29f3a89959f5f695753b47eb5a78f73b038",
+      "bytes": 287060,
+      "from": "page 11 — functional analysis and vertical garden lounge, x 15.5–50 %, y 0–100 %"
+    }
+  ]
+}
