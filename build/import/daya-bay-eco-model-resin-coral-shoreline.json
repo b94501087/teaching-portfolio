@@ -1,0 +1,37 @@
+{
+  "project": "Daya Bay Eco-model",
+  "dest": "assets/board/daya-bay-eco-model-resin-coral-shoreline",
+  "note": "Portfolio e7c5 page 13 cropped to five images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-eco-model-top.webp",
+      "sha256": "e9b4fd98e10ef2a62f66e3391c21f0bd81cd70fbdd7ca7be91a59d064ec7e5d4",
+      "bytes": 181432,
+      "from": "e7c5 page 13 — eco model top"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "91f16d33a01dcd81f2a0653a76c9fb3512a5522e277a47e8be7a66e713099494",
+      "bytes": 36704,
+      "from": "e7c5 page 13 — concept sketch"
+    },
+    {
+      "name": "03-model-angle.webp",
+      "sha256": "9cfe84d909b2e725d3651f37038596731fb1f986d95ae2a50d528d7b49ff63f5",
+      "bytes": 24880,
+      "from": "e7c5 page 13 — model angle"
+    },
+    {
+      "name": "04-city-edge.webp",
+      "sha256": "67151f0ae8950c04d15bfd246e08657caf659823fdab722b9ab41d328b9fad2c",
+      "bytes": 11222,
+      "from": "e7c5 page 13 — city edge"
+    },
+    {
+      "name": "05-shell-layers.webp",
+      "sha256": "48d9ba82db41ed5da151b97fbe08c232621ed93249c0d1351f309bf3be0b591f",
+      "bytes": 12924,
+      "from": "e7c5 page 13 — shell layers"
+    }
+  ]
+}
