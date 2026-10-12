@@ -1,0 +1,67 @@
+{
+  "project": "Bark Lattice",
+  "dest": "assets/board/bark-lattice-layered-strip-structure",
+  "note": "Portfolio d824 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, bark reference photo, photo of the student at a tree, one sorting photo.",
+  "files": [
+    {
+      "name": "01-colour-strip-towers.webp",
+      "sha256": "e4eb2f817c25fe612e5373687a78cf5b4fd60b3d596107e04a56169910ca9834",
+      "bytes": 54358,
+      "from": "d824 page 7 — strip towers"
+    },
+    {
+      "name": "02-textural-imprint.webp",
+      "sha256": "07865100f485db163265466349729b51e874a95e07fe35bec2bf79acde526e81",
+      "bytes": 83598,
+      "from": "d824 page 6 — textural imprint"
+    },
+    {
+      "name": "03-sorted-sticks.webp",
+      "sha256": "c3b04a26fff881ce88be472a09ab52c1f37ac750b48e4db550af5020de61400e",
+      "bytes": 11236,
+      "from": "d824 page 6 — sorted sticks"
+    },
+    {
+      "name": "04-merged-strip-structure.webp",
+      "sha256": "dfcb9d8254d18306a4e3f5399a3796a49a7ffda82eb3d287aa93114825dce40b",
+      "bytes": 29410,
+      "from": "d824 page 6 — merged strips"
+    },
+    {
+      "name": "05-bark-hand-drawing.webp",
+      "sha256": "2bcaed91018017af8e87450240d437a80ff6e575489e8e559e6f96ef856a85e0",
+      "bytes": 22296,
+      "from": "d824 page 6 — bark hand drawing"
+    },
+    {
+      "name": "06-rupture-line-drawing.webp",
+      "sha256": "e5d0db6aedbd2a103ffc08365deeb8cb7e4398de69837660e6deab73ffadd5e7",
+      "bytes": 16712,
+      "from": "d824 page 6 — rupture line drawing"
+    },
+    {
+      "name": "07-strip-cluster.webp",
+      "sha256": "5aacf1c55002f60346298658554da951123df5a2c6a795f17b45fcd4b977c649",
+      "bytes": 16886,
+      "from": "d824 page 7 — strip cluster"
+    },
+    {
+      "name": "08-tall-strip-cluster.webp",
+      "sha256": "113f9e85372e3c29894c1cc68df8639ab17b3099479fb34efbf22419f26efec9",
+      "bytes": 21988,
+      "from": "d824 page 7 — tall strip cluster"
+    },
+    {
+      "name": "09-layered-strip-detail.webp",
+      "sha256": "177205a648993491658159141370fc87d13cfff0aae16c5334baae01be1e51b0",
+      "bytes": 13834,
+      "from": "d824 page 7 — layered strip detail"
+    },
+    {
+      "name": "10-light-strip-detail.webp",
+      "sha256": "8218696028bba5b77574598a7e4eebdd2a519d70a97c84d9b3a171eac6ee151c",
+      "bytes": 14170,
+      "from": "d824 page 7 — light strip detail"
+    }
+  ]
+}
