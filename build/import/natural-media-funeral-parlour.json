@@ -1,0 +1,55 @@
+{
+  "project": "Natural Media Funeral Parlour",
+  "dest": "assets/board/natural-media-funeral-parlour",
+  "note": "Portfolio 6a52 pages 8–10 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the district analysis page with site photos and photo collages of people on page 7, the scene renderings and interior renderings with photo cut-out people on page 11 and the page numbers.",
+  "files": [
+    {
+      "name": "01-perspective-section.webp",
+      "sha256": "d20f6c6edf18ce3ca24393275969d8ab73cc09f157e6e2fba705942e0091cead",
+      "bytes": 382160,
+      "from": "6a52 page 10 — perspective section with emotion sequence, x 0–97.5 %, y 0–100 %"
+    },
+    {
+      "name": "02-light-and-water.webp",
+      "sha256": "2a9ef5f89b2f0f1b3d935bc2f612320f23212b4041ac38378031d142fc24b8a1",
+      "bytes": 149488,
+      "from": "page 8 — light and water panels, x 1–48 %, y 1–99 %"
+    },
+    {
+      "name": "03-life-and-wind.webp",
+      "sha256": "a3410748459a2f06d6c8960e3d03bb30eb799a2409585cd27acf19f62a94bbb2",
+      "bytes": 170850,
+      "from": "page 8 — life and wind panels, x 50–99 %, y 1–99 %"
+    },
+    {
+      "name": "04-concept-drawing.webp",
+      "sha256": "9f34f26fc565fd06fe0ed669962a969f917c2d005f9434b1c6678e9600642e77",
+      "bytes": 265740,
+      "from": "page 9 — concept drawing, x 0–39 %, y 0–100 %"
+    },
+    {
+      "name": "05-form-generation.webp",
+      "sha256": "ce364e039793fc16c90dc817f887a12b16623ec8bce2a3bf14cbe576fe8ba629",
+      "bytes": 80540,
+      "from": "page 9 — form generation, x 39–98 %, y 0–31 %"
+    },
+    {
+      "name": "06-surface-analysis.webp",
+      "sha256": "93f82f1c6e39445820766481afa3e3bf56fc500b10b84598e3035ca108cfc403",
+      "bytes": 143118,
+      "from": "page 9 — surface analysis, x 39–98 %, y 31–83.5 %"
+    },
+    {
+      "name": "07-form-sequence.webp",
+      "sha256": "7c14a8a98de355b1df37911bf34f2da5fbbcd07691f62b0313b08ec755ed456c",
+      "bytes": 35744,
+      "from": "page 9 — form sequence, x 39–97 %, y 83.5–100 %"
+    },
+    {
+      "name": "08-underground-plan.webp",
+      "sha256": "e708cdd4018afb2a15d69b162adb2cda5a7d2e7da7208cc5926274d4b637ec17",
+      "bytes": 28542,
+      "from": "page 10 — underground plan, x 1.5–33.5 %, y 79–97.5 %"
+    }
+  ]
+}
