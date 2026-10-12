@@ -1,0 +1,55 @@
+{
+  "project": "Vertical Terrains",
+  "dest": "assets/board/vertical-terrains-stacked-landscape-forest",
+  "note": "Portfolio 6c64 page 18 cropped to eight images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-forest-between-terrains.webp",
+      "sha256": "3c0318fed82fc5d63412b8d711cc2a84bf9e6e61f955d2a8b845271a30d3be9c",
+      "bytes": 60382,
+      "from": "6c64 page 18 — forest between terrains"
+    },
+    {
+      "name": "02-terrain-data-sources.webp",
+      "sha256": "ae6c20ab085ad36b3ac7b311cf79d934eeaa00e090b65f80ab0750bee8ef8212",
+      "bytes": 12582,
+      "from": "6c64 page 18 — terrain data sources"
+    },
+    {
+      "name": "03-terrain-script-and-surfaces.webp",
+      "sha256": "394d3a130cf0a037ae9bab212817641ad75a2888061e16aba64a61497cd833b4",
+      "bytes": 25052,
+      "from": "6c64 page 18 — terrain script and surfaces"
+    },
+    {
+      "name": "04-stacked-terrain-axonometric.webp",
+      "sha256": "06fc5ab909e230c9378afd8dd09a4cb48c2e5f308a4ca9107c904ec8e7da77e8",
+      "bytes": 26684,
+      "from": "6c64 page 18 — stacked terrain axonometric"
+    },
+    {
+      "name": "05-column-interior-render.webp",
+      "sha256": "d97b93fcfe5d4d498b648f365f5c6bf10e1a1f42d1d53cde2ed28d6c01b2414c",
+      "bytes": 14964,
+      "from": "6c64 page 18 — column interior render"
+    },
+    {
+      "name": "06-model-in-progress.webp",
+      "sha256": "a12421d44b7a172f2fa50647d478676cc43687d70f06f024fe7082bff762474b",
+      "bytes": 71210,
+      "from": "6c64 page 18 — model in progress"
+    },
+    {
+      "name": "07-planted-terrain-details.webp",
+      "sha256": "b8cc908c153cf317ad4a3886b00b372e347c3e43e0791861bdc2635728f264ef",
+      "bytes": 19600,
+      "from": "6c64 page 18 — planted terrain details"
+    },
+    {
+      "name": "08-finished-model-views.webp",
+      "sha256": "ba1d69c88377ea884cec5b1bc69663151f0a94041198e4cabd4d869df15a8a9c",
+      "bytes": 24666,
+      "from": "6c64 page 18 — finished model views"
+    }
+  ]
+}
