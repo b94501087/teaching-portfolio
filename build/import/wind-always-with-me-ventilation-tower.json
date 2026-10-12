@@ -1,0 +1,67 @@
+{
+  "project": "Wind, Always With Me",
+  "dest": "assets/board/wind-always-with-me-ventilation-tower",
+  "note": "Portfolio 494d pages 9, 11–14 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text and instructor credit, the photo-map collage on page 10, the comic pages with photo people and drawn characters, the interior vignettes, and the body text.",
+  "files": [
+    {
+      "name": "01-tower-in-the-village.webp",
+      "sha256": "996fa71ac66fb96f9ec0358387a26606e302935a107f69409ec4cae5a7393627",
+      "bytes": 169632,
+      "from": "494d page 9 — line render of the tower among village blocks, x 30–100 %"
+    },
+    {
+      "name": "02-tower-size-strategies.webp",
+      "sha256": "0022e9e4d0529b72e00c070e8b3b1f026086b5b398fae8c165adde56a771db60",
+      "bytes": 161420,
+      "from": "page 11 — L, M and S tower strategy diagrams, x 50–100 %, y 0–38 %"
+    },
+    {
+      "name": "03-towers-across-the-village.webp",
+      "sha256": "bb608d9cc224a0b33e382e9b9d64f8dc222412d61a5c767130641fe66367c074",
+      "bytes": 535620,
+      "from": "page 11 — aerial render of towers across the village, x 50–100 %, y 38–100 %"
+    },
+    {
+      "name": "04-tower-generation.webp",
+      "sha256": "3c39cf8c052de28bf4a245be21566672064dc3a783335936f866ccc88ef992a5",
+      "bytes": 504328,
+      "from": "page 12 — generation render of the tower, x 0–29 %"
+    },
+    {
+      "name": "05-duct-and-cooling-design.webp",
+      "sha256": "8b841031ead4305548cf103324a886c6493dbbbe55253142be0f2458d0d85b20",
+      "bytes": 276310,
+      "from": "page 12 — air trap, duct and cooling diagrams, x 29–49.5 %"
+    },
+    {
+      "name": "06-exploded-view.webp",
+      "sha256": "e788b8e4c68b0221af878848b455b7794a42e4802bbe3c279543a8fd7e2e4345",
+      "bytes": 410150,
+      "from": "page 12 — exploded view of the tower, x 49.5–72.5 %"
+    },
+    {
+      "name": "07-plans-and-modules.webp",
+      "sha256": "7e7066be98cb073144c3758df7327f546a2bef4b751aa3e8d868abdc1b71f0b8",
+      "bytes": 138138,
+      "from": "page 12 — floor plans and functional modules, x 83–100 %"
+    },
+    {
+      "name": "08-village-profile.webp",
+      "sha256": "15e311496f14314407bc6e2cc103f030a201419f6074534748c956e3ac492082",
+      "bytes": 101898,
+      "from": "page 13 — village profile strip, y 73.5–100 %"
+    },
+    {
+      "name": "09-physical-model.webp",
+      "sha256": "485bef4df2121de811846cfd3e144b23831f90d5ba6d4c622af0670159a0aa6f",
+      "bytes": 514864,
+      "from": "page 14 — physical model of the tower, x 0–42 %"
+    },
+    {
+      "name": "10-model-details.webp",
+      "sha256": "6169f9adece27ec81e5f18ce4112ecdbdf4829bee058b1b2a71150f84be461cc",
+      "bytes": 230076,
+      "from": "page 14 — stair node and residential module models, x 43–78.5 %, y 0–64 %"
+    }
+  ]
+}
