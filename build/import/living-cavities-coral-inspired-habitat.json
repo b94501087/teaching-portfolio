@@ -1,0 +1,49 @@
+{
+  "project": "Living Cavities: Symbiotic Habitat",
+  "dest": "assets/board/living-cavities-coral-inspired-habitat",
+  "note": "Portfolio 606b pages 14-15 cropped to seven images, WebP q88 (PIL). Not used: title and text, reference photos and diagrams, software screenshots, signature.",
+  "files": [
+    {
+      "name": "01-habitat-render.webp",
+      "sha256": "7edf74522e5cf737a9ef7121a13423af1ed12f4f6cf56bea7177d1b8ada33635",
+      "bytes": 35196,
+      "from": "606b page 15 — habitat render"
+    },
+    {
+      "name": "02-voronoi-process.webp",
+      "sha256": "1754809fb2034bce6d210a7ef85593d4c76e47d5a5c68acb95cfcaa7ef7f8bbc",
+      "bytes": 61106,
+      "from": "606b page 14 — voronoi process"
+    },
+    {
+      "name": "03-network-pattern.webp",
+      "sha256": "cd51d2faec20bb71a9dc9efeed5e4525baaca4d054ea34e7e97459123e051b0e",
+      "bytes": 70348,
+      "from": "606b page 14 — network pattern"
+    },
+    {
+      "name": "04-cross-section.webp",
+      "sha256": "d9580d8d1d1680b5600bae778ed63a008eeedfa470689a36222f0dfef2a122d1",
+      "bytes": 78282,
+      "from": "606b page 15 — cross section"
+    },
+    {
+      "name": "05-section-studies.webp",
+      "sha256": "ef9596ebf6a23f06f4a7b8a2fd37f103f712fbe3580b29bbf46e9ce02fd3fe4b",
+      "bytes": 89756,
+      "from": "606b page 15 — section studies"
+    },
+    {
+      "name": "06-habitat-view.webp",
+      "sha256": "a8c1f277e2fb885d4509773c4d23766e4b8ea7f35ba58ffe743aec5d37cb7048",
+      "bytes": 33546,
+      "from": "606b page 15 — habitat view"
+    },
+    {
+      "name": "07-white-model.webp",
+      "sha256": "6922033818fdd91fa697a6de49d760e0518e3c5ae83cd9076796a2d247ef4903",
+      "bytes": 18708,
+      "from": "606b page 15 — white model"
+    }
+  ]
+}
