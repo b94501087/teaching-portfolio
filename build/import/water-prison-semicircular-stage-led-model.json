@@ -1,0 +1,43 @@
+{
+  "project": "The Water Prison Stage",
+  "dest": "assets/board/water-prison-semicircular-stage-led-model",
+  "note": "Portfolio 1390 page 13 cropped to six images, WebP q88 (PIL). Not used: title and text, production photos, process photos with people, video QR code, play title.",
+  "files": [
+    {
+      "name": "01-stage-model.webp",
+      "sha256": "d46a6a0c02df0ab6a7e50384972f29f76c7be6e1c899af343eed953aeb72bb47",
+      "bytes": 38044,
+      "from": "1390 page 13 — stage model"
+    },
+    {
+      "name": "02-process-a.webp",
+      "sha256": "bff06d8f1b7a1b58615b61e12b67e370e1144a57ae588c28bb26158ee39b3c70",
+      "bytes": 11840,
+      "from": "1390 page 13 — process a"
+    },
+    {
+      "name": "03-process-b.webp",
+      "sha256": "7aee8771d23f14c4d111e0ed131a2cb9773bb37e48391a47f5028e1e215950d4",
+      "bytes": 6890,
+      "from": "1390 page 13 — process b"
+    },
+    {
+      "name": "04-arch-detail.webp",
+      "sha256": "f0b92aeebd775078368544bfc48e948cddcfc55833d8615a89263dfd7a1cb232",
+      "bytes": 44266,
+      "from": "1390 page 13 — arch detail"
+    },
+    {
+      "name": "05-red-light.webp",
+      "sha256": "49eac13914b066fa1e72c6da15ee6287592be48d7def9be34d6e2f7bf4d3db26",
+      "bytes": 40490,
+      "from": "1390 page 13 — red light"
+    },
+    {
+      "name": "06-blue-light.webp",
+      "sha256": "d071d8d19f5977fd0898e9c35ef0e2c4b4c13bf8a7bda0180f835f3dcdf252e7",
+      "bytes": 54668,
+      "from": "1390 page 13 — blue light"
+    }
+  ]
+}
