@@ -1,0 +1,67 @@
+{
+  "project": "Campus District Reformation",
+  "dest": "assets/board/campus-district-reformation-guangzhou",
+  "note": "Portfolio c276 pages 10-13 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with university name, logo, supervisor and event photos, the status analysis with street photos, the site plan legend, the structure logic collage with portrait faces, the skywalk render with figures, and the body text.",
+  "files": [
+    {
+      "name": "01-overhead-perspective.webp",
+      "sha256": "f06e586480b659d94bba29b8cd8b5033c5bfe72efcac935c182b92f761bcf1cd",
+      "bytes": 286094,
+      "from": "c276 page 13 — overhead perspective"
+    },
+    {
+      "name": "02-heat-maps.webp",
+      "sha256": "d7a68e73fa94fc22418aa85147a764d5e7ea0901249b11ebc757d4ed922d5b08",
+      "bytes": 127254,
+      "from": "c276 page 10 — industrial and public service heat maps"
+    },
+    {
+      "name": "03-landscape-analysis.webp",
+      "sha256": "493fafb1afbc2fc0bde5aae7c28aaa97ea18b990cc04004c7df3ec3eb0ff4871",
+      "bytes": 73732,
+      "from": "c276 page 10 — landscape analysis"
+    },
+    {
+      "name": "04-site-plan.webp",
+      "sha256": "29f18bae082cac4cd494777426f1113f3ef41c4820e632de9a1eae6ed1f7a5ae",
+      "bytes": 252180,
+      "from": "c276 page 11 — site plan"
+    },
+    {
+      "name": "05-corridor-structure.webp",
+      "sha256": "3bfd25751a5dd9982ecbea2c549b7e5039b11a808e572ee9b95826978a5227ba",
+      "bytes": 98586,
+      "from": "c276 page 12 — corridor structure"
+    },
+    {
+      "name": "06-field-structure.webp",
+      "sha256": "ff4b300146345f51cb2320985e1f0c4ea7ffd2cb66fd010c014fe0a72f6d88db",
+      "bytes": 98068,
+      "from": "c276 page 12 — field structure logic"
+    },
+    {
+      "name": "07-line-studies.webp",
+      "sha256": "543aa05cdc3d6e8e06bccd08d54ffec99961206d534189569f942a19529adb33",
+      "bytes": 18246,
+      "from": "c276 page 12 — rigid, supple and flight line studies"
+    },
+    {
+      "name": "08-stereoscopic-structure.webp",
+      "sha256": "09e59a75ad47de3ff2e820545e3c20ea0fd0105bcabb02de5289a3b448746e01",
+      "bytes": 81546,
+      "from": "c276 page 12 — stereoscopic structure"
+    },
+    {
+      "name": "09-waterfront-chapel.webp",
+      "sha256": "5df38c6ec8215d31c0df265895fbc1dc477cfd6a68034076a317bb786113f021",
+      "bytes": 52866,
+      "from": "c276 page 13 — waterfront chapel"
+    },
+    {
+      "name": "10-central-park-after-rain.webp",
+      "sha256": "7340158ae97f5351beadc4f070b1a859d43584b6c0af4f574f52d943b6591037",
+      "bytes": 43370,
+      "from": "c276 page 13 — central park after the rain"
+    }
+  ]
+}
