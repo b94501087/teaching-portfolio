@@ -1,0 +1,55 @@
+{
+  "project": "Cantonese Opera Street Museum",
+  "dest": "assets/board/cantonese-opera-street-museum",
+  "note": "Portfolio d2e6 pages 6–9 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title panel with photos of the existing museum, the site location map and satellite image, the opera history timeline with photos, the user relationship analysis with photos of people, the stage form analysis with stage photos, the concept panel based on a classical painting, the theme area renders with figures and speech bubbles, and the indoor lighting view.",
+  "files": [
+    {
+      "name": "01-opera-street-aerial.webp",
+      "sha256": "5748e682b8ab8cecda9b49a53ba261944062b56c4d5c361b730efe47ac4037a3",
+      "bytes": 174464,
+      "from": "d2e6 page 7 — aerial drawing of the opera street, x 57.5–100 %, y 50–100 %"
+    },
+    {
+      "name": "02-stage-form-development.webp",
+      "sha256": "e490ab27678e4ec9809f9544d2fa6c8d4082bcf8435ba9fe3033bc3294232920",
+      "bytes": 253612,
+      "from": "page 7 — stage form development axonometrics, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "03-site-analysis.webp",
+      "sha256": "fb40ab6b9603234f32cb8233a672b9fc2f21cfeaf926b9afa97678d5e6dd660f",
+      "bytes": 245914,
+      "from": "page 6 — site analysis, x 50–80 %, y 0–100 %"
+    },
+    {
+      "name": "04-four-theme-areas.webp",
+      "sha256": "e2a543130c18a29bfc16076fc703c96f771bf61875e162f14d8f806eb66ef53c",
+      "bytes": 143524,
+      "from": "page 8 — night renders of the four theme areas, x 0–100 %, y 53–98 %"
+    },
+    {
+      "name": "05-first-floor-plan.webp",
+      "sha256": "810ba0c08521be341acdaa967df99a7d67a57d258e2e6d0edf63ad71130450f5",
+      "bytes": 137418,
+      "from": "page 9 — first floor plan, x 0–34 %, y 0–57 %"
+    },
+    {
+      "name": "06-light-analysis-sections.webp",
+      "sha256": "5e721efc900b77488cd062e1666de965834608cb9bfa7afad5b83d4c93a8c0d5",
+      "bytes": 41620,
+      "from": "page 9 — light analysis sections, x 0–34 %, y 57–100 %"
+    },
+    {
+      "name": "07-lighting-construction-model.webp",
+      "sha256": "fc38d66a8da6e856552a94c6fecb4a1929e2a32861efd54ab1763f5f440444a1",
+      "bytes": 96208,
+      "from": "page 9 — lighting construction physical model, x 35–67 %, y 26–100 %"
+    },
+    {
+      "name": "08-partial-facade-and-section.webp",
+      "sha256": "9af292339f89b9eda5a90dc7c26c513c1b214e3304c1480bef1fee818f2cfc5c",
+      "bytes": 161262,
+      "from": "page 9 — partial facade and wall section, x 67–100 %, y 0–100 %"
+    }
+  ]
+}
