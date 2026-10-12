@@ -1,0 +1,49 @@
+{
+  "project": "Edge of Production",
+  "dest": "assets/board/edge-of-production-waterfront-regeneration",
+  "note": "Portfolio de5b page 22 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title block with supervisor line and the body text.",
+  "files": [
+    {
+      "name": "01-aerial-view.webp",
+      "sha256": "0d54b9e3eda30ae721e89d7519a28337bd5f39f6715d8a82f9bbfd6bd85ef779",
+      "bytes": 147028,
+      "from": "de5b page 22 — aerial render"
+    },
+    {
+      "name": "02-site-layers.webp",
+      "sha256": "138d4881c281347c4bb3eb9abe151137d7ac97462a91eaa7842674c492f8a5a7",
+      "bytes": 100164,
+      "from": "de5b page 22 — six site layer maps"
+    },
+    {
+      "name": "03-district-plan.webp",
+      "sha256": "97316e2f4ba786efa516c801872f64530e76db03d6c06c7c94ad9aea0fcba33a",
+      "bytes": 61464,
+      "from": "de5b page 22 — district plan"
+    },
+    {
+      "name": "04-waterfront-plan.webp",
+      "sha256": "0c930dd4de87bc92ccda0fee5bece8b64e9d7904c7a36c9411352aaad146264a",
+      "bytes": 53870,
+      "from": "de5b page 22 — waterfront site plan"
+    },
+    {
+      "name": "05-waterfront-nodes.webp",
+      "sha256": "fadc19f4b664a1150935a4da21c0d1d7333047433782d7e49af5fc7259cbf784",
+      "bytes": 37134,
+      "from": "de5b page 22 — waterfront node axonometrics"
+    },
+    {
+      "name": "06-industrial-heritage.webp",
+      "sha256": "c7cb09136c7dd31c2a50ad9add18166bd3587ce42efd643e29bbbdafaed3a317",
+      "bytes": 51472,
+      "from": "de5b page 22 — industrial heritage axonometrics"
+    },
+    {
+      "name": "07-city-centre.webp",
+      "sha256": "11babc2cd25b259f00958843c53ac7b72a6a5b7061947ad750cfc130dbbc4ce6",
+      "bytes": 45420,
+      "from": "de5b page 22 — city centre axonometrics"
+    }
+  ]
+}
