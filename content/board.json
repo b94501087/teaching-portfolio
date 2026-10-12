@@ -49524,6 +49524,154 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Stones & Habitats",
+      "slug": "stones-and-habitats-coastal-terrain-model",
+      "description": "Beach stones are studied one by one, then rebuilt into a coastal landscape where people and nature share the shore.\n\nModel making | Landscape and ecology | Wax, wooden sticks, stones, plaster cloth, clay and plants | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "石與棲地",
+          "description": "逐一研究海灘上的石頭，再重組成人與自然共享海岸的濱海地景。\n\n模型製作｜地景與生態｜蠟、木棒、石頭、石膏布、黏土與植物｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/stones-and-habitats-coastal-terrain-model/01-shore-model.webp",
+        "assets/board/stones-and-habitats-coastal-terrain-model/02-stone-studies.webp",
+        "assets/board/stones-and-habitats-coastal-terrain-model/03-hand-studies.webp",
+        "assets/board/stones-and-habitats-coastal-terrain-model/04-habitat-drawing.webp",
+        "assets/board/stones-and-habitats-coastal-terrain-model/05-process-a.webp",
+        "assets/board/stones-and-habitats-coastal-terrain-model/06-process-b.webp",
+        "assets/board/stones-and-habitats-coastal-terrain-model/07-cave-detail.webp",
+        "assets/board/stones-and-habitats-coastal-terrain-model/08-rock-wall.webp",
+        "assets/board/stones-and-habitats-coastal-terrain-model/09-terraces.webp",
+        "assets/board/stones-and-habitats-coastal-terrain-model/10-water-edge.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/stones-and-habitats-coastal-terrain-model/01-shore-model.webp"
+          ],
+          "captions": [
+            "The finished coastal model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的海岸模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student asked how stones on a beach could become new natural habitats. The aim was to design a shore that supports both people and wildlife.",
+          "images": [
+            "assets/board/stones-and-habitats-coastal-terrain-model/02-stone-studies.webp"
+          ],
+          "captions": [
+            "Collected stones with notes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生思考海灘上的石頭如何成為新的自然棲地。目標是設計一處同時支持人與野生生物的海岸。",
+              "captions": [
+                "附筆記的收集石頭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Stones were collected and logged by size, hardness, roughness and porosity. Sketches then explored how stones, terrain and waves move and trade materials along the coast.",
+          "images": [
+            "assets/board/stones-and-habitats-coastal-terrain-model/03-hand-studies.webp"
+          ],
+          "captions": [
+            "Hand-drawn section studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生收集石頭，並記錄其大小、硬度、粗糙度與孔隙。草圖接著探討石頭、地形與海浪如何沿著海岸移動與交換物質。",
+              "captions": [
+                "手繪剖面研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "3D studies combined stones with water, plants, paths and structures. The terrain was then shaped with clay and plaster cloth, and stones, wire and boards were arranged on top.",
+          "images": [
+            "assets/board/stones-and-habitats-coastal-terrain-model/04-habitat-drawing.webp",
+            "assets/board/stones-and-habitats-coastal-terrain-model/05-process-a.webp",
+            "assets/board/stones-and-habitats-coastal-terrain-model/06-process-b.webp"
+          ],
+          "captions": [
+            "Drawing of a coastal habitat.",
+            "Shaping terrain by hand.",
+            "Placing stones and boards."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "立體研究把石頭與水、植物、步道與構造物結合。接著以黏土與石膏布塑造地形，並在上方安排石頭、金屬線與木板。",
+              "captions": [
+                "海岸棲地的繪圖。",
+                "親手塑造地形。",
+                "擺放石頭與木板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model mixes rock caves, planted terraces and steps that lead down to the water. Small figures show how people can rest and walk while the stones keep giving shelter to life.",
+          "images": [
+            "assets/board/stones-and-habitats-coastal-terrain-model/07-cave-detail.webp",
+            "assets/board/stones-and-habitats-coastal-terrain-model/08-rock-wall.webp",
+            "assets/board/stones-and-habitats-coastal-terrain-model/09-terraces.webp",
+            "assets/board/stones-and-habitats-coastal-terrain-model/10-water-edge.webp"
+          ],
+          "captions": [
+            "Light inside a stone cave.",
+            "A wall of stacked rocks.",
+            "Terraces with plants.",
+            "Steps down to the water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型融合岩洞、植栽平台與通往水邊的階梯。小人偶呈現人們如何休憩與散步，而石頭持續為生物提供庇護。",
+              "captions": [
+                "石洞中的光。",
+                "堆疊的岩壁。",
+                "種有植物的平台。",
+                "通往水邊的階梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect real samples.\n2. Record their qualities.\n3. Sketch how they meet the site.\n4. Build the terrain by hand.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集真實樣本。\n2. 記錄它們的特性。\n3. 描繪它們如何與基地相遇。\n4. 親手建造地形。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
