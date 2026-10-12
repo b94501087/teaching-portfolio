@@ -1,0 +1,55 @@
+{
+  "project": "Summer Studio: Folded Paper Pavilion",
+  "dest": "assets/board/summer-studio-folded-paper-light-pavilion",
+  "note": "Portfolio e7c5 page 16 cropped to eight images, WebP q88 (PIL). Not used: title and text, program and site names, precedent photo, designer names.",
+  "files": [
+    {
+      "name": "01-pavilion-render.webp",
+      "sha256": "6fd71b754cb4660c7b949a705c82cd6339f80edffb38b3ecf1c0408f5b2d5f8c",
+      "bytes": 40942,
+      "from": "e7c5 page 16 — pavilion render"
+    },
+    {
+      "name": "02-origami-star.webp",
+      "sha256": "930538b36671964e7eb0a95d3fd1acf6d90b88e71533c57c55d730fc2300e877",
+      "bytes": 5670,
+      "from": "e7c5 page 16 — origami star"
+    },
+    {
+      "name": "03-origami-flower.webp",
+      "sha256": "413cc512a6cb9f169ec8102132b77774ec0a4fc065da84ccbaf22c145339bebc",
+      "bytes": 3546,
+      "from": "e7c5 page 16 — origami flower"
+    },
+    {
+      "name": "04-origami-dome.webp",
+      "sha256": "3ec8fb0a7d78d9776e86e70ba61c584a95497a58834ed2080ac80d27242149b8",
+      "bytes": 4724,
+      "from": "e7c5 page 16 — origami dome"
+    },
+    {
+      "name": "05-paper-model-a.webp",
+      "sha256": "192f7bd22b68ca33bda58dc060dff76e8d1ae93d4fcaa2563e8e76fab08d1dba",
+      "bytes": 5646,
+      "from": "e7c5 page 16 — paper model a"
+    },
+    {
+      "name": "06-paper-model-b.webp",
+      "sha256": "23cffe22531072b3ccb52011d9127eef7f1f2e75c4b52e219c6982647ce411a6",
+      "bytes": 5186,
+      "from": "e7c5 page 16 — paper model b"
+    },
+    {
+      "name": "07-courtyard-render.webp",
+      "sha256": "656d01f8caf225b53600073dcc333610a5e0534fc3a8555364ce35fa84b35516",
+      "bytes": 38792,
+      "from": "e7c5 page 16 — courtyard render"
+    },
+    {
+      "name": "08-seating-render.webp",
+      "sha256": "9d59553c063941e9b4c359f09248d0b17a1bcb58136cfd23106d8a43f7bdee28",
+      "bytes": 15070,
+      "from": "e7c5 page 16 — seating render"
+    }
+  ]
+}
