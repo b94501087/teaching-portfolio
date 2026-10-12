@@ -1,0 +1,55 @@
+{
+  "project": "Living Layers, Watching Streets",
+  "dest": "assets/board/living-layers-watching-streets-staggered-plate-model",
+  "note": "Portfolio 915e pages 9-10 cropped to eight images, WebP q88 (PIL). Not used: book cover, author photo and author name, quotation.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "5c4fcf54a94b407fbebead70d524155eddb16e40ec3a50b3cd09c3653423fa06",
+      "bytes": 66374,
+      "from": "915e page 10 — final model"
+    },
+    {
+      "name": "02-front-view.webp",
+      "sha256": "238c77d0d4b725b3f2c3b94df0859bd2e10462faef7a2f7f10919dd62148a0ea",
+      "bytes": 40054,
+      "from": "915e page 9 — front view"
+    },
+    {
+      "name": "03-red-figures.webp",
+      "sha256": "541b58eea5d01bf929150b01f8237b79a939d70082e87b9034ddea27b2f4abab",
+      "bytes": 29244,
+      "from": "915e page 9 — red figures"
+    },
+    {
+      "name": "04-floor-edge.webp",
+      "sha256": "2448e3806bffe5fe6e0aeab6443114f4d94735dccbdd00030f66dd4e49630af3",
+      "bytes": 14046,
+      "from": "915e page 9 — floor edge"
+    },
+    {
+      "name": "05-terrace.webp",
+      "sha256": "5863636312fb27a1c3f99f5c748c2fc347f433a0ecd8094993dcb6aa581c83c7",
+      "bytes": 10160,
+      "from": "915e page 9 — terrace"
+    },
+    {
+      "name": "06-upper-floors.webp",
+      "sha256": "a810c4c991139cc912687f293f6c6a429d34b2046adfdef23eb2d73e737d6cb0",
+      "bytes": 16884,
+      "from": "915e page 10 — upper floors"
+    },
+    {
+      "name": "07-edge-view.webp",
+      "sha256": "514b0ca5afafe8846a03591a9c85d20eb88160900ac5e84bb2c6952be2f1633c",
+      "bytes": 12536,
+      "from": "915e page 10 — edge view"
+    },
+    {
+      "name": "08-side-close.webp",
+      "sha256": "773f7a7afb1837a159104fb337fa19f600576da0f4e8a7590761e37dc0a1c074",
+      "bytes": 21646,
+      "from": "915e page 10 — side close"
+    }
+  ]
+}
