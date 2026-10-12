@@ -1,0 +1,49 @@
+{
+  "project": "The Carbon Sink of Scars",
+  "dest": "assets/board/carbon-sink-of-scars-installation",
+  "note": "Portfolio 188e pages 13-14 cropped to seven images, WebP q88 (PIL). Not used: title and body text.",
+  "files": [
+    {
+      "name": "01-combined-habitats.webp",
+      "sha256": "0d42416a84ef88a4d5c58a813366598759bb942a645edb58a43dd1a3ea10e119",
+      "bytes": 50616,
+      "from": "188e page 14 — three habitats combined"
+    },
+    {
+      "name": "02-silent-sea.webp",
+      "sha256": "06fc6c0d2d3544b8574296c6cfcab9636caeac431fff2e7a788031408d80ff3a",
+      "bytes": 25254,
+      "from": "188e page 13 — Silent Sea model"
+    },
+    {
+      "name": "03-sea-making.webp",
+      "sha256": "d662f64dfd2e43ebf7f47570b5d72572216e2c729e87aabea94659e2d8bc08af",
+      "bytes": 44994,
+      "from": "188e page 13 — making the sea model"
+    },
+    {
+      "name": "04-entombed-life.webp",
+      "sha256": "5fa68934206294db5bbe064d56e4ecaae4d7e4303125508b3b95039494b41a2e",
+      "bytes": 54924,
+      "from": "188e page 13 — Entombed Life model"
+    },
+    {
+      "name": "05-miasma.webp",
+      "sha256": "2fa549bc98f32890434d98a636c77958bce201068ea6f1e4e903f99da67ad1a6",
+      "bytes": 24028,
+      "from": "188e page 14 — Miasma model"
+    },
+    {
+      "name": "06-miasma-clouds.webp",
+      "sha256": "95577f687398511224fabfa0c965cc5aef3c0fb8af0370ac8da7c0b15c48a6a4",
+      "bytes": 16846,
+      "from": "188e page 14 — Miasma cloud views"
+    },
+    {
+      "name": "07-miasma-city.webp",
+      "sha256": "35a1da919a2baa53ed9009deceef7c3e15ded09b88a4223077af2fbc4e4648d3",
+      "bytes": 21228,
+      "from": "188e page 14 — Miasma city views"
+    }
+  ]
+}
