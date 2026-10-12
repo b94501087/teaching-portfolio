@@ -1,0 +1,49 @@
+{
+  "project": "Reconstruction of Jiegui Street",
+  "dest": "assets/board/jiegui-street-reconstruction",
+  "note": "Portfolio 2ce6 pages 4–5 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the contents page and the project title page with street, market and historical photo collages on page 3, the site analysis layers with an aerial photo, the street photos with overlays and the distance diagram with photo insets on page 4. No retouching.",
+  "files": [
+    {
+      "name": "01-fresh-food-market-section.webp",
+      "sha256": "8353545665780ca4d044c1b0eae81eb847a4441971b7a662c0f3f4a15b3bd0ca",
+      "bytes": 414520,
+      "from": "2ce6 page 5 — fresh food market section, x 16.5–50.5 %, y 0–100 %"
+    },
+    {
+      "name": "02-methods-of-reconstruction.webp",
+      "sha256": "7f932ecca074097ed5579a3caf0516e205b6a6cf6a1c0547b02cf600711bc109",
+      "bytes": 81172,
+      "from": "page 4 — methods of reconstruction, x 79.5–100 %, y 0–40.5 %"
+    },
+    {
+      "name": "03-garbage-disposal-improvement.webp",
+      "sha256": "50c01bbdb0a165e03ff5f93dd7324920fbc021789b9413ef0bb6915183cdf708",
+      "bytes": 158982,
+      "from": "page 4 — garbage disposal improvement, x 79.5–100 %, y 43–100 %"
+    },
+    {
+      "name": "04-rubbish-disposal-process.webp",
+      "sha256": "c7480b5213d560759350c0a672b6b067fc12bb76a472c52e41d36f818b265499",
+      "bytes": 89552,
+      "from": "page 4 — process of rubbish disposing, x 50–79 %, y 52–100 %"
+    },
+    {
+      "name": "05-community-improvement-guide.webp",
+      "sha256": "e12c8f3c5b3567a604eff3d06246d74aa06c19a0a729eaa25de1bf162de3245e",
+      "bytes": 129392,
+      "from": "page 5 — community improvement guide, x 0–16.5 %, y 0–100 %"
+    },
+    {
+      "name": "06-entertainment-section.webp",
+      "sha256": "0ead621b808c073f264bba0b0f46c687c8348458e29636e90c250cb7b7ccf23e",
+      "bytes": 368256,
+      "from": "page 5 — entertainment section, x 50–80 %, y 0–100 %"
+    },
+    {
+      "name": "07-living-facility-section.webp",
+      "sha256": "56ee3d07624fc86e14496a769b530dca717d01e86d035aea8a9a92d1931da131",
+      "bytes": 240504,
+      "from": "page 5 — renderings and living facility section, x 80–100 %, y 0–100 %"
+    }
+  ]
+}
