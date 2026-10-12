@@ -1,0 +1,67 @@
+{
+  "project": "Restyled Temple of Time",
+  "dest": "assets/board/restyled-temple-of-time-bamboo-stick-model",
+  "note": "Portfolio 6c64 pages 14-15 cropped to ten images, WebP q88 (PIL). Not used: title and text, game screenshots, captions and the signature on the interior sketch.",
+  "files": [
+    {
+      "name": "01-stick-temple-model.webp",
+      "sha256": "131059d2dd3cdb72217a5b36ae89c5e19c82d5e76d84f247fb961d23081b1630",
+      "bytes": 104438,
+      "from": "6c64 page 15 — stick temple model"
+    },
+    {
+      "name": "02-facade-and-roof-sketches.webp",
+      "sha256": "ae195ade393122a0a1e82b910f5bd1b12abeee918c2ac841703cc8d57196b822",
+      "bytes": 23286,
+      "from": "6c64 page 14 — facade and roof sketches"
+    },
+    {
+      "name": "03-vertical-line-translation.webp",
+      "sha256": "4f12b6af299104d6d791b4e078ccdbc17b16e3e581fc2cd8d3449a78cf97f1e9",
+      "bytes": 24764,
+      "from": "6c64 page 14 — vertical line translation"
+    },
+    {
+      "name": "04-building-the-layers.webp",
+      "sha256": "ec854a4aaa97bf2d70111cf76f0852370fa22fdea62b705fcfdcb72c5215039a",
+      "bytes": 91392,
+      "from": "6c64 page 14 — building the layers"
+    },
+    {
+      "name": "05-assembling-the-base.webp",
+      "sha256": "fd3971819a1c9848ac1cec3cb221249dc31a5c4fb6c1967c7d5c5c33f77a4d57",
+      "bytes": 82288,
+      "from": "6c64 page 14 — assembling the base"
+    },
+    {
+      "name": "06-interior-light.webp",
+      "sha256": "6a14fb74cfb0b11b0f9050bc414d31631092c4e0c6dde1958b868c1ea5ccfa23",
+      "bytes": 34988,
+      "from": "6c64 page 14 — interior light"
+    },
+    {
+      "name": "07-interior-sketch.webp",
+      "sha256": "63f7665ba1a354f6d62ac59dacb17ff6c003620edba6a3618dacb9a6ae234837",
+      "bytes": 80864,
+      "from": "6c64 page 15 — interior sketch"
+    },
+    {
+      "name": "08-top-view-with-figures.webp",
+      "sha256": "9d88d0ec1a934844757f747fbdc4341c99e1c93bcd0647cc1416acec4f011ba9",
+      "bytes": 90990,
+      "from": "6c64 page 15 — top view with figures"
+    },
+    {
+      "name": "09-hanging-stick-details.webp",
+      "sha256": "00d8c54ddd655aa35209814a8d486a736dfbb34e0e7132d9fba2bd380baed5c6",
+      "bytes": 48570,
+      "from": "6c64 page 15 — hanging stick details"
+    },
+    {
+      "name": "10-interior-corridor.webp",
+      "sha256": "9d258a1760826ba9454d1164964bade928403945781ab53dae983215b545e754",
+      "bytes": 28084,
+      "from": "6c64 page 15 — interior corridor"
+    }
+  ]
+}
