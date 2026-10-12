@@ -1,0 +1,43 @@
+{
+  "project": "Family Unit",
+  "dest": "assets/board/family-unit-council-house",
+  "note": "Portfolio 3940 pages 16–20 cropped to six images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with a photo of a person and the model, the comic panels with drawn people over street views and the rules card held in a hand, the page 17 housing price photo collage, the density maps over satellite photos with street photos, and the street photo montage with passers-by on page 20.",
+  "files": [
+    {
+      "name": "01-family-unit-illustration.webp",
+      "sha256": "86090ec2f12666b292ab3ba8e36ebf6355520281eee51891aeb4ec57d3b5dac4",
+      "bytes": 205026,
+      "from": "3940 page 19 — exploded section of the family unit, x 21–96 %, y 17–96 %"
+    },
+    {
+      "name": "02-construction-details.webp",
+      "sha256": "51bdd0206193b605252306d1f7a9d5c7c00b18b86fb36e2d7dc9718c79bf38b8",
+      "bytes": 33744,
+      "from": "page 19 — construction details A to C, x 4–21.5 %, y 17–90 %"
+    },
+    {
+      "name": "03-council-house-comparison.webp",
+      "sha256": "3585eba38cf12674eb66b9a3c0ebae72beeba4dab3b34d460cd17d0650734b8a",
+      "bytes": 141630,
+      "from": "page 18 — traditional and new council house comparison, x 49–100 %, y 0–100 %"
+    },
+    {
+      "name": "04-schemes-for-idle-space.webp",
+      "sha256": "d4f0560b5b8fe9842719b87d2cdc59965d759602b49906c7e4bb7d815f9dd891",
+      "bytes": 163770,
+      "from": "page 20 — three schemes for idle space, x 52–100 %, y 1–98 %"
+    },
+    {
+      "name": "05-model-sequence.webp",
+      "sha256": "f0cd841364c09b61badb01380da52ccc9c75275b8cd72781bbef5796dbc6819e",
+      "bytes": 25132,
+      "from": "page 16 — model sequence of the unfolding unit, x 61–100 %, y 84.5–95.5 %"
+    },
+    {
+      "name": "06-transport-and-assembly.webp",
+      "sha256": "c75edf78c17db5dc0f026deaad00eb585964883b4efc8c30f8077c473b17a599",
+      "bytes": 21882,
+      "from": "page 16 — transport and assembly panels, x 82–99.5 %, y 2–33.5 %"
+    }
+  ]
+}
