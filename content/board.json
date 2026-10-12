@@ -23767,6 +23767,300 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Jinan Spring Pulse Remodeling",
+      "slug": "jinan-spring-pulse-remodeling",
+      "description": "The old town of Jinan is reconnected to its springs through ditches, rain-collecting chimes and canopies, and devices that show how a spring forms.\n\nJinan, China | Urban renewal | May–Aug 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "濟南泉脈重塑",
+          "description": "以水渠、集雨風鈴與頂棚，以及展示泉水成因的裝置，讓濟南老城重新與泉水相連。\n\n中國濟南｜城市更新｜2020年5–8月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/jinan-spring-pulse-remodeling/01-spring-masterplan.webp",
+        "assets/board/jinan-spring-pulse-remodeling/02-old-town-site-analysis.webp",
+        "assets/board/jinan-spring-pulse-remodeling/03-spring-origin-section.webp",
+        "assets/board/jinan-spring-pulse-remodeling/04-spring-life-models.webp",
+        "assets/board/jinan-spring-pulse-remodeling/05-strategy-chart.webp",
+        "assets/board/jinan-spring-pulse-remodeling/06-rain-chime-device.webp",
+        "assets/board/jinan-spring-pulse-remodeling/07-parking-canopy-section.webp",
+        "assets/board/jinan-spring-pulse-remodeling/08-public-space-section.webp",
+        "assets/board/jinan-spring-pulse-remodeling/09-moat-ferry-section.webp",
+        "assets/board/jinan-spring-pulse-remodeling/10-spring-valve-device.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/jinan-spring-pulse-remodeling/01-spring-masterplan.webp"
+          ],
+          "captions": [
+            "Masterplan: open and closed ditches link the spring groups across the old town."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "總平面：明渠與暗渠串連老城中的各泉群。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The old town of Jinan grew around four groups of springs, which long shaped daily life in the city. Industrial growth and the loss of vegetation at the sources have lowered the flow, and some springs have even stopped.",
+          "images": [
+            "assets/board/jinan-spring-pulse-remodeling/02-old-town-site-analysis.webp",
+            "assets/board/jinan-spring-pulse-remodeling/03-spring-origin-section.webp"
+          ],
+          "captions": [
+            "Landform, land use, transport and the blue and green network of the old town.",
+            "Spring origin: a geological section from the recharge mountains to the springs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "濟南老城圍繞四大泉群發展，泉水長久以來塑造了城市的日常生活。工業化與泉源植被的破壞使水量下降，部分泉水甚至曾經斷流。",
+              "captions": [
+                "老城的地形、土地使用、交通與藍綠網絡。",
+                "泉水成因：從補給山區到泉口的地質剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Small models recreated scenes of daily life with the springs, from washing vegetables to playing by the water. A strategy chart then weighed how far each move should revive the spring veins and how far it should bring water back into daily life.",
+          "images": [
+            "assets/board/jinan-spring-pulse-remodeling/04-spring-life-models.webp",
+            "assets/board/jinan-spring-pulse-remodeling/05-strategy-chart.webp"
+          ],
+          "captions": [
+            "Models of life and leisure with spring water.",
+            "Strategy chart weighing each move between the spring veins and daily life."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以小模型重現人們與泉水共處的日常，從洗菜到在水邊玩耍。策略圖再衡量每項操作在恢復泉脈與讓水回到生活之間的比重。",
+              "captions": [
+                "泉水生活與娛樂的模型。",
+                "衡量各策略在泉脈與日常生活之間比重的圖表。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Rain wind chimes hang on gables and partition walls, ringing on sunny days and collecting rain on wet ones. Woven canopies in hexagon and quadrangle forms shelter squares and parking while gathering rainwater.",
+          "images": [
+            "assets/board/jinan-spring-pulse-remodeling/06-rain-chime-device.webp",
+            "assets/board/jinan-spring-pulse-remodeling/07-parking-canopy-section.webp",
+            "assets/board/jinan-spring-pulse-remodeling/08-public-space-section.webp"
+          ],
+          "captions": [
+            "Rain wind chime: pipe section and its use on gables and partition walls.",
+            "Parking canopy forms and section.",
+            "Public space section under a rain-collecting canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "雨水風鈴掛在山牆與隔牆上，晴天作為風鈴，雨天收集雨水。六邊形與四邊形的編織頂棚為廣場與停車場遮蔽，同時收集雨水。",
+              "captions": [
+                "雨水風鈴：管件剖面及其在山牆與隔牆上的應用。",
+                "停車場頂棚形式與剖面。",
+                "集雨頂棚下的公共空間剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Valve devices modelled on the heart show how a spring forms, with a large voice-controlled type for squares and a small push-button type for narrow streets. A ferry route along the old moat ties the spring nodes into one network.",
+          "images": [
+            "assets/board/jinan-spring-pulse-remodeling/09-moat-ferry-section.webp",
+            "assets/board/jinan-spring-pulse-remodeling/10-spring-valve-device.webp"
+          ],
+          "captions": [
+            "Moat park section with the ferry route.",
+            "Spring valve device: valve details, sections and working principle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "仿照心臟瓣膜的裝置讓人理解泉水如何形成，大型聲控款適用於廣場，小型按鈕款適用於窄巷。沿舊護城河的遊船路線將各泉水節點串成一個網絡。",
+              "captions": [
+                "護城河公園與遊船路線剖面。",
+                "泉水瓣膜裝置：瓣膜細部、剖面與運作原理。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the water's history.\n2. Model daily life.\n3. Weigh each strategy.\n4. Make the hidden visible.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 閱讀水的歷史。\n2. 以模型呈現日常。\n3. 衡量每項策略。\n4. 讓看不見的被看見。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Melbourne Affordable Housing",
+      "slug": "melbourne-affordable-housing",
+      "description": "Mixed groups of residents share homes that grow over the roofs of central Melbourne, using space that the city has left unused.\n\nMelbourne, Australia | Affordable housing | Jun–Oct 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "墨爾本可負擔住宅",
+          "description": "不同居民群體共享的住宅，沿墨爾本市中心的屋頂生長，利用城市閒置的空間。\n\n澳洲墨爾本｜可負擔住宅｜2020年6–10月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/melbourne-affordable-housing/01-room-configuration-tribes.webp",
+        "assets/board/melbourne-affordable-housing/02-house-price-map.webp",
+        "assets/board/melbourne-affordable-housing/03-rent-price-chart.webp",
+        "assets/board/melbourne-affordable-housing/04-life-time-loop.webp",
+        "assets/board/melbourne-affordable-housing/05-mixed-habitation-charts.webp",
+        "assets/board/melbourne-affordable-housing/06-cluster-combinations.webp",
+        "assets/board/melbourne-affordable-housing/07-cluster-scene-nodes.webp",
+        "assets/board/melbourne-affordable-housing/08-section-details.webp",
+        "assets/board/melbourne-affordable-housing/09-unit-model-photos.webp",
+        "assets/board/melbourne-affordable-housing/10-warning-clock-device.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/melbourne-affordable-housing/01-room-configuration-tribes.webp"
+          ],
+          "captions": [
+            "Room configurations for each group, combined into nine household tribes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "各群體的房型配置，組合成九種家戶族群。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Melbourne's population keeps growing, and rising house prices and rents have pushed many families out of the city centre. Land in the centre is tight on the ground, yet much usable space above existing buildings is left unused.",
+          "images": [
+            "assets/board/melbourne-affordable-housing/02-house-price-map.webp",
+            "assets/board/melbourne-affordable-housing/03-rent-price-chart.webp"
+          ],
+          "captions": [
+            "House and flat price changes across the city's districts.",
+            "Median rent compared across districts of the city."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "墨爾本人口持續成長，房價與租金上漲使許多家庭被迫離開市中心。市中心的地面土地有限，但既有建築上方仍有大量可用空間未被利用。",
+              "captions": [
+                "城市各區的獨棟與公寓房價變化。",
+                "城市各區的租金中位數比較。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A daily time loop traced when different groups of residents use shared space, from early work hours to late evening rest. The groups were then paired by how well they can help one another, mixing natives, families, students, skilled workers and newcomers.",
+          "images": [
+            "assets/board/melbourne-affordable-housing/04-life-time-loop.webp",
+            "assets/board/melbourne-affordable-housing/05-mixed-habitation-charts.webp"
+          ],
+          "captions": [
+            "Population life time loop over twenty-four hours.",
+            "Mixed habitation groups and options beside housing indicator charts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以一日時間循環追蹤不同居民群體使用共享空間的時段，從清晨上班到深夜休息。再依彼此能否互相幫助來配對群體，混合在地居民、家庭、學生、技術工作者與新移民。",
+              "captions": [
+                "二十四小時的人口生活時間循環。",
+                "混居群體與組合方式，以及住宅相關指標圖表。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A nine-metre dwelling unit is divided into rooms of different sizes to suit each group and budget. Tribes are joined into four clusters, with crowd flow weaving through living, business and public areas.",
+          "images": [
+            "assets/board/melbourne-affordable-housing/06-cluster-combinations.webp",
+            "assets/board/melbourne-affordable-housing/07-cluster-scene-nodes.webp"
+          ],
+          "captions": [
+            "Four clusters combining tribes, with living, business and public areas.",
+            "Cluster IV with rooftops, ramps and shared spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以九公尺見方的住宅單元，依群體需求與經濟能力分割成不同大小的房間。各族群再組合成四個聚落，人流穿梭於居住、商業與公共空間之間。",
+              "captions": [
+                "四個由族群組合而成的聚落，含居住、商業與公共區。",
+                "聚落四的屋頂、坡道與共享空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The building spreads up from a park over existing roofs, with public space at the base, dense homes in the middle and many small shared spaces at the top. Wind and solar powered clocks on the roofs show the daily change in house prices and rents as a gentle public reminder.",
+          "images": [
+            "assets/board/melbourne-affordable-housing/08-section-details.webp",
+            "assets/board/melbourne-affordable-housing/09-unit-model-photos.webp",
+            "assets/board/melbourne-affordable-housing/10-warning-clock-device.webp"
+          ],
+          "captions": [
+            "Section details: middle floors, balcony ventilation and a passive solar house.",
+            "Models of the building units.",
+            "Warning clock: parts, dial and gear drawings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築從公園沿既有屋頂向上蔓延，底部是公共空間，中段為密集住宅，頂部則有許多小型共享空間。屋頂上以風力與太陽能驅動的時鐘，每日顯示房價與租金的變化，作為溫和的公共提醒。",
+              "captions": [
+                "剖面細部：中段樓層、陽台通風與被動式太陽能住宅。",
+                "建築單元模型。",
+                "警示時鐘：構件、錶盤與齒輪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the numbers.\n2. Map daily rhythms.\n3. Pair people who help.\n4. Grow into unused space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 讀懂數據。\n2. 描繪日常節奏。\n3. 配對能互助的人。\n4. 向閒置空間生長。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
