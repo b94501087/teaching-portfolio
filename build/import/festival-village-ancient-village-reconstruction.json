@@ -1,0 +1,55 @@
+{
+  "project": "Festival Village",
+  "dest": "assets/board/festival-village-ancient-village-reconstruction",
+  "note": "Portfolio 15c1 pages 17–23 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with aerial photo and a hand holding a phone on page 17, the site photos, problem photos and activity timeline with photo people on page 18, the festival photo collage on page 19, the renders with photo people on pages 21–24, the plant photos on page 21, and the lantern object pictures on page 24.",
+  "files": [
+    {
+      "name": "01-village-axonometric.webp",
+      "sha256": "e4315432c3c22783dce64c72570ecfb23e1f633ff3806138e8b2d3890df3b372",
+      "bytes": 525548,
+      "from": "15c1 page 20 — axonometric of the festival village with legend, full page"
+    },
+    {
+      "name": "02-development-process.webp",
+      "sha256": "28c42b756c46da91d50900934c230f9f6d252e5d2e4baf8295095d5c68374bb7",
+      "bytes": 29510,
+      "from": "page 18 — development process timeline, x 49–100 %, y 3–25 %"
+    },
+    {
+      "name": "04-initial-concept.webp",
+      "sha256": "390515ede8ab55c8a23f05e9ee29cb6f380a66d0d7d502815a3b8d80b5aae36e",
+      "bytes": 61752,
+      "from": "page 19 — initial concept diagrams, x 64–98 %, y 3–97 %"
+    },
+    {
+      "name": "05-five-elements-process.webp",
+      "sha256": "a283a0d2d0a6f541244caf006995d9bd8ea01d5fe60e809b5df087064e43886f",
+      "bytes": 22556,
+      "from": "page 21 — process from the five-element eaves, x 0–20 %, y 0–50 %"
+    },
+    {
+      "name": "06-sinking-rest-area.webp",
+      "sha256": "cd603fabae648c64a7c6f95f2449a5363a8be34ddb27d142721cf123057a5db6",
+      "bytes": 32680,
+      "from": "page 21 — sinking rest area process and before/after plans, x 0–27.5 %, y 50–100 %"
+    },
+    {
+      "name": "07-stage-deformation.webp",
+      "sha256": "060e90f239f9f1362ac22f584c87b80131fa1917de1ac55159fa0286f19bb9fb",
+      "bytes": 49034,
+      "from": "page 22 — deformation of the movable stage, x 67.5–100 %, y 50–100 %"
+    },
+    {
+      "name": "08-market-plan.webp",
+      "sha256": "ac59d42ac600001c00c2d05c29606035d051ffc777847207621469852210b224",
+      "bytes": 25656,
+      "from": "page 23 — market plan before and after renovation, x 43.7–64.5 %, y 0–39 %"
+    },
+    {
+      "name": "09-market-stall-deformation.webp",
+      "sha256": "aa77d3ec16fd3c8e2e2c1ee552d6df596479b9a0763047c6de536f633270a30f",
+      "bytes": 98348,
+      "from": "page 23 — market cart process and deformation, x 63–100 %, y 0–97 %"
+    }
+  ]
+}
