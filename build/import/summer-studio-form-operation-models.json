@@ -1,0 +1,55 @@
+{
+  "project": "Summer Studio I: Form Operations",
+  "dest": "assets/board/summer-studio-form-operation-models",
+  "note": "Portfolio ca16 page 2 cropped to eight images, WebP q88 (PIL). Not used: title with programme and teaching-assistant names, date text.",
+  "files": [
+    {
+      "name": "01-collage-model.webp",
+      "sha256": "a080774c8e2db4ee4847c32f61a5ad8ec926f4800dcd4a1be5e529a0275f6bd7",
+      "bytes": 116870,
+      "from": "ca16 page 2 — layered collage model, top view"
+    },
+    {
+      "name": "02-operation-models.webp",
+      "sha256": "8f5d3cf913810b6f73f7213456c9d4f8c41a86520cb3f3de213ba9e59f62e2dc",
+      "bytes": 22004,
+      "from": "ca16 page 2 — reflection, stack and geometry models"
+    },
+    {
+      "name": "03-operation-diagrams.webp",
+      "sha256": "7e1f038cc2010a8ce6fac15c2edc9f094c90e1ee9d1682c8d66dc19c444abbd7",
+      "bytes": 16994,
+      "from": "ca16 page 2 — intersect, span and filter diagrams"
+    },
+    {
+      "name": "04-spiral-model-a.webp",
+      "sha256": "5507b525da21a3500b025d5b87409c8ac27306da12ce64d7dd59be92ca6faa68",
+      "bytes": 20692,
+      "from": "ca16 page 2 — spiral stick model, view one"
+    },
+    {
+      "name": "05-spiral-model-b.webp",
+      "sha256": "808054683df7da706d89b97ae5e3ca24f4be887dc3804f136e239f0a101f9100",
+      "bytes": 17142,
+      "from": "ca16 page 2 — spiral stick model, view two"
+    },
+    {
+      "name": "06-filter-boxes-a.webp",
+      "sha256": "3ab8a0198651470e0e9a3b2f2d7fc5973dbd610b42f4de9201f564133032a17b",
+      "bytes": 16296,
+      "from": "ca16 page 2 — filter box model, front"
+    },
+    {
+      "name": "07-filter-boxes-b.webp",
+      "sha256": "2c8724a24036318f8b08c1248f078faff45857f168e91524d8a2302a4334cd01",
+      "bytes": 15206,
+      "from": "ca16 page 2 — filter box model, above"
+    },
+    {
+      "name": "08-layered-model-view.webp",
+      "sha256": "1a05df8bc135271c34709788129751823666b385086306578ff0ef300d6a2c3b",
+      "bytes": 48244,
+      "from": "ca16 page 2 — layered collage model, perspective"
+    }
+  ]
+}
