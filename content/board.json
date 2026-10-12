@@ -43148,6 +43148,930 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Passage in Planes",
+      "slug": "passage-in-planes-folded-paper-landscape",
+      "description": "Folded and peeled paper planes turn a lakeside slope into a landscape of paths and shelters.\n\nModel making | Landscape architecture | Paper and basswood | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "平面中的通道",
+          "description": "折疊與剝離的紙平面，把湖畔坡地變成一片由路徑與遮蔽構成的地景。\n\n模型製作｜地景建築｜紙與椴木｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/passage-in-planes-folded-paper-landscape/01-folded-plane-model.webp",
+        "assets/board/passage-in-planes-folded-paper-landscape/02-line-drawing.webp",
+        "assets/board/passage-in-planes-folded-paper-landscape/03-digital-model.webp",
+        "assets/board/passage-in-planes-folded-paper-landscape/04-circulation-diagram.webp",
+        "assets/board/passage-in-planes-folded-paper-landscape/05-model-elevation.webp",
+        "assets/board/passage-in-planes-folded-paper-landscape/06-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/passage-in-planes-folded-paper-landscape/01-folded-plane-model.webp"
+          ],
+          "captions": [
+            "The finished folded-plane model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的折面模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project was made in a summer design studio, starting from a layered abstract painting chosen as a precedent. The student pulled out two actions from it, fragmentation and layering, to guide the design of a site on a lakeside slope.",
+          "images": [
+            "assets/board/passage-in-planes-folded-paper-landscape/02-line-drawing.webp"
+          ],
+          "captions": [
+            "A composite line drawing of fragments."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品完成於一個暑期設計工作營，以一幅層疊的抽象畫作為先例。學生從中提取「碎片化」與「層疊」兩個動作，引導湖畔坡地基地的設計。",
+              "captions": [
+                "碎片化的複合線稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A language of cutting and folding surfaces was developed to express fragmentation. Basswood sticks were added to show movement and direction across the site.",
+          "images": [
+            "assets/board/passage-in-planes-folded-paper-landscape/03-digital-model.webp"
+          ],
+          "captions": [
+            "The digital model of the terrain."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生發展出一套切割與折疊表面的語彙，表達碎片化。椴木條則用來表現穿越基地的移動與方向。",
+              "captions": [
+                "地形的數位模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Folded and peeled planes respond to the natural topography and guide visitors across, around and through the terrain. Walkable roofs rise to viewpoints while the ground peels down at the centre into a quiet zone near the lake.",
+          "images": [
+            "assets/board/passage-in-planes-folded-paper-landscape/04-circulation-diagram.webp",
+            "assets/board/passage-in-planes-folded-paper-landscape/05-model-elevation.webp"
+          ],
+          "captions": [
+            "Diagram of the circulation paths.",
+            "Side view of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "折疊與剝離的平面回應自然地形，引導訪客跨越、環繞並穿過地景。可行走的屋頂升向觀景點，中央的地面則向下剝離，形成靠近湖水的安靜區域。",
+              "captions": [
+                "動線圖解。",
+                "模型側視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model avoids fixed entries and set programs, so circulation unfolds through each visitor's own choices. Basswood sticks mark sightlines and pauses among the angular planes.",
+          "images": [
+            "assets/board/passage-in-planes-folded-paper-landscape/06-model-details.webp"
+          ],
+          "captions": [
+            "Close views of planes and sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型避免固定的入口與既定機能，讓動線隨著每位訪客的選擇展開。椴木條在銳利的平面之間標示視線與停頓。",
+              "captions": [
+                "平面與木條的近看。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a precedent.\n2. Pull out its actions.\n3. Turn them into surfaces.\n4. Let people choose their path.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個先例。\n2. 提取它的動作。\n3. 把動作化為表面。\n4. 讓人自己選擇路徑。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Continuum",
+      "slug": "continuum-carved-torus-tower-render",
+      "description": "Tori carved out of stacked cylinders form a tower wrapped by one continuous circular path.\n\nDigital model | Rendering | Torque study | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "連續體",
+          "description": "以圓環體切削堆疊的圓柱，形成一座被連續環形路徑包覆的塔。\n\n數位模型｜渲染｜扭轉研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/continuum-carved-torus-tower-render/01-tower-render.webp",
+        "assets/board/continuum-carved-torus-tower-render/02-generation-steps.webp",
+        "assets/board/continuum-carved-torus-tower-render/03-section.webp",
+        "assets/board/continuum-carved-torus-tower-render/04-rotation-projection.webp",
+        "assets/board/continuum-carved-torus-tower-render/05-rotation-projection-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/continuum-carved-torus-tower-render/01-tower-render.webp"
+          ],
+          "captions": [
+            "Render of the finished tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的塔樓渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project was made in a summer design studio and explores the verb torque. The question was how a twisting action can carve spaces out of simple cylinders.",
+          "images": [
+            "assets/board/continuum-carved-torus-tower-render/02-generation-steps.webp"
+          ],
+          "captions": [
+            "Steps that generate the form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品完成於一個暑期設計工作營，探索動詞「扭轉」。題目在問，扭轉的動作如何從簡單的圓柱中切削出空間。",
+              "captions": [
+                "形體生成步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Tori were used to cut into stacked cylinders, step by step. Each step was checked in plan and in section.",
+          "images": [
+            "assets/board/continuum-carved-torus-tower-render/03-section.webp"
+          ],
+          "captions": [
+            "Section through the tower and ground."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以圓環體逐步切入堆疊的圓柱。每一步都在平面與剖面中檢查。",
+              "captions": [
+                "塔樓與地面的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Like a spiral gallery, the design replaces stairs with a continuous circular path that leads to the top. Openings were cut for views, and a carved ground plane connects to the main building.",
+          "images": [
+            "assets/board/continuum-carved-torus-tower-render/04-rotation-projection.webp"
+          ],
+          "captions": [
+            "Unrolled rotation drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "如同螺旋展廊，設計以一條通往頂部的連續環形路徑取代樓梯。牆上切出觀景開口，切削的地面則連接主建築。",
+              "captions": [
+                "展開的旋轉投影圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model was rendered into composite, section and unrolled drawings and a short animation. The drawings show how one rotating move organises the whole tower.",
+          "images": [
+            "assets/board/continuum-carved-torus-tower-render/05-rotation-projection-plan.webp"
+          ],
+          "captions": [
+            "A second rotation drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型被渲染成複合圖、剖面圖、展開圖與一段短動畫。這些圖說明一個旋轉的動作如何組織整座塔。",
+              "captions": [
+                "另一張旋轉投影圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a verb.\n2. Act it on a simple shape.\n3. Draw every step.\n4. Walk through the result.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個動詞。\n2. 把它施加在簡單形體上。\n3. 畫下每一步。\n4. 走進成果之中。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Misery House",
+      "slug": "misery-house-suspended-stick-frame",
+      "description": "A suspended frame of basswood splints and folded PVC explores how confinement tightens space.\n\nModel making | Spatial narrative | PVC and basswood | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "苦難之屋",
+          "description": "以椴木夾板與折疊PVC構成的懸吊框架，探索禁錮如何收緊空間。\n\n模型製作｜空間敘事｜PVC與椴木｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/misery-house-suspended-stick-frame/01-suspended-frame.webp",
+        "assets/board/misery-house-suspended-stick-frame/02-cutting-process.webp",
+        "assets/board/misery-house-suspended-stick-frame/03-generated-patterns.webp",
+        "assets/board/misery-house-suspended-stick-frame/04-parametric-script.webp",
+        "assets/board/misery-house-suspended-stick-frame/05-spatial-typology.webp",
+        "assets/board/misery-house-suspended-stick-frame/06-diagram-drawing.webp",
+        "assets/board/misery-house-suspended-stick-frame/07-folded-pieces.webp",
+        "assets/board/misery-house-suspended-stick-frame/08-frame-assembly.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/misery-house-suspended-stick-frame/01-suspended-frame.webp"
+          ],
+          "captions": [
+            "The finished suspended frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的懸吊框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The work is inspired by a psychological thriller in which an obsessive fan holds a writer captive in a remote house. The student explored how psychological constraint can shape the tightness of a space.",
+          "images": [
+            "assets/board/misery-house-suspended-stick-frame/06-diagram-drawing.webp"
+          ],
+          "captions": [
+            "The diagram drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品的靈感來自一部心理驚悚故事：一位偏執的書迷把作家囚禁在偏遠的房子裡。學生探索心理上的束縛如何塑造空間的緊迫感。",
+              "captions": [
+                "圖解手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A diagram of the tortures in the story was drawn and fed into a parametric script. The script turned the drawing into patterns of lines.",
+          "images": [
+            "assets/board/misery-house-suspended-stick-frame/04-parametric-script.webp",
+            "assets/board/misery-house-suspended-stick-frame/03-generated-patterns.webp"
+          ],
+          "captions": [
+            "The parametric script.",
+            "Patterns generated from the drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把故事中的折磨畫成圖解，輸入參數化腳本。腳本把圖面轉化為線條圖樣。",
+              "captions": [
+                "參數化腳本。",
+                "由圖面生成的圖樣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sections were cut from PVC board along the lines and folded. Basswood sticks joined the pieces like brittle splints, echoing the splints of a slow recovery.",
+          "images": [
+            "assets/board/misery-house-suspended-stick-frame/02-cutting-process.webp",
+            "assets/board/misery-house-suspended-stick-frame/05-spatial-typology.webp",
+            "assets/board/misery-house-suspended-stick-frame/07-folded-pieces.webp"
+          ],
+          "captions": [
+            "Cutting and folding the PVC pieces.",
+            "Spatial typology studies.",
+            "Folded PVC pieces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生沿著線條從PVC板切出片段並折疊。椴木條像脆弱的夾板般連接構件，呼應緩慢復原時的夾板。",
+              "captions": [
+                "切割與折疊PVC構件。",
+                "空間類型研究。",
+                "折疊的PVC構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The pieces were connected and hung with fishing line from a metal frame. The suspended mass gives a feeling of containment similar to the house in the story.",
+          "images": [
+            "assets/board/misery-house-suspended-stick-frame/08-frame-assembly.webp"
+          ],
+          "captions": [
+            "The frame assembled and hung."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "構件連接後以釣魚線懸吊在金屬框架上。懸浮的量體帶來與故事中那棟房子相似的禁錮感。",
+              "captions": [
+                "組裝並懸吊的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a story.\n2. Draw its tension.\n3. Translate it with code.\n4. Build the feeling.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從故事出發。\n2. 畫出它的張力。\n3. 以程式轉譯。\n4. 建構那種感受。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Edge of Thaw",
+      "slug": "edge-of-thaw-glacier-water-purifier",
+      "description": "A gallery that collects glacier meltwater and purifies it in layered tanks people can watch.\n\nModel making | Gallery | Resin and gypsum | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "融冰邊緣",
+          "description": "一座收集冰川融水、以可觀看的層疊水槽淨化的展廊。\n\n模型製作｜展廊｜樹脂與石膏｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/edge-of-thaw-glacier-water-purifier/01-gallery-model.webp",
+        "assets/board/edge-of-thaw-glacier-water-purifier/02-concept-sketch.webp",
+        "assets/board/edge-of-thaw-glacier-water-purifier/03-glacier-render.webp",
+        "assets/board/edge-of-thaw-glacier-water-purifier/04-material-tests.webp",
+        "assets/board/edge-of-thaw-glacier-water-purifier/05-filter-tests.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/edge-of-thaw-glacier-water-purifier/01-gallery-model.webp"
+          ],
+          "captions": [
+            "The finished gallery model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的展廊模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student grew interested in glacier melting caused by global warming. The project asks how a space could reuse the water collected after glaciers melt.",
+          "images": [
+            "assets/board/edge-of-thaw-glacier-water-purifier/02-concept-sketch.webp"
+          ],
+          "captions": [
+            "Concept sketch of the gallery."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生關注全球暖化造成的冰川融化。作品探問，一個空間如何再利用冰川融化後收集的水。",
+              "captions": [
+                "展廊概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The idea was sketched by hand and then built as a digital model. Ice forms were shaped to drip into the space below.",
+          "images": [
+            "assets/board/edge-of-thaw-glacier-water-purifier/03-glacier-render.webp"
+          ],
+          "captions": [
+            "Digital model of the ice form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先手繪構想，再建成數位模型。冰體形態被塑造成向下方空間滴落。",
+              "captions": [
+                "冰體形態的數位模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stone, sand and filter media were tested in each acrylic tank to refine the purifying layers. Resin and gypsum were cast for the hanging ice.",
+          "images": [
+            "assets/board/edge-of-thaw-glacier-water-purifier/04-material-tests.webp",
+            "assets/board/edge-of-thaw-glacier-water-purifier/05-filter-tests.webp"
+          ],
+          "captions": [
+            "Material tests with stone and gypsum.",
+            "Filter layer and casting tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生在每個壓克力水槽中測試石頭、沙與過濾材料，調整淨化層。懸吊的冰體則以樹脂與石膏澆鑄。",
+              "captions": [
+                "石頭與石膏的材料測試。",
+                "過濾層與澆鑄測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A transparent gallery lets visitors watch the water being purified and learn about the harm of glacier melting. A tube beneath the tanks delivers clean water directly to people.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "透明的展廊讓訪客看見水被淨化的過程，認識冰川融化的危害。水槽下方的管線把乾淨的水直接送到人們手中。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a global issue.\n2. Find a local action.\n3. Test real materials.\n4. Make the process visible.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個全球議題。\n2. 找到在地行動。\n3. 測試真實材料。\n4. 讓過程被看見。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Inert World",
+      "slug": "inert-world-multiverse-wire-assemblage",
+      "description": "A wire and found-object assemblage of a still central world circled by four rebellious planets.\n\nModel making | Assemblage | Mixed media | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "惰性世界",
+          "description": "以鐵絲與拾得物件組成的集合裝置：一個靜止的中心世界，被四顆反抗的星球環繞。\n\n模型製作｜集合裝置｜複合媒材｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/inert-world-multiverse-wire-assemblage/01-assemblage.webp",
+        "assets/board/inert-world-multiverse-wire-assemblage/02-concept-sketch.webp",
+        "assets/board/inert-world-multiverse-wire-assemblage/03-animated-series-stills.webp",
+        "assets/board/inert-world-multiverse-wire-assemblage/04-working-process.webp",
+        "assets/board/inert-world-multiverse-wire-assemblage/05-series-stills.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/inert-world-multiverse-wire-assemblage/01-assemblage.webp"
+          ],
+          "captions": [
+            "The finished assemblage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的集合裝置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The work starts from an animated science-fiction series whose hero believes life is meaningless yet keeps living, exploring other universes. The student asked how a space can express this quiet resistance.",
+          "images": [
+            "assets/board/inert-world-multiverse-wire-assemblage/03-animated-series-stills.webp"
+          ],
+          "captions": [
+            "Stills from the animated series studied."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品從一部動畫科幻影集出發，主角相信生命毫無意義，卻仍持續活著、探索其他宇宙。學生探問，空間如何表達這種安靜的反抗。",
+              "captions": [
+                "研究的動畫影集畫面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Episodes of the series were studied and sketched into a map of worlds. Each world was given its own attitude towards rules and systems.",
+          "images": [
+            "assets/board/inert-world-multiverse-wire-assemblage/02-concept-sketch.webp",
+            "assets/board/inert-world-multiverse-wire-assemblage/05-series-stills.webp"
+          ],
+          "captions": [
+            "Concept sketch of the worlds.",
+            "More stills from the series."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究影集的各集內容，畫成一張世界地圖。每個世界都被賦予面對規則與體系的不同態度。",
+              "captions": [
+                "世界的概念草圖。",
+                "更多影集畫面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A central middle planet represents a regulated, restrained world where people often feel powerless. Four planets around it each show a way to resist, break or face the systems that confine them.",
+          "images": [
+            "assets/board/inert-world-multiverse-wire-assemblage/04-working-process.webp"
+          ],
+          "captions": [
+            "Building the wire worlds."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "中央的星球代表一個受規範、受約束、令人常感無力的世界。周圍四顆星球各自呈現抵抗、打破或面對束縛體系的方式。",
+              "captions": [
+                "製作鐵絲世界。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The inert world at the centre is defined by apathy rather than laws, a chaos disguised as order. The assemblage shows the many ways beings struggle for agency in a universe that offers none.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "中心的惰性世界由冷漠而非法則定義，是偽裝成秩序的混亂。集合裝置呈現眾生在毫無回應的宇宙中爭取自主的多種方式。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch closely.\n2. Name the idea beneath.\n3. Give it worlds.\n4. Assemble them by hand.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 仔細觀看。\n2. 說出背後的想法。\n3. 賦予它世界。\n4. 親手組裝。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "CoHabit",
+      "slug": "cohabit-cat-and-human-stick-framework",
+      "description": "A climbing framework of sticks and tubes gives cats high, hidden places above shared human space.\n\nModel making | Multispecies design | Basswood and straws | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "共棲",
+          "description": "由木條與管子構成的攀爬框架，在人類共享空間上方，為貓提供高處與隱蔽處。\n\n模型製作｜跨物種設計｜椴木與吸管｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cohabit-cat-and-human-stick-framework/01-framework-model.webp",
+        "assets/board/cohabit-cat-and-human-stick-framework/02-cat-behaviour-studies.webp",
+        "assets/board/cohabit-cat-and-human-stick-framework/03-stick-grid-sketch-model.webp",
+        "assets/board/cohabit-cat-and-human-stick-framework/04-tower-test.webp",
+        "assets/board/cohabit-cat-and-human-stick-framework/05-sketch-model-row.webp",
+        "assets/board/cohabit-cat-and-human-stick-framework/06-framework-close-views.webp",
+        "assets/board/cohabit-cat-and-human-stick-framework/07-framework-overview.webp",
+        "assets/board/cohabit-cat-and-human-stick-framework/08-joint-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cohabit-cat-and-human-stick-framework/01-framework-model.webp"
+          ],
+          "captions": [
+            "The finished framework model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的框架模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began with the student's experience of caring for stray cats that came and went as they wished. The student asked whether architecture, usually built for humans, could also serve other creatures without forcing them to adapt.",
+          "images": [
+            "assets/board/cohabit-cat-and-human-stick-framework/02-cat-behaviour-studies.webp"
+          ],
+          "captions": [
+            "Studies of cat postures and behaviour."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品始於學生照顧流浪貓的經驗，這些貓來去自如。學生思考，通常為人而建的建築，能否也服務其他生物，而不強迫牠們適應。",
+              "captions": [
+                "貓的姿態與行為研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Feline behaviour was studied through a documentary and readings on animal ethics. The studies showed that cats love high places and secret, solitary spots.",
+          "images": [
+            "assets/board/cohabit-cat-and-human-stick-framework/03-stick-grid-sketch-model.webp",
+            "assets/board/cohabit-cat-and-human-stick-framework/04-tower-test.webp"
+          ],
+          "captions": [
+            "Early stick-grid sketch models.",
+            "A tall stick test."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生透過紀錄片與動物倫理的閱讀研究貓的行為。研究顯示貓喜歡高處與隱密、獨處的角落。",
+              "captions": [
+                "早期的木條網格草模。",
+                "高聳的木條測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stick grids were tested as frames for climbing at different heights. Plastic straws became tubes that cats can use as hiding spots.",
+          "images": [
+            "assets/board/cohabit-cat-and-human-stick-framework/05-sketch-model-row.webp",
+            "assets/board/cohabit-cat-and-human-stick-framework/08-joint-detail.webp"
+          ],
+          "captions": [
+            "A row of sketch models.",
+            "Detail of stick joints."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生測試木條網格作為不同高度的攀爬框架。塑膠吸管化為貓可以躲藏的管道。",
+              "captions": [
+                "一排草模。",
+                "木條接合細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The upper framework belongs to cats, while the ground level stays free for people to meet and relax. The aim is a shared space that does not force animals to fit human patterns.",
+          "images": [
+            "assets/board/cohabit-cat-and-human-stick-framework/06-framework-close-views.webp",
+            "assets/board/cohabit-cat-and-human-stick-framework/07-framework-overview.webp"
+          ],
+          "captions": [
+            "Close views of tubes and sticks.",
+            "The framework under light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "上層框架屬於貓，地面層則留給人們相聚與休憩。目標是一個不強迫動物配合人類模式的共享空間。",
+              "captions": [
+                "管子與木條的近看。",
+                "光線下的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Notice another user.\n2. Study how it lives.\n3. Design for both.\n4. Let each keep its habits.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 留意另一種使用者。\n2. 研究牠如何生活。\n3. 為雙方設計。\n4. 讓彼此保有習性。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Coffee-ground Brick",
+      "slug": "coffee-ground-brick-underground-coffee-hub",
+      "description": "Bricks of used coffee grounds and mud lead to an underground coffee hub in a downtown block.\n\nMaterial research | Architecture | Coffee grounds | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "咖啡渣磚",
+          "description": "以咖啡渣與泥土製成的磚，延伸為市中心地下的咖啡社區據點。\n\n材料研究｜建築｜咖啡渣｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/coffee-ground-brick-underground-coffee-hub/01-brick-wall-frame.webp",
+        "assets/board/coffee-ground-brick-underground-coffee-hub/02-building-models.webp",
+        "assets/board/coffee-ground-brick-underground-coffee-hub/03-exploded-diagram.webp",
+        "assets/board/coffee-ground-brick-underground-coffee-hub/04-mixing-grounds.webp",
+        "assets/board/coffee-ground-brick-underground-coffee-hub/05-drying-grounds.webp",
+        "assets/board/coffee-ground-brick-underground-coffee-hub/06-sieved-grounds.webp",
+        "assets/board/coffee-ground-brick-underground-coffee-hub/07-brick-moulds.webp",
+        "assets/board/coffee-ground-brick-underground-coffee-hub/08-brick-process-diagram.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/coffee-ground-brick-underground-coffee-hub/01-brick-wall-frame.webp"
+          ],
+          "captions": [
+            "The full-scale brick wall in its timber frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "木框中的足尺磚牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Having lived in a coffee-growing country where people built with corrugated sheets, the student wanted an ecofriendly, low-cost material for better construction. Used coffee grounds became the starting point.",
+          "images": [
+            "assets/board/coffee-ground-brick-underground-coffee-hub/04-mixing-grounds.webp",
+            "assets/board/coffee-ground-brick-underground-coffee-hub/05-drying-grounds.webp"
+          ],
+          "captions": [
+            "Mixing coffee grounds with mud.",
+            "Coffee grounds drying."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生曾住在一個咖啡產地，當地人以浪板搭建房屋，因此希望找到環保、低成本的材料改善建造。用過的咖啡渣成為起點。",
+              "captions": [
+                "把咖啡渣與泥土混合。",
+                "晾乾的咖啡渣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Grounds collected from local coffee shops were dried for several days. They were then mixed with mud and water and pressed into moulds.",
+          "images": [
+            "assets/board/coffee-ground-brick-underground-coffee-hub/06-sieved-grounds.webp",
+            "assets/board/coffee-ground-brick-underground-coffee-hub/07-brick-moulds.webp",
+            "assets/board/coffee-ground-brick-underground-coffee-hub/08-brick-process-diagram.webp"
+          ],
+          "captions": [
+            "Sieved coffee grounds.",
+            "Bricks in their moulds.",
+            "From grounds to bricks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生向在地咖啡店收集咖啡渣，晾乾數天。接著與泥土和水混合，壓入模具。",
+              "captions": [
+                "過篩的咖啡渣。",
+                "模具中的磚。",
+                "從咖啡渣到磚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The bricks were applied to a proposal for an underground coffee community in downtown San Francisco. Three levels hold a market tracing the bean-to-brew cycle, a gallery on coffee origins and a rooftop café with an open plaza.",
+          "images": [
+            "assets/board/coffee-ground-brick-underground-coffee-hub/02-building-models.webp",
+            "assets/board/coffee-ground-brick-underground-coffee-hub/03-exploded-diagram.webp"
+          ],
+          "captions": [
+            "Digital models of the building.",
+            "Exploded diagram of the levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "磚被應用在舊金山市中心地下咖啡社區的提案中。三個樓層分別容納呈現從咖啡豆到沖煮全過程的市集、介紹咖啡產地的展廊，以及附開放廣場的屋頂咖啡館。",
+              "captions": [
+                "建築的數位模型。",
+                "樓層爆炸圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Many bricks were stacked in a full-scale timber frame with an opening at the top that acts as a window. The wall shows that waste from daily coffee can become a real building material.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "大量磚塊被堆疊進足尺木框中，頂部留有一個作為窗戶的開口。這面牆證明日常咖啡的廢料可以成為真正的建材。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a real need.\n2. Collect a waste material.\n3. Make and test units.\n4. Build at full scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從真實需求出發。\n2. 收集一種廢料。\n3. 製作並測試單元。\n4. 以足尺建造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
