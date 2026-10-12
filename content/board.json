@@ -22905,6 +22905,586 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Plants and Architecture in Symbiosis",
+      "slug": "plants-and-architecture-in-symbiosis",
+      "description": "Boundary models are divided and recombined into a timber building that weaves between existing trees.\n\nTaipei, Taiwan | Architecture | Individual project | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "植物與建築的共生",
+          "description": "邊界模型經拆解與重組，成為一座穿梭於既有樹木之間的木構建築。\n\n台灣台北｜建築｜個人專案｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/plants-and-architecture-in-symbiosis/01-aerial-render.webp",
+        "assets/board/plants-and-architecture-in-symbiosis/02-boundary-sections.webp",
+        "assets/board/plants-and-architecture-in-symbiosis/03-plant-symbiosis-drawing.webp",
+        "assets/board/plants-and-architecture-in-symbiosis/04-sixteen-blocks.webp",
+        "assets/board/plants-and-architecture-in-symbiosis/05-detail-blocks-and-plans.webp",
+        "assets/board/plants-and-architecture-in-symbiosis/06-superimposed-volumes.webp",
+        "assets/board/plants-and-architecture-in-symbiosis/07-timber-joints.webp",
+        "assets/board/plants-and-architecture-in-symbiosis/08-connected-modules.webp",
+        "assets/board/plants-and-architecture-in-symbiosis/09-roof-plan.webp",
+        "assets/board/plants-and-architecture-in-symbiosis/10-light-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/plants-and-architecture-in-symbiosis/01-aerial-render.webp"
+          ],
+          "captions": [
+            "Timber volumes rising between the existing trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "在既有樹木之間升起的木構量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project explores how plants and architecture can live together in daily life. It asks how a building can relate to the surrounding buildings and existing plants through its boundaries.",
+          "images": [
+            "assets/board/plants-and-architecture-in-symbiosis/02-boundary-sections.webp",
+            "assets/board/plants-and-architecture-in-symbiosis/03-plant-symbiosis-drawing.webp"
+          ],
+          "captions": [
+            "Sections of the open boundary, light edge and selected penetration.",
+            "Drawing of different plants living in harmony above and below ground."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專案探討植物與建築如何在日常生活中共生。它追問建築如何透過自身的邊界，與周邊建築及既有植物建立關係。",
+              "captions": [
+                "開放邊界、輕盈邊緣與選擇性穿透的剖面。",
+                "不同植物在地上與地下和諧共生的圖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Three boundary types were tested in models: open boundary, light edge and selected penetration. The models were then divided, and small blocks were used to form sixteen new building blocks.",
+          "images": [
+            "assets/board/plants-and-architecture-in-symbiosis/10-light-models.webp",
+            "assets/board/plants-and-architecture-in-symbiosis/04-sixteen-blocks.webp"
+          ],
+          "captions": [
+            "Models testing how each boundary filters light and shadow.",
+            "The sixteen blocks and the nine combined blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以模型測試三種邊界類型：開放邊界、輕盈邊緣與選擇性穿透。接著將模型拆解，再以小量體組成十六種新的建築量體。",
+              "captions": [
+                "測試各種邊界如何過濾光影的模型。",
+                "十六種量體與九種組合量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The sixteen blocks were combined into nine new blocks, which were superimposed a second time into one large building body. Timber joints from node to node and plane to plane hold the pieces together.",
+          "images": [
+            "assets/board/plants-and-architecture-in-symbiosis/05-detail-blocks-and-plans.webp",
+            "assets/board/plants-and-architecture-in-symbiosis/06-superimposed-volumes.webp",
+            "assets/board/plants-and-architecture-in-symbiosis/07-timber-joints.webp"
+          ],
+          "captions": [
+            "Four detail blocks with their plans.",
+            "Volumes superimposed for the second time.",
+            "Node and plane joints in two steps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "十六種量體組合成九種新量體，再次疊合成一個大型建築體。從節點到節點、從板到板的木構接合，將各部分固定在一起。",
+              "captions": [
+                "四個細部量體及其平面。",
+                "第二次疊合後的量體。",
+                "分兩步驟的節點與板件接合。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The generated modules connect along the stairs into a porous timber building. From above, the building weaves between the existing trees, linking interior space, plants and paths.",
+          "images": [
+            "assets/board/plants-and-architecture-in-symbiosis/08-connected-modules.webp",
+            "assets/board/plants-and-architecture-in-symbiosis/09-roof-plan.webp"
+          ],
+          "captions": [
+            "Generated modules connected to form the building.",
+            "Roof plan weaving between the trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "生成的模組沿著階梯相連，成為一座多孔的木構建築。從上方看，建築穿梭於既有樹木之間，串連室內空間、植物與通道。",
+              "captions": [
+                "生成的模組相連形成建築。",
+                "穿梭於樹木之間的屋頂平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a relationship, not a form.\n2. Test boundaries with models.\n3. Combine blocks by clear rules.\n4. Let joints hold the system.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從關係出發，而不是從形式出發。\n2. 用模型測試邊界。\n3. 依清楚的規則組合量體。\n4. 讓接合撐起整個系統。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Coming Home",
+      "slug": "coming-home-brisbane-urban-design",
+      "description": "A fragmented riverside district in Brisbane is planned around daily activities, a cultural belt and public space nodes.\n\nBrisbane, Australia | Urban design | Sep–Dec 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "回家",
+          "description": "布里斯本破碎的河畔街區，以日常活動、文化帶與公共空間節點重新規劃。\n\n澳洲布里斯本｜都市設計｜2020年9–12月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/coming-home-brisbane-urban-design/01-urban-building-aerial.webp",
+        "assets/board/coming-home-brisbane-urban-design/02-site-analysis-circles.webp",
+        "assets/board/coming-home-brisbane-urban-design/03-district-conditions.webp",
+        "assets/board/coming-home-brisbane-urban-design/04-proposed-activities.webp",
+        "assets/board/coming-home-brisbane-urban-design/05-planning-process.webp",
+        "assets/board/coming-home-brisbane-urban-design/06-under-bridge-strategy.webp",
+        "assets/board/coming-home-brisbane-urban-design/07-axis-generation.webp",
+        "assets/board/coming-home-brisbane-urban-design/08-key-building-generation.webp",
+        "assets/board/coming-home-brisbane-urban-design/09-public-space-nodes.webp",
+        "assets/board/coming-home-brisbane-urban-design/10-a-a-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/coming-home-brisbane-urban-design/01-urban-building-aerial.webp"
+          ],
+          "captions": [
+            "Aerial view of the new urban building areas by the river."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "河畔新城市建築區的鳥瞰圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Brisbane is a fast-growing riverside city, and this site sits between the river, a park and busy roads and bridges. The design asks how a fragmented riverside district can become a place where people feel at home.",
+          "images": [
+            "assets/board/coming-home-brisbane-urban-design/02-site-analysis-circles.webp",
+            "assets/board/coming-home-brisbane-urban-design/03-district-conditions.webp"
+          ],
+          "captions": [
+            "Site analysis of edges, function, traffic, green space, heritage and public places.",
+            "District conditions: function, traffic, flood issues, subareas and activity."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "布里斯本是一座快速成長的河畔城市，而基地位於河流、公園與繁忙道路及橋梁之間。設計追問破碎的河畔街區，如何成為讓人有歸屬感的地方。",
+              "captions": [
+                "基地分析：周邊、機能、交通、綠地、文化資產與公共場所。",
+                "街區現況：機能、交通、淹水問題、分區與活動。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The study maps economics, public realm, transport, social and cultural life and built form as layers of the city. Everyday activities such as walking, cooking, studying and dancing are linked into a network for the new district.",
+          "images": [
+            "assets/board/coming-home-brisbane-urban-design/04-proposed-activities.webp",
+            "assets/board/coming-home-brisbane-urban-design/05-planning-process.webp"
+          ],
+          "captions": [
+            "Proposed activities linked across the district.",
+            "Five planning steps from platforms to local natural elements."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究將經濟、公共領域、交通、社會文化生活與建成形態，視為城市的不同圖層加以分析。走路、烹飪、讀書與跳舞等日常活動，被串連成新街區的活動網絡。",
+              "captions": [
+                "串連整個街區的活動構想。",
+                "從平台到在地自然元素的五個規劃步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A cultural belt and two axes fix the central square, and each parcel then grows its own blocks and vertical cues. The grey space under the bridge is partitioned, cross-linked and streamlined into a lively public route.",
+          "images": [
+            "assets/board/coming-home-brisbane-urban-design/06-under-bridge-strategy.webp",
+            "assets/board/coming-home-brisbane-urban-design/07-axis-generation.webp",
+            "assets/board/coming-home-brisbane-urban-design/08-key-building-generation.webp"
+          ],
+          "captions": [
+            "Strategy and planning steps for the space under the bridge.",
+            "Planning and axis generation for the building parcels.",
+            "Generation of key buildings such as the farm, school, market and apartments."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "文化帶與兩條軸線確立了中央廣場，各街廓再生成各自的量體與垂直線索。橋下的灰色空間經過分區、串連與流線整理，成為充滿活力的公共路徑。",
+              "captions": [
+                "橋下空間的策略與規劃步驟。",
+                "建築街廓的規劃與軸線生成。",
+                "農場、學校、市場與公寓等關鍵建築的生成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Public space nodes host gatherings, rest and performance between the new buildings. The section shows low, layered blocks stepping down to the river in front of the city towers.",
+          "images": [
+            "assets/board/coming-home-brisbane-urban-design/09-public-space-nodes.webp",
+            "assets/board/coming-home-brisbane-urban-design/10-a-a-section.webp"
+          ],
+          "captions": [
+            "Public space nodes for gathering and performance.",
+            "A-A section from the city towers down to the river."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "公共空間節點在新建築之間容納聚會、休憩與表演。剖面呈現低矮而層疊的量體，在城市高樓前方向河岸逐步降低。",
+              "captions": [
+                "供聚會與表演的公共空間節點。",
+                "從城市高樓延伸至河岸的A-A剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the city in layers.\n2. Start from daily activities.\n3. Fix axes before buildings.\n4. Turn leftover space public.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 以圖層解讀城市。\n2. 從日常活動出發。\n3. 先定軸線再放建築。\n4. 把剩餘空間還給公共。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Herbal Garden",
+      "slug": "herbal-garden-medicine-gallery",
+      "description": "An abandoned herb-growing school plot becomes an art gallery and garden about traditional Chinese medicine.\n\nMacau, China | Art gallery | Mar–May 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "草藥花園",
+          "description": "曾種植草藥的廢棄校地，化為一座關於中醫藥的藝術館與花園。\n\n中國澳門｜藝術館｜2020年3–5月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/herbal-garden-medicine-gallery/01-garden-aerial.webp",
+        "assets/board/herbal-garden-medicine-gallery/02-site-map.webp",
+        "assets/board/herbal-garden-medicine-gallery/03-function-areas.webp",
+        "assets/board/herbal-garden-medicine-gallery/04-tai-chi-and-foot-concept.webp",
+        "assets/board/herbal-garden-medicine-gallery/05-block-steps.webp",
+        "assets/board/herbal-garden-medicine-gallery/06-master-plan.webp",
+        "assets/board/herbal-garden-medicine-gallery/07-section-a-a.webp",
+        "assets/board/herbal-garden-medicine-gallery/08-experience-area.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/herbal-garden-medicine-gallery/01-garden-aerial.webp"
+          ],
+          "captions": [
+            "Planting rings and a sunken amphitheatre in the herbal garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "草藥花園中的種植圓環與下沉劇場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site is an abandoned school plot in Macau that was once used to grow traditional Chinese medicine herbs. Hospitals and dormitories for medical students now surround it, so the project continues the old use with an art gallery about traditional Chinese medicine.",
+          "images": [
+            "assets/board/herbal-garden-medicine-gallery/02-site-map.webp"
+          ],
+          "captions": [
+            "Site map with the planting area marked."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地是澳門一處曾用來種植中草藥的廢棄校地。周邊如今有醫院與醫學生宿舍，因此專案延續原本的用途，打造一座關於中醫藥的藝術館。",
+              "captions": [
+                "標示種植區的基地圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Interviews with people around the site and a questionnaire showed that most people have only heard of traditional Chinese medicine. Most of those who have learned about it did so through exhibitions, which points to a gallery with several ways to learn.",
+          "images": [
+            "assets/board/herbal-garden-medicine-gallery/03-function-areas.webp"
+          ],
+          "captions": [
+            "Function areas for exhibition, discussion, projection, experience, light food and planting."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "對周邊居民的訪談與問卷顯示，多數人只聽過中醫藥而不甚了解。曾經學習過的人大多透過展覽認識它，這指向一座提供多種學習方式的展館。",
+              "captions": [
+                "展覽、討論、投影、體驗、輕食與種植等機能區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The S-shaped curve of Tai Chi becomes the flow line of the site, and the foot acupoint map divides the site into areas. A round floor is cut along the curve, divided into two parts, linked again and opened with an atrium.",
+          "images": [
+            "assets/board/herbal-garden-medicine-gallery/04-tai-chi-and-foot-concept.webp",
+            "assets/board/herbal-garden-medicine-gallery/05-block-steps.webp"
+          ],
+          "captions": [
+            "Concept drawn from the Tai Chi curve and the foot acupoint map.",
+            "Five steps from an ordinary floor to an open atrium."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "太極的S形曲線成為基地的動線，腳底穴位圖則用來劃分基地區塊。圓形樓板沿著曲線切開、分為兩半，再重新連結並開出中庭。",
+              "captions": [
+                "取自太極曲線與腳底穴位圖的概念。",
+                "從普通樓板到開放中庭的五個步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Two vaulted buildings hold exhibition, projection, office and history areas across a basement and a first floor. Planting areas, sunken spaces and an experience area for making herbal tea let visitors learn by doing.",
+          "images": [
+            "assets/board/herbal-garden-medicine-gallery/06-master-plan.webp",
+            "assets/board/herbal-garden-medicine-gallery/07-section-a-a.webp",
+            "assets/board/herbal-garden-medicine-gallery/08-experience-area.webp"
+          ],
+          "captions": [
+            "Master plan of the buildings and planting areas.",
+            "Section A-A through the two vaulted halls.",
+            "Experience area for making herbal tea."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "兩棟拱形建築在地下層與一樓容納展覽、投影、辦公與歷史區。種植區、下沉空間與製作草本茶的體驗區，讓參觀者在動手中學習。",
+              "captions": [
+                "建築與種植區的總平面圖。",
+                "穿越兩座拱形大廳的A-A剖面。",
+                "製作草本茶的體驗區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Keep the memory of the site.\n2. Ask the neighbours first.\n3. Borrow form from the subject.\n4. Let visitors learn by doing.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 保留基地的記憶。\n2. 先問問周邊的人。\n3. 從主題本身借取形式。\n4. 讓參觀者動手學習。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "The Home of Pottery",
+      "slug": "home-of-pottery-jingdezhen",
+      "description": "A sunken building in a ceramics village follows the steps of making porcelain to give young makers a place to work and show.\n\nJingdezhen, China | Culture and studios | Jun–Aug 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "陶瓷之家",
+          "description": "陶瓷村落中的下沉建築，依循瓷器的製作步驟，為年輕創作者提供創作與展示的場所。\n\n中國景德鎮｜文化與工作室｜2020年6–8月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/home-of-pottery-jingdezhen/01-night-aerial.webp",
+        "assets/board/home-of-pottery-jingdezhen/02-site-layout.webp",
+        "assets/board/home-of-pottery-jingdezhen/03-ceramic-process-concept.webp",
+        "assets/board/home-of-pottery-jingdezhen/04-water-and-sun-yards.webp",
+        "assets/board/home-of-pottery-jingdezhen/05-programme-axonometric.webp",
+        "assets/board/home-of-pottery-jingdezhen/06-ground-floor-plan.webp",
+        "assets/board/home-of-pottery-jingdezhen/07-master-plan.webp",
+        "assets/board/home-of-pottery-jingdezhen/08-sections.webp",
+        "assets/board/home-of-pottery-jingdezhen/09-elevations.webp",
+        "assets/board/home-of-pottery-jingdezhen/10-study-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/home-of-pottery-jingdezhen/01-night-aerial.webp"
+          ],
+          "captions": [
+            "The sunken building glowing on the hillside at night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "夜晚在山坡上發光的下沉建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site sits on the edge of a village in Jingdezhen, the hometown of ceramics, where many artists have set up studios. Young makers from outside who cannot fit into local life need a place to show their work, a good place to create and a way into the community.",
+          "images": [
+            "assets/board/home-of-pottery-jingdezhen/02-site-layout.webp"
+          ],
+          "captions": [
+            "Site layout: the new road links the new and old buildings, and the sunken building keeps the mountain views."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於陶瓷之鄉景德鎮一座村落的邊緣，附近有許多藝術家設立工作室。無法融入在地生活的外來年輕創作者，需要展示作品的地方、良好的創作環境，以及融入社區的途徑。",
+              "captions": [
+                "基地配置：新道路連結新舊建築，下沉的建築保留了望向山的視野。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The design follows the order in which ceramics are made, from china clay and moulding to glazing, firing and the finished piece. Each step is matched with an element such as water, sun or tree and turned into a space.",
+          "images": [
+            "assets/board/home-of-pottery-jingdezhen/03-ceramic-process-concept.webp"
+          ],
+          "captions": [
+            "Concept: each step of making ceramics becomes a space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "設計依循陶瓷的製作順序，從瓷土、成型到上釉、燒製與成品。每個步驟都對應水、陽光或樹木等元素，並轉化為空間。",
+              "captions": [
+                "概念：陶瓷製作的每個步驟化為一個空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A sunken entrance, a courtyard fed by the stream, a zigzag corridor and a sunny open space follow the making process in sequence. Two sunken courtyards, a water yard and a sun yard, stand for the water and fire that porcelain needs.",
+          "images": [
+            "assets/board/home-of-pottery-jingdezhen/04-water-and-sun-yards.webp",
+            "assets/board/home-of-pottery-jingdezhen/10-study-models.webp"
+          ],
+          "captions": [
+            "Water yard and sun yard in section and axonometric.",
+            "Study models of the sunken building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "下沉入口、引入溪水的庭院、曲折的廊道與陽光充足的開放空間，依序呼應製作流程。水院與日院兩座下沉庭院，象徵瓷器所需的水與火。",
+              "captions": [
+                "水院與日院的剖面與軸測圖。",
+                "下沉建築的研究模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The building links production, tourism and communication so that artists, locals and visitors can share space. Sections and elevations show a low building tucked into the slope beneath the mountain.",
+          "images": [
+            "assets/board/home-of-pottery-jingdezhen/05-programme-axonometric.webp",
+            "assets/board/home-of-pottery-jingdezhen/06-ground-floor-plan.webp",
+            "assets/board/home-of-pottery-jingdezhen/07-master-plan.webp",
+            "assets/board/home-of-pottery-jingdezhen/08-sections.webp",
+            "assets/board/home-of-pottery-jingdezhen/09-elevations.webp"
+          ],
+          "captions": [
+            "Programme axonometric for production, tourism and communication.",
+            "Ground floor plan.",
+            "Master plan between the stream, the mountain and the old building.",
+            "Sections A-A and B-B.",
+            "Elevations C-C and D-D."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築串連生產、觀光與交流，讓藝術家、在地居民與遊客共享空間。剖面與立面呈現一座嵌入山坡、低伏於山下的建築。",
+              "captions": [
+                "生產、觀光與交流的機能軸測圖。",
+                "一樓平面圖。",
+                "位於溪流、山與老建築之間的總平面圖。",
+                "A-A與B-B剖面。",
+                "C-C與D-D立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Design for a real user group.\n2. Follow how things are made.\n3. Pair each step with an element.\n4. Sink in to keep the views.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 為真實的使用族群設計。\n2. 依循事物的製作方式。\n3. 為每個步驟配上一種元素。\n4. 下沉建築以保留視野。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
