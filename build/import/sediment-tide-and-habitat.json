@@ -1,0 +1,61 @@
+{
+  "project": "Sediment, Tide, and Habitat",
+  "dest": "assets/board/sediment-tide-and-habitat",
+  "note": "Portfolio 2712 pages 2-5 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the cover, the title text, the research text and methods tables.",
+  "files": [
+    {
+      "name": "01-coastal-park-view.webp",
+      "sha256": "072d0d9e158909afc35d3f3e450f8425b3b92443442d60f0507d321acd56448c",
+      "bytes": 207284,
+      "from": "2712 page 2 — coastal park perspective"
+    },
+    {
+      "name": "02-flood-and-bird-map.webp",
+      "sha256": "be2fd8066cbde16894527a96606150983310651102400e6dd25dea5d25ebcaf3",
+      "bytes": 284496,
+      "from": "2712 page 2 — flood machine and bird distribution map"
+    },
+    {
+      "name": "03-storm-surge-scenarios.webp",
+      "sha256": "630531701ab51f8c10b4f0a8582955dd715b2306d3ab4bdc1df0281b4ef10e48",
+      "bytes": 286862,
+      "from": "2712 page 3 — storm surge scenarios"
+    },
+    {
+      "name": "04-wetland-section.webp",
+      "sha256": "f6ff1337a79b9141bdfcbf677d8eb04c765d31a7f73a8aae76c294860b0f20f9",
+      "bytes": 131150,
+      "from": "2712 page 3 — freshwater and brackish wetland section"
+    },
+    {
+      "name": "05-changing-coastal-landscape.webp",
+      "sha256": "46c41a57a6545fce516cba4a58f45dab177d474beaedc6c7e5d10da160cbd69f",
+      "bytes": 320300,
+      "from": "2712 page 4 — changing coastal landscape maps"
+    },
+    {
+      "name": "06-evolving-habitat-pattern.webp",
+      "sha256": "508967092c981483e3ffcefc3dea75bdb094af0ef16cce1282b209032093bc2e",
+      "bytes": 163014,
+      "from": "2712 page 4 — evolving habitat pattern"
+    },
+    {
+      "name": "07-species-diagram.webp",
+      "sha256": "c3a522d7d1e20b3084abba68a98216fc071e8fda96330d8cfae4df7e0e476ca8",
+      "bytes": 52668,
+      "from": "2712 page 5 — species diagram"
+    },
+    {
+      "name": "08-landscape-over-time.webp",
+      "sha256": "2b72aa696e6b0efaef0c81c012a79445f4d84a0467273eea0e93603d2aa5d4fb",
+      "bytes": 186912,
+      "from": "2712 page 5 — landscape evolution over time"
+    },
+    {
+      "name": "09-habitat-renderings.webp",
+      "sha256": "b4b072386d09acf0168abeb49090628330eb8c08648eec8ae39851bf02c03f1b",
+      "bytes": 228402,
+      "from": "2712 page 5 — habitat renderings"
+    }
+  ]
+}
