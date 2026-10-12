@@ -1,7 +1,7 @@
 {
   "project": "The Home of Pottery",
   "dest": "assets/board/home-of-pottery-jingdezhen",
-  "note": "Portfolio 6c37 pages 17–21 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title, the satellite and site photos, the photos of young makers, the user group charts and cartoon faces on page 17, the ceramic process photos on page 18, the renders with photo figures on page 20, the draft models with sketches on page 21 and the body text.",
+  "note": "Portfolio 6c37 pages 17–21 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title, the satellite and site photos, the photos of young makers, the user group charts and cartoon faces on page 17, the ceramic process photos on page 18, the renders with photo figures and the sections with photo cut-out figures on page 20, the draft models with sketches on page 21 and the body text.",
   "files": [
     {
       "name": "01-night-aerial.webp",
@@ -44,12 +44,6 @@
       "sha256": "d9afb3f6756cc137d9502057998202034ea5518bc26d6b504fd68601858af3e2",
       "bytes": 82488,
       "from": "page 19 — master plan, x 63–100 %, y 41–100 %"
-    },
-    {
-      "name": "08-sections.webp",
-      "sha256": "8ae392b6ecc13d79a1e2c80cd8a8ad55762f14f87668d34e37ce838f6c63b3ff",
-      "bytes": 73586,
-      "from": "page 20 — sections A-A and B-B, x 0–100 %, y 31–55 %"
     },
     {
       "name": "09-elevations.webp",

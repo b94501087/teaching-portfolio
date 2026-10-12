@@ -1,0 +1,67 @@
+{
+  "project": "Port of Culture",
+  "dest": "assets/board/port-of-culture-mariupol",
+  "note": "Portfolio f45d pages 2–7 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the building history timeline with historic photos and symbols, the photos of the damaged building, the portrait and photo thumbnails on page 3, the photo circles in the form strategy, the theme collages on page 4, the three render vignettes with photo people on page 5, the section with photo figures on page 7 and the body text.",
+  "files": [
+    {
+      "name": "01-membrane-landmark.webp",
+      "sha256": "48dcc01735963d4b7dd9c74eabf6e77225ed93750b2e4b28b2b0b913013a516f",
+      "bytes": 121012,
+      "from": "f45d page 5 — long render of the membrane building, x 0–100 %, y 53–95.5 %"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "7dc63a7ac7e9d13c6d0dd0b2ab0f37dd0641420093b1c324dba6f4f3512bad73",
+      "bytes": 106018,
+      "from": "page 2 — site analysis axonometric and maps, x 27.5–58.5 %, y 5–52 %"
+    },
+    {
+      "name": "03-string-form-concept.webp",
+      "sha256": "6482c05e160071b6717c97a8b86e017c3143920ba409dafa8287c05aebd76a70",
+      "bytes": 42756,
+      "from": "page 3 — string model form concept, x 0–58.5 %, y 15.5–47 %"
+    },
+    {
+      "name": "04-location-impact.webp",
+      "sha256": "a5c067bd80718dee20e180b15a3bc37d423c6ae9255d6a98e990652adfbdc316",
+      "bytes": 71174,
+      "from": "page 5 — four location impact diagrams, x 3–46 %, y 6–50 %"
+    },
+    {
+      "name": "05-model-studies.webp",
+      "sha256": "adc259a6a5375ca153409c472e0daca66ecc56b678923a8a06739cac36a492b0",
+      "bytes": 41226,
+      "from": "page 3 — model studies of space elements, x 58.5–100 %, y 50–100 %"
+    },
+    {
+      "name": "06-space-elements.webp",
+      "sha256": "08891a2d9344a441f19dd9c0adba1dd84f6f3570174f605680b402f29cd8b2a7",
+      "bytes": 197512,
+      "from": "page 4 — space elements and spatial connections, x 0–100 %, y 38–97 %"
+    },
+    {
+      "name": "07-exploded-axonometry.webp",
+      "sha256": "5f8fde1ce649cecac2c1bba462c4748fae159d04e508b9349d0f05ece4baf3e1",
+      "bytes": 124378,
+      "from": "page 6 — exploded axonometry, x 0–48 %, y 8.5–100 %"
+    },
+    {
+      "name": "08-interior-renderings.webp",
+      "sha256": "62774cfdbcabb8f01f500296ef4099d979adac75718912babf9ad25c437d96fa",
+      "bytes": 123454,
+      "from": "page 6 — nine interior renderings, x 50–100 %, y 3–100 %"
+    },
+    {
+      "name": "09-node-diagrams.webp",
+      "sha256": "00ab0b3f90ee6c104c621e77a7d59a65dca93148899a52e6a0926196f4ae621d",
+      "bytes": 71388,
+      "from": "page 7 — roof and membrane node diagrams, x 52–100 %, y 0–57 %"
+    },
+    {
+      "name": "10-structure.webp",
+      "sha256": "18508caa09886e8d3e3d2517aa7d1f55ed17e746de473b2f2e56c24a7a9bb2e6",
+      "bytes": 63970,
+      "from": "page 7 — structure diagram, x 52–100 %, y 57–100 %"
+    }
+  ]
+}
