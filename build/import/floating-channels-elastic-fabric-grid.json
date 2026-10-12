@@ -1,0 +1,67 @@
+{
+  "project": "Floating Channels",
+  "dest": "assets/board/floating-channels-elastic-fabric-grid",
+  "note": "Portfolio d824 pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "92235632f45739c242b7bb55ba3f14d6cb8f57064f7cf945323314a6e04f28ae",
+      "bytes": 64506,
+      "from": "d824 page 5 — final model"
+    },
+    {
+      "name": "02-hand-drawing.webp",
+      "sha256": "3d2ab8577685575a13aca4ff191f38ea040b6f53c0881d5f44471baed0c3129b",
+      "bytes": 80192,
+      "from": "d824 page 4 — hand drawing"
+    },
+    {
+      "name": "03-fabric-in-frame.webp",
+      "sha256": "c912ff63b8862223b13f380c2980d2d9be8962d17ecb19a62a3c4427c24f85e5",
+      "bytes": 14920,
+      "from": "d824 page 4 — fabric in frame"
+    },
+    {
+      "name": "04-fixing-channels.webp",
+      "sha256": "86a0d261f9edb1fcbc7ee4ff65d1c26d6935749e8f9170938838ad7db4d74a7e",
+      "bytes": 14680,
+      "from": "d824 page 4 — fixing channels"
+    },
+    {
+      "name": "05-bare-cubic-frame.webp",
+      "sha256": "ae91de36e0a500b712ea6f2e3a64a8625afdb0733b10a30fbca736e33dff2596",
+      "bytes": 16812,
+      "from": "d824 page 4 — bare cubic frame"
+    },
+    {
+      "name": "06-frame-on-mat.webp",
+      "sha256": "f53fc070270efff57793c27fb4e23df0fa94db58d02e7f58b405e70c4295e160",
+      "bytes": 21176,
+      "from": "d824 page 4 — frame on mat"
+    },
+    {
+      "name": "07-tunnels-and-balls.webp",
+      "sha256": "70385f3d38a375d2f162f4f8e7a3093bef28d0c34fce07ba0ccc49f356a2278d",
+      "bytes": 16386,
+      "from": "d824 page 5 — tunnels and balls"
+    },
+    {
+      "name": "08-holographic-panel.webp",
+      "sha256": "e6008287ff04f8dcd502f0a21854b43ac09e050f572557b4740ab6cb98488d53",
+      "bytes": 15990,
+      "from": "d824 page 5 — holographic panel"
+    },
+    {
+      "name": "09-coloured-film-level.webp",
+      "sha256": "576a191bc2996f5730070097831a85f433b450f7beb0399b4affef8865ca6266",
+      "bytes": 14230,
+      "from": "d824 page 5 — coloured film level"
+    },
+    {
+      "name": "10-tensioned-surfaces.webp",
+      "sha256": "a27e37dc7f46385959045e61f53fa6c577eab38bf20c3ff1090e429a85ec4252",
+      "bytes": 14806,
+      "from": "d824 page 5 — tensioned surfaces"
+    }
+  ]
+}
