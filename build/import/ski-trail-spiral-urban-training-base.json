@@ -1,0 +1,67 @@
+{
+  "project": "Ski Trail",
+  "dest": "assets/board/ski-trail-spiral-urban-training-base",
+  "note": "Portfolio 606b pages 16-17 cropped to ten images, WebP q88 (PIL). Not used: title and text, skiing photos, technique diagrams, process photos, signature.",
+  "files": [
+    {
+      "name": "01-training-base.webp",
+      "sha256": "a1cf63c946dee6d772687d4bef561987377202d6744aa2b4a133c97d8bb441e3",
+      "bytes": 61142,
+      "from": "606b page 17 — training base"
+    },
+    {
+      "name": "02-drafts.webp",
+      "sha256": "c2bbb0d49d16f4992380015582b54e39659bd3ddc8b3f737b88de5a4725ca2df",
+      "bytes": 25004,
+      "from": "606b page 16 — drafts"
+    },
+    {
+      "name": "03-spiral-model.webp",
+      "sha256": "609a40b4daa18114998903ed5e713f9f6ae33cdf47d8d55ebaed81d912b305f3",
+      "bytes": 40588,
+      "from": "606b page 16 — spiral model"
+    },
+    {
+      "name": "04-spiral-side-a.webp",
+      "sha256": "912c5a05dbffa68530cb8aa087e4f4c191f2b873d5e51c1c2f724265c144cf12",
+      "bytes": 18772,
+      "from": "606b page 16 — spiral side a"
+    },
+    {
+      "name": "05-spiral-side-b.webp",
+      "sha256": "09fc57056a95695c210514f400eda90d13175bd55629c67590b7eaf46d31f9f0",
+      "bytes": 15234,
+      "from": "606b page 16 — spiral side b"
+    },
+    {
+      "name": "06-ring-model.webp",
+      "sha256": "5c5254898b634b19505cd8ca65d0826f37e25e6caf1eeacac1aed2501a821b39",
+      "bytes": 47606,
+      "from": "606b page 16 — ring model"
+    },
+    {
+      "name": "07-perspective-sketch.webp",
+      "sha256": "52234e00c2fc7b4d38fbbe96d8325e70d272bcf033b55cbcb6ff5ded3e99c36f",
+      "bytes": 106160,
+      "from": "606b page 17 — perspective sketch"
+    },
+    {
+      "name": "08-top-view.webp",
+      "sha256": "2443b24c36e66ae7d607497eae6695521e84464e68a6267a57948b204989cb64",
+      "bytes": 32582,
+      "from": "606b page 17 — top view"
+    },
+    {
+      "name": "09-inside-view.webp",
+      "sha256": "0c7342531e8d55f1562c3e5b14cc55c38df7eb76ef2c7be2747ded155637d31c",
+      "bytes": 23166,
+      "from": "606b page 17 — inside view"
+    },
+    {
+      "name": "10-side-view.webp",
+      "sha256": "bac479020923020018758204ab28f8d3d84d6daa157c66fa260b108b2c382029",
+      "bytes": 55272,
+      "from": "606b page 17 — side view"
+    }
+  ]
+}
