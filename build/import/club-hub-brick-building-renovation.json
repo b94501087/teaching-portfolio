@@ -1,0 +1,61 @@
+{
+  "project": "Club Hub",
+  "dest": "assets/board/club-hub-brick-building-renovation",
+  "note": "Portfolio dab3 pages 9–12 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with an instructor name and rendering on page 8, the user analysis comics with photos of people on page 8, the concept diagram text naming a company on page 9, the existing situation photos on page 10, the case study photos of named buildings and brands on page 11, and the page text block on page 12. No retouching.",
+  "files": [
+    {
+      "name": "01-long-section.webp",
+      "sha256": "9495937b9c655dbec094aad28083a7d9e6ed4b0effe98de64c6c3d3c1981e4fe",
+      "bytes": 106160,
+      "from": "dab3 page 12 — long section through the renovated building, x 2–75 %, y 25–64.5 %"
+    },
+    {
+      "name": "02-space-development.webp",
+      "sha256": "c6586c5c1c4066ad6b5c502269429e79e255bae0bc8ead7a65635f5148fcc807",
+      "bytes": 51676,
+      "from": "page 9 — space development diagrams, x 60–100 %, y 0–42 %"
+    },
+    {
+      "name": "03-retrofitting-development.webp",
+      "sha256": "da77ec60986e32c4480589486cdafaeaea3f0af11a6a6e92b175ecf8aba2f6d1",
+      "bytes": 25772,
+      "from": "page 10 — retrofitting development steps, x 0–100 %, y 23.5–45 %"
+    },
+    {
+      "name": "04-explosion-analysis.webp",
+      "sha256": "222596e865712001301303a79915e1188c497bf1efdf8e69bd9b61feb6a698f2",
+      "bytes": 141236,
+      "from": "page 11 — explosion analysis diagram, x 0–57.5 %, y 0–100 %"
+    },
+    {
+      "name": "05-street-view.webp",
+      "sha256": "452160e0007a3997926ca93cc3d3611c9e0af70411d0ad32bc02f378fc206821",
+      "bytes": 145470,
+      "from": "page 9 — street view rendering, x 0–66.5 %, y 42–100 %"
+    },
+    {
+      "name": "06-interior-scenes.webp",
+      "sha256": "9f437391654f9ed22cab86ba88e737eae51438a9c59737c83dc922faadfbc648",
+      "bytes": 154044,
+      "from": "page 10 — interior scenes, x 0–55.5 %, y 46–100 %"
+    },
+    {
+      "name": "07-open-floors.webp",
+      "sha256": "19594c722bcd4398e7e22e3a153ce211303bde0daf6c935d164009d3b2be62dc",
+      "bytes": 114016,
+      "from": "page 10 — open floors rendering, x 55.5–100 %, y 46–100 %"
+    },
+    {
+      "name": "08-brick-models.webp",
+      "sha256": "2facbacbd587bfce58111b8cbffd078e5c81d61cae549591e8a690d68fe82550",
+      "bytes": 115602,
+      "from": "page 12 — brick and physical models, x 2–68 %, y 64–97.5 %"
+    },
+    {
+      "name": "09-detail-sections.webp",
+      "sha256": "cce003b39694613d4dce6bc8536b0c02dedf66daf06b4e41a38191580fbd3139",
+      "bytes": 59510,
+      "from": "page 12 — detail sections A and B, x 75.5–100 %, y 2–100 %"
+    }
+  ]
+}
