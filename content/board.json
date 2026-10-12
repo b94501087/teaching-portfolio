@@ -44072,6 +44072,1134 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Scraps to Soil",
+      "slug": "scraps-to-soil-kitchen-waste-compost-system",
+      "description": "A kitchen-waste bin grows into a full composting system, first as a model and then as a working machine.\n\nModel making | Product and system design | Concrete, wood and acrylic | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "從廚餘到土壤",
+          "description": "一個廚餘桶發展成完整的堆肥系統，先做成模型，再做成可運轉的機器。\n\n模型製作｜產品與系統設計｜混凝土、木材與壓克力｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/01-composting-model.webp",
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/02-model-garden-view.webp",
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/03-model-frame-view.webp",
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/04-system-sketch.webp",
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/05-wheel-sketch.webp",
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/06-site-sketch.webp",
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/07-built-machine.webp",
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/08-bearing-detail.webp",
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/09-bin-detail.webp",
+        "assets/board/scraps-to-soil-kitchen-waste-compost-system/10-nozzle-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/01-composting-model.webp"
+          ],
+          "captions": [
+            "The composting system model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "堆肥系統模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began with the student's daily routine of taking out kitchen waste at home. A bin that filters out liquid waste came first, but a single object could not make a lasting impact.",
+          "images": [
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/04-system-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of the waste-to-soil cycle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品起於學生在家倒廚餘的日常。最先設計的是能濾除液體的廚餘桶，但單一物件無法帶來長久的影響。",
+              "captions": [
+                "廚餘變土壤的循環草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The idea grew into a complete system in which a wheel feeds a grinder and turns waste into soil. Sketches mapped each step from kitchen to garden.",
+          "images": [
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/05-wheel-sketch.webp",
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/06-site-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of the wheel and grinder.",
+            "Sketches of the garden layout."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "構想發展成一套完整系統：水車帶動研磨機，把廚餘變成土壤。草圖標出從廚房到花園的每一步。",
+              "captions": [
+                "水車與研磨機草圖。",
+                "花園配置草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A concrete and wood model placed the grinder under an orange frame among garden beds. The student also sold the bins at an Earth Day sale.",
+          "images": [
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/02-model-garden-view.webp",
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/03-model-frame-view.webp"
+          ],
+          "captions": [
+            "Garden beds around the system.",
+            "The orange frame over the grinder."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以混凝土與木材製作模型，把研磨機放在花圃之間的橘色框架下。學生也在一場地球日義賣中賣出了這些廚餘桶。",
+              "captions": [
+                "系統周圍的花圃。",
+                "研磨機上方的橘色框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A full-size machine with acrylic boards, a metal frame and a pipe nozzle system was then built. With local support, it was introduced to a village to address organic waste in rivers.",
+          "images": [
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/07-built-machine.webp",
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/08-bearing-detail.webp",
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/09-bin-detail.webp",
+            "assets/board/scraps-to-soil-kitchen-waste-compost-system/10-nozzle-detail.webp"
+          ],
+          "captions": [
+            "Top of the built machine.",
+            "Bearing and frame detail.",
+            "A drawer of the waste bin.",
+            "The pipe nozzle detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "學生接著以壓克力板、金屬框架與管嘴系統打造出實尺寸的機器。在地方支持下，機器被引入一個村落，處理河流中的有機廢棄物。",
+              "captions": [
+                "實體機器的上部。",
+                "軸承與框架細節。",
+                "廚餘桶的抽屜。",
+                "管嘴細節。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a daily habit.\n2. Grow it into a system.\n3. Model the whole cycle.\n4. Build it at full size.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從日常習慣出發。\n2. 把它擴展成系統。\n3. 以模型呈現完整循環。\n4. 做成實際尺寸。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Daya Bay Boathouse",
+      "slug": "daya-bay-boathouse-wooden-rod-joinery",
+      "description": "A sailing base rethought as a boathouse of light wooden rods and woven joints.\n\nModel making | Architecture | Wooden rods and cardboard | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "大亞灣船屋",
+          "description": "以輕巧木桿與交織接頭，重新構想一座帆船基地的船屋。\n\n模型製作｜建築｜木桿與紙板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/01-boathouse-model.webp",
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/02-front-view.webp",
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/03-joinery-photo.webp",
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/04-boat-rack-photo.webp",
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/05-sketches-a.webp",
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/06-sketches-b.webp",
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/07-sketches-c.webp",
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/08-interior-view.webp",
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/09-detail-views.webp",
+        "assets/board/daya-bay-boathouse-wooden-rod-joinery/10-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/01-boathouse-model.webp"
+          ],
+          "captions": [
+            "The finished boathouse model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的船屋模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "As a sailor, the student noticed many functional shortcomings in the infrastructure of a sailing base. The project responds directly to the needs found on site.",
+          "images": [
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/04-boat-rack-photo.webp"
+          ],
+          "captions": [
+            "The existing boat racks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "身為帆船手，學生注意到帆船基地設施的許多功能不足。作品直接回應在現場發現的需求。",
+              "captions": [
+                "既有的船架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Japanese and Hakka wooden joinery became the main references. The student studied how rods interlock without heavy connectors.",
+          "images": [
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/03-joinery-photo.webp",
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/05-sketches-a.webp"
+          ],
+          "captions": [
+            "Wooden joinery studied on site.",
+            "Sketches of roof and frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "日式與客家木構接合是主要參考。學生研究木桿如何不靠厚重五金而彼此咬合。",
+              "captions": [
+                "在基地觀察的木構接合。",
+                "屋頂與框架草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sketches tested trusses, roofs and openings made of thin rods. Blue gel wax, cardboard and wire mesh were combined to show water, decks and walls.",
+          "images": [
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/06-sketches-b.webp",
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/07-sketches-c.webp",
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/08-interior-view.webp"
+          ],
+          "captions": [
+            "Sketches of truss and joints.",
+            "Sketches of rods and openings.",
+            "Inside the deck levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "草圖測試以細桿構成的桁架、屋頂與開口。藍色凝膠蠟、紙板與鐵絲網組合起來，表現水面、甲板與牆面。",
+              "captions": [
+                "桁架與接頭草圖。",
+                "木桿與開口草圖。",
+                "甲板樓層內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model shows a system of rods that emphasises lightness, exposure and structural elegance. Boats sit under the decks, ready to slide into the water.",
+          "images": [
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/02-front-view.webp",
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/09-detail-views.webp",
+            "assets/board/daya-bay-boathouse-wooden-rod-joinery/10-side-view.webp"
+          ],
+          "captions": [
+            "Front view of the boathouse.",
+            "Close views of the joints.",
+            "Side view of the rod frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型呈現一套強調輕盈、外露與結構美感的木桿系統。船隻停在甲板下方，隨時可以滑入水中。",
+              "captions": [
+                "船屋正面。",
+                "接頭近看。",
+                "木桿框架側視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Notice what is missing.\n2. Study a craft tradition.\n3. Sketch the joints.\n4. Build light and visible.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 發現不足之處。\n2. 研究工藝傳統。\n3. 畫出接頭。\n4. 做得輕盈而外露。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Hometown Memory",
+      "slug": "hometown-memory-hakka-roof-tile-section-model",
+      "description": "A section model of a traditional Hakka home, with 3D-printed roof tiles and hand-built joinery.\n\nModel making | Vernacular architecture | Wood, cement and resin | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "故鄉記憶",
+          "description": "一座傳統客家民居的剖面模型，結合3D列印屋瓦與手作木構接合。\n\n模型製作｜傳統建築｜木材、水泥與樹脂｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/01-section-model.webp",
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/02-roof-sketch.webp",
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/03-tile-making.webp",
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/04-tile-rows.webp",
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/05-joinery-test.webp",
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/06-roof-panel.webp",
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/07-model-overview.webp",
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/08-courtyard-view.webp",
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/09-side-view.webp",
+        "assets/board/hometown-memory-hakka-roof-tile-section-model/10-roof-underside.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/01-section-model.webp"
+          ],
+          "captions": [
+            "The section model of the home."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "民居剖面模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Returning to the father's hometown, the student saw the mudbrick walls and green tiles of an old family house. Traditional Hakka building is fading with urbanisation, and the project sets out to study and record it.",
+          "images": [
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/02-roof-sketch.webp"
+          ],
+          "captions": [
+            "Perspective sketch of the roof frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "回到父親的故鄉，學生看見老家的泥磚牆與青瓦。客家傳統建築正隨著都市化逐漸消失，作品因此著手研究並記錄它。",
+              "captions": [
+                "屋頂框架透視草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Mortise and tenon joints from the ancestral home were photographed and studied closely. The student also researched how semi-cylindrical pan and cover tiles overlap in rows.",
+          "images": [
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/03-tile-making.webp",
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/04-tile-rows.webp"
+          ],
+          "captions": [
+            "Shaping the tiles by hand.",
+            "Layering rows of tiles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生拍攝並仔細研究祖屋的榫卯接合。學生也研究半圓筒形的板瓦與筒瓦如何成排交疊。",
+              "captions": [
+                "手工整理屋瓦。",
+                "層疊排列屋瓦。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Tile panels were modelled in Rhino, 3D printed at home and layered like the real roof. The base was cast in concrete after dirt proved too weak to support the model.",
+          "images": [
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/05-joinery-test.webp",
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/06-roof-panel.webp"
+          ],
+          "captions": [
+            "Testing the timber joints.",
+            "A finished roof panel."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "屋瓦板在Rhino中建模，在家以3D列印製作，並像真實屋頂般層疊。由於泥土不足以支撐模型，底座改以混凝土澆鑄。",
+              "captions": [
+                "測試木構接頭。",
+                "完成的屋頂板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The section cut reveals the techniques used inside the home. Layered bricks in the courtyard show the flooring traditionally used in Hakka houses.",
+          "images": [
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/07-model-overview.webp",
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/08-courtyard-view.webp",
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/09-side-view.webp",
+            "assets/board/hometown-memory-hakka-roof-tile-section-model/10-roof-underside.webp"
+          ],
+          "captions": [
+            "The model from above.",
+            "The courtyard with brick paving.",
+            "Side view of the frame.",
+            "The roof frame from below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "剖切面揭示民居內部使用的工法。庭院中層疊的磚塊呈現客家民居傳統的地坪做法。",
+              "captions": [
+                "模型俯視。",
+                "鋪磚的庭院。",
+                "框架側視。",
+                "由下看屋頂框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Visit a real place.\n2. Record how it is built.\n3. Rebuild the details.\n4. Cut it open to explain.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 走訪真實場所。\n2. 記錄它的構造。\n3. 重建細部。\n4. 剖開來說明。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Ghost Net",
+      "slug": "ghost-net-marine-pollution-tide-model",
+      "description": "A tank model and tide experiments show how pollutants gather around man-made structures in the sea.\n\nModel making | Environmental research | Sticks, sand and acrylic | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "幽靈漁網",
+          "description": "以水槽模型與潮汐實驗，呈現污染物如何聚集在海中的人造結構周圍。\n\n模型製作｜環境研究｜木條、沙與壓克力｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/ghost-net-marine-pollution-tide-model/01-tank-model.webp",
+        "assets/board/ghost-net-marine-pollution-tide-model/02-hook-detail.webp",
+        "assets/board/ghost-net-marine-pollution-tide-model/03-cage-detail.webp",
+        "assets/board/ghost-net-marine-pollution-tide-model/04-bottle-detail.webp",
+        "assets/board/ghost-net-marine-pollution-tide-model/05-seabed-stones.webp",
+        "assets/board/ghost-net-marine-pollution-tide-model/06-seabed-debris.webp",
+        "assets/board/ghost-net-marine-pollution-tide-model/07-shoreline-view.webp",
+        "assets/board/ghost-net-marine-pollution-tide-model/08-experiment-setup.webp",
+        "assets/board/ghost-net-marine-pollution-tide-model/09-low-tide.webp",
+        "assets/board/ghost-net-marine-pollution-tide-model/10-high-tide.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/ghost-net-marine-pollution-tide-model/01-tank-model.webp"
+          ],
+          "captions": [
+            "The vertical tank model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "直立的水槽模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "As a sailing coach, the student saw abandoned fishing nets tangled with wood, plastic and dead fish. Artificial structures often trap this waste in tidal areas and harm local ecosystems.",
+          "images": [
+            "assets/board/ghost-net-marine-pollution-tide-model/08-experiment-setup.webp"
+          ],
+          "captions": [
+            "The two experiment tanks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "身為帆船教練，學生看見廢棄漁網與木頭、塑膠和死魚纏在一起。人造結構常在潮間帶困住這些垃圾，傷害在地生態。",
+              "captions": [
+                "兩個實驗水槽。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Two tanks compared a shoreline with pillars against a natural one at low, normal and high tide. Debris stayed trapped around the pillars but washed away along the natural coast.",
+          "images": [
+            "assets/board/ghost-net-marine-pollution-tide-model/09-low-tide.webp",
+            "assets/board/ghost-net-marine-pollution-tide-model/10-high-tide.webp"
+          ],
+          "captions": [
+            "Debris at low tide.",
+            "Debris at high tide."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "兩個水槽在低潮、平潮與高潮下，比較有樁柱的海岸與自然海岸。垃圾困在樁柱周圍，在自然海岸則被沖散。",
+              "captions": [
+                "低潮時的垃圾。",
+                "高潮時的垃圾。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The results led to a tall model that layers plastic, fishing line, hooks and structures. Each pollutant was placed where it would gather in the sea.",
+          "images": [
+            "assets/board/ghost-net-marine-pollution-tide-model/02-hook-detail.webp",
+            "assets/board/ghost-net-marine-pollution-tide-model/03-cage-detail.webp",
+            "assets/board/ghost-net-marine-pollution-tide-model/04-bottle-detail.webp"
+          ],
+          "captions": [
+            "Hooks caught on a stick.",
+            "A wire cage on the seabed.",
+            "A bottle trapped in netting."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "實驗結果引出一座高聳的模型，層疊塑膠、釣魚線、魚鉤與結構。每種污染物都被放在海中會聚集的位置。",
+              "captions": [
+                "卡在木條上的魚鉤。",
+                "海床上的鐵絲籠。",
+                "困在網中的瓶子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model shows how pollutants intertwine and make marine contamination more complex. It makes the impact of human activity on the ocean visible at a glance.",
+          "images": [
+            "assets/board/ghost-net-marine-pollution-tide-model/05-seabed-stones.webp",
+            "assets/board/ghost-net-marine-pollution-tide-model/06-seabed-debris.webp",
+            "assets/board/ghost-net-marine-pollution-tide-model/07-shoreline-view.webp"
+          ],
+          "captions": [
+            "Stones and plants on the seabed.",
+            "Debris settled in the sand.",
+            "The shoreline of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型呈現污染物如何交織，讓海洋污染變得更複雜。它讓人類活動對海洋的影響一目了然。",
+              "captions": [
+                "海床上的石頭與植物。",
+                "沉積在沙中的垃圾。",
+                "模型的海岸線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from what you see.\n2. Run a simple test.\n3. Read the results.\n4. Build the evidence.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從親眼所見出發。\n2. 做一個簡單實驗。\n3. 解讀結果。\n4. 把證據做出來。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Daya Bay Eco-model",
+      "slug": "daya-bay-eco-model-resin-coral-shoreline",
+      "description": "Resin, shells and coral fragments from a local beach show how a crowded shore harms the sea.\n\nModel making | Environmental design | Resin, shells and coral | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "大亞灣生態模型",
+          "description": "以樹脂、貝殼與在地海灘的珊瑚碎片，呈現擁擠的海岸如何傷害海洋。\n\n模型製作｜環境設計｜樹脂、貝殼與珊瑚｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/daya-bay-eco-model-resin-coral-shoreline/01-eco-model-top.webp",
+        "assets/board/daya-bay-eco-model-resin-coral-shoreline/02-concept-sketch.webp",
+        "assets/board/daya-bay-eco-model-resin-coral-shoreline/03-model-angle.webp",
+        "assets/board/daya-bay-eco-model-resin-coral-shoreline/04-city-edge.webp",
+        "assets/board/daya-bay-eco-model-resin-coral-shoreline/05-shell-layers.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/daya-bay-eco-model-resin-coral-shoreline/01-eco-model-top.webp"
+          ],
+          "captions": [
+            "The model seen from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "模型俯視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Active in the bay, the student saw the local coral ecosystem decline at first hand. Oil and fertiliser spills have harmed the coral and the animals that depend on it.",
+          "images": [
+            "assets/board/daya-bay-eco-model-resin-coral-shoreline/02-concept-sketch.webp"
+          ],
+          "captions": [
+            "Concept sketch and materials."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生長期在海灣活動，親眼看見在地珊瑚生態衰退。油污與肥料外洩傷害了珊瑚以及依賴它的生物。",
+              "captions": [
+                "概念草圖與材料。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Coral skeletons and shells washed up on a local beach were collected as materials. Their meaning was compared with AB resin as an artificial material.",
+          "images": [
+            "assets/board/daya-bay-eco-model-resin-coral-shoreline/03-model-angle.webp"
+          ],
+          "captions": [
+            "The resin block from an angle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生收集沖上在地海灘的珊瑚骨骼與貝殼作為材料。學生把它們的意義與作為人工材料的AB膠對照。",
+              "captions": [
+                "樹脂模型斜視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Shells and fragments were layered in resin, with 3D-printed buildings packed along the shore. Pebbles and clay shaped the edge between city and sea.",
+          "images": [
+            "assets/board/daya-bay-eco-model-resin-coral-shoreline/04-city-edge.webp"
+          ],
+          "captions": [
+            "Buildings along the shore."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "貝殼與碎片層層封入樹脂，3D列印的建築密集排列在岸邊。卵石與黏土塑造出城市與海之間的邊界。",
+              "captions": [
+                "沿岸的建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model shows how rapid urbanisation leads to algae blooms and oil pollution. It is a visual example of how the ocean has been harmed.",
+          "images": [
+            "assets/board/daya-bay-eco-model-resin-coral-shoreline/05-shell-layers.webp"
+          ],
+          "captions": [
+            "Layers of shells and resin."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型呈現快速都市化如何導致藻華與油污。它直觀呈現海洋受到的傷害。",
+              "captions": [
+                "貝殼與樹脂的層次。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect local materials.\n2. Give each one a meaning.\n3. Layer them in order.\n4. Let the model speak.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集在地材料。\n2. 賦予每種材料意義。\n3. 依序層疊。\n4. 讓模型自己說話。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Algorithmic Modelling: Artificial Coral Reefs",
+      "slug": "algorithmic-modelling-artificial-coral-reef",
+      "description": "Coral forms generated by script and 3D printed as shelters for fish and marine life.\n\nParametric design | 3D printing | Marine ecology | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "演算法建模：人工珊瑚礁",
+          "description": "以腳本生成珊瑚形態並3D列印，作為魚類與海洋生物的庇護所。\n\n參數化設計｜3D列印｜海洋生態｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/algorithmic-modelling-artificial-coral-reef/01-printed-reef.webp",
+        "assets/board/algorithmic-modelling-artificial-coral-reef/02-threat-diagram.webp",
+        "assets/board/algorithmic-modelling-artificial-coral-reef/03-script.webp",
+        "assets/board/algorithmic-modelling-artificial-coral-reef/04-print-test-a.webp",
+        "assets/board/algorithmic-modelling-artificial-coral-reef/05-print-test-b.webp",
+        "assets/board/algorithmic-modelling-artificial-coral-reef/06-pattern-render.webp",
+        "assets/board/algorithmic-modelling-artificial-coral-reef/07-module-renders.webp",
+        "assets/board/algorithmic-modelling-artificial-coral-reef/08-reef-concept-a.webp",
+        "assets/board/algorithmic-modelling-artificial-coral-reef/09-reef-concept-b.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/algorithmic-modelling-artificial-coral-reef/01-printed-reef.webp"
+          ],
+          "captions": [
+            "The 3D-printed coral tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "3D列印的珊瑚塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "As a local sailor, the student watched coral reefs degrade after an oil leak. Global warming and industry keep shrinking reefs around the world.",
+          "images": [
+            "assets/board/algorithmic-modelling-artificial-coral-reef/02-threat-diagram.webp"
+          ],
+          "captions": [
+            "Threats to coral reefs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "身為在地帆船手，學生目睹珊瑚礁在一次油污外洩後退化。全球暖化與工業活動也持續讓世界各地的珊瑚礁縮小。",
+              "captions": [
+                "珊瑚礁面臨的威脅。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Artificial coral ecosystems that protect fish like real reefs became the chosen solution. A parametric script generated porous forms inspired by coral species.",
+          "images": [
+            "assets/board/algorithmic-modelling-artificial-coral-reef/03-script.webp"
+          ],
+          "captions": [
+            "The parametric script."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生選擇以能像真實珊瑚礁般保護魚類的人工珊瑚生態系作為解方。參數化腳本生成受珊瑚物種啟發的多孔形態。",
+              "captions": [
+                "參數化腳本。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Print tests compared density and pore size. The pattern was then turned into modules that could be stacked.",
+          "images": [
+            "assets/board/algorithmic-modelling-artificial-coral-reef/04-print-test-a.webp",
+            "assets/board/algorithmic-modelling-artificial-coral-reef/05-print-test-b.webp",
+            "assets/board/algorithmic-modelling-artificial-coral-reef/06-pattern-render.webp",
+            "assets/board/algorithmic-modelling-artificial-coral-reef/07-module-renders.webp"
+          ],
+          "captions": [
+            "An early print test.",
+            "A denser print test.",
+            "Render of the porous pattern.",
+            "Renders of reef modules."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "列印測試比較密度與孔洞大小。圖樣接著被轉化為可堆疊的模組。",
+              "captions": [
+                "早期列印測試。",
+                "較密的列印測試。",
+                "多孔圖樣的渲染。",
+                "珊瑚礁模組的渲染。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A 3D-printed tower shows the final reef form. Concept views imagine fish and coral living inside it.",
+          "images": [
+            "assets/board/algorithmic-modelling-artificial-coral-reef/08-reef-concept-a.webp",
+            "assets/board/algorithmic-modelling-artificial-coral-reef/09-reef-concept-b.webp"
+          ],
+          "captions": [
+            "Concept view of fish in the reef.",
+            "Concept view of coral growing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "3D列印的塔呈現最終的礁體形態。概念圖想像魚群與珊瑚在其中生長。",
+              "captions": [
+                "魚群在礁體中的概念圖。",
+                "珊瑚生長的概念圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name the damage.\n2. Learn from nature.\n3. Let code generate form.\n4. Test by printing.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 指出破壞。\n2. 向自然學習。\n3. 讓程式生成形態。\n4. 以列印測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Summer Studio: Movement Model",
+      "slug": "summer-studio-swinging-movement-pattern-model",
+      "description": "A pattern from artwork is extruded into frames and reshaped by the motion of swinging on monkey bars.\n\nModel making | Digital modelling | Wooden rods, wire and paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "暑期工作營：動作模型",
+          "description": "從藝術作品中提取的圖樣被擠出為框架，再依擺盪單槓的動作重新塑形。\n\n模型製作｜數位建模｜木桿、鐵絲與紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/summer-studio-swinging-movement-pattern-model/01-movement-model.webp",
+        "assets/board/summer-studio-swinging-movement-pattern-model/02-render-a.webp",
+        "assets/board/summer-studio-swinging-movement-pattern-model/03-render-b.webp",
+        "assets/board/summer-studio-swinging-movement-pattern-model/04-motion-frames.webp",
+        "assets/board/summer-studio-swinging-movement-pattern-model/05-pattern-studies.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/summer-studio-swinging-movement-pattern-model/01-movement-model.webp"
+          ],
+          "captions": [
+            "The final movement model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的動作模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project was made in a summer design studio and starts from the idea that patterns shape how we see the world. The question was how patterns could connect with the way people move through a space.",
+          "images": [
+            "assets/board/summer-studio-swinging-movement-pattern-model/05-pattern-studies.webp"
+          ],
+          "captions": [
+            "Pattern studies from the artwork."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品完成於一個暑期設計工作營，起點是圖樣影響我們觀看世界的方式。題目在問，圖樣如何與人在空間中的移動連結。",
+              "captions": [
+                "從藝術作品得出的圖樣研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Parts of a pattern in an artwork were marked and extruded into 3D. A sketch model was built both in Rhino and with physical materials.",
+          "images": [
+            "assets/board/summer-studio-swinging-movement-pattern-model/02-render-a.webp",
+            "assets/board/summer-studio-swinging-movement-pattern-model/03-render-b.webp"
+          ],
+          "captions": [
+            "Digital model of the frames.",
+            "A second view of the digital model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生在一件藝術作品的圖樣中標出局部並擠出為立體。草模同時在Rhino與實體材料中製作。",
+              "captions": [
+                "框架的數位模型。",
+                "數位模型的另一視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "An unconventional movement, swinging on monkey bars, was analysed frame by frame. Parts of the frames were removed so the model could follow the swing.",
+          "images": [
+            "assets/board/summer-studio-swinging-movement-pattern-model/04-motion-frames.webp"
+          ],
+          "captions": [
+            "Frames traced from the movement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生逐格分析一個不尋常的動作：擺盪單槓。框架被局部移除，讓模型能跟隨擺盪。",
+              "captions": [
+                "從動作描出的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model completes the swinging motion while keeping the look of the first pattern. It shows architecture as the design of human interaction with a set environment.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型完成擺盪的動作，同時保有最初圖樣的樣貌。它呈現建築作為人與既定環境互動的設計。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find a pattern.\n2. Extrude it into space.\n3. Add a body movement.\n4. Edit until both read.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找到一個圖樣。\n2. 把它擠出成空間。\n3. 加入身體動作。\n4. 修改到兩者都清楚。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Summer Studio: Folded Paper Pavilion",
+      "slug": "summer-studio-folded-paper-light-pavilion",
+      "description": "Symmetrical origami models grow into a timber pavilion that shades a campus walkway and lets light in.\n\nModel making | Pavilion design | Paper and digital renders | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "暑期工作營：摺紙涼亭",
+          "description": "對稱的摺紙模型發展成一座木構涼亭，為校園步道遮蔭並引入光線。\n\n模型製作｜涼亭設計｜紙與數位渲染｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/summer-studio-folded-paper-light-pavilion/01-pavilion-render.webp",
+        "assets/board/summer-studio-folded-paper-light-pavilion/02-origami-star.webp",
+        "assets/board/summer-studio-folded-paper-light-pavilion/03-origami-flower.webp",
+        "assets/board/summer-studio-folded-paper-light-pavilion/04-origami-dome.webp",
+        "assets/board/summer-studio-folded-paper-light-pavilion/05-paper-model-a.webp",
+        "assets/board/summer-studio-folded-paper-light-pavilion/06-paper-model-b.webp",
+        "assets/board/summer-studio-folded-paper-light-pavilion/07-courtyard-render.webp",
+        "assets/board/summer-studio-folded-paper-light-pavilion/08-seating-render.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/summer-studio-folded-paper-light-pavilion/01-pavilion-render.webp"
+          ],
+          "captions": [
+            "Render of the pavilion from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "涼亭鳥瞰渲染。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project was made in a summer design studio and explores light in architectural design. The site needed shade for students and teachers moving in and out of a building.",
+          "images": [
+            "assets/board/summer-studio-folded-paper-light-pavilion/04-origami-dome.webp"
+          ],
+          "captions": [
+            "A folded dome model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品完成於一個暑期設計工作營，探索建築設計中的光線。基地需要為進出建築的師生提供遮蔭。",
+              "captions": [
+                "摺紙穹頂模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Taking an origami precedent as a start, the student folded symmetrical paper models. Each fold was tested for how it lets light through.",
+          "images": [
+            "assets/board/summer-studio-folded-paper-light-pavilion/02-origami-star.webp",
+            "assets/board/summer-studio-folded-paper-light-pavilion/03-origami-flower.webp"
+          ],
+          "captions": [
+            "A folded star model.",
+            "A folded flower model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以一個摺紙先例為起點，摺出對稱的紙模型。學生並測試每道摺痕如何讓光穿透。",
+              "captions": [
+                "摺紙星形模型。",
+                "摺紙花形模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The folds were rebuilt as paper shells and then as a Rhino model. Openings were cut so natural light falls into the space below.",
+          "images": [
+            "assets/board/summer-studio-folded-paper-light-pavilion/05-paper-model-a.webp",
+            "assets/board/summer-studio-folded-paper-light-pavilion/06-paper-model-b.webp"
+          ],
+          "captions": [
+            "A paper model of the shell.",
+            "A second view of the shell."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "摺痕先被重建為紙殼，再做成Rhino模型。殼體上切出開口，讓自然光灑落下方空間。",
+              "captions": [
+                "殼體的紙模型。",
+                "殼體的另一視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The timber pavilion makes a social space where people can feel at ease. Renders show it among the courtyard columns and brick walls.",
+          "images": [
+            "assets/board/summer-studio-folded-paper-light-pavilion/07-courtyard-render.webp",
+            "assets/board/summer-studio-folded-paper-light-pavilion/08-seating-render.webp"
+          ],
+          "captions": [
+            "Render of the pavilion in the courtyard.",
+            "Render of people resting below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "木構涼亭形成一個讓人自在交流的社交空間。渲染圖呈現它坐落在庭院柱列與磚牆之間。",
+              "captions": [
+                "庭院中的涼亭渲染。",
+                "人們在下方休息的渲染。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Fold before you draw.\n2. Test light through folds.\n3. Scale up the shell.\n4. Place it where people meet.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先摺再畫。\n2. 測試光穿過摺痕。\n3. 放大殼體。\n4. 放在人們相遇之處。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
