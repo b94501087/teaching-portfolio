@@ -29845,6 +29845,578 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Beacon of Hope: A Mobile Modular School",
+      "slug": "beacon-of-hope-mobile-modular-school",
+      "description": "A school of folding timber classrooms that can be taken apart and rebuilt wherever children need it.\n\nArchitecture | Mobile school | Modular timber | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "希望燈塔：可移動的模組化學校",
+          "description": "以摺疊木構教室組成的學校，可拆解並在孩子需要之處重建。\n\n建築｜可移動學校｜模組化木構｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/beacon-of-hope-mobile-modular-school/01-campus-plan.webp",
+        "assets/board/beacon-of-hope-mobile-modular-school/02-layout-development.webp",
+        "assets/board/beacon-of-hope-mobile-modular-school/03-paper-folding-tests.webp",
+        "assets/board/beacon-of-hope-mobile-modular-school/04-foldable-window-sketches.webp",
+        "assets/board/beacon-of-hope-mobile-modular-school/05-structure-details.webp",
+        "assets/board/beacon-of-hope-mobile-modular-school/06-material-section.webp",
+        "assets/board/beacon-of-hope-mobile-modular-school/07-exploded-axonometric.webp",
+        "assets/board/beacon-of-hope-mobile-modular-school/08-elevation-and-section.webp",
+        "assets/board/beacon-of-hope-mobile-modular-school/09-environmental-analysis.webp",
+        "assets/board/beacon-of-hope-mobile-modular-school/10-model-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/beacon-of-hope-mobile-modular-school/01-campus-plan.webp"
+          ],
+          "captions": [
+            "Plan of the modular campus on its slope."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "坡地上模組化校園的平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Children in unstable regions can lose their schools overnight, and rebuilding takes time that education cannot spare. This competition entry asks how a school could be taken apart quickly and put back together wherever it is needed.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "身處不穩定地區的孩子可能一夕之間失去學校，而重建所需的時間是教育無法等待的。這個競圖作品探問，學校能否被快速拆解，並在需要之處重新組立。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site study mapped where pupils walk, gather, shelter and find quiet on the hillside. A circulation spine inspired by a traditional woven pattern was then simplified step by step to free up open ground.",
+          "images": [
+            "assets/board/beacon-of-hope-mobile-modular-school/02-layout-development.webp",
+            "assets/board/beacon-of-hope-mobile-modular-school/09-environmental-analysis.webp"
+          ],
+          "captions": [
+            "Layout development from spine to open campus.",
+            "Solar, heat gain and airflow analysis of one classroom."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地研究描繪了學生在山坡上行走、聚集、避護與獨處的位置。一條取材自傳統編織圖紋的動線主軸隨後被逐步簡化，以釋放更多開放地面。",
+              "captions": [
+                "從主軸到開放校園的配置推演。",
+                "單一教室的日照、得熱與氣流分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Paper folding tests turned the woven grid into a window panel that can be closed, half open or fully open. The panels sit in a light timber frame with fabric and board infill above a gabion base of local stone.",
+          "images": [
+            "assets/board/beacon-of-hope-mobile-modular-school/03-paper-folding-tests.webp",
+            "assets/board/beacon-of-hope-mobile-modular-school/04-foldable-window-sketches.webp",
+            "assets/board/beacon-of-hope-mobile-modular-school/05-structure-details.webp",
+            "assets/board/beacon-of-hope-mobile-modular-school/06-material-section.webp"
+          ],
+          "captions": [
+            "Paper folding tests.",
+            "Sketches of the foldable window wall.",
+            "Structure details of the folding frame.",
+            "Material section with timber, fabric, board and stone."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "摺紙測試將編織網格轉化為可全關、半開或全開的窗板。窗板嵌入輕量木構架，以布料與板材填充，下方則是以在地石材構成的石籠基座。",
+              "captions": [
+                "摺紙測試。",
+                "可摺疊窗牆的草圖。",
+                "摺疊框架的構造細部。",
+                "木材、布料、板材與石材的材料剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each classroom stacks a gabion base, folding window walls, a timber frame and a lifted canopy, all removable for rapid assembly. Sections and a scale model show how the canopy shades shared roof terraces linked by stairs.",
+          "images": [
+            "assets/board/beacon-of-hope-mobile-modular-school/07-exploded-axonometric.webp",
+            "assets/board/beacon-of-hope-mobile-modular-school/08-elevation-and-section.webp",
+            "assets/board/beacon-of-hope-mobile-modular-school/10-model-section.webp"
+          ],
+          "captions": [
+            "Exploded axonometric of one classroom.",
+            "Elevation and section across the slope.",
+            "Physical model section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每間教室由石籠基座、摺疊窗牆、木構架與抬升的頂棚堆疊而成，皆可拆卸以便快速組裝。剖面與比例模型呈現頂棚如何為以樓梯相連的共享屋頂平台遮陽。",
+              "captions": [
+                "單一教室的分解軸測。",
+                "橫跨坡地的立面與剖面。",
+                "實體模型剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map how children use the site.\n2. Abstract a local pattern into a grid.\n3. Test the grid by folding paper.\n4. Build it as a kit of parts.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 描繪孩子如何使用基地。\n2. 將在地圖紋抽象為網格。\n3. 以摺紙測試網格。\n4. 把它做成一套構件。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Havenopause: A Cave-like Retreat for Menopause",
+      "slug": "havenopause-cave-like-retreat",
+      "description": "A soft, cave-like retreat that uses enclosure, gentle light and quiet to support women through menopause.\n\nArchitecture | Restorative space | Women's health | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Havenopause：為更年期而設的洞穴休憩所",
+          "description": "以包覆、柔光與寧靜陪伴女性度過更年期的柔軟洞穴休憩所。\n\n建築｜療癒空間｜女性健康｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/havenopause-cave-like-retreat/01-retreat-elevation.webp",
+        "assets/board/havenopause-cave-like-retreat/02-symptom-stages.webp",
+        "assets/board/havenopause-cave-like-retreat/03-medication-charts.webp",
+        "assets/board/havenopause-cave-like-retreat/04-cave-like-support.webp",
+        "assets/board/havenopause-cave-like-retreat/05-clay-models.webp",
+        "assets/board/havenopause-cave-like-retreat/06-digital-concept-models.webp",
+        "assets/board/havenopause-cave-like-retreat/07-floor-plans.webp",
+        "assets/board/havenopause-cave-like-retreat/08-perspective-section.webp",
+        "assets/board/havenopause-cave-like-retreat/09-white-model.webp",
+        "assets/board/havenopause-cave-like-retreat/10-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/havenopause-cave-like-retreat/01-retreat-elevation.webp"
+          ],
+          "captions": [
+            "Elevation of the cave-like retreat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "洞穴般休憩所的立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Menopause brings physical and emotional changes that are often overlooked or misunderstood. The project asks how architecture could offer a quiet place of calm for women going through this life stage.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "更年期帶來的身心變化常被忽視或誤解。這個作品探問，建築能否為正經歷這個人生階段的女性提供一處平靜之所。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Diagrams map how symptoms rise and fall across three stages, and how reliance on medication has grown. Studies of low-stimulation therapy suggested that enclosure, soft light and muffled sound can ease anxiety and poor sleep.",
+          "images": [
+            "assets/board/havenopause-cave-like-retreat/02-symptom-stages.webp",
+            "assets/board/havenopause-cave-like-retreat/03-medication-charts.webp",
+            "assets/board/havenopause-cave-like-retreat/04-cave-like-support.webp"
+          ],
+          "captions": [
+            "Symptoms across the three stages.",
+            "Medication use and its side effects.",
+            "How cave-like qualities answer each need."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "圖解描繪症狀在三個階段中的起伏，以及對藥物依賴的增加。低刺激療法的研究指出，包覆感、柔和光線與減弱的聲響有助於緩解焦慮與失眠。",
+              "captions": [
+                "三個階段中的症狀分布。",
+                "藥物使用及其副作用。",
+                "洞穴般特質如何回應各種需求。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Hand-shaped clay models explored enclosure, porosity and flow through touch. Six digital forms, from a listening pod to a grounding garden, were then refined into layered floor plans.",
+          "images": [
+            "assets/board/havenopause-cave-like-retreat/05-clay-models.webp",
+            "assets/board/havenopause-cave-like-retreat/06-digital-concept-models.webp",
+            "assets/board/havenopause-cave-like-retreat/07-floor-plans.webp"
+          ],
+          "captions": [
+            "Hand-made clay models.",
+            "Six digital concept models.",
+            "Floor plans of three levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以手捏塑的黏土模型透過觸感探索包覆、孔隙與流動。從聆聽艙到接地花園的六個數位形體，隨後被深化為層疊的樓層平面。",
+              "captions": [
+                "手作黏土模型。",
+                "六個數位概念模型。",
+                "三個樓層的平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The retreat becomes a soft shell on slender tree-like legs, with a spiral stair rising through pockets of shade and light. A perspective section and a white physical model show how enclosed and semi-open rooms offer different degrees of privacy.",
+          "images": [
+            "assets/board/havenopause-cave-like-retreat/08-perspective-section.webp",
+            "assets/board/havenopause-cave-like-retreat/09-white-model.webp",
+            "assets/board/havenopause-cave-like-retreat/10-model-details.webp"
+          ],
+          "captions": [
+            "Perspective section through two retreats.",
+            "White physical model.",
+            "Details of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "休憩所成為立於纖細樹狀支柱上的柔軟殼體，螺旋梯穿越明暗交錯的空間向上延伸。透視剖面與白色實體模型呈現封閉與半開放的房間如何提供不同程度的私密性。",
+              "captions": [
+                "穿越兩座休憩所的透視剖面。",
+                "白色實體模型。",
+                "模型細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from an overlooked need.\n2. Turn research into spatial qualities.\n3. Shape those qualities by hand.\n4. Refine them into a building.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從被忽視的需求出發。\n2. 將研究轉化為空間特質。\n3. 用雙手塑造這些特質。\n4. 把它們深化成建築。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Modular LiveBlock: A Reconfigurable Stage System",
+      "slug": "modular-liveblock-reconfigurable-stage",
+      "description": "A kit of printed joints and timber rods that assembles quickly into stadium, festival and arena stages.\n\nArchitecture | Stage system | Discrete assembly | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Modular LiveBlock：可重組的舞台系統",
+          "description": "以列印接頭與木桿組成的構件系統，可快速組裝成體育場、音樂節與室內場館舞台。\n\n建築｜舞台系統｜離散組裝｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/modular-liveblock-reconfigurable-stage/01-construction-process.webp",
+        "assets/board/modular-liveblock-reconfigurable-stage/02-production-time-and-trends.webp",
+        "assets/board/modular-liveblock-reconfigurable-stage/03-printed-joint-tests.webp",
+        "assets/board/modular-liveblock-reconfigurable-stage/04-structural-testing.webp",
+        "assets/board/modular-liveblock-reconfigurable-stage/05-timber-model-exploration.webp",
+        "assets/board/modular-liveblock-reconfigurable-stage/06-s-scale-joints.webp",
+        "assets/board/modular-liveblock-reconfigurable-stage/07-m-scale-assemblies.webp",
+        "assets/board/modular-liveblock-reconfigurable-stage/08-l-scale-configurations.webp",
+        "assets/board/modular-liveblock-reconfigurable-stage/09-assembled-and-exploded.webp",
+        "assets/board/modular-liveblock-reconfigurable-stage/10-stage-configurations.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/modular-liveblock-reconfigurable-stage/01-construction-process.webp"
+          ],
+          "captions": [
+            "From factory printing to assembly in a stadium."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從工廠列印到體育場內的組裝。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Touring concerts spend much of their time and budget building and striking stages, and each venue asks for a different set. The project asks whether one kit of reusable parts could serve many kinds of stage.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "巡迴演唱會的大量時間與預算花在搭建與拆除舞台上，而每個場地又需要不同的配置。這個作品探問，能否以一套可重複使用的構件服務多種舞台。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A study of stage history and current touring shows how construction and load-out dominate the production schedule. A role-based study sets out what designers, engineers, technicians and performers each value in a stage.",
+          "images": [
+            "assets/board/modular-liveblock-reconfigurable-stage/02-production-time-and-trends.webp"
+          ],
+          "captions": [
+            "Time spent on each production phase and growth trends."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "對舞台演變與當代巡演的研究顯示，搭建與撤場佔據了製作時程的大部分。一項以角色為基礎的研究，釐清了設計師、工程師、技術人員與表演者各自重視的舞台面向。",
+              "captions": [
+                "各製作階段的時間分配與成長趨勢。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "H-shaped joints were 3D printed, tested and redesigned with a carved connection and bolted plates for stability. Small S-scale joints combine into M-scale floors, walls, stairs and columns, which then form L-scale stage spaces.",
+          "images": [
+            "assets/board/modular-liveblock-reconfigurable-stage/03-printed-joint-tests.webp",
+            "assets/board/modular-liveblock-reconfigurable-stage/04-structural-testing.webp",
+            "assets/board/modular-liveblock-reconfigurable-stage/05-timber-model-exploration.webp",
+            "assets/board/modular-liveblock-reconfigurable-stage/06-s-scale-joints.webp",
+            "assets/board/modular-liveblock-reconfigurable-stage/07-m-scale-assemblies.webp",
+            "assets/board/modular-liveblock-reconfigurable-stage/08-l-scale-configurations.webp"
+          ],
+          "captions": [
+            "3D-printed joint tests.",
+            "Redesigned component after structural testing.",
+            "Timber model exploration.",
+            "S-scale joints with single, double and triple passes.",
+            "M-scale floor, wall, stair and column assemblies.",
+            "L-scale configurations at human scale."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "H 形接頭經 3D 列印與測試後，改以刻槽接合與螺栓固定板重新設計以提升穩定性。小尺度的 S 級接頭組合成 M 級的樓板、牆、樓梯與柱，再構成 L 級的舞台空間。",
+              "captions": [
+                "3D 列印接頭測試。",
+                "結構測試後重新設計的構件。",
+                "木材模型探索。",
+                "單、雙、三向穿接的 S 級接頭。",
+                "M 級的樓板、牆、樓梯與柱組合。",
+                "人體尺度下的 L 級配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Parts are printed in a factory, trucked to the venue and assembled by robotic arms into the stage. The same kit forms a stadium stage, an open festival stage and an arena stage viewed from all sides.",
+          "images": [
+            "assets/board/modular-liveblock-reconfigurable-stage/09-assembled-and-exploded.webp",
+            "assets/board/modular-liveblock-reconfigurable-stage/10-stage-configurations.webp"
+          ],
+          "captions": [
+            "Assembled and exploded views of the system.",
+            "Stadium, festival and indoor arena configurations."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "構件在工廠列印、以卡車運至場地，再由機械手臂組裝成舞台。同一套構件可組成體育場舞台、開放的音樂節舞台，以及四面觀看的室內場館舞台。",
+              "captions": [
+                "系統的組合與分解視圖。",
+                "體育場、音樂節與室內場館的配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find where time and cost are lost.\n2. Design the smallest joint first.\n3. Test it and redesign it.\n4. Scale the kit up to whole spaces.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出時間與成本耗損之處。\n2. 先設計最小的接頭。\n3. 測試並重新設計。\n4. 把構件放大成完整空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Re:Opera: A Pop-up Cantonese Opera Stage",
+      "slug": "re-opera-pop-up-cantonese-opera-stage",
+      "description": "A modular pop-up stage that brings Cantonese opera back into the streets as a walkable garden of scenes.\n\nGuangzhou | Pop-up architecture | Cantonese opera | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Re:Opera：快閃粵劇舞台",
+          "description": "將粵劇帶回街頭的模組化快閃舞台，化為一座可漫遊的場景庭園。\n\n廣州｜快閃建築｜粵劇｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/01-bird-view.webp",
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/02-audience-data.webp",
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/03-design-strategy.webp",
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/04-plot-analysis.webp",
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/05-change-of-function.webp",
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/06-massing-evolution.webp",
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/07-spatial-framework.webp",
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/08-living-room-and-corridor.webp",
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/09-study-room.webp",
+        "assets/board/re-opera-pop-up-cantonese-opera-stage/10-palace-and-mansion.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/01-bird-view.webp"
+          ],
+          "captions": [
+            "Bird's-eye view of the pop-up opera garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "快閃粵劇庭園的鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Cantonese opera has moved from open public settings into enclosed theatres, and fewer young people now come across it by chance. The project proposes a temporary, modular stage that brings the opera back into everyday streets in Guangzhou.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "粵劇已從開放的公共場域移入封閉的劇院，年輕人偶然接觸它的機會也越來越少。這個作品提出一座臨時的模組化舞台，讓粵劇重新回到廣州的日常街道。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Audience data shows a falling and ageing audience, held back by rigid formats, language barriers and little presence in public space. A renewal district by the waterfront was chosen because walking routes from residents and visitors meet there.",
+          "images": [
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/02-audience-data.webp",
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/03-design-strategy.webp"
+          ],
+          "captions": [
+            "Audience trend, age and attendance constraints.",
+            "Strategy from fixed stage to pop-up movement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "觀眾數據顯示觀眾數量下降且日趨高齡，受限於僵化的演出形式、語言門檻與在公共空間中的缺席。基地選在一處水岸更新街區，因為居民與遊客的步行路線在此交會。",
+              "captions": [
+                "觀眾趨勢、年齡與觀演限制。",
+                "從固定舞台到快閃動線的策略。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The scenes of one classic opera were read as a journey from movement to enclosure and finally revelation. Stage stills were translated into spatial sketches, required scenes and four spatial frameworks that guide the massing.",
+          "images": [
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/04-plot-analysis.webp",
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/05-change-of-function.webp",
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/06-massing-evolution.webp",
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/07-spatial-framework.webp"
+          ],
+          "captions": [
+            "Plot analysis with stage stills as reference.",
+            "From storyboard to diagram, sketch and required scene.",
+            "Conceptual massing evolution.",
+            "Four spatial frameworks with study models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一齣經典粵劇的場景被解讀為從移動、封閉到最終揭示的旅程。舞台劇照被轉譯為空間草圖、所需場景，以及引導量體配置的四種空間框架。",
+              "captions": [
+                "以舞台劇照為參考的情節分析。",
+                "從分鏡到圖解、草圖與所需場景。",
+                "概念量體演變。",
+                "四種空間框架與研究模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Six loosely arranged pop-up spaces form a walkable garden where the audience follows the story from scene to scene. Light timber frames allow the stage to be assembled and taken down easily.",
+          "images": [
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/08-living-room-and-corridor.webp",
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/09-study-room.webp",
+            "assets/board/re-opera-pop-up-cantonese-opera-stage/10-palace-and-mansion.webp"
+          ],
+          "captions": [
+            "Living room and corridor scenes.",
+            "Study room scene.",
+            "Palace and mansion scenes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "六個鬆散配置的快閃空間構成一座可漫遊的庭園，觀眾隨著故事在場景之間移動。輕量木構架讓舞台能輕鬆組裝與拆卸。",
+              "captions": [
+                "客廳與迴廊場景。",
+                "書房場景。",
+                "宮殿與府邸場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask why an art form lost its audience.\n2. Read the story as a sequence of spaces.\n3. Turn each scene into a framework.\n4. Place the scenes along a walk.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 探問一種藝術為何失去觀眾。\n2. 把故事讀成一連串空間。\n3. 將每個場景轉為框架。\n4. 沿著步行路線安排場景。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
