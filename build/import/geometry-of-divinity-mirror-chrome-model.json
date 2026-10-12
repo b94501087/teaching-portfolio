@@ -1,0 +1,37 @@
+{
+  "project": "Geometry of Divinity",
+  "dest": "assets/board/geometry-of-divinity-mirror-chrome-model",
+  "note": "Portfolio ca16 page 15 cropped to five images, WebP q88 (PIL). Not used: title, size labels and inspiration text naming an architect, four precedent building photos.",
+  "files": [
+    {
+      "name": "01-mirror-chrome-model.webp",
+      "sha256": "934e1eafb9337b295b69779791ca988eb151993bb36ac00e96e0003703bf4649",
+      "bytes": 39242,
+      "from": "ca16 page 15 — final model"
+    },
+    {
+      "name": "02-plane-composition.webp",
+      "sha256": "f252dfe7c23e6c4f20f0d28dc89cece5d56a0e2e1356f886f0cad49d8611e2d4",
+      "bytes": 74432,
+      "from": "ca16 page 15 — plane composition drawing"
+    },
+    {
+      "name": "03-model-stair-and-discs.webp",
+      "sha256": "c48057c6aa6772d28ec4067e66507551e98962461b4547f64ec71779b1b81986",
+      "bytes": 22624,
+      "from": "ca16 page 15 — model with stair and discs"
+    },
+    {
+      "name": "04-model-upper-detail.webp",
+      "sha256": "0ed7a6fcf767c4c58563bb6c12b612f5e3ca288a10091b748098b0aea5ce1a51",
+      "bytes": 11708,
+      "from": "ca16 page 15 — upper model detail"
+    },
+    {
+      "name": "05-model-lower-detail.webp",
+      "sha256": "12b2b958947d8f24cdca4766830641c8e530e5a71d2e79ecd5a7e9788a6fbd84",
+      "bytes": 16252,
+      "from": "ca16 page 15 — lower model detail"
+    }
+  ]
+}
