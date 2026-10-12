@@ -1,0 +1,61 @@
+{
+  "project": "Zhuhai 2050",
+  "dest": "assets/board/zhuhai-2050-30-minute-city",
+  "note": "Portfolio 18d74eaf pages 14–16 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with instructor credit on page 14, the site analysis map and skyline of landmark towers on page 15, the development vision storyboard with photo figures, the education rendering and the sky lobby rendering on page 16, and the other works on page 17. No retouching.",
+  "files": [
+    {
+      "name": "01-city-of-future-collage.webp",
+      "sha256": "d5f18b73d7fcfdd77340dd0c48605f89420d107c9807589beae67a5de4673327",
+      "bytes": 153174,
+      "from": "18d74eaf page 14 — framed collage of the future city with silhouettes, x 69–99 %, y 8–98 %"
+    },
+    {
+      "name": "02-compare-shenzhen-zhuhai.webp",
+      "sha256": "8a39262e16f7b9178ffd0cc1df8b6a12c69379a920f5f5baab170cfef2c18160",
+      "bytes": 73660,
+      "from": "page 15 — compare Shenzhen and Zhuhai, x 29.5–50 %, y 3–73 %"
+    },
+    {
+      "name": "03-urban-texture-analysis.webp",
+      "sha256": "7af5041f50f3a9b75a54aa02f1381d563b0c4268339ff8c0b7252bf80dc6266f",
+      "bytes": 174312,
+      "from": "page 15 — urban texture analysis, x 50–73 %, y 0–100 %"
+    },
+    {
+      "name": "04-site-land-use-analysis.webp",
+      "sha256": "48c56322a298625d85e82861863f61f20d3c0cbe6a32aade1ded204f2526c659",
+      "bytes": 177880,
+      "from": "page 15 — site land use analysis, x 73–100 %, y 0–73 %"
+    },
+    {
+      "name": "05-population-analysis.webp",
+      "sha256": "f8308265d47c081490a15b45be060cba0b3d5990f60073eff762599a693b77d1",
+      "bytes": 67938,
+      "from": "page 15 — population analysis, x 73–100 %, y 73–100 %"
+    },
+    {
+      "name": "06-new-urban-transport-system.webp",
+      "sha256": "ab3c0fb6d2164a14e325aa38c735006399f6feed11917f213962e8407356a207",
+      "bytes": 321018,
+      "from": "page 16 — new urban transport system, x 22.5–50 %, y 0–100 %"
+    },
+    {
+      "name": "07-education-connections.webp",
+      "sha256": "3acb70665bca986181f24f84275cb401081cdefaf667f713fabb883b68aa3f48",
+      "bytes": 225028,
+      "from": "page 16 — education, x 50–75.5 %, y 0–65 %"
+    },
+    {
+      "name": "08-business-towers.webp",
+      "sha256": "4077873a7f37194bbb66df7bdbf287ce341d8e4739039b14454f6a1fe652d119",
+      "bytes": 166678,
+      "from": "page 16 — business, x 75.5–100 %, y 0–63 %"
+    },
+    {
+      "name": "09-business-section.webp",
+      "sha256": "a9f7baa1023a213b99dbccaad65f5c64dc02dfec6436a982169a73fdf359f918",
+      "bytes": 52538,
+      "from": "page 16 — business section with sky lobby, x 75.5–87 %, y 63–100 %"
+    }
+  ]
+}
