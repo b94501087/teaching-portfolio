@@ -1,0 +1,37 @@
+{
+  "project": "Echoes of the Horizon",
+  "dest": "assets/board/echoes-of-the-horizon-pavilion-model",
+  "note": "Portfolio 2cd4 page 3 cropped to five images, WebP q88 (PIL). Not used: title text with course name.",
+  "files": [
+    {
+      "name": "01-pavilion-model.webp",
+      "sha256": "af9f5e544db5f3577f2af83f9ea162a1aa2fa620e054c35fa107a29963ab85cd",
+      "bytes": 80022,
+      "from": "2cd4 page 3 — pavilion model"
+    },
+    {
+      "name": "02-model-top.webp",
+      "sha256": "2063d37297fc93916c4ab4c61610591e32a3f8bb1fd24d064af463172f00534e",
+      "bytes": 20754,
+      "from": "2cd4 page 3 — model from above"
+    },
+    {
+      "name": "03-model-side.webp",
+      "sha256": "54244fa1f89a010765e4dbc0d785a2980ec65f935f833f7224e50a502a54c074",
+      "bytes": 21198,
+      "from": "2cd4 page 3 — model from the side"
+    },
+    {
+      "name": "04-interior-view.webp",
+      "sha256": "219c5125e3fb703fc6f972ae028e89622ef2bcd0b51cbcaa6dddb3aba9420581",
+      "bytes": 54608,
+      "from": "2cd4 page 3 — interior model view"
+    },
+    {
+      "name": "05-interior-drawing.webp",
+      "sha256": "c55c1a7c2f17820bbacd75f1be5bc9ecab62b7ab07be84ab5e60b8becbea78a3",
+      "bytes": 101144,
+      "from": "2cd4 page 3 — drawing of interior space"
+    }
+  ]
+}
