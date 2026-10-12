@@ -1,0 +1,67 @@
+{
+  "project": "Reimagined Vaultypes",
+  "dest": "assets/board/reimagined-vaultypes-rattan-vault-pavilion",
+  "note": "Portfolio ca16 pages 7-8 cropped to ten images, WebP q88 (PIL). Not used: title and essay text, photos of people in transit halls, landmark reference photos, photo of the student making a model.",
+  "files": [
+    {
+      "name": "01-vault-pavilion-model.webp",
+      "sha256": "d79d744bf6186ac4674a56e3058e4f45c85107cadec273822d7993d754c1588d",
+      "bytes": 62064,
+      "from": "ca16 page 8 — final vault model"
+    },
+    {
+      "name": "02-vault-type-sketches.webp",
+      "sha256": "82e8ce07eb9125419b3493b6b60e15bdab2b91dd334234a78f416badae9a76c6",
+      "bytes": 72386,
+      "from": "ca16 page 7 — vault type sketches"
+    },
+    {
+      "name": "03-side-and-top-views.webp",
+      "sha256": "a709583d98dc7606c97243ebc214c22f9b01c7dc9db8881f5f0d0e7162b5ac51",
+      "bytes": 74240,
+      "from": "ca16 page 7 — side and top views on a grid"
+    },
+    {
+      "name": "04-chipboard-study-models.webp",
+      "sha256": "644791e466ccef1fb1895dff97eb655244914946b15bf9345b99ba39e2e69276",
+      "bytes": 12008,
+      "from": "ca16 page 7 — chipboard study models"
+    },
+    {
+      "name": "05-rattan-rib-tests.webp",
+      "sha256": "ffca0c22c3f019768b99776b60738ecedacd1a299894c8adc347d66e5967cb8e",
+      "bytes": 33464,
+      "from": "ca16 page 7 — rattan rib tests"
+    },
+    {
+      "name": "06-mesh-vaults.webp",
+      "sha256": "b5b099991f48e3c1fad8c95f203dcceec043ad23d1a8048961ea004b25ae17f2",
+      "bytes": 43762,
+      "from": "ca16 page 8 — mesh vaults close-up"
+    },
+    {
+      "name": "07-sail-vault-detail.webp",
+      "sha256": "7d9de384cc9169021f6a57c9eaf11e0f823dc4f8e59c907eb1ddb94ae03b8637",
+      "bytes": 10292,
+      "from": "ca16 page 8 — sail vault detail"
+    },
+    {
+      "name": "08-interior-vistas.webp",
+      "sha256": "4c2262f21dc88ec8ce265fd90951544066e2a6a9ffa70a6861bd8ff3cfaa1326",
+      "bytes": 43278,
+      "from": "ca16 page 8 — interior vistas"
+    },
+    {
+      "name": "09-model-elevation.webp",
+      "sha256": "aa261cd27962d910e3911088956e618e302ebeef8a80ae9812b356a9fc76ae0f",
+      "bytes": 53390,
+      "from": "ca16 page 8 — model elevation"
+    },
+    {
+      "name": "10-model-from-above.webp",
+      "sha256": "fecad3f4fc57164d3aff2d07c744b3d0f44d4cf3b202f39766ef0565edaaf08e",
+      "bytes": 32588,
+      "from": "ca16 page 8 — model from above"
+    }
+  ]
+}
