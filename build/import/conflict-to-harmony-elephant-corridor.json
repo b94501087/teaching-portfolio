@@ -1,0 +1,49 @@
+{
+  "project": "Conflict to Harmony",
+  "dest": "assets/board/conflict-to-harmony-elephant-corridor",
+  "note": "Portfolio ab615aae pages 5–7 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the project intro and site analysis with photos of people, elephants and fires on page 5, the corridor map strip with an elephant photo, the natural border vision with plant photos and the photo collage of elephants and villagers on page 6, and the dry and rain season rendering with photo cut-out figures on page 7. No retouching.",
+  "files": [
+    {
+      "name": "01-greenland-restoration.webp",
+      "sha256": "905b2f1f5df23662f337bb60d7a5c0b3c7d35351927f5300a8d1db31333ff0c0",
+      "bytes": 190500,
+      "from": "ab615aae page 5 — strategy 1 greenland restoration diagrams, x 50.5–100 %, y 0–62.5 %"
+    },
+    {
+      "name": "02-corridor-sections-a-b.webp",
+      "sha256": "fbf74018b13e2dd78418053ab722ec3909768db467692040a6045a884a5f2951",
+      "bytes": 134752,
+      "from": "page 6 — corridor section details A-A and B-B, x 11.5–50 %, y 0–53.5 %"
+    },
+    {
+      "name": "03-corridor-sections-c-d.webp",
+      "sha256": "9a6b91e5b9ec95273bd8c61ea491007037aee4a9e3cc7e1a75e6304d2953418d",
+      "bytes": 135472,
+      "from": "page 6 — corridor section details C-C and D-D, x 11.5–50 %, y 53.5–100 %"
+    },
+    {
+      "name": "04-natural-border-plantation.webp",
+      "sha256": "bd19da5db9bf584ad640bfdb5883845f340f681eb1f4f803fdb98a112a8927da",
+      "bytes": 108990,
+      "from": "page 6 — strategy 3 natural border: plantation and how to build the border, x 50–74.5 %, y 0–58.5 %"
+    },
+    {
+      "name": "05-strategy-plan.webp",
+      "sha256": "b34432d38c27ca907aa12af1fb329e09877ae5d001881586ea0fa9c38f18ccbc",
+      "bytes": 84980,
+      "from": "page 6 — strategy plan, x 50–74.5 %, y 58.5–100 %"
+    },
+    {
+      "name": "06-model-views.webp",
+      "sha256": "c20921fcfa353b8fc7eb5e5526e84f86a2632218024721902f0cba959751cade",
+      "bytes": 107766,
+      "from": "page 7 — handmade model views, x 50.5–100 %, y 0–44 %"
+    },
+    {
+      "name": "07-handmade-model.webp",
+      "sha256": "788e42da9fa2a5e81e177bbad17d0932400ab33d1ae2f81d1bd9c3e2b9a84a03",
+      "bytes": 289606,
+      "from": "page 7 — handmade model, x 50.5–100 %, y 44–100 %"
+    }
+  ]
+}
