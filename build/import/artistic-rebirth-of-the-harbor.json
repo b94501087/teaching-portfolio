@@ -1,0 +1,55 @@
+{
+  "project": "The Artistic Rebirth of the Harbor",
+  "dest": "assets/board/artistic-rebirth-of-the-harbor",
+  "note": "Portfolio 7047 pages 3–13 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the site background photo collage on page 4, the city photo on page 5, the site photos on page 6, the case study photos on page 7, the photo circles with people on pages 8 and 10, the user activity diagram with photo circles on page 9 and the page numbers.",
+  "files": [
+    {
+      "name": "01-harbor-facade.webp",
+      "sha256": "dd17e33f4753670ec22a08085dc7fe95868e0c8f3cb0e6d9253c49fe8c585303",
+      "bytes": 211686,
+      "from": "7047 page 3 — factory facade render with dark silhouette figures, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-renovation-strategy.webp",
+      "sha256": "06c7c64d31ecd2cce2ab5892be657e198ff809a129ab13ddeb33ce8d71d26da6",
+      "bytes": 82732,
+      "from": "page 8 — aerial axonometric of the port, x 0–56 %, y 3–37 %"
+    },
+    {
+      "name": "03-port-operation.webp",
+      "sha256": "7c98d2ff26525dd18722cd886c3486e6ab6e452ffb78b4a2effdab6095066cf8",
+      "bytes": 154764,
+      "from": "page 9 — operation diagrams, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "04-scheme-generation.webp",
+      "sha256": "3b8bbf8300247c53748b836179e176ff3fe57a024a6b23ee7b51644151892a68",
+      "bytes": 152224,
+      "from": "page 10 — scheme generation icons and plan, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "05-factory-design.webp",
+      "sha256": "8bfc5d6ba3995d2073b2095b1933bd6638d9f72fa03068206b046a4670d287b2",
+      "bytes": 196062,
+      "from": "page 11 — factory design and exploded studio block, x 38–100 %, y 8–80 %"
+    },
+    {
+      "name": "06-diversification-in-time.webp",
+      "sha256": "d3c577c61ffdcb87e508d30ff0b27cf410dc97e02b5c6b369b4db9132390e80b",
+      "bytes": 275782,
+      "from": "page 12 — diversification in time, x 0–100 %, y 0–78 %"
+    },
+    {
+      "name": "07-factory-section.webp",
+      "sha256": "3fdbb24237cabf5ad7b2504c43985af378135bdb1988bb724d7a670cf55b8a13",
+      "bytes": 60084,
+      "from": "page 12 — long factory section, x 0–100 %, y 78–100 %"
+    },
+    {
+      "name": "08-harbor-axonometric.webp",
+      "sha256": "a048b5200323e39f2a725170137bb2f82b9ba425132d7293bdf8de324ea62295",
+      "bytes": 505698,
+      "from": "page 13 — axonometric drawing of the port, full page"
+    }
+  ]
+}
