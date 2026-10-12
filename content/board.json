@@ -24796,6 +24796,276 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "New Urban Life",
+      "slug": "new-urban-life-racetrack-neighbourhood",
+      "description": "A greenway and roof gardens turn a former racetrack neighbourhood into a place to walk, play and meet.\n\nGuangzhou, China | Urban design | 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "新都市生活",
+          "description": "以綠廊與屋頂花園，把舊賽馬場街區轉化為步行、運動與相聚的地方。\n\n中國廣州｜都市設計｜2019｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/new-urban-life-racetrack-neighbourhood/01-greenway-aerial.webp",
+        "assets/board/new-urban-life-racetrack-neighbourhood/02-urban-change.webp",
+        "assets/board/new-urban-life-racetrack-neighbourhood/03-circulation.webp",
+        "assets/board/new-urban-life-racetrack-neighbourhood/04-development-plan.webp",
+        "assets/board/new-urban-life-racetrack-neighbourhood/05-three-lives.webp",
+        "assets/board/new-urban-life-racetrack-neighbourhood/06-schematic-design.webp",
+        "assets/board/new-urban-life-racetrack-neighbourhood/07-master-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/new-urban-life-racetrack-neighbourhood/01-greenway-aerial.webp"
+          ],
+          "captions": [
+            "A green running track threads through the rebuilt neighbourhood and its roof gardens."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "一條綠色跑道穿過重建後的街區與屋頂花園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Daily life spent on screens has made many people sedentary. The project rebuilds a former racetrack neighbourhood in Guangzhou so that people walk outside and meet face to face.",
+          "images": [
+            "assets/board/new-urban-life-racetrack-neighbourhood/02-urban-change.webp"
+          ],
+          "captions": [
+            "Urban change around the site, from farmland and villages to high-rise blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "日常生活被螢幕佔據，讓許多人習慣久坐。本案重建廣州一處舊賽馬場街區，讓人們走到戶外、面對面交流。",
+              "captions": [
+                "基地周邊的都市變遷，從農地與村落轉為高樓街廓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site is ringed by busy roads on three sides and has only two gates. That makes it hard for people to walk in, even though subway and bus lines are close by.",
+          "images": [
+            "assets/board/new-urban-life-racetrack-neighbourhood/03-circulation.webp"
+          ],
+          "captions": [
+            "Circulation analysis: public transport, traffic and accessibility."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地三面被繁忙道路包圍，且只有兩個出入口。即使地鐵與公車就在附近，人們仍難以步行進入。",
+              "captions": [
+                "動線分析：大眾運輸、交通與可及性。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A north-south greenway runs through the middle of the site, and a tunnel below it takes cars off the surface. Most buildings carry roof gardens that link people with nature.",
+          "images": [
+            "assets/board/new-urban-life-racetrack-neighbourhood/04-development-plan.webp",
+            "assets/board/new-urban-life-racetrack-neighbourhood/06-schematic-design.webp"
+          ],
+          "captions": [
+            "Future development plan: form, edge, orientation and place.",
+            "Schematic layers: circulation, roads, buildings, greenway and roof gardens."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一條南北向綠廊貫穿基地中央，其下的隧道把車流移出地面。多數建築設有屋頂花園，讓人與自然相連。",
+              "captions": [
+                "未來發展計畫：形態、邊界、方向與場所。",
+                "設計分層：動線、道路、建築、綠廊與屋頂花園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The master plan mixes offices, a sports field, an art centre, homes and a central park along the greenway. Work, green space and community life overlap so that the old sporting spirit of the site lives on.",
+          "images": [
+            "assets/board/new-urban-life-racetrack-neighbourhood/07-master-plan.webp",
+            "assets/board/new-urban-life-racetrack-neighbourhood/05-three-lives.webp"
+          ],
+          "captions": [
+            "Master plan of the neighbourhood along the greenway.",
+            "Work life, green life and human life across the plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "總體配置沿綠廊混合辦公、運動場、藝術中心、住宅與中央公園。工作、綠地與社區生活彼此交疊，讓基地原有的運動精神得以延續。",
+              "captions": [
+                "沿綠廊展開的街區總體配置。",
+                "整體配置中的工作生活、綠色生活與人的生活。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the site history.\n2. Map how people move.\n3. Draw one strong spine.\n4. Layer life along it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 閱讀基地歷史。\n2. 描繪人的移動。\n3. 畫出一條清楚的主軸。\n4. 沿主軸疊加生活。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Building a Prison",
+      "slug": "building-a-prison-reframing-privacy",
+      "description": "Models and drawings test how a prison can balance privacy and security around one control tower.\n\nArchitecture | Prison | Privacy study | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "建構一座監獄",
+          "description": "以模型與圖面，探討監獄如何圍繞一座控制塔，在隱私與安全之間取得平衡。\n\n建築｜監獄｜隱私研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/building-a-prison-reframing-privacy/01-labyrinth.webp",
+        "assets/board/building-a-prison-reframing-privacy/02-three-prototypes.webp",
+        "assets/board/building-a-prison-reframing-privacy/03-prototype-sections.webp",
+        "assets/board/building-a-prison-reframing-privacy/04-axonometric.webp",
+        "assets/board/building-a-prison-reframing-privacy/05-ground-plan.webp",
+        "assets/board/building-a-prison-reframing-privacy/06-upper-plan.webp",
+        "assets/board/building-a-prison-reframing-privacy/07-interior-views.webp",
+        "assets/board/building-a-prison-reframing-privacy/08-sections.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/building-a-prison-reframing-privacy/01-labyrinth.webp"
+          ],
+          "captions": [
+            "A hand-drawn labyrinth of towers, bridges and stairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "手繪的迷宮，由高塔、橋與樓梯交織而成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks how privacy and security can be balanced inside a prison. It treats the building as a study of how walls, distance and paths decide what people can see and reach.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案探討監獄內部如何在隱私與安全之間取得平衡。它把建築當作一項研究，觀察牆、距離與路徑如何決定人能看見與抵達的範圍。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Early drawings imagine a maze of towers and stairs that is easy to enter and hard to leave. Three prototype models then test hanging cells, a vertical maze of stairs and an open grid.",
+          "images": [
+            "assets/board/building-a-prison-reframing-privacy/02-three-prototypes.webp",
+            "assets/board/building-a-prison-reframing-privacy/03-prototype-sections.webp"
+          ],
+          "captions": [
+            "Three prototype models that recombine the earlier elements.",
+            "Prototype sections, each rated for privacy and security."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "早期的圖面想像一座由高塔與樓梯構成、易進難出的迷宮。接著以三個原型模型，測試懸吊的房間、垂直的樓梯迷宮與開放格架。",
+              "captions": [
+                "三個重新組合先前元素的原型模型。",
+                "原型剖面，各自標示隱私與安全的程度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The prototypes are combined into one block of stacked layers around a central control tower. Common cell rooms sit on the outer layer, with more isolated rooms toward the centre.",
+          "images": [
+            "assets/board/building-a-prison-reframing-privacy/04-axonometric.webp",
+            "assets/board/building-a-prison-reframing-privacy/05-ground-plan.webp",
+            "assets/board/building-a-prison-reframing-privacy/06-upper-plan.webp"
+          ],
+          "captions": [
+            "Axonometric and exploded view of the layered block.",
+            "Plan with a single entrance and the cell rooms on the outer ring.",
+            "Plan with the guard office and control tower at the centre."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "這些原型被整合成一座圍繞中央控制塔、層層堆疊的量體。一般房間位於外層，隔離程度較高的房間則往中心配置。",
+              "captions": [
+                "分層量體的軸測圖與爆炸圖。",
+                "單一入口、房間位於外圈的平面。",
+                "警衛辦公室與控制塔位於中心的平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Renders show a light, open frame where stairs and bridges cross through the courtyard. The sections show how vertical circulation and the cell rooms stack around the tower.",
+          "images": [
+            "assets/board/building-a-prison-reframing-privacy/07-interior-views.webp",
+            "assets/board/building-a-prison-reframing-privacy/08-sections.webp"
+          ],
+          "captions": [
+            "Views from a common cell room and from an isolated section.",
+            "Sections of the vertical circulation and the common cell rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "渲染圖呈現一座輕盈開放的框架，樓梯與天橋穿越中庭。剖面則說明垂直動線與房間如何圍繞高塔堆疊。",
+              "captions": [
+                "從一般房間與隔離區看出去的視角。",
+                "垂直動線與一般房間的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Draw the idea by hand.\n2. Build three prototypes.\n3. Rate each one.\n4. Combine the best parts.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先用手繪表達想法。\n2. 做出三個原型。\n3. 逐一評估。\n4. 整合最好的部分。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
