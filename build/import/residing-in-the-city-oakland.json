@@ -1,0 +1,61 @@
+{
+  "project": "Residing in the City",
+  "dest": "assets/board/residing-in-the-city-oakland",
+  "note": "Portfolio 6d64 pages 26–27 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the project info and abstract page, the city model with landmark photo circles, the circular map with a photo ring, the urban park render with a script overlay, the material photos and the body text.",
+  "files": [
+    {
+      "name": "01-pixel-landscape.webp",
+      "sha256": "134daec1a6668a0e2afea2a714c89dcdc8ed535bd1e4d8c1cdab320ffa385354",
+      "bytes": 98810,
+      "from": "6d64 page 27 — pixel landscape render, x 29–95.5 %, y 17–51 %"
+    },
+    {
+      "name": "02-pixel-map.webp",
+      "sha256": "4f4621f7cd133faa8c1e8f9ef1665508a61ca20f6ab03623c6753620763be79a",
+      "bytes": 10612,
+      "from": "page 27 — pixel landscape pattern plan, x 4.5–28.5 %, y 28–51 %"
+    },
+    {
+      "name": "03-urban-park-sections.webp",
+      "sha256": "9d7adf4f5045907ca0dcccc7fc349f3c559e68953cc151f30dc92b631f9a8588",
+      "bytes": 32062,
+      "from": "page 26 — urban park sections A–E, x 4.5–36 %, y 20–50 %"
+    },
+    {
+      "name": "04-urban-park-sketches.webp",
+      "sha256": "cd728528bddd448620232ee13e6fdf53b80f6445d14b1a1e2ae9c99d928c475b",
+      "bytes": 35932,
+      "from": "page 26 — form concept drawings, x 48.5–80 %, y 52–97 %"
+    },
+    {
+      "name": "05-urban-park-site-plan.webp",
+      "sha256": "c1140fca9b13f8d1628e87b6509ec0f1dff809f9cbdb4fb278bf9396632e41b6",
+      "bytes": 26038,
+      "from": "page 26 — urban park site plan, x 80.5–95.5 %, y 52–95 %"
+    },
+    {
+      "name": "06-land-use-map.webp",
+      "sha256": "a9e22df7d8de4c0409a49dd832155c1b18c122ebf508953930cae33c74b1ef35",
+      "bytes": 31790,
+      "from": "page 27 — land use map, x 4.5–25 %, y 55.5–81 %"
+    },
+    {
+      "name": "07-station-site.webp",
+      "sha256": "da96cbcb296fc643085f266345a63c19f2f36f2357a577b569341201ae9a8311",
+      "bytes": 24674,
+      "from": "page 27 — artwork station site diagram, x 26.5–41 %, y 55–80 %"
+    },
+    {
+      "name": "08-station-options.webp",
+      "sha256": "e8d0bd1694448b81f886f519f7d3896ff228ee01c641cd45787faf869e1cab8c",
+      "bytes": 12068,
+      "from": "page 27 — artwork station options, x 4.5–45 %, y 84–97 %"
+    },
+    {
+      "name": "09-station-sections.webp",
+      "sha256": "f200ee6097760187568c094983c81b90047d9186e543380d0a27bce81a8f6495",
+      "bytes": 35704,
+      "from": "page 27 — artwork station sections A and B, x 60–95.5 %, y 52–98 %"
+    }
+  ]
+}
