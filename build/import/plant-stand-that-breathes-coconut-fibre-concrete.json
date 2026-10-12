@@ -1,0 +1,55 @@
+{
+  "project": "A Plant Stand That Breathes",
+  "dest": "assets/board/plant-stand-that-breathes-coconut-fibre-concrete",
+  "note": "Portfolio f986 pages 4-5 cropped to eight images, WebP q88 (PIL). Not used: title and text, photo of the student.",
+  "files": [
+    {
+      "name": "01-plant-stand-in-light.webp",
+      "sha256": "3387eaee023b17380b09527f941aaddffaffb93c40885173f1419dee6fc66660",
+      "bytes": 91280,
+      "from": "f986 page 5 — plant stand in light"
+    },
+    {
+      "name": "02-coconut-to-fibre-process.webp",
+      "sha256": "2a9290b20cca8c75e01c77b785d3858016f6565aa98c6c9e78f34af695fb8338",
+      "bytes": 92246,
+      "from": "f986 page 4 — coconut to fibre process"
+    },
+    {
+      "name": "03-material-test-discs.webp",
+      "sha256": "203399a4d1cdd356c4e18a2f50173b59fd64ce4bfc7e75ec64dcf28795dc7361",
+      "bytes": 45018,
+      "from": "f986 page 4 — material test discs"
+    },
+    {
+      "name": "04-fibre-concrete-pots.webp",
+      "sha256": "960a1e1aceb3ff2a22a422c1361d83bf5b11995de90c117416ca6d9cfd6d87b2",
+      "bytes": 29004,
+      "from": "f986 page 4 — fibre concrete pots"
+    },
+    {
+      "name": "05-hanging-pot.webp",
+      "sha256": "b1902ca55cd0010b1bf832bc3914033c739d642ec28537fb1bc161e29d654a14",
+      "bytes": 22922,
+      "from": "f986 page 4 — hanging pot"
+    },
+    {
+      "name": "06-air-plant-pots.webp",
+      "sha256": "5ce07c656bcb3de5bad76500c87037ef508d9c16384eee6513a495221c2c9071",
+      "bytes": 11444,
+      "from": "f986 page 4 — air plant pots"
+    },
+    {
+      "name": "07-plant-stand-daylight.webp",
+      "sha256": "26eab4df1ebe7de8508a991eb21c83eb022caad607390ad542250cbdf6e40e3e",
+      "bytes": 78252,
+      "from": "f986 page 5 — plant stand daylight"
+    },
+    {
+      "name": "08-stand-details.webp",
+      "sha256": "ae894ed66a51630fdf6bd00d150da880eb3ff4bfa7848ac5ec9790ce110a0f10",
+      "bytes": 23442,
+      "from": "f986 page 5 — stand details"
+    }
+  ]
+}
