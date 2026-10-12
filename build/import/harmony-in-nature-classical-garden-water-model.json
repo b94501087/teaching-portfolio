@@ -1,0 +1,43 @@
+{
+  "project": "Harmony in Nature",
+  "dest": "assets/board/harmony-in-nature-classical-garden-water-model",
+  "note": "Portfolio f312 pages 10-11 cropped to six images, WebP q88 (PIL). Not used: title and text, a site photo, process photos showing hands.",
+  "files": [
+    {
+      "name": "01-bridge-view.webp",
+      "sha256": "78dc2b75b1a54db038f29b6e2f4ac8046d6e80ce444da23367fd444e0ee9ee90",
+      "bytes": 129850,
+      "from": "f312 page 11 — bridge view"
+    },
+    {
+      "name": "02-garden-overview.webp",
+      "sha256": "8ee87db0c2bd70381517134829bb88d20dfef54412895335c3eade69152e4804",
+      "bytes": 132736,
+      "from": "f312 page 11 — garden overview"
+    },
+    {
+      "name": "03-rockery-side.webp",
+      "sha256": "ff2ab7c782ac6b197461979dcf290ec293c0f2b1e6aa36d1f2ea16156b9f02e8",
+      "bytes": 31652,
+      "from": "f312 page 11 — rockery side"
+    },
+    {
+      "name": "04-walls-side.webp",
+      "sha256": "dedcde076312bbb17a9bdc188492a191ecb5633ec8c2e57069f2d480382fbfc5",
+      "bytes": 27790,
+      "from": "f312 page 11 — walls side"
+    },
+    {
+      "name": "05-front-side.webp",
+      "sha256": "0e8ad430adaafbef6649d177c3ffcd06df1d1b53cdb5fca80f5e5495207b063f",
+      "bytes": 22482,
+      "from": "f312 page 11 — front side"
+    },
+    {
+      "name": "06-garden-diagrams.webp",
+      "sha256": "ed78306d6d31b5090728b13f9d84d6c961ff5571f0b0675e45b50a02c5610552",
+      "bytes": 102526,
+      "from": "f312 page 10 — garden diagrams"
+    }
+  ]
+}
