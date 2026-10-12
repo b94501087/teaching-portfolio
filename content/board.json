@@ -32728,6 +32728,447 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Lithium Lab Geevor",
+      "slug": "lithium-lab-geevor-greenhouse-factory",
+      "description": "A geothermal lithium lab on a former tin mine, with a planted greenhouse at its core.\n\nCornwall | Industrial heritage | Lithium lab | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "吉弗鋰實驗室",
+          "description": "在舊錫礦上建造的地熱鋰實驗室，以一座植栽溫室為核心。\n\n康瓦爾｜工業遺產｜鋰實驗室｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/lithium-lab-geevor-greenhouse-factory/01-greenhouse-factory.webp",
+        "assets/board/lithium-lab-geevor-greenhouse-factory/02-topography-tunnels.webp",
+        "assets/board/lithium-lab-geevor-greenhouse-factory/03-energy-plant-research.webp",
+        "assets/board/lithium-lab-geevor-greenhouse-factory/04-masterplan-steps.webp",
+        "assets/board/lithium-lab-geevor-greenhouse-factory/05-masterplan.webp",
+        "assets/board/lithium-lab-geevor-greenhouse-factory/06-program-axonometric.webp",
+        "assets/board/lithium-lab-geevor-greenhouse-factory/07-greenhouse-core.webp",
+        "assets/board/lithium-lab-geevor-greenhouse-factory/08-visitor-factory-section.webp",
+        "assets/board/lithium-lab-geevor-greenhouse-factory/09-office-factory-explosion.webp",
+        "assets/board/lithium-lab-geevor-greenhouse-factory/10-construction-explodes.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/lithium-lab-geevor-greenhouse-factory/01-greenhouse-factory.webp"
+          ],
+          "captions": [
+            "Aerial render of the greenhouse factory."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "溫室工廠的鳥瞰渲染。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A former tin mine on a rugged coast has lost its industry and much of its local work. The project asks how a new lithium lab can bring production back while respecting the mining heritage.",
+          "images": [
+            "assets/board/lithium-lab-geevor-greenhouse-factory/02-topography-tunnels.webp",
+            "assets/board/lithium-lab-geevor-greenhouse-factory/03-energy-plant-research.webp"
+          ],
+          "captions": [
+            "Site topography above the old mining tunnels.",
+            "Research on geothermal lithium extraction."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座位於崎嶇海岸的舊錫礦，失去了產業，也失去了許多在地工作。這個專案追問新的鋰實驗室如何在尊重礦業遺產的同時，讓生產重新回來。",
+              "captions": [
+                "舊礦坑隧道上方的基地地形。",
+                "地熱提鋰的研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Underground tunnels and hot brine make the site suitable for geothermal lithium extraction. The study maps how energy, water and material can move from the ground into the plant.",
+          "images": [
+            "assets/board/lithium-lab-geevor-greenhouse-factory/04-masterplan-steps.webp",
+            "assets/board/lithium-lab-geevor-greenhouse-factory/05-masterplan.webp"
+          ],
+          "captions": [
+            "Masterplan steps from mass to zones to plan.",
+            "Masterplan along the slope and heritage route."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "地下隧道與熱鹵水，讓基地適合進行地熱提鋰。研究梳理能源、水與材料如何從地底流入工廠。",
+              "captions": [
+                "從量體、分區到平面的配置步驟。",
+                "沿坡地與遺產路線展開的總體配置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The station, greenhouse, factory, office and visitor sectors are linked along one connected route. A planted greenhouse sits at the heart of the plant as its environmental core.",
+          "images": [
+            "assets/board/lithium-lab-geevor-greenhouse-factory/06-program-axonometric.webp",
+            "assets/board/lithium-lab-geevor-greenhouse-factory/07-greenhouse-core.webp",
+            "assets/board/lithium-lab-geevor-greenhouse-factory/08-visitor-factory-section.webp"
+          ],
+          "captions": [
+            "Axonometric of the program sectors.",
+            "Section through the greenhouse core.",
+            "Long section from visitor centre to factory."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "車站、溫室、工廠、辦公與訪客區沿一條連續路線串接。一座種滿植物的溫室位於廠區中心，作為環境核心。",
+              "captions": [
+                "各機能區的軸測圖。",
+                "穿過溫室核心的剖面。",
+                "從訪客中心到工廠的長剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Timber and steel frames with double facades give the factory and office natural ventilation. Visitors can watch production through glass while the greenhouse cleans the air.",
+          "images": [
+            "assets/board/lithium-lab-geevor-greenhouse-factory/09-office-factory-explosion.webp",
+            "assets/board/lithium-lab-geevor-greenhouse-factory/10-construction-explodes.webp"
+          ],
+          "captions": [
+            "Structure explosions of the factory and office.",
+            "Construction explodes of the office and factory."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "木構與鋼構搭配雙層立面，為工廠與辦公空間帶來自然通風。訪客可以隔著玻璃觀看生產，溫室則同時淨化空氣。",
+              "captions": [
+                "工廠與辦公的結構分解圖。",
+                "辦公與工廠的構造分解圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read what lies under the ground.\n2. Follow the flow of energy.\n3. Put the climate system at the centre.\n4. Let visitors see the work.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 讀懂地底下有什麼。\n2. 跟著能源的流動走。\n3. 把氣候系統放在中心。\n4. 讓訪客看見工作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Bloom Street Power Station Renewal",
+      "slug": "bloom-street-power-station-renewal",
+      "description": "A disused brick power station turned into a cultural venue with a climbable chimney.\n\nManchester | Adaptive reuse | Cultural venue | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "布魯姆街發電站更新",
+          "description": "把廢棄磚造發電站改造成可攀登煙囪的文化場館。\n\n曼徹斯特｜再利用｜文化場館｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/bloom-street-power-station-renewal/01-chimney-hall.webp",
+        "assets/board/bloom-street-power-station-renewal/02-heritage-explosion.webp",
+        "assets/board/bloom-street-power-station-renewal/03-heritage-sections.webp",
+        "assets/board/bloom-street-power-station-renewal/04-design-strategy.webp",
+        "assets/board/bloom-street-power-station-renewal/05-auditorium-solution.webp",
+        "assets/board/bloom-street-power-station-renewal/06-chimney-structure.webp",
+        "assets/board/bloom-street-power-station-renewal/07-facade-interface.webp",
+        "assets/board/bloom-street-power-station-renewal/08-structure-explosion.webp",
+        "assets/board/bloom-street-power-station-renewal/09-aerial-render.webp",
+        "assets/board/bloom-street-power-station-renewal/10-interior-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/bloom-street-power-station-renewal/01-chimney-hall.webp"
+          ],
+          "captions": [
+            "The old power station with its chimney and new roof."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "保留煙囪與新屋頂的舊發電站。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A disused brick power station stands empty in a dense city block. The project asks how its chimney and walls can carry a new public life without losing their industrial character.",
+          "images": [
+            "assets/board/bloom-street-power-station-renewal/02-heritage-explosion.webp",
+            "assets/board/bloom-street-power-station-renewal/03-heritage-sections.webp"
+          ],
+          "captions": [
+            "Explosion of the existing roof, walls, chimney and basement.",
+            "Street sections showing the station in its context."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座廢棄的磚造發電站，空置在密集的城市街廓中。這個專案追問煙囪與牆體如何承載新的公共生活，又不失去工業特質。",
+              "captions": [
+                "既有屋頂、牆體、煙囪與地下室的分解圖。",
+                "呈現發電站與周邊關係的街道剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The study records the roof, columns, facade walls and basement that can be kept. It also maps the routes and open spaces that could draw people into the block.",
+          "images": [
+            "assets/board/bloom-street-power-station-renewal/04-design-strategy.webp",
+            "assets/board/bloom-street-power-station-renewal/05-auditorium-solution.webp"
+          ],
+          "captions": [
+            "Design strategy steps for entry and public space.",
+            "An auditorium and bar complex inside the shell."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究記錄可保留的屋頂、柱列、立面牆與地下室。同時梳理能把人引入街廓的路徑與開放空間。",
+              "captions": [
+                "入口與公共空間的設計策略步驟。",
+                "置入舊殼體內的演講廳與酒吧複合空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "An auditorium is hung inside the old shell, while a stair climbs the chimney to a viewing point. A light steel frame supports the new floors without loading the historic walls.",
+          "images": [
+            "assets/board/bloom-street-power-station-renewal/06-chimney-structure.webp",
+            "assets/board/bloom-street-power-station-renewal/07-facade-interface.webp",
+            "assets/board/bloom-street-power-station-renewal/08-structure-explosion.webp"
+          ],
+          "captions": [
+            "Section of the chimney stair and hall.",
+            "Detail where new floors meet the old facade.",
+            "Explosion of the new structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "演講廳懸掛在舊殼體內，一座樓梯則沿煙囪攀升到觀景點。輕量鋼構支撐新樓板，不讓荷重落在歷史牆體上。",
+              "captions": [
+                "煙囪樓梯與大廳的剖面。",
+                "新樓板與舊立面交接的細部。",
+                "新結構的分解圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The station reopens as a cultural venue with a public hall, bar and auditorium under a new sawtooth roof. The chimney becomes a landmark that visitors can now climb.",
+          "images": [
+            "assets/board/bloom-street-power-station-renewal/09-aerial-render.webp",
+            "assets/board/bloom-street-power-station-renewal/10-interior-views.webp"
+          ],
+          "captions": [
+            "Aerial view of the renewed station.",
+            "Views of the hall, bar and auditorium."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "發電站以文化場館重新開放，新的鋸齒屋頂下有公共大廳、酒吧與演講廳。煙囪成為訪客可以攀登的地標。",
+              "captions": [
+                "更新後發電站的鳥瞰。",
+                "大廳、酒吧與演講廳的室內視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Record what must stay.\n2. Hang the new inside the old.\n3. Keep loads off the heritage walls.\n4. Give the landmark a new use.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 記錄必須保留的部分。\n2. 讓新的懸在舊的裡面。\n3. 不讓荷重落在遺產牆上。\n4. 給地標新的用途。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Riverside Greenhouse",
+      "slug": "riverside-greenhouse-laboratory",
+      "description": "A timber greenhouse laboratory that helps restore a polluted riverbank.\n\nRiver Goyt | Landscape | Greenhouse laboratory | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "河岸溫室",
+          "description": "協助修復受污染河岸的木構溫室實驗室。\n\n戈伊特河｜地景｜溫室實驗室｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/riverside-greenhouse-laboratory/01-riverside-greenhouse.webp",
+        "assets/board/riverside-greenhouse-laboratory/02-location-climate.webp",
+        "assets/board/riverside-greenhouse-laboratory/03-tracing-history.webp",
+        "assets/board/riverside-greenhouse-laboratory/04-iteration-plan.webp",
+        "assets/board/riverside-greenhouse-laboratory/05-elevations.webp",
+        "assets/board/riverside-greenhouse-laboratory/06-structure-explosion.webp",
+        "assets/board/riverside-greenhouse-laboratory/07-distribution-of-areas.webp",
+        "assets/board/riverside-greenhouse-laboratory/08-flow-analysis.webp",
+        "assets/board/riverside-greenhouse-laboratory/09-performance-strategies.webp",
+        "assets/board/riverside-greenhouse-laboratory/10-environmental-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/riverside-greenhouse-laboratory/01-riverside-greenhouse.webp"
+          ],
+          "captions": [
+            "The greenhouse laboratory along the riverside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "沿河岸展開的溫室實驗室。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A polluted riverside beside an old mill site has lost its green edge. The project asks how a small laboratory can help restore nature while opening the bank to the public.",
+          "images": [
+            "assets/board/riverside-greenhouse-laboratory/02-location-climate.webp",
+            "assets/board/riverside-greenhouse-laboratory/03-tracing-history.webp"
+          ],
+          "captions": [
+            "Location, zoning and climate study.",
+            "Drawing that traces the history of the river town."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一段緊鄰舊磨坊遺址的河岸受到污染，失去了綠色邊緣。這個專案追問一座小型實驗室如何協助恢復自然，同時把河岸開放給公眾。",
+              "captions": [
+                "基地位置、分區與氣候研究。",
+                "追溯河岸城鎮歷史的圖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The study traces how the river and the town grew together over time. It also tests a long-term planting plan that slowly turns the bank back into a green buffer.",
+          "images": [
+            "assets/board/riverside-greenhouse-laboratory/04-iteration-plan.webp",
+            "assets/board/riverside-greenhouse-laboratory/05-elevations.webp"
+          ],
+          "captions": [
+            "Design iteration along the curve of the river.",
+            "Elevations of the long greenhouse."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究追溯河流與城鎮如何隨時間一起成長。同時測試一套長期植栽計畫，讓河岸逐步回復為綠色緩衝帶。",
+              "captions": [
+                "沿河道曲線的設計迭代。",
+                "長條溫室的立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Timber frames and long beams carry a sloped roof over a curved plan that follows the water. The remaining brick wall from the old factory is kept as part of the new structure.",
+          "images": [
+            "assets/board/riverside-greenhouse-laboratory/06-structure-explosion.webp",
+            "assets/board/riverside-greenhouse-laboratory/07-distribution-of-areas.webp",
+            "assets/board/riverside-greenhouse-laboratory/08-flow-analysis.webp"
+          ],
+          "captions": [
+            "Explosion of roof, timber frame and kept walls.",
+            "Distribution of greenhouse, lab and exhibition areas.",
+            "Public and private flows through the building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木構架與長樑支撐斜屋頂，覆蓋一個順著水岸彎曲的平面。舊工廠留下的磚牆被保留，成為新結構的一部分。",
+              "captions": [
+                "屋頂、木構架與保留牆體的分解圖。",
+                "溫室、實驗室與展覽空間的配置。",
+                "建築中公共與私密的動線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The roof collects rain, lets in winter sun and guides air through the greenhouse. Visitors walk a promenade beside the labs while the planting gradually restores the riverbank.",
+          "images": [
+            "assets/board/riverside-greenhouse-laboratory/09-performance-strategies.webp",
+            "assets/board/riverside-greenhouse-laboratory/10-environmental-section.webp"
+          ],
+          "captions": [
+            "Strategies for ventilation, sunlight, rain and greenery.",
+            "Section showing the sloped roof and climate flow."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "屋頂收集雨水、引入冬季陽光，並引導空氣穿過溫室。訪客沿著實驗室旁的步道行走，植栽則逐步修復河岸。",
+              "captions": [
+                "通風、日照、雨水與綠化的策略。",
+                "呈現斜屋頂與氣候流動的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Trace the history of the place.\n2. Plan for slow change.\n3. Keep what remains.\n4. Let the roof do the climate work.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 追溯場所的歷史。\n2. 為緩慢的改變做規劃。\n3. 保留留下來的東西。\n4. 讓屋頂負責氣候工作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
