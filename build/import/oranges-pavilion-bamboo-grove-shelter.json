@@ -1,0 +1,43 @@
+{
+  "project": "Oranges Pavilion",
+  "dest": "assets/board/oranges-pavilion-bamboo-grove-shelter",
+  "note": "Portfolio f986 page 10 cropped to six images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-pavilion-model.webp",
+      "sha256": "5123807256160642fd568ddb23528b23b95faaa4050e6d9a4e5caac55e1a80a5",
+      "bytes": 108656,
+      "from": "f986 page 10 — pavilion model"
+    },
+    {
+      "name": "02-fruit-cross-sections.webp",
+      "sha256": "1d2802896bfbd7dc7244000764ea80e04acd7b26bcdb01f8bf044d1245b6ff86",
+      "bytes": 28720,
+      "from": "f986 page 10 — fruit cross sections"
+    },
+    {
+      "name": "03-pulp-form-studies.webp",
+      "sha256": "46345509ab9dbcdfd2c14f6dd64c27885a326537cdad2dd9bfbb7cd47a61de9d",
+      "bytes": 20276,
+      "from": "f986 page 10 — pulp form studies"
+    },
+    {
+      "name": "04-pavilion-in-grove-sketch.webp",
+      "sha256": "e2f2cb2de24928def0763d9abe150fef8f788d83aebdecd36ff873bb83a6296a",
+      "bytes": 49612,
+      "from": "f986 page 10 — pavilion in grove sketch"
+    },
+    {
+      "name": "05-model-views.webp",
+      "sha256": "35853d24075fd4106625b89f98f99b8a38de90638b595ed7932db862bf78e495",
+      "bytes": 39846,
+      "from": "f986 page 10 — model views"
+    },
+    {
+      "name": "06-roof-and-deck-details.webp",
+      "sha256": "29ebbc28a90466a76817e1f3f939fbc07fa54dc3c8407dc0d1f179e4af378a81",
+      "bytes": 71238,
+      "from": "f986 page 10 — roof and deck details"
+    }
+  ]
+}
