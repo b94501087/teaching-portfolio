@@ -1,0 +1,49 @@
+{
+  "project": "Campus Boundary",
+  "dest": "assets/board/campus-boundary",
+  "note": "Portfolio bffa1381 pages 10–12 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title panel, the literature review portraits, the site analysis and living-condition photo circles and the boundary photos on page 10, the reference project photo on page 11, and the photo insets with people around the exploded view on page 12. No retouching.",
+  "files": [
+    {
+      "name": "01-exploded-boundary-view.webp",
+      "sha256": "4dda88e3ad6c4e239599d20f44bf598758f988fdac83934d820070ab6b841edd",
+      "bytes": 210984,
+      "from": "bffa1381 page 12 — exploded view of the boundary, x 13–36.5 %, y 0–100 %"
+    },
+    {
+      "name": "02-current-boundaries-sketch-map.webp",
+      "sha256": "53084f48c44b970c81dcd0851c7e03e7de623c6c56b4350d72c808c2091ce22f",
+      "bytes": 58990,
+      "from": "page 10 — situation of current boundaries, sketch map, x 66.5–82 %, y 45–88 %"
+    },
+    {
+      "name": "03-space-pattern.webp",
+      "sha256": "8deb24e8130ea29eea054d87267f57d6f63187c964ec167aff781bac2f4489d0",
+      "bytes": 11944,
+      "from": "page 10 — space pattern diagram, x 51–65 %, y 84–98 %"
+    },
+    {
+      "name": "04-extension-point-to-line.webp",
+      "sha256": "77cb1207b1910b85682f3a95aee14801df81cf911adf7cbc040114a733232ee1",
+      "bytes": 43128,
+      "from": "page 11 — extension: release pressure from point to line, x 0–18.5 %, y 0–37 %"
+    },
+    {
+      "name": "05-edges-extension-gym-courtyard.webp",
+      "sha256": "9f7964e72a17f619235059038407c5e72a4659fdaac89878bc5e8d18c846bebe",
+      "bytes": 153220,
+      "from": "page 11 — extension, gym and courtyard as edge, x 19–48.8 %, y 0–100 %"
+    },
+    {
+      "name": "06-edges-corridor-sight-interaction.webp",
+      "sha256": "75c3932ce1bc6578b99fe024b1192886ef1091e70586e06481553092f563afcc",
+      "bytes": 163054,
+      "from": "page 11 — corridors, sight and interaction as edge, x 48.9–79.1 %, y 0–100 %"
+    },
+    {
+      "name": "07-edges-route-hub-park.webp",
+      "sha256": "801fd7819f073c1ff36311d3218ebba3c51d148b59fad8dad57936dcc8038e70",
+      "bytes": 120086,
+      "from": "page 11 — route, transport hub and park as edge, x 79.2–99.8 %, y 0–100 %"
+    }
+  ]
+}
