@@ -1,0 +1,37 @@
+{
+  "project": "Rowing",
+  "dest": "assets/board/rowing-kinetic-sketches-boat-anatomy",
+  "note": "Portfolio 2cd4 pages 7-8 cropped to five images, WebP q88 (PIL). Not used: title and statement text, rowing photos with people, photo collage of rowers, sunset crew photos.",
+  "files": [
+    {
+      "name": "01-kinetic-sketch.webp",
+      "sha256": "2ae8f96b3fb64066a3ac4915d5e8187d1914694428a3bd3f63315ea93d61e0e7",
+      "bytes": 127056,
+      "from": "2cd4 page 7 — aquatic kinetic sketch"
+    },
+    {
+      "name": "02-motion-studies-a.webp",
+      "sha256": "855f2295d9079a7508943ee504c283ce260b3c48855076f8411d9b63de4b6956",
+      "bytes": 7420,
+      "from": "2cd4 page 7 — rowing motion studies, first frames"
+    },
+    {
+      "name": "03-motion-studies-b.webp",
+      "sha256": "8425c499efa4a96c32bb1a2bc6124cf7d5f3dbab1afd8304c7eaf453a90ae78f",
+      "bytes": 12012,
+      "from": "2cd4 page 7 — rowing motion studies, later frames"
+    },
+    {
+      "name": "04-boat-oar-section.webp",
+      "sha256": "da739388b88056379bb8db0e7a4ddc3bd9fca791b79aa7e207c7e8570180046e",
+      "bytes": 59074,
+      "from": "2cd4 page 8 — boat and oar sectional drawing"
+    },
+    {
+      "name": "05-oar-sweep-section.webp",
+      "sha256": "fd3256aeec96f20f3d1dbfb99e4d246cabdebf9ad5c8dac5d4b7fb300e0fdc9b",
+      "bytes": 58738,
+      "from": "2cd4 page 8 — oar sweep sectional drawing"
+    }
+  ]
+}
