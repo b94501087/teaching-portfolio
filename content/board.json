@@ -30417,6 +30417,546 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Fragmented Self: A Tower of Many Personalities",
+      "slug": "fragmented-self-personality-tower",
+      "description": "Six personalities from a film are translated into six spatial fragments and assembled into one tower.\n\nArchitecture | Character-based spatial study | Fragmentation | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "破碎的自我：多重人格之塔",
+          "description": "將一部電影中的六種人格轉譯為六個空間碎片，並組裝成一座塔樓。\n\n建築｜角色空間研究｜碎片化｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fragmented-self-personality-tower/01-tower-axonometric.webp",
+        "assets/board/fragmented-self-personality-tower/02-anxious-self.webp",
+        "assets/board/fragmented-self-personality-tower/03-artistic-self.webp",
+        "assets/board/fragmented-self-personality-tower/04-ordered-self.webp",
+        "assets/board/fragmented-self-personality-tower/05-childlike-self.webp",
+        "assets/board/fragmented-self-personality-tower/06-controlling-self.webp",
+        "assets/board/fragmented-self-personality-tower/07-defensive-self.webp",
+        "assets/board/fragmented-self-personality-tower/08-plans.webp",
+        "assets/board/fragmented-self-personality-tower/09-section.webp",
+        "assets/board/fragmented-self-personality-tower/10-model-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fragmented-self-personality-tower/01-tower-axonometric.webp"
+          ],
+          "captions": [
+            "Axonometric of the tower inside its mesh skin."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "包覆於網狀表皮中的塔樓軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A single person can hold several conflicting identities at once, yet buildings usually assume one coherent user. The project asks how a fragmented mind could be translated into one inhabitable tower.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一個人可能同時擁有數種相互衝突的身分，建築卻往往假設只有一位一致的使用者。這個作品探問，一個破碎的心智能如何被轉譯為一座可居住的塔樓。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A film about a character with several personalities served as the reference, and its storyline was mapped chapter by chapter. Each personality was then read as a set of traits such as fear, control, innocence or defence.",
+          "images": [
+            "assets/board/fragmented-self-personality-tower/02-anxious-self.webp",
+            "assets/board/fragmented-self-personality-tower/03-artistic-self.webp",
+            "assets/board/fragmented-self-personality-tower/04-ordered-self.webp"
+          ],
+          "captions": [
+            "A fearful self as a maze of soft fragments.",
+            "An artistic self as a stretched canopy.",
+            "An ordered self as a stacked, guarded volume."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "作品以一部描寫多重人格角色的電影為參考，逐章梳理其敘事結構。每一種人格再被解讀為一組特質，例如恐懼、控制、天真或防衛。",
+              "captions": [
+                "恐懼的自我化為柔軟碎片構成的迷宮。",
+                "藝術性的自我化為延展的頂棚。",
+                "秩序的自我化為層疊而戒備的量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Six personalities were abstracted into six drawings and six study models, each with its own spatial logic and material feel. Contrasting conditions such as control, vulnerability and protection were kept side by side instead of resolved.",
+          "images": [
+            "assets/board/fragmented-self-personality-tower/05-childlike-self.webp",
+            "assets/board/fragmented-self-personality-tower/06-controlling-self.webp",
+            "assets/board/fragmented-self-personality-tower/07-defensive-self.webp"
+          ],
+          "captions": [
+            "A childlike self as playful arches and holes.",
+            "A controlling self as rigid walls and frames.",
+            "A defensive self as a swollen, cave-like ground."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "六種人格被抽象為六張圖面與六個研究模型，各自擁有獨特的空間邏輯與材質感。控制、脆弱與保護等對立狀態被並置保留，而非被調和。",
+              "captions": [
+                "孩子般的自我化為輕快的拱與孔洞。",
+                "控制的自我化為剛硬的牆與框架。",
+                "防衛的自我化為膨脹如洞穴的地景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The fragments are assembled into a vertical tower around a central core, wrapped in a soft mesh skin. Plans and a section show how the different spaces interlock floor by floor.",
+          "images": [
+            "assets/board/fragmented-self-personality-tower/08-plans.webp",
+            "assets/board/fragmented-self-personality-tower/09-section.webp",
+            "assets/board/fragmented-self-personality-tower/10-model-views.webp"
+          ],
+          "captions": [
+            "Two floor plans.",
+            "Section through the tower.",
+            "Model views of the coloured fragments."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這些碎片沿著中央核心組裝成一座垂直塔樓，外覆柔軟的網狀表皮。平面與剖面呈現不同空間如何逐層交錯咬合。",
+              "captions": [
+                "兩層平面圖。",
+                "塔樓剖面。",
+                "彩色碎片的模型視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a story with a clear inner conflict.\n2. Map the plot before drawing space.\n3. Give each identity its own spatial rules.\n4. Assemble the fragments without erasing their differences.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇一個內在衝突清晰的故事。\n2. 先梳理情節，再畫空間。\n3. 為每個身分訂定各自的空間規則。\n4. 組裝碎片時保留彼此的差異。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Edge of Production: Industrial Waterfront Regeneration",
+      "slug": "edge-of-production-waterfront-regeneration",
+      "description": "A former port waterfront in Shenzhen is reconnected to the city through industrial reuse and a continuous public realm.\n\nShenzhen | Urban regeneration | Adaptive reuse | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "生產的邊緣：工業水岸再生",
+          "description": "透過工業再利用與連續的公共領域，讓深圳一處昔日港口水岸重新與城市相連。\n\n深圳｜都市再生｜適應性再利用｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/edge-of-production-waterfront-regeneration/01-aerial-view.webp",
+        "assets/board/edge-of-production-waterfront-regeneration/02-site-layers.webp",
+        "assets/board/edge-of-production-waterfront-regeneration/03-district-plan.webp",
+        "assets/board/edge-of-production-waterfront-regeneration/04-waterfront-plan.webp",
+        "assets/board/edge-of-production-waterfront-regeneration/05-waterfront-nodes.webp",
+        "assets/board/edge-of-production-waterfront-regeneration/06-industrial-heritage.webp",
+        "assets/board/edge-of-production-waterfront-regeneration/07-city-centre.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/edge-of-production-waterfront-regeneration/01-aerial-view.webp"
+          ],
+          "captions": [
+            "Aerial view of the regenerated waterfront district."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "更新後水岸街區的鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A former port and heavy-industrial waterfront in Shenzhen is fragmented by large brownfields and port infrastructure. These barriers cut the city off from its shoreline and leave open spaces scattered and disconnected.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "深圳一處昔日港口與重工業水岸被大片棕地與港口設施切割得支離破碎。這些屏障使城市與海岸線隔絕，開放空間也零散而互不相連。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Six map layers trace roads, metro, bus routes, green areas, industrial land and new development zones across the district. Reading them together shows where pedestrian links break and where old industrial structures still hold a strong presence.",
+          "images": [
+            "assets/board/edge-of-production-waterfront-regeneration/02-site-layers.webp",
+            "assets/board/edge-of-production-waterfront-regeneration/03-district-plan.webp",
+            "assets/board/edge-of-production-waterfront-regeneration/04-waterfront-plan.webp"
+          ],
+          "captions": [
+            "Site layers from roads to new development.",
+            "District plan with green and industrial areas.",
+            "Waterfront site plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "六張圖層分別梳理道路、地鐵、公車路線、綠地、工業用地與新開發區。疊合閱讀後，可以看出步行連結在哪裡中斷，以及哪些舊工業構造仍具強烈的存在感。",
+              "captions": [
+                "從道路到新開發區的基地圖層。",
+                "標示綠地與工業區的街區平面。",
+                "水岸基地平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The strategy is grouped into three families of moves for the waterfront, the industrial heritage and the city centre. Abandoned tanks and sheds are reused as parks, exhibition spaces and performance areas.",
+          "images": [
+            "assets/board/edge-of-production-waterfront-regeneration/05-waterfront-nodes.webp",
+            "assets/board/edge-of-production-waterfront-regeneration/06-industrial-heritage.webp",
+            "assets/board/edge-of-production-waterfront-regeneration/07-city-centre.webp"
+          ],
+          "captions": [
+            "Waterfront moves.",
+            "Industrial heritage reuse.",
+            "City centre blocks with green terraces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "策略被歸納為三組操作，分別對應水岸、工業遺產與城市中心。廢棄的儲槽與廠房被再利用為公園、展覽空間與表演場地。",
+              "captions": [
+                "水岸操作。",
+                "工業遺產再利用。",
+                "帶有綠化露台的城市中心街廓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A continuous pedestrian network now ties commercial, residential and public spaces back to the sea. The former industrial edge becomes an inclusive public landscape for everyday life.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一條連續的步行網絡將商業、居住與公共空間重新連回海邊。昔日的工業邊緣轉化為一片支持日常生活的包容性公共地景。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map each network as its own layer.\n2. Overlay layers to find the broken links.\n3. Sort moves into a few clear families.\n4. Reuse what the site already has.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 將每種網絡各自畫成一層。\n2. 疊合圖層，找出斷裂的連結。\n3. 把操作歸納為幾組清楚的類型。\n4. 善用基地既有的元素。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Silvertown Vertical Farm: Urban Food Infrastructure",
+      "slug": "silvertown-vertical-farm-london",
+      "description": "A modular vertical farm that brings food production back into post-industrial London as public infrastructure.\n\nLondon | Vertical farming | Urban food infrastructure | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "銀城垂直農場：城市糧食基礎設施",
+          "description": "將糧食生產以公共基礎設施的形式帶回後工業倫敦的模組化垂直農場。\n\n倫敦｜垂直農業｜城市糧食基礎設施｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/silvertown-vertical-farm-london/01-farm-axonometric.webp",
+        "assets/board/silvertown-vertical-farm-london/02-model-from-below.webp",
+        "assets/board/silvertown-vertical-farm-london/03-model-light-study.webp",
+        "assets/board/silvertown-vertical-farm-london/04-model-aggregation.webp",
+        "assets/board/silvertown-vertical-farm-london/05-daytime-use.webp",
+        "assets/board/silvertown-vertical-farm-london/06-nighttime-operation.webp",
+        "assets/board/silvertown-vertical-farm-london/07-production-module.webp",
+        "assets/board/silvertown-vertical-farm-london/08-module-layers.webp",
+        "assets/board/silvertown-vertical-farm-london/09-district-energy-link.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/silvertown-vertical-farm-london/01-farm-axonometric.webp"
+          ],
+          "captions": [
+            "Axonometric of the vertical farm along the waterfront."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "沿著水岸展開的垂直農場軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "London's food system is detached from the city it serves, with long supply chains and uneven access to fresh food. Silvertown, a former landscape of production and logistics, now sits between regeneration pressure and food insecurity.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "倫敦的糧食系統與它所服務的城市彼此疏離，供應鏈漫長，新鮮食物的取得也不平均。銀城一帶曾是生產與物流的地景，如今夾在都市更新壓力與糧食不安全之間。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A concept model of stacked rhombus cells tested how light, air and views can pass through a dense vertical structure. Holographic paper on the cells made the paths of sunlight and reflection visible.",
+          "images": [
+            "assets/board/silvertown-vertical-farm-london/02-model-from-below.webp",
+            "assets/board/silvertown-vertical-farm-london/03-model-light-study.webp",
+            "assets/board/silvertown-vertical-farm-london/04-model-aggregation.webp"
+          ],
+          "captions": [
+            "Concept model seen from below.",
+            "Light study with reflective cells.",
+            "Cells aggregated into one porous system."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以層疊菱形單元構成的概念模型，測試光線、空氣與視線如何穿透密集的垂直結構。單元上的全像紙讓日照與反射的路徑變得可見。",
+              "captions": [
+                "從下方仰望概念模型。",
+                "以反光單元進行的光線研究。",
+                "單元聚合成一個多孔的系統。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "By day the porous structure supports learning, research and public circulation, while by night it switches to grow-lighting and automated irrigation. Each module stacks a roof canopy, a control deck, growing platforms and a community deck on a hexagonal frame.",
+          "images": [
+            "assets/board/silvertown-vertical-farm-london/05-daytime-use.webp",
+            "assets/board/silvertown-vertical-farm-london/06-nighttime-operation.webp",
+            "assets/board/silvertown-vertical-farm-london/07-production-module.webp",
+            "assets/board/silvertown-vertical-farm-london/08-module-layers.webp"
+          ],
+          "captions": [
+            "Daytime light and public use.",
+            "Nighttime system operation.",
+            "Exploded production module.",
+            "Layers from canopy to structural frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "白天，多孔的結構容納學習、研究與公共動線；夜間則切換為植物補光與自動灌溉。每個模組在六角形框架上依序疊合屋頂膜、控制層、栽培平台與社區作業層。",
+              "captions": [
+                "白天的採光與公共使用。",
+                "夜間的系統運作。",
+                "生產模組爆炸圖。",
+                "從屋頂膜到結構框架的分層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The modules link to a low-temperature district energy loop that exchanges heat with neighbouring buildings. Food production returns to the city as everyday infrastructure that also offers local work.",
+          "images": [
+            "assets/board/silvertown-vertical-farm-london/09-district-energy-link.webp"
+          ],
+          "captions": [
+            "Connection to the district energy loop."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模組連接一套低溫區域能源迴路，與鄰近建築交換熱能。糧食生產因此以日常基礎設施的姿態回到城市，同時提供在地就業。",
+              "captions": [
+                "與區域能源迴路的連結。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Treat the building as a working system.\n2. Test light and air with a physical model.\n3. Design for both day and night.\n4. Plug the module into city networks.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把建築視為一套運作中的系統。\n2. 用實體模型測試光與空氣。\n3. 同時為白天與夜晚設計。\n4. 讓模組接入城市網絡。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Longyearbyen Coastal Ecological Framework",
+      "slug": "longyearbyen-coastal-ecological-framework",
+      "description": "A sediment-driven nearshore infrastructure that helps the Arctic coast grow new habitat over time.\n\nSvalbard | Coastal ecology | Nearshore infrastructure | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "朗伊爾城海岸生態框架",
+          "description": "以沉積作用驅動的近岸基礎設施，讓北極海岸隨時間長出新的棲地。\n\n斯瓦巴｜海岸生態｜近岸基礎設施｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/longyearbyen-coastal-ecological-framework/01-arctic-context.webp",
+        "assets/board/longyearbyen-coastal-ecological-framework/02-ecological-sensitivity.webp",
+        "assets/board/longyearbyen-coastal-ecological-framework/03-hydrodynamic-pressures.webp",
+        "assets/board/longyearbyen-coastal-ecological-framework/04-fragmented-vegetation.webp",
+        "assets/board/longyearbyen-coastal-ecological-framework/05-gabion-accretion.webp",
+        "assets/board/longyearbyen-coastal-ecological-framework/06-accretion-led-growth.webp",
+        "assets/board/longyearbyen-coastal-ecological-framework/07-concept-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/longyearbyen-coastal-ecological-framework/01-arctic-context.webp"
+          ],
+          "captions": [
+            "The Arctic region with the site marked."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "標示基地位置的北極區域圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Climate change is reshaping ocean currents, sediment flows and coastlines across the Arctic. In Longyearbyen, sediment slowly builds new land, yet coastal habitats remain fragmented and vulnerable.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "氣候變遷正在改變北極的洋流、沉積物流動與海岸線。在朗伊爾城，沉積物緩慢地堆積出新的土地，海岸棲地卻依然破碎而脆弱。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Maps of vulnerable species, tidal currents, fresh water and vegetation show where the coast is most sensitive and where links are missing. Shallow, stable water near the shore was found suitable for light-touch structures that guide sedimentation.",
+          "images": [
+            "assets/board/longyearbyen-coastal-ecological-framework/02-ecological-sensitivity.webp",
+            "assets/board/longyearbyen-coastal-ecological-framework/03-hydrodynamic-pressures.webp",
+            "assets/board/longyearbyen-coastal-ecological-framework/04-fragmented-vegetation.webp"
+          ],
+          "captions": [
+            "Sensitive and common species along the coast.",
+            "Tidal currents and critical water resources.",
+            "Fragmented green patches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "針對脆弱物種、潮流、淡水與植被的分析圖，揭示海岸最敏感的區段與缺失的生態連結。近岸淺而穩定的水域被判定適合設置輕觸式構造，以引導沉積。",
+              "captions": [
+                "沿岸的敏感物種與常見物種。",
+                "潮流與關鍵水資源。",
+                "破碎的綠地斑塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Rock-filled gabions act as groynes that slow the water and trap sediment over time. Over two decades they are expected to fill, grow over with mosses and grasses, and turn into new coastal habitat.",
+          "images": [
+            "assets/board/longyearbyen-coastal-ecological-framework/05-gabion-accretion.webp",
+            "assets/board/longyearbyen-coastal-ecological-framework/07-concept-model.webp"
+          ],
+          "captions": [
+            "From gabion structure to land formation.",
+            "Branching concept model of sediment growth."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "填滿石塊的石籠作為突堤，減緩水流並逐步攔截沉積物。在二十年間，它們預期會被填滿、長出苔蘚與草本，轉化為新的海岸棲地。",
+              "captions": [
+                "從石籠構造到土地成形。",
+                "呈現沉積生長的分枝狀概念模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A raised corridor follows the sediment flow and stitches inland vegetation to the shore. After twenty years an emergent green corridor and a stabilised platform offer habitat and quiet public access.",
+          "images": [
+            "assets/board/longyearbyen-coastal-ecological-framework/06-accretion-led-growth.webp"
+          ],
+          "captions": [
+            "Accretion-led growth after twenty years."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一條架高的廊道順著沉積物流向延伸，將內陸植被縫合到海岸。二十年後，新生的綠色廊道與穩定的平台同時提供棲地與低干擾的公共通道。",
+              "captions": [
+                "二十年後由淤積帶動的生長。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map natural forces before drawing form.\n2. Work with slow processes, not against them.\n3. Design across a long timeline.\n4. Let the structure become habitat.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先描繪自然力量，再畫形體。\n2. 順應緩慢的過程，而非對抗。\n3. 以長時間軸進行設計。\n4. 讓構造轉化為棲地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
