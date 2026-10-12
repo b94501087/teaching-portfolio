@@ -1,0 +1,49 @@
+{
+  "project": "Danan Eco-Park",
+  "dest": "assets/board/danan-eco-park",
+  "note": "Portfolio 10c5 pages 5–7 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title block with instructor and team names, the news screenshot and bird photo, the satellite image, the satellite-based pond maps, the site analysis photos, the material and vegetation photo swatches, the renderings with photo people, the plant photos and the detention basin photo collages.",
+  "files": [
+    {
+      "name": "01-master-plan.webp",
+      "sha256": "d1292203e8d57697b883cc774616d47fdf21351a2ae79f607aa0dcc3268ae8dc",
+      "bytes": 90718,
+      "from": "10c5 page 6 — master plan of the eco-park, x 0–40 %, y 0–58 %"
+    },
+    {
+      "name": "02-green-structure.webp",
+      "sha256": "11d3e5734c61cb3f67d139c8010d41261d6ade5ec55a62ef61bff2eb7fe5f747",
+      "bytes": 27488,
+      "from": "page 5 — green structure of the district, x 72.5–88.5 %, y 57.5–99 %"
+    },
+    {
+      "name": "03-population-density.webp",
+      "sha256": "b7a2379c34f1c127d60a32585c1c78d3c11d6ebefae5cd73ffd0f2491589d3f8",
+      "bytes": 7698,
+      "from": "page 5 — population density around the site, x 88–98.5 %, y 60–83 %"
+    },
+    {
+      "name": "04-bubble-diagram.webp",
+      "sha256": "4a2b59771bfd27502c7ef27d733087709e4612af142941f2bad6cdf02b85ae37",
+      "bytes": 48472,
+      "from": "page 6 — bubble diagram of park functions, x 20.5–39.7 %, y 60–100 %"
+    },
+    {
+      "name": "05-circulation-analysis.webp",
+      "sha256": "1a9911eecbda00005d047c2e87306eb605bb2a7af3dd2ab91b42dcfaaaf419a5",
+      "bytes": 34592,
+      "from": "page 6 — circulation analysis, x 50–78 %, y 0–34 %"
+    },
+    {
+      "name": "06-building-character.webp",
+      "sha256": "f9de4649d1b3cafd14f31214bfbaf7edb5a643d7c6429fb3e83407809ad69fab",
+      "bytes": 40662,
+      "from": "page 6 — building character diagram, x 50–78 %, y 33–57.5 %"
+    },
+    {
+      "name": "07-habitat-sections.webp",
+      "sha256": "ec2719ef8c8f39c0d1119dd3d99f3fef505ef3689dc4e113f707a76ebeed76ef",
+      "bytes": 134026,
+      "from": "page 7 — ecology and wildlife habitat sections, x 0–19.5 %, y 7–100 %"
+    }
+  ]
+}
