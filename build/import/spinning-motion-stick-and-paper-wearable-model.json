@@ -1,0 +1,43 @@
+{
+  "project": "Spinning Motion",
+  "dest": "assets/board/spinning-motion-stick-and-paper-wearable-model",
+  "note": "Portfolio f986 page 7 cropped to six images, WebP q88 (PIL). Not used: text, photos of the model being worn and made.",
+  "files": [
+    {
+      "name": "01-wearable-stick-model.webp",
+      "sha256": "8fcd351509ee5364d14257b6bc6f68544dec6d723e88870b66c4a9df348fa438",
+      "bytes": 28410,
+      "from": "f986 page 7 — wearable stick model"
+    },
+    {
+      "name": "02-paper-volume-model.webp",
+      "sha256": "ae536e784f48d78491a2ae23623ad63c727e68f25efa15b2a2f585ad4a6daca8",
+      "bytes": 27540,
+      "from": "f986 page 7 — paper volume model"
+    },
+    {
+      "name": "03-volume-render.webp",
+      "sha256": "016f1f04ab4baa7920eded0659273e5638f28a312f567d2e5c6ab87d86173f48",
+      "bytes": 28662,
+      "from": "f986 page 7 — volume render"
+    },
+    {
+      "name": "04-render-studies.webp",
+      "sha256": "be658a247e46f7fe09114ba59e600539e2d472e1630264ac21a32304e9ee24f8",
+      "bytes": 12200,
+      "from": "f986 page 7 — render studies"
+    },
+    {
+      "name": "05-stick-frame-in-progress.webp",
+      "sha256": "24032088ce289e6b1492e48c5295cfa6afd74f1f3ca0108232147480ebedecf3",
+      "bytes": 10458,
+      "from": "f986 page 7 — stick frame in progress"
+    },
+    {
+      "name": "06-motion-drawing.webp",
+      "sha256": "dc48ad5d5b7276f0cbbeea1aade93182f4593a39eb550c38fe93e1966d74d423",
+      "bytes": 212116,
+      "from": "f986 page 7 — motion drawing"
+    }
+  ]
+}
