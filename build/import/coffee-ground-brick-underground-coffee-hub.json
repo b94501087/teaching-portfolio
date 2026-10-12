@@ -1,0 +1,55 @@
+{
+  "project": "Coffee-ground Brick",
+  "dest": "assets/board/coffee-ground-brick-underground-coffee-hub",
+  "note": "Portfolio 0687 page 7 cropped to eight images, WebP q88 (PIL). Not used: title and text, competition name, café brand, site photos, photos with people.",
+  "files": [
+    {
+      "name": "01-brick-wall-frame.webp",
+      "sha256": "fcf74b6bc09a2e8ea40c637f8d23a0fdd3b857eb7d7e9f65c5fa17b29c7d4bda",
+      "bytes": 59372,
+      "from": "0687 page 7 — brick wall frame"
+    },
+    {
+      "name": "02-building-models.webp",
+      "sha256": "e44303b9d3ade974d2893a9cae198cd0672aa421fb41c8ef54639ee856154a2f",
+      "bytes": 21766,
+      "from": "0687 page 7 — building models"
+    },
+    {
+      "name": "03-exploded-diagram.webp",
+      "sha256": "7f87fb6bf45df9d2d1831e008ab9cb227be627613d4a2057b471944c390e1695",
+      "bytes": 35926,
+      "from": "0687 page 7 — exploded diagram"
+    },
+    {
+      "name": "04-mixing-grounds.webp",
+      "sha256": "c7dad845f4ad4e6d32932f9641e5d914fc91bd0438205b2b58c518ab358ff1a4",
+      "bytes": 60380,
+      "from": "0687 page 7 — mixing grounds"
+    },
+    {
+      "name": "05-drying-grounds.webp",
+      "sha256": "ec3e39a2fc472fa02e6920e546d31189f3827e8e1ca02b5c9cf63fd918aa0c7c",
+      "bytes": 32266,
+      "from": "0687 page 7 — drying grounds"
+    },
+    {
+      "name": "06-sieved-grounds.webp",
+      "sha256": "2994d23e957f77a955df089a5db7f591d405a2cf34437be6db82aa9f96907d8f",
+      "bytes": 10442,
+      "from": "0687 page 7 — sieved grounds"
+    },
+    {
+      "name": "07-brick-moulds.webp",
+      "sha256": "ec5344f08d4b2a5081f59405b473c231f695614de8d1d77140b0fe3e12244c07",
+      "bytes": 15848,
+      "from": "0687 page 7 — brick moulds"
+    },
+    {
+      "name": "08-brick-process-diagram.webp",
+      "sha256": "d3faa4e961789a72f3b32ceea9d95d2a85c43d7bc9760e97283e318c471c9ece",
+      "bytes": 8798,
+      "from": "0687 page 7 — brick process diagram"
+    }
+  ]
+}
