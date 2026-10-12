@@ -1,0 +1,61 @@
+{
+  "project": "Modular Housing with Corridors in the Sky",
+  "dest": "assets/board/modular-housing-sky-corridors",
+  "note": "Portfolio c9aa pages 9–12 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title page and the photo collage of people on page 9, the dark diagrams with hands and figures on page 10, and the comic story with photo figures and the section on page 13. No retouching.",
+  "files": [
+    {
+      "name": "01-sky-corridor-housing.webp",
+      "sha256": "1cb2d9a224529feeca075b725d8df33a4136f76e47322a6f1763da72d019ad12",
+      "bytes": 411048,
+      "from": "c9aa page 11 — the corridors in the sky linking the housing towers, x 50–100 %, y 42–100 %"
+    },
+    {
+      "name": "02-village-and-skyscraper.webp",
+      "sha256": "075c8d8ee8868165c721902299e2e90d86ae716f7fe19c385c7996fd43697574",
+      "bytes": 138246,
+      "from": "page 9 — imagining China in 2040, village and skyscraper life compared, x 63–100 %, y 1–45 %"
+    },
+    {
+      "name": "03-wind-planning-analysis.webp",
+      "sha256": "68a724b8e99e7e093efe5e96076ff59927ddb90aab5eadf70d9c458748f2c70d",
+      "bytes": 122690,
+      "from": "page 9 — planning analysis of wind, height and household types, x 76–100 %, y 58–100 %"
+    },
+    {
+      "name": "04-modular-unit-logic.webp",
+      "sha256": "368e6a0e115a5e37ebec18980ac943868bbdfe3a82d826722ced8285ed4d484e",
+      "bytes": 180718,
+      "from": "page 10 — strategy I, continuous growing modular building unit, x 0–50 %, y 0–50 %"
+    },
+    {
+      "name": "05-unit-plans-and-privacy.webp",
+      "sha256": "589b4421b5c3ee86ee7d8bd7bdb74e6390e01fc0ad985661ce4a54976f7a89d7",
+      "bytes": 150140,
+      "from": "page 10 — unit plans, vision and privacy analysis, x 50–100 %, y 0–50 %"
+    },
+    {
+      "name": "06-unit-combinations.webp",
+      "sha256": "fccead18d14dd6a5fc1b8e948712384b381f2a02809955892d8936f08c15a518",
+      "bytes": 538904,
+      "from": "page 11 — strategy II, function combinations for families and young people, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "07-corridor-satisfaction.webp",
+      "sha256": "54f0276b0e0b79f2f7e95211429e1203ac14c197f58708f644e085017a4134fe",
+      "bytes": 243898,
+      "from": "page 11 — strategy III, highly interconnected corridors and satisfaction scores, x 50–100 %, y 0–42 %"
+    },
+    {
+      "name": "08-model-communal-courtyard.webp",
+      "sha256": "0837c5dd634849b5e70a806d4a4e50f1c036b39cfd43de696bcf6edabc067563",
+      "bytes": 277626,
+      "from": "page 12 — physical model of the communal courtyard and public floor, x 0–36 %, y 18–100 %"
+    },
+    {
+      "name": "09-assembled-unit-axonometric.webp",
+      "sha256": "dbd5b45d33a5dd411d00367f3be264149601d9f19b527f818f1374fd4eb264ac",
+      "bytes": 666990,
+      "from": "page 12 — assembled unit axonometric with the community centre, x 40–100 %, y 0–100 %"
+    }
+  ]
+}
