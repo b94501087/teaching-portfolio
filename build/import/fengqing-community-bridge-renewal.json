@@ -1,0 +1,61 @@
+{
+  "project": "Bridge: Fengqing Community",
+  "dest": "assets/board/fengqing-community-bridge-renewal",
+  "note": "Portfolio d2e6 pages 3–5 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the contents page with a photo of a person, the title spread photo collage with residents, officials and a newspaper clipping, the city background map with photo circles, the street activity photo strip, the relationship net with portraits, the tube house view with a historic photo, the landscape analysis photo column, the upper and lower community strip with building photos, the rooftop renders with photo figures and the street elevation vignettes with collaged people.",
+  "files": [
+    {
+      "name": "01-community-aerial-render.webp",
+      "sha256": "8d6fd2c1799a16ca035b804367b5a488d188fe3ebb6c4a5511df0ce708ffbdf0",
+      "bytes": 252356,
+      "from": "d2e6 page 4 — aerial render of the renewed community, x 50–84.5 %, y 0–100 %"
+    },
+    {
+      "name": "02-site-status-charts.webp",
+      "sha256": "fc392091498abfdbfb1155bcbc7b1e1759824e461e8b696cdc8dd0ce311efa58",
+      "bytes": 196276,
+      "from": "page 3 — site status data charts, x 50–73.5 %, y 0–100 %"
+    },
+    {
+      "name": "03-renovation-concept-steps.webp",
+      "sha256": "727c1bf5efdff6d900a0ebe089f8a2453b81792da3fd34b0aa8a89965d73c89c",
+      "bytes": 96526,
+      "from": "page 3 — community stratification and integration steps, x 73.5–100 %, y 0–53 %"
+    },
+    {
+      "name": "04-residential-and-office-concept.webp",
+      "sha256": "083a47233146def6d5cd71bb7f7d7629a76d6260cc3f65991bd21243ad3c3b0c",
+      "bytes": 97022,
+      "from": "page 4 — residential and office building concept steps, x 0–25 %, y 44.7–100 %"
+    },
+    {
+      "name": "05-residential-floor-plans.webp",
+      "sha256": "7c8001c2be742fd366db3c21a82d93ef06bc90a55b1a57158fa59446957ef348",
+      "bytes": 49730,
+      "from": "page 4 — residential building floor plans, x 27–50 %, y 47.5–100 %"
+    },
+    {
+      "name": "06-tube-house-sections.webp",
+      "sha256": "16883620c592897480f49db863e77bafa2797d16d814d002e3e4be2bf79178db",
+      "bytes": 16022,
+      "from": "page 4 — tube house and residential building sections, x 16.5–38 %, y 2–19 %"
+    },
+    {
+      "name": "07-future-growth-stages.webp",
+      "sha256": "dc454ce98625153937b3291b576a5d1947a37bc368b73eb908ddee59e37b07d9",
+      "bytes": 138280,
+      "from": "page 4 — future development stages, x 84.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "08-module-units.webp",
+      "sha256": "e9a7882b2ea738c988a42ea36785f53afb2d8f82af07c637c00d23df165dc98b",
+      "bytes": 100944,
+      "from": "page 5 — module units and structure nodes, x 0–49 %, y 0–53 %"
+    },
+    {
+      "name": "09-landscape-typology.webp",
+      "sha256": "db9562108aa589a8e4e36a98c6d791185cd6595b0b7e68a34c92d904c867aae6",
+      "bytes": 22552,
+      "from": "page 5 — landscape typology diagram, x 70.5–83.5 %, y 0–53 %"
+    }
+  ]
+}
