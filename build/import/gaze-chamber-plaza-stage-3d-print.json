@@ -1,0 +1,61 @@
+{
+  "project": "The Gaze Chamber",
+  "dest": "assets/board/gaze-chamber-plaza-stage-3d-print",
+  "note": "Portfolio 606b pages 4-5 cropped to nine images, WebP q88 (PIL). Not used: title and text, aerial map, site photos, precedent images and book diagrams, competition name.",
+  "files": [
+    {
+      "name": "01-chamber-model.webp",
+      "sha256": "53dd365f76c410ac697c41147c64dc4a25777217ffb7ab0de99e603fb7c9dc30",
+      "bytes": 22300,
+      "from": "606b page 5 — chamber model"
+    },
+    {
+      "name": "02-sightlines.webp",
+      "sha256": "bc66d79303cc29a727081f67fb540b792bc527661717df34a93f3fbce10df766",
+      "bytes": 36938,
+      "from": "606b page 4 — sightlines"
+    },
+    {
+      "name": "03-chamber-plan.webp",
+      "sha256": "d9e2784d1755c326a2939ea7b8c6520239ecdf6c85686950341d5c6801f64cbd",
+      "bytes": 40874,
+      "from": "606b page 4 — chamber plan"
+    },
+    {
+      "name": "04-stage-plan.webp",
+      "sha256": "6f31cd3eadc94746d0f7db0e36e1b448878596a7f76847e979688d49ad02b240",
+      "bytes": 16672,
+      "from": "606b page 4 — stage plan"
+    },
+    {
+      "name": "05-model-side.webp",
+      "sha256": "f45578d83b4ef565c218599964650316f3bdf67e3bcf773be7a2a89be829d220",
+      "bytes": 26010,
+      "from": "606b page 5 — model side"
+    },
+    {
+      "name": "06-model-detail-a.webp",
+      "sha256": "a79abc391c561604855f9eef02d3b6e8f8782de2ef0d5e17b831f14c895cd3ba",
+      "bytes": 9824,
+      "from": "606b page 5 — model detail a"
+    },
+    {
+      "name": "07-model-detail-b.webp",
+      "sha256": "201ba4c2bd7bfca8bad1574bd00aa338b67077a2fadb31f07dffd945111ebb7c",
+      "bytes": 14144,
+      "from": "606b page 5 — model detail b"
+    },
+    {
+      "name": "08-plaza-render.webp",
+      "sha256": "c3e833388da54a512b63c326aad86ba5f465fcefd702a5eb8ff32f4858efb606",
+      "bytes": 117422,
+      "from": "606b page 5 — plaza render"
+    },
+    {
+      "name": "09-off-season.webp",
+      "sha256": "5286b6af23f53e2a9b5cacfa845193995cabb5df8a7fd1e38b603dd7590c263e",
+      "bytes": 35772,
+      "from": "606b page 5 — off season"
+    }
+  ]
+}
