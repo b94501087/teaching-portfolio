@@ -28998,6 +28998,578 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Micro Reservoir Construction: A Water-Collecting Tower",
+      "slug": "micro-reservoir-tower-shenzhen",
+      "description": "A high-rise for young residents that collects rainwater, makes power from it and cleans it for reuse.\n\nShenzhen | Housing | Water and energy | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "微型水庫建造：集水塔樓",
+          "description": "一座為年輕住戶設計的高層建築，收集雨水、以之發電並淨化再利用。\n\n深圳｜住宅｜水與能源｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/micro-reservoir-tower-shenzhen/01-reservoir-tower-elevation.webp",
+        "assets/board/micro-reservoir-tower-shenzhen/02-water-history-timeline.webp",
+        "assets/board/micro-reservoir-tower-shenzhen/03-rainwater-cycle-system.webp",
+        "assets/board/micro-reservoir-tower-shenzhen/04-sewage-purification.webp",
+        "assets/board/micro-reservoir-tower-shenzhen/05-micro-power-generation.webp",
+        "assets/board/micro-reservoir-tower-shenzhen/06-development-maps.webp",
+        "assets/board/micro-reservoir-tower-shenzhen/07-housing-supply-diagram.webp",
+        "assets/board/micro-reservoir-tower-shenzhen/08-unit-shape-solar-track.webp",
+        "assets/board/micro-reservoir-tower-shenzhen/09-roof-reservoir-axonometric.webp",
+        "assets/board/micro-reservoir-tower-shenzhen/10-unit-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/micro-reservoir-tower-shenzhen/01-reservoir-tower-elevation.webp"
+          ],
+          "captions": [
+            "Elevation of the reservoir tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "蓄水塔樓立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Young people in Shenzhen face rising rents and crowded housing, while the city's rivers and reservoirs are polluted. The project asks whether a high-rise for young residents could also collect, clean and reuse water.",
+          "images": [
+            "assets/board/micro-reservoir-tower-shenzhen/06-development-maps.webp",
+            "assets/board/micro-reservoir-tower-shenzhen/07-housing-supply-diagram.webp"
+          ],
+          "captions": [
+            "Historical development and network maps of the city.",
+            "Housing supply and the case for a vertical answer."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "深圳的年輕人面對不斷上漲的租金與擁擠的居住環境，城市的河流與水庫也受到污染。本案探討一座為年輕住戶設計的高層建築，能否同時收集、淨化並再利用水資源。",
+              "captions": [
+                "城市的歷史發展與路網圖。",
+                "住房供給問題與垂直方案的提出。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A timeline traced how people have stored and moved water, from pile dwellings and canals to water mills and dams. These older devices became the starting point for small water systems inside a tower.",
+          "images": [
+            "assets/board/micro-reservoir-tower-shenzhen/02-water-history-timeline.webp"
+          ],
+          "captions": [
+            "From past to present: ways of storing and moving water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "時間軸梳理了人們儲水與輸水的方式，從干欄式住屋、運河到水車與水壩。這些傳統裝置成為塔樓內部小型水系統的出發點。",
+              "captions": [
+                "從過去到現在：儲水與輸水的方式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Rainwater is collected at the top and falls through the units, turning small turbines before it is stored and reused. Grey water and sewage pass through a series of planted ponds that clean it step by step.",
+          "images": [
+            "assets/board/micro-reservoir-tower-shenzhen/03-rainwater-cycle-system.webp",
+            "assets/board/micro-reservoir-tower-shenzhen/04-sewage-purification.webp",
+            "assets/board/micro-reservoir-tower-shenzhen/05-micro-power-generation.webp"
+          ],
+          "captions": [
+            "Water, power and nutrient cycle through the tower.",
+            "Sewage purification mechanism.",
+            "Micro power generation from falling water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "雨水在頂部收集，流經各住宅單元並推動小型渦輪，再被儲存與再利用。灰水與污水則流經一系列植栽池，逐步得到淨化。",
+              "captions": [
+                "水、電與養分在塔樓中的循環。",
+                "污水淨化機制。",
+                "以落水發電的微型發電系統。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each unit carries a sloped roof reservoir, shading fins tuned to the sun path and a light frame that holds the water. A timber model tests how the roof, frame and living space fit together.",
+          "images": [
+            "assets/board/micro-reservoir-tower-shenzhen/08-unit-shape-solar-track.webp",
+            "assets/board/micro-reservoir-tower-shenzhen/09-roof-reservoir-axonometric.webp",
+            "assets/board/micro-reservoir-tower-shenzhen/10-unit-model.webp"
+          ],
+          "captions": [
+            "Unit shape, shading and solar track.",
+            "Roof reservoir and hydropower axonometric.",
+            "Timber model of one unit."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每個單元配有傾斜的屋頂蓄水池、依日照路徑調整的遮陽板，以及承托水體的輕型構架。木構模型則測試屋頂、構架與居住空間如何組合。",
+              "captions": [
+                "單元形態、遮陽與日照軌跡。",
+                "屋頂蓄水池與水力發電軸測圖。",
+                "單一單元的木構模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one local resource.\n2. Study how people used it in the past.\n3. Draw its full cycle through the building.\n4. Test one unit in a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一種在地資源出發。\n2. 研究人們過去如何使用它。\n3. 畫出它在建築中的完整循環。\n4. 以模型測試單一單元。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Village in the City: A Street Texture Tower",
+      "slug": "village-in-the-city-street-texture-tower",
+      "description": "Small street elements of an urban village are catalogued and rebuilt as the sections of a new tower.\n\nArchitecture | Urban village | Street texture | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城中村：街道肌理塔樓",
+          "description": "將城中村的小型街道元素整理成圖錄，再重組為一座新塔樓的剖面。\n\n建築｜城中村｜街道肌理｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/village-in-the-city-street-texture-tower/01-village-streetscape-drawing.webp",
+        "assets/board/village-in-the-city-street-texture-tower/02-streetscape-detail.webp",
+        "assets/board/village-in-the-city-street-texture-tower/03-deformed-tower-axonometric.webp",
+        "assets/board/village-in-the-city-street-texture-tower/04-point-volume-logic.webp",
+        "assets/board/village-in-the-city-street-texture-tower/05-models-and-scenes.webp",
+        "assets/board/village-in-the-city-street-texture-tower/06-water-node-detail.webp",
+        "assets/board/village-in-the-city-street-texture-tower/07-street-texture-catalogue.webp",
+        "assets/board/village-in-the-city-street-texture-tower/08-depth-openness-series.webp",
+        "assets/board/village-in-the-city-street-texture-tower/09-village-axonometric-strip.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/village-in-the-city-street-texture-tower/01-village-streetscape-drawing.webp"
+          ],
+          "captions": [
+            "A drawn streetscape of the urban village."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "城中村的街景繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The village in the city grew without a master plan, so its order comes from ownership, use and daily needs rather than from design. The project asks how this unplanned order could be read and carried into a new building.",
+          "images": [
+            "assets/board/village-in-the-city-street-texture-tower/02-streetscape-detail.webp"
+          ],
+          "captions": [
+            "Detail of the streetscape drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "城中村在沒有總體規劃的情況下生長，其秩序來自產權、使用與日常需求，而非設計。本案探討如何解讀這種非規劃的秩序，並將其帶入一座新建築。",
+              "captions": [
+                "街景繪圖局部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Stairs, fences, walls, steps and platforms in the village were drawn one by one as small street elements. They were then sorted by depth and openness to show how each one shapes shared space.",
+          "images": [
+            "assets/board/village-in-the-city-street-texture-tower/07-street-texture-catalogue.webp",
+            "assets/board/village-in-the-city-street-texture-tower/08-depth-openness-series.webp",
+            "assets/board/village-in-the-city-street-texture-tower/09-village-axonometric-strip.webp"
+          ],
+          "captions": [
+            "Catalogue of street texture elements.",
+            "Depth and openness series.",
+            "The elements placed back along the village."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "將村中的樓梯、圍欄、牆體、台階與平台逐一繪製為小型街道元素。再依深度與開放度加以分類，說明每一種元素如何塑造共享空間。",
+              "captions": [
+                "街道肌理元素圖錄。",
+                "深度與開放度序列。",
+                "將元素放回村落的軸測長卷。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A hand-drawn profile was rotated, folded and spliced to form four sections of a new building. Point and volume studies then grew a porous shell that links levels from ground industry up to a sky greenhouse.",
+          "images": [
+            "assets/board/village-in-the-city-street-texture-tower/04-point-volume-logic.webp",
+            "assets/board/village-in-the-city-street-texture-tower/03-deformed-tower-axonometric.webp"
+          ],
+          "captions": [
+            "Point, volume and deepen logic.",
+            "Axonometric of the tower and its levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "將手繪剖面旋轉、摺疊並拼接，形成新建築的四段剖面。點與體量的研究再生成多孔外殼，串連從地面產業層到空中溫室的各個樓層。",
+              "captions": [
+                "點、體量與深化的邏輯。",
+                "塔樓及其各樓層的軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Study models and scenes test the stacked platforms and stairs inside the tower. A node detail lets rainwater run along the curved shell into a filter, while the same joint carries the weight of each block.",
+          "images": [
+            "assets/board/village-in-the-city-street-texture-tower/05-models-and-scenes.webp",
+            "assets/board/village-in-the-city-street-texture-tower/06-water-node-detail.webp"
+          ],
+          "captions": [
+            "Study models and interior scenes.",
+            "Exploded node and its physical model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "研究模型與場景測試塔樓內層疊的平台與樓梯。節點細部讓雨水沿曲面外殼流入過濾器，同一節點也承托每個量體的重量。",
+              "captions": [
+                "研究模型與室內場景。",
+                "節點爆炸圖與實體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Draw the street as you find it.\n2. Pull out its small elements.\n3. Sort them by how they shape space.\n4. Rebuild them in a new section.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 依現況繪製街道。\n2. 抽取其中的小型元素。\n3. 依其塑造空間的方式分類。\n4. 在新的剖面中重組它們。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Shiweitang: Industrial Waterfront Regeneration",
+      "slug": "shiweitang-industrial-waterfront-regeneration",
+      "description": "An old riverside industrial district is reopened to the city with new uses, repaired streets and waterways.\n\nGuangzhou | Urban regeneration | Industrial waterfront | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "石圍塘：工業水岸再生",
+          "description": "以新功能、修補後的街道與水道，讓舊河岸工業區重新向城市開放。\n\n廣州｜城市再生｜工業水岸｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/shiweitang-industrial-waterfront-regeneration/01-riverside-masterplan.webp",
+        "assets/board/shiweitang-industrial-waterfront-regeneration/02-skyline-section.webp",
+        "assets/board/shiweitang-industrial-waterfront-regeneration/03-strategy-diagrams.webp",
+        "assets/board/shiweitang-industrial-waterfront-regeneration/04-location-table.webp",
+        "assets/board/shiweitang-industrial-waterfront-regeneration/05-site-analysis-maps.webp",
+        "assets/board/shiweitang-industrial-waterfront-regeneration/06-planning-concept.webp",
+        "assets/board/shiweitang-industrial-waterfront-regeneration/07-concept-drawing.webp",
+        "assets/board/shiweitang-industrial-waterfront-regeneration/08-management-diagram.webp",
+        "assets/board/shiweitang-industrial-waterfront-regeneration/09-waterway-nodes-map.webp",
+        "assets/board/shiweitang-industrial-waterfront-regeneration/10-factory-axonometric-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/shiweitang-industrial-waterfront-regeneration/01-riverside-masterplan.webp"
+          ],
+          "captions": [
+            "Masterplan of the site strategy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "基地策略總平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The old industrial district of Shiweitang in Guangzhou has fallen out of use, leaving empty works and old rail lines. The project asks how the area could become a living part of the city again without losing its industrial past.",
+          "images": [
+            "assets/board/shiweitang-industrial-waterfront-regeneration/05-site-analysis-maps.webp"
+          ],
+          "captions": [
+            "Analysis of history, land use, climate and transport."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州石圍塘的舊工業區已逐漸荒廢，留下空置的廠房與舊鐵道。本案探討如何讓這片地區重新融入城市生活，同時保留其工業記憶。",
+              "captions": [
+                "歷史、土地使用、氣候與交通分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Maps of land use, transport, green space and building condition showed where the site was cut off and where it could be joined up. A management study then set out how the government, developers and artists could share the cost and the gains.",
+          "images": [
+            "assets/board/shiweitang-industrial-waterfront-regeneration/08-management-diagram.webp"
+          ],
+          "captions": [
+            "Management and fund flow among the entities."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "土地使用、交通、綠地與建物現況的分析圖，顯示出基地被切斷之處與可以重新連結之處。管理研究則說明政府、開發商與藝術家如何分擔成本並共享收益。",
+              "captions": [
+                "各方之間的管理與資金流動。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Five planning concepts were set out, from weaving the site back together to keeping local identity and a sound economy. A hand-drawn concept line followed the river and linked the new uses along it.",
+          "images": [
+            "assets/board/shiweitang-industrial-waterfront-regeneration/06-planning-concept.webp",
+            "assets/board/shiweitang-industrial-waterfront-regeneration/07-concept-drawing.webp"
+          ],
+          "captions": [
+            "Five planning concepts and the programme links.",
+            "Concept drawing along the river."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "本案提出五項規劃概念，從重新編織基地到保留在地特色與健全經濟。手繪概念線沿著河道展開，串連沿岸的新功能。",
+              "captions": [
+                "五項規劃概念與功能關聯。",
+                "沿河展開的概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The masterplan opens the riverbank, repairs the street network and places a museum, a station, parks, homes and technology spaces across the site. Small self-driving boats on the waterways serve as taxis, markets, stages and carriers between the key nodes.",
+          "images": [
+            "assets/board/shiweitang-industrial-waterfront-regeneration/02-skyline-section.webp",
+            "assets/board/shiweitang-industrial-waterfront-regeneration/03-strategy-diagrams.webp",
+            "assets/board/shiweitang-industrial-waterfront-regeneration/04-location-table.webp",
+            "assets/board/shiweitang-industrial-waterfront-regeneration/09-waterway-nodes-map.webp",
+            "assets/board/shiweitang-industrial-waterfront-regeneration/10-factory-axonometric-section.webp"
+          ],
+          "captions": [
+            "Long section across the site.",
+            "Strategy diagrams for water, green space and mobility.",
+            "Location table of the new programmes.",
+            "Key nodes along the waterways.",
+            "Axonometric and section of a reused factory."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "總平面打開河岸、修補街道網絡，並在基地中配置博物館、車站、公園、住宅與科技空間。水道上的小型自動駕駛船隻在各關鍵節點之間擔任水上計程車、市集、舞台與運輸工具。",
+              "captions": [
+                "橫跨基地的長剖面。",
+                "水、綠地與交通的策略圖。",
+                "新功能的區位表。",
+                "沿水道的關鍵節點。",
+                "再利用廠房的軸測圖與剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map what cuts the site off.\n2. Set a few clear planning concepts.\n3. Work out who pays and who gains.\n4. Place each new use on the plan.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 繪出切斷基地的因素。\n2. 訂定幾項清楚的規劃概念。\n3. 釐清由誰出資、由誰受益。\n4. 將每項新功能落在平面上。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Vertical Art Settlement: Designing with Sound",
+      "slug": "vertical-art-settlement-designing-with-sound",
+      "description": "Noise recorded on the site is mapped and turned into the form of an art settlement.\n\nGuangzhou | Art settlement | Sound study | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "垂直藝術聚落：以聲音設計",
+          "description": "將基地錄下的噪音繪製成圖，轉化為藝術聚落的形態。\n\n廣州｜藝術聚落｜聲音研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/vertical-art-settlement-designing-with-sound/01-sound-form-model.webp",
+        "assets/board/vertical-art-settlement-designing-with-sound/02-site-pressure-diagram.webp",
+        "assets/board/vertical-art-settlement-designing-with-sound/03-sound-spectrograms.webp",
+        "assets/board/vertical-art-settlement-designing-with-sound/04-sound-plan.webp",
+        "assets/board/vertical-art-settlement-designing-with-sound/05-sound-to-form-layers.webp",
+        "assets/board/vertical-art-settlement-designing-with-sound/06-settlement-axonometrics.webp",
+        "assets/board/vertical-art-settlement-designing-with-sound/07-model-details.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/vertical-art-settlement-designing-with-sound/01-sound-form-model.webp"
+          ],
+          "captions": [
+            "Site models of the settlement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "聚落的基地模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A survey of the site recorded air pressure, terrain, sound and the movement of people, and found that noise was the most serious issue. Sound therefore became the starting point for the design of a vertical art settlement in Guangzhou.",
+          "images": [
+            "assets/board/vertical-art-settlement-designing-with-sound/02-site-pressure-diagram.webp"
+          ],
+          "captions": [
+            "Site survey of air pressure, terrain and sound."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地調查記錄了氣壓、地形、聲音與人流，發現噪音是最嚴重的問題。因此聲音成為廣州一座垂直藝術聚落的設計出發點。",
+              "captions": [
+                "氣壓、地形與聲音的基地調查。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sounds recorded on the site were turned into data with software and shown as spectrograms. These readings were then joined with hand-drawn lines of how sound spreads across the ground.",
+          "images": [
+            "assets/board/vertical-art-settlement-designing-with-sound/03-sound-spectrograms.webp",
+            "assets/board/vertical-art-settlement-designing-with-sound/04-sound-plan.webp"
+          ],
+          "captions": [
+            "Spectrograms of the recorded sound.",
+            "Plan composition drawn from the sound."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "將基地錄下的聲音以軟體轉換為數據，並以頻譜圖呈現。再把這些讀數與手繪的聲音傳播線結合起來。",
+              "captions": [
+                "錄音的頻譜圖。",
+                "由聲音推演出的平面構成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The sound map was split into positive and negative forms, raised into a 3D field and cut into blocks. Virtual lines then moved from the flat plan into three-dimensional routes and volumes.",
+          "images": [
+            "assets/board/vertical-art-settlement-designing-with-sound/05-sound-to-form-layers.webp",
+            "assets/board/vertical-art-settlement-designing-with-sound/06-settlement-axonometrics.webp"
+          ],
+          "captions": [
+            "Layers from sound data to form.",
+            "Axonometric steps of the settlement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "將聲音地圖拆分為正形與負形，抬升為三維場域並切分為量塊。虛擬線條再從平面轉化為立體的路徑與量體。",
+              "captions": [
+                "從聲音數據到形態的圖層。",
+                "聚落的軸測推演步驟。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A set of white site models shows the settlement growing over the terrain as a field of studios and shared spaces. Closer model views test how the work and living parts sit together.",
+          "images": [
+            "assets/board/vertical-art-settlement-designing-with-sound/07-model-details.webp"
+          ],
+          "captions": [
+            "Close views of the models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一組白色基地模型呈現聚落如何在地形上生長為工作室與共享空間的場域。近距離的模型視角則測試工作與生活部分如何並置。",
+              "captions": [
+                "模型近照。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Survey the site with all the senses.\n2. Pick the strongest issue.\n3. Turn it into data and drawings.\n4. Build the form from those layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 用各種感官調查基地。\n2. 選出最強烈的議題。\n3. 將它轉化為數據與圖面。\n4. 由這些圖層建構形態。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
