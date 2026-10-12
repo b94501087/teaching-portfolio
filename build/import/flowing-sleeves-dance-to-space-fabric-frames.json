@@ -1,0 +1,43 @@
+{
+  "project": "Flowing Sleeves: Dance to Space Design",
+  "dest": "assets/board/flowing-sleeves-dance-to-space-fabric-frames",
+  "note": "Portfolio c916 page 5 cropped to six images, WebP q88 (PIL). Not used: title and text, process photos with people.",
+  "files": [
+    {
+      "name": "01-final-frames.webp",
+      "sha256": "babaa5d81c5284bba04a009b838e0261184220299b45acc812640aa6b43696dc",
+      "bytes": 54470,
+      "from": "c916 page 5 — final frames"
+    },
+    {
+      "name": "02-drama-stills.webp",
+      "sha256": "e5051db8bee92888d6806c5570085dea5ee73beb6175cf302a57beadc4966f42",
+      "bytes": 18262,
+      "from": "c916 page 5 — drama stills"
+    },
+    {
+      "name": "03-line-drawings.webp",
+      "sha256": "7d5ab112fb68d98111001d18c177dc53197a96cdbe230d135b1079e81d05db12",
+      "bytes": 25608,
+      "from": "c916 page 5 — line drawings"
+    },
+    {
+      "name": "04-window-pattern.webp",
+      "sha256": "5aca843af2391b23e21129bfc91450767cb6f1ceca444dbd0a6f58770b4f60e8",
+      "bytes": 6156,
+      "from": "c916 page 5 — window pattern"
+    },
+    {
+      "name": "05-frame-drawing.webp",
+      "sha256": "c31d40dde8c55cc1663fee60477ab03e032c564cb56660879d926b1055afdd59",
+      "bytes": 4446,
+      "from": "c916 page 5 — frame drawing"
+    },
+    {
+      "name": "06-frame-by-frame.webp",
+      "sha256": "0b62918a731ecd87e35636fd9f231d7990debfd8797c256ad6e75a8baff28532",
+      "bytes": 41600,
+      "from": "c916 page 5 — frame by frame"
+    }
+  ]
+}
