@@ -14819,6 +14819,578 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Anchor Point Community",
+      "slug": "anchor-point-community",
+      "description": "Anchor points and a slow walking path turn an old factory site in Changsha into a walkable community for elderly residents.\n\nChangsha, China | Community renewal for the elderly | 2021 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "錨點社區",
+          "description": "以錨點與慢行步道，將長沙的老工廠基地轉化為適合高齡居民步行生活的社區。\n\n中國長沙｜高齡社區更新｜2021｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/anchor-point-community/01-community-street-illustration.webp",
+        "assets/board/anchor-point-community/02-site-mapping.webp",
+        "assets/board/anchor-point-community/03-existing-space-analysis.webp",
+        "assets/board/anchor-point-community/04-social-research.webp",
+        "assets/board/anchor-point-community/05-strategy.webp",
+        "assets/board/anchor-point-community/06-design-process.webp",
+        "assets/board/anchor-point-community/07-master-plan.webp",
+        "assets/board/anchor-point-community/08-stakeholders-map.webp",
+        "assets/board/anchor-point-community/09-space-renovation.webp",
+        "assets/board/anchor-point-community/10-anchor-points-axonometric.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/anchor-point-community/01-community-street-illustration.webp"
+          ],
+          "captions": [
+            "The slow walking path linking anchor points through the community."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "串連社區各錨點的慢行步道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The elderly population in China is growing year by year, and ageing is becoming increasingly serious. In an old factory site on the Liuyang River in Changsha, the survey found that elderly people make up a large proportion of the residents, while the site offers unsuitable space for them, old factories and dormitories, and low public vitality.",
+          "images": [
+            "assets/board/anchor-point-community/02-site-mapping.webp",
+            "assets/board/anchor-point-community/03-existing-space-analysis.webp"
+          ],
+          "captions": [
+            "Site analysis and mapping: buildings to be demolished, the area to be developed and the river edge.",
+            "Existing space analysis: poor accessibility, lack of rest space and monotonous activity."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "中國的高齡人口逐年增加，老化問題日益嚴重。在長沙瀏陽河畔的一處老工廠基地，調查發現高齡者占居民的很大比例，但基地缺乏適合他們的空間，充斥老舊工廠與宿舍，公共活力也偏低。",
+              "captions": [
+                "基地分析與調查圖：待拆除建築、待開發區域與河岸。",
+                "既有空間分析：可及性不佳、缺乏休憩空間、活動單調。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A site survey and questionnaire in November 2021 compared the needs of elderly people who live alone with those who live with their children, from re-employment and cultural activity to healthcare, restaurants and shopping. The strategy groups these needs around anchor points that offer accessibility and attraction.",
+          "images": [
+            "assets/board/anchor-point-community/04-social-research.webp",
+            "assets/board/anchor-point-community/05-strategy.webp"
+          ],
+          "captions": [
+            "Social research: activity needs of the two groups and the space demand.",
+            "Strategy: anchor points serving elderly people who live alone and with family."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "2021 年 11 月的現地調查與問卷，比較獨居高齡者與和子女同住者的需求，從再就業、文化活動到醫療、餐飲與購物。策略將這些需求組織在提供可及性與吸引力的錨點周圍。",
+              "captions": [
+                "社會調查：兩類高齡者的活動需求與空間需求。",
+                "策略：服務獨居與同住高齡者的錨點。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The elderly who live alone want to socialise and take 250 metres as their five-minute life circle; those who live with family have a smaller range and take 200 metres. Anchor points are placed so that each serves both kinds of community, a slow walking path connects them all, and functions for higher-level needs sit inside the life circle, while old factories are converted into a teahouse, library, canteen, theatre, museum and gardening space.",
+          "images": [
+            "assets/board/anchor-point-community/06-design-process.webp",
+            "assets/board/anchor-point-community/07-master-plan.webp",
+            "assets/board/anchor-point-community/08-stakeholders-map.webp",
+            "assets/board/anchor-point-community/09-space-renovation.webp"
+          ],
+          "captions": [
+            "Design process: functional partition, traffic design, anchor points and other points.",
+            "Master plan of the renewed community along the river.",
+            "Stakeholders map linking the elderly, the neighbourhood committee, young residents and visitors.",
+            "Space renovation for residential and public space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "獨居高齡者希望社交，以 250 公尺作為五分鐘生活圈；與家人同住者活動範圍較小，以 200 公尺為生活圈。錨點的配置讓每一處都能服務兩類社區，並以慢行步道串連，高層次需求的機能則安排在生活圈內，老工廠則改造為茶館、圖書館、食堂、劇場、博物館與園藝空間。",
+              "captions": [
+                "設計過程：機能分區、交通設計、錨點與其他節點。",
+                "沿河更新社區的總平面圖。",
+                "利害關係人圖：串連高齡者、居委會、年輕居民與訪客。",
+                "居住空間與公共空間的改造。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Anchor points at the hospital and the kindergarten, and active points for gardening, an elderly barber, a park and a riverside path, turn the old factory site into a walkable community where elderly residents can rest, exercise and meet. The riverside footpath also becomes part of the slow walking route.",
+          "images": [
+            "assets/board/anchor-point-community/10-anchor-points-axonometric.webp"
+          ],
+          "captions": [
+            "Anchor point vignettes and the axonometric drawing of the community."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "醫院與幼兒園的錨點，加上園藝、長者理髮、公園與河岸步道等活動點，讓老工廠基地成為一個可步行的社區，高齡居民能在這裡休憩、運動與相聚。河岸步道也成為慢行路線的一部分。",
+              "captions": [
+                "錨點場景與社區軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Survey the people the site serves.\n2. Measure needs as walking distance.\n3. Place anchor points to serve both groups.\n4. Reuse old buildings for daily life.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 調查基地所服務的人。\n2. 以步行距離衡量需求。\n3. 配置能同時服務兩類人群的錨點。\n4. 將舊建築轉作日常生活之用。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Low Carbon Urban New Area",
+      "slug": "low-carbon-urban-new-area",
+      "description": "A central wetland park and two ventilation corridors shape a carbon-neutral new urban area in Changsha.\n\nChangsha, China | Low-carbon urban planning | 2020 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "低碳城市新區",
+          "description": "以中央濕地公園與兩條通風廊道，塑造長沙一座碳中和的城市新區。\n\n中國長沙｜低碳城市規劃｜2020｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/low-carbon-urban-new-area/01-aerial-rendering.webp",
+        "assets/board/low-carbon-urban-new-area/02-site-analysis.webp",
+        "assets/board/low-carbon-urban-new-area/03-land-use-planning.webp",
+        "assets/board/low-carbon-urban-new-area/04-master-plan.webp",
+        "assets/board/low-carbon-urban-new-area/05-design-analysis.webp",
+        "assets/board/low-carbon-urban-new-area/06-sustainable-strategy.webp",
+        "assets/board/low-carbon-urban-new-area/07-central-wetland-park.webp",
+        "assets/board/low-carbon-urban-new-area/08-research-universities.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/low-carbon-urban-new-area/01-aerial-rendering.webp"
+          ],
+          "captions": [
+            "The new area gathered around a central wetland park on the river."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "圍繞河畔中央濕地公園展開的新區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project is located in the Changsha New Development Zone and is designed on the theory of carbon neutrality. The question is how a new urban area can grow while its own landscape helps to offset its carbon emissions.",
+          "images": [
+            "assets/board/low-carbon-urban-new-area/02-site-analysis.webp"
+          ],
+          "captions": [
+            "Site analysis: elevation, slope, landscape and traffic scores combined into a land suitability evaluation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於長沙新開發區，設計以碳中和理論為基礎。核心問題是：一個新城區如何在發展的同時，讓自身的地景協助抵消碳排放。",
+              "captions": [
+                "基地分析：高程、坡度、景觀與交通評分疊合為土地適宜性評估。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Physical geography, landscape and traffic radiation scores were overlaid to evaluate land suitability, and block density studies tested small blocks and small streets. The results guided a land use plan that balances residential, business, educational and green land.",
+          "images": [
+            "assets/board/low-carbon-urban-new-area/03-land-use-planning.webp"
+          ],
+          "captions": [
+            "Land use planning with the share of each land type."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "團隊疊合自然地理、景觀與交通輻射評分來評估土地適宜性，並以街廓密度研究測試小街廓、密路網的配置。研究結果導出一份平衡居住、商業、教育與綠地的土地使用計畫。",
+              "captions": [
+                "土地使用規劃與各類用地比例。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A central wetland park connects the whole area, and the wetlands help to neutralise its carbon emissions. Two green ventilation corridors reduce the urban heat island effect, one passing through the wetland park and one through a new energy research university, supported by distributed energy and passive energy conservation.",
+          "images": [
+            "assets/board/low-carbon-urban-new-area/04-master-plan.webp",
+            "assets/board/low-carbon-urban-new-area/05-design-analysis.webp",
+            "assets/board/low-carbon-urban-new-area/06-sustainable-strategy.webp"
+          ],
+          "captions": [
+            "Master plan with the wetland park, campuses, industrial parks and riverside facilities.",
+            "Design analysis: road network, planning structure and industry structure.",
+            "Sustainable strategy: ventilation gallery, energy distribution and passive energy conservation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "中央濕地公園串連整個區域，濕地也協助中和區域的碳排放。兩條綠色通風廊道降低都市熱島效應，一條穿過濕地公園，一條穿過新能源研究大學，並搭配分散式能源與被動式節能設計。",
+              "captions": [
+                "總平面圖：濕地公園、校園、產業園區與河岸設施。",
+                "設計分析：路網、規劃結構與產業結構。",
+                "永續策略：通風廊道、能源分布與被動式節能。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The renderings show the central wetland park as a waterfront public landscape and the research universities set among green roofs and open fields. This was a teamwork project, and the student's contribution covered site analysis, land use planning, the master plan, design analysis drawings and renderings.",
+          "images": [
+            "assets/board/low-carbon-urban-new-area/07-central-wetland-park.webp",
+            "assets/board/low-carbon-urban-new-area/08-research-universities.webp"
+          ],
+          "captions": [
+            "Rendering of the central wetland park.",
+            "Rendering of the scientific research universities."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "渲染圖呈現中央濕地公園作為水岸公共地景，研究大學則坐落在綠屋頂與開放草地之間。這是一個團隊作業，學生負責基地分析、土地使用規劃、總平面圖、設計分析圖與渲染。",
+              "captions": [
+                "中央濕地公園渲染圖。",
+                "科學研究大學渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Score the land before drawing on it.\n2. Let the landscape carry the carbon goal.\n3. Shape corridors for wind and water.\n4. Test the plan through the renderings.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 先為土地評分，再開始規劃。\n2. 讓地景承擔減碳目標。\n3. 為風與水塑造廊道。\n4. 用渲染檢驗規劃。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Phuket Turtle Rescue Operation",
+      "slug": "phuket-turtle-rescue-operation",
+      "description": "A sea turtle rescue centre on Mai Khao Beach links emergency care, recovery and public education along one route.\n\nPhuket, Thailand | Wildlife rescue centre | 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "普吉島海龜救援行動",
+          "description": "位於麥考海灘的海龜救援中心，以一條路線串連急救、復健與公眾教育。\n\n泰國普吉島｜野生動物救援中心｜2022｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/phuket-turtle-rescue-operation/01-turtle-centre-drawing.webp",
+        "assets/board/phuket-turtle-rescue-operation/02-sea-turtle-analysis.webp",
+        "assets/board/phuket-turtle-rescue-operation/03-advantages-and-improvements.webp",
+        "assets/board/phuket-turtle-rescue-operation/04-visitor-strategy.webp",
+        "assets/board/phuket-turtle-rescue-operation/05-rescue-strategy.webp",
+        "assets/board/phuket-turtle-rescue-operation/06-design-process.webp",
+        "assets/board/phuket-turtle-rescue-operation/07-master-plan.webp",
+        "assets/board/phuket-turtle-rescue-operation/08-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/phuket-turtle-rescue-operation/01-turtle-centre-drawing.webp"
+          ],
+          "captions": [
+            "The turtle centre drawn as a single route from the sea to the shore."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "海龜中心被畫成一條從海面到岸上的連續路徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project is set on Mai Khao Beach in Phuket, Thailand, where sea turtles come ashore in large numbers. Injured turtles need a fast route from the sea to treatment, while plastic garbage keeps threatening their life cycle.",
+          "images": [
+            "assets/board/phuket-turtle-rescue-operation/02-sea-turtle-analysis.webp"
+          ],
+          "captions": [
+            "Sea turtle analysis: the life cycle and the threats of global warming, bycatch, marine garbage and habitat destruction."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於泰國普吉島的麥考海灘，是海龜大量上岸的地方。受傷的海龜需要一條從海上快速送往治療的路線，而塑膠垃圾也持續威脅牠們的生命週期。",
+              "captions": [
+                "海龜分析：生命週期，以及全球暖化、誤捕、海洋垃圾與棲地破壞等威脅。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Studying the turtle's life and two existing conservation centres showed that design can protect hatching and reduce the swallowing of plastic garbage. The cases suggested keeping an undisturbed spawning beach, adding shading and creating more interaction between visitors and turtles.",
+          "images": [
+            "assets/board/phuket-turtle-rescue-operation/03-advantages-and-improvements.webp",
+            "assets/board/phuket-turtle-rescue-operation/04-visitor-strategy.webp"
+          ],
+          "captions": [
+            "Case analysis: advantages, disadvantages, learning points and improvement points.",
+            "Strategy: tourists support the rescue centre through visits, a coffee shop, recycled goods and a youth education base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "透過研究海龜的生命歷程與兩個既有保育中心，發現設計可以保護孵化並減少海龜誤食塑膠垃圾。案例建議保留不受干擾的產卵海灘、增加遮蔭，並創造更多遊客與海龜之間的互動。",
+              "captions": [
+                "案例分析：優點、缺點、可學習之處與改進方向。",
+                "策略：遊客透過參觀、咖啡店、回收商品與青少年教育基地支持救援中心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The strategy works in four steps: rescue, protection, recycling and popularisation. Injured turtles are first treated at the marine emergency station, the serious cases travel along a corridor to the onshore operating room, and the plan, shaped by the hexagon of a turtle shell, connects the turtle village with an enclosed spawning beach.",
+          "images": [
+            "assets/board/phuket-turtle-rescue-operation/05-rescue-strategy.webp",
+            "assets/board/phuket-turtle-rescue-operation/06-design-process.webp",
+            "assets/board/phuket-turtle-rescue-operation/07-master-plan.webp"
+          ],
+          "captions": [
+            "Strategy sketches: rescue, protection, recycling and popularisation.",
+            "Design process: connecting the turtle village, functional partition and the turtle-shell hexagon.",
+            "Master plan from the rescue wharf to the recovery pools and science exhibition."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "策略分為四個步驟：救援、保護、回收與科普。受傷的海龜先在海上急救站接受治療，重傷者沿著廊道送往岸上的手術室，而以龜殼六角形為設計元素的配置，則串連海龜村與封閉的產卵海灘。",
+              "captions": [
+                "策略草圖：救援、保護、回收與科普。",
+                "設計過程：串連海龜村、機能分區與龜殼六角形。",
+                "總平面圖：從救援碼頭到復健池與科普展覽。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The section runs from the water rescue centre through turtle surgery and recovery to a youth science base and a popular science museum. After surgery, the turtles recover in the pool before they are released back to the sea.",
+          "images": [
+            "assets/board/phuket-turtle-rescue-operation/08-section.webp"
+          ],
+          "captions": [
+            "Section through the rescue centre, surgery and recovery, science base and museum."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "剖面從海上救援中心，經過海龜手術與復健，延伸到青少年科普基地與科普博物館。手術後的海龜在水池中復原，之後再放回大海。",
+              "captions": [
+                "穿過救援中心、手術與復健區、科普基地與博物館的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from the animal's life cycle.\n2. Learn from existing cases.\n3. Draw the rescue as one route.\n4. Let visitors fund the care.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從動物的生命週期出發。\n2. 向既有案例學習。\n3. 把救援畫成一條路線。\n4. 讓遊客支持照護。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Riverside Urban Renewal",
+      "slug": "riverside-urban-renewal",
+      "description": "Three small public spaces on Riverside Road in Guangzhou are renewed for young people, children and the elderly.\n\nGuangzhou, China | Urban renewal | 2022 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "沿江路都市更新",
+          "description": "廣州沿江路上的三處小型公共空間，分別為年輕人、兒童與長者進行更新。\n\n中國廣州｜都市更新｜2022｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/riverside-urban-renewal/01-hydrophilic-platform-aerial.webp",
+        "assets/board/riverside-urban-renewal/02-site-mapping.webp",
+        "assets/board/riverside-urban-renewal/03-strategy.webp",
+        "assets/board/riverside-urban-renewal/04-youth-zone-master-plan.webp",
+        "assets/board/riverside-urban-renewal/05-youth-zone-design-process.webp",
+        "assets/board/riverside-urban-renewal/06-youth-zone-rendering.webp",
+        "assets/board/riverside-urban-renewal/07-youth-zone-section.webp",
+        "assets/board/riverside-urban-renewal/08-hydrophilic-design-analysis.webp",
+        "assets/board/riverside-urban-renewal/09-opera-stage-renderings.webp",
+        "assets/board/riverside-urban-renewal/10-opera-stage-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/riverside-urban-renewal/01-hydrophilic-platform-aerial.webp"
+          ],
+          "captions": [
+            "The hydrophilic platform opens the riverside to children and families."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "親水平台讓河岸向孩子與家庭開放。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Along Riverside Road on the Pearl River in Guangzhou, buildings are uneven, there is a gap between new and old housing, and the public space between buildings is losing its appeal. The design aims to restore the vitality of the whole block while keeping its cultural memory.",
+          "images": [
+            "assets/board/riverside-urban-renewal/02-site-mapping.webp"
+          ],
+          "captions": [
+            "Mapping of the site between the Yuexiu and Haizhu districts, with the three chosen sites."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在廣州珠江沿岸的沿江路一帶，建築高低不一，新舊住宅之間存在落差，建築之間的公共空間也逐漸失去吸引力。設計希望在保留文化記憶的同時，恢復整個街區的活力。",
+              "captions": [
+                "越秀區與海珠區之間的基地調查圖，標示三處選定的基地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The site analysis picked three public spaces that serve three groups: a square outside the community market for young people, an underused cruise terminal for children, and a simple corner park for the elderly. Each one is given a theme: novel experience, hydrophilic space and street eye.",
+          "images": [
+            "assets/board/riverside-urban-renewal/03-strategy.webp"
+          ],
+          "captions": [
+            "Strategy for the youth entertainment zone, the hydrophilic platform and the Cantonese opera stage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "基地分析挑選了三處服務不同族群的公共空間：社區市場外的廣場服務年輕人，使用率低的遊船碼頭服務兒童，簡單的街角公園則服務長者。每一處各有主題：新奇體驗、親水空間與街道之眼。",
+              "captions": [
+                "青年娛樂區、親水平台與粵劇舞台的策略圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "In the youth entertainment zone, the canopy of the site is extracted as a design element and deformed, arranged and combined, and the shape of the fishing boat forms a three-tier market complex with a coffee shop, staircase cinema, board games and an escape room. The wharf becomes a platform for rainwater collection and tidal play, and the corner park gains an opera stage beside the road.",
+          "images": [
+            "assets/board/riverside-urban-renewal/04-youth-zone-master-plan.webp",
+            "assets/board/riverside-urban-renewal/05-youth-zone-design-process.webp",
+            "assets/board/riverside-urban-renewal/06-youth-zone-rendering.webp",
+            "assets/board/riverside-urban-renewal/07-youth-zone-section.webp",
+            "assets/board/riverside-urban-renewal/08-hydrophilic-design-analysis.webp"
+          ],
+          "captions": [
+            "Master plan of the youth entertainment zone.",
+            "Design process: the site, the old and new residences, and the combined deformation of eaves.",
+            "Rendering of the market extension under the new canopy.",
+            "Section perspective of the three-tier market complex.",
+            "Hydrophilic platform: design analysis sketch and renderings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在青年娛樂區，基地的雨棚被提取為設計元素，經過變形、排列與組合，再參考漁船的造型形成三層的市場綜合體，容納咖啡店、樓梯電影院、桌遊與密室逃脫。碼頭轉變為雨水收集與潮汐遊戲的平台，街角公園則在路旁增設一座戲台。",
+              "captions": [
+                "青年娛樂區總平面圖。",
+                "設計過程：基地、新舊住宅與屋簷的組合變形。",
+                "新雨棚下延伸市場的渲染圖。",
+                "三層市場綜合體的剖透視圖。",
+                "親水平台：設計分析草圖與渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The stage beside the road draws people to stop and serves as a cultural performance space for the nearby post station, while elderly people in the teahouse can enjoy Cantonese opera as they drink tea. Together the three spaces renew Riverside Road for young people, children and the elderly.",
+          "images": [
+            "assets/board/riverside-urban-renewal/09-opera-stage-renderings.webp",
+            "assets/board/riverside-urban-renewal/10-opera-stage-plan.webp"
+          ],
+          "captions": [
+            "Renderings of the opera stage beside the road and the raised stage in the park.",
+            "Plan of the Cantonese opera stage and the teahouse."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "路旁的戲台吸引行人駐足，也作為鄰近文化驛站的表演空間，茶館裡的長者則能一邊喝茶一邊欣賞粵劇。三處空間共同為年輕人、兒童與長者更新沿江路。",
+              "captions": [
+                "路旁戲台與公園中抬高舞台的渲染圖。",
+                "粵劇舞台與茶館平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick small sites for different people.\n2. Give each site one clear theme.\n3. Borrow forms from local memory.\n4. Design for staying, not passing.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 為不同族群挑選小基地。\n2. 為每處基地設定清楚的主題。\n3. 從在地記憶借用形式。\n4. 設計讓人停留，而非只是經過。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
