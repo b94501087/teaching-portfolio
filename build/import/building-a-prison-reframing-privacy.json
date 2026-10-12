@@ -1,0 +1,55 @@
+{
+  "project": "Building a Prison",
+  "dest": "assets/board/building-a-prison-reframing-privacy",
+  "note": "Portfolio ced9 pages 9–15 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the film still collage and the story text on page 9, the user analysis and prison research pages with photos, the design concept page with film stills, the plan perspectives with photo figures on page 14, and the body text.",
+  "files": [
+    {
+      "name": "01-labyrinth.webp",
+      "sha256": "468aebc33d4e8bb5342b061c59568968922b40369b396dd3f2bd78c9f7c9ebdb",
+      "bytes": 454062,
+      "from": "ced9 page 9 — hand-drawn labyrinth of towers and stairs, x 0–77.5 %, y 0–88.5 %"
+    },
+    {
+      "name": "02-three-prototypes.webp",
+      "sha256": "d1220cad849f33c57d2413d240ae0ae658cb53843dc7d86622d7d76819bf7f94",
+      "bytes": 109136,
+      "from": "page 12 — three prototype model photos, x 1–100 %, y 11–53.5 %"
+    },
+    {
+      "name": "03-prototype-sections.webp",
+      "sha256": "c7c93f39168d89276a0b9b3f2dbab9236ebec10beecc6e8297dedc7765db3fdf",
+      "bytes": 166210,
+      "from": "page 12 — prototype section drawings, x 8–100 %, y 56–99.5 %"
+    },
+    {
+      "name": "04-axonometric.webp",
+      "sha256": "3433e7e1d8f66ac51ee93cf9872d6ae079def4db1ee89eb6a80d97871171990b",
+      "bytes": 310360,
+      "from": "page 13 — prison design axonometric and exploded view, full page"
+    },
+    {
+      "name": "05-ground-plan.webp",
+      "sha256": "d0d36c2f0ddc1f11ad8e3d94b6abfd95c04560dd3711baf2023162ca095b806f",
+      "bytes": 21710,
+      "from": "page 14 — plan, x 2–30 %, y 13–47.5 %"
+    },
+    {
+      "name": "06-upper-plan.webp",
+      "sha256": "271a8664eb145782fb4e51eafcf46733a1723ad4ec24a2e3b54dfbaf9c181ba3",
+      "bytes": 35890,
+      "from": "page 14 — plan with central control tower, x 70–98.5 %, y 58.5–98.5 %"
+    },
+    {
+      "name": "07-interior-views.webp",
+      "sha256": "0800a9d6e5d5e841240f9306affb4dfa7cd3ee0e77e99b5b76ad412c8e9a65bf",
+      "bytes": 145908,
+      "from": "page 15 — interior render views, x 0–100 %, y 16.5–48 %"
+    },
+    {
+      "name": "08-sections.webp",
+      "sha256": "52d07d45fa079c59c076773b6c0073d59b6eee654c45a4a535ea13bed6d6669d",
+      "bytes": 100530,
+      "from": "page 15 — sections of vertical circulation and cell rooms, x 0–100 %, y 56–90.5 %"
+    }
+  ]
+}
