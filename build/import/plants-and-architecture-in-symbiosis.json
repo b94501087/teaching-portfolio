@@ -1,0 +1,67 @@
+{
+  "project": "Plants and Architecture in Symbiosis",
+  "dest": "assets/board/plants-and-architecture-in-symbiosis",
+  "note": "Portfolio 6c37 pages 2–6 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title and site photos on page 2, the annotated site model photos, the behaviour analysis with photos of people, the hand sketches on page 4, the street and interior renders on page 6 and the body text.",
+  "files": [
+    {
+      "name": "01-aerial-render.webp",
+      "sha256": "1dd1658f511e776b79cff8627577a4ccbc9618ceadb285bc40be2f1d4abfe950",
+      "bytes": 61180,
+      "from": "6c37 page 6 — aerial render among existing trees, x 61–99 %, y 1–33 %"
+    },
+    {
+      "name": "02-boundary-sections.webp",
+      "sha256": "b32587f604e658af80d447bddb276aac9ec70cc52d9000a93eefaa898ba66941",
+      "bytes": 54030,
+      "from": "page 2 — open boundary, light edge and selected penetration sections, x 44–100 %, y 22–50 %"
+    },
+    {
+      "name": "03-plant-symbiosis-drawing.webp",
+      "sha256": "f82c9ba85e6b9f7b4c80727910d8d8f77c0ca2803bdea3ab82b4426753900d75",
+      "bytes": 76790,
+      "from": "page 2 — plant symbiosis drawing, x 2–43.5 %, y 55–93.5 %"
+    },
+    {
+      "name": "04-sixteen-blocks.webp",
+      "sha256": "c8b38919696ee01a7d9b62df4763d1c9d31fb35e063efe321d12c3c025f19333",
+      "bytes": 222686,
+      "from": "page 3 — boundary models and the sixteen and nine blocks, x 0–100 %, y 3–100 %"
+    },
+    {
+      "name": "05-detail-blocks-and-plans.webp",
+      "sha256": "2d9dcb10670416a02585a95e9dd7f34e8166f8e13dcc20c14c6a2d57b838591b",
+      "bytes": 102178,
+      "from": "page 4 — four detail blocks with plans, x 0–42 %, y 3–100 %"
+    },
+    {
+      "name": "06-superimposed-volumes.webp",
+      "sha256": "311b2ed20a0bd78caa64c90c572624cf6135db9e773400c966037469ee6b2c82",
+      "bytes": 91056,
+      "from": "page 4 — superimposed volumes, x 73–100 %, y 8–97 %"
+    },
+    {
+      "name": "07-timber-joints.webp",
+      "sha256": "0af35c7d03e2ff7cc9310982509c6af24f77574d2548814b4fb7e3478c8c3282",
+      "bytes": 185406,
+      "from": "page 5 — node and plane timber joints, x 0–51 %, y 0–100 %"
+    },
+    {
+      "name": "08-connected-modules.webp",
+      "sha256": "c471c448ae81b43f7d169a98372932e1f7ae02018eb3e47184101ec38a2fda17",
+      "bytes": 190624,
+      "from": "page 5 — generated modules connected into buildings, x 51–100 %, y 0–100 %"
+    },
+    {
+      "name": "09-roof-plan.webp",
+      "sha256": "d0ef09267e4b3cf91bf7d32f7aff65178e68fc8e211d01f1db91a8605f485fda",
+      "bytes": 166788,
+      "from": "page 6 — roof plan with trees, x 0–44 %, y 0–100 %"
+    },
+    {
+      "name": "10-light-models.webp",
+      "sha256": "cb90ade9eed7e13c248542ead1bf58c425d94d6aeb24b05cf2b1d4857a6b8084",
+      "bytes": 44862,
+      "from": "page 2 — light and shadow models, x 44–100 %, y 51–67 %"
+    }
+  ]
+}
