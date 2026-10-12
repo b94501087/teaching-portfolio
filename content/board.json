@@ -23628,6 +23628,145 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "The Past and Future of KaoLao Pier",
+      "slug": "kaolao-pier-past-and-future",
+      "description": "A silted fishing pier in Qingdao is revived with markets, timber jetties and a round history museum built on local memory.\n\nQingdao, China | Waterfront regeneration | Apr–Jul 2019 | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "KaoLao 碼頭的過去與未來",
+          "description": "青島一座淤積的漁港，以市場、木棧道與一座承載在地記憶的圓形歷史博物館重獲新生。\n\n中國青島｜濱水再生｜2019年4–7月｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/kaolao-pier-past-and-future/01-cabin-section.webp",
+        "assets/board/kaolao-pier-past-and-future/02-fishing-change-chart.webp",
+        "assets/board/kaolao-pier-past-and-future/03-income-chart.webp",
+        "assets/board/kaolao-pier-past-and-future/04-market-way.webp",
+        "assets/board/kaolao-pier-past-and-future/05-wharf-node-detail.webp",
+        "assets/board/kaolao-pier-past-and-future/06-timber-jetty-section.webp",
+        "assets/board/kaolao-pier-past-and-future/07-museum-plan.webp",
+        "assets/board/kaolao-pier-past-and-future/08-museum-sections.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/kaolao-pier-past-and-future/01-cabin-section.webp"
+          ],
+          "captions": [
+            "Cabin section: a timber seaside cabin on piles over the water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "小屋剖面：架於水面樁柱上的木構海邊小屋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "An old fishing pier in Qingdao has silted up, and village fishing no longer brings a steady income. The group set out to revive the wharf through fishing, mariculture, processing, tourism and a seafood market.",
+          "images": [
+            "assets/board/kaolao-pier-past-and-future/02-fishing-change-chart.webp",
+            "assets/board/kaolao-pier-past-and-future/03-income-chart.webp"
+          ],
+          "captions": [
+            "Changes in fishing places, nets, storage, materials, power and food from the 1950s to the 2010s.",
+            "Income ranges of village occupations, from external contractors to manufacture workers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "青島一座老漁港逐漸淤積，村裡的捕魚已無法帶來穩定收入。小組希望透過捕撈、海水養殖、加工、觀光與海鮮市場，讓碼頭重新活絡。",
+              "captions": [
+                "從1950年代到2010年代，捕魚地點、漁網、保存、材料、動力與食物的變化。",
+                "村中各種職業的收入範圍，從外部承包商到製造工人。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Interviews with a long-time villager traced how boats, nets and work changed over the decades. The findings showed that income was the key, so the plan links fishing, culture and ecology to draw visitors back.",
+          "images": [
+            "assets/board/kaolao-pier-past-and-future/04-market-way.webp"
+          ],
+          "captions": [
+            "Market way: buying at the wharf, transport and take-away, aiming at a clean, energy-saving and well-routed flow."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "與長年居住的村民訪談，追溯船隻、漁網與工作數十年來的轉變。研究發現收入是關鍵，因此計畫串連漁業、文化與生態，重新吸引訪客。",
+              "captions": [
+                "市場動線：碼頭購買、運輸與外帶，目標是乾淨、節能且分流的動線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Timber jetties tie the old concrete wharf to new market and leisure decks above the tidal flat. Each joint stacks layers of waterproofing, anti-damp mats and anti-corrosion paint to last by the sea.",
+          "images": [
+            "assets/board/kaolao-pier-past-and-future/05-wharf-node-detail.webp",
+            "assets/board/kaolao-pier-past-and-future/06-timber-jetty-section.webp"
+          ],
+          "captions": [
+            "Node detail of the timber jetty meeting the concrete wharf.",
+            "Timber jetty section with fishing, walking and resting along the deck."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木棧道將舊混凝土碼頭與潮間帶上的新市場及休閒平台相連。每個接點疊加防水、防潮墊與防腐塗層，以適應海邊環境。",
+              "captions": [
+                "木棧道與混凝土碼頭交接的節點詳圖。",
+                "木棧道剖面，沿線有垂釣、散步與休憩。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A round history museum takes its plan from the lines of the nearby sea bridge, with a ramp circling the rooms. Its sections show seaweed roofs, oyster shell walls and white shell floors as the water and mud rise over time.",
+          "images": [
+            "assets/board/kaolao-pier-past-and-future/07-museum-plan.webp",
+            "assets/board/kaolao-pier-past-and-future/08-museum-sections.webp"
+          ],
+          "captions": [
+            "Museum plans with the circling ramp and the bridge-derived grid.",
+            "Museum sections for three stages of water and mud levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "圓形的歷史博物館以鄰近跨海大橋的線條為平面依據，坡道環繞各個展間。剖面呈現海草屋頂、蚵殼牆與白貝殼地面，回應水位與淤泥隨時間上升。",
+              "captions": [
+                "博物館平面，坡道環繞並以大橋線條劃分。",
+                "博物館三個水位與淤泥階段的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Listen to local voices.\n2. Find the key need.\n3. Detail for the sea.\n4. Design for change.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 傾聽在地聲音。\n2. 找出關鍵需求。\n3. 為海邊做細部。\n4. 為變化而設計。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
