@@ -1,0 +1,67 @@
+{
+  "project": "Listening to the Sound",
+  "dest": "assets/board/listening-to-the-sound-guangzhou-square",
+  "note": "Portfolio 4439 pages 7–11 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title text and site-impression photos, the green-space photo grid, the tree and bird pictures, the street photos for each noise band, the user-survey photo circles, the photo collage of people and city scenes, the decision and plant strategy wheels, the plant and bird landscape section and the body text.",
+  "files": [
+    {
+      "name": "01-aerial-view.webp",
+      "sha256": "3033c6425f86917cdad3d42c5141085400aa1caf30c5408a56668ac9fe69cfcc",
+      "bytes": 609466,
+      "from": "4439 page 7 — aerial view of the square with its activity zones, x 1–73.5 %, y 0–100 %"
+    },
+    {
+      "name": "02-noise-map.webp",
+      "sha256": "9e631b3d8581ffbe930f07075916dd428e56fad5a25bdf848b0cfd48daea508f",
+      "bytes": 95960,
+      "from": "page 8 — surrounding noise analysis map, x 16.5–37.5 %, y 50.5–100 %"
+    },
+    {
+      "name": "03-user-survey-map.webp",
+      "sha256": "e50b0f9279cba9a0187667564c3b8d288d1d86ea58833ba863031a45a1db34c8",
+      "bytes": 51484,
+      "from": "page 8 — on-site user survey map, x 58–79 %, y 50.5–100 %"
+    },
+    {
+      "name": "04-management-strategy.webp",
+      "sha256": "5f3d8353f73fc4582f7f391bc14cedec4fa58f78890212512c81423dddcda5cf",
+      "bytes": 141460,
+      "from": "page 9 — management system strategy diagram, x 60–100 %, y 11–71 %"
+    },
+    {
+      "name": "05-masterplan.webp",
+      "sha256": "127f82352b6bd9fbf618fe7e021cdecaa8ba64c47a33cd69de7d31de5d167c03",
+      "bytes": 314286,
+      "from": "page 10 — masterplan, x 8–44.5 %, y 2–100 %"
+    },
+    {
+      "name": "06-design-development.webp",
+      "sha256": "428e854660e0208aafbb59bf00a85d62fd1367224062df74714064e09d3e2efa",
+      "bytes": 38458,
+      "from": "page 10 — design development steps, x 52.5–100 %, y 2–23 %"
+    },
+    {
+      "name": "07-activity-modules.webp",
+      "sha256": "ae502840bd67c9ccabe44fcf1ecf1a69f72faf0acafe4b58449797fe27782c05",
+      "bytes": 44652,
+      "from": "page 10 — activity modules for five groups of users, x 52.5–100 %, y 31.5–47 %"
+    },
+    {
+      "name": "08-square-scenes.webp",
+      "sha256": "8f9d57be5494232a0065bf0b21edb4c3b7b8a046ca6744be232c9b9061a930ec",
+      "bytes": 124066,
+      "from": "page 10 — eight scenes of the central square, x 52.5–100 %, y 69–97 %"
+    },
+    {
+      "name": "09-edge-wall-sections.webp",
+      "sha256": "026171cce054ae7233684063e625459031f1b354c48a89973fd10de9ac2fbae6",
+      "bytes": 70522,
+      "from": "page 11 — sound-insulating green wall sections of the edge buildings, x 0–56 %, y 5–39.5 %"
+    },
+    {
+      "name": "10-museum-section.webp",
+      "sha256": "b44e5ef150c41233982d892c567778b6d2ff32e21eaca89054e454acc3bb339b",
+      "bytes": 79014,
+      "from": "page 11 — section of the central museum, x 55.5–100 %, y 5–41 %"
+    }
+  ]
+}
