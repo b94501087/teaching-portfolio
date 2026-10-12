@@ -29570,6 +29570,277 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Chaotic Era: A Curving Terraced Settlement",
+      "slug": "chaotic-era-curving-terraced-settlement",
+      "description": "Free curves and layered lines loosen rigid building forms into a terraced settlement.\n\nArchitecture | Terraced settlement | Curve study | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "混沌時代：曲線層疊聚落",
+          "description": "以自由曲線與層疊線條鬆動僵硬的建築形態，形成層疊的聚落。\n\n建築｜層疊聚落｜曲線研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/chaotic-era-curving-terraced-settlement/01-chaos-line-collage.webp",
+        "assets/board/chaotic-era-curving-terraced-settlement/02-curve-sketch.webp",
+        "assets/board/chaotic-era-curving-terraced-settlement/03-long-section.webp",
+        "assets/board/chaotic-era-curving-terraced-settlement/04-terrace-view.webp",
+        "assets/board/chaotic-era-curving-terraced-settlement/05-aerial-view.webp",
+        "assets/board/chaotic-era-curving-terraced-settlement/06-reference-poster.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/chaotic-era-curving-terraced-settlement/01-chaos-line-collage.webp"
+          ],
+          "captions": [
+            "Layered line collage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "層疊的線條拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project starts from the idea that people are both emotional and rational beings. A dense collage of lines and marks explores how order and disorder can sit together.",
+          "images": [
+            "assets/board/chaotic-era-curving-terraced-settlement/06-reference-poster.webp"
+          ],
+          "captions": [
+            "A film poster used as a reference."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個作品從「人同時是感性與理性的存在」這個想法出發。一幅密集的線條與記號拼貼，探討秩序與混亂如何並存。",
+              "captions": [
+                "作為參考的電影海報。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Free curves traced from living forms are used to loosen the rigid lines of conventional buildings. A hand sketch tests how these curves can wrap and grow over a built mass.",
+          "images": [
+            "assets/board/chaotic-era-curving-terraced-settlement/02-curve-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of curves growing over a building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以從生命形態中描摹出的自由曲線，鬆動傳統建築的僵硬線條。一張手繪草圖測試這些曲線如何包覆並生長於建築量體之上。",
+              "captions": [
+                "曲線生長於建築上的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A long section sets organic, curving forms against a stepped base and an industrial skyline. It shows complexity and contradiction as a richer choice than a single clear order.",
+          "images": [
+            "assets/board/chaotic-era-curving-terraced-settlement/03-long-section.webp"
+          ],
+          "captions": [
+            "Long section of the curving forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一張長剖面將有機的曲線形態置於階梯式基座與工業天際線之前。它呈現出複雜與矛盾，比單一清晰的秩序更為豐富。",
+              "captions": [
+                "曲線形態的長剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The renders show a settlement of stacked blocks with terraces, bridges and roof gardens. Paths and green roofs link the levels into one lively, layered place.",
+          "images": [
+            "assets/board/chaotic-era-curving-terraced-settlement/04-terrace-view.webp",
+            "assets/board/chaotic-era-curving-terraced-settlement/05-aerial-view.webp"
+          ],
+          "captions": [
+            "View across the terraces.",
+            "Aerial view of the settlement."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "渲染圖呈現一座由堆疊量體構成的聚落，配有露台、天橋與屋頂花園。步道與綠屋頂把各層連結成一個生動而多層次的場所。",
+              "captions": [
+                "橫越露台的視角。",
+                "聚落鳥瞰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a personal idea.\n2. Draw it freely as lines.\n3. Turn the lines into curves and mass.\n4. Test the form in section and views.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從個人的想法出發。\n2. 自由地以線條畫出來。\n3. 將線條轉化為曲線與量體。\n4. 以剖面與視角測試形態。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Urbanism of Nature: A Furniture Landscape Tower",
+      "slug": "urbanism-of-nature-furniture-landscape-tower",
+      "description": "Furniture forms are sliced into layers and stacked into a tower of flowing interior landscape.\n\nArchitecture | Interior landscape | Furniture study | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "自然的都市主義：家具地景塔樓",
+          "description": "將家具形態切分為圖層，堆疊成一座室內地景流動的塔樓。\n\n建築｜室內地景｜家具研究｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/urbanism-of-nature-furniture-landscape-tower/01-tower-model.webp",
+        "assets/board/urbanism-of-nature-furniture-landscape-tower/02-landscape-integration.webp",
+        "assets/board/urbanism-of-nature-furniture-landscape-tower/03-furniture-to-terrain.webp",
+        "assets/board/urbanism-of-nature-furniture-landscape-tower/04-layer-plans.webp",
+        "assets/board/urbanism-of-nature-furniture-landscape-tower/05-evolving-interior-layers.webp",
+        "assets/board/urbanism-of-nature-furniture-landscape-tower/06-interior-model-views.webp",
+        "assets/board/urbanism-of-nature-furniture-landscape-tower/07-acrylic-model-studies.webp",
+        "assets/board/urbanism-of-nature-furniture-landscape-tower/08-laser-cut-model.webp",
+        "assets/board/urbanism-of-nature-furniture-landscape-tower/09-tower-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/urbanism-of-nature-furniture-landscape-tower/01-tower-model.webp"
+          ],
+          "captions": [
+            "Model of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "塔樓模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Space and human behaviour shape each other, and furniture decides much of how people eat, rest and meet. The project asks how furniture could be turned into interior space itself.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "空間與人的行為彼此塑造，而家具在很大程度上決定了人們如何用餐、休息與相聚。這個作品探問家具如何能轉化為室內空間本身。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Everyday objects such as a lounge, table, chair, bathtub, sofa, bench and toilet were studied as shared forms. Their profiles were sliced into contour layers so they could become part of a terrain.",
+          "images": [
+            "assets/board/urbanism-of-nature-furniture-landscape-tower/03-furniture-to-terrain.webp"
+          ],
+          "captions": [
+            "Furniture forms sliced into contour layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "躺椅、桌子、椅子、浴缸、沙發、長凳與馬桶等日常物件被當作共通形態加以研究。它們的輪廓被切分為等高層，使其能成為地形的一部分。",
+              "captions": [
+                "切分為等高層的家具形態。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A basic slope was folded inward to invite conversation, with openings that give vertical circulation. Several layers were combined so the openings also bring in light and air.",
+          "images": [
+            "assets/board/urbanism-of-nature-furniture-landscape-tower/02-landscape-integration.webp",
+            "assets/board/urbanism-of-nature-furniture-landscape-tower/04-layer-plans.webp",
+            "assets/board/urbanism-of-nature-furniture-landscape-tower/05-evolving-interior-layers.webp"
+          ],
+          "captions": [
+            "Slope, inward flow and access diagrams.",
+            "Plans of the layered openings.",
+            "Exploded layers of the interior."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一個基本坡面向內折疊以促進交談，並以開口提供垂直動線。多個圖層疊合，使這些開口同時引入光線與空氣。",
+              "captions": [
+                "坡面、內向動線與可達性圖解。",
+                "層疊開口的平面。",
+                "室內的分解圖層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The layers stack into a tower whose floors flow like landscape, shown in section and in interior model views. Laser-cut acrylic and printed models test how the gradient ceilings shape the living space.",
+          "images": [
+            "assets/board/urbanism-of-nature-furniture-landscape-tower/09-tower-section.webp",
+            "assets/board/urbanism-of-nature-furniture-landscape-tower/06-interior-model-views.webp",
+            "assets/board/urbanism-of-nature-furniture-landscape-tower/07-acrylic-model-studies.webp",
+            "assets/board/urbanism-of-nature-furniture-landscape-tower/08-laser-cut-model.webp"
+          ],
+          "captions": [
+            "Section through the tower.",
+            "Interior model views with scale figures.",
+            "Acrylic model studies.",
+            "Laser-cut acrylic model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這些圖層堆疊成一座樓層如地景般流動的塔樓，以剖面與室內模型視角呈現。雷射切割壓克力與列印模型則測試漸變天花如何塑造居住空間。",
+              "captions": [
+                "塔樓剖面。",
+                "附比例人偶的室內模型視角。",
+                "壓克力模型研究。",
+                "雷射切割壓克力模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch how the body uses objects.\n2. Find the forms objects share.\n3. Slice them into layers.\n4. Stack the layers into space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察身體如何使用物件。\n2. 找出物件共通的形態。\n3. 將它們切分為圖層。\n4. 把圖層堆疊成空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
