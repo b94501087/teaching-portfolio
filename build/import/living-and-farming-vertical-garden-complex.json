@@ -1,0 +1,37 @@
+{
+  "project": "Living and Farming",
+  "dest": "assets/board/living-and-farming-vertical-garden-complex",
+  "note": "Portfolio f986 page 3 cropped to five images, WebP q88 (PIL). Not used: title and text, book cover, site photo.",
+  "files": [
+    {
+      "name": "01-farming-complex-model.webp",
+      "sha256": "84cea34d2c68186ec26ba61f5216ebb9f29cc81e1bfa40cb57cbe7561894ebbd",
+      "bytes": 72018,
+      "from": "f986 page 3 — farming complex model"
+    },
+    {
+      "name": "02-living-planting-purifying-diagram.webp",
+      "sha256": "9f37ab169d89b415b0a79e09c86feef5c739a6e36f8c485b0e87fedc42f9b9d1",
+      "bytes": 16844,
+      "from": "f986 page 3 — living planting purifying diagram"
+    },
+    {
+      "name": "03-model-sketch.webp",
+      "sha256": "1e2464ff0929ae1538014fd46442cd71972c3951ed997789f472da584e705e30",
+      "bytes": 39584,
+      "from": "f986 page 3 — model sketch"
+    },
+    {
+      "name": "04-model-details.webp",
+      "sha256": "46773d7ac62b54292edd0f21118f15e4fbb1ebdd40a432904f16fe8d6533ca85",
+      "bytes": 34644,
+      "from": "f986 page 3 — model details"
+    },
+    {
+      "name": "05-model-views.webp",
+      "sha256": "47b3083c63637464c668c502c434b63adf71bace49e6f7bdaffe7ae878f6705e",
+      "bytes": 46082,
+      "from": "f986 page 3 — model views"
+    }
+  ]
+}
