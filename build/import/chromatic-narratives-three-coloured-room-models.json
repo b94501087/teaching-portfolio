@@ -1,0 +1,49 @@
+{
+  "project": "Chromatic Narratives",
+  "dest": "assets/board/chromatic-narratives-three-coloured-room-models",
+  "note": "Portfolio 1390 pages 8-9 cropped to seven images, WebP q88 (PIL). Not used: title and text, reference painting, performance photos with people, process photo with the student.",
+  "files": [
+    {
+      "name": "01-blue-classroom.webp",
+      "sha256": "ad693a94dcedb4dcf4caacb8eb43f3dad3d569f711d6a01cebbb11ff59679bb0",
+      "bytes": 32990,
+      "from": "1390 page 9 — blue classroom"
+    },
+    {
+      "name": "02-brick-wall.webp",
+      "sha256": "689c8052a92fbf89d066a3fabf9459755fa8760f6f92b9681ec5e90bb80eefc0",
+      "bytes": 19698,
+      "from": "1390 page 8 — brick wall"
+    },
+    {
+      "name": "03-red-bedroom.webp",
+      "sha256": "0825d1f2143a8fed867a4a04b7c249a6872a899e95dde133a1e59a6d27e56952",
+      "bytes": 35246,
+      "from": "1390 page 9 — red bedroom"
+    },
+    {
+      "name": "04-white-hospital.webp",
+      "sha256": "c43542506322446c840ba5e09978c21a5cd36fbf7dfda1153b986dc71e2cb787",
+      "bytes": 72224,
+      "from": "1390 page 9 — white hospital"
+    },
+    {
+      "name": "05-classroom-detail.webp",
+      "sha256": "e48b675eacb4c2489c83f5145ce82532c094f638896fd865551a675ea483eb2c",
+      "bytes": 21658,
+      "from": "1390 page 9 — classroom detail"
+    },
+    {
+      "name": "06-bedroom-detail.webp",
+      "sha256": "c5b0253ae50ab794ba82586878496eeacd488081a9913ff01cee787ee2a9c241",
+      "bytes": 11240,
+      "from": "1390 page 9 — bedroom detail"
+    },
+    {
+      "name": "07-hospital-detail.webp",
+      "sha256": "b32e6f5118614562c73fa78b0cfd192d90cb14fb891f7a181f1d0b55b78dcb79",
+      "bytes": 22966,
+      "from": "1390 page 9 — hospital detail"
+    }
+  ]
+}
