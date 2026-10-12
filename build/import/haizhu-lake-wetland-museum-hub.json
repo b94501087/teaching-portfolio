@@ -1,0 +1,67 @@
+{
+  "project": "Haizhu Lake Wetland Museum Hub",
+  "dest": "assets/board/haizhu-lake-wetland-museum-hub",
+  "note": "Portfolio 734e pages 9-16 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title and tutor text, the scene photos, the strategy diagram with photo portraits, the eye-level renders with people and the body text.",
+  "files": [
+    {
+      "name": "01-wetland-hub-aerial.webp",
+      "sha256": "8d1c6b55c74bf6bf6e5d127c96b1a6591fd66a37407ad48234a1aef6c3aa7ebc",
+      "bytes": 534924,
+      "from": "734e page 9 — aerial render of the wetland hub"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "c899c8729ae19d621d9ad0f02a007b9eddc34e35a1ad73f4641d377eb977aa38",
+      "bytes": 370756,
+      "from": "734e page 10 — site analysis"
+    },
+    {
+      "name": "03-space-types.webp",
+      "sha256": "1dd969cb1a4bb9650f065a151e4c47f8b6720542077868b3754d976fef95f561",
+      "bytes": 194378,
+      "from": "734e page 11 — space type diagrams"
+    },
+    {
+      "name": "04-plant-status-analysis.webp",
+      "sha256": "136349975554a51d35313b8451131080d0e65d58932193cd191ce84957bb1fed",
+      "bytes": 249358,
+      "from": "734e page 12 — plant status analysis"
+    },
+    {
+      "name": "05-form-derivation.webp",
+      "sha256": "19d8e9f30dde915196cb337bbceec65493ef958c216441156e898746da73e62b",
+      "bytes": 117728,
+      "from": "734e page 12 — form derivation"
+    },
+    {
+      "name": "06-exploded-axonometric.webp",
+      "sha256": "c97466ce21a0507e8cc803d48087942b1c20ffa29b746e8dda7a172f0d55006a",
+      "bytes": 164302,
+      "from": "734e page 13 — exploded axonometric"
+    },
+    {
+      "name": "07-floor-plans.webp",
+      "sha256": "549e76e6b7801fdd5991662b8b34aca271985986ed2fa9364abc91bc1223578a",
+      "bytes": 208134,
+      "from": "734e page 14 — floor plans"
+    },
+    {
+      "name": "08-birds-eye-view.webp",
+      "sha256": "8fca9eef45d40368aa4096e1f080c55462357d7189212f841ac7705651995429",
+      "bytes": 278886,
+      "from": "734e page 14 — bird's-eye view"
+    },
+    {
+      "name": "09-wetland-museum-section.webp",
+      "sha256": "6c5af99622bdbacbc1527fe877a16efadf9b533e3d807c93d74ea6c3134edb31",
+      "bytes": 330896,
+      "from": "734e page 15 — wetland museum section"
+    },
+    {
+      "name": "10-physical-model.webp",
+      "sha256": "ed86c54ec81e20030cf7e121aceb4e09ca20258712e057d3fb74e22be68d3e46",
+      "bytes": 471702,
+      "from": "734e page 16 — physical model"
+    }
+  ]
+}
