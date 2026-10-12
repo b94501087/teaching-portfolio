@@ -1,0 +1,37 @@
+{
+  "project": "Summer Studio: Movement Model",
+  "dest": "assets/board/summer-studio-swinging-movement-pattern-model",
+  "note": "Portfolio e7c5 page 15 cropped to five images, WebP q88 (PIL). Not used: title and text, program name, photos of students posing.",
+  "files": [
+    {
+      "name": "01-movement-model.webp",
+      "sha256": "1f0e8fce135af9ef2a3df8a07b50b4de4c0faa8ddd0a897ddc04f598da666a9e",
+      "bytes": 62626,
+      "from": "e7c5 page 15 — movement model"
+    },
+    {
+      "name": "02-render-a.webp",
+      "sha256": "84b5739ae0f41d2ead86fa4659829b6e44e0ea56d3917b4cd1ae9efe9874509e",
+      "bytes": 10366,
+      "from": "e7c5 page 15 — render a"
+    },
+    {
+      "name": "03-render-b.webp",
+      "sha256": "f82482e81735a877e73af4c130179162b4eb6f4924ed4b573b88b0bc09adb72b",
+      "bytes": 8778,
+      "from": "e7c5 page 15 — render b"
+    },
+    {
+      "name": "04-motion-frames.webp",
+      "sha256": "66ac501bc22e8c49f815070edfacf690265065cdc4dc95c12e7173f19ff7f45b",
+      "bytes": 16562,
+      "from": "e7c5 page 15 — motion frames"
+    },
+    {
+      "name": "05-pattern-studies.webp",
+      "sha256": "592186a1bf07cc0f0cf5d07019899ace01604a25a3726cce3e67ff7bd89a6f17",
+      "bytes": 14620,
+      "from": "e7c5 page 15 — pattern studies"
+    }
+  ]
+}
