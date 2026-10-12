@@ -1,0 +1,67 @@
+{
+  "project": "Urban Street Renovation and Flyover Design",
+  "dest": "assets/board/street-renovation-and-flyover-tianhe",
+  "note": "Portfolio 37f4 pages 8–10 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the satellite images, the name and contact text, the site and street photos, the history and demand photo panels, the kapok flower photo, the flyover renders with figures, the old district photo collage, the plant photos, and the body text.",
+  "files": [
+    {
+      "name": "01-flyover-aerial-render.webp",
+      "sha256": "189a1bb25e1ce170fabc00edcfbdbda84355304869fe6ccdb7cbaec82f1eda8b",
+      "bytes": 159838,
+      "from": "37f4 page 9 — aerial render of the flyover, x 0–40 %, y 52–100 %"
+    },
+    {
+      "name": "02-plane-generation.webp",
+      "sha256": "150e2a988e3e1c3608811a10bde136d983749316deef3025b511c9f300b470c1",
+      "bytes": 32444,
+      "from": "page 9 — plane generation diagrams, x 0–27.5 %, y 0–18 %"
+    },
+    {
+      "name": "03-form-development.webp",
+      "sha256": "0a893ba46a659de082260379882cbc2edcb99abeabcb729580586fecdcfc1da5",
+      "bytes": 47232,
+      "from": "page 9 — form development diagrams, x 0–36 %, y 17.5–33.5 %"
+    },
+    {
+      "name": "04-activity-space-analysis.webp",
+      "sha256": "4f3cffba7a677f9ead59251d4a00b4ff2bf5b089ff3d8cf8021d16e23571a75e",
+      "bytes": 39578,
+      "from": "page 9 — activity space analysis, x 0–36 %, y 33.5–52 %"
+    },
+    {
+      "name": "05-traffic-flow-analysis.webp",
+      "sha256": "12f818cb7a9a0cef9c854b83d0ebc1bbd3d91b47d1c3c5448458de7bb65a10e9",
+      "bytes": 85572,
+      "from": "page 9 — traffic flow analysis, x 65.5–86 %, y 0–40 %"
+    },
+    {
+      "name": "06-flyover-exploded-view.webp",
+      "sha256": "72f057305845734af921d26df91152d5fa0500b993f1e1fefa49c43b9eb21a59",
+      "bytes": 24464,
+      "from": "page 9 — exploded view of the flyover, x 86–100 %, y 0–40 %"
+    },
+    {
+      "name": "07-flyover-section.webp",
+      "sha256": "c4170be818538e5a8b61bbe9e4ae80ae71444e267ee4f61553f433a51a45a1b6",
+      "bytes": 60464,
+      "from": "page 9 — section through the flyover, x 65.5–100 %, y 60–80 %"
+    },
+    {
+      "name": "08-general-layout.webp",
+      "sha256": "5975ce67cd03a67d75da0da9edff229d5a48750dea79e3127b8b39b12f756e9f",
+      "bytes": 29652,
+      "from": "page 9 — general layout, x 78–100 %, y 80–100 %"
+    },
+    {
+      "name": "09-street-renovation-plan.webp",
+      "sha256": "993540be5ab527133fe1e5774e625f686a3c7605673abae60435e1a404817e70",
+      "bytes": 169018,
+      "from": "page 10 — plan of the renovated street, x 50.5–65 %, y 0–90 %"
+    },
+    {
+      "name": "10-three-street-styles.webp",
+      "sha256": "3ea0a365275c9b1034be2b93764a7ac63da0c58123681dacf8bb4408085a5146",
+      "bytes": 96986,
+      "from": "page 10 — three street style axonometrics, x 65.5–100 %, y 24–43 %"
+    }
+  ]
+}
