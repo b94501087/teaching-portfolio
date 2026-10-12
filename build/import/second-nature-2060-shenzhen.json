@@ -1,0 +1,49 @@
+{
+  "project": "Second Nature 2060",
+  "dest": "assets/board/second-nature-2060-shenzhen",
+  "note": "Portfolio e4dc pages 4–6 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with a statue and city photos on page 3, the population charts and photo collage on page 4, the building photos and the site diagram with photos on page 5. No retouching.",
+  "files": [
+    {
+      "name": "01-firefly-vr-venue.webp",
+      "sha256": "1b81d7f27ad6577ca69e4697b3cc459a4e5343cd9ac5c2be82d6586ec6a33c65",
+      "bytes": 69460,
+      "from": "e4dc page 6 — rendering of the VR experience venue, x 2.5–24.8 %, y 31–95.5 %"
+    },
+    {
+      "name": "02-design-inspiration.webp",
+      "sha256": "0643edf3aef7fbab74e3192fcf0c998980632afc59a6d4630f1c16d90a8fb166",
+      "bytes": 82140,
+      "from": "page 4 — design inspiration, x 75.5–98.5 %, y 56–100 %"
+    },
+    {
+      "name": "03-building-blocks-from-local-cultures.webp",
+      "sha256": "3a44978c54844d3623e8dfc35bb70e6f7ef1873fecbac4398e9ef9fbfb427c31",
+      "bytes": 121740,
+      "from": "page 5 — design strategy and generation of building blocks, x 8.5–45 %, y 0–85 %"
+    },
+    {
+      "name": "04-app-guided-section.webp",
+      "sha256": "d73c8073bb7c4d884b6356f97a1fc4bd0dc51b4ad911a1ce2f470fafc5e066b1",
+      "bytes": 112132,
+      "from": "page 5 — app-guided exploded section, x 44–60 %, y 3–100 %"
+    },
+    {
+      "name": "05-functional-partition.webp",
+      "sha256": "a446b9e39794a58f23c4b4135a04fe4a4fdee2a2696bc4079cfe81e5fd3b1891",
+      "bytes": 44924,
+      "from": "page 5 — functional partition, x 61–100 %, y 50–100 %"
+    },
+    {
+      "name": "06-book-corner.webp",
+      "sha256": "b6fabe18d271ea2f8d4da562dc0749d4a125b622f7d06f35981a046eecbf3a6b",
+      "bytes": 87828,
+      "from": "page 6 — rendering of the book corner, x 29–62 %, y 31–95.5 %"
+    },
+    {
+      "name": "07-gallery-views.webp",
+      "sha256": "a2413dfed0dd7a893b08780d55c3111e1f3e878e6b6c3012a27fa540aa308441",
+      "bytes": 122268,
+      "from": "page 6 — gallery views, x 74.5–98 %, y 0–100 %"
+    }
+  ]
+}
