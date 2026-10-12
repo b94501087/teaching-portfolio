@@ -132,10 +132,95 @@ export function pinLevel(p) {
 }
 const BOARD_LANGS = ['en', 'zh-Hant'];
 const bl = (o, tag) => BOARD_LANGS.map(l => '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + esc(o[l]) + '</' + tag + '>').join('');
-const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".board");function set(f){[].forEach.call(document.querySelectorAll("[data-filter]"),function(x){var on=x.getAttribute("data-filter")===f;x.classList.toggle("on",on);x.setAttribute("aria-pressed",on?"true":"false")});' +
-  '[].forEach.call(b.querySelectorAll(".pin"),function(p){p.hidden=f!=="all"&&!p.classList.contains("lv-"+f)});b.setAttribute("data-filter",f);var e=document.querySelector(".board-empty");if(e)e.hidden=!!b.querySelector(".pin:not([hidden])");if(b.classList.contains("masonry"))dispatchEvent(new Event("resize"))}' +
-  'document.addEventListener("click",function(e){var x=e.target.closest&&e.target.closest("[data-filter]");if(!x)return;var f=x.getAttribute("data-filter");set(f);try{history.replaceState(null,"",f==="all"?location.pathname+location.search:"#"+f)}catch(z){}});' +
-  'var h=location.hash.slice(1);set(h==="master"||h==="undergrad"?h:"all")})();</script>\n';
+// Master sub-categories (content/categories.json: { slug: "architecture" | ... }), loaded by the board
+// page at runtime so the mapping lives apart from board.json. A master pin missing from it shows under All only.
+export const CATEGORIES = ['architecture', 'landscape', 'urban', 'interior', 'stage'];
+export const CATEGORY_FILTER = { all: { en: 'All', 'zh-Hant': '全部' }, architecture: { en: 'Architecture', 'zh-Hant': '建築' }, landscape: { en: 'Landscape', 'zh-Hant': '景觀' }, urban: { en: 'Urban', 'zh-Hant': '城市' }, interior: { en: 'Interior', 'zh-Hant': '室內' }, stage: { en: 'Stage', 'zh-Hant': '舞台' } };
+export const SORTS = ['default', 'newest', 'oldest', 'az', 'za'];
+export const SORT_LABEL = { default: { en: 'Default', 'zh-Hant': '預設' }, newest: { en: 'Newest', 'zh-Hant': '時間新→舊' }, oldest: { en: 'Oldest', 'zh-Hant': '時間舊→新' }, az: { en: 'A–Z', 'zh-Hant': '字母 A→Z' }, za: { en: 'Z–A', 'zh-Hant': '字母 Z→A' } };
+
+// Project date from the pin's meta line (last paragraph of the English description, e.g.
+// "Guangzhou, China | Campus architecture | Nov–Dec 2022 | Student Project | ..."), as year*100+month.
+// A range counts from its start; "Spring term 2023–2024" is the spring of 2024; a season maps to its first
+// month (Spring 3, Summer 6, Fall/Autumn 9, Winter 12); a bare year is month 0. No year = null (undated).
+const MONTHS = { jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6, jul: 7, aug: 8, sep: 9, oct: 10, nov: 11, dec: 12, spring: 3, summer: 6, fall: 9, autumn: 9, winter: 12 };
+export function pinMeta(p) {
+  const parts = str(p && p.description).replace(/\r\n?/g, '\n').split(/\n[ \t]*\n+/).map(x => x.trim()).filter(Boolean);
+  return parts.length ? parts[parts.length - 1] : '';
+}
+export function pinDate(p) {
+  const m = pinMeta(p);
+  if (!m.includes('|')) return null;
+  const ok = y => y >= 1990 && y <= 2039;
+  let r = /\b(spring|fall|autumn)\s+term\s+((?:19|20)\d\d)\s*[–-]\s*((?:19|20)\d\d)/i.exec(m);
+  if (r) { const sp = /spring/i.test(r[1]), y = +(sp ? r[3] : r[2]); if (ok(y)) return y * 100 + (sp ? 2 : 9); }
+  r = /\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|spring|summer|fall|autumn|winter)[a-z]*\b[^|\d]*?((?:19|20)\d\d)\b/i.exec(m);
+  if (r && ok(+r[2])) return +r[2] * 100 + MONTHS[r[1].toLowerCase()];
+  r = /\b((?:19|20)\d\d)\b/.exec(m);
+  if (r && ok(+r[1])) return +r[1] * 100;
+  return null;
+}
+
+// Board order -> requested order. items: [{ i: board index, date: number|null, title }].
+// Dated projects sort by date (ties keep board order); undated ones follow, in board (publish) order
+// for "oldest" and reversed for "newest". Titles compare case- and accent-insensitively.
+export const sortTitle = t => String(t || '').replace(/^[^\p{L}\p{N}]+/u, '');
+export function sortItems(items, how) {
+  const a = items.slice();
+  if (how === 'az' || how === 'za') {
+    const d = how === 'az' ? 1 : -1;
+    return a.sort((x, y) => d * sortTitle(x.title).localeCompare(sortTitle(y.title), 'en', { sensitivity: 'base', numeric: true }) || x.i - y.i);
+  }
+  if (how === 'newest' || how === 'oldest') {
+    const d = how === 'oldest' ? 1 : -1, has = v => v !== null && v !== undefined && v !== '';
+    return a.sort((x, y) => has(x.date) && has(y.date) ? d * (x.date - y.date) || x.i - y.i : has(x.date) ? -1 : has(y.date) ? 1 : d * (x.i - y.i));
+  }
+  return a.sort((x, y) => x.i - y.i);
+}
+
+// Hash state: "#master&cat=landscape&sort=newest"; the bare "#master" / "#undergrad" of the level filter still works.
+export function parseBoardHash(hash) {
+  const st = { f: 'all', cat: 'all', sort: 'default' };
+  for (const t of String(hash || '').replace(/^#/, '').split('&')) {
+    const [k, v] = t.split('=');
+    if (v === undefined) { if (LEVELS.includes(k)) st.f = k; }
+    else if (k === 'cat' && CATEGORIES.includes(v)) st.cat = v;
+    else if (k === 'sort' && SORTS.includes(v)) st.sort = v;
+  }
+  if (st.f !== 'master') st.cat = 'all';
+  return st;
+}
+export function boardHash(st) {
+  const t = [];
+  if (st.f && st.f !== 'all') t.push(st.f);
+  if (st.f === 'master' && st.cat && st.cat !== 'all') t.push('cat=' + st.cat);
+  if (st.sort && st.sort !== 'default') t.push('sort=' + st.sort);
+  return t.length ? '#' + t.join('&') : '';
+}
+// Which pins are shown: pin = { level, cat }.
+export function pinShown(pin, st) {
+  if (st.f === 'all') return true;
+  if (pin.level !== st.f) return false;
+  return st.f !== 'master' || st.cat === 'all' || pin.cat === st.cat;
+}
+
+const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".board"),L=' + JSON.stringify(LEVELS) + ',C=' + JSON.stringify(CATEGORIES) + ',S=' + JSON.stringify(SORTS) + ',st={f:"all",cat:"all",sort:"default"},pins=[].slice.call(b.querySelectorAll(".pin"));' +
+  'function parse(){var h=location.hash.slice(1).split("&"),s={f:"all",cat:"all",sort:"default"};h.forEach(function(t){var kv=t.split("=");if(kv.length<2){if(L.indexOf(t)>=0)s.f=t}else if(kv[0]==="cat"&&C.indexOf(kv[1])>=0)s.cat=kv[1];else if(kv[0]==="sort"&&S.indexOf(kv[1])>=0)s.sort=kv[1]});if(s.f!=="master")s.cat="all";return s}' +
+  'function hash(){var t=[];if(st.f!=="all")t.push(st.f);if(st.f==="master"&&st.cat!=="all")t.push("cat="+st.cat);if(st.sort!=="default")t.push("sort="+st.sort);return t.length?"#"+t.join("&"):""}' +
+  'function mark(a,v){[].forEach.call(document.querySelectorAll("["+a+"]"),function(x){var on=x.getAttribute(a)===v;x.classList.toggle("on",on);x.setAttribute("aria-pressed",on?"true":"false")})}' +
+  'function key(p){var d=p.getAttribute("data-date");return{p:p,i:+p.getAttribute("data-i"),date:d?+d:null,title:p.getAttribute("data-title")||""}}' +
+  'function order(){var a=pins.map(key),s=st.sort,has=function(v){return v!==null};' +
+  'if(s==="az"||s==="za"){var d=s==="az"?1:-1;a.sort(function(x,y){return d*x.title.localeCompare(y.title,"en",{sensitivity:"base",numeric:true})||x.i-y.i})}' +
+  'else if(s==="newest"||s==="oldest"){var e=s==="oldest"?1:-1;a.sort(function(x,y){return has(x.date)&&has(y.date)?e*(x.date-y.date)||x.i-y.i:has(x.date)?-1:has(y.date)?1:e*(x.i-y.i)})}' +
+  'else a.sort(function(x,y){return x.i-y.i});a.forEach(function(k){b.appendChild(k.p)})}' +
+  'function apply(){mark("data-filter",st.f);mark("data-cat-filter",st.cat);mark("data-sort",st.sort);var sub=document.querySelector(".subfilters");if(sub)sub.hidden=st.f!=="master";order();' +
+  'pins.forEach(function(p){p.hidden=st.f!=="all"&&(!p.classList.contains("lv-"+st.f)||st.f==="master"&&st.cat!=="all"&&p.getAttribute("data-cat")!==st.cat)});b.setAttribute("data-filter",st.f);b.setAttribute("data-cat",st.cat);b.setAttribute("data-sort",st.sort);' +
+  'var e=document.querySelector(".board-empty");if(e)e.hidden=!!b.querySelector(".pin:not([hidden])");if(b.classList.contains("masonry"))dispatchEvent(new Event("resize"))}' +
+  'function save(){try{history.replaceState(null,"",hash()||location.pathname+location.search)}catch(z){}}' +
+  'document.addEventListener("click",function(e){var c=e.target.closest&&e.target.closest("[data-filter],[data-cat-filter],[data-sort]");if(!c)return;' +
+  'if(c.hasAttribute("data-filter")){st.f=c.getAttribute("data-filter");st.cat="all"}else if(c.hasAttribute("data-cat-filter"))st.cat=c.getAttribute("data-cat-filter");else st.sort=c.getAttribute("data-sort");apply();save()});' +
+  'st=parse();apply();' +
+  'if(window.fetch)fetch("../content/categories.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var c=m[p.getAttribute("data-slug")];if(C.indexOf(c)>=0)p.setAttribute("data-cat",c)});apply()}).catch(function(){})})();</script>\n';
 
 export function renderBoard(site, board, opts) {
   const n = site.nav;
@@ -151,11 +236,15 @@ export function renderBoard(site, board, opts) {
     ['all', 'master', 'undergrad'].map(f => '<button type="button" data-filter="' + f + '"' + (f === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(LEVEL_FILTER[f], 'span') + '</button>').join('') +
     '</div><div class="langs" role="group" aria-label="Language">' +
     BOARD_LANGS.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l] || l) + '">' + esc(LANG_LABEL[l] || l) + '</button>').join('') + '</div></div>\n' +
+    '<div class="board-tools sub"><div class="filters subfilters" role="group" aria-label="Category" hidden>' +
+    ['all', ...CATEGORIES].map(c => '<button type="button" data-cat-filter="' + c + '"' + (c === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(CATEGORY_FILTER[c], 'span') + '</button>').join('') +
+    '</div><div class="sorts" role="group" aria-label="Sort">' +
+    SORTS.map(o => '<button type="button" data-sort="' + o + '"' + (o === 'default' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(SORT_LABEL[o], 'span') + '</button>').join('') + '</div></div>\n' +
     '<div class="board">\n';
-  for (const p of pins) {
-    const lv = pinLevel(p);
-    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span></a>\n';
-  }
+  pins.forEach((p, i) => {
+    const lv = pinLevel(p), d = pinDate(p);
+    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span></a>\n';
+  });
   h += '</div>\n<p class="board-empty" hidden>' + bl({ en: 'No projects in this category yet.', 'zh-Hant': '這個類別目前還沒有作品。' }, 'span') + '</p>\n';
   if (board.foot) h += '<p class="foot">' + inline(board.foot) + '</p>\n';
   if (anyBig) h += BOARD_MASONRY;

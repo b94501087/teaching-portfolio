@@ -23,6 +23,11 @@ body{margin:0;background:#f0f0f0;color:#111;font:14px/1.4 'Taipei Sans TC','Noto
 .board-tools button:hover,.board-tools button.on{color:#111}
 .board-tools button.on{text-decoration:underline;text-underline-offset:3px}
 .board-tools .langs{display:flex;gap:12px}
+.board-tools.sub{padding-top:2px}
+.board-tools .subfilters[hidden]{display:none}
+.board-tools .sorts{display:flex;flex-wrap:wrap;gap:6px 14px;margin-left:auto}
+.board-tools .subfilters button,.board-tools .sorts button{font-size:12px}
+@media(max-width:700px){.board-tools .sorts{margin-left:0}}
 .board-empty{padding:8px 16px 40px;margin:0;font-size:13px;color:#888}
 .board-empty[hidden]{display:none}
 /* landing page (site root): name + links, centred on white. Layout locked. */
