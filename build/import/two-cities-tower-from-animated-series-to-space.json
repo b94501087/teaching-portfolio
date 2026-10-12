@@ -1,0 +1,61 @@
+{
+  "project": "A Tower of Two Cities",
+  "dest": "assets/board/two-cities-tower-from-animated-series-to-space",
+  "note": "Portfolio 9caf pages 2-3 cropped to nine images, WebP q88 (PIL). Not used: title and text, series logo on the poster, series title and character names.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "f1a024b27862c62a5924b789cae6d691136e79c8508f513421dbb4e52e97cd31",
+      "bytes": 196584,
+      "from": "9caf page 3 — tower model"
+    },
+    {
+      "name": "02-series-poster.webp",
+      "sha256": "024576cf54d3207248fcb9041848f326785656dc43ff0e1ce91b62e663569a4b",
+      "bytes": 20294,
+      "from": "9caf page 2 — series poster"
+    },
+    {
+      "name": "03-stills-a.webp",
+      "sha256": "e601bdb9d2793232ddba54e969c7115caa833c463407263424565cdc43001b6f",
+      "bytes": 23140,
+      "from": "9caf page 2 — stills a"
+    },
+    {
+      "name": "04-storyline-sketch.webp",
+      "sha256": "03b89b912431509c8f558b02d0594b83a83eba8656e58a8c8a7d06f46fe26203",
+      "bytes": 80014,
+      "from": "9caf page 2 — storyline sketch"
+    },
+    {
+      "name": "05-stills-b.webp",
+      "sha256": "bc18dc4f68133b5c3ca9f251d85a4e64fa9c2af1be7e8ff42e2a33c7c171fcdd",
+      "bytes": 29164,
+      "from": "9caf page 2 — stills b"
+    },
+    {
+      "name": "06-process.webp",
+      "sha256": "b0fce3394b7000c1bbb26d1bc3e30ea1039fdf03e0f2d773bdf5e052104c2b42",
+      "bytes": 126410,
+      "from": "9caf page 2 — process"
+    },
+    {
+      "name": "07-detail-houses.webp",
+      "sha256": "af8e7b4d221f394834f027feb40c8598b4dd85d7480a3fa9de82e0db4357ece2",
+      "bytes": 27974,
+      "from": "9caf page 3 — detail houses"
+    },
+    {
+      "name": "08-house-drawing.webp",
+      "sha256": "4f60d2155b745d275a64eae3778f1f11de815a94020e8dfb13b0ce629495ab7b",
+      "bytes": 50556,
+      "from": "9caf page 3 — house drawing"
+    },
+    {
+      "name": "09-top-detail.webp",
+      "sha256": "c139b651c1781aba53b642399a4c5ae0b50aeca26322561ab7dfe1228f7673e9",
+      "bytes": 102438,
+      "from": "9caf page 3 — top detail"
+    }
+  ]
+}
