@@ -1,0 +1,61 @@
+{
+  "project": "Rooftop Farm in an Urban Village",
+  "dest": "assets/board/rooftop-farm-urban-village-shenzhen",
+  "note": "Portfolio c276 pages 15-18 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with a historical photo collage of public figures, the population maps on satellite images, the discourse diagrams with app logos, the circular map collage, and the body text.",
+  "files": [
+    {
+      "name": "01-rooftop-farm-render.webp",
+      "sha256": "03ade07099e4e2d7e1efc5115e1bf0599326b514e798a749b01c6153bd62a5a2",
+      "bytes": 265668,
+      "from": "c276 page 18 — rooftop farm in the urban village"
+    },
+    {
+      "name": "02-regulatory-planning-map.webp",
+      "sha256": "7ae6a8271697a01686512aab41a2d29e8f8d08dabfff562ace04bb617a046a09",
+      "bytes": 91098,
+      "from": "c276 page 15 — regulatory planning map"
+    },
+    {
+      "name": "04-urban-village-sections.webp",
+      "sha256": "e147ea845ce559deedf07b23a82524aa764ea141d67de767eb0240d84a6097c4",
+      "bytes": 126068,
+      "from": "c276 page 16 — urban village sections by day and night"
+    },
+    {
+      "name": "05-problem-and-solution.webp",
+      "sha256": "4ccdcadfb1a62e85b092f53bba7f51743dd8da9eee9dcd85e50cece103e240c8",
+      "bytes": 159462,
+      "from": "c276 page 16 — problem and solution diagrams"
+    },
+    {
+      "name": "06-sunlight-analysis.webp",
+      "sha256": "2d5ef7ff3eab44a0d58c77025c239cda9b0961e368f70e34fe714ab9f3604d6e",
+      "bytes": 104630,
+      "from": "c276 page 16 — site sunlight analysis"
+    },
+    {
+      "name": "07-building-systems.webp",
+      "sha256": "098cc273c5b0c5d811cbfae78047f1d3955bb45735cc56f064ea5e17113cad99",
+      "bytes": 134608,
+      "from": "c276 page 17 — structure, water and planting systems"
+    },
+    {
+      "name": "08-material-axonometric.webp",
+      "sha256": "87a18c5130bc598a874e38958f77eaa54effc6615fe7184c0d2776a6b40ea475",
+      "bytes": 181684,
+      "from": "c276 page 16 — material axonometric"
+    },
+    {
+      "name": "09-rooftop-canopies.webp",
+      "sha256": "4c5811ef2f19164491747efc5ef36340a0d841a01ab53a1e30bc4c5082a6b2cf",
+      "bytes": 115944,
+      "from": "c276 page 17 — rooftop canopies render"
+    },
+    {
+      "name": "10-rooftop-room-interior.webp",
+      "sha256": "36b0f028ba172865bbb396e69d281f6de8c00576e9966f3115dfbb55f3424bfd",
+      "bytes": 82116,
+      "from": "c276 page 18 — rooftop room interior"
+    }
+  ]
+}
