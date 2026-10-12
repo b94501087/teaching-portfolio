@@ -1,0 +1,67 @@
+{
+  "project": "Beacon of Hope",
+  "dest": "assets/board/beacon-of-hope-mobile-modular-school",
+  "note": "Portfolio de5b pages 3-6 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the cover and contents pages, the site photo, the activity photo circles, the supervisor line, and renders with photo cut-out people.",
+  "files": [
+    {
+      "name": "01-campus-plan.webp",
+      "sha256": "b2c5e03360b624efb2893a5b413250579a14ce87dfbb40c115f3c557d4c395fe",
+      "bytes": 88924,
+      "from": "de5b page 3 — campus plan"
+    },
+    {
+      "name": "02-layout-development.webp",
+      "sha256": "67b9814074bdbcd10289d0b6a900644807c51381e0ffcdb99dc353a9ad38c8c9",
+      "bytes": 63744,
+      "from": "de5b page 3 — layout development diagrams"
+    },
+    {
+      "name": "03-paper-folding-tests.webp",
+      "sha256": "85ffdf9e1021e433e7594e0cd68895b67b684bea05ea9e31ce93502ff90798b9",
+      "bytes": 23548,
+      "from": "de5b page 4 — paper folding tests"
+    },
+    {
+      "name": "04-foldable-window-sketches.webp",
+      "sha256": "64ffe87f7c79d07fee56658bb00283ebd86fa71dd8b6f36861759946cffb275c",
+      "bytes": 59566,
+      "from": "de5b page 4 — foldable window sketches"
+    },
+    {
+      "name": "05-structure-details.webp",
+      "sha256": "375b335386b4bb43cba7601fc0de2240e921a1609b68ad5cd497d0e79c685297",
+      "bytes": 29148,
+      "from": "de5b page 4 — structure details"
+    },
+    {
+      "name": "06-material-section.webp",
+      "sha256": "bf5156520353a1c95f4c210aa5c748edca735e334c951978a7e393281c1e9514",
+      "bytes": 47042,
+      "from": "de5b page 4 — material section"
+    },
+    {
+      "name": "07-exploded-axonometric.webp",
+      "sha256": "87d7d2d9cf4bc4a16d5aeda288ee2707ac12dfa13eed5f4cd02f0ad58de121e6",
+      "bytes": 84090,
+      "from": "de5b page 4 — exploded axonometric"
+    },
+    {
+      "name": "08-elevation-and-section.webp",
+      "sha256": "a33090ef9ccd87536bbd4854d86b57fbf84ccadf5423c1c50d009cd4fe3f10e9",
+      "bytes": 156476,
+      "from": "de5b page 5 — elevation and section"
+    },
+    {
+      "name": "09-environmental-analysis.webp",
+      "sha256": "d232a32ed0d09189aa41dba02a5a4ec0b96fd6b934cbaf6928ef2342be8e936d",
+      "bytes": 254854,
+      "from": "de5b page 6 — environmental analysis"
+    },
+    {
+      "name": "10-model-section.webp",
+      "sha256": "6ad72c08a42d8d4a4639620540685c29ca598d436e0747f8d18ffc63e2b6b846",
+      "bytes": 55268,
+      "from": "de5b page 6 — physical model section"
+    }
+  ]
+}
