@@ -1,0 +1,43 @@
+{
+  "project": "Redesigning a Civic Plaza",
+  "dest": "assets/board/civic-plaza-redesign-san-francisco-digital-model",
+  "note": "Portfolio f986 page 11 cropped to six images, WebP q88 (PIL). Not used: title and text, labelled site map, site photos, rock reference images.",
+  "files": [
+    {
+      "name": "01-plaza-perspective.webp",
+      "sha256": "701ab8e027f3ef18fa6100c14fddd6082f981b8372d5c264658d01b2ff2c862b",
+      "bytes": 32114,
+      "from": "f986 page 11 — plaza perspective"
+    },
+    {
+      "name": "02-green-zone-diagram.webp",
+      "sha256": "c266b0e106d892e0ab2fd39062a5c7371f1a8162c73a644a194d0c9619acfaf8",
+      "bytes": 12364,
+      "from": "f986 page 11 — green zone diagram"
+    },
+    {
+      "name": "03-route-diagram.webp",
+      "sha256": "84e08a41632fcca8842480bf6879b4baa97b3d308ebdfc07b1a7ed71d2146c4b",
+      "bytes": 12082,
+      "from": "f986 page 11 — route diagram"
+    },
+    {
+      "name": "04-plaza-plan-render.webp",
+      "sha256": "4f71c4247d87a99f4b40f106243e0712f13b6b3a5d78d05da2cba17b902bbca8",
+      "bytes": 18596,
+      "from": "f986 page 11 — plaza plan render"
+    },
+    {
+      "name": "05-fountain-court-render.webp",
+      "sha256": "dfbffdccae4db3607fcc41eb077d9ea59fa1df335cbf8713437d993e1867ceb5",
+      "bytes": 7956,
+      "from": "f986 page 11 — fountain court render"
+    },
+    {
+      "name": "06-terrace-render.webp",
+      "sha256": "b635172f2d6c76b13da01dd35f7df32c9bf0dcecd00fec0c4bfb1ccdff284d6d",
+      "bytes": 7236,
+      "from": "f986 page 11 — terrace render"
+    }
+  ]
+}
