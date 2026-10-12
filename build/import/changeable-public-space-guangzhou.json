@@ -1,0 +1,55 @@
+{
+  "project": "Changeable Public Space in Guangzhou",
+  "dest": "assets/board/changeable-public-space-guangzhou",
+  "note": "Portfolio c9aa pages 23–26 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title photo collage on page 21, the user analysis with photos of people on page 21, the site photos and satellite tiles on page 22, the interview photos and street renderings with photo people on page 23, the bamboo seating photo and the 1:1 model photos with people on page 24, the rendering with photo people on page 25, and a product brand label on page 25. No retouching.",
+  "files": [
+    {
+      "name": "01-modular-landscape-axonometric.webp",
+      "sha256": "fb674b8d7fa70baf997a478c23f6b44a8d2c932de332ae3f8456e0998c72e6fb",
+      "bytes": 446358,
+      "from": "c9aa page 26 — modular units forming a landscape, axonometric, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-pavilion-construction-steps.webp",
+      "sha256": "85c00e736fbe5c996f1585d27032e80fff0de7c663cfdef48e0fba403bf81332",
+      "bytes": 103042,
+      "from": "page 23 — construction steps of the sports pavilion, x 50–100 %, y 42–65 %"
+    },
+    {
+      "name": "03-pull-down-sports-frames.webp",
+      "sha256": "724217820dfe55d5d0b08a94b53329a27555c388eb0c82aa6d92607603e28a8a",
+      "bytes": 182928,
+      "from": "page 23 — pull-down rope frames for sports, x 50–93 %, y 65–100 %"
+    },
+    {
+      "name": "04-bamboo-ceiling-exploded.webp",
+      "sha256": "64851bf42f9857adc05b5956674e6dc1ebb8b668529adee20b9a4eeeb088a218",
+      "bytes": 128948,
+      "from": "page 24 — exploded view of the bamboo ceiling seating, x 27–50 %, y 0–48 %"
+    },
+    {
+      "name": "05-gathering-points-aerial.webp",
+      "sha256": "e6986d9b071848af9ae2223f4a44ef04ab1e5aa296089e7bc20bad46c56740bf",
+      "bytes": 296248,
+      "from": "page 24 — aerial view of the sites and their functions, x 0–50 %, y 48–100 %"
+    },
+    {
+      "name": "06-rotating-boxes-and-structure.webp",
+      "sha256": "571f4b6d940b8cfccf54139b8fedc0fe7c354d0db6cba997dcc5ac60af16b176",
+      "bytes": 274348,
+      "from": "page 25 — day and night plans, function analysis and wooden joint study models, x 0–72 %, y 42–100 %"
+    },
+    {
+      "name": "07-frame-and-store-structure.webp",
+      "sha256": "39a9196ba11464ff274ddac4f13eb5afda2ae065512c3994bf8d31920b88c593",
+      "bytes": 229722,
+      "from": "page 25 — structure analysis of the frame and boxes, x 72–100 %, y 42–92.5 %"
+    },
+    {
+      "name": "08-triangle-units-and-section.webp",
+      "sha256": "67d63097c556906ae842640465c9b3ffb7e818f820b74bca4d919e3a488cb1af",
+      "bytes": 280492,
+      "from": "page 26 — triangular units, plans and section, x 0–50 %, y 0–100 %"
+    }
+  ]
+}
