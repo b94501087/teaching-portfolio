@@ -1,0 +1,49 @@
+{
+  "project": "Vertical Garden",
+  "dest": "assets/board/vertical-garden-knitted-micro-ecosystem",
+  "note": "Portfolio 2cd4 pages 5-6 cropped to seven images, WebP q88 (PIL). Not used: title and body text, photo of the student with the work (cropped to the work only).",
+  "files": [
+    {
+      "name": "01-final-wall.webp",
+      "sha256": "b2e435ab42663b7013db593c8332b466826a36a37909a3ec70f99383318414c5",
+      "bytes": 111742,
+      "from": "2cd4 page 6 — final garden wall"
+    },
+    {
+      "name": "02-materials.webp",
+      "sha256": "abd71e8db38a910186624634fb96317b18f9e06ad1568bc0e4118c2667b069b2",
+      "bytes": 31538,
+      "from": "2cd4 page 5 — collected natural materials"
+    },
+    {
+      "name": "03-wetness-tests.webp",
+      "sha256": "1c048a255205f8c07f4b9bf4be73b0a2d9bd9f1d669ecdfb5ca5626be22a5532",
+      "bytes": 55342,
+      "from": "2cd4 page 5 — wetness and planting tests"
+    },
+    {
+      "name": "04-knitted-panels.webp",
+      "sha256": "5899259dafd30721906dec302e5bca41a96156dd1b4bd28602610c20cc343936",
+      "bytes": 114702,
+      "from": "2cd4 page 5 — knitted micro-ecosystem panels"
+    },
+    {
+      "name": "05-planted-panels.webp",
+      "sha256": "ceeabc0cc2f2c050217adf1f7f151e26a538fa15ce63882a5fc24f69b494e0dd",
+      "bytes": 94354,
+      "from": "2cd4 page 5 — planted panels"
+    },
+    {
+      "name": "06-close-up.webp",
+      "sha256": "937ebb17429798e6c2ac7b3972e74ee66b38026a22db1a145e6e1d0bae280502",
+      "bytes": 69176,
+      "from": "2cd4 page 6 — close-up of the growth"
+    },
+    {
+      "name": "07-growing-process.webp",
+      "sha256": "83140bb0f5f673abe6da1073bda1accf3bf87b8e78fb2ef790cbfa45e1794f1a",
+      "bytes": 89378,
+      "from": "2cd4 page 6 — growing process"
+    }
+  ]
+}
