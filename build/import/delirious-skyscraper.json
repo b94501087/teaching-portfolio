@@ -1,0 +1,67 @@
+{
+  "project": "The Delirious Skyscraper",
+  "dest": "assets/board/delirious-skyscraper",
+  "note": "Portfolio 2ce6 pages 6–10 cropped to ten images, WebP q88 (PIL), max 2000 px wide. Not used: the title page with rock photos and the rock photo table on page 6, the city observation collage with street photos and the reference building photo on page 7, the historical drawing on page 8, and the floor view renderings on page 10. No retouching.",
+  "files": [
+    {
+      "name": "01-space-dream.webp",
+      "sha256": "8d09523a81dddaee1cc5474aa57d89b28d3dc279896c864973fb65f3a2b4e004",
+      "bytes": 818456,
+      "from": "2ce6 page 8 — the space dream axonometric, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "02-stripe-and-blocks.webp",
+      "sha256": "ee8436b2af64536bbd483bf0c10a2dc2201af8ef34dcdb1ff1b2f453ed8fe178",
+      "bytes": 64784,
+      "from": "page 6 — stripe pattern and block models, x 50–69.5 %, y 0–100 %"
+    },
+    {
+      "name": "03-porosity-and-layer-patterns.webp",
+      "sha256": "f10c2e207280325bd3b9e947fc5297f6807f201f8ff9fa487174e1fb1a3e7072",
+      "bytes": 235976,
+      "from": "page 6 — porosity and layer patterns, x 69.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "04-expanded-block.webp",
+      "sha256": "8c6bf4313c4f8d803d131ea398d06f041784861de1c75b00bca1e83ad476c88b",
+      "bytes": 84914,
+      "from": "page 7 — patterns and expanded block, x 66.5–80 %, y 0–100 %"
+    },
+    {
+      "name": "05-plank-wave.webp",
+      "sha256": "a719e1949e3862db307eccb47f0cb6721c565de6c1c2d2b9fd629636e644f7d1",
+      "bytes": 128798,
+      "from": "page 7 — plank wave, x 80–100 %, y 0–100 %"
+    },
+    {
+      "name": "06-walls-and-windows.webp",
+      "sha256": "8a3234e0a1f3e4a02456c5fa1af4033b8f1fe728ebbed22bd38790568ab02bfc",
+      "bytes": 225790,
+      "from": "page 8 — walls and windows catalogue, x 12.5–50 %, y 0–100 %"
+    },
+    {
+      "name": "07-model-and-exploded-axonometric.webp",
+      "sha256": "b9163af33c3809903b1d43bae2aea571e088fcaf4f48457137c24f288a7f30af",
+      "bytes": 349394,
+      "from": "page 9 — model and exploded axonometric, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "08-vertical-section.webp",
+      "sha256": "200dc5cd05755992e9d6896d79a8081ed6610a302f2e3321ed086f94148cb581",
+      "bytes": 191954,
+      "from": "page 9 — vertical section, x 55–100 %, y 0–100 %"
+    },
+    {
+      "name": "09-exploded-perspective.webp",
+      "sha256": "d6a585e0c0322332eeb48a16d0c97874f1a1fd46906ccf64ed7962c06effa66b",
+      "bytes": 342068,
+      "from": "page 10 — rendered exploded perspective, x 0–36 %, y 0–100 %"
+    },
+    {
+      "name": "10-floor-plans.webp",
+      "sha256": "a2d22d14e29d42b27d981839ed7ec031f33414200fc74916fa9bb62230317a18",
+      "bytes": 180710,
+      "from": "page 10 — floor plans, x 62.5–100 %, y 0–100 %"
+    }
+  ]
+}
