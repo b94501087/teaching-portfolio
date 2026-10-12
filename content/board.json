@@ -21003,6 +21003,431 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Danan Eco-Park",
+      "slug": "danan-eco-park",
+      "description": "An eco-park that resists urban erosion and shelters birds, plants and stormwater.\n\nTaoyuan, Taiwan | Landscape | Eco-park | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "大湳生態公園",
+          "description": "一座抵抗都市侵蝕、庇護鳥類、植物與雨水的生態公園。\n\n台灣桃園｜景觀設計｜生態公園｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/danan-eco-park/01-master-plan.webp",
+        "assets/board/danan-eco-park/02-green-structure.webp",
+        "assets/board/danan-eco-park/03-population-density.webp",
+        "assets/board/danan-eco-park/04-bubble-diagram.webp",
+        "assets/board/danan-eco-park/05-circulation-analysis.webp",
+        "assets/board/danan-eco-park/06-building-character.webp",
+        "assets/board/danan-eco-park/07-habitat-sections.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/danan-eco-park/01-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan of the eco-park, with a central detention pond, woodland, bird reserve and community buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "生態公園總平面圖，包含中央滯洪池、林地、鳥類保護區與社區建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site lies where urban and non-urban land meet in Bade District, and rapid urbanization has severely eroded the area's ecological resources. The park was asked to resist this erosion and give plants and animals a place to thrive.",
+          "images": [
+            "assets/board/danan-eco-park/02-green-structure.webp",
+            "assets/board/danan-eco-park/03-population-density.webp"
+          ],
+          "captions": [
+            "Green structure of the district: the central green network is missing.",
+            "Population density around the site, where demand for park space is high."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基地位於八德區都市與非都市土地的交界，快速的都市化使當地的生態資源嚴重流失。這座公園被賦予抵抗侵蝕的任務，為動植物提供生長棲息的空間。",
+              "captions": [
+                "區域綠色結構：中央的綠色網絡是缺失的。",
+                "基地周邊的人口密度，對公園綠地的需求很高。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Map studies showed that the district's natural ponds had shrunk sharply as the city grew. The former military base on the site had meanwhile grown into a rich ecosystem that now attracts endangered orioles.",
+          "images": [
+            "assets/board/danan-eco-park/04-bubble-diagram.webp"
+          ],
+          "captions": [
+            "Bubble diagram linking entrance squares, playgrounds, birdwatching and elderly care."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "地圖研究顯示，隨著城市擴張，區內的自然埤塘大幅減少。基地上原有的軍事基地則逐漸發展出豐富的生態系統，如今吸引了瀕危的黃鸝棲息。",
+              "captions": [
+                "泡泡圖，連結入口廣場、遊戲場、賞鳥區與長照中心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Two main entrances in the north and south are tied by one main road, and only a single road crosses the park to limit disturbance to the ecological core. Retained buildings are reused as a community center, a children's library, an elderly care center and a birdwatching post.",
+          "images": [
+            "assets/board/danan-eco-park/05-circulation-analysis.webp",
+            "assets/board/danan-eco-park/06-building-character.webp"
+          ],
+          "captions": [
+            "Circulation analysis with the two main entrances and activity spots.",
+            "Building character: retained buildings and their new uses."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "南北兩個主要入口以一條主要道路串連，僅有一條道路穿越公園，以減少對生態核心的干擾。保留下來的建築被改造成社區中心、兒童圖書館、長照中心與賞鳥據點。",
+              "captions": [
+                "動線分析，標示兩個主要入口與活動節點。",
+                "建築性格：保留建築與其新用途。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Dense woodland, light woodland, grassland and a detention basin each shelter different birds, insects and small animals. The lawn at the center of the park is lowered into a basin that stays dry for recreation most of the year and holds stormwater during heavy rain.",
+          "images": [
+            "assets/board/danan-eco-park/07-habitat-sections.webp"
+          ],
+          "captions": [
+            "Sections of the four habitats: dense woodland, light woodland, grassland and detention basin."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "密林、疏林、草地與滯洪池，各自為不同的鳥類、昆蟲與小動物提供棲地。公園中央的草坪下降成一處滯洪池，平時保持乾燥供休閒使用，豪雨時則暫時蓄存雨水。",
+              "captions": [
+                "四種棲地的剖面：密林、疏林、草地與滯洪池。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map what the city has lost.\n2. Protect the ecological core first.\n3. Reuse what already stands.\n4. Let the ground hold the rain.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 標出城市失去的東西。\n2. 先守護生態核心。\n3. 再利用既有的建築。\n4. 讓地形承接雨水。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Community Rescue Program",
+      "slug": "community-rescue-program-zhangzhou",
+      "description": "Urban acupuncture that reconnects a community about to be split by a new road.\n\nZhangzhou, China | Urban design | Community renewal | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "社區拯救計畫",
+          "description": "以城市針灸重新串連一個即將被新道路切開的社區。\n\n中國漳州｜都市設計｜社區更新｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/community-rescue-program-zhangzhou/01-divided-communities.webp",
+        "assets/board/community-rescue-program-zhangzhou/02-new-commercial-form.webp",
+        "assets/board/community-rescue-program-zhangzhou/03-typology.webp",
+        "assets/board/community-rescue-program-zhangzhou/04-street-sections.webp",
+        "assets/board/community-rescue-program-zhangzhou/05-architectural-types.webp",
+        "assets/board/community-rescue-program-zhangzhou/06-community-axonometric.webp",
+        "assets/board/community-rescue-program-zhangzhou/07-underpass-plaza.webp",
+        "assets/board/community-rescue-program-zhangzhou/08-landscape-bridges.webp",
+        "assets/board/community-rescue-program-zhangzhou/09-raised-park.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/community-rescue-program-zhangzhou/06-community-axonometric.webp"
+          ],
+          "captions": [
+            "Axonometric of the community blocks opened up to the commercial street."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "社區街廓向商業街打開的軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A community in Zhangzhou, already split into three neighborhoods by its waterways, was about to be cut in two by a planned new road. The project set out to rescue the community by reconnecting its villages across the road.",
+          "images": [
+            "assets/board/community-rescue-program-zhangzhou/01-divided-communities.webp"
+          ],
+          "captions": [
+            "Current communities and the future split caused by the new road."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "漳州一處社區原本就被水系分成三個鄰里，如今又將被一條規劃中的新道路一分為二。這個專案希望透過跨越道路、重新串連各個村落，來拯救這個社區。",
+              "captions": [
+                "現況社區，以及新道路將造成的分割。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student mapped circulation and shop types along the old Shimei Street, where catering and food dominate and many stalls spill out in front of the shops. Commercial vitality fades toward the southern end once the morning market disperses.",
+          "images": [
+            "assets/board/community-rescue-program-zhangzhou/02-new-commercial-form.webp",
+            "assets/board/community-rescue-program-zhangzhou/03-typology.webp"
+          ],
+          "captions": [
+            "New commercial form: retail and catering in the north, the fresh market in the middle and new uses in the south.",
+            "Typology of shop fronts, stalls and courtyards."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生調查了這條老街沿線的動線與店鋪類型，餐飲是主要業態，許多攤位擺到了店面前方。早市散去後，街道南端的商業活力明顯減弱。",
+              "captions": [
+                "新的商業形態：北段零售與餐飲、中段生鮮市場、南段注入新用途。",
+                "店面、攤位與院落的類型學。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Using urban acupuncture, the design works at several scales along two lines: a commercial line on the old street and an ecological line along the river. Local houses, self-built houses and verandas are transformed and combined so that buildings share their interfaces with the community.",
+          "images": [
+            "assets/board/community-rescue-program-zhangzhou/04-street-sections.webp",
+            "assets/board/community-rescue-program-zhangzhou/05-architectural-types.webp"
+          ],
+          "captions": [
+            "Sections of the commercial street and the life street.",
+            "Original and new architectural types: optimizing, sharing and connecting buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "設計以城市針灸的方法，在不同尺度上沿兩條主線展開：老街上的商業線，以及沿河的生態線。在地古厝、自建房與騎樓被轉化與組合，讓建築與社區共享介面。",
+              "captions": [
+                "商業街與生活街的剖面。",
+                "原有與新的建築類型：優化、共享與連結建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Where the new road crosses the old street, a sunken underpass plaza lets people keep walking and hosts stalls, steps and daily leisure. Along the river, landscape bridges and a raised pedestrian park over an urban wetland reconnect the divided neighborhoods.",
+          "images": [
+            "assets/board/community-rescue-program-zhangzhou/07-underpass-plaza.webp",
+            "assets/board/community-rescue-program-zhangzhou/08-landscape-bridges.webp",
+            "assets/board/community-rescue-program-zhangzhou/09-raised-park.webp"
+          ],
+          "captions": [
+            "Underpass commercial plaza with flexible venues for steps, stalls and a sunken plaza.",
+            "Eco theme line along the river, with three landscape bridges.",
+            "Pedestrian raised park with wooden decks over an urban wetland."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在新道路與老街交會處，下沉的地下通道廣場讓人們可以繼續步行，並容納攤位、階梯與日常休閒。沿著河岸，景觀橋與架高於都市濕地之上的步行公園，重新連結被分隔的鄰里。",
+              "captions": [
+                "地下通道商業廣場，設有階梯、臨時攤位與下沉廣場等彈性場地。",
+                "沿河的生態主題線，以及三座景觀橋。",
+                "架高的步行公園，木棧道橫跨都市濕地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. See what a new road will cut.\n2. Study how the street really trades.\n3. Act at several scales at once.\n4. Stitch the edges back together.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 看清新道路會切斷什麼。\n2. 研究街道真實的交易方式。\n3. 同時在多個尺度上介入。\n4. 把被切開的邊界重新縫合。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Tank Hsinchu",
+      "slug": "tank-hsinchu-recreation-park",
+      "description": "A tank recreation park with a red skywalk on a former military site.\n\nHsinchu, Taiwan | Landscape | Recreation park | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "新竹儲槽公園",
+          "description": "一座在舊軍事用地上、以紅色空中步道串連的儲槽休閒公園。\n\n台灣新竹｜景觀設計｜休閒公園｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tank-hsinchu-recreation-park/01-master-plan.webp",
+        "assets/board/tank-hsinchu-recreation-park/02-urban-open-space.webp",
+        "assets/board/tank-hsinchu-recreation-park/03-landuse.webp",
+        "assets/board/tank-hsinchu-recreation-park/04-residents-needs.webp",
+        "assets/board/tank-hsinchu-recreation-park/05-terrain-and-trees.webp",
+        "assets/board/tank-hsinchu-recreation-park/06-floor-plans.webp",
+        "assets/board/tank-hsinchu-recreation-park/07-zone-analysis.webp",
+        "assets/board/tank-hsinchu-recreation-park/08-sectional-axonometric.webp",
+        "assets/board/tank-hsinchu-recreation-park/09-tank-sections.webp",
+        "assets/board/tank-hsinchu-recreation-park/10-skywalk-elevation.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tank-hsinchu-recreation-park/01-master-plan.webp"
+          ],
+          "captions": [
+            "Master plan of the tank park, wrapped by a raised running track."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "儲槽公園總平面圖，由一條架高的跑道環繞。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The site in Hsinchu was a former military site long closed to the public, while the surrounding area lacked open space and suffered from ecological fragmentation. The project set out to turn it into a public, multifunctional park for sports and leisure that benefits the whole neighborhood.",
+          "images": [
+            "assets/board/tank-hsinchu-recreation-park/02-urban-open-space.webp",
+            "assets/board/tank-hsinchu-recreation-park/03-landuse.webp"
+          ],
+          "captions": [
+            "Urban open space: the site is covered with soil and lush vegetation.",
+            "Landuse around the site, mainly education and residential land."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "新竹的基地是一處長期不對外開放的舊軍事用地，而周邊地區缺乏開放空間，生態也呈現破碎化。這個專案希望把它轉變為一座公共、多功能的運動與休閒公園，讓整個鄰里受益。",
+              "captions": [
+                "都市開放空間：基地覆蓋著土壤與茂密植被。",
+                "基地周邊的土地使用，以教育與住宅用地為主。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Surveys of space attributes showed that nearby residents and students had a specific demand for open venues. Terrain studies found a T-shaped depression and many trees worth preserving, and all four tanks on the site are covered with soil.",
+          "images": [
+            "assets/board/tank-hsinchu-recreation-park/04-residents-needs.webp",
+            "assets/board/tank-hsinchu-recreation-park/05-terrain-and-trees.webp"
+          ],
+          "captions": [
+            "Space attribute and residents' need for activity spaces.",
+            "Energy value of people, elevation and preserved trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "空間屬性調查顯示，周邊居民與學生對開放場地有明確的需求。地形研究發現了T字形的凹地與許多值得保留的樹木，基地上的四座儲槽也都覆蓋著土壤。",
+              "captions": [
+                "空間屬性與居民對活動空間的需求。",
+                "人群活力值、地形高程與保留樹木。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The four tanks become a children's activity center, a restaurant and cafe, a climbing gym and a service center. Functional, planting, sports zone and elevation studies arrange running, walking, playground and training areas around them.",
+          "images": [
+            "assets/board/tank-hsinchu-recreation-park/06-floor-plans.webp",
+            "assets/board/tank-hsinchu-recreation-park/07-zone-analysis.webp"
+          ],
+          "captions": [
+            "Ground and upper floor plans of the tanks.",
+            "Functional analysis, plants design, sports zone analysis and elevation design."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "四座儲槽分別轉化為兒童活動中心、餐廳與咖啡館、攀岩館與服務中心。機能、植栽、運動分區與高程的研究，則在它們周圍安排了跑步、散步、遊戲場與訓練區。",
+              "captions": [
+                "儲槽的地面層與上層平面圖。",
+                "機能分析、植栽設計、運動分區分析與高程設計。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Half-buried tanks open into sunlit rooms beneath a green landscape, while a red skywalk loops above the trees and touches the ground in four places. A spiral staircase at the entrance plaza connects the levels and doubles as a viewing platform.",
+          "images": [
+            "assets/board/tank-hsinchu-recreation-park/08-sectional-axonometric.webp",
+            "assets/board/tank-hsinchu-recreation-park/09-tank-sections.webp",
+            "assets/board/tank-hsinchu-recreation-park/10-skywalk-elevation.webp"
+          ],
+          "captions": [
+            "Sectional axonometric through the tanks and the skywalk.",
+            "Sections of the four tanks: children's center, restaurant and cafe, climbing gym and service center.",
+            "Elevation of the skywalk across the site."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "半埋於地下的儲槽在綠色地景下開出明亮的空間，紅色的空中步道則在樹梢上環繞，並在四處落地。入口廣場的螺旋樓梯串連上下層，也是一處觀景平台。",
+              "captions": [
+                "穿過儲槽與空中步道的剖軸測圖。",
+                "四座儲槽的剖面：兒童中心、餐廳與咖啡館、攀岩館與服務中心。",
+                "橫跨基地的空中步道立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Open closed ground to everyone.\n2. Read the terrain and the trees.\n3. Give old structures new uses.\n4. Tie the park together with one loop.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把封閉的土地向所有人打開。\n2. 讀懂地形與樹木。\n3. 賦予舊結構新的用途。\n4. 用一條環線串起整座公園。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
