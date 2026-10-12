@@ -1,0 +1,61 @@
+{
+  "project": "Activation of a Boiler House",
+  "dest": "assets/board/activation-of-a-boiler-house",
+  "note": "Portfolio 871cf73b pages 10–12 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title block with instructor credit on page 10, the site analysis and historical photos, the photo of a person laying out bagasse and the material process photos on page 11, the brick experiment panel with reference photo insets, the element extraction photos, and the renderings with photo figures on page 12. No retouching.",
+  "files": [
+    {
+      "name": "01-bagasse-structure-model.webp",
+      "sha256": "f2343f306fb9154ac24ede4fc7eaddbba6090f911c75f4ce6b573e521c6f016d",
+      "bytes": 197852,
+      "from": "871cf73b page 10 — structure model photo, x 0–26.2 %, y 0–100 %"
+    },
+    {
+      "name": "02-site-axonometric.webp",
+      "sha256": "337794e3f6790aa956bbb8f5e1f19e311448a4f8f36b332cfffe6eab73b50494",
+      "bytes": 314268,
+      "from": "page 10 — site axonometric with the boiler house, x 79.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "03-bagasse-ratio-tests.webp",
+      "sha256": "a5bf60a7f7612621b70c0c500b9996ad4c9c7e2ef68845ef5d9b235f5f677dde",
+      "bytes": 150296,
+      "from": "page 11 — bagasse ratio tests, x 26.5–49.5 %, y 2–99 %"
+    },
+    {
+      "name": "04-brick-making-steps.webp",
+      "sha256": "f6772cced1b8cce43e87bc7cfb83215916d2c55ac5b2d71b405c23f77d60d41d",
+      "bytes": 140828,
+      "from": "page 11 — brick making steps, x 80–100 %, y 0–100 %"
+    },
+    {
+      "name": "05-inspiration.webp",
+      "sha256": "4a9017a9c6a94243698fa75f235598bc29c2bd470642680e4555bd726f7f984e",
+      "bytes": 98948,
+      "from": "page 12 — inspiration, site context and problem, x 0–18.5 %, y 0–50 %"
+    },
+    {
+      "name": "06-morphological-examination.webp",
+      "sha256": "2fd04c6ecaa51eda39962d944973a2124fd56bf8e84f3025c43820cbc2902c0b",
+      "bytes": 230460,
+      "from": "page 12 — morphological examination grid, x 19–39.5 %, y 0–100 %"
+    },
+    {
+      "name": "07-streamline-organization.webp",
+      "sha256": "4085ad2aaca69c961cfe7e0258104a8a2a9bc6c5108b487a6396edc9ae7b242a",
+      "bytes": 41360,
+      "from": "page 12 — streamline organization, x 40–49.5 %, y 0–100 %"
+    },
+    {
+      "name": "08-exploded-axonometric.webp",
+      "sha256": "fccf9347e7d659c99150876d8b0bce87ebabf9eadefdd48c742b5f447a0df5d6",
+      "bytes": 29784,
+      "from": "page 12 — exploded axonometric of the inserted forms, x 50.5–61.5 %, y 50–81 %"
+    },
+    {
+      "name": "09-model-photos.webp",
+      "sha256": "1e1641f310d8bd4492f84307fb7f19948c25b743781e5a79a3be5487b11f6504",
+      "bytes": 233316,
+      "from": "page 12 — physical model photos, x 83.3–100 %, y 0–100 %"
+    }
+  ]
+}
