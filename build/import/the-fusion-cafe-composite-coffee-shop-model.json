@@ -1,0 +1,37 @@
+{
+  "project": "The Fusion Cafe",
+  "dest": "assets/board/the-fusion-cafe-composite-coffee-shop-model",
+  "note": "Portfolio f986 page 2 cropped to five images, WebP q88 (PIL). Not used: title and text, sketch of a shop sign.",
+  "files": [
+    {
+      "name": "01-cafe-model.webp",
+      "sha256": "f9f50f3fc9456bbd12527d93ab112957293b718620184f7ba719366f06b0bb8c",
+      "bytes": 80888,
+      "from": "f986 page 2 — cafe model"
+    },
+    {
+      "name": "02-cafe-ink-drawing.webp",
+      "sha256": "8711adc71cd956c140f8179bd1e349d9fc939753d2096c5a090fbe7066573e86",
+      "bytes": 130282,
+      "from": "f986 page 2 — cafe ink drawing"
+    },
+    {
+      "name": "03-material-sketches.webp",
+      "sha256": "ae57bd563caf03a8f3eefc693f019cda31d77fae12e75ff5d6ed0c22356b620d",
+      "bytes": 18414,
+      "from": "f986 page 2 — material sketches"
+    },
+    {
+      "name": "04-interior-model-views.webp",
+      "sha256": "10fa85449ca392e02d25ad0f0303ebe6dbf72a7276c79a074c3ba9b7fed0f113",
+      "bytes": 18002,
+      "from": "f986 page 2 — interior model views"
+    },
+    {
+      "name": "05-terrace-and-facade-views.webp",
+      "sha256": "4a2660486fa00bdfa4ead7b285b0694d97c0f31b1139bdbfd05ca950e4786fce",
+      "bytes": 37278,
+      "from": "f986 page 2 — terrace and facade views"
+    }
+  ]
+}
