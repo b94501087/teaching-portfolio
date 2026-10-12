@@ -1,0 +1,61 @@
+{
+  "project": "Dongshan Bus Station",
+  "dest": "assets/board/dongshan-bus-station-fissures",
+  "note": "Portfolio c276 pages 3-8 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the title text with school and supervisor, the site location board with headset graphic and street photo strips, the collage page with a figure and app interface, and the body text.",
+  "files": [
+    {
+      "name": "01-tower-aerial-render.webp",
+      "sha256": "1d9bb7560885ff7742e23af28fa5b7f167b8e7200f983742f7ced38dded7a3e0",
+      "bytes": 149000,
+      "from": "c276 page 3 — aerial render"
+    },
+    {
+      "name": "02-building-volume.webp",
+      "sha256": "c15aa9734f01d230a421a0c714d988937faabc1eb32eef69a0ed852daa6a6f27",
+      "bytes": 41568,
+      "from": "c276 page 6 — building volume diagrams"
+    },
+    {
+      "name": "03-isometric-drawing.webp",
+      "sha256": "bc03ad020579a70fecc06fd12d369bf7d4a7f88e2ddab8c5ca4ba51e44b39100",
+      "bytes": 218554,
+      "from": "c276 page 6 — isometric drawing"
+    },
+    {
+      "name": "04-floor-selection.webp",
+      "sha256": "5bdec92c1b18fba7e28910b2a9f7b62f91df86eb92003fffd0294c45ee9356a8",
+      "bytes": 44982,
+      "from": "c276 page 6 — floor selection"
+    },
+    {
+      "name": "05-beam-and-column.webp",
+      "sha256": "f189dfb61a3746459fb19d643af6759bb40fbb2233b0609f77c1267a3a63f2a7",
+      "bytes": 81988,
+      "from": "c276 page 6 — beam and column construction"
+    },
+    {
+      "name": "06-building-plans.webp",
+      "sha256": "4cbff7b6649754d2472ecc28cef2fc4f62c8b3cfeffb801372df39befbd2810c",
+      "bytes": 134002,
+      "from": "c276 page 7 — building plans"
+    },
+    {
+      "name": "07-west-street-view.webp",
+      "sha256": "b583505a554d2c092cae25e0a62f00c790c2e71e6dc1f8e2d4dbf97f05d1652c",
+      "bytes": 146030,
+      "from": "c276 page 8 — west street view"
+    },
+    {
+      "name": "08-fourth-floor-view.webp",
+      "sha256": "3a81584d2a01cb1d85db3f1d169387329947c6058539474557e72b33fc89202e",
+      "bytes": 58128,
+      "from": "c276 page 8 — fourth floor view"
+    },
+    {
+      "name": "09-street-view-building.webp",
+      "sha256": "0f8b9a68e2e478a5dd461c931f4b2bf2e40bec81f535444b9d480a7dfa5617e4",
+      "bytes": 62664,
+      "from": "c276 page 8 — street view of the building"
+    }
+  ]
+}
