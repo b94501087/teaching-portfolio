@@ -1,0 +1,49 @@
+{
+  "project": "New Urban Life",
+  "dest": "assets/board/new-urban-life-racetrack-neighbourhood",
+  "note": "Portfolio ced9 pages 16–19 cropped to seven images, WebP q88 (PIL), max 2000 px wide. Not used: the site location map on an aerial photo, the site history timeline with photos and named people, the population chart with photo people, the current situation photos, the strategy maps with photos and named places, the site policy diagram with photo renders, page 20 renders with photo people, and the body text.",
+  "files": [
+    {
+      "name": "01-greenway-aerial.webp",
+      "sha256": "a5857d8231476d3b450e2db87afef7b6f0148cc022be00a2ebe18b8eff82a4e3",
+      "bytes": 227200,
+      "from": "ced9 page 16 — aerial render of the greenway neighbourhood, x 0–70 %, y 0–100 %"
+    },
+    {
+      "name": "02-urban-change.webp",
+      "sha256": "4bb0cc7eea158fb36e1d698610bb7e576493cda13780c6e298a6dc7e81d67fa9",
+      "bytes": 63158,
+      "from": "page 17 — urban development change maps, x 0–49 %, y 40–62.5 %"
+    },
+    {
+      "name": "03-circulation.webp",
+      "sha256": "b40a4bef82715956fb64ea6a9c14cce05e37c09ec6c13727eebaec8e89a99a97",
+      "bytes": 87300,
+      "from": "page 17 — circulation analysis diagrams, x 49–100 %, y 60.5–97 %"
+    },
+    {
+      "name": "04-development-plan.webp",
+      "sha256": "51365ebae5e44e497248df924afb87eec7c0d2fe9ffbbd1fd3f82da19f331500",
+      "bytes": 124078,
+      "from": "page 18 — future development plan, x 49–100 %, y 4–95 %"
+    },
+    {
+      "name": "05-three-lives.webp",
+      "sha256": "50daaa5afd6017882c248168a704dd0223592a3fe6f4a587c9cc68a51f204fd1",
+      "bytes": 74636,
+      "from": "page 19 — work, green and human life diagrams, x 1.5–50 %, y 62–97 %"
+    },
+    {
+      "name": "06-schematic-design.webp",
+      "sha256": "c6b98a78b27e09fb55216a94aba22cfddfd0d3b036340b85ceebc71787b37676",
+      "bytes": 52506,
+      "from": "page 19 — schematic design layers, x 50.5–63.8 %, y 5–77 %"
+    },
+    {
+      "name": "07-master-plan.webp",
+      "sha256": "0c5de9339526e2d88b2f985aa212ecdf584dea542f343edd5bdd3aac05038c52",
+      "bytes": 92584,
+      "from": "page 19 — master plan, x 64.5–100 %, y 5–75.5 %"
+    }
+  ]
+}
