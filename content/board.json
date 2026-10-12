@@ -31326,6 +31326,133 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "The Floating Community",
+      "slug": "floating-community-jamaica-bay",
+      "description": "A floating, 3D-printed settlement that turns plastic waste into homes and supports marine life below.\n\nNew York | Floating settlement | Circular construction | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "漂浮社區",
+          "description": "一座以 3D 列印打造的漂浮聚落，將塑膠廢料轉化為住宅，並支持水下的海洋生態。\n\n紐約｜漂浮聚落｜循環營建｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/floating-community-jamaica-bay/01-floating-settlement.webp",
+        "assets/board/floating-community-jamaica-bay/02-underwater-collage.webp",
+        "assets/board/floating-community-jamaica-bay/03-jamaica-bay-site.webp",
+        "assets/board/floating-community-jamaica-bay/04-printed-unit-system.webp",
+        "assets/board/floating-community-jamaica-bay/05-masterplan.webp",
+        "assets/board/floating-community-jamaica-bay/06-below-the-waterline.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/floating-community-jamaica-bay/01-floating-settlement.webp"
+          ],
+          "captions": [
+            "The floating settlement seen from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "俯瞰漂浮聚落。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Jamaica Bay in New York is an ecologically dynamic edge where water, wetland and city meet. The project asks how a community could live on the water while giving back to the habitat beneath it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "紐約牙買加灣是水域、濕地與城市交會、生態變動劇烈的邊緣地帶。這個專案提問：一個社區如何生活在水上，同時回饋水面下的棲地。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Collage and site mapping study the bay, its marine life and the neighbourhoods along its shore. Plastic waste collected from nearby homes is identified as a local resource for building.",
+          "images": [
+            "assets/board/floating-community-jamaica-bay/02-underwater-collage.webp",
+            "assets/board/floating-community-jamaica-bay/03-jamaica-bay-site.webp"
+          ],
+          "captions": [
+            "Concept collage of life above and below the water.",
+            "Site context around the bay."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "拼貼與基地圖研究海灣、海洋生物與沿岸社區。從附近住宅收集的塑膠廢料，被視為可用於建造的在地資源。",
+              "captions": [
+                "水上與水下生活的概念拼貼。",
+                "海灣周邊的基地脈絡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Plastic waste is mixed with concrete and 3D-printed on site into housing units tailored to each household. Walls and furniture slide along integrated tracks, so homes can be reconfigured over time.",
+          "images": [
+            "assets/board/floating-community-jamaica-bay/04-printed-unit-system.webp"
+          ],
+          "captions": [
+            "Printed unit modules, plan and section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "塑膠廢料與混凝土混合，在基地現場以 3D 列印製成依各戶需求量身打造的住宅單元。牆體與家具可沿整合軌道移動，讓住家能隨時間重新配置。",
+              "captions": [
+                "列印單元模組、平面與剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Hexagon-based islands of lightweight concrete form a modular archipelago with solar panels above and turbines and artificial reefs below. Aquaponic farms complete a closed loop of food, energy and housing on the water.",
+          "images": [
+            "assets/board/floating-community-jamaica-bay/05-masterplan.webp",
+            "assets/board/floating-community-jamaica-bay/06-below-the-waterline.webp"
+          ],
+          "captions": [
+            "Masterplan of the hexagon islands.",
+            "Turbines and reefs below the waterline."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "以輕質混凝土構成的六角形島嶼組成模組化群島，上方設置太陽能板，下方則有水力渦輪與人工魚礁。魚菜共生農場讓水上的食物、能源與住宅形成封閉循環。",
+              "captions": [
+                "六角形島嶼的總平面圖。",
+                "水面下的渦輪與魚礁。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Treat waste as a material.\n2. Design above and below the surface.\n3. Let homes change with their users.\n4. Close the loop of food and energy.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把廢料視為材料。\n2. 同時設計水面上與水面下。\n3. 讓住家隨使用者改變。\n4. 讓食物與能源形成循環。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
