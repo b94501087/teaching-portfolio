@@ -21567,6 +21567,411 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Natural Media Funeral Parlour",
+      "slug": "natural-media-funeral-parlour",
+      "description": "A funeral parlour where light, water, life and wind guide grief toward calm.\n\nArchitecture | Funeral parlour | Natural media | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "自然媒介殯儀館",
+          "description": "一座以光、水、生命與風引導哀傷走向平靜的殯儀館。\n\n建築設計｜殯儀館｜自然媒介｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/natural-media-funeral-parlour/01-perspective-section.webp",
+        "assets/board/natural-media-funeral-parlour/02-light-and-water.webp",
+        "assets/board/natural-media-funeral-parlour/03-life-and-wind.webp",
+        "assets/board/natural-media-funeral-parlour/04-concept-drawing.webp",
+        "assets/board/natural-media-funeral-parlour/05-form-generation.webp",
+        "assets/board/natural-media-funeral-parlour/06-surface-analysis.webp",
+        "assets/board/natural-media-funeral-parlour/07-form-sequence.webp",
+        "assets/board/natural-media-funeral-parlour/08-underground-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/natural-media-funeral-parlour/01-perspective-section.webp"
+          ],
+          "captions": [
+            "Perspective section tracing how emotions change along the route through the building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "剖透視圖，追溯情緒沿著建築動線的轉變。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "As life expectancy grows and land for burial shrinks, the city faces a tense shortage of places for funerals. The local demand for funeral buildings keeps rising, while traditional funerals offer few ways to comfort the people left behind.",
+          "images": [
+            "assets/board/natural-media-funeral-parlour/02-light-and-water.webp"
+          ],
+          "captions": [
+            "Light and water: forms in the building, sun paths, rainfall and water speed."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "隨著平均壽命延長、可用於安葬的土地縮減，城市面臨喪葬空間緊張的處境。當地對殯葬建築的需求持續上升，而傳統喪禮卻少有方式能撫慰留下來的人。",
+              "captions": [
+                "光與水：建築中的形式、日照路徑、降雨與水流速度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project studied four natural media on the site: light, water, life and wind. Sunshine, rainfall, wind speed and the surrounding landscape were analysed to see how each medium could shape people's emotions.",
+          "images": [
+            "assets/board/natural-media-funeral-parlour/03-life-and-wind.webp"
+          ],
+          "captions": [
+            "Life and wind: energy fields, landscape framing, mountain-valley breezes and sensory design."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案研究基地上的四種自然媒介：光、水、生命與風。透過分析日照、降雨、風速與周邊地景，了解每種媒介如何影響人的情緒。",
+              "captions": [
+                "生命與風：能量場、地景取景、山谷風與感官設計。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Concept sketches brought in the infinity symbol to express the eternity of life, and the plan was shaped to follow the lake around the site and the sunlight. The surface was then studied for light channels, courtyards, a wind corridor and flowing water.",
+          "images": [
+            "assets/board/natural-media-funeral-parlour/04-concept-drawing.webp",
+            "assets/board/natural-media-funeral-parlour/05-form-generation.webp",
+            "assets/board/natural-media-funeral-parlour/06-surface-analysis.webp"
+          ],
+          "captions": [
+            "Concept drawing linking the living and the departed through infinity symbols.",
+            "Form generation from the site, the lake edge and sunlight intensity.",
+            "Surface analysis of streamlines, courtyards, the wind corridor and water form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "概念草圖引入無限符號，表達生命的永恆，平面則依循基地周邊的湖岸與日照塑形。接著研究建築表皮，安排光之通道、中庭、風廊與流動的水。",
+              "captions": [
+                "以無限符號連結生者與逝者的概念圖。",
+                "由基地、湖岸與日照強度推導的形體生成。",
+                "表皮分析：動線、中庭、風廊與水的形態。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The flowing building guides visitors through reception, waiting, mourning and funeral spaces, each tuned by light, water, life and wind. Its outline and its reflection in the water together form the infinity symbol.",
+          "images": [
+            "assets/board/natural-media-funeral-parlour/07-form-sequence.webp",
+            "assets/board/natural-media-funeral-parlour/08-underground-plan.webp"
+          ],
+          "captions": [
+            "Form sequence from required area to a wind-shaped roof and light openings.",
+            "Underground plan of the service level."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "流動的建築引導來訪者依序經過接待、等候、追思與告別空間，每一處都以光、水、生命與風調和。建築輪廓與水中倒影共同構成無限符號。",
+              "captions": [
+                "從需求面積到風塑屋頂與採光開口的形體序列。",
+                "服務層的地下平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose the natural media of the site.\n2. Map each medium with data.\n3. Link each space to an emotion.\n4. Shape the form around the journey.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選定基地的自然媒介。\n2. 以數據描繪每種媒介。\n3. 讓每個空間對應一種情緒。\n4. 依循旅程塑造形體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Revive the Lijia Alley",
+      "slug": "revive-the-lijia-alley",
+      "description": "A phased street renewal that brings green space and daily life back to a historic alley.\n\nChangsha, China | Urban design | Street renewal | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重振 Lijia 巷",
+          "description": "一項分期街道更新，為歷史巷弄帶回綠意與日常生活。\n\n中國長沙｜都市設計｜街道更新｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/revive-the-lijia-alley/01-phase-1-street.webp",
+        "assets/board/revive-the-lijia-alley/02-space-making-buildings.webp",
+        "assets/board/revive-the-lijia-alley/03-exploded-view.webp",
+        "assets/board/revive-the-lijia-alley/04-phase-2-street.webp",
+        "assets/board/revive-the-lijia-alley/05-phase-3-street.webp",
+        "assets/board/revive-the-lijia-alley/06-planting-strategies.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/revive-the-lijia-alley/01-phase-1-street.webp"
+          ],
+          "captions": [
+            "Phase one: the renewed commercial stretch of the alley."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "第一期：更新後的巷弄商業段。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Lijia Alley, next to the city center of Changsha, is one of the few historic streets left in the city, yet it is poorly protected. The growing city center has taken over outdoor space, the population is ageing, and many homes still follow an unreasonable layout from the 1950s.",
+          "images": [
+            "assets/board/revive-the-lijia-alley/02-space-making-buildings.webp"
+          ],
+          "captions": [
+            "Space making keeps the main body of two- and three-storey buildings while adding new frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "Lijia 巷緊鄰長沙市中心，是城內少數留存的歷史街道之一，卻缺乏妥善保護。市中心擴張侵占了戶外空間，人口持續老化，許多住宅仍沿用1950年代不合理的格局。",
+              "captions": [
+                "空間營造保留二層與三層建築的主體，並加入新的構架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Data on unemployment, age and income showed that the alley lags behind both its district and the city. Site observation found many run-down two- and three-storey buildings that no longer suit daily life.",
+          "images": [
+            "assets/board/revive-the-lijia-alley/03-exploded-view.webp"
+          ],
+          "captions": [
+            "Exploded view of routes for vehicles, pedestrians, residents and business, with building heights."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "失業率、年齡與收入的數據顯示，這條巷子落後於所在的區與整座城市。現地觀察則發現許多破舊的二、三層建築已不再適合日常居住。",
+              "captions": [
+                "分解圖：車行、步行、居民與商業動線，以及建築高度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "New frames add parks, stages, markets and planting spaces along the street without erasing the old buildings. The alley is then planned in three phases: a commercial phase near the business district, a living phase for residents and a green phase toward the river.",
+          "images": [
+            "assets/board/revive-the-lijia-alley/04-phase-2-street.webp"
+          ],
+          "captions": [
+            "Phase two: the living stretch with a stage, homes and local shops."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "新的構架沿街加入公園、舞台、市集與種植空間，同時保留舊建築。巷弄接著分為三期規劃：靠近商業區的商業期、為居民而設的生活期，以及朝向河岸的綠化期。",
+              "captions": [
+                "第二期：設有舞台、住宅與在地小店的生活段。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The renewed alley mixes shops, homes, a stage and small parks along a greener walking street. Each phase uses its own planting strategy with vines, osmanthus and camphor trees.",
+          "images": [
+            "assets/board/revive-the-lijia-alley/05-phase-3-street.webp",
+            "assets/board/revive-the-lijia-alley/06-planting-strategies.webp"
+          ],
+          "captions": [
+            "Phase three: the green stretch toward the river.",
+            "Planting strategies: vertical planting, plant frames and mixed blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "更新後的巷弄沿著更綠意的步行街，混合了商店、住宅、舞台與小公園。每一期各有種植策略，運用藤蔓、桂花與樟樹。",
+              "captions": [
+                "第三期：朝向河岸的綠化段。",
+                "種植策略：垂直綠化、植栽架與混合街區。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the data of the street.\n2. Keep the main body of old buildings.\n3. Plan the renewal in phases.\n4. Give each phase its own planting.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀街道的數據。\n2. 保留舊建築的主體。\n3. 分期規劃更新。\n4. 為每一期安排專屬的植栽。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Accelerate the City",
+      "slug": "accelerate-the-city",
+      "description": "A replaceable vertical complex that lets the city renew itself as fast as technology.\n\nGuangzhou, China | Architecture | Future city | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "加速城市",
+          "description": "一座可替換的垂直綜合體，讓城市能與科技同步自我更新。\n\n中國廣州｜建築設計｜未來城市｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/accelerate-the-city/01-accelerate-city-form.webp",
+        "assets/board/accelerate-the-city/02-industrial-metabolism.webp",
+        "assets/board/accelerate-the-city/03-theoretical-illustration.webp",
+        "assets/board/accelerate-the-city/04-detailed-structure.webp",
+        "assets/board/accelerate-the-city/05-traffic-systems.webp",
+        "assets/board/accelerate-the-city/06-model-sequence.webp",
+        "assets/board/accelerate-the-city/07-physical-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/accelerate-the-city/01-accelerate-city-form.webp"
+          ],
+          "captions": [
+            "Traditional and accelerated skyscraper forms, with the form exploration of stacked functions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "傳統與加速摩天樓形式，以及堆疊機能的形體探索。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Behind the rapid growth of Guangzhou lie population, environmental and traffic problems, and fast construction has eaten into green space. Buildings change far more slowly than technology, so people still live and work in spaces designed for a past era.",
+          "images": [
+            "assets/board/accelerate-the-city/02-industrial-metabolism.webp"
+          ],
+          "captions": [
+            "Industrial metabolism: how fast each sector changes, leading to a vertical future complex."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "廣州快速發展的背後，存在人口、環境與交通問題，加速興建也蠶食了綠地。建築的演變遠比科技緩慢，人們仍在為過去時代設計的空間中生活與工作。",
+              "captions": [
+                "產業代謝：各產業的變化速度，進而推導出垂直的未來綜合體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The project compared the pace of change in science, transport, commerce, finance and building renewal. It proposed a super complex that absorbs many building types and grows upward, so the ground can return to green space.",
+          "images": [
+            "assets/board/accelerate-the-city/03-theoretical-illustration.webp"
+          ],
+          "captions": [
+            "Theoretical illustration of the complex growing upward above a green ground floor and transport lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案比較科技、交通、商業、金融與建築更新的變化速度。進而提出吸納多種建築類型、向上生長的超級綜合體，讓地面得以回歸綠地。",
+              "captions": [
+                "理論圖解：綜合體在綠色地面層與交通路線之上向上生長。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The tower is built from a core tube with stacked rings of living space, gears for kinetic energy and fan blades for wind energy. Replaceable units can be lifted, rotated and swapped by cranes, robotic arms and drones as the needs of the city change.",
+          "images": [
+            "assets/board/accelerate-the-city/04-detailed-structure.webp",
+            "assets/board/accelerate-the-city/05-traffic-systems.webp"
+          ],
+          "captions": [
+            "Detailed structure of the core tube, rings and gears, with phases of uplift and replacement.",
+            "Drone transport, robotic arms, the space update system and rail transport."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "塔樓由核心筒構成，疊加居住空間環、動能齒輪與風能扇葉。可替換單元能隨城市需求改變，由吊車、機械手臂與無人機吊升、旋轉與更換。",
+              "captions": [
+                "核心筒、圓環與齒輪的細部構造，以及吊升與更換的階段。",
+                "無人機運輸、機械手臂、空間更新系統與軌道運輸。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A physical model shows how the rings turn around the spindle to adjust position, view and light. The model makes the idea of a building that renews itself easier to read than computer drawings alone.",
+          "images": [
+            "assets/board/accelerate-the-city/06-model-sequence.webp",
+            "assets/board/accelerate-the-city/07-physical-model.webp"
+          ],
+          "captions": [
+            "Model sequence: before, rotating and after.",
+            "Physical model of the rings and gears, with a node detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "實體模型展示圓環如何繞著主軸轉動，以調整位置、視野與採光。模型讓這座自我更新的建築構想，比單靠電腦圖面更容易理解。",
+              "captions": [
+                "模型序列：轉動前、轉動中與轉動後。",
+                "圓環與齒輪的實體模型，以及節點細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Compare how fast each sector changes.\n2. Stack functions in one complex.\n3. Make the units replaceable.\n4. Test the moving parts with a model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 比較各產業的變化速度。\n2. 把機能疊合在一座綜合體中。\n3. 讓單元可以替換。\n4. 用模型測試可動構件。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
