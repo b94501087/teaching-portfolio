@@ -1,0 +1,55 @@
+{
+  "project": "Sunward Orphanage",
+  "dest": "assets/board/sunward-orphanage",
+  "note": "Portfolio dab3 pages 16–17 cropped to eight images, WebP q88 (PIL), max 2000 px wide. Not used: the title rendering with photo cut-out people on page 13, the news collage with photos of children and statistics on page 14, the site and location page with photos on page 15, the interior renderings and architecture details with photo cut-out children, materials photos and the site overview rendering on page 16, and section B-B with a photo sky on page 17. No retouching.",
+  "files": [
+    {
+      "name": "01-explosion-diagram.webp",
+      "sha256": "2d19a5915224070001e0d0b9dbd9ec02b66045832c721026b202dbfb688b7d82",
+      "bytes": 25854,
+      "from": "dab3 page 16 — explosion diagram, x 78.5–100 %, y 0–51.5 %"
+    },
+    {
+      "name": "02-concept-and-strategy.webp",
+      "sha256": "2fb75b72d061d8feb07916fefe3ad6f8ab635f308d29bb03750d7c14042cc67d",
+      "bytes": 22250,
+      "from": "page 16 — concept and strategy for the living space, x 0–25 %, y 0–28.5 %"
+    },
+    {
+      "name": "03-building-form-generation.webp",
+      "sha256": "516dce9c1a688dcf62bbfa2eb110a7a3a21aac5d0f6ea10561cf728187a3f273",
+      "bytes": 18108,
+      "from": "page 16 — building form generation, x 0–25 %, y 28.5–51.5 %"
+    },
+    {
+      "name": "04-dry-and-flood-season-strategy.webp",
+      "sha256": "f1d39954edfed9916403aea32af42aaa14f2d7278693a53996e1e0567183d0af",
+      "bytes": 34148,
+      "from": "page 16 — design strategy for the grey space in dry and flood seasons, x 25–50 %, y 0–51.5 %"
+    },
+    {
+      "name": "05-flooded-section-diagram.webp",
+      "sha256": "4f310a88acaa4d970c05e342f2a8124797b346908866286972ff8a900270f526",
+      "bytes": 19640,
+      "from": "page 16 — flooded section diagram, x 50.5–78.5 %, y 36.5–50.8 %"
+    },
+    {
+      "name": "06-details-section.webp",
+      "sha256": "e595037a640e079ffc9488b409191959a676609cbad6d11b02679ddf80da7912",
+      "bytes": 28846,
+      "from": "page 16 — details, section A-A, x 30–49.7 %, y 52.5–100 %"
+    },
+    {
+      "name": "07-ground-floor-plan.webp",
+      "sha256": "78185b18151d5b6e2f15df5efb2b8f068caaf5d131e81f1bb09f6bc936ee671b",
+      "bytes": 35724,
+      "from": "page 17 — ground floor plan, x 3–38 %, y 3–26.5 %"
+    },
+    {
+      "name": "08-upper-floor-plans.webp",
+      "sha256": "aeeb73a0fd28124bcdb182d96e813ea29b6507a6e1eca795fe18174f92b8251d",
+      "bytes": 53078,
+      "from": "page 17 — first and second floor plans, x 38–100 %, y 0–25 %"
+    }
+  ]
+}
