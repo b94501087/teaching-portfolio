@@ -22377,6 +22377,534 @@
       ],
       "visible": true,
       "big": false
+    },
+    {
+      "title": "Urban Dwelling: Residing in the City",
+      "slug": "urban-dwelling-parasite-spaces",
+      "description": "Six light parasite structures fill the gaps of a post-war London housing estate with spaces for artists and visitors.\n\nLondon, UK | Parasitic architecture | Artist spaces | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市棲居：寄居於城",
+          "description": "六座輕量寄生結構填補倫敦戰後住宅社區的縫隙，為藝術家與訪客提供空間。\n\n英國倫敦｜寄生建築｜藝術家空間｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/urban-dwelling-parasite-spaces/01-site-axonometric.webp",
+        "assets/board/urban-dwelling-parasite-spaces/02-six-spaces.webp",
+        "assets/board/urban-dwelling-parasite-spaces/03-floating-gallery-section.webp",
+        "assets/board/urban-dwelling-parasite-spaces/04-air-studio-section.webp",
+        "assets/board/urban-dwelling-parasite-spaces/05-air-studio-plan.webp",
+        "assets/board/urban-dwelling-parasite-spaces/06-dancing-office-section.webp",
+        "assets/board/urban-dwelling-parasite-spaces/07-dancing-office-plan.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/urban-dwelling-parasite-spaces/01-site-axonometric.webp"
+          ],
+          "captions": [
+            "Site axonometric of the post-war housing estate and its surroundings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "戰後住宅社區及其周邊的基地軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The Golden Lane Estate is a 1950s council housing complex in the City of London, built on land devastated by wartime bombing. Business had become the main use of land in the City, and the project looks for the negative urban space left between its buildings.",
+          "images": [
+            "assets/board/urban-dwelling-parasite-spaces/02-six-spaces.webp"
+          ],
+          "captions": [
+            "Six spaces for artists and visitors: gallery, square, gardens, office, studio and park."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "Golden Lane Estate 是倫敦金融城一座建於 1950 年代的公共住宅，坐落在戰時遭轟炸摧毀的土地上。商業已成為金融城的主要用地，本案尋找建築之間被遺留的負空間。",
+              "captions": [
+                "為藝術家與訪客設計的六個空間：藝廊、廣場、花園、辦公室、工作室與公園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Parasitic architecture attaches to an existing larger structure to answer high rents and the lack of space in big cities. It is cheap to build, uses space efficiently and stays socially inclusive, so it suits the gaps of this estate.",
+          "images": [
+            "assets/board/urban-dwelling-parasite-spaces/03-floating-gallery-section.webp"
+          ],
+          "captions": [
+            "Floating gallery: workshop, terrace shop, gallery and rooftop bar along one section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "寄生建築依附於既有的大型結構，回應大城市高租金與空間不足的問題。它造價低、空間利用有效率且具社會包容性，適合填補這座社區的縫隙。",
+              "captions": [
+                "漂浮藝廊：工作坊、露台商店、藝廊與屋頂酒吧沿同一剖面展開。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "For the air studio, the centre point between the existing buildings fixes the location, and Voronoi geometry is generated within the defined space. The dancing office uses a spring-based form-finding script to balance the mesh between its connection points.",
+          "images": [
+            "assets/board/urban-dwelling-parasite-spaces/04-air-studio-section.webp",
+            "assets/board/urban-dwelling-parasite-spaces/05-air-studio-plan.webp"
+          ],
+          "captions": [
+            "Air studio section, hung between two existing blocks.",
+            "Air studio plan and the parametric script that shapes it."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "空中工作室以既有建築之間的中心點決定位置，並在限定空間內生成 Voronoi 幾何。舞動辦公室以彈簧力學的找形腳本，平衡網格與各連接點之間的關係。",
+              "captions": [
+                "懸掛於兩棟既有建築之間的空中工作室剖面。",
+                "空中工作室平面與塑造其形體的參數化腳本。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Six light structures for studios, exhibitions, offices, gardens and a bar connect to the ground, open to the sky and lean on existing walls. They show that there is no need to build heavily to bring artists back into the city.",
+          "images": [
+            "assets/board/urban-dwelling-parasite-spaces/06-dancing-office-section.webp",
+            "assets/board/urban-dwelling-parasite-spaces/07-dancing-office-plan.webp"
+          ],
+          "captions": [
+            "Dancing office section with its flowing shell.",
+            "Dancing office plan between the existing buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "六座輕量結構容納工作室、展覽、辦公、花園與酒吧，連接地面、向天空開放並倚靠既有牆面。它們說明不必大興土木，也能讓藝術家重回城市。",
+              "captions": [
+                "具流動外殼的舞動辦公室剖面。",
+                "位於既有建築之間的舞動辦公室平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map the empty gaps.\n2. Read who the city lost.\n3. Attach, do not demolish.\n4. Let scripts find the form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 標出空置的縫隙。\n2. 了解城市失去了誰。\n3. 依附而非拆除。\n4. 讓腳本找出形體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Polyver: Vector Exploration of Polyline",
+      "slug": "polyver-polyline-timber-bridge",
+      "description": "Hand-made timber nodes without nails or glue grow from a polyline into a pedestrian bridge in Hyde Park.\n\nLondon, UK | Timber structure | Pedestrian bridge | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "Polyver：折線的向量探索",
+          "description": "不用釘子或膠的手作木節點，從一條折線發展成海德公園裡的人行橋。\n\n英國倫敦｜木構造｜人行橋｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/polyver-polyline-timber-bridge/01-polyline-render.webp",
+        "assets/board/polyver-polyline-timber-bridge/02-material-chart.webp",
+        "assets/board/polyver-polyline-timber-bridge/03-node-analysis.webp",
+        "assets/board/polyver-polyline-timber-bridge/04-node-making.webp",
+        "assets/board/polyver-polyline-timber-bridge/05-physical-model.webp",
+        "assets/board/polyver-polyline-timber-bridge/06-digital-model.webp",
+        "assets/board/polyver-polyline-timber-bridge/07-bridge-renders.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/polyver-polyline-timber-bridge/01-polyline-render.webp"
+          ],
+          "captions": [
+            "A structure grown from polylines, the starting point of the study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "由折線生長而成的結構，是這項研究的起點。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project explores how a simple polyline can become a structure, first as a built timber object and then as architecture. It asks how pieces can hold together without nails, ropes or glue.",
+          "images": [
+            "assets/board/polyver-polyline-timber-bridge/02-material-chart.webp"
+          ],
+          "captions": [
+            "Material chart comparing fabrication, strength, workability and cost."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "本案探索簡單的折線如何成為結構，先做成實體木構物件，再發展為建築。它追問構件如何在不用釘子、繩索或膠的情況下彼此固定。",
+              "captions": [
+                "比較加工方式、強度、可加工性與成本的材料圖表。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Materials and wood types are compared for strength, workability and cost, and eucalyptus and camphor wood are chosen. The joint follows the traditional Chinese interlocking burr puzzle, which stands up through the connection of its own parts.",
+          "images": [
+            "assets/board/polyver-polyline-timber-bridge/03-node-analysis.webp",
+            "assets/board/polyver-polyline-timber-bridge/04-node-making.webp"
+          ],
+          "captions": [
+            "Node decomposition and the two connection ways: cuboid and triangular insertion.",
+            "Node 1 made by hand in nine steps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "本案比較各種材料與木種的強度、可加工性與成本，最後選用尤加利木與樟木。節點借鑑中國傳統的榫卯鎖，僅靠構件彼此咬合便能自立。",
+              "captions": [
+                "節點拆解與兩種接合方式：方形插接與三角插接。",
+                "以九個步驟手工製作節點一。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wood is cut to three lengths and drilled with cube and triangle holes about 2.5 cm deep, so each node grips the sticks without glue. The parts close into one loop, so the nodes cannot fall loose.",
+          "images": [
+            "assets/board/polyver-polyline-timber-bridge/05-physical-model.webp",
+            "assets/board/polyver-polyline-timber-bridge/06-digital-model.webp"
+          ],
+          "captions": [
+            "The finished timber model, indoors and outdoors.",
+            "3D model of the same node system."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木料裁成三種長度，並鑽出約 2.5 公分深的方形與三角形孔，讓節點不用膠也能卡住木桿。所有構件組成一個封閉迴圈，使節點不會鬆脫。",
+              "captions": [
+                "完成的木構模型，室內與戶外。",
+                "同一節點系統的 3D 模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the second part the polyline system becomes a pedestrian bridge over a lake in Hyde Park, London. The bridge keeps a distance from the nearby galleries so walkers can see them in full, and it doubles as a rest area and a scenic spot.",
+          "images": [
+            "assets/board/polyver-polyline-timber-bridge/07-bridge-renders.webp"
+          ],
+          "captions": [
+            "Renders of the polyline pedestrian bridge."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "第二部分將折線系統發展為倫敦海德公園湖上的一座人行橋。橋與鄰近藝廊保持距離，讓行人能看見其全貌，同時也是休憩區與觀景點。",
+              "captions": [
+                "折線人行橋的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one line.\n2. Test the joint by hand.\n3. Close the loop.\n4. Scale it to a site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一條線開始。\n2. 親手測試節點。\n3. 讓結構形成迴圈。\n4. 放大到真實基地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Guangdong Cultural Centre",
+      "slug": "mountain-village-cultural-centre",
+      "description": "A truss-framed cultural centre on a hillside gives travellers on a mountain highway a place to rest, read and look at the view.\n\nGuangdong, China | Cultural centre | Truss structure | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "廣東文化中心",
+          "description": "以桁架構成的山坡文化中心，讓山區公路上的旅客有地方休息、閱讀與看風景。\n\n中國廣東｜文化中心｜桁架結構｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/mountain-village-cultural-centre/01-mountain-render.webp",
+        "assets/board/mountain-village-cultural-centre/02-form-diagrams.webp",
+        "assets/board/mountain-village-cultural-centre/03-ground-floor-plan.webp",
+        "assets/board/mountain-village-cultural-centre/04-upper-floor-plans.webp",
+        "assets/board/mountain-village-cultural-centre/05-truss-render.webp",
+        "assets/board/mountain-village-cultural-centre/06-sections.webp",
+        "assets/board/mountain-village-cultural-centre/07-axonometric-interiors.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/mountain-village-cultural-centre/01-mountain-render.webp"
+          ],
+          "captions": [
+            "The cultural centre stretched across a hillside in the mountains."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "橫跨山坡的文化中心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "This cultural centre sits in a mountainous village in Guangdong, close to a highway, where hills rise in the middle of the site. It should serve local culture and also give drivers and tourists a place to rest and read.",
+          "images": [
+            "assets/board/mountain-village-cultural-centre/02-form-diagrams.webp",
+            "assets/board/mountain-village-cultural-centre/03-ground-floor-plan.webp"
+          ],
+          "captions": [
+            "Form steps: the figure-eight shape, the added triangles and the extra levels.",
+            "Ground floor plan with the reading room, court and exhibition."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這座文化中心位於廣東山區的村落，靠近高速公路，基地中央是起伏的丘陵。它既要承載在地文化，也要讓駕車旅客有地方休息與閱讀。",
+              "captions": [
+                "形體步驟：「8」字形、增加的三角形與加高的樓層。",
+                "地面層平面，含閱覽室、庭院與展覽空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The initial form comes from the number eight, with the two rectangles at its ends as the main entrances. Triangular rest areas are added beside the shape to respond better to the site.",
+          "images": [
+            "assets/board/mountain-village-cultural-centre/04-upper-floor-plans.webp"
+          ],
+          "captions": [
+            "First and second floor plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "最初的形體來自數字「8」，兩端的矩形是主要入口。形體兩側再加入三角形休憩區，更好地回應基地。",
+              "captions": [
+                "二樓與三樓平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "More levels are added above, and one main entrance extends down into a court on the basement level. A truss of rigid triangles carries the overhangs and spans, while columns support the reading space.",
+          "images": [
+            "assets/board/mountain-village-cultural-centre/05-truss-render.webp",
+            "assets/board/mountain-village-cultural-centre/06-sections.webp"
+          ],
+          "captions": [
+            "The truss structure lifts the building over the slope.",
+            "Section through the levels, with courtyard and semi-outdoor spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "上方再加入更多樓層，其中一個主入口向下延伸為地下層的庭院。由剛性三角形組成的桁架承載懸挑與跨距，閱讀空間則以柱子支撐。",
+              "captions": [
+                "桁架結構讓建築跨越坡地。",
+                "穿越各層的剖面，含庭院與半戶外空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The building offers exhibition spaces, reading lounges and a small court along a route that follows the hills. Its open floors frame views of the mountains for visitors who stop on their journey.",
+          "images": [
+            "assets/board/mountain-village-cultural-centre/07-axonometric-interiors.webp"
+          ],
+          "captions": [
+            "Axonometric drawing on the terrain and interior views."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "建築沿著順應丘陵的動線，提供展覽空間、閱讀休息區與一座小庭院。開放的樓層為途中停留的旅客框出山景。",
+              "captions": [
+                "地形上的軸測圖與室內視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Begin with a simple figure.\n2. Bend it to the site.\n3. Let structure carry the span.\n4. Frame the landscape.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從簡單的圖形開始。\n2. 讓它順應基地。\n3. 讓結構承擔跨距。\n4. 為地景取景。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
+    },
+    {
+      "title": "Santo Domingo School of Music",
+      "slug": "vertical-music-school-santo-domingo",
+      "description": "A small site in a crowded capital becomes a vertical school city with open spaces carved into its red blocks.\n\nSanto Domingo, Dominican Republic | School | Vertical campus | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "聖多明哥音樂學校",
+          "description": "擁擠首都中的小基地，化為在紅色量體中挖出開放空間的垂直校園城市。\n\n多明尼加聖多明哥｜學校｜垂直校園｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/vertical-music-school-santo-domingo/01-school-render.webp",
+        "assets/board/vertical-music-school-santo-domingo/02-crowdedness-renders.webp",
+        "assets/board/vertical-music-school-santo-domingo/03-first-floor-plan.webp",
+        "assets/board/vertical-music-school-santo-domingo/04-axonometric-and-program.webp",
+        "assets/board/vertical-music-school-santo-domingo/05-long-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/vertical-music-school-santo-domingo/01-school-render.webp"
+          ],
+          "captions": [
+            "The school tower and its low red wings around the playground."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "學校高塔與環繞操場的低矮紅色側翼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Santo Domingo is a dense seaside capital that lacks efficient public facilities, and the site for this music school is small. The school should evoke students' interest in learning and keep them engaged in school life.",
+          "images": [
+            "assets/board/vertical-music-school-santo-domingo/02-crowdedness-renders.webp"
+          ],
+          "captions": [
+            "Open spaces carved into the dense red blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "聖多明哥是一座密集的濱海首都，缺乏有效率的公共設施，而這所音樂學校的基地也很小。學校需要激發學生的學習興趣，並讓他們持續投入校園生活。",
+              "captions": [
+                "在密集紅色量體中挖出的開放空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The study reads the city's culture of crowdedness, where dense, layered structures leave creative gaps between walls and masses. Three questions guide the design: how to make the best campus on a small site, how to serve teenage students and how to answer the climate.",
+          "images": [
+            "assets/board/vertical-music-school-santo-domingo/03-first-floor-plan.webp",
+            "assets/board/vertical-music-school-santo-domingo/04-axonometric-and-program.webp"
+          ],
+          "captions": [
+            "First floor plan with the playground at the centre.",
+            "Site axonometric and the life, study and exhibition programme blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "研究解讀這座城市的「擁擠文化」，層層堆疊的密集結構在牆與量體之間留下富創意的縫隙。設計由三個問題引導：如何在小基地上創造最好的校園、如何服務青少年學生，以及如何回應氣候。",
+              "captions": [
+                "以操場為中心的二樓平面。",
+                "基地軸測圖，以及生活、學習與展覽的機能量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Because the site is limited but the allowed floor area is generous, the school stacks its rooms into a small vertical school city. Open spaces inside the building create organised space for study, life and exhibition.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "由於基地有限但容積率寬裕，學校將教室堆疊成一座小型的「垂直校園城市」。建築內部的開放空間，為學習、生活與展覽創造有秩序的空間。"
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A tall tower rises beside low red wings that hold halls and courts, linked by stairs and terraces. The long section shows how study, life and performance stack into one compact campus.",
+          "images": [
+            "assets/board/vertical-music-school-santo-domingo/05-long-section.webp"
+          ],
+          "captions": [
+            "Long section through the tower and the performance spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "高塔矗立在容納大廳與庭院的低矮紅色側翼旁，以樓梯與露台相連。長剖面呈現學習、生活與演出如何疊合成一座緊湊的校園。",
+              "captions": [
+                "穿越高塔與演出空間的長剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read how the city lives.\n2. Name the key questions.\n3. Stack when land is short.\n4. Keep space open inside.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀城市的生活方式。\n2. 列出關鍵問題。\n3. 土地不足就向上堆疊。\n4. 在內部保留開放空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false
     }
   ]
 }
