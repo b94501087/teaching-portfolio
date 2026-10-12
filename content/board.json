@@ -45200,6 +45200,1298 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "The Layered Street",
+      "slug": "layered-street-elevated-walkway-redesign-model",
+      "description": "A narrow city street is rebuilt in three layers: an elevated walkway, a greener ground level and a driveway below.\n\nModel making | Urban design | 3D print and laser cutting | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "分層街道",
+          "description": "一條狹窄的城市街道被重建為三層：高架步道、更綠的地面層與地下車道。\n\n模型製作｜都市設計｜3D列印與雷射切割｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/layered-street-elevated-walkway-redesign-model/01-street-model.webp",
+        "assets/board/layered-street-elevated-walkway-redesign-model/02-walkway-sketch.webp",
+        "assets/board/layered-street-elevated-walkway-redesign-model/03-stair-render.webp",
+        "assets/board/layered-street-elevated-walkway-redesign-model/04-street-section.webp",
+        "assets/board/layered-street-elevated-walkway-redesign-model/05-ground-sketch.webp",
+        "assets/board/layered-street-elevated-walkway-redesign-model/06-before-after.webp",
+        "assets/board/layered-street-elevated-walkway-redesign-model/07-ai-render-a.webp",
+        "assets/board/layered-street-elevated-walkway-redesign-model/08-ai-render-b.webp",
+        "assets/board/layered-street-elevated-walkway-redesign-model/09-model-detail-a.webp",
+        "assets/board/layered-street-elevated-walkway-redesign-model/10-model-long-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/layered-street-elevated-walkway-redesign-model/01-street-model.webp"
+          ],
+          "captions": [
+            "The layered street model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "分層街道模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The street was a passage between the back walls of large buildings, with few shops and little sunlight. People walked through it, but few chose to stay.",
+          "images": [
+            "assets/board/layered-street-elevated-walkway-redesign-model/04-street-section.webp"
+          ],
+          "captions": [
+            "Section sketch along the street."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這條街夾在大型建築的背面之間，商店稀少，日照不足。人們只是穿過，很少有人願意停留。",
+              "captions": [
+                "沿街剖面草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied elevated parks and stepped pocket gardens as ways to layer a street. Sketches tested where people could pause, sit and find sunlight.",
+          "images": [
+            "assets/board/layered-street-elevated-walkway-redesign-model/02-walkway-sketch.webp",
+            "assets/board/layered-street-elevated-walkway-redesign-model/03-stair-render.webp"
+          ],
+          "captions": [
+            "Sketch of the elevated walkway.",
+            "Render of the stairs and planters."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究高架公園與階梯式口袋花園，作為讓街道分層的方法。草圖測試人們可以在哪裡停留、坐下並曬到太陽。",
+              "captions": [
+                "高架步道草圖。",
+                "階梯與植栽的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The ground level gained wider sidewalks, planted edges and street furniture, while cars moved to a driveway below. AI renders helped picture the mood of each layer.",
+          "images": [
+            "assets/board/layered-street-elevated-walkway-redesign-model/05-ground-sketch.webp",
+            "assets/board/layered-street-elevated-walkway-redesign-model/06-before-after.webp",
+            "assets/board/layered-street-elevated-walkway-redesign-model/07-ai-render-a.webp",
+            "assets/board/layered-street-elevated-walkway-redesign-model/08-ai-render-b.webp"
+          ],
+          "captions": [
+            "Sketch of the new ground level.",
+            "The street before and after.",
+            "AI render of the walkway.",
+            "AI render of the driveway entrance."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "地面層加寬人行道、加入植栽邊帶與街道家具，車輛則移到下方車道。AI渲染圖幫助想像每一層的氛圍。",
+              "captions": [
+                "新地面層草圖。",
+                "街道改造前後。",
+                "步道的AI渲染圖。",
+                "車道入口的AI渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model was made with 3D printing and laser cutting at a length of 900 mm. A white walkway zigzags above the street and links its two ends.",
+          "images": [
+            "assets/board/layered-street-elevated-walkway-redesign-model/09-model-detail-a.webp",
+            "assets/board/layered-street-elevated-walkway-redesign-model/10-model-long-view.webp"
+          ],
+          "captions": [
+            "Stairs and a tree on the model.",
+            "The whole street model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以3D列印與雷射切割製成，長900毫米。白色步道在街道上方曲折延伸，連接街道兩端。",
+              "captions": [
+                "模型上的階梯與樹。",
+                "整條街道模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch how people use a street.\n2. Split the street into layers.\n3. Sketch each layer.\n4. Build the whole length.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察人們如何使用街道。\n2. 把街道分成數層。\n3. 逐層繪製草圖。\n4. 做出整條街的長度。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Gaze Chamber",
+      "slug": "gaze-chamber-plaza-stage-3d-print",
+      "description": "A chamber and a floating stage turn a busy city plaza into a place to see and be seen.\n\nModel making | Public space design | 3D print | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "凝視之室",
+          "description": "一座廳室與一座漂浮舞台，把繁忙的城市廣場變成看與被看的場所。\n\n模型製作｜公共空間設計｜3D列印｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/gaze-chamber-plaza-stage-3d-print/01-chamber-model.webp",
+        "assets/board/gaze-chamber-plaza-stage-3d-print/02-sightlines.webp",
+        "assets/board/gaze-chamber-plaza-stage-3d-print/03-chamber-plan.webp",
+        "assets/board/gaze-chamber-plaza-stage-3d-print/04-stage-plan.webp",
+        "assets/board/gaze-chamber-plaza-stage-3d-print/05-model-side.webp",
+        "assets/board/gaze-chamber-plaza-stage-3d-print/06-model-detail-a.webp",
+        "assets/board/gaze-chamber-plaza-stage-3d-print/07-model-detail-b.webp",
+        "assets/board/gaze-chamber-plaza-stage-3d-print/08-plaza-render.webp",
+        "assets/board/gaze-chamber-plaza-stage-3d-print/09-off-season.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/gaze-chamber-plaza-stage-3d-print/01-chamber-model.webp"
+          ],
+          "captions": [
+            "The 3D-printed chamber model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "3D列印的廳室模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The plaza sits between transit, theatres and civic buildings, yet people mostly pass through it. The project asks how it could hold markets, shows and everyday meetings.",
+          "images": [
+            "assets/board/gaze-chamber-plaza-stage-3d-print/02-sightlines.webp"
+          ],
+          "captions": [
+            "Sightlines across the plaza."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這座廣場位於交通、劇院與市政建築之間，人們卻大多只是路過。作品探問它如何容納市集、演出與日常相遇。",
+              "captions": [
+                "穿越廣場的視線分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied how vision and power are linked, and how sightlines can divide a space. Red lines in the plans extend the gaze between the chamber and the stage.",
+          "images": [
+            "assets/board/gaze-chamber-plaza-stage-3d-print/03-chamber-plan.webp",
+            "assets/board/gaze-chamber-plaza-stage-3d-print/04-stage-plan.webp"
+          ],
+          "captions": [
+            "Plan of the chamber.",
+            "Plan of the stage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究視線與權力的關係，以及視線如何劃分空間。平面圖中的紅線延伸了廳室與舞台之間的凝視。",
+              "captions": [
+                "廳室平面圖。",
+                "舞台平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The chamber was carved into the plaza as a broken but continuous sequence of arches. Pauses, turns and framed views slow people down as they move through.",
+          "images": [
+            "assets/board/gaze-chamber-plaza-stage-3d-print/05-model-side.webp",
+            "assets/board/gaze-chamber-plaza-stage-3d-print/06-model-detail-a.webp",
+            "assets/board/gaze-chamber-plaza-stage-3d-print/07-model-detail-b.webp"
+          ],
+          "captions": [
+            "Another view of the arches.",
+            "Arches and wooden ribs.",
+            "Open forms of the chamber."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "廳室以一連串斷開卻連續的拱形嵌入廣場。停頓、轉折與框景讓穿越的人放慢腳步。",
+              "captions": [
+                "拱形的另一個角度。",
+                "拱形與木肋。",
+                "廳室的開放形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A stage floats over a shallow pool and works as seating, a platform or a backdrop. The design does not try to be a landmark, but a frame where different people meet.",
+          "images": [
+            "assets/board/gaze-chamber-plaza-stage-3d-print/08-plaza-render.webp",
+            "assets/board/gaze-chamber-plaza-stage-3d-print/09-off-season.webp"
+          ],
+          "captions": [
+            "Render of the chamber and stage.",
+            "The plaza off season."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "舞台漂浮在淺水池上，可作為座位、平台或布景。設計不求成為地標，而是成為不同人群相遇的框架。",
+              "captions": [
+                "廳室與舞台的渲染圖。",
+                "非活動季節的廣場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map how people move.\n2. Draw the lines of sight.\n3. Shape pauses and turns.\n4. Let the space change use.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 標出人的動線。\n2. 畫出視線。\n3. 塑造停頓與轉折。\n4. 讓空間可以改變用途。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "House of Lines and Colour",
+      "slug": "house-of-lines-and-colour-acrylic-model",
+      "description": "Grid paintings are traced and turned into the planes, voids and colours of a house.\n\nModel making | Architecture | Foam board, acrylic and laser cutting | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "線與色之屋",
+          "description": "臨摹格狀繪畫，並把它們轉化為一棟房屋的平面、虛空與色彩。\n\n模型製作｜建築｜泡棉板、壓克力與雷射切割｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/house-of-lines-and-colour-acrylic-model/01-house-model.webp",
+        "assets/board/house-of-lines-and-colour-acrylic-model/02-drafts.webp",
+        "assets/board/house-of-lines-and-colour-acrylic-model/03-exploded-diagram.webp",
+        "assets/board/house-of-lines-and-colour-acrylic-model/04-view-a.webp",
+        "assets/board/house-of-lines-and-colour-acrylic-model/05-view-b.webp",
+        "assets/board/house-of-lines-and-colour-acrylic-model/06-view-c.webp",
+        "assets/board/house-of-lines-and-colour-acrylic-model/07-view-d.webp",
+        "assets/board/house-of-lines-and-colour-acrylic-model/08-view-e.webp",
+        "assets/board/house-of-lines-and-colour-acrylic-model/09-view-f.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/house-of-lines-and-colour-acrylic-model/01-house-model.webp"
+          ],
+          "captions": [
+            "The finished house model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的房屋模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was drawn to grid paintings with layered depth and shifting lines and colours. The question was how such a flat composition could become a house.",
+          "images": [
+            "assets/board/house-of-lines-and-colour-acrylic-model/02-drafts.webp"
+          ],
+          "captions": [
+            "Traced drafts of lines and points."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生被層次豐富、線條與色彩不斷位移的格狀繪畫吸引。問題是如此平面的構圖如何成為一棟房屋。",
+              "captions": [
+                "線與點的臨摹草稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The paintings were traced to pull out proportions, solids and voids, lines and flows. These drafts became plans and sections of a house.",
+          "images": [
+            "assets/board/house-of-lines-and-colour-acrylic-model/03-exploded-diagram.webp"
+          ],
+          "captions": [
+            "Exploded diagram of the house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生臨摹這些畫作，萃取比例、實與虛、線條與流動。這些草稿成為房屋的平面與剖面。",
+              "captions": [
+                "房屋爆炸圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Clear and coloured acrylic, perforated metal mesh, laser-cut wood and 3D-printed parts were layered. Each part was cut and assembled following CAD models.",
+          "images": [
+            "assets/board/house-of-lines-and-colour-acrylic-model/04-view-a.webp",
+            "assets/board/house-of-lines-and-colour-acrylic-model/05-view-b.webp",
+            "assets/board/house-of-lines-and-colour-acrylic-model/06-view-c.webp"
+          ],
+          "captions": [
+            "Views of the façade.",
+            "Stair and roof views.",
+            "Coloured acrylic panels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生層疊透明與彩色壓克力、沖孔金屬網、雷射切割木材與3D列印零件。每個零件都依照CAD模型切割並組裝。",
+              "captions": [
+                "立面視角。",
+                "樓梯與屋頂視角。",
+                "彩色壓克力板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The house reads as a reinterpreted painting in three dimensions. Windows, slats and coloured panels shift as the viewer walks around it.",
+          "images": [
+            "assets/board/house-of-lines-and-colour-acrylic-model/07-view-d.webp",
+            "assets/board/house-of-lines-and-colour-acrylic-model/08-view-e.webp",
+            "assets/board/house-of-lines-and-colour-acrylic-model/09-view-f.webp"
+          ],
+          "captions": [
+            "Side and top views.",
+            "Window boxes and roof.",
+            "Perforated mesh and roof slats."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這棟房屋就像一幅被立體重新詮釋的畫作。觀者繞行時，窗、條板與彩色面板隨之變化。",
+              "captions": [
+                "側面與頂部視角。",
+                "窗盒與屋頂。",
+                "沖孔網與屋頂條板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Trace a work you admire.\n2. Pull out its rules.\n3. Turn rules into plans.\n4. Build it in layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 臨摹你欣賞的作品。\n2. 萃取它的規則。\n3. 把規則轉成平面。\n4. 分層製作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Lunar Nexus",
+      "slug": "lunar-nexus-crater-habitat-glowing-model",
+      "description": "A habitat inside a lunar crater, with a glass dome, a glowing tower and six underground pods.\n\nModel making | Speculative architecture | Cement, acrylic and 3D print | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "月球樞紐",
+          "description": "一座位於月球坑洞內的棲地，有玻璃穹頂、發光高塔與六個地下艙。\n\n模型製作｜思辨建築｜水泥、壓克力與3D列印｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/01-glowing-tower.webp",
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/02-crater-section.webp",
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/03-plan-sketch.webp",
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/04-glass-dome.webp",
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/05-structure-render.webp",
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/06-pod-model.webp",
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/07-tower-view.webp",
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/08-crater-base.webp",
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/09-garden-pod.webp",
+        "assets/board/lunar-nexus-crater-habitat-glowing-model/10-control-pod.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/01-glowing-tower.webp"
+          ],
+          "captions": [
+            "The glowing habitat tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "發光的棲地高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Lunar craters and underground caves could shelter people from extreme heat, cold and radiation. The project imagines a self-sufficient base built from what the Moon offers.",
+          "images": [
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/02-crater-section.webp"
+          ],
+          "captions": [
+            "Sketch of the crater section."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "月球坑洞與地下洞穴可以讓人避開極端溫差與輻射。作品想像一座以月球自身資源建造的自給基地。",
+              "captions": [
+                "坑洞剖面草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied how lunar soil could make bricks, water and glass. Plan sketches linked homes, labs, energy rooms and gardens around a central core.",
+          "images": [
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/03-plan-sketch.webp",
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/04-glass-dome.webp",
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/05-structure-render.webp"
+          ],
+          "captions": [
+            "Sketch of the floor plans.",
+            "The glass dome model.",
+            "Render of the structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究月壤如何製成磚、水與玻璃。平面草圖把住宅、實驗室、能源室與花園連結在中央核心周圍。",
+              "captions": [
+                "樓層平面草圖。",
+                "玻璃穹頂模型。",
+                "結構渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The crater was cast in cement and fitted with six pods for living, farming, water, repair, storage and computing. Each pod was built and lit as its own small world.",
+          "images": [
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/06-pod-model.webp",
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/08-crater-base.webp",
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/09-garden-pod.webp",
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/10-control-pod.webp"
+          ],
+          "captions": [
+            "A pod on the crater edge.",
+            "Pods along the crater base.",
+            "Inside the agriculture pod.",
+            "Inside the computing pod."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "坑洞以水泥鑄造，並配置六個分別用於居住、農業、水循環、維修、儲存與運算的艙體。每個艙體都被製作並打光成一個小世界。",
+              "captions": [
+                "坑洞邊緣的艙體。",
+                "沿坑底排列的艙體。",
+                "農業艙內部。",
+                "運算艙內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A glowing acrylic tower rises from the crater under a faceted glass dome. The model shows how a community could live and grow in a hostile place.",
+          "images": [
+            "assets/board/lunar-nexus-crater-habitat-glowing-model/07-tower-view.webp"
+          ],
+          "captions": [
+            "The tower against the crater wall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "發光的壓克力高塔在多面玻璃穹頂下自坑洞升起。模型呈現一個社群如何在嚴酷之地生活與成長。",
+              "captions": [
+                "坑壁旁的高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick an extreme site.\n2. List what people need.\n3. Give each need a room.\n4. Light the model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個極端基地。\n2. 列出人的需求。\n3. 為每項需求安排空間。\n4. 為模型打光。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Auspicious Clouds",
+      "slug": "auspicious-clouds-printed-cloud-tower",
+      "description": "Traditional cloud patterns grow into a tall, folded tower of light and voids.\n\nModel making | Architecture | 3D print | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "祥雲",
+          "description": "傳統祥雲紋樣發展成一座高聳、摺疊的光與虛空之塔。\n\n模型製作｜建築｜3D列印｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/auspicious-clouds-printed-cloud-tower/01-cloud-tower.webp",
+        "assets/board/auspicious-clouds-printed-cloud-tower/02-pattern-study.webp",
+        "assets/board/auspicious-clouds-printed-cloud-tower/03-form-study.webp",
+        "assets/board/auspicious-clouds-printed-cloud-tower/04-mass-study.webp",
+        "assets/board/auspicious-clouds-printed-cloud-tower/05-tower-view.webp",
+        "assets/board/auspicious-clouds-printed-cloud-tower/06-drawing.webp",
+        "assets/board/auspicious-clouds-printed-cloud-tower/07-inside-view.webp",
+        "assets/board/auspicious-clouds-printed-cloud-tower/08-detail-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/auspicious-clouds-printed-cloud-tower/01-cloud-tower.webp"
+          ],
+          "captions": [
+            "The 3D-printed cloud tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "3D列印的祥雲塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Cloud patterns carry hopes of rising, harmony and shared memory, and they appear on screens and windows. The student remembered carved screens and paper-cut windows at a grandmother's house.",
+          "images": [
+            "assets/board/auspicious-clouds-printed-cloud-tower/02-pattern-study.webp"
+          ],
+          "captions": [
+            "Cloud patterns turned into forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "祥雲紋樣承載著步步高升、和諧與共同記憶的寓意，常見於屏風與窗花。學生想起外婆家的雕花屏風與剪紙窗花。",
+              "captions": [
+                "祥雲紋樣轉化為形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Digital studies turned flat cloud curls into stacked walls and voids. Each version tested how light and shadow pass between them.",
+          "images": [
+            "assets/board/auspicious-clouds-printed-cloud-tower/03-form-study.webp",
+            "assets/board/auspicious-clouds-printed-cloud-tower/04-mass-study.webp"
+          ],
+          "captions": [
+            "Stacked cloud forms.",
+            "Wall and void studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "數位研究把平面的雲紋捲曲轉化為堆疊的牆與虛空。每個版本都測試光影如何在其間穿行。",
+              "captions": [
+                "堆疊的雲形。",
+                "牆與虛空研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The forms were drawn and printed as thin, folded shells that open and close. Small figures show the scale of the spaces inside.",
+          "images": [
+            "assets/board/auspicious-clouds-printed-cloud-tower/06-drawing.webp",
+            "assets/board/auspicious-clouds-printed-cloud-tower/05-tower-view.webp"
+          ],
+          "captions": [
+            "Drawing of the folded forms.",
+            "Another side of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把形體繪製並列印成可開可合的薄摺殼。小人模型標示出內部空間的尺度。",
+              "captions": [
+                "摺疊形體的繪圖。",
+                "塔的另一面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The tower looks like clouds drifting overhead and forms small sanctuaries of light. Each visitor finds a personal view, while the whole stays one continuous memory.",
+          "images": [
+            "assets/board/auspicious-clouds-printed-cloud-tower/07-inside-view.webp",
+            "assets/board/auspicious-clouds-printed-cloud-tower/08-detail-view.webp"
+          ],
+          "captions": [
+            "Looking up between the folds.",
+            "Light through the folds."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "塔體宛如飄過頭頂的雲，形成一處處光的小聖所。每位訪客都能找到自己的視角，而整體仍是一段連續的記憶。",
+              "captions": [
+                "在摺面之間仰望。",
+                "穿過摺面的光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a memory.\n2. Study a pattern.\n3. Turn lines into walls.\n4. Test light between them.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從記憶出發。\n2. 研究一個紋樣。\n3. 把線轉成牆。\n4. 測試其間的光。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Traversing the Fifth Dimension",
+      "slug": "fifth-dimension-wooden-stick-and-mirror-grid",
+      "description": "A film scene of an endless bookshelf in time becomes a grid of wooden sticks and mirrors.\n\nModel making | Spatial design | Wooden sticks and mirrors | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "穿越第五維度",
+          "description": "一個時間中無盡書架的電影場景，化為木條與鏡子構成的格網。\n\n模型製作｜空間設計｜木條與鏡子｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/01-stick-grid.webp",
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/02-film-stills.webp",
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/03-scene-sketch.webp",
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/04-abstraction.webp",
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/05-making.webp",
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/06-figures.webp",
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/07-deep-view.webp",
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/08-drawing.webp",
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/09-top-view.webp",
+        "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/10-mirror-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/01-stick-grid.webp"
+          ],
+          "captions": [
+            "The wooden stick grid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "木條格網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In a science-fiction film, a space outside time lets a traveller look into a room at many moments. The student chose this bookshelf scene for its rich spatial quality.",
+          "images": [
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/02-film-stills.webp"
+          ],
+          "captions": [
+            "Film stills used as inspiration."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在一部科幻電影中，一個時間之外的空間讓旅人能在許多時刻窺看同一個房間。學生因這個書架場景豐富的空間感而選擇它。",
+              "captions": [
+                "作為靈感的電影劇照。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Scenes were sketched and then reduced to points, lines and planes. The grid became a way to show past, present and future at once.",
+          "images": [
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/03-scene-sketch.webp",
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/04-abstraction.webp"
+          ],
+          "captions": [
+            "Sketch of the film scene.",
+            "Lines and planes from the scene."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先速寫場景，再把它簡化為點、線與面。格網成為同時呈現過去、現在與未來的方法。",
+              "captions": [
+                "電影場景速寫。",
+                "從場景萃取的線與面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wooden sticks were glued into a regular frame, with each crossing marking a moment. Small figures were placed to show a parent and child across dimensions.",
+          "images": [
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/05-making.webp",
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/06-figures.webp"
+          ],
+          "captions": [
+            "Building the stick frame.",
+            "Figures for the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把木條黏成規則的框架，每個交點代表一個時刻。小人物被放在不同維度中，代表一對親子。",
+              "captions": [
+                "搭建木條框架。",
+                "模型人物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Mirrors repeat the grid endlessly, and threads hint at the pull of gravity. The centre of the maze stands for the point where space and time begin and end.",
+          "images": [
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/07-deep-view.webp",
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/08-drawing.webp",
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/09-top-view.webp",
+            "assets/board/fifth-dimension-wooden-stick-and-mirror-grid/10-mirror-view.webp"
+          ],
+          "captions": [
+            "Looking deep into the grid.",
+            "Drawing of a figure in the grid.",
+            "The model from above.",
+            "Mirrors and threads inside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "鏡子讓格網無限重複，細線暗示重力的牽引。迷宮的中心象徵時空的起點與終點。",
+              "captions": [
+                "深入格網的視角。",
+                "格網中人物的素描。",
+                "模型俯視。",
+                "內部的鏡子與細線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a scene you love.\n2. Sketch it, then simplify.\n3. Find its structure.\n4. Build and reflect it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個喜愛的場景。\n2. 先速寫再簡化。\n3. 找出它的結構。\n4. 做出來並加以反射。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Infinite Loop: Memory Paths",
+      "slug": "infinite-loop-memory-paths-stair-tower",
+      "description": "Looping paper stairs inside a wooden frame show branching choices held in one structure.\n\nModel making | Spatial design | PVC board and wooden strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "無限迴圈：記憶路徑",
+          "description": "木框中迴繞的紙階梯，呈現收束在同一結構中的分岔選擇。\n\n模型製作｜空間設計｜PVC板與木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/infinite-loop-memory-paths-stair-tower/01-stair-tower.webp",
+        "assets/board/infinite-loop-memory-paths-stair-tower/02-unit-blocks.webp",
+        "assets/board/infinite-loop-memory-paths-stair-tower/03-unit-stack.webp",
+        "assets/board/infinite-loop-memory-paths-stair-tower/04-frame-process.webp",
+        "assets/board/infinite-loop-memory-paths-stair-tower/05-stair-process.webp",
+        "assets/board/infinite-loop-memory-paths-stair-tower/06-final-top.webp",
+        "assets/board/infinite-loop-memory-paths-stair-tower/07-final-side.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/infinite-loop-memory-paths-stair-tower/01-stair-tower.webp"
+          ],
+          "captions": [
+            "The stair tower model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "階梯塔模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was drawn to stories where different choices unfold as parallel paths. Each stair in the model stands for a possible memory or decision.",
+          "images": [
+            "assets/board/infinite-loop-memory-paths-stair-tower/02-unit-blocks.webp"
+          ],
+          "captions": [
+            "Stair unit blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生著迷於不同選擇展開成平行路徑的故事。模型中的每段階梯都代表一段可能的記憶或抉擇。",
+              "captions": [
+                "階梯單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A stair unit was designed and repeated to test how paths can branch and loop. Stacked units began to form a tower.",
+          "images": [
+            "assets/board/infinite-loop-memory-paths-stair-tower/03-unit-stack.webp"
+          ],
+          "captions": [
+            "Units stacked into a tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生設計一個階梯單元並重複使用，測試路徑如何分岔與迴繞。堆疊的單元逐漸形成一座塔。",
+              "captions": [
+                "單元堆疊成塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A wooden frame was built first, and the looping stairs were attached to it. The frame stands for one self, while the stairs inside show unstable paths.",
+          "images": [
+            "assets/board/infinite-loop-memory-paths-stair-tower/04-frame-process.webp",
+            "assets/board/infinite-loop-memory-paths-stair-tower/05-stair-process.webp"
+          ],
+          "captions": [
+            "The wooden frame.",
+            "Stairs added to the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生先搭建木框，再把迴繞的階梯固定上去。木框代表一個完整的自我，內部階梯則呈現不穩定的路徑。",
+              "captions": [
+                "木框架。",
+                "加上階梯的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Stairs grow outward step by step like branching storylines. However far the paths go, they stay inside one frame, a picture of freedom within limits.",
+          "images": [
+            "assets/board/infinite-loop-memory-paths-stair-tower/06-final-top.webp",
+            "assets/board/infinite-loop-memory-paths-stair-tower/07-final-side.webp"
+          ],
+          "captions": [
+            "The final model, upper part.",
+            "The final model from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "階梯一步步向外生長，宛如分岔的故事線。無論路徑延伸多遠，都仍在同一框架內，象徵限制中的自由。",
+              "captions": [
+                "最終模型上段。",
+                "最終模型側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Turn an idea into a unit.\n2. Repeat and vary it.\n3. Hold it in a frame.\n4. Let it grow outward.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把想法變成單元。\n2. 重複並變化。\n3. 以框架承載。\n4. 讓它向外生長。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Living Cavities: Symbiotic Habitat",
+      "slug": "living-cavities-coral-inspired-habitat",
+      "description": "Coral skeletons and neural networks inspire a porous habitat of linked living spaces.\n\nDigital modelling | Speculative architecture | Rhino and 3D print | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "生命孔洞：共生棲地",
+          "description": "珊瑚骨骼與神經網絡啟發一座由相連生活空間構成的多孔棲地。\n\n數位建模｜思辨建築｜Rhino與3D列印｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/living-cavities-coral-inspired-habitat/01-habitat-render.webp",
+        "assets/board/living-cavities-coral-inspired-habitat/02-voronoi-process.webp",
+        "assets/board/living-cavities-coral-inspired-habitat/03-network-pattern.webp",
+        "assets/board/living-cavities-coral-inspired-habitat/04-cross-section.webp",
+        "assets/board/living-cavities-coral-inspired-habitat/05-section-studies.webp",
+        "assets/board/living-cavities-coral-inspired-habitat/06-habitat-view.webp",
+        "assets/board/living-cavities-coral-inspired-habitat/07-white-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/living-cavities-coral-inspired-habitat/01-habitat-render.webp"
+          ],
+          "captions": [
+            "Render of the porous habitat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "多孔棲地的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Coral skeletons lose their link to the outside world, and the student saw them as frames for new life. Neural networks added the idea of connected flows.",
+          "images": [
+            "assets/board/living-cavities-coral-inspired-habitat/03-network-pattern.webp"
+          ],
+          "captions": [
+            "The branching network pattern."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "珊瑚骨骼失去了與外界的連結，學生把它們視為新生命的框架。神經網絡則帶來相互連結流動的概念。",
+              "captions": [
+                "分枝網絡圖樣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Random points in a cube were turned into cells and then into a branching network. Contour lines cut the form into floor plates.",
+          "images": [
+            "assets/board/living-cavities-coral-inspired-habitat/02-voronoi-process.webp"
+          ],
+          "captions": [
+            "From cells to branching networks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生在立方體中產生隨機點，轉成細胞，再轉成分枝網絡。等高線把形體切出樓板。",
+              "captions": [
+                "從細胞到分枝網絡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A sectional cut showed each cavity as a node for living, working or gathering. Studies marked which voids could hold rooms.",
+          "images": [
+            "assets/board/living-cavities-coral-inspired-habitat/04-cross-section.webp",
+            "assets/board/living-cavities-coral-inspired-habitat/05-section-studies.webp"
+          ],
+          "captions": [
+            "Section with living spaces.",
+            "Studies of the cavities."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "剖切面把每個孔洞呈現為居住、工作或聚會的節點。研究圖標出哪些虛空可以容納房間。",
+              "captions": [
+                "含生活空間的剖面。",
+                "孔洞研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The porous habitat joins private rooms and public space in one network. It suggests a way for people and the environment to live together.",
+          "images": [
+            "assets/board/living-cavities-coral-inspired-habitat/06-habitat-view.webp",
+            "assets/board/living-cavities-coral-inspired-habitat/07-white-model.webp"
+          ],
+          "captions": [
+            "Another view of the habitat.",
+            "Close views of the form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "多孔棲地把私人房間與公共空間結合在同一個網絡中。它提出人與環境共存的一種方式。",
+              "captions": [
+                "棲地的另一個角度。",
+                "形體近看。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Borrow a form from nature.\n2. Generate it with rules.\n3. Cut it into floors.\n4. Assign uses to voids.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 向自然借用形體。\n2. 以規則生成。\n3. 切出樓層。\n4. 為虛空安排用途。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Ski Trail",
+      "slug": "ski-trail-spiral-urban-training-base",
+      "description": "A spiral ski training base brings slopes, simulators and viewing halls into the city all year.\n\nModel making | Architecture | PVC board and wooden strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "滑雪道",
+          "description": "一座螺旋形滑雪訓練基地，把雪道、模擬器與觀賞廳全年帶進城市。\n\n模型製作｜建築｜PVC板與木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/ski-trail-spiral-urban-training-base/01-training-base.webp",
+        "assets/board/ski-trail-spiral-urban-training-base/02-drafts.webp",
+        "assets/board/ski-trail-spiral-urban-training-base/03-spiral-model.webp",
+        "assets/board/ski-trail-spiral-urban-training-base/04-spiral-side-a.webp",
+        "assets/board/ski-trail-spiral-urban-training-base/05-spiral-side-b.webp",
+        "assets/board/ski-trail-spiral-urban-training-base/06-ring-model.webp",
+        "assets/board/ski-trail-spiral-urban-training-base/07-perspective-sketch.webp",
+        "assets/board/ski-trail-spiral-urban-training-base/08-top-view.webp",
+        "assets/board/ski-trail-spiral-urban-training-base/09-inside-view.webp",
+        "assets/board/ski-trail-spiral-urban-training-base/10-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/ski-trail-spiral-urban-training-base/01-training-base.webp"
+          ],
+          "captions": [
+            "The ski training base model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "滑雪訓練基地模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student skis competitively and found it hard to keep training in the off season. The city has no proper place for year-round practice.",
+          "images": [
+            "assets/board/ski-trail-spiral-urban-training-base/02-drafts.webp"
+          ],
+          "captions": [
+            "Drafts of spiral and floor plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生參加滑雪競賽，發現淡季很難持續訓練。城市裡沒有適合全年練習的場所。",
+              "captions": [
+                "螺旋與樓層草稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Drafts tested spirals and rings for slopes, rental rooms, viewing halls and changing rooms. The spiral kept every part open to view.",
+          "images": [
+            "assets/board/ski-trail-spiral-urban-training-base/03-spiral-model.webp",
+            "assets/board/ski-trail-spiral-urban-training-base/04-spiral-side-a.webp",
+            "assets/board/ski-trail-spiral-urban-training-base/05-spiral-side-b.webp"
+          ],
+          "captions": [
+            "The first spiral model.",
+            "The spiral from the side.",
+            "Ramps around the spiral."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "草稿測試以螺旋與環形安排雪道、租借室、觀賞廳與更衣室。螺旋讓每個部分都保持可見。",
+              "captions": [
+                "第一個螺旋模型。",
+                "螺旋側面。",
+                "環繞螺旋的坡道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A second model wrapped the floors in rings with an artificial slope on the roof and outer edges. Simulators inside allow technical training in any season.",
+          "images": [
+            "assets/board/ski-trail-spiral-urban-training-base/06-ring-model.webp",
+            "assets/board/ski-trail-spiral-urban-training-base/07-perspective-sketch.webp"
+          ],
+          "captions": [
+            "The second model with rings.",
+            "Perspective sketch of the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "第二個模型以環形包覆樓層，並在屋頂與外緣設置人工雪道。內部的模擬器讓任何季節都能進行技術訓練。",
+              "captions": [
+                "第二個環形模型。",
+                "基地透視草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Coaches and parents can watch training from many points around the base. Skiing becomes both practice and a show for the city.",
+          "images": [
+            "assets/board/ski-trail-spiral-urban-training-base/08-top-view.webp",
+            "assets/board/ski-trail-spiral-urban-training-base/09-inside-view.webp",
+            "assets/board/ski-trail-spiral-urban-training-base/10-side-view.webp"
+          ],
+          "captions": [
+            "Trees in the central court.",
+            "Inside the rings.",
+            "Another side of the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "教練與家長可以從基地周圍許多位置觀看訓練。滑雪同時成為練習與城市的風景。",
+              "captions": [
+                "中庭的樹。",
+                "環形內部。",
+                "基地另一側。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from your own sport.\n2. List what training needs.\n3. Wrap it in one form.\n4. Let others watch.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從自己的運動出發。\n2. 列出訓練需求。\n3. 收進一個形體。\n4. 讓別人看得見。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
