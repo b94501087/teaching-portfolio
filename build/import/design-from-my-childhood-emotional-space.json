@@ -1,0 +1,61 @@
+{
+  "project": "Design From My Childhood",
+  "dest": "assets/board/design-from-my-childhood-emotional-space",
+  "note": "Portfolio 2cd4 pages 14-15 cropped to nine images, WebP q88 (PIL). Not used: title, inspiration and step text, size labels.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "dda4da2fdba5df06faabb3599c8938076ec0f4d210a3b32bc28f72789b85047b",
+      "bytes": 75322,
+      "from": "2cd4 page 15 — final model, overall view"
+    },
+    {
+      "name": "02-childhood-drawings.webp",
+      "sha256": "06bb06c1c93ee818d2772a6c68f566eee114034d095d9b9a9a8cd532a29ae782",
+      "bytes": 58138,
+      "from": "2cd4 page 14 — childhood drawings"
+    },
+    {
+      "name": "03-colour-abstractions.webp",
+      "sha256": "67429abde01ae4eb6eafd09c9d97107b80614909e9608604e36012da55781af5",
+      "bytes": 32778,
+      "from": "2cd4 page 14 — abstract colour compositions"
+    },
+    {
+      "name": "04-spatial-studies.webp",
+      "sha256": "4fe357116737308054d58e4380d421c11158c006e535eea04fd27fad14d96d07",
+      "bytes": 23332,
+      "from": "2cd4 page 14 — spatial studies"
+    },
+    {
+      "name": "05-process-models.webp",
+      "sha256": "925dedf55c20115a28ea8eccef48a44818b0fbe6b07986aeffa200280eba17af",
+      "bytes": 28634,
+      "from": "2cd4 page 14 — process models"
+    },
+    {
+      "name": "06-model-overview.webp",
+      "sha256": "31667703c944f5cf4d1326c5e92c520d69128024e26d32b965337bb0037d9385",
+      "bytes": 39400,
+      "from": "2cd4 page 14 — model overview"
+    },
+    {
+      "name": "07-front-view.webp",
+      "sha256": "6c205cf409e702496d6b195f6a0800f7171ea79e7128b3337704896486e63a9d",
+      "bytes": 51826,
+      "from": "2cd4 page 15 — model front view"
+    },
+    {
+      "name": "08-side-view.webp",
+      "sha256": "1dc26503a012173c08d0d023eb7f9ecaf2b34318dbab61b149cc5312e23466eb",
+      "bytes": 43510,
+      "from": "2cd4 page 15 — model side view"
+    },
+    {
+      "name": "09-model-details.webp",
+      "sha256": "a6a6d47c7c680df7fcdbad4633fca9450547fe7e9a41a8f8dd1c2dd6c31e8e40",
+      "bytes": 65236,
+      "from": "2cd4 page 15 — model details"
+    }
+  ]
+}
