@@ -1,0 +1,61 @@
+{
+  "project": "Taipei X-Site",
+  "dest": "assets/board/taipei-x-site-ocean-installation",
+  "note": "Portfolio 2ce6 pages 15–17 cropped to nine images, WebP q88 (PIL), max 2000 px wide. Not used: the site analysis panel with a map, the global warming photo collage and the site information photos on page 15, and the night rendering with photo figures on page 17. No retouching.",
+  "files": [
+    {
+      "name": "01-scene-display.webp",
+      "sha256": "2eadb433642f39d1465dd4ded97436280e3bbaba304dcdcd5ed578d1c2307bd6",
+      "bytes": 240886,
+      "from": "2ce6 page 16 — scene display with the water collecting system, x 33–70 %, y 0–100 %"
+    },
+    {
+      "name": "02-weather-data-analysis.webp",
+      "sha256": "1deeac9d13db3b81d8ab54288625468835559ef7daeae9a1cde215c3c7e646fc",
+      "bytes": 233232,
+      "from": "page 15 — weather data analysis, x 40–62.5 %, y 0–100 %"
+    },
+    {
+      "name": "03-plan-form-and-climate.webp",
+      "sha256": "7d1843bd5b8b8df17202869068ba61fe46b4b3575b42399994a218b0c3ba41e9",
+      "bytes": 239534,
+      "from": "page 15 — plan form and climate figures, x 62.5–83.5 %, y 0–100 %"
+    },
+    {
+      "name": "04-form-formation.webp",
+      "sha256": "d8045c4d6780cabf30de8ad2aa75764639082cb7abb50ec6439acc7622394366",
+      "bytes": 162316,
+      "from": "page 16 — formation of the form in four steps, x 0–15 %, y 0–100 %"
+    },
+    {
+      "name": "05-entity-model.webp",
+      "sha256": "f4b6babbe789a2777ad84bbfd2295b688d76f70bfda9f976c429427e89ced3b7",
+      "bytes": 148672,
+      "from": "page 16 — entity model, x 15–33 %, y 0–60 %"
+    },
+    {
+      "name": "06-material-composition.webp",
+      "sha256": "ec718f118df215f8f782f3876062abc8857e570710eef4efb47a9dbab472f58f",
+      "bytes": 62934,
+      "from": "page 16 — 1x1 material composition, x 15–33 %, y 60–100 %"
+    },
+    {
+      "name": "07-installation-elevations.webp",
+      "sha256": "5cf4f9b5016d581f90fab41eb7b0bf5b68bce1772d24bc05bce3518e5169028f",
+      "bytes": 138844,
+      "from": "page 16 — elevations, x 70–100 %, y 0–62 %"
+    },
+    {
+      "name": "08-installation-plan.webp",
+      "sha256": "cd6f17d76065ebf5d5741966870532245734853669e37396363409c7f3bba7b4",
+      "bytes": 112560,
+      "from": "page 16 — plan and description, x 70–100 %, y 62–100 %"
+    },
+    {
+      "name": "09-rainy-bright-and-dark.webp",
+      "sha256": "5ccd91bce896791a16b4dbe4ca26487c1ab2c60800a41a64e04c695844474917",
+      "bytes": 362516,
+      "from": "page 17 — rainy day, bright day and dark night scenes, x 30–100 %, y 0–100 %"
+    }
+  ]
+}
