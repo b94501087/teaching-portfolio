@@ -1,0 +1,55 @@
+{
+  "project": "Deconstructing Geometry",
+  "dest": "assets/board/deconstructing-geometry-triangle-strip-structure",
+  "note": "Portfolio d824 pages 2-3 cropped to eight images, WebP q88 (PIL). Not used: title and text, precedent park plan and photos.",
+  "files": [
+    {
+      "name": "01-final-triangle-structure.webp",
+      "sha256": "5f5774cc85aec619fb1357e4301d397792cf88e1ba718866590ff652a9d05b07",
+      "bytes": 110418,
+      "from": "d824 page 3 — final structure"
+    },
+    {
+      "name": "02-hand-drawn-triangles.webp",
+      "sha256": "61d309f2aca07a0e1b0ff8a6e8a268b0ee407d3373bdd6975206feb964f54d21",
+      "bytes": 32544,
+      "from": "d824 page 2 — hand drawing"
+    },
+    {
+      "name": "03-pvc-strip-tests.webp",
+      "sha256": "026b7f98272dde5d3b500b6c272cdc32ecc5f6b21fba1f2642299539e1d477cc",
+      "bytes": 15504,
+      "from": "d824 page 2 — PVC strip tests"
+    },
+    {
+      "name": "04-light-through-strips.webp",
+      "sha256": "1edef6fe9effddfb14da83b3fe2a577b7436111110e8ae25689aac471c601ea9",
+      "bytes": 11910,
+      "from": "d824 page 2 — light through strips"
+    },
+    {
+      "name": "05-layered-strips.webp",
+      "sha256": "7b111896a030a805e5c58f8ba9243e5bb7e6390dfdf3051c3a656c8b396e8d6f",
+      "bytes": 16494,
+      "from": "d824 page 2 — layered strips"
+    },
+    {
+      "name": "06-regenerated-modules.webp",
+      "sha256": "e31c89162bfa0f0fada1802a234333f3b3a13aeac3cfaebb48a617d5e1063c86",
+      "bytes": 52796,
+      "from": "d824 page 2 — regenerated modules"
+    },
+    {
+      "name": "07-model-from-above.webp",
+      "sha256": "1340735fdcaaf61f887bcdefc79458b2c8cfedaed66146ab81fd8d87d224a4d5",
+      "bytes": 55340,
+      "from": "d824 page 3 — model from above"
+    },
+    {
+      "name": "08-model-close-up.webp",
+      "sha256": "3bfa01a7b68b685b1e1fe51bf1b8674ce6369e371af2851677a3f6d407709bcd",
+      "bytes": 111278,
+      "from": "d824 page 3 — model close-up"
+    }
+  ]
+}
