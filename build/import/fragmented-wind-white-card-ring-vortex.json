@@ -1,0 +1,55 @@
+{
+  "project": "Fragmented Wind",
+  "dest": "assets/board/fragmented-wind-white-card-ring-vortex",
+  "note": "Portfolio 6653 pages 15-16 cropped to 8 images, WebP q88 (PIL). Not used: toy franchise and character names, process photo with hands.",
+  "files": [
+    {
+      "name": "01-swirling-card-vortex.webp",
+      "sha256": "624cca02ea44daba24447498afc779b828ac2835875984467f0963985cfe2262",
+      "bytes": 110132,
+      "from": "6653 pages 15-16 — the swirling card vortex"
+    },
+    {
+      "name": "02-ring-light-trails.webp",
+      "sha256": "83cfe83b18420742c0a368c115e8ac6243df973e13f0e45dc2b69ab333fa30a6",
+      "bytes": 5524,
+      "from": "6653 pages 15-16 — light trails of spinning rings"
+    },
+    {
+      "name": "03-early-ring-studies.webp",
+      "sha256": "0e4ffba7ac115bf391536dfc90edc325e7b26f3e2b4703dbf5e00b3453640d42",
+      "bytes": 19674,
+      "from": "6653 pages 15-16 — early curled card studies"
+    },
+    {
+      "name": "04-vortex-from-above.webp",
+      "sha256": "b54d5101a820629acfc2839ed5aea4e10716729f078aebdba16ebe104fcd20c5",
+      "bytes": 28414,
+      "from": "6653 pages 15-16 — the vortex from above"
+    },
+    {
+      "name": "05-ring-of-card-fragments.webp",
+      "sha256": "e4226a8a6d05202698398b8b50e377e687169a00f04cfe3487db21006a8e19fd",
+      "bytes": 40580,
+      "from": "6653 pages 15-16 — a ring of card fragments"
+    },
+    {
+      "name": "06-ring-shell-and-figures.webp",
+      "sha256": "c2d63259969869ed1335d571c52c25aaf674ea392133fcb8a6581dce93545f40",
+      "bytes": 32956,
+      "from": "6653 pages 15-16 — the ring shell with figures"
+    },
+    {
+      "name": "07-curling-fragments.webp",
+      "sha256": "615e44eb150d02e232a6bc5598a49ffcd070eb299abbbe80e399fe98075b416b",
+      "bytes": 25610,
+      "from": "6653 pages 15-16 — curling fragments"
+    },
+    {
+      "name": "08-fragment-layers-close.webp",
+      "sha256": "2d6e1931511d215436b804cd93868955e5515a124d42539fd142396dec9c7e9f",
+      "bytes": 46898,
+      "from": "6653 pages 15-16 — fragment layers up close"
+    }
+  ]
+}
