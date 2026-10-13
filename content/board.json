@@ -64136,6 +64136,294 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Piano Key Tower",
+      "slug": "piano-key-tower-stacked-note-box-skyscraper",
+      "description": "Notes from piano scores are drawn as black and white boxes, then stacked into an uneven tower of white layers.\n\nModel making | Music and vertical city | Foam board, museum board, Photoshop, Rhino, Illustrator | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "琴鍵之塔",
+          "description": "鋼琴樂譜中的音符被畫成黑白方塊，再堆疊成一座參差不齊的白色層疊高塔。\n\n模型製作｜音樂與垂直城市｜泡棉板、博物館紙板、Photoshop、Rhino、Illustrator｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/01-tower-montage.webp",
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/02-key-blocks.webp",
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/03-note-boxes.webp",
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/04-block-diagram.webp",
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/05-paper-blocks.webp",
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/06-paper-cluster.webp",
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/07-tall-model.webp",
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/08-tower-sketch.webp",
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/09-detail-left.webp",
+        "assets/board/piano-key-tower-stacked-note-box-skyscraper/10-detail-right.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/01-tower-montage.webp"
+          ],
+          "captions": [
+            "The tower set into a skyline."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "置入天際線中的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student has played piano since early childhood and loves classical pieces. The project asks how the black and white keys could become a building.",
+          "images": [
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/02-key-blocks.webp"
+          ],
+          "captions": [
+            "Keys as simple bars."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生從小就彈鋼琴，熱愛古典樂曲。這個專題探問黑白琴鍵如何成為一棟建築。",
+              "captions": [
+                "化為簡單條塊的琴鍵。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Short passages of favourite pieces were chosen and each note was redrawn as a box. Filled boxes stand for the black keys.",
+          "images": [
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/03-note-boxes.webp",
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/04-block-diagram.webp"
+          ],
+          "captions": [
+            "Notes filled as boxes on the score.",
+            "The notes as a 3D block diagram."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生挑選喜愛樂曲中的短樂段，把每個音符重畫成方塊。填黑的方塊代表黑鍵。",
+              "captions": [
+                "在樂譜上填成方塊的音符。",
+                "音符化成的立體方塊圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The idea of building upward instead of outward guided the next step. Board layers, each with its own uneven design, were built one by one and stacked.",
+          "images": [
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/05-paper-blocks.webp",
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/06-paper-cluster.webp",
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/07-tall-model.webp"
+          ],
+          "captions": [
+            "First paper blocks.",
+            "A cluster of boxes.",
+            "The tall layered model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "向上而非向外發展的概念引導了下一步。每一層都有獨特而不規則設計的板材層被逐一製作並堆疊起來。",
+              "captions": [
+                "最初的紙方塊。",
+                "一組方塊。",
+                "高聳的層疊模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each block could hold homes, sports, dining, balconies or green rooms. The tower can change or grow taller as needs change.",
+          "images": [
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/08-tower-sketch.webp",
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/09-detail-left.webp",
+            "assets/board/piano-key-tower-stacked-note-box-skyscraper/10-detail-right.webp"
+          ],
+          "captions": [
+            "A sketch looking up the tower.",
+            "Detail of the layers.",
+            "Rooms in the stack."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每個方塊都能容納住宅、運動、餐飲、陽台或綠色空間。這座塔可以隨需求改變或繼續長高。",
+              "captions": [
+                "仰望塔身的草圖。",
+                "層板細部。",
+                "堆疊中的房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from what you play.\n2. Turn notes into boxes.\n3. Stack upward.\n4. Let every layer differ.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從你演奏的音樂開始。\n2. 把音符化為方塊。\n3. 向上堆疊。\n4. 讓每一層都不同。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Trombone Metropolis",
+      "slug": "trombone-metropolis-recycled-nail-city-model",
+      "description": "A trombone is taken apart into tubes on paper, and the parts become an industrial city built from recycled nails and bike parts.\n\nModel making | Industrial city | Recycled nails, screws, bicycle parts | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "長號都市",
+          "description": "一把長號在紙上被拆解成管件，這些部件化為一座以回收螺絲與單車零件建成的工業城市。\n\n模型製作｜工業城市｜回收鐵釘、螺絲、單車零件｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/trombone-metropolis-recycled-nail-city-model/01-metal-city.webp",
+        "assets/board/trombone-metropolis-recycled-nail-city-model/02-instrument-sketches.webp",
+        "assets/board/trombone-metropolis-recycled-nail-city-model/03-dissected-parts.webp",
+        "assets/board/trombone-metropolis-recycled-nail-city-model/04-tube-axonometric.webp",
+        "assets/board/trombone-metropolis-recycled-nail-city-model/05-model-left.webp",
+        "assets/board/trombone-metropolis-recycled-nail-city-model/06-model-right.webp",
+        "assets/board/trombone-metropolis-recycled-nail-city-model/07-high-contrast.webp",
+        "assets/board/trombone-metropolis-recycled-nail-city-model/08-detail-gears.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/trombone-metropolis-recycled-nail-city-model/01-metal-city.webp"
+          ],
+          "captions": [
+            "The metal city model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "金屬城市模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The trombone, a long-time interest of the student, is made of many linked tubes. The project asks whether those parts could become blocks for building a city.",
+          "images": [
+            "assets/board/trombone-metropolis-recycled-nail-city-model/02-instrument-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of the instrument."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "長號是學生長久以來的興趣，由許多相連的管子組成。這個專題探問這些部件能否成為建造城市的積木。",
+              "captions": [
+                "樂器草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student sketched the whole instrument and then focused on the slide braces and mouthpiece. In Photoshop the drawings were cut into small pieces.",
+          "images": [
+            "assets/board/trombone-metropolis-recycled-nail-city-model/03-dissected-parts.webp"
+          ],
+          "captions": [
+            "Parts rearranged into buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先畫下整把樂器，再聚焦於滑管支架與吹嘴。這些圖在Photoshop中被切成小片段。",
+              "captions": [
+                "重組成建築的部件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Only the broken-down parts were used to draw new buildings and structures. The scale model then swapped tubes for recycled nails and bicycle parts.",
+          "images": [
+            "assets/board/trombone-metropolis-recycled-nail-city-model/04-tube-axonometric.webp",
+            "assets/board/trombone-metropolis-recycled-nail-city-model/05-model-left.webp",
+            "assets/board/trombone-metropolis-recycled-nail-city-model/06-model-right.webp"
+          ],
+          "captions": [
+            "A city drawn from tubes.",
+            "The model from the left.",
+            "The model from the right."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生只用拆解後的部件來繪製新的建築與結構。比例模型再以回收鐵釘與單車零件取代管件。",
+              "captions": [
+                "以管件繪成的城市。",
+                "模型左側。",
+                "模型右側。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Long parts act as pipes and thick nails act as beams, like the inside of a factory. Small figures show that people can still live and meet in this metal skyline.",
+          "images": [
+            "assets/board/trombone-metropolis-recycled-nail-city-model/07-high-contrast.webp",
+            "assets/board/trombone-metropolis-recycled-nail-city-model/08-detail-gears.webp"
+          ],
+          "captions": [
+            "Towers of screws.",
+            "Gears and stairs in detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "長形零件像管線，粗鐵釘像樑，宛如工廠內部。小人偶表示人們仍能在這片金屬天際線中生活與相遇。",
+              "captions": [
+                "螺絲構成的塔。",
+                "齒輪與樓梯細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Take something apart.\n2. Draw its pieces.\n3. Rebuild something new.\n4. Find real parts.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 拆解一件物品。\n2. 畫下它的零件。\n3. 重組成新事物。\n4. 找到真實的材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
