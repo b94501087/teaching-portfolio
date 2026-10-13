@@ -1,0 +1,67 @@
+{
+  "project": "Space and Texture",
+  "dest": "assets/board/space-and-texture-cardboard-cement-and-triangle-frames",
+  "note": "Portfolio 1d99 pages 9-10 cropped to 10 images, WebP q88 (PIL). Not used: novel title and author, city photo references and city-based sketch, landscape photograph from a school trip, process photo of the student, villa case-study plans and drawings, Other Works page.",
+  "files": [
+    {
+      "name": "01-contorted-triangle-frame.webp",
+      "sha256": "e425336ed0dba53de7d9b7cbe91eea0175aec8aea0451a5084f1eb991a6fb4c2",
+      "bytes": 151984,
+      "from": "1d99 pages 9-10 — the contorted triangle frame"
+    },
+    {
+      "name": "02-cut-cardboard-concept.webp",
+      "sha256": "4ac32e706652fd6df84ab48478c472d54dda9287a096797eda0b4280828cac75",
+      "bytes": 125690,
+      "from": "1d99 pages 9-10 — the cut cardboard concept"
+    },
+    {
+      "name": "03-standing-cardboard-pieces.webp",
+      "sha256": "a22f4c78d86851348e457b95fa9b60a20a315fd58baddd7324db9d56157f0a81",
+      "bytes": 149388,
+      "from": "1d99 pages 9-10 — standing cardboard pieces"
+    },
+    {
+      "name": "04-triangle-outline-drawing.webp",
+      "sha256": "bd5f01da08f2296b1b2ed7033df9185c467c66ba6a971a09bbfaa8c7ddbac3e7",
+      "bytes": 83562,
+      "from": "1d99 pages 9-10 — a triangle outline drawing"
+    },
+    {
+      "name": "05-cement-texture-slab.webp",
+      "sha256": "66cff060ace5a8ae6ce20817e91b963fa5506c190c9876461c95cd47bd9c8c75",
+      "bytes": 102708,
+      "from": "1d99 pages 9-10 — the cement texture slab"
+    },
+    {
+      "name": "06-cement-slab-views.webp",
+      "sha256": "116cfe46816af8bdda3073d6a45af046e0d49fa991e08c44002c1eb03bf801f1",
+      "bytes": 55174,
+      "from": "1d99 pages 9-10 — views of the cement slab"
+    },
+    {
+      "name": "07-triangle-frame-variations.webp",
+      "sha256": "2ada14c01822cb97a4b5aa4141f13dc9cbb842cf73a8b5c8c971ea7af9ab31ca",
+      "bytes": 122540,
+      "from": "1d99 pages 9-10 — variations of the triangle frame"
+    },
+    {
+      "name": "08-triangle-light-and-shadow.webp",
+      "sha256": "4f27a9b2b04a8a450b8842bcac60e6cbffbf9e6b8cc64d7442b9bbcb20cb65bd",
+      "bytes": 244018,
+      "from": "1d99 pages 9-10 — triangles in light and shadow"
+    },
+    {
+      "name": "09-small-unit-arrangements.webp",
+      "sha256": "703884b41a2516cd25fb79f50a1d87838ab4074cdb6a51ca43cb6f01e3fa7ee1",
+      "bytes": 113514,
+      "from": "1d99 pages 9-10 — arrangements of small units"
+    },
+    {
+      "name": "10-unit-city-model.webp",
+      "sha256": "3cd46f5e25807efe0e2f2813045cf5a98b671e017149968fb784933802ee19c2",
+      "bytes": 360858,
+      "from": "1d99 pages 9-10 — the unit city model"
+    }
+  ]
+}
