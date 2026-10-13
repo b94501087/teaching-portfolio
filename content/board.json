@@ -64424,6 +64424,570 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Crossing Lines",
+      "slug": "crossing-lines-city-and-film-collage-model",
+      "description": "A collage of a busy street crossing and line drawings of film scenes are folded together into one layered paper city.\n\nModel making | Collage city | Photoshop, Illustrator, Procreate, paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "交錯之線",
+          "description": "繁忙路口的拼貼與電影場景的線稿被摺疊結合，成為一座層層疊疊的紙上城市。\n\n模型製作｜拼貼城市｜Photoshop、Illustrator、Procreate、紙材｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/crossing-lines-city-and-film-collage-model/01-paper-city.webp",
+        "assets/board/crossing-lines-city-and-film-collage-model/02-street-lines.webp",
+        "assets/board/crossing-lines-city-and-film-collage-model/03-scene-lines.webp",
+        "assets/board/crossing-lines-city-and-film-collage-model/04-hatched-collage.webp",
+        "assets/board/crossing-lines-city-and-film-collage-model/05-black-model.webp",
+        "assets/board/crossing-lines-city-and-film-collage-model/06-model-top.webp",
+        "assets/board/crossing-lines-city-and-film-collage-model/07-letter-forms.webp",
+        "assets/board/crossing-lines-city-and-film-collage-model/08-on-the-mat.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/crossing-lines-city-and-film-collage-model/01-paper-city.webp"
+          ],
+          "captions": [
+            "The finished paper city."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的紙上城市。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to join a favourite street scene and a favourite science fiction film in one work. The question was how two very different worlds could share one city.",
+          "images": [
+            "assets/board/crossing-lines-city-and-film-collage-model/02-street-lines.webp",
+            "assets/board/crossing-lines-city-and-film-collage-model/03-scene-lines.webp"
+          ],
+          "captions": [
+            "Buildings traced as lines.",
+            "Film scenes as line sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想把最喜愛的街景與最喜愛的科幻電影結合在同一件作品中。問題在於兩個截然不同的世界如何共享一座城市。",
+              "captions": [
+                "描成線條的建築。",
+                "化為線稿的電影場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Buildings were cut from photos of a busy crossing and rebuilt as a noisy collage. Scenes from the film were sketched only as line segments on a black ground.",
+          "images": [
+            "assets/board/crossing-lines-city-and-film-collage-model/04-hatched-collage.webp"
+          ],
+          "captions": [
+            "The hatched collage drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從繁忙路口的照片中剪下建築，重組成一幅喧鬧的拼貼。電影場景則只以線段的形式畫在黑色底上。",
+              "captions": [
+                "排線拼貼圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The two layers were printed and folded into standing frames. Early studies tested how the frames could lean and lock together.",
+          "images": [
+            "assets/board/crossing-lines-city-and-film-collage-model/06-model-top.webp",
+            "assets/board/crossing-lines-city-and-film-collage-model/07-letter-forms.webp",
+            "assets/board/crossing-lines-city-and-film-collage-model/08-on-the-mat.webp"
+          ],
+          "captions": [
+            "A first study model.",
+            "Letter-like frames.",
+            "A study on the mat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "兩個圖層被列印出來並摺成立起的框架。早期研究測試這些框架如何傾斜並互相扣合。",
+              "captions": [
+                "最初的研究模型。",
+                "如字母般的框架。",
+                "切割墊上的研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model reads like a dragon of buildings winding across the table. Photo surfaces and white line frames sit side by side, so both worlds stay visible.",
+          "images": [
+            "assets/board/crossing-lines-city-and-film-collage-model/05-black-model.webp"
+          ],
+          "captions": [
+            "The model on black."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型宛如一條由建築組成、蜿蜒於桌面的巨龍。照片表面與白色線框並置，讓兩個世界都清晰可見。",
+              "captions": [
+                "黑底上的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick two worlds you love.\n2. Collect their shapes.\n3. Fold drawings into space.\n4. Let the layers meet.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 挑選兩個你喜愛的世界。\n2. 收集它們的形狀。\n3. 把圖摺成空間。\n4. 讓圖層相遇。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Independent Ecosystem Research",
+      "slug": "independent-ecosystem-bamboo-woven-climate-tower",
+      "description": "A woven bamboo tower carries plants from four climates, from tropical at the base to boreal at the top.\n\nModel making | Ecosystem and climate | Bamboo, wood, mosses, plants, branches | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "獨立生態系統研究",
+          "description": "一座竹編塔承載四種氣候的植物，從底部的熱帶到頂端的寒帶。\n\n模型製作｜生態與氣候｜竹、木、苔蘚、植物、樹枝｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/independent-ecosystem-bamboo-woven-climate-tower/01-bamboo-tower.webp",
+        "assets/board/independent-ecosystem-bamboo-woven-climate-tower/02-concept-sketch.webp",
+        "assets/board/independent-ecosystem-bamboo-woven-climate-tower/03-plant-layers.webp",
+        "assets/board/independent-ecosystem-bamboo-woven-climate-tower/04-final-showcase.webp",
+        "assets/board/independent-ecosystem-bamboo-woven-climate-tower/05-weave-close.webp",
+        "assets/board/independent-ecosystem-bamboo-woven-climate-tower/06-weave-curve.webp",
+        "assets/board/independent-ecosystem-bamboo-woven-climate-tower/07-inner-frame.webp",
+        "assets/board/independent-ecosystem-bamboo-woven-climate-tower/08-moss-shell.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/independent-ecosystem-bamboo-woven-climate-tower/01-bamboo-tower.webp"
+          ],
+          "captions": [
+            "The woven tower with moss and branches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "覆滿苔蘚與樹枝的編織塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Climate change and fast-growing cities are putting pressure on many plants and animals. The student asked what a stable home for living things might look like in a changing world.",
+          "images": [
+            "assets/board/independent-ecosystem-bamboo-woven-climate-tower/02-concept-sketch.webp"
+          ],
+          "captions": [
+            "The concept sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "氣候變遷與快速擴張的城市正對許多動植物造成壓力。學生思考在變動的世界裡，生物穩定的家園會是什麼模樣。",
+              "captions": [
+                "概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Plants were grouped into four climate types, from tropical to subtropical, temperate and boreal. A sketch placed them in layers from bottom to top.",
+          "images": [
+            "assets/board/independent-ecosystem-bamboo-woven-climate-tower/03-plant-layers.webp"
+          ],
+          "captions": [
+            "Plants sorted by climate."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把植物分為熱帶、亞熱帶、溫帶與寒帶四種氣候類型。一張草圖將它們由下而上分層排列。",
+              "captions": [
+                "依氣候分層的植物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Bamboo weaving was chosen as the main structure because it is gentle on the environment and strong enough. Woven shells were shaped to hold soil, moss and branches.",
+          "images": [
+            "assets/board/independent-ecosystem-bamboo-woven-climate-tower/05-weave-close.webp",
+            "assets/board/independent-ecosystem-bamboo-woven-climate-tower/06-weave-curve.webp",
+            "assets/board/independent-ecosystem-bamboo-woven-climate-tower/07-inner-frame.webp"
+          ],
+          "captions": [
+            "The weave up close.",
+            "A curving woven shell.",
+            "Inside the woven frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生選擇竹編作為主要結構，因為它對環境友善且足夠堅韌。編織外殼被塑造成能承載土壤、苔蘚與樹枝的形狀。",
+              "captions": [
+                "編織近看。",
+                "彎曲的編織外殼。",
+                "編織框架內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished tower changes its plants as it rises, like a small climate map. It expresses a calm and stable world where living things can stay.",
+          "images": [
+            "assets/board/independent-ecosystem-bamboo-woven-climate-tower/04-final-showcase.webp",
+            "assets/board/independent-ecosystem-bamboo-woven-climate-tower/08-moss-shell.webp"
+          ],
+          "captions": [
+            "The final showcase.",
+            "Moss behind the weave."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的塔隨高度變換植物，就像一張小型氣候地圖。它表達出一個讓生物得以安居的平靜而穩定的世界。",
+              "captions": [
+                "最終展示。",
+                "編織後方的苔蘚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a real concern.\n2. Sort what you find.\n3. Choose a kind material.\n4. Build it in layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從真實的關懷出發。\n2. 整理你的發現。\n3. 選擇友善的材料。\n4. 分層建構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Library Renovation",
+      "slug": "library-renovation-coloured-pane-web-ceiling",
+      "description": "A web of wooden sticks holds coloured translucent panes, testing a new ceiling that paints the floor with light.\n\nModel making | Ceiling renovation | Coloured plastic sheets, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "圖書館改造",
+          "description": "木棒編成的網架承托彩色半透明板，試驗一片能以光彩繪地面的新天花板。\n\n模型製作｜天花板改造｜彩色塑膠片、木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/library-renovation-coloured-pane-web-ceiling/01-coloured-canopy.webp",
+        "assets/board/library-renovation-coloured-pane-web-ceiling/02-dome-top.webp",
+        "assets/board/library-renovation-coloured-pane-web-ceiling/03-dome-side.webp",
+        "assets/board/library-renovation-coloured-pane-web-ceiling/04-pane-close.webp",
+        "assets/board/library-renovation-coloured-pane-web-ceiling/05-shadow-figure.webp",
+        "assets/board/library-renovation-coloured-pane-web-ceiling/06-light-floor.webp",
+        "assets/board/library-renovation-coloured-pane-web-ceiling/07-blue-floor.webp",
+        "assets/board/library-renovation-coloured-pane-web-ceiling/08-frame-study.webp",
+        "assets/board/library-renovation-coloured-pane-web-ceiling/09-frame-top.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/library-renovation-coloured-pane-web-ceiling/01-coloured-canopy.webp"
+          ],
+          "captions": [
+            "Coloured light beneath the web."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "網架下的彩色光影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student set out to rethink the ceiling of a library at school. The aim was a ceiling that changes how light enters and colours the room.",
+          "images": [
+            "assets/board/library-renovation-coloured-pane-web-ceiling/08-frame-study.webp"
+          ],
+          "captions": [
+            "The bare stick frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生著手重新構想學校圖書館的天花板。目標是讓天花板改變光線進入的方式，並為空間染上色彩。",
+              "captions": [
+                "未覆板的木棒框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Coloured glass windows in old churches were the main inspiration. The student studied how tinted glass turns plain daylight into patches of colour.",
+          "images": [
+            "assets/board/library-renovation-coloured-pane-web-ceiling/09-frame-top.webp",
+            "assets/board/library-renovation-coloured-pane-web-ceiling/02-dome-top.webp"
+          ],
+          "captions": [
+            "The frame from above.",
+            "The web seen from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "古老教堂中的彩色玻璃窗是主要靈感來源。學生研究有色玻璃如何把平凡的日光化為一片片色彩。",
+              "captions": [
+                "從上方看框架。",
+                "從上方看網架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A spider-web structure of wooden sticks was built to hold translucent coloured sheets as panes. Each pane was set at a different angle to test the shadows it casts.",
+          "images": [
+            "assets/board/library-renovation-coloured-pane-web-ceiling/03-dome-side.webp",
+            "assets/board/library-renovation-coloured-pane-web-ceiling/04-pane-close.webp"
+          ],
+          "captions": [
+            "The frame from the side.",
+            "Panes up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以木棒建構蜘蛛網般的結構，承托作為窗板的半透明彩色片。每片彩板以不同角度安裝，以測試它投下的陰影。",
+              "captions": [
+                "網架側面。",
+                "彩板近看。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Under a strong light, the model throws coloured shapes across the floor and walls. Small figures show how a reader would sit and walk within the shifting colour.",
+          "images": [
+            "assets/board/library-renovation-coloured-pane-web-ceiling/05-shadow-figure.webp",
+            "assets/board/library-renovation-coloured-pane-web-ceiling/06-light-floor.webp",
+            "assets/board/library-renovation-coloured-pane-web-ceiling/07-blue-floor.webp"
+          ],
+          "captions": [
+            "A figure in the coloured shadow.",
+            "Colour falling on the floor.",
+            "A pool of blue light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在強光下，模型把彩色形狀投射到地面與牆上。小人形呈現讀者如何在變幻的色彩中坐下與走動。",
+              "captions": [
+                "彩色陰影中的人形。",
+                "灑落地面的色彩。",
+                "一片藍色光影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Look up at a ceiling.\n2. Borrow a light idea.\n3. Build a web.\n4. Test the shadows.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 抬頭看天花板。\n2. 借用一個光的概念。\n3. 搭建一張網。\n4. 測試陰影。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Machinery City",
+      "slug": "machinery-city-programmed-toy-brick-mechanism",
+      "description": "Toy bricks, gears and a small programmed controller come together as a moving city of arms, bridges and lifts.\n\nModel making | Programming design | Toy bricks, gears, sensors, controller board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "機械城市",
+          "description": "玩具積木、齒輪與小型程式控制器組合成一座擁有手臂、橋梁與升降機的會動城市。\n\n模型製作｜程式設計｜玩具積木、齒輪、感測器、控制板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/machinery-city-programmed-toy-brick-mechanism/01-moving-city.webp",
+        "assets/board/machinery-city-programmed-toy-brick-mechanism/02-machine-sketch.webp",
+        "assets/board/machinery-city-programmed-toy-brick-mechanism/03-gear-arm.webp",
+        "assets/board/machinery-city-programmed-toy-brick-mechanism/04-red-lever.webp",
+        "assets/board/machinery-city-programmed-toy-brick-mechanism/05-lifting-arm.webp",
+        "assets/board/machinery-city-programmed-toy-brick-mechanism/06-drive-shaft.webp",
+        "assets/board/machinery-city-programmed-toy-brick-mechanism/07-gear-detail.webp",
+        "assets/board/machinery-city-programmed-toy-brick-mechanism/08-sensor-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/machinery-city-programmed-toy-brick-mechanism/01-moving-city.webp"
+          ],
+          "captions": [
+            "The moving city on black."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "黑底上的會動城市。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks how a city could move like a machine. The student imagined parts that lift, swing and connect on their own.",
+          "images": [
+            "assets/board/machinery-city-programmed-toy-brick-mechanism/02-machine-sketch.webp"
+          ],
+          "captions": [
+            "The first machine sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探問城市能否像機器一樣運作。學生想像能自行抬升、擺動與連接的部件。",
+              "captions": [
+                "最初的機械草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A hand sketch mapped out arms, shafts and gears before building began. Each motion was broken down into a simple mechanism.",
+          "images": [
+            "assets/board/machinery-city-programmed-toy-brick-mechanism/03-gear-arm.webp",
+            "assets/board/machinery-city-programmed-toy-brick-mechanism/04-red-lever.webp"
+          ],
+          "captions": [
+            "A gear-driven arm.",
+            "A lever in the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "動手搭建前，學生先以手繪草圖規劃手臂、轉軸與齒輪。每個動作都被拆解成簡單的機構。",
+              "captions": [
+                "齒輪驅動的手臂。",
+                "框架中的槓桿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The mechanisms were built from toy bricks and linked to a controller board and sensors. The student then wrote programs to set each part in motion.",
+          "images": [
+            "assets/board/machinery-city-programmed-toy-brick-mechanism/05-lifting-arm.webp",
+            "assets/board/machinery-city-programmed-toy-brick-mechanism/06-drive-shaft.webp",
+            "assets/board/machinery-city-programmed-toy-brick-mechanism/07-gear-detail.webp"
+          ],
+          "captions": [
+            "An arm lifting up.",
+            "The drive under the frame.",
+            "Gears and beams in detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "這些機構以玩具積木搭建，並連接控制板與感測器。學生接著編寫程式讓每個部件動起來。",
+              "captions": [
+                "抬起的手臂。",
+                "框架下的傳動。",
+                "齒輪與樑的細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model behaves like a small working city with a lifting bridge of beams. It joins design, mechanics and coding in one piece.",
+          "images": [
+            "assets/board/machinery-city-programmed-toy-brick-mechanism/08-sensor-detail.webp"
+          ],
+          "captions": [
+            "Wires and a sensor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型像一座小型運轉中的城市，擁有一道由樑組成的升降橋。它在同一件作品中結合了設計、機械與程式。",
+              "captions": [
+                "線路與感測器。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Imagine a moving city.\n2. Sketch each motion.\n3. Build simple mechanisms.\n4. Program them to move.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 想像一座會動的城市。\n2. 畫下每個動作。\n3. 搭建簡單機構。\n4. 寫程式讓它動起來。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
