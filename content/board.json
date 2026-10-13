@@ -58960,6 +58960,446 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Silent Canopy",
+      "slug": "silent-canopy-mangroves-beneath-concrete-model",
+      "description": "Tank experiments and a concrete-and-wire model show mangroves buried beneath a growing city.\n\nModel making | Ecology study | Wood sticks, wire, cement, rocks and plants | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "寂靜樹冠",
+          "description": "以水箱實驗與混凝土鐵絲模型，呈現被擴張城市掩埋的紅樹林。\n\n模型製作｜生態研究｜木條、鐵絲、水泥、石頭與植物｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/01-final-model.webp",
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/02-watercolour.webp",
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/03-species-sketch.webp",
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/04-food-chain.webp",
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/05-tidal-zones.webp",
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/06-tank-test.webp",
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/07-concept-sketch.webp",
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/08-first-model.webp",
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/09-buried-level.webp",
+        "assets/board/silent-canopy-mangroves-beneath-concrete-model/10-pillar-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The mangroves under concrete."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "混凝土下的紅樹林。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Fast city growth and land reclamation have destroyed large areas of coastal mangroves. The student wanted to show this hidden loss.",
+          "images": [
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/02-watercolour.webp"
+          ],
+          "captions": [
+            "A watercolour of mangrove roots."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "快速的城市擴張與填海工程摧毀了大片海岸紅樹林。學生想呈現這種隱藏的失落。",
+              "captions": [
+                "紅樹林根系水彩。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew mangrove species, their food chain and how they sit across tidal zones. Tank tests with plants, sand and salt water showed roots acting as a natural sea wall.",
+          "images": [
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/03-species-sketch.webp",
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/04-food-chain.webp",
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/05-tidal-zones.webp",
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/06-tank-test.webp"
+          ],
+          "captions": [
+            "Sketches of mangrove species.",
+            "The habitat food chain.",
+            "Mangroves across tidal zones.",
+            "A tide test in a tank."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她描繪紅樹林物種、食物鏈及其在潮間帶的分布。以植物、沙與鹽水進行的水箱實驗，顯示根系如天然海堤。",
+              "captions": [
+                "紅樹林物種草圖。",
+                "棲地食物鏈。",
+                "不同潮間帶的紅樹林。",
+                "水箱中的潮汐實驗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A sketch split the scene into reclaimed land above and living habitat below. A first model used withered red saplings to show the damage.",
+          "images": [
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/07-concept-sketch.webp",
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/08-first-model.webp"
+          ],
+          "captions": [
+            "The layered concept sketch.",
+            "A first model with red sap."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "一張草圖把場景分為上方的填海土地與下方的棲地。第一個模型以枯萎的紅色幼苗表現破壞。",
+              "captions": [
+                "分層概念草圖。",
+                "帶紅色汁液的第一個模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model buries plants and rocks under cement slabs, pillars and wire. Small figures walk above, unaware of the roots below.",
+          "images": [
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/09-buried-level.webp",
+            "assets/board/silent-canopy-mangroves-beneath-concrete-model/10-pillar-detail.webp"
+          ],
+          "captions": [
+            "The buried level from the side.",
+            "Concrete pillars over roots."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型把植物與石頭埋在水泥板、柱子與鐵絲之下。小人偶在上方行走，對下方的根系渾然不覺。",
+              "captions": [
+                "側看被掩埋的層。",
+                "根系上方的混凝土柱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study the ecosystem.\n2. Test it in a tank.\n3. Layer above and below.\n4. Build the contrast.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究生態系統。\n2. 在水箱中測試。\n3. 分出上下層。\n4. 做出對比。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Light, Shadow, Colour",
+      "slug": "light-shadow-colour-stick-frame-lightbox",
+      "description": "Twisting stick cubes filled with nylon line, colour film and small lights become a large lightbox.\n\nModel making | Light study | Wood sticks, nylon line, laser paper and mini spotlights | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "光、影、色",
+          "description": "填滿尼龍線、彩色膠片與小燈的扭轉木條立方體，組成一座大型燈箱。\n\n模型製作｜光線研究｜木條、尼龍線、鐳射紙與迷你聚光燈｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/light-shadow-colour-stick-frame-lightbox/01-lit-lightbox.webp",
+        "assets/board/light-shadow-colour-stick-frame-lightbox/02-stick-tower.webp",
+        "assets/board/light-shadow-colour-stick-frame-lightbox/03-light-parts.webp",
+        "assets/board/light-shadow-colour-stick-frame-lightbox/04-cube-study.webp",
+        "assets/board/light-shadow-colour-stick-frame-lightbox/05-mesh-cube.webp",
+        "assets/board/light-shadow-colour-stick-frame-lightbox/06-line-weave.webp",
+        "assets/board/light-shadow-colour-stick-frame-lightbox/07-colour-film.webp",
+        "assets/board/light-shadow-colour-stick-frame-lightbox/08-red-beams.webp",
+        "assets/board/light-shadow-colour-stick-frame-lightbox/09-blue-glow.webp",
+        "assets/board/light-shadow-colour-stick-frame-lightbox/10-lit-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/light-shadow-colour-stick-frame-lightbox/01-lit-lightbox.webp"
+          ],
+          "captions": [
+            "The lightbox switched on."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "點亮的燈箱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Light, shadow and colour change how a space feels. The student wanted to show that lighting can build space, not just brighten it.",
+          "images": [
+            "assets/board/light-shadow-colour-stick-frame-lightbox/02-stick-tower.webp"
+          ],
+          "captions": [
+            "The twisting stick frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "光、影與色彩改變空間的感受。學生想證明照明能構築空間，而不只是讓它變亮。",
+              "captions": [
+                "扭轉的木條框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student built square stick frames and tested wire mesh, colour film and mirror paper inside them. Small spotlights were wired in series for better control.",
+          "images": [
+            "assets/board/light-shadow-colour-stick-frame-lightbox/03-light-parts.webp",
+            "assets/board/light-shadow-colour-stick-frame-lightbox/04-cube-study.webp",
+            "assets/board/light-shadow-colour-stick-frame-lightbox/05-mesh-cube.webp"
+          ],
+          "captions": [
+            "Small lights used in series.",
+            "A first rotated cube.",
+            "A cube with mesh and film."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她製作方形木條框架，並在其中測試鐵絲網、彩色膠片與鏡面紙。小聚光燈以串聯方式接線，以便控制。",
+              "captions": [
+                "串聯使用的小燈。",
+                "第一個旋轉立方體。",
+                "加入網片與膠片的立方體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The cubes were rotated and stacked, with nylon lines forming curved surfaces between them. Each layer was tested for the shadows it cast.",
+          "images": [
+            "assets/board/light-shadow-colour-stick-frame-lightbox/06-line-weave.webp",
+            "assets/board/light-shadow-colour-stick-frame-lightbox/07-colour-film.webp"
+          ],
+          "captions": [
+            "Nylon lines across a cube.",
+            "Colour film inside the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "立方體被旋轉並堆疊，尼龍線在其間形成曲面。每一層都測試它投下的影子。",
+              "captions": [
+                "橫越立方體的尼龍線。",
+                "框架內的彩色膠片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Inside a paper box, the lights throw red and blue lines across every surface. The lightbox shows how light alone can reshape a room.",
+          "images": [
+            "assets/board/light-shadow-colour-stick-frame-lightbox/08-red-beams.webp",
+            "assets/board/light-shadow-colour-stick-frame-lightbox/09-blue-glow.webp",
+            "assets/board/light-shadow-colour-stick-frame-lightbox/10-lit-detail.webp"
+          ],
+          "captions": [
+            "Red beams across the frames.",
+            "A blue glow inside.",
+            "The stack in red and blue."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在紙盒中，燈光把紅藍線條投射到每個表面。燈箱展現光本身如何重塑一個空間。",
+              "captions": [
+                "橫越框架的紅色光束。",
+                "內部的藍色光暈。",
+                "紅藍光中的堆疊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick light materials.\n2. Frame them in cubes.\n3. Rotate and stack.\n4. Test in the dark.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 挑選透光材料。\n2. 以立方體框住。\n3. 旋轉並堆疊。\n4. 在暗處測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Sonic Refraction",
+      "slug": "sonic-refraction-thread-acoustic-hall-model",
+      "description": "Threads stretched between pins trace how sound bounces around a shoebox-shaped hall.\n\nModel making | Acoustic study | Cotton thread, 3D print, PVC board, pins and wood sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "聲音折射",
+          "description": "在釘子之間拉緊的線，描繪聲音如何在鞋盒形大廳中反彈。\n\n模型製作｜聲學研究｜棉線、3D列印、PVC板、釘子與木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sonic-refraction-thread-acoustic-hall-model/01-final-model.webp",
+        "assets/board/sonic-refraction-thread-acoustic-hall-model/02-sound-sketch.webp",
+        "assets/board/sonic-refraction-thread-acoustic-hall-model/03-model-plan.webp",
+        "assets/board/sonic-refraction-thread-acoustic-hall-model/04-thread-test.webp",
+        "assets/board/sonic-refraction-thread-acoustic-hall-model/05-printed-walls.webp",
+        "assets/board/sonic-refraction-thread-acoustic-hall-model/06-light-and-thread.webp",
+        "assets/board/sonic-refraction-thread-acoustic-hall-model/07-floor-view.webp",
+        "assets/board/sonic-refraction-thread-acoustic-hall-model/08-long-view.webp",
+        "assets/board/sonic-refraction-thread-acoustic-hall-model/09-figure-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sonic-refraction-thread-acoustic-hall-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The hall model with its roof grid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "帶屋頂格柵的大廳模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student plays guitar and wondered how music could shape architecture. Sound moves through a room in paths we cannot see.",
+          "images": [
+            "assets/board/sonic-refraction-thread-acoustic-hall-model/02-sound-sketch.webp"
+          ],
+          "captions": [
+            "Sketches of sound paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生彈吉他，思考音樂如何塑造建築。聲音以我們看不見的路徑在房間中移動。",
+              "captions": [
+                "聲音路徑草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied a famous shoebox-shaped concert hall, where walls and ceilings spread sound evenly. Sketches traced how sound bends and reflects.",
+          "images": [
+            "assets/board/sonic-refraction-thread-acoustic-hall-model/03-model-plan.webp"
+          ],
+          "captions": [
+            "The digital model plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她研究一座著名的鞋盒形音樂廳，其牆與天花板讓聲音均勻擴散。草圖描繪聲音如何彎折與反射。",
+              "captions": [
+                "數位模型平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A hall was modelled digitally and printed in parts. Pins marked reflection points, and threads joined them to show each sound path.",
+          "images": [
+            "assets/board/sonic-refraction-thread-acoustic-hall-model/04-thread-test.webp",
+            "assets/board/sonic-refraction-thread-acoustic-hall-model/05-printed-walls.webp"
+          ],
+          "captions": [
+            "First threads across the hall.",
+            "Printed wall parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "大廳以數位建模並分件列印。釘子標示反射點，線把它們連接以呈現每條聲音路徑。",
+              "captions": [
+                "橫越大廳的第一批線。",
+                "列印的牆體構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Under strong light, the threads and roof grid cast a web of shadows. The model makes the movement of sound visible.",
+          "images": [
+            "assets/board/sonic-refraction-thread-acoustic-hall-model/06-light-and-thread.webp",
+            "assets/board/sonic-refraction-thread-acoustic-hall-model/07-floor-view.webp",
+            "assets/board/sonic-refraction-thread-acoustic-hall-model/08-long-view.webp",
+            "assets/board/sonic-refraction-thread-acoustic-hall-model/09-figure-view.webp"
+          ],
+          "captions": [
+            "Light falling on the threads.",
+            "Threads above the floor.",
+            "A view down the hall.",
+            "Figures among the threads."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在強光下，線與屋頂格柵投下一片影子網。模型讓聲音的移動變得可見。",
+              "captions": [
+                "落在線上的光。",
+                "地面上方的線。",
+                "沿大廳望去。",
+                "線網中的人偶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a sense.\n2. Study a precedent.\n3. Mark the paths.\n4. Make it visible.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇一種感官。\n2. 研究案例。\n3. 標示路徑。\n4. 讓它可見。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
