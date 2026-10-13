@@ -55188,6 +55188,442 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Tower Pointing Towards Brutalism",
+      "slug": "tower-pointing-towards-brutalism-plaster-tower",
+      "description": "Bold concrete forms are recombined into a grey tower that rises with spikes pointing upward.\n\nModel making | Retro-futurism | 3D print and grey plaster | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "指向粗獷主義之塔",
+          "description": "厚重的混凝土造型被重組為一座向上尖刺聳立的灰色高塔。\n\n模型製作｜復古未來主義｜3D列印與灰色石膏｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tower-pointing-towards-brutalism-plaster-tower/01-final-tower.webp",
+        "assets/board/tower-pointing-towards-brutalism-plaster-tower/02-tower-render.webp",
+        "assets/board/tower-pointing-towards-brutalism-plaster-tower/03-zigzag-module.webp",
+        "assets/board/tower-pointing-towards-brutalism-plaster-tower/04-wing-module.webp",
+        "assets/board/tower-pointing-towards-brutalism-plaster-tower/05-tower-sketch.webp",
+        "assets/board/tower-pointing-towards-brutalism-plaster-tower/06-close-up.webp",
+        "assets/board/tower-pointing-towards-brutalism-plaster-tower/07-disc-detail.webp",
+        "assets/board/tower-pointing-towards-brutalism-plaster-tower/08-front-view.webp",
+        "assets/board/tower-pointing-towards-brutalism-plaster-tower/09-back-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tower-pointing-towards-brutalism-plaster-tower/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished grey tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的灰色高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Retro-futurist art shows huge, hopeful towers, but real buildings in that heavy style are rarely tall. The student set out to build the tower those images promise.",
+          "images": [
+            "assets/board/tower-pointing-towards-brutalism-plaster-tower/02-tower-render.webp"
+          ],
+          "captions": [
+            "Digital model of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "復古未來主義藝術描繪巨大而充滿希望的高塔，但這種厚重風格的真實建築很少是高樓。學生決定建造那些影像所許諾的高塔。",
+              "captions": [
+                "高塔的數位模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He studied dozens of heavy concrete buildings known for raw surfaces and one colour. Single modules were taken from them and reshaped.",
+          "images": [
+            "assets/board/tower-pointing-towards-brutalism-plaster-tower/03-zigzag-module.webp",
+            "assets/board/tower-pointing-towards-brutalism-plaster-tower/04-wing-module.webp"
+          ],
+          "captions": [
+            "A zigzag module.",
+            "A sloping wing module."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他研究數十棟以粗糙表面與單一色調著稱的混凝土建築。從中擷取單一模組並重新塑形。",
+              "captions": [
+                "鋸齒狀的模組。",
+                "斜翼模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A first collage spread the parts outward to express strength but missed the idea of hope. The parts were regrouped so that they all climb and point upward.",
+          "images": [
+            "assets/board/tower-pointing-towards-brutalism-plaster-tower/05-tower-sketch.webp",
+            "assets/board/tower-pointing-towards-brutalism-plaster-tower/06-close-up.webp"
+          ],
+          "captions": [
+            "Sketch of the stacked forms.",
+            "Plaster texture close up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "第一版拼貼讓構件向外擴張以表達力量，卻缺少希望的意涵。構件因此重組，全部向上攀升並指向天空。",
+              "captions": [
+                "堆疊造型的草圖。",
+                "石膏質感特寫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 3D-printed tower was coated in grey plaster to mimic raw concrete. Sanded sharp edges keep both its strength and its fine details.",
+          "images": [
+            "assets/board/tower-pointing-towards-brutalism-plaster-tower/07-disc-detail.webp",
+            "assets/board/tower-pointing-towards-brutalism-plaster-tower/08-front-view.webp",
+            "assets/board/tower-pointing-towards-brutalism-plaster-tower/09-back-view.webp"
+          ],
+          "captions": [
+            "A cantilevered disc.",
+            "The tower from the front.",
+            "The tower from the back."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "3D列印的高塔塗上灰色石膏，模仿清水混凝土。打磨後的銳利邊角同時保留力量感與細節。",
+              "captions": [
+                "懸挑圓盤。",
+                "高塔正面。",
+                "高塔背面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick two styles to merge.\n2. Extract modules.\n3. Arrange for a message.\n4. Finish to match the material.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇兩種風格融合。\n2. 擷取模組。\n3. 依訊息排列。\n4. 以表面處理呼應材質。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Boundless Spatial Memory",
+      "slug": "boundless-spatial-memory-route-stick-model",
+      "description": "A familiar route through a home becomes a stick model with enlarged memory anchors.\n\nModel making | Memory and space | Wood sticks, 3D print, resin and cotton | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "無邊的空間記憶",
+          "description": "一條熟悉的居家路線，化為放大記憶錨點的木棒模型。\n\n模型製作｜記憶與空間｜木棒、3D列印、樹脂與棉花｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/boundless-spatial-memory-route-stick-model/01-final-model.webp",
+        "assets/board/boundless-spatial-memory-route-stick-model/02-route-plan.webp",
+        "assets/board/boundless-spatial-memory-route-stick-model/03-frame-study.webp",
+        "assets/board/boundless-spatial-memory-route-stick-model/04-route-overview.webp",
+        "assets/board/boundless-spatial-memory-route-stick-model/05-side-view.webp",
+        "assets/board/boundless-spatial-memory-route-stick-model/06-top-view.webp",
+        "assets/board/boundless-spatial-memory-route-stick-model/07-detail.webp",
+        "assets/board/boundless-spatial-memory-route-stick-model/08-gear-wall.webp",
+        "assets/board/boundless-spatial-memory-route-stick-model/09-cloud-room.webp",
+        "assets/board/boundless-spatial-memory-route-stick-model/10-glass-floor.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/boundless-spatial-memory-route-stick-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished route model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的路線模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A memory technique stores ideas along a familiar route of rooms. The student asked how the spaces we pass every day shape the way we think.",
+          "images": [
+            "assets/board/boundless-spatial-memory-route-stick-model/02-route-plan.webp"
+          ],
+          "captions": [
+            "Rough plan of the route."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "有一種記憶法把知識存放在熟悉的房間路線上。學生思考每天經過的空間如何塑造我們的思考方式。",
+              "captions": [
+                "路線的草圖平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He chose four areas along a route at home that he used to memorise study notes. The features he relied on were enlarged and exaggerated.",
+          "images": [
+            "assets/board/boundless-spatial-memory-route-stick-model/03-frame-study.webp"
+          ],
+          "captions": [
+            "Early stick frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他選了家中一條路線上的四個區域，那是他用來記憶課業的地方。他依賴的空間特徵被放大並誇張化。",
+              "captions": [
+                "早期木棒框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sticks were glued along the plan, with stairs dropping below it to vary the levels. 3D-printed objects, gears, resin and cotton became anchors for each memory.",
+          "images": [
+            "assets/board/boundless-spatial-memory-route-stick-model/04-route-overview.webp",
+            "assets/board/boundless-spatial-memory-route-stick-model/05-side-view.webp",
+            "assets/board/boundless-spatial-memory-route-stick-model/06-top-view.webp",
+            "assets/board/boundless-spatial-memory-route-stick-model/07-detail.webp"
+          ],
+          "captions": [
+            "The route with its memory anchors.",
+            "Side view of the route.",
+            "The route from above.",
+            "A coloured memory piece."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木棒依平面黏合，樓梯向下延伸以改變高程。3D列印物件、齒輪、樹脂與棉花，成為每段記憶的錨點。",
+              "captions": [
+                "帶有記憶錨點的路線。",
+                "路線側視。",
+                "從上方看路線。",
+                "彩色的記憶構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model reads as a journey from room to room, each marked by a strange object. Together they tell the story of how memory lives in space.",
+          "images": [
+            "assets/board/boundless-spatial-memory-route-stick-model/08-gear-wall.webp",
+            "assets/board/boundless-spatial-memory-route-stick-model/09-cloud-room.webp",
+            "assets/board/boundless-spatial-memory-route-stick-model/10-glass-floor.webp"
+          ],
+          "captions": [
+            "A wall of laser-cut gears.",
+            "A room filled with cotton clouds.",
+            "A coloured resin floor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型讀起來像一段穿越房間的旅程，每處都有奇特物件標記。它們共同講述記憶如何寄存在空間中。",
+              "captions": [
+                "雷射切割齒輪牆。",
+                "充滿棉花雲的房間。",
+                "彩色樹脂地板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Map a familiar route.\n2. Mark the key features.\n3. Exaggerate them.\n4. Add objects as anchors.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 描繪一條熟悉的路線。\n2. 標出關鍵特徵。\n3. 加以誇張。\n4. 加入物件作為錨點。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Vase of the City",
+      "slug": "vase-of-the-city-parametric-3d-printed-planter",
+      "description": "A 3D-printed planter borrows the lattice facades of city towers to help newcomers feel at home.\n\nModel making | Parametric product | 3D print (PLA) | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市之瓶",
+          "description": "一個3D列印花器借用城市高樓的格柵立面，讓新移居者感到歸屬。\n\n模型製作｜參數化產品｜3D列印（PLA）｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/vase-of-the-city-parametric-3d-printed-planter/01-planted-vase.webp",
+        "assets/board/vase-of-the-city-parametric-3d-printed-planter/02-digital-vase.webp",
+        "assets/board/vase-of-the-city-parametric-3d-printed-planter/03-facade-photo.webp",
+        "assets/board/vase-of-the-city-parametric-3d-printed-planter/04-first-print.webp",
+        "assets/board/vase-of-the-city-parametric-3d-printed-planter/05-pattern-sketch.webp",
+        "assets/board/vase-of-the-city-parametric-3d-printed-planter/06-script.webp",
+        "assets/board/vase-of-the-city-parametric-3d-printed-planter/07-window-vases.webp",
+        "assets/board/vase-of-the-city-parametric-3d-printed-planter/08-side-view.webp",
+        "assets/board/vase-of-the-city-parametric-3d-printed-planter/09-top-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/vase-of-the-city-parametric-3d-printed-planter/01-planted-vase.webp"
+          ],
+          "captions": [
+            "The vase planted with succulents."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "種上多肉植物的花瓶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Many people who move to a fast-growing city struggle to feel they belong there. The student wanted an everyday object that ties them to the city around them.",
+          "images": [
+            "assets/board/vase-of-the-city-parametric-3d-printed-planter/03-facade-photo.webp"
+          ],
+          "captions": [
+            "A lattice facade in the city."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "許多移居快速發展城市的人，難以產生歸屬感。學生想做一件日常物品，把他們與周遭的城市連結起來。",
+              "captions": [
+                "城市中的格柵立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He toured the city photographing building exteriors and traced their patterns on paper. The patterns were compared to find the best one for a vase.",
+          "images": [
+            "assets/board/vase-of-the-city-parametric-3d-printed-planter/05-pattern-sketch.webp"
+          ],
+          "captions": [
+            "Facade patterns sketched."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他走訪城市拍攝建築外觀，並把圖案描在紙上。比較各種圖案，找出最適合花瓶的一種。",
+              "captions": [
+                "立面圖案草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Because many identical vases were needed, he fully adopted 3D modelling and printing. A parametric script generated the lattice shell, and square pillars like rebar hold the inner pot.",
+          "images": [
+            "assets/board/vase-of-the-city-parametric-3d-printed-planter/02-digital-vase.webp",
+            "assets/board/vase-of-the-city-parametric-3d-printed-planter/04-first-print.webp",
+            "assets/board/vase-of-the-city-parametric-3d-printed-planter/06-script.webp"
+          ],
+          "captions": [
+            "Digital model of the vase.",
+            "The first print.",
+            "The parametric script."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "因為需要大量相同的花瓶，他全面採用3D建模與列印。參數化程式生成格柵外殼，如鋼筋般的方柱支撐內盆。",
+              "captions": [
+                "花瓶的數位模型。",
+                "第一次列印。",
+                "參數化程式。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The white lattice vase holds plants while echoing the towers outside. Planting it turns a reminder of the city into a small act of care.",
+          "images": [
+            "assets/board/vase-of-the-city-parametric-3d-printed-planter/07-window-vases.webp",
+            "assets/board/vase-of-the-city-parametric-3d-printed-planter/08-side-view.webp",
+            "assets/board/vase-of-the-city-parametric-3d-printed-planter/09-top-view.webp"
+          ],
+          "captions": [
+            "Vases by a city window.",
+            "The vase from the side.",
+            "The vase from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "白色格柵花瓶容納植物，同時呼應窗外的高樓。種植它，讓城市的印記成為一份小小的照顧。",
+              "captions": [
+                "城市窗邊的花瓶。",
+                "花瓶側視。",
+                "從上方看花瓶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Define the user.\n2. Collect local patterns.\n3. Script the form.\n4. Test it in real use.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 定義使用者。\n2. 蒐集在地圖案。\n3. 以程式生成造型。\n4. 在實際使用中測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
