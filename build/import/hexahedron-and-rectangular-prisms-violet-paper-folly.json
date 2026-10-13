@@ -1,0 +1,61 @@
+{
+  "project": "Hexahedron and Rectangular Prisms",
+  "dest": "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly",
+  "note": "Portfolio 04a9 page 8 cropped to 9 images, WebP q88 (PIL). Not used: nothing (summer programme header dropped).",
+  "files": [
+    {
+      "name": "01-violet-folly-model.webp",
+      "sha256": "1ca5afdbfd8c90fa0e4ada9760122e6cc08dba6339d9be2d18a133e5157c280c",
+      "bytes": 20152,
+      "from": "04a9 page 8 — the violet folly model"
+    },
+    {
+      "name": "02-white-paper-study-a.webp",
+      "sha256": "fe67ccd07efbf5be60781f182cb03004e92ef09b3ef7c859629d19502a47fbf3",
+      "bytes": 6514,
+      "from": "04a9 page 8 — white paper study"
+    },
+    {
+      "name": "03-white-paper-study-b.webp",
+      "sha256": "b0778b985b3203d175475e81dd6f5df24fcf07ff058d4011532925e164f5051c",
+      "bytes": 6000,
+      "from": "04a9 page 8 — another white study"
+    },
+    {
+      "name": "04-violet-study-a.webp",
+      "sha256": "702cc3f5271eabbf6efa353c42e1c21779303d7289c45bc351c49a0af7f06d0d",
+      "bytes": 5884,
+      "from": "04a9 page 8 — a violet study"
+    },
+    {
+      "name": "05-violet-study-b.webp",
+      "sha256": "bd0f05b725b53d4871f14579bcd403225b6ef752e6eebf772c9c3605457c24f3",
+      "bytes": 6476,
+      "from": "04a9 page 8 — another violet study"
+    },
+    {
+      "name": "06-folly-on-base.webp",
+      "sha256": "3cc0ad3cdc426f88861d845c04bdd49fe8a30b809653e344e4a0a20800640bf8",
+      "bytes": 22072,
+      "from": "04a9 page 8 — the folly on its base"
+    },
+    {
+      "name": "07-axonometric-sketch.webp",
+      "sha256": "3d7a93fae42e4f4d12669ea96712abab55972801f42b42371bd4dfcaeb368eaa",
+      "bytes": 50822,
+      "from": "04a9 page 8 — an axonometric sketch"
+    },
+    {
+      "name": "08-wireframe-intersections.webp",
+      "sha256": "6599088c14079bf9cc6067d71f60ec49ee1044518d2be6dc496fd84882044e3e",
+      "bytes": 71436,
+      "from": "04a9 page 8 — wireframe intersections"
+    },
+    {
+      "name": "09-plan-and-elevation-sketch.webp",
+      "sha256": "5b92741d7583fc79e1aa30ec62d58445fc28bdaafe2c61af72ce8d2d56ab4d74",
+      "bytes": 61068,
+      "from": "04a9 page 8 — plan and elevation sketch"
+    }
+  ]
+}
