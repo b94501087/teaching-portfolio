@@ -1,0 +1,67 @@
+{
+  "project": "Observation Deck: Haven",
+  "dest": "assets/board/observation-deck-haven-timber-joinery-hill-model",
+  "note": "Portfolio ddbe pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, the name of the historic precedent.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "ae0c2ebaec36738cc08eda45efc564842fd02c466c4945671d2a002352cb9064",
+      "bytes": 248118,
+      "from": "ddbe page 3 — final model"
+    },
+    {
+      "name": "02-structure-drawing.webp",
+      "sha256": "40842f93ef4889df820a6578503dfa11061efe9e032cd9e355c125f06ffccf46",
+      "bytes": 38400,
+      "from": "ddbe page 2 — structure drawing"
+    },
+    {
+      "name": "03-plan-drawings.webp",
+      "sha256": "00b9c59a145070f464f5c3d027262e73ff8d54e1cc1727895dcd4f1c2b81ebd4",
+      "bytes": 27764,
+      "from": "ddbe page 2 — plan drawings"
+    },
+    {
+      "name": "04-digital-frame.webp",
+      "sha256": "b222a6015f2dd57de5e65d2a387c1531da2b34df818a3ff76b93d41329b1851d",
+      "bytes": 28910,
+      "from": "ddbe page 2 — digital frame"
+    },
+    {
+      "name": "05-roof-study.webp",
+      "sha256": "0a4ff5732bc343401329e12d4c626ee559e61a98d9d9dca25ade804966e5acff",
+      "bytes": 23712,
+      "from": "ddbe page 2 — roof study"
+    },
+    {
+      "name": "06-frame-assembly.webp",
+      "sha256": "9eba62be3919089dd391ba7c0926872f76a8642ec183ccaee9a6235b8e4d0f57",
+      "bytes": 76492,
+      "from": "ddbe page 2 — frame assembly"
+    },
+    {
+      "name": "07-platform-test.webp",
+      "sha256": "b775927cd30c03f35d7b1e59adff33d8d49d8ddf31ce4d017ad259c4d2e84277",
+      "bytes": 17596,
+      "from": "ddbe page 2 — platform test"
+    },
+    {
+      "name": "08-roof-model.webp",
+      "sha256": "bd4324c143ffe73ea16ea6677d3b7354a2d6e930a56e95542eb1ad90b137504c",
+      "bytes": 51694,
+      "from": "ddbe page 2 — roof model"
+    },
+    {
+      "name": "09-rafter-detail.webp",
+      "sha256": "76434b81585e462fcfc8555081c7ed7ea3a9d714ec0f125de2dbdf7105a55a46",
+      "bytes": 21816,
+      "from": "ddbe page 3 — rafter detail"
+    },
+    {
+      "name": "10-side-corridor.webp",
+      "sha256": "455a2eef5db69870304ff1338705635a42b611df5040a1398b12c24a4f5f27b3",
+      "bytes": 38744,
+      "from": "ddbe page 3 — side corridor"
+    }
+  ]
+}
