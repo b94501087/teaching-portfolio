@@ -1,0 +1,55 @@
+{
+  "project": "The Cliffhouse",
+  "dest": "assets/board/cliffhouse-slotted-paper-house-without-glue",
+  "note": "Portfolio 3dee pages 12-13 cropped to 8 images, WebP q88 (PIL). Not used: cover page, programme and school names, reference photos of buildings.",
+  "files": [
+    {
+      "name": "01-paper-cliffhouse.webp",
+      "sha256": "0de3481e334d5ce603e1adec197bd584be173d12e58fadb484ca824fae2bed88",
+      "bytes": 111392,
+      "from": "3dee page 12-13 — the slotted paper house"
+    },
+    {
+      "name": "02-plan-sketches.webp",
+      "sha256": "76c92ee145bee8818b17e7ba07db88cf696dd5a8ec6fb690e2b1eccced60c69d",
+      "bytes": 49828,
+      "from": "3dee page 12-13 — plan and joint sketches"
+    },
+    {
+      "name": "03-joint-sketches.webp",
+      "sha256": "e871bb41dc6e1a206c1ffb01759c5a7cc2eb8b03ae6a48f53c0d67856391eed2",
+      "bytes": 61378,
+      "from": "3dee page 12-13 — sketches of the slotted joints"
+    },
+    {
+      "name": "04-wall-patterns.webp",
+      "sha256": "8716446e57dc0056c4d67c1f358a385101df543d0088e4b61af0d793177eb21d",
+      "bytes": 74150,
+      "from": "3dee page 12-13 — folded wall patterns"
+    },
+    {
+      "name": "05-process-upper.webp",
+      "sha256": "175f616916103fa90480ae5aa4a0581af810ec4a4925826d11eb7e41bb279bb4",
+      "bytes": 30194,
+      "from": "3dee page 12-13 — slotted squares from below"
+    },
+    {
+      "name": "06-process-middle.webp",
+      "sha256": "56e6acf93f5bd7f9e1707c79da0428c9ee5a7a3ca1fe372dd4be6dd3662dc360",
+      "bytes": 41428,
+      "from": "3dee page 12-13 — stacked diamond frames"
+    },
+    {
+      "name": "07-process-lower.webp",
+      "sha256": "76e19cbf0a71d8e5d48afbc8e420b93d979818682911f105d2b89a2c679fda55",
+      "bytes": 37434,
+      "from": "3dee page 12-13 — the base of the frame"
+    },
+    {
+      "name": "08-small-models.webp",
+      "sha256": "3d417a9d88bc4c29b66d0fccd738434e2f32347fd060f7e6cf6c3e2dfda0947c",
+      "bytes": 23240,
+      "from": "3dee page 12-13 — small versions of the house"
+    }
+  ]
+}
