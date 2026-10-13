@@ -1,0 +1,67 @@
+{
+  "project": "Distance and Scale",
+  "dest": "assets/board/distance-and-scale-grid-floors-and-spiral-stair",
+  "note": "Portfolio eb94 page 5 cropped to 10 images, WebP q88 (PIL). Not used: animation-based title, animation city image and labelled animation diagram (retitled).",
+  "files": [
+    {
+      "name": "01-spiral-stair-transition-space.webp",
+      "sha256": "bc225ffcbfac92cbdcc6f7c10aac99c0429f7c4301de6f6bec24746f10d6d93e",
+      "bytes": 63906,
+      "from": "eb94 page 5 — the spiral stair transition space"
+    },
+    {
+      "name": "02-scaling-grid-layers.webp",
+      "sha256": "6e9f8eb0a17c2d5d970933b8213376b3f4dd62617bb676cd5e4682492902b3c1",
+      "bytes": 239166,
+      "from": "eb94 page 5 — grid layers at changing scale"
+    },
+    {
+      "name": "03-curved-walls-and-figure.webp",
+      "sha256": "1e8a0cce39c3cdea8201c51e8a1bf91b042cde1d8b58a9018d6602dcd797df91",
+      "bytes": 16080,
+      "from": "eb94 page 5 — curved walls and a figure"
+    },
+    {
+      "name": "04-grid-floor-close-a.webp",
+      "sha256": "f1605aeb41b6d08ec0e2f3c7317a02909180c4d2d47acf53d0a95ca5dec9e174",
+      "bytes": 21506,
+      "from": "eb94 page 5 — rooms on a grid floor"
+    },
+    {
+      "name": "05-grid-floor-close-b.webp",
+      "sha256": "d309acdf464fe18ffaaaa1cce76ee1775feb41fc3e3124387e16957da1e226a0",
+      "bytes": 27664,
+      "from": "eb94 page 5 — benches and figures"
+    },
+    {
+      "name": "06-grid-floor-close-c.webp",
+      "sha256": "6986bae74c27f407dbc24648af4f1f297291cc8896285d52509fd4605e8052e6",
+      "bytes": 36526,
+      "from": "eb94 page 5 — curved furniture on the grid"
+    },
+    {
+      "name": "07-flowing-walls-on-grid.webp",
+      "sha256": "2fb96a7688aa700824bb2b81a18c5323be13d6b6136d07af2af276ccb2ba74f5",
+      "bytes": 48940,
+      "from": "eb94 page 5 — flowing walls from above"
+    },
+    {
+      "name": "08-layered-floors-and-stairs.webp",
+      "sha256": "2ad1c78e82555406c7964b657bf89dfb7d5d8f6e943fd52e9a05db3d3bded293",
+      "bytes": 62142,
+      "from": "eb94 page 5 — layered floors and stairs"
+    },
+    {
+      "name": "09-lower-level-view.webp",
+      "sha256": "0c0af1ba5ce696c1fed16a4b6348f2b3cf21a9a163e489acd1880ce64c1fa169",
+      "bytes": 23752,
+      "from": "eb94 page 5 — the lower level"
+    },
+    {
+      "name": "10-light-through-the-grid.webp",
+      "sha256": "825370aea2336c97c19ad86222a882c5a9ff6b491c75d338cb1b0826c7f9044c",
+      "bytes": 12998,
+      "from": "eb94 page 5 — light through the grid"
+    }
+  ]
+}
