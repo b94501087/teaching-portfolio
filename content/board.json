@@ -56636,6 +56636,446 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Wilderness & Urbanization",
+      "slug": "wilderness-and-urbanization-sound-wave-city-model",
+      "description": "Sounds recorded on a hike from city to forest become a landscape where towers meet wild growth.\n\nModel making | Sound and landscape | Paper, glue and digital modelling | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "荒野與城市化",
+          "description": "從城市走向山林的健行錄音，化為高樓與野生植物交會的地景。\n\n模型製作｜聲音與地景｜紙、膠與數位建模｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/01-final-model.webp",
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/02-contour-map.webp",
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/03-sound-waves.webp",
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/04-frame-layers.webp",
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/05-strip-process.webp",
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/06-top-process.webp",
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/07-digital-model.webp",
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/08-aerial-view.webp",
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/09-low-view.webp",
+        "assets/board/wilderness-and-urbanization-sound-wave-city-model/10-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished city and wilderness model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的城市與荒野模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "As cities expand, wild land is pushed further away. The student asked how natural landscape could be kept alive inside a growing city.",
+          "images": [
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/02-contour-map.webp"
+          ],
+          "captions": [
+            "Hiking route traced over a map."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "城市擴張時，荒野被推得越來越遠。學生思考如何在成長中的城市裡保留自然地景。",
+              "captions": [
+                "描在地圖上的健行路線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "On a hike away from the city he recorded both traffic and forest sounds. The two recordings were turned into wave patterns with clear contrast.",
+          "images": [
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/03-sound-waves.webp",
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/04-frame-layers.webp"
+          ],
+          "captions": [
+            "City and nature sounds as waves.",
+            "Paper layers set in a frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "在離開城市的健行中，他錄下車流與森林的聲音。兩段錄音被轉成對比鮮明的波形圖案。",
+              "captions": [
+                "城市與自然聲音的波形。",
+                "放在框架中的紙層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The waves were cut into paper strips and layered as rolling ground. Towers were modelled digitally to rise from the loud city parts.",
+          "images": [
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/05-strip-process.webp",
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/06-top-process.webp",
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/07-digital-model.webp"
+          ],
+          "captions": [
+            "Strips of paper being placed.",
+            "The layered ground from above.",
+            "Digital model of the towers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "波形被裁成紙條，層疊成起伏的地面。高樓以數位方式建模，從聲音嘈雜的城市段落升起。",
+              "captions": [
+                "正在放置的紙條。",
+                "從上方看層疊地面。",
+                "高樓的數位模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "White towers and wild trees share one contoured ground. The model asks the viewer to hear the tension between city and nature.",
+          "images": [
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/08-aerial-view.webp",
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/09-low-view.webp",
+            "assets/board/wilderness-and-urbanization-sound-wave-city-model/10-side-view.webp"
+          ],
+          "captions": [
+            "Aerial view of the model.",
+            "Ground-level contours and towers.",
+            "Side view with trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "白色高樓與野生樹木共享同一片等高地面。模型邀請觀者聽見城市與自然之間的張力。",
+              "captions": [
+                "模型鳥瞰。",
+                "地面等高線與高樓。",
+                "帶有樹木的側視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Record a journey.\n2. Turn sound into lines.\n3. Layer lines as ground.\n4. Place the city on it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 記錄一段旅程。\n2. 把聲音化為線條。\n3. 把線條層疊成地面。\n4. 在上面放置城市。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Growing Spires",
+      "slug": "growing-spires-timber-stick-and-chain-tower",
+      "description": "A tree is broken into lines, curves and spheres, then rebuilt as a dense timber stick tower hung with chains.\n\nModel making | Composition | Wood sticks, timber frame and chains | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "生長的尖塔",
+          "description": "把一棵樹拆解為線、曲線與球體，再以密集的木條重建成垂掛鐵鍊的塔。\n\n模型製作｜構成｜木條、木框與鐵鍊｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/growing-spires-timber-stick-and-chain-tower/01-final-tower.webp",
+        "assets/board/growing-spires-timber-stick-and-chain-tower/02-stick-stock.webp",
+        "assets/board/growing-spires-timber-stick-and-chain-tower/03-top-view.webp",
+        "assets/board/growing-spires-timber-stick-and-chain-tower/04-frame-view.webp",
+        "assets/board/growing-spires-timber-stick-and-chain-tower/05-early-frame.webp",
+        "assets/board/growing-spires-timber-stick-and-chain-tower/06-upper-part.webp",
+        "assets/board/growing-spires-timber-stick-and-chain-tower/07-angled-view.webp",
+        "assets/board/growing-spires-timber-stick-and-chain-tower/08-stick-detail.webp",
+        "assets/board/growing-spires-timber-stick-and-chain-tower/09-chain-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/growing-spires-timber-stick-and-chain-tower/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished tower with chains."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的掛鍊之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A famous basilica has been growing spire by spire for over a century. The student wondered whether a tower could grow in the same impulsive yet harmonious way.",
+          "images": [
+            "assets/board/growing-spires-timber-stick-and-chain-tower/02-stick-stock.webp"
+          ],
+          "captions": [
+            "Cut timber sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座著名的大教堂一百多年來一座座尖塔地生長。學生思考一座塔能否以同樣隨性卻和諧的方式生長。",
+              "captions": [
+                "裁好的木條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Inspired by abstract painting, he broke a tree into vertical trunk lines, horizontal branches, curved canopy and round fruit. These simple parts became his building rules.",
+          "images": [
+            "assets/board/growing-spires-timber-stick-and-chain-tower/03-top-view.webp",
+            "assets/board/growing-spires-timber-stick-and-chain-tower/04-frame-view.webp"
+          ],
+          "captions": [
+            "The stick mass from above.",
+            "The stick city in its frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "受抽象繪畫啟發，他把樹拆解為垂直樹幹、水平枝條、弧形樹冠與圓形果實。這些簡單元素成為他的建構規則。",
+              "captions": [
+                "從上方看木條量體。",
+                "框架中的木條之城。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Curves for the canopy were placed first and extended upward into a volume. A central trunk then grew freely while spheres balanced the straight lines.",
+          "images": [
+            "assets/board/growing-spires-timber-stick-and-chain-tower/05-early-frame.webp",
+            "assets/board/growing-spires-timber-stick-and-chain-tower/06-upper-part.webp",
+            "assets/board/growing-spires-timber-stick-and-chain-tower/07-angled-view.webp"
+          ],
+          "captions": [
+            "An early stage of the tower.",
+            "Upper and lower clusters.",
+            "Angled view of the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "代表樹冠的曲線先被放置，再向上延伸成量體。接著中央樹幹自由生長，球體則平衡直線。",
+              "captions": [
+                "塔的早期階段。",
+                "上下兩組木條群。",
+                "框架的斜角視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Thousands of sticks rise like spires inside a timber frame. Hanging chains add a soft canopy over the hard, upright city.",
+          "images": [
+            "assets/board/growing-spires-timber-stick-and-chain-tower/08-stick-detail.webp",
+            "assets/board/growing-spires-timber-stick-and-chain-tower/09-chain-detail.webp"
+          ],
+          "captions": [
+            "Detail of stick heights.",
+            "Chains hanging over the sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "上千根木條如尖塔般在木框中升起。垂掛的鐵鍊為堅硬直立的城市加上柔軟的頂蓋。",
+              "captions": [
+                "木條高度的細部。",
+                "垂掛在木條上的鐵鍊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Break a form into elements.\n2. Set simple rules.\n3. Let it grow.\n4. Add a contrasting layer.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把形體拆解為元素。\n2. 訂下簡單規則。\n3. 讓它生長。\n4. 加上對比的層次。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Exploring a New Architectural Language Through Facade and Form",
+      "slug": "new-architectural-language-facade-unit-block-tower",
+      "description": "Sketches of favourite facades become unit blocks that stack into an expressive timber tower.\n\nModel making | Facade study | Wood boards, wood sticks, paper and PVC board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "以立面與形體探索新建築語言",
+          "description": "喜愛的立面草圖化為單元量體，堆疊成富表現力的木構塔。\n\n模型製作｜立面研究｜木板、木條、紙與PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/new-architectural-language-facade-unit-block-tower/01-final-tower.webp",
+        "assets/board/new-architectural-language-facade-unit-block-tower/02-facade-sketches.webp",
+        "assets/board/new-architectural-language-facade-unit-block-tower/03-unit-blocks.webp",
+        "assets/board/new-architectural-language-facade-unit-block-tower/04-early-stack.webp",
+        "assets/board/new-architectural-language-facade-unit-block-tower/05-stack-study.webp",
+        "assets/board/new-architectural-language-facade-unit-block-tower/06-upper-floors.webp",
+        "assets/board/new-architectural-language-facade-unit-block-tower/07-full-view.webp",
+        "assets/board/new-architectural-language-facade-unit-block-tower/08-stick-crown.webp",
+        "assets/board/new-architectural-language-facade-unit-block-tower/09-board-layers.webp",
+        "assets/board/new-architectural-language-facade-unit-block-tower/10-top-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/new-architectural-language-facade-unit-block-tower/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished facade tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的立面之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Walking through the city, the student saw each building as a piece in a huge exhibition. He wanted to invent a new language by mixing their forms and facade materials.",
+          "images": [
+            "assets/board/new-architectural-language-facade-unit-block-tower/02-facade-sketches.webp"
+          ],
+          "captions": [
+            "Pencil sketches of facades."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "走在城市中，學生把每棟建築看成巨大展覽中的一件作品。他想混合它們的形體與立面材料，創造新的語言。",
+              "captions": [
+                "立面的鉛筆草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He collected six facades he liked and summarised each in pencil. Each sketch then became a unit block built with a different method.",
+          "images": [
+            "assets/board/new-architectural-language-facade-unit-block-tower/03-unit-blocks.webp"
+          ],
+          "captions": [
+            "Unit block models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他收集六個喜愛的立面，以鉛筆提煉其特徵。每張草圖再以不同手法做成一個單元量體。",
+              "captions": [
+                "單元量體模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The blocks were stacked and tested in several combinations. White legs lift the tower while sticks and boards build up its layers.",
+          "images": [
+            "assets/board/new-architectural-language-facade-unit-block-tower/04-early-stack.webp",
+            "assets/board/new-architectural-language-facade-unit-block-tower/05-stack-study.webp",
+            "assets/board/new-architectural-language-facade-unit-block-tower/06-upper-floors.webp"
+          ],
+          "captions": [
+            "An early stacking test.",
+            "A second stacking study.",
+            "Detail of the upper floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "量體以多種組合堆疊測試。白色支腳托起塔身，木條與木板則堆出層次。",
+              "captions": [
+                "早期的堆疊測試。",
+                "第二個堆疊研究。",
+                "上層的細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The tower mixes slats, frames and solid panels into one rich surface. A crown of sticks reaches upward like scaffolding.",
+          "images": [
+            "assets/board/new-architectural-language-facade-unit-block-tower/07-full-view.webp",
+            "assets/board/new-architectural-language-facade-unit-block-tower/08-stick-crown.webp",
+            "assets/board/new-architectural-language-facade-unit-block-tower/09-board-layers.webp",
+            "assets/board/new-architectural-language-facade-unit-block-tower/10-top-view.webp"
+          ],
+          "captions": [
+            "The tower in full.",
+            "The stick crown.",
+            "Layers of boards.",
+            "Looking down on the crown."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "塔身把格柵、框架與實板混合為豐富的表面。木條頂冠像鷹架般向上伸展。",
+              "captions": [
+                "塔的全貌。",
+                "木條頂冠。",
+                "層層木板。",
+                "俯視頂冠。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect facades.\n2. Sketch their features.\n3. Build unit blocks.\n4. Stack and combine.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集立面。\n2. 草繪其特徵。\n3. 製作單元量體。\n4. 堆疊與組合。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
