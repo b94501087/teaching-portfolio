@@ -74916,6 +74916,422 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Three Islands of Emotion",
+      "slug": "three-islands-of-emotion-joy-fear-anger-models",
+      "description": "Joy, fear and anger become three small buildings, made from clay, wood sticks, PVC, steel wire and shimmering laser paper.\n\nModels and sketches | Emotion study | Clay, wood sticks, PVC board, laser paper, paper, steel wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "情緒三島",
+          "description": "喜悅、恐懼與憤怒化為三座小建築，以黏土、木條、PVC、鋼絲與閃爍的雷射紙製成。\n\n模型與草圖｜情緒研究｜黏土、木條、PVC板、雷射紙、紙、鋼絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/three-islands-of-emotion-joy-fear-anger-models/01-joy-model.webp",
+        "assets/board/three-islands-of-emotion-joy-fear-anger-models/02-joy-model-close-up.webp",
+        "assets/board/three-islands-of-emotion-joy-fear-anger-models/03-fear-model.webp",
+        "assets/board/three-islands-of-emotion-joy-fear-anger-models/04-fear-model-detail.webp",
+        "assets/board/three-islands-of-emotion-joy-fear-anger-models/05-fear-model-shadows.webp",
+        "assets/board/three-islands-of-emotion-joy-fear-anger-models/06-anger-model.webp",
+        "assets/board/three-islands-of-emotion-joy-fear-anger-models/07-anger-model-detail.webp",
+        "assets/board/three-islands-of-emotion-joy-fear-anger-models/08-material-sketches.webp",
+        "assets/board/three-islands-of-emotion-joy-fear-anger-models/09-process-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/three-islands-of-emotion-joy-fear-anger-models/01-joy-model.webp"
+          ],
+          "captions": [
+            "The joy model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "喜悅模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "An animated film about feelings made the student imagine islands of joy, fear and anger. The project asks how a building can hold the memory of a dream and its feelings.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部關於情緒的動畫電影，讓學生想像喜悅、恐懼與憤怒的島嶼。這個專題探問，建築如何承載一場夢的記憶與情緒。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student sketched each feeling with the materials that might carry it. Smoothness, form and colour were chosen as the signs of each emotion.",
+          "images": [
+            "assets/board/three-islands-of-emotion-joy-fear-anger-models/08-material-sketches.webp",
+            "assets/board/three-islands-of-emotion-joy-fear-anger-models/09-process-models.webp"
+          ],
+          "captions": [
+            "Material sketches.",
+            "Process models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生為每種情緒畫出可能承載它的材料。材質的平滑、形態與色彩被選為情緒的記號。",
+              "captions": [
+                "材料草圖。",
+                "過程模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Joy was made of soft clay wrapped in triangles of wood sticks and laser paper. The shining triangles hold dream memories that jump from one to the next.",
+          "images": [
+            "assets/board/three-islands-of-emotion-joy-fear-anger-models/02-joy-model-close-up.webp"
+          ],
+          "captions": [
+            "The joy model close up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "喜悅以柔軟的黏土製成，外圍包覆木條與雷射紙組成的三角形。閃亮的三角形封存著從一段跳到另一段的夢境記憶。",
+              "captions": [
+                "喜悅模型近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Fear is a strong but hollow frame of sticks, PVC boxes and wire-bound balls. Anger is a broken heap of sticks and paper with dark window frames.",
+          "images": [
+            "assets/board/three-islands-of-emotion-joy-fear-anger-models/03-fear-model.webp",
+            "assets/board/three-islands-of-emotion-joy-fear-anger-models/04-fear-model-detail.webp",
+            "assets/board/three-islands-of-emotion-joy-fear-anger-models/05-fear-model-shadows.webp",
+            "assets/board/three-islands-of-emotion-joy-fear-anger-models/06-anger-model.webp",
+            "assets/board/three-islands-of-emotion-joy-fear-anger-models/07-anger-model-detail.webp"
+          ],
+          "captions": [
+            "The fear model.",
+            "A fear model detail.",
+            "The fear model and its shadows.",
+            "The anger model.",
+            "An anger model detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "恐懼是一個堅固卻中空的骨架，由木條、PVC盒與鋼絲纏繞的球組成。憤怒則是一堆破碎的木條與紙，配上深色的窗框。",
+              "captions": [
+                "恐懼模型。",
+                "恐懼模型細部。",
+                "恐懼模型與陰影。",
+                "憤怒模型。",
+                "憤怒模型細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Weather of the Heart - Building Three Feelings by Hand",
+          "body": "Feelings rarely arrive one at a time; they drift through a dream like weather, bright, then hollow, then splintered. The project started from a wish to give three of them a place to live, and the guidance asked first that each emotion be found in matter before it was found in form. Sketches paired every feeling with its materials, so that smoothness, colour and weight could speak where words fall short. Joy grew from soft clay, held inside a lattice of stick triangles faced with laser paper, its shifting colours echoing memories that leap from one scene to the next. Fear became a rigid frame with nothing at its core, a structure that looks secure yet offers no refuge, while wire-bound balls hang inside it like knots of worry. Anger was allowed to fall apart, a heap of sticks and torn paper with dark window frames marking what still stands. Placed together, the three models read less as buildings than as a quiet atlas of inner life, showing that architecture can begin with how a moment feels.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "心的天氣-以雙手搭建三種感受",
+              "body": "感受很少單獨到來，它們像天氣一樣飄過夢境，時而明亮，時而空洞，時而碎裂。這個專題始於一個心願：為其中三種情緒找到可以居住的地方。指導過程首先要求，每種情緒必須先在物質中被找到，再談形態；草圖把每種感受與材料配對，讓平滑、色彩與重量說出語言說不出的部分。喜悅從柔軟的黏土長出，被包覆在貼著雷射紙的木條三角格網之中，變幻的光色呼應著在場景之間跳躍的記憶。恐懼成為一個核心空無的堅硬骨架，看似牢固，卻無處可躲，鋼絲纏繞的球懸在其中，如同糾結的憂慮。憤怒則被允許崩解，木條與撕裂的紙堆成一團，只剩深色窗框標示仍然站立之處。三座模型並置時，與其說是建築，不如說是一部安靜的內心地圖集，提醒人們建築可以從一個片刻的感受開始。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Building Block",
+      "slug": "building-block-nine-verbs-wood-strip-tower",
+      "description": "Nine verbs drawn from old building photos become a single wood-strip unit, stacked into a tower that rises like a growing crystal.\n\nModels and drawings | Structure study | Dutch paper, wood strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "建築積木",
+          "description": "從老建築照片中提煉出的九個動詞化為單一木條單元，堆疊成一座如晶體般生長的塔。\n\n模型與繪圖｜結構研究｜荷蘭紙、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/building-block-nine-verbs-wood-strip-tower/01-block-tower.webp",
+        "assets/board/building-block-nine-verbs-wood-strip-tower/02-block-tower-outdoors.webp",
+        "assets/board/building-block-nine-verbs-wood-strip-tower/03-unit-diagrams.webp",
+        "assets/board/building-block-nine-verbs-wood-strip-tower/04-unit-models.webp",
+        "assets/board/building-block-nine-verbs-wood-strip-tower/05-tower-details.webp",
+        "assets/board/building-block-nine-verbs-wood-strip-tower/06-tower-axonometrics.webp",
+        "assets/board/building-block-nine-verbs-wood-strip-tower/07-studio-tower.webp",
+        "assets/board/building-block-nine-verbs-wood-strip-tower/08-tall-tower.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/building-block-nine-verbs-wood-strip-tower/01-block-tower.webp"
+          ],
+          "captions": [
+            "The block tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "積木塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A history class asked the student to study an archive of old photos and pick a theme. The student chose architecture and asked how form and structure relate.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一堂歷史課要求學生研究一批老照片檔案並選定主題。學生選擇了建築，並探問形態與結構之間的關係。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Nine buildings that stood out were outlined in red pen. Nine keywords came from them: hide, distill, store, layering, chip, weave, support, gather and bond.",
+          "images": [
+            "assets/board/building-block-nine-verbs-wood-strip-tower/03-unit-diagrams.webp"
+          ],
+          "captions": [
+            "Unit diagrams."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以紅筆描出九棟特別突出的建築輪廓。從中歸納出九個關鍵詞：隱藏、提煉、儲存、層疊、削切、編織、支撐、聚集與連結。",
+              "captions": [
+                "單元圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The keywords were turned into three models built from paper and wood sticks. Their joints led to one new unit, a looped block of wood strips.",
+          "images": [
+            "assets/board/building-block-nine-verbs-wood-strip-tower/04-unit-models.webp",
+            "assets/board/building-block-nine-verbs-wood-strip-tower/06-tower-axonometrics.webp"
+          ],
+          "captions": [
+            "Unit models.",
+            "Tower axonometrics."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "這些關鍵詞被轉化為三個以紙與木條搭成的模型。它們的接合方式引出一個新單元：以木條圍成的環狀積木。",
+              "captions": [
+                "單元模型。",
+                "塔的軸測圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Hundreds of units were stacked into a tower about one metre tall. Each block holds the next, so the form grows without a separate frame.",
+          "images": [
+            "assets/board/building-block-nine-verbs-wood-strip-tower/02-block-tower-outdoors.webp",
+            "assets/board/building-block-nine-verbs-wood-strip-tower/05-tower-details.webp",
+            "assets/board/building-block-nine-verbs-wood-strip-tower/07-studio-tower.webp",
+            "assets/board/building-block-nine-verbs-wood-strip-tower/08-tall-tower.webp"
+          ],
+          "captions": [
+            "The block tower outdoors.",
+            "Tower details.",
+            "The tower in the studio.",
+            "The tall tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "數百個單元被堆疊成一座約一米高的塔。每塊積木都承托著下一塊，形態因此無需另設骨架便能生長。",
+              "captions": [
+                "戶外的積木塔。",
+                "塔的細部。",
+                "工作室中的塔。",
+                "高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Grammar of Wood - From Old Facades to a Living Lattice",
+          "body": "Old photographs keep buildings the way a dictionary keeps words, waiting for someone to read them in a new order. The study opened with an archive of weathered facades, and the guidance steered the student away from copying styles toward naming actions. Tracing nine buildings in red, the student distilled verbs rather than images: to hide, to store, to weave, to support, to bond. This shift turned history into a working grammar, and the next step tested that grammar in paper and wood, three small models in which each verb had to become a joint, a layer or a frame. From those trials one modest unit emerged, a looped block of strips that could hold its neighbour. Repetition then did the rest, as hundreds of blocks climbed into a tower about a metre high, carrying itself without any hidden skeleton. Indoors it reads as a crystal; set on autumn grass it looks almost grown. The tower makes a patient case that structure is a sentence built from small, honest parts.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "木的文法-從舊立面到生長的格架",
+              "body": "老照片保存建築的方式，就像字典保存文字，等待有人以新的順序閱讀。這項研究從一批斑駁立面的照片檔案開始，指導過程引導學生不去模仿風格，而是為動作命名。學生以紅筆描出九棟建築，提煉的不是影像而是動詞：隱藏、儲存、編織、支撐、連結。這個轉向讓歷史成為可以運作的文法；下一步便以紙與木條檢驗這套文法，在三個小模型中，每個動詞都必須化為一個接點、一層疊片或一道框。從這些試驗中，浮現出一個謙遜的單元：一塊可以扣住鄰居的木條環形積木。接著由重複完成其餘的工作，數百塊積木攀升成約一米高的塔，不靠任何隱藏的骨架便能自我承托。在室內，它像一枚晶體；放在秋天的草地上，又彷彿是自己長出來的。這座塔耐心地證明，結構是一句由微小而誠實的部件構成的句子。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Human Organ Model",
+      "slug": "human-organ-model-brain-alveoli-esophagus",
+      "description": "The folds of a brain, the bubbles of the lungs and a stretching throat become three models of wood strips, acrylic and movable joints.\n\nModels and sketches | Body study | Acrylic sheet, wood strips, wood board, PVC | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "人體器官模型",
+          "description": "大腦的皺褶、肺泡的氣泡與伸縮的食道，化為三個以木條、壓克力與活動關節構成的模型。\n\n模型與草圖｜身體研究｜壓克力板、木條、木板、PVC｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/human-organ-model-brain-alveoli-esophagus/01-brain-model-shadows.webp",
+        "assets/board/human-organ-model-brain-alveoli-esophagus/02-brain-model-layers.webp",
+        "assets/board/human-organ-model-brain-alveoli-esophagus/03-brain-sketch-and-strips.webp",
+        "assets/board/human-organ-model-brain-alveoli-esophagus/04-alveoli-sketch-and-cutouts.webp",
+        "assets/board/human-organ-model-brain-alveoli-esophagus/05-acrylic-alveoli.webp",
+        "assets/board/human-organ-model-brain-alveoli-esophagus/06-esophagus-tunnel-views.webp",
+        "assets/board/human-organ-model-brain-alveoli-esophagus/07-brain-model-tall.webp",
+        "assets/board/human-organ-model-brain-alveoli-esophagus/08-brain-model-low.webp",
+        "assets/board/human-organ-model-brain-alveoli-esophagus/09-lung-sketch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/human-organ-model-brain-alveoli-esophagus/01-brain-model-shadows.webp"
+          ],
+          "captions": [
+            "The brain model and its shadows."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "大腦模型與陰影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The brain sends signals through the nerves to meet the needs of the body. The project turns the brain, the lungs and the digestive tract into spaces.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "大腦透過神經傳遞訊號，回應身體的需求。這個專題把大腦、肺與消化道轉化為空間。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew a top view of the brain and traced its folds. Sketches of the alveoli and the lungs followed, each read as a kind of room.",
+          "images": [
+            "assets/board/human-organ-model-brain-alveoli-esophagus/03-brain-sketch-and-strips.webp",
+            "assets/board/human-organ-model-brain-alveoli-esophagus/09-lung-sketch.webp"
+          ],
+          "captions": [
+            "A brain sketch and first strips.",
+            "A lung sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生畫出大腦的俯視圖，並描出其中的皺褶。接著繪製肺泡與肺的草圖，每一幅都被當作一種房間來閱讀。",
+              "captions": [
+                "大腦草圖與初始木條。",
+                "肺的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wood strips of different sizes rose from the folds in three layers, so model and shadow lock together. The bubbly alveoli were cut in clear acrylic to show the tangled space inside.",
+          "images": [
+            "assets/board/human-organ-model-brain-alveoli-esophagus/02-brain-model-layers.webp",
+            "assets/board/human-organ-model-brain-alveoli-esophagus/04-alveoli-sketch-and-cutouts.webp",
+            "assets/board/human-organ-model-brain-alveoli-esophagus/05-acrylic-alveoli.webp"
+          ],
+          "captions": [
+            "The brain model in layers.",
+            "Alveoli sketch and cutouts.",
+            "Acrylic alveoli."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "不同尺寸的木條沿著皺褶分三層升起，使模型與陰影彼此交錯。泡狀的肺泡以透明壓克力切製，呈現其內部交織的空間。",
+              "captions": [
+                "分層的大腦模型。",
+                "肺泡草圖與剪形。",
+                "壓克力肺泡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The throat became a frame of wood boards and screws that can stretch and shrink. Its tunnel changes shape each time it moves, and the three models together stand one metre tall.",
+          "images": [
+            "assets/board/human-organ-model-brain-alveoli-esophagus/06-esophagus-tunnel-views.webp",
+            "assets/board/human-organ-model-brain-alveoli-esophagus/07-brain-model-tall.webp",
+            "assets/board/human-organ-model-brain-alveoli-esophagus/08-brain-model-low.webp"
+          ],
+          "captions": [
+            "Tunnel views of the throat model.",
+            "The brain model standing tall.",
+            "The brain model from below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "食道化為以木板與螺絲組成、可伸可縮的框架。每次移動，它的通道都會改變形狀；三個模型合起來高約一米。",
+              "captions": [
+                "食道模型的通道視角。",
+                "高聳的大腦模型。",
+                "仰望大腦模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Rooms Within - Reading the Body as Architecture",
+          "body": "The body is the first building anyone lives in, though few ever walk its corridors. This project set out to enter three of them, and the guidance began by asking the student to draw before building, tracing the folds of a brain and the clustered bubbles of the lungs until each organ could be read as a plan. From that reading, structure followed function. In the brain, strips of wood rose from every fold in three tiers, and their shadows fell back into the gaps, so the dense grooves became both form and darkness. In the lungs, clear acrylic held the tangled hollows of a single alveolus, revealing how much space can hide inside something so small. In the throat, wood boards and screws formed hinged joints, letting the model stretch and contract like a living passage whose tunnel never holds one shape for long. Together the three studies argue, quietly and precisely, that every organ already contains an architecture, waiting only for an attentive eye to measure it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "體內的房間-把身體讀作建築",
+              "body": "身體是每個人居住的第一棟建築，卻很少有人走過它的廊道。這個專題試著走進其中三處；指導過程首先要求學生先畫再做，描出大腦的皺褶與肺泡簇擁的氣泡，直到每個器官都能被讀作一張平面圖。從這樣的閱讀出發，結構跟隨機能而生。在大腦中，木條沿著每道皺褶分三層升起，陰影又落回縫隙之間，使密集的溝回同時成為形體與暗影。在肺中，透明壓克力承載單一肺泡內交織的空腔，揭示如此微小之物竟能藏著多少空間。在食道中，木板與螺絲組成鉸接的關節，讓模型像活的通道一樣伸展與收縮，通道的形狀從不長久停留。三項研究安靜而精確地論證：每個器官早已包含一種建築，只等待一雙專注的眼睛去丈量。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
