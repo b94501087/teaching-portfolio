@@ -1,0 +1,61 @@
+{
+  "project": "The Wall",
+  "dest": "assets/board/the-wall-woollen-folds-and-cube-windows",
+  "note": "Portfolio a458 pages 6-7 cropped to 9 images, WebP q88 (PIL). Not used: street photo, photos of knitting hands and of a person, bedroom photo, framed light-box inset partly cropped.",
+  "files": [
+    {
+      "name": "01-woollen-wall-with-windows.webp",
+      "sha256": "0bfaece3db9fbc18f64975614e3558d53f39f0f17dbfc73e46614e0925288383",
+      "bytes": 289208,
+      "from": "a458 pages 6-7 — the woollen wall with windows"
+    },
+    {
+      "name": "02-folded-line-drawing.webp",
+      "sha256": "f466127576195533819212895d01ca39f05bde636e3b04cb998106131aadda83",
+      "bytes": 272142,
+      "from": "a458 pages 6-7 — the folded line drawing"
+    },
+    {
+      "name": "03-wool-texture-studies.webp",
+      "sha256": "253e7498fe1d35160bf5540a268b3106b6959cb7266e0702370efb72546c3af4",
+      "bytes": 40702,
+      "from": "a458 pages 6-7 — wool texture studies"
+    },
+    {
+      "name": "04-framed-wave-model.webp",
+      "sha256": "653ca24a676ae52c45eb327c8b7ade07c0fa41834266fe4fef74d1d2d48368dd",
+      "bytes": 20768,
+      "from": "a458 pages 6-7 — a framed wave study"
+    },
+    {
+      "name": "05-cube-window-field.webp",
+      "sha256": "8e9a9b15b0d4efe771ee40f43354fbf934e9da2294e623f7a37355f1fb18ba94",
+      "bytes": 245066,
+      "from": "a458 pages 6-7 — the field of window cubes"
+    },
+    {
+      "name": "06-cube-field-detail-a.webp",
+      "sha256": "01108f61b3d63ee9aa10efc5cf30759136ff031ab4aa3fd542713b10d9531c57",
+      "bytes": 20886,
+      "from": "a458 pages 6-7 — window cubes lit up"
+    },
+    {
+      "name": "07-cube-field-detail-b.webp",
+      "sha256": "b72fd23592dd52231c7b8ecb3e4b7ae608abe406b727703623df629839a097f4",
+      "bytes": 38228,
+      "from": "a458 pages 6-7 — the cube pattern"
+    },
+    {
+      "name": "08-cube-field-detail-c.webp",
+      "sha256": "ee0a1a89be6fa9e71823a388d6398fdd1f38b559d2185bc30cf9589a1ce2e95e",
+      "bytes": 13946,
+      "from": "a458 pages 6-7 — window cubes in light"
+    },
+    {
+      "name": "09-light-through-window.webp",
+      "sha256": "c4911532a47660b14c2db07009df62dd06425e75ad0e3b0503067e665f631928",
+      "bytes": 17748,
+      "from": "a458 pages 6-7 — light through a window"
+    }
+  ]
+}
