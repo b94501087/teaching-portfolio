@@ -1,0 +1,67 @@
+{
+  "project": "Puzzle of Liminal Space",
+  "dest": "assets/board/puzzle-of-liminal-space-stacked-hallway-model",
+  "note": "Portfolio ddbe pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, a process photo showing a hand.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "c8a73a2f58065fcca040a919eee9106b2345b2ba392720ff9009212d30f01a32",
+      "bytes": 53362,
+      "from": "ddbe page 7 — final model"
+    },
+    {
+      "name": "02-mood-collage.webp",
+      "sha256": "487101456967b2a66307dd96e8c829dc5c7e61fe9bbe2da47d24f26201b7ad8d",
+      "bytes": 90858,
+      "from": "ddbe page 6 — mood collage"
+    },
+    {
+      "name": "03-sketches.webp",
+      "sha256": "e5999ac9650d29d456e5f473081f88e2bff3c570d1a5c8c8491bd6ae999dfaa1",
+      "bytes": 19464,
+      "from": "ddbe page 6 — sketches"
+    },
+    {
+      "name": "04-laser-parts.webp",
+      "sha256": "5bd94ce8f550f2ef0774657770652fe43fc59945b5f6ad8e34b283691598e3bb",
+      "bytes": 7540,
+      "from": "ddbe page 6 — laser parts"
+    },
+    {
+      "name": "05-window-walls.webp",
+      "sha256": "36d83af7c0562483bb197b5a285bcb1b874136574f9a7e7350f71913da4f5e60",
+      "bytes": 9528,
+      "from": "ddbe page 6 — window walls"
+    },
+    {
+      "name": "06-hallway-shell.webp",
+      "sha256": "d0a0297aa26b54941c95c31fcc701a32c45a176a552390550bc7b80b0d1b2dd9",
+      "bytes": 7792,
+      "from": "ddbe page 6 — hallway shell"
+    },
+    {
+      "name": "07-first-stack.webp",
+      "sha256": "f136b741784730c47e374338e3d610821997ae7375ae176947bfd216a045c685",
+      "bytes": 4760,
+      "from": "ddbe page 6 — first stack"
+    },
+    {
+      "name": "08-digital-model.webp",
+      "sha256": "edd209ac78991798a4c1539046c11762545e14c5547c44e9471e25674780f89f",
+      "bytes": 15084,
+      "from": "ddbe page 6 — digital model"
+    },
+    {
+      "name": "09-upper-boxes.webp",
+      "sha256": "eeaee49c6a84285559f972b6dec2f52d9c9f60c84a614c82f5e862780f9938fb",
+      "bytes": 12970,
+      "from": "ddbe page 7 — upper boxes"
+    },
+    {
+      "name": "10-spiral-stair.webp",
+      "sha256": "8487db5d537bae0b4998bbf2a5a8c8b5093b82631f8dbf4e57c8fa682077ebd5",
+      "bytes": 11100,
+      "from": "ddbe page 7 — spiral stair"
+    }
+  ]
+}
