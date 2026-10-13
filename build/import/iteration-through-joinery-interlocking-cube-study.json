@@ -1,0 +1,43 @@
+{
+  "project": "Iteration through Joinery",
+  "dest": "assets/board/iteration-through-joinery-interlocking-cube-study",
+  "note": "Portfolio 6f23 page 10 cropped to 6 images, WebP q88 (PIL).",
+  "files": [
+    {
+      "name": "01-printed-joinery-cubes.webp",
+      "sha256": "73f2fe608851cd6ee6bf4f3c7638012329f7d05c19cfe8940f376904b9c44f8c",
+      "bytes": 12556,
+      "from": "6f23 page 10 — the printed joinery cubes"
+    },
+    {
+      "name": "02-printed-cubes-upright.webp",
+      "sha256": "1bd4ddcaccce583d81afa21ab647e1bfa8d4e081e8d541cc466cdc2d428812a5",
+      "bytes": 10916,
+      "from": "6f23 page 10 — the printed cubes upright"
+    },
+    {
+      "name": "03-printed-cubes-close-up.webp",
+      "sha256": "69fd6f98337f55105ff9adc4671ac193ae3ecc8fe97c5a257e0b8e3bb0515785",
+      "bytes": 14416,
+      "from": "6f23 page 10 — a close-up of the printed cubes"
+    },
+    {
+      "name": "04-render-and-rotation-row-1.webp",
+      "sha256": "d0ef5524f426f99416b4128e4884b2a1503b52025b93e9a8ab071e5952587def",
+      "bytes": 62944,
+      "from": "6f23 page 10 — render, rotation drawing, line logic and animation frame"
+    },
+    {
+      "name": "05-render-and-rotation-row-2.webp",
+      "sha256": "f192a01d85de99dedfdeb3f0a6c0f0e66ed4bd68974dacc184e87c360459409f",
+      "bytes": 48732,
+      "from": "6f23 page 10 — second render, detail rotation and animation frames"
+    },
+    {
+      "name": "06-render-and-rotation-row-3.webp",
+      "sha256": "c1542fe08d5473c9fa75ef37203f993f8d754e742a21dd27238d800cce838f0a",
+      "bytes": 64774,
+      "from": "6f23 page 10 — zoom-in render, unrolled elevation, plan and section"
+    }
+  ]
+}
