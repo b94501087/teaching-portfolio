@@ -1,0 +1,49 @@
+{
+  "project": "From Timber to Clear Rods",
+  "dest": "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods",
+  "note": "Portfolio 68e2 pages 5-6 cropped to 7 images, WebP q88 (PIL). Not used: temple and city names, family story, reference legend drawing, process photo with hands.",
+  "files": [
+    {
+      "name": "01-wood-and-acrylic-tower.webp",
+      "sha256": "9a3b63a1618483ca94f71d4f6ddb4f2530174f633225a2bc90ce6b140c0b3c4d",
+      "bytes": 551708,
+      "from": "68e2 pages 5-6 — the wood and acrylic tower"
+    },
+    {
+      "name": "02-joint-tests.webp",
+      "sha256": "4332c5444e35abe05794499124d6ca85bf544eb36c3d6b4eb20989a4df467a35",
+      "bytes": 26634,
+      "from": "68e2 pages 5-6 — small joint tests"
+    },
+    {
+      "name": "03-roof-layers.webp",
+      "sha256": "65a7991e937ece917a15b3035abdeb7f4558d5d4c464b9f73b7b17f01b8f40f0",
+      "bytes": 114754,
+      "from": "68e2 pages 5-6 — stacked roof layers"
+    },
+    {
+      "name": "04-bracket-detail.webp",
+      "sha256": "1f8ca856b86b61b7548c1d42e0a02ab2564ca9cbe0c46824052f1f2b96b9107a",
+      "bytes": 54008,
+      "from": "68e2 pages 5-6 — a bracket detail"
+    },
+    {
+      "name": "05-acrylic-rods-detail.webp",
+      "sha256": "4dd98128e81d84caae614cddbc09b09fff955bc8b7c24ad3630e18e6def6f890",
+      "bytes": 46270,
+      "from": "68e2 pages 5-6 — acrylic rods above the wood"
+    },
+    {
+      "name": "06-tower-front.webp",
+      "sha256": "5a9bfecb002b3d4183b8260fcaf98b3871cf4a97d6e10822172c2e6678d6523c",
+      "bytes": 285802,
+      "from": "68e2 pages 5-6 — the tower from the front"
+    },
+    {
+      "name": "07-eaves-pen-drawing.webp",
+      "sha256": "47d6100239f3bbf21c5e1679b989c0d734d642edc9206a9741c9b63c08573052",
+      "bytes": 669866,
+      "from": "68e2 pages 5-6 — a pen drawing of timber eaves"
+    }
+  ]
+}
