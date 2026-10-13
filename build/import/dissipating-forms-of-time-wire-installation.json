@@ -1,0 +1,55 @@
+{
+  "project": "Dissipating Forms of Time",
+  "dest": "assets/board/dissipating-forms-of-time-wire-installation",
+  "note": "Portfolio cd80 pages 14-15 cropped to eight images, WebP q88 (PIL). Not used: title and text, a portrait photo of the student, a portrait drawing.",
+  "files": [
+    {
+      "name": "01-final-installation.webp",
+      "sha256": "d25dac6cdbcbd9940f9b5c2a5f1749c9754b037ac33a94b8fdc4ec53135d49df",
+      "bytes": 83410,
+      "from": "cd80 page 15 — final installation"
+    },
+    {
+      "name": "02-frame-test.webp",
+      "sha256": "4fdef2fbc966051aa459aa64adaf3cd7041e1bc962361ae55eaa05bf418ba3ec",
+      "bytes": 10750,
+      "from": "cd80 page 14 — frame test"
+    },
+    {
+      "name": "03-front-view.webp",
+      "sha256": "e21f6f6ea102c29bebed8c8a823fbc8a88afc9d0a82e26e6869afa7593967001",
+      "bytes": 5398,
+      "from": "cd80 page 14 — front view"
+    },
+    {
+      "name": "04-side-view.webp",
+      "sha256": "d6cba67ffad9b8f641e32053ca961947fb1d0c303e2283361bfa3ea06f116cd8",
+      "bytes": 6840,
+      "from": "cd80 page 14 — side view"
+    },
+    {
+      "name": "05-workbench.webp",
+      "sha256": "22be83e280fa11c774eacbe8cabcc5d55912ffd3dee601111f3fac9a379b23d1",
+      "bytes": 13498,
+      "from": "cd80 page 14 — workbench"
+    },
+    {
+      "name": "06-hung-form.webp",
+      "sha256": "83391f220556bed252a0efc4f083d76becd8859ab1d19619f9d33d1ac4a35080",
+      "bytes": 7790,
+      "from": "cd80 page 14 — hung form"
+    },
+    {
+      "name": "07-profile.webp",
+      "sha256": "dd4d1a7729fc58d2857687702806f88d73bfae481ab8bdbe1048335e79e4a86f",
+      "bytes": 5738,
+      "from": "cd80 page 14 — profile"
+    },
+    {
+      "name": "08-dark-view.webp",
+      "sha256": "19456faec7311a0ad7a3c7e70ba63dd2267768edbb0b8f4c9bd76fb7446808d4",
+      "bytes": 41040,
+      "from": "cd80 page 15 — dark view"
+    }
+  ]
+}
