@@ -81024,6 +81024,426 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Momentary Eternal",
+      "slug": "momentary-eternal-sand-in-folded-plastic-wrap",
+      "description": "Sand held in square pockets of plastic wrap is joined into a balancing cluster, freezing the movement of sand at every moment.\n\nModel | Material study | Sand, plastic wrap, iron wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "瞬間的永恆",
+          "description": "裝在方形保鮮膜袋中的沙被連接成一個保持平衡的群組，把沙的流動凍結在每一個瞬間。\n\n模型｜材料研究｜沙、保鮮膜、鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/01-sand-and-wrap-units.webp",
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/02-plaster-sand-cast.webp",
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/03-stacked-plaster-casts.webp",
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/04-epoxy-sand-studies.webp",
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/05-wire-supported-sand.webp",
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/06-sand-units-in-frame.webp",
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/07-wrap-and-sand-close.webp",
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/08-connected-units-a.webp",
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/09-connected-units-b.webp",
+        "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/10-units-in-balance.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/01-sand-and-wrap-units.webp"
+          ],
+          "captions": [
+            "Sand and plastic wrap units."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "沙與保鮮膜單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project started from childhood play on a beach, where wet sand is shaped by the sea and then dries and flows again. A single grain is fixed in form while a mass of grains is fluid, which links sand to the passing of time.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題源自童年在海灘上的遊戲，濕沙被海水塑形，乾了之後又再流動。一粒沙的形狀是固定的，但一堆沙卻是流動的，這讓沙與時間的流逝產生連結。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sand was mixed with glues in different types and proportions to imitate the patterns of washed sand. Plaster, plastic wrap, epoxy glue and iron wire were then used to cast positive and negative forms.",
+          "images": [
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/02-plaster-sand-cast.webp",
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/03-stacked-plaster-casts.webp",
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/04-epoxy-sand-studies.webp",
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/05-wire-supported-sand.webp"
+          ],
+          "captions": [
+            "A plaster and sand cast.",
+            "Stacked plaster casts.",
+            "Sand with epoxy glue.",
+            "Sand supported by iron wire."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把沙與不同種類與比例的膠混合，模仿被沖刷的沙紋。接著使用石膏、保鮮膜、環氧樹脂膠與鐵絲，鑄出正形與負形。",
+              "captions": [
+                "石膏與沙的鑄件。",
+                "堆疊的石膏鑄件。",
+                "以環氧樹脂膠固定的沙。",
+                "以鐵絲支撐的沙。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "To give the sand more freedom, ten square units of plastic wrap and sand were made, first hung inside a wooden frame. The wrap proved able both to restrict the sand and to be shaped by its weight.",
+          "images": [
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/06-sand-units-in-frame.webp",
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/07-wrap-and-sand-close.webp"
+          ],
+          "captions": [
+            "Units hung in a wooden frame.",
+            "Wrap and sand up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "為了給沙更多自由，學生製作了十個以保鮮膜和沙構成的方形單元，最初懸掛在木框中。保鮮膜證明既能限制沙的移動，也會被沙的重量所塑造。",
+              "captions": [
+                "懸掛在木框中的單元。",
+                "近看保鮮膜與沙。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the final model the squares connect directly to each other, deforming until the whole installation finds its balance. The rise and fall of each pocket carries a different trend of moving sand, like sea water frozen in an instant.",
+          "images": [
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/08-connected-units-a.webp",
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/09-connected-units-b.webp",
+            "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/10-units-in-balance.webp"
+          ],
+          "captions": [
+            "Connected units.",
+            "The cluster from above.",
+            "Units in balance."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在最終模型中，方形單元直接彼此連接，變形直到整個裝置找到平衡。每個袋子的起伏承載著不同的沙流趨勢，彷彿在一瞬間被凍結的海水。",
+              "captions": [
+                "相連的單元。",
+                "從上方看群組。",
+                "保持平衡的單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Time in a Grain - Sand Held in Suspension",
+          "body": "Sand is a paradox, each grain firm and fixed, while the mass slips, settles and reshapes itself without end, which is why it has long measured time. This project tried to hold that paradox still for a moment. The student returned to memories of shaping wet sand by the sea and began a patient series of trials, binding sand with glues, casting it in plaster and propping it on wire. These experiments taught that fixing the sand completely erased what made it alive. The guidance therefore turned toward a medium that could both contain and yield, and thin plastic wrap became that medium. Ten square pockets of wrap and sand were first suspended in a timber frame and finally joined only to one another, stretching and folding until they reached equilibrium. Each pocket records a different direction of flow, and light passing through the film reveals drifting veins of grain. The installation becomes a tide arrested mid-motion. It shows how material experiment can give lasting form to an instant.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "一粒沙中的時間-懸浮之沙",
+              "body": "沙是一個悖論：每一粒都堅實而固定，整體卻不停滑動、沉積並重塑自身，這正是它長久以來被用來計量時間的原因。這個專題試圖讓這個悖論靜止片刻。學生回到在海邊塑造濕沙的記憶，開始一連串耐心的試驗：以膠黏合沙、以石膏鑄造沙、以鐵絲撐起沙。這些實驗讓學生明白，把沙完全固定，會抹去它之所以鮮活的特質。於是指導轉向一種既能容納又能順從的媒材，薄薄的保鮮膜便成為這種媒材。十個裝著沙的方形膜袋最初懸掛於木框中，最後只彼此相連，伸展、摺疊，直到達成平衡。每個膜袋記錄一個不同的流動方向，穿過薄膜的光揭示沙粒漂移的紋理。整個裝置成為一道在運動中被定格的潮水。它說明材料實驗能為一個瞬間賦予持久的形體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Pyramid and Hinge",
+      "slug": "pyramid-and-hinge-linear-surfaces-and-stairs",
+      "description": "Four hinged pyramids are unfolded in drawings and rebuilt with linear outer surfaces, so that stairs between them are striped with dramatic light.\n\nDrawings and digital model | Geometry and light study | Line drawing, digital rendering | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "金字塔與鉸接",
+          "description": "四個鉸接的金字塔在圖面中被展開，並以線性外表面重新構築，使其間的階梯灑滿戲劇性的條紋光影。\n\n圖面與數位模型｜幾何與光線研究｜線圖、數位渲染｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/01-hinged-pyramid-stair-light.webp",
+        "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/02-rotational-drawing.webp",
+        "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/03-plan-section-composite.webp",
+        "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/04-unrolled-elevation.webp",
+        "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/05-pyramid-model-views.webp",
+        "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/06-linear-surface-interior.webp",
+        "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/07-stair-between-pyramids.webp",
+        "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/08-striped-light-on-stairs.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/01-hinged-pyramid-stair-light.webp"
+          ],
+          "captions": [
+            "Light across the hinged pyramids."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鉸接金字塔上的光影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project explored how four primary pyramids could be linked by hinges into one spatial system. The challenge was to make the hinging legible and to let people move between the pyramids.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探索四個基本金字塔如何以鉸接方式連結為一個空間系統。挑戰在於讓鉸接關係清晰可讀，並讓人能在金字塔之間移動。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The pyramids were exploded in a rotational drawing and an unrolled elevation drawing to clarify how they hinge. A plan and section composite then showed how stairs connect the pyramids and where a skylight falls.",
+          "images": [
+            "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/02-rotational-drawing.webp",
+            "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/03-plan-section-composite.webp",
+            "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/04-unrolled-elevation.webp"
+          ],
+          "captions": [
+            "Rotational drawing.",
+            "Plan and section composite drawing.",
+            "Unrolled elevation drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以旋轉圖與展開立面圖把金字塔爆炸展開，以釐清它們如何鉸接。接著以平面與剖面的複合圖，呈現階梯如何連接金字塔，以及天光落在何處。",
+              "captions": [
+                "旋轉圖。",
+                "平面與剖面複合圖。",
+                "展開立面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Following an alternate surface logic, most outer surfaces were replaced with linear elements. Model views were studied to see how the lines would filter light into the interior.",
+          "images": [
+            "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/05-pyramid-model-views.webp"
+          ],
+          "captions": [
+            "Views of the pyramid model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "依循另一種表面邏輯，大部分的外表面被替換為線性元素。學生研究模型的多個視角，觀察這些線條如何把光線過濾進室內。",
+              "captions": [
+                "金字塔模型的多個視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Inside, the linear surfaces cast bands of shadow across walls and stairs, making the climb between pyramids dramatic. Small figures show how people would pass through the striped light.",
+          "images": [
+            "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/06-linear-surface-interior.webp",
+            "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/07-stair-between-pyramids.webp",
+            "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs/08-striped-light-on-stairs.webp"
+          ],
+          "captions": [
+            "The linear interior.",
+            "Stairs between pyramids.",
+            "Striped light on the stairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在室內，線性表面在牆面與階梯上投下一道道陰影，讓穿越金字塔之間的攀爬充滿戲劇性。小比例人形顯示人們將如何穿過條紋光影。",
+              "captions": [
+                "線性的室內。",
+                "金字塔之間的階梯。",
+                "階梯上的條紋光影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Hinges of Light - Unfolding Four Pyramids",
+          "body": "The pyramid is among the most closed of forms, a solid that seems to admit neither movement nor light, and this project set out to open it. The student worked with four primary pyramids and the hinges that bind them, treating the joints as the real subject of the design. Before any space was imagined, the guidance asked for drawings that could explain the geometry, so the pyramids were exploded, rotated and unrolled until every fold could be traced. A combined plan and section then turned the abstract hinges into routes, revealing stairs that pass from one volume to the next and a skylight that marks a pause. The decisive step came with an alternate surface logic in which solid faces gave way to rows of thin members. Sunlight now enters in bands, sliding across walls and treads as the figures climb. Weight turns into rhythm, and enclosure becomes filtered openness. The work demonstrates how rigorous drawing can transform a closed solid into a choreography of light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "光的鉸接-展開四座金字塔",
+              "body": "金字塔是最封閉的形式之一，一個彷彿既不容許移動也不容許光線的實體，而這個專題便試圖將它打開。學生以四個基本金字塔及連結它們的鉸接為對象，把接合處視為設計真正的主題。在想像任何空間之前，指導先要求能解釋幾何的圖面，於是金字塔被爆炸、旋轉並展開，直到每一道摺線都能被追溯。隨後，平面與剖面的複合圖把抽象的鉸接轉化為路徑，揭示從一個量體通往下一個量體的階梯，以及標記停頓的天光。決定性的一步來自另一種表面邏輯：實面讓位給一排排細長的構件。陽光於是成帶狀進入，隨著人形攀升而滑過牆面與踏階。重量化為節奏，封閉成為經過過濾的開放。這件作品說明，嚴謹的繪圖能把一個封閉的實體轉化為光的編舞。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "A Room Repeated",
+      "slug": "a-room-repeated-drawn-daily-actions-and-scenes",
+      "description": "Two drawn plans of the same small room, a year apart, become the start of a dreamlike journey in which each daily action is turned into a scene.\n\nDrawings | Memory and everyday life | Pencil sketch, digital drawing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重複的房間",
+          "description": "同一間小房間相隔一年的兩張手繪平面，成為一段夢境般旅程的起點，每個日常動作都被轉化為一個場景。\n\n圖面｜記憶與日常生活｜鉛筆素描、數位繪圖｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/01-room-plan-first.webp",
+        "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/02-room-plan-second.webp",
+        "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/03-windowsill-drawing.webp",
+        "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/04-unfolding-clothes-drawing.webp",
+        "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/05-quilt-movement-drawing.webp",
+        "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/06-windowsill-scene.webp",
+        "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/07-clothes-scene.webp",
+        "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/08-quilt-scene.webp",
+        "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/09-hair-tie-scene.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/01-room-plan-first.webp"
+          ],
+          "captions": [
+            "The room in the first period."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "第一段時期的房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "During two long periods of staying at home a year apart, the student felt that life was simply repeating itself in the same room. The project asked how to make visible the small differences hidden in that repetition, and how to escape its boredom.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在相隔一年的兩段長時間居家期間，學生感到生活只是在同一個房間裡不斷重複。這個專題探問，如何讓隱藏在重複中的細微差異變得可見，又如何擺脫其中的乏味。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The room was drawn in detailed plan for both periods, recording a heavy quilt replaced by a thin one and objects moved by daily use. Comparing the two plans revealed how repeated actions slowly shifted the room.",
+          "images": [
+            "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/02-room-plan-second.webp"
+          ],
+          "captions": [
+            "The room a year later."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以詳細的平面圖描繪兩段時期的房間，記錄厚被換成薄被，以及因日常使用而被移動的物件。比較兩張平面圖，揭示重複的動作如何慢慢改變了房間。",
+              "captions": [
+                "一年後的房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Four repeated actions, at the windowsill, unfolding clothes, tumbling in the quilt and tying up hair, were drawn as studies of movement. Each study stressed one of the five senses that the action brings.",
+          "images": [
+            "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/03-windowsill-drawing.webp",
+            "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/04-unfolding-clothes-drawing.webp",
+            "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/05-quilt-movement-drawing.webp"
+          ],
+          "captions": [
+            "The windowsill study.",
+            "The unfolding clothes study.",
+            "Tumbling in the quilt."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "窗台前的動作、攤開衣物、在被中翻滾與綁頭髮，這四個重複的動作被畫成動態研究。每張研究都強調該動作所帶來的五感之一。",
+              "captions": [
+                "窗台研究。",
+                "攤開衣物的研究。",
+                "在被中翻滾。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each action was turned into a digital scene, and the scenes were linked by a roller coaster into one journey through the room. The drawings offer a playful way of turning routine into an adventure.",
+          "images": [
+            "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/06-windowsill-scene.webp",
+            "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/07-clothes-scene.webp",
+            "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/08-quilt-scene.webp",
+            "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/09-hair-tie-scene.webp"
+          ],
+          "captions": [
+            "The windowsill scene.",
+            "The clothes scene.",
+            "The quilt scene.",
+            "The hair tie scene."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每個動作都被轉化為一個數位場景，並以一條雲霄飛車把各場景串成一段穿越房間的旅程。這些圖面以充滿玩心的方式把例行公事變成一場冒險。",
+              "captions": [
+                "窗台場景。",
+                "衣物場景。",
+                "被子場景。",
+                "髮圈場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Dreaming Within Walls - A Ride Through Routine",
+          "body": "Repetition can make a familiar room almost invisible, as if the same gestures had worn away every detail. This project began in such a state, during two long stretches of staying indoors separated by a year, and turned that sense of sameness into material for design. The student first drew the room twice in careful plan, noting each fold of bedding and every object on the desk and sill, so that the drawings themselves could reveal what memory had missed. The guidance encouraged reading these small differences as traces of movement rather than as mere inventory. Four ordinary actions were then isolated and redrawn as studies of motion, each emphasising one of the senses it awakens. Finally, the actions grew into digital scenes threaded together by a looping roller coaster, transforming a confined bedroom into a landscape for wandering. The shift from precise observation to free invention is what gives the work its charm. It shows how close attention to routine can open a door to imagination.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "在牆內作夢-穿越日常的旅程",
+              "body": "重複能讓一個熟悉的房間幾乎隱形，彷彿相同的動作磨去了每一個細節。這個專題正是在這樣的狀態中展開：兩段相隔一年的長時間居家，把那份千篇一律的感受轉化為設計的素材。學生先以細緻的平面圖兩度描繪房間，記下寢具的每道摺痕以及書桌與窗台上的每件物品，讓圖面本身揭示記憶所遺漏的事物。指導鼓勵把這些細微差異解讀為動作的痕跡，而不只是物件清單。接著，四個平凡的動作被分離出來，重新畫成動態研究，各自強調所喚醒的一種感官。最後，這些動作發展為數位場景，由一條迴旋的雲霄飛車串連，把狹小的臥室轉化為可供漫遊的風景。從精確觀察到自由創造的轉換，正是這件作品的魅力所在。它說明，對日常的專注能為想像打開一扇門。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
