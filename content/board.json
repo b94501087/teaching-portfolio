@@ -81996,6 +81996,550 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Gravity Torsion",
+      "slug": "gravity-torsion-twisted-stairs-in-pvc-and-sticks",
+      "description": "Dozens of white PVC stairs are twisted around one another and pinned with wooden sticks, so that each small figure seems to stand in its own direction of gravity.\n\nModel | Space and gravity study | Wooden sticks, PVC board, mirror | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重力扭轉",
+          "description": "數十段白色PVC樓梯彼此扭轉纏繞，並以木棒固定，讓每個小人形彷彿各自站在不同方向的重力之中。\n\n模型｜空間與重力研究｜木棒、PVC板、鏡面｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/01-twisted-stair-tower.webp",
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/02-stair-element-studies.webp",
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/03-stair-pieces-from-above.webp",
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/04-stair-tower-close-a.webp",
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/05-stair-tower-close-b.webp",
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/06-spiral-stairs-and-sticks.webp",
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/07-stairs-through-sticks.webp",
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/08-figures-on-twisted-stairs.webp",
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/09-crossing-stairs-view.webp",
+        "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/10-figure-in-stair-tower.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/01-twisted-stair-tower.webp"
+          ],
+          "captions": [
+            "The twisted stair tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "扭轉的樓梯塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began from a story of people trapped on an endless staircase, unable to escape. It asked whether being stuck in stairs could be explained by gravity pulling in tangled directions, a condition that also suggests knotted feelings of regret.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題始於一個人們被困在無盡樓梯上、無法逃脫的故事。它探問，被困在樓梯中的處境，能否被解釋為向糾結方向拉扯的重力，而這種狀態也暗示著糾纏的懊悔之情。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "An accidental collage that seemed to hold many different gravities became the starting point. Many types of stair were then made as separate elements to test how each could turn and meet the others.",
+          "images": [
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/02-stair-element-studies.webp",
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/03-stair-pieces-from-above.webp"
+          ],
+          "captions": [
+            "Studies of stair elements.",
+            "Stair pieces from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張偶然做成、彷彿夾雜多種重力的拼貼成為起點。學生接著把許多種類的樓梯做成獨立元素，測試每一段如何轉向並與其他樓梯相接。",
+              "captions": [
+                "樓梯元素研究。",
+                "從上方看樓梯構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each stair was cut with steps starting from one centimetre by six millimetres and growing larger downward. The pieces were connected in different ways, with wooden sticks, straight flights and some irregular planes.",
+          "images": [
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/04-stair-tower-close-a.webp",
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/05-stair-tower-close-b.webp",
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/06-spiral-stairs-and-sticks.webp",
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/07-stairs-through-sticks.webp"
+          ],
+          "captions": [
+            "Stairs up close.",
+            "Stairs and sticks.",
+            "Spiralling stairs.",
+            "Stairs threaded with sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每段樓梯的踏階從一公分乘六公釐開始切割，並向下逐漸加大。各構件以不同方式相連，包括木棒、直跑樓梯以及一些不規則的平面。",
+              "captions": [
+                "近看樓梯。",
+                "樓梯與木棒。",
+                "螺旋的樓梯。",
+                "穿過木棒的樓梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model stretches, curls and contracts into interlacing spaces with an air of mystery. Each figure stands in a distinct gravity, unable to reach any of the others.",
+          "images": [
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/08-figures-on-twisted-stairs.webp",
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/09-crossing-stairs-view.webp",
+            "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/10-figure-in-stair-tower.webp"
+          ],
+          "captions": [
+            "Figures on the twisted stairs.",
+            "Crossing stairs.",
+            "A figure inside the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型伸展、捲曲並收縮成交錯的空間，充滿神祕的氛圍。每個人形各自站在不同的重力中，無法觸及其他任何一人。",
+              "captions": [
+                "扭轉樓梯上的人形。",
+                "交錯的樓梯。",
+                "塔中的人形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Tangled Gravities - Stairs That Lead Nowhere",
+          "body": "A staircase normally promises arrival, each step a small certainty that the next level is near. This project overturned that promise and asked what space would feel like if every flight obeyed a different pull. The starting point was a story of people trapped on endless stairs and an accidental collage in which directions of weight seemed to collide. The student read that collision as an emotional state, a knot of regret in which no one can help anyone else. The guidance encouraged building a vocabulary before a composition, so dozens of stair pieces were cut with steps that grow as they descend and tested for the ways they might join. Sticks, straight flights and irregular planes then bound the pieces into a single twisting mass resting on a mirror. Shadows multiply the confusion, and tiny figures stand at odd angles, each isolated in a private gravity. The model shows how a familiar architectural element can be estranged to express a complex inner condition.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "糾纏的重力-無處可去的樓梯",
+              "body": "樓梯通常承諾抵達，每一階都是一份「下一層就在不遠處」的小小確定。這個專題推翻了這個承諾，探問若每段樓梯都服從不同的拉力，空間會是什麼感受。起點是一個人們被困在無盡樓梯上的故事，以及一張重量方向彷彿相互碰撞的偶然拼貼。學生把這種碰撞解讀為一種情緒狀態，一團誰也幫不了誰的懊悔之結。指導鼓勵先建立語彙再進行構圖，於是數十段樓梯被切出向下逐漸加大的踏階，並測試各種接合方式。木棒、直跑梯與不規則平面再把構件綁成一個置於鏡面上的扭轉量體。陰影加倍了迷亂，小人形以怪異角度站立，各自孤立於私有的重力中。這個模型說明，熟悉的建築元素能被陌生化，以表達複雜的內在狀態。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Space and Sound",
+      "slug": "space-and-sound-guitar-chord-arcs-in-pvc",
+      "description": "Arcs traced from guitar chord patterns are overlapped and given height, forming eight PVC forms whose exposed black parts read as a melody.\n\nModel | Sound and form study | PVC board, tracing paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "空間與聲音",
+          "description": "從吉他和弦圖樣描出的圓弧相互重疊並被賦予高度，形成八個PVC形體，其外露的黑色部分可被讀作一段旋律。\n\n模型｜聲音與形式研究｜PVC板、描圖紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/01-sound-forms-on-light-table.webp",
+        "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/02-chord-arc-drawing.webp",
+        "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/03-arc-overlap-diagram-a.webp",
+        "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/04-arc-overlap-diagram-b.webp",
+        "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/05-overlapping-arc-pattern.webp",
+        "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/06-form-studies-grid.webp",
+        "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/07-forms-on-arc-drawing.webp",
+        "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/08-eight-sound-forms.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/01-sound-forms-on-light-table.webp"
+          ],
+          "captions": [
+            "Sound forms on a light table."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "燈箱上的聲音形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project explored the relationship between sound and space, starting from the fact that sound is vibration made of pitch and loudness. It asked how these two qualities could be given measurable form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探索聲音與空間的關係，起點是聲音是由音高與響度構成的振動。它探問，這兩種特質如何能被賦予可量測的形式。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Guitar chord patterns were used to draw staggered circles, each with the shortest side at its point as radius. The arcs were traced on tracing paper where they overlapped once, twice and three times.",
+          "images": [
+            "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/02-chord-arc-drawing.webp",
+            "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/03-arc-overlap-diagram-a.webp",
+            "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/04-arc-overlap-diagram-b.webp",
+            "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/05-overlapping-arc-pattern.webp"
+          ],
+          "captions": [
+            "Arcs drawn from chord patterns.",
+            "Single and double overlaps.",
+            "Triple overlaps.",
+            "The overlapping arc pattern."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以吉他和弦的圖樣畫出交錯的圓，每個圓以該點最短的邊為半徑。接著在描圖紙上描出重疊一次、兩次與三次的圓弧。",
+              "captions": [
+                "由和弦圖樣畫出的圓弧。",
+                "一次與兩次重疊。",
+                "三次重疊。",
+                "重疊的圓弧圖樣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Overlapping parts were given height to represent pitch, while their areas stood for loudness. Overlaps belonging to the same arc were then combined, since a harmonious sound was felt to be a process of superposition.",
+          "images": [
+            "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/06-form-studies-grid.webp",
+            "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/07-forms-on-arc-drawing.webp"
+          ],
+          "captions": [
+            "Studies of combined forms.",
+            "Forms placed on the arc drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "重疊的部分被賦予高度以代表音高，其面積則代表響度。屬於同一圓弧的重疊部分再被組合起來，因為和諧的聲音被感受為一種疊加的過程。",
+              "captions": [
+                "組合形體的研究。",
+                "放置於圓弧圖上的形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Eight stacked forms stand in a row, each a column of curved PVC layers. The exposed black parts of each combination trace the melody.",
+          "images": [
+            "assets/board/space-and-sound-guitar-chord-arcs-in-pvc/08-eight-sound-forms.webp"
+          ],
+          "captions": [
+            "The eight sound forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "八個堆疊的形體排成一列，每個都是由彎曲PVC層構成的柱體。每個組合外露的黑色部分描繪出旋律。",
+              "captions": [
+                "八個聲音形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Chords in Layers - Building the Shape of Harmony",
+          "body": "Music is usually heard rather than held, yet every chord has a structure as exact as a plan. This project tried to build that structure in space. The student began from the physics of sound, vibration measured as pitch and loudness, and searched for a drawing method that could carry both. Guitar chord charts provided a grid of points, and around each point a circle was drawn whose radius came from its nearest neighbour. Tracing where these circles overlapped once, twice or three times produced a field of lens-shaped fragments. The guidance urged consistent rules, so height was assigned to represent pitch and area to represent volume. Fragments sharing the same arc were then gathered and stacked, because harmony was understood as a leaping superposition of tones. Eight small columns resulted, each a tower of curving white layers. Where black edges show through, a melody can be read like notation. The work demonstrates how a careful translation can give tangible architecture to an invisible art.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "層疊的和弦-構築和聲的形狀",
+              "body": "音樂通常被聽見而非被握住，然而每個和弦都有如平面圖般精確的結構。這個專題試圖在空間中構築這種結構。學生從聲音的物理出發，即以音高與響度衡量的振動，並尋找能同時承載兩者的繪圖方法。弦樂器的和弦圖提供一套點的網格，學生以每個點最近的鄰點距離為半徑畫圓。描出這些圓重疊一次、兩次或三次之處，便得到一片透鏡狀的碎片。指導強調一致的規則，於是高度代表音高，面積代表音量。共享同一圓弧的碎片被聚集並堆疊，因為和聲被理解為音的跳躍疊加。最終得到八個小柱體，每個都是彎曲白色層片之塔。黑色邊緣外露之處，可像樂譜般讀出旋律。這件作品說明，細心的轉譯能為無形的藝術賦予可觸的建築。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Chambers of a Restless Mind",
+      "slug": "chambers-of-a-restless-mind-brick-mirror-and-slats",
+      "description": "Four small spaces of brick, mirror, plaster bubbles and curving wooden slats each give form to a different emotional moment in a story.\n\nModels | Narrative space study | Bricks, wire, wire mesh, cardboard, PVC board, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "不安心靈的房間",
+          "description": "磚、鏡面、石膏泡泡與彎曲木條構成的四個小空間，各自為一個故事中不同的情緒時刻賦予形體。\n\n模型｜敘事空間研究｜磚、鐵絲、鐵絲網、卡紙、PVC板、木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/01-forest-of-curving-slats.webp",
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/02-brick-room-exterior.webp",
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/03-brick-room-with-strings.webp",
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/04-mirror-well-geometry.webp",
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/05-mirror-well-close.webp",
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/06-white-bubble-and-ropes.webp",
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/07-white-bubble-lower-view.webp",
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/08-slat-arch-view.webp",
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/09-brick-room-corner.webp",
+        "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/10-slat-arch-close.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/01-forest-of-curving-slats.webp"
+          ],
+          "captions": [
+            "The forest of curving slats."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "彎曲木條的森林。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project recreated scenes from a novel, aiming for every space to mirror the emotions of its main character. The challenge was to express states such as caution, dizziness, guilt and rage through material rather than illustration.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題重現一部小說中的場景，目標是讓每個空間都映照主角的情緒。挑戰在於透過材料而非插圖，表達謹慎、暈眩、愧疚與憤怒等狀態。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A vintage room was imitated in miniature bricks, with only a bed described in the text and two colours of string marking an exchange of secrets. Below it, a well was imagined as a passage to other spaces, built as reflective geometry that creates a gloomy sense.",
+          "images": [
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/02-brick-room-exterior.webp",
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/03-brick-room-with-strings.webp",
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/04-mirror-well-geometry.webp"
+          ],
+          "captions": [
+            "The brick room.",
+            "Strings across the bed.",
+            "Mirror geometry of the well."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以迷你磚仿造一間老式房間，文本中只描述了一張床，兩種顏色的線則標示一段秘密的交換。在它之下，一口井被想像為通往其他空間的通道，並以反射的幾何構成營造陰鬱之感。",
+              "captions": [
+                "磚砌的房間。",
+                "橫越床鋪的線。",
+                "井的鏡面幾何。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A third space suspends a white bubble pulled and contracted by black ropes, standing for a memory of regret and constant struggle. The last space is a circle of surging wooden slats among wire trees, matching inner ups and downs during a fight in a forest.",
+          "images": [
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/05-mirror-well-close.webp",
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/06-white-bubble-and-ropes.webp",
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/07-white-bubble-lower-view.webp"
+          ],
+          "captions": [
+            "Inside the mirror well.",
+            "The white bubble held by ropes.",
+            "The bubble from below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "第三個空間懸掛一個被黑繩拉扯與收縮的白色泡泡，代表一段懊悔的記憶與不斷的掙扎。最後一個空間是鐵絲樹林中一圈洶湧的木條，對應森林中一場打鬥時內心的起伏。",
+              "captions": [
+                "鏡面井的內部。",
+                "被繩索牽制的白色泡泡。",
+                "從下方看泡泡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Small red figures appear in all four spaces as bystanders who also drive the world little by little. Together the models form a sequence from quiet enclosure to violent motion.",
+          "images": [
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/08-slat-arch-view.webp",
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/09-brick-room-corner.webp",
+            "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/10-slat-arch-close.webp"
+          ],
+          "captions": [
+            "The arch of slats.",
+            "A corner of the brick room.",
+            "The slats up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "小小的紅色人形出現在全部四個空間中，既是旁觀者，也一點一點推動著世界。四個模型共同構成一段從安靜封閉到劇烈運動的序列。",
+              "captions": [
+                "木條之拱。",
+                "磚房的一角。",
+                "近看木條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Rooms of Feeling - From Well to Forest",
+          "body": "Fiction often unfolds as a passage through rooms, each holding a different weight of feeling, and this project set out to build such a passage. Working from scenes of a novel, the student chose four moments and asked how material alone could carry the mood of each. A small brick chamber recalls an old hotel room, almost empty, where two colours of string trace whispered warnings across a bed. Beneath it lies a well rendered in faceted mirror, a dizzying space where reflections fold the mind toward elsewhere. The guidance encouraged contrast between the pieces, so the third space becomes soft and suspended, a white swelling restrained by black ropes that reads as guilt. The final space bursts into motion as wooden slats surge in a ring through a grove of wire trees. Tiny red figures recur in every chamber as witnesses and quiet agents of change. The sequence demonstrates how narrative emotion can be translated into a coherent family of spatial experiments.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "情感的房間-從井到森林",
+              "body": "小說往往如同穿越一個個房間般展開，每個房間承載不同重量的情感，而這個專題便試圖構築這樣的一段穿越。學生從一部小說的場景出發，選出四個時刻，探問僅憑材料能否承載各自的情緒。一間小小的磚室令人想起一間幾近空無的老旅館房間，兩色細線在床上描出低語般的警告。其下是一口以多面鏡構成的井，一個令人暈眩的空間，反射把思緒折向遠方。指導鼓勵各件作品之間的對比，於是第三個空間變得柔軟而懸浮，一團被黑繩牽制的白色膨脹，可讀作愧疚。最後的空間爆發為運動，木條在鐵絲樹叢中洶湧成環。紅色小人形在每個房間重複出現，既是見證者，也是安靜的改變者。這組序列說明，敘事情感能被轉譯為一個連貫的空間實驗家族。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Against Gravity",
+      "slug": "against-gravity-elastic-wire-twisted-sculpture",
+      "description": "Slender elastic wires are knotted into a twisted lattice sculpture whose powerful form seems to resist gravity.\n\nSculpture and digital image | Structure study | Elastic wire, digital editing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "對抗重力",
+          "description": "纖細的彈性鐵絲被結成一座扭轉的格網雕塑，其有力的形體彷彿在抵抗重力。\n\n雕塑與數位影像｜結構研究｜彈性鐵絲、數位編修｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/against-gravity-elastic-wire-twisted-sculpture/01-wire-sculpture-view-a.webp",
+        "assets/board/against-gravity-elastic-wire-twisted-sculpture/02-wire-sculpture-view-b.webp",
+        "assets/board/against-gravity-elastic-wire-twisted-sculpture/03-wire-sculpture-view-c.webp",
+        "assets/board/against-gravity-elastic-wire-twisted-sculpture/04-wire-sculpture-view-d.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/against-gravity-elastic-wire-twisted-sculpture/01-wire-sculpture-view-a.webp"
+          ],
+          "captions": [
+            "The wire sculpture."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鐵絲雕塑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The theme was against gravity, asking how a structure might look as if it pushes away from the ground. The intriguing contrast was to make a powerful shape out of very slender wires.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題的主題是對抗重力，探問一個結構如何看起來像是從地面推離。其中引人入勝的對比，在於以極細的鐵絲做出有力的形體。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Elastic wires were tested for how far they could bend and spring back when joined at small nodes. Triangles proved the most stable unit for building up a light network.",
+          "images": [
+            "assets/board/against-gravity-elastic-wire-twisted-sculpture/02-wire-sculpture-view-b.webp"
+          ],
+          "captions": [
+            "The sculpture from another side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生測試彈性鐵絲在小節點相接時能彎曲並回彈的程度。三角形被證明是構築輕盈網絡最穩定的單元。",
+              "captions": [
+                "從另一側看雕塑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Triangles were linked into clusters that twist as they grow, so that tension in each wire holds the whole shape in place. The sculpture was then photographed and edited digitally to isolate its outline.",
+          "images": [
+            "assets/board/against-gravity-elastic-wire-twisted-sculpture/03-wire-sculpture-view-c.webp"
+          ],
+          "captions": [
+            "A twisting cluster."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三角形被連結成邊生長邊扭轉的群組，讓每根鐵絲中的張力把整體形狀固定。雕塑隨後被拍攝並以數位方式編修，以突顯其輪廓。",
+              "captions": [
+                "扭轉的群組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Seen from four sides, the lattice changes from a dense knot to an open cloud of lines. The views show how a delicate material can carry a strong sense of upward force.",
+          "images": [
+            "assets/board/against-gravity-elastic-wire-twisted-sculpture/04-wire-sculpture-view-d.webp"
+          ],
+          "captions": [
+            "The fourth view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "從四個方向觀看，格網從密集的結轉變為開放的線之雲。這些視角顯示纖細的材料如何能承載強烈的向上力量。",
+              "captions": [
+                "第四個視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Lines Against Weight - A Lattice That Lifts",
+          "body": "Gravity is usually felt as weight, a steady pull that every structure must answer, but a structure can also be made to look as though it argues back. This project pursued that argument with the lightest of means. The student chose elastic wire precisely because it seems too slender for strength, and the tension between delicacy and force became the subject of the work. Early tests examined how wire bends and recovers when tied at tiny joints, and the triangle emerged as the dependable cell. The guidance encouraged growth by rule rather than by sketch, so triangles were added one to another until the cluster began to twist of its own accord. Stored tension in each strand keeps the form taut, as if it were straining upward. Photographed from four directions and edited to stand out against a pale ground, the lattice shifts between knot and cloud. The work demonstrates how structural logic can turn fragile lines into an expression of resistance.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "對抗重量的線-向上抬升的格網",
+              "body": "重力通常被感受為重量，一股每個結構都必須回應的穩定拉力，但結構也能被做得彷彿在反駁它。這個專題以最輕盈的手段追求這場反駁。學生選擇彈性鐵絲，正因為它看似過於纖細而無法承力，纖細與力量之間的張力便成為作品的主題。早期測試檢視鐵絲在微小節點相接時如何彎曲與回復，三角形隨之成為可靠的單元。指導鼓勵依規則而非依草圖生長，於是三角形一個接一個加入，直到群組開始自行扭轉。每股鐵絲中蓄積的張力讓形體保持緊繃，彷彿正奮力向上。從四個方向拍攝並經編修後，格網在淺色背景上於結與雲之間變換。這件作品說明，結構邏輯能把脆弱的線轉化為抵抗的表達。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
