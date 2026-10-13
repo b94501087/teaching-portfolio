@@ -1,0 +1,43 @@
+{
+  "project": "Spider",
+  "dest": "assets/board/spider-umbrella-frame-and-wire-web",
+  "note": "Portfolio 3a1d page 8 cropped to 6 images, WebP q88 (PIL). Not used: stock web and spider photos, process photo with a branded glue tube.",
+  "files": [
+    {
+      "name": "01-spider-frame.webp",
+      "sha256": "2f5a06ba5e0f34fe088bd28a202003ff06e6b3752327cf834269c2d0bc9b6bf4",
+      "bytes": 188516,
+      "from": "3a1d page 8 — the spider frame"
+    },
+    {
+      "name": "02-spider-frame-low-view.webp",
+      "sha256": "0914e6076f8c7619de00026db0ecd72b9a7cd134a17d62ab73af77b4d45bf11c",
+      "bytes": 92810,
+      "from": "3a1d page 8 — the spider frame from below"
+    },
+    {
+      "name": "03-spider-frame-side.webp",
+      "sha256": "88ea7a7ee31f2470823e04d71c595c00c66ed6d2dd5431fff6fb4ba112ead317",
+      "bytes": 77012,
+      "from": "3a1d page 8 — the spider frame from the side"
+    },
+    {
+      "name": "04-paint-studies.webp",
+      "sha256": "34f1cd014573bc484d555b676acb9fa0bfe2c7d5319670af88e0458d805efa5d",
+      "bytes": 134108,
+      "from": "3a1d page 8 — paint studies"
+    },
+    {
+      "name": "05-frame-and-wire-process.webp",
+      "sha256": "cdb39a9dc8c7b864e1d3318bf6d16381ac0519e3fbea3fa899a3b7e47e5060a6",
+      "bytes": 28526,
+      "from": "3a1d page 8 — frame and wire in process"
+    },
+    {
+      "name": "06-wire-web-process.webp",
+      "sha256": "e436e27eb7a5af551778e113a9f79d85f6bfaec3e31a8b671602f7e849a89418",
+      "bytes": 38044,
+      "from": "3a1d page 8 — the wire web in process"
+    }
+  ]
+}
