@@ -1,0 +1,61 @@
+{
+  "project": "Butterfly-Wing Shade Pavilion",
+  "dest": "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden",
+  "note": "Portfolio 30d4 pages 11-11 cropped to 9 images, WebP q88 (PIL). Not used: programme and school name, park name, site photos, process photos with hands.",
+  "files": [
+    {
+      "name": "01-iridescent-shade-pavilion.webp",
+      "sha256": "e79306d46cd128bd374845e4a431e3f5c74dc2f4f3c5e5928c49ac32dd82d5a7",
+      "bytes": 89998,
+      "from": "30d4 pages 11-11 — the shade pavilion"
+    },
+    {
+      "name": "02-pavilion-from-above.webp",
+      "sha256": "3f9442484127ebed1cea1f682520976a7906596213bcf6bf49d4b31f92ee650c",
+      "bytes": 94772,
+      "from": "30d4 pages 11-11 — the pavilion from above"
+    },
+    {
+      "name": "03-under-the-canopy.webp",
+      "sha256": "597967e1ad1d2ef380604499f9bea41da3906e1adb694d8e7f0e37c7ab308366",
+      "bytes": 52102,
+      "from": "30d4 pages 11-11 — under the canopy"
+    },
+    {
+      "name": "04-arched-ribs.webp",
+      "sha256": "bd15a17ca55d8acbd485f460ffd4ead270db905507a9ef7a91a79e5278fd6e82",
+      "bytes": 46368,
+      "from": "30d4 pages 11-11 — the arched ribs"
+    },
+    {
+      "name": "05-coloured-shade.webp",
+      "sha256": "1e878cf6f51246efa1cefe33bfa126fcad96a26584b030ec3c0fe939493adcf6",
+      "bytes": 45302,
+      "from": "30d4 pages 11-11 — coloured shade on the ground"
+    },
+    {
+      "name": "06-pavilion-on-steps.webp",
+      "sha256": "d6d9edd73e541aba98e0412652cf8696830fa5e9c06720887a2527de74064a07",
+      "bytes": 36568,
+      "from": "30d4 pages 11-11 — the pavilion on the steps"
+    },
+    {
+      "name": "07-wing-sketches.webp",
+      "sha256": "92217d66d6ce1a5e56dbf10810ad27cbf8e0938bbe171b23031d8ddbc775373f",
+      "bytes": 45808,
+      "from": "30d4 pages 11-11 — sketches of wing forms"
+    },
+    {
+      "name": "08-digital-wing-panels.webp",
+      "sha256": "44b0441564aaa0f8e45cd380ec9903d63b38be42b824de36c8133cc08d6c1fd1",
+      "bytes": 10018,
+      "from": "30d4 pages 11-11 — digital wing panels"
+    },
+    {
+      "name": "09-site-model-views.webp",
+      "sha256": "265049183e2aa6de1b09b8e98aa2332022f59ae2e08ddf28c64e3dc46cf09cfe",
+      "bytes": 77418,
+      "from": "30d4 pages 11-11 — early site model views"
+    }
+  ]
+}
