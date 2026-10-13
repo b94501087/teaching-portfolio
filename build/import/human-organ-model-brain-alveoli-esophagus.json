@@ -1,0 +1,61 @@
+{
+  "project": "Human Organ Model",
+  "dest": "assets/board/human-organ-model-brain-alveoli-esophagus",
+  "note": "Portfolio 3a1d pages 2-3 cropped to 9 images, WebP q88 (PIL). Not used: textbook brain and respiratory diagrams, photos of people holding the models.",
+  "files": [
+    {
+      "name": "01-brain-model-shadows.webp",
+      "sha256": "4fd4f5b5324ef48c105b49eb3cd41bd20810514c82d5e2672d1bfd85c26fe121",
+      "bytes": 28460,
+      "from": "3a1d pages 2-3 — the brain model and its shadows"
+    },
+    {
+      "name": "02-brain-model-layers.webp",
+      "sha256": "d4faeb990b3b38b4ab0fd57bd7a18690be2bffbde561a53b3851ce8fa3d12a2d",
+      "bytes": 28876,
+      "from": "3a1d pages 2-3 — the brain model in layers"
+    },
+    {
+      "name": "03-brain-sketch-and-strips.webp",
+      "sha256": "260e5039a54c5727c622a8fc2d1642d090332121dcff9c0e37403176813041e0",
+      "bytes": 46032,
+      "from": "3a1d pages 2-3 — a brain sketch and first strips"
+    },
+    {
+      "name": "04-alveoli-sketch-and-cutouts.webp",
+      "sha256": "2e7726da417781cef9ca8a377271184f349470d182e9df899dcc680e50314763",
+      "bytes": 41628,
+      "from": "3a1d pages 2-3 — alveoli sketch and cutouts"
+    },
+    {
+      "name": "05-acrylic-alveoli.webp",
+      "sha256": "710c42aa43de183811ed347df3488b8a70e793b8e720979b0ec9138d3730ddc8",
+      "bytes": 20788,
+      "from": "3a1d pages 2-3 — acrylic alveoli"
+    },
+    {
+      "name": "06-esophagus-tunnel-views.webp",
+      "sha256": "e4b204a2a87044f982697cc7e9e4e188660759b24d35527d1fa49b3f92031023",
+      "bytes": 55074,
+      "from": "3a1d pages 2-3 — tunnel views of the throat model"
+    },
+    {
+      "name": "07-brain-model-tall.webp",
+      "sha256": "b75250e3c6ef4fd93328ec07feeda9344f884f564929ddd68134f64a9205cbdd",
+      "bytes": 45458,
+      "from": "3a1d pages 2-3 — the brain model standing tall"
+    },
+    {
+      "name": "08-brain-model-low.webp",
+      "sha256": "ebca74566bc4260e4c15fdc1cf049fe96167c708edc445f6dde2e9fb5248329a",
+      "bytes": 47680,
+      "from": "3a1d pages 2-3 — the brain model from below"
+    },
+    {
+      "name": "09-lung-sketch.webp",
+      "sha256": "ee4c5859bfb477dec3334028df9b9b438ed51931e907c4eca75837344754a91f",
+      "bytes": 15470,
+      "from": "3a1d pages 2-3 — a lung sketch"
+    }
+  ]
+}
