@@ -1,0 +1,61 @@
+{
+  "project": "Running Through Gaps",
+  "dest": "assets/board/running-through-gaps-layered-pvc-walls",
+  "note": "Portfolio 0b95 pages 7-8 cropped to 9 images, WebP q88 (PIL). Not used: photo of football players, process photos with hands.",
+  "files": [
+    {
+      "name": "01-pvc-wall-field.webp",
+      "sha256": "a932230d7bb38a39eac757d9ac7b877bd9e6b0d952d41cc1b9a4c163c6f07c61",
+      "bytes": 56194,
+      "from": "0b95 pages 7-8 — the pvc wall field"
+    },
+    {
+      "name": "02-walls-from-above.webp",
+      "sha256": "b1fc10a973ed49da20f6358ad2a5f07371a511f4c137d88a9e51ac15420999c7",
+      "bytes": 82656,
+      "from": "0b95 pages 7-8 — walls from above"
+    },
+    {
+      "name": "03-walls-in-light.webp",
+      "sha256": "f4c5c55b742e8142559fdad30bd0b724730a363ff6294fdd7ee79af422815c68",
+      "bytes": 73646,
+      "from": "0b95 pages 7-8 — walls in light"
+    },
+    {
+      "name": "04-walking-between-walls.webp",
+      "sha256": "15dc79069e57071f06dabbb2ad7b1fd342e6dfce36cca21120009bc16d486d40",
+      "bytes": 31634,
+      "from": "0b95 pages 7-8 — walking between walls"
+    },
+    {
+      "name": "05-gap-between-walls.webp",
+      "sha256": "f1b01bbe7da9f1173429f6b1d352e06ce1e3fcde5ecc358dae8278a7db1386df",
+      "bytes": 30570,
+      "from": "0b95 pages 7-8 — a gap between walls"
+    },
+    {
+      "name": "06-movement-combination.webp",
+      "sha256": "6683d70d7a88196b6a29cca25849a68b0fd6f302b3ab657bc93e94f54b32a672",
+      "bytes": 39972,
+      "from": "0b95 pages 7-8 — the movement combination"
+    },
+    {
+      "name": "07-play-diagrams.webp",
+      "sha256": "cbdc4f0836886f8f62113b7fa92350b648966e159cdd796dc47c108ca6498a0e",
+      "bytes": 33394,
+      "from": "0b95 pages 7-8 — play diagrams"
+    },
+    {
+      "name": "08-wall-plan.webp",
+      "sha256": "b247fb4b974fffb6f56be723786e9e7bcef3c4409bd24d31e69d1105a90ed7f9",
+      "bytes": 29460,
+      "from": "0b95 pages 7-8 — the wall plan"
+    },
+    {
+      "name": "09-wall-elevations.webp",
+      "sha256": "ea708320858919aabe435ce1ed2eddf2a15f6ee14afdd0599c5ecdc0ae2368d2",
+      "bytes": 159434,
+      "from": "0b95 pages 7-8 — wall elevations"
+    }
+  ]
+}
