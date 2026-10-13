@@ -1,0 +1,61 @@
+{
+  "project": "Floating Collage",
+  "dest": "assets/board/floating-collage-cardboard-space-city",
+  "note": "Portfolio eb94 page 9 cropped to 9 images, WebP q88 (PIL). Not used: film title and film image, toy brand name and toy packaging photo, photo of the student, faint blueprint strip.",
+  "files": [
+    {
+      "name": "01-floating-city-model.webp",
+      "sha256": "b7b3b82ffd002eabe29ccc86265d1f3ec1fd63e2f44263ec78f8150ee28828e7",
+      "bytes": 91022,
+      "from": "eb94 page 9 — the floating city model"
+    },
+    {
+      "name": "02-blueprint-drawing-1.webp",
+      "sha256": "395a5ff2cc557bf80af1643c140b4eb82f15931bbab00db6d6c3803f1b08e5e4",
+      "bytes": 23434,
+      "from": "eb94 page 9 — collage drawing one"
+    },
+    {
+      "name": "03-collage-model-1.webp",
+      "sha256": "bb24be8e1004c00b8bdb86315bd9e7c269bd984a314f5f0a4d213d3d2ad52b45",
+      "bytes": 30200,
+      "from": "eb94 page 9 — collage model one"
+    },
+    {
+      "name": "04-blueprint-drawing-2.webp",
+      "sha256": "10bd4dce497b59314c994e943121aaf748048ab61de77311afa2cee971a62b8a",
+      "bytes": 19190,
+      "from": "eb94 page 9 — collage drawing two"
+    },
+    {
+      "name": "05-collage-model-2.webp",
+      "sha256": "3f1cc9d5fe8887ba43ea2e21f007beb41a394642b0a51a0ab3066527fe456b07",
+      "bytes": 19146,
+      "from": "eb94 page 9 — collage model two"
+    },
+    {
+      "name": "06-blueprint-drawing-3.webp",
+      "sha256": "022896bab553b9070dc3c0bb3d374ab0926b03f05af2072c4bc19fa8b50ae8e7",
+      "bytes": 20722,
+      "from": "eb94 page 9 — collage drawing three"
+    },
+    {
+      "name": "07-collage-model-3.webp",
+      "sha256": "0b5619a7bdd7e511590eef6f46acd8650c80fde72de3df793b8ad0213b56c3f6",
+      "bytes": 23686,
+      "from": "eb94 page 9 — collage model three"
+    },
+    {
+      "name": "08-collage-model-4.webp",
+      "sha256": "9451bfa7385690ed3f653fe22f64718af3b1e6ef8571117c47ad93cc1913f4ac",
+      "bytes": 16170,
+      "from": "eb94 page 9 — collage model four"
+    },
+    {
+      "name": "09-bent-ground-close.webp",
+      "sha256": "4675f0350c0b26e71067abf6a27b002607e163dce2029cefc53ce9c95b933662",
+      "bytes": 59968,
+      "from": "eb94 page 9 — the bent ground up close"
+    }
+  ]
+}
