@@ -1,0 +1,67 @@
+{
+  "project": "The Beacon",
+  "dest": "assets/board/the-beacon-dismantled-lamp-to-folding-blade-tower",
+  "note": "Portfolio 1d99 pages 2-4 cropped to 10 images, WebP q88 (PIL). Not used: cover with student name and city, contents page, lamp history text with inventor names and historical lamp images, process photo of the student, caption with dimensions and date.",
+  "files": [
+    {
+      "name": "01-beacon-final-model.webp",
+      "sha256": "26f85769d28dff25edccdbd8b5c16cdd4944baacba0d79cfcac368a9513530b7",
+      "bytes": 338496,
+      "from": "1d99 pages 2-4 — the beacon final model"
+    },
+    {
+      "name": "02-lamp-component-sketches.webp",
+      "sha256": "261f43abb8a8a35a4c158e7d3b0bcae7ea8ac17107bf64121d7d988ccfbd854a",
+      "bytes": 103334,
+      "from": "1d99 pages 2-4 — sketches of lamp components"
+    },
+    {
+      "name": "03-dismantled-lamp-parts.webp",
+      "sha256": "67dcea95ed3901ae9dbab81d64f562883934d0a3987f7f5e5599ae56de12a4c7",
+      "bytes": 83932,
+      "from": "1d99 pages 2-4 — the dismantled lamp parts"
+    },
+    {
+      "name": "04-crane-scene-with-figures.webp",
+      "sha256": "6b6dd7840b79eef344c97f94beec8558c9765f53526ddf69362adabb34e8f2f5",
+      "bytes": 29858,
+      "from": "1d99 pages 2-4 — the crane scene with figures"
+    },
+    {
+      "name": "05-crane-scene-arm.webp",
+      "sha256": "bd837afbfd92800a22152e835239dd302490585dc04af711c5c4566130af0054",
+      "bytes": 119210,
+      "from": "1d99 pages 2-4 — the arm of the crane scene"
+    },
+    {
+      "name": "06-crane-scene-base.webp",
+      "sha256": "30afe419af1498d79a200ee9242613e03a737532727926111984570124bae17f",
+      "bytes": 52578,
+      "from": "1d99 pages 2-4 — the base of the crane scene"
+    },
+    {
+      "name": "07-beacon-blade-sketch.webp",
+      "sha256": "07c77ded93733676d530c0d940854fee10138170f74c1705807c41dc720f4119",
+      "bytes": 121778,
+      "from": "1d99 pages 2-4 — a sketch of the beacon blades"
+    },
+    {
+      "name": "08-beacon-function-sketches.webp",
+      "sha256": "5a20a992becfc0e8d5a008c2b2282780ea425458d727d085745f3bd862b8317f",
+      "bytes": 83360,
+      "from": "1d99 pages 2-4 — sketches of beacon functions"
+    },
+    {
+      "name": "09-lighthouse-mode.webp",
+      "sha256": "7b932040ca9931e038d6f2a20d2a2c7df5ab680a2ce84c2f6115bff4dcc3dc19",
+      "bytes": 102844,
+      "from": "1d99 pages 2-4 — the lighthouse mode"
+    },
+    {
+      "name": "10-resting-mode.webp",
+      "sha256": "6c4e301eb07283cc1c4f5a881dada1aee002713f104507d0a6a3078b5ea3175b",
+      "bytes": 133280,
+      "from": "1d99 pages 2-4 — the resting mode"
+    }
+  ]
+}
