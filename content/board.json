@@ -67952,6 +67952,418 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Flower Tower",
+      "slug": "flower-tower-petal-relief-to-card-tower",
+      "description": "Petal shapes become card reliefs, then stacked flower blocks joined by sticks rise into a tower.\n\nModel and digital painting | Form study | Hard cardboard, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "花之塔",
+          "description": "花瓣形狀化為紙板浮雕，再把花形量體以木條串接，堆疊成塔。\n\n模型與數位繪畫｜形態研究｜硬紙板、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/flower-tower-petal-relief-to-card-tower/01-flower-tower-model.webp",
+        "assets/board/flower-tower-petal-relief-to-card-tower/02-petal-relief-top.webp",
+        "assets/board/flower-tower-petal-relief-to-card-tower/03-petal-relief-panels.webp",
+        "assets/board/flower-tower-petal-relief-to-card-tower/04-flower-to-circles.webp",
+        "assets/board/flower-tower-petal-relief-to-card-tower/05-tower-process.webp",
+        "assets/board/flower-tower-petal-relief-to-card-tower/06-flower-tower-drawing.webp",
+        "assets/board/flower-tower-petal-relief-to-card-tower/07-relief-column.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/flower-tower-petal-relief-to-card-tower/01-flower-tower-model.webp"
+          ],
+          "captions": [
+            "The flower tower in the garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "花園中的花之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "While watering flowers, the student knocked off some petals and tried to put them back. The project asks how a flower's structure could become a space.",
+          "images": [
+            "assets/board/flower-tower-petal-relief-to-card-tower/04-flower-to-circles.webp"
+          ],
+          "captions": [
+            "A flower traced into circles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生在澆花時不小心碰落花瓣，試著把它們黏回去。這個專題探問花的結構如何化為空間。",
+              "captions": [
+                "把花描成圓形組合。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The flower was drawn as a 2D pattern of circles. Card strips were then bent along those circles to make reliefs.",
+          "images": [
+            "assets/board/flower-tower-petal-relief-to-card-tower/02-petal-relief-top.webp",
+            "assets/board/flower-tower-petal-relief-to-card-tower/03-petal-relief-panels.webp"
+          ],
+          "captions": [
+            "Card reliefs from above.",
+            "A large petal relief."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把花畫成由圓形組成的平面圖案。接著沿著圓弧彎折紙條，做成浮雕。",
+              "captions": [
+                "俯視紙板浮雕。",
+                "大型花瓣浮雕。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The reliefs were extended upward into 3D flower blocks. Several blocks were stacked and linked with sticks to show the direction of growth.",
+          "images": [
+            "assets/board/flower-tower-petal-relief-to-card-tower/07-relief-column.webp",
+            "assets/board/flower-tower-petal-relief-to-card-tower/05-tower-process.webp"
+          ],
+          "captions": [
+            "A column of reliefs.",
+            "The tower taking shape."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把浮雕向上延伸成立體花形量體。多個量體以木條串接疊起，表現生長方向。",
+              "captions": [
+                "一列浮雕。",
+                "逐漸成形的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 520 mm tower was given as a gift to make up for the damaged flowers. A digital painting lays real blooms over the tower lines.",
+          "images": [
+            "assets/board/flower-tower-petal-relief-to-card-tower/06-flower-tower-drawing.webp"
+          ],
+          "captions": [
+            "The tower drawn in bloom."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座520公釐的塔作為禮物，彌補被碰壞的花。一幅數位繪畫把花朵疊在塔的線稿上。",
+              "captions": [
+                "盛放中的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Take a flower apart gently.\n2. Draw its pattern as circles.\n3. Lift the pattern into blocks.\n4. Stack the blocks to grow.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 輕輕拆開一朵花。\n2. 把它的圖案畫成圓。\n3. 把圖案立起成量體。\n4. 堆疊量體讓它生長。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Cliffhouse",
+      "slug": "cliffhouse-slotted-paper-house-without-glue",
+      "description": "Slotted paper squares lock together, with little glue, into a house that leans out over a cliff edge.\n\nModel | Joinery study | Paperboard, hot glue | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "崖邊之屋",
+          "description": "以插接的紙方塊互相扣合，幾乎不用膠，做成一座探出崖邊的房屋。\n\n模型｜接合研究｜紙板、熱熔膠｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cliffhouse-slotted-paper-house-without-glue/01-paper-cliffhouse.webp",
+        "assets/board/cliffhouse-slotted-paper-house-without-glue/02-plan-sketches.webp",
+        "assets/board/cliffhouse-slotted-paper-house-without-glue/03-joint-sketches.webp",
+        "assets/board/cliffhouse-slotted-paper-house-without-glue/04-wall-patterns.webp",
+        "assets/board/cliffhouse-slotted-paper-house-without-glue/05-process-upper.webp",
+        "assets/board/cliffhouse-slotted-paper-house-without-glue/06-process-middle.webp",
+        "assets/board/cliffhouse-slotted-paper-house-without-glue/07-process-lower.webp",
+        "assets/board/cliffhouse-slotted-paper-house-without-glue/08-small-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cliffhouse-slotted-paper-house-without-glue/01-paper-cliffhouse.webp"
+          ],
+          "captions": [
+            "The slotted paper house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "插接紙屋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In a summer course the brief was a paper model in a 12-inch box, with as little glue as possible. The student imagined a house by a waterfall, reaching over a cliff.",
+          "images": [
+            "assets/board/cliffhouse-slotted-paper-house-without-glue/02-plan-sketches.webp"
+          ],
+          "captions": [
+            "Plan and joint sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在一門暑期課程中，題目是在12英寸的空間內做紙模型，並盡量少用膠。學生構想一座瀑布旁、伸出崖邊的房屋。",
+              "captions": [
+                "平面與接合草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Inspired by Japanese carpentry, the student drew how paper pieces could slide into each other. A wall pattern from an earlier project was reused.",
+          "images": [
+            "assets/board/cliffhouse-slotted-paper-house-without-glue/03-joint-sketches.webp",
+            "assets/board/cliffhouse-slotted-paper-house-without-glue/04-wall-patterns.webp"
+          ],
+          "captions": [
+            "Sketches of the slotted joints.",
+            "Folded wall patterns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生受日式木工啟發，畫出紙片如何互相插接。牆面圖案則沿用自先前的作品。",
+              "captions": [
+                "插接節點草圖。",
+                "摺紙牆面圖案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Paper squares were slotted together into stacked diamonds. The joints hold without glue, and the work focused on the front view.",
+          "images": [
+            "assets/board/cliffhouse-slotted-paper-house-without-glue/05-process-upper.webp",
+            "assets/board/cliffhouse-slotted-paper-house-without-glue/06-process-middle.webp",
+            "assets/board/cliffhouse-slotted-paper-house-without-glue/07-process-lower.webp"
+          ],
+          "captions": [
+            "Slotted squares from below.",
+            "Stacked diamond frames.",
+            "The base of the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "紙方塊互相插接，疊成菱形。節點不需膠就能固定，製作重點放在正立面。",
+              "captions": [
+                "由下仰望插接方塊。",
+                "疊起的菱形框架。",
+                "框架底部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished house sits on a cliff edge, with part of it hanging out over the drop. Small test versions show how the same joint scales.",
+          "images": [
+            "assets/board/cliffhouse-slotted-paper-house-without-glue/08-small-models.webp"
+          ],
+          "captions": [
+            "Small versions of the house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的房屋坐落崖邊，一部分懸出崖外。小型試作版本顯示同一種接合如何縮放。",
+              "captions": [
+                "房屋的小型版本。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Set a tight limit, like no glue.\n2. Learn a joint from carpentry.\n3. Repeat one joint many times.\n4. Shape the whole from the front.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 設下嚴格限制，例如不用膠。\n2. 向木工學習一種接合。\n3. 反覆使用同一種接合。\n4. 從正面塑造整體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Rain Tower",
+      "slug": "rain-tower-layered-story-model-of-loss-and-sky",
+      "description": "A 1 m tower stacks four story layers, from a grey city at the base to a swirl of blue paper rain at the top.\n\nModel | Story-to-space study | Wooden sticks, PVC board, paper, mirrored paper, cotton | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "雨之塔",
+          "description": "一座1公尺高的塔疊起四層故事，從底部灰色城市到頂部藍紙旋成的雨。\n\n模型｜故事轉空間研究｜木條、PVC板、紙、鏡面紙、棉花｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rain-tower-layered-story-model-of-loss-and-sky/01-layered-tower.webp",
+        "assets/board/rain-tower-layered-story-model-of-loss-and-sky/02-tower-front.webp",
+        "assets/board/rain-tower-layered-story-model-of-loss-and-sky/03-early-frame.webp",
+        "assets/board/rain-tower-layered-story-model-of-loss-and-sky/04-stepped-walls.webp",
+        "assets/board/rain-tower-layered-story-model-of-loss-and-sky/05-blue-paper-layer.webp",
+        "assets/board/rain-tower-layered-story-model-of-loss-and-sky/06-top-layers.webp",
+        "assets/board/rain-tower-layered-story-model-of-loss-and-sky/07-lower-layers.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rain-tower-layered-story-model-of-loss-and-sky/01-layered-tower.webp"
+          ],
+          "captions": [
+            "The layered rain tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "分層的雨之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The work is based on an animated film about a rain-soaked city. The project asks how themes such as loneliness, power, family and sacrifice could become layers of a tower.",
+          "images": [
+            "assets/board/rain-tower-layered-story-model-of-loss-and-sky/02-tower-front.webp"
+          ],
+          "captions": [
+            "The tower from the front."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這件作品以一部描寫雨中城市的動畫電影為本。這個專題探問，孤獨、力量、家庭與犧牲等主題如何化為塔的各層。",
+              "captions": [
+                "塔的正面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student rewatched the film and listed its main themes. Each theme was given its own layer in a tall stacked design.",
+          "images": [
+            "assets/board/rain-tower-layered-story-model-of-loss-and-sky/03-early-frame.webp",
+            "assets/board/rain-tower-layered-story-model-of-loss-and-sky/04-stepped-walls.webp"
+          ],
+          "captions": [
+            "An early stick frame.",
+            "Stepped walls for the city layer."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生重看電影並列出主要主題。每個主題都在高聳的疊層設計中擁有一層。",
+              "captions": [
+                "早期的木條框架。",
+                "城市層的階梯牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A grey city silhouette forms the bottom and third layers. A mirrored ball core stands for warmth, and blue paper squares on a bent rod make the rain.",
+          "images": [
+            "assets/board/rain-tower-layered-story-model-of-loss-and-sky/05-blue-paper-layer.webp",
+            "assets/board/rain-tower-layered-story-model-of-loss-and-sky/07-lower-layers.webp"
+          ],
+          "captions": [
+            "Blue paper rain on a rod.",
+            "The core and city layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "灰色城市剪影構成底層與第三層。鏡面球體核心代表溫暖，彎曲金屬桿上的藍紙片則化為雨。",
+              "captions": [
+                "金屬桿上的藍紙雨。",
+                "核心與城市層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Cotton clouds top the 1 m tower. Read from bottom to top, the layers tell the story as a space.",
+          "images": [
+            "assets/board/rain-tower-layered-story-model-of-loss-and-sky/06-top-layers.webp"
+          ],
+          "captions": [
+            "Clouds and rain at the top."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "棉花雲覆蓋在1公尺高的塔頂。由下往上讀，各層把故事化為空間。",
+              "captions": [
+                "塔頂的雲與雨。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. List the big themes of a story.\n2. Give each theme one layer.\n3. Pick a material for each feeling.\n4. Stack the layers in story order.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 列出故事的主要主題。\n2. 每個主題給一層。\n3. 為每種感受選材料。\n4. 依故事順序疊起各層。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
