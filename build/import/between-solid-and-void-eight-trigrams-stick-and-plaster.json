@@ -1,0 +1,43 @@
+{
+  "project": "Between Solid and Void",
+  "dest": "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster",
+  "note": "Portfolio b2e2 page 10 cropped to six images, WebP q88 (PIL). Not used: title and text, process photos of the student and photos showing hands.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "148ac737a64e3a488b99d0e200ab76486dd979a0caeb148ab57dc4428c7aa75e",
+      "bytes": 35488,
+      "from": "b2e2 page 10 — final model"
+    },
+    {
+      "name": "02-trigram-diagram.webp",
+      "sha256": "9303649978bc919eeeb485983cda16d8fd2f81042264d83ef32c824d09a8b668",
+      "bytes": 4246,
+      "from": "b2e2 page 10 — trigram diagram"
+    },
+    {
+      "name": "03-frame-and-block.webp",
+      "sha256": "8cbd8e616f3df5248e00b4e467cc7dd3f5186896aaead631b6f64a442c3b5d98",
+      "bytes": 9712,
+      "from": "b2e2 page 10 — frame and block"
+    },
+    {
+      "name": "04-plaster-pieces.webp",
+      "sha256": "54c48758ef812e71f1a849e07cfad2bed19a93bf90378e37bb9694ee8bfa13ef",
+      "bytes": 15140,
+      "from": "b2e2 page 10 — plaster pieces"
+    },
+    {
+      "name": "05-trigram-studies.webp",
+      "sha256": "89c4d28e6d1d933a39aca6c8d013cb9df45d9a873d5162915e48788b9f0f7e71",
+      "bytes": 18542,
+      "from": "b2e2 page 10 — trigram studies"
+    },
+    {
+      "name": "06-more-studies.webp",
+      "sha256": "27fb1fb6bdc983dd2d010abbea879506b96bc3bb67b59f2e7fd8c886714e75d8",
+      "bytes": 23220,
+      "from": "b2e2 page 10 — more studies"
+    }
+  ]
+}
