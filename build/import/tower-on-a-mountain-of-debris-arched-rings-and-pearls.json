@@ -1,0 +1,49 @@
+{
+  "project": "Tower on a Mountain of Debris",
+  "dest": "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls",
+  "note": "Portfolio 68e2 pages 7-8 cropped to 7 images, WebP q88 (PIL). Not used: novel title and character names, film stills with actors, process photo with hands.",
+  "files": [
+    {
+      "name": "01-tower-on-debris.webp",
+      "sha256": "e83f1061a58f2bddcbc73f265c8855daff37d70dfd3146d3fec132cfea65a215",
+      "bytes": 350946,
+      "from": "68e2 pages 7-8 — the tower on its debris base"
+    },
+    {
+      "name": "02-pen-drawing.webp",
+      "sha256": "70c3e1f395997a9b606ef8ff1504f0a2d8d3f0d59e85afd9fa2f6f07b6954564",
+      "bytes": 484872,
+      "from": "68e2 pages 7-8 — a pen drawing of the tower"
+    },
+    {
+      "name": "03-arched-rings.webp",
+      "sha256": "0a982998e3a32c220866cbfddb9b974520e4adcbb1a32ae86bb41525607ba102",
+      "bytes": 79698,
+      "from": "68e2 pages 7-8 — rings of arched walls"
+    },
+    {
+      "name": "04-hanging-pearls.webp",
+      "sha256": "1100eba5af66764f1fbc034d33026ad27004c1151861506fd0bbdf6882e860d8",
+      "bytes": 81136,
+      "from": "68e2 pages 7-8 — pearls hanging from the rings"
+    },
+    {
+      "name": "05-debris-base.webp",
+      "sha256": "53c921f418d0a9bb928123adeb3b0ded18fa71f4e462ccc650c297c8deea0440",
+      "bytes": 107504,
+      "from": "68e2 pages 7-8 — the debris at the base"
+    },
+    {
+      "name": "06-rings-in-progress.webp",
+      "sha256": "de1b80a814b1a95233ee63daf358e24165facccf267a8e6cc1c57d714b9094db",
+      "bytes": 111332,
+      "from": "68e2 pages 7-8 — the rings being built"
+    },
+    {
+      "name": "07-clay-debris-test.webp",
+      "sha256": "d754bd16e752b4e04ee5ee6118f574e24d076fff3167a605a9f2931d68928f50",
+      "bytes": 35752,
+      "from": "68e2 pages 7-8 — clay debris pieces"
+    }
+  ]
+}
