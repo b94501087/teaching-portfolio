@@ -1,0 +1,67 @@
+{
+  "project": "Growing Up in Four Models",
+  "dest": "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire",
+  "note": "Portfolio 1ab1 pages 5-6 cropped to 10 images, WebP q88 (PIL). Not used: cover page, process photos with hands, photo with a person.",
+  "files": [
+    {
+      "name": "01-red-net-tower.webp",
+      "sha256": "d9359b6e3cb078b9972c0dffc25dfb0542aad19d25e8d8b869e1874b421ec158",
+      "bytes": 162150,
+      "from": "1ab1 page 5-6 — the red net tower"
+    },
+    {
+      "name": "02-childhood-plant-drawing.webp",
+      "sha256": "041ba2ca4b38196502e30d3b2801a5a7abc62ec55e4b2170f623c0438008bdd1",
+      "bytes": 138398,
+      "from": "1ab1 page 5-6 — a pen drawing of a plant playground"
+    },
+    {
+      "name": "03-plant-and-figure-models.webp",
+      "sha256": "fa27167a74562f6eb682657f4c181a14c12bc78fea38a46b31216df5ed640dab",
+      "bytes": 128186,
+      "from": "1ab1 page 5-6 — plant cuttings with tiny figures"
+    },
+    {
+      "name": "04-net-tower-sketch.webp",
+      "sha256": "0ceddc07f1bab6071260da8533c9e7001707222686197af30d377548e0ef2438",
+      "bytes": 71940,
+      "from": "1ab1 page 5-6 — a sketch of the net tower"
+    },
+    {
+      "name": "05-red-net-detail.webp",
+      "sha256": "d7ecbd451757a6c980c072c7c3def50a92df173e231fab8a58c942941b187630",
+      "bytes": 74388,
+      "from": "1ab1 page 5-6 — the stairs inside the net"
+    },
+    {
+      "name": "06-net-and-cloud-sketch.webp",
+      "sha256": "d3cc34927db7ca82e72258bb341888fe93d09fcb419b0afc13f4e9f901960b86",
+      "bytes": 55082,
+      "from": "1ab1 page 5-6 — a sketch of the net and cloud"
+    },
+    {
+      "name": "07-cotton-cloud-sketch.webp",
+      "sha256": "27f778248a3df64bda717e3100e2986f143b29e0c8ab430875bf1ada79680574",
+      "bytes": 31874,
+      "from": "1ab1 page 5-6 — a colour sketch with cotton"
+    },
+    {
+      "name": "08-clay-and-cotton-model.webp",
+      "sha256": "272e74fc3faaec1fab280ab8fc2a6f8fd60e33d133943a304786b32401e08cf8",
+      "bytes": 112542,
+      "from": "1ab1 page 5-6 — the clay and cotton model"
+    },
+    {
+      "name": "09-wire-and-colour-tangle.webp",
+      "sha256": "01cb8561fa5a3a13af90ecc614007f06ebd52194706da0b155275bf525c1a84c",
+      "bytes": 68730,
+      "from": "1ab1 page 5-6 — wire and colour from above"
+    },
+    {
+      "name": "10-mixed-media-future.webp",
+      "sha256": "0021b8ef1000ebb4a31cab03ec0932dae103d712cbc7724619ec87d3d9a926b2",
+      "bytes": 112692,
+      "from": "1ab1 page 5-6 — the mixed-media future model"
+    }
+  ]
+}
