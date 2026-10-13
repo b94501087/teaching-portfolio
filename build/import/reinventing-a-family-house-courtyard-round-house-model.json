@@ -1,0 +1,67 @@
+{
+  "project": "Reinventing a Family House",
+  "dest": "assets/board/reinventing-a-family-house-courtyard-round-house-model",
+  "note": "Portfolio 47e5 pages 10-11 cropped to ten images, WebP q88 (PIL). Not used: title and text, personal family details and place names.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "5acbe3c3c780dd14771a0e280177d66d319b5558ee54fc0596969b33f26bb722",
+      "bytes": 112258,
+      "from": "47e5 page 11 — final model"
+    },
+    {
+      "name": "02-original-plan.webp",
+      "sha256": "a917e2818a30da812fe8659902d90c2d940cd2170ffcb5796913d81702731e81",
+      "bytes": 27472,
+      "from": "47e5 page 10 — original plan"
+    },
+    {
+      "name": "03-round-house.webp",
+      "sha256": "59d6261feeee3b86b0222452cdaf44535d828d2407e5f8bef3caeb86580824d6",
+      "bytes": 105678,
+      "from": "47e5 page 10 — round house"
+    },
+    {
+      "name": "04-new-plan.webp",
+      "sha256": "b26d03ce163e1f2d623c4b126825a07855349aa00f168bc8dee56fb2e30a7dab",
+      "bytes": 38216,
+      "from": "47e5 page 10 — new plan"
+    },
+    {
+      "name": "05-before-after.webp",
+      "sha256": "d8865844a1a058152b97f760a06ca35332de0f37ca4d44c653452874e75633e5",
+      "bytes": 32368,
+      "from": "47e5 page 10 — before after"
+    },
+    {
+      "name": "06-laser-parts.webp",
+      "sha256": "705ee5e97320d6db7aeffb66b6aebd3ccc6822b9ecb7a7c6d6458c0de056c342",
+      "bytes": 24010,
+      "from": "47e5 page 10 — laser parts"
+    },
+    {
+      "name": "07-courtyard-view.webp",
+      "sha256": "d39fb475e74b3d994f2abd2ced69b37ce2b0422df7ae9e645096f5d815f47d03",
+      "bytes": 30400,
+      "from": "47e5 page 11 — courtyard view"
+    },
+    {
+      "name": "08-curved-wing.webp",
+      "sha256": "4371674686f0f9568b1cb351bd4313a161fb38b0b5bfa0b1105eae4b037e91a0",
+      "bytes": 19552,
+      "from": "47e5 page 11 — curved wing"
+    },
+    {
+      "name": "09-top-view.webp",
+      "sha256": "7b06ceedf2aa07a649109f54fe12e2b040c267d9cd91c7e168189cfbc5360fd0",
+      "bytes": 59204,
+      "from": "47e5 page 11 — top view"
+    },
+    {
+      "name": "10-courtyard-floor.webp",
+      "sha256": "40c5279769ea52d4685925e1807d34530c679902f09901ab78a79e8b4a3a034e",
+      "bytes": 47290,
+      "from": "47e5 page 11 — courtyard floor"
+    }
+  ]
+}
