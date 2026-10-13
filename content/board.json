@@ -70904,6 +70904,278 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Marine Habitat",
+      "slug": "marine-habitat-woven-bamboo-and-moss-platforms",
+      "description": "A woven bamboo frame grows moss and vines and holds woven pods, as a habitat unit for a future at sea.\n\nModel | Ecological habitat study | Bamboo weaving, moss, vines, tissue | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "海洋棲地",
+          "description": "一個竹編框架長著苔蘚與藤蔓，並托著編織的球體，作為未來海上生活的棲地單元。\n\n模型｜生態棲地研究｜竹編、苔蘚、藤蔓、紙巾｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/01-woven-bamboo-habitat.webp",
+        "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/02-bamboo-weave.webp",
+        "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/03-moss-in-the-frame.webp",
+        "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/04-roosting-poles.webp",
+        "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/05-woven-pods.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/01-woven-bamboo-habitat.webp"
+          ],
+          "captions": [
+            "The woven bamboo habitat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "竹編棲地。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Land is scarce and sea levels are rising. The project asks if homes could move out onto the ocean.",
+          "images": [
+            "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/05-woven-pods.webp"
+          ],
+          "captions": [
+            "Woven pods on tall poles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "土地稀少，海平面不斷上升。這個專題探問，家園能否移到海上。",
+              "captions": [
+                "高桿上的編織球體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student imagined platforms made of separate living units. Each one would grow, spread and decay like a living thing.",
+          "images": [
+            "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/02-bamboo-weave.webp"
+          ],
+          "captions": [
+            "The bamboo weave."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生想像由獨立生態單元組成的平台。每個單元都會像生物一樣生長、繁衍與衰敗。",
+              "captions": [
+                "竹編。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Bamboo was chosen as the frame for its strength and low impact. Moss and plants grow on it.",
+          "images": [
+            "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/03-moss-in-the-frame.webp"
+          ],
+          "captions": [
+            "Moss in the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生選用竹子作為框架，因為它強韌且對環境影響小。苔蘚與植物生長其上。",
+              "captions": [
+                "框架中的苔蘚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 650 mm model has a ground level for land life. Above it, poles give birds a place to rest.",
+          "images": [
+            "assets/board/marine-habitat-woven-bamboo-and-moss-platforms/04-roosting-poles.webp"
+          ],
+          "captions": [
+            "Poles for birds."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個650公釐的模型底層供陸地生物棲息。上方的竹桿則提供鳥類停歇之處。",
+              "captions": [
+                "供鳥停歇的竹桿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a real threat.\n2. Imagine a living unit.\n3. Choose a kind material.\n4. Let plants grow on the model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從真實的威脅出發。\n2. 想像一個生態單元。\n3. 選擇友善的材料。\n4. 讓植物長在模型上。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Butterfly-Wing Shade Pavilion",
+      "slug": "butterfly-wing-shade-pavilion-for-a-sunny-garden",
+      "description": "Wing-like panels of colour-shift film on a frame of sticks give shade and coloured light in a sunny garden.\n\nModel and digital study | Pavilion design | PVC boards, wooden sticks, colour-shift window film | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "蝶翼遮蔭亭",
+          "description": "以木條為骨架、覆以變色窗膜的翼狀板片，為陽光強烈的花園帶來遮蔭與彩色光影。\n\n模型與數位研究｜涼亭設計｜PVC板、木條、變色窗膜｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/01-iridescent-shade-pavilion.webp",
+        "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/02-pavilion-from-above.webp",
+        "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/03-under-the-canopy.webp",
+        "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/04-arched-ribs.webp",
+        "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/05-coloured-shade.webp",
+        "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/06-pavilion-on-steps.webp",
+        "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/07-wing-sketches.webp",
+        "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/08-digital-wing-panels.webp",
+        "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/09-site-model-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/01-iridescent-shade-pavilion.webp"
+          ],
+          "captions": [
+            "The shade pavilion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "遮蔭亭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In a community garden the student visited, strong sun hit the ground and there was no shade. The project asks for a place to rest and play.",
+          "images": [
+            "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/07-wing-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of wing forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生造訪的一座社區花園裡，烈日直射地面，沒有任何遮蔭。這個專題要提供一個休息與遊玩的地方。",
+              "captions": [
+                "翼形草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Butterfly wings gave the forms. Early digital and site models tested folded wing shapes among trees.",
+          "images": [
+            "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/08-digital-wing-panels.webp",
+            "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/09-site-model-views.webp"
+          ],
+          "captions": [
+            "Digital wing panels.",
+            "Early site model views."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "蝴蝶的翅膀提供了形態。早期的數位與基地模型在樹間測試折疊的翼形。",
+              "captions": [
+                "數位翼形板片。",
+                "早期基地模型視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sticks form light arches. Colour-shift film fills the triangles so the light changes as you move.",
+          "images": [
+            "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/03-under-the-canopy.webp",
+            "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/04-arched-ribs.webp"
+          ],
+          "captions": [
+            "Under the canopy.",
+            "The arched ribs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木條構成輕盈的拱。變色窗膜填滿三角形，讓光線隨人移動而變化。",
+              "captions": [
+                "頂棚之下。",
+                "拱形骨架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 450 mm model casts strong light and shadow. It makes a cooler, lively place for people to stay.",
+          "images": [
+            "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/02-pavilion-from-above.webp",
+            "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/05-coloured-shade.webp",
+            "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden/06-pavilion-on-steps.webp"
+          ],
+          "captions": [
+            "The pavilion from above.",
+            "Coloured shade on the ground.",
+            "The pavilion on the steps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個450公釐的模型投下強烈的光影。它創造出一個更涼爽、更有活力的停留空間。",
+              "captions": [
+                "俯看涼亭。",
+                "地面上的彩色遮蔭。",
+                "台階上的涼亭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Visit a site and feel its problem.\n2. Borrow a form from nature.\n3. Test it in a site model.\n4. Use light as a material.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 造訪基地，感受它的問題。\n2. 向自然借一個形態。\n3. 在基地模型中測試。\n4. 把光當作材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
