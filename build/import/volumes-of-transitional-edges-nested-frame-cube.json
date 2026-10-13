@@ -1,0 +1,43 @@
+{
+  "project": "Volumes of Transitional Edges",
+  "dest": "assets/board/volumes-of-transitional-edges-nested-frame-cube",
+  "note": "Portfolio 5fd5 page 2 cropped to six images, WebP q88 (PIL). Not used: cover page with name, title and text, programme and school names.",
+  "files": [
+    {
+      "name": "01-frame-model.webp",
+      "sha256": "523c6b6e9971bb9eb8d6bb10a7744cbd219c17cd4901d0c649553f55fcf644cd",
+      "bytes": 36668,
+      "from": "5fd5 page 2 — frame model"
+    },
+    {
+      "name": "02-line-studies.webp",
+      "sha256": "7c8b1105591b85464cb6ff7218a2cf8d1a5b934a53071fecf2e7b42566500d79",
+      "bytes": 51048,
+      "from": "5fd5 page 2 — line studies"
+    },
+    {
+      "name": "03-frame-diagrams.webp",
+      "sha256": "0742ede3e9e63c93cb4837f4bc50ff1ff886d8736643c29016543eab4fe590e2",
+      "bytes": 75354,
+      "from": "5fd5 page 2 — frame diagrams"
+    },
+    {
+      "name": "05-close-up.webp",
+      "sha256": "6ef8432a5a4b1c65c9cb18d103fc9862de01ace2951f8fcf4284d01b102d9c93",
+      "bytes": 38474,
+      "from": "5fd5 page 2 — close-up"
+    },
+    {
+      "name": "06-side-view.webp",
+      "sha256": "f4fe9bdeca36d3ae6d8f3042499e4ec50e7db0b2869e3828bddffd8d712c7e55",
+      "bytes": 38788,
+      "from": "5fd5 page 2 — side view"
+    },
+    {
+      "name": "07-detail.webp",
+      "sha256": "5d491541ce5983ff9fe4680a79c24d1bdd1124dd656d10e09c4c0b1f4f678185",
+      "bytes": 34032,
+      "from": "5fd5 page 2 — detail"
+    }
+  ]
+}
