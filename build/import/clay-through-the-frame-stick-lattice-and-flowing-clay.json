@@ -1,0 +1,67 @@
+{
+  "project": "Clay Through the Frame",
+  "dest": "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay",
+  "note": "Portfolio 1ab1 pages 2-4 cropped to 10 images, WebP q88 (PIL). Not used: cover page, portrait photos, photos of named buildings, process photos with people and hands, original theme wording.",
+  "files": [
+    {
+      "name": "01-stick-and-clay-landscape.webp",
+      "sha256": "3820468c4b7320a427a24476f755a6065a410f1a08cebd02a52d4a8f7d4da357",
+      "bytes": 262314,
+      "from": "1ab1 page 2-4 — the stick lattice wrapped in clay"
+    },
+    {
+      "name": "02-s-curve-stick-frame.webp",
+      "sha256": "b845ab5af268b497e80cf9dc9b835548c2e034b49ce2c31e05a7c12a6d796f6b",
+      "bytes": 204718,
+      "from": "1ab1 page 2-4 — an s-curve lattice of sticks"
+    },
+    {
+      "name": "03-hourglass-frame.webp",
+      "sha256": "1ce6f47a675889988ee6985fb149095ae004274c365a202f8fb75c7ffb117897",
+      "bytes": 55660,
+      "from": "1ab1 page 2-4 — an hourglass lattice outline"
+    },
+    {
+      "name": "04-stick-blocks.webp",
+      "sha256": "79a1862ec0e3732df4241dda4ca6112c533b6c6680c35ccbc831ccff080bd954",
+      "bytes": 13710,
+      "from": "1ab1 page 2-4 — stick blocks before the clay"
+    },
+    {
+      "name": "05-merged-study.webp",
+      "sha256": "55f99e16e45bef1cfa0399ffe281f3978113f86c21a702f83c34599d5f16fbec",
+      "bytes": 23946,
+      "from": "1ab1 page 2-4 — clay and sticks merged"
+    },
+    {
+      "name": "06-pencil-curve-study.webp",
+      "sha256": "d147d570ec512e7f0591ddcc6e0d552d1ce7226ccb6b9618b9dacc4cefbf4371",
+      "bytes": 29830,
+      "from": "1ab1 page 2-4 — a pencil study of flowing curves"
+    },
+    {
+      "name": "07-stick-and-clay-drawing.webp",
+      "sha256": "684cf27392254f5eb677436a7e519ccce85c6acc61a9f33689b5888d889a3ec5",
+      "bytes": 744860,
+      "from": "1ab1 page 2-4 — a pen drawing of the inner space"
+    },
+    {
+      "name": "08-model-side-view.webp",
+      "sha256": "e3cd847adbbf7da788569167a726c1b5b6224bccf18766e75d2a3e716819e1aa",
+      "bytes": 88226,
+      "from": "1ab1 page 2-4 — the model from the side"
+    },
+    {
+      "name": "09-inner-passage.webp",
+      "sha256": "30802b169909e6c92b74637f7af719c8e44ba739c89df1ae6aebc8e88443f965",
+      "bytes": 32498,
+      "from": "1ab1 page 2-4 — a lit inner passage"
+    },
+    {
+      "name": "10-cave-view.webp",
+      "sha256": "9e17e0f74bb3bff14d1b59888f2f5523e6dada6169c2ed119e757558fcc978e3",
+      "bytes": 50442,
+      "from": "1ab1 page 2-4 — looking through the clay cave"
+    }
+  ]
+}
