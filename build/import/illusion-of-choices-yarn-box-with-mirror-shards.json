@@ -1,0 +1,61 @@
+{
+  "project": "The Illusion of Choices",
+  "dest": "assets/board/illusion-of-choices-yarn-box-with-mirror-shards",
+  "note": "Portfolio 0bc2 pages 10-11 cropped to nine images, WebP q88 (PIL). Not used: title and text, photos with a person, the name of a film.",
+  "files": [
+    {
+      "name": "01-yarn-web-top.webp",
+      "sha256": "97bb39107235883fcb4b1ca89e44f97a557c102f59317a44debbdf482450ea74",
+      "bytes": 54762,
+      "from": "0bc2 page 11 — yarn web top"
+    },
+    {
+      "name": "02-face-sketches.webp",
+      "sha256": "234e461af09a157c80468ffe120abfc275ee12122be79ed1be64294ecf20e012",
+      "bytes": 74096,
+      "from": "0bc2 page 10 — face sketches"
+    },
+    {
+      "name": "03-box-sketches.webp",
+      "sha256": "1a3bf9291b90909523ca96c40cfe4149324d2df8c5fdc8912f73c11b4d5dcbd4",
+      "bytes": 46936,
+      "from": "0bc2 page 10 — box sketches"
+    },
+    {
+      "name": "04-viewer-sketch.webp",
+      "sha256": "99764c6b3b934103b7b82b14b9049e2e321b92b6fa903f8085e2f59cf1263425",
+      "bytes": 45560,
+      "from": "0bc2 page 10 — viewer sketch"
+    },
+    {
+      "name": "05-blue-face.webp",
+      "sha256": "c03b4eeb9e79fb1d3875d85571f9ac894a05e954291f917e20da2f5357524598",
+      "bytes": 12302,
+      "from": "0bc2 page 10 — blue face"
+    },
+    {
+      "name": "06-corner-view.webp",
+      "sha256": "cfb46d2b703f8d35ada9f6316aa0a1b483bd8f3fe5b6ab121b0930328c4b41e3",
+      "bytes": 22308,
+      "from": "0bc2 page 10 — corner view"
+    },
+    {
+      "name": "07-yarn-strands.webp",
+      "sha256": "4ba6c85f4039a4f0048b8f61a0b5867f4f1f8990aefcdb75423d22683f4ac92c",
+      "bytes": 26186,
+      "from": "0bc2 page 10 — yarn strands"
+    },
+    {
+      "name": "08-dark-face.webp",
+      "sha256": "a63259804bbabddc9e10b4d8317535baa44e2da9b2264c690d09966ab04fc8a4",
+      "bytes": 15206,
+      "from": "0bc2 page 10 — dark face"
+    },
+    {
+      "name": "09-side-view.webp",
+      "sha256": "220c65cb2b0c54a25647d302d5e403d6b42e98a058d00d95f6e2ea24618529f8",
+      "bytes": 44836,
+      "from": "0bc2 page 11 — side view"
+    }
+  ]
+}
