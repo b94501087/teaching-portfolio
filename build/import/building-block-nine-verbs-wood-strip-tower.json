@@ -1,0 +1,55 @@
+{
+  "project": "Building Block",
+  "dest": "assets/board/building-block-nine-verbs-wood-strip-tower",
+  "note": "Portfolio ff8f pages 4-5 cropped to 8 images, WebP q88 (PIL). Not used: archive photos of historic buildings, course and archive names, process photo with a hand, other works.",
+  "files": [
+    {
+      "name": "01-block-tower.webp",
+      "sha256": "7eba4396fa66dde91378f31d8c0f81082579f791c662766aa8295549a1bbe557",
+      "bytes": 132964,
+      "from": "ff8f pages 4-5 — the block tower"
+    },
+    {
+      "name": "02-block-tower-outdoors.webp",
+      "sha256": "871040ca27df97fd9c287bbfed6288a9301df4aa0b495cb1dfa86c778e17baa3",
+      "bytes": 213640,
+      "from": "ff8f pages 4-5 — the block tower outdoors"
+    },
+    {
+      "name": "03-unit-diagrams.webp",
+      "sha256": "c96054653fca35664ea83800c92ea892cc80c1d968cb83d1e373fca2eb0f8250",
+      "bytes": 35694,
+      "from": "ff8f pages 4-5 — unit diagrams"
+    },
+    {
+      "name": "04-unit-models.webp",
+      "sha256": "79bda3f2b421c2f8cc6684e6d44f9229333d69e77f07fe7eef7ab16359ec1172",
+      "bytes": 19742,
+      "from": "ff8f pages 4-5 — unit models"
+    },
+    {
+      "name": "05-tower-details.webp",
+      "sha256": "f4f3d2a6735c885767e990ca228c33f823e523725857f2d0cb4b766480e16071",
+      "bytes": 119850,
+      "from": "ff8f pages 4-5 — tower details"
+    },
+    {
+      "name": "06-tower-axonometrics.webp",
+      "sha256": "84e3d8a2f61de9a8c3ef00c118827860670b0ba079b0ca7162411ccda3898c29",
+      "bytes": 164980,
+      "from": "ff8f pages 4-5 — tower axonometrics"
+    },
+    {
+      "name": "07-studio-tower.webp",
+      "sha256": "2ad32b21bd00345811032ded1d4da2c6c9300f23e4fa255a568c038f0d4e8997",
+      "bytes": 35854,
+      "from": "ff8f pages 4-5 — the tower in the studio"
+    },
+    {
+      "name": "08-tall-tower.webp",
+      "sha256": "33b5a140eb6941477ef9e0fbed6798f44b150b80c0aae4b9758d07e150fca59b",
+      "bytes": 50418,
+      "from": "ff8f pages 4-5 — the tall tower"
+    }
+  ]
+}
