@@ -1,0 +1,67 @@
+{
+  "project": "Sound Cone",
+  "dest": "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire",
+  "note": "Portfolio 72cd pages 5-6 cropped to 10 images, WebP q88 (PIL).",
+  "files": [
+    {
+      "name": "01-sound-cone-final.webp",
+      "sha256": "428910d90000b940ba654af277a098ad360673e3108ad58ebd5cc5c922eea7a3",
+      "bytes": 167788,
+      "from": "72cd pages 5-6 — the final sound cone model"
+    },
+    {
+      "name": "02-sound-path-scene.webp",
+      "sha256": "4f9f429ca0dc7fa9755fd048c7d807d4536e10bdc3e6982b956e94ea21a95ae0",
+      "bytes": 48602,
+      "from": "72cd pages 5-6 — the sound path as a scene"
+    },
+    {
+      "name": "03-sound-notation-sketch.webp",
+      "sha256": "6f0526d69a3a54503a7a8be3db8b6b84ef6cae3cee382de9aa04b5b29aef7cb4",
+      "bytes": 50276,
+      "from": "72cd pages 5-6 — drawn notation of the recording"
+    },
+    {
+      "name": "04-four-material-cones.webp",
+      "sha256": "f551470ba1644dcc9647e1a10dcf719cd39791adddd052f0395496b05c53e42f",
+      "bytes": 37012,
+      "from": "72cd pages 5-6 — four material cones"
+    },
+    {
+      "name": "05-material-textures.webp",
+      "sha256": "5fa14f97c413068211b53ab3b16abccfa21164c526b26716e2fa61921a2df8a6",
+      "bytes": 64522,
+      "from": "72cd pages 5-6 — material textures"
+    },
+    {
+      "name": "06-cone-interiors.webp",
+      "sha256": "e9f11066460c0cf81f09ae1d26695a12e0d27517317f0dcf3a6dd2da48278a62",
+      "bytes": 75112,
+      "from": "72cd pages 5-6 — inside the cones"
+    },
+    {
+      "name": "07-scene-views.webp",
+      "sha256": "b1e079974e9f1b24903f8b88a6c0ecfe6e4834114944c477726542696d902396",
+      "bytes": 42016,
+      "from": "72cd pages 5-6 — views of the scene"
+    },
+    {
+      "name": "08-cone-stack-front.webp",
+      "sha256": "595116af5c479b12b669070d57fd5b3c1387f64e06ea24972b083deb9d8d870f",
+      "bytes": 18422,
+      "from": "72cd pages 5-6 — the cone cluster"
+    },
+    {
+      "name": "09-cone-stack-lit.webp",
+      "sha256": "3615eaa69f21c8882d3f2857d0cf28efb5bb8eccafe61e0986c9d5aad5adb9a7",
+      "bytes": 15538,
+      "from": "72cd pages 5-6 — the cluster in light"
+    },
+    {
+      "name": "10-wood-frame-tunnel.webp",
+      "sha256": "c4fe75a02960fd31914edbc15c87b0f3671eeddac14776604afbb414e2f3179b",
+      "bytes": 26406,
+      "from": "72cd pages 5-6 — a wooden cone interior"
+    }
+  ]
+}
