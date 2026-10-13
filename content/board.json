@@ -61440,6 +61440,290 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "The Illusion of Choices",
+      "slug": "illusion-of-choices-yarn-box-with-mirror-shards",
+      "description": "A wooden box wrapped in coloured yarn hides mirror shards, so looking inside shows only the viewer's own reflection.\n\nInstallation | Thought and perception | Pencil, card paper, wooden sticks, wool and glass | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "選擇的錯覺",
+          "description": "一個纏繞彩色毛線的木箱內藏鏡面碎片，往內看時只會看見觀者自己的倒影。\n\n裝置｜思想與感知｜鉛筆、卡紙、木條、毛線與玻璃｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/01-yarn-web-top.webp",
+        "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/02-face-sketches.webp",
+        "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/03-box-sketches.webp",
+        "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/04-viewer-sketch.webp",
+        "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/05-blue-face.webp",
+        "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/06-corner-view.webp",
+        "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/07-yarn-strands.webp",
+        "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/08-dark-face.webp",
+        "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/09-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/01-yarn-web-top.webp"
+          ],
+          "captions": [
+            "The yarn web from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從上方看毛線網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wondered how people tell the real from the unreal. A box became the test, looking solid outside but holding a different world inside.",
+          "images": [
+            "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/02-face-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of the four faces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生思考人們如何分辨真實與虛幻。一個木箱成為實驗，外表看似實在，內部卻藏著另一個世界。",
+              "captions": [
+                "四個面的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each of the four faces was matched to a different school of thought about truth. Sketches tried patterns of yarn, from order to tangle.",
+          "images": [
+            "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/03-box-sketches.webp",
+            "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/04-viewer-sketch.webp"
+          ],
+          "captions": [
+            "Sketches of the box.",
+            "A sketch of looking inside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "四個面各自對應一種關於真理的思想流派。草圖嘗試從有序到糾結的不同毛線圖案。",
+              "captions": [
+                "木箱草圖。",
+                "往內看的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A painted wooden frame was wrapped in blue, black, natural and green yarn. Strands run from the inside to each face and never fold back.",
+          "images": [
+            "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/05-blue-face.webp",
+            "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/06-corner-view.webp",
+            "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/07-yarn-strands.webp"
+          ],
+          "captions": [
+            "The blue yarn face.",
+            "Two faces meet.",
+            "Hanging strands."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "塗色的木框纏上藍色、黑色、原色與綠色毛線。線束由內部連向各個面，且不會折返。",
+              "captions": [
+                "藍色毛線面。",
+                "兩個面相接。",
+                "垂掛的線束。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Mirror shards inside the box show viewers only themselves. The work suggests that every choice is a path with no way back.",
+          "images": [
+            "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/08-dark-face.webp",
+            "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/09-side-view.webp"
+          ],
+          "captions": [
+            "The dark yarn face.",
+            "Natural and black yarn."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "箱內的鏡面碎片只讓觀者看見自己。作品暗示每個選擇都是一條無法回頭的路。",
+              "captions": [
+                "深色毛線面。",
+                "原色與黑色毛線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask a big question.\n2. Give each side a role.\n3. Wrap and test.\n4. Let viewers join.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 提出一個大問題。\n2. 賦予每一面角色。\n3. 纏繞並測試。\n4. 讓觀者參與。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Source of Purity",
+      "slug": "source-of-purity-clay-cube-ocean-series",
+      "description": "Three clay and foam cubes move from a pure blue block to a polluted, broken one and then to signs of rebirth.\n\nModel making | Ocean and environment | Ultra-light clay, foam adhesive, foam board, acrylic, cotton, stone, leaves, sand and hay | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "純淨之源",
+          "description": "三個黏土與泡沫方塊，從純淨的藍色方塊走向受污染的破碎方塊，再到重生的跡象。\n\n模型製作｜海洋與環境｜超輕黏土、泡沫膠、泡沫板、壓克力、棉花、碎石、落葉、沙與乾草｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/source-of-purity-clay-cube-ocean-series/01-three-cubes.webp",
+        "assets/board/source-of-purity-clay-cube-ocean-series/02-pure-cube.webp",
+        "assets/board/source-of-purity-clay-cube-ocean-series/03-scrambled-cube.webp",
+        "assets/board/source-of-purity-clay-cube-ocean-series/04-broken-cube.webp",
+        "assets/board/source-of-purity-clay-cube-ocean-series/05-clay-surface.webp",
+        "assets/board/source-of-purity-clay-cube-ocean-series/06-foam-waves.webp",
+        "assets/board/source-of-purity-clay-cube-ocean-series/07-green-blocks.webp",
+        "assets/board/source-of-purity-clay-cube-ocean-series/08-cotton-falls.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/source-of-purity-clay-cube-ocean-series/01-three-cubes.webp"
+          ],
+          "captions": [
+            "The three cubes together."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "三個方塊並置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Plastic and oil keep harming the ocean. The student wanted a simple form to show how clean water is lost and might return.",
+          "images": [
+            "assets/board/source-of-purity-clay-cube-ocean-series/02-pure-cube.webp"
+          ],
+          "captions": [
+            "The pure blue cube."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "塑膠與油污持續傷害海洋。學生想用一個簡單的形體，表現乾淨的水如何失去又可能回來。",
+              "captions": [
+                "純淨的藍色方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A perfect blue cube was chosen to stand for clean sea and sky. Each later cube would be more scrambled, like a puzzle cube being turned.",
+          "images": [
+            "assets/board/source-of-purity-clay-cube-ocean-series/03-scrambled-cube.webp"
+          ],
+          "captions": [
+            "Half order, half pollution."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "以完美的藍色方塊代表乾淨的海洋與天空。之後的每個方塊都更加打亂，如同被轉動的方塊玩具。",
+              "captions": [
+                "一半秩序，一半污染。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Ultra-light clay and blue foam adhesive formed the cubes, and foam board built the polluted zone. Stones, leaves, sand and hay were added as details.",
+          "images": [
+            "assets/board/source-of-purity-clay-cube-ocean-series/04-broken-cube.webp",
+            "assets/board/source-of-purity-clay-cube-ocean-series/05-clay-surface.webp",
+            "assets/board/source-of-purity-clay-cube-ocean-series/06-foam-waves.webp"
+          ],
+          "captions": [
+            "The fully scrambled cube.",
+            "The clay surface.",
+            "Foam waves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以超輕黏土與藍色泡沫膠塑造方塊，並以泡沫板建構污染區。碎石、落葉、沙與乾草作為細節加入。",
+              "captions": [
+                "完全打亂的方塊。",
+                "黏土表面。",
+                "泡沫浪花。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The last cube is fully scrambled yet full of life, with foam waves and driftwood. The series shows that nature can heal if people act.",
+          "images": [
+            "assets/board/source-of-purity-clay-cube-ocean-series/07-green-blocks.webp",
+            "assets/board/source-of-purity-clay-cube-ocean-series/08-cotton-falls.webp"
+          ],
+          "captions": [
+            "Green blocks and stones.",
+            "Cotton like falling water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最後的方塊完全打亂卻充滿生機，帶有泡沫浪花與漂流木。這個系列表現只要人們行動，自然就能修復。",
+              "captions": [
+                "綠色方塊與石頭。",
+                "如落水般的棉花。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a pure form.\n2. Break it in steps.\n3. Use real textures.\n4. End with hope.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從純粹的形體開始。\n2. 分步驟打破它。\n3. 運用真實質感。\n4. 以希望作結。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
