@@ -58380,6 +58380,586 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Tactical Pathways",
+      "slug": "tactical-pathways-game-map-pvc-board-tower",
+      "description": "Maps from a team shooter game are mixed into one white board tower full of routes to the top.\n\nModel making | Game-inspired space | PVC boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "戰術路徑",
+          "description": "把團隊射擊遊戲中的多張地圖混合成一座白色板材塔，布滿通往頂端的路徑。\n\n模型製作｜遊戲啟發的空間｜PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/01-final-tower.webp",
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/02-game-still.webp",
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/03-early-build.webp",
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/04-ring-build.webp",
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/05-street-view.webp",
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/06-top-view.webp",
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/07-ring-route.webp",
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/08-stair-yard.webp",
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/09-section-drawing.webp",
+        "assets/board/tactical-pathways-game-map-pvc-board-tower/10-hatched-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished board tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的板材塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Game maps are designed around routes, cover and a final goal. The student wondered how those rules could shape a piece of architecture.",
+          "images": [
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/02-game-still.webp"
+          ],
+          "captions": [
+            "A still from the game."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "遊戲地圖圍繞路線、掩體與最終目標而設計。學生思考這些規則能如何塑造建築。",
+              "captions": [
+                "遊戲畫面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He studied several maps, from a control tower to a big garage door. Each element was sketched as a wall, roof, stair or window.",
+          "images": [
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/03-early-build.webp",
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/04-ring-build.webp"
+          ],
+          "captions": [
+            "Early walls and stairs.",
+            "The ring route taking shape."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他研究數張地圖，從控制塔到巨大的車庫門。每個元素都被草繪為牆、屋頂、樓梯或窗。",
+              "captions": [
+                "早期的牆與樓梯。",
+                "成形中的環形路線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Boards were cut and glued into open rooms linked by many pathways. Every space was left open so light could pass right through.",
+          "images": [
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/05-street-view.webp",
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/06-top-view.webp",
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/07-ring-route.webp"
+          ],
+          "captions": [
+            "The model with red figures.",
+            "Looking down on the rooms.",
+            "The curved route."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "板材被裁切黏合成開放的房間，以多條路徑相連。每個空間都保持開放，讓光可以穿透。",
+              "captions": [
+                "放有紅色人偶的模型。",
+                "俯視各房間。",
+                "彎曲的路線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Visitors can climb from the bottom to the top by many different routes. Ink drawings show the tower as a dense, playful maze.",
+          "images": [
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/08-stair-yard.webp",
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/09-section-drawing.webp",
+            "assets/board/tactical-pathways-game-map-pvc-board-tower/10-hatched-drawing.webp"
+          ],
+          "captions": [
+            "A stair yard inside.",
+            "An ink drawing of the levels.",
+            "A hatched drawing of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "訪客可沿多條不同路線從底部攀到頂端。墨線圖呈現這座塔如密集而充滿趣味的迷宮。",
+              "captions": [
+                "內部的樓梯廣場。",
+                "各層的墨線圖。",
+                "塔的排線圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a game's rules.\n2. Pick key elements.\n3. Link them with routes.\n4. Draw the result.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究遊戲規則。\n2. 挑選關鍵元素。\n3. 以路徑串連。\n4. 繪製成果。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Squash Sport",
+      "slug": "squash-sport-ball-bounce-folded-board-sculpture",
+      "description": "The sharp angles of a squash ball's bounce become a cluster of folded board pyramids and sticks.\n\nModel making | Movement study | PVC boards, paper board and wood sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "壁球運動",
+          "description": "壁球反彈的銳利角度，化為一簇摺板角錐與木條。\n\n模型製作｜運動研究｜PVC板、紙板與木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/01-final-model.webp",
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/02-bounce-boxes.webp",
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/03-folded-study.webp",
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/04-pyramid-row.webp",
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/05-stick-cluster.webp",
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/06-close-view.webp",
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/07-striped-form.webp",
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/08-low-view.webp",
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/09-ink-drawing.webp",
+        "assets/board/squash-sport-ball-bounce-folded-board-sculpture/10-green-collage.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/01-final-model.webp"
+          ],
+          "captions": [
+            "The folded board cluster."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "摺板群組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In squash, a ball hit with skill bounces at only a few sharp angles. The student asked whether that path could be turned into a shape.",
+          "images": [
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/02-bounce-boxes.webp"
+          ],
+          "captions": [
+            "Bounce paths drawn in small boxes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在壁球中，有技巧的擊球只會以少數幾種銳角反彈。學生思考這條路徑能否轉化為一個形體。",
+              "captions": [
+                "在小盒中繪出的反彈路徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He traced the ball's path inside small model courts. The strong first bounce and the weak second one gave him a set of angles.",
+          "images": [
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/03-folded-study.webp",
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/04-pyramid-row.webp"
+          ],
+          "captions": [
+            "A first folded study.",
+            "A row of pyramids."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他在小型球場模型中描繪球的路徑。強勁的第一次反彈與微弱的第二次反彈給了他一組角度。",
+              "captions": [
+                "第一個摺板研究。",
+                "一排角錐。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The angles were folded into board pyramids and joined with wood sticks. More pyramids were added until the cluster felt like a moving ball.",
+          "images": [
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/05-stick-cluster.webp",
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/06-close-view.webp",
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/07-striped-form.webp"
+          ],
+          "captions": [
+            "Pyramids pierced by sticks.",
+            "A close view of the angles.",
+            "A striped version of the form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "這些角度被摺成板材角錐，以木條相連。他持續加入角錐，直到群組有如運動中的球。",
+              "captions": [
+                "被木條穿透的角錐。",
+                "角度的近景。",
+                "條紋版本的形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final piece bursts outward with sharp points and long sticks. Drawings and a planted collage test it as a future structure.",
+          "images": [
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/08-low-view.webp",
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/09-ink-drawing.webp",
+            "assets/board/squash-sport-ball-bounce-folded-board-sculpture/10-green-collage.webp"
+          ],
+          "captions": [
+            "A low view of the cluster.",
+            "An ink drawing of the angles.",
+            "A collage with planting."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終作品以尖角與長木條向外迸發。墨線圖與植栽拼貼測試它成為未來構築物的可能。",
+              "captions": [
+                "群組的低角度視角。",
+                "角度的墨線圖。",
+                "加入植栽的拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch a movement.\n2. Trace its path.\n3. Fold the angles.\n4. Cluster the parts.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察一個動作。\n2. 描繪其路徑。\n3. 摺出角度。\n4. 組合各部分。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Walled Street Dream",
+      "slug": "walled-street-dream-stacked-shopfront-light-model",
+      "description": "Dense old shopfronts seen on a trip are stacked into a glowing walled-city model with two light paths.\n\nModel making | Street memory | PVC boards, paper, wire and small lights | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "圍城街道之夢",
+          "description": "旅途中看到的密集老店面，被堆疊成一座發光的圍城模型，並有兩條燈光路徑。\n\n模型製作｜街道記憶｜PVC板、紙、電線與小燈｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/walled-street-dream-stacked-shopfront-light-model/01-final-model.webp",
+        "assets/board/walled-street-dream-stacked-shopfront-light-model/02-aerial-city.webp",
+        "assets/board/walled-street-dream-stacked-shopfront-light-model/03-old-shops.webp",
+        "assets/board/walled-street-dream-stacked-shopfront-light-model/04-early-build.webp",
+        "assets/board/walled-street-dream-stacked-shopfront-light-model/05-ink-drawing.webp",
+        "assets/board/walled-street-dream-stacked-shopfront-light-model/06-upper-view.webp",
+        "assets/board/walled-street-dream-stacked-shopfront-light-model/07-sign-wall.webp",
+        "assets/board/walled-street-dream-stacked-shopfront-light-model/08-figure-path.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/walled-street-dream-stacked-shopfront-light-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The glowing stacked shopfronts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "發光的堆疊店面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Walking down a narrow street, the student saw old structures stacked tightly on each other. The scene later came back in a dream of being chased through a walled city.",
+          "images": [
+            "assets/board/walled-street-dream-stacked-shopfront-light-model/02-aerial-city.webp",
+            "assets/board/walled-street-dream-stacked-shopfront-light-model/03-old-shops.webp"
+          ],
+          "captions": [
+            "A dense city from above.",
+            "Narrow old buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "走在狹窄的街道上，學生看見老建築緊密地互相堆疊。這個場景後來出現在他被追逐穿越圍城的夢中。",
+              "captions": [
+                "從上方看密集城市。",
+                "狹窄的老建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He sketched shopfronts from reference photos onto paper. Each sketch was stuck to a board as a small facade.",
+          "images": [
+            "assets/board/walled-street-dream-stacked-shopfront-light-model/04-early-build.webp",
+            "assets/board/walled-street-dream-stacked-shopfront-light-model/05-ink-drawing.webp"
+          ],
+          "captions": [
+            "Early shopfront boards.",
+            "An ink drawing of the stack."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他依參考照片在紙上草繪店面。每張草圖都貼在板材上，成為一個小立面。",
+              "captions": [
+                "早期的店面板。",
+                "堆疊的墨線圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The facades were glued together at different heights to build a walled-city feeling. Two paths were outlined with tiny lights and wire.",
+          "images": [
+            "assets/board/walled-street-dream-stacked-shopfront-light-model/06-upper-view.webp"
+          ],
+          "captions": [
+            "The upper levels lit up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "立面以不同高度黏合，營造圍城的感覺。兩條路徑以小燈與電線勾勒。",
+              "captions": [
+                "點亮的上層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "One light path is the dreamer and the other is the chaser climbing behind. The model turns a street memory into a glowing vertical story.",
+          "images": [
+            "assets/board/walled-street-dream-stacked-shopfront-light-model/07-sign-wall.webp",
+            "assets/board/walled-street-dream-stacked-shopfront-light-model/08-figure-path.webp"
+          ],
+          "captions": [
+            "A wall of drawn signs.",
+            "Figures along the light path."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一條燈光路徑是做夢者，另一條是在後方攀爬的追逐者。模型把街道記憶化為發光的垂直故事。",
+              "captions": [
+                "手繪招牌牆。",
+                "燈光路徑上的人偶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Recall a place.\n2. Sketch its facades.\n3. Stack them up.\n4. Light a story path.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 回想一個地方。\n2. 草繪其立面。\n3. 把它們堆疊起來。\n4. 點亮故事路徑。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Rooted Lattice Tower",
+      "slug": "rooted-lattice-tower-summer-workshop-3d-print",
+      "description": "A summer workshop project grows vines and tree roots into an organic 3D printed lattice tower.\n\nSummer workshop | Organic structure | Foam board, museum board and 3D printing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "根系晶格塔",
+          "description": "一個暑期工作坊作品，把藤蔓與樹根發展成有機的3D列印晶格塔。\n\n暑期工作坊｜有機結構｜泡綿板、博物館板與3D列印｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rooted-lattice-tower-summer-workshop-3d-print/01-final-tower.webp",
+        "assets/board/rooted-lattice-tower-summer-workshop-3d-print/02-primitive-forms.webp",
+        "assets/board/rooted-lattice-tower-summer-workshop-3d-print/03-lattice-steps.webp",
+        "assets/board/rooted-lattice-tower-summer-workshop-3d-print/04-script.webp",
+        "assets/board/rooted-lattice-tower-summer-workshop-3d-print/05-tower-drawing.webp",
+        "assets/board/rooted-lattice-tower-summer-workshop-3d-print/06-root-sketch.webp",
+        "assets/board/rooted-lattice-tower-summer-workshop-3d-print/07-stair-view.webp",
+        "assets/board/rooted-lattice-tower-summer-workshop-3d-print/08-hollow-detail.webp",
+        "assets/board/rooted-lattice-tower-summer-workshop-3d-print/09-base-arch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rooted-lattice-tower-summer-workshop-3d-print/01-final-tower.webp"
+          ],
+          "captions": [
+            "The 3D printed lattice tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "3D列印的晶格塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A steel frame under a bench made the student imagine a more organic and random structure. He wanted to stand inside a building that feels like vines.",
+          "images": [
+            "assets/board/rooted-lattice-tower-summer-workshop-3d-print/02-primitive-forms.webp"
+          ],
+          "captions": [
+            "Basic forms used as a start."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "長椅下的鋼構讓學生想像一種更有機、更隨機的結構。他想站在一棟宛如藤蔓的建築之中。",
+              "captions": [
+                "作為起點的基本形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Vines, tree roots and a twisting lattice tower all fed his idea. Basic shapes were tested in a parametric script inside a rectangular limit.",
+          "images": [
+            "assets/board/rooted-lattice-tower-summer-workshop-3d-print/03-lattice-steps.webp",
+            "assets/board/rooted-lattice-tower-summer-workshop-3d-print/04-script.webp"
+          ],
+          "captions": [
+            "Digital lattice iterations.",
+            "The parametric script."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "藤蔓、樹根與扭轉的晶格塔都啟發了他。基本形體在矩形限制內以參數化腳本測試。",
+              "captions": [
+                "數位晶格迭代。",
+                "參數化腳本。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The digital lattice was refined until it felt both irregular and stable. Ink drawings tested stairs and decks threading through it.",
+          "images": [
+            "assets/board/rooted-lattice-tower-summer-workshop-3d-print/05-tower-drawing.webp",
+            "assets/board/rooted-lattice-tower-summer-workshop-3d-print/06-root-sketch.webp"
+          ],
+          "captions": [
+            "An ink drawing of the tower.",
+            "A sketch of the root form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "數位晶格被不斷調整，直到既不規則又穩定。墨線圖測試穿越其中的樓梯與平台。",
+              "captions": [
+                "塔的墨線圖。",
+                "根系形體草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The printed tower rises like a cluster of white roots with stairs wrapping round it. Red figures show how people could move through its hollows.",
+          "images": [
+            "assets/board/rooted-lattice-tower-summer-workshop-3d-print/07-stair-view.webp",
+            "assets/board/rooted-lattice-tower-summer-workshop-3d-print/08-hollow-detail.webp",
+            "assets/board/rooted-lattice-tower-summer-workshop-3d-print/09-base-arch.webp"
+          ],
+          "captions": [
+            "Stairs wrap the lattice.",
+            "A hollow in the lattice.",
+            "An arch at the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "列印出的塔如一簇白色根系升起，樓梯環繞其外。紅色人偶顯示人們如何穿行於孔洞之間。",
+              "captions": [
+                "環繞晶格的樓梯。",
+                "晶格中的孔洞。",
+                "基部的拱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find a natural pattern.\n2. Script the growth.\n3. Set a boundary.\n4. Print and test.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找到自然圖樣。\n2. 以腳本生成。\n3. 設定邊界。\n4. 列印與測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
