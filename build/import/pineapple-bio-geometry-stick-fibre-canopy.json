@@ -1,0 +1,67 @@
+{
+  "project": "Pineapple Bio-geometry",
+  "dest": "assets/board/pineapple-bio-geometry-stick-fibre-canopy",
+  "note": "Portfolio 3c08 pages 12-13 cropped to ten images, WebP q88 (PIL). Not used: title and text, photos of a shop building, a photo of the student, photos with hands.",
+  "files": [
+    {
+      "name": "01-final-canopy.webp",
+      "sha256": "c8b80f2b259c0b788fd2189c58318ae07ba5524460ab7cfcc7e0314bd7aa79bd",
+      "bytes": 173630,
+      "from": "3c08 page 13 — final canopy"
+    },
+    {
+      "name": "02-cake-fibres.webp",
+      "sha256": "7f207d5920310983f04b0a6c2627115a3e0ee5ed9f40942aa2e1d232f81e4c9b",
+      "bytes": 9392,
+      "from": "3c08 page 12 — cake fibres"
+    },
+    {
+      "name": "03-cake-halves.webp",
+      "sha256": "26432be23275ff93af0aed78da9b26ef854e198d927780495e10d2b934522940",
+      "bytes": 7784,
+      "from": "3c08 page 12 — cake halves"
+    },
+    {
+      "name": "04-sketches.webp",
+      "sha256": "b9a176597270a14a43ddf8dbdff914ea35d8928c50a5ef3a6131211b2389daee",
+      "bytes": 29808,
+      "from": "3c08 page 12 — sketches"
+    },
+    {
+      "name": "05-stick-drawing.webp",
+      "sha256": "caeda6c68b01ee7297613ba9856f3134c4c55e2ea63d9a814abff72d3bb1db37",
+      "bytes": 118718,
+      "from": "3c08 page 12 — stick drawing"
+    },
+    {
+      "name": "06-strip-cutting.webp",
+      "sha256": "ccd1069863602e9434177bb7e5efcd1d78a243fe80013c8c16061b5d9a5a9600",
+      "bytes": 28302,
+      "from": "3c08 page 12 — strip cutting"
+    },
+    {
+      "name": "07-model-growing.webp",
+      "sha256": "f780b9664cea5aa3bd3fe317004ba60e1fa85fff27f511ae76ebfbd8f257a0b8",
+      "bytes": 56794,
+      "from": "3c08 page 12 — model growing"
+    },
+    {
+      "name": "08-shadow-traces.webp",
+      "sha256": "728ad252aed740dc32cf66f48cfc0c209af81bdb2eb8a52a46bb2ac2fcaacda0",
+      "bytes": 26048,
+      "from": "3c08 page 12 — shadow traces"
+    },
+    {
+      "name": "09-section-drawing.webp",
+      "sha256": "44b77128cb91561e9e223cb04f6d87621d6fc149ac4eb9c3d779ee7bf159549e",
+      "bytes": 86254,
+      "from": "3c08 page 13 — section drawing"
+    },
+    {
+      "name": "10-inside-view.webp",
+      "sha256": "9f79afd47d5d0fbe40dd4712c34b8a1dffadae0b4acd60eff17710717fcf0972",
+      "bytes": 78814,
+      "from": "3c08 page 13 — inside view"
+    }
+  ]
+}
