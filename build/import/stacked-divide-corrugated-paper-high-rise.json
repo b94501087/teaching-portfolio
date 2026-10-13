@@ -1,0 +1,67 @@
+{
+  "project": "Stacked Divide: A Corrugated High-Rise",
+  "dest": "assets/board/stacked-divide-corrugated-paper-high-rise",
+  "note": "Portfolio eb94 pages 3-4 cropped to 10 images, WebP q88 (PIL). Not used: film title, film stills, photos of hands during making, process collage.",
+  "files": [
+    {
+      "name": "01-stacked-corrugated-high-rise.webp",
+      "sha256": "c814cba79ddc76e6dffb7d8cbfd3a4120408afa403766329830c914b0bdf7a28",
+      "bytes": 180474,
+      "from": "eb94 pages 3-4 — the stacked corrugated high-rise"
+    },
+    {
+      "name": "02-section-drawing-of-the-tower.webp",
+      "sha256": "d62c44bde73ab53a33e409426233eccd8dca484411affb804fd262bc434c6811",
+      "bytes": 211152,
+      "from": "eb94 pages 3-4 — section drawing of the tower"
+    },
+    {
+      "name": "03-upper-rooms-in-progress.webp",
+      "sha256": "6cd650d8a60f73d5762a5e7ede7e0bf1d6d9dc7b109d37b2f47cc13820f10049",
+      "bytes": 24100,
+      "from": "eb94 pages 3-4 — rooms during making"
+    },
+    {
+      "name": "04-patched-shacks-at-the-base.webp",
+      "sha256": "d114469f8fc33a029f7433d8c6d4d2bf9b089db65b2b0500916e1d5e3418ed17",
+      "bytes": 31932,
+      "from": "eb94 pages 3-4 — patched shacks at the base"
+    },
+    {
+      "name": "05-rings-around-the-upper-tower.webp",
+      "sha256": "3b60464107ced5565e1a0aeabee00f4f26b1c915987fe9295ac90b754ea6181c",
+      "bytes": 57926,
+      "from": "eb94 pages 3-4 — rings around the upper tower"
+    },
+    {
+      "name": "06-stick-scaffolds-and-rooms.webp",
+      "sha256": "30d637221a4641b464b90fbedfd291e7408c7f849dca40452444dd442a1d4c89",
+      "bytes": 52030,
+      "from": "eb94 pages 3-4 — stick scaffolds among rooms"
+    },
+    {
+      "name": "07-looking-up-through-rings.webp",
+      "sha256": "c88c4536ac76aa5d92d0ef6cca7180827c83d75419a4bfefbf597906b2ea477f",
+      "bytes": 34126,
+      "from": "eb94 pages 3-4 — looking up through the rings"
+    },
+    {
+      "name": "08-ringed-crown-of-the-tower.webp",
+      "sha256": "d22d2db619ae1f4055b467f567271a89f9ba819a1b3595cbb36ef99903432f45",
+      "bytes": 68768,
+      "from": "eb94 pages 3-4 — the ringed crown"
+    },
+    {
+      "name": "09-middle-floors-and-figures.webp",
+      "sha256": "5abd700818a4e3564a8feb7d7ca85235b2988cb2710cdbc8986bb451eb330408",
+      "bytes": 82478,
+      "from": "eb94 pages 3-4 — middle floors with figures"
+    },
+    {
+      "name": "10-pipes-and-passages-close.webp",
+      "sha256": "61cff4721f848616ee3ace500365fb0712f52d4f399118383706905c235fc6a2",
+      "bytes": 98302,
+      "from": "eb94 pages 3-4 — pipes and passages up close"
+    }
+  ]
+}
