@@ -70340,6 +70340,570 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Forms and Language",
+      "slug": "forms-and-language-white-strip-word-groups",
+      "description": "Brush strokes become white plastic strips, then word groups, then a whole field of spaces with gaps and shadows.\n\nModel | Writing-to-form study | PVC boards, ABS plastic sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "形態與語言",
+          "description": "筆觸化為白色塑膠條，再組成詞組，最終成為一片帶有空隙與陰影的空間群。\n\n模型｜書寫轉形態研究｜PVC板、ABS塑膠條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/forms-and-language-white-strip-word-groups/01-white-strip-word-cloud.webp",
+        "assets/board/forms-and-language-white-strip-word-groups/02-low-view-left.webp",
+        "assets/board/forms-and-language-white-strip-word-groups/03-low-view-right.webp",
+        "assets/board/forms-and-language-white-strip-word-groups/04-close-up-upper.webp",
+        "assets/board/forms-and-language-white-strip-word-groups/05-close-up-lower.webp",
+        "assets/board/forms-and-language-white-strip-word-groups/06-brush-line-studies.webp",
+        "assets/board/forms-and-language-white-strip-word-groups/07-strip-unit-tests.webp",
+        "assets/board/forms-and-language-white-strip-word-groups/08-word-group-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/forms-and-language-white-strip-word-groups/01-white-strip-word-cloud.webp"
+          ],
+          "captions": [
+            "The white strip model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "白色塑膠條模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A film about learning an alien language sparked the work. The student asked how shapes could be read like words.",
+          "images": [
+            "assets/board/forms-and-language-white-strip-word-groups/06-brush-line-studies.webp"
+          ],
+          "captions": [
+            "Line studies from brush strokes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部關於學習外星語言的電影啟發了這件作品。學生探問，形狀如何能像文字一樣被閱讀。",
+              "captions": [
+                "由筆觸而來的線條研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "In running script, solid lines show where the brush touches down and dashed lines where it lifts. Old wall-like forms seen on a trip added white lines.",
+          "images": [
+            "assets/board/forms-and-language-white-strip-word-groups/07-strip-unit-tests.webp"
+          ],
+          "captions": [
+            "Small strip units."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "在行書中，實線代表筆觸落下，虛線代表筆鋒提起。旅途中看到的古老牆體形態也加入成白色線條。",
+              "captions": [
+                "小型塑膠條單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Lines 1 mm apart were drawn on card, then traced with 1 mm plastic strips. Units were joined into word groups, then into passages.",
+          "images": [
+            "assets/board/forms-and-language-white-strip-word-groups/08-word-group-models.webp"
+          ],
+          "captions": [
+            "Word group models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生在卡紙上畫出間距1公釐的線，再以1公釐塑膠條描出。單元組成詞組，再組成段落。",
+              "captions": [
+                "詞組模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 590 mm model leaves blank spaces and shadows. They stand for what is unspoken, for metaphor and for guesswork.",
+          "images": [
+            "assets/board/forms-and-language-white-strip-word-groups/02-low-view-left.webp",
+            "assets/board/forms-and-language-white-strip-word-groups/03-low-view-right.webp",
+            "assets/board/forms-and-language-white-strip-word-groups/04-close-up-upper.webp",
+            "assets/board/forms-and-language-white-strip-word-groups/05-close-up-lower.webp"
+          ],
+          "captions": [
+            "A low view of the field.",
+            "The field from the other side.",
+            "A close view of the upper strips.",
+            "A close view of the lower strips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個590公釐的模型留下了空白與陰影。它們代表未說出口的話、隱喻與推測。",
+              "captions": [
+                "低角度看整體。",
+                "另一側的視角。",
+                "上方塑膠條近觀。",
+                "下方塑膠條近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a way of writing.\n2. Turn each stroke into a line.\n3. Build lines into units.\n4. Read the gaps as meaning.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一種書寫方式。\n2. 把每一筆化為線。\n3. 把線組成單元。\n4. 把空隙當作意義來閱讀。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Space of Hidden Clues",
+      "slug": "hidden-clues-wire-grid-cages-over-a-stick-base",
+      "description": "Wire grid cages, shiny film shards and a heap of sticks build one mystery space full of hidden clues.\n\nModel | Story-to-space study | PVC boards, wooden sticks, colour-shift window film, wire, card, clay, mesh | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "藏著線索的空間",
+          "description": "鐵絲網格籠、閃亮的薄膜碎片與一堆木條，構成一個藏滿線索的神秘空間。\n\n模型｜故事轉空間研究｜PVC板、木條、變色窗膜、鐵絲、卡紙、黏土、網布｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/01-wire-grid-and-stick-tower.webp",
+        "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/02-character-sketch.webp",
+        "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/03-grid-cages-from-above.webp",
+        "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/04-iridescent-shards.webp",
+        "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/05-cage-corner.webp",
+        "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/06-stick-base.webp",
+        "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/07-shards-in-the-cage.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/01-wire-grid-and-stick-tower.webp"
+          ],
+          "captions": [
+            "The wire grid and stick tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鐵絲網格與木條之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student loves making up detective stories. The project asks how a space could hold clues and feelings like a story does.",
+          "images": [
+            "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/02-character-sketch.webp"
+          ],
+          "captions": [
+            "A sketch of the parts of the story."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生喜歡自己編偵探故事。這個專題探問，空間如何能像故事一樣藏著線索與情感。",
+              "captions": [
+                "故事各部分的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each character got a material. Clear film stood for hope, clay for a struggle and wood for chaos at the base.",
+          "images": [
+            "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/04-iridescent-shards.webp"
+          ],
+          "captions": [
+            "Shiny film shards."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每個角色都對應一種材料。透明薄膜代表希望，黏土代表掙扎，底部的木條代表混亂。",
+              "captions": [
+                "閃亮的薄膜碎片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Grid cages hold the shards above a heap of sticks. Clues are hidden in corners for the viewer to find.",
+          "images": [
+            "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/05-cage-corner.webp",
+            "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/06-stick-base.webp",
+            "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/07-shards-in-the-cage.webp"
+          ],
+          "captions": [
+            "A cage corner.",
+            "The stick base.",
+            "Shards inside a cage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "網格籠把碎片托在木條堆上方。線索藏在角落，等待觀者發現。",
+              "captions": [
+                "網格籠一角。",
+                "木條底座。",
+                "籠中的碎片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 550 mm model mixes fear, warmth and sadness in one space. It reads as a puzzle to be solved.",
+          "images": [
+            "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base/03-grid-cages-from-above.webp"
+          ],
+          "captions": [
+            "The cages from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個550公釐的模型在同一空間中混合了恐懼、溫暖與悲傷。它像一道待解的謎題。",
+              "captions": [
+                "俯看網格籠。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Write a short story.\n2. Give each character a material.\n3. Hide clues in the form.\n4. Let others find them.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 寫一個短故事。\n2. 每個角色一種材料。\n3. 把線索藏進形體。\n4. 讓別人去發現。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Fragmented Mirror",
+      "slug": "fragmented-mirror-panel-maze-and-inverted-stairs",
+      "description": "Like a twisting mirror puzzle cube, a daily living space is broken into mirror panels and then into a knot of upside-down stairs.\n\nModels and drawing | Order-in-chaos study | PVC boards, reflective paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "破碎的鏡子",
+          "description": "如同轉動的鏡面魔術方塊，日常生活空間被打碎成鏡面板片，再化為一團上下顛倒的樓梯。\n\n模型與繪圖｜混亂中的秩序研究｜PVC板、反光紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/01-mirror-panel-maze.webp",
+        "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/02-panels-from-above.webp",
+        "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/03-reflections-close-up.webp",
+        "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/04-first-panel-tests.webp",
+        "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/05-inverted-stair-drawing.webp",
+        "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/06-photo-fragment-collage.webp",
+        "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/07-stair-cluster-left.webp",
+        "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/08-stair-cluster-centre.webp",
+        "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/09-stair-cluster-right.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/01-mirror-panel-maze.webp"
+          ],
+          "captions": [
+            "The mirror panel maze."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鏡面板片迷宮。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A mirror puzzle cube looks wild after every turn, yet it follows clear rules. The project asks if a home could be broken up the same way.",
+          "images": [
+            "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/04-first-panel-tests.webp"
+          ],
+          "captions": [
+            "First mirror panel tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "鏡面魔術方塊每轉一次都顯得雜亂，卻遵循清楚的規則。這個專題探問，住家能否以同樣的方式被打散。",
+              "captions": [
+                "最初的鏡面板片試驗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student took phone photos of rooms used every day. They were cut and pieced into odd shapes.",
+          "images": [
+            "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/06-photo-fragment-collage.webp"
+          ],
+          "captions": [
+            "A collage of photo fragments."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生用手機拍下每天使用的房間。照片被剪開，再拼成不規則形狀。",
+              "captions": [
+                "照片碎片拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Part 1 built the fragments as mirror panels that reflect one another. Part 2 turned them into rooms and stairs facing every way.",
+          "images": [
+            "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/02-panels-from-above.webp",
+            "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/03-reflections-close-up.webp",
+            "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/05-inverted-stair-drawing.webp"
+          ],
+          "captions": [
+            "Panels from above.",
+            "Reflections close up.",
+            "A drawing of the stairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "第一部分把碎片做成彼此反射的鏡面板片。第二部分再把它們化為朝向各方的房間與樓梯。",
+              "captions": [
+                "俯看板片。",
+                "反射近觀。",
+                "樓梯繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 350 mm model is an upside-down knot of stairs. It shows a hidden order inside chaos.",
+          "images": [
+            "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/07-stair-cluster-left.webp",
+            "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/08-stair-cluster-centre.webp",
+            "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/09-stair-cluster-right.webp"
+          ],
+          "captions": [
+            "Stairs from the left.",
+            "Stairs at the centre.",
+            "Stairs from the right."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個350公釐的模型是一團上下顛倒的樓梯。它呈現出混亂之中的隱藏秩序。",
+              "captions": [
+                "左側的樓梯。",
+                "中央的樓梯。",
+                "右側的樓梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a puzzle you love.\n2. Break a known space apart.\n3. Rebuild the parts in new ways.\n4. Look for the rule inside.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從喜愛的謎題出發。\n2. 打散一個熟悉的空間。\n3. 以新方式重組構件。\n4. 找出其中的規則。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Trajectories of the Cosmos",
+      "slug": "trajectories-of-the-cosmos-orbit-rings-tower",
+      "description": "Planet orbits drawn on paper are stacked into a turning tower of rings, stairs and stick walls.\n\nModel and drawings | Orbit-to-form study | PVC boards, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "宇宙的軌跡",
+          "description": "畫在紙上的行星軌道被疊成一座由圓環、樓梯與木條牆組成的旋轉塔。\n\n模型與繪圖｜軌道轉形態研究｜PVC板、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/01-orbit-tower-model.webp",
+        "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/02-tower-pen-drawing.webp",
+        "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/03-tower-details.webp",
+        "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/04-orbit-line-drawing.webp",
+        "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/05-orbit-rings-in-sticks.webp",
+        "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/06-first-sketch.webp",
+        "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/07-rings-rising.webp",
+        "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/08-paper-orbit-base.webp",
+        "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/09-inner-rings.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/01-orbit-tower-model.webp"
+          ],
+          "captions": [
+            "The orbit tower model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "軌道塔模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wants to imagine homes beyond the Earth. The project asks what a place to live in outer space could look like.",
+          "images": [
+            "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/06-first-sketch.webp"
+          ],
+          "captions": [
+            "A first sketch of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想像地球之外的家。這個專題探問，外太空的居所會是什麼樣子。",
+              "captions": [
+                "塔的初步草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each planet moves at its own speed, so their places change every moment. The orbit curves were drawn and laid over one another.",
+          "images": [
+            "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/04-orbit-line-drawing.webp",
+            "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/08-paper-orbit-base.webp"
+          ],
+          "captions": [
+            "Overlaid orbit lines.",
+            "The paper orbit base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每顆行星以自己的速度運行，位置時時改變。學生畫出軌道曲線並互相疊合。",
+              "captions": [
+                "疊合的軌道線。",
+                "紙製軌道底座。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stick walls follow the outer orbits. Rings and stairs rise inside them and turn as they climb.",
+          "images": [
+            "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/05-orbit-rings-in-sticks.webp",
+            "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/09-inner-rings.webp",
+            "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/07-rings-rising.webp"
+          ],
+          "captions": [
+            "Rings inside the stick walls.",
+            "The inner rings.",
+            "Rings rising."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木條牆沿著外圈軌道排列。圓環與樓梯在其中升起，一邊攀升一邊旋轉。",
+              "captions": [
+                "木條牆中的圓環。",
+                "內圈圓環。",
+                "升起的圓環。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 450 mm tower feels like an ancient tower that reaches for the sky. It joins science and art.",
+          "images": [
+            "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/03-tower-details.webp",
+            "assets/board/trajectories-of-the-cosmos-orbit-rings-tower/02-tower-pen-drawing.webp"
+          ],
+          "captions": [
+            "Details of the tower.",
+            "A pen drawing of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座450公釐的塔，像一座伸向天空的古老高塔。它結合了科學與藝術。",
+              "captions": [
+                "塔的細部。",
+                "塔的鋼筆畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a pattern from science.\n2. Draw it on paper.\n3. Stack the drawings in 3D.\n4. Add stairs to make it a place.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從科學中挑一個圖樣。\n2. 把它畫在紙上。\n3. 把圖疊成立體。\n4. 加上樓梯，讓它成為場所。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
