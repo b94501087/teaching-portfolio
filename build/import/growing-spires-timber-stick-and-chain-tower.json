@@ -1,0 +1,61 @@
+{
+  "project": "Growing Spires",
+  "dest": "assets/board/growing-spires-timber-stick-and-chain-tower",
+  "note": "Portfolio b2e2 pages 4-5 cropped to nine images, WebP q88 (PIL). Not used: title and text, photos and renders of a well-known church, process photos of the student, a painter's name.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "178d0e411749f118ac9989bb7bd888edd5f3194a53df8d4f9bda20a278b00c21",
+      "bytes": 160976,
+      "from": "b2e2 page 5 — final tower"
+    },
+    {
+      "name": "02-stick-stock.webp",
+      "sha256": "ef2d29b785e43e56b1b5785fe5f330f7a03742f2871e826e711d130a4e8a1d5d",
+      "bytes": 18526,
+      "from": "b2e2 page 4 — stick stock"
+    },
+    {
+      "name": "03-top-view.webp",
+      "sha256": "cf9cfa2633166dd28fc61faa227c4fa8b3eea9e234fa90f5431e90bd9ac79768",
+      "bytes": 32408,
+      "from": "b2e2 page 4 — top view"
+    },
+    {
+      "name": "04-frame-view.webp",
+      "sha256": "41c45e62e47363f7cdbc624fcbebb936c1f1c165c4d100c93208ad8bb0713bd2",
+      "bytes": 38538,
+      "from": "b2e2 page 4 — frame view"
+    },
+    {
+      "name": "05-early-frame.webp",
+      "sha256": "d6c084bc7664b4f83acbbb0d1c55ed27ed2a338ba0f1fa6793e133a10c6c54c1",
+      "bytes": 10940,
+      "from": "b2e2 page 5 — early frame"
+    },
+    {
+      "name": "06-upper-part.webp",
+      "sha256": "b4981f3c37ea372dc1d3764e5d5964b879331f1f4aa26e2c3cb4faef04a455a5",
+      "bytes": 21368,
+      "from": "b2e2 page 5 — upper part"
+    },
+    {
+      "name": "07-angled-view.webp",
+      "sha256": "8a03a61e79c92b642ca18c4d1dd19f4942caa8bef6acdd2c111b2ce156e53b31",
+      "bytes": 41038,
+      "from": "b2e2 page 5 — angled view"
+    },
+    {
+      "name": "08-stick-detail.webp",
+      "sha256": "381a557cb8363e6f627f77173af14b7fc9477c23a005f317f2a42c8538761317",
+      "bytes": 15660,
+      "from": "b2e2 page 5 — stick detail"
+    },
+    {
+      "name": "09-chain-detail.webp",
+      "sha256": "75ff0e725e1740434e5fb9bf6ac89374f6df3974231d84419f9a3d056e85bd9c",
+      "bytes": 85656,
+      "from": "b2e2 page 5 — chain detail"
+    }
+  ]
+}
