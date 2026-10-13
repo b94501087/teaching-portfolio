@@ -1,0 +1,55 @@
+{
+  "project": "The Multiverse",
+  "dest": "assets/board/multiverse-five-layer-stained-glass-tower",
+  "note": "Portfolio d991 page 2 cropped to eight images, WebP q88 (PIL). Not used: title and text, a strip of film stills with actors, process photos with hands, the film and character names.",
+  "files": [
+    {
+      "name": "01-glass-tower.webp",
+      "sha256": "cdfd59dda806dc9aea99fa240f18a5040fbc54b8ceee6c0c4bb9446a08c770ab",
+      "bytes": 355626,
+      "from": "d991 page 2 — glass tower"
+    },
+    {
+      "name": "02-tower-sketch.webp",
+      "sha256": "c8f6c89005778beb24029ebbac5879cfa9e86d319fb34b8c916c18c15fc29e3e",
+      "bytes": 129550,
+      "from": "d991 page 2 — tower sketch"
+    },
+    {
+      "name": "03-stair-sketch.webp",
+      "sha256": "57425d25659aadac00cb5faf4c8fa916890a55e6f198c3b1ba037dbf579cb030",
+      "bytes": 309800,
+      "from": "d991 page 2 — stair sketch"
+    },
+    {
+      "name": "04-front-view.webp",
+      "sha256": "fd68befeef1fbbd3981b685a5fa9a867e926bb2ce60bd7f09df660cc42f89dcb",
+      "bytes": 177482,
+      "from": "d991 page 2 — front view"
+    },
+    {
+      "name": "05-glass-top.webp",
+      "sha256": "4675569b24677cd82f34c2a9eaa8841f8aed3333e5a5a628626ce25098130f09",
+      "bytes": 75040,
+      "from": "d991 page 2 — glass top"
+    },
+    {
+      "name": "06-spiral-stair.webp",
+      "sha256": "6db8cf793ee9138b3e3dc1b601ce6c2972ea77ebb366b105b9a63eda5b44cd5d",
+      "bytes": 76218,
+      "from": "d991 page 2 — spiral stair"
+    },
+    {
+      "name": "07-bionic-trees.webp",
+      "sha256": "b649cc4d8802f5d38d1bc1ffdd5af439dd3c266436685ef60a6757c140d755a1",
+      "bytes": 102156,
+      "from": "d991 page 2 — bionic trees"
+    },
+    {
+      "name": "08-small-worlds.webp",
+      "sha256": "6003df9fb728187b9a9b7f2a13e624ef01d2c7e42b2a6e02e786305835875fd2",
+      "bytes": 77924,
+      "from": "d991 page 2 — small worlds"
+    }
+  ]
+}
