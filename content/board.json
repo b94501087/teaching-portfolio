@@ -81444,6 +81444,558 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Campus Impressions",
+      "slug": "campus-impressions-pvc-islands-and-waves",
+      "description": "Hollowed PVC panels with cut pieces lifted into floating islands and layered like waves record the feeling of a favourite corner of school.\n\nModel | Memory and campus study | PVC panels, wooden strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "校園印象",
+          "description": "挖空的PVC板與被抬升為漂浮孤島的切片，如波浪般層層堆疊，記錄校園中一個最喜愛角落的感受。\n\n模型｜記憶與校園研究｜PVC板、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/campus-impressions-pvc-islands-and-waves/01-floating-pvc-islands.webp",
+        "assets/board/campus-impressions-pvc-islands-and-waves/02-sea-line-study.webp",
+        "assets/board/campus-impressions-pvc-islands-and-waves/03-school-corner-line-study.webp",
+        "assets/board/campus-impressions-pvc-islands-and-waves/04-hollowed-geometry-panel.webp",
+        "assets/board/campus-impressions-pvc-islands-and-waves/05-cut-pieces-view-a.webp",
+        "assets/board/campus-impressions-pvc-islands-and-waves/06-cut-pieces-view-b.webp",
+        "assets/board/campus-impressions-pvc-islands-and-waves/07-cut-pieces-view-c.webp",
+        "assets/board/campus-impressions-pvc-islands-and-waves/08-layered-islands.webp",
+        "assets/board/campus-impressions-pvc-islands-and-waves/09-stacked-layers-in-blue-light.webp",
+        "assets/board/campus-impressions-pvc-islands-and-waves/10-wave-layers-with-figures.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/campus-impressions-pvc-islands-and-waves/01-floating-pvc-islands.webp"
+          ],
+          "captions": [
+            "Floating islands cut from PVC."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "以PVC切出的漂浮孤島。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began from a favourite corner of a middle school campus that served as an emotional shelter in moments of joy or sadness. The question was how the feeling of such a place could be recorded as an abstract model rather than as a picture.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題源自中學校園裡一個最喜愛的角落，無論快樂或悲傷時，那裡都是情緒的避風港。問題在於，如何把這樣一個場所的感受記錄為抽象模型，而非一幅圖像。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Photos of the garden were studied to pick out elements such as flower branches, grass and notice boards, which were then segmented and recombined into closed geometries. Line studies of the sea and of the school corner tested how these fragments could be read as patterns.",
+          "images": [
+            "assets/board/campus-impressions-pvc-islands-and-waves/02-sea-line-study.webp",
+            "assets/board/campus-impressions-pvc-islands-and-waves/03-school-corner-line-study.webp",
+            "assets/board/campus-impressions-pvc-islands-and-waves/04-hollowed-geometry-panel.webp"
+          ],
+          "captions": [
+            "A line study of the sea.",
+            "A line study of the school corner.",
+            "A panel of hollowed geometry."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究花園的照片，挑出花枝、草地與布告欄等元素，再將其分割並重組為封閉的幾何形。對海面與校園角落的線描研究，則測試這些碎片如何被解讀為圖樣。",
+              "captions": [
+                "海面的線描研究。",
+                "校園角落的線描研究。",
+                "挖空幾何形的板材。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Closed shapes were hollowed out of PVC panels, and following the principle of solid and void, cut pieces were pasted back above and below their original positions to form isolated islands. The rise and fall of waves was then added by trimming small triangles from each layer so that every level shrinks inward and seems to float.",
+          "images": [
+            "assets/board/campus-impressions-pvc-islands-and-waves/05-cut-pieces-view-a.webp",
+            "assets/board/campus-impressions-pvc-islands-and-waves/06-cut-pieces-view-b.webp",
+            "assets/board/campus-impressions-pvc-islands-and-waves/07-cut-pieces-view-c.webp",
+            "assets/board/campus-impressions-pvc-islands-and-waves/08-layered-islands.webp"
+          ],
+          "captions": [
+            "Cut pieces on a panel.",
+            "Pieces raised above the panel.",
+            "Pieces lowered below the panel.",
+            "Layered islands."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生從PVC板中挖出封閉的形狀，並依循實與虛的原則，把切下的片材貼回原位的上方或下方，形成一座座孤島。接著，學生從每一層的邊角切下小三角形，讓每層向內收縮而顯得漂浮，藉此加入波浪的起伏。",
+              "captions": [
+                "板材上的切片。",
+                "抬升於板材之上的切片。",
+                "降至板材之下的切片。",
+                "層疊的孤島。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Three PVC panels connected by wooden strips enclose an undulating space in the middle, read as the essence of the comforting corner. Small figures wandering through the layers show the model as a landscape of drifting islands.",
+          "images": [
+            "assets/board/campus-impressions-pvc-islands-and-waves/09-stacked-layers-in-blue-light.webp",
+            "assets/board/campus-impressions-pvc-islands-and-waves/10-wave-layers-with-figures.webp"
+          ],
+          "captions": [
+            "Stacked layers in blue light.",
+            "Wave layers with figures."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "三片PVC板由木條連接，在中間圍出一個起伏的空間，可被解讀為那個撫慰人心之角落的精髓。在各層之間漫遊的小人形，讓模型呈現為一片漂移孤島的地景。",
+              "captions": [
+                "藍光中的層疊板材。",
+                "波浪層與人形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Islands of Shelter - Waves Cut from a Campus Memory",
+          "body": "Some places matter less for how they look than for how they steady the mind, and a quiet corner of a school can become such a refuge. This project set out to record that refuge without depicting it. The student began with photographs of a garden and searched them for ordinary elements, branches, grass and notice boards, then reduced each to a closed outline. The guidance encouraged turning these outlines into a rule of solid and void rather than a picture. Shapes were cut from sheets of PVC and returned slightly above or below their origin, so that each sheet became a field of small islands. Memory of the sea then suggested a second rule, as triangles trimmed from the edges made every layer retreat inward and appear to float. Three such layers, held apart by slender wooden strips, enclose a rolling space where small figures drift between fragments. The model shows how an emotional memory can be translated into a precise and repeatable method of making.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "庇護之島-從校園記憶切出的波浪",
+              "body": "有些場所的意義不在外貌，而在於它如何安定人心，校園裡一個安靜的角落便可能成為這樣的庇護。這個專題試圖記錄這份庇護，卻不去描繪它。學生從花園的照片出發，尋找花枝、草地與布告欄等平凡元素，並把每一個簡化為封閉的輪廓。指導鼓勵把輪廓轉化為實與虛的規則，而非圖像。形狀從PVC板中切下，再略高或略低地放回原處，讓每片板材成為一片小島群。對海的記憶帶來第二條規則：修去邊緣的三角形，使每層向內退縮而彷彿漂浮。三層板材由細木條撐開，圍出起伏的空間，小人形在碎片之間漂移。這個模型說明，情感的記憶能被轉譯為精確而可重複的製作方法。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Stone Game",
+      "slug": "stone-game-roadside-pebbles-climbing-timber-frames",
+      "description": "Roadside pebbles collected on the way to school are stacked into pillars and then set climbing across triangular timber frames that link the pillars into an arch.\n\nModel | Material and growth study | Stones, wooden strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "石頭遊戲",
+          "description": "上學路上收集的路邊石子先被堆成柱子，再沿著三角形木框向上攀爬，木框把柱子連成一道拱。\n\n模型｜材料與生長研究｜石頭、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/01-stone-arch-of-frames.webp",
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/02-tree-and-stone-concept-drawing.webp",
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/03-triangle-frame-line-drawing.webp",
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/04-triangular-timber-frames.webp",
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/05-stones-held-in-a-triangle.webp",
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/06-three-stone-pillars.webp",
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/07-arch-line-drawing.webp",
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/08-climbing-stones-top-view.webp",
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/09-frames-and-stones-low-view.webp",
+        "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/10-arch-front-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/01-stone-arch-of-frames.webp"
+          ],
+          "captions": [
+            "The arch of frames and stones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "木框與石頭構成的拱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project grew from a daily habit of collecting small roadside stones on the commute between home and school. Each stone seemed as distinct as a person, so the question became how many different individuals could be gathered into one structure.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題源自每天往返家與學校途中收集路邊小石子的習慣。每顆石頭都像人一樣獨特，於是問題成為：如何把許多不同的個體聚集成一個結構。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The stones were named by their shapes and colours, and a concept drawing imagined them gathering into a tower. Stacking tests then formed them into three pillars with round, triangular and square sections.",
+          "images": [
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/02-tree-and-stone-concept-drawing.webp",
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/06-three-stone-pillars.webp"
+          ],
+          "captions": [
+            "A concept drawing of gathering stones.",
+            "Three stone pillars."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生依形狀與顏色為石頭命名，並以概念圖想像它們聚集成一座塔。接著的堆疊測試把石頭堆成圓形、三角形與方形斷面的三根柱子。",
+              "captions": [
+                "石頭聚集的概念圖。",
+                "三根石柱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "To link the pillars without stones falling, plank frames were built with small new triangles inside triangular structures, holding the stones and together forming an arch. Many more frames were then added as a base for growth, with stones placed so that they seem to climb along the bars one by one.",
+          "images": [
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/04-triangular-timber-frames.webp",
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/05-stones-held-in-a-triangle.webp",
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/03-triangle-frame-line-drawing.webp",
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/07-arch-line-drawing.webp"
+          ],
+          "captions": [
+            "Triangular timber frames.",
+            "Stones held in a triangle.",
+            "A line drawing of the frames.",
+            "A line drawing of the arch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "為了連接柱子又不讓石頭掉落，學生以木板搭出框架，在三角形結構中再做出小三角形，用來承托石頭並共同形成一道拱。之後學生加入更多框架作為生長的基礎，並安置石頭，讓它們彷彿沿著木條一根根向上攀爬。",
+              "captions": [
+                "三角形木框。",
+                "承托於三角形中的石頭。",
+                "框架的線圖。",
+                "拱的線圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model is a cluster of timber triangles over which stones spread and pile up freely toward the top. It depicts a mimic growth of stone, as if inanimate pieces had a conscious desire to climb.",
+          "images": [
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/08-climbing-stones-top-view.webp",
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/09-frames-and-stones-low-view.webp",
+            "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/10-arch-front-view.webp"
+          ],
+          "captions": [
+            "Climbing stones from above.",
+            "Frames and stones from a low angle.",
+            "The arch from the front."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型是一團木製三角形，石頭在其上蔓延，並朝頂端自由堆積。它描繪石頭的擬態生長，彷彿無生命的碎塊有了攀爬的意志。",
+              "captions": [
+                "從上方看攀爬的石頭。",
+                "低角度的框架與石頭。",
+                "從正面看拱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Climbing Pebbles - A Game of Gravity and Growth",
+          "body": "A pebble picked up from the roadside is an ordinary thing, yet a pocketful gathered day after day becomes a collection of individuals, no two alike in shape or colour. This project treated those pebbles as characters in a game against gravity. The student first named the stones and imagined them assembling into a tower, then stacked them into three pillars of round, triangular and square section. The real difficulty arose in joining the pillars, since loose stones resist any bridge. The guidance directed attention to structure, and an experiment with plank frames answered the problem, as small triangles nested inside larger ones created pockets that could cradle stones and together form an arch. From there the frames multiplied into a lattice, and stones were placed to appear as though they were creeping upward bar by bar before heaping freely at the summit. Inert matter thus seems to acquire intention. The project demonstrates how a simple collection can evolve into a structural inquiry about balance, difference and growth.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "攀爬的石子-重力與生長的遊戲",
+              "body": "從路邊拾起的一顆石子再平凡不過，日復一日收集起來，卻成為一群形狀與顏色各異的個體。這個專題把石子當作一場對抗重力之遊戲中的角色。學生先為石頭命名，想像它們聚成一座塔，再堆成圓形、三角形與方形斷面的三根柱子。真正的難題在於連接柱子，因為鬆散的石頭難以成橋。指導把注意力引向結構，木板框架的實驗給出答案：小三角形嵌入大三角形，形成承托石頭的凹處，並共同構成一道拱。框架隨後繁衍成格架，石頭彷彿沿著木條逐根上爬，最後在頂端自由堆積。無生命的物質似乎有了意圖。這個專題說明，簡單的收集能演變為關於平衡、差異與生長的結構探究。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Urban Form",
+      "slug": "urban-form-lines-planes-and-boxes-in-wood-and-pvc",
+      "description": "A dense lattice of wooden strips grows upward into planes and closed white boxes, recombining the elements of a city into a new vertical form.\n\nModel | Urban form study | PVC panels, wooden strips, transparent pieces | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "城市形態",
+          "description": "密集的木條格架向上生長為平面與封閉的白色盒體，把城市的元素重組為新的垂直形態。\n\n模型｜城市形態研究｜PVC板、木條、透明片｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/01-stacked-boxes-on-timber-lattice.webp",
+        "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/02-coloured-panels-close.webp",
+        "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/03-transparent-planes-and-branches.webp",
+        "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/04-white-boxes-from-above.webp",
+        "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/05-dense-timber-base.webp",
+        "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/06-green-plane-with-figures.webp",
+        "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/07-lattice-side-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/01-stacked-boxes-on-timber-lattice.webp"
+          ],
+          "captions": [
+            "White boxes on a timber lattice."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "木格架上的白色盒體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asked how the original form of a city could be broken down and recombined into a new architectural form. It treated the relationship between architecture and people as something to be rethought through simple geometry.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探問，城市原有的形態如何被拆解，並重組為新的建築形態。它把建築與人之間的關係，視為可透過簡單幾何重新思考的對象。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Abstract colour compositions and a fractal approach to architecture were studied, in which built form echoes the forms found in natural matter. From these, a method of points, lines and planes was chosen to divide existing forms and recompose them.",
+          "images": [
+            "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/07-lattice-side-detail.webp"
+          ],
+          "captions": [
+            "Detail of the lattice."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究抽象的色彩構成，以及一種讓建築形式呼應自然物質中形態的碎形建築取向。由此，學生選定以點、線、面的方法來分割既有形態並重新組合。",
+              "captions": [
+                "格架細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "At the bottom, wooden strips were placed freely to make a dense composition of lines, and at connection points where strips could grow higher, PVC boards were added to combine line and plane. At the top, closed blocks of PVC were assembled in a mosaic-like pattern, while coloured transparent pieces and plants added detail.",
+          "images": [
+            "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/05-dense-timber-base.webp",
+            "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/02-coloured-panels-close.webp",
+            "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/03-transparent-planes-and-branches.webp"
+          ],
+          "captions": [
+            "The dense timber base.",
+            "Coloured panels up close.",
+            "Transparent planes and branches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在底部，木條被自由擺放，形成密集的線構成；在木條可以向上生長的連接點，學生加入PVC板，讓線與面結合。在頂部，封閉的PVC盒體以類似馬賽克的方式組合，有色透明片與植物則增添細節。",
+              "captions": [
+                "密集的木條基座。",
+                "近看彩色板片。",
+                "透明平面與枝條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model rises from a thicket of timber into a cluster of white boxes, moving between open and enclosed space. Small red figures occupy platforms at every level, showing the structure as a vertical city.",
+          "images": [
+            "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/04-white-boxes-from-above.webp",
+            "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc/06-green-plane-with-figures.webp"
+          ],
+          "captions": [
+            "White boxes from above.",
+            "A green plane with figures."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型從一片木條叢林升起，直到一群白色盒體，在開放與封閉的空間之間轉換。小小的紅色人形佔據每一層的平台，讓這個結構呈現為一座垂直的城市。",
+              "captions": [
+                "從上方看白色盒體。",
+                "綠色平面與人形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "A City Rewoven - Lines Growing into Rooms",
+          "body": "A city can be read not as a collection of buildings but as a grammar of points, lines and planes, waiting to be rearranged. This project adopted that reading and set out to compose a new urban form from first elements. Research into abstract colour compositions and fractal ideas of architecture suggested that built form might echo the branching orders of nature. The guidance encouraged a clear sequence of making, so that each element would have its own role. Thin wooden strips were laid freely at the base, forming a dense thicket of lines through which space could filter. Wherever strips reached higher, white boards were inserted, joining line to plane and creating a play between virtual and solid volume. Toward the top the boards closed into compact boxes gathered like tesserae, while tinted transparent sheets and dried plants softened the composition. Small red figures inhabit platforms at every height. The model demonstrates how a disciplined vocabulary can grow into a rich, habitable vertical landscape.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "重新編織的城市-由線長成房間",
+              "body": "城市可以不被讀作建築的集合，而被讀作一套等待重新排列的點、線、面文法。這個專題採用這樣的讀法，試圖從最基本的元素組構新的城市形態。對抽象色彩構成與碎形建築思想的研究提示，建成形式或許能呼應自然中分枝的秩序。指導鼓勵清晰的製作順序，讓每種元素各司其職。細木條在底部自由鋪排，形成密集的線之叢林，讓空間從中滲透。凡木條向上延伸處便插入白板，使線與面相接，造出虛實之間的對話。往上，板材閉合為如鑲嵌碎片般聚集的盒體，有色透明片與乾燥植物柔化了構圖。紅色小人形棲居於每個高度。這個模型說明，嚴謹的語彙能長成豐富而可居的垂直地景。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Formal and Informal Space",
+      "slug": "formal-and-informal-space-pvc-centre-and-free-paths",
+      "description": "Research on formality in culture is turned into two white models, one gathered around a central pyramid and one scattered freely across open ground.\n\nModels | Spatial formality study | PVC panels | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "正式與非正式空間",
+          "description": "關於文化中正式性的研究被轉化為兩個白色模型，一個圍繞中央的金字塔聚集，另一個則在開放地面上自由散落。\n\n模型｜空間正式性研究｜PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/01-formal-and-informal-models.webp",
+        "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/02-formal-precedent-plan.webp",
+        "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/03-informal-precedent-plan.webp",
+        "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/04-informal-model-from-above.webp",
+        "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/05-pyramid-centre-close.webp",
+        "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/06-pyramid-and-volumes-detail.webp",
+        "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/07-low-model-elevation.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/01-formal-and-informal-models.webp"
+          ],
+          "captions": [
+            "The formal model with its central pyramid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "帶有中央金字塔的正式模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Earlier research comparing formality in business negotiations led the student to notice that space also carries degrees of formality. The project asked which spatial traits make architecture feel formal or informal, a topic rarely discussed.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "先前比較商業談判中正式性的研究，讓學生注意到空間同樣具有不同程度的正式性。這個專題探問，哪些空間特質讓建築顯得正式或非正式，而這是一個鮮少被討論的議題。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Information about formal and informal buildings was gathered and sorted by factors known to shape formality in culture, such as power distance and attitudes to uncertainty. Plans of a symmetrical formal building and an irregular complex were compared as the basis for a collage.",
+          "images": [
+            "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/02-formal-precedent-plan.webp",
+            "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/03-informal-precedent-plan.webp"
+          ],
+          "captions": [
+            "Plan of a symmetrical formal building.",
+            "Plan of an irregular complex."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生蒐集正式與非正式建築的資料，並依權力距離與對不確定性的態度等已知影響文化正式性的因素加以分類。一座對稱的正式建築與一個不規則建築群的平面被拿來比較，作為拼貼的基礎。",
+              "captions": [
+                "對稱正式建築的平面。",
+                "不規則建築群的平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The data showed that formal space has a centre of gravity stressing hierarchy and sets out a fixed journey for visitors, while informal space leaves paths open. Two PVC models were made, one gathering volumes around a remarkable central object and one scattering blocks freely across the ground.",
+          "images": [
+            "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/04-informal-model-from-above.webp",
+            "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/07-low-model-elevation.webp"
+          ],
+          "captions": [
+            "The informal model from above.",
+            "A low view of the blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "資料顯示，正式空間有一個強調階序的重心，並為來訪者設定固定的路徑，非正式空間則讓路徑保持開放。學生製作了兩個PVC模型，一個讓量體圍繞醒目的中央物件聚集，另一個則讓塊體在地面上自由散落。",
+              "captions": [
+                "從上方看非正式模型。",
+                "塊體的低角度視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the formal model a pyramid rises at the centre, with the surrounding volumes turned toward it. Set beside the loosely placed boxes of the informal model, the pair makes the contrast between guided and free movement visible.",
+          "images": [
+            "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/05-pyramid-centre-close.webp",
+            "assets/board/formal-and-informal-space-pvc-centre-and-free-paths/06-pyramid-and-volumes-detail.webp"
+          ],
+          "captions": [
+            "The central pyramid.",
+            "The pyramid among volumes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在正式模型中，一座金字塔在中央升起，周圍的量體都朝向它。與非正式模型中鬆散擺放的盒體並置，這對模型讓受引導的移動與自由移動之間的對比變得可見。",
+              "captions": [
+                "中央的金字塔。",
+                "量體之間的金字塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Measuring Formality - A Pyramid and Its Scattered Twin",
+          "body": "Formality is usually discussed as a matter of manners and speech, yet buildings also ask people to behave in certain ways, to slow down, to follow a route, to recognise a centre of authority. This project began from that overlooked parallel. The student carried earlier research on formality in negotiation into architecture, collecting examples and sorting them by cultural factors such as distance from power and tolerance of uncertainty. The guidance urged that these findings become spatial rules rather than remain as notes. Formal space emerged as one that gathers around a dominant centre and prescribes a sequence for the visitor, while informal space withholds such direction and lets paths form freely. Two white models translate the rules directly. In one a pyramid presides over volumes that turn toward it, and in the other boxes drift across an open ground without hierarchy. Seen together, the pair becomes an instrument for reading space. The work shows how social research can be converted into architectural form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "衡量正式-金字塔與散落的孿生",
+              "body": "正式性通常被當作禮儀與言談的問題，然而建築同樣要求人以特定方式行事：放慢腳步、依循路線、辨認權威的中心。這個專題正是從這個被忽略的相似之處出發。學生把先前關於談判正式性的研究帶入建築，蒐集案例，並依權力距離與對不確定性的容忍等文化因素分類。指導強調讓這些發現成為空間規則，而不只停留於筆記。正式空間於是被界定為圍繞主導中心聚集、並為來訪者規定順序的空間，非正式空間則不給指引，任路徑自由生成。兩個白色模型直接轉譯這些規則：一個由金字塔統領朝向它的量體，另一個讓盒體在開放地面上無階序地散落。兩者並置，便成為閱讀空間的工具。這件作品說明，社會研究能被轉化為建築形式。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
