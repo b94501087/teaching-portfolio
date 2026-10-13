@@ -80596,6 +80596,434 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Tower of Five Layers",
+      "slug": "tower-of-five-layers-stone-wood-acrylic-bubbles",
+      "description": "A tower rises from stone and clay through wood, acrylic and folded paper to a crown of clear bubbles, each layer standing for a different way a city is remembered.\n\nModel | Memory and city study | Stone, clay, wood, acrylic, paper, iron wire, plastic balls | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "五層之塔",
+          "description": "一座塔從石頭與黏土升起，經過木材、壓克力與摺紙，直到一頂透明泡泡之冠，每一層都代表城市被記憶的一種方式。\n\n模型｜記憶與城市研究｜石頭、黏土、木材、壓克力、紙、鐵絲、塑膠球｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/01-tower-of-five-layers.webp",
+        "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/02-full-model-white.webp",
+        "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/03-layered-concept-sketches.webp",
+        "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/04-bubble-crown-detail.webp",
+        "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/05-folded-paper-layer.webp",
+        "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/06-acrylic-and-wood-parallels.webp",
+        "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/07-wooden-stair-frame.webp",
+        "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/08-stone-and-clay-base.webp",
+        "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/09-crown-views-strip.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/01-tower-of-five-layers.webp"
+          ],
+          "captions": [
+            "The tower of five layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "五層之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began from a reading about imagined cities, which led the student to think of cities as memories of the past, present and future. The question was how one vertical object could hold these different kinds of remembering at once.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題始於一段關於想像城市的閱讀，引導學生把城市視為對過去、現在與未來的記憶。問題在於，一個垂直的物件如何能同時容納這些不同的記憶方式。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student noticed that a first image of a city often comes from souvenirs and pictures, which collapse once the real place is visited. Ideas of renewal and discarded waste were added, and sketches sorted the tower into stone, wood, acrylic, paper and bubbles.",
+          "images": [
+            "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/03-layered-concept-sketches.webp"
+          ],
+          "captions": [
+            "Concept sketches of the layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生注意到，對一座城市的第一印象往往來自紀念品與圖片，而這些印象在真正造訪時便會瓦解。學生再加入更新與廢棄物的概念，並以草圖把塔分為石頭、木材、壓克力、紙與泡泡。",
+              "captions": [
+                "各層的概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A base of stone and clay supports a wooden frame with spiral stairs and small rooms, which turns into translucent acrylic of the same structure above. Higher up the acrylic sticks grow irregular, folded paper points downward like a skin being shed, and bubbles strung on wire gather at the top.",
+          "images": [
+            "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/08-stone-and-clay-base.webp",
+            "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/07-wooden-stair-frame.webp",
+            "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/06-acrylic-and-wood-parallels.webp",
+            "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/05-folded-paper-layer.webp"
+          ],
+          "captions": [
+            "The stone and clay base.",
+            "The wooden stair frame.",
+            "Acrylic above wood.",
+            "The folded paper layer."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "石頭與黏土的基座承托一座帶有螺旋梯與小房間的木構架，往上則轉為結構相同的半透明壓克力。再往上，壓克力桿件變得不規則，摺紙朝下指著如同正在脫落的外皮，而以鐵絲串起的泡泡聚集在頂端。",
+              "captions": [
+                "石頭與黏土的基座。",
+                "木製樓梯框架。",
+                "木構上方的壓克力。",
+                "摺紙層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished tower reads as a passage from solid ground to drifting thought, with tiny red figures climbing through every layer. The bubbles at the crown stand for feelings produced by cities yet unable to settle.",
+          "images": [
+            "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/02-full-model-white.webp",
+            "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/09-crown-views-strip.webp",
+            "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/04-bubble-crown-detail.webp"
+          ],
+          "captions": [
+            "The full model.",
+            "Views of the upper layers.",
+            "The bubble crown."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的塔可被解讀為一段從堅實地面到飄浮思緒的通道，細小的紅色人偶攀爬穿越每一層。頂端的泡泡象徵由城市所生、卻無法安定下來的感受。",
+              "captions": [
+                "完整模型。",
+                "上層的多個視角。",
+                "泡泡之冠。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Layers of Remembering - A Tower from Stone to Air",
+          "body": "Every city is carried in the mind as several cities at once, the one imagined before arrival, the one met in the street and the one discarded as it renews itself. This project gave each of these a material and stacked them into a single tower. The student started from reading and from the gap between pictures of distant places and the experience of visiting them, then asked how memory changes as it rises away from the ground. Guidance focused on letting structure, not symbols, carry the idea. Stone and clay form a heavy origin, wood builds a habitable frame of stairs and rooms, and acrylic repeats that frame in translucent form, as present and past held side by side. Above, the order loosens, folded paper peels downward like an abandoned skin, and clear spheres float on threads of wire. The tower therefore becomes a vertical narrative in which density gives way to lightness. It shows how a sequence of materials can turn an abstract reading into an architecture of memory.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "記憶的層次-從石頭到空氣之塔",
+              "body": "每一座城市在心中都同時是好幾座城市：抵達前想像的那座、在街上遇見的那座，以及在自我更新中被拋棄的那座。這個專題為每一座都賦予一種材料，並將它們疊成一座塔。學生從閱讀出發，也從遠方的圖片與親身造訪之間的落差出發，進而追問記憶在遠離地面上升時如何改變。指導重點在於讓結構而非符號承載概念。石頭與黏土構成沉重的起點，木材搭出可居的樓梯與房間框架，壓克力則以半透明的形式重複這個框架，讓現在與過去並置。再往上，秩序逐漸鬆動，摺紙如被遺棄的外皮向下剝落，透明球體漂浮在鐵絲的細線上。於是這座塔成為一段垂直的敘事，密實逐漸讓位給輕盈。它說明一連串材料如何能把抽象的閱讀轉化為記憶的建築。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Sound Cone",
+      "slug": "sound-cone-mapping-night-sounds-in-wood-and-wire",
+      "description": "Sounds heard on the way home are translated into cones of wood strips, iron wire, cotton and card, each apex marking where a sound begins.\n\nInstallation and model | Sound study | Wood, iron wire, cotton, white cardboard, litmus paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "聲音之錐",
+          "description": "回家路上聽見的聲音，被轉譯為由木條、鐵絲、棉花與卡紙構成的錐體，每個頂點都標示一個聲音的起點。\n\n裝置與模型｜聲音研究｜木材、鐵絲、棉花、白卡紙、石蕊試紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/01-sound-cone-final.webp",
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/02-sound-path-scene.webp",
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/03-sound-notation-sketch.webp",
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/04-four-material-cones.webp",
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/05-material-textures.webp",
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/06-cone-interiors.webp",
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/07-scene-views.webp",
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/08-cone-stack-front.webp",
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/09-cone-stack-lit.webp",
+        "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/10-wood-frame-tunnel.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/01-sound-cone-final.webp"
+          ],
+          "captions": [
+            "The final sound cone model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "聲音之錐的最終模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Lying awake in the dark, the student liked to listen to night sounds and locate them only by hearing. The project asked whether sounds could be turned into visible forms that also record where they come from.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生喜歡在黑暗中醒著聆聽夜裡的聲音，只憑聽覺為它們定位。這個專題探問，聲音能否被轉化為可見的形體，並同時記錄其來源的位置。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A recording of the walk home was replayed and drawn as lines of marks, then converted into a long scene of white models. Single sounds were identified first, and their combination was used to infer the surrounding environment.",
+          "images": [
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/03-sound-notation-sketch.webp",
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/02-sound-path-scene.webp",
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/07-scene-views.webp"
+          ],
+          "captions": [
+            "Drawn notation of the recording.",
+            "The sound path as a scene.",
+            "Views of the scene."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把回家路上的錄音重播，畫成一行行的記號，再轉化為一長列白色模型的場景。學生先辨認出單一的聲音，再以它們的組合推斷周遭的環境。",
+              "captions": [
+                "錄音的繪製記譜。",
+                "化為場景的聲音路徑。",
+                "場景的多個視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each sound was matched to a material, with cotton for voices, iron wire for scanners, wood strips for footsteps and rotating card for escalators. Because sound spreads from a point, every material was shaped into a cone whose apex is the source.",
+          "images": [
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/05-material-textures.webp",
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/04-four-material-cones.webp",
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/06-cone-interiors.webp"
+          ],
+          "captions": [
+            "Material textures.",
+            "Four material cones.",
+            "Inside the cones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每種聲音都對應一種材料：棉花代表人聲，鐵絲代表掃描器，木條代表腳步聲，旋轉的卡紙代表電扶梯。由於聲音從一點擴散，每種材料都被塑造成以頂點為聲源的錐體。",
+              "captions": [
+                "材料質感。",
+                "四種材料的錐體。",
+                "錐體內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The cones are joined into one cluster that translates the journey home into a single object. Looking inside each cone reveals layered wood, wire and cotton that frame light like a sound fading away.",
+          "images": [
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/08-cone-stack-front.webp",
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/09-cone-stack-lit.webp",
+            "assets/board/sound-cone-mapping-night-sounds-in-wood-and-wire/10-wood-frame-tunnel.webp"
+          ],
+          "captions": [
+            "The cone cluster.",
+            "The cluster in light.",
+            "A wooden cone interior."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這些錐體結合為一個群組，把回家的旅程轉譯為單一物件。望進每個錐體，可見層疊的木材、鐵絲與棉花，如漸弱的聲音般框住光線。",
+              "captions": [
+                "錐體群組。",
+                "光線中的群組。",
+                "木製錐體內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Listening Made Solid - Cones of the Way Home",
+          "body": "Sound is the most fleeting of materials, present for an instant and gone, yet it shapes our sense of place as strongly as walls do. This project tried to make that fleeting presence solid. The student began by listening in the dark and recording an ordinary walk home, then learned to separate a blur of noise into single voices, footsteps and machines. The guidance stressed a rule-based translation, so that each sound received a material whose texture matched its character. Soft cotton became speech, taut wire became electronic hum, stacked strips of wood became the rhythm of walking and turning card became moving stairs. Because a sound radiates outward from where it is made, the cone was chosen as the common form, its apex fixed at the source. Joined together, the cones form a dense cluster that can be read like a sentence of sounds. Peering inside, layered edges catch light and fade toward the tip. The project demonstrates how careful listening can become a method for describing space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "把聆聽化為實體-回家之路的錐體",
+              "body": "聲音是最短暫的材料，存在一瞬便消失，卻和牆一樣強烈地塑造我們對場所的感知。這個專題試圖讓這份短暫的存在變得堅實。學生從在黑暗中聆聽開始，錄下一段平凡的回家路程，並學會把模糊的噪音分辨為單一的人聲、腳步與機器聲。指導強調依循規則的轉譯，讓每種聲音都得到一種質感與其性格相符的材料。柔軟的棉花成為話語，繃緊的鐵絲成為電子的嗡鳴，層疊的木條成為行走的節奏，轉動的卡紙成為移動的階梯。由於聲音從發出之處向外擴散，錐體被選為共同的形式，頂點固定於聲源。結合之後，錐體形成一個密集的群組，可像一句由聲音組成的句子般閱讀。向內窺看，層疊的邊緣捕捉光線，並朝尖端漸漸隱去。這個專題說明，細心的聆聽能成為描述空間的方法。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Frame",
+      "slug": "the-frame-colour-surfaces-in-a-white-resin-frame",
+      "description": "Translucent coloured surfaces set inside a white resin frame overlap and cast shadows, turning one structure into many small framed artworks.\n\nModel | Art and form study | White resin, litmus paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "框",
+          "description": "置於白色樹脂框架中的半透明彩色表面彼此重疊並投下陰影，讓一個結構成為許多被框起的小型藝術作品。\n\n模型｜藝術與形式研究｜白色樹脂、石蕊試紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/01-framed-colour-surfaces.webp",
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/02-colour-and-shadow-sketches.webp",
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/03-layered-frame-drawing.webp",
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/04-lit-frame-close.webp",
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/05-lighting-sequence.webp",
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/06-frame-angle-a.webp",
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/07-frame-angle-b.webp",
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/08-frame-side-view.webp",
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/09-frame-low-view-a.webp",
+        "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/10-frame-low-view-b.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/01-framed-colour-surfaces.webp"
+          ],
+          "captions": [
+            "The framed colour surfaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "被框起的彩色表面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "After studying many kinds of art, the student concluded that artworks are recombinations of elements drawn from a list of forms and a list of themes. The project set out to prove this by rearranging extracted elements into a new piece.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在研究多種藝術之後，學生得出結論：藝術作品都是從形式清單與主題清單中抽取元素再重新組合。這個專題便試圖透過重新排列這些抽取出的元素，創作出一件新作品來證明這一點。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Colour, geometry, lighting and theme were extracted from a range of artworks and tested in sketches and study models. Overlapping transparent surfaces of the three primary colours produced a wider range of tones, while linear elements threw shadows of different widths.",
+          "images": [
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/02-colour-and-shadow-sketches.webp",
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/03-layered-frame-drawing.webp"
+          ],
+          "captions": [
+            "Colour and shadow experiments.",
+            "A layered frame drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從多件藝術作品中抽取色彩、幾何、光線與主題，並以草圖和研究模型加以測試。三原色的透明表面重疊後產生更寬廣的色調，而線性元素則投下寬窄不一的陰影。",
+              "captions": [
+                "色彩與陰影實驗。",
+                "層疊的框架圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A white resin frame was designed to hold translucent coloured sheets at many angles. Light was then moved around the model to record how colours mixed and how the surfaces divided into blocks.",
+          "images": [
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/04-lit-frame-close.webp",
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/05-lighting-sequence.webp"
+          ],
+          "captions": [
+            "The frame under coloured light.",
+            "A lighting sequence."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生設計一個白色樹脂框架，以多種角度承托半透明的彩色片材。接著在模型周圍移動光源，記錄色彩如何混合、表面如何被分割成色塊。",
+              "captions": [
+                "彩光下的框架。",
+                "光線序列。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Each framed surface works as an independent artwork, divided into colour blocks by the surfaces overlapping it. The overall form shows different patterns from every angle.",
+          "images": [
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/06-frame-angle-a.webp",
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/07-frame-angle-b.webp",
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/08-frame-side-view.webp",
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/09-frame-low-view-a.webp",
+            "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/10-frame-low-view-b.webp"
+          ],
+          "captions": [
+            "The frame from the front.",
+            "The frame from the side.",
+            "A long view of the frame.",
+            "A low view.",
+            "Another low view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "每個被框起的表面都是一件獨立作品，並被與之重疊的表面分割成色塊。整體形式從每個角度看都呈現不同的圖樣。",
+              "captions": [
+                "從正面看框架。",
+                "從側面看框架。",
+                "框架的長向視角。",
+                "低角度視角。",
+                "另一個低角度視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Colour Held in Place - A Frame of Many Pictures",
+          "body": "A frame is usually the quietest part of a picture, yet it decides what is seen and what is left out. This project made the frame the subject itself. The student began from a bold idea, that works of art share a hidden grammar of forms and themes, and spent the research phase dismantling artworks into colour, geometry, light and mood. The guidance pushed those fragments toward a spatial test rather than a collage. Transparent sheets in primary colours were found to multiply into new tones where they overlap, and thin lines were found to cast shadows that vary with the light. A white resin frame then gathered these discoveries, holding coloured planes at shifting angles so that each opening becomes a small composition. As the viewer circles the model, blocks of colour slide over one another and the pictures continually rearrange. Light becomes the brush and the frame the canvas. The model demonstrates how analysis of existing art can generate an original spatial language.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "被安放的色彩-由許多畫面構成的框",
+              "body": "畫框通常是一幅畫中最安靜的部分，卻決定了什麼被看見、什麼被留在外面。這個專題讓框本身成為主題。學生從一個大膽的想法出發，認為藝術作品共享一套隱藏的形式與主題文法，並在研究階段把藝術作品拆解為色彩、幾何、光線與情緒。指導把這些碎片推向空間的試驗，而非拼貼。學生發現，三原色的透明片材在重疊處會繁衍出新的色調，細線則投下隨光線變化的陰影。一個白色樹脂框架隨後匯集這些發現，以不斷變換的角度承托彩色平面，讓每個開口都成為一幅小小的構圖。當觀者繞著模型行走，色塊相互滑移，畫面持續重組。光成為畫筆，框成為畫布。這個模型說明，對既有藝術的分析能孕育出原創的空間語言。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
