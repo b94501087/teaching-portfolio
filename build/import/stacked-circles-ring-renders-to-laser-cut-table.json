@@ -1,0 +1,67 @@
+{
+  "project": "Stacked Circles",
+  "dest": "assets/board/stacked-circles-ring-renders-to-laser-cut-table",
+  "note": "Portfolio fbb7 pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: summer school name, remaining drawing panels and captions.",
+  "files": [
+    {
+      "name": "01-ring-table.webp",
+      "sha256": "eb3579684ec49b347e36bbc46c4c48b1d09e01eefce5db8bef69ea9742cc54c9",
+      "bytes": 61490,
+      "from": "fbb7 page 9 — ring table"
+    },
+    {
+      "name": "02-ring-render.webp",
+      "sha256": "2752d8adb4f449b510f8766f8dbbb8b88e8d31e97646904ef31418eec958f0ee",
+      "bytes": 12988,
+      "from": "fbb7 page 8 — ring render"
+    },
+    {
+      "name": "03-rotation-drawing.webp",
+      "sha256": "0a0d312c1a8b6bd60f8052bc2dec0b369c525551490b31ed031bc7c154aa2406",
+      "bytes": 16686,
+      "from": "fbb7 page 8 — rotation drawing"
+    },
+    {
+      "name": "04-surface-lines.webp",
+      "sha256": "538a360fed5a85099b8487c3b1a1aaff377ed5ec16b63cd66c2ff88e6560e0ea",
+      "bytes": 35234,
+      "from": "fbb7 page 8 — surface lines"
+    },
+    {
+      "name": "05-aggregation.webp",
+      "sha256": "331bf2f88a30f5f06f6b365651fc593bd270c0661fab9929c6ba76e4de75fd2f",
+      "bytes": 19896,
+      "from": "fbb7 page 8 — aggregation"
+    },
+    {
+      "name": "06-zoom-in.webp",
+      "sha256": "1cc4435ad2de5215e5935d1d4854d130037e3d144e30516db1bf6f8daef46492",
+      "bytes": 10656,
+      "from": "fbb7 page 8 — zoom-in render"
+    },
+    {
+      "name": "07-section.webp",
+      "sha256": "c0670e5cfa295662e7417a3817a41993eac5080368d3f447c16c06c1dfa8484c",
+      "bytes": 5106,
+      "from": "fbb7 page 8 — section"
+    },
+    {
+      "name": "08-table-layers.webp",
+      "sha256": "f15daf2fc771d7137aa4be05847a125e49ccb2c81e3cfb4af6109a5ab6f25adc",
+      "bytes": 48660,
+      "from": "fbb7 page 9 — table layers"
+    },
+    {
+      "name": "09-table-close-up.webp",
+      "sha256": "8a6835e710f933602db36589332651d411c37b8f8ecc5ca59d20af76f8a59372",
+      "bytes": 27218,
+      "from": "fbb7 page 9 — table close-up"
+    },
+    {
+      "name": "10-table-figures.webp",
+      "sha256": "8efea8220a892c8f28bcf69b76e3a29d9083bd9576ed2e174970ae9a5f5f33e6",
+      "bytes": 49152,
+      "from": "fbb7 page 9 — table with figures"
+    }
+  ]
+}
