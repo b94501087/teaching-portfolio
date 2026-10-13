@@ -59976,6 +59976,594 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Bagua",
+      "slug": "bagua-octagon-stick-and-plaster-trigram-walls",
+      "description": "Eight plaster walls carved with the eight trigrams form an octagon crossed by a web of sticks.\n\nModel making | Traditional culture | PVC board, plaster, wooden sticks, wooden board and spray paint | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "八卦",
+          "description": "刻有八卦卦象的八面石膏牆圍成八角形，再由交錯的木條網貫穿。\n\n模型製作｜傳統文化｜PVC板、石膏、木條、木板與噴漆｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/01-octagon-from-above.webp",
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/02-trigram-diagram.webp",
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/03-trigram-meanings.webp",
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/04-cast-walls.webp",
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/05-wall-assembly.webp",
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/06-stick-web-top.webp",
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/07-inside-octagon.webp",
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/08-figures-on-walls.webp",
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/09-eye-level.webp",
+        "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/10-shadow-floor.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/01-octagon-from-above.webp"
+          ],
+          "captions": [
+            "The octagon seen from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從上方看八角形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was drawn to an old classic of Chinese culture that reads fortune through eight trigrams. The aim was to turn the flat bagua diagram into a space.",
+          "images": [
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/02-trigram-diagram.webp"
+          ],
+          "captions": [
+            "The eight trigrams in two diagrams."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生對一部以八個卦象推演吉凶的中國古典著作深感興趣。目標是把平面的八卦圖轉化為空間。",
+              "captions": [
+                "兩張八卦圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each trigram was linked to a meaning such as sky, soil, mountain, water or wind. These notes guided the pattern on every wall.",
+          "images": [
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/03-trigram-meanings.webp"
+          ],
+          "captions": [
+            "Notes on what each trigram means."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每個卦象都對應一種意義，例如天、地、山、水或風。這些筆記決定了每面牆的圖樣。",
+              "captions": [
+                "每個卦象意義的筆記。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The trigrams were cut into boards and filled with plaster, then eight walls were stood up as an octagon. Sticks were driven through the open parts of the walls.",
+          "images": [
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/04-cast-walls.webp",
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/05-wall-assembly.webp",
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/06-stick-web-top.webp"
+          ],
+          "captions": [
+            "Plaster walls with trigram openings.",
+            "Walls on the workbench.",
+            "The stick web from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "卦象被切割於板材上並灌入石膏，八面牆再立成八角形。木條穿過牆面的開口處。",
+              "captions": [
+                "帶卦象開口的石膏牆。",
+                "工作台上的牆面。",
+                "從上方看木條網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model is a dense web of sticks inside eight patterned walls. Small figures and strong shadows show how the space would feel.",
+          "images": [
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/07-inside-octagon.webp",
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/08-figures-on-walls.webp",
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/09-eye-level.webp",
+            "assets/board/bagua-octagon-stick-and-plaster-trigram-walls/10-shadow-floor.webp"
+          ],
+          "captions": [
+            "Inside the octagon.",
+            "Figures among the sticks and walls.",
+            "An eye-level view.",
+            "Shadows across the floor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型是在八面圖樣牆內的密集木條網。小人偶與強烈的陰影呈現空間的感受。",
+              "captions": [
+                "八角形內部。",
+                "木條與牆面間的人偶。",
+                "視平線視角。",
+                "地面上的陰影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a symbol.\n2. Learn its meaning.\n3. Turn it into walls.\n4. Weave the space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個符號。\n2. 理解它的意義。\n3. 把它化為牆。\n4. 編織空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Parallel Worlds in a Box",
+      "slug": "parallel-worlds-3d-pen-lines-in-mirror-boxes",
+      "description": "3D-pen lines, mirror and laser acrylic sheets turn three wooden boxes into glowing parallel worlds.\n\nModel making | Film and space | Wooden sticks, PLA, 3D printing pen and laser acrylic sheet | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "盒中的平行世界",
+          "description": "3D筆線條、鏡面與雷射壓克力板，讓三個木盒化為發光的平行世界。\n\n模型製作｜電影與空間｜木條、PLA、3D列印筆與雷射壓克力板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/01-large-box.webp",
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/02-film-stills.webp",
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/03-cube-sketches.webp",
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/04-arc-sketches.webp",
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/05-first-cube.webp",
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/06-web-cube.webp",
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/07-green-box.webp",
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/08-red-box.webp",
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/09-detail-tall.webp",
+        "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/10-detail-colour.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/01-large-box.webp"
+          ],
+          "captions": [
+            "The large box lit up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "點亮的大盒子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to show parallel universes as a real object. An animated superhero film about many worlds became the starting point.",
+          "images": [
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/02-film-stills.webp"
+          ],
+          "captions": [
+            "Stills from the animated film."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想把平行宇宙呈現為真實的物件。一部描寫多重世界的動畫英雄電影成為起點。",
+              "captions": [
+                "動畫電影的畫面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Wire and plastic thread were tested first, but they were too soft or too stiff. A 3D printing pen gave lines that were both free and strong.",
+          "images": [
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/03-cube-sketches.webp",
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/04-arc-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of the line cubes.",
+            "Sketches of curved line panels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "最先測試了鐵絲與塑膠線，但它們不是太軟就是太硬。3D列印筆畫出的線條既自由又堅韌。",
+              "captions": [
+                "線條方盒草圖。",
+                "曲線面板草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Curved lines filled the inside of wooden boxes. Laser acrylic sheets on four sides and a mirror below reflect the colours of the lines.",
+          "images": [
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/05-first-cube.webp",
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/06-web-cube.webp"
+          ],
+          "captions": [
+            "The first test cube.",
+            "A simple web inside a cube."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "曲線填滿木盒內部。四面的雷射壓克力板與底部的鏡子反射出線條的色彩。",
+              "captions": [
+                "第一個測試方盒。",
+                "方盒內的簡單蛛網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Three boxes tell the story: one bright, one red and black, and one large box for the hero's whole journey. Small cut-out pictures of the characters sit inside.",
+          "images": [
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/07-green-box.webp",
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/08-red-box.webp",
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/09-detail-tall.webp",
+            "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/10-detail-colour.webp"
+          ],
+          "captions": [
+            "The bright green and yellow box.",
+            "The red and black box.",
+            "Lines and cut-outs inside.",
+            "Coloured lines up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "三個盒子講述故事：一個明亮、一個紅黑，以及一個代表主角完整旅程的大盒子。盒內放有角色的小剪影圖片。",
+              "captions": [
+                "明亮的綠黃盒子。",
+                "紅黑盒子。",
+                "內部的線條與剪影。",
+                "彩色線條近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch closely.\n2. Find the images.\n3. Test the materials.\n4. Build the worlds.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 仔細觀看。\n2. 找出畫面。\n3. 測試材料。\n4. 建構世界。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Vertical Ascent",
+      "slug": "vertical-ascent-dna-spiral-tower-model",
+      "description": "A tall tower wrapped in DNA spirals and ramps tells a film story of reaching for space against the odds.\n\nModel making | Film and space | Plastic, AB glue, wooden sticks, wire, spray paint, PLA and PVC board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "垂直攀升",
+          "description": "一座纏繞DNA螺旋與坡道的高塔，講述一個逆境中追尋太空夢的電影故事。\n\n模型製作｜電影與空間｜塑膠、AB膠、木條、鐵絲、噴漆、PLA與PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/vertical-ascent-dna-spiral-tower-model/01-final-tower.webp",
+        "assets/board/vertical-ascent-dna-spiral-tower-model/02-tower-drawing.webp",
+        "assets/board/vertical-ascent-dna-spiral-tower-model/03-level-sketch.webp",
+        "assets/board/vertical-ascent-dna-spiral-tower-model/04-tall-sketch.webp",
+        "assets/board/vertical-ascent-dna-spiral-tower-model/05-goal-level.webp",
+        "assets/board/vertical-ascent-dna-spiral-tower-model/06-dna-level.webp",
+        "assets/board/vertical-ascent-dna-spiral-tower-model/07-work-level.webp",
+        "assets/board/vertical-ascent-dna-spiral-tower-model/08-genetic-level.webp",
+        "assets/board/vertical-ascent-dna-spiral-tower-model/09-climbing.webp",
+        "assets/board/vertical-ascent-dna-spiral-tower-model/10-spiral-stairs.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/vertical-ascent-dna-spiral-tower-model/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The model is based on a science-fiction film where genes decide a person's job. Its hero, born with weaker genes, still works his way to space, and the student wanted to build that persistence.",
+          "images": [
+            "assets/board/vertical-ascent-dna-spiral-tower-model/02-tower-drawing.webp"
+          ],
+          "captions": [
+            "A drawing of the tower idea."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "模型取材自一部由基因決定職業的科幻電影。主角天生基因較弱，仍努力走向太空，學生想把這份堅持建構出來。",
+              "captions": [
+                "高塔構想手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The sketches set out four levels: a race, a workplace, a climb through challenges and the final launch. Each level marks a key moment of the story.",
+          "images": [
+            "assets/board/vertical-ascent-dna-spiral-tower-model/03-level-sketch.webp",
+            "assets/board/vertical-ascent-dna-spiral-tower-model/04-tall-sketch.webp"
+          ],
+          "captions": [
+            "A sketch of the four levels.",
+            "A tall sketch of the ascent."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "草圖規劃四個層次：一場競賽、一個工作場所、穿越挑戰的攀爬，以及最終的升空。每一層代表故事的關鍵時刻。",
+              "captions": [
+                "四個層次的草圖。",
+                "攀升的長形草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A green base was cast with tinted AB glue, and a 3D-printed pillar and platform held wooden sticks. Silver-painted plastic, wire and red forms added the upward movement.",
+          "images": [
+            "assets/board/vertical-ascent-dna-spiral-tower-model/05-goal-level.webp",
+            "assets/board/vertical-ascent-dna-spiral-tower-model/06-dna-level.webp",
+            "assets/board/vertical-ascent-dna-spiral-tower-model/07-work-level.webp"
+          ],
+          "captions": [
+            "The top level for higher goals.",
+            "A DNA spiral beside the frame.",
+            "The working space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以調色AB膠澆鑄綠色基座，3D列印的柱子與平台固定木條。銀色噴漆的塑膠、鐵絲與紅色形體加強向上的動勢。",
+              "captions": [
+                "代表更高目標的頂層。",
+                "框架旁的DNA螺旋。",
+                "工作空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The tower rises through DNA spirals, ramps and stairs to a sharp tip. It reads as a vertical path toward a dream.",
+          "images": [
+            "assets/board/vertical-ascent-dna-spiral-tower-model/08-genetic-level.webp",
+            "assets/board/vertical-ascent-dna-spiral-tower-model/09-climbing.webp",
+            "assets/board/vertical-ascent-dna-spiral-tower-model/10-spiral-stairs.webp"
+          ],
+          "captions": [
+            "Red shapes for genetic material.",
+            "Ramps for climbing.",
+            "The spiral stairs at the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "高塔穿過DNA螺旋、坡道與樓梯，直升至尖頂。它如同一條通往夢想的垂直路徑。",
+              "captions": [
+                "代表遺傳物質的紅色形體。",
+                "攀爬用的坡道。",
+                "底部的螺旋梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a story.\n2. Find key moments.\n3. Stack them as levels.\n4. Build the climb.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個故事。\n2. 找出關鍵時刻。\n3. 把它們疊成層次。\n4. 建構攀升。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Transcoding Traditional Chinese Architecture",
+      "slug": "transcoding-traditional-architecture-mortise-tenon-pavilion",
+      "description": "Mortise and tenon logic is rebuilt in wooden sticks and bamboo weaving as a new courtyard pavilion.\n\nModel making | Traditional architecture | Wooden sticks and bamboo weaving | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "轉譯中國傳統建築",
+          "description": "以木條與竹編重構榫卯邏輯，形成一座新的庭院亭子。\n\n模型製作｜傳統建築｜木條與竹編｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/01-roof-model.webp",
+        "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/02-joint-pieces.webp",
+        "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/03-first-frame.webp",
+        "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/04-bracket-layers.webp",
+        "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/05-frame-angle.webp",
+        "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/06-eaves-front.webp",
+        "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/07-roof-corner.webp",
+        "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/08-under-roof.webp",
+        "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/09-courtyard-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/01-roof-model.webp"
+          ],
+          "captions": [
+            "The finished pavilion and roof."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的亭子與屋頂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to bring traditional Chinese timber building into a modern design. The goal was a courtyard that honours the past and fits today's life.",
+          "images": [
+            "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/02-joint-pieces.webp"
+          ],
+          "captions": [
+            "Joint pieces cut from sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想把中國傳統木構建築帶入現代設計。目標是一座既尊重傳統又適合當代生活的庭院。",
+              "captions": [
+                "以木條切出的接頭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A historic pavilion was studied through a digital model and books. Its double eaves, carved beams and mortise and tenon joints were the key lessons.",
+          "images": [
+            "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/03-first-frame.webp"
+          ],
+          "captions": [
+            "The first frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生透過數位模型與書籍研究一座歷史亭閣。重簷、雕樑與榫卯接合是主要的學習重點。",
+              "captions": [
+                "第一個框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Simple joints were made from combined wooden sticks, then built up into a full frame. The logic of the joints shaped a new pavilion.",
+          "images": [
+            "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/04-bracket-layers.webp",
+            "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/05-frame-angle.webp"
+          ],
+          "captions": [
+            "Layers of brackets.",
+            "The frame from an angle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以組合木條做出簡單接頭，再逐步建成完整框架。接頭的邏輯塑造出一座新的亭子。",
+              "captions": [
+                "層層斗栱。",
+                "斜角的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Bamboo weaving finished the sweeping roof. Light falls through the layered sticks onto the courtyard below.",
+          "images": [
+            "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/06-eaves-front.webp",
+            "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/07-roof-corner.webp",
+            "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/08-under-roof.webp",
+            "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion/09-courtyard-view.webp"
+          ],
+          "captions": [
+            "The eaves from the front.",
+            "A roof corner.",
+            "Under the roof.",
+            "Figures in the courtyard."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "竹編完成了舒展的屋頂。光線穿過層疊的木條灑落在下方庭院。",
+              "captions": [
+                "正面的屋簷。",
+                "屋頂轉角。",
+                "屋頂之下。",
+                "庭院中的人偶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a building.\n2. Learn its joints.\n3. Rebuild the logic.\n4. Make it new.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一座建築。\n2. 理解它的接頭。\n3. 重建邏輯。\n4. 使它煥然一新。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
