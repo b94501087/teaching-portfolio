@@ -1,0 +1,61 @@
+{
+  "project": "Sonic Refraction",
+  "dest": "assets/board/sonic-refraction-thread-acoustic-hall-model",
+  "note": "Portfolio cd80 pages 7-8 cropped to nine images, WebP q88 (PIL). Not used: title and text, the precedent hall's name, drawings and photos of the precedent hall, a process photo with the student.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "630ce49c53129950c9ad56fc49300dcb3503c8f9cf6a629b79f5df86a410764a",
+      "bytes": 45548,
+      "from": "cd80 page 8 — final model"
+    },
+    {
+      "name": "02-sound-sketch.webp",
+      "sha256": "b2d7713174ad627c3f97ec8b9ffdb9c0cc017a4cb433c2429a7f7f021b07233a",
+      "bytes": 8486,
+      "from": "cd80 page 7 — sound sketch"
+    },
+    {
+      "name": "03-model-plan.webp",
+      "sha256": "e8de93766fea077624c5ad829c862a3b4c87e6a05fc02c068ad24fe208dfc941",
+      "bytes": 18278,
+      "from": "cd80 page 7 — model plan"
+    },
+    {
+      "name": "04-thread-test.webp",
+      "sha256": "0ab057a1ffa505fa22b6b5e25ae1c87849503cdf7bba3f7342a9fa7d3d1f4276",
+      "bytes": 16828,
+      "from": "cd80 page 7 — thread test"
+    },
+    {
+      "name": "05-printed-walls.webp",
+      "sha256": "ce458e45338b7925566f467b6d36409db21d23909152d6eab114620208f6b8e9",
+      "bytes": 14774,
+      "from": "cd80 page 7 — printed walls"
+    },
+    {
+      "name": "06-light-and-thread.webp",
+      "sha256": "ac1cbde6747cf75431bcdece7b7cef33172142a9f6a2908890c54be61c2525b7",
+      "bytes": 15196,
+      "from": "cd80 page 8 — light and thread"
+    },
+    {
+      "name": "07-floor-view.webp",
+      "sha256": "d73a26d8c6f79c7391bbee780dec70d4a6c6a5bc2b37dd7d4c40846e43d2a7e5",
+      "bytes": 22572,
+      "from": "cd80 page 8 — floor view"
+    },
+    {
+      "name": "08-long-view.webp",
+      "sha256": "0c555f3470f5e0bcdca9867af8e2b772083c424ef12b1be5f25da131b99bf548",
+      "bytes": 16256,
+      "from": "cd80 page 8 — long view"
+    },
+    {
+      "name": "09-figure-view.webp",
+      "sha256": "7b3b082560ee76712920b1dd3b7fb4af7151627f0b87096d2d9d34ebed48503e",
+      "bytes": 13424,
+      "from": "cd80 page 8 — figure view"
+    }
+  ]
+}
