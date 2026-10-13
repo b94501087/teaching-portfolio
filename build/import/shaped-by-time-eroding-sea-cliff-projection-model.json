@@ -1,0 +1,67 @@
+{
+  "project": "Shaped by Time",
+  "dest": "assets/board/shaped-by-time-eroding-sea-cliff-projection-model",
+  "note": "Portfolio 4da0 pages 10-11 cropped to ten images, WebP q88 (PIL). Not used: title and text, a timeline chart with place names, hand process photos.",
+  "files": [
+    {
+      "name": "01-final-cliff.webp",
+      "sha256": "e259b85041bc75c183733ff0fe42adb376cba4af3a4e6f62d19a3dc1477e3c0f",
+      "bytes": 53930,
+      "from": "4da0 page 11 — final cliff"
+    },
+    {
+      "name": "02-rock-reference.webp",
+      "sha256": "4b93c8dd89f2ad628e4cfefab0c2fa4e142fcf9163d4e526d27104d1078b6739",
+      "bytes": 19130,
+      "from": "4da0 page 10 — rock reference"
+    },
+    {
+      "name": "03-erosion-sketch.webp",
+      "sha256": "59a5eda601838776a234e6e157d220413b40b84e72d99d94210f9c757ec42e48",
+      "bytes": 11752,
+      "from": "4da0 page 10 — erosion sketch"
+    },
+    {
+      "name": "04-cliff-silhouette.webp",
+      "sha256": "601cccc710f2b7c1246938c95a0cc83fc7c7132be15b3087730dcd0516ce77bf",
+      "bytes": 3312,
+      "from": "4da0 page 11 — cliff silhouette"
+    },
+    {
+      "name": "05-low-silhouette.webp",
+      "sha256": "8184720ab10a6961ff0f67fa5b5477d6293ce28fc66956a604f7c7d53b00c4cc",
+      "bytes": 4508,
+      "from": "4da0 page 11 — low silhouette"
+    },
+    {
+      "name": "06-projection.webp",
+      "sha256": "3d5bb5e9b81af5d91d77d3ffc8116e789029a9a405fe7e02ad323204ea20eb58",
+      "bytes": 52002,
+      "from": "4da0 page 11 — projection"
+    },
+    {
+      "name": "07-rock-stacks.webp",
+      "sha256": "521630ecbf4a31f9c18917ad23668d2dbe7ef848bdaeda09bd7a825ef059f027",
+      "bytes": 11542,
+      "from": "4da0 page 11 — rock stacks"
+    },
+    {
+      "name": "08-boulder.webp",
+      "sha256": "2e8ba1a4e62d911d43cc3408d7540a7469906c4ac3a38f87c53050e36a8dfdd7",
+      "bytes": 9334,
+      "from": "4da0 page 11 — boulder"
+    },
+    {
+      "name": "09-side-view.webp",
+      "sha256": "8a34c60cfff22b96c13f5375a7d52238f1e6a8c1b7c6b9cb4a30b5bcfea26049",
+      "bytes": 44990,
+      "from": "4da0 page 11 — side view"
+    },
+    {
+      "name": "10-shore-detail.webp",
+      "sha256": "4145f3bf944649f791827bd8d0180a15e78d54cd40618f6f5430a59861ad8ad7",
+      "bytes": 27314,
+      "from": "4da0 page 11 — shore detail"
+    }
+  ]
+}
