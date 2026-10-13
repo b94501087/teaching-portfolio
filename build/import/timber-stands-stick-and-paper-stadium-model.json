@@ -1,0 +1,49 @@
+{
+  "project": "Timber Stands",
+  "dest": "assets/board/timber-stands-stick-and-paper-stadium-model",
+  "note": "Portfolio a9c4 page 12 cropped to 7 images, WebP q88 (PIL). Not used: team and stadium names, stadium photos, caption with dimensions and date.",
+  "files": [
+    {
+      "name": "01-timber-and-veil-stands.webp",
+      "sha256": "b082e6524590e7448aa3e1fc3153ac49a9b542bbb66959e9a66dc51c736ac393",
+      "bytes": 124730,
+      "from": "a9c4 page 12 — the timber and paper stands"
+    },
+    {
+      "name": "02-stand-concept-sketch.webp",
+      "sha256": "4927369e5b437bed73dc25678ee7a781fec0a9b5d01b453ecdad2b15603c2171",
+      "bytes": 16210,
+      "from": "a9c4 page 12 — a concept sketch of the stands"
+    },
+    {
+      "name": "03-seating-tier-drawing.webp",
+      "sha256": "4e17b4f6198ce3b5bd2bd8f0ca5007babb18f4826aa47e2281b7d7608a1db146",
+      "bytes": 88856,
+      "from": "a9c4 page 12 — a drawing of seating tiers"
+    },
+    {
+      "name": "04-stands-view-one.webp",
+      "sha256": "5b65c13fa9cd258343a5ae5622b0b113fb9209f4eb0ec01984e6bfbf6ec95d39",
+      "bytes": 19554,
+      "from": "a9c4 page 12 — the stands, first view"
+    },
+    {
+      "name": "05-stands-view-two.webp",
+      "sha256": "ca486b6f14df8d4a050e96337bea4aa429fca6df949f849978697a59eb95b6a4",
+      "bytes": 18142,
+      "from": "a9c4 page 12 — the stands, second view"
+    },
+    {
+      "name": "06-stands-view-three.webp",
+      "sha256": "e7395088579d87002377b441018d9e738c316ef09883af4e4caf1432e1693d45",
+      "bytes": 19538,
+      "from": "a9c4 page 12 — the stands, third view"
+    },
+    {
+      "name": "07-stands-view-four.webp",
+      "sha256": "e7ca666926eaef9b6390c21536ce012dd0ccee9bff8b9708e197e9945faca589",
+      "bytes": 16206,
+      "from": "a9c4 page 12 — the stands, fourth view"
+    }
+  ]
+}
