@@ -65556,6 +65556,298 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Emergent Architecture",
+      "slug": "emergent-architecture-drawing-elements-hillside-habitat",
+      "description": "Elements pulled from drawings become foam objects, then a habitat stepping down a hillside between water and land.\n\nSummer architecture studio | Habitat on a hillside | Polystyrene foam, museum board, Rhino, Photoshop, Illustrator | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "浮現的建築",
+          "description": "從繪圖中萃取的元素化為泡棉物件，再發展成一座沿山坡層疊、介於水陸之間的棲居。\n\n暑期建築工作營｜山坡棲居｜聚苯乙烯泡棉、博物館紙板、Rhino、Photoshop、Illustrator｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/01-hillside-model.webp",
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/02-image-analysis.webp",
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/03-image-objects.webp",
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/04-excavation.webp",
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/05-emergent-axo.webp",
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/06-foam-pieces.webp",
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/07-elevations.webp",
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/08-grey-render.webp",
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/09-hillside-sketch.webp",
+        "assets/board/emergent-architecture-drawing-elements-hillside-habitat/10-model-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/01-hillside-model.webp"
+          ],
+          "captions": [
+            "The habitat on the hillside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "山坡上的棲居。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In this summer studio, nine possible elements were pulled out of existing drawings. The aim was to show these elements as built solid models.",
+          "images": [
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/02-image-analysis.webp"
+          ],
+          "captions": [
+            "Elements found in drawings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在這個暑期工作營中，學生從既有繪圖中萃取出九個可能的元素。目標是以實體模型呈現這些元素。",
+              "captions": [
+                "從繪圖中找出的元素。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each element was made into a small foam object and photographed. The objects were then cut and dug into to find new spaces.",
+          "images": [
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/03-image-objects.webp",
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/04-excavation.webp"
+          ],
+          "captions": [
+            "Elements made into objects.",
+            "Objects cut and excavated."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每個元素都被做成小型泡棉物件並拍攝記錄。接著學生切割並挖掘這些物件，以尋找新的空間。",
+              "captions": [
+                "化為物件的元素。",
+                "切割與挖掘的物件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The excavated pieces grew into an emergent building, tested in drawings and elevations. Renderings checked how the spaces might feel from inside.",
+          "images": [
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/05-emergent-axo.webp",
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/06-foam-pieces.webp",
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/07-elevations.webp",
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/08-grey-render.webp"
+          ],
+          "captions": [
+            "An emergent building.",
+            "Foam pieces.",
+            "Elevations from the elements.",
+            "A rendering of the spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "挖掘後的構件發展成一座浮現的建築，並以繪圖與立面加以測試。渲染圖檢驗了從內部體驗這些空間的感受。",
+              "captions": [
+                "浮現的建築。",
+                "泡棉構件。",
+                "由元素發展的立面。",
+                "空間渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A habitat at human scale was built on a hillside where water and land meet, so people can enjoy nature and watch wildlife. It tests how people might live, meet and move in such a place.",
+          "images": [
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/09-hillside-sketch.webp",
+            "assets/board/emergent-architecture-drawing-elements-hillside-habitat/10-model-views.webp"
+          ],
+          "captions": [
+            "A sketch of the hillside.",
+            "Views of the hillside model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "學生在水陸交會的山坡上建構了一座人的尺度的棲居，讓人們能親近自然、觀察水陸生物。它測試了人們如何在這樣的地方生活、交流與移動。",
+              "captions": [
+                "山坡草圖。",
+                "山坡模型各角度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pull elements from drawings.\n2. Make them solid.\n3. Cut into them.\n4. Place them on a site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從繪圖中萃取元素。\n2. 讓它們成為實體。\n3. 切割挖掘。\n4. 放到基地上。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Black Mesh Canopy",
+      "slug": "black-mesh-canopy-stocking-tensile-hillside-shelter",
+      "description": "Stockings stretched over a stick frame form a black mesh canopy, later refined into flowing digital shells.\n\nModel making | Tensile canopy | Wooden sticks, light clay, stockings, parametric modelling | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "黑網天幕",
+          "description": "絲襪撐在木棒框架上，形成一片黑色網狀天幕，之後再發展成流動的數位殼體。\n\n模型製作｜張拉天幕｜木棒、輕黏土、絲襪、參數化建模｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/01-black-canopy.webp",
+        "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/02-form-sketches.webp",
+        "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/03-under-canopy.webp",
+        "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/04-frame-view.webp",
+        "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/05-dark-view.webp",
+        "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/06-mesh-render.webp",
+        "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/07-peak-render.webp",
+        "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/08-light-render.webp",
+        "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/09-mesh-drawings.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/01-black-canopy.webp"
+          ],
+          "captions": [
+            "The black mesh canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "黑色網狀天幕。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project aims to bring people and nature closer together. It also challenges how living spaces might be made on a hillside.",
+          "images": [
+            "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/02-form-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of the form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題旨在讓人與自然更加貼近。它也挑戰人們如何在山坡上創造生活空間。",
+              "captions": [
+                "形態草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Soft natural forms were sketched as stretched surfaces held by a few points. The sketches tested where the canopy should rise and fall.",
+          "images": [
+            "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/04-frame-view.webp"
+          ],
+          "captions": [
+            "The canopy in its frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把柔和的自然形態畫成由少數支點撐起的張拉曲面。這些草圖測試天幕該在哪裡升起與落下。",
+              "captions": [
+                "框架中的天幕。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stockings were stretched over a frame of wooden sticks, with light clay figures added below. The form was then rebuilt in a parametric model as a fine mesh shell.",
+          "images": [
+            "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/03-under-canopy.webp",
+            "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/05-dark-view.webp",
+            "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/06-mesh-render.webp"
+          ],
+          "captions": [
+            "Under the canopy.",
+            "A low view.",
+            "A digital mesh shell."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把絲襪撐在木棒框架上，並在下方加入輕黏土人物。接著以參數化模型把形態重建為細緻的網格殼體。",
+              "captions": [
+                "天幕之下。",
+                "低角度視角。",
+                "數位網格殼體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The canopy creates shaded rooms where people could live, meet and move around. Renderings show light filtering through the mesh onto the ground.",
+          "images": [
+            "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/07-peak-render.webp",
+            "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/08-light-render.webp",
+            "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter/09-mesh-drawings.webp"
+          ],
+          "captions": [
+            "Peaks of the shell.",
+            "Light under the shell.",
+            "Line drawings of the mesh."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "天幕形成有遮蔭的空間，讓人們能在其中生活、交流與走動。渲染圖呈現光線穿過網格灑落地面的效果。",
+              "captions": [
+                "殼體的尖峰。",
+                "殼體下的光。",
+                "網格線稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start with a soft material.\n2. Stretch it over a frame.\n3. Model it digitally.\n4. Test light and shade.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從柔軟材料開始。\n2. 撐在框架上。\n3. 以數位方式建模。\n4. 測試光與影。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
