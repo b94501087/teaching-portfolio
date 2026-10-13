@@ -1,0 +1,67 @@
+{
+  "project": "Bionic Canyon",
+  "dest": "assets/board/bionic-canyon-stick-and-folded-paper-landscapes",
+  "note": "Portfolio d991 page 3 cropped to ten images, WebP q88 (PIL). Not used: title and text, process photos with hands, the canyon and place names.",
+  "files": [
+    {
+      "name": "01-folded-canyon.webp",
+      "sha256": "6455a238db97b2562e1c19aa840722183427f717f3260f605bc3ce4cccd422eb",
+      "bytes": 69812,
+      "from": "d991 page 3 — folded canyon"
+    },
+    {
+      "name": "02-canyon-colours.webp",
+      "sha256": "6382155a5d1667aab5beeaaedfd4014f609b0e6c6ce3052b65ddf9d85056e65c",
+      "bytes": 58544,
+      "from": "d991 page 3 — canyon colours"
+    },
+    {
+      "name": "03-line-drawing.webp",
+      "sha256": "34760682fc8d69de97b1c975eb4086924f1c1e2aa5e9f8fa36cd5c4579e0c50f",
+      "bytes": 360222,
+      "from": "d991 page 3 — line drawing"
+    },
+    {
+      "name": "04-stick-model.webp",
+      "sha256": "329923a27f2acfcd48353dcfcefa0e2728eb3b39dbc1e2951914e5165758d32f",
+      "bytes": 86252,
+      "from": "d991 page 3 — stick model"
+    },
+    {
+      "name": "05-stick-wave.webp",
+      "sha256": "db762e6557b90faec6a7bdc752773360b6fb856cb3e7555dcd3a55d78b064d4f",
+      "bytes": 106812,
+      "from": "d991 page 3 — stick wave"
+    },
+    {
+      "name": "06-stick-close.webp",
+      "sha256": "7093014ea108ca5d7b496ac8cef0edd2afe2482d0813fd8ecc98a9cd04ccc2d8",
+      "bytes": 78502,
+      "from": "d991 page 3 — stick close"
+    },
+    {
+      "name": "07-stick-curl.webp",
+      "sha256": "e2a7603d85f0d176ed6930888c78be3036788c3b2b01c2ae7af77f114668a6ab",
+      "bytes": 142984,
+      "from": "d991 page 3 — stick curl"
+    },
+    {
+      "name": "08-hanging-frame.webp",
+      "sha256": "e3a062ee21ed244a10b5d6d1ee502262145070477f5668b93816ca64eaa7ac67",
+      "bytes": 68548,
+      "from": "d991 page 3 — hanging frame"
+    },
+    {
+      "name": "09-paper-folds.webp",
+      "sha256": "7145c52812dd7465da65fcafbe503fa901cc8bd6f84db0af99b04e8c728030a9",
+      "bytes": 76992,
+      "from": "d991 page 3 — paper folds"
+    },
+    {
+      "name": "10-inside-canyon.webp",
+      "sha256": "e70fa5b4d419c57ab4432ddde61dfff89a56af228faf9acfa53c211686f4bc4c",
+      "bytes": 27834,
+      "from": "d991 page 3 — inside canyon"
+    }
+  ]
+}
