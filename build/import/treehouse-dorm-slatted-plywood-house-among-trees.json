@@ -1,0 +1,49 @@
+{
+  "project": "Treehouse Dorm",
+  "dest": "assets/board/treehouse-dorm-slatted-plywood-house-among-trees",
+  "note": "Portfolio 68e2 page 9 cropped to 7 images, WebP q88 (PIL). Not used: campus photos, satellite photo, school details.",
+  "files": [
+    {
+      "name": "01-slatted-tree-dorm.webp",
+      "sha256": "04fb89ed3715ce484facc091a4f5eefb887ab334c8d8f29f053185ec8c745493",
+      "bytes": 108304,
+      "from": "68e2 page 9 — the slatted plywood dorm"
+    },
+    {
+      "name": "02-floor-plans.webp",
+      "sha256": "b34e0a098fa50b03651cd6cb702e3eb39b5cb827974a0f6598307fa514f2a031",
+      "bytes": 16086,
+      "from": "68e2 page 9 — floor plans of two levels"
+    },
+    {
+      "name": "03-tree-sketch.webp",
+      "sha256": "6cb9300da8b14ef603a022975324ee98a833a877141fd05b39120c3cc43a82ce",
+      "bytes": 7804,
+      "from": "68e2 page 9 — a sketch of a room among trees"
+    },
+    {
+      "name": "04-dorm-front.webp",
+      "sha256": "bf7948fd2b10fbda83d362d10ed3d98ed7ce408f61c00d7ce68466b0eb2afeaa",
+      "bytes": 61254,
+      "from": "68e2 page 9 — the dorm from the front"
+    },
+    {
+      "name": "05-balcony-section.webp",
+      "sha256": "2c98e3935de78c9625d743723bed7688581b6fd47f3fb80ec9f9eb0ddfd6be1d",
+      "bytes": 34920,
+      "from": "68e2 page 9 — a section with a balcony"
+    },
+    {
+      "name": "06-spiral-stair.webp",
+      "sha256": "7256541e7156087dbf2cef5ba703340fc99d5dfe4a42b403a61b11c789deb34a",
+      "bytes": 29782,
+      "from": "68e2 page 9 — the spiral stair inside"
+    },
+    {
+      "name": "07-lit-room.webp",
+      "sha256": "4802653d24952fa12fd63bc1aafc887ea5ccbb8751521131014ed4f672c25ad3",
+      "bytes": 15250,
+      "from": "68e2 page 9 — a lit room inside"
+    }
+  ]
+}
