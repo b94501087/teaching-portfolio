@@ -68364,6 +68364,586 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Clay Through the Frame",
+      "slug": "clay-through-the-frame-stick-lattice-and-flowing-clay",
+      "description": "Soft clay flows through, wraps and slowly covers a rigid lattice of wooden sticks.\n\nModel and drawing | Material contrast study | Wooden sticks, light clay | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "穿流框架的黏土",
+          "description": "柔軟的黏土在剛硬的木條格架間流動、纏繞，並逐漸將它覆蓋。\n\n模型與繪圖｜材料對比研究｜木條、輕黏土｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/01-stick-and-clay-landscape.webp",
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/02-s-curve-stick-frame.webp",
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/03-hourglass-frame.webp",
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/04-stick-blocks.webp",
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/05-merged-study.webp",
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/06-pencil-curve-study.webp",
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/07-stick-and-clay-drawing.webp",
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/08-model-side-view.webp",
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/09-inner-passage.webp",
+        "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/10-cave-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/01-stick-and-clay-landscape.webp"
+          ],
+          "captions": [
+            "The stick lattice wrapped in clay."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "被黏土包覆的木條格架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A frame of sticks is sturdy and complex, but hard to change. The project asks how a soft material could slowly take over such a structure without breaking it.",
+          "images": [
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/06-pencil-curve-study.webp",
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/02-s-curve-stick-frame.webp"
+          ],
+          "captions": [
+            "A pencil study of flowing curves.",
+            "An S-curve lattice of sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "木條框架堅固而複雜，卻難以改變。這個專題探問，柔軟的材料如何在不破壞結構的情況下，慢慢接管它。",
+              "captions": [
+                "流動曲線的鉛筆研究。",
+                "S形木條格架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Straight sticks stand for order and clay for softness. Small tests joined the two to see where they clash and where they fit.",
+          "images": [
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/04-stick-blocks.webp",
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/05-merged-study.webp"
+          ],
+          "captions": [
+            "Stick blocks before the clay.",
+            "Clay and sticks merged."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "直木條代表秩序，黏土代表柔軟。學生以小型試作結合兩者，觀察它們何處衝突、何處契合。",
+              "captions": [
+                "加入黏土前的木條塊。",
+                "黏土與木條的結合。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The lattice was cut into curved outlines. Clay was then laid in so it twines round the sticks like fish among waterweeds.",
+          "images": [
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/03-hourglass-frame.webp",
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/07-stick-and-clay-drawing.webp"
+          ],
+          "captions": [
+            "An hourglass lattice outline.",
+            "A pen drawing of the inner space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把格架裁成弧形輪廓。接著填入黏土，讓它像水草間的魚一樣纏繞木條。",
+              "captions": [
+                "沙漏形格架輪廓。",
+                "內部空間的鋼筆畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the 420 mm model the clay becomes the new body of the frame. Light inside reveals cave-like passages.",
+          "images": [
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/08-model-side-view.webp",
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/09-inner-passage.webp",
+            "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/10-cave-view.webp"
+          ],
+          "captions": [
+            "The model from the side.",
+            "A lit inner passage.",
+            "Looking through the clay cave."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在這個420公釐的模型中，黏土成為框架新的主體。內部光線顯出如洞穴般的通道。",
+              "captions": [
+                "模型側面。",
+                "有光的內部通道。",
+                "穿望黏土洞穴。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick two opposite materials.\n2. Let each one stand for an idea.\n3. Test small joins first.\n4. Let one slowly cover the other.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選擇兩種相反的材料。\n2. 讓每種材料代表一個概念。\n3. 先試做小型接合。\n4. 讓一者慢慢覆蓋另一者。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Growing Up in Four Models",
+      "slug": "growing-up-in-four-models-plants-net-clouds-and-wire",
+      "description": "Four small mixed-media models trace growing up: plants, a red net, cotton clouds and a tangle of wire.\n\nModels and drawings | Narrative series | Mixed media | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "成長四部曲",
+          "description": "四個混合媒材小模型描繪成長：植物、紅網、棉花雲與纏繞的線材。\n\n模型與繪圖｜敘事系列｜混合媒材｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/01-red-net-tower.webp",
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/02-childhood-plant-drawing.webp",
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/03-plant-and-figure-models.webp",
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/04-net-tower-sketch.webp",
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/05-red-net-detail.webp",
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/06-net-and-cloud-sketch.webp",
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/07-cotton-cloud-sketch.webp",
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/08-clay-and-cotton-model.webp",
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/09-wire-and-colour-tangle.webp",
+        "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/10-mixed-media-future.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/01-red-net-tower.webp"
+          ],
+          "captions": [
+            "The red net tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "紅網之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The series asks how four stages of growing up could each become a small space. Each stage gets its own material and mood.",
+          "images": [
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/02-childhood-plant-drawing.webp"
+          ],
+          "captions": [
+            "A pen drawing of a plant playground."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個系列探問，成長的四個階段如何各自化為一個小空間。每個階段都有自己的材料與氛圍。",
+              "captions": [
+                "植物遊樂場的鋼筆畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Childhood is a green playground of leaves, rocks and branches. Real plant cuttings were set up with tiny figures to test the scale.",
+          "images": [
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/03-plant-and-figure-models.webp"
+          ],
+          "captions": [
+            "Plant cuttings with tiny figures."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "童年是由樹葉、岩石與枝條構成的綠色遊樂場。學生以真實植物枝葉配上小人偶，測試尺度。",
+              "captions": [
+                "配上小人偶的植物枝葉。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The teenage years of exams became stairs inside a red net. The net is shown slowly closing in around the climb.",
+          "images": [
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/04-net-tower-sketch.webp",
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/05-red-net-detail.webp",
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/06-net-and-cloud-sketch.webp"
+          ],
+          "captions": [
+            "A sketch of the net tower.",
+            "The stairs inside the net.",
+            "A sketch of the net and cloud."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以考試為主的青春期化為紅網中的階梯。紅網環繞著攀爬的路徑逐漸收緊。",
+              "captions": [
+                "網塔草圖。",
+                "網中的階梯。",
+                "網與雲的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Bright clay and cotton show a dreamy, then shattered, feeling. A tangle of wire, mesh and colour stands for an uncertain future.",
+          "images": [
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/07-cotton-cloud-sketch.webp",
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/08-clay-and-cotton-model.webp",
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/09-wire-and-colour-tangle.webp",
+            "assets/board/growing-up-in-four-models-plants-net-clouds-and-wire/10-mixed-media-future.webp"
+          ],
+          "captions": [
+            "A colour sketch with cotton.",
+            "The clay and cotton model.",
+            "Wire and colour from above.",
+            "The mixed-media future model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "鮮豔的黏土與棉花表現先如夢、後破碎的感受。線材、網布與色彩的纏結則代表不確定的未來。",
+              "captions": [
+                "加入棉花的色彩草圖。",
+                "黏土與棉花模型。",
+                "俯視線材與色彩。",
+                "混合媒材的未來模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Split a story into stages.\n2. Give each stage one material.\n3. Keep every model small.\n4. Show them side by side.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把故事分成幾個階段。\n2. 每個階段一種材料。\n3. 讓每個模型保持小巧。\n4. 並排展示它們。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Within the Light Cone",
+      "slug": "light-cone-acrylic-frame-with-mirrored-paper-fragments",
+      "description": "Paper fragments fan out inside an acrylic frame in the shape of a light cone, bouncing light off mirrors.\n\nModel and sketches | Physics-to-space study | Acrylic strips, paper, mirror | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "光錐之內",
+          "description": "紙片在壓克力框架中以光錐形狀展開，在鏡面間反射光線。\n\n模型與素描｜物理轉空間研究｜壓克力條、紙、鏡面｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/01-acrylic-light-cone.webp",
+        "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/02-angle-one.webp",
+        "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/03-angle-two.webp",
+        "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/04-angle-three.webp",
+        "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/05-deep-cone-of-light.webp",
+        "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/06-time-warp-sketch.webp",
+        "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/07-world-in-a-light-cone-sketch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/01-acrylic-light-cone.webp"
+          ],
+          "captions": [
+            "The acrylic light-cone model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "壓克力光錐模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In physics, an event spreads through spacetime as a cone of light. The project asks how that idea could be made into a space you can look into.",
+          "images": [
+            "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/05-deep-cone-of-light.webp"
+          ],
+          "captions": [
+            "Looking deep into the cone."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在物理學中，事件以光錐的形式在時空中擴散。這個專題探問，如何把這個概念做成可以望入的空間。",
+              "captions": [
+                "望入光錐深處。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Like a stone thrown into water, light spreads out until it forms a 3D cone. A far event has no effect until its cone arrives.",
+          "images": [
+            "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/06-time-warp-sketch.webp",
+            "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/07-world-in-a-light-cone-sketch.webp"
+          ],
+          "captions": [
+            "A pencil sketch of warped time.",
+            "A colour sketch of a world in a cone."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "如同石頭投入水中，光向外擴散，形成立體的錐形。遠方的事件在光錐抵達之前不會產生影響。",
+              "captions": [
+                "扭曲時間的鉛筆素描。",
+                "光錐中世界的彩色素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Paper fragments were hung in a cone within a grid of acrylic strips. Mirrors repeat them so the light seems to race away.",
+          "images": [
+            "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/02-angle-one.webp",
+            "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/03-angle-two.webp"
+          ],
+          "captions": [
+            "The cone from one angle.",
+            "The cone from another angle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把紙片以錐形懸掛在壓克力條網格中。鏡面不斷複製它們，使光彷彿向遠方奔去。",
+              "captions": [
+                "光錐的一個角度。",
+                "光錐的另一個角度。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 850 mm tall model looks endless from every side. The past reads like a shot already fired, racing to its end.",
+          "images": [
+            "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments/04-angle-three.webp"
+          ],
+          "captions": [
+            "Reflections from a third angle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個850公釐高的模型從各面看都無止盡。過去就像已射出的子彈，奔向它的終點。",
+              "captions": [
+                "第三個角度的反射。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a science idea.\n2. Draw it before you model it.\n3. Use mirrors to extend a space.\n4. Check it from every side.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個科學概念出發。\n2. 先畫再做模型。\n3. 用鏡面延伸空間。\n4. 從每一面檢查。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Möbius Tower",
+      "slug": "mobius-tower-acrylic-rings-clay-spheres-and-branches",
+      "description": "Twisted Möbius rings of clear and white acrylic stack into a tower crowned with clay spheres and dry branches.\n\nModel and drawings | Loop structure study | Modelling clay, PVC card, acrylic, dry branches | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "莫比烏斯之塔",
+          "description": "透明與白色壓克力扭成的莫比烏斯環堆疊成塔，頂部以黏土球與枯枝收尾。\n\n模型與繪圖｜迴圈結構研究｜造型黏土、PVC卡、壓克力、枯枝｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/01-mobius-tower.webp",
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/02-tower-drawing.webp",
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/03-concept-sketch.webp",
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/04-mobius-diagrams.webp",
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/05-ring-test-model.webp",
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/06-twisted-ring-renders.webp",
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/07-spiral-render.webp",
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/08-cast-ring-pieces.webp",
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/09-branch-and-sphere-top.webp",
+        "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/10-tower-from-above.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/01-mobius-tower.webp"
+          ],
+          "captions": [
+            "The finished Möbius tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的莫比烏斯之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A Möbius strip is a loop with only one side. The project asks how such an endless loop could become a tower that hides and shows parts of itself.",
+          "images": [
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/03-concept-sketch.webp"
+          ],
+          "captions": [
+            "An early concept sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "莫比烏斯帶是只有一面的迴圈。這個專題探問，這樣無盡的迴圈如何化為一座時隱時現的塔。",
+              "captions": [
+                "早期概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew and rendered many twisted rings to test how they could stack. Each form was checked for how it might be built.",
+          "images": [
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/04-mobius-diagrams.webp",
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/06-twisted-ring-renders.webp",
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/07-spiral-render.webp"
+          ],
+          "captions": [
+            "Möbius ring diagrams.",
+            "Renders of twisted rings.",
+            "A spiral ring render."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生繪製並渲染許多扭轉的環，測試它們如何堆疊。每種形態都檢查了建造的可能。",
+              "captions": [
+                "莫比烏斯環圖解。",
+                "扭轉環的渲染圖。",
+                "螺旋環渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Ring pieces were cast and tested in white before the final build. Clear acrylic makes the curved structure lighter and harder to read.",
+          "images": [
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/05-ring-test-model.webp",
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/08-cast-ring-pieces.webp"
+          ],
+          "captions": [
+            "A white ring test model.",
+            "Cast ring pieces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生先以白色材料翻製並測試環片，再做最終模型。透明壓克力讓彎曲結構更輕，也更難一眼看透。",
+              "captions": [
+                "白色環形試作模型。",
+                "翻製的環片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Cracks were filled with stone clay and dry sticks pushed into it. The 405 mm tower is meant to suggest rebirth.",
+          "images": [
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/02-tower-drawing.webp",
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/09-branch-and-sphere-top.webp",
+            "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/10-tower-from-above.webp"
+          ],
+          "captions": [
+            "A pen drawing of the tower.",
+            "Clay spheres and branches on top.",
+            "The tower seen from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "裂縫以石粉黏土填補，並插入枯枝。這座405公釐的塔意在傳達重生之感。",
+              "captions": [
+                "塔的鋼筆畫。",
+                "頂部的黏土球與枝條。",
+                "俯視塔身。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one strange shape.\n2. Draw and render many versions.\n3. Test parts in cheap material.\n4. Mix clear and solid pieces.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個奇特形狀出發。\n2. 繪製並渲染多個版本。\n3. 以便宜材料試做構件。\n4. 混用透明與實心構件。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
