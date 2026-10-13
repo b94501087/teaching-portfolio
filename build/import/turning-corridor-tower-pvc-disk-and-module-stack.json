@@ -1,0 +1,55 @@
+{
+  "project": "Turning Corridor Tower",
+  "dest": "assets/board/turning-corridor-tower-pvc-disk-and-module-stack",
+  "note": "Portfolio 2744 pages 6-7 cropped to 8 images, WebP q88 (PIL). Not used: film poster, film stills and colour palette (film and director names dropped; retitled from film-based title).",
+  "files": [
+    {
+      "name": "01-turning-corridor-tower.webp",
+      "sha256": "15cbbf5fccc918901b92f9a166eab79e66701269a9536823fce027904f9765e6",
+      "bytes": 158106,
+      "from": "2744 pages 6-7 — the turning corridor tower"
+    },
+    {
+      "name": "02-tower-front-view.webp",
+      "sha256": "e2e80a2a203e098be046ba281f2977989d1a422390e3faf0f5dc89369dba27eb",
+      "bytes": 131386,
+      "from": "2744 pages 6-7 — the tower from the front"
+    },
+    {
+      "name": "03-module-cutting.webp",
+      "sha256": "e11bb23c0a9fe941b278264d4c96743b903dfd34510b710de2615960c8ed44a7",
+      "bytes": 47898,
+      "from": "2744 pages 6-7 — cutting the modules"
+    },
+    {
+      "name": "04-disk-modules.webp",
+      "sha256": "b3be5de04b72e94f8eb8a39f9980c3cabcad3862d77fb522916eb462e8ac5cdb",
+      "bytes": 48080,
+      "from": "2744 pages 6-7 — disk modules"
+    },
+    {
+      "name": "05-inner-spiral-view.webp",
+      "sha256": "3b64e4c336394c336334ddb3f730671817b6afb483dbce81084657be682dcc1b",
+      "bytes": 40702,
+      "from": "2744 pages 6-7 — the inner spiral"
+    },
+    {
+      "name": "06-blue-module-detail.webp",
+      "sha256": "18db42bcd98b9c7fcaf8d4aa422357c6e681b01a9b6fc72ae9b8e08e869e5bdf",
+      "bytes": 32300,
+      "from": "2744 pages 6-7 — a blue module"
+    },
+    {
+      "name": "07-yellow-coil-detail.webp",
+      "sha256": "1a3eb98027112680abed2700ad81aa87490417cf57b283e3c413c7c64fc9ccae",
+      "bytes": 41180,
+      "from": "2744 pages 6-7 — a yellow coil"
+    },
+    {
+      "name": "08-tower-low-angle.webp",
+      "sha256": "71fc116ae841c8d1dd44a602329c4ea808a22518c2a0f6e0af5f654aa8b8606a",
+      "bytes": 33812,
+      "from": "2744 pages 6-7 — the tower from a low angle"
+    }
+  ]
+}
