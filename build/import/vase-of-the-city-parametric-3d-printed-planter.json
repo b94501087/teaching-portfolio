@@ -1,0 +1,61 @@
+{
+  "project": "Vase of the City",
+  "dest": "assets/board/vase-of-the-city-parametric-3d-printed-planter",
+  "note": "Portfolio ddbe page 12 cropped to nine images, WebP q88 (PIL). Not used: title and text, a tall street photo.",
+  "files": [
+    {
+      "name": "01-planted-vase.webp",
+      "sha256": "8a8b4a562fdfa07730c8a721c74517e2cb461a8123d2fa873a66a6426afc603b",
+      "bytes": 103764,
+      "from": "ddbe page 12 — planted vase"
+    },
+    {
+      "name": "02-digital-vase.webp",
+      "sha256": "97791623b0452ec78a757ae8df134b6e9ec631e306adca8f8ea875d16f204432",
+      "bytes": 11044,
+      "from": "ddbe page 12 — digital vase"
+    },
+    {
+      "name": "03-facade-photo.webp",
+      "sha256": "70d8f293dc0d3c13182936e3b34b8e620e68dc99f8e515a456f81a179b186b3b",
+      "bytes": 18138,
+      "from": "ddbe page 12 — facade photo"
+    },
+    {
+      "name": "04-first-print.webp",
+      "sha256": "dbfb13497603e7cac3b09f25d5b8987d9a617e524a9da09f18ae3b7ceafb9ee3",
+      "bytes": 9284,
+      "from": "ddbe page 12 — first print"
+    },
+    {
+      "name": "05-pattern-sketch.webp",
+      "sha256": "e8e077c5ebcb783658116901c4af4579c51db5c8b8ca55b335da1145547011d0",
+      "bytes": 7594,
+      "from": "ddbe page 12 — pattern sketch"
+    },
+    {
+      "name": "06-script.webp",
+      "sha256": "130d0aa603dc3b61494fb9ac04d0ba3f52bfb566c32d957f2e2558967f190538",
+      "bytes": 17282,
+      "from": "ddbe page 12 — script"
+    },
+    {
+      "name": "07-window-vases.webp",
+      "sha256": "179075255c99299fdf1fe4f90f25f27e3d9357fd2e94b86de4e7af9f46f2c05f",
+      "bytes": 17388,
+      "from": "ddbe page 12 — window vases"
+    },
+    {
+      "name": "08-side-view.webp",
+      "sha256": "3b6f9762cbc650215b796ac5f920eadd3400f682efb920dcf186b1a0cfc92d0a",
+      "bytes": 6062,
+      "from": "ddbe page 12 — side view"
+    },
+    {
+      "name": "09-top-view.webp",
+      "sha256": "e5d7d1616559f837c32f17f504863e6ed4c67f49c00e79ec8fee3a6481c08d30",
+      "bytes": 7592,
+      "from": "ddbe page 12 — top view"
+    }
+  ]
+}
