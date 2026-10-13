@@ -1,0 +1,55 @@
+{
+  "project": "Domes and Spires",
+  "dest": "assets/board/domes-and-spires-imagined-ruin-tower-model",
+  "note": "Portfolio a9c4 pages 8-9 cropped to 8 images, WebP q88 (PIL). Not used: game title and game screenshot inspiration collage, caption with dimensions and date.",
+  "files": [
+    {
+      "name": "01-domes-and-spires-tower.webp",
+      "sha256": "b8cedcc201a71b59e5362e4f5bfd5fe311144c4412f6541f4573a21e4902a014",
+      "bytes": 72570,
+      "from": "a9c4 pages 8-9 — the tower of domes and spires"
+    },
+    {
+      "name": "02-domes-close-view.webp",
+      "sha256": "5956ec2cddbb930908889260623e937c35ea0b807424f0d83fb020d0f744e31c",
+      "bytes": 44618,
+      "from": "a9c4 pages 8-9 — the domes in close view"
+    },
+    {
+      "name": "03-tower-in-shadow.webp",
+      "sha256": "7c8783ca6c36e88fbfd7cdd09476860daecb8c5502586a990b89044f50a5ecdf",
+      "bytes": 17330,
+      "from": "a9c4 pages 8-9 — the tower in shadow"
+    },
+    {
+      "name": "04-concept-sketches-upper.webp",
+      "sha256": "4ed270e468ba1efa8ee6a920524405846e322c5430022e50e6e0238c0dbfd8a2",
+      "bytes": 52258,
+      "from": "a9c4 pages 8-9 — concept sketches, upper sheet"
+    },
+    {
+      "name": "05-concept-sketches-lower.webp",
+      "sha256": "fad8ae378c8e5df5a52dfaf8edf718cab3d94dae9d5b5850b64813824c308677",
+      "bytes": 77678,
+      "from": "a9c4 pages 8-9 — concept sketches, lower sheet"
+    },
+    {
+      "name": "06-early-model-studies.webp",
+      "sha256": "e0e964513fcdfbf69119f89ad84986f4b07210cc03610fe547bb772393a43e60",
+      "bytes": 61128,
+      "from": "a9c4 pages 8-9 — early model studies"
+    },
+    {
+      "name": "07-arches-and-spires-studies.webp",
+      "sha256": "ab01b0de3df93f42ffeda8511cfd31985f2f985df31204cebc2de26a01f869f2",
+      "bytes": 75556,
+      "from": "a9c4 pages 8-9 — studies of arches and spires"
+    },
+    {
+      "name": "08-dome-and-rock-studies.webp",
+      "sha256": "bd96557844f6070592a139b3de8ec258242301a2e0af08e89f994e93c8504cb0",
+      "bytes": 71080,
+      "from": "a9c4 pages 8-9 — studies of domes and rocks"
+    }
+  ]
+}
