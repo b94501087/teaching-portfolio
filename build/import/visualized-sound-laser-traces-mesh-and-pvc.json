@@ -1,0 +1,61 @@
+{
+  "project": "Visualized Sound",
+  "dest": "assets/board/visualized-sound-laser-traces-mesh-and-pvc",
+  "note": "Portfolio 3a1d pages 4-5 cropped to 9 images, WebP q88 (PIL). Not used: concert stage photo with performers, process photos with people and hands.",
+  "files": [
+    {
+      "name": "01-sound-wave-model.webp",
+      "sha256": "c678962b7968b27b729a5f0df87ddace6024d8a613c9a65f8cbe77e21aeec7bc",
+      "bytes": 113414,
+      "from": "3a1d pages 4-5 — the sound wave model"
+    },
+    {
+      "name": "02-sound-wave-model-side.webp",
+      "sha256": "7bd686763197c33ed9a4ae8caa70f3e4a16868e28421902a738e01c951d45ba4",
+      "bytes": 89820,
+      "from": "3a1d pages 4-5 — the sound wave model from the side"
+    },
+    {
+      "name": "03-laser-light-traces.webp",
+      "sha256": "4784ba51491836b5db46ec2e1606f8acf930942e45c6bdefb54bd19d2c9f7631",
+      "bytes": 44624,
+      "from": "3a1d pages 4-5 — laser light traces"
+    },
+    {
+      "name": "04-stocking-wave-forms.webp",
+      "sha256": "dd76fdc5770c9729aaf4a4b39dc262e6f49acf4db816e8de8d3bd69f8ddb2d3f",
+      "bytes": 34972,
+      "from": "3a1d pages 4-5 — stocking wave forms"
+    },
+    {
+      "name": "05-wire-mesh-model.webp",
+      "sha256": "4daa90c50788dccd12d969d1914717e1499fba583b84c70fa498f0454dfc7e30",
+      "bytes": 60444,
+      "from": "3a1d pages 4-5 — the wire mesh model"
+    },
+    {
+      "name": "06-wire-mesh-close-up.webp",
+      "sha256": "f656b6991444a97fea5282a787136e059eb8af3379890a5eb9fc9eacb320a5fb",
+      "bytes": 63108,
+      "from": "3a1d pages 4-5 — wire mesh close up"
+    },
+    {
+      "name": "07-pvc-layers.webp",
+      "sha256": "20496a8f21fdecfefcddfbdcdceeb7e3df6e513a7b166b01ff05c88a8c83ca75",
+      "bytes": 45952,
+      "from": "3a1d pages 4-5 — pvc layers"
+    },
+    {
+      "name": "08-pvc-from-above.webp",
+      "sha256": "c6d88e85bbff6cc556f477d07a2e4ebcf25b602b95a99c61e763d81cf7231ac7",
+      "bytes": 54766,
+      "from": "3a1d pages 4-5 — pvc from above"
+    },
+    {
+      "name": "09-mesh-cut-on-mat.webp",
+      "sha256": "0d8729cd5cbd725a947405c4a0bbfa3833b462ccaf5ea4f2f3265a9626aef304",
+      "bytes": 23454,
+      "from": "3a1d pages 4-5 — mesh cut on a mat"
+    }
+  ]
+}
