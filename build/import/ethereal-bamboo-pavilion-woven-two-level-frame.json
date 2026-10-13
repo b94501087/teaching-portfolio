@@ -1,0 +1,67 @@
+{
+  "project": "Ethereal Bamboo Pavilion",
+  "dest": "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame",
+  "note": "Portfolio 4da0 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, a process photo of the student, photos of existing bamboo buildings used as references.",
+  "files": [
+    {
+      "name": "01-final-pavilion.webp",
+      "sha256": "d4e328adcbc266976ebb756b3fff778fd7642153057176043072bcfdd9141125",
+      "bytes": 294712,
+      "from": "4da0 page 7 — final pavilion"
+    },
+    {
+      "name": "02-weave-patterns.webp",
+      "sha256": "2e2588cb9332d42860a8403e972b63a521f5c91bc2e6d5e1c27ea4371b60b525",
+      "bytes": 88432,
+      "from": "4da0 page 6 — weave patterns"
+    },
+    {
+      "name": "03-star-units.webp",
+      "sha256": "a22076353c2d0dc9e84c011258e763803afbbe8f484ef4d9a5707addabe8dbd8",
+      "bytes": 13820,
+      "from": "4da0 page 6 — star units"
+    },
+    {
+      "name": "04-early-frames.webp",
+      "sha256": "10c292288788ea1677c2f13b1c0ff248c38a34f8ee4f34fc8e121fd1d1580e9c",
+      "bytes": 16832,
+      "from": "4da0 page 6 — early frames"
+    },
+    {
+      "name": "05-deck-frame.webp",
+      "sha256": "2296c602c3ad62b9bfcc3213af7425cbdb7b2a8af2472eb3c0dfe842ffb7629a",
+      "bytes": 29956,
+      "from": "4da0 page 6 — deck frame"
+    },
+    {
+      "name": "06-lit-model.webp",
+      "sha256": "ac35319c6f5d9ffd05109a204c11ce136679253af733cff86ef9471ca325623c",
+      "bytes": 34848,
+      "from": "4da0 page 6 — lit model"
+    },
+    {
+      "name": "07-front-view.webp",
+      "sha256": "58ed4cd2a0aa6a50e1b1bfd079bd09d798665a6a157311170ea3790b1132cc6e",
+      "bytes": 59744,
+      "from": "4da0 page 6 — front view"
+    },
+    {
+      "name": "08-roof-weave.webp",
+      "sha256": "7e8d752aa4a8e8d93adb548c5eb9b3e07ae021c5b43d092b1dfd27e285d86b01",
+      "bytes": 39126,
+      "from": "4da0 page 7 — roof weave"
+    },
+    {
+      "name": "09-inner-stair.webp",
+      "sha256": "b02c6235e388ec8ef57b55c73ab694f7b93678485a7bbcdaf1d8fbf9c331cd0a",
+      "bytes": 30992,
+      "from": "4da0 page 7 — inner stair"
+    },
+    {
+      "name": "10-side-view.webp",
+      "sha256": "4b38fe6285790641599142fd02b9a4b8a5e1242a5b2267dd8116fdf4ee6423e4",
+      "bytes": 30036,
+      "from": "4da0 page 7 — side view"
+    }
+  ]
+}
