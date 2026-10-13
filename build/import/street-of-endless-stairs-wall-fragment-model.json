@@ -1,0 +1,67 @@
+{
+  "project": "Street of Endless Stairs",
+  "dest": "assets/board/street-of-endless-stairs-wall-fragment-model",
+  "note": "Portfolio 74d1 pages 6-7 cropped to 10 images, WebP q88 (PIL). Not used: game and architect references in caption, floor plan of a named house, process photo with the student, remaining combination photos.",
+  "files": [
+    {
+      "name": "01-street-of-stairs-from-above.webp",
+      "sha256": "ffe9cc2c1556d51bf23626b14d2afdb5232b11f040bf88c33356624d46080fae",
+      "bytes": 191238,
+      "from": "74d1 pages 6-7 — the street of stairs from above"
+    },
+    {
+      "name": "02-individual-wall-models.webp",
+      "sha256": "709465f6fbb0cd8ee05e8781a3deb39e7a2c2e1eee87193324cc96a421a1679b",
+      "bytes": 77282,
+      "from": "74d1 pages 6-7 — individual wall models"
+    },
+    {
+      "name": "03-combined-wall-models.webp",
+      "sha256": "0fc670de00dc8e8a2a962dbbfbae6942d54b4e5f2150f781bdd2fce5e192f7fc",
+      "bytes": 112638,
+      "from": "74d1 pages 6-7 — combined wall models"
+    },
+    {
+      "name": "04-stacked-walls-tower.webp",
+      "sha256": "9404eceda7ecaab050f8051d3bd85ef2133e485a1b6e67b5866e2c01090be344",
+      "bytes": 117020,
+      "from": "74d1 pages 6-7 — a tower of stacked walls"
+    },
+    {
+      "name": "05-overlapping-walls-close.webp",
+      "sha256": "0056645c2fd2027f569a1d490b73f24bc9cada95bb278ca45c6b86c1a4d34c1d",
+      "bytes": 71058,
+      "from": "74d1 pages 6-7 — overlapping walls in close view"
+    },
+    {
+      "name": "06-floating-wall-pieces.webp",
+      "sha256": "f828b2dc978ec313c2efac0554689c57171b0cacd1f56b390e83cf73dc19eb5d",
+      "bytes": 52510,
+      "from": "74d1 pages 6-7 — floating wall pieces"
+    },
+    {
+      "name": "07-walls-before-stairs.webp",
+      "sha256": "15842e733ab31bcec7f018520ad3314d0937580b0d4e1ae003e57f862abc727a",
+      "bytes": 62858,
+      "from": "74d1 pages 6-7 — walls before the stairs"
+    },
+    {
+      "name": "08-spiral-stair-between-walls.webp",
+      "sha256": "c8326d4e98889bc2bf1ca6fae9cf63a98bbf9fda2e5369c7f6fc9df8549afd5c",
+      "bytes": 47826,
+      "from": "74d1 pages 6-7 — a spiral stair between walls"
+    },
+    {
+      "name": "09-stairs-linking-platforms.webp",
+      "sha256": "88e005bd51a2cdae6ab03a369d9bf818f8b97c6a6d82f8825b33ecb8f98ad58f",
+      "bytes": 65154,
+      "from": "74d1 pages 6-7 — stairs linking platforms"
+    },
+    {
+      "name": "10-winding-stair-close.webp",
+      "sha256": "7a43222999a22cce0050b58d085b413a0ad9c3a5ffd198be2393d2c24f847c8e",
+      "bytes": 40918,
+      "from": "74d1 pages 6-7 — a winding stair in close view"
+    }
+  ]
+}
