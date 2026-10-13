@@ -1,0 +1,49 @@
+{
+  "project": "Spiral of Choices",
+  "dest": "assets/board/spiral-of-choices-blue-dream-tower-model",
+  "note": "Portfolio 4663 pages 6-7 cropped to seven images, WebP q88 (PIL). Not used: title and text, the film title and character names, film still collages, a sketch with story notes, hand process photos.",
+  "files": [
+    {
+      "name": "01-spiral-stair.webp",
+      "sha256": "12d01b13c6dc3808f9a513b74ac0302842c6111111e0ed84732f2252c1e5286d",
+      "bytes": 70112,
+      "from": "4663 page 7 — spiral stair"
+    },
+    {
+      "name": "02-blue-model.webp",
+      "sha256": "0b2074275333527e06f4bbb8482b33fedf10406085e54a6c5e07574a4ae1df97",
+      "bytes": 37936,
+      "from": "4663 page 6 — blue model"
+    },
+    {
+      "name": "03-upper-platforms.webp",
+      "sha256": "b77c659ca6375ed30e89a0ef2c5604c0647f5d07d03c59de38387a9823008d04",
+      "bytes": 28570,
+      "from": "4663 page 7 — upper platforms"
+    },
+    {
+      "name": "04-layered-floors.webp",
+      "sha256": "2a800e93d54816c27483497ef0c70c2672b5e3d1a9bee402608b196bc3e48fd9",
+      "bytes": 13898,
+      "from": "4663 page 7 — layered floors"
+    },
+    {
+      "name": "05-top-view.webp",
+      "sha256": "2196b42aa88fa499aeefc950869b879e7b06720f4ffb9929a8a6ee09bc86f865",
+      "bytes": 10884,
+      "from": "4663 page 7 — top view"
+    },
+    {
+      "name": "06-round-steps.webp",
+      "sha256": "8b0c41b3f2f5674930fe8290a7ba71dd8fe8bfd4deda3517a591aa2f9698f1a0",
+      "bytes": 25560,
+      "from": "4663 page 7 — round steps"
+    },
+    {
+      "name": "07-lattice-base.webp",
+      "sha256": "d493e6ecd1d9361aa178e13e754108b46d913964dc206193929fd68d07ea7f67",
+      "bytes": 8948,
+      "from": "4663 page 6 — lattice base"
+    }
+  ]
+}
