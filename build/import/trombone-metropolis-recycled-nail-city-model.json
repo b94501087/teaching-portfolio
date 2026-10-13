@@ -1,0 +1,55 @@
+{
+  "project": "Trombone Metropolis",
+  "dest": "assets/board/trombone-metropolis-recycled-nail-city-model",
+  "note": "Portfolio 7c9f pages 12-13 cropped to eight images, WebP q88 (PIL). Not used: title and text, a product photo of an instrument, process photos with hands, a toy brand name.",
+  "files": [
+    {
+      "name": "01-metal-city.webp",
+      "sha256": "ebc6b708f4bf1b4b6746cc146551d059014935e42b77e12f14e7b16d8a99eed0",
+      "bytes": 120444,
+      "from": "7c9f page 13 — metal city"
+    },
+    {
+      "name": "02-instrument-sketches.webp",
+      "sha256": "afbcc9ccb519cd00f56f61e7f1250f86f744911c6f2ad3dd7bc765021ad177ac",
+      "bytes": 14242,
+      "from": "7c9f page 12 — instrument sketches"
+    },
+    {
+      "name": "03-dissected-parts.webp",
+      "sha256": "e3aa48aacc8477db8d351975771dba5abd210db741caa9eb9c15648749bcfdc2",
+      "bytes": 25794,
+      "from": "7c9f page 12 — dissected parts"
+    },
+    {
+      "name": "04-tube-axonometric.webp",
+      "sha256": "83098f9ff5eb82c8faa36665efff25c8fb3524512922d326e9a78efc21b2636d",
+      "bytes": 284020,
+      "from": "7c9f page 12 — tube axonometric"
+    },
+    {
+      "name": "05-model-left.webp",
+      "sha256": "8851ac00b0d817eff1eb890fbe676579b386cbcce79d52b1e9a2fcaa96b3b5a0",
+      "bytes": 64906,
+      "from": "7c9f page 13 — model left"
+    },
+    {
+      "name": "06-model-right.webp",
+      "sha256": "cb574553bbb4c97d465d17e17801d1df705d5e5581be0b7d3ef9437ce7dcbfeb",
+      "bytes": 52584,
+      "from": "7c9f page 13 — model right"
+    },
+    {
+      "name": "07-high-contrast.webp",
+      "sha256": "3a6b7f9473eaa9a5bdc1d1a4fc6b59f0460e93b21d84a9405ed24c0c7c361bde",
+      "bytes": 97244,
+      "from": "7c9f page 13 — high contrast"
+    },
+    {
+      "name": "08-detail-gears.webp",
+      "sha256": "43d8ed5bbe5a7d3d4d5f5486a8bfbdc9c5d2d4abac735fa6f6b52be44a1f6b23",
+      "bytes": 88452,
+      "from": "7c9f page 13 — detail gears"
+    }
+  ]
+}
