@@ -66276,6 +66276,426 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Pitch Trajectories",
+      "slug": "pitch-trajectories-movement-lines-to-curved-pvc-model",
+      "description": "Movement lines traced over a football pitch become wires, bent sheets and finally a model of curved PVC walls.\n\nModel making | Movement trace study | PVC boards, wooden sticks, wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "球場軌跡",
+          "description": "描在足球場平面上的移動軌跡，轉化為線材、彎折薄片，最後成為由彎曲 PVC 牆構成的模型。\n\n模型製作｜移動軌跡研究｜PVC 板、木棒、線材｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/01-curve-model.webp",
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/02-pitch-traces.webp",
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/03-trace-renders.webp",
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/04-bent-sheets.webp",
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/05-sheet-cluster.webp",
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/06-stick-curve.webp",
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/07-stick-frame.webp",
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/08-wire-lines.webp",
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/09-coloured-wires.webp",
+        "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/10-model-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/01-curve-model.webp"
+          ],
+          "captions": [
+            "Curved PVC walls on the pitch plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "球場平面上的彎曲 PVC 牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks how the movement of players on a pitch could be turned into space. Lines of motion are treated as the raw material for form.",
+          "images": [
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/02-pitch-traces.webp"
+          ],
+          "captions": [
+            "Movement lines drawn on pitch plans."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探問球員在球場上的移動如何轉化為空間。移動的線條被視為形態的原始材料。",
+              "captions": [
+                "畫在球場平面上的移動線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Paths were traced in colour over plans of a football pitch. The traced lines were then lifted into three-dimensional sketches.",
+          "images": [
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/03-trace-renders.webp",
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/08-wire-lines.webp",
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/09-coloured-wires.webp"
+          ],
+          "captions": [
+            "Traced lines in three dimensions.",
+            "Wire lines over the plan.",
+            "Coloured wire paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生在足球場平面上以彩色線條描出移動路徑。接著把這些描線提升為立體草模。",
+              "captions": [
+                "立體化的描線。",
+                "平面上的線材。",
+                "彩色線材路徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The lines were tested as bent paper sheets and as curved rows of sticks. Each test made the flow of movement more solid.",
+          "images": [
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/04-bent-sheets.webp",
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/05-sheet-cluster.webp",
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/06-stick-curve.webp",
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/07-stick-frame.webp"
+          ],
+          "captions": [
+            "Bent sheets.",
+            "A cluster of sheets.",
+            "A curve of sticks.",
+            "A stick frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把線條分別以彎折紙片與彎曲的木棒列來測試。每一次測試都讓移動的流動更加具體。",
+              "captions": [
+                "彎折的薄片。",
+                "一簇薄片。",
+                "木棒形成的曲線。",
+                "木棒框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model sets curved PVC walls and stick fences directly on the pitch plan. The walls follow the traced paths and form open rooms between them.",
+          "images": [
+            "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model/10-model-view.webp"
+          ],
+          "captions": [
+            "Walls and fences along the paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型把彎曲的 PVC 牆與木棒圍欄直接立在球場平面上。牆體沿著描出的路徑展開，在其間形成開放的空間。",
+              "captions": [
+                "沿路徑展開的牆與圍欄。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Trace a movement on a plan.\n2. Lift the lines into space.\n3. Test sheets and sticks.\n4. Build walls along the paths.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 在平面上描出移動。\n2. 把線條提升到空間中。\n3. 測試薄片與木棒。\n4. 沿路徑搭建牆體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Floating",
+      "slug": "floating-suspended-tree-elements-stick-installation",
+      "description": "A tree is broken down into lines, curves and spheres, then rebuilt as a large hanging installation of bamboo, wood and string.\n\nInstallation | Abstract composition in space | Bamboo, wood, branches, hemp string | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "漂浮",
+          "description": "把一棵樹拆解為直線、曲線與球體，再以竹、木與麻繩重建成一座大型懸吊裝置。\n\n裝置｜空間中的抽象構成｜竹、木、樹枝、麻繩｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/floating-suspended-tree-elements-stick-installation/01-hanging-volume.webp",
+        "assets/board/floating-suspended-tree-elements-stick-installation/02-canopy-curves.webp",
+        "assets/board/floating-suspended-tree-elements-stick-installation/03-low-view.webp",
+        "assets/board/floating-suspended-tree-elements-stick-installation/05-inside-view.webp",
+        "assets/board/floating-suspended-tree-elements-stick-installation/06-cards-and-spheres.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/floating-suspended-tree-elements-stick-installation/01-hanging-volume.webp"
+          ],
+          "captions": [
+            "The hanging installation."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "懸吊裝置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks whether harmony can come from a seemingly impulsive spread of simple elements. It takes an idea from abstract painting and tries it as a volume.",
+          "images": [
+            "assets/board/floating-suspended-tree-elements-stick-installation/02-canopy-curves.webp"
+          ],
+          "captions": [
+            "Curves that stand for the canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探問和諧能否來自看似隨性分布的簡單元素。它借用抽象繪畫的概念，嘗試以體量來實踐。",
+              "captions": [
+                "代表樹冠的曲線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A tree was broken into vertical lines for the trunk, horizontal lines for branches, curves for the canopy and spheres for fruit. These four kinds of element became the full vocabulary of the piece.",
+          "images": [
+            "assets/board/floating-suspended-tree-elements-stick-installation/03-low-view.webp"
+          ],
+          "captions": [
+            "A low view of the elements."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把樹拆解為代表樹幹的垂直線、代表枝條的水平線、代表樹冠的曲線與代表果實的球體。這四類元素構成整件作品的全部語彙。",
+              "captions": [
+                "低角度看元素。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The canopy curves were placed first and stretched downward into a volume. A trunk was added in the middle and allowed to grow, with spheres added to balance the straight lines.",
+          "images": [
+            "assets/board/floating-suspended-tree-elements-stick-installation/05-inside-view.webp"
+          ],
+          "captions": [
+            "Inside the volume."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生先放置樹冠曲線，再向下延伸成一個體量。接著在中央加入樹幹讓它自由生長，並加入球體來平衡直線。",
+              "captions": [
+                "體量內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished piece hangs at about the size of a person, dense yet light. Dry segmented branches were finally added to test more natural elements.",
+          "images": [
+            "assets/board/floating-suspended-tree-elements-stick-installation/06-cards-and-spheres.webp"
+          ],
+          "captions": [
+            "Cards, sticks and spheres."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的作品懸吊著，尺度約與人相當，密集而輕盈。最後學生加入分段的乾樹枝，測試更接近自然的元素。",
+              "captions": [
+                "卡片、木棒與球體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Break an object into elements.\n2. Give each element one form.\n3. Place them freely.\n4. Balance by adding and removing.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把物件拆解成元素。\n2. 為每種元素指定一種形態。\n3. 自由地放置它們。\n4. 以增減來取得平衡。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Stages of Freedom",
+      "slug": "stages-of-freedom-stick-tower-from-cage-to-flight",
+      "description": "A stick tower rises from a closed frame of crystal cubes to folded paper wings, telling a journey from restriction to freedom.\n\nModel making | Narrative tower | Wooden sticks, PVC boards, iridescent sheets, string | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "自由的階段",
+          "description": "木棒高塔從封閉框架中的晶體方塊升起，延伸到摺紙翅膀，講述從受限到自由的旅程。\n\n模型製作｜敘事高塔｜木棒、PVC 板、虹彩片、細線｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/01-rising-tower.webp",
+        "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/02-stage-sketches.webp",
+        "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/03-tower-on-base.webp",
+        "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/04-crystal-cubes.webp",
+        "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/05-paper-wings.webp",
+        "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/06-full-height.webp",
+        "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/07-lower-frame.webp",
+        "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/08-middle-levels.webp",
+        "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/09-top-levels.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/01-rising-tower.webp"
+          ],
+          "captions": [
+            "The tower rising out of its frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從框架中升起的高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks how a story of escape could be told as a vertical space. Each level of the tower stands for one stage of the journey.",
+          "images": [
+            "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/02-stage-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of the three stages."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探問一段逃離的故事如何以垂直空間來講述。高塔的每一層代表旅程的一個階段。",
+              "captions": [
+                "三個階段的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sketches set out three stages: being bound by restrictions, confronting the rules and finally being free. Cubes, triangles and loose loops were tried as symbols for each stage.",
+          "images": [
+            "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/03-tower-on-base.webp"
+          ],
+          "captions": [
+            "The tower on its base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以草圖設定三個階段：受限制所束縛、挑戰規則，最後獲得自由。方塊、三角形與鬆散的迴圈被試作為各階段的象徵。",
+              "captions": [
+                "基座上的高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The lowest stage was built as a closed stick frame holding iridescent crystal cubes. Above it, a twisting stick structure and an orange ribbon climb toward folded paper wings.",
+          "images": [
+            "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/04-crystal-cubes.webp",
+            "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/05-paper-wings.webp",
+            "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/07-lower-frame.webp"
+          ],
+          "captions": [
+            "Crystal cubes inside the frame.",
+            "Folded paper wings.",
+            "The lower frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "最低的階段以封閉的木棒框架承載虹彩晶體方塊。其上，扭轉的木棒結構與橘色緞帶一路攀升至摺紙翅膀。",
+              "captions": [
+                "框架內的晶體方塊。",
+                "摺紙翅膀。",
+                "下層框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished tower reads from bottom to top as a path from confinement to open sky. Small figures climb its stairs and stand among the wings.",
+          "images": [
+            "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/06-full-height.webp",
+            "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/08-middle-levels.webp",
+            "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight/09-top-levels.webp"
+          ],
+          "captions": [
+            "The full height of the tower.",
+            "The middle levels.",
+            "The top levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的高塔由下而上，讀起來像一條從禁錮走向開闊天空的路徑。小人偶沿著樓梯攀爬，站在翅膀之間。",
+              "captions": [
+                "高塔全高。",
+                "中段樓層。",
+                "頂部樓層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Write the story in stages.\n2. Give each stage a symbol.\n3. Stack the stages upward.\n4. Let the top open out.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 把故事分成階段。\n2. 為每個階段指定象徵。\n3. 將階段向上堆疊。\n4. 讓頂部向外開展。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
