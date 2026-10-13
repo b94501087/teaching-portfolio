@@ -1,0 +1,61 @@
+{
+  "project": "Tree, Nest and Root",
+  "dest": "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels",
+  "note": "Portfolio fbb7 pages 10-11 cropped to nine images, WebP q88 (PIL). Retitled to avoid a clash with an existing pin. Not used: experiment photos with hands or faces, handwritten note on the sketch.",
+  "files": [
+    {
+      "name": "01-tree-model.webp",
+      "sha256": "b45e20fc4004721c3233f690dfc76bfb59b9970a45b8815a9ccbee205312ffc0",
+      "bytes": 153326,
+      "from": "fbb7 page 11 — tree model"
+    },
+    {
+      "name": "02-toppled-roots.webp",
+      "sha256": "037f34aa2e6ef6751f655074cfead0ef85327ea46de6f9bb931883cd930c05f7",
+      "bytes": 170996,
+      "from": "fbb7 page 11 — toppled roots"
+    },
+    {
+      "name": "03-tree-house-sketches.webp",
+      "sha256": "ad1e762e77ffac680399e38a7e47c71edae0b090d0d209b5dfba542b581c002e",
+      "bytes": 91888,
+      "from": "fbb7 page 10 — tree house sketches"
+    },
+    {
+      "name": "04-ant-tank.webp",
+      "sha256": "468845de2de91b2636a5b3e5ab7f7c74fc87cbf75278625b506b9b4e7d32bc63",
+      "bytes": 40432,
+      "from": "fbb7 page 10 — ant tank"
+    },
+    {
+      "name": "05-gel-tunnels.webp",
+      "sha256": "5e311daee93927250d02ca88aba014e1a68ce97551438595b4caf31acdcf128c",
+      "bytes": 26860,
+      "from": "fbb7 page 10 — gel tunnels"
+    },
+    {
+      "name": "06-roots-in-gel.webp",
+      "sha256": "7fe3fcf999268498a5052a59712d43b2b32a4e3972abd6782e291862015b4a24",
+      "bytes": 41376,
+      "from": "fbb7 page 10 — roots in gel"
+    },
+    {
+      "name": "07-branch-nests.webp",
+      "sha256": "95fbba4d14bf17e66a83965e95f1db51b3c0f7e2dfb554a38d76ad485ec7447a",
+      "bytes": 96028,
+      "from": "fbb7 page 11 — branch nests"
+    },
+    {
+      "name": "08-root-base.webp",
+      "sha256": "cbc873ca74a4c43e8fc1701a6cf5cc0d95425bd5e3da012416edae70612e7b17",
+      "bytes": 39024,
+      "from": "fbb7 page 11 — root base"
+    },
+    {
+      "name": "09-ladder-detail.webp",
+      "sha256": "9cfd64a85c74f562861011dad04062252559a24b9709dcda3dcefec29d2c6f51",
+      "bytes": 51548,
+      "from": "fbb7 page 11 — ladder detail"
+    }
+  ]
+}
