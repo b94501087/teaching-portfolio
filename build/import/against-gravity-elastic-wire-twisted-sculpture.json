@@ -1,0 +1,31 @@
+{
+  "project": "Against Gravity",
+  "dest": "assets/board/against-gravity-elastic-wire-twisted-sculpture",
+  "note": "Portfolio d669 page 7 cropped to 4 images, WebP q88 (PIL). Not used: process photos of hands bending wire.",
+  "files": [
+    {
+      "name": "01-wire-sculpture-view-a.webp",
+      "sha256": "1d8169d2efcb05e4f9a665791223a3d7b7fb5dfd62d41c15d90cbae18eec8d9e",
+      "bytes": 62564,
+      "from": "d669 page 7 — the wire sculpture"
+    },
+    {
+      "name": "02-wire-sculpture-view-b.webp",
+      "sha256": "9d8fd05f84944bf1e4141c750c26ad9c3e7b18a76263b4551f28e689e56daebc",
+      "bytes": 83366,
+      "from": "d669 page 7 — the sculpture from another side"
+    },
+    {
+      "name": "03-wire-sculpture-view-c.webp",
+      "sha256": "7372965a17e5ddbe4d51c3a6f4e316117a1f10aa6918d1a89656b22b95f0eeeb",
+      "bytes": 55142,
+      "from": "d669 page 7 — a twisting cluster"
+    },
+    {
+      "name": "04-wire-sculpture-view-d.webp",
+      "sha256": "6b347702ea550ad567a283df81f91e07d727f0411aa2e4dfbe90cef4947871d2",
+      "bytes": 56498,
+      "from": "d669 page 7 — the fourth view"
+    }
+  ]
+}
