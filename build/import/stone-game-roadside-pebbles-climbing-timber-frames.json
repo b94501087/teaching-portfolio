@@ -1,0 +1,67 @@
+{
+  "project": "Stone Game",
+  "dest": "assets/board/stone-game-roadside-pebbles-climbing-timber-frames",
+  "note": "Portfolio 1d03 pages 4-5 cropped to 10 images, WebP q88 (PIL). Not used: photos of hands holding stones and working on frames, references to a biblical tower, a winery wall and a television series.",
+  "files": [
+    {
+      "name": "01-stone-arch-of-frames.webp",
+      "sha256": "4f88886b22b8339f40265b4f0a7e425169e16ed9421930f98725cbf70138b2f5",
+      "bytes": 124616,
+      "from": "1d03 pages 4-5 — the arch of frames and stones"
+    },
+    {
+      "name": "02-tree-and-stone-concept-drawing.webp",
+      "sha256": "b4a6eb1f19432e84ed891aa1e3248018aaedfe65e76f84bf49d059ef48d85620",
+      "bytes": 93894,
+      "from": "1d03 pages 4-5 — a concept drawing of gathering stones"
+    },
+    {
+      "name": "03-triangle-frame-line-drawing.webp",
+      "sha256": "f3c0b74d8a569c993a5384544b3727759a75c13c51fa5b91567abcd565f038f3",
+      "bytes": 48804,
+      "from": "1d03 pages 4-5 — a line drawing of the frames"
+    },
+    {
+      "name": "04-triangular-timber-frames.webp",
+      "sha256": "56f7b626b5a8b0ce852b400aad99ec0817ea2e09f81caf976bc2f1fed92ddb71",
+      "bytes": 31274,
+      "from": "1d03 pages 4-5 — triangular timber frames"
+    },
+    {
+      "name": "05-stones-held-in-a-triangle.webp",
+      "sha256": "8b379115af1f123d99ff20dd46d2100a73bcc32e85acaf9c21fda9c70abe31ca",
+      "bytes": 9852,
+      "from": "1d03 pages 4-5 — stones held in a triangle"
+    },
+    {
+      "name": "06-three-stone-pillars.webp",
+      "sha256": "ef392bd12da060ef8d3cbb50b3a304f3e59601341ea273389d7772e80771d743",
+      "bytes": 61778,
+      "from": "1d03 pages 4-5 — three stone pillars"
+    },
+    {
+      "name": "07-arch-line-drawing.webp",
+      "sha256": "484202095c63072ea09567bc9381d2b1ba06e1aa26aef07c7b0537c44b139957",
+      "bytes": 18732,
+      "from": "1d03 pages 4-5 — a line drawing of the arch"
+    },
+    {
+      "name": "08-climbing-stones-top-view.webp",
+      "sha256": "ca3aee11239990f5923317970370b10796a81750d48fad830d6d02114fe462b9",
+      "bytes": 152284,
+      "from": "1d03 pages 4-5 — climbing stones from above"
+    },
+    {
+      "name": "09-frames-and-stones-low-view.webp",
+      "sha256": "0472410915dbc6f1515970b52371d1bf3ae7668e348c95c7500c98607fff3aad",
+      "bytes": 24518,
+      "from": "1d03 pages 4-5 — frames and stones from a low angle"
+    },
+    {
+      "name": "10-arch-front-view.webp",
+      "sha256": "1e526f2c5557a44240e7f303e98e6c12af4dec5d5ee7255e94632910ba86c173",
+      "bytes": 32216,
+      "from": "1d03 pages 4-5 — the arch from the front"
+    }
+  ]
+}
