@@ -57492,6 +57492,450 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Site of Solid and Steel",
+      "slug": "site-of-solid-and-steel-plaster-and-rebar-cantilever",
+      "description": "Columns that vanish into a building's foundation inspire a cantilevered plaster form pierced by steel rods.\n\nModel making | Structure and material | Whiteform, PVC board, metal rods, plaster and clear plastic | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "實體與鋼筋之境",
+          "description": "終將隱沒於建築基礎中的柱子，啟發了一個被鋼條穿透的懸挑石膏形體。\n\n模型製作｜結構與材料｜白色泡綿板、PVC板、金屬條、石膏與透明塑膠｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/01-final-model.webp",
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/02-grid-block.webp",
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/03-wired-ring.webp",
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/04-rebar-cluster.webp",
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/05-linked-forms.webp",
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/06-pierced-sheet.webp",
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/07-curved-sheet.webp",
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/08-grid-sheets.webp",
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/09-front-view.webp",
+        "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/10-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/01-final-model.webp"
+          ],
+          "captions": [
+            "The cantilevered plaster and steel model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "懸挑的石膏與鋼條模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Foundation columns are built and then hidden for ever inside a building. The student wanted to make this unseen rebar moment visible as architecture.",
+          "images": [
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/02-grid-block.webp",
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/03-wired-ring.webp"
+          ],
+          "captions": [
+            "An early solid block study.",
+            "A round form bound with wire."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "基礎柱子在建造後便永遠隱沒於建築之中。學生想把這段看不見的鋼筋時刻轉化為可見的建築。",
+              "captions": [
+                "早期的實體量塊研究。",
+                "以鐵絲綁紮的圓形量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She first sculpted solid forms on a grid and found them heavy and bound by gravity. Wire and rods were tried as ways to loosen the mass.",
+          "images": [
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/04-rebar-cluster.webp",
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/05-linked-forms.webp"
+          ],
+          "captions": [
+            "Rods rising from the blocks.",
+            "Linked forms with rods."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她先在格網上雕塑實體量體，發現它們沉重且受制於重力。接著嘗試以鐵絲與鋼條鬆動量體。",
+              "captions": [
+                "從量塊中升起的鋼條。",
+                "以鋼條串聯的量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Thin sheets were pierced with rods to test how steel can hold a surface. Clear plastic molds then helped turn heavy plaster into a curved cantilever.",
+          "images": [
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/06-pierced-sheet.webp",
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/07-curved-sheet.webp",
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/08-grid-sheets.webp"
+          ],
+          "captions": [
+            "Rods pierce a thin sheet.",
+            "A curved sheet with rods.",
+            "Grid sheet tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以鋼條穿透薄片，測試鋼材如何撐起表面。透明塑膠模具則幫助把厚重石膏轉化為彎曲的懸挑。",
+              "captions": [
+                "鋼條穿透薄片。",
+                "帶鋼條的彎曲薄片。",
+                "格線薄片測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A white plaster wave floats over its base while a cloud of rods rises above it. Solid and steel finally share one light structure.",
+          "images": [
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/09-front-view.webp",
+            "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever/10-side-view.webp"
+          ],
+          "captions": [
+            "Front view of the frame.",
+            "Side view of the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "白色石膏波浪漂浮在基座上方，一片鋼條之雲在其上升起。實體與鋼材終於共構成一個輕盈的結構。",
+              "captions": [
+                "骨架正視。",
+                "骨架側視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find a hidden moment.\n2. Test heavy forms.\n3. Add a contrasting material.\n4. Let it lift.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找到被隱藏的時刻。\n2. 測試厚重的形體。\n3. 加入對比的材料。\n4. 讓它浮起。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Ascending Realms",
+      "slug": "ascending-realms-layered-game-world-timber-tower",
+      "description": "A layered sandbox game world becomes a vertical tower of white blocks, timber stairs and decks.\n\nModel making | Vertical space | Wood slices, wood battens and 3D printing | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "攀升之境",
+          "description": "層層堆疊的沙盒遊戲世界，化為由白色量塊、木梯與平台組成的垂直塔樓。\n\n模型製作｜垂直空間｜木片、木條與3D列印｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/ascending-realms-layered-game-world-timber-tower/01-final-tower.webp",
+        "assets/board/ascending-realms-layered-game-world-timber-tower/02-game-collage.webp",
+        "assets/board/ascending-realms-layered-game-world-timber-tower/03-digital-blocks.webp",
+        "assets/board/ascending-realms-layered-game-world-timber-tower/04-print-file.webp",
+        "assets/board/ascending-realms-layered-game-world-timber-tower/05-block-studies.webp",
+        "assets/board/ascending-realms-layered-game-world-timber-tower/06-timber-stairs.webp",
+        "assets/board/ascending-realms-layered-game-world-timber-tower/07-angled-view.webp",
+        "assets/board/ascending-realms-layered-game-world-timber-tower/08-full-model.webp",
+        "assets/board/ascending-realms-layered-game-world-timber-tower/09-top-view.webp",
+        "assets/board/ascending-realms-layered-game-world-timber-tower/10-deck-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/ascending-realms-layered-game-world-timber-tower/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished vertical tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的垂直塔樓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Sandbox games let players build freely across many stacked layers. The student asked how that playful, layered world could become a real piece of architecture.",
+          "images": [
+            "assets/board/ascending-realms-layered-game-world-timber-tower/02-game-collage.webp"
+          ],
+          "captions": [
+            "A collage of game world scenes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "沙盒遊戲讓玩家在多層堆疊的世界中自由建造。學生思考這個充滿玩心的分層世界如何成為真實的建築。",
+              "captions": [
+                "遊戲世界場景拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She made a collage of game scenes to study their vertical and modular spaces. The collage was then rebuilt as a precise digital block model.",
+          "images": [
+            "assets/board/ascending-realms-layered-game-world-timber-tower/03-digital-blocks.webp",
+            "assets/board/ascending-realms-layered-game-world-timber-tower/04-print-file.webp"
+          ],
+          "captions": [
+            "Digital block models.",
+            "Preparing the 3D print."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她拼貼遊戲場景，研究其垂直與模組化的空間。拼貼再被重建為精確的數位量塊模型。",
+              "captions": [
+                "數位量塊模型。",
+                "準備3D列印。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The blocks were 3D printed and assembled into a stack. Wood battens and stairs were added to brace the tower and link its levels like tunnels.",
+          "images": [
+            "assets/board/ascending-realms-layered-game-world-timber-tower/05-block-studies.webp",
+            "assets/board/ascending-realms-layered-game-world-timber-tower/06-timber-stairs.webp",
+            "assets/board/ascending-realms-layered-game-world-timber-tower/07-angled-view.webp"
+          ],
+          "captions": [
+            "Small block studies.",
+            "Timber stairs on the blocks.",
+            "An angled view of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "量塊經3D列印後組裝成堆疊。再加入木條與樓梯，強化塔身，並像隧道般串連各層。",
+              "captions": [
+                "小型量塊研究。",
+                "量塊上的木梯。",
+                "塔樓的斜角視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "White masses and timber decks climb together into a busy vertical town. Viewers are invited to trace routes from level to level.",
+          "images": [
+            "assets/board/ascending-realms-layered-game-world-timber-tower/08-full-model.webp",
+            "assets/board/ascending-realms-layered-game-world-timber-tower/09-top-view.webp",
+            "assets/board/ascending-realms-layered-game-world-timber-tower/10-deck-detail.webp"
+          ],
+          "captions": [
+            "The model in full.",
+            "Looking down on the decks.",
+            "Detail of the timber decks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "白色量體與木平台一同攀升，成為熱鬧的垂直小鎮。觀者被邀請追尋一層又一層的路徑。",
+              "captions": [
+                "模型全貌。",
+                "俯視各層平台。",
+                "木平台的細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a familiar world.\n2. Collage its spaces.\n3. Model it as blocks.\n4. Link the levels.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究熟悉的世界。\n2. 拼貼其空間。\n3. 以量塊建模。\n4. 串連各層。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Ethereal Bamboo Pavilion",
+      "slug": "ethereal-bamboo-pavilion-woven-two-level-frame",
+      "description": "Woven bamboo and wood strips form a hollow two-level pavilion that lets light and air pass through.\n\nModel making | Bamboo structure | Bamboo weaving and wood strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "輕盈竹亭",
+          "description": "編織的竹材與木條構成中空的雙層涼亭，讓光與空氣自由穿透。\n\n模型製作｜竹構造｜竹編與木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/01-final-pavilion.webp",
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/02-weave-patterns.webp",
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/03-star-units.webp",
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/04-early-frames.webp",
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/05-deck-frame.webp",
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/06-lit-model.webp",
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/07-front-view.webp",
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/08-roof-weave.webp",
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/09-inner-stair.webp",
+        "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/10-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/01-final-pavilion.webp"
+          ],
+          "captions": [
+            "The woven bamboo pavilion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "編織竹亭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Bamboo is light, flexible and deeply tied to Asian building traditions. The student wanted a pavilion that feels open and at one with nature.",
+          "images": [
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/02-weave-patterns.webp"
+          ],
+          "captions": [
+            "Bamboo weave patterns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "竹材輕盈、柔韌，並與亞洲建築傳統緊密相連。學生想做一座開放、與自然融為一體的涼亭。",
+              "captions": [
+                "竹編圖樣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She studied traditional pagoda forms and many bamboo weaving patterns. Small star-shaped units tested how thin poles can lock together.",
+          "images": [
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/03-star-units.webp",
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/04-early-frames.webp"
+          ],
+          "captions": [
+            "Star-shaped bamboo units.",
+            "Early spiky frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她研究傳統塔樓形式與多種竹編圖樣。小型星形單元測試細竹如何相互扣合。",
+              "captions": [
+                "星形竹構單元。",
+                "早期的尖刺骨架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Poles of different thickness were woven and braided into the outer walls. Two floors were linked by an open triangular stair and braced with wood strips.",
+          "images": [
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/05-deck-frame.webp",
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/06-lit-model.webp",
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/07-front-view.webp"
+          ],
+          "captions": [
+            "The deck and its bracing.",
+            "The model under light.",
+            "Front view of the pavilion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "不同粗細的竹竿被編織成外牆。兩層樓以開放的三角樓梯相連，並以木條斜撐加固。",
+              "captions": [
+                "平台與其斜撐。",
+                "光線下的模型。",
+                "涼亭正視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The hollow pavilion curls upward like a woven cloud. Light passes through its rhythmic net and casts soft patterns below.",
+          "images": [
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/08-roof-weave.webp",
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/09-inner-stair.webp",
+            "assets/board/ethereal-bamboo-pavilion-woven-two-level-frame/10-side-view.webp"
+          ],
+          "captions": [
+            "The woven roof.",
+            "The triangular stair inside.",
+            "Side view of the roof."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "中空的涼亭如編織的雲般向上捲起。光線穿過富節奏的網格，在下方投出柔和的圖案。",
+              "captions": [
+                "編織屋頂。",
+                "內部的三角樓梯。",
+                "屋頂側視。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study weave patterns.\n2. Test small units.\n3. Weave the walls.\n4. Brace the structure.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究編織圖樣。\n2. 測試小單元。\n3. 編織牆面。\n4. 加固結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
