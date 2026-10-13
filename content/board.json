@@ -72432,6 +72432,430 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "In Silence",
+      "slug": "in-silence-gauze-layers-and-projected-light",
+      "description": "Layers of gauze catch projected light in a dark box, built from close study of light and shadow in a quiet room.\n\nInstallation and drawings | Light-and-shadow study | Projector, wood, gauze | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "靜默之中",
+          "description": "數層紗布在暗箱中承接投影光線，源自對安靜房間中光影的細心觀察。\n\n裝置與繪圖｜光影研究｜投影機、木材、紗布｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/in-silence-gauze-layers-and-projected-light/01-gauze-layers-with-projection.webp",
+        "assets/board/in-silence-gauze-layers-and-projected-light/02-gauze-layers-at-an-angle.webp",
+        "assets/board/in-silence-gauze-layers-and-projected-light/03-gauze-in-blue-light.webp",
+        "assets/board/in-silence-gauze-layers-and-projected-light/04-room-light-drawing.webp",
+        "assets/board/in-silence-gauze-layers-and-projected-light/05-corner-light-drawing.webp",
+        "assets/board/in-silence-gauze-layers-and-projected-light/06-window-shadow-drawing.webp",
+        "assets/board/in-silence-gauze-layers-and-projected-light/07-chair-in-shadow-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/in-silence-gauze-layers-and-projected-light/01-gauze-layers-with-projection.webp"
+          ],
+          "captions": [
+            "Gauze layers with projected light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "投影光線下的紗布層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted others to feel what a dim, quiet inner world is like. The project asks how light and space can share that feeling.",
+          "images": [
+            "assets/board/in-silence-gauze-layers-and-projected-light/04-room-light-drawing.webp"
+          ],
+          "captions": [
+            "Light in a room."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生希望讓別人感受到一個昏暗而安靜的內心世界。這個專題探問，光與空間如何傳達這種感受。",
+              "captions": [
+                "房間裡的光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew the light and shadow in one room over time. Curtains, plants and a chair were recorded in pencil.",
+          "images": [
+            "assets/board/in-silence-gauze-layers-and-projected-light/05-corner-light-drawing.webp",
+            "assets/board/in-silence-gauze-layers-and-projected-light/07-chair-in-shadow-drawing.webp"
+          ],
+          "captions": [
+            "A corner in soft light.",
+            "A chair in shadow."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生長時間描繪同一個房間裡的光影。窗簾、植物與椅子都以鉛筆記錄下來。",
+              "captions": [
+                "柔光中的角落。",
+                "陰影中的椅子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Window shadows became the key pattern. Layers of gauze on wooden frames were set up to catch a projection.",
+          "images": [
+            "assets/board/in-silence-gauze-layers-and-projected-light/06-window-shadow-drawing.webp"
+          ],
+          "captions": [
+            "Window shadows."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "窗影成為關鍵圖樣。木框上的數層紗布被架起，用來承接投影。",
+              "captions": [
+                "窗影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 21.6-inch box glows with soft, blurred light. Each layer of gauze makes the image hazier.",
+          "images": [
+            "assets/board/in-silence-gauze-layers-and-projected-light/02-gauze-layers-at-an-angle.webp",
+            "assets/board/in-silence-gauze-layers-and-projected-light/03-gauze-in-blue-light.webp"
+          ],
+          "captions": [
+            "Gauze layers at an angle.",
+            "Gauze in blue light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個21.6英寸的箱體散發柔和而模糊的光。每一層紗布都讓影像更加朦朧。",
+              "captions": [
+                "斜看紗布層。",
+                "藍光中的紗布。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch one room for a long time.\n2. Draw only light and shadow.\n3. Pick a soft, see-through material.\n4. Project light through the layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 長時間觀察一個房間。\n2. 只描繪光與影。\n3. 選一種柔軟透光的材料。\n4. 讓光穿過層層材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Snooker Museum",
+      "slug": "snooker-museum-ball-paths-to-straw-landscape",
+      "description": "The paths of snooker balls in one match are drawn in 2D, then raised into a landscape of straws, sticks and folded planes.\n\nModel | Movement-to-space study | Card paper, foam, tracing paper, wooden sticks, recycled straws | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "司諾克博物館",
+          "description": "一場比賽中司諾克球的路徑先以平面繪出，再升起成一片由吸管、木條與折板構成的地景。\n\n模型｜動作轉空間研究｜卡紙、泡棉、描圖紙、木條、回收吸管｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/snooker-museum-ball-paths-to-straw-landscape/01-ball-path-landscape.webp",
+        "assets/board/snooker-museum-ball-paths-to-straw-landscape/02-straw-field-close-up.webp",
+        "assets/board/snooker-museum-ball-paths-to-straw-landscape/03-folded-planes-and-figure.webp",
+        "assets/board/snooker-museum-ball-paths-to-straw-landscape/04-stick-frame-with-blue-cubes.webp",
+        "assets/board/snooker-museum-ball-paths-to-straw-landscape/05-ball-path-drawings.webp",
+        "assets/board/snooker-museum-ball-paths-to-straw-landscape/06-straw-cloud-test.webp",
+        "assets/board/snooker-museum-ball-paths-to-straw-landscape/07-stick-zigzag-test.webp",
+        "assets/board/snooker-museum-ball-paths-to-straw-landscape/08-block-stack-test.webp",
+        "assets/board/snooker-museum-ball-paths-to-straw-landscape/09-folded-triangle-test.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/snooker-museum-ball-paths-to-straw-landscape/01-ball-path-landscape.webp"
+          ],
+          "captions": [
+            "The ball path landscape."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "球路地景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Snooker is a sport the student plays well. Spin makes the white ball take varied, creative routes, and the project turns them into space.",
+          "images": [
+            "assets/board/snooker-museum-ball-paths-to-straw-landscape/05-ball-path-drawings.webp"
+          ],
+          "captions": [
+            "Ball path drawings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "司諾克是學生擅長的運動。旋轉讓母球走出多變而富創意的路線，這個專題把它們轉化為空間。",
+              "captions": [
+                "球路繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student traced every ball path in a classic match. Small tests tried different materials on the same paths.",
+          "images": [
+            "assets/board/snooker-museum-ball-paths-to-straw-landscape/06-straw-cloud-test.webp",
+            "assets/board/snooker-museum-ball-paths-to-straw-landscape/07-stick-zigzag-test.webp",
+            "assets/board/snooker-museum-ball-paths-to-straw-landscape/08-block-stack-test.webp",
+            "assets/board/snooker-museum-ball-paths-to-straw-landscape/09-folded-triangle-test.webp"
+          ],
+          "captions": [
+            "A straw test.",
+            "A stick test.",
+            "A block test.",
+            "A folded plane test."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生描出一場經典比賽中每顆球的路徑。小型試驗在相同路徑上測試不同材料。",
+              "captions": [
+                "吸管試驗。",
+                "木條試驗。",
+                "方塊試驗。",
+                "折板試驗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Card, sticks and straws were built up along the paths. Recycled straws were used to cut plastic waste.",
+          "images": [
+            "assets/board/snooker-museum-ball-paths-to-straw-landscape/04-stick-frame-with-blue-cubes.webp"
+          ],
+          "captions": [
+            "A stick frame with blue cubes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "卡紙、木條與吸管沿著路徑堆起。學生使用回收吸管以減少塑膠垃圾。",
+              "captions": [
+                "帶藍色方塊的木條框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 31.5-inch model is a hazy field of straws under stick peaks. Light through the straws makes soft round shadows.",
+          "images": [
+            "assets/board/snooker-museum-ball-paths-to-straw-landscape/02-straw-field-close-up.webp",
+            "assets/board/snooker-museum-ball-paths-to-straw-landscape/03-folded-planes-and-figure.webp"
+          ],
+          "captions": [
+            "The straw field close up.",
+            "Folded planes with a scale figure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個31.5英寸的模型是一片位於木條尖峰下的朦朧吸管群。穿過吸管的光投下柔和的圓形陰影。",
+              "captions": [
+                "吸管群近觀。",
+                "折板與比例人。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a sport you know.\n2. Trace its paths in 2D.\n3. Test materials on each path.\n4. Raise the paths into space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 挑一項熟悉的運動。\n2. 以平面描出路徑。\n3. 在每條路徑上測試材料。\n4. 把路徑升起成空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "House of Reptiles",
+      "slug": "house-of-reptiles-mossy-wire-frame-terrarium",
+      "description": "A twisted wire frame with stick platforms is covered in moss and plants as a rainforest home for lizards.\n\nModel and render | Habitat study | Metal strips, wooden sticks, plants, coconut soil | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "爬蟲之家",
+          "description": "扭轉的鐵絲框架加上木條平台，覆上苔蘚與植物，成為蜥蜴的雨林之家。\n\n模型與算圖｜棲地研究｜金屬條、木條、植物、椰土｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/01-gecko-on-moss-platform.webp",
+        "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/02-mossy-branch-frame.webp",
+        "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/03-wire-frame-in-the-tank.webp",
+        "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/04-triangle-stick-panel.webp",
+        "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/05-panels-being-made.webp",
+        "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/06-lizard-drawing.webp",
+        "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/07-frame-render.webp",
+        "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/08-moss-and-roots-close-up.webp",
+        "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/09-platform-under-moss.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/01-gecko-on-moss-platform.webp"
+          ],
+          "captions": [
+            "A gecko on a moss platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "苔蘚平台上的壁虎。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student keeps many lizards at home. The project asks how to build a rainforest home that suits them.",
+          "images": [
+            "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/06-lizard-drawing.webp"
+          ],
+          "captions": [
+            "A lizard drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生在家養了許多蜥蜴。這個專題探問，如何打造適合牠們的雨林之家。",
+              "captions": [
+                "蜥蜴素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A branching frame like fungus threads was tested in a digital model. It gives many paths for climbing.",
+          "images": [
+            "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/07-frame-render.webp"
+          ],
+          "captions": [
+            "A frame render."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一個如菌絲般分枝的框架先在數位模型中測試。它提供許多攀爬路徑。",
+              "captions": [
+                "框架算圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Twisted wire forms the frame in the tank. Sticks fixed into triangles make platforms on it.",
+          "images": [
+            "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/03-wire-frame-in-the-tank.webp",
+            "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/04-triangle-stick-panel.webp",
+            "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/05-panels-being-made.webp"
+          ],
+          "captions": [
+            "The wire frame in the tank.",
+            "A triangle stick panel.",
+            "Panels being made."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "扭轉的鐵絲在缸中構成框架。固定成三角形的木條在其上形成平台。",
+              "captions": [
+                "缸中的鐵絲框架。",
+                "三角形木條板。",
+                "製作中的平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 19.6-inch frame is covered in moss over coconut soil that keeps it damp. The platforms look like natural leaves.",
+          "images": [
+            "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/02-mossy-branch-frame.webp",
+            "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/08-moss-and-roots-close-up.webp",
+            "assets/board/house-of-reptiles-mossy-wire-frame-terrarium/09-platform-under-moss.webp"
+          ],
+          "captions": [
+            "The mossy frame.",
+            "Moss and roots close up.",
+            "A platform under moss."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個19.6英寸的框架覆滿苔蘚，下方的椰土保持濕潤。平台看起來就像天然的葉片。",
+              "captions": [
+                "覆苔的框架。",
+                "苔蘚與根近觀。",
+                "苔蘚下的平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from an animal you know.\n2. Study its natural home.\n3. Build a frame to climb on.\n4. Let living plants finish it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從熟悉的動物出發。\n2. 研究牠的自然棲地。\n3. 建一個可攀爬的框架。\n4. 讓活植物完成它。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
