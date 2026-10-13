@@ -1,0 +1,49 @@
+{
+  "project": "Protecting Wild Habitats",
+  "dest": "assets/board/protecting-wild-habitats-grass-and-wire-cage",
+  "note": "Portfolio ca28 page 10 cropped to 7 images, WebP q88 (PIL). Not used: place photo and maps, region names.",
+  "files": [
+    {
+      "name": "01-grass-field-in-a-wire-cage.webp",
+      "sha256": "c527a9f8cfe66913d090f7c6d725dc61a56243ea1c92a2f6d59601271e47127c",
+      "bytes": 109866,
+      "from": "ca28 page 10 — a grass field in a wire cage"
+    },
+    {
+      "name": "02-field-from-above.webp",
+      "sha256": "3df54c3b1a5f3fc2311fd3d0b40dccaad64bd5576646b0f4890f7b54391658ce",
+      "bytes": 48894,
+      "from": "ca28 page 10 — the field from above"
+    },
+    {
+      "name": "03-tall-grass-close-up.webp",
+      "sha256": "3fbed6141a18f43f0acf520891f2ed6d47bb2f283627b4b2ac4bf3af4cab967d",
+      "bytes": 13638,
+      "from": "ca28 page 10 — tall grass close up"
+    },
+    {
+      "name": "04-wire-walls-and-grass.webp",
+      "sha256": "5d2d5288f8c43aecc78b0a90f16e33e0316882bde5b9cb8fb558b68650bfaa67",
+      "bytes": 16590,
+      "from": "ca28 page 10 — wire walls and grass"
+    },
+    {
+      "name": "05-box-sketch.webp",
+      "sha256": "50b0419546ad8d2bbcc49f068193a2a0041d36955aa13c9ea92262a0a7cb918f",
+      "bytes": 6068,
+      "from": "ca28 page 10 — a box sketch"
+    },
+    {
+      "name": "06-fenced-boxes-sketch.webp",
+      "sha256": "3debeb25cf36506c46463d6e5ba219c817e119d06da8a2d7c94e4e9a44d129ba",
+      "bytes": 19270,
+      "from": "ca28 page 10 — fenced boxes"
+    },
+    {
+      "name": "07-stepped-boxes-sketch.webp",
+      "sha256": "9a65d55c5abbba71d1e113cdee1aa088f6f3e09bf1fb1b9468a5dfce37bf3776",
+      "bytes": 17466,
+      "from": "ca28 page 10 — stepped boxes"
+    }
+  ]
+}
