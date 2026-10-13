@@ -1,0 +1,67 @@
+{
+  "project": "Silent Canopy",
+  "dest": "assets/board/silent-canopy-mangroves-beneath-concrete-model",
+  "note": "Portfolio cd80 pages 2-4 cropped to ten images, WebP q88 (PIL). Not used: title and text, city names, experiment and process photos with hands.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "97030636a0ed17626f50cc6c997a6c2beb4dce37b5644b57c261fb29f1703998",
+      "bytes": 37210,
+      "from": "cd80 page 4 — final model"
+    },
+    {
+      "name": "02-watercolour.webp",
+      "sha256": "4a741a9a4c32401ca44e52cea069d564b849f5d1110e60e342468dd0b733d69b",
+      "bytes": 133886,
+      "from": "cd80 page 2 — watercolour"
+    },
+    {
+      "name": "03-species-sketch.webp",
+      "sha256": "5972c3be3cd5665a5540d125f19c4e3d83d2dda12da784c93f267c0fa24b84d6",
+      "bytes": 13660,
+      "from": "cd80 page 2 — species sketch"
+    },
+    {
+      "name": "04-food-chain.webp",
+      "sha256": "7fb45348eb0464c02b81871f1141f0cefb946c6d64f1919e40d905c640481589",
+      "bytes": 21096,
+      "from": "cd80 page 2 — food chain"
+    },
+    {
+      "name": "05-tidal-zones.webp",
+      "sha256": "1a19b83d98301514e399452061d4ad30a92bf12bbcaeafa95fbf9cd8dc712a01",
+      "bytes": 17858,
+      "from": "cd80 page 2 — tidal zones"
+    },
+    {
+      "name": "06-tank-test.webp",
+      "sha256": "b8aa536f748920941ff68ad175035a623aca1a9bf2a8ac749e0a7cc8b8853c91",
+      "bytes": 6520,
+      "from": "cd80 page 3 — tank test"
+    },
+    {
+      "name": "07-concept-sketch.webp",
+      "sha256": "caad4f121b73798f1ab267a7c8550a4906756f6874da0419d7cbe1b28ace5d8c",
+      "bytes": 36012,
+      "from": "cd80 page 3 — concept sketch"
+    },
+    {
+      "name": "08-first-model.webp",
+      "sha256": "d8d80c0b29869b7da2b0100c8a3d3d9eab2b332e2a27c5736bb84bd9bd738334",
+      "bytes": 8958,
+      "from": "cd80 page 3 — first model"
+    },
+    {
+      "name": "09-buried-level.webp",
+      "sha256": "66fdf98b618ff23f19e2192be1fd55ddbed16cc2b9e3d9d73c8278d2b2a6c709",
+      "bytes": 26230,
+      "from": "cd80 page 4 — buried level"
+    },
+    {
+      "name": "10-pillar-detail.webp",
+      "sha256": "5538bb778c111a633c64a406a7cfad20e886f5ef1a91b175ff7a68962cd45063",
+      "bytes": 15958,
+      "from": "cd80 page 4 — pillar detail"
+    }
+  ]
+}
