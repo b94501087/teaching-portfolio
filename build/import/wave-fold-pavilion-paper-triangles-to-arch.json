@@ -1,0 +1,43 @@
+{
+  "project": "Wave-Fold Pavilion",
+  "dest": "assets/board/wave-fold-pavilion-paper-triangles-to-arch",
+  "note": "Portfolio fbb7 page 7 cropped to six images, WebP q88 (PIL). Not used: wave reference photos, lower part of the montage with people.",
+  "files": [
+    {
+      "name": "01-pavilion-arch.webp",
+      "sha256": "d739a544a2caab0b54874a1c27574a8028c2fd9ade78f87f4b2e66df9516f21d",
+      "bytes": 262676,
+      "from": "fbb7 page 7 — pavilion arch"
+    },
+    {
+      "name": "02-paper-fold-a.webp",
+      "sha256": "9f788121850151954cb17f1a51d302bb88419f1af10a2073b235c604981c3a09",
+      "bytes": 15238,
+      "from": "fbb7 page 7 — paper fold A"
+    },
+    {
+      "name": "03-paper-fold-b.webp",
+      "sha256": "016aa2652f02150fb8999a88f7fe920f9f51efb2141437cbad582dae05d5da37",
+      "bytes": 11912,
+      "from": "fbb7 page 7 — paper fold B"
+    },
+    {
+      "name": "04-paper-fold-c.webp",
+      "sha256": "3840ff3c1fde900e9c1f8e333d6b9476b738f22a548230133593c14c9f618e9c",
+      "bytes": 25052,
+      "from": "fbb7 page 7 — paper fold C"
+    },
+    {
+      "name": "05-fold-drawing.webp",
+      "sha256": "420b31b405212b39a3eb877e0efa519918f75d1e4fe9ee915d093643510d56db",
+      "bytes": 91068,
+      "from": "fbb7 page 7 — fold drawing"
+    },
+    {
+      "name": "06-pavilion-sketch.webp",
+      "sha256": "d920bdf58790425fae65d48de90c8dc75de866c9cbaeb57668b11af1057c6f0b",
+      "bytes": 26206,
+      "from": "fbb7 page 7 — pavilion sketch"
+    }
+  ]
+}
