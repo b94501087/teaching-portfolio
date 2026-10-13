@@ -1,0 +1,55 @@
+{
+  "project": "Music Reflection Space",
+  "dest": "assets/board/music-reflection-space-deconstructed-guitar-model",
+  "note": "Portfolio cd80 pages 12-13 cropped to eight images, WebP q88 (PIL). Not used: title and text, process photos with the student.",
+  "files": [
+    {
+      "name": "01-final-box.webp",
+      "sha256": "da698c4ceca0c0e7e7d1ff4178f63cbaa8df3a586023670eb1c72cb5943940b3",
+      "bytes": 49392,
+      "from": "cd80 page 13 — final box"
+    },
+    {
+      "name": "02-guitar-drawing.webp",
+      "sha256": "774ff3e807ccb9685323de374b0600910c062f09fc8976ea805c96fadaedf3f2",
+      "bytes": 60704,
+      "from": "cd80 page 12 — guitar drawing"
+    },
+    {
+      "name": "03-disassembly-start.webp",
+      "sha256": "7aeca7295eb43730436af12d07d28f827aeefcd35cdd986bc52c10e1ec483d7a",
+      "bytes": 2808,
+      "from": "cd80 page 12 — disassembly start"
+    },
+    {
+      "name": "04-parts-laid-out.webp",
+      "sha256": "9d7104e3a642ae0139aac6d6df690676ff01e0b6327f5fa728a7486a533f2648",
+      "bytes": 4306,
+      "from": "cd80 page 12 — parts laid out"
+    },
+    {
+      "name": "05-mirror-shards.webp",
+      "sha256": "20a7e6d499fbf51c55d22db160e95c88141a4175c2db62323d6e8441e8bf0a57",
+      "bytes": 17400,
+      "from": "cd80 page 13 — mirror shards"
+    },
+    {
+      "name": "06-lower-detail.webp",
+      "sha256": "293b37a034ed94c8e4fad0321e5679b2e22504e36384d4d89459cca2d9cb54c6",
+      "bytes": 17732,
+      "from": "cd80 page 13 — lower detail"
+    },
+    {
+      "name": "07-neck-detail.webp",
+      "sha256": "5471960fdae7b42925f1de4e3d2b6dd16bf250d0204a48b5b050d1b818771dad",
+      "bytes": 22032,
+      "from": "cd80 page 13 — neck detail"
+    },
+    {
+      "name": "08-body-detail.webp",
+      "sha256": "db3eedec35ce6e5b36dc1c7c55e6b45728f6c7e0f09501eca4ed119f84d8c011",
+      "bytes": 16186,
+      "from": "cd80 page 13 — body detail"
+    }
+  ]
+}
