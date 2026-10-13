@@ -1,0 +1,67 @@
+{
+  "project": "The Maze",
+  "dest": "assets/board/the-maze-acrylic-cube-of-hidden-paths",
+  "note": "Portfolio a458 pages 9-10 cropped to 10 images, WebP q88 (PIL).",
+  "files": [
+    {
+      "name": "01-acrylic-maze-cube.webp",
+      "sha256": "5e520d4a3154a6d441cc62ba50967ee4f82e899ebdbe6a5dcc4cbbcb3c8b4925",
+      "bytes": 234206,
+      "from": "a458 pages 9-10 — the acrylic maze cube"
+    },
+    {
+      "name": "02-small-acrylic-cube.webp",
+      "sha256": "419060f69e9a0ab96a0787e7795b85a30a621c7202f899bdd74ce89110ff99b5",
+      "bytes": 49560,
+      "from": "a458 pages 9-10 — a small acrylic test cube"
+    },
+    {
+      "name": "03-white-maze-modules.webp",
+      "sha256": "a41ed4d81db2a653c197a96e59ae387e07af9b0bb7bf012066fe10f98910bcca",
+      "bytes": 65136,
+      "from": "a458 pages 9-10 — white maze modules"
+    },
+    {
+      "name": "04-maze-corridor-glow.webp",
+      "sha256": "a082fc29372d46ac426754d9c0e1ab86f3e9b17c9ce9733ef1ae9a5ee25d028b",
+      "bytes": 64154,
+      "from": "a458 pages 9-10 — a glowing corridor"
+    },
+    {
+      "name": "05-wireframe-maze-cube.webp",
+      "sha256": "0b2241f69c675b65dcaaec8f91ed16d6413eee2c90b109e6a0e944b155476de8",
+      "bytes": 77512,
+      "from": "a458 pages 9-10 — the cube in the dark"
+    },
+    {
+      "name": "06-stacked-maze-layers.webp",
+      "sha256": "88c0fef3f5418f0cdb85d63d34d1b99327b4e452b2fc167d87f76c0660670bd4",
+      "bytes": 35298,
+      "from": "a458 pages 9-10 — stacked maze layers"
+    },
+    {
+      "name": "07-maze-interior-close.webp",
+      "sha256": "8dfe8771261c57ddbf84ef0cc541dc5978dd4ebf0c288f07e90864f3e9ce1205",
+      "bytes": 71282,
+      "from": "a458 pages 9-10 — the interior up close"
+    },
+    {
+      "name": "08-maze-shards.webp",
+      "sha256": "b3a924bc58edf22687aaf431fea47196df9158baec27477f9723f60832565058",
+      "bytes": 186290,
+      "from": "a458 pages 9-10 — shards of light"
+    },
+    {
+      "name": "09-maze-view-upper.webp",
+      "sha256": "bf2daef1b9437a63b424ca2ea154df5b934680a522b625c8ba5039d736652993",
+      "bytes": 164972,
+      "from": "a458 pages 9-10 — an upper view"
+    },
+    {
+      "name": "10-maze-view-lower.webp",
+      "sha256": "cbf5f90519e5b987f1ff0d0fa65309c62f03fb93c3dc38b0fef11cb936759b81",
+      "bytes": 57778,
+      "from": "a458 pages 9-10 — a lower view"
+    }
+  ]
+}
