@@ -1,0 +1,55 @@
+{
+  "project": "Machinery City",
+  "dest": "assets/board/machinery-city-programmed-toy-brick-mechanism",
+  "note": "Portfolio 7c9f page 16 cropped to eight images, WebP q88 (PIL). Not used: title and text, process photos showing people and hands, the toy brand name.",
+  "files": [
+    {
+      "name": "01-moving-city.webp",
+      "sha256": "bc7cabf1cdb46f72d0ffacd93576726f173c66dba46a7f6b51ee27c6f940216e",
+      "bytes": 51472,
+      "from": "7c9f page 16 — moving city"
+    },
+    {
+      "name": "02-machine-sketch.webp",
+      "sha256": "0c50d3db3e5b9a5e670d4fd1d6be7acc520b21e9e4d046d0afbb1e96311e767f",
+      "bytes": 28046,
+      "from": "7c9f page 16 — machine sketch"
+    },
+    {
+      "name": "03-gear-arm.webp",
+      "sha256": "9f86347f6d69ba4d79df7044f49aceeb1c93b9f9252817147abd63f19bdf81a6",
+      "bytes": 21078,
+      "from": "7c9f page 16 — gear arm"
+    },
+    {
+      "name": "04-red-lever.webp",
+      "sha256": "a8e69a0099a9ad27ed46689b8c52be2d2a4139ee013c840d41215cdd9783f355",
+      "bytes": 16076,
+      "from": "7c9f page 16 — red lever"
+    },
+    {
+      "name": "05-lifting-arm.webp",
+      "sha256": "de61649bf7e32b83ad04f1fa4b3ccdc6ef2879aad28b302c5b74d5f0e2795c26",
+      "bytes": 27184,
+      "from": "7c9f page 16 — lifting arm"
+    },
+    {
+      "name": "06-drive-shaft.webp",
+      "sha256": "e281e237b3681d2c1eeeb23f616e9b1bff727188f5b827034c992bf7e206933b",
+      "bytes": 16066,
+      "from": "7c9f page 16 — drive shaft"
+    },
+    {
+      "name": "07-gear-detail.webp",
+      "sha256": "ea761a6230d0b1eb7fc448eaabd3d5e8c1863d139ff1943cfe4c6a7b5b66aad4",
+      "bytes": 19452,
+      "from": "7c9f page 16 — gear detail"
+    },
+    {
+      "name": "08-sensor-detail.webp",
+      "sha256": "49da185b45597480336e9375853f8d334ce2b8f360f775452f097fc48dae531b",
+      "bytes": 28810,
+      "from": "7c9f page 16 — sensor detail"
+    }
+  ]
+}
