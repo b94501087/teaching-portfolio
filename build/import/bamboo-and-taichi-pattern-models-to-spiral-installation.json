@@ -1,0 +1,49 @@
+{
+  "project": "Bamboo and Taichi",
+  "dest": "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation",
+  "note": "Portfolio 68e2 page 10 cropped to 7 images, WebP q88 (PIL). Not used: famous painting references, photos of a person wearing the piece, movement silhouettes.",
+  "files": [
+    {
+      "name": "01-spiral-in-bamboo-forest.webp",
+      "sha256": "3c0723c9376713666233e6ebb95e55a844d21cd9b6120992eea559c1748fc4e2",
+      "bytes": 193238,
+      "from": "68e2 page 10 — the spiral installation in a bamboo forest"
+    },
+    {
+      "name": "02-woven-pattern.webp",
+      "sha256": "7ac5e540f4f0556a079a95351bc7edee7ae9b3e31e651b064b77b6f49b6a96d0",
+      "bytes": 25228,
+      "from": "68e2 page 10 — the starting pattern"
+    },
+    {
+      "name": "03-pattern-analysis.webp",
+      "sha256": "7e0d0eacf4712d3b0ba4275d274d1c417679bf96b77a399519689f55959c1a0c",
+      "bytes": 22828,
+      "from": "68e2 page 10 — pattern analysis"
+    },
+    {
+      "name": "04-cube-pattern-model.webp",
+      "sha256": "f81f05737ca0e5fecfc60c3e9a939656808692566e2e190c35c530529f423e5c",
+      "bytes": 40866,
+      "from": "68e2 page 10 — the final cube model"
+    },
+    {
+      "name": "05-three-test-models.webp",
+      "sha256": "d1194315e304287854f278f5f9953c71df34d0f767792f9d81b8b48111de099e",
+      "bytes": 28420,
+      "from": "68e2 page 10 — three test models"
+    },
+    {
+      "name": "06-model-diagrams.webp",
+      "sha256": "9b8519e5c1a51ae1746c11abe8f0531e500250c6f14f7100eb2864b03b4ea939",
+      "bytes": 12176,
+      "from": "68e2 page 10 — diagrams of the models"
+    },
+    {
+      "name": "07-installation-views.webp",
+      "sha256": "421245def1be367269e9ee56736a2f3d0fe3508645cfab1409ddfc1d511f9580",
+      "bytes": 23932,
+      "from": "68e2 page 10 — views of the spiral"
+    }
+  ]
+}
