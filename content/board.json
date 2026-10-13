@@ -62704,6 +62704,290 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Fragments of Hope",
+      "slug": "fragments-of-hope-shared-painting-wooden-puzzle",
+      "description": "Wavy lines drawn by many young hands are joined into one painting, then cut into a wooden puzzle given back as a gift.\n\nPainting and puzzle design | Volunteer-inspired | Tracing paper, wooden board, marker | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "希望的碎片",
+          "description": "許多孩子畫下的波浪線條被組合成一幅畫，再切割成一副木製拼圖，作為禮物送回給他們。\n\n繪畫與拼圖設計｜志工經驗啟發｜描圖紙、木板、麥克筆｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/01-shared-painting.webp",
+        "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/02-colour-detail.webp",
+        "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/03-face-detail.webp",
+        "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/04-shape-detail.webp",
+        "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/05-cut-pieces.webp",
+        "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/06-loose-pieces.webp",
+        "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/07-half-done.webp",
+        "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/08-finished-puzzle.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/01-shared-painting.webp"
+          ],
+          "captions": [
+            "The shared painting."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "共同完成的畫作。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "While volunteering in weekend art classes, the student saw that many children found it hard to hold a brush steadily. Their drawings were mostly curved, wavy lines, and few could finish a picture alone.",
+          "images": [
+            "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/02-colour-detail.webp"
+          ],
+          "captions": [
+            "Colours filling the lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在週末美術課擔任志工時，學生發現許多孩子難以穩定地握筆。他們的畫多半是彎曲的波浪線，很少有人能獨自完成一幅畫。",
+              "captions": [
+                "填滿線條的色彩。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student collected the colourful lines drawn by ten children and looked for links between them. The lines met and formed small shapes, which the children then filled with colour.",
+          "images": [
+            "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/03-face-detail.webp",
+            "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/04-shape-detail.webp"
+          ],
+          "captions": [
+            "A small face on a piece.",
+            "Shapes and eyes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生收集了十個孩子畫下的彩色線條，並尋找它們之間的關聯。線條相交形成小形狀，孩子們再為它們填上顏色。",
+              "captions": [
+                "拼圖上的小臉。",
+                "形狀與眼睛。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The painting was scanned and set into a 3D puzzle model. Each piece was given its own small face, then cut from wood with a laser.",
+          "images": [
+            "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/05-cut-pieces.webp",
+            "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/06-loose-pieces.webp"
+          ],
+          "captions": [
+            "The cut pieces in a box.",
+            "Loose pieces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "畫作經掃描後放入3D拼圖模型。每一片都被賦予一張獨特的小臉，再以雷射從木板切出。",
+              "captions": [
+                "盒中切好的拼圖。",
+                "散落的拼圖片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The puzzle went back to the children as a gift to put together. Each piece stands for one child, and the whole picture appears only when they join.",
+          "images": [
+            "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/07-half-done.webp",
+            "assets/board/fragments-of-hope-shared-painting-wooden-puzzle/08-finished-puzzle.webp"
+          ],
+          "captions": [
+            "The puzzle half done.",
+            "The finished puzzle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這副拼圖作為禮物送回孩子手中，讓他們一起拼。每一片代表一個孩子，只有拼在一起時，完整的畫面才會出現。",
+              "captions": [
+                "拼到一半的拼圖。",
+                "完成的拼圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Notice what is hard.\n2. Start from their marks.\n3. Join many into one.\n4. Give it back.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 留意困難之處。\n2. 從他們的筆觸出發。\n3. 把許多匯聚為一。\n4. 把成果還給他們。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Twisted Chessboard",
+      "slug": "twisted-chessboard-ceramic-relief-and-glazed-pieces",
+      "description": "A ceramic chessboard warps like cloth, and glazed pieces of very different shapes stand on its coloured squares.\n\nCeramics | Object design | Ceramic clay, underglaze, transparent glaze, glass glaze | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "扭曲的棋盤",
+          "description": "一個陶瓷棋盤如布料般扭曲，形態迥異的上釉棋子立於彩色方格之上。\n\n陶藝｜物件設計｜陶土、釉下彩、透明釉、玻璃釉｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/01-finished-chessboard.webp",
+        "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/02-colour-study.webp",
+        "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/03-sketch.webp",
+        "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/04-carved-relief.webp",
+        "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/05-underglaze.webp",
+        "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/06-coloured-squares.webp",
+        "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/07-plain-pieces.webp",
+        "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/08-sculpted-piece.webp",
+        "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/09-before-glaze.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/01-finished-chessboard.webp"
+          ],
+          "captions": [
+            "The finished chessboard."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的棋盤。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to make a chessboard where the board itself is part of the play. A twisted surface would make every square feel uneven.",
+          "images": [
+            "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/02-colour-study.webp"
+          ],
+          "captions": [
+            "A colour study of the warped grid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想做一個讓棋盤本身也參與遊戲的棋盤。扭曲的表面會讓每個方格都顯得不平均。",
+              "captions": [
+                "扭曲格網的色彩研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Drawings tested how a square grid bends and how many colours it could hold. Two kinds of pieces were planned: one large sculpted figure and many simple, formless ones.",
+          "images": [
+            "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/03-sketch.webp",
+            "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/04-carved-relief.webp"
+          ],
+          "captions": [
+            "A sketch of the board and pieces.",
+            "The carved relief grid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "圖面測試了方格網如何彎曲、能容納多少色彩。規劃了兩種棋子：一個大型雕塑人物，以及許多簡單、無具體形態的棋子。",
+              "captions": [
+                "棋盤與棋子的草圖。",
+                "雕刻的浮雕格網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A relief board was carved in ceramic clay, then the pieces were shaped. After air-drying, underglaze added layered colour.",
+          "images": [
+            "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/05-underglaze.webp",
+            "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/06-coloured-squares.webp",
+            "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/07-plain-pieces.webp"
+          ],
+          "captions": [
+            "Painting the underglaze.",
+            "Coloured squares.",
+            "Simple pieces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以陶土雕出浮雕棋盤，再塑造棋子。風乾後以釉下彩加上層次豐富的色彩。",
+              "captions": [
+                "上釉下彩。",
+                "彩色方格。",
+                "簡單的棋子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Glass glaze makes the sculpted piece shine, and a clear glaze seals the whole set. The contrast between the pieces makes the game feel uneven from the start.",
+          "images": [
+            "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/08-sculpted-piece.webp",
+            "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces/09-before-glaze.webp"
+          ],
+          "captions": [
+            "The sculpted piece.",
+            "The set before the final glaze."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "玻璃釉讓雕塑棋子閃閃發亮，透明釉則封住整組作品。棋子之間的對比，讓遊戲從一開始就顯得不平等。",
+              "captions": [
+                "雕塑的棋子。",
+                "上最後一層釉之前的棋組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Question the board.\n2. Bend the grid.\n3. Contrast the pieces.\n4. Let glaze carry meaning.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 質疑棋盤本身。\n2. 彎曲格網。\n3. 對比棋子。\n4. 讓釉色承載意義。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
