@@ -62148,6 +62148,562 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Open Windows Community",
+      "slug": "open-windows-community-cross-section-house-model",
+      "description": "Houses with oversized openings are cut into cross sections and grown into a small open community of white walls and wooden frames.\n\nModel making | Housing and community | PVC board, wooden strips and cubes, cotton, iron wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "開窗社區",
+          "description": "帶有超大開口的住宅被切成剖面，並生長為一個由白牆與木框組成的小型開放社區。\n\n模型製作｜住宅與社區｜PVC板、木條與木塊、棉花、鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/open-windows-community-cross-section-house-model/01-community-model.webp",
+        "assets/board/open-windows-community-cross-section-house-model/02-section-sketches.webp",
+        "assets/board/open-windows-community-cross-section-house-model/03-window-study.webp",
+        "assets/board/open-windows-community-cross-section-house-model/04-house-type-one.webp",
+        "assets/board/open-windows-community-cross-section-house-model/05-house-type-two.webp",
+        "assets/board/open-windows-community-cross-section-house-model/06-wooden-frames.webp",
+        "assets/board/open-windows-community-cross-section-house-model/07-stair-block.webp",
+        "assets/board/open-windows-community-cross-section-house-model/08-frames-from-above.webp",
+        "assets/board/open-windows-community-cross-section-house-model/09-cotton-tree.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/open-windows-community-cross-section-house-model/01-community-model.webp"
+          ],
+          "captions": [
+            "The whole community model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "整個社區模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was struck by a house whose doors and windows blur into large openings. Such openness pushes against old ideas that kept women inside the home, and the student wrote a poem about their hidden feelings.",
+          "images": [
+            "assets/board/open-windows-community-cross-section-house-model/03-window-study.webp"
+          ],
+          "captions": [
+            "A study of light through the openings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生被一棟門與窗模糊成大型開口的住宅所震撼。這種開放性對抗了將女性束縛於家中的舊觀念，學生為她們隱藏的情感寫了一首詩。",
+              "captions": [
+                "光線穿過開口的研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Eight sketches turned the house into cross sections with openings of different sizes. From them the student made up four house types.",
+          "images": [
+            "assets/board/open-windows-community-cross-section-house-model/02-section-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of the cross sections."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "八張草圖把住宅轉化為開口大小不一的剖面。學生從中發展出四種住宅類型。",
+              "captions": [
+                "剖面草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each type was built in white board and photographed from three sides. Public facilities in wooden frames and blocks were then added, following the pattern of the sections.",
+          "images": [
+            "assets/board/open-windows-community-cross-section-house-model/04-house-type-one.webp",
+            "assets/board/open-windows-community-cross-section-house-model/05-house-type-two.webp",
+            "assets/board/open-windows-community-cross-section-house-model/06-wooden-frames.webp"
+          ],
+          "captions": [
+            "One house type from three sides.",
+            "A second house type.",
+            "Wooden frames between walls."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每種類型都以白色板材製作，並從三個面拍攝。接著依循剖面的圖案，加入以木框與木塊構成的公共設施。",
+              "captions": [
+                "一種住宅類型的三個面。",
+                "第二種住宅類型。",
+                "牆之間的木框。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The houses open onto stairs, frames and cotton trees shared by everyone. The community turns private homes outward.",
+          "images": [
+            "assets/board/open-windows-community-cross-section-house-model/07-stair-block.webp",
+            "assets/board/open-windows-community-cross-section-house-model/08-frames-from-above.webp",
+            "assets/board/open-windows-community-cross-section-house-model/09-cotton-tree.webp"
+          ],
+          "captions": [
+            "A stair of wooden blocks.",
+            "Frames seen from above.",
+            "A cotton tree in a courtyard."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "住宅向所有人共享的樓梯、木框與棉花樹敞開。這個社區讓私人住宅轉向外部。",
+              "captions": [
+                "木塊組成的樓梯。",
+                "從上方看木框。",
+                "庭院中的棉花樹。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find a house that moves you.\n2. Cut it into sections.\n3. Make types.\n4. Share the space between.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找到打動你的住宅。\n2. 把它切成剖面。\n3. 發展類型。\n4. 共享其間的空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Hidden Fears of a Night Street",
+      "slug": "hidden-fears-night-street-wire-and-stick-model",
+      "description": "Fears felt on a dark walk are mapped and built into thirteen wire-tangled stick frames hidden behind calm walls.\n\nModel making | Urban perception | PVC board, wooden strips and cubes, cotton, iron wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "夜街裡隱藏的恐懼",
+          "description": "一次黑暗步行中感受到的恐懼被繪製成圖，並建造成十三個纏滿鐵絲、藏在平靜牆面後的木條框架。\n\n模型製作｜城市感知｜PVC板、木條與木塊、棉花、鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hidden-fears-night-street-wire-and-stick-model/01-final-models.webp",
+        "assets/board/hidden-fears-night-street-wire-and-stick-model/02-factor-maps.webp",
+        "assets/board/hidden-fears-night-street-wire-and-stick-model/03-wire-bundles.webp",
+        "assets/board/hidden-fears-night-street-wire-and-stick-model/04-thirteen-structures.webp",
+        "assets/board/hidden-fears-night-street-wire-and-stick-model/05-wire-frame.webp",
+        "assets/board/hidden-fears-night-street-wire-and-stick-model/06-close-up.webp",
+        "assets/board/hidden-fears-night-street-wire-and-stick-model/07-chalk-sketch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hidden-fears-night-street-wire-and-stick-model/01-final-models.webp"
+          ],
+          "captions": [
+            "Three buildings from the final model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "最終模型中的三棟建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "On a trip, the student had to walk alone through a rough district at night with a dead phone. Darkness, laughter and noise leaked from the buildings, and the question became how a building can hide its chaos.",
+          "images": [
+            "assets/board/hidden-fears-night-street-wire-and-stick-model/02-factor-maps.webp"
+          ],
+          "captions": [
+            "Maps of the scary factors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "旅途中，學生在手機沒電的情況下，必須在夜裡獨自穿越一個混亂的街區。黑暗、笑聲與噪音從建築中滲出，問題於是成為：建築如何隱藏它的混亂。",
+              "captions": [
+                "令人害怕的因素地圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew the route and marked what was frightening: passing trains, lines of sight, areas of darkness and levels of sound. Each factor became its own map.",
+          "images": [
+            "assets/board/hidden-fears-night-street-wire-and-stick-model/03-wire-bundles.webp"
+          ],
+          "captions": [
+            "Twisted wire bundles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生畫出走過的路線，並標出令人恐懼的事物：經過的列車、視線方向、黑暗區域與聲音大小。每個因素都成為一張獨立的地圖。",
+              "captions": [
+                "扭轉的鐵絲束。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wires and pillars were stuck to thirteen stick structures and left messy on purpose. Small wire patterns stand for incidents, and pillars show how the events connect.",
+          "images": [
+            "assets/board/hidden-fears-night-street-wire-and-stick-model/04-thirteen-structures.webp",
+            "assets/board/hidden-fears-night-street-wire-and-stick-model/05-wire-frame.webp"
+          ],
+          "captions": [
+            "The thirteen structures.",
+            "Wire tangled in a frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "鐵絲與柱子被黏在十三個木條結構上，並刻意保持凌亂。小型鐵絲圖案代表事件，柱子則呈現事件之間的關聯。",
+              "captions": [
+                "十三個結構。",
+                "纏繞在框架中的鐵絲。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The structures were joined into buildings that are messy inside but calm outside. Pale walls cover the tangle, just as the street hid its danger.",
+          "images": [
+            "assets/board/hidden-fears-night-street-wire-and-stick-model/06-close-up.webp",
+            "assets/board/hidden-fears-night-street-wire-and-stick-model/07-chalk-sketch.webp"
+          ],
+          "captions": [
+            "Inside the messy walls.",
+            "A sketch of the buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這些結構被組合成內部雜亂、外部平靜的建築。淺色牆面掩蓋了糾結，正如那條街隱藏了它的危險。",
+              "captions": [
+                "雜亂牆面之內。",
+                "建築的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a feeling.\n2. Map what causes it.\n3. Build the mess.\n4. Decide what to hide.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一種感受出發。\n2. 繪製造成它的原因。\n3. 建造那份混亂。\n4. 決定要隱藏什麼。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Scenery along the Road",
+      "slug": "scenery-along-the-road-wooden-strip-canyon-model",
+      "description": "Layered wooden strips rise from a carved board like a canyon that changes shape with every angle.\n\nModel making | Landscape form | Wooden board and wooden strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "沿途風景",
+          "description": "層層木條從雕刻的木板上升起，宛如一座隨每個角度改變形態的峽谷。\n\n模型製作｜地景形態｜木板與木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/scenery-along-the-road-wooden-strip-canyon-model/01-model-in-light.webp",
+        "assets/board/scenery-along-the-road-wooden-strip-canyon-model/02-mesh-drawing.webp",
+        "assets/board/scenery-along-the-road-wooden-strip-canyon-model/03-layered-base.webp",
+        "assets/board/scenery-along-the-road-wooden-strip-canyon-model/04-strips-from-above.webp",
+        "assets/board/scenery-along-the-road-wooden-strip-canyon-model/05-strips-rising.webp",
+        "assets/board/scenery-along-the-road-wooden-strip-canyon-model/06-low-view.webp",
+        "assets/board/scenery-along-the-road-wooden-strip-canyon-model/07-shadow-detail.webp",
+        "assets/board/scenery-along-the-road-wooden-strip-canyon-model/08-model-dark.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/scenery-along-the-road-wooden-strip-canyon-model/01-model-in-light.webp"
+          ],
+          "captions": [
+            "The finished model in light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "光線中的完成模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A canyon seen on a trip looked different from every angle. The student wanted a hand-made model that keeps this change and ties it to human life.",
+          "images": [
+            "assets/board/scenery-along-the-road-wooden-strip-canyon-model/02-mesh-drawing.webp"
+          ],
+          "captions": [
+            "A triangulated drawing of the scene."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "旅途中看到的峽谷從每個角度看都不一樣。學生想做一個保留這種變化、並連結人類生活的手工模型。",
+              "captions": [
+                "場景的三角網格圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A photo was traced into a triangulated mesh. The mesh showed where surfaces fold and where they open.",
+          "images": [
+            "assets/board/scenery-along-the-road-wooden-strip-canyon-model/03-layered-base.webp"
+          ],
+          "captions": [
+            "The layered base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張照片被描繪成三角網格。網格呈現出表面在哪裡折起、在哪裡打開。",
+              "captions": [
+                "層疊的基座。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Thin wooden strips were layered on a board to make the ground. Bundles of strips were then set at angles to rise above it.",
+          "images": [
+            "assets/board/scenery-along-the-road-wooden-strip-canyon-model/04-strips-from-above.webp",
+            "assets/board/scenery-along-the-road-wooden-strip-canyon-model/05-strips-rising.webp"
+          ],
+          "captions": [
+            "Strips seen from above.",
+            "Strips rising from the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "細木條層層鋪在木板上構成地面。接著將成束的木條以不同角度架設，升起於其上。",
+              "captions": [
+                "從上方看木條。",
+                "從基座升起的木條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model looks like a canyon from one side and a tangle of paths from another. Light through the strips casts changing shadows.",
+          "images": [
+            "assets/board/scenery-along-the-road-wooden-strip-canyon-model/06-low-view.webp",
+            "assets/board/scenery-along-the-road-wooden-strip-canyon-model/07-shadow-detail.webp",
+            "assets/board/scenery-along-the-road-wooden-strip-canyon-model/08-model-dark.webp"
+          ],
+          "captions": [
+            "A low view.",
+            "Light and shadow inside.",
+            "The model on black."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型從一側看像峽谷，從另一側看則是交錯的路徑。穿過木條的光線投下變化的陰影。",
+              "captions": [
+                "低角度視角。",
+                "內部的光與影。",
+                "黑底上的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Look from many angles.\n2. Trace the form.\n3. Layer the ground.\n4. Test it in light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從多個角度觀看。\n2. 描繪形態。\n3. 層疊地面。\n4. 在光線中測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Optical Exploration",
+      "slug": "optical-exploration-cardboard-camera-and-stick-tower",
+      "description": "A hand-made cardboard camera is paired with a stick tower built to be seen through its lens.\n\nModel making | Optics and architecture | Cardboard, wood, tape, optical lens | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "光學探索",
+          "description": "一台手工紙板相機，搭配一座為了透過其鏡頭觀看而建造的木條塔。\n\n模型製作｜光學與建築｜紙板、木材、膠帶、光學鏡頭｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/optical-exploration-cardboard-camera-and-stick-tower/01-camera-and-tower.webp",
+        "assets/board/optical-exploration-cardboard-camera-and-stick-tower/02-concept-drawing.webp",
+        "assets/board/optical-exploration-cardboard-camera-and-stick-tower/03-tower-front.webp",
+        "assets/board/optical-exploration-cardboard-camera-and-stick-tower/04-tower-side.webp",
+        "assets/board/optical-exploration-cardboard-camera-and-stick-tower/05-tower-alone.webp",
+        "assets/board/optical-exploration-cardboard-camera-and-stick-tower/06-camera-box.webp",
+        "assets/board/optical-exploration-cardboard-camera-and-stick-tower/07-lens-sketch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/optical-exploration-cardboard-camera-and-stick-tower/01-camera-and-tower.webp"
+          ],
+          "captions": [
+            "The camera and the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "相機與塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to learn how a camera forms an image. The plan was to build both a simple camera and a building for it to capture.",
+          "images": [
+            "assets/board/optical-exploration-cardboard-camera-and-stick-tower/02-concept-drawing.webp"
+          ],
+          "captions": [
+            "A concept drawing of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想了解相機如何成像。計畫是同時建造一台簡易相機，以及一棟供它拍攝的建築。",
+              "captions": [
+                "塔的概念圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Cardboard formed the frame, and tape sealed off all light except at the lens. Wax paper was tested as the screen and gave the clearest image.",
+          "images": [
+            "assets/board/optical-exploration-cardboard-camera-and-stick-tower/06-camera-box.webp",
+            "assets/board/optical-exploration-cardboard-camera-and-stick-tower/07-lens-sketch.webp"
+          ],
+          "captions": [
+            "The camera box and lens.",
+            "A sketch of the lens."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "紙板構成框架，膠帶封住鏡頭以外的所有光線。蠟紙被測試作為成像屏，呈現出最清晰的影像。",
+              "captions": [
+                "相機盒與鏡頭。",
+                "鏡頭素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The tower was built only from wooden strips. The size of the box set the focal length, and the lens position set where the image lands.",
+          "images": [
+            "assets/board/optical-exploration-cardboard-camera-and-stick-tower/03-tower-front.webp",
+            "assets/board/optical-exploration-cardboard-camera-and-stick-tower/04-tower-side.webp"
+          ],
+          "captions": [
+            "The tower behind the camera.",
+            "The tower from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "塔僅以木條建造。盒子的尺寸決定焦距，鏡頭的位置決定影像落在何處。",
+              "captions": [
+                "相機後方的塔。",
+                "從側面看塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Looking into the camera, one sees the tower appear on the wax paper. The project taught the student about lenses, focal length and building by hand.",
+          "images": [
+            "assets/board/optical-exploration-cardboard-camera-and-stick-tower/05-tower-alone.webp"
+          ],
+          "captions": [
+            "The tower alone."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "從相機看進去，可以看到塔出現在蠟紙上。這個專案讓學生學到鏡頭、焦距與手工建造。",
+              "captions": [
+                "單獨的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask how it works.\n2. Build the tool.\n3. Build what it sees.\n4. Adjust and look again.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 問它如何運作。\n2. 建造工具。\n3. 建造它看見的東西。\n4. 調整後再看一次。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
