@@ -76972,6 +76972,434 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Growth Record",
+      "slug": "growth-record-five-emotion-stage-models",
+      "description": "Five small models trace a growth from confidence to breakthrough, each emotion given its own material, from iridescent film to stocking mesh and stick webs.\n\nModels and paintings | Emotion study | Paper, wooden strips, wooden and PVC boards, chameleon window film, stone plastic clay, stockings | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "成長紀錄",
+          "description": "五件小模型描繪一段從自信到突破的成長，每種情緒各有材料，從幻彩膜到絲襪網與木條網架。\n\n模型與繪畫｜情緒研究｜紙、木條、木板、PVC板、幻彩窗膜、石塑黏土、絲襪｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/growth-record-five-emotion-stage-models/01-confident-model.webp",
+        "assets/board/growth-record-five-emotion-stage-models/02-mutation-model.webp",
+        "assets/board/growth-record-five-emotion-stage-models/03-pressured-model.webp",
+        "assets/board/growth-record-five-emotion-stage-models/04-lonely-model.webp",
+        "assets/board/growth-record-five-emotion-stage-models/05-breakthrough-model.webp",
+        "assets/board/growth-record-five-emotion-stage-models/06-emotion-texture-paintings.webp",
+        "assets/board/growth-record-five-emotion-stage-models/07-confident-process.webp",
+        "assets/board/growth-record-five-emotion-stage-models/08-mutation-process.webp",
+        "assets/board/growth-record-five-emotion-stage-models/09-lonely-process.webp",
+        "assets/board/growth-record-five-emotion-stage-models/10-breakthrough-process.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/growth-record-five-emotion-stage-models/01-confident-model.webp"
+          ],
+          "captions": [
+            "The confident stage model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "自信階段的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Over several years of living away from home, a student moved slowly from pessimism to openness. The project asks how the stages of that inner change, and the pressure of surroundings on it, could be shown as architecture.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在離家生活的數年間，學生從悲觀慢慢轉向開放。這個專題探問，這段內在轉變的各個階段，以及環境對它的壓力，能否以建築呈現。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Five stages were named: confident, mutation, pressured, lonely and breakthrough. Each was first explored as a small painting, testing colour and texture before any model was made.",
+          "images": [
+            "assets/board/growth-record-five-emotion-stage-models/06-emotion-texture-paintings.webp"
+          ],
+          "captions": [
+            "Paintings for the five stages."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "五個階段被命名為自信、突變、受壓、孤獨與突破。每一階段先以小幅繪畫探索，在製作模型前測試色彩與質感。",
+              "captions": [
+                "五個階段的繪畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Iridescent film was bent into flowing shells for confidence, white boards stacked into crowded cells for mutation, and clay twisted with wire for pressure. Stocking mesh stretched in a stick frame stood for loneliness, and a web of sticks for breakthrough.",
+          "images": [
+            "assets/board/growth-record-five-emotion-stage-models/07-confident-process.webp",
+            "assets/board/growth-record-five-emotion-stage-models/08-mutation-process.webp",
+            "assets/board/growth-record-five-emotion-stage-models/09-lonely-process.webp",
+            "assets/board/growth-record-five-emotion-stage-models/10-breakthrough-process.webp"
+          ],
+          "captions": [
+            "Testing iridescent film.",
+            "Stacking white cells.",
+            "Stretching mesh in a frame.",
+            "Building the stick web."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "幻彩膜被彎成流動的殼代表自信，白色板材堆成擁擠的格子代表突變，黏土與鐵絲扭結代表受壓。撐開在木框中的絲襪網代表孤獨，木條編成的網架則代表突破。",
+              "captions": [
+                "試驗幻彩膜。",
+                "堆疊白色格子。",
+                "在框中撐開網面。",
+                "搭建木條網架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished set reads as one story in five rooms. Light, crowded, heavy, hollow and finally open, the models let a viewer walk through a change of mood.",
+          "images": [
+            "assets/board/growth-record-five-emotion-stage-models/02-mutation-model.webp",
+            "assets/board/growth-record-five-emotion-stage-models/03-pressured-model.webp",
+            "assets/board/growth-record-five-emotion-stage-models/04-lonely-model.webp",
+            "assets/board/growth-record-five-emotion-stage-models/05-breakthrough-model.webp"
+          ],
+          "captions": [
+            "The mutation model.",
+            "The pressured model.",
+            "The lonely model.",
+            "The breakthrough model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的系列讀來像五個房間裡的一個故事。輕盈、擁擠、沉重、空洞，最後敞開，這些模型讓觀者走過一段心境的轉變。",
+              "captions": [
+                "突變的模型。",
+                "受壓的模型。",
+                "孤獨的模型。",
+                "突破的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Rooms of Feeling - Material as Inner Weather",
+          "body": "Emotion rarely arrives with a shape, so the first task of this project was to find one. The guidance asked the student to treat each stage of a personal growth as a kind of weather and to search for the material that could hold it, beginning not with plans but with small paintings where colour and texture could be felt before they were built. From those studies a sequence of rooms emerged. Shimmering film curves upward in a mood of confidence, white cells multiply until they crowd one another, clay knots tighten around wire under pressure, a dark mesh hangs in an empty frame, and at last a lattice of sticks opens into light. Read together, the five models form a passage rather than a gallery, because each atmosphere depends on the one before it. The exercise shows that architecture can record an interior life, and that choosing a material is already an act of interpretation, translating an invisible change of heart into weight, transparency and tension that others can sense.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "情感的房間-作為內在天候的材料",
+              "body": "情緒很少帶著形狀而來，因此這個專題的第一項任務便是為它找到形狀。指導過程要求學生把個人成長的每一個階段視為一種天候，並尋找能夠承載它的材料；起點不是平面圖，而是小幅繪畫，讓色彩與質感在被建造之前先被感受。從這些研究中，一連串的房間逐漸浮現：閃爍的薄膜在自信中向上彎曲，白色格子不斷增生直到彼此擁擠，黏土在壓力下纏緊鐵絲，一張深色的網懸在空框之中，最後一片木條網架向光敞開。合而觀之，五件模型構成一條通道而非一座展廳，因為每一種氛圍都仰賴前一種而存在。這個練習說明建築能夠記錄內在的生命，而選擇材料本身已是一種詮釋，把看不見的心境轉變譯為旁人可以感知的重量、透明與張力。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Chained Freedom",
+      "slug": "chained-freedom-linked-stick-block-cage-model",
+      "description": "Hundreds of small stick blocks link and twist into a long chain that wanders freely yet stays inside one great closed cage.\n\nModel and renders | Concept study | Wooden strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鎖鏈中的自由",
+          "description": "數百個小木條方塊相扣、扭轉，連成一條長鏈，自由蜿蜒，卻始終困在一座巨大的封閉牢籠之中。\n\n模型與渲染圖｜概念研究｜木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/chained-freedom-linked-stick-block-cage-model/01-chain-cage-model.webp",
+        "assets/board/chained-freedom-linked-stick-block-cage-model/02-chain-cage-from-above.webp",
+        "assets/board/chained-freedom-linked-stick-block-cage-model/03-chain-cage-side.webp",
+        "assets/board/chained-freedom-linked-stick-block-cage-model/04-chain-cage-render.webp",
+        "assets/board/chained-freedom-linked-stick-block-cage-model/05-block-type-studies.webp",
+        "assets/board/chained-freedom-linked-stick-block-cage-model/06-first-chain-block.webp",
+        "assets/board/chained-freedom-linked-stick-block-cage-model/07-linked-blocks.webp",
+        "assets/board/chained-freedom-linked-stick-block-cage-model/08-growing-chain.webp",
+        "assets/board/chained-freedom-linked-stick-block-cage-model/09-chain-on-cutting-mat.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/chained-freedom-linked-stick-block-cage-model/01-chain-cage-model.webp"
+          ],
+          "captions": [
+            "The chain cage model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鎖鏈牢籠模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Inspired by a story of people fighting for freedom, the project starts from a hard idea: the dream of complete freedom may only be a reachable delusion. It asks how one structure could feel both free and confined.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "受一則人們為自由而奮鬥的故事啟發，這個專題從一個沉重的想法出發：完全自由的夢想，或許只是一種觸手可及的錯覺。它探問，一個結構如何同時讓人感到自由與受困。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student found that a chain block, a hollow box of crossed sticks, could stand for this state of mind. Digital studies tested the block as stretched floors, cantilevers, hatched slabs and linked chains.",
+          "images": [
+            "assets/board/chained-freedom-linked-stick-block-cage-model/05-block-type-studies.webp",
+            "assets/board/chained-freedom-linked-stick-block-cage-model/04-chain-cage-render.webp"
+          ],
+          "captions": [
+            "Block type studies.",
+            "A render of the chain cage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生發現，以交錯木條組成的中空方塊——鎖鏈方塊——能夠代表這種心境。數位研究把方塊試作延伸的樓層、懸臂、斜紋樓板與相扣的鎖鏈。",
+              "captions": [
+                "方塊類型研究。",
+                "鎖鏈牢籠的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sticks were cut to different lengths and glued into blocks, one by one, day after day. The chain grew longer and its direction was turned on purpose, so that it twisted as if searching for a way out.",
+          "images": [
+            "assets/board/chained-freedom-linked-stick-block-cage-model/06-first-chain-block.webp",
+            "assets/board/chained-freedom-linked-stick-block-cage-model/07-linked-blocks.webp",
+            "assets/board/chained-freedom-linked-stick-block-cage-model/08-growing-chain.webp",
+            "assets/board/chained-freedom-linked-stick-block-cage-model/09-chain-on-cutting-mat.webp"
+          ],
+          "captions": [
+            "The first chain block.",
+            "Linked blocks.",
+            "The growing chain.",
+            "The chain on the cutting mat."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木條被切成不同長度，一個接一個、日復一日地黏成方塊。鎖鏈越來越長，方向也被刻意轉折，彷彿在扭動中尋找出路。",
+              "captions": [
+                "第一個鎖鏈方塊。",
+                "相扣的方塊。",
+                "逐漸增長的鎖鏈。",
+                "切割墊上的鎖鏈。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model is a large closed cage made of small blocks that extend and rotate. The blocks seem free to turn, yet the whole is held inside one boundary.",
+          "images": [
+            "assets/board/chained-freedom-linked-stick-block-cage-model/02-chain-cage-from-above.webp",
+            "assets/board/chained-freedom-linked-stick-block-cage-model/03-chain-cage-side.webp"
+          ],
+          "captions": [
+            "The cage from above.",
+            "The cage from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型是一座由小方塊延伸、旋轉而成的巨大封閉牢籠。方塊看似可以自由轉動，整體卻被限制在同一道邊界之內。",
+              "captions": [
+                "從上方看牢籠。",
+                "牢籠側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Links and Limits - The Shape of a Hopeful Cage",
+          "body": "Freedom is often imagined as open space, yet this project suggests it may look more like a chain that keeps moving. Starting from a reading about people who struggled for liberty, the student reached a sober conclusion, that complete freedom can be a delusion within reach but never quite held. The guidance encouraged turning that thought into a single repeated unit. A hollow block of crossed sticks became the module, and each new block was linked to the last by hand, slowly, so that the making itself became a form of endurance. The chain was steered to bend and twist, as though testing every direction for a way out, while the overall figure quietly closed upon itself into one great enclosure. The result holds two readings at once. Seen close, every block turns with its own small liberty; seen whole, the line returns to its boundary. In that tension the model offers a modest hope, that persistence and movement still matter even when the outer walls remain.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "鏈結與界限-懷抱希望的牢籠",
+              "body": "自由常被想像為開闊的空間，這個專題卻暗示，它或許更像一條不停移動的鎖鏈。從一段關於人們爭取自由的閱讀出發，學生得出一個清醒的結論：完全的自由可能是觸手可及、卻永遠握不住的錯覺。指導過程鼓勵把這個想法化為單一的重複單元。一個以交錯木條組成的中空方塊成為模組，每個新方塊都以手工緩慢地扣上前一個，使製作本身成為一種堅持。鎖鏈被引導彎折、扭轉，彷彿在每個方向試探出路，整體形態卻悄悄地自我閉合，成為一座巨大的圍籠。成果同時容納兩種讀法：近看，每個方塊都以自己的小小自由轉動；遠看，線條終究回到它的邊界。在這份張力之中，模型提出一種謙和的希望：即使外牆仍在，堅持與移動依然有其意義。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Moment of Precision",
+      "slug": "moment-of-precision-balance-triangle-solids-model",
+      "description": "Three shooting stances are reduced to balance triangles, extruded into white solids and gathered into one dense cluster of leaning planes.\n\nModels and diagrams | Balance study | PVC boards, wooden strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "精準的瞬間",
+          "description": "三種射擊姿勢被簡化為平衡三角形，擠出為白色量體，再聚集成一簇由傾斜板面構成的密集量體。\n\n模型與圖解｜平衡研究｜PVC板、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/moment-of-precision-balance-triangle-solids-model/01-balance-model-overview.webp",
+        "assets/board/moment-of-precision-balance-triangle-solids-model/02-balance-model-front.webp",
+        "assets/board/moment-of-precision-balance-triangle-solids-model/03-balance-model-close.webp",
+        "assets/board/moment-of-precision-balance-triangle-solids-model/04-stacked-solids-render.webp",
+        "assets/board/moment-of-precision-balance-triangle-solids-model/05-triangle-balance-diagrams.webp",
+        "assets/board/moment-of-precision-balance-triangle-solids-model/06-solid-study-a.webp",
+        "assets/board/moment-of-precision-balance-triangle-solids-model/07-solid-study-b.webp",
+        "assets/board/moment-of-precision-balance-triangle-solids-model/08-solid-study-c.webp",
+        "assets/board/moment-of-precision-balance-triangle-solids-model/09-solid-study-d.webp",
+        "assets/board/moment-of-precision-balance-triangle-solids-model/10-solid-study-e.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/moment-of-precision-balance-triangle-solids-model/01-balance-model-overview.webp"
+          ],
+          "captions": [
+            "The balance model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "平衡模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In target shooting, prone, kneeling and standing stances each depend on a different kind of balance. The project asks how these balances could become architectural space that people feel in their own bodies.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在射擊運動中，臥姿、跪姿與立姿各自依賴不同的平衡。這個專題探問，這些平衡如何化為人們能以身體感受的建築空間。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each stance was traced as a set of triangles linking the points where the body and the rifle find support. Three diagrams, A, B and C, show tall, compact and long low balances.",
+          "images": [
+            "assets/board/moment-of-precision-balance-triangle-solids-model/05-triangle-balance-diagrams.webp"
+          ],
+          "captions": [
+            "Balance triangle diagrams."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每一種姿勢都被描繪為一組三角形，連結身體與槍枝獲得支撐的點。A、B、C三張圖解分別呈現高聳、緊湊與低長的平衡。",
+              "captions": [
+                "平衡三角圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The triangles were extruded into solids and combined in many ways. Small white models tested leaning walls, cantilevers and wedges, each giving a different sense of steadiness.",
+          "images": [
+            "assets/board/moment-of-precision-balance-triangle-solids-model/06-solid-study-a.webp",
+            "assets/board/moment-of-precision-balance-triangle-solids-model/07-solid-study-b.webp",
+            "assets/board/moment-of-precision-balance-triangle-solids-model/08-solid-study-c.webp",
+            "assets/board/moment-of-precision-balance-triangle-solids-model/09-solid-study-d.webp",
+            "assets/board/moment-of-precision-balance-triangle-solids-model/10-solid-study-e.webp"
+          ],
+          "captions": [
+            "Solid study.",
+            "Another solid study.",
+            "A long solid study.",
+            "A wedge study.",
+            "A cantilever study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三角形被擠出為量體，並以多種方式組合。小型白色模型試驗傾斜的牆、懸臂與楔形，各自帶來不同的穩定感。",
+              "captions": [
+                "量體研究。",
+                "另一件量體研究。",
+                "狹長的量體研究。",
+                "楔形研究。",
+                "懸臂研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model gathers many solids into one cluster, like a body shifting its posture to find the best balance. A render shows the same idea as a stacked tower.",
+          "images": [
+            "assets/board/moment-of-precision-balance-triangle-solids-model/02-balance-model-front.webp",
+            "assets/board/moment-of-precision-balance-triangle-solids-model/03-balance-model-close.webp",
+            "assets/board/moment-of-precision-balance-triangle-solids-model/04-stacked-solids-render.webp"
+          ],
+          "captions": [
+            "The model from the front.",
+            "A close view.",
+            "A stacked render."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型把眾多量體聚成一簇，如同身體調整姿勢以尋找最佳平衡。一張渲染圖則把同樣的概念呈現為堆疊的高塔。",
+              "captions": [
+                "模型正面。",
+                "近景。",
+                "堆疊的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Held Still - Balance as a Spatial Language",
+          "body": "A precise shot depends on a moment of perfect stillness, and that stillness is built from balance rather than strength. This project tried to give that hidden structure a visible form. The guidance asked the student to forget the image of the athlete and attend only to the points of support, drawing lines between elbow, knee, foot and rifle until each stance became a small constellation of triangles. Tall and narrow, compact and folded, long and low, the three diagrams already suggested different spatial characters. Extruded into white solids, they were combined again and again, and each small model revealed a new sensation, whether a wall leaning just beyond comfort or a slab hovering on a single support. The final cluster gathers these experiments into one restless figure, recording the many adjustments a body makes before it settles. The work shows how a sporting discipline can become a design method, and how balance, often felt but rarely seen, can be shaped into planes that invite the body to respond.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "屏息之間-作為空間語言的平衡",
+              "body": "精準的一擊仰賴一瞬間的完全靜止，而這份靜止來自平衡，而非力量。這個專題試圖為那隱藏的結構賦予可見的形式。指導過程要求學生暫時放下運動員的形象，只關注支撐點，在手肘、膝蓋、腳與槍枝之間連線，直到每一種姿勢都成為由三角形組成的小小星座。高而窄、緊湊而摺疊、長而低，三張圖解已暗示出不同的空間性格。擠出為白色量體後，它們被一再重組，每一件小模型都揭示一種新的感受，無論是一面恰好越過舒適界線的斜牆，或是一片僅靠單點支撐而懸浮的板。最終的量體群把這些實驗收攏為一個躁動的形態，記錄身體在安定下來之前所做的種種調整。作品說明一項運動的紀律能夠成為設計方法，而常被感受、卻少被看見的平衡，也能塑造成邀請身體回應的板面。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
