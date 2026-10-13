@@ -1,0 +1,49 @@
+{
+  "project": "Stacked Vices",
+  "dest": "assets/board/stacked-vices-wooden-brick-landscape-of-seven-words",
+  "note": "Portfolio 222e pages 4-5 cropped to 7 images, WebP q88 (PIL). Not used: film poster with actors, handwritten notes, text board with handwriting, small inset views, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-stacked-vices-landscape.webp",
+      "sha256": "a26d4ce6d476d8c4806f389ab11e83f079e1c18b92cefef1b81e605baf9a8721",
+      "bytes": 225388,
+      "from": "222e pages 4-5 — the stacked landscape of vices"
+    },
+    {
+      "name": "02-word-models-index.webp",
+      "sha256": "ebc880fc9b8d13efb2112c04497babe79d2310bca0057ad0d421d746767c583e",
+      "bytes": 51756,
+      "from": "222e pages 4-5 — an index of the seven word models"
+    },
+    {
+      "name": "03-final-overhead.webp",
+      "sha256": "f5fa3ead68d31e31d6fd7cfe1cb1680b961d9d9b425ebe349b01e24cf9283608",
+      "bytes": 216176,
+      "from": "222e pages 4-5 — the landscape from above"
+    },
+    {
+      "name": "04-final-view-a.webp",
+      "sha256": "a76bdbc2faa35f01213efb86f0832aa2615fb52a8f00e8c7dd1e0e8255e11d9c",
+      "bytes": 59206,
+      "from": "222e pages 4-5 — a view of the stacked blocks"
+    },
+    {
+      "name": "05-final-view-b.webp",
+      "sha256": "60ec1d323bfa42523650ec42114c8b5fc6bcf2dae172864642b7fc0542066d81",
+      "bytes": 42016,
+      "from": "222e pages 4-5 — a cluster of coloured blocks"
+    },
+    {
+      "name": "06-final-view-c.webp",
+      "sha256": "23d631d05d8d7da36ae97c8d7ff79279feb6bd98564af1440f5fbeb0354d0aab",
+      "bytes": 65052,
+      "from": "222e pages 4-5 — a tower rising from the bricks"
+    },
+    {
+      "name": "07-final-view-d.webp",
+      "sha256": "6783de3383989792ca95ee4be000b4fb4887ff3463c1d972eb01616abc2945d5",
+      "bytes": 40102,
+      "from": "222e pages 4-5 — a close view of the coloured towers"
+    }
+  ]
+}
