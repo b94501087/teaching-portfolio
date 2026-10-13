@@ -1,0 +1,67 @@
+{
+  "project": "Deconstruction of Football",
+  "dest": "assets/board/deconstruction-of-football-pieces-strips-and-pvc",
+  "note": "Portfolio b63b pages 3-5 cropped to 10 images, WebP q88 (PIL). Not used: header portrait and building photo of the architect who inspired the project (name dropped), process photos with hands, model-1 overhead view with printed ball logo.",
+  "files": [
+    {
+      "name": "01-white-pvc-ribbon-model.webp",
+      "sha256": "79e4c00b651075b8986649e97b0b9d8f74d6c149af0e9604de96eb1270c084d9",
+      "bytes": 37062,
+      "from": "b63b pages 3-5 — the white pvc ribbon model"
+    },
+    {
+      "name": "02-football-piece-stadium.webp",
+      "sha256": "f69527407b8cc5b73161e4304c67badd0aeaf014be2ce3059e57a72175360a94",
+      "bytes": 64400,
+      "from": "b63b pages 3-5 — football pieces as a stadium"
+    },
+    {
+      "name": "03-football-pieces-side.webp",
+      "sha256": "f3d20a966fe8a5fbf5f1d6ff0db1bbc8a1a055cf23e339bcd5dab9152c12d21f",
+      "bytes": 44368,
+      "from": "b63b pages 3-5 — the pieces from the side"
+    },
+    {
+      "name": "04-football-piece-arches.webp",
+      "sha256": "a7fa23036243798c39ce8f74658207b947de2c931ba5b00b6084fa9f06d98e55",
+      "bytes": 18884,
+      "from": "b63b pages 3-5 — arches of football pieces"
+    },
+    {
+      "name": "05-wooden-strip-mound.webp",
+      "sha256": "f1304ebed5eca61941a157b9171fcd975128e608c2944bbbede1fbb39727997d",
+      "bytes": 151870,
+      "from": "b63b pages 3-5 — the wooden strip mound"
+    },
+    {
+      "name": "06-wooden-strip-interior.webp",
+      "sha256": "6642ce15419fe6f6b12eca7735f699ad427d59c891e148a9296112643e0f37df",
+      "bytes": 90592,
+      "from": "b63b pages 3-5 — inside the lattice"
+    },
+    {
+      "name": "07-wooden-strip-canopy.webp",
+      "sha256": "81d9141d1112396aecd031b8e604e4fd9e596aac507f4f3e82fa694ff05a49c8",
+      "bytes": 62758,
+      "from": "b63b pages 3-5 — the strip canopy"
+    },
+    {
+      "name": "08-pvc-ribbon-stair-view.webp",
+      "sha256": "1ec6a393f98d328dc60462843ddb54e65178fdb1c2bd405b63f2bfc53baeb9b8",
+      "bytes": 30968,
+      "from": "b63b pages 3-5 — ribbons and stairs"
+    },
+    {
+      "name": "09-pvc-curved-shells.webp",
+      "sha256": "a5110572a98cb630fa3588e7b77b02ebb7e3f5b2676eadc32cdfb1e8e07fa7d4",
+      "bytes": 23138,
+      "from": "b63b pages 3-5 — curved shells"
+    },
+    {
+      "name": "10-pvc-model-wide-view.webp",
+      "sha256": "4d3dfa5bb5c1314e6f016ebf5eb26cde267ff6d0b6115c4a1a63201c915a87e8",
+      "bytes": 21366,
+      "from": "b63b pages 3-5 — the pvc model from afar"
+    }
+  ]
+}
