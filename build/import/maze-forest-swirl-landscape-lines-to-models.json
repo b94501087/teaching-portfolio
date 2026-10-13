@@ -1,0 +1,67 @@
+{
+  "project": "Maze, Forest, Swirl",
+  "dest": "assets/board/maze-forest-swirl-landscape-lines-to-models",
+  "note": "Portfolio 9eaa pages 6-9 cropped to 10 images, WebP q88 (PIL). Not used: landscape trip photos, quick sketches, process photos with the student, hands holding the maze, caption.",
+  "files": [
+    {
+      "name": "01-forest-of-pvc-strips.webp",
+      "sha256": "01f49bdbab59119393a43a67d40afcd66c7ff42002723a2a7d88a91e1013e970",
+      "bytes": 189208,
+      "from": "9eaa pages 6-9 — the forest of pvc strips"
+    },
+    {
+      "name": "02-flowing-line-drawing.webp",
+      "sha256": "0d5a7e5a19f0ce27897e9dc6b6f5542e28f9575e5a7a2be316fcc22523abe6f3",
+      "bytes": 64438,
+      "from": "9eaa pages 6-9 — a drawing of flowing lines"
+    },
+    {
+      "name": "03-concentric-circle-drawing.webp",
+      "sha256": "7888a61b23a7dcc320e844a9c8c28fb3a65c90871af71e812c618e2b4c9572ca",
+      "bytes": 30922,
+      "from": "9eaa pages 6-9 — a drawing of concentric circles"
+    },
+    {
+      "name": "04-maze-from-above.webp",
+      "sha256": "3664c4fa4eedff03f5002ec991c014ab0bfa99f24fc99c1b3db56021aaf5c1ae",
+      "bytes": 74556,
+      "from": "9eaa pages 6-9 — the maze seen from above"
+    },
+    {
+      "name": "05-dotted-wave-drawing.webp",
+      "sha256": "b388bc5e9f0f6d0db02c9724d60ede0ea347cad1a473ce7496b31fb386fd8552",
+      "bytes": 117500,
+      "from": "9eaa pages 6-9 — a drawing of dotted waves"
+    },
+    {
+      "name": "06-maze-walls-close.webp",
+      "sha256": "7df81e1ebc4ab34fb0199021c74a8d1809cdf73f430a2a03c52c2eaecd776a25",
+      "bytes": 69080,
+      "from": "9eaa pages 6-9 — maze walls in close view"
+    },
+    {
+      "name": "07-maze-in-low-light.webp",
+      "sha256": "053b5f639ecd0bbac75fdc13fad276c024443fb8db726f84defd72360898f2ea",
+      "bytes": 45836,
+      "from": "9eaa pages 6-9 — the maze in low light"
+    },
+    {
+      "name": "08-forest-strips-from-above.webp",
+      "sha256": "be546a0fcfe6bcf7225981778645b433e722c4c895efba3df6c54b39bcabb5a9",
+      "bytes": 129400,
+      "from": "9eaa pages 6-9 — forest strips from above"
+    },
+    {
+      "name": "09-swirl-floating-ring.webp",
+      "sha256": "cc4a50cd6ba73db7d93cd0955240f631364cd22dfc62e2e11d9bef4aae5e0442",
+      "bytes": 149266,
+      "from": "9eaa pages 6-9 — the swirl as a floating ring"
+    },
+    {
+      "name": "10-swirl-from-below.webp",
+      "sha256": "ebd320b35bda1023644780b51d30d1a52b19621f15daaba81b70ee2fbab4e668",
+      "bytes": 67686,
+      "from": "9eaa pages 6-9 — the swirl from below"
+    }
+  ]
+}
