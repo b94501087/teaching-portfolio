@@ -1,0 +1,67 @@
+{
+  "project": "Sonic Spectrum",
+  "dest": "assets/board/sonic-spectrum-sound-curves-to-layered-tower",
+  "note": "Portfolio fbb7 pages 3-4 cropped to ten images, WebP q88 (PIL). Not used: name cover, product photos, travel photo, photo of hands at work.",
+  "files": [
+    {
+      "name": "01-layered-tower.webp",
+      "sha256": "4f9dcfb7958e4a4a5e8b6a62026214281465b1e7d7697a5244cfccf2c7aa40e5",
+      "bytes": 132030,
+      "from": "fbb7 page 4 — layered tower"
+    },
+    {
+      "name": "02-force-lines.webp",
+      "sha256": "1b0bda83dfb2578229cd71a2a511a9de59e1ae25651d5c8c4b3beead7e326cfa",
+      "bytes": 200306,
+      "from": "fbb7 page 3 — force line drawings"
+    },
+    {
+      "name": "03-wire-curves.webp",
+      "sha256": "a4e6dad8b187a3c3288f738aeab5d71f84884028d9b1eb0e8a551996dd6b7599",
+      "bytes": 58710,
+      "from": "fbb7 page 3 — wire curves"
+    },
+    {
+      "name": "04-curves-on-board.webp",
+      "sha256": "91ffd5d5a068a50dab3c4edc72c04ee5c8f02ff16f2b96ac58bb675828dd5ff4",
+      "bytes": 37988,
+      "from": "fbb7 page 3 — curves on board"
+    },
+    {
+      "name": "05-paper-relief.webp",
+      "sha256": "bed26d840c69a688727b0f5425198a41d602d902788f32577701efb8e6b2d932",
+      "bytes": 17076,
+      "from": "fbb7 page 3 — paper relief"
+    },
+    {
+      "name": "06-curved-strips.webp",
+      "sha256": "f9a83273e7eb37629fb51757a002b5ba52926f76ca4049648a890939f959f716",
+      "bytes": 32562,
+      "from": "fbb7 page 3 — curved strips"
+    },
+    {
+      "name": "07-top-detail.webp",
+      "sha256": "e53b9850dbfb32f6ca3d0b05405c1c0b36ba290c32f771bf514d86b8776f1dff",
+      "bytes": 72676,
+      "from": "fbb7 page 4 — top detail"
+    },
+    {
+      "name": "08-wide-view.webp",
+      "sha256": "b52c42603733a82bd33f25fe1fd7e2e2bc25d1afdb6bf0682c95da464583e897",
+      "bytes": 51224,
+      "from": "fbb7 page 4 — wide view"
+    },
+    {
+      "name": "09-upper-section.webp",
+      "sha256": "22d0b36e75e3f972b081396eb02d74bc5f0dcb546dbd44a3afc283a35c4d0718",
+      "bytes": 52764,
+      "from": "fbb7 page 4 — upper section"
+    },
+    {
+      "name": "10-tower-drawing.webp",
+      "sha256": "736e3fb84fb9b358c46c18926cf7f7fc06459d63dba903bc20dc63f4c0f9da7e",
+      "bytes": 206392,
+      "from": "fbb7 page 4 — tower drawing"
+    }
+  ]
+}
