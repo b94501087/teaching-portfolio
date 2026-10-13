@@ -1,0 +1,67 @@
+{
+  "project": "Drowned Legacy: The Inevitable Tide",
+  "dest": "assets/board/drowned-legacy-rising-sea-coastal-house-model",
+  "note": "Portfolio 0bc2 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, a reference flood photo, a process photo with hands.",
+  "files": [
+    {
+      "name": "01-submerged-model.webp",
+      "sha256": "511fd7227795613fbbad961f886f441c809871d59a33284ac9b3899d2674f0d7",
+      "bytes": 37948,
+      "from": "0bc2 page 2 — submerged model"
+    },
+    {
+      "name": "02-conceptual-drawing.webp",
+      "sha256": "e90ddfbb9f338b46751fb655c95bb923b2644492789b92c5c5124e3eaa863959",
+      "bytes": 44452,
+      "from": "0bc2 page 2 — conceptual drawing"
+    },
+    {
+      "name": "03-material-tests.webp",
+      "sha256": "9b1b951ad61db73bc1192f17dc2343961b5c5ea991453c04de0b075927e54757",
+      "bytes": 32554,
+      "from": "0bc2 page 2 — material tests"
+    },
+    {
+      "name": "04-stone-shelter.webp",
+      "sha256": "2b05e1d7c1ca44c8d827f7675a31f429c9ea4d7276523ddbebe24d08dc8c8eb6",
+      "bytes": 12612,
+      "from": "0bc2 page 2 — stone shelter"
+    },
+    {
+      "name": "05-three-stages.webp",
+      "sha256": "fcdc88e9c8389919fa2c5205cd75566ad5c9f5381f5386e979ad3f6ef5a2cc78",
+      "bytes": 79350,
+      "from": "0bc2 page 3 — three stages"
+    },
+    {
+      "name": "06-flood.webp",
+      "sha256": "18306f5212d25c7250ab614593f3535cf81b0a4a1b6a8eab032719128451d080",
+      "bytes": 27404,
+      "from": "0bc2 page 3 — flood"
+    },
+    {
+      "name": "07-floating.webp",
+      "sha256": "f69de43d106360ecb7d2b16460959cc72086e1b674a5d33fb611513bda5833c8",
+      "bytes": 17240,
+      "from": "0bc2 page 3 — floating"
+    },
+    {
+      "name": "08-habitat.webp",
+      "sha256": "1ee310c3994594986cf0c9951cf834259a8403468d74f559cce4669eca12e1df",
+      "bytes": 21930,
+      "from": "0bc2 page 3 — habitat"
+    },
+    {
+      "name": "09-desolate-building.webp",
+      "sha256": "8345da2116dd511299ca21d797a684206d812bbe23eebee6e1ed9781cab8ef9e",
+      "bytes": 15008,
+      "from": "0bc2 page 3 — desolate building"
+    },
+    {
+      "name": "10-timber-frame.webp",
+      "sha256": "4a91cb8ec29dcd1223a439b879dd19144848d9582f86b75795c0fde38d0a4f23",
+      "bytes": 18642,
+      "from": "0bc2 page 2 — timber frame"
+    }
+  ]
+}
