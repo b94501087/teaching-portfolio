@@ -61724,6 +61724,430 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Two Sides Tower",
+      "slug": "two-sides-tower-mixed-material-story-model",
+      "description": "A tall mixed-material model grows in six parts, each one telling a stage of a story about two rivals.\n\nModel making | Narrative structure | PVC board, wooden and bamboo sticks, tin foil, clay, iron wire, foam and acrylic strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "雙面之塔",
+          "description": "一座高聳的複合材料模型分六個部分生長，每個部分講述兩個對手故事中的一個階段。\n\n模型製作｜敘事結構｜PVC板、木條與竹籤、錫箔、黏土、鐵絲、泡沫塊與壓克力條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/two-sides-tower-mixed-material-story-model/01-full-model.webp",
+        "assets/board/two-sides-tower-mixed-material-story-model/02-story-sketch.webp",
+        "assets/board/two-sides-tower-mixed-material-story-model/03-folded-paper-part.webp",
+        "assets/board/two-sides-tower-mixed-material-story-model/04-wire-cage.webp",
+        "assets/board/two-sides-tower-mixed-material-story-model/05-clay-flow.webp",
+        "assets/board/two-sides-tower-mixed-material-story-model/06-model-angle.webp",
+        "assets/board/two-sides-tower-mixed-material-story-model/07-pen-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/two-sides-tower-mixed-material-story-model/01-full-model.webp"
+          ],
+          "captions": [
+            "The finished tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to turn the plot of a crime film into a building. Two rivals, one on each side of the law, had to share one structure.",
+          "images": [
+            "assets/board/two-sides-tower-mixed-material-story-model/02-story-sketch.webp"
+          ],
+          "captions": [
+            "A colour sketch of the six parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想把一部犯罪電影的情節轉化為建築。分處法律兩端的兩個對手，必須共享同一個結構。",
+              "captions": [
+                "六個部分的彩色草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A colour sketch divided the story into six stages from bottom to top. Each stage was given its own material and form.",
+          "images": [
+            "assets/board/two-sides-tower-mixed-material-story-model/03-folded-paper-part.webp"
+          ],
+          "captions": [
+            "Folded paper and toothpicks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張彩色草圖將故事由下而上分成六個階段。每個階段都被賦予各自的材料與形態。",
+              "captions": [
+                "摺紙與牙籤。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stick platforms and stairs form the base, with a crumpled foil mass beside them. Above them rise folded paper, foam supports, clay and a cage of wire houses.",
+          "images": [
+            "assets/board/two-sides-tower-mixed-material-story-model/04-wire-cage.webp",
+            "assets/board/two-sides-tower-mixed-material-story-model/05-clay-flow.webp"
+          ],
+          "captions": [
+            "The wire cage.",
+            "Clay flowing upward."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木條平台與樓梯構成基座，旁邊是揉皺的錫箔量體。其上依序升起摺紙、泡沫支撐、黏土與鐵絲房屋組成的籠子。",
+              "captions": [
+                "鐵絲籠。",
+                "向上流動的黏土。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The tower reads as one climb through the whole story. A detailed pen drawing records every part of it.",
+          "images": [
+            "assets/board/two-sides-tower-mixed-material-story-model/06-model-angle.webp",
+            "assets/board/two-sides-tower-mixed-material-story-model/07-pen-drawing.webp"
+          ],
+          "captions": [
+            "The model from above.",
+            "A pen drawing of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座塔讀起來就像一次貫穿整個故事的攀升。一張細膩的鋼筆畫記錄了它的每個部分。",
+              "captions": [
+                "從上方看模型。",
+                "塔的鋼筆畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Break the story down.\n2. Give each part a material.\n3. Stack in order.\n4. Draw what you built.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 拆解故事。\n2. 為每個部分配置材料。\n3. 依序堆疊。\n4. 畫出你所建造的。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tower of Echoes",
+      "slug": "tower-of-echoes-white-card-spire-with-red-paths",
+      "description": "Roofs, door frames and a spire from familiar buildings are echoed in a white card tower wrapped by red paths.\n\nModel making | Tower design | PVC board, wooden sticks and cardboard | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "回聲之塔",
+          "description": "熟悉建築中的屋頂、門框與尖塔，在一座被紅色路徑環繞的白色紙板塔中迴響。\n\n模型製作｜塔樓設計｜PVC板、木條與紙板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tower-of-echoes-white-card-spire-with-red-paths/01-tower-model.webp",
+        "assets/board/tower-of-echoes-white-card-spire-with-red-paths/02-stipple-drawing.webp",
+        "assets/board/tower-of-echoes-white-card-spire-with-red-paths/03-process-base.webp",
+        "assets/board/tower-of-echoes-white-card-spire-with-red-paths/04-process-levels.webp",
+        "assets/board/tower-of-echoes-white-card-spire-with-red-paths/05-model-dark.webp",
+        "assets/board/tower-of-echoes-white-card-spire-with-red-paths/06-arched-doors.webp",
+        "assets/board/tower-of-echoes-white-card-spire-with-red-paths/07-red-ramps.webp",
+        "assets/board/tower-of-echoes-white-card-spire-with-red-paths/08-gable-walls.webp",
+        "assets/board/tower-of-echoes-white-card-spire-with-red-paths/09-small-chapel.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tower-of-echoes-white-card-spire-with-red-paths/01-tower-model.webp"
+          ],
+          "captions": [
+            "The finished tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student took photos of the old brick buildings around them every day. The aim was to sample their parts and build a new tower from them.",
+          "images": [
+            "assets/board/tower-of-echoes-white-card-spire-with-red-paths/02-stipple-drawing.webp"
+          ],
+          "captions": [
+            "A stipple drawing of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生每天拍攝身邊的老磚造建築。目標是取樣它們的構件，建造一座新的塔。",
+              "captions": [
+                "塔的點描畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Triangular roofs, square door frames and window frames were picked out from the photos. A tall spire with doors on four sides became the top.",
+          "images": [
+            "assets/board/tower-of-echoes-white-card-spire-with-red-paths/03-process-base.webp",
+            "assets/board/tower-of-echoes-white-card-spire-with-red-paths/04-process-levels.webp"
+          ],
+          "captions": [
+            "Building the base.",
+            "Adding the levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "從照片中挑出三角形屋頂、方形門框與窗框。一座四面開門的高聳尖塔成為頂部。",
+              "captions": [
+                "建造基座。",
+                "加上樓層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Card walls were cut and glued with great care, since each cut decided whether the parts above could stand. Red strips wind through the levels as paths.",
+          "images": [
+            "assets/board/tower-of-echoes-white-card-spire-with-red-paths/05-model-dark.webp",
+            "assets/board/tower-of-echoes-white-card-spire-with-red-paths/06-arched-doors.webp"
+          ],
+          "captions": [
+            "The tower on black.",
+            "Arched doors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "紙板牆面經過仔細切割與黏合，因為每一刀都決定上方構件能否站穩。紅色紙條作為路徑在各層間蜿蜒。",
+              "captions": [
+                "黑底上的塔。",
+                "拱門。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The white tower climbs past arches, gables and ramps to a pointed spire. Small red figures show how people would move through it.",
+          "images": [
+            "assets/board/tower-of-echoes-white-card-spire-with-red-paths/07-red-ramps.webp",
+            "assets/board/tower-of-echoes-white-card-spire-with-red-paths/08-gable-walls.webp",
+            "assets/board/tower-of-echoes-white-card-spire-with-red-paths/09-small-chapel.webp"
+          ],
+          "captions": [
+            "Red ramps through the walls.",
+            "Gable walls and figures.",
+            "A small gabled room."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "白色的塔經過拱門、山牆與坡道，升至尖頂。紅色小人偶呈現人們如何在其中移動。",
+              "captions": [
+                "穿越牆面的紅色坡道。",
+                "山牆與人偶。",
+                "小型山牆空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Photograph your world.\n2. Pick the key parts.\n3. Cut with care.\n4. Add a path.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 拍下你的世界。\n2. 挑出關鍵構件。\n3. 仔細切割。\n4. 加入一條路徑。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Steel Unity",
+      "slug": "steel-unity-triangle-stick-wearable-structure",
+      "description": "Triangles of card braced by wooden sticks form an angular structure that can also be worn on the shoulder.\n\nModel making | Wearable structure | PVC board and wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鋼之聯結",
+          "description": "以木條支撐的紙板三角形，組成一個稜角分明、也能披在肩上的結構。\n\n模型製作｜可穿戴結構｜PVC板與木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/steel-unity-triangle-stick-wearable-structure/01-structure-model.webp",
+        "assets/board/steel-unity-triangle-stick-wearable-structure/02-frame-drawing.webp",
+        "assets/board/steel-unity-triangle-stick-wearable-structure/03-triangle-units.webp",
+        "assets/board/steel-unity-triangle-stick-wearable-structure/04-line-drawing.webp",
+        "assets/board/steel-unity-triangle-stick-wearable-structure/05-shaded-drawing.webp",
+        "assets/board/steel-unity-triangle-stick-wearable-structure/06-view-one.webp",
+        "assets/board/steel-unity-triangle-stick-wearable-structure/07-view-two.webp",
+        "assets/board/steel-unity-triangle-stick-wearable-structure/08-view-three.webp",
+        "assets/board/steel-unity-triangle-stick-wearable-structure/09-close-up.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/steel-unity-triangle-stick-wearable-structure/01-structure-model.webp"
+          ],
+          "captions": [
+            "The finished structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The steel frame of a tall tower caught the student's eye with its intricate yet orderly pattern. The question was how to turn that frame into a small object.",
+          "images": [
+            "assets/board/steel-unity-triangle-stick-wearable-structure/02-frame-drawing.webp"
+          ],
+          "captions": [
+            "Drawings of a steel frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座高塔的鋼構框架以其複雜卻有序的圖案吸引了學生。問題在於如何把這個框架轉化為小型物件。",
+              "captions": [
+                "鋼構框架圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Drawings traced how the frame repeats in triangles. Single card triangles were tested with sticks as braces.",
+          "images": [
+            "assets/board/steel-unity-triangle-stick-wearable-structure/03-triangle-units.webp"
+          ],
+          "captions": [
+            "Triangle units."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "圖面描繪框架如何以三角形重複。以木條作為支撐，測試單一的紙板三角形。",
+              "captions": [
+                "三角形單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Many triangles of different shapes were cut and joined into one angular form. Line and shaded drawings helped keep the whole piece cohesive.",
+          "images": [
+            "assets/board/steel-unity-triangle-stick-wearable-structure/04-line-drawing.webp",
+            "assets/board/steel-unity-triangle-stick-wearable-structure/05-shaded-drawing.webp"
+          ],
+          "captions": [
+            "A line drawing of the form.",
+            "A shaded drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "切割許多不同形狀的三角形，並接合成一個稜角分明的形體。線稿與明暗素描幫助整件作品保持一致。",
+              "captions": [
+                "形體線稿。",
+                "明暗素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished structure sits on a table or rests on the shoulder like armour. Its sticks and triangles echo the tower frame at a human scale.",
+          "images": [
+            "assets/board/steel-unity-triangle-stick-wearable-structure/06-view-one.webp",
+            "assets/board/steel-unity-triangle-stick-wearable-structure/07-view-two.webp",
+            "assets/board/steel-unity-triangle-stick-wearable-structure/08-view-three.webp",
+            "assets/board/steel-unity-triangle-stick-wearable-structure/09-close-up.webp"
+          ],
+          "captions": [
+            "One way to arrange it.",
+            "A second view.",
+            "A third view.",
+            "Sticks inside the triangles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的結構可放在桌上，也能像盔甲般披在肩上。它的木條與三角形以人的尺度呼應塔的框架。",
+              "captions": [
+                "一種擺放方式。",
+                "第二個視角。",
+                "第三個視角。",
+                "三角形內的木條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Look at structure.\n2. Find the unit.\n3. Repeat and vary.\n4. Try it at body scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察結構。\n2. 找到單元。\n3. 重複與變化。\n4. 以身體尺度嘗試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
