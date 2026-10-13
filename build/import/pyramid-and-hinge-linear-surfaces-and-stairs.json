@@ -1,0 +1,55 @@
+{
+  "project": "Pyramid and Hinge",
+  "dest": "assets/board/pyramid-and-hinge-linear-surfaces-and-stairs",
+  "note": "Portfolio 72cd page 11 cropped to 8 images, WebP q88 (PIL). Not used: programme name and supervisor name in header.",
+  "files": [
+    {
+      "name": "01-hinged-pyramid-stair-light.webp",
+      "sha256": "9e7ffdd9678c1d7d0059c2f30cb4fe9a9310afc559ca624bdf07f3ef14d7ce22",
+      "bytes": 48522,
+      "from": "72cd page 11 — light across the hinged pyramids"
+    },
+    {
+      "name": "02-rotational-drawing.webp",
+      "sha256": "afd1f0ad8d1624a87c4d85b95c42bdde3f28b8c3114a691c56cc8d408c5d699a",
+      "bytes": 68660,
+      "from": "72cd page 11 — rotational drawing"
+    },
+    {
+      "name": "03-plan-section-composite.webp",
+      "sha256": "34a9cacad505143155bc02a0484fbf2f18757249eb9fc88a9b589f689f3d9555",
+      "bytes": 73834,
+      "from": "72cd page 11 — plan and section composite drawing"
+    },
+    {
+      "name": "04-unrolled-elevation.webp",
+      "sha256": "8ead714c87de0f90f86416e62eee9afc88b3a053b3e434d32e8dc6e2328a62bf",
+      "bytes": 53942,
+      "from": "72cd page 11 — unrolled elevation drawing"
+    },
+    {
+      "name": "05-pyramid-model-views.webp",
+      "sha256": "441fa1e68bb2cd969d276c25355a50c690c2880ed6b391e9935c35f348801b53",
+      "bytes": 22452,
+      "from": "72cd page 11 — views of the pyramid model"
+    },
+    {
+      "name": "06-linear-surface-interior.webp",
+      "sha256": "fde686fa1d3338abd7a6030dfcd99afeec79b51293a3f1e7d0b8335222d50c48",
+      "bytes": 70882,
+      "from": "72cd page 11 — the linear interior"
+    },
+    {
+      "name": "07-stair-between-pyramids.webp",
+      "sha256": "1d46bb6e61af1912a897353d2f210fbda0a1e4969e7edd1d2f9e92ef950f03fd",
+      "bytes": 27690,
+      "from": "72cd page 11 — stairs between pyramids"
+    },
+    {
+      "name": "08-striped-light-on-stairs.webp",
+      "sha256": "738fe60cc0559c0b83aaaaccad8f214b665d1078589921ece06dbbaf2d74dd0b",
+      "bytes": 27988,
+      "from": "72cd page 11 — striped light on the stairs"
+    }
+  ]
+}
