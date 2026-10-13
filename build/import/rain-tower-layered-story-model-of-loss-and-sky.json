@@ -1,0 +1,49 @@
+{
+  "project": "Rain Tower",
+  "dest": "assets/board/rain-tower-layered-story-model-of-loss-and-sky",
+  "note": "Portfolio 3dee pages 14-15 cropped to 7 images, WebP q88 (PIL). Not used: cover page, film stills, film and director names, note sketch with stills, photo with a hand.",
+  "files": [
+    {
+      "name": "01-layered-tower.webp",
+      "sha256": "726af0bd99fcd3299644545d97f10e36ba47676dd6260a15a7d82b375af540ce",
+      "bytes": 400572,
+      "from": "3dee page 14-15 — the layered rain tower"
+    },
+    {
+      "name": "02-tower-front.webp",
+      "sha256": "b3bc1c1cef7499c33603c7ece9dbb1b0f4e95b7e3cc8c6636b18804fca225910",
+      "bytes": 109652,
+      "from": "3dee page 14-15 — the tower from the front"
+    },
+    {
+      "name": "03-early-frame.webp",
+      "sha256": "9130ac8a2742295f8093deab0dfb040eadbaac1e8c8f3c625eaf89cc076ff0cf",
+      "bytes": 36056,
+      "from": "3dee page 14-15 — an early stick frame"
+    },
+    {
+      "name": "04-stepped-walls.webp",
+      "sha256": "e553c49d3f39b8084b682287a8e5f5a05b216485fdb430d7cecfebd1ce1a4fc3",
+      "bytes": 20342,
+      "from": "3dee page 14-15 — stepped walls for the city layer"
+    },
+    {
+      "name": "05-blue-paper-layer.webp",
+      "sha256": "c2652ddb68b28f580837ec209babc43caf44e5f572baa9d70846692e3a557b02",
+      "bytes": 51834,
+      "from": "3dee page 14-15 — blue paper rain on a rod"
+    },
+    {
+      "name": "06-top-layers.webp",
+      "sha256": "76354491d8691fb9c42c22ae87a9a08fe8bdc2c6857cc9a40bf40afb3a87e32a",
+      "bytes": 129818,
+      "from": "3dee page 14-15 — clouds and rain at the top"
+    },
+    {
+      "name": "07-lower-layers.webp",
+      "sha256": "944512f5b8d3a6598ce3a99108029d1a94e80111922880884bbd534fa1f3f0b1",
+      "bytes": 95296,
+      "from": "3dee page 14-15 — the core and city layers"
+    }
+  ]
+}
