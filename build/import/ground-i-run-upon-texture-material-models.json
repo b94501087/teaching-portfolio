@@ -1,0 +1,67 @@
+{
+  "project": "The Ground I Run Upon",
+  "dest": "assets/board/ground-i-run-upon-texture-material-models",
+  "note": "Portfolio 4663 pages 10-11 cropped to ten images, WebP q88 (PIL). Not used: title and text, photos of the neighbourhood, a map of the running route, ground photos.",
+  "files": [
+    {
+      "name": "01-model-set.webp",
+      "sha256": "b03522dc3b80465f057788cb581c5227701fc4244deb3481b9ef427d78ecc517",
+      "bytes": 29774,
+      "from": "4663 page 11 — model set"
+    },
+    {
+      "name": "02-texture-drawings.webp",
+      "sha256": "e39a9b939837c945b54407bd782b753d6b0f76bd054d7fc93ac92edd44886eaf",
+      "bytes": 119190,
+      "from": "4663 page 10 — texture drawings"
+    },
+    {
+      "name": "03-foam-and-wire.webp",
+      "sha256": "73f7f93805299575d5a8ecccac7ae3482b41d5d9f2ff8fedb71c9ccdd9bef2c3",
+      "bytes": 10392,
+      "from": "4663 page 10 — foam and wire"
+    },
+    {
+      "name": "04-stick-frame.webp",
+      "sha256": "f92cd07ac0992e24bf836aaf539274874ede655f0d04ee98446a5a9d1a547e39",
+      "bytes": 13366,
+      "from": "4663 page 10 — stick frame"
+    },
+    {
+      "name": "05-cotton-trees.webp",
+      "sha256": "22feee63c41eeaca3aa25eb7b4604ce3d5e7d24e09ed742572db8f6baad60bfe",
+      "bytes": 7698,
+      "from": "4663 page 10 — cotton trees"
+    },
+    {
+      "name": "06-folded-sail.webp",
+      "sha256": "438895a4358e76be81be1f256364e0ba399ec083589d728cc0881cc8602d332d",
+      "bytes": 10356,
+      "from": "4663 page 10 — folded sail"
+    },
+    {
+      "name": "07-timber-shelter.webp",
+      "sha256": "003c77972c377c7050c632a30bb4c413f64677d4268d14cb23b0a7a3b6742dce",
+      "bytes": 12372,
+      "from": "4663 page 10 — timber shelter"
+    },
+    {
+      "name": "08-pebble-tray.webp",
+      "sha256": "e87ec78e9a30a45c029a21ba27af75826ebe4f2bd011bb7a3141cf4e3970bb91",
+      "bytes": 30442,
+      "from": "4663 page 11 — pebble tray"
+    },
+    {
+      "name": "09-wire-tangle-top.webp",
+      "sha256": "5da00593f34b75176d5ab53ae6a24658879182c299f99cd28b7d4d6b064d53b9",
+      "bytes": 32002,
+      "from": "4663 page 11 — wire tangle top"
+    },
+    {
+      "name": "10-model-row.webp",
+      "sha256": "c8816fffe48f2f0e65d47a0f3e066569515136c672d1766074170f63d13637f2",
+      "bytes": 23234,
+      "from": "4663 page 11 — model row"
+    }
+  ]
+}
