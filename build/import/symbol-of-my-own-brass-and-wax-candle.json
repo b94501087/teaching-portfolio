@@ -1,0 +1,49 @@
+{
+  "project": "Symbol of My Own",
+  "dest": "assets/board/symbol-of-my-own-brass-and-wax-candle",
+  "note": "Portfolio 9eaa pages 15-18 cropped to 7 images, WebP q88 (PIL). Not used: anime reference, figure sketches over photos of people, crowd photo, inspiration collage with photos and the teddy bear, process photos with hands, playground photo, caption.",
+  "files": [
+    {
+      "name": "01-burning-wax-sphere.webp",
+      "sha256": "59d87b94bb651f7a8c2f7da09382ed3726ab847b1eaa4a32b85fe97bdd1dc3ec",
+      "bytes": 21246,
+      "from": "9eaa pages 15-18 — a burning wax sphere"
+    },
+    {
+      "name": "02-wire-and-brass-frames.webp",
+      "sha256": "0e3733b4fb3f0f7b93b0b7c3cdad8c381e7d219601f232c8cf526ac13c17064b",
+      "bytes": 53174,
+      "from": "9eaa pages 15-18 — wire studies and brass frames"
+    },
+    {
+      "name": "03-brass-pieces.webp",
+      "sha256": "0316afb3455e20fd875ae4120e1e5497860e53fcbfe2ce2f2bf750c54f995255",
+      "bytes": 31614,
+      "from": "9eaa pages 15-18 — small brass pieces"
+    },
+    {
+      "name": "04-wax-pouring-sequence.webp",
+      "sha256": "2b2e4e61b76b5e9e9c5cecbd6f4cc5691e1ca5bbe5844c9f6ab680d15a77aaf3",
+      "bytes": 100276,
+      "from": "9eaa pages 15-18 — the wax pouring sequence"
+    },
+    {
+      "name": "05-four-candles-burned.webp",
+      "sha256": "6d9ccd27d05d518773a46d0616b160772507801b24e81106983742589ef2a3e5",
+      "bytes": 42126,
+      "from": "9eaa pages 15-18 — four candles burned"
+    },
+    {
+      "name": "06-candle-in-the-night.webp",
+      "sha256": "857e22d4eacebfa3afdd44daf8d0e51f2e5b200428dc9bc3fadca4937d8745d8",
+      "bytes": 26124,
+      "from": "9eaa pages 15-18 — a candle in the night"
+    },
+    {
+      "name": "07-brass-frame-in-melted-wax.webp",
+      "sha256": "b61ffff38d8c544d32730de5b56e2d6e3c715b545177f7da47bc71bc2f4558ce",
+      "bytes": 67366,
+      "from": "9eaa pages 15-18 — a brass frame in melted wax"
+    }
+  ]
+}
