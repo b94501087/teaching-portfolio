@@ -1,0 +1,61 @@
+{
+  "project": "Fragmented Mirror",
+  "dest": "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs",
+  "note": "Portfolio 30d4 pages 6-7 cropped to 9 images, WebP q88 (PIL). Not used: artist print, film poster and stills, puzzle cube photos, hallway photos, process photos with hands.",
+  "files": [
+    {
+      "name": "01-mirror-panel-maze.webp",
+      "sha256": "36e786fb477431e93e044849b1ec3c8a279ee4c7531e86d6feb3c1bfc82d2014",
+      "bytes": 39050,
+      "from": "30d4 pages 6-7 — the mirror panel maze"
+    },
+    {
+      "name": "02-panels-from-above.webp",
+      "sha256": "89bdb0899887448f6ed19c26d56abed9436da78a136d530317c00967420c880f",
+      "bytes": 55740,
+      "from": "30d4 pages 6-7 — panels from above"
+    },
+    {
+      "name": "03-reflections-close-up.webp",
+      "sha256": "a8c96cfb0d80834d914dde4e6cf194913d2e1f390a7f66e4be836599a6fbedae",
+      "bytes": 46080,
+      "from": "30d4 pages 6-7 — reflections close up"
+    },
+    {
+      "name": "04-first-panel-tests.webp",
+      "sha256": "e28d661eb8aa0a07d63ea3b7945937b534e695d8485cc40bdd6bd0f36ef94a9e",
+      "bytes": 32428,
+      "from": "30d4 pages 6-7 — first mirror panel tests"
+    },
+    {
+      "name": "05-inverted-stair-drawing.webp",
+      "sha256": "41c2fe14da0803d36a0413e92267eb7fffb5adf16c24d89f9a625d91592fefdb",
+      "bytes": 98136,
+      "from": "30d4 pages 6-7 — a drawing of the stairs"
+    },
+    {
+      "name": "06-photo-fragment-collage.webp",
+      "sha256": "2d9ee67112daa8ce0ee49550d7540beb974698758c4e497dff9e495714e24db6",
+      "bytes": 20396,
+      "from": "30d4 pages 6-7 — a collage of photo fragments"
+    },
+    {
+      "name": "07-stair-cluster-left.webp",
+      "sha256": "8fae304cc0f892a5bd3fd491784ba9377011c411e37a2fa3f83e947ed6d16c91",
+      "bytes": 29254,
+      "from": "30d4 pages 6-7 — stairs from the left"
+    },
+    {
+      "name": "08-stair-cluster-centre.webp",
+      "sha256": "c10a5823ea2d4b4c4e34b9866c1eb6866819dede42e7490315a82a674b2e93bb",
+      "bytes": 26372,
+      "from": "30d4 pages 6-7 — stairs at the centre"
+    },
+    {
+      "name": "09-stair-cluster-right.webp",
+      "sha256": "2d829622bdb58e7d9b6a63bbfa37db65df25de4cd6baa72716eefa58472a4267",
+      "bytes": 39990,
+      "from": "30d4 pages 6-7 — stairs from the right"
+    }
+  ]
+}
