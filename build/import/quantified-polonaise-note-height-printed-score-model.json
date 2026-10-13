@@ -1,0 +1,61 @@
+{
+  "project": "Quantified Polonaise",
+  "dest": "assets/board/quantified-polonaise-note-height-printed-score-model",
+  "note": "Portfolio 6f23 pages 6-7 cropped to 9 images, WebP q88 (PIL). Not used: printed sheet music excerpts and handwritten score notes.",
+  "files": [
+    {
+      "name": "01-note-model-overview.webp",
+      "sha256": "cb264df2aafb7eab32abca6004598100695011e5aac9d9959dff4a882e3b87eb",
+      "bytes": 182126,
+      "from": "6f23 pages 6-7 — the note model"
+    },
+    {
+      "name": "02-note-model-in-dark.webp",
+      "sha256": "32eb7fdb50c07099e7ccf79d01487429cfa209bdf05a86334e2780b04c990f4c",
+      "bytes": 128220,
+      "from": "6f23 pages 6-7 — the paper model in the dark"
+    },
+    {
+      "name": "03-note-model-diagonal.webp",
+      "sha256": "cf91bb2beafedb3e83dea0d4521df946c73024976b5f07e73c55b38c2b32283b",
+      "bytes": 68160,
+      "from": "6f23 pages 6-7 — the paper model on the diagonal"
+    },
+    {
+      "name": "04-strips-close-up.webp",
+      "sha256": "67f3c62126a00f7247e39c487efeec7a457039d2a480c9051d96c17bfcf3c85a",
+      "bytes": 41704,
+      "from": "6f23 pages 6-7 — a close-up of paper strips"
+    },
+    {
+      "name": "05-printed-notes-on-base.webp",
+      "sha256": "138880fc495ced5bc4b3b05da750dfbab2f796df438ae5d91da06cbb0fb1a700",
+      "bytes": 67950,
+      "from": "6f23 pages 6-7 — printed notes on the base"
+    },
+    {
+      "name": "06-printed-notes-low-view.webp",
+      "sha256": "e615861561b934f390ba39f3f6ce4b249ff56d301629006ead14ae72373adb2f",
+      "bytes": 37464,
+      "from": "6f23 pages 6-7 — a low view of the printed notes"
+    },
+    {
+      "name": "07-printed-notes-side.webp",
+      "sha256": "55765970e7770f74422d9bcd763ce9e4b86af697e452952ee518b7ef80d3aad5",
+      "bytes": 18506,
+      "from": "6f23 pages 6-7 — the printed notes from the side"
+    },
+    {
+      "name": "08-printed-notes-detail.webp",
+      "sha256": "17ec4ff14e851b42a8733ea807c965178227ef827780b510a125b46761260237",
+      "bytes": 10440,
+      "from": "6f23 pages 6-7 — a detail of the printed notes"
+    },
+    {
+      "name": "09-printed-notes-end.webp",
+      "sha256": "d8a8d86aa1cd746e359bdd8a296e7011762445b58d2f7f62a7a66b22753fa9a2",
+      "bytes": 10846,
+      "from": "6f23 pages 6-7 — the end of the printed piece"
+    }
+  ]
+}
