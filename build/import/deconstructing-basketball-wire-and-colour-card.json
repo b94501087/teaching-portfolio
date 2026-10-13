@@ -1,0 +1,49 @@
+{
+  "project": "Deconstructing Basketball",
+  "dest": "assets/board/deconstructing-basketball-wire-and-colour-card",
+  "note": "Portfolio b4db page 3 cropped to 7 images, WebP q88 (PIL). Not used: process photo with hands, drawing with handwritten signature.",
+  "files": [
+    {
+      "name": "01-wire-and-colour-card-model.webp",
+      "sha256": "cb125b4c383d4eefe173f6fb23a1829cdd67a2dd4f2e49c2d0982249a7c58f60",
+      "bytes": 242926,
+      "from": "b4db page 3 — the wire and colour card model"
+    },
+    {
+      "name": "02-ball-pattern-drawings.webp",
+      "sha256": "b9a770c63ea1de381008999e8119184b72971c4b2d16ffebb490c2251f27a500",
+      "bytes": 127520,
+      "from": "b4db page 3 — ball pattern drawings"
+    },
+    {
+      "name": "03-motion-line-sketches.webp",
+      "sha256": "f0c0553698122dd8bed22d3259760f10a7ad23ccd918e661bcf5350304810384",
+      "bytes": 199200,
+      "from": "b4db page 3 — motion line sketches"
+    },
+    {
+      "name": "04-early-wire-test.webp",
+      "sha256": "88a3a803398bd0f0ecd33d7d3c2f061750fb0dea6d348741c16cb249b0a4a4fb",
+      "bytes": 25486,
+      "from": "b4db page 3 — an early wire test"
+    },
+    {
+      "name": "05-stick-test.webp",
+      "sha256": "65d4fe3e48ef9d440c81dc96f43f90bc8fcefef765ef700b50f9a290de99521f",
+      "bytes": 22538,
+      "from": "b4db page 3 — wire arches"
+    },
+    {
+      "name": "06-colour-card-close-up.webp",
+      "sha256": "c1fafaeae681b35fc5449f388d5952df5011a66e3e11875a7f9b22f42b145dd7",
+      "bytes": 215100,
+      "from": "b4db page 3 — colour card close up"
+    },
+    {
+      "name": "07-wire-loops-close-up.webp",
+      "sha256": "e9ea290fc2cc9be92f210825fa2c9315af6eb717d31079b55f6c00d0333fb248",
+      "bytes": 140016,
+      "from": "b4db page 3 — wire loops close up"
+    }
+  ]
+}
