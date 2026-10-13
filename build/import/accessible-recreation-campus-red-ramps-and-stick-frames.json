@@ -1,0 +1,61 @@
+{
+  "project": "Accessible Recreation Campus",
+  "dest": "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames",
+  "note": "Portfolio 3dee pages 2-4 cropped to 9 images, WebP q88 (PIL). Not used: cover page, small reference photos, the named community initiative.",
+  "files": [
+    {
+      "name": "01-ramp-model.webp",
+      "sha256": "e373740c7627f2654b76b87db573a49f65fe46b04859b5aef6941031dfcb423c",
+      "bytes": 129050,
+      "from": "3dee page 2-4 — red ramps winding through the model"
+    },
+    {
+      "name": "02-truss-and-ramp.webp",
+      "sha256": "85515da35cf65d019dd55875711f1c0e8230e8de961ea164d0e5733aa4c65a14",
+      "bytes": 61418,
+      "from": "3dee page 2-4 — a paper-and-stick room above the ramps"
+    },
+    {
+      "name": "03-ramp-detail.webp",
+      "sha256": "9604cca243c5611cefa64684d1fc9990613b5cfe513b54e47b84d0cab7ec24d7",
+      "bytes": 38714,
+      "from": "3dee page 2-4 — shadows under the hanging rooms"
+    },
+    {
+      "name": "04-section-sketch.webp",
+      "sha256": "c612c845caae18381364f445117971912eab0969ca648345af5aea2b4d041ace",
+      "bytes": 67692,
+      "from": "3dee page 2-4 — a section sketch of ramps and rooms"
+    },
+    {
+      "name": "05-red-ramp-tower.webp",
+      "sha256": "f2d92b8acef8b4744fef9d2eaef18d5a428aac588e7ba0eab8c9256f0d97d3d1",
+      "bytes": 86556,
+      "from": "3dee page 2-4 — ramps climbing a black frame"
+    },
+    {
+      "name": "06-stick-screen-study.webp",
+      "sha256": "496af577e8d77f313ddb40cf5b49eb1e72dd43707f065b035e4f4e6dfbea9cfb",
+      "bytes": 87272,
+      "from": "3dee page 2-4 — a stick screen beside the ramp"
+    },
+    {
+      "name": "07-plan-and-mind-map.webp",
+      "sha256": "69f272bd056fb94fd58df29ebaf5471a68210ee40b09957a1b55c2a239ed7b1a",
+      "bytes": 63550,
+      "from": "3dee page 2-4 — top-view plan and idea map"
+    },
+    {
+      "name": "08-courtyard-perspective.webp",
+      "sha256": "047edade63dfb194ef5e963ecdb9fced12ff2f4b988ac7e15c1b4afde5bec408",
+      "bytes": 212322,
+      "from": "3dee page 2-4 — a courtyard among the frames"
+    },
+    {
+      "name": "09-deck-perspective.webp",
+      "sha256": "0aab8bff946c59708b0a20b7fdfea34df322a912985747ce49cb4b80cfdc5ac4",
+      "bytes": 230500,
+      "from": "3dee page 2-4 — a shaded wooden deck"
+    }
+  ]
+}
