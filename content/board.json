@@ -61004,6 +61004,442 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Drowned Legacy: The Inevitable Tide",
+      "slug": "drowned-legacy-rising-sea-coastal-house-model",
+      "description": "A coastal model shows houses from different eras slowly taken by rising seas until only stone shelters remain.\n\nModel making | Climate and architecture | Wooden sticks, steel, stones, sand, cement, plants and acrylic rods | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "淹沒的遺產：無法避免的潮水",
+          "description": "一座海岸模型呈現不同時代的房屋被上升的海水逐步吞沒，最後只剩石造庇護所。\n\n模型製作｜氣候與建築｜木條、鋼材、石頭、沙、水泥、植物與壓克力棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/01-submerged-model.webp",
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/02-conceptual-drawing.webp",
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/03-material-tests.webp",
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/04-stone-shelter.webp",
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/05-three-stages.webp",
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/06-flood.webp",
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/07-floating.webp",
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/08-habitat.webp",
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/09-desolate-building.webp",
+        "assets/board/drowned-legacy-rising-sea-coastal-house-model/10-timber-frame.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/01-submerged-model.webp"
+          ],
+          "captions": [
+            "Frames and walls in the water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "水中的框架與牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Rising sea levels threaten homes along every coast. The student asked what would be left of our buildings if the water kept coming.",
+          "images": [
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/02-conceptual-drawing.webp"
+          ],
+          "captions": [
+            "Four eras along one coast."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "上升的海平面威脅著每一段海岸上的家。學生思考，若海水持續上漲，我們的建築會留下什麼。",
+              "captions": [
+                "同一海岸上的四個時代。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A drawing set four houses from different eras side by side, each built of glass, cement, steel, wood or stone. Only the stone house stays above the water.",
+          "images": [
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/03-material-tests.webp",
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/04-stone-shelter.webp"
+          ],
+          "captions": [
+            "Testing stone, sand and cement.",
+            "The stone shelter above the sea."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張圖面將不同時代的四座房屋並排，分別以玻璃、水泥、鋼材、木材或石頭建成。只有石屋留在水面之上。",
+              "captions": [
+                "測試石頭、沙與水泥。",
+                "海面上的石造庇護所。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The model was built in layers of sand, stone and cement with clear rods as water. It was shot in three stages as the tide rises.",
+          "images": [
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/05-three-stages.webp",
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/06-flood.webp",
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/07-floating.webp"
+          ],
+          "captions": [
+            "Three stages of the rising tide.",
+            "Flood.",
+            "Floating."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "模型以沙、石頭與水泥分層建造，並以透明棒表現水。它依海水上升分三個階段拍攝。",
+              "captions": [
+                "海水上升的三個階段。",
+                "淹水。",
+                "漂浮。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Sunken walls and frames turn into reefs where sea life can settle. The work suggests a future where people and the ocean share the same structures.",
+          "images": [
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/08-habitat.webp",
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/09-desolate-building.webp",
+            "assets/board/drowned-legacy-rising-sea-coastal-house-model/10-timber-frame.webp"
+          ],
+          "captions": [
+            "Habitat under water.",
+            "A desolate building.",
+            "Timber frames as a reef."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "沉沒的牆與框架轉變為海洋生物可棲息的礁體。作品提出人與海洋共享同一結構的未來。",
+              "captions": [
+                "水下棲地。",
+                "荒廢的建築。",
+                "成為礁體的木構架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a threat.\n2. Compare materials.\n3. Stage the change.\n4. Find new life.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選定一個威脅。\n2. 比較材料。\n3. 分階段呈現變化。\n4. 找到新的生命。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Green Charging Park",
+      "slug": "green-charging-park-plant-powered-rooftop-garden",
+      "description": "An old fuel station becomes a car charging park under a terraced garden whose plants help make power.\n\nArchitectural design | Adaptive reuse | Hand sketches and 3D modelling | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "綠色充電公園",
+          "description": "一座舊加油站轉變為充電公園，上方的階梯花園以植物協助發電。\n\n建築設計｜再利用｜手繪草圖與3D建模｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/green-charging-park-plant-powered-rooftop-garden/01-final-design.webp",
+        "assets/board/green-charging-park-plant-powered-rooftop-garden/02-zone-sketch.webp",
+        "assets/board/green-charging-park-plant-powered-rooftop-garden/03-stairs-sketch.webp",
+        "assets/board/green-charging-park-plant-powered-rooftop-garden/04-column-sketch.webp",
+        "assets/board/green-charging-park-plant-powered-rooftop-garden/05-long-section.webp",
+        "assets/board/green-charging-park-plant-powered-rooftop-garden/06-night-power.webp",
+        "assets/board/green-charging-park-plant-powered-rooftop-garden/07-garden-terraces.webp",
+        "assets/board/green-charging-park-plant-powered-rooftop-garden/08-elevator-corner.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/green-charging-park-plant-powered-rooftop-garden/01-final-design.webp"
+          ],
+          "captions": [
+            "The terraced rooftop garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "階梯式屋頂花園。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Fuel stations are being left empty as more people drive electric cars. Nearby residents also lack parking and easy access for seniors and wheelchair users.",
+          "images": [
+            "assets/board/green-charging-park-plant-powered-rooftop-garden/02-zone-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of the garden zones."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "隨著更多人駕駛電動車，加油站逐漸閒置。附近居民也缺少停車位，長者與輪椅使用者出入不便。",
+              "captions": [
+                "花園分區草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied how bacteria around plant roots release a small electric current. Sketches tested a stepped garden that could sit above a charging floor.",
+          "images": [
+            "assets/board/green-charging-park-plant-powered-rooftop-garden/03-stairs-sketch.webp",
+            "assets/board/green-charging-park-plant-powered-rooftop-garden/04-column-sketch.webp"
+          ],
+          "captions": [
+            "Sketch of stairs and grass.",
+            "Sketch of the tree columns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究植物根部周圍的細菌如何釋放微小電流。草圖測試一座可架在充電層上方的階梯花園。",
+              "captions": [
+                "樓梯與草地草圖。",
+                "樹狀柱草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Tree-shaped columns hold round planters over the parking and charging level. Ramps and a side elevator give everyone a way up to the garden.",
+          "images": [
+            "assets/board/green-charging-park-plant-powered-rooftop-garden/05-long-section.webp",
+            "assets/board/green-charging-park-plant-powered-rooftop-garden/06-night-power.webp"
+          ],
+          "captions": [
+            "The long section.",
+            "Plants power the night lights."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "樹狀柱在停車與充電層上方撐起圓形種植台。坡道與側邊電梯讓每個人都能登上花園。",
+              "captions": [
+                "長向剖面。",
+                "植物為夜間照明供電。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The roof becomes a green public park while the ground floor charges cars. Power from the plants lights the garden at night.",
+          "images": [
+            "assets/board/green-charging-park-plant-powered-rooftop-garden/07-garden-terraces.webp",
+            "assets/board/green-charging-park-plant-powered-rooftop-garden/08-elevator-corner.webp"
+          ],
+          "captions": [
+            "Terraces and ramps.",
+            "The side elevator."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "屋頂成為綠色公共公園，地面層則為車輛充電。植物產生的電力在夜間點亮花園。",
+              "captions": [
+                "階梯平台與坡道。",
+                "側邊電梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find an empty site.\n2. Study a new energy.\n3. Stack the uses.\n4. Design for all.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找到閒置基地。\n2. 研究新能源。\n3. 堆疊不同用途。\n4. 為所有人設計。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Puzzle-piece Calm Space",
+      "slug": "puzzle-piece-calm-space-for-autistic-children",
+      "description": "Eight rooms shaped like puzzle pieces connect by ramps into a calm, semi-open place for autistic children.\n\nModel making | Space for children | Wooden board, PVC board, laser cutting and 3D modelling | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "拼圖形的安心空間",
+          "description": "八個拼圖形的房間以坡道相連，為自閉症兒童打造一處安心的半開放空間。\n\n模型製作｜兒童空間｜木板、PVC板、雷射切割與3D建模｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/01-model-front.webp",
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/02-needs-diagrams.webp",
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/03-room-sketch.webp",
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/04-unit-axons.webp",
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/05-digital-model.webp",
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/06-model-side.webp",
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/07-model-corner.webp",
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/08-ramp-hall.webp",
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/09-quiet-room.webp",
+        "assets/board/puzzle-piece-calm-space-for-autistic-children/10-ramp-tangle.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/01-model-front.webp"
+          ],
+          "captions": [
+            "Ramps cross the open front."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "坡道穿越開放的正面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Autistic children often feel anxious in places that are crowded or new. The student wanted a space where they could move and rest safely.",
+          "images": [
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/02-needs-diagrams.webp"
+          ],
+          "captions": [
+            "Mapping the children's needs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "自閉症兒童在擁擠或陌生的環境中常感到焦慮。學生想打造一個讓他們能安心活動與休息的空間。",
+              "captions": [
+                "整理孩子們的需求。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Mind maps listed the activities and feelings the space should hold. The puzzle piece became the idea, as each piece looks incomplete alone but fits into a whole.",
+          "images": [
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/03-room-sketch.webp",
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/04-unit-axons.webp"
+          ],
+          "captions": [
+            "Rooms linked by ramps.",
+            "From pieces to a whole."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "心智圖列出空間應容納的活動與感受。拼圖成為核心概念，因為每一片單獨看似不完整，卻能拼成整體。",
+              "captions": [
+                "以坡道相連的房間。",
+                "由片段組成整體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Eight boxes of different sizes hold rooms for rest, play and meals. The form was modelled in 3D and then laser cut from board.",
+          "images": [
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/05-digital-model.webp",
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/06-model-side.webp"
+          ],
+          "captions": [
+            "The digital model.",
+            "The puzzle outline."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "八個大小不同的盒子容納休息、遊戲與用餐的房間。形體先以3D建模，再以板材雷射切割。",
+              "captions": [
+                "數位模型。",
+                "拼圖的輪廓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Ramps and balconies let children move freely between floors at their own pace. The model shows a calm place built with care and patience.",
+          "images": [
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/07-model-corner.webp",
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/08-ramp-hall.webp",
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/09-quiet-room.webp",
+            "assets/board/puzzle-piece-calm-space-for-autistic-children/10-ramp-tangle.webp"
+          ],
+          "captions": [
+            "Balconies on the corner.",
+            "A hall of ramps.",
+            "A quiet room.",
+            "Ramps from below."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "坡道與陽台讓孩子能依自己的步調在樓層間自由移動。模型呈現一個以關懷與耐心打造的安心場所。",
+              "captions": [
+                "轉角的陽台。",
+                "坡道大廳。",
+                "安靜的房間。",
+                "從下方看坡道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Listen to users.\n2. Find a symbol.\n3. Vary the rooms.\n4. Connect gently.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 傾聽使用者。\n2. 找到一個象徵。\n3. 變化房間。\n4. 溫和地連接。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
