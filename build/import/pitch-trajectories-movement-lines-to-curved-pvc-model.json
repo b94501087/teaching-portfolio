@@ -1,0 +1,67 @@
+{
+  "project": "Pitch Trajectories",
+  "dest": "assets/board/pitch-trajectories-movement-lines-to-curved-pvc-model",
+  "note": "Portfolio 5fd5 page 8 cropped to ten images, WebP q88 (PIL). Retitled from a film-name heading. Not used: title and placeholder text, the hand in one process photo (cropped out).",
+  "files": [
+    {
+      "name": "01-curve-model.webp",
+      "sha256": "3b96bc9e9a87c4ef1f33eaf8ac67ca41e058db056bce6bb2a479ee84fa454b20",
+      "bytes": 41912,
+      "from": "5fd5 page 8 — curve model"
+    },
+    {
+      "name": "02-pitch-traces.webp",
+      "sha256": "e3c12499b36166504c7e2543d3fa248381db660f9478c2d94db6b7ffd8757566",
+      "bytes": 24362,
+      "from": "5fd5 page 8 — pitch traces"
+    },
+    {
+      "name": "03-trace-renders.webp",
+      "sha256": "c1e41e7be98d43b67dcff46aea958d6100efb79ff143a0510f8fcf2238967506",
+      "bytes": 41978,
+      "from": "5fd5 page 8 — trace renders"
+    },
+    {
+      "name": "04-bent-sheets.webp",
+      "sha256": "89d3743f31cd1c90b698f3874833115351df3670c69d551002da0ca3e47ddf1b",
+      "bytes": 20370,
+      "from": "5fd5 page 8 — bent sheets"
+    },
+    {
+      "name": "05-sheet-cluster.webp",
+      "sha256": "45f2ab922a58d2c4f352729b04509b9d39d81330ace1daea8258d56be92e7d64",
+      "bytes": 18942,
+      "from": "5fd5 page 8 — sheet cluster"
+    },
+    {
+      "name": "06-stick-curve.webp",
+      "sha256": "bd949a1010159021836e7c05985fb976bad43f3dc824333f2fa6b4bb2e754fdd",
+      "bytes": 29754,
+      "from": "5fd5 page 8 — stick curve"
+    },
+    {
+      "name": "07-stick-frame.webp",
+      "sha256": "7379f119d1bdb657ec829b76dc0077989fac03c759b58fe5e168143241b00089",
+      "bytes": 22610,
+      "from": "5fd5 page 8 — stick frame"
+    },
+    {
+      "name": "08-wire-lines.webp",
+      "sha256": "86af9fa091be40335b8b5d98b937cc4acc0dc8620d1e4d674156354073f897b6",
+      "bytes": 32808,
+      "from": "5fd5 page 8 — wire lines"
+    },
+    {
+      "name": "09-coloured-wires.webp",
+      "sha256": "441e3a3113f66b8dc2a3ec82211a32c0d5e7b32140f03d4c2836fae8eb3e8339",
+      "bytes": 43296,
+      "from": "5fd5 page 8 — coloured wires"
+    },
+    {
+      "name": "10-model-view.webp",
+      "sha256": "d77f23ccc44344aa2f124d59ad2a7bd95783452bfe2ecaeaf11cbbbd9422fbb9",
+      "bytes": 24404,
+      "from": "5fd5 page 8 — model view"
+    }
+  ]
+}
