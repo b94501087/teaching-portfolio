@@ -1,0 +1,61 @@
+{
+  "project": "Snooker Museum",
+  "dest": "assets/board/snooker-museum-ball-paths-to-straw-landscape",
+  "note": "Portfolio 56b3 pages 15-17 cropped to 9 images, WebP q88 (PIL). Not used: photo of real players, player names.",
+  "files": [
+    {
+      "name": "01-ball-path-landscape.webp",
+      "sha256": "3ea5ba64fe14faa2422d568f27c887918b5626762cffd61f0c15ebd37c782d74",
+      "bytes": 246212,
+      "from": "56b3 pages 15-17 — the ball path landscape"
+    },
+    {
+      "name": "02-straw-field-close-up.webp",
+      "sha256": "f4aa0ac445a51d82f3b161ffd658ea96f531ee030ec5bd3021a3e4c4fc148b47",
+      "bytes": 101972,
+      "from": "56b3 pages 15-17 — the straw field close up"
+    },
+    {
+      "name": "03-folded-planes-and-figure.webp",
+      "sha256": "157764a45771eadc853fa5c7e9407e33f7585dc980d2adec1093aadad4527f6e",
+      "bytes": 33476,
+      "from": "56b3 pages 15-17 — folded planes with a scale figure"
+    },
+    {
+      "name": "04-stick-frame-with-blue-cubes.webp",
+      "sha256": "ad8439713ea3f278459878dfd9ba4e5a3a0ae6630c0b9eba7a609c517c3f94b3",
+      "bytes": 49934,
+      "from": "56b3 pages 15-17 — a stick frame with blue cubes"
+    },
+    {
+      "name": "05-ball-path-drawings.webp",
+      "sha256": "6a2ec001cdeec72331bc4879e396b05da85227ee3d60596ab50a6b8cbdad6f2b",
+      "bytes": 30266,
+      "from": "56b3 pages 15-17 — ball path drawings"
+    },
+    {
+      "name": "06-straw-cloud-test.webp",
+      "sha256": "20be1643aca1ed26fccb0284f314283f32176514fd58013ae6f5bc2a41a07674",
+      "bytes": 29968,
+      "from": "56b3 pages 15-17 — a straw test"
+    },
+    {
+      "name": "07-stick-zigzag-test.webp",
+      "sha256": "4233708bee3cb9c5e020ff15631f07b5a3bf1026283d926a084389da5dc9758d",
+      "bytes": 31758,
+      "from": "56b3 pages 15-17 — a stick test"
+    },
+    {
+      "name": "08-block-stack-test.webp",
+      "sha256": "5fb9b4b9300348c8b4458852ee8646bfbbae32aaccd33ca0400f17452ef9a0bf",
+      "bytes": 31920,
+      "from": "56b3 pages 15-17 — a block test"
+    },
+    {
+      "name": "09-folded-triangle-test.webp",
+      "sha256": "58aee9e53ddc290f61282f2ff98c599ff02785c2bb8c4b783d63609aa006e64c",
+      "bytes": 29682,
+      "from": "56b3 pages 15-17 — a folded plane test"
+    }
+  ]
+}
