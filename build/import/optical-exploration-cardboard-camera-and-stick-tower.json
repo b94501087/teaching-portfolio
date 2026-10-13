@@ -1,0 +1,49 @@
+{
+  "project": "Optical Exploration",
+  "dest": "assets/board/optical-exploration-cardboard-camera-and-stick-tower",
+  "note": "Portfolio cfd7 page 14 cropped to seven images, WebP q88 (PIL). Not used: title and text, a historical reference engraving, photos of people using the camera, the lens brand, a drawing of a hand.",
+  "files": [
+    {
+      "name": "01-camera-and-tower.webp",
+      "sha256": "ee80433a5fa8ea418f511b938d8f340433d2b7e34c554ac27e0733c7a7023a99",
+      "bytes": 17162,
+      "from": "cfd7 page 14 — camera and tower"
+    },
+    {
+      "name": "02-concept-drawing.webp",
+      "sha256": "324ea70d921dc71efa1bacf47b8081419f11cad07f792b93a2333ba22f6a6c2b",
+      "bytes": 10752,
+      "from": "cfd7 page 14 — concept drawing"
+    },
+    {
+      "name": "03-tower-front.webp",
+      "sha256": "1b3553b381ca5b9b157b1b1f888956da6bc243a6fd3fa9cc475d23f90f69c7cc",
+      "bytes": 8652,
+      "from": "cfd7 page 14 — tower front"
+    },
+    {
+      "name": "04-tower-side.webp",
+      "sha256": "2cb653eb46bc7901f0526ee70f636ff8a274815328b27f675eac8f587d9697f9",
+      "bytes": 7360,
+      "from": "cfd7 page 14 — tower side"
+    },
+    {
+      "name": "05-tower-alone.webp",
+      "sha256": "a9a98bacb6577a313c7a3dc9a6b29df3518a14aa4799fe380e44867231701b75",
+      "bytes": 5156,
+      "from": "cfd7 page 14 — tower alone"
+    },
+    {
+      "name": "06-camera-box.webp",
+      "sha256": "5c9c636492ec842b1a36cab4b3fa478e8502f4273d47313262e98246c6d2ba5e",
+      "bytes": 4764,
+      "from": "cfd7 page 14 — camera box"
+    },
+    {
+      "name": "07-lens-sketch.webp",
+      "sha256": "7cda89fd442071826169c4a41d9528c3b5711260f1b9550a118c4b9793aad2ae",
+      "bytes": 39218,
+      "from": "cfd7 page 14 — lens sketch"
+    }
+  ]
+}
