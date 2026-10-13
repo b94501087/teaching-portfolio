@@ -1,0 +1,61 @@
+{
+  "project": "Library Renovation",
+  "dest": "assets/board/library-renovation-coloured-pane-web-ceiling",
+  "note": "Portfolio 7c9f page 15 cropped to nine images, WebP q88 (PIL). Not used: title and text, the school and library names, a photo of the existing library, a reference window photo, a process photo with hands.",
+  "files": [
+    {
+      "name": "01-coloured-canopy.webp",
+      "sha256": "5bff3f51b767dc1b65735eb7d036d3c3d9bd67ed9a69e8cbe80b996927b707c0",
+      "bytes": 39554,
+      "from": "7c9f page 15 — coloured canopy"
+    },
+    {
+      "name": "02-dome-top.webp",
+      "sha256": "fa9c7ab7ce19ac32901f5c562303fd6c81203ab874d0faf3b360d40146dc2af4",
+      "bytes": 19120,
+      "from": "7c9f page 15 — dome top"
+    },
+    {
+      "name": "03-dome-side.webp",
+      "sha256": "d6974f2ac1eb528b3359f9d993c790a64ed0b4081f37c44e5ec6b64d5b71b8de",
+      "bytes": 28290,
+      "from": "7c9f page 15 — dome side"
+    },
+    {
+      "name": "04-pane-close.webp",
+      "sha256": "7447ddace079f19d937fa12b123fe25b02677198add533ec9e74e8c1a0b461e8",
+      "bytes": 24044,
+      "from": "7c9f page 15 — pane close"
+    },
+    {
+      "name": "05-shadow-figure.webp",
+      "sha256": "89ed9a1f1aba026222e17b8e9f0b9474d6d6898a877984752940370586d4a374",
+      "bytes": 52138,
+      "from": "7c9f page 15 — shadow figure"
+    },
+    {
+      "name": "06-light-floor.webp",
+      "sha256": "1e67a50e24b0e19ef9200cd2f02db37119d4a91739ebc764bb5423aae5e58f3e",
+      "bytes": 44322,
+      "from": "7c9f page 15 — light floor"
+    },
+    {
+      "name": "07-blue-floor.webp",
+      "sha256": "41260fc86a4e2d8f214baed21a6b37a04200e9bbece54b9fba44d6a97eeac651",
+      "bytes": 32940,
+      "from": "7c9f page 15 — blue floor"
+    },
+    {
+      "name": "08-frame-study.webp",
+      "sha256": "b76f6b4e8c9acfbc7f924acc35bfe10b8a8c0fc3f028ec82d594561cb92e7424",
+      "bytes": 8984,
+      "from": "7c9f page 15 — frame study"
+    },
+    {
+      "name": "09-frame-top.webp",
+      "sha256": "91cf78083c537d8aaad18ca9cdd9c4894fbc18c5d1414f5425694647ba276060",
+      "bytes": 10292,
+      "from": "7c9f page 15 — frame top"
+    }
+  ]
+}
