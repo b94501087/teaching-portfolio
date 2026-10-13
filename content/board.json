@@ -60564,6 +60564,446 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Hexagonal Corridor Structure",
+      "slug": "hexagonal-corridor-mirror-paper-riverside-structure",
+      "description": "Mirror paper and PVC hexagons stack along a model riverbank into walkways and waterfront platforms.\n\nModel making | Landscape and structure | Mirror paper, PVC board, stone clay, AB glue and grass powder | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "六角形廊道結構",
+          "description": "鏡面紙與PVC六角形沿著模型河岸堆疊，形成步道與親水平台。\n\n模型製作｜地景與結構｜鏡面紙、PVC板、石粉黏土、AB膠與草粉｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/01-river-model.webp",
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/02-concept-sketches.webp",
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/03-unit-tests.webp",
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/04-terrain-start.webp",
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/05-unit-clusters.webp",
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/06-water-surface.webp",
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/07-waterfront-night.webp",
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/08-walkway-figures.webp",
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/09-hexagon-roof.webp",
+        "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/10-platforms.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/01-river-model.webp"
+          ],
+          "captions": [
+            "The hexagons on both banks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "兩岸的六角形結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began with a test of how materials bend. Mirror paper curved easily, while PVC board stayed firm, and the student wanted to use both.",
+          "images": [
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/02-concept-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of the hexagon system."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個作品起於一次材料彎曲的測試。鏡面紙容易彎曲，PVC板則保持堅挺，學生想同時運用兩者。",
+              "captions": [
+                "六角形系統草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "After many trials, a hexagon was chosen for its regular shape and easy joins. Sketches showed how units could link into walkways and supports.",
+          "images": [
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/03-unit-tests.webp"
+          ],
+          "captions": [
+            "Early unit tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "經過多次嘗試，六角形因規則的形狀與易於接合而被選用。草圖呈現單元如何連成步道與支撐。",
+              "captions": [
+                "早期單元測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A riverbank was modelled with stone clay, grass powder and stones, and the river was poured with tinted AB glue. Hexagon units were stacked on both banks.",
+          "images": [
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/04-terrain-start.webp",
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/05-unit-clusters.webp",
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/06-water-surface.webp"
+          ],
+          "captions": [
+            "The riverbank terrain begins.",
+            "Clusters of units.",
+            "Units by the poured water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以石粉黏土、草粉與石頭塑造河岸，並以調色AB膠澆灌河道。六角形單元堆疊於兩岸。",
+              "captions": [
+                "河岸地形起步。",
+                "單元群組。",
+                "澆灌水面旁的單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The stacked units form corridors and platforms for rest and meeting by the water. The model shows a structure that grows with the landscape.",
+          "images": [
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/07-waterfront-night.webp",
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/08-walkway-figures.webp",
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/09-hexagon-roof.webp",
+            "assets/board/hexagonal-corridor-mirror-paper-riverside-structure/10-platforms.webp"
+          ],
+          "captions": [
+            "The waterfront in low light.",
+            "Figures on the walkway.",
+            "Hexagons from above.",
+            "Layered platforms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "堆疊的單元形成可在水邊休憩與相聚的廊道與平台。模型呈現一個隨地景生長的結構。",
+              "captions": [
+                "低光中的水岸。",
+                "步道上的人偶。",
+                "從上方看六角形。",
+                "層疊的平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Test materials.\n2. Pick a unit.\n3. Shape the ground.\n4. Stack with purpose.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 測試材料。\n2. 選定單元。\n3. 塑造地形。\n4. 有目的地堆疊。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Pineapple Bio-geometry",
+      "slug": "pineapple-bio-geometry-stick-fibre-canopy",
+      "description": "The fibres inside a pineapple cake inspire a growing web of wood sticks that casts patterned shadows.\n\nModel making | Bio-inspired structure | Tracing paper, wood sticks, pencil, hot glue and cardboard | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鳳梨生物幾何",
+          "description": "鳳梨酥內部的纖維啟發一張不斷生長的木條網，投下帶有圖案的陰影。\n\n模型製作｜仿生結構｜描圖紙、木條、鉛筆、熱熔膠與紙板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/01-final-canopy.webp",
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/02-cake-fibres.webp",
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/03-cake-halves.webp",
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/04-sketches.webp",
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/05-stick-drawing.webp",
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/06-strip-cutting.webp",
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/07-model-growing.webp",
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/08-shadow-traces.webp",
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/09-section-drawing.webp",
+        "assets/board/pineapple-bio-geometry-stick-fibre-canopy/10-inside-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/01-final-canopy.webp"
+          ],
+          "captions": [
+            "The canopy under a low light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "低光下的頂篷。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Breaking open a pineapple cake, the student saw a web of fibres inside. The aim was to turn that inner structure into a space.",
+          "images": [
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/02-cake-fibres.webp",
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/03-cake-halves.webp"
+          ],
+          "captions": [
+            "Fibres inside the pastry.",
+            "The pastry broken open."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "剝開一塊鳳梨酥時，學生看見內部交織的纖維。目標是把這種內部結構轉化為空間。",
+              "captions": [
+                "糕點內部的纖維。",
+                "剝開的糕點。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sketches studied the fibres, and thin wood strips were cut to copy them. The pieces were stacked into a first concept model.",
+          "images": [
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/04-sketches.webp",
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/05-stick-drawing.webp",
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/06-strip-cutting.webp"
+          ],
+          "captions": [
+            "Early sketches.",
+            "A drawing of the stick web.",
+            "Cutting thin wood strips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "草圖研究纖維，並切割細木條模仿它們。這些木條被堆疊成第一個概念模型。",
+              "captions": [
+                "早期草圖。",
+                "木條網手繪。",
+                "切割細木條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "As the model grew, the gaps between sticks became spaces to explore, so corridor-like paths were added. The form spread into a cantilevered umbrella shape.",
+          "images": [
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/07-model-growing.webp",
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/08-shadow-traces.webp"
+          ],
+          "captions": [
+            "The model growing outward.",
+            "Shadows traced on the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "隨著模型生長，木條間的縫隙成為可探索的空間，於是加入如廊道般的路徑。形體延展成懸挑的傘狀。",
+              "captions": [
+                "向外生長的模型。",
+                "描繪在底座上的陰影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Under light, the web casts rich patterns, which were traced in pencil on the base. The model reads as an organism that can keep on growing.",
+          "images": [
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/09-section-drawing.webp",
+            "assets/board/pineapple-bio-geometry-stick-fibre-canopy/10-inside-view.webp"
+          ],
+          "captions": [
+            "A drawing with figures.",
+            "A view from inside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在光線下，木條網投下豐富的圖案，並以鉛筆描繪在底座上。模型如同一個可以持續生長的有機體。",
+              "captions": [
+                "帶人偶的圖面。",
+                "內部視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Look inside things.\n2. Copy the structure.\n3. Let it grow.\n4. Trace the light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察事物內部。\n2. 模仿結構。\n3. 讓它生長。\n4. 描繪光影。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "House",
+      "slug": "crossing-rectangles-house-card-model",
+      "description": "Two crossing rectangles and a round core create a house with a sense of horizontal movement.\n\nModel making | House design | Cardboard, hot glue and wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "住宅",
+          "description": "兩個交錯的矩形與一個圓形核心，構成一座帶有水平移動感的住宅。\n\n模型製作｜住宅設計｜紙板、熱熔膠與木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/crossing-rectangles-house-card-model/01-model-front.webp",
+        "assets/board/crossing-rectangles-house-card-model/02-plan-sketch.webp",
+        "assets/board/crossing-rectangles-house-card-model/03-crossing-plan.webp",
+        "assets/board/crossing-rectangles-house-card-model/04-form-sketch.webp",
+        "assets/board/crossing-rectangles-house-card-model/05-process-panels.webp",
+        "assets/board/crossing-rectangles-house-card-model/06-process-frame.webp",
+        "assets/board/crossing-rectangles-house-card-model/07-model-corner.webp",
+        "assets/board/crossing-rectangles-house-card-model/08-model-top.webp",
+        "assets/board/crossing-rectangles-house-card-model/09-model-inside.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/crossing-rectangles-house-card-model/01-model-front.webp"
+          ],
+          "captions": [
+            "The finished house model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的住宅模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted a house that gives a sense of moving sideways. The question was how a plan could show that motion.",
+          "images": [
+            "assets/board/crossing-rectangles-house-card-model/02-plan-sketch.webp"
+          ],
+          "captions": [
+            "A first plan sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想設計一座帶有橫向移動感的住宅。問題在於平面如何表現這種動態。",
+              "captions": [
+                "第一張平面草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Reference houses led to one idea: two rectangles crossing each other to make a space in the middle. Plans tested a round core at the crossing.",
+          "images": [
+            "assets/board/crossing-rectangles-house-card-model/03-crossing-plan.webp",
+            "assets/board/crossing-rectangles-house-card-model/04-form-sketch.webp"
+          ],
+          "captions": [
+            "The crossing plan.",
+            "A loose form sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "參考案例引出一個想法：兩個矩形彼此交錯，在中間創造空間。平面圖在交錯處測試一個圓形核心。",
+              "captions": [
+                "交錯的平面圖。",
+                "形體速寫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Card panels and sticks were cut and glued to test the crossing walls and roofs. The pieces slid past each other like moving plates.",
+          "images": [
+            "assets/board/crossing-rectangles-house-card-model/05-process-panels.webp",
+            "assets/board/crossing-rectangles-house-card-model/06-process-frame.webp"
+          ],
+          "captions": [
+            "Card panels in process.",
+            "An early frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "切割並黏合紙板與木條，測試交錯的牆與屋頂。各部件像移動的板片般彼此錯開。",
+              "captions": [
+                "製作中的紙板面。",
+                "早期的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model sets long white volumes across each other around a round core. Open frames let the space flow from end to end.",
+          "images": [
+            "assets/board/crossing-rectangles-house-card-model/07-model-corner.webp",
+            "assets/board/crossing-rectangles-house-card-model/08-model-top.webp",
+            "assets/board/crossing-rectangles-house-card-model/09-model-inside.webp"
+          ],
+          "captions": [
+            "A corner of the house.",
+            "The round core from above.",
+            "Inside the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型讓長形白色量體圍繞圓形核心交錯。開放的框架讓空間由一端流向另一端。",
+              "captions": [
+                "住宅的轉角。",
+                "從上方看圓形核心。",
+                "框架內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name a movement.\n2. Draw it in plan.\n3. Cut and test.\n4. Let space flow.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 說出一種動態。\n2. 在平面上畫出。\n3. 切割並測試。\n4. 讓空間流動。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
