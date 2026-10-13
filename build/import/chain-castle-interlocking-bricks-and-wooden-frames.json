@@ -1,0 +1,49 @@
+{
+  "project": "Chain Castle",
+  "dest": "assets/board/chain-castle-interlocking-bricks-and-wooden-frames",
+  "note": "Portfolio eb94 page 6 cropped to 7 images, WebP q88 (PIL).",
+  "files": [
+    {
+      "name": "01-brick-chain-with-wooden-frames.webp",
+      "sha256": "b671d704af35c12d2da915c5e184f177144148f917229bd73b19341e56a5d861",
+      "bytes": 82614,
+      "from": "eb94 page 6 — the brick chain with wooden frames"
+    },
+    {
+      "name": "02-chain-elevation-a.webp",
+      "sha256": "2df1697eebeba9316bd180371f6c2ead61679ce9ddb8917ba786bb41a6525d1c",
+      "bytes": 26646,
+      "from": "eb94 page 6 — elevation of the chain"
+    },
+    {
+      "name": "03-chain-elevation-b.webp",
+      "sha256": "f98cdf4d94f93aee1d0b6d81af77558a87aaca946f377d558186beee1eeeb456",
+      "bytes": 30150,
+      "from": "eb94 page 6 — frames along the wall"
+    },
+    {
+      "name": "04-chain-elevation-c.webp",
+      "sha256": "e2f57ee4967091ebb101b45957552b73eb1601d3ed5fd930397c4f23909ce6c0",
+      "bytes": 27912,
+      "from": "eb94 page 6 — another elevation"
+    },
+    {
+      "name": "05-chain-castle-from-above.webp",
+      "sha256": "d38844836fdd7155bd317a10c85b1ab2f97febde35314d57df2cc8f95089b8a2",
+      "bytes": 44282,
+      "from": "eb94 page 6 — the castle from above"
+    },
+    {
+      "name": "06-interlocking-brick-units-a.webp",
+      "sha256": "ab8b4191fcfead40d4c87b41f492719d0503222e436a80716e594e6743980d5b",
+      "bytes": 29928,
+      "from": "eb94 page 6 — interlocking brick units"
+    },
+    {
+      "name": "07-interlocking-brick-units-b.webp",
+      "sha256": "ee6b8d4e57b4c4db19d6dd12c1ff6ef8f052cf72d268d4b66102a3fb7b17d67e",
+      "bytes": 56676,
+      "from": "eb94 page 6 — more unit studies"
+    }
+  ]
+}
