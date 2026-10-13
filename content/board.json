@@ -77804,6 +77804,426 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Mountain of Abandoned Things",
+      "slug": "mountain-of-abandoned-things-clay-and-crane-model",
+      "description": "A twisted mountain of white clay is piled with chairs, boxes, little houses and a crane, all set at odd angles to show a world of things left behind.\n\nModel | Concept study | Stone clay, wooden strips, wooden boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "棄物之山",
+          "description": "一座扭曲的白色黏土山上堆著椅子、箱子、小房子與一座吊車，全都以古怪的角度擺放，呈現一個被遺棄之物的世界。\n\n模型｜概念研究｜石塑黏土、木條、木板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/mountain-of-abandoned-things-clay-and-crane-model/01-clay-mountain-with-crane.webp",
+        "assets/board/mountain-of-abandoned-things-clay-and-crane-model/02-model-front-view.webp",
+        "assets/board/mountain-of-abandoned-things-clay-and-crane-model/03-model-shadow-view.webp",
+        "assets/board/mountain-of-abandoned-things-clay-and-crane-model/04-chair-and-bench-detail.webp",
+        "assets/board/mountain-of-abandoned-things-clay-and-crane-model/05-lower-terrace-detail.webp",
+        "assets/board/mountain-of-abandoned-things-clay-and-crane-model/06-chair-detail.webp",
+        "assets/board/mountain-of-abandoned-things-clay-and-crane-model/07-box-detail.webp",
+        "assets/board/mountain-of-abandoned-things-clay-and-crane-model/08-clay-pieces.webp",
+        "assets/board/mountain-of-abandoned-things-clay-and-crane-model/09-clay-base-forming.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/mountain-of-abandoned-things-clay-and-crane-model/01-clay-mountain-with-crane.webp"
+          ],
+          "captions": [
+            "The clay mountain with its crane."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "有吊車的黏土山。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Inspired by a climbing video game whose strange world is made of junk, the project starts from a feeling of frustration and abandonment. It asks how a model could show a place where too many things are made and thrown away.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "受一款攀爬類電子遊戲啟發，遊戲中奇異的世界由廢棄物構成，這個專題從一種挫折與被遺棄的感受出發。它探問，一件模型如何呈現一個製造太多、丟棄太多的地方。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student began with the base, shaping stone clay into irregular pieces with holes and soft edges. These were tested to see how they might stack into a rocky mass.",
+          "images": [
+            "assets/board/mountain-of-abandoned-things-clay-and-crane-model/08-clay-pieces.webp",
+            "assets/board/mountain-of-abandoned-things-clay-and-crane-model/09-clay-base-forming.webp"
+          ],
+          "captions": [
+            "Clay pieces.",
+            "Forming the clay base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從基座開始，把石塑黏土捏成帶有孔洞與柔和邊緣的不規則塊體。接著測試這些塊體如何堆疊成岩塊般的量體。",
+              "captions": [
+                "黏土塊。",
+                "塑造黏土基座。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Everyday objects were then built in wood and board, including chairs, benches, a box, small houses and a tall crane. They were placed in random positions, tilted and half buried.",
+          "images": [
+            "assets/board/mountain-of-abandoned-things-clay-and-crane-model/06-chair-detail.webp",
+            "assets/board/mountain-of-abandoned-things-clay-and-crane-model/07-box-detail.webp",
+            "assets/board/mountain-of-abandoned-things-clay-and-crane-model/04-chair-and-bench-detail.webp",
+            "assets/board/mountain-of-abandoned-things-clay-and-crane-model/05-lower-terrace-detail.webp"
+          ],
+          "captions": [
+            "A chair on the clay.",
+            "A box on the clay.",
+            "A chair and bench.",
+            "The lower terrace."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "接著以木材與板材製作日常物件，包括椅子、長凳、箱子、小房子與高大的吊車。它們被隨意擺放，傾斜著、半埋著。",
+              "captions": [
+                "黏土上的椅子。",
+                "黏土上的箱子。",
+                "椅子與長凳。",
+                "下方的平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished mountain rises with a crane and wooden rooms on top. Its long shadows make it look bizarre and lonely, a reminder to care about waste.",
+          "images": [
+            "assets/board/mountain-of-abandoned-things-clay-and-crane-model/02-model-front-view.webp",
+            "assets/board/mountain-of-abandoned-things-clay-and-crane-model/03-model-shadow-view.webp"
+          ],
+          "captions": [
+            "The model from the front.",
+            "The model and its shadow."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的山體頂端立著吊車與木造房間。長長的影子讓它看來奇異而孤寂，提醒人們關注浪費。",
+              "captions": [
+                "模型正面。",
+                "模型與影子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Heaped Belongings - A Landscape of Leftovers",
+          "body": "Some landscapes are made not of rock and water but of the things a society no longer wants. This project drew on the absurd scenery of a climbing game, where a lone player struggles across heaps of furniture and debris, and turned the frustration of that climb into a reflection on excess. The guidance asked the student to establish ground before objects, so the work began with soft stone clay pressed into hollowed, irregular masses that stack like an eroded cliff. Only then were familiar things introduced, chairs, a bench, a box, a cluster of little rooms and a towering crane, each made carefully by hand and then placed carelessly, tilted, stranded or half swallowed by the mountain. That contrast between craft and neglect gives the piece its quiet force. Under a raking light, long shadows stretch across the wall and the model feels both comic and desolate. It shows how a playful source can open serious questions, inviting viewers to notice how much is produced, used briefly and left behind.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "堆疊的身外物-剩餘之物的地景",
+              "body": "有些地景並非由岩石與流水構成，而是由一個社會不再想要的東西堆成。這個專題借鑑一款攀爬遊戲的荒誕場景，玩家獨自在家具與殘骸堆上掙扎前行，並把那份攀爬的挫折轉化為對過剩的反思。指導過程要求學生先建立地面，再放入物件，因此作品始於柔軟的石塑黏土，被壓成中空而不規則的量塊，像遭侵蝕的懸崖般堆疊。之後才引入熟悉的物件：椅子、長凳、箱子、一簇小房間與一座高聳的吊車，每一件都以手工細心製作，卻被漫不經心地擺放，傾斜、擱淺，或被山體吞沒一半。精心製作與隨意遺棄之間的對比，賦予作品沉靜的力量。在斜射的光下，長影橫過牆面，模型顯得既滑稽又荒涼。它說明一個遊戲般的起點也能開啟嚴肅的提問，邀請觀者留意有多少東西被生產、短暫使用，然後被遺留。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Shoe Rhapsody",
+      "slug": "shoe-rhapsody-curved-cardboard-slice-tower",
+      "description": "The hidden lines between a shoe and the foot inside it are drawn, sliced into curved cardboard pieces and multiplied into a tower like a science-fiction city.\n\nModel and drawings | Object study | Cardboard, wooden strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鞋的狂想曲",
+          "description": "鞋與其中的腳之間隱藏的線條被描繪出來，切成彎曲的紙板片，再大量複製成一座宛如科幻城市的高塔。\n\n模型與繪圖｜物件研究｜紙板、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/01-curved-slice-tower.webp",
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/02-slice-cluster-close.webp",
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/03-spiral-from-above.webp",
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/04-slice-canyon.webp",
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/05-slice-street-view.webp",
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/06-curve-line-drawing.webp",
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/07-curve-line-study.webp",
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/08-first-slice-group.webp",
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/09-scattered-curves.webp",
+        "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/10-slice-module-tests.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/01-curved-slice-tower.webp"
+          ],
+          "captions": [
+            "The curved slice tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "彎曲切片之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A simple canvas sneaker has a strong, fashionable shape. The project asks what would happen if the inside of a shoe, and its hidden relationship with the foot, were turned into a solid figure.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一雙簡單的帆布鞋有著鮮明而時尚的造型。這個專題探問，若把鞋的內部，以及它與腳之間隱藏的關係，轉化為一個實體形態，會發生什麼。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied how the foot sits in the shoe. The relationship was drawn as sweeping lines, layered in curves and hatches.",
+          "images": [
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/06-curve-line-drawing.webp",
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/07-curve-line-study.webp"
+          ],
+          "captions": [
+            "A curve line drawing.",
+            "Another line study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究腳如何安放在鞋中。這種關係被畫成掃掠的線條，以曲線與排線層層疊加。",
+              "captions": [
+                "曲線圖。",
+                "另一張線條研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The lines were turned into three-dimensional slices of cardboard. Small modules of repeated curved slices were tested, then grouped and spread in different directions.",
+          "images": [
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/10-slice-module-tests.webp",
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/08-first-slice-group.webp",
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/09-scattered-curves.webp"
+          ],
+          "captions": [
+            "Slice module tests.",
+            "The first slice group.",
+            "Scattered curves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "線條被轉化為立體的紙板切片。由重複彎曲切片組成的小模組先被試作，再成組地朝不同方向展開。",
+              "captions": [
+                "切片模組試作。",
+                "第一組切片。",
+                "散開的曲線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "All the parts were joined into one tall cluster on thin sticks. Viewed from inside, the slices form canyons, spirals and streets like a city from science fiction.",
+          "images": [
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/02-slice-cluster-close.webp",
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/03-spiral-from-above.webp",
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/04-slice-canyon.webp",
+            "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/05-slice-street-view.webp"
+          ],
+          "captions": [
+            "The cluster up close.",
+            "A spiral from above.",
+            "A canyon of slices.",
+            "A street-like view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "所有部件以細木條支撐，接合成一簇高聳的量體。從內部看，切片形成峽谷、螺旋與街道，宛如科幻作品中的城市。",
+              "captions": [
+                "近看量體。",
+                "從上方看螺旋。",
+                "切片的峽谷。",
+                "街道般的視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Inside the Sole - Curves That Became a City",
+          "body": "Everyday objects hide spatial worlds that rarely receive attention, and the interior of a shoe is one of the most intimate. This project began with admiration for the plain outline of a canvas sneaker, then turned inward to the unseen fit between sole, heel and arch. The guidance encouraged the student to draw that relationship as pure line rather than as an object, letting sweeping curves record pressure, support and movement. Those drawings were then sliced into thin cardboard ribs, like the sections of a hull, and repeated in small modules that could twist and fan out. As the modules multiplied and were set facing different directions, the logic of a single foot dissolved into something far larger. Raised on slender sticks, the final cluster reads as a vertical city of canyons, spirals and narrow streets. The student was surprised that broken parts could merge into one convincing whole. The work shows how analytical drawing can carry a humble object across scales until it becomes architecture.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "鞋底之內-化為城市的曲線",
+              "body": "日常物件中隱藏著鮮少受到關注的空間世界，而鞋的內部是其中最親密的一種。這個專題始於對一雙帆布鞋簡潔輪廓的欣賞，隨後轉向內部，探究鞋底、鞋跟與足弓之間看不見的貼合。指導過程鼓勵學生把這種關係畫成純粹的線，而非物件，讓掃掠的曲線記錄壓力、支撐與移動。這些圖接著被切成細薄的紙板肋片，如同船身的剖面，並以小模組重複，可以扭轉、展開成扇形。隨著模組增生並朝不同方向擺放，單一一隻腳的邏輯溶解為遠為龐大的事物。以細木條撐起後，最終的量體讀來像一座由峽谷、螺旋與窄街構成的垂直城市。學生驚訝於破碎的部件竟能融合為一個令人信服的整體。作品說明分析性的繪圖能把一件平凡物件帶過不同尺度，直到它成為建築。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tower of Notes",
+      "slug": "tower-of-notes-guitar-solo-cardboard-planes",
+      "description": "The notes of a guitar solo become curved cardboard strips on a grid fingerboard, then are cut, shifted and stacked into a dark, crashing tower.\n\nModel and drawings | Music study | Cardboard, wooden strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "音符之塔",
+          "description": "吉他獨奏的音符化為格狀指板上彎曲的紙板條，再被切開、錯動、堆疊成一座深色而相互碰撞的高塔。\n\n模型與繪圖｜音樂研究｜紙板、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tower-of-notes-guitar-solo-cardboard-planes/01-tower-of-notes.webp",
+        "assets/board/tower-of-notes-guitar-solo-cardboard-planes/02-three-note-towers.webp",
+        "assets/board/tower-of-notes-guitar-solo-cardboard-planes/03-tower-from-below.webp",
+        "assets/board/tower-of-notes-guitar-solo-cardboard-planes/04-crossing-planes.webp",
+        "assets/board/tower-of-notes-guitar-solo-cardboard-planes/05-note-line-drawing.webp",
+        "assets/board/tower-of-notes-guitar-solo-cardboard-planes/06-string-planes-top.webp",
+        "assets/board/tower-of-notes-guitar-solo-cardboard-planes/07-fingerboard-grid.webp",
+        "assets/board/tower-of-notes-guitar-solo-cardboard-planes/08-string-planes-angled.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tower-of-notes-guitar-solo-cardboard-planes/01-tower-of-notes.webp"
+          ],
+          "captions": [
+            "The tower of notes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "音符之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Guitar solos are full of exciting runs of notes, yet notes cannot be seen. The project asks how sound, and the phrases of a solo, could be expressed as a form with space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "吉他獨奏充滿令人振奮的連串音符，然而音符看不見。這個專題探問，聲音以及獨奏中的樂句，如何被表現為具有空間的形式。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Early drawings tried turning vibrating strings into bold and thin lines. In the end the student chose curves for changing notes and a grid for the fingerboard.",
+          "images": [
+            "assets/board/tower-of-notes-guitar-solo-cardboard-planes/05-note-line-drawing.webp"
+          ],
+          "captions": [
+            "A line drawing of notes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "早期的繪圖嘗試把振動的弦化為粗細不同的線條。最後，學生選擇以曲線表現變化的音符，以格網表現指板。",
+              "captions": [
+                "音符線條圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Cardboard planes stood on a gridded board like strings, with curved strips running along them as phrases. Each short phrase was built as a separate part.",
+          "images": [
+            "assets/board/tower-of-notes-guitar-solo-cardboard-planes/07-fingerboard-grid.webp",
+            "assets/board/tower-of-notes-guitar-solo-cardboard-planes/06-string-planes-top.webp",
+            "assets/board/tower-of-notes-guitar-solo-cardboard-planes/08-string-planes-angled.webp"
+          ],
+          "captions": [
+            "The fingerboard grid.",
+            "String planes from above.",
+            "String planes at an angle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "紙板片像琴弦般立在格網底板上，彎曲的條帶沿著它們延伸，代表樂句。每一段短樂句都被做成獨立的部件。",
+              "captions": [
+                "指板格網。",
+                "從上方看弦的板片。",
+                "斜看弦的板片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The parts were transformed and cobbled into towers. In the finished model the fragments seem to crash and cover each other, like a solo growing louder and softer with emotion.",
+          "images": [
+            "assets/board/tower-of-notes-guitar-solo-cardboard-planes/02-three-note-towers.webp",
+            "assets/board/tower-of-notes-guitar-solo-cardboard-planes/03-tower-from-below.webp",
+            "assets/board/tower-of-notes-guitar-solo-cardboard-planes/04-crossing-planes.webp"
+          ],
+          "captions": [
+            "Three note towers.",
+            "The tower from below.",
+            "Crossing planes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "各個部件被轉化並拼接成塔。在完成的模型中，碎片彷彿彼此碰撞、覆蓋，如同一段隨情緒忽強忽弱的獨奏。",
+              "captions": [
+                "三座音符塔。",
+                "從下方看塔。",
+                "交錯的板片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Frozen Phrases - Building with Sound",
+          "body": "Music and architecture have long been compared, yet sound offers no edges to hold, and that difficulty is where this project found its method. Starting from a love of electric guitar solos, the student tried several ways of drawing what cannot be seen, first thickening and thinning lines like vibrating strings, then settling on a clearer code in which curves trace the movement of notes and a grid stands for the fingerboard beneath them. The guidance encouraged working phrase by phrase. Each short run of notes was built as its own piece, upright cardboard planes rising from a gridded base with curved strips sliding along them. Only after the phrases existed separately were they shifted, rotated and cobbled together, so that their relationships, rather than any single melody, would shape the whole. The finished towers feel mysterious, their fragments crowding and overlapping as if competing to be heard. Seen in dark light, they recall the way a solo surges and fades, proving that rhythm and intensity can be given spatial form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "凝固的樂句-以聲音建造",
+              "body": "音樂與建築向來常被相提並論，然而聲音沒有可以握住的邊界，而這份困難正是這個專題找到方法之處。從對搖滾樂中弦樂獨奏的喜愛出發，學生嘗試數種描繪不可見之物的方式：先像振動的弦一樣讓線條忽粗忽細，最後確立一套更清晰的符號，以曲線描摹音符的流動，以格網代表其下的指板。指導過程鼓勵逐句工作。每一小段連串的音符都被做成獨立的部件，直立的紙板片從格網底座升起，彎曲的條帶沿著它們滑行。唯有在各樂句分別成形之後，它們才被錯動、旋轉、拼接在一起，使彼此之間的關係，而非任何單一旋律，塑造整體。完成的高塔顯得神秘，碎片擁擠而交疊，彷彿爭相被聽見。在暗光中，它們令人想起獨奏的湧起與消退，證明節奏與強度能夠被賦予空間的形式。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
