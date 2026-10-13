@@ -1,0 +1,55 @@
+{
+  "project": "Machine Mosaic",
+  "dest": "assets/board/mecha-mosaic-folded-card-and-stick-models",
+  "note": "Portfolio 0b95 pages 2-4 cropped to 8 images, WebP q88 (PIL). Not used: film robot reference drawings, film and character names, process photos with hands.",
+  "files": [
+    {
+      "name": "01-folded-card-model.webp",
+      "sha256": "07fc2e4ed8403380c2411649504dcf7001829e9715809412faa00892ed0ad83f",
+      "bytes": 84522,
+      "from": "0b95 pages 2-4 — the folded card model"
+    },
+    {
+      "name": "02-linear-stick-model.webp",
+      "sha256": "5cd73fe24e5ccda2b742959a7aaafe8bfa0bc901c40d4394e26196c372794920",
+      "bytes": 253922,
+      "from": "0b95 pages 2-4 — the stick model"
+    },
+    {
+      "name": "03-recombined-parts-drawing.webp",
+      "sha256": "baf338dccc9e2b6d418685319d7b5bb61ad292b38d24329c252573aefb31c338",
+      "bytes": 268952,
+      "from": "0b95 pages 2-4 — the recombined parts drawing"
+    },
+    {
+      "name": "04-card-model-from-above.webp",
+      "sha256": "da11348326eaac20fb2ba73a0dbe393da56fa2219858f98f9cfea83da11ab4ca",
+      "bytes": 31470,
+      "from": "0b95 pages 2-4 — the card model from above"
+    },
+    {
+      "name": "05-card-model-front.webp",
+      "sha256": "42edc6417728cdee71b055269976881495fd0f7747dbd7468c8a1ae50c27aa52",
+      "bytes": 42512,
+      "from": "0b95 pages 2-4 — the card model front"
+    },
+    {
+      "name": "06-card-planes-close-up.webp",
+      "sha256": "74dc48520f2707e182205203cfa9675066f6b83698310ba537abe055df28241e",
+      "bytes": 26216,
+      "from": "0b95 pages 2-4 — card planes close up"
+    },
+    {
+      "name": "07-stick-model-side.webp",
+      "sha256": "8a49719681b4f5a1973fafd2c818c7545838d22055a2eccce02397768b743130",
+      "bytes": 84758,
+      "from": "0b95 pages 2-4 — the stick model side"
+    },
+    {
+      "name": "08-stick-model-and-shadow.webp",
+      "sha256": "6347ff2b9a232b5a1d9756ff6d9bde5bd1c0cdc707e33dbd18222ccfded884bd",
+      "bytes": 148270,
+      "from": "0b95 pages 2-4 — the stick model and its shadow"
+    }
+  ]
+}
