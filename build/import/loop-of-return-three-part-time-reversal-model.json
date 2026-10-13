@@ -1,0 +1,49 @@
+{
+  "project": "Loop of Return",
+  "dest": "assets/board/loop-of-return-three-part-time-reversal-model",
+  "note": "Portfolio a458 pages 8-9 cropped to 7 images, WebP q88 (PIL). Not used: film still strip and film title (retitled from film-based Endless loop; film references dropped), process photos with hands.",
+  "files": [
+    {
+      "name": "01-endless-loop-model.webp",
+      "sha256": "1e43f0eb5efeeea20aa9e1794836cb2f2c0f46f47a728849bdafddc9f9c74902",
+      "bytes": 141488,
+      "from": "a458 pages 8-9 — the loop model"
+    },
+    {
+      "name": "02-loop-concept-sketch.webp",
+      "sha256": "063db7da8e48060b910ca82d56e4de77a710718f525a41dc572662db0927ecf8",
+      "bytes": 155954,
+      "from": "a458 pages 8-9 — the concept sketch"
+    },
+    {
+      "name": "03-cotton-and-stick-detail.webp",
+      "sha256": "40626caa93520aad5ff9e4bc8290e6e5303f814e4943c802a165e395c490d343",
+      "bytes": 94170,
+      "from": "a458 pages 8-9 — cotton and sticks"
+    },
+    {
+      "name": "04-ribbon-and-stick-detail.webp",
+      "sha256": "6f35b467ca7ceb1773f23a12a59f940a82add20d38662df4f796e1d37e750cd1",
+      "bytes": 104114,
+      "from": "a458 pages 8-9 — ribbons and sticks"
+    },
+    {
+      "name": "05-stair-and-cloud-detail.webp",
+      "sha256": "3b6ed13c53e76a9ae2071873146182ead1a4590efd1fcea6a5bbdadcab923980",
+      "bytes": 98590,
+      "from": "a458 pages 8-9 — stair and cloud"
+    },
+    {
+      "name": "06-loop-model-top.webp",
+      "sha256": "64064d88b8417ae9aa9c323ba239e84b83ce6ff93c46a34df19d4db3a0530e96",
+      "bytes": 59614,
+      "from": "a458 pages 8-9 — the model from above"
+    },
+    {
+      "name": "07-spiral-stair-ribbon.webp",
+      "sha256": "80099255c2739af46bd08135cb2671028e65442d8c17bb6a0b60f3a7b8984177",
+      "bytes": 74962,
+      "from": "a458 pages 8-9 — the spiral stair"
+    }
+  ]
+}
