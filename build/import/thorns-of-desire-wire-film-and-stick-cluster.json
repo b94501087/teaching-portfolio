@@ -1,0 +1,49 @@
+{
+  "project": "Thorns of Desire",
+  "dest": "assets/board/thorns-of-desire-wire-film-and-stick-cluster",
+  "note": "Portfolio 956b pages 2-3 cropped to 7 images, WebP q88 (PIL). Not used: film stills, process photos with hands (film title dropped; retitled from Fight Club).",
+  "files": [
+    {
+      "name": "01-thorn-cluster-model.webp",
+      "sha256": "b7ae931538682ae1cf14a9d3d20b0a7de8c22595eaa54e89dd7e46dff5b81806",
+      "bytes": 215706,
+      "from": "956b pages 2-3 — the thorn cluster model"
+    },
+    {
+      "name": "02-three-part-sketch.webp",
+      "sha256": "c1c11d36f79dcea9af9893dd2aaf67a7f85b772b2f9a1e9c5fe0b67f39c73861",
+      "bytes": 146974,
+      "from": "956b pages 2-3 — the three-part sketch"
+    },
+    {
+      "name": "03-model-from-above.webp",
+      "sha256": "9b5205282f104f3cd508a53a8a2beee5fc759454ae4e1844e65ab701b580ba96",
+      "bytes": 249168,
+      "from": "956b pages 2-3 — the model from above"
+    },
+    {
+      "name": "04-wire-and-film-tangle.webp",
+      "sha256": "8edf780761b95dcb904f0b8e564b02a5873bc557aede9be377c26566957879b2",
+      "bytes": 337258,
+      "from": "956b pages 2-3 — wire and film tangle"
+    },
+    {
+      "name": "05-inner-frame-detail.webp",
+      "sha256": "2188410f3b4b65ff60edcab64a77254fcb2f05b5625566f7500677ff346e0f8d",
+      "bytes": 159738,
+      "from": "956b pages 2-3 — the inner frame"
+    },
+    {
+      "name": "06-stick-thorn-detail.webp",
+      "sha256": "4cec54002edd719d2fc39bdfb67b8e0c0c873fc41547ef18f30fa5822a24dcd7",
+      "bytes": 47860,
+      "from": "956b pages 2-3 — stick thorns"
+    },
+    {
+      "name": "07-film-and-frame-detail.webp",
+      "sha256": "419527e8e9512a1213e9f6e744ac7a8d7b5555191f1dc9b2358d8eab1f927fd4",
+      "bytes": 43602,
+      "from": "956b pages 2-3 — film around the frame"
+    }
+  ]
+}
