@@ -71604,6 +71604,430 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Branch and Cage Tower",
+      "slug": "branch-and-cage-tower-on-a-stick-field",
+      "description": "A dense field of sticks holds up a tangle of open cubes, bent bamboo and branches, a tower about what we forget in daily life.\n\nModel and drawings | Film-to-form study | Wooden sticks, branches, bamboo | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "枝條與籠之塔",
+          "description": "一片密集的木條撐起一團開放方框、彎曲竹片與枝條，這座塔關於我們在日常中遺忘的事物。\n\n模型與繪圖｜影像轉形態研究｜木條、枝條、竹子｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/branch-and-cage-tower-on-a-stick-field/01-branch-and-cage-tower.webp",
+        "assets/board/branch-and-cage-tower-on-a-stick-field/02-cages-and-branches.webp",
+        "assets/board/branch-and-cage-tower-on-a-stick-field/03-stick-base-close-up.webp",
+        "assets/board/branch-and-cage-tower-on-a-stick-field/04-stick-cluster.webp",
+        "assets/board/branch-and-cage-tower-on-a-stick-field/05-stick-bundles.webp",
+        "assets/board/branch-and-cage-tower-on-a-stick-field/06-stick-field.webp",
+        "assets/board/branch-and-cage-tower-on-a-stick-field/07-line-drawing-tower.webp",
+        "assets/board/branch-and-cage-tower-on-a-stick-field/08-line-drawing-sphere.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/branch-and-cage-tower-on-a-stick-field/01-branch-and-cage-tower.webp"
+          ],
+          "captions": [
+            "The branch and cage tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "枝條與籠之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The model grew from a short surreal film the student made. It asks how people get trapped chasing money and forget simple joys.",
+          "images": [
+            "assets/board/branch-and-cage-tower-on-a-stick-field/07-line-drawing-tower.webp"
+          ],
+          "captions": [
+            "A line drawing of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這件模型源自學生拍攝的一部超現實短片。它探問人們如何在追逐金錢中受困，並遺忘簡單的快樂。",
+              "captions": [
+                "塔的線稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A round cage stands for being trapped. A ring around it stands for the parts of life people overlook.",
+          "images": [
+            "assets/board/branch-and-cage-tower-on-a-stick-field/08-line-drawing-sphere.webp"
+          ],
+          "captions": [
+            "A line drawing of the cage and ring."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "圓形的籠子代表受困。環繞它的圓環代表人們忽略的生活面向。",
+              "captions": [
+                "籠與圓環的線稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sticks were bundled, then packed into a dense field. Open cubes and bent strips rise from it, mixed with real branches.",
+          "images": [
+            "assets/board/branch-and-cage-tower-on-a-stick-field/05-stick-bundles.webp",
+            "assets/board/branch-and-cage-tower-on-a-stick-field/06-stick-field.webp",
+            "assets/board/branch-and-cage-tower-on-a-stick-field/04-stick-cluster.webp"
+          ],
+          "captions": [
+            "Stick bundles.",
+            "The stick field.",
+            "The first stick cluster."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木條先被綁成束，再密集排列成一片。開放的方框與彎曲條片由此升起，並混入真實枝條。",
+              "captions": [
+                "木條束。",
+                "木條群。",
+                "最初的木條群。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 31.5-inch tower joins man-made and natural parts. It mixes the real and the surreal.",
+          "images": [
+            "assets/board/branch-and-cage-tower-on-a-stick-field/02-cages-and-branches.webp",
+            "assets/board/branch-and-cage-tower-on-a-stick-field/03-stick-base-close-up.webp"
+          ],
+          "captions": [
+            "Cages and branches.",
+            "The stick base close up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座31.5英寸高的塔結合了人造與自然的構件。它融合了真實與超現實。",
+              "captions": [
+                "方框與枝條。",
+                "木條底座近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from your own film or story.\n2. Name its main symbols.\n3. Give each symbol a form.\n4. Mix made and found materials.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從自己的影片或故事出發。\n2. 指出其中的主要象徵。\n3. 每個象徵一種形態。\n4. 混用人造與現成材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Pulled Threads",
+      "slug": "pulled-threads-box-web-of-tension",
+      "description": "A black frame box is filled with a dense web of pulled threads and sharp shards, a space about feeling trapped and tense.\n\nModel and drawings | Feeling-to-space study | Wood, nylon rope, panes, rice paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "緊繃的線",
+          "description": "黑色框架盒內布滿拉緊的細線與尖銳碎片，構成一個關於受困與緊繃感的空間。\n\n模型與繪圖｜情感轉空間研究｜木材、尼龍繩、薄片、宣紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/pulled-threads-box-web-of-tension/01-thread-box.webp",
+        "assets/board/pulled-threads-box-web-of-tension/02-box-from-above.webp",
+        "assets/board/pulled-threads-box-web-of-tension/03-thread-web-inside.webp",
+        "assets/board/pulled-threads-box-web-of-tension/04-pulled-thread-sketch.webp",
+        "assets/board/pulled-threads-box-web-of-tension/05-knot-sketch.webp",
+        "assets/board/pulled-threads-box-web-of-tension/06-web-drawing.webp",
+        "assets/board/pulled-threads-box-web-of-tension/07-hanging-forms-drawing.webp",
+        "assets/board/pulled-threads-box-web-of-tension/08-paper-plane-drawing.webp",
+        "assets/board/pulled-threads-box-web-of-tension/09-framed-core-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/pulled-threads-box-web-of-tension/01-thread-box.webp"
+          ],
+          "captions": [
+            "The thread box."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "線之盒。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to give form to a feeling of being trapped. The project asks how a space can make people feel how hard it is to break free.",
+          "images": [
+            "assets/board/pulled-threads-box-web-of-tension/08-paper-plane-drawing.webp"
+          ],
+          "captions": [
+            "A drawing of trapped paper planes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想為受困的感受賦予形體。這個專題探問，空間如何讓人感受到掙脫有多困難。",
+              "captions": [
+                "受困紙飛機的素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Pencil drawings explored a core caught in the middle. Other sketches showed forms pulled by many lines.",
+          "images": [
+            "assets/board/pulled-threads-box-web-of-tension/09-framed-core-drawing.webp",
+            "assets/board/pulled-threads-box-web-of-tension/04-pulled-thread-sketch.webp"
+          ],
+          "captions": [
+            "A drawing of a framed core.",
+            "A sketch of pulled threads."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "鉛筆素描探索被困在中央的核心。其他草圖則描繪被許多線拉扯的形體。",
+              "captions": [
+                "框中核心的素描。",
+                "拉扯細線的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Threads were stretched across a frame in all directions. A small bound space sits inside the web.",
+          "images": [
+            "assets/board/pulled-threads-box-web-of-tension/05-knot-sketch.webp",
+            "assets/board/pulled-threads-box-web-of-tension/06-web-drawing.webp",
+            "assets/board/pulled-threads-box-web-of-tension/07-hanging-forms-drawing.webp"
+          ],
+          "captions": [
+            "A knot sketch.",
+            "A web drawing.",
+            "A drawing of hanging forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "細線從各個方向拉過框架。一個被綁住的小空間位於網的中央。",
+              "captions": [
+                "結的草圖。",
+                "網的繪圖。",
+                "懸掛形體的素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 21.6-inch box is a maze of lines. Sharp shards point inward and the threads are pulled until they snap.",
+          "images": [
+            "assets/board/pulled-threads-box-web-of-tension/02-box-from-above.webp",
+            "assets/board/pulled-threads-box-web-of-tension/03-thread-web-inside.webp"
+          ],
+          "captions": [
+            "The box from above.",
+            "The web inside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個21.6英寸的盒子是一座線的迷宮。尖銳碎片指向內部，細線被拉緊直到斷裂。",
+              "captions": [
+                "俯看盒子。",
+                "內部的線網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name a feeling.\n2. Draw it many times.\n3. Pick one tense material.\n4. Build the feeling as a space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 說出一種感受。\n2. 反覆描繪它。\n3. 選一種帶張力的材料。\n4. 把感受建成空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Knotted Cylinders",
+      "slug": "knotted-cylinders-object-and-action-renders",
+      "description": "One cylinder is bent, knotted and stacked step by step in 3D software into a soft white knot.\n\nDigital model | Object-and-action study | 3D modelling, rendering | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "打結的圓柱",
+          "description": "一根圓柱在3D軟體中一步步彎曲、打結與堆疊，成為柔和的白色繩結。\n\n數位模型｜物件與動作研究｜3D建模、算圖｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/knotted-cylinders-object-and-action-renders/01-knotted-cylinders-render.webp",
+        "assets/board/knotted-cylinders-object-and-action-renders/02-step-1-cylinder.webp",
+        "assets/board/knotted-cylinders-object-and-action-renders/03-step-2-first-twist.webp",
+        "assets/board/knotted-cylinders-object-and-action-renders/04-step-3-knot.webp",
+        "assets/board/knotted-cylinders-object-and-action-renders/05-rotation-drawing.webp",
+        "assets/board/knotted-cylinders-object-and-action-renders/06-section-drawing.webp",
+        "assets/board/knotted-cylinders-object-and-action-renders/07-detail-render.webp",
+        "assets/board/knotted-cylinders-object-and-action-renders/08-surface-logic-lines.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/knotted-cylinders-object-and-action-renders/01-knotted-cylinders-render.webp"
+          ],
+          "captions": [
+            "The knotted cylinders render."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "打結圓柱的算圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In a summer online course, the student learned 3D modelling, animation and rendering. The task joins one object with one action.",
+          "images": [
+            "assets/board/knotted-cylinders-object-and-action-renders/02-step-1-cylinder.webp"
+          ],
+          "captions": [
+            "Step 1: one cylinder."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在一門暑期線上課程中，學生學習了3D建模、動畫與算圖。題目是把一個物件與一個動作結合。",
+              "captions": [
+                "步驟一：一根圓柱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The object is a cylinder and the action is stacking. Each step bends and loops it further.",
+          "images": [
+            "assets/board/knotted-cylinders-object-and-action-renders/03-step-2-first-twist.webp",
+            "assets/board/knotted-cylinders-object-and-action-renders/04-step-3-knot.webp"
+          ],
+          "captions": [
+            "Step 2: a first twist.",
+            "Step 3: a knot."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "物件是圓柱，動作是堆疊。每一步都讓它進一步彎曲與繞圈。",
+              "captions": [
+                "步驟二：第一次扭轉。",
+                "步驟三：繩結。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Rotation drawings turn the knot around its axes. Section drawings cut through it to show the tubes inside.",
+          "images": [
+            "assets/board/knotted-cylinders-object-and-action-renders/05-rotation-drawing.webp",
+            "assets/board/knotted-cylinders-object-and-action-renders/06-section-drawing.webp"
+          ],
+          "captions": [
+            "A rotation drawing.",
+            "A section drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "旋轉圖讓繩結繞著軸線轉動。剖面圖則切開它，呈現內部的管狀結構。",
+              "captions": [
+                "旋轉圖。",
+                "剖面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final 10-inch knot is shown in close renders. A line view maps the logic of its surface.",
+          "images": [
+            "assets/board/knotted-cylinders-object-and-action-renders/07-detail-render.webp",
+            "assets/board/knotted-cylinders-object-and-action-renders/08-surface-logic-lines.webp"
+          ],
+          "captions": [
+            "A detail render.",
+            "Surface lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終10英寸的繩結以近距離算圖呈現。線框圖則描繪出它表面的邏輯。",
+              "captions": [
+                "細部算圖。",
+                "表面線框。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick one object.\n2. Pick one action.\n3. Repeat the action step by step.\n4. Draw the result from all sides.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個物件。\n2. 選一個動作。\n3. 一步步重複動作。\n4. 從各個方向描繪結果。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
