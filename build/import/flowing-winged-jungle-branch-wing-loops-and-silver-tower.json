@@ -1,0 +1,37 @@
+{
+  "project": "Flowing Winged Jungle",
+  "dest": "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower",
+  "note": "Portfolio 68e2 pages 2-3 cropped to 5 images, WebP q88 (PIL). Not used: cover page with name, bird graphic with a website credit, bird silhouettes, process photos with hands.",
+  "files": [
+    {
+      "name": "01-branch-wing-swirl.webp",
+      "sha256": "fda73f0f93f4797a1cce206fd14472f8aa04394f2df53ffd9b060cae360fb930",
+      "bytes": 382224,
+      "from": "68e2 pages 2-3 — branches swirling like a wing"
+    },
+    {
+      "name": "02-silver-tower-side.webp",
+      "sha256": "79a01913859b61137bc5a3dd15e87d84f64bce29db9ab0aeb9614479764a1211",
+      "bytes": 253996,
+      "from": "68e2 pages 2-3 — the sprayed tower from the side"
+    },
+    {
+      "name": "03-silver-close-up.webp",
+      "sha256": "34eec45e068a7c516b5394a6d8ec196e62ae21cafc9f26c90b2c0a6cd5ae383c",
+      "bytes": 466654,
+      "from": "68e2 pages 2-3 — a close view of the paths"
+    },
+    {
+      "name": "04-silver-tower-front.webp",
+      "sha256": "2de38d494b18f749c36bff859071f6b6a5914c135d025d27f5f269f1bc5fef23",
+      "bytes": 91584,
+      "from": "68e2 pages 2-3 — the tower from the front"
+    },
+    {
+      "name": "05-balsa-paths.webp",
+      "sha256": "2bd7be3c84df46f1ac99a59b166bc6d9670241daa1acb2f0ce125d07081f2b66",
+      "bytes": 93358,
+      "from": "68e2 pages 2-3 — balsa paths among the twigs"
+    }
+  ]
+}
