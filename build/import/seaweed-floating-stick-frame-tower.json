@@ -1,0 +1,61 @@
+{
+  "project": "Seaweed",
+  "dest": "assets/board/seaweed-floating-stick-frame-tower",
+  "note": "Portfolio a9c4 pages 4-5 cropped to 9 images, WebP q88 (PIL). Not used: stock underwater inspiration photo, process photos of the student making the model, caption with dimensions and date.",
+  "files": [
+    {
+      "name": "01-seaweed-stick-tower.webp",
+      "sha256": "11aeb403cb59462842faa49831db85ff670ef505a259e00a00e6809fbf6c9833",
+      "bytes": 84572,
+      "from": "a9c4 pages 4-5 — the seaweed stick tower"
+    },
+    {
+      "name": "02-seaweed-concept-sketch.webp",
+      "sha256": "a09802bc0f4e3f3d9c7e95503ff1914a9e83059a09f92626385ea12840698ce3",
+      "bytes": 77022,
+      "from": "a9c4 pages 4-5 — a concept sketch of seaweed"
+    },
+    {
+      "name": "03-twisted-column-test.webp",
+      "sha256": "e9db2c01352857123e2ae1d69b9d1ad1ee651ba6f83fb422d7359b28593abd37",
+      "bytes": 20366,
+      "from": "a9c4 pages 4-5 — a twisted column test"
+    },
+    {
+      "name": "04-floating-frame-test.webp",
+      "sha256": "cbe9e66b780c8bd435fe78bf3c160778aa4c41ba21beaac32121807d649cc1a1",
+      "bytes": 27458,
+      "from": "a9c4 pages 4-5 — a floating frame test"
+    },
+    {
+      "name": "05-folded-frame-test.webp",
+      "sha256": "59bc5b66b38047b23342e2c59a8237583acbb7419569a2a0559da17ae89118e1",
+      "bytes": 40274,
+      "from": "a9c4 pages 4-5 — a folded frame test"
+    },
+    {
+      "name": "06-bowl-frame-test.webp",
+      "sha256": "8b39a01630a74b587b8a7d77b53cab555b63c5013b01bc4b8d2dc59c41f95d14",
+      "bytes": 33168,
+      "from": "a9c4 pages 4-5 — a bowl-shaped frame test"
+    },
+    {
+      "name": "07-lattice-canopy.webp",
+      "sha256": "0fe394671404bc9300821199cef2e235c0d951353750fe14fa15ca155184b7bd",
+      "bytes": 116568,
+      "from": "a9c4 pages 4-5 — the lattice canopy"
+    },
+    {
+      "name": "08-final-stick-structure.webp",
+      "sha256": "b738a457d2a6ac61fdfff3f8914e70e9455815637a79786f50b6f23e7d941c87",
+      "bytes": 140422,
+      "from": "a9c4 pages 4-5 — the final stick structure"
+    },
+    {
+      "name": "09-shadow-of-the-lattice.webp",
+      "sha256": "d97d23a5ccecfcda01126d5efbdb6a311691a763845990a34d4572d0833befdc",
+      "bytes": 60122,
+      "from": "a9c4 pages 4-5 — the shadow of the lattice"
+    }
+  ]
+}
