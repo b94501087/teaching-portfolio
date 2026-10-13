@@ -1,0 +1,61 @@
+{
+  "project": "Cobalt Chloride Equilibrium",
+  "dest": "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower",
+  "note": "Portfolio 6f23 pages 4-5 cropped to 9 images, WebP q88 (PIL). Not used: textbook chemistry formula and molecule diagrams.",
+  "files": [
+    {
+      "name": "01-triangle-tower.webp",
+      "sha256": "c581c679d4afd3b41ff0cd93f91f9d4cc266cc6e329a57770b1678f7418584ac",
+      "bytes": 135190,
+      "from": "6f23 pages 4-5 — the triangle tower"
+    },
+    {
+      "name": "02-colour-tower.webp",
+      "sha256": "c3dfc31e9b54226fb1af2de1952510ab4178c30f3cfe142e02c48ba8968d0b32",
+      "bytes": 126912,
+      "from": "6f23 pages 4-5 — the tower in colour"
+    },
+    {
+      "name": "03-tower-in-dark.webp",
+      "sha256": "e6b9f94f6f6dd6657aa0320e5436582996b3450396ef2799a750cefc6dc97957",
+      "bytes": 53044,
+      "from": "6f23 pages 4-5 — the tower in the dark"
+    },
+    {
+      "name": "04-tower-close-up.webp",
+      "sha256": "320b9936e49f3027f804ff1c401de8ff3b552a0c9a5db0c5a9911ba77f900432",
+      "bytes": 112538,
+      "from": "6f23 pages 4-5 — a close-up of the tower"
+    },
+    {
+      "name": "05-pink-triangles.webp",
+      "sha256": "cc754fec222c15e8f955b1aafe295d6cfb81fe1f940feab8b855a6b4452c8188",
+      "bytes": 60648,
+      "from": "6f23 pages 4-5 — pink triangles"
+    },
+    {
+      "name": "06-blue-triangles.webp",
+      "sha256": "9ce15b1dc6a7611797435ce0a046a851bc699c1e459e707bd08d4af4819badf3",
+      "bytes": 70776,
+      "from": "6f23 pages 4-5 — blue triangles"
+    },
+    {
+      "name": "07-triangle-studies.webp",
+      "sha256": "e9617bdb46d51dd67329104f125529033494440f1509c867064e5a30ec0d4e80",
+      "bytes": 167152,
+      "from": "6f23 pages 4-5 — triangle studies"
+    },
+    {
+      "name": "08-diffusion-to-triangles.webp",
+      "sha256": "763619165a04250baf9e564897d388ee6e876e5ed31a350eca8201cab1de4a82",
+      "bytes": 56030,
+      "from": "6f23 pages 4-5 — from diffusion to triangles"
+    },
+    {
+      "name": "09-two-colour-beakers.webp",
+      "sha256": "0d0c127d36813fe49eba0157782cfe94b5801419ca299070fd0566179c6dc216",
+      "bytes": 6338,
+      "from": "6f23 pages 4-5 — two colours of the solution"
+    }
+  ]
+}
