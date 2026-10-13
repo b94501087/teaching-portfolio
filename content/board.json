@@ -68944,6 +68944,582 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "House of Tree",
+      "slug": "house-of-tree-waste-branch-tower-with-small-houses",
+      "description": "Cut waste branches stack up like a growing trunk that slowly climbs over small white houses.\n\nModel and sketches | Reuse and nature study | Tree branches, PVC card, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "樹之屋",
+          "description": "裁切的廢棄枝條如生長的樹幹般層層堆疊，慢慢爬過白色小屋。\n\n模型與草圖｜再利用與自然研究｜樹枝、PVC卡、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/house-of-tree-waste-branch-tower-with-small-houses/01-branch-tower-with-houses.webp",
+        "assets/board/house-of-tree-waste-branch-tower-with-small-houses/02-house-on-the-branches.webp",
+        "assets/board/house-of-tree-waste-branch-tower-with-small-houses/03-keyword-diagrams.webp",
+        "assets/board/house-of-tree-waste-branch-tower-with-small-houses/04-section-sketch.webp",
+        "assets/board/house-of-tree-waste-branch-tower-with-small-houses/05-trunk-sketch.webp",
+        "assets/board/house-of-tree-waste-branch-tower-with-small-houses/06-branch-ring-frame.webp",
+        "assets/board/house-of-tree-waste-branch-tower-with-small-houses/07-branch-basket.webp",
+        "assets/board/house-of-tree-waste-branch-tower-with-small-houses/08-stacked-houses.webp",
+        "assets/board/house-of-tree-waste-branch-tower-with-small-houses/09-house-in-the-branches.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/house-of-tree-waste-branch-tower-with-small-houses/01-branch-tower-with-houses.webp"
+          ],
+          "captions": [
+            "The branch tower with its small houses."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "附有小屋的枝條之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Building in nature can harm the place it sits in. The project asks how waste wood could give people shelter and still let nature lead.",
+          "images": [
+            "assets/board/house-of-tree-waste-branch-tower-with-small-houses/03-keyword-diagrams.webp"
+          ],
+          "captions": [
+            "Keyword diagrams for shelter."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在自然中建造可能傷害所在之地。這個專題探問，廢棄木材如何為人提供庇護，同時讓自然居於主導。",
+              "captions": [
+                "關於庇護的關鍵字圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Old wrecks on a shore can serve as rough resting places. Dead wood also has pores that hold water and let tiny life grow.",
+          "images": [
+            "assets/board/house-of-tree-waste-branch-tower-with-small-houses/04-section-sketch.webp",
+            "assets/board/house-of-tree-waste-branch-tower-with-small-houses/05-trunk-sketch.webp"
+          ],
+          "captions": [
+            "A section sketch of the idea.",
+            "A sketch of the trunk form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "海岸上的殘骸可以充當簡陋的休憩處。枯木也有能保存水分、讓微生物生長的孔隙。",
+              "captions": [
+                "構想的剖面草圖。",
+                "樹幹形態草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Branches were cut into short pieces and stacked from the edge of a frame. At a set height they close in to carry the houses.",
+          "images": [
+            "assets/board/house-of-tree-waste-branch-tower-with-small-houses/06-branch-ring-frame.webp",
+            "assets/board/house-of-tree-waste-branch-tower-with-small-houses/07-branch-basket.webp"
+          ],
+          "captions": [
+            "The first ring of branches.",
+            "The branches closing in."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把樹枝裁成短段，從框架邊緣開始堆疊。到一定高度時枝段向內收合，承托小屋。",
+              "captions": [
+                "第一圈枝條。",
+                "向內收合的枝條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the 300 mm model the branches keep climbing over the houses. In time the homes would be wrapped and become part of the tree.",
+          "images": [
+            "assets/board/house-of-tree-waste-branch-tower-with-small-houses/02-house-on-the-branches.webp",
+            "assets/board/house-of-tree-waste-branch-tower-with-small-houses/08-stacked-houses.webp",
+            "assets/board/house-of-tree-waste-branch-tower-with-small-houses/09-house-in-the-branches.webp"
+          ],
+          "captions": [
+            "A house resting on the branches.",
+            "Stacked houses and ladders.",
+            "A house half covered by branches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在這個300公釐的模型中，枝條持續爬過小屋。隨著時間，住所會被包覆，成為樹的一部分。",
+              "captions": [
+                "靠在枝條上的小屋。",
+                "堆疊的小屋與梯子。",
+                "被枝條半覆蓋的小屋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect a waste material.\n2. Study what it does in nature.\n3. Stack it in small steps.\n4. Let it grow over the build.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集一種廢棄材料。\n2. 研究它在自然中的作用。\n3. 以小步驟堆疊。\n4. 讓它長過建物。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "A Playground for Magpies",
+      "slug": "playground-for-magpies-curved-clay-bird-habitat",
+      "description": "A white clay landscape of arches, holes and mushroom platforms is shaped for birds that hop before they fly.\n\nModel and sketches | Animal habitat study | Modelling clay, wire, foam board, mat board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "喜鵲的遊樂場",
+          "description": "由拱、孔洞與蘑菇狀平台構成的白色黏土地景，為起飛前會跳躍的鳥而塑造。\n\n模型與草圖｜動物棲地研究｜造型黏土、線材、珍珠板、卡紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/01-lit-clay-playground.webp",
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/02-feather-sketches.webp",
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/03-flight-sequence.webp",
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/04-plan-sketch.webp",
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/05-section-sketch.webp",
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/06-wire-frame.webp",
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/07-model-on-pink-light.webp",
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/08-arches-and-figures.webp",
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/09-white-model-angle.webp",
+        "assets/board/playground-for-magpies-curved-clay-bird-habitat/10-white-model-low.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/01-lit-clay-playground.webp"
+          ],
+          "captions": [
+            "The clay playground under coloured light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "彩色光下的黏土遊樂場。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project puts birds, not people, at the centre. It asks what a space would look like if it were made for magpies first.",
+          "images": [
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/02-feather-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of feather types."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題把鳥而非人放在中心。它探問，如果空間首先為喜鵲而建，會是什麼模樣。",
+              "captions": [
+                "各類羽毛的素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Magpies hop before they take off and like sun and shade. The student drew their feathers and traced their jumps frame by frame.",
+          "images": [
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/03-flight-sequence.webp"
+          ],
+          "captions": [
+            "A traced hop and flight sequence."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "喜鵲起飛前會跳躍，也喜歡陽光與陰影。學生描繪牠們的羽毛，並逐格描摹跳躍動作。",
+              "captions": [
+                "描摹的跳躍與飛行序列。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Plan and side sketches set out walls, closed nooks and sunning spots. A bent wire frame then fixed the curves before the clay.",
+          "images": [
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/04-plan-sketch.webp",
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/05-section-sketch.webp",
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/06-wire-frame.webp"
+          ],
+          "captions": [
+            "A bird's-eye plan sketch.",
+            "A side sketch of the shelter.",
+            "The bent wire frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "平面與側面草圖安排了牆、封閉角落與曬太陽的位置。接著以彎折的線材框架定下曲線，再敷上黏土。",
+              "captions": [
+                "鳥瞰平面草圖。",
+                "庇護所側面草圖。",
+                "彎折的線材框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 395 mm clay model has smooth edges, hidden gaps and raised platforms. Tiny figures show how small people are next to it.",
+          "images": [
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/07-model-on-pink-light.webp",
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/08-arches-and-figures.webp",
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/09-white-model-angle.webp",
+            "assets/board/playground-for-magpies-curved-clay-bird-habitat/10-white-model-low.webp"
+          ],
+          "captions": [
+            "The model on a dark stage.",
+            "Arches with tiny figures.",
+            "The model from above.",
+            "A low view of the forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個395公釐的黏土模型有平滑邊緣、隱密縫隙與高起的平台。小人偶顯示人在它旁邊有多渺小。",
+              "captions": [
+                "暗色台面上的模型。",
+                "拱與小人偶。",
+                "俯視模型。",
+                "低角度看形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick one animal to design for.\n2. Watch and draw how it moves.\n3. Turn habits into shapes.\n4. Build the frame, then the skin.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一種動物作為設計對象。\n2. 觀察並畫下牠的動作。\n3. 把習性轉為形體。\n4. 先做骨架，再做表皮。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Lighthouse in the Void",
+      "slug": "lighthouse-in-the-void-stocking-sails-and-exploding-core",
+      "description": "Two wooden-frame spaces imagine a long space voyage: a lonely lighthouse of stocking sails, then a bursting core of colour.\n\nModels and sketches | Story-to-space study | Wood, stockings, thread, wire, straws, film | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "虛空中的燈塔",
+          "description": "兩個木框空間想像一段漫長的太空航程：由絲襪帆構成的孤獨燈塔，以及爆裂的彩色核心。\n\n模型與草圖｜故事轉空間研究｜木材、絲襪、線、金屬線、吸管、薄膜｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/01-lighthouse-frame-model.webp",
+        "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/02-lighthouse-pyramid-sketch.webp",
+        "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/03-black-sails-detail.webp",
+        "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/04-yellow-ladder-detail.webp",
+        "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/05-exploding-sphere.webp",
+        "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/06-explosion-sketch.webp",
+        "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/07-explosion-frame-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/01-lighthouse-frame-model.webp"
+          ],
+          "captions": [
+            "The lighthouse space in its frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "框架中的燈塔空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The work starts from a story of people on a long, lonely trip through space. It asks how their feelings could be built as two spaces.",
+          "images": [
+            "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/02-lighthouse-pyramid-sketch.webp"
+          ],
+          "captions": [
+            "A sketch of the lighthouse inside a pyramid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品源自一則人們在太空中漫長孤獨旅行的故事。它探問，如何把他們的情緒建構成兩個空間。",
+              "captions": [
+                "金字塔中燈塔的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A lighthouse stands for a clear goal and for being alone. A yellow ladder in the core stands for a troubled mind.",
+          "images": [
+            "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/03-black-sails-detail.webp",
+            "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/04-yellow-ladder-detail.webp"
+          ],
+          "captions": [
+            "Black stocking sails.",
+            "The yellow ladder in cotton cloud."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "燈塔象徵明確的目標，也象徵孤獨。核心中的黃色梯子代表不安的心靈。",
+              "captions": [
+                "黑色絲襪帆。",
+                "棉雲中的黃色梯子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "In the second space a wire ball wrapped in straws is the heart of a blast. Hanging weights show the paths people choose.",
+          "images": [
+            "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/06-explosion-sketch.webp",
+            "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/07-explosion-frame-view.webp"
+          ],
+          "captions": [
+            "A sketch of the blast lines.",
+            "The core inside the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在第二個空間中，以吸管包覆的線球是爆炸的核心。懸掛的重物代表人們選擇的道路。",
+              "captions": [
+                "爆炸線條草圖。",
+                "框架中的核心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Shards of clear film spin out from the core. The two frames together read as hope, chaos and the long way home.",
+          "images": [
+            "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core/05-exploding-sphere.webp"
+          ],
+          "captions": [
+            "The bursting core of colour."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "透明薄膜碎片從核心向外旋出。兩個框架合起來，讀作希望、混亂與漫長的歸途。",
+              "captions": [
+                "爆裂的彩色核心。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read a story closely.\n2. Pick one image for each mood.\n3. Build each mood in a frame.\n4. Hang parts to show choices.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 細讀一個故事。\n2. 為每種情緒選一個意象。\n3. 在框架中建構每種情緒。\n4. 懸掛構件來表現選擇。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tired Objects",
+      "slug": "tired-objects-five-everyday-models-of-fatigue",
+      "description": "A greenhouse, a washer, a cabinet, a sink and a bed are built as worn, messy models of a tired mind.\n\nModel series | Everyday objects and mood | Wood, fabric, wire mesh, paper, clay | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "疲憊的物件",
+          "description": "溫室、洗衣機、櫃子、水槽與床，被做成破舊凌亂的模型，表現疲憊的心。\n\n模型系列｜日常物件與情緒｜木材、布料、鐵絲網、紙、黏土｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/01-greenhouse-frame.webp",
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/02-greenhouse-interior.webp",
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/03-washer-pile.webp",
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/04-washer-side.webp",
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/05-shelf-cabinet.webp",
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/06-shelf-interior.webp",
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/07-mesh-sink.webp",
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/08-sink-dishes.webp",
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/09-loftbed-frame.webp",
+        "assets/board/tired-objects-five-everyday-models-of-fatigue/10-loftbed-cloud.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/01-greenhouse-frame.webp"
+          ],
+          "captions": [
+            "The neglected greenhouse."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "被遺忘的溫室。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Fatigue is hard to show. The series asks how everyday things could carry the strain of a tired person.",
+          "images": [
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/02-greenhouse-interior.webp"
+          ],
+          "captions": [
+            "Paper plants inside the greenhouse."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "疲憊很難表現。這個系列探問，日常物件如何承載一個疲憊之人的壓力。",
+              "captions": [
+                "溫室內的紙植物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each object stands for a part of daily life. Plastic stands in for broken glass and crumpled paper for dirt.",
+          "images": [
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/03-washer-pile.webp",
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/04-washer-side.webp"
+          ],
+          "captions": [
+            "A washer spilling cloth.",
+            "The washer from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每個物件代表日常生活的一部分。塑膠代替碎玻璃，揉皺的紙代替泥土。",
+              "captions": [
+                "溢出布料的洗衣機。",
+                "洗衣機側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A shelf is lined with printed paper and tape shapes to show too many products. A mesh sink is full of holes and clay dishes.",
+          "images": [
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/05-shelf-cabinet.webp",
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/06-shelf-interior.webp",
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/07-mesh-sink.webp",
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/08-sink-dishes.webp"
+          ],
+          "captions": [
+            "The paper-lined cabinet.",
+            "Inside the cabinet.",
+            "The mesh sink.",
+            "Clay dishes in the sink."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "櫃子貼滿印刷紙與膠帶形體，表現過多的商品。鐵絲網水槽滿是破洞與黏土碗盤。",
+              "captions": [
+                "貼滿紙的櫃子。",
+                "櫃子內部。",
+                "鐵絲網水槽。",
+                "水槽中的黏土碗盤。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The series ends with a bed of torn fabric and a cotton cloud. Its worn state shows the worries carried into sleep.",
+          "images": [
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/09-loftbed-frame.webp",
+            "assets/board/tired-objects-five-everyday-models-of-fatigue/10-loftbed-cloud.webp"
+          ],
+          "captions": [
+            "The loft bed of torn fabric.",
+            "The bed with its cotton cloud."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "系列以撕裂布料與棉花雲構成的床作結。它破舊的樣子，表現被帶入睡眠的憂慮。",
+              "captions": [
+                "撕裂布料的高架床。",
+                "附有棉花雲的床。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a feeling.\n2. Choose one object per scene.\n3. Wear the object down with materials.\n4. Show the series together.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一種感受。\n2. 每個場景選一個物件。\n3. 用材料讓物件變得破舊。\n4. 把系列放在一起展示。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
