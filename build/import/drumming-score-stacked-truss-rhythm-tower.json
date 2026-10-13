@@ -1,0 +1,67 @@
+{
+  "project": "Drumming Score",
+  "dest": "assets/board/drumming-score-stacked-truss-rhythm-tower",
+  "note": "Portfolio 6653 pages 5-7 cropped to 10 images, WebP q88 (PIL). Not used: song title and artist name, drum tab sheet with song title.",
+  "files": [
+    {
+      "name": "01-stacked-rhythm-tower.webp",
+      "sha256": "26e8af1fa47cdc46e08e63bd15cfe2b8a76bba098a28e9a6068ed42c12fdf3c3",
+      "bytes": 154800,
+      "from": "6653 pages 5-7 — the stacked rhythm tower"
+    },
+    {
+      "name": "02-wireframe-of-drum-patterns.webp",
+      "sha256": "093a6d72017c614fd6a38020f0c7e872956e7355a456321e9242555ec9297374",
+      "bytes": 153866,
+      "from": "6653 pages 5-7 — a wireframe of the drum patterns"
+    },
+    {
+      "name": "03-drum-notation-bars.webp",
+      "sha256": "981ff0925c6d8726fc81a176f7efa8d1096307d8116462fdb97ce03a353c8944",
+      "bytes": 18964,
+      "from": "6653 pages 5-7 — bars of drum notation"
+    },
+    {
+      "name": "04-exploded-truss-parts.webp",
+      "sha256": "d5b2c40ec24ffcbbad2e94bb36de7aa0a3bd7fd7fa4977e0b8783c1627b4170b",
+      "bytes": 38378,
+      "from": "6653 pages 5-7 — exploded truss parts"
+    },
+    {
+      "name": "05-study-model-a.webp",
+      "sha256": "519206a7bbcd0214722036489f577c5db1709e20fab8aacbbdebe333365dee9c",
+      "bytes": 23462,
+      "from": "6653 pages 5-7 — study model with shifted bars"
+    },
+    {
+      "name": "06-study-model-b.webp",
+      "sha256": "ad599cb440662d5416566ebc9fe2d7b2159f729d550f919ac6c25972ec5e6458",
+      "bytes": 14320,
+      "from": "6653 pages 5-7 — study model with a cantilever"
+    },
+    {
+      "name": "07-study-model-c.webp",
+      "sha256": "70a3281ab43b3279cc90fcd16955ba86c728b0694e450e6b3410eb361685c2b7",
+      "bytes": 20128,
+      "from": "6653 pages 5-7 — study model of a short phrase"
+    },
+    {
+      "name": "08-study-model-d.webp",
+      "sha256": "cb3ac2f89eb2cc44ff449f7cec032029f3c954a1aa445b0bbe53302590a330f3",
+      "bytes": 22824,
+      "from": "6653 pages 5-7 — study model with crossed braces"
+    },
+    {
+      "name": "09-tall-rhythm-model.webp",
+      "sha256": "33e3b952b9e42ee280bd4cb7370f945a7e3eb3726eb8e32aad53d76b0f7af2d4",
+      "bytes": 173394,
+      "from": "6653 pages 5-7 — a tall rhythm model"
+    },
+    {
+      "name": "10-low-rhythm-model.webp",
+      "sha256": "e660ba7a8f6c5448d2757974407574b84fa8d3dbe3df1d9e1eb6cd866b843798",
+      "bytes": 76644,
+      "from": "6653 pages 5-7 — a low rhythm model"
+    }
+  ]
+}
