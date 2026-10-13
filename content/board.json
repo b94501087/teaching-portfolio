@@ -73544,6 +73544,418 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Family Cohesion",
+      "slug": "family-cohesion-broken-home-rebuilt",
+      "description": "Separate paper houses of many colours and textures break apart, then join again through a bridge into one connected home.\n\nModel | Family and communication study | Coloured straws, metal, soft card | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "家庭凝聚",
+          "description": "多種色彩與質感的紙屋各自分離、碎裂，再透過一座橋重新連結成一個相通的家。\n\n模型｜家庭與溝通研究｜彩色吸管、金屬、軟卡紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/family-cohesion-broken-home-rebuilt/01-rebuilt-house-model.webp",
+        "assets/board/family-cohesion-broken-home-rebuilt/02-house-from-the-left.webp",
+        "assets/board/family-cohesion-broken-home-rebuilt/03-broken-home-sketch.webp",
+        "assets/board/family-cohesion-broken-home-rebuilt/04-paper-petals-close-up.webp",
+        "assets/board/family-cohesion-broken-home-rebuilt/05-light-through-cut-paper.webp",
+        "assets/board/family-cohesion-broken-home-rebuilt/06-straw-nest-and-rooms.webp",
+        "assets/board/family-cohesion-broken-home-rebuilt/07-colour-straw-test.webp",
+        "assets/board/family-cohesion-broken-home-rebuilt/08-white-pieces-test.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/family-cohesion-broken-home-rebuilt/01-rebuilt-house-model.webp"
+          ],
+          "captions": [
+            "The rebuilt house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "重建的房屋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A family film about a house that falls apart showed the student how much talking matters at home. The project asks how a home can break and be rebuilt through sharing.",
+          "images": [
+            "assets/board/family-cohesion-broken-home-rebuilt/03-broken-home-sketch.webp"
+          ],
+          "captions": [
+            "The broken home sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部講述房屋崩解的家庭電影，讓學生明白家中溝通的重要。這個專題探問，一個家如何因分享而崩解又重建。",
+              "captions": [
+                "破碎之家草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sketches traced a home breaking into pieces and a new home forming. Each piece got its own material, from straws to soft card.",
+          "images": [
+            "assets/board/family-cohesion-broken-home-rebuilt/07-colour-straw-test.webp",
+            "assets/board/family-cohesion-broken-home-rebuilt/08-white-pieces-test.webp"
+          ],
+          "captions": [
+            "A coloured straw test.",
+            "White pieces test."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "草圖描繪了一個家碎裂成片，再形成新家的過程。每一片都有各自的材料，從吸管到軟卡紙。",
+              "captions": [
+                "彩色吸管試驗。",
+                "白色構件試驗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Bright colours meet white paper and wood strips so the first houses feel apart. A bridge with gaps leads towards the new house.",
+          "images": [
+            "assets/board/family-cohesion-broken-home-rebuilt/04-paper-petals-close-up.webp",
+            "assets/board/family-cohesion-broken-home-rebuilt/05-light-through-cut-paper.webp"
+          ],
+          "captions": [
+            "Paper petals close up.",
+            "Light through cut paper."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "鮮豔色彩與白紙、木條相遇，讓最初的房屋顯得疏離。一座帶著缺口的橋通往新的房屋。",
+              "captions": [
+                "紙瓣近觀。",
+                "穿過鏤空紙的光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 500 mm tall model links every room in the rebuilt house. Cut paper throws dappled light across the pieces.",
+          "images": [
+            "assets/board/family-cohesion-broken-home-rebuilt/02-house-from-the-left.webp",
+            "assets/board/family-cohesion-broken-home-rebuilt/06-straw-nest-and-rooms.webp"
+          ],
+          "captions": [
+            "The house from the left.",
+            "A straw nest and rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個500毫米高的模型讓重建房屋的每個房間彼此相連。鏤空紙在構件上投下斑駁光影。",
+              "captions": [
+                "左側看房屋。",
+                "吸管巢與房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a story you care about.\n2. Sketch how it breaks and mends.\n3. Give each part its own material.\n4. Build the link between them.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從在乎的故事出發。\n2. 描繪它如何破碎與修補。\n3. 為每個部分選擇材料。\n4. 建出它們之間的連結。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Reflection on the Facade",
+      "slug": "reflection-on-the-facade-cut-card-rooms",
+      "description": "Reflections on a glass office facade are painted in black and white, cut out of card and folded into stacked rooms.\n\nModel and drawing | Facade study | Wood, card board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "立面上的倒影",
+          "description": "玻璃辦公大樓立面上的倒影以黑白繪出，再從卡紙裁出並折成層疊的房間。\n\n模型與繪圖｜立面研究｜木材、卡紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/reflection-on-the-facade-cut-card-rooms/01-stacked-facade-rooms.webp",
+        "assets/board/reflection-on-the-facade-cut-card-rooms/02-facade-tower.webp",
+        "assets/board/reflection-on-the-facade-cut-card-rooms/03-reflection-drawing.webp",
+        "assets/board/reflection-on-the-facade-cut-card-rooms/04-folded-room-a.webp",
+        "assets/board/reflection-on-the-facade-cut-card-rooms/05-folded-room-b.webp",
+        "assets/board/reflection-on-the-facade-cut-card-rooms/06-cut-windows-close-up.webp",
+        "assets/board/reflection-on-the-facade-cut-card-rooms/07-light-inside-a-room.webp",
+        "assets/board/reflection-on-the-facade-cut-card-rooms/08-rooms-joined.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/reflection-on-the-facade-cut-card-rooms/01-stacked-facade-rooms.webp"
+          ],
+          "captions": [
+            "The stacked facade rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "層疊的立面房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Many office towers in the city have glass facades that mirror the sky and hold heat. The project records one facade to show this heat island effect.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "城市中許多辦公大樓以玻璃為立面，映照天空也蓄積熱量。這個專題記錄一面立面，以呈現熱島效應。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The facade was painted with reflections in black and clear glass in white. The contrast shows how much of the face reflects.",
+          "images": [
+            "assets/board/reflection-on-the-facade-cut-card-rooms/03-reflection-drawing.webp"
+          ],
+          "captions": [
+            "The reflection drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把立面上的倒影塗成黑色，未反射的玻璃留白。這種對比顯示立面有多大面積在反射。",
+              "captions": [
+                "倒影繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The painting was pasted on card and every reflection was cut away. The card was folded into small rooms with windows.",
+          "images": [
+            "assets/board/reflection-on-the-facade-cut-card-rooms/04-folded-room-a.webp",
+            "assets/board/reflection-on-the-facade-cut-card-rooms/05-folded-room-b.webp",
+            "assets/board/reflection-on-the-facade-cut-card-rooms/06-cut-windows-close-up.webp"
+          ],
+          "captions": [
+            "A folded room.",
+            "Another folded room.",
+            "Cut windows close up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "繪畫被貼在卡紙上，每塊倒影都被裁去。卡紙再折成帶窗的小房間。",
+              "captions": [
+                "折出的房間。",
+                "另一個折出的房間。",
+                "鏤空窗近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 660 mm tall model joins the rooms with wood strips into one building. Shade on the glass becomes the windows of a house.",
+          "images": [
+            "assets/board/reflection-on-the-facade-cut-card-rooms/02-facade-tower.webp",
+            "assets/board/reflection-on-the-facade-cut-card-rooms/07-light-inside-a-room.webp",
+            "assets/board/reflection-on-the-facade-cut-card-rooms/08-rooms-joined.webp"
+          ],
+          "captions": [
+            "The facade tower.",
+            "Light inside a room.",
+            "Rooms joined."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個660毫米高的模型以木條把房間連成一棟建築。玻璃上的陰影變成了房屋的窗。",
+              "captions": [
+                "立面塔。",
+                "房間內的光。",
+                "相連的房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a surface in your city.\n2. Paint what it reflects.\n3. Cut and fold the painting.\n4. Stack the pieces into rooms.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選城市中的一面表面。\n2. 畫出它反射的景象。\n3. 裁切並折疊這幅畫。\n4. 把構件堆疊成房間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Infinity Game",
+      "slug": "infinity-game-badminton-moves-in-sticks",
+      "description": "Badminton poses are reduced to lines and points, then built as stick figures under a curving net in an infinity shape.\n\nModel and drawings | Motion study | Wood, string | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "無限遊戲",
+          "description": "羽球動作被簡化為線與點，再以木條人形搭建在一張呈無限形狀彎曲的網下。\n\n模型與繪圖｜動作研究｜木材、細繩｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/infinity-game-badminton-moves-in-sticks/01-stick-figures-under-a-net.webp",
+        "assets/board/infinity-game-badminton-moves-in-sticks/02-stick-figure-drawings.webp",
+        "assets/board/infinity-game-badminton-moves-in-sticks/03-net-and-sticks-from-above.webp",
+        "assets/board/infinity-game-badminton-moves-in-sticks/04-net-curving-over.webp",
+        "assets/board/infinity-game-badminton-moves-in-sticks/05-net-shadow.webp",
+        "assets/board/infinity-game-badminton-moves-in-sticks/06-model-from-the-end.webp",
+        "assets/board/infinity-game-badminton-moves-in-sticks/07-sticks-and-net-close-up.webp",
+        "assets/board/infinity-game-badminton-moves-in-sticks/08-moving-figures-close-up.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/infinity-game-badminton-moves-in-sticks/01-stick-figures-under-a-net.webp"
+          ],
+          "captions": [
+            "Stick figures under a net."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "網下的木條人形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Badminton is a big part of life for the student and the family. The project asks how a repeated game can become one space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "羽球是學生與家人生活中重要的一部分。這個專題探問，反覆進行的比賽如何成為一個空間。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student watched recordings of the game and found the poses repeat. Each pose was reduced to lines and points.",
+          "images": [
+            "assets/board/infinity-game-badminton-moves-in-sticks/02-stick-figure-drawings.webp"
+          ],
+          "captions": [
+            "Stick figure drawings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生觀看比賽錄影，發現動作會不斷重複。每個姿勢都被簡化為線與點。",
+              "captions": [
+                "線條人形繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wood strips became the body parts of each figure. String was added to soften the moves.",
+          "images": [
+            "assets/board/infinity-game-badminton-moves-in-sticks/03-net-and-sticks-from-above.webp",
+            "assets/board/infinity-game-badminton-moves-in-sticks/04-net-curving-over.webp"
+          ],
+          "captions": [
+            "The net and sticks from above.",
+            "The net curving over."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木條成為每個人形的肢體。學生加上細繩讓動作更柔和。",
+              "captions": [
+                "俯看網與木條。",
+                "彎曲覆蓋的網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 420 mm long model forms an infinity loop of figures and net. Seen from the side, it plays like a film of the game.",
+          "images": [
+            "assets/board/infinity-game-badminton-moves-in-sticks/05-net-shadow.webp",
+            "assets/board/infinity-game-badminton-moves-in-sticks/06-model-from-the-end.webp",
+            "assets/board/infinity-game-badminton-moves-in-sticks/07-sticks-and-net-close-up.webp",
+            "assets/board/infinity-game-badminton-moves-in-sticks/08-moving-figures-close-up.webp"
+          ],
+          "captions": [
+            "The net shadow.",
+            "The model from the end.",
+            "Sticks and net close up.",
+            "Moving figures close up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個420毫米長的模型以人形與網構成無限循環。從側面看，它像一部播放比賽的影片。",
+              "captions": [
+                "網的陰影。",
+                "端部看模型。",
+                "木條與網近觀。",
+                "動態人形近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Record a move you repeat.\n2. Reduce each pose to lines.\n3. Build the poses in sticks.\n4. Join them in one loop.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 記錄一個重複的動作。\n2. 把每個姿勢簡化為線。\n3. 以木條搭出姿勢。\n4. 把它們連成一個循環。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
