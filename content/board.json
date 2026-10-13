@@ -74376,6 +74376,546 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Machine Mosaic",
+      "slug": "mecha-mosaic-folded-card-and-stick-models",
+      "description": "Hand-drawn machine parts are cut up and recombined into a mosaic, then rebuilt as a folded card model and a stick model.\n\nModels and drawing | Form study | White card, wood strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "機械拼貼",
+          "description": "手繪的機械零件被剪開並重新拼成拼貼，再重建為折紙卡模型與木條模型。\n\n模型與繪圖｜形態研究｜白卡紙、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/mecha-mosaic-folded-card-and-stick-models/01-folded-card-model.webp",
+        "assets/board/mecha-mosaic-folded-card-and-stick-models/02-linear-stick-model.webp",
+        "assets/board/mecha-mosaic-folded-card-and-stick-models/03-recombined-parts-drawing.webp",
+        "assets/board/mecha-mosaic-folded-card-and-stick-models/04-card-model-from-above.webp",
+        "assets/board/mecha-mosaic-folded-card-and-stick-models/05-card-model-front.webp",
+        "assets/board/mecha-mosaic-folded-card-and-stick-models/06-card-planes-close-up.webp",
+        "assets/board/mecha-mosaic-folded-card-and-stick-models/07-stick-model-side.webp",
+        "assets/board/mecha-mosaic-folded-card-and-stick-models/08-stick-model-and-shadow.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/mecha-mosaic-folded-card-and-stick-models/01-folded-card-model.webp"
+          ],
+          "captions": [
+            "The folded card model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "折紙卡模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Giant robots in a science fiction film made the student curious about how machine bodies are put together. The project asks how those parts can become a new space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部科幻電影中的巨型機器人，讓學生好奇機械身體如何組合。這個專題探問，這些零件如何變成新的空間。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew machine parts on a tablet and printed them out. The prints were cut into small pieces and recombined into a new mosaic drawing.",
+          "images": [
+            "assets/board/mecha-mosaic-folded-card-and-stick-models/03-recombined-parts-drawing.webp"
+          ],
+          "captions": [
+            "The recombined parts drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生在平板上繪製機械零件並列印出來。列印稿被剪成小片，再重新拼成一幅新的拼貼繪圖。",
+              "captions": [
+                "重組零件繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The mosaic was read as a floor plan and folded from hard white card. Each folded piece was joined into one plane model.",
+          "images": [
+            "assets/board/mecha-mosaic-folded-card-and-stick-models/04-card-model-from-above.webp",
+            "assets/board/mecha-mosaic-folded-card-and-stick-models/05-card-model-front.webp",
+            "assets/board/mecha-mosaic-folded-card-and-stick-models/06-card-planes-close-up.webp"
+          ],
+          "captions": [
+            "The card model from above.",
+            "The card model front.",
+            "Card planes close up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "拼貼被當成平面圖閱讀，並以硬白卡紙折出。每個折出的構件再連成一個面的模型。",
+              "captions": [
+                "俯看卡紙模型。",
+                "卡紙模型正面。",
+                "卡紙面近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The edges of the card model were traced in wood strips and glued into a line model. The 500 mm square pair shows one idea as planes and as lines.",
+          "images": [
+            "assets/board/mecha-mosaic-folded-card-and-stick-models/02-linear-stick-model.webp",
+            "assets/board/mecha-mosaic-folded-card-and-stick-models/07-stick-model-side.webp",
+            "assets/board/mecha-mosaic-folded-card-and-stick-models/08-stick-model-and-shadow.webp"
+          ],
+          "captions": [
+            "The stick model.",
+            "The stick model side.",
+            "The stick model and its shadow."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "學生沿卡紙模型的邊緣以木條描出，並黏合成線的模型。這對500毫米見方的模型以面與線呈現同一個構想。",
+              "captions": [
+                "木條模型。",
+                "木條模型側面。",
+                "木條模型與陰影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Draw parts of a machine you like.\n2. Cut and recombine the drawing.\n3. Fold the result in card.\n4. Trace its edges in sticks.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 畫出喜歡的機械零件。\n2. 剪開並重組繪圖。\n3. 以卡紙折出結果。\n4. 以木條描出邊緣。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Human Stream",
+      "slug": "human-stream-comfort-zone-plaster-and-wood",
+      "description": "People moving through a busy hall become spheres of comfort, then a layered wood stream cast into white plaster.\n\nModel and renders | Movement study | Wood, plaster, silicone, PVC | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "人流",
+          "description": "在繁忙大廳中移動的人群被轉化為舒適範圍的球體，再成為澆鑄在白色石膏中的層疊木流。\n\n模型與算圖｜動線研究｜木材、石膏、矽膠、PVC｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/human-stream-comfort-zone-plaster-and-wood/01-plaster-and-wood-stream.webp",
+        "assets/board/human-stream-comfort-zone-plaster-and-wood/02-comfort-sphere-diagrams.webp",
+        "assets/board/human-stream-comfort-zone-plaster-and-wood/03-sphere-stream-render.webp",
+        "assets/board/human-stream-comfort-zone-plaster-and-wood/04-layered-render-from-above.webp",
+        "assets/board/human-stream-comfort-zone-plaster-and-wood/05-layered-render-close-up.webp",
+        "assets/board/human-stream-comfort-zone-plaster-and-wood/06-wood-ring-in-plaster.webp",
+        "assets/board/human-stream-comfort-zone-plaster-and-wood/07-wood-and-plaster-low-view.webp",
+        "assets/board/human-stream-comfort-zone-plaster-and-wood/08-wood-pieces-on-plaster.webp",
+        "assets/board/human-stream-comfort-zone-plaster-and-wood/09-plaster-cast-studies.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/human-stream-comfort-zone-plaster-and-wood/01-plaster-and-wood-stream.webp"
+          ],
+          "captions": [
+            "The plaster and wood stream."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "石膏與木流。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In an open shopping hall, people move back and forth with no clear order. The project asks how much personal comfort space each person needs.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在開放的購物大廳中，人們來回移動，沒有明確的秩序。這個專題探問，每個人需要多少個人舒適空間。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student traced people crossing the hall over ten seconds. A larger sphere marks a larger comfort range at that moment.",
+          "images": [
+            "assets/board/human-stream-comfort-zone-plaster-and-wood/02-comfort-sphere-diagrams.webp",
+            "assets/board/human-stream-comfort-zone-plaster-and-wood/03-sphere-stream-render.webp"
+          ],
+          "captions": [
+            "Comfort sphere diagrams.",
+            "The sphere stream render."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生追蹤人們在十秒內穿越大廳的路徑。較大的球體代表當下較大的舒適範圍。",
+              "captions": [
+                "舒適範圍球體圖。",
+                "球體人流算圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The 3D model was sliced into strips of equal thickness and glued into solid wood. Silicone molds were made from the wood parts.",
+          "images": [
+            "assets/board/human-stream-comfort-zone-plaster-and-wood/04-layered-render-from-above.webp",
+            "assets/board/human-stream-comfort-zone-plaster-and-wood/05-layered-render-close-up.webp",
+            "assets/board/human-stream-comfort-zone-plaster-and-wood/09-plaster-cast-studies.webp"
+          ],
+          "captions": [
+            "A layered render from above.",
+            "A layered render close up.",
+            "Plaster cast studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把3D模型切成等厚的條片，再黏成實心木塊。接著以木構件翻製矽膠模具。",
+              "captions": [
+                "俯看層疊算圖。",
+                "層疊算圖近觀。",
+                "石膏澆鑄研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Plaster was poured into PVC boxes around the molds and wood. The 400 mm square model shows people as a frozen stream.",
+          "images": [
+            "assets/board/human-stream-comfort-zone-plaster-and-wood/06-wood-ring-in-plaster.webp",
+            "assets/board/human-stream-comfort-zone-plaster-and-wood/07-wood-and-plaster-low-view.webp",
+            "assets/board/human-stream-comfort-zone-plaster-and-wood/08-wood-pieces-on-plaster.webp"
+          ],
+          "captions": [
+            "A wood ring in plaster.",
+            "Wood and plaster low view.",
+            "Wood pieces on plaster."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "石膏被倒入圍住模具與木塊的PVC盒中。這個400毫米見方的模型把人群呈現為凝結的流。",
+              "captions": [
+                "石膏中的木環。",
+                "低角度看木與石膏。",
+                "石膏上的木構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch a crowd for a few seconds.\n2. Draw each person as a sphere.\n3. Slice the form into layers.\n4. Cast it in a new material.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察人群幾秒鐘。\n2. 把每個人畫成球體。\n3. 把形體切成層片。\n4. 以新材料澆鑄它。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Running Through Gaps",
+      "slug": "running-through-gaps-layered-pvc-walls",
+      "description": "Football running routes become a field of layered PVC walls, cut lower where a player runs faster.\n\nModel and drawings | Movement study | PVC board, glue, spray paint | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "穿越縫隙",
+          "description": "美式足球的跑動路線化為一片層疊PVC牆，球員跑得越快處，牆被切得越低。\n\n模型與繪圖｜動作研究｜PVC板、膠、噴漆｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/running-through-gaps-layered-pvc-walls/01-pvc-wall-field.webp",
+        "assets/board/running-through-gaps-layered-pvc-walls/02-walls-from-above.webp",
+        "assets/board/running-through-gaps-layered-pvc-walls/03-walls-in-light.webp",
+        "assets/board/running-through-gaps-layered-pvc-walls/04-walking-between-walls.webp",
+        "assets/board/running-through-gaps-layered-pvc-walls/05-gap-between-walls.webp",
+        "assets/board/running-through-gaps-layered-pvc-walls/06-movement-combination.webp",
+        "assets/board/running-through-gaps-layered-pvc-walls/07-play-diagrams.webp",
+        "assets/board/running-through-gaps-layered-pvc-walls/08-wall-plan.webp",
+        "assets/board/running-through-gaps-layered-pvc-walls/09-wall-elevations.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/running-through-gaps-layered-pvc-walls/01-pvc-wall-field.webp"
+          ],
+          "captions": [
+            "The PVC wall field."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "PVC牆陣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In American football, players look for gaps to get through. Animals on the run and wind in a forest move in the same way.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在美式足球中，球員不斷尋找可以穿越的縫隙。逃跑的動物與林間的風也以同樣方式移動。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student mapped the running routes and four team moves on paper. The routes were then laid over each other as one flowing drawing.",
+          "images": [
+            "assets/board/running-through-gaps-layered-pvc-walls/07-play-diagrams.webp",
+            "assets/board/running-through-gaps-layered-pvc-walls/06-movement-combination.webp"
+          ],
+          "captions": [
+            "Play diagrams.",
+            "The movement combination."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生在紙上畫出跑動路線與四種團隊陣式。接著把路線疊合成一張流動的繪圖。",
+              "captions": [
+                "戰術圖。",
+                "動作組合圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each route became a wall, trimmed from above and below in a 3D model. The faster the player, the more of the wall top was cut.",
+          "images": [
+            "assets/board/running-through-gaps-layered-pvc-walls/08-wall-plan.webp",
+            "assets/board/running-through-gaps-layered-pvc-walls/09-wall-elevations.webp"
+          ],
+          "captions": [
+            "The wall plan.",
+            "Wall elevations."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每條路線在3D模型中成為一道牆，並從上下修切。球員越快，牆頂被切掉越多。",
+              "captions": [
+                "牆的平面圖。",
+                "牆的立面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Every wall of the 500 mm model is built from hundreds of glued PVC layers. Small figures walk through the gaps like players.",
+          "images": [
+            "assets/board/running-through-gaps-layered-pvc-walls/02-walls-from-above.webp",
+            "assets/board/running-through-gaps-layered-pvc-walls/03-walls-in-light.webp",
+            "assets/board/running-through-gaps-layered-pvc-walls/04-walking-between-walls.webp",
+            "assets/board/running-through-gaps-layered-pvc-walls/05-gap-between-walls.webp"
+          ],
+          "captions": [
+            "Walls from above.",
+            "Walls in light.",
+            "Walking between walls.",
+            "A gap between walls."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個500毫米模型的每道牆都由數百層黏合的PVC板構成。小人像球員一樣穿行於縫隙之間。",
+              "captions": [
+                "俯看牆陣。",
+                "光中的牆。",
+                "穿行牆間。",
+                "牆間的縫隙。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a sport you love.\n2. Draw how players move.\n3. Turn speed into height.\n4. Build the field in layers.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一項熱愛的運動。\n2. 畫出球員如何移動。\n3. 把速度轉為高度。\n4. 以層片搭出場地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tower of Memories",
+      "slug": "tower-of-memories-resin-blocks-and-stairs",
+      "description": "Clear resin blocks hold small pieces of school life, stacked on the ground and hung in the air around a stair.\n\nModel | Memory study | PVC board, resin, wood, thread | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "記憶之塔",
+          "description": "透明樹脂塊封存校園生活的片段，堆疊在地面，也懸掛在階梯周圍的空中。\n\n模型｜記憶研究｜PVC板、樹脂、木材、細線｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tower-of-memories-resin-blocks-and-stairs/01-hanging-memory-blocks.webp",
+        "assets/board/tower-of-memories-resin-blocks-and-stairs/02-stairs-and-blocks.webp",
+        "assets/board/tower-of-memories-resin-blocks-and-stairs/03-resin-blocks-close-up.webp",
+        "assets/board/tower-of-memories-resin-blocks-and-stairs/04-block-stack.webp",
+        "assets/board/tower-of-memories-resin-blocks-and-stairs/05-blocks-on-the-ground.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tower-of-memories-resin-blocks-and-stairs/01-hanging-memory-blocks.webp"
+          ],
+          "captions": [
+            "Hanging memory blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "懸掛的記憶方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student has long liked images laid over one another. The project turns daily life at school into a tower of overlapping memories.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生一直喜歡影像相互疊合的形式。這個專題把校園日常轉化為一座記憶疊合的塔。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Memories were collected from trees, corridors, a bridge and ball games near school. Soil from a sports field and marbles were added as real pieces.",
+          "images": [
+            "assets/board/tower-of-memories-resin-blocks-and-stairs/05-blocks-on-the-ground.webp"
+          ],
+          "captions": [
+            "Blocks on the ground."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從校園附近的樹、走廊、天橋與球賽中收集記憶。運動場的泥土與彈珠也被當作實物加入。",
+              "captions": [
+                "地面上的方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Mixed resin was poured into silicone molds with the pieces set inside. After it cured, the blocks were matched and laid out.",
+          "images": [
+            "assets/board/tower-of-memories-resin-blocks-and-stairs/03-resin-blocks-close-up.webp",
+            "assets/board/tower-of-memories-resin-blocks-and-stairs/04-block-stack.webp"
+          ],
+          "captions": [
+            "Resin blocks close up.",
+            "A block stack."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把調好的樹脂倒入矽膠模具，並把物件置入其中。硬化後，方塊被搭配並排列。",
+              "captions": [
+                "樹脂方塊近觀。",
+                "方塊堆疊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Some blocks hang from a wood frame on thin thread like a sky of memories. A stair leads up through them like a walk through the past.",
+          "images": [
+            "assets/board/tower-of-memories-resin-blocks-and-stairs/02-stairs-and-blocks.webp"
+          ],
+          "captions": [
+            "Stairs and blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "部分方塊以細線懸掛在木框上，像一片記憶的天空。一道階梯穿過其中，如同走過過去。",
+              "captions": [
+                "階梯與方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. List places you remember.\n2. Collect a real piece from each.\n3. Seal them in clear blocks.\n4. Stack them into a path.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 列出記得的地方。\n2. 從每處收集實物。\n3. 把它們封入透明方塊。\n4. 堆疊成一條路徑。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
