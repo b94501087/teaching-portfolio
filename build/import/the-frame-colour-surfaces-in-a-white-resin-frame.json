@@ -1,0 +1,67 @@
+{
+  "project": "The Frame",
+  "dest": "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame",
+  "note": "Portfolio 72cd pages 7-8 cropped to 10 images, WebP q88 (PIL). Not used: artistic research sheet of reference artworks, collage with painted figure.",
+  "files": [
+    {
+      "name": "01-framed-colour-surfaces.webp",
+      "sha256": "6343e6e857dc7976819d9b88cd141f07c2f0c35ae10aac64c52e0c2d05afbefd",
+      "bytes": 53108,
+      "from": "72cd pages 7-8 — the framed colour surfaces"
+    },
+    {
+      "name": "02-colour-and-shadow-sketches.webp",
+      "sha256": "9ffd4b2dfa389d6dd38692614bb438edb4797e2335204749766567626fd93d74",
+      "bytes": 72232,
+      "from": "72cd pages 7-8 — colour and shadow experiments"
+    },
+    {
+      "name": "03-layered-frame-drawing.webp",
+      "sha256": "9ee328984115c75b48634e7e9d0cb91ab97e316f78c49cf52dff173d84a53879",
+      "bytes": 61974,
+      "from": "72cd pages 7-8 — a layered frame drawing"
+    },
+    {
+      "name": "04-lit-frame-close.webp",
+      "sha256": "349b1cfaf68d973f7615fb80a00660a0cb117af110563a4e6f727eeb8359f0e7",
+      "bytes": 14816,
+      "from": "72cd pages 7-8 — the frame under coloured light"
+    },
+    {
+      "name": "05-lighting-sequence.webp",
+      "sha256": "8b8a71cb08e6f091fbbb421f9709626b952e346175d162b7a80156a878b62e72",
+      "bytes": 35846,
+      "from": "72cd pages 7-8 — a lighting sequence"
+    },
+    {
+      "name": "06-frame-angle-a.webp",
+      "sha256": "915dfe4abcf8c575be26c27378948f797c674f23e7c2897fb51712b4dd0049a0",
+      "bytes": 13134,
+      "from": "72cd pages 7-8 — the frame from the front"
+    },
+    {
+      "name": "07-frame-angle-b.webp",
+      "sha256": "73408fa408b5e914415055ed42105b5ec0ce1f0a4cbb9f0013e762402b827eaf",
+      "bytes": 15488,
+      "from": "72cd pages 7-8 — the frame from the side"
+    },
+    {
+      "name": "08-frame-side-view.webp",
+      "sha256": "0dd2df35297e26d892599be4cd890ffcead802889bce4b35a0633201f143d815",
+      "bytes": 50876,
+      "from": "72cd pages 7-8 — a long view of the frame"
+    },
+    {
+      "name": "09-frame-low-view-a.webp",
+      "sha256": "818353053cbd8546a4fc39fbba1335ebdb5ddc100d39550b21feda9653170eba",
+      "bytes": 16244,
+      "from": "72cd pages 7-8 — a low view"
+    },
+    {
+      "name": "10-frame-low-view-b.webp",
+      "sha256": "c1317565dc4648626f795dfbd7ed0ab2b34ef77e38fc6910f8014314acb47df3",
+      "bytes": 16128,
+      "from": "72cd pages 7-8 — another low view"
+    }
+  ]
+}
