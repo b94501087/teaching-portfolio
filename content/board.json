@@ -78644,6 +78644,430 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Court in the Sand",
+      "slug": "court-in-the-sand-traced-motion-slat-tower",
+      "description": "The movements of a basketball game are traced as lines, folded into card and PVC modules, and enlarged into slatted towers rising from a bed of sand.\n\nModel | Movement study | PVC boards, cardboard, tracing paper, sand | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "沙中球場",
+          "description": "籃球比賽中的動作被描成線條，摺入紙板與PVC模組，再放大成從沙床中升起的格柵高塔。\n\n模型｜動作研究｜PVC板、紙板、硫酸紙、沙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/01-slat-tower-dark.webp",
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/02-slat-tower-side.webp",
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/03-traced-motion-panels.webp",
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/04-folded-board-tests.webp",
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/05-modules-in-sand.webp",
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/06-slats-over-sand.webp",
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/07-sand-landscape.webp",
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/08-fanned-slats-close.webp",
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/09-tower-mid-view.webp",
+        "assets/board/court-in-the-sand-traced-motion-slat-tower/10-tower-upper-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/01-slat-tower-dark.webp"
+          ],
+          "captions": [
+            "The slat tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "格柵之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Basketball was the sport the student loved most, and a desert film suggested a grand, empty landscape. The project asks whether the movement of the game could be combined with the scale of the desert.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "籃球是學生最喜愛的運動，而一部沙漠題材的電影帶來了壯闊而空曠的地景。這個專題探問，球賽中的動作能否與沙漠的尺度結合。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Moments of a friend playing were recorded with a camera, and the movements were traced as line segments on tracing paper. The traced figures were printed onto folding panels to study the motion.",
+          "images": [
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/03-traced-motion-panels.webp"
+          ],
+          "captions": [
+            "Traced motion panels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生用相機記錄朋友打球的瞬間，並把動作以線段描繪在硫酸紙上。描出的人形被印在可摺疊的板面上，用來研究動作。",
+              "captions": [
+                "描繪動作的板面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Cardboard was folded and PVC foam board strips were pasted at different angles, creating interesting spaces inside. This prototype was then enlarged into four versions of the module.",
+          "images": [
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/04-folded-board-tests.webp",
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/08-fanned-slats-close.webp",
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/09-tower-mid-view.webp"
+          ],
+          "captions": [
+            "Folded board tests.",
+            "Fanned slats.",
+            "The middle of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "紙板被摺起，PVC發泡板條以不同角度黏貼，在內部創造出有趣的空間。接著這個原型被放大成四個版本的模組。",
+              "captions": [
+                "摺板試作。",
+                "扇形展開的板條。",
+                "塔的中段。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Sand was added around the enlarged modules to complete the model. The slatted forms look like a spaceship born from the movement of the game and set into the desert.",
+          "images": [
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/02-slat-tower-side.webp",
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/05-modules-in-sand.webp",
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/06-slats-over-sand.webp",
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/07-sand-landscape.webp",
+            "assets/board/court-in-the-sand-traced-motion-slat-tower/10-tower-upper-view.webp"
+          ],
+          "captions": [
+            "The tower from the side.",
+            "Modules in sand.",
+            "Slats over sand.",
+            "The sand landscape.",
+            "The upper tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在放大的模組周圍加入沙子，完成了模型。格柵狀的形體看來像一艘由球賽動作誕生、嵌入沙漠的太空船。",
+              "captions": [
+                "側看塔。",
+                "沙中的模組。",
+                "沙上的板條。",
+                "沙的地景。",
+                "塔的上段。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Motion Laid in Sand - Tracing a Game into Landform",
+          "body": "Sport is architecture in motion, a pattern of bodies that exists only for a moment before it vanishes. This project set out to capture that pattern and give it the permanence of landform. Moved by the vast, empty dunes of a desert film, the student imagined a court dissolving into sand, and began by photographing a friend in play. The figures were traced as line segments on translucent paper and printed onto folding panels, so that the movement could be read in sequence rather than as a single pose. Folding card and gluing foam-board strips at shifting angles turned those lines into interior spaces, compressed and layered like sedimentary rock. The guidance encouraged scaling up only once the prototype felt alive, and four enlarged modules followed. Set into a bed of sand and lit from one side, the slatted towers cast long shadows and resemble a vessel landed in the dunes. The project shows how a fleeting gesture, carefully notated, can be built into something monumental and strange.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "沙上的動勢-把球賽描成地形",
+              "body": "運動是動態的建築，是身體瞬間形成又隨即消失的圖案。這個專題試圖捕捉這種圖案，並賦予它地形般的恆久。受到一部沙漠電影中遼闊空曠沙丘的觸動，學生想像一座溶入沙中的球場，並從拍攝朋友打球開始。人物被描成半透明紙上的線段，再印到可摺疊的板面上，使動作能被依序閱讀，而非凝固為單一姿勢。摺起紙板，並以變換的角度黏貼發泡板條，這些線條轉化為內部空間，像沉積岩般壓縮而層疊。指導過程鼓勵學生在原型顯得有生命力之後才放大尺度，隨後完成四個放大的模組。置入沙床並從一側打光，格柵狀的高塔投下長影，宛如一艘降落在沙丘中的船。這個專題說明，一個轉瞬即逝的動作，經過仔細記錄，也能被建造成宏偉而奇異的事物。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Four Rooms of Farewell",
+      "slug": "four-rooms-of-farewell-miniature-set-model",
+      "description": "A round miniature set is cut into four quarters, a lakeshore, a study room, a village of small houses and a quiet hall, each built with clay, wood and fallen leaves.\n\nModel | Set design study | Wooden boards, putty, acrylic, sandpaper, bamboo strips, oil paint, coloured pencils, watercolour clay, dried leaves, PVC boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "告別的四個房間",
+          "description": "一座圓形迷你場景被切成四個象限：湖岸、書房、小房子組成的村落與靜謐的大廳，各以黏土、木材與落葉製作。\n\n模型｜場景設計研究｜木板、補土、壓克力、砂紙、竹條、油彩、色鉛筆、水彩黏土、乾葉、PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/four-rooms-of-farewell-miniature-set-model/01-four-part-set-from-above.webp",
+        "assets/board/four-rooms-of-farewell-miniature-set-model/02-mountain-lake-part.webp",
+        "assets/board/four-rooms-of-farewell-miniature-set-model/03-study-room-part.webp",
+        "assets/board/four-rooms-of-farewell-miniature-set-model/04-houses-and-leaves-part.webp",
+        "assets/board/four-rooms-of-farewell-miniature-set-model/05-lakeshore-close.webp",
+        "assets/board/four-rooms-of-farewell-miniature-set-model/06-glowing-attic.webp",
+        "assets/board/four-rooms-of-farewell-miniature-set-model/07-dark-hall-figures.webp",
+        "assets/board/four-rooms-of-farewell-miniature-set-model/08-village-corner.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/four-rooms-of-farewell-miniature-set-model/01-four-part-set-from-above.webp"
+          ],
+          "captions": [
+            "The four-part set from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從上方看四分場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A quiet film about a man facing the end of life made a deep connection with the student. Drawing on an interest in stage design, the project asks how its moods could be held in one miniature set.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部關於男子面對生命終點的安靜電影，與學生產生了深刻的共鳴。基於對舞台設計的興趣，這個專題探問，如何把影片中的情緒收納在一座迷你場景中。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The round base was divided into four parts, each standing for one key setting. Materials were chosen for each mood, from rough putty rock to warm wooden floors.",
+          "images": [
+            "assets/board/four-rooms-of-farewell-miniature-set-model/02-mountain-lake-part.webp",
+            "assets/board/four-rooms-of-farewell-miniature-set-model/05-lakeshore-close.webp"
+          ],
+          "captions": [
+            "The lakeshore quarter.",
+            "The lakeshore up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "圓形底座被分成四個部分，各自代表一個關鍵場景。每種情緒都選用相應的材料，從粗糙的補土岩石到溫暖的木地板。",
+              "captions": [
+                "湖岸象限。",
+                "近看湖岸。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The study room was built with shelves, a desk and a glowing window, and the village corner with small houses and scattered red leaves. A dark hall with two reclining chairs was given a mirror-like floor.",
+          "images": [
+            "assets/board/four-rooms-of-farewell-miniature-set-model/03-study-room-part.webp",
+            "assets/board/four-rooms-of-farewell-miniature-set-model/06-glowing-attic.webp",
+            "assets/board/four-rooms-of-farewell-miniature-set-model/07-dark-hall-figures.webp"
+          ],
+          "captions": [
+            "The study room quarter.",
+            "The glowing window.",
+            "The dark hall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "書房以書架、書桌與發光的窗戶構成，村落一角則有小房子與散落的紅葉。一座幽暗的大廳擺放兩張躺椅，地面如鏡面般反光。",
+              "captions": [
+                "書房象限。",
+                "發光的窗戶。",
+                "幽暗的大廳。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Put together, the four quarters form one circle that can be read like a sequence of scenes. Each part works as a small stage with its own light and atmosphere.",
+          "images": [
+            "assets/board/four-rooms-of-farewell-miniature-set-model/04-houses-and-leaves-part.webp",
+            "assets/board/four-rooms-of-farewell-miniature-set-model/08-village-corner.webp"
+          ],
+          "captions": [
+            "The village quarter.",
+            "A village corner."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "組合起來，四個象限構成一個圓，可以像一連串場景般被閱讀。每個部分都是一座小舞台，擁有自己的光線與氛圍。",
+              "captions": [
+                "村落象限。",
+                "村落一角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "A Circle of Partings - Four Quarters of One Goodbye",
+          "body": "Saying goodbye is rarely a single moment, more often a slow passage through places that once mattered, and this miniature set treats farewell as a journey across four rooms. Inspired by a quiet film about a man facing the end of life, and drawing on experience behind the camera, the student chose to design a set rather than a building. The round base was divided like a clock into four quarters, each assigned a mood and a palette of materials. Rough putty and oil paint shape a dark lakeshore, polished wood and a glowing window warm a book-lined study, small houses sit among scattered red leaves, and a dim hall holds two reclining chairs above a reflective floor. The guidance stressed lighting as much as modelling, so each quarter was photographed as its own scene. Seen from above, the circle reads like a dial of memory, turning from wildness to domestic calm to stillness. The project reveals how set design can carry emotion through material, scale and light alone.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "離別之圓-一場告別的四個象限",
+              "body": "告別很少只是一個瞬間，更常是緩慢穿越那些曾經重要的地方，而這座迷你場景把告別視為穿越四個房間的旅程。受一部關於男子面對生命終點的安靜電影啟發，並借鑑在鏡頭後的經驗，學生選擇設計一座場景，而非一棟建築。圓形底座像時鐘般被分成四個象限，各自被賦予一種情緒與一組材料。粗糙的補土與油彩塑造出幽暗的湖岸，打磨過的木材與發光的窗戶溫暖了滿是書架的書房，小房子坐落在散落的紅葉之間，昏暗的大廳則在反光地面上擺放兩張躺椅。指導過程對光線的重視不亞於模型製作，因此每個象限都被當作獨立的場景拍攝。從上方看，這個圓讀來像一面記憶的錶盤，從荒野轉向居家的寧靜，再轉向靜止。這個專題揭示，場景設計僅憑材料、尺度與光線，就能承載情感。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Six Scenes of a Cosmic Voyage",
+      "slug": "six-scenes-of-a-cosmic-voyage-mixed-material-model",
+      "description": "Six small models of clay, mirror paper, PVC, paper strips and acrylic sticks are joined into one landscape that reads as a journey through outer space.\n\nModel | Narrative space study | PVC boards, acrylic sticks and slices, paper, mirror paper, wooden sticks, stone clay | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "宇宙航程的六個場景",
+          "description": "六件以黏土、鏡面紙、PVC、紙條與壓克力棒製成的小模型，接合成一片地景，讀來像一段穿越外太空的旅程。\n\n模型｜敘事空間研究｜PVC板、壓克力棒與薄片、紙、鏡面紙、木籤、石塑黏土｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/01-six-scene-assembly.webp",
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/02-assembled-scenes-model.webp",
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/03-clay-terrain-model.webp",
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/04-acrylic-stick-grid.webp",
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/05-stick-ring-tunnel.webp",
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/06-mirror-spiral-tower.webp",
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/07-mirror-slice-cluster.webp",
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/08-scenes-composite.webp",
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/09-station-tower-view.webp",
+        "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/10-acrylic-stick-rooms.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/01-six-scene-assembly.webp"
+          ],
+          "captions": [
+            "The six-scene assembly."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "六場景的組合。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A favourite science-fiction film left the student struck by the vast scenery of planets and outer space. The project asks how such a journey could be written as a brief spatial script.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部喜愛的科幻電影讓學生對行星與外太空的壯闊景象深受震撼。這個專題探問，如何把這樣的旅程寫成一份簡短的空間劇本。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Six key scenes were chosen and abstracted into six small models. An icy world was moulded in stone clay, and a tunnel of wooden sticks pulls everything toward the next scene.",
+          "images": [
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/03-clay-terrain-model.webp",
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/05-stick-ring-tunnel.webp"
+          ],
+          "captions": [
+            "The clay terrain.",
+            "The stick tunnel."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生選出六個關鍵場景，並抽象化為六件小模型。冰封的世界以石塑黏土塑造，木籤構成的通道則把一切拉向下一個場景。",
+              "captions": [
+                "黏土地形。",
+                "木籤通道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A cluster of mirror paper slices spirals around a tower like an uncontrollable vortex, and PVC geometry forms a station ringed by acrylic dust. Bluish paper strips are woven into waves, while dense acrylic sticks build rooms inside a final void.",
+          "images": [
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/06-mirror-spiral-tower.webp",
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/07-mirror-slice-cluster.webp",
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/04-acrylic-stick-grid.webp",
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/10-acrylic-stick-rooms.webp"
+          ],
+          "captions": [
+            "The mirror spiral tower.",
+            "Mirror slices.",
+            "The acrylic stick grid.",
+            "Rooms of acrylic sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "鏡面紙片簇群如失控的漩渦般繞著高塔盤旋，PVC幾何體則構成一座被壓克力塵埃環繞的太空站。淡藍紙條交織成浪，密集的壓克力棒則在最後的虛空中建出房間。",
+              "captions": [
+                "鏡面螺旋塔。",
+                "鏡面紙片。",
+                "壓克力棒格網。",
+                "壓克力棒構成的房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The six models are joined into one landscape, each scene linked to the next. Seen together, they read as a journey from icy ground to the heart of the void.",
+          "images": [
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/02-assembled-scenes-model.webp",
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/08-scenes-composite.webp",
+            "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/09-station-tower-view.webp"
+          ],
+          "captions": [
+            "The assembled scenes.",
+            "The scenes linked together.",
+            "The station tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "六件模型連接成一片地景，每個場景都與下一個相連。合在一起看，它們讀來像一段從冰封大地到虛空核心的旅程。",
+              "captions": [
+                "組合後的場景。",
+                "串連的場景。",
+                "太空站之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Scripting the Void - Six Scenes in Space",
+          "body": "Science fiction often persuades through scale, and this project began with the student’s awe at landscapes too vast to inhabit. Rather than reproducing a story, the student was guided to write a spatial script, choosing six moments and asking what material could carry the feeling of each. Stone clay, pressed and smoothed by hand, became a frozen terrain of soft ridges. Mirror paper slices spiral around a slender tower, their changing density suggesting a force that cannot be controlled. Geometric PVC planes assemble into a station adrift in a cloud of clear acrylic fragments, while bluish paper strips, twisted and rolled, rise into a single towering wave. A tube of wooden sticks, every tip pointing forward, works as a hinge that drags the eye into the next scene, and the journey ends in a lattice of acrylic rods so dense that rooms seem to condense out of empty space. Joined on one base, the models become a landscape to be travelled. The work demonstrates how abstraction can hold narrative without illustrating it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "書寫虛空-太空中的六個場景",
+              "body": "科幻作品常以尺度說服人，這個專題始於學生面對大到無法居住的地景時所感到的敬畏。學生沒有重述故事，而是被引導撰寫一份空間劇本，選出六個瞬間，並追問何種材料能承載每一刻的感受。以手按壓、抹平的石塑黏土，成為一片起伏柔和的冰封地形。鏡面紙片繞著細長的塔盤旋，疏密的變化暗示一股無法控制的力量。幾何的PVC板片組成一座漂浮於透明壓克力碎片雲中的太空站，淡藍紙條則經扭轉與捲曲，升起成一道高聳的巨浪。一條木籤構成的管道，每個尖端都指向前方，像關節般把視線拉進下一個場景，旅程最終結束於一片極為密集的壓克力棒格網，房間彷彿從虛空中凝結而出。六件模型被接合在同一底座上，成為一片可以穿行的地景。作品說明，抽象能承載敘事，而無須圖解敘事。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
