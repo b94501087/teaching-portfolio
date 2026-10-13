@@ -1,0 +1,61 @@
+{
+  "project": "Cat Shelter",
+  "dest": "assets/board/cat-shelter-resin-light-tree-with-pupil-roof",
+  "note": "Portfolio 47e5 pages 8-9 cropped to nine images, WebP q88 (PIL). Not used: title and text, process photos of the student and photos showing hands.",
+  "files": [
+    {
+      "name": "01-glowing-tree.webp",
+      "sha256": "c48afc58cf8c77c592b7bcfa1d106dc535622e40632971fc41ec073534ede74c",
+      "bytes": 74440,
+      "from": "47e5 page 9 — glowing tree"
+    },
+    {
+      "name": "02-pupil-study.webp",
+      "sha256": "e9dd946d630927c5437556d528a123b2d153ea8008f06709cab45b63383c72fa",
+      "bytes": 7900,
+      "from": "47e5 page 8 — pupil study"
+    },
+    {
+      "name": "03-digital-model.webp",
+      "sha256": "7f8f7f4e73994834ca19de17ab0a4310bd944f55917228093a2234eaef40ced1",
+      "bytes": 13932,
+      "from": "47e5 page 8 — digital model"
+    },
+    {
+      "name": "04-eye-device.webp",
+      "sha256": "44da9c967d1b7ef3261b4c7ad69366778b3b559bee65b77cf0132f70b9464f9d",
+      "bytes": 14606,
+      "from": "47e5 page 8 — eye device"
+    },
+    {
+      "name": "05-resin-shell.webp",
+      "sha256": "5aa1d9185c2f95d91aeb279c5e31be6523764504bd807cb99f8e384438d8aede",
+      "bytes": 12496,
+      "from": "47e5 page 8 — resin shell"
+    },
+    {
+      "name": "06-water-roof.webp",
+      "sha256": "6266cb662d102356f9d96e8f09b3d3c098771dec3f6ee653219e67a416c43e67",
+      "bytes": 14664,
+      "from": "47e5 page 8 — water roof"
+    },
+    {
+      "name": "07-branch-detail.webp",
+      "sha256": "7a7afd99a39fdc126af5076d8d5aa1df09cce9503c31d55b9697acb662daf2f2",
+      "bytes": 47834,
+      "from": "47e5 page 9 — branch detail"
+    },
+    {
+      "name": "08-green-light.webp",
+      "sha256": "24053a4886ec28c815ded0fbdab615f19e8bb79e4359aa2627afd02cf7e6aff5",
+      "bytes": 21042,
+      "from": "47e5 page 9 — green light"
+    },
+    {
+      "name": "09-light-colours.webp",
+      "sha256": "2a475fcded6eadb87f1e8e29f4bf87e71bf8ff341795e734130497ce54f63991",
+      "bytes": 19988,
+      "from": "47e5 page 9 — light colours"
+    }
+  ]
+}
