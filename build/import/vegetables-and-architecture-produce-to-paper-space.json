@@ -1,0 +1,61 @@
+{
+  "project": "Vegetables and Architecture",
+  "dest": "assets/board/vegetables-and-architecture-produce-to-paper-space",
+  "note": "Portfolio b4db pages 5-6 cropped to 9 images, WebP q88 (PIL). Not used: process photo with hands.",
+  "files": [
+    {
+      "name": "01-vegetable-still-life-model.webp",
+      "sha256": "abf117c4c4bc5d07eab5e271cde736cfeaa8722297c880d5a97b8042f3b4e515",
+      "bytes": 191186,
+      "from": "b4db pages 5-6 — a vegetable still life"
+    },
+    {
+      "name": "02-vegetable-collage.webp",
+      "sha256": "cec45ca8e08b6156f425989cca3776fed3c5aad00e692a0035f0c7c3415be995",
+      "bytes": 220970,
+      "from": "b4db pages 5-6 — a vegetable collage"
+    },
+    {
+      "name": "03-yellow-shape-painting.webp",
+      "sha256": "6d64945e3bf255cf0723709a8eb2ad090d501ae31e71ee39c405d85ddf8e5cb1",
+      "bytes": 77526,
+      "from": "b4db pages 5-6 — a yellow shape painting"
+    },
+    {
+      "name": "04-blue-shape-painting.webp",
+      "sha256": "0b7996d6c5ae6f798ee2361eab28ad16a183fbbecb1039b4ac936a4761bafe93",
+      "bytes": 77800,
+      "from": "b4db pages 5-6 — a blue shape painting"
+    },
+    {
+      "name": "05-vegetable-stack-painted.webp",
+      "sha256": "ce8be58e00791f6c898786abcfb3e70818c24b4dc632ed048c174650399f075d",
+      "bytes": 248020,
+      "from": "b4db pages 5-6 — a painted vegetable stack"
+    },
+    {
+      "name": "06-standing-vegetable-stack.webp",
+      "sha256": "75c2ec66054730c7805c7c74954e8406f474af4b12105a4522a0265cab7b3560",
+      "bytes": 43734,
+      "from": "b4db pages 5-6 — a standing stack"
+    },
+    {
+      "name": "07-paper-and-stick-model.webp",
+      "sha256": "db1e6932b14fe6b13c19c26766a601435c24cc19a16b0aa3b419645995edccd5",
+      "bytes": 91072,
+      "from": "b4db pages 5-6 — the paper and stick model"
+    },
+    {
+      "name": "08-paper-planes-close-up.webp",
+      "sha256": "db0f6ac870b3c003453a67b28b562c7b32fbcac0e0ac0d072cc8af2b3184abb0",
+      "bytes": 25694,
+      "from": "b4db pages 5-6 — paper planes close up"
+    },
+    {
+      "name": "09-curved-paper-walls.webp",
+      "sha256": "0c99edc234fbc68c2c9ffcd434a1ba6db600b885a9c0486e9ee20347bef9fd67",
+      "bytes": 102694,
+      "from": "b4db pages 5-6 — curved paper walls"
+    }
+  ]
+}
