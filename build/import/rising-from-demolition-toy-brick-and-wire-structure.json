@@ -1,0 +1,43 @@
+{
+  "project": "Rising from Demolition",
+  "dest": "assets/board/rising-from-demolition-toy-brick-and-wire-structure",
+  "note": "Portfolio eb94 pages 7-8 cropped to 6 images, WebP q88 (PIL). Not used: toy brand name, city name, photos of demolition sites and construction cranes, robot photos with a hand, process photos with hands, weak cropped shadow (retitled).",
+  "files": [
+    {
+      "name": "01-tangled-rising-structure.webp",
+      "sha256": "2227ae9fff589d141756cf60ed791a1d74be7685e8368a581f2fd046ebefcd5c",
+      "bytes": 209936,
+      "from": "eb94 pages 7-8 — the tangled rising structure"
+    },
+    {
+      "name": "02-structure-from-the-side.webp",
+      "sha256": "0e3662f39b6a6cd632f89643b5abc13e3f333e632a7eb8df7e700d1d3eb8dec2",
+      "bytes": 78180,
+      "from": "eb94 pages 7-8 — the structure from the side"
+    },
+    {
+      "name": "03-gears-and-red-tracks.webp",
+      "sha256": "5c57c8a5758f3d970c29abbffa759be022e8d289fe0b2fdd489f238cc6bc0b2c",
+      "bytes": 101980,
+      "from": "eb94 pages 7-8 — gears and red tracks"
+    },
+    {
+      "name": "04-crane-arm-detail.webp",
+      "sha256": "e43b6722b47828c720bb11f7266f5dfe2e737b36f5efb665c5be90c41b133bc3",
+      "bytes": 45814,
+      "from": "eb94 pages 7-8 — a crane-like arm"
+    },
+    {
+      "name": "05-tracks-wrapping-the-frame.webp",
+      "sha256": "095284a8cb8461772054896d98b99841e5631ffb7d07c7a42b65777ff5b9fe63",
+      "bytes": 46740,
+      "from": "eb94 pages 7-8 — tracks wrapping the frame"
+    },
+    {
+      "name": "06-stacked-beams-close.webp",
+      "sha256": "dae2898425fa49722977c8b18fd062b8680f92d1e2bf3691856d452952dd3848",
+      "bytes": 68420,
+      "from": "eb94 pages 7-8 — stacked beams up close"
+    }
+  ]
+}
