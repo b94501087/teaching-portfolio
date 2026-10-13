@@ -1,0 +1,67 @@
+{
+  "project": "Four Stages of Salvation",
+  "dest": "assets/board/four-stages-of-salvation-clay-wire-and-yarn-figure",
+  "note": "Portfolio 6f23 pages 8-9 cropped to 10 images, WebP q88 (PIL). Not used: strip of film stills with actors (film and character names dropped; retitled).",
+  "files": [
+    {
+      "name": "01-figure-of-salvation.webp",
+      "sha256": "e51bac10435c3c7a010ef3b6ff5e1a2132ed0562a1ff8e464f1dff52821d77e3",
+      "bytes": 274520,
+      "from": "6f23 pages 8-9 — the figure of salvation"
+    },
+    {
+      "name": "02-trap-net.webp",
+      "sha256": "27f342782eecbadafb1cc579b8cffa1027ae06b7660a4a6ef1a92d154825e25c",
+      "bytes": 76806,
+      "from": "6f23 pages 8-9 — the net of the trap"
+    },
+    {
+      "name": "03-pyramids-break-through.webp",
+      "sha256": "351fafcd59de38d11fbf5280065bc7879e43120a11a4c0cc117548c01cb281c1",
+      "bytes": 90934,
+      "from": "6f23 pages 8-9 — pyramids breaking through"
+    },
+    {
+      "name": "04-rebellion-spheres.webp",
+      "sha256": "78d3c00ef9753bccfe66723e3d95204f4c09c7e43e5ff92afcf639792937520a",
+      "bytes": 62806,
+      "from": "6f23 pages 8-9 — spheres of rebellion"
+    },
+    {
+      "name": "05-final-loop.webp",
+      "sha256": "e031211e2e9877f9456c7a9e44cab8d3b4b9c01971659d3db85049299dc4ba8a",
+      "bytes": 82582,
+      "from": "6f23 pages 8-9 — the loop of salvation"
+    },
+    {
+      "name": "06-design-sketch.webp",
+      "sha256": "69f5c088748c25d25dc8ecb76e32496366d1a22dc1950deb3eedca2d96d786c3",
+      "bytes": 108132,
+      "from": "6f23 pages 8-9 — the design sketch"
+    },
+    {
+      "name": "07-clay-pedestal.webp",
+      "sha256": "23a02ad69c454064e99ec2d9c7ce3cef36b4eeaff62a98033ba45d7d1aa49aa8",
+      "bytes": 37206,
+      "from": "6f23 pages 8-9 — the clay pedestal"
+    },
+    {
+      "name": "08-wire-frame-rising.webp",
+      "sha256": "057135034a6d929a7643f60b162831dc2a2c6e0e721cc15d080c49deecb0fdee",
+      "bytes": 87408,
+      "from": "6f23 pages 8-9 — the wire frame rising"
+    },
+    {
+      "name": "09-pedestal-close-up.webp",
+      "sha256": "3cfdb2bd242fcf3d865256140088fe104b37f9fd57082ada2d87a820c4420686",
+      "bytes": 62762,
+      "from": "6f23 pages 8-9 — a close-up of the pedestal"
+    },
+    {
+      "name": "10-yarn-and-pipe-cleaners.webp",
+      "sha256": "be4752477ecc48930be4f3a9e6eaa2cc9808309b0a6c927bf93d94d9fe4b6f5e",
+      "bytes": 69602,
+      "from": "6f23 pages 8-9 — yarn and pipe cleaners"
+    }
+  ]
+}
