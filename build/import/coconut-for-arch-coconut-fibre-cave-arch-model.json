@@ -1,0 +1,67 @@
+{
+  "project": "Coconut for Arch",
+  "dest": "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model",
+  "note": "Portfolio 47e5 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, a process photo of the student, the name of a precedent architect.",
+  "files": [
+    {
+      "name": "01-final-arch.webp",
+      "sha256": "d5d3353f62415728c6b9f9b1c3392fe551f2e5360f25fbc708cebc31e851383a",
+      "bytes": 73534,
+      "from": "47e5 page 6 — final arch"
+    },
+    {
+      "name": "02-coconut-tree.webp",
+      "sha256": "50645a6fd23297be9cc1ccbfc1588f939403dbb444bec36fea5e6fe52b408a54",
+      "bytes": 46298,
+      "from": "47e5 page 6 — coconut tree"
+    },
+    {
+      "name": "03-raw-fibre.webp",
+      "sha256": "22afb960fbdd08ec41d49726ceb66a1be2d2375724709bbc29af60fb54872608",
+      "bytes": 37998,
+      "from": "47e5 page 6 — raw fibre"
+    },
+    {
+      "name": "04-material-tests.webp",
+      "sha256": "286a9f9da3b42836ceecbfe398273c68459f69b51cfa29d3da697f24a6706686",
+      "bytes": 12882,
+      "from": "47e5 page 6 — material tests"
+    },
+    {
+      "name": "05-foam-mould.webp",
+      "sha256": "5e8c7fc38d05579108956c68a85f312bf40b00d8b9f8b8c889d27a1e1b86641d",
+      "bytes": 76424,
+      "from": "47e5 page 6 — foam mould"
+    },
+    {
+      "name": "06-fibre-sheets.webp",
+      "sha256": "585931749528cce0f765c0fb51bdbb7403d9eb19b4a6861b07b0beaea7746e52",
+      "bytes": 29582,
+      "from": "47e5 page 6 — fibre sheets"
+    },
+    {
+      "name": "07-arch-legs.webp",
+      "sha256": "fe124d13631bedfa80f79476b143dc4b90162e49e9d23a9e32e5565c7ed85aec",
+      "bytes": 72676,
+      "from": "47e5 page 6 — arch legs"
+    },
+    {
+      "name": "08-close-up.webp",
+      "sha256": "6e5e4a585b78be20e3d884f665cbc639ea2bd07b8f4ee4fd14669ea6eca8cced",
+      "bytes": 323624,
+      "from": "47e5 page 7 — close up"
+    },
+    {
+      "name": "09-cave-view.webp",
+      "sha256": "482b0f0f565dd8b0701b5758790dd4bb3e1cd4cbd6f7264ad0d372b0d2ff9457",
+      "bytes": 89820,
+      "from": "47e5 page 7 — cave view"
+    },
+    {
+      "name": "10-inner-space.webp",
+      "sha256": "1afacf650b5abd6c1de972fa6fefd51f4aa4ac6d303cb2eb03b043fd438df896",
+      "bytes": 123370,
+      "from": "47e5 page 7 — inner space"
+    }
+  ]
+}
