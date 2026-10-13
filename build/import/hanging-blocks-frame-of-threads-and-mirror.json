@@ -1,0 +1,55 @@
+{
+  "project": "Hanging Blocks",
+  "dest": "assets/board/hanging-blocks-frame-of-threads-and-mirror",
+  "note": "Portfolio 56b3 pages 5-7 cropped to 8 images, WebP q88 (PIL). Not used: text on national issues, sketch with falling figures and a headstone.",
+  "files": [
+    {
+      "name": "01-hanging-blocks-in-a-frame.webp",
+      "sha256": "9fd37720057e69d2c81d2665422561fd1c115e5ae4aba8d7099fab924f12afdd",
+      "bytes": 115218,
+      "from": "56b3 pages 5-7 — the hanging blocks"
+    },
+    {
+      "name": "02-blocks-and-threads-close-up.webp",
+      "sha256": "569849266efe9b628fdb626d87671c2058c572670a60fc383077b8167e6590b3",
+      "bytes": 343818,
+      "from": "56b3 pages 5-7 — blocks and threads close up"
+    },
+    {
+      "name": "03-frame-from-the-left.webp",
+      "sha256": "3d0bd9d66610272ae0c7ae6ad54dab5febeb8248a88aa5d3b055419ff54bfba8",
+      "bytes": 48210,
+      "from": "56b3 pages 5-7 — the frame from the left"
+    },
+    {
+      "name": "04-frame-from-the-right.webp",
+      "sha256": "3a047b1cacf1d9eac2b42e7d3c86a09a6aa4e2a8166bc1199409dd23fb6fcc48",
+      "bytes": 44534,
+      "from": "56b3 pages 5-7 — the frame from the right"
+    },
+    {
+      "name": "05-blocks-over-broken-mirror.webp",
+      "sha256": "1f319ff984ceb299f8474a2e691bc172a3d0e6d3868f48cad05c55699e31a841",
+      "bytes": 102060,
+      "from": "56b3 pages 5-7 — blocks over the broken mirror"
+    },
+    {
+      "name": "06-net-and-falling-blocks-sketch.webp",
+      "sha256": "d3590cb510ec8ebd8e8d9a3c1bec121dac906f5495779d413229e0e379bdc8a1",
+      "bytes": 68274,
+      "from": "56b3 pages 5-7 — a net and falling blocks"
+    },
+    {
+      "name": "07-floating-cubes-drawing.webp",
+      "sha256": "9e43403184ffa3912c1484781a483ca31896d9d3ae4f205fae872f52f40eccb6",
+      "bytes": 211116,
+      "from": "56b3 pages 5-7 — floating cubes"
+    },
+    {
+      "name": "08-faces-drawing.webp",
+      "sha256": "45625ad30fd26c97ce39f09406f0298e5d7472b340a8c6891a42062fd3e50be5",
+      "bytes": 105520,
+      "from": "56b3 pages 5-7 — a drawing of many faces"
+    }
+  ]
+}
