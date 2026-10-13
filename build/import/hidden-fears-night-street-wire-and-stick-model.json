@@ -1,0 +1,49 @@
+{
+  "project": "Hidden Fears of a Night Street",
+  "dest": "assets/board/hidden-fears-night-street-wire-and-stick-model",
+  "note": "Portfolio cfd7 pages 10-11 cropped to seven images, WebP q88 (PIL). Not used: title and text, the city name, a street map, street photos and overlays, the mind map naming the city, process photos with hands.",
+  "files": [
+    {
+      "name": "01-final-models.webp",
+      "sha256": "8688453ead8c8483c05271eb64f99cfc29fe1ed9ec12d16c4ee9924f813ca14f",
+      "bytes": 72966,
+      "from": "cfd7 page 11 — final models"
+    },
+    {
+      "name": "02-factor-maps.webp",
+      "sha256": "de105855ef0862e7a05641f6212913c251969cf704e6b06dae89f426ee28d58b",
+      "bytes": 36192,
+      "from": "cfd7 page 10 — factor maps"
+    },
+    {
+      "name": "03-wire-bundles.webp",
+      "sha256": "a4d2c7d6f2cdffcefe1f7659f70374481f5e29866ca09c051d6d6a7f962ab5f4",
+      "bytes": 11068,
+      "from": "cfd7 page 11 — wire bundles"
+    },
+    {
+      "name": "04-thirteen-structures.webp",
+      "sha256": "3d0874dda6b2c3e1f273389ba13f3d8aa3bc1823862d598e093c3ebb069bc6e2",
+      "bytes": 42844,
+      "from": "cfd7 page 11 — thirteen structures"
+    },
+    {
+      "name": "05-wire-frame.webp",
+      "sha256": "2286098f26cf3cfa135e5827b3a4c13d3764bdced596339b879781a5b93af978",
+      "bytes": 29226,
+      "from": "cfd7 page 11 — wire frame"
+    },
+    {
+      "name": "06-close-up.webp",
+      "sha256": "490dbd80c6b2d0ff9cb43a44d93d6a8e11ba6a8a32302175d1c6451b56ba1c95",
+      "bytes": 56304,
+      "from": "cfd7 page 11 — close up"
+    },
+    {
+      "name": "07-chalk-sketch.webp",
+      "sha256": "d7421425d0a697d900e69c33b73cc88cf830538794d3efb40fddc06ea200decb",
+      "bytes": 31204,
+      "from": "cfd7 page 11 — chalk sketch"
+    }
+  ]
+}
