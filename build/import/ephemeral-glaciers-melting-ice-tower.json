@@ -1,0 +1,55 @@
+{
+  "project": "Ephemeral Glaciers",
+  "dest": "assets/board/ephemeral-glaciers-melting-ice-tower",
+  "note": "Portfolio b4db pages 6-7 cropped to 8 images, WebP q88 (PIL). Not used: diagram labels, photographic sections.",
+  "files": [
+    {
+      "name": "01-layered-ice-tower-model.webp",
+      "sha256": "4a4e22352664c47ee052e71e59c2ad75353d262ac4913557238e91088b330719",
+      "bytes": 232742,
+      "from": "b4db pages 6-7 — the layered ice tower"
+    },
+    {
+      "name": "02-tower-from-above.webp",
+      "sha256": "b65855d82d097a273d06d7963abce36e0291e8daf82df6610edc110dc43f9cff",
+      "bytes": 51810,
+      "from": "b4db pages 6-7 — the tower from above"
+    },
+    {
+      "name": "03-tower-side-view.webp",
+      "sha256": "4f7d8308efec04f29d32ac9f31c8f15414a6ad78f0427cf9763685e6489e49d7",
+      "bytes": 61230,
+      "from": "b4db pages 6-7 — the tower from the side"
+    },
+    {
+      "name": "04-ice-melt-box.webp",
+      "sha256": "827658ea31a79d5a24bf96f6072747c8940dd73213018b81f55bc5368815f747",
+      "bytes": 15906,
+      "from": "b4db pages 6-7 — a large block melting"
+    },
+    {
+      "name": "05-melting-ice-in-glass.webp",
+      "sha256": "6f09314a6184583903b045c783d5c8622f81e65bd47dfe74b2846821b45fafea",
+      "bytes": 23892,
+      "from": "b4db pages 6-7 — broken ice in glass"
+    },
+    {
+      "name": "06-sea-ice-types-drawing.webp",
+      "sha256": "6494ae19f132f7de320ecdece6d714a8b030595b9c2d723c96cede85816fae36",
+      "bytes": 189252,
+      "from": "b4db pages 6-7 — types of sea ice"
+    },
+    {
+      "name": "07-broken-ice-melt-record.webp",
+      "sha256": "18adb7867429b2a5d61e81b957bbd85dcc9fdbd60d91801fbf2d3a5a67179508",
+      "bytes": 56388,
+      "from": "b4db pages 6-7 — broken ice melting over time"
+    },
+    {
+      "name": "08-ice-block-melt-record.webp",
+      "sha256": "ff32a9b70ae01a32535da60c4520bdc910bcc229244997757a926bfff4683663",
+      "bytes": 43438,
+      "from": "b4db pages 6-7 — a large block melting over time"
+    }
+  ]
+}
