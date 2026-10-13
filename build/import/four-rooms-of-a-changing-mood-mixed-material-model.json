@@ -1,0 +1,43 @@
+{
+  "project": "Four Rooms of a Changing Mood",
+  "dest": "assets/board/four-rooms-of-a-changing-mood-mixed-material-model",
+  "note": "Portfolio 4736 pages 5-6 cropped to 6 images, WebP q88 (PIL). Not used: film still strip with titles and subtitles, film title, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-four-room-model.webp",
+      "sha256": "8c66c66f373d188bfabc80370a2c944eea23fdcc467010cfcccbb5f46255090b",
+      "bytes": 416090,
+      "from": "4736 pages 5-6 — the four joined rooms in the refined model"
+    },
+    {
+      "name": "02-plot-sketches.webp",
+      "sha256": "dd3b052aefc886c56297b845628121613b102ac69a57c22cf3e44f78b35ceaaf",
+      "bytes": 291420,
+      "from": "4736 pages 5-6 — sketches of the four rooms"
+    },
+    {
+      "name": "03-white-basement.webp",
+      "sha256": "4587cf28a24119126164579cfb04800ff112789aff752c6ee5855f828e072e91",
+      "bytes": 64104,
+      "from": "4736 pages 5-6 — the white room of plain board"
+    },
+    {
+      "name": "04-wire-darkroom.webp",
+      "sha256": "d8ea075f7cd3d7a18d49ac1766a53467ec68e677b4c0da835b7da88a27d24f86",
+      "bytes": 95148,
+      "from": "4736 pages 5-6 — the dark room of wire and foil"
+    },
+    {
+      "name": "05-bubble-invasion.webp",
+      "sha256": "889af800819f07222481b13cd3421bad5d5e0319e164c2e0de1f392c3a303033",
+      "bytes": 154450,
+      "from": "4736 pages 5-6 — the bubble invasion"
+    },
+    {
+      "name": "06-warm-house.webp",
+      "sha256": "e7a8699bb72ab6a0507be1afded9c9e8f15bfa0195504bfb812915b20cb0d024",
+      "bytes": 76274,
+      "from": "4736 pages 5-6 — the warm house"
+    }
+  ]
+}
