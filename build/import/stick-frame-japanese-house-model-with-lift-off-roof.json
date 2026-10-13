@@ -1,0 +1,49 @@
+{
+  "project": "Stick-Frame Japanese House",
+  "dest": "assets/board/stick-frame-japanese-house-model-with-lift-off-roof",
+  "note": "Portfolio 3dee pages 5-7 cropped to 7 images, WebP q88 (PIL). Not used: cover page, photos of real buildings, process photos with hands.",
+  "files": [
+    {
+      "name": "01-stick-house-model.webp",
+      "sha256": "0628958f0eca1212302342af25a6fa03515b25f18ff5ac7e966d471c7de9f493",
+      "bytes": 307978,
+      "from": "3dee page 5-7 — the stick-frame house model"
+    },
+    {
+      "name": "02-exterior-sketch.webp",
+      "sha256": "bcd13a30769657490ec12c1c136b9b3d2d0624adde5a4fd763b525f00b65644c",
+      "bytes": 170756,
+      "from": "3dee page 5-7 — a study sketch of the house and its parts"
+    },
+    {
+      "name": "03-interior-layout.webp",
+      "sha256": "6237608cacffea1c4843353b9c1f245dcf7bf660316aec34f1aceecaf443d581",
+      "bytes": 103382,
+      "from": "3dee page 5-7 — the interior layout drawing"
+    },
+    {
+      "name": "04-interior-views.webp",
+      "sha256": "f04447e9ad840c6f7857076e8f5f0207cf60598273d69658e17b8327de2a1886",
+      "bytes": 170596,
+      "from": "3dee page 5-7 — close views inside the frame"
+    },
+    {
+      "name": "05-roof-frame-model.webp",
+      "sha256": "09108ced4609e1b63d6c25492e65b449feba283840a45537ef1fdc856a3500c1",
+      "bytes": 310298,
+      "from": "3dee page 5-7 — the roof frame seen from above"
+    },
+    {
+      "name": "06-open-roof-view.webp",
+      "sha256": "9b132586738ebd69df9aeb437545b80d1f07fa9727e7472efdd11d4f465c9122",
+      "bytes": 147228,
+      "from": "3dee page 5-7 — the model with its roof in place"
+    },
+    {
+      "name": "07-side-view.webp",
+      "sha256": "550b4c5fa94173fe2adaa22b8cb0eed09deac733571625fc841b3c510e783e2b",
+      "bytes": 133444,
+      "from": "3dee page 5-7 — the side of the frame"
+    }
+  ]
+}
