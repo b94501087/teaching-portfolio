@@ -1,0 +1,61 @@
+{
+  "project": "House of Tree",
+  "dest": "assets/board/house-of-tree-waste-branch-tower-with-small-houses",
+  "note": "Portfolio b439 pages 2-3 cropped to 9 images, WebP q88 (PIL). Not used: cover page, architect name, reference photos of a chessboard garden, wrecks and a glasshouse, process photo with tools.",
+  "files": [
+    {
+      "name": "01-branch-tower-with-houses.webp",
+      "sha256": "bafbb0872f576d87e8c2786942ef2db4945349c16182fc4b512e6cc4a02267c6",
+      "bytes": 179520,
+      "from": "b439 pages 2-3 — the branch tower with its small houses"
+    },
+    {
+      "name": "02-house-on-the-branches.webp",
+      "sha256": "2c09d8d2960cec815b448cff092cc816bfa9e84d80d169d6d097d5895672811c",
+      "bytes": 58178,
+      "from": "b439 pages 2-3 — a house resting on the branches"
+    },
+    {
+      "name": "03-keyword-diagrams.webp",
+      "sha256": "a6befd3689807df4a5df3e13c6bb937920229f993649549c747c77f1633c6dfe",
+      "bytes": 31448,
+      "from": "b439 pages 2-3 — keyword diagrams for shelter"
+    },
+    {
+      "name": "04-section-sketch.webp",
+      "sha256": "669bc7bf23262bed25f999926508154d48f40189fb9b6edc291d5df66c78e65a",
+      "bytes": 83222,
+      "from": "b439 pages 2-3 — a section sketch of the idea"
+    },
+    {
+      "name": "05-trunk-sketch.webp",
+      "sha256": "6404a3365f821ab876443e9394dce23ca410d01654ea7eddbb0ff8264e036d5d",
+      "bytes": 84060,
+      "from": "b439 pages 2-3 — a sketch of the trunk form"
+    },
+    {
+      "name": "06-branch-ring-frame.webp",
+      "sha256": "05b687d2eb7e51bfd78c9e010acc7e7c134f19e4fdb11ce7c2bd3439d0fac470",
+      "bytes": 30278,
+      "from": "b439 pages 2-3 — the first ring of branches"
+    },
+    {
+      "name": "07-branch-basket.webp",
+      "sha256": "ae075e9e789c268e94cc168f926af0aafa211321957b66aea6df5d769e6098a9",
+      "bytes": 15774,
+      "from": "b439 pages 2-3 — the branches closing in"
+    },
+    {
+      "name": "08-stacked-houses.webp",
+      "sha256": "e3632ef9824929705ea8b6735c99fa3c38d71a1614af5770e06e07e865a03059",
+      "bytes": 57318,
+      "from": "b439 pages 2-3 — stacked houses and ladders"
+    },
+    {
+      "name": "09-house-in-the-branches.webp",
+      "sha256": "859e664753cb8e0c097a93c62a2933dc6d2b9f9e481480030ee2a27b9c7d4633",
+      "bytes": 53186,
+      "from": "b439 pages 2-3 — a house half covered by branches"
+    }
+  ]
+}
