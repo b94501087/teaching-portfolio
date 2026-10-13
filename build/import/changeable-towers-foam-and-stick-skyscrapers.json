@@ -1,0 +1,43 @@
+{
+  "project": "Changeable Towers",
+  "dest": "assets/board/changeable-towers-foam-and-stick-skyscrapers",
+  "note": "Portfolio 9eaa pages 12-14 cropped to 6 images, WebP q88 (PIL). Not used: skyscraper history collage with named buildings and architects, nature reference photos, renderings on city skyline photos, photo of the student with the full tower, caption.",
+  "files": [
+    {
+      "name": "01-group-of-future-towers.webp",
+      "sha256": "ccebad41a6dccb88d91e4fe91d245ef1534c944000319dabbd611c77f170667f",
+      "bytes": 336784,
+      "from": "9eaa pages 12-14 — a group of future towers"
+    },
+    {
+      "name": "02-natural-form-line-sketches.webp",
+      "sha256": "4d0e662f7ebc0da6469855a0c3a68f57ce17bc6a44cddf43d056a863a1be1bc5",
+      "bytes": 20564,
+      "from": "9eaa pages 12-14 — line sketches of natural forms"
+    },
+    {
+      "name": "03-foam-form-tests.webp",
+      "sha256": "a3070b7f822b84ddc6c3318f165bbc096aa34da576853a348e6b5ee5967342d8",
+      "bytes": 23016,
+      "from": "9eaa pages 12-14 — foam form tests"
+    },
+    {
+      "name": "04-foam-and-stick-studies.webp",
+      "sha256": "4173294d2fa005c520f25def7a086de000dbb47cac574799f24ced454ec508d1",
+      "bytes": 62226,
+      "from": "9eaa pages 12-14 — foam and stick studies"
+    },
+    {
+      "name": "05-six-tower-variations.webp",
+      "sha256": "af694f0c8f26c97813d82665d99233ddd809ef08e9f6d40340f42733b1a67b13",
+      "bytes": 168118,
+      "from": "9eaa pages 12-14 — six tower variations"
+    },
+    {
+      "name": "06-tower-surface-details.webp",
+      "sha256": "b9d26ce3864fc036f2f08611f9274dd9bac2f87b7e3eee43a0bee0392a62df57",
+      "bytes": 146966,
+      "from": "9eaa pages 12-14 — details of tower surfaces"
+    }
+  ]
+}
