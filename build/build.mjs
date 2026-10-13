@@ -11,7 +11,7 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
-import { renderAll, fillPlaceholders, validate } from '../admin/render.js';
+import { mergeBoard, renderAll, fillPlaceholders, validate } from '../admin/render.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const out = path.join(root, '_site');
@@ -27,7 +27,8 @@ async function copyDir(src, dst) {
   }
 }
 
-const read = async n => JSON.parse(await fs.readFile(path.join(root, 'content', n + '.json'), 'utf8'));
+const readFile = async n => JSON.parse(await fs.readFile(path.join(root, 'content', n), 'utf8'));
+const read = async n => n === 'board' ? mergeBoard(await readFile('board.json'), readFile) : readFile(n + '.json');
 const all = {
   site: await read('site'), board: await read('board'), az: await read('az'),
   teaching: await read('teaching'), consulting: await read('consulting')

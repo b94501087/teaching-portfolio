@@ -2,10 +2,10 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { pinDate, sortItems, renderBoard, listedPins, SORTS, parseBoardHash, boardHash } from '../admin/render.js';
+import { mergeBoard, pinDate, sortItems, renderBoard, listedPins, SORTS, parseBoardHash, boardHash } from '../admin/render.js';
 
 const meta = m => ({ title: 't', slug: 's', description: 'Intro.\n\n' + m });
-const board = JSON.parse(readFileSync(new URL('../content/board.json', import.meta.url)));
+const board = mergeBoard(JSON.parse(readFileSync(new URL('../content/board.json', import.meta.url))), f => JSON.parse(readFileSync(new URL('../content/' + f, import.meta.url))));
 const site = JSON.parse(readFileSync(new URL('../content/site.json', import.meta.url)));
 
 test('pinDate reads month, range start, season, term and bare year from the meta line', () => {

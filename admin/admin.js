@@ -1,6 +1,6 @@
 // /admin — edit content/*.json, preview with the site's own templates, save via the Worker (/api).
 // Without the Worker ("no Worker yet" mode) editing + preview work; save offers JSON download instead.
-import { renderLanding, renderBoard, renderDetail, renderAZ, renderTeaching, renderConsulting, groupAZ, validate, CURRENCIES, PAGE_DIRS, detailDir, pinImages, uniqueSlug, SLUG_RE, MAX_PIN_IMAGES, LANGS, LANG_NAME, pinLevel } from './render.js';
+import { mergeBoard, renderLanding, renderBoard, renderDetail, renderAZ, renderTeaching, renderConsulting, groupAZ, validate, CURRENCIES, PAGE_DIRS, detailDir, pinImages, uniqueSlug, SLUG_RE, MAX_PIN_IMAGES, LANGS, LANG_NAME, pinLevel } from './render.js';
 
 const FILES = ['site', 'board', 'az', 'teaching', 'consulting'];
 const LABEL = { site: '網站', board: '項目', az: 'A–Z', teaching: '教學', consulting: '諮詢' };
@@ -73,7 +73,7 @@ async function load() {
     for (const n of FILES) {
       const r = await fetch('../content/' + n + '.json', { cache: 'no-store' });
       if (!r.ok) throw new Error('讀取 content/' + n + '.json 失敗（' + r.status + '）');
-      files[n] = await r.json();
+      files[n] = n === 'board' ? await mergeBoard(await r.json(), f => fetch('../content/' + f, { cache: 'no-store' }).then(x => { if (!x.ok) throw new Error('讀取 content/' + f + ' 失敗（' + x.status + '）'); return x.json(); })) : await r.json();
     }
   }
   for (const n of FILES) { state.data[n] = clone(files[n]); state.saved[n] = ser(files[n]); }

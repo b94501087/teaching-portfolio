@@ -5,6 +5,23 @@
 // Locked design (fonts, colours, spacing, radius, column count) lives in the page CSS files,
 // not in content, and cannot be changed from /admin.
 
+// Board shards. content/board.json may list extra pin files in "shards" (e.g. ["board-2.json"]),
+// each { "pins": [...] }; the full board is board.json's pins followed by each shard's pins, in order.
+// Keeps every file well under the GitHub API upload limit. load(name) returns the parsed shard
+// (sync or a Promise). The merged board has no "shards" key, so a save writes one complete board.json.
+export const BOARD_SHARD_RE = /^board-\d+\.json$/;
+export function mergeBoard(main, load) {
+  if (!main || !Array.isArray(main.shards)) return main;
+  const { shards, ...out } = main;
+  out.pins = [...(main.pins || [])];
+  const add = s => { if (!s || !Array.isArray(s.pins)) throw new Error('board shard has no pins'); out.pins.push(...s.pins); };
+  const names = shards.map(f => { if (!BOARD_SHARD_RE.test(f)) throw new Error('bad board shard name: ' + f); return f; });
+  const loaded = names.map(load);
+  if (loaded.some(x => x && typeof x.then === 'function')) return Promise.all(loaded).then(a => { a.forEach(add); return out; });
+  loaded.forEach(add);
+  return out;
+}
+
 // Output paths. The site root (https://yuchuntsai.com/) is a minimal landing page;
 // the pin board lives at /board/ and each visible pin gets a detail page at /board/<slug>/.
 // A pin with draft: true still gets its detail page (shareable preview URL, marked noindex) but is not
