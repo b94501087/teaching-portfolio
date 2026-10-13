@@ -1,0 +1,61 @@
+{
+  "project": "Black Mesh Canopy",
+  "dest": "assets/board/black-mesh-canopy-stocking-tensile-hillside-shelter",
+  "note": "Portfolio d991 page 8 cropped to nine images, WebP q88 (PIL). Not used: title and text, reference photos, a node diagram.",
+  "files": [
+    {
+      "name": "01-black-canopy.webp",
+      "sha256": "db370a98abefc4f0b431bf1c09c395fe5d0b560d142d8377752cdefb52eb72fc",
+      "bytes": 205910,
+      "from": "d991 page 8 — black canopy"
+    },
+    {
+      "name": "02-form-sketches.webp",
+      "sha256": "ad74fc86f3c50fb55eb19fc45f50de90da1429a27c434fc55fb71c3a34842f5d",
+      "bytes": 178962,
+      "from": "d991 page 8 — form sketches"
+    },
+    {
+      "name": "03-under-canopy.webp",
+      "sha256": "d4c10d5ffaf02c9b4692ec42b297727ca38bab85cd3e4a6a21da572ff3ec5dd9",
+      "bytes": 106322,
+      "from": "d991 page 8 — under canopy"
+    },
+    {
+      "name": "04-frame-view.webp",
+      "sha256": "8f5ab45733b258b6b451a05352e9b1a78f8866d0417846653961e874eac0f87a",
+      "bytes": 19914,
+      "from": "d991 page 8 — frame view"
+    },
+    {
+      "name": "05-dark-view.webp",
+      "sha256": "1c5a78a6d77c21f52b035dac627c155a1c92879ba960c6a26aa5a0ab0c3ce238",
+      "bytes": 29914,
+      "from": "d991 page 8 — dark view"
+    },
+    {
+      "name": "06-mesh-render.webp",
+      "sha256": "75ac69efda774cebf670c691911f1052034fd1514b971b96b5f4a53434e9e0d9",
+      "bytes": 180354,
+      "from": "d991 page 8 — mesh render"
+    },
+    {
+      "name": "07-peak-render.webp",
+      "sha256": "6940cc71efbf5e0fc85ff1d31dc13b9a4b87ede76c162b3b77e849d9f87c66cb",
+      "bytes": 116874,
+      "from": "d991 page 8 — peak render"
+    },
+    {
+      "name": "08-light-render.webp",
+      "sha256": "ec8dcb6732e316cee2021c55ea240513e35d0ccaf3828b441632be65d70c13e8",
+      "bytes": 74480,
+      "from": "d991 page 8 — light render"
+    },
+    {
+      "name": "09-mesh-drawings.webp",
+      "sha256": "8206600431098ed6279a6d54f9cecb80e51e2128ffd56b647dca1b71aa789f0a",
+      "bytes": 248410,
+      "from": "d991 page 8 — mesh drawings"
+    }
+  ]
+}
