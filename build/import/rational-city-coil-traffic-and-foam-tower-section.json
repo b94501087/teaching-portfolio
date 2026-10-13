@@ -1,0 +1,61 @@
+{
+  "project": "Rational City",
+  "dest": "assets/board/rational-city-coil-traffic-and-foam-tower-section",
+  "note": "Portfolio 4434 pages 10-12 cropped to 9 images, WebP q88 (PIL). Not used: labelled site map diagram with photos, street photo with people, mind map, photo of the student, hand-drawn site plan with handwritten labels (city and station names dropped).",
+  "files": [
+    {
+      "name": "01-rational-city-section-model.webp",
+      "sha256": "39285ff1f9bcaef338a94a455f44da29b716c0a287934c3e78e5f4dce7212cc6",
+      "bytes": 213312,
+      "from": "4434 pages 10-12 — the rational city section model"
+    },
+    {
+      "name": "02-street-net-sketches.webp",
+      "sha256": "315205281a54bf40b24a65045589c2215cdc73c0790df56ca68c2c7820301347",
+      "bytes": 70636,
+      "from": "4434 pages 10-12 — street net sketches"
+    },
+    {
+      "name": "03-primary-model-studies.webp",
+      "sha256": "f3560cc8826072b335619ce56136231d5bc8aef75df11c17be69991c5b9fd199",
+      "bytes": 50954,
+      "from": "4434 pages 10-12 — primary model studies"
+    },
+    {
+      "name": "04-coil-city-from-above.webp",
+      "sha256": "b2c91972b9bca143590d42ed3cd4c0f4cc7e7e0ab532f24cf1b7ec8b2d9f3970",
+      "bytes": 65664,
+      "from": "4434 pages 10-12 — the city from above"
+    },
+    {
+      "name": "06-figures-among-towers.webp",
+      "sha256": "88e5eb3702ca6c81ee6a9fccca58660e433bb3069c5e937f707eeb8f991383dc",
+      "bytes": 113468,
+      "from": "4434 pages 10-12 — figures among the towers"
+    },
+    {
+      "name": "07-balconies-and-bridges.webp",
+      "sha256": "86b19d5d90c153869dc9fc9ccd907b382d6c2fc0ec41bd896c766c4545eaba31",
+      "bytes": 141120,
+      "from": "4434 pages 10-12 — balconies and bridges"
+    },
+    {
+      "name": "08-coil-traffic-detail.webp",
+      "sha256": "d7ee81c78c471746942f5ba63e266df7a534d2aba82291d47f579e35759c446f",
+      "bytes": 36920,
+      "from": "4434 pages 10-12 — coils as traffic"
+    },
+    {
+      "name": "09-acrylic-frame-detail.webp",
+      "sha256": "ef8ffe3b206553308daf226e9e8d9d18a4ee07e0fc4f42a9b4131d17a47dc72f",
+      "bytes": 38014,
+      "from": "4434 pages 10-12 — acrylic frames"
+    },
+    {
+      "name": "10-blue-pipe-detail.webp",
+      "sha256": "214e9e067a39e53dddebd275018f01b2ad91df1ac067c486669dc7d7b2baf1d9",
+      "bytes": 37188,
+      "from": "4434 pages 10-12 — a blue pipe loop"
+    }
+  ]
+}
