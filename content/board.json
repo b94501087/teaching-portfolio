@@ -82540,6 +82540,694 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Stacked Divide: A Corrugated High-Rise",
+      "slug": "stacked-divide-corrugated-paper-high-rise",
+      "description": "A tall corrugated-paper tower sets torn, patched shacks at its base beneath polished rooms and floating rings, giving form to the gap between rich and poor.\n\nModel | High-rise residential study | Corrugated paper, wooden strips, wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "堆疊的分野：瓦楞紙高樓",
+          "description": "一座高聳的瓦楞紙塔，底部是撕裂拼補的棚屋，上方是精整的房間與漂浮的圓環，為貧富之間的差距賦予形體。\n\n模型｜高層住宅研究｜瓦楞紙、木條、鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/stacked-divide-corrugated-paper-high-rise/01-stacked-corrugated-high-rise.webp",
+        "assets/board/stacked-divide-corrugated-paper-high-rise/02-section-drawing-of-the-tower.webp",
+        "assets/board/stacked-divide-corrugated-paper-high-rise/03-upper-rooms-in-progress.webp",
+        "assets/board/stacked-divide-corrugated-paper-high-rise/04-patched-shacks-at-the-base.webp",
+        "assets/board/stacked-divide-corrugated-paper-high-rise/05-rings-around-the-upper-tower.webp",
+        "assets/board/stacked-divide-corrugated-paper-high-rise/06-stick-scaffolds-and-rooms.webp",
+        "assets/board/stacked-divide-corrugated-paper-high-rise/07-looking-up-through-rings.webp",
+        "assets/board/stacked-divide-corrugated-paper-high-rise/08-ringed-crown-of-the-tower.webp",
+        "assets/board/stacked-divide-corrugated-paper-high-rise/09-middle-floors-and-figures.webp",
+        "assets/board/stacked-divide-corrugated-paper-high-rise/10-pipes-and-passages-close.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/stacked-divide-corrugated-paper-high-rise/01-stacked-corrugated-high-rise.webp"
+          ],
+          "captions": [
+            "The stacked corrugated high-rise."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "堆疊的瓦楞紙高樓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project imagined a future city where the wealthy live in bustling buildings in the sky while the poor live in dilapidated houses below. It asked how this gap between rich and poor would shape the living environment of a single tower.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題想像一座未來城市，富人住在天空中繁華的建築裡，窮人則住在下方破敗的房屋中。它探問，這種貧富差距會如何塑造一座單一高樓的居住環境。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A detailed section drawing packed every floor with rooms, furniture and stairs to test how life would stack vertically. Small corrugated rooms were then cut and glued together as the basic units of the tower.",
+          "images": [
+            "assets/board/stacked-divide-corrugated-paper-high-rise/02-section-drawing-of-the-tower.webp",
+            "assets/board/stacked-divide-corrugated-paper-high-rise/03-upper-rooms-in-progress.webp"
+          ],
+          "captions": [
+            "Section drawing of the tower.",
+            "Rooms during making."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張詳細的剖面圖在每層塞滿房間、家具與樓梯，測試生活如何垂直堆疊。學生接著切割並黏合小小的瓦楞紙房間，作為高樓的基本單元。",
+              "captions": [
+                "高樓的剖面圖。",
+                "製作中的房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "At the bottom, corrugated surfaces were torn apart so the rooms look like worn tin shacks. Window frames and shelves of wooden strips connect the lower and upper parts, and rings were added around the top.",
+          "images": [
+            "assets/board/stacked-divide-corrugated-paper-high-rise/04-patched-shacks-at-the-base.webp",
+            "assets/board/stacked-divide-corrugated-paper-high-rise/05-rings-around-the-upper-tower.webp",
+            "assets/board/stacked-divide-corrugated-paper-high-rise/06-stick-scaffolds-and-rooms.webp",
+            "assets/board/stacked-divide-corrugated-paper-high-rise/07-looking-up-through-rings.webp"
+          ],
+          "captions": [
+            "Patched shacks at the base.",
+            "Rings around the upper tower.",
+            "Stick scaffolds among rooms.",
+            "Looking up through the rings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在底部，瓦楞紙表面被撕開，讓房間看起來像破舊的鐵皮屋。木條做成的窗框與架子連接上下兩部分，頂部周圍再加上圓環。",
+              "captions": [
+                "底部拼補的棚屋。",
+                "環繞上段塔身的圓環。",
+                "房間之間的木條支架。",
+                "穿過圓環向上看。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Barbed wire and wrapped columns finish the details of pipes and passages that thread through the floors. Tiny red figures climb a tower whose surfaces grow more refined the higher they rise.",
+          "images": [
+            "assets/board/stacked-divide-corrugated-paper-high-rise/08-ringed-crown-of-the-tower.webp",
+            "assets/board/stacked-divide-corrugated-paper-high-rise/09-middle-floors-and-figures.webp",
+            "assets/board/stacked-divide-corrugated-paper-high-rise/10-pipes-and-passages-close.webp"
+          ],
+          "captions": [
+            "The ringed crown.",
+            "Middle floors with figures.",
+            "Pipes and passages up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "鐵絲與纏繞的柱子完成了穿梭各層的管道與通道細節。紅色小人形攀爬著一座越往上表面越精緻的高樓。",
+              "captions": [
+                "環繞圓環的塔頂。",
+                "中段樓層與人形。",
+                "近看管道與通道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Vertical Inequality - A Tower Read from Bottom to Top",
+          "body": "Cities often sort their inhabitants by height, and this project made that sorting visible in a single column of rooms. The student imagined a future where comfort floats above and scarcity gathers at ground level, and asked what such a divide would feel like to inhabit. A crowded section drawing came first, filling every floor with beds, tables and stairs so that daily life could be read layer by layer. Corrugated paper then became the sole building material, valued for its ability to look either crisp or ruined. The guidance encouraged letting one material carry the whole argument, so the lower rooms were torn and patched into tin-like shacks while the upper rooms received clean frames and generous windows. Wooden scaffolds, pipes of wrapped wire and floating rings bind the two worlds together without reconciling them. Tiny red figures climb through the structure as reminders of the people who live inside such contrasts. The tower demonstrates how a social question can be translated into a legible vertical gradient of craft.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "垂直的不平等-由下而上閱讀的高樓",
+              "body": "城市常以高度為居民分層，這個專題讓這種分層在一柱房間中變得可見。學生想像一個舒適漂浮於上、匱乏聚集於地面的未來，並探問居住在這種分野之中會是什麼感受。首先是一張擁擠的剖面圖，在每層填滿床、桌與樓梯，讓日常生活能被逐層閱讀。瓦楞紙隨後成為唯一的建材，因為它既能顯得挺括，也能顯得殘破。指導鼓勵讓一種材料承載整個論述，於是下層房間被撕裂拼補成鐵皮般的棚屋，上層房間則得到俐落的框架與寬大的窗。木構支架、纏繞鐵絲的管道與漂浮的圓環把兩個世界綁在一起，卻未使其和解。紅色小人形在結構中攀爬，提醒觀者這種對比之中住著真實的人。這座塔說明，一個社會問題能被轉譯為清晰可讀的垂直工藝漸層。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Distance and Scale",
+      "slug": "distance-and-scale-grid-floors-and-spiral-stair",
+      "description": "Floors of ever finer grids are stacked and joined by a spiral stair, testing how a pattern changes as the eye moves closer or further away.\n\nModel | Transition space study | Wooden strips, PVC board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "距離與尺度",
+          "description": "網格越來越細密的樓板層層堆疊，並以螺旋梯相連，測試圖樣如何隨視線遠近而改變。\n\n模型｜過渡空間研究｜木條、PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/01-spiral-stair-transition-space.webp",
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/02-scaling-grid-layers.webp",
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/03-curved-walls-and-figure.webp",
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/04-grid-floor-close-a.webp",
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/05-grid-floor-close-b.webp",
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/06-grid-floor-close-c.webp",
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/07-flowing-walls-on-grid.webp",
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/08-layered-floors-and-stairs.webp",
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/09-lower-level-view.webp",
+        "assets/board/distance-and-scale-grid-floors-and-spiral-stair/10-light-through-the-grid.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/01-spiral-stair-transition-space.webp"
+          ],
+          "captions": [
+            "The spiral stair transition space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "螺旋梯過渡空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Walking along a path beside home, every brick could be seen clearly, yet from a window above only the road as a whole was visible. The project asked how distance and scale affect what people see in a space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "沿著住家旁的小路行走時，每塊磚都清晰可見，但從上方的窗戶往下看，只能看到整條路。這個專題探問，距離與尺度如何影響人們在空間中所見。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A sequence of square grids was drawn, each layer dividing the cells of the one before into smaller openings. The finer grids were then cut as floor plates to see how the pattern dissolves into texture.",
+          "images": [
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/02-scaling-grid-layers.webp",
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/03-curved-walls-and-figure.webp"
+          ],
+          "captions": [
+            "Grid layers at changing scale.",
+            "Curved walls and a figure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生畫出一系列方形網格，每一層都把前一層的格子再分成更小的開口。較細的網格隨後被切成樓板，觀察圖樣如何消融為肌理。",
+              "captions": [
+                "尺度漸變的網格層。",
+                "彎曲牆面與人形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "On each grid floor, curved PVC walls, benches and shelves form small rooms where figures and animals pause. The walls ripple and fold so that the floors read as landscapes rather than flat plans.",
+          "images": [
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/04-grid-floor-close-a.webp",
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/05-grid-floor-close-b.webp",
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/06-grid-floor-close-c.webp",
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/07-flowing-walls-on-grid.webp"
+          ],
+          "captions": [
+            "Rooms on a grid floor.",
+            "Benches and figures.",
+            "Curved furniture on the grid.",
+            "Flowing walls from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在每層網格樓板上，彎曲的PVC牆、長椅與架子圍出小房間，人形與動物在其中停留。牆面起伏折疊，讓樓板讀起來像地景而非平面圖。",
+              "captions": [
+                "網格樓板上的房間。",
+                "長椅與人形。",
+                "網格上的彎曲家具。",
+                "從上方看流動的牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A spiral stair wraps around the stacked floors and links them into one continuous transition space. Light falling through the grids casts patterns whose scale shifts from level to level.",
+          "images": [
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/08-layered-floors-and-stairs.webp",
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/09-lower-level-view.webp",
+            "assets/board/distance-and-scale-grid-floors-and-spiral-stair/10-light-through-the-grid.webp"
+          ],
+          "captions": [
+            "Layered floors and stairs.",
+            "The lower level.",
+            "Light through the grid."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一道螺旋梯環繞堆疊的樓板，將它們連成一個連續的過渡空間。穿過網格的光投下圖樣，其尺度在各層之間變化。",
+              "captions": [
+                "層疊的樓板與樓梯。",
+                "下層空間。",
+                "穿過網格的光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Near and Far - A Stair Through Changing Grains",
+          "body": "A paved path looks different depending on where it is seen from, and this project began with that simple observation. Close underfoot, every brick is distinct, but from a window above the same surface becomes a single ribbon of road. The student turned this shift of perception into a method by drawing grids that subdivide again and again, each layer finer than the last. Cut as floor plates and stacked, the grids allow a visitor to experience pattern at many distances within a few steps. The guidance encouraged pairing a rigorous system with a free gesture, so curved walls, benches and shelves were allowed to ripple across the strict lattices like soft terrain. A spiral stair then ties the levels together, turning vertical movement into a gradual zoom from coarse to fine. Light passing through the openings casts shadows that change their grain on every floor. The model shows how a personal moment of noticing can grow into a disciplined study of scale and transition.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "近與遠-穿越變化紋理的樓梯",
+              "body": "一條鋪面小路因觀看位置不同而顯得不同，這個專題便從這個簡單的觀察開始。在腳下近處，每塊磚都清晰分明，但從上方窗口望去，同一片表面成了一條完整的路帶。學生把這種知覺的轉變化為方法，畫出一再細分的網格，每一層都比前一層更細密。這些網格被切成樓板並堆疊，讓參觀者在幾步之內就能在多種距離下體驗圖樣。指導鼓勵把嚴謹的系統與自由的手勢配對，於是彎曲的牆、長椅與架子得以像柔軟地形般在嚴格的格網上起伏。螺旋梯再把各層綁在一起，讓垂直移動成為由粗到細的漸進拉近。穿過開口的光投下陰影，在每層改變紋理。這個模型說明，個人的一次留意能成長為對尺度與過渡的嚴謹研究。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Chain Castle",
+      "slug": "chain-castle-interlocking-bricks-and-wooden-frames",
+      "description": "Dark bricks are laid in interlocking links to form a square chain, while wooden frames caught in its gaps stand for the rules that bind daily life.\n\nModel | Material and meaning study | Brick, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "鎖鏈城堡",
+          "description": "深色磚塊以互扣的環節砌成一條方形鎖鏈，卡在縫隙中的木框則代表束縛日常生活的規則。\n\n模型｜材料與意義研究｜磚、木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/01-brick-chain-with-wooden-frames.webp",
+        "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/02-chain-elevation-a.webp",
+        "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/03-chain-elevation-b.webp",
+        "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/04-chain-elevation-c.webp",
+        "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/05-chain-castle-from-above.webp",
+        "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/06-interlocking-brick-units-a.webp",
+        "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/07-interlocking-brick-units-b.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/01-brick-chain-with-wooden-frames.webp"
+          ],
+          "captions": [
+            "The brick chain with wooden frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "磚砌鎖鏈與木框。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Chains symbolise confinement, and people often keep doing things the same way, just as houses have long been built with the same way of laying bricks. The project asked whether a new way of bricklaying could express the idea of breaking convention.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "鎖鏈象徵禁錮，人們常常以同樣的方式做事，正如房屋長久以來都以同樣的砌磚方式建造。這個專題探問，一種新的砌磚方式能否表達打破常規的想法。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Small bricks were combined into many interlocking units, each turning and crossing so that pieces hook into one another. These studies looked for links that could hold together like the rings of a chain.",
+          "images": [
+            "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/06-interlocking-brick-units-a.webp",
+            "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/07-interlocking-brick-units-b.webp"
+          ],
+          "captions": [
+            "Interlocking brick units.",
+            "More unit studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把小磚塊組合成許多互扣的單元，每個單元轉向交錯，讓構件彼此勾連。這些研究尋找能像鎖鏈環節般相扣的連結。",
+              "captions": [
+                "互扣的磚單元。",
+                "更多單元研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The chosen links were laid end to end to form a closed square chain of bricks. Wooden frames of different sizes were then inserted at the gaps to represent the things that restrict people in life.",
+          "images": [
+            "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/02-chain-elevation-a.webp",
+            "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/03-chain-elevation-b.webp"
+          ],
+          "captions": [
+            "Elevation of the chain.",
+            "Frames along the wall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "選定的環節首尾相接，砌成一條封閉的方形磚鏈。不同大小的木框隨後被插入縫隙，代表生活中限制人們的事物。",
+              "captions": [
+                "鎖鏈立面。",
+                "沿牆的木框。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "From the side, the frames rise above the heavy brick like a skyline of cages. From above, the square chain reads as a castle wall, expressing the hope that people will find courage to break the rules.",
+          "images": [
+            "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/04-chain-elevation-c.webp",
+            "assets/board/chain-castle-interlocking-bricks-and-wooden-frames/05-chain-castle-from-above.webp"
+          ],
+          "captions": [
+            "Another elevation.",
+            "The castle from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "從側面看，木框在厚重的磚上升起，如一道籠子的天際線。從上方看，方形鎖鏈讀起來像一道城牆，表達人們終將鼓起勇氣打破規則的希望。",
+              "captions": [
+                "另一個立面。",
+                "從上方看城堡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Bound Links - Breaking the Habit of Brick",
+          "body": "Brick has been laid in the same patient rhythm for centuries, and that very constancy became the subject of this project. The student read the familiar bond of a wall as a quiet image of habit, and the chain as the sharper image of confinement that habit can become. Rather than illustrate either idea, the work asked the material itself to change its manners. Dozens of small interlocking units were tested until pieces could hook through one another like links, a way of building that ordinary walls never use. The guidance encouraged keeping meaning inside the method, so the links were joined into a closed square that feels at once fortress and fetter. Light wooden frames were then wedged into its gaps, cages of many sizes standing for the rules that hold daily life in place. Seen from the side they form a restless skyline, and from above a defended enclosure. The model shows how a change in craft can carry a hopeful argument about courage and convention.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "受縛的環節-打破砌磚的習慣",
+              "body": "磚塊數百年來都以同樣耐心的節奏砌築，這份恆常本身便成為這個專題的主題。學生把牆體熟悉的砌法解讀為習慣的安靜意象，而鎖鏈則是習慣可能化成的、更尖銳的禁錮意象。作品並不直接圖解這兩個概念，而是要求材料本身改變它的舉止。數十個小小的互扣單元經過測試，直到構件能像環節般彼此勾穿，這是一般牆體從不使用的建造方式。指導鼓勵把意義保留在方法之中，於是環節被接成一個封閉方形，既像堡壘又像枷鎖。輕盈的木框再被楔入其縫隙，大小不一的籠子代表把日常生活固定於原地的規則。從側面看，它們構成一道不安的天際線；從上方看，則是一圈設防的圍合。這個模型說明，工藝的改變能承載一個關於勇氣與常規的、充滿希望的論述。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Rising from Demolition",
+      "slug": "rising-from-demolition-toy-brick-and-wire-structure",
+      "description": "Toy bricks, black sticks and red wire tracks are tangled into a restless structure that recreates a city where old neighbourhoods are torn down and new buildings rise.\n\nModel | Urban change study | Toy bricks, wooden strips, iron wire, cardboard | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "從拆除中升起",
+          "description": "玩具積木、黑色木條與紅色鐵絲軌道糾纏成一座躁動的結構，重現一座舊街區被拆除、新建築隨之升起的城市。\n\n模型｜城市變遷研究｜玩具積木、木條、鐵絲、卡紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rising-from-demolition-toy-brick-and-wire-structure/01-tangled-rising-structure.webp",
+        "assets/board/rising-from-demolition-toy-brick-and-wire-structure/02-structure-from-the-side.webp",
+        "assets/board/rising-from-demolition-toy-brick-and-wire-structure/03-gears-and-red-tracks.webp",
+        "assets/board/rising-from-demolition-toy-brick-and-wire-structure/04-crane-arm-detail.webp",
+        "assets/board/rising-from-demolition-toy-brick-and-wire-structure/05-tracks-wrapping-the-frame.webp",
+        "assets/board/rising-from-demolition-toy-brick-and-wire-structure/06-stacked-beams-close.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rising-from-demolition-toy-brick-and-wire-structure/01-tangled-rising-structure.webp"
+          ],
+          "captions": [
+            "The tangled rising structure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "糾纏升起的結構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The demolition of an old urban village and the rapid rise of new buildings in its place left a strong impression. The project asked how this cycle of destruction and construction could be recreated as an image of the city held in the mind.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座舊城中村被拆除、新建築隨即在原地迅速升起的景象，留下了深刻的印象。這個專題探問，這種破壞與建造的循環能否被重現為心中的城市意象。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A long habit of building robots from toy bricks provided a ready vocabulary of beams, gears and joints. These parts were combined with wooden strips, wire and cardboard to suggest cranes, scaffolds and broken frames.",
+          "images": [
+            "assets/board/rising-from-demolition-toy-brick-and-wire-structure/02-structure-from-the-side.webp",
+            "assets/board/rising-from-demolition-toy-brick-and-wire-structure/03-gears-and-red-tracks.webp"
+          ],
+          "captions": [
+            "The structure from the side.",
+            "Gears and red tracks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "長期以玩具積木組裝機器人的習慣，提供了一套現成的樑、齒輪與接頭語彙。這些構件與木條、鐵絲及卡紙結合，暗示起重機、鷹架與破碎的框架。",
+              "captions": [
+                "從側面看結構。",
+                "齒輪與紅色軌道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Black sticks were stacked into a dense frame like scaffolding around a construction site. Red wire tracks then loop through and around the frame, while gears and arms suggest machines still at work.",
+          "images": [
+            "assets/board/rising-from-demolition-toy-brick-and-wire-structure/04-crane-arm-detail.webp",
+            "assets/board/rising-from-demolition-toy-brick-and-wire-structure/05-tracks-wrapping-the-frame.webp"
+          ],
+          "captions": [
+            "A crane-like arm.",
+            "Tracks wrapping the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "黑色木條堆疊成密集的框架，像工地周圍的鷹架。紅色鐵絲軌道再穿繞框架，齒輪與機械臂則暗示仍在運作的機器。",
+              "captions": [
+                "如起重機的機械臂。",
+                "纏繞框架的軌道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Lit from the side, the model throws a large shadow that reads like a skyline of half-built towers. Tiny red figures stand among the beams, small against the speed of change around them.",
+          "images": [
+            "assets/board/rising-from-demolition-toy-brick-and-wire-structure/06-stacked-beams-close.webp"
+          ],
+          "captions": [
+            "Stacked beams up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "從側面打光時，模型投下巨大的影子，讀起來像一片半完工高樓的天際線。紅色小人形站在樑柱之間，在周遭變遷的速度面前顯得渺小。",
+              "captions": [
+                "近看堆疊的樑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Cranes and Ruins - The City as a Machine in Motion",
+          "body": "A city under redevelopment rarely looks finished, since demolition and construction overlap in the same view. This project tried to capture that unsettled condition rather than any single building. The student drew on years of assembling robots from toy bricks, a play that had quietly trained a sense of joints, gears and moving arms. Those parts were mixed with black sticks, wire and cardboard so that familiar pieces would lose their toy-like innocence and begin to resemble cranes and scaffolds. The guidance encouraged density and risk, so the frame was allowed to grow tangled, with red wire tracks swooping through it like routes of machines that never stop. Gears suggest work in progress, while broken edges hint at what has already been cleared away. Under a single lamp the model casts a shadow larger than itself, a skyline of half-built towers on the wall. The work shows how personal play and urban memory can merge into a vivid model of transformation.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "起重機與廢墟-運轉中的城市機器",
+              "body": "重建中的城市很少看起來是完成的，因為拆除與建造在同一視野中重疊。這個專題試圖捕捉這種不安定的狀態，而非任何單一建築。學生借用多年以玩具積木組裝機器人的經驗，那份遊戲早已悄悄訓練出對接頭、齒輪與活動臂的感覺。這些構件與黑色木條、鐵絲與卡紙混合，讓熟悉的零件失去玩具般的天真，開始像起重機與鷹架。指導鼓勵密度與冒險，於是框架被允許糾纏生長，紅色鐵絲軌道像永不停歇的機器路徑般穿梭其中。齒輪暗示進行中的工程，破碎的邊緣則透露已被清除的過往。在一盞燈下，模型投下比自身更大的影子，在牆上形成一片半完工高樓的天際線。這件作品說明，個人的遊戲與城市記憶能融合為一個生動的轉變模型。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Floating Collage",
+      "slug": "floating-collage-cardboard-space-city",
+      "description": "Toy blueprints are cut, reassembled and extruded into white cardboard collages that bend upward like a city built on a rotating ground in space.\n\nCollage model | Speculative city study | Cardboard | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "漂浮拼貼",
+          "description": "玩具藍圖被切割、重組並拉伸為白色卡紙拼貼，向上彎折，如同一座建於太空中旋轉地面上的城市。\n\n拼貼模型｜推想城市研究｜卡紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/floating-collage-cardboard-space-city/01-floating-city-model.webp",
+        "assets/board/floating-collage-cardboard-space-city/02-blueprint-drawing-1.webp",
+        "assets/board/floating-collage-cardboard-space-city/03-collage-model-1.webp",
+        "assets/board/floating-collage-cardboard-space-city/04-blueprint-drawing-2.webp",
+        "assets/board/floating-collage-cardboard-space-city/05-collage-model-2.webp",
+        "assets/board/floating-collage-cardboard-space-city/06-blueprint-drawing-3.webp",
+        "assets/board/floating-collage-cardboard-space-city/07-collage-model-3.webp",
+        "assets/board/floating-collage-cardboard-space-city/08-collage-model-4.webp",
+        "assets/board/floating-collage-cardboard-space-city/09-bent-ground-close.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/floating-collage-cardboard-space-city/01-floating-city-model.webp"
+          ],
+          "captions": [
+            "The floating city model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "漂浮城市模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A childhood love of toy blasters led to collecting their technical blueprints. The project asked whether these drawings, once cut apart, could become the foundations of an imagined city.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "童年對玩具發射器的喜愛，讓學生開始收集它們的技術藍圖。這個專題探問，這些圖紙被剪開後，能否成為一座想像城市的基礎。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The blueprints were cut and reassembled into new patterns that looked like plans of city foundations. Four collages were drawn, each tracing a different arrangement of parts.",
+          "images": [
+            "assets/board/floating-collage-cardboard-space-city/02-blueprint-drawing-1.webp",
+            "assets/board/floating-collage-cardboard-space-city/04-blueprint-drawing-2.webp",
+            "assets/board/floating-collage-cardboard-space-city/06-blueprint-drawing-3.webp"
+          ],
+          "captions": [
+            "Collage drawing one.",
+            "Collage drawing two.",
+            "Collage drawing three."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "藍圖被剪開並重組成新的圖樣，看起來像城市基礎的平面。學生畫出四張拼貼，每張描出不同的構件排列。",
+              "captions": [
+                "拼貼圖一。",
+                "拼貼圖二。",
+                "拼貼圖三。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Buildings were extended upward from each collage by folding and slotting strips of white cardboard along its lines. The resulting reliefs cast dense shadows that make each plan read as a crowded district.",
+          "images": [
+            "assets/board/floating-collage-cardboard-space-city/03-collage-model-1.webp",
+            "assets/board/floating-collage-cardboard-space-city/05-collage-model-2.webp",
+            "assets/board/floating-collage-cardboard-space-city/07-collage-model-3.webp",
+            "assets/board/floating-collage-cardboard-space-city/08-collage-model-4.webp"
+          ],
+          "captions": [
+            "Collage model one.",
+            "Collage model two.",
+            "Collage model three.",
+            "Collage model four."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生沿著每張拼貼的線條折疊並插接白色卡紙條，讓建築從拼貼向上延伸。完成的浮雕投下濃密陰影，讓每張平面讀起來像一片擁擠的街區。",
+              "captions": [
+                "拼貼模型一。",
+                "拼貼模型二。",
+                "拼貼模型三。",
+                "拼貼模型四。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Imagining life in space, where the ground could bend into columns and rotate to simulate gravity, the parts were connected and the base was curved. The long model becomes a fragment of a space city whose streets turn up into walls.",
+          "images": [
+            "assets/board/floating-collage-cardboard-space-city/09-bent-ground-close.webp"
+          ],
+          "captions": [
+            "The bent ground up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "學生想像太空中的生活，地面可以彎成柱體並以旋轉模擬重力，於是把各部分相連並將底部彎曲。這個長形模型成為一座太空城市的片段，其街道向上翻轉成牆。",
+              "captions": [
+                "近看彎曲的地面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Folded Ground - A City That Curves Toward the Sky",
+          "body": "Children often see whole worlds in the diagrams that come with their toys, and this project took that way of seeing seriously. The student cut apart old blueprints of toy blasters and rearranged the fragments until they resembled plans of a dense urban foundation. Four collages were drawn, each a different negotiation between mechanical parts and imagined streets. From these drawings white cardboard strips were folded and slotted upward, so that every line became a wall and every cluster a district. The guidance encouraged pushing a method past its first result, and a further question soon arrived about how people might live where gravity must be manufactured. The answer was to bend the ground itself, curving the base so that the city wraps toward its own sky like the inside of a rotating drum. Shadows thicken the reliefs into crowded neighbourhoods. The work demonstrates how playful source material, treated with patience, can open into a speculative architecture of remarkable density.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "折疊的地面-彎向天空的城市",
+              "body": "孩子常在玩具附帶的圖解中看見整個世界，這個專題認真對待了這種觀看方式。學生把玩具發射器的舊藍圖剪開，重新排列碎片，直到它們像一片密集的城市基礎平面。學生畫出四張拼貼，每張都是機械零件與想像街道之間不同的協商。從這些圖面出發，白色卡紙條被折疊並向上插接，讓每條線成為一道牆，每個群聚成為一片街區。指導鼓勵把方法推過第一個結果，於是一個新的問題隨之而來，即在重力必須被製造之處，人們該如何生活。答案是彎曲地面本身，讓基座彎曲，使城市如旋轉滾筒的內壁般朝自己的天空包覆。陰影讓浮雕加厚成擁擠的街坊。這件作品說明，帶有遊戲性的素材經耐心處理後，能展開為一種密度驚人的推想建築。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
