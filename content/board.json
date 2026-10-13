@@ -73260,6 +73260,290 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Vegetables and Architecture",
+      "slug": "vegetables-and-architecture-produce-to-paper-space",
+      "description": "Cut and stacked vegetables are read as points, lines and planes, then turned into paintings and a paper and stick model.\n\nModel and paintings | Form study | Vegetables, PVC board, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "蔬菜與建築",
+          "description": "切開堆疊的蔬菜被解讀為點、線、面，再轉化為繪畫與紙板木條模型。\n\n模型與繪畫｜形態研究｜蔬菜、PVC板、木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/vegetables-and-architecture-produce-to-paper-space/01-vegetable-still-life-model.webp",
+        "assets/board/vegetables-and-architecture-produce-to-paper-space/02-vegetable-collage.webp",
+        "assets/board/vegetables-and-architecture-produce-to-paper-space/03-yellow-shape-painting.webp",
+        "assets/board/vegetables-and-architecture-produce-to-paper-space/04-blue-shape-painting.webp",
+        "assets/board/vegetables-and-architecture-produce-to-paper-space/05-vegetable-stack-painted.webp",
+        "assets/board/vegetables-and-architecture-produce-to-paper-space/06-standing-vegetable-stack.webp",
+        "assets/board/vegetables-and-architecture-produce-to-paper-space/07-paper-and-stick-model.webp",
+        "assets/board/vegetables-and-architecture-produce-to-paper-space/08-paper-planes-close-up.webp",
+        "assets/board/vegetables-and-architecture-produce-to-paper-space/09-curved-paper-walls.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/vegetables-and-architecture-produce-to-paper-space/01-vegetable-still-life-model.webp"
+          ],
+          "captions": [
+            "A vegetable still life."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "蔬菜靜物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student loves to cook and looks closely at produce. The project asks how the shapes in vegetables can build space.",
+          "images": [
+            "assets/board/vegetables-and-architecture-produce-to-paper-space/02-vegetable-collage.webp"
+          ],
+          "captions": [
+            "A vegetable collage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生熱愛烹飪，也細心觀察食材。這個專題探問，蔬菜的形態如何構築空間。",
+              "captions": [
+                "蔬菜拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Vegetables and fruit were cut and stacked to find points, lines and planes. Paintings turned them into flat shapes.",
+          "images": [
+            "assets/board/vegetables-and-architecture-produce-to-paper-space/03-yellow-shape-painting.webp",
+            "assets/board/vegetables-and-architecture-produce-to-paper-space/04-blue-shape-painting.webp"
+          ],
+          "captions": [
+            "A yellow shape painting.",
+            "A blue shape painting."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生切開並堆疊蔬果，找出點、線與面。繪畫把它們轉化為平面形狀。",
+              "captions": [
+                "黃色形狀繪畫。",
+                "藍色形狀繪畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stacks of produce and sticks were set up and painted. The density of points and lines was varied in each one.",
+          "images": [
+            "assets/board/vegetables-and-architecture-produce-to-paper-space/05-vegetable-stack-painted.webp",
+            "assets/board/vegetables-and-architecture-produce-to-paper-space/06-standing-vegetable-stack.webp"
+          ],
+          "captions": [
+            "A painted vegetable stack.",
+            "A standing stack."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "蔬果與木條被堆疊起來並加以描繪。每一組都改變點與線的疏密。",
+              "captions": [
+                "描繪的蔬菜堆疊。",
+                "直立的堆疊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 23.6-inch model sets curved paper walls among wooden sticks. Open, half-open and closed areas form the space.",
+          "images": [
+            "assets/board/vegetables-and-architecture-produce-to-paper-space/07-paper-and-stick-model.webp",
+            "assets/board/vegetables-and-architecture-produce-to-paper-space/08-paper-planes-close-up.webp",
+            "assets/board/vegetables-and-architecture-produce-to-paper-space/09-curved-paper-walls.webp"
+          ],
+          "captions": [
+            "The paper and stick model.",
+            "Paper planes close up.",
+            "Curved paper walls."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個23.6英寸的模型把彎曲紙牆置於木條之間。開放、半開放與封閉的區域構成空間。",
+              "captions": [
+                "紙板與木條模型。",
+                "紙板近觀。",
+                "彎曲紙牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from something you love.\n2. Cut it into points, lines and planes.\n3. Paint the flat shapes.\n4. Rebuild them as space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從喜愛的事物出發。\n2. 把它拆成點、線、面。\n3. 畫出平面形狀。\n4. 再重建為空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Ephemeral Glaciers",
+      "slug": "ephemeral-glaciers-melting-ice-tower",
+      "description": "Ice melting tests are photographed over time and turned into a tower of thinning white plates and clear sticks.\n\nModel and experiments | Sea ice study | Clear plastic sticks, white paper, glass, ice | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "短暫的冰川",
+          "description": "冰塊融化試驗被逐時拍攝，再轉化為一座由漸薄白板與透明細棒構成的塔。\n\n模型與實驗｜海冰研究｜透明塑膠棒、白紙、玻璃、冰｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/ephemeral-glaciers-melting-ice-tower/01-layered-ice-tower-model.webp",
+        "assets/board/ephemeral-glaciers-melting-ice-tower/02-tower-from-above.webp",
+        "assets/board/ephemeral-glaciers-melting-ice-tower/03-tower-side-view.webp",
+        "assets/board/ephemeral-glaciers-melting-ice-tower/04-ice-melt-box.webp",
+        "assets/board/ephemeral-glaciers-melting-ice-tower/05-melting-ice-in-glass.webp",
+        "assets/board/ephemeral-glaciers-melting-ice-tower/06-sea-ice-types-drawing.webp",
+        "assets/board/ephemeral-glaciers-melting-ice-tower/07-broken-ice-melt-record.webp",
+        "assets/board/ephemeral-glaciers-melting-ice-tower/08-ice-block-melt-record.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/ephemeral-glaciers-melting-ice-tower/01-layered-ice-tower-model.webp"
+          ],
+          "captions": [
+            "The layered ice tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "層疊的冰塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Sea ice in the far north is melting as the climate warms. The project asks how that melting can be shown in space.",
+          "images": [
+            "assets/board/ephemeral-glaciers-melting-ice-tower/06-sea-ice-types-drawing.webp"
+          ],
+          "captions": [
+            "Types of sea ice."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "隨著氣候暖化，北方海域的海冰正在融化。這個專題探問，如何在空間中呈現這種融化。",
+              "captions": [
+                "海冰的種類。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A drawing sorted thin ice, broken ice and thick ice. Each type plays a part in the life of the sea.",
+          "images": [
+            "assets/board/ephemeral-glaciers-melting-ice-tower/04-ice-melt-box.webp",
+            "assets/board/ephemeral-glaciers-melting-ice-tower/05-melting-ice-in-glass.webp"
+          ],
+          "captions": [
+            "A large block melting.",
+            "Broken ice in glass."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張繪圖區分了薄冰、碎冰與厚冰。每種冰在海洋生態中都扮演角色。",
+              "captions": [
+                "融化中的大冰塊。",
+                "玻璃中的碎冰。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Broken ice and one large block were melted under warm air. Photos every few minutes were traced into shrinking outlines.",
+          "images": [
+            "assets/board/ephemeral-glaciers-melting-ice-tower/07-broken-ice-melt-record.webp",
+            "assets/board/ephemeral-glaciers-melting-ice-tower/08-ice-block-melt-record.webp"
+          ],
+          "captions": [
+            "Broken ice melting over time.",
+            "A large block melting over time."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "碎冰與一塊大冰塊在暖風下融化。每隔幾分鐘拍下的照片被描成逐漸縮小的輪廓。",
+              "captions": [
+                "碎冰隨時間融化。",
+                "大冰塊隨時間融化。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 16.9-inch tower shows the broken ice above and the large block below. The plates narrow as the ice grows thinner.",
+          "images": [
+            "assets/board/ephemeral-glaciers-melting-ice-tower/02-tower-from-above.webp",
+            "assets/board/ephemeral-glaciers-melting-ice-tower/03-tower-side-view.webp"
+          ],
+          "captions": [
+            "The tower from above.",
+            "The tower from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座16.9英寸的塔上半部呈現碎冰，下半部呈現大冰塊。板面隨著冰層變薄而收窄。",
+              "captions": [
+                "俯看冰塔。",
+                "側看冰塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a change in nature.\n2. Test it with a simple model.\n3. Record it over time.\n4. Stack the records into form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個自然中的變化。\n2. 用簡單模型測試。\n3. 隨時間記錄下來。\n4. 把記錄堆疊成形體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
