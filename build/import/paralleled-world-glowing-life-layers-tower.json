@@ -1,0 +1,67 @@
+{
+  "project": "Paralleled World",
+  "dest": "assets/board/paralleled-world-glowing-life-layers-tower",
+  "note": "Portfolio 2744 pages 2-3 cropped to 10 images, WebP q88 (PIL). Not used: process photo with a hand.",
+  "files": [
+    {
+      "name": "01-glowing-tower-model.webp",
+      "sha256": "3f45e3a86131a7e8770eb7feab99d5f5c444ca9eb5db0feaed728ced089b3227",
+      "bytes": 182664,
+      "from": "2744 pages 2-3 — the glowing tower model"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "5cf521c66940645c2224904203aab6a144aac9f0fd9d98ee91af7778d3369272",
+      "bytes": 131292,
+      "from": "2744 pages 2-3 — the concept sketch"
+    },
+    {
+      "name": "03-process-tests.webp",
+      "sha256": "71d207136b9ba86cffc813a8d2b164b7a03458599063687d893006dfb6f31d36",
+      "bytes": 61558,
+      "from": "2744 pages 2-3 — process tests"
+    },
+    {
+      "name": "04-colour-block-test.webp",
+      "sha256": "fd6f474859c2bb21e3ac68eff493c2f4ef051c91c6055e3b622d28f9524cd7d8",
+      "bytes": 25446,
+      "from": "2744 pages 2-3 — a colour block test"
+    },
+    {
+      "name": "05-lit-tower-side-view.webp",
+      "sha256": "f4dba7f96b9a8ca1e08781cd629b0b4a04f64665bababd4dc78d957f9c2ffea7",
+      "bytes": 125656,
+      "from": "2744 pages 2-3 — the lit tower from the side"
+    },
+    {
+      "name": "06-interior-stair-view.webp",
+      "sha256": "b20f4fd8a7df16446c30704bac1f85428571c00fa1c0c9035504a485dff784a0",
+      "bytes": 19232,
+      "from": "2744 pages 2-3 — an interior stair view"
+    },
+    {
+      "name": "07-ribbon-track-view.webp",
+      "sha256": "8733ee4dd373c8aac5469a03da1c2c9a20d7d836039cd228f0487b0aafbb3ade",
+      "bytes": 24570,
+      "from": "2744 pages 2-3 — the ribbon track"
+    },
+    {
+      "name": "08-mesh-floor-view.webp",
+      "sha256": "236ff9c0d82e5be850330b74b9adcfc6c392f9442b749ccbf4487cb3fc051011",
+      "bytes": 40918,
+      "from": "2744 pages 2-3 — the mesh floor"
+    },
+    {
+      "name": "09-cloud-top-detail.webp",
+      "sha256": "94dcdcb953687922c2b5d90ba33b6c3f629b5f5fabc01554e367d3f07b4418ec",
+      "bytes": 18314,
+      "from": "2744 pages 2-3 — the cloud top"
+    },
+    {
+      "name": "10-cube-cluster-detail.webp",
+      "sha256": "4982bf232e3cd0b49b2e45b5024c61eb9a3dd61d892e303a86b4be72d634f1a5",
+      "bytes": 49468,
+      "from": "2744 pages 2-3 — the cube cluster"
+    }
+  ]
+}
