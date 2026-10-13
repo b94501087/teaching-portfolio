@@ -1,0 +1,55 @@
+{
+  "project": "Reflection on the Facade",
+  "dest": "assets/board/reflection-on-the-facade-cut-card-rooms",
+  "note": "Portfolio ca28 pages 4-5 cropped to 8 images, WebP q88 (PIL). Not used: stock-style photo of a glass tower, city name.",
+  "files": [
+    {
+      "name": "01-stacked-facade-rooms.webp",
+      "sha256": "2eee14bd3187569c260988448a7f6bcfc544f7d13ee263203e2d735e5b467f42",
+      "bytes": 80326,
+      "from": "ca28 pages 4-5 — the stacked facade rooms"
+    },
+    {
+      "name": "02-facade-tower.webp",
+      "sha256": "7366604bf29e1a4395204d46fd6554a9c16ff6b80b4bbefcefcc7666d935d853",
+      "bytes": 33762,
+      "from": "ca28 pages 4-5 — the facade tower"
+    },
+    {
+      "name": "03-reflection-drawing.webp",
+      "sha256": "a862618d9b05d2acb85523399fcc091dda60c0028cab5cc6cac096110fb95e84",
+      "bytes": 135452,
+      "from": "ca28 pages 4-5 — the reflection drawing"
+    },
+    {
+      "name": "04-folded-room-a.webp",
+      "sha256": "40965cd4ced946a289671b92553c22acf92977d6f80badd525def5d86e1005b8",
+      "bytes": 7888,
+      "from": "ca28 pages 4-5 — a folded room"
+    },
+    {
+      "name": "05-folded-room-b.webp",
+      "sha256": "2b51839b6889d42267aa44b05514a61f7d0533f0dcdf4ce6f5e1d05b9eb426e4",
+      "bytes": 8538,
+      "from": "ca28 pages 4-5 — another folded room"
+    },
+    {
+      "name": "06-cut-windows-close-up.webp",
+      "sha256": "072961483656149c61d144aacb40142ad1f4b3381c0d81616b584c08d166f82c",
+      "bytes": 25260,
+      "from": "ca28 pages 4-5 — cut windows close up"
+    },
+    {
+      "name": "07-light-inside-a-room.webp",
+      "sha256": "03aaa32d4dda6655d51dd6192f9b823b5c63f2b6723e99d0a8c2e4ad98c4988d",
+      "bytes": 27702,
+      "from": "ca28 pages 4-5 — light inside a room"
+    },
+    {
+      "name": "08-rooms-joined.webp",
+      "sha256": "15e812824279ffbeedb39317faf0201422ec0e3c94f835ff18224d28f098a0a5",
+      "bytes": 26298,
+      "from": "ca28 pages 4-5 — rooms joined"
+    }
+  ]
+}
