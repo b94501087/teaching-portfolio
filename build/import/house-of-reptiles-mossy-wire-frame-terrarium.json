@@ -1,0 +1,61 @@
+{
+  "project": "House of Reptiles",
+  "dest": "assets/board/house-of-reptiles-mossy-wire-frame-terrarium",
+  "note": "Portfolio 56b3 pages 18-20 cropped to 9 images, WebP q88 (PIL). Not used: node diagram.",
+  "files": [
+    {
+      "name": "01-gecko-on-moss-platform.webp",
+      "sha256": "a56927098a5ff469b30523a11f07bc1b78686876aa6a9cbe4f3fb80299a59ff5",
+      "bytes": 171606,
+      "from": "56b3 pages 18-20 — a gecko on a moss platform"
+    },
+    {
+      "name": "02-mossy-branch-frame.webp",
+      "sha256": "efc28c40e5c78ed725005826879460bd33c7ac34654472c058c7d0849b9a15fa",
+      "bytes": 192384,
+      "from": "56b3 pages 18-20 — the mossy frame"
+    },
+    {
+      "name": "03-wire-frame-in-the-tank.webp",
+      "sha256": "379d9eb048e29e54e5561d432f3f72a37327e8df4dc7f7021ea108ac6109756b",
+      "bytes": 111150,
+      "from": "56b3 pages 18-20 — the wire frame in the tank"
+    },
+    {
+      "name": "04-triangle-stick-panel.webp",
+      "sha256": "efd5ff1bfe355dc9e76c114d9d3647323a45960d230795137d928d82db7ae18d",
+      "bytes": 31822,
+      "from": "56b3 pages 18-20 — a triangle stick panel"
+    },
+    {
+      "name": "05-panels-being-made.webp",
+      "sha256": "6c0619ebeef97f76929747e82fe4abfc4578fd7f8d0fe3e71b53a00faee05b21",
+      "bytes": 55398,
+      "from": "56b3 pages 18-20 — panels being made"
+    },
+    {
+      "name": "06-lizard-drawing.webp",
+      "sha256": "a1ff7612ccf9f4a45ca56b4f629d6e0af30dca47fa88c6c84377e1bc4cf9accc",
+      "bytes": 343622,
+      "from": "56b3 pages 18-20 — a lizard drawing"
+    },
+    {
+      "name": "07-frame-render.webp",
+      "sha256": "027247ada71670fce0e4eccbfe0ae24255689b7020f58941f2c3467c2e49cc66",
+      "bytes": 278820,
+      "from": "56b3 pages 18-20 — a frame render"
+    },
+    {
+      "name": "08-moss-and-roots-close-up.webp",
+      "sha256": "b47fa8727f7f7a83d6366b8af89edbeb687c4babee1d80df05fc456d664ccafa",
+      "bytes": 345582,
+      "from": "56b3 pages 18-20 — moss and roots close up"
+    },
+    {
+      "name": "09-platform-under-moss.webp",
+      "sha256": "1a4b34cc22b0e827a47295b549a16f22674ab4c5e587c1ec15ab322b416a578b",
+      "bytes": 44266,
+      "from": "56b3 pages 18-20 — a platform under moss"
+    }
+  ]
+}
