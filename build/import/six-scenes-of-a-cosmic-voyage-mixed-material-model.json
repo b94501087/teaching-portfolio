@@ -1,0 +1,67 @@
+{
+  "project": "Six Scenes of a Cosmic Voyage",
+  "dest": "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model",
+  "note": "Portfolio 4434 pages 2-4 cropped to 10 images, WebP q88 (PIL). Not used: film poster, sketch sheets beside it, process photos showing the student (film, planet and ship names dropped; retitled from film title).",
+  "files": [
+    {
+      "name": "01-six-scene-assembly.webp",
+      "sha256": "cc1fd83519b96f55da023517abde864297bdab277bdb6f257617aece1e1d1cc0",
+      "bytes": 185022,
+      "from": "4434 pages 2-4 — the six-scene assembly"
+    },
+    {
+      "name": "02-assembled-scenes-model.webp",
+      "sha256": "721214c9c2b919d0e64e3096714f68e5b70e1e36db853895b806ea879eda6019",
+      "bytes": 59340,
+      "from": "4434 pages 2-4 — the assembled scenes"
+    },
+    {
+      "name": "03-clay-terrain-model.webp",
+      "sha256": "082914f6b8304ff9b83467b7cbcdfeb6c7dff9917b98641e2c7fdc3c141f63f3",
+      "bytes": 16582,
+      "from": "4434 pages 2-4 — the clay terrain"
+    },
+    {
+      "name": "04-acrylic-stick-grid.webp",
+      "sha256": "0a048aa867bcd48105f5fac266b89e4832dee26b86208f60e404d4c99a7d8831",
+      "bytes": 32350,
+      "from": "4434 pages 2-4 — the acrylic stick grid"
+    },
+    {
+      "name": "05-stick-ring-tunnel.webp",
+      "sha256": "094817cbd35d4eebcdc696fda63144785d545d9bbf1a09f9a2ee863ae0c232bb",
+      "bytes": 28926,
+      "from": "4434 pages 2-4 — the stick tunnel"
+    },
+    {
+      "name": "06-mirror-spiral-tower.webp",
+      "sha256": "d4b065acb80ec8aaf5a01aaf0cdb29199f515796dc955bb7afab8b600c081b6f",
+      "bytes": 37232,
+      "from": "4434 pages 2-4 — the mirror spiral tower"
+    },
+    {
+      "name": "07-mirror-slice-cluster.webp",
+      "sha256": "434b28d33dfddf2329b836ba3d76e3417e427e1d5034777de092773b983d433d",
+      "bytes": 51656,
+      "from": "4434 pages 2-4 — mirror slices"
+    },
+    {
+      "name": "08-scenes-composite.webp",
+      "sha256": "ba03564cb9fbc0692b151fa56f4d6b14abde9830a0863532341d495ff8015b87",
+      "bytes": 143452,
+      "from": "4434 pages 2-4 — the scenes linked together"
+    },
+    {
+      "name": "09-station-tower-view.webp",
+      "sha256": "ae3a7640eb467599e8615f30b6b10fbcba850c517d732443ae83f135dd96a7c5",
+      "bytes": 77784,
+      "from": "4434 pages 2-4 — the station tower"
+    },
+    {
+      "name": "10-acrylic-stick-rooms.webp",
+      "sha256": "72440e9e8eef792792d39c9557244385d87f6302e8c63bbc22d2e3f53a46f917",
+      "bytes": 65032,
+      "from": "4434 pages 2-4 — rooms of acrylic sticks"
+    }
+  ]
+}
