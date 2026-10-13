@@ -1,0 +1,37 @@
+{
+  "project": "A Home Measured in Basswood",
+  "dest": "assets/board/a-home-measured-in-basswood-three-floor-model",
+  "note": "Portfolio 9eaa pages 10-11 cropped to 5 images, WebP q88 (PIL). Not used: model photos with hands, caption with magazine reference and dates.",
+  "files": [
+    {
+      "name": "01-three-floor-models.webp",
+      "sha256": "91876ab0441249d4f365b0de95c835e235a2b08b7334f7b68000821ea1bb40bd",
+      "bytes": 65124,
+      "from": "9eaa pages 10-11 — the three floor models"
+    },
+    {
+      "name": "02-first-floor-plan.webp",
+      "sha256": "8a4cbc332265d936a24dbc285c9444f580441ea3e728b524973d46d2fb703cf7",
+      "bytes": 85676,
+      "from": "9eaa pages 10-11 — the first-floor plan"
+    },
+    {
+      "name": "03-second-floor-plan.webp",
+      "sha256": "ed315843c3c27d1f9a032aa9aa6f7a527152cecc1b74ed08f84d3260c5873ede",
+      "bytes": 157366,
+      "from": "9eaa pages 10-11 — the second-floor plan"
+    },
+    {
+      "name": "04-third-floor-plan.webp",
+      "sha256": "854fbcf46ed8d285f76b6e9875773f8c99e60022286d183b11bce3e494bebf70",
+      "bytes": 129230,
+      "from": "9eaa pages 10-11 — the third-floor plan"
+    },
+    {
+      "name": "05-model-perspectives.webp",
+      "sha256": "ad5b2a5062c36f10961fda77ce8d1588a24883812f81be60dd9c16d32088c33e",
+      "bytes": 114820,
+      "from": "9eaa pages 10-11 — perspectives of the floor models"
+    }
+  ]
+}
