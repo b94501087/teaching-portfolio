@@ -1,0 +1,55 @@
+{
+  "project": "Jazz Drumland",
+  "dest": "assets/board/jazz-drumland-curving-ribbons-and-stick-towers",
+  "note": "Portfolio 6653 pages 12-14 cropped to 8 images, WebP q88 (PIL). Not used: drum kit product photo, architect name, process photos with hands, light-table photo with hands.",
+  "files": [
+    {
+      "name": "01-curving-drum-landscape.webp",
+      "sha256": "039be3f34f6cff698da9341354e65bd6eb54e899b6444dee2762363c31169944",
+      "bytes": 135202,
+      "from": "6653 pages 12-14 — the curving drum landscape"
+    },
+    {
+      "name": "02-overlaid-drum-sketches.webp",
+      "sha256": "867caaaf9bd2dda4abb8a3c594646f639aa081b30217c5a793c3b01893571100",
+      "bytes": 21460,
+      "from": "6653 pages 12-14 — overlaid drum sketches"
+    },
+    {
+      "name": "03-ribbons-and-sticks-a.webp",
+      "sha256": "b88437a12fae6dc3c7815c17e7035782cad47b2c67240cb688757e5b301e242f",
+      "bytes": 99990,
+      "from": "6653 pages 12-14 — ribbons among sticks"
+    },
+    {
+      "name": "04-ribbons-and-sticks-b.webp",
+      "sha256": "d1b74f6a1c86050063ed4d50a86144f4f3c1306302066d842144b620dc8fc251",
+      "bytes": 73270,
+      "from": "6653 pages 12-14 — sticks rising through rings"
+    },
+    {
+      "name": "05-stairs-among-sticks.webp",
+      "sha256": "2195ed34ebc700e9c3d92cae903ba96803ee9cd69fa02acb612aa74282869441",
+      "bytes": 80686,
+      "from": "6653 pages 12-14 — stairs among the sticks"
+    },
+    {
+      "name": "06-ring-and-spiral-stair.webp",
+      "sha256": "90e081c9841675795259e0e37f4860bbb942c366c9d8e86e906d7f2091b43932",
+      "bytes": 114806,
+      "from": "6653 pages 12-14 — a ring and a spiral stair"
+    },
+    {
+      "name": "07-upper-platforms.webp",
+      "sha256": "64e65985cc8e5ad798d862fa76d364d9b614883a3b26d4eac1a6a2cc843a2825",
+      "bytes": 47388,
+      "from": "6653 pages 12-14 — the upper platforms"
+    },
+    {
+      "name": "08-tall-stick-cluster.webp",
+      "sha256": "6bb7e0387de27bc0edb780bc0d988881bd6b3a55655a2805bf0cb58f8e479e7e",
+      "bytes": 63786,
+      "from": "6653 pages 12-14 — a tall cluster of sticks"
+    }
+  ]
+}
