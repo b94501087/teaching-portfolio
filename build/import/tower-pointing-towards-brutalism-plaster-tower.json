@@ -1,0 +1,61 @@
+{
+  "project": "Tower Pointing Towards Brutalism",
+  "dest": "assets/board/tower-pointing-towards-brutalism-plaster-tower",
+  "note": "Portfolio ddbe pages 8-9 cropped to nine images, WebP q88 (PIL). Not used: title and text, precedent building photos and their names.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "4e381cdb6c6a15c1cbf80aaeae18d136a12ef8297eec6ea352c61443e4698c9e",
+      "bytes": 43892,
+      "from": "ddbe page 9 — final tower"
+    },
+    {
+      "name": "02-tower-render.webp",
+      "sha256": "7056122ab171605afa0a67a8d7ccdc6d420799d7cdd905e30e9e2a8b5963d7b7",
+      "bytes": 17706,
+      "from": "ddbe page 8 — tower render"
+    },
+    {
+      "name": "03-zigzag-module.webp",
+      "sha256": "230555acd648859f5f4636b75919aa4287d4df8b069e15594b4c85a3a5834191",
+      "bytes": 1962,
+      "from": "ddbe page 8 — zigzag module"
+    },
+    {
+      "name": "04-wing-module.webp",
+      "sha256": "fc0dd2e4a0aab3b20df4464899d65e0a11c1334bce6e0e4a1ab40f21bd41fbe9",
+      "bytes": 3400,
+      "from": "ddbe page 8 — wing module"
+    },
+    {
+      "name": "05-tower-sketch.webp",
+      "sha256": "4e367bd223752ccda6951ee1d37fdd228dcab38d9df5cde7e90c7ab7574873a4",
+      "bytes": 53072,
+      "from": "ddbe page 9 — tower sketch"
+    },
+    {
+      "name": "06-close-up.webp",
+      "sha256": "440b06ff06fc4118b69584f653121920581844c00b5560b215ca8e5239fedcd1",
+      "bytes": 43600,
+      "from": "ddbe page 9 — close up"
+    },
+    {
+      "name": "07-disc-detail.webp",
+      "sha256": "7e2f2322308d78e7bd5bd0a25426ae0b08a7ac83b17c26811e31a72d9e38040e",
+      "bytes": 23522,
+      "from": "ddbe page 9 — disc detail"
+    },
+    {
+      "name": "08-front-view.webp",
+      "sha256": "4d4d7b2f9a34c71496eeba05ce1a63d1913d3a4420477863312398dcf53063f7",
+      "bytes": 10062,
+      "from": "ddbe page 9 — front view"
+    },
+    {
+      "name": "09-back-view.webp",
+      "sha256": "0f4b89270e47dae134809efedfdde28110eb1b1b8c48ee52026de4fafc710c8d",
+      "bytes": 6402,
+      "from": "ddbe page 9 — back view"
+    }
+  ]
+}
