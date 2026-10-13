@@ -1,0 +1,61 @@
+{
+  "project": "Cats and Humans: A Vertical Apartment",
+  "dest": "assets/board/cats-and-humans-vertical-apartment-stick-model",
+  "note": "Portfolio 47e5 pages 2-4 cropped to nine images, WebP q88 (PIL). Not used: title and text, a process photo of the student and photos showing hands.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "df0d5ba3ed0a292e273fff1bc397966c1007b7df2be91063a4c595f72cfe6900",
+      "bytes": 199028,
+      "from": "47e5 page 3 — final model"
+    },
+    {
+      "name": "02-jump-frames.webp",
+      "sha256": "c850bea9c0ff9ae943604b9145f66e00980cbfccbf8230a6abecb4d7cc7dc951",
+      "bytes": 33514,
+      "from": "47e5 page 2 — jump frames"
+    },
+    {
+      "name": "03-path-sketches.webp",
+      "sha256": "778ff12bbac2dca6d5be4184bf1d36ac865a8b2f216ecbb0a3219407c055cad4",
+      "bytes": 29970,
+      "from": "47e5 page 2 — path sketches"
+    },
+    {
+      "name": "04-digital-paths.webp",
+      "sha256": "d09d62c5471016181f5e510d750f344f02b81769863944be753d5557d6bfaaec",
+      "bytes": 30128,
+      "from": "47e5 page 2 — digital paths"
+    },
+    {
+      "name": "05-timber-frame.webp",
+      "sha256": "e8ef613b9ce8bcd32b20fafd4bd275195a9a9fffcc850fc676ab8256d96a32bc",
+      "bytes": 43416,
+      "from": "47e5 page 3 — timber frame"
+    },
+    {
+      "name": "06-cat-ledges.webp",
+      "sha256": "8fb8961238245cbc71bbef53918ff65d0d40718a0aed9926092337acc3d3273c",
+      "bytes": 13350,
+      "from": "47e5 page 3 — cat ledges"
+    },
+    {
+      "name": "07-human-level.webp",
+      "sha256": "cc73bd52885f6ceef75528f80b9ec4a1c587acb9746c17ee01c1d065d4f66f49",
+      "bytes": 16440,
+      "from": "47e5 page 3 — human level"
+    },
+    {
+      "name": "08-pencil-view.webp",
+      "sha256": "7eed9f68515927ef6c6215473fd5a88acffd70b82cc557f4b9424418b46c360b",
+      "bytes": 364106,
+      "from": "47e5 page 4 — pencil view"
+    },
+    {
+      "name": "09-interior-view.webp",
+      "sha256": "445a83ee0f15ca342fe875ad5b0fe6a73a0363282b3cd2d8f2a893bc4800ccff",
+      "bytes": 200394,
+      "from": "47e5 page 4 — interior view"
+    }
+  ]
+}
