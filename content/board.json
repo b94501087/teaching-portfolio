@@ -70068,6 +70068,278 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Treehouse Dorm",
+      "slug": "treehouse-dorm-slatted-plywood-house-among-trees",
+      "description": "A slatted plywood dorm stands on stilts so the trees around it can stay.\n\nModel and drawings | Housing among trees | Plywood board, laser cut | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "樹屋宿舍",
+          "description": "一棟板條夾板宿舍架高於支柱上，讓周圍的樹木得以保留。\n\n模型與繪圖｜林間住宅｜夾板、雷射切割｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/01-slatted-tree-dorm.webp",
+        "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/02-floor-plans.webp",
+        "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/03-tree-sketch.webp",
+        "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/04-dorm-front.webp",
+        "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/05-balcony-section.webp",
+        "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/06-spiral-stair.webp",
+        "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/07-lit-room.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/01-slatted-tree-dorm.webp"
+          ],
+          "captions": [
+            "The slatted plywood dorm."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "板條夾板宿舍。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A planned dorm would mean cutting down a wood. The project asks how the dorm could be built without moving the site or losing the trees.",
+          "images": [
+            "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/03-tree-sketch.webp"
+          ],
+          "captions": [
+            "A sketch of a room among trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一座規劃中的宿舍將需要砍伐一片樹林。這個專題探問，如何在不改變基地、也不失去樹木的情況下建造宿舍。",
+              "captions": [
+                "樹間房間的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student asked other students what they want from a dorm. Their views shaped a small house for a few people.",
+          "images": [
+            "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/02-floor-plans.webp"
+          ],
+          "captions": [
+            "Floor plans of two levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生詢問其他同學對宿舍的期待。他們的意見形塑出一棟供少數人居住的小屋。",
+              "captions": [
+                "兩層樓平面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A spiral stair links a living room below to two bedrooms above. The design was drawn in 3D and laser cut.",
+          "images": [
+            "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/06-spiral-stair.webp",
+            "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/05-balcony-section.webp"
+          ],
+          "captions": [
+            "The spiral stair inside.",
+            "A section with a balcony."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "螺旋梯連接下方的客廳與上方的兩間臥室。設計以3D繪製並雷射切割。",
+              "captions": [
+                "室內的螺旋梯。",
+                "附陽台的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Thin slats let light and views pass through. The 200 mm model shows a house that sits lightly among trees.",
+          "images": [
+            "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/04-dorm-front.webp",
+            "assets/board/treehouse-dorm-slatted-plywood-house-among-trees/07-lit-room.webp"
+          ],
+          "captions": [
+            "The dorm from the front.",
+            "A lit room inside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "細板條讓光線與視線穿透。這個200公釐的模型呈現出一棟輕輕立於樹間的房子。",
+              "captions": [
+                "宿舍正面。",
+                "有光的室內。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a real problem.\n2. Ask the people who will use it.\n3. Keep the footprint small.\n4. Test it as a cut model.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從真實問題出發。\n2. 詢問未來的使用者。\n3. 讓佔地保持小巧。\n4. 以切割模型測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Bamboo and Taichi",
+      "slug": "bamboo-and-taichi-pattern-models-to-spiral-installation",
+      "description": "A flat pattern becomes cube models, a wearable piece and finally a double spiral of panels in a bamboo forest.\n\nModels and render | Pattern-to-space study | Card, paint, digital render | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "竹與太極",
+          "description": "一個平面圖樣化為立方體模型、可穿戴作品，最終成為竹林中的雙層螺旋板片裝置。\n\n模型與渲染｜圖樣轉空間研究｜卡紙、顏料、數位渲染｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/01-spiral-in-bamboo-forest.webp",
+        "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/02-woven-pattern.webp",
+        "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/03-pattern-analysis.webp",
+        "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/04-cube-pattern-model.webp",
+        "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/05-three-test-models.webp",
+        "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/06-model-diagrams.webp",
+        "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/07-installation-views.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/01-spiral-in-bamboo-forest.webp"
+          ],
+          "captions": [
+            "The spiral installation in a bamboo forest."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "竹林中的螺旋裝置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks how a flat pattern could grow into a space. It also links the pattern to the slow, firm and soft moves of taichi.",
+          "images": [
+            "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/02-woven-pattern.webp"
+          ],
+          "captions": [
+            "The starting pattern."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探問，平面圖樣如何長成空間。它也把圖樣與太極緩慢、剛柔並濟的動作相連。",
+              "captions": [
+                "起始圖樣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The pattern was broken into black and white blocks. Each part was studied for rhythm and overlap.",
+          "images": [
+            "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/03-pattern-analysis.webp"
+          ],
+          "captions": [
+            "Pattern analysis."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把圖樣拆解成黑白方塊。每個部分都分析了節奏與重疊。",
+              "captions": [
+                "圖樣分析。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Three test models and a 6-unit cube turned the blocks into space. Diagrams traced how the parts overlap.",
+          "images": [
+            "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/04-cube-pattern-model.webp",
+            "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/05-three-test-models.webp",
+            "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/06-model-diagrams.webp"
+          ],
+          "captions": [
+            "The final cube model.",
+            "Three test models.",
+            "Diagrams of the models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "三個試作模型與一個6單位立方體把方塊轉為空間。圖解追蹤了構件如何重疊。",
+              "captions": [
+                "最終立方體模型。",
+                "三個試作模型。",
+                "模型圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Colours and turns from the models became a double-layer spiral in a bamboo forest. It mixes firm and soft, light and dark.",
+          "images": [
+            "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation/07-installation-views.webp"
+          ],
+          "captions": [
+            "Views of the spiral."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型中的色彩與轉折化為竹林中的雙層螺旋。它融合剛與柔、明與暗。",
+              "captions": [
+                "螺旋的多個視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a flat pattern.\n2. Break it into parts.\n3. Build small test models.\n4. Place the final form on a site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從平面圖樣出發。\n2. 把它拆解成構件。\n3. 製作小型試作模型。\n4. 把最終形態放到基地上。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
