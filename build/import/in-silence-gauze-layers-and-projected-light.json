@@ -1,0 +1,49 @@
+{
+  "project": "In Silence",
+  "dest": "assets/board/in-silence-gauze-layers-and-projected-light",
+  "note": "Portfolio 56b3 pages 13-14 cropped to 7 images, WebP q88 (PIL). Not used: text naming personal and school issues.",
+  "files": [
+    {
+      "name": "01-gauze-layers-with-projection.webp",
+      "sha256": "b3a36c55711533b25ea506245c2e32333a311a6916feae637ef9f05775d178aa",
+      "bytes": 135832,
+      "from": "56b3 pages 13-14 — gauze layers with projected light"
+    },
+    {
+      "name": "02-gauze-layers-at-an-angle.webp",
+      "sha256": "923dc72364c1d8cd94af91211052bf36878c6aafd74a85a0eca1faaffef2fffe",
+      "bytes": 56656,
+      "from": "56b3 pages 13-14 — gauze layers at an angle"
+    },
+    {
+      "name": "03-gauze-in-blue-light.webp",
+      "sha256": "b007c4eb94d49f10e136904bb49774f6dfc06e98f6bd9dd2e29fe7112552a178",
+      "bytes": 39264,
+      "from": "56b3 pages 13-14 — gauze in blue light"
+    },
+    {
+      "name": "04-room-light-drawing.webp",
+      "sha256": "da7f5bc7243b32e454871f7cd03d56264d5bc5d04509a1cbbc8e55f18abc4f90",
+      "bytes": 159570,
+      "from": "56b3 pages 13-14 — light in a room"
+    },
+    {
+      "name": "05-corner-light-drawing.webp",
+      "sha256": "3cf539a82f7f4d61e82e6f8ea20dfe84947e16cfd14b66762e09627cf90de683",
+      "bytes": 137226,
+      "from": "56b3 pages 13-14 — a corner in soft light"
+    },
+    {
+      "name": "06-window-shadow-drawing.webp",
+      "sha256": "2e29db89ad77a8be7198a17692cf1e763b0ef95b82f535628049aa085692f8ba",
+      "bytes": 146408,
+      "from": "56b3 pages 13-14 — window shadows"
+    },
+    {
+      "name": "07-chair-in-shadow-drawing.webp",
+      "sha256": "6e990663b1b379c7b9b6181fe9986ecdc62f3633f47a1c1b71458b3eef36ab21",
+      "bytes": 59308,
+      "from": "56b3 pages 13-14 — a chair in shadow"
+    }
+  ]
+}
