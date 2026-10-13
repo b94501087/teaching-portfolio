@@ -78224,6 +78224,426 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Paralleled World",
+      "slug": "paralleled-world-glowing-life-layers-tower",
+      "description": "A tall tower of stick mesh, zigzag tracks, foam cubes and glowing cotton clouds stacks the stages of one life into a dreamy parallel world.\n\nModel and sketch | Concept study | Wooden strips, wire, laser paper, cotton, cardboard, coloured light beads, PVC board, foam blocks, frosted PVC sheets, markers | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "平行世界",
+          "description": "一座以木條網架、鋸齒跑道、泡棉方塊與發光棉花雲構成的高塔，把一段人生的各個階段堆疊成夢幻的平行世界。\n\n模型與草圖｜概念研究｜木條、鐵絲、雷射紙、棉花、紙板、彩色燈珠、PVC板、泡棉塊、霧面PVC片、麥克筆｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/paralleled-world-glowing-life-layers-tower/01-glowing-tower-model.webp",
+        "assets/board/paralleled-world-glowing-life-layers-tower/02-concept-sketch.webp",
+        "assets/board/paralleled-world-glowing-life-layers-tower/03-process-tests.webp",
+        "assets/board/paralleled-world-glowing-life-layers-tower/04-colour-block-test.webp",
+        "assets/board/paralleled-world-glowing-life-layers-tower/05-lit-tower-side-view.webp",
+        "assets/board/paralleled-world-glowing-life-layers-tower/06-interior-stair-view.webp",
+        "assets/board/paralleled-world-glowing-life-layers-tower/07-ribbon-track-view.webp",
+        "assets/board/paralleled-world-glowing-life-layers-tower/08-mesh-floor-view.webp",
+        "assets/board/paralleled-world-glowing-life-layers-tower/09-cloud-top-detail.webp",
+        "assets/board/paralleled-world-glowing-life-layers-tower/10-cube-cluster-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/paralleled-world-glowing-life-layers-tower/01-glowing-tower-model.webp"
+          ],
+          "captions": [
+            "The glowing tower model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "發光的塔模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project imagines a parallel world in which a person could live many different careers at once. It asks how those possible lives could be stacked into one building that keeps growing.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題想像一個平行世界，讓一個人能同時經歷許多不同的職業。它探問，如何把這些可能的人生堆疊成一座持續生長的建築。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A concept sketch divided the tower into zones for a stage, an arena, interior design, programming and architecture. Early tests tried laser paper on curved mesh, clusters of foam cubes and small card furniture.",
+          "images": [
+            "assets/board/paralleled-world-glowing-life-layers-tower/02-concept-sketch.webp",
+            "assets/board/paralleled-world-glowing-life-layers-tower/03-process-tests.webp",
+            "assets/board/paralleled-world-glowing-life-layers-tower/04-colour-block-test.webp"
+          ],
+          "captions": [
+            "The concept sketch.",
+            "Process tests.",
+            "A colour block test."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張概念草圖把塔分成舞台、競技場、室內設計、程式設計與建築等區域。早期試作嘗試了貼在曲面網上的雷射紙、成簇的泡棉方塊與小型紙板家具。",
+              "captions": [
+                "概念草圖。",
+                "過程試作。",
+                "色塊試作。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Laser paper squares on a wire mesh form a broken-mirror base, and interlocking wooden triangles rise above it. A zigzag cardboard track spirals through the middle while blue foam blocks gather like a network.",
+          "images": [
+            "assets/board/paralleled-world-glowing-life-layers-tower/06-interior-stair-view.webp",
+            "assets/board/paralleled-world-glowing-life-layers-tower/07-ribbon-track-view.webp",
+            "assets/board/paralleled-world-glowing-life-layers-tower/08-mesh-floor-view.webp"
+          ],
+          "captions": [
+            "An interior stair view.",
+            "The ribbon track.",
+            "The mesh floor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "貼在鐵絲網上的雷射紙方片構成如碎鏡般的基座，交錯的木條三角形在其上升起。鋸齒狀的紙板跑道盤旋穿過中段，藍色泡棉方塊則像網絡般聚集。",
+              "captions": [
+                "內部樓梯視角。",
+                "彎帶跑道。",
+                "網狀地面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "At the top, frosted sheets, cotton clouds and coloured light beads form a colourful building that seems to keep growing. Lit in the dark, the tower glows from base to crown like a dream.",
+          "images": [
+            "assets/board/paralleled-world-glowing-life-layers-tower/05-lit-tower-side-view.webp",
+            "assets/board/paralleled-world-glowing-life-layers-tower/09-cloud-top-detail.webp",
+            "assets/board/paralleled-world-glowing-life-layers-tower/10-cube-cluster-detail.webp"
+          ],
+          "captions": [
+            "The lit tower from the side.",
+            "The cloud top.",
+            "The cube cluster."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "頂部以霧面片材、棉花雲與彩色燈珠構成一座彷彿持續生長的彩色建築。在黑暗中點亮後，整座塔從基座到頂端都像夢境般發光。",
+              "captions": [
+                "側看點亮的塔。",
+                "雲朵般的頂部。",
+                "方塊群。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Stacked Possibilities - A Life Built in Layers",
+          "body": "Young people often feel that choosing one path means losing all the others, and this project answers that anxiety by building every path at once. The student was guided to translate a personal history into vertical layers, so that the tower could be read from bottom to top like a biography. At the base, squares of laser paper on a curved mesh shimmer like a broken mirror, holding early worries about the future. Above it, a small stage recalls years of music, and a zigzag track of folded cardboard winds upward as a memory of competitive sport. Clusters of blue foam blocks suggest a world of information and networks, while the summit dissolves into frosted sheets, cotton clouds and coloured lights that seem never to stop growing. Interlocking triangles of wooden strip give the whole an elevation and keep the many materials in tension. When the room is darkened, the tower glows from within, and the parallel lives become one luminous structure. The work shows that uncertainty, given form, can become a place of hope.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "疊起的可能-層層建造的人生",
+              "body": "年輕人常覺得選擇一條路就意味著失去其餘所有的路，而這個專題以同時建造每一條路來回應這份焦慮。學生被引導把個人經歷轉譯為垂直的層次，讓這座塔能像一部傳記般由下而上被閱讀。在基座，貼在曲面網上的雷射紙方片如碎鏡般閃爍，承載著對未來的早期憂慮。其上，一座小舞台喚起多年的音樂時光，摺疊紙板構成的鋸齒跑道向上盤旋，是對競技運動的記憶。成簇的藍色泡棉方塊暗示資訊與網絡的世界，而頂端則溶解為霧面片材、棉花雲與彩色燈光，彷彿永不停止生長。木條交錯而成的三角形賦予整體立面，並讓多種材料保持張力。當房間暗下，塔從內部發光，平行的人生化為一座明亮的結構。作品說明，不確定性一旦被賦予形式，也能成為希望的所在。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Scenes Reassembled",
+      "slug": "scenes-reassembled-white-pvc-film-space-model",
+      "description": "Three scenes from a short film made by the student are redrawn as movement diagrams and rebuilt as a layered white PVC model of straight and curved strips.\n\nModel, storyboards and diagrams | Narrative space study | PVC boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重組的場景",
+          "description": "學生自己拍攝的短片中的三個場景，被重繪成動線圖，再以直線與曲線條帶重建為層層疊合的白色PVC模型。\n\n模型、分鏡與圖解｜敘事空間研究｜PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/scenes-reassembled-white-pvc-film-space-model/01-white-pvc-scene-model.webp",
+        "assets/board/scenes-reassembled-white-pvc-film-space-model/02-scene-storyboards.webp",
+        "assets/board/scenes-reassembled-white-pvc-film-space-model/03-movement-diagrams.webp",
+        "assets/board/scenes-reassembled-white-pvc-film-space-model/04-event-model-studies.webp",
+        "assets/board/scenes-reassembled-white-pvc-film-space-model/05-frame-tower-view.webp",
+        "assets/board/scenes-reassembled-white-pvc-film-space-model/06-layered-base-view.webp",
+        "assets/board/scenes-reassembled-white-pvc-film-space-model/07-detail-frames.webp",
+        "assets/board/scenes-reassembled-white-pvc-film-space-model/08-detail-curves.webp",
+        "assets/board/scenes-reassembled-white-pvc-film-space-model/09-detail-stack.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/scenes-reassembled-white-pvc-film-space-model/01-white-pvc-scene-model.webp"
+          ],
+          "captions": [
+            "The white PVC scene model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "白色PVC場景模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student had made a short film shot in three scenes. The project asks whether the scenes, and the movements of characters within them, could be turned into architecture.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生曾拍攝一部由三個場景構成的短片。這個專題探問，這些場景以及其中角色的移動，能否被轉化為建築。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Storyboards broke each scene into key frames of objects, spaces and actions. The movement in each frame was then drawn as an abstract line diagram.",
+          "images": [
+            "assets/board/scenes-reassembled-white-pvc-film-space-model/02-scene-storyboards.webp",
+            "assets/board/scenes-reassembled-white-pvc-film-space-model/03-movement-diagrams.webp"
+          ],
+          "captions": [
+            "Scene storyboards.",
+            "Movement diagrams."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "分鏡把每個場景拆成物件、空間與動作的關鍵畫格。接著，每個畫格中的移動被畫成抽象的線條圖。",
+              "captions": [
+                "場景分鏡。",
+                "動線圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Straight and curved lines were cut from PVC foam board as separate elements. Small event models tested how the pieces could be recombined for each scene.",
+          "images": [
+            "assets/board/scenes-reassembled-white-pvc-film-space-model/04-event-model-studies.webp",
+            "assets/board/scenes-reassembled-white-pvc-film-space-model/07-detail-frames.webp",
+            "assets/board/scenes-reassembled-white-pvc-film-space-model/08-detail-curves.webp",
+            "assets/board/scenes-reassembled-white-pvc-film-space-model/09-detail-stack.webp"
+          ],
+          "captions": [
+            "Event model studies.",
+            "Nested frames.",
+            "Curved ribbons.",
+            "Stacked planes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "直線與曲線以PVC發泡板切割成獨立的元素。小型事件模型則測試這些部件如何針對每個場景重新組合。",
+              "captions": [
+                "事件模型研究。",
+                "層層框架。",
+                "彎曲的條帶。",
+                "堆疊的板片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model shows the whole film space in three layers of frames, ribbons and slatted planes. Its shadows add a further layer of movement as the light shifts.",
+          "images": [
+            "assets/board/scenes-reassembled-white-pvc-film-space-model/05-frame-tower-view.webp",
+            "assets/board/scenes-reassembled-white-pvc-film-space-model/06-layered-base-view.webp"
+          ],
+          "captions": [
+            "The frame tower.",
+            "The layered base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型以框架、彎帶與格柵板三個層次呈現整個影片空間。隨著光線移動，陰影又增添了一層動態。",
+              "captions": [
+                "框架之塔。",
+                "層疊的基座。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Frames into Rooms - Choreographing Space from Film",
+          "body": "Film and architecture both choreograph bodies through space, and this project tested how directly one could be translated into the other. Working from a short film of the student’s own, made in three scenes, the guidance began not with form but with analysis. Storyboards isolated the objects, rooms and gestures of each key frame, and the movement within every frame was redrawn as a loose abstract diagram of crossing lines, hatches and dots. From these diagrams came a vocabulary of straight and curved strips cut from white foam board, simple enough to be recombined freely. Small event models tried out arrangements scene by scene, before the three studies were layered into a single structure of frames, ribbons and slatted planes. Built entirely in white, the model depends on light, and its shadows add a moving fourth layer that changes as the viewer circles it. The process taught the student to treat a story as a sequence of spatial events, and showed how notation can become a bridge between watching and building.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "從畫格到房間-從影像編排空間",
+              "body": "電影與建築都在空間中編排身體的移動，這個專題測試兩者之間能被多直接地互相轉譯。以學生自己拍攝、由三個場景構成的短片為起點，指導過程並非從形式開始，而是從分析開始。分鏡把每個關鍵畫格中的物件、房間與姿態分離出來，每一格中的移動再被重繪成由交錯線條、排線與圓點組成的抽象圖。從這些圖中，發展出一套以白色發泡板切出的直線與曲線條帶語彙，簡單到可以自由重組。小型事件模型逐一為各場景試驗排列，之後三個研究被疊合為由框架、彎帶與格柵板構成的單一結構。整件模型全為白色，因此仰賴光線，陰影在觀者繞行時不斷變化，成為流動的第四層。這個過程讓學生學會把故事視為一連串空間事件，也說明記譜能成為觀看與建造之間的橋樑。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Turning Corridor Tower",
+      "slug": "turning-corridor-tower-pvc-disk-and-module-stack",
+      "description": "A corridor imagined as able to turn is rebuilt from PVC disks and modules, then stretched, rotated and crossed into a tower of arches and openings.\n\nModel | Spatial transformation study | PVC boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "旋轉走廊之塔",
+          "description": "一條被想像為可以轉動的走廊，以PVC圓盤與模組重建，再經拉伸、旋轉與交錯，成為一座充滿拱形與開口的高塔。\n\n模型｜空間轉化研究｜PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/01-turning-corridor-tower.webp",
+        "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/02-tower-front-view.webp",
+        "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/03-module-cutting.webp",
+        "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/04-disk-modules.webp",
+        "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/05-inner-spiral-view.webp",
+        "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/06-blue-module-detail.webp",
+        "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/07-yellow-coil-detail.webp",
+        "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/08-tower-low-angle.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/01-turning-corridor-tower.webp"
+          ],
+          "captions": [
+            "The turning corridor tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "旋轉走廊之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A camera frame limits what can be imagined of reality inside a picture. The project asks how a few elements inside a frame could be used to create something new outside it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "相機的畫框限制了人們對畫面中現實的想像。這個專題探問，如何運用畫框內有限的元素，在畫框之外創造新的事物。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Starting from a corridor scene in a favourite film, the student modelled the space digitally after learning the software on a summer course. A circular disk and base were then designed so that the corridor module could turn in reality.",
+          "images": [
+            "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/03-module-cutting.webp",
+            "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/04-disk-modules.webp"
+          ],
+          "captions": [
+            "Cutting the modules.",
+            "Disk modules."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以一部喜愛電影中的走廊場景為起點，在暑期課程學會軟體後，以數位方式建立了這個空間的模型。接著設計了圓盤與底座，讓走廊模組能在現實中轉動。",
+              "captions": [
+                "切割模組。",
+                "圓盤模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Many identical modules were cut from PVC board and fitted with disks, arches and window openings. They were then stretched, rotated, crossed and combined.",
+          "images": [
+            "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/05-inner-spiral-view.webp",
+            "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/06-blue-module-detail.webp",
+            "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/07-yellow-coil-detail.webp"
+          ],
+          "captions": [
+            "The inner spiral.",
+            "A blue module.",
+            "A yellow coil."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "許多相同的模組以PVC板切出，並裝上圓盤、拱形與窗洞。接著它們被拉伸、旋轉、交錯並組合。",
+              "captions": [
+                "內部螺旋。",
+                "藍色模組。",
+                "黃色線圈。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished tower stacks the turning modules into a dense block of arches, with yellow and blue parts marking the hinges of rotation. Seen from below, its corridors seem to twist in every direction.",
+          "images": [
+            "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/02-tower-front-view.webp",
+            "assets/board/turning-corridor-tower-pvc-disk-and-module-stack/08-tower-low-angle.webp"
+          ],
+          "captions": [
+            "The tower from the front.",
+            "The tower from a low angle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的塔把可轉動的模組堆疊成一個密集的拱形量體，黃色與藍色部件標示出旋轉的關節。從下方看，走廊彷彿朝各個方向扭轉。",
+              "captions": [
+                "塔的正面。",
+                "低角度看塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Beyond the Frame - A Corridor Set Free",
+          "body": "Every photograph is an act of exclusion, and this project began with a frustration about what a frame leaves out. A keen traveller who records journeys through a camera, the student wondered whether a few elements trapped inside a picture could be released to make something new. The starting point was a corridor scene from a favourite film, in which a hallway appears to rotate. Rather than copying the image, the student first rebuilt the corridor digitally, then asked what it would take for such a space to turn in reality. The answer was mechanical as much as visual, a circular disk and base wrapped around each module like a wheel. Dozens of identical units were cut from foam board, given arches and window openings, and then stretched, rotated, crossed and stacked. Yellow and blue parts mark the hinges where rotation happens. The resulting tower is dense and labyrinthine, its corridors twisting in every direction when seen from below, proving that a single framed moment can seed a whole architecture.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "畫框之外-被釋放的走廊",
+              "body": "每一張照片都是一次排除，這個專題始於對畫框遺漏之物的不滿。作為以相機記錄旅程的旅行愛好者，學生思考，被困在畫面中的少數元素能否被釋放出來，創造新的事物。起點是一部喜愛電影中的走廊場景，畫面中的長廊彷彿在旋轉。學生沒有複製影像，而是先以數位方式重建走廊，再追問這樣的空間要如何在現實中轉動。答案既關乎視覺，也關乎機械：一個圓盤與底座像輪子般包覆每個模組。數十個相同的單元以發泡板切出，開出拱形與窗洞，接著被拉伸、旋轉、交錯並堆疊。黃色與藍色部件標示出旋轉發生的關節。最終的塔密集而如迷宮，從下方看，走廊朝各個方向扭轉，證明一個被框住的瞬間也能孕育整座建築。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
