@@ -66696,6 +66696,422 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Sonic Spectrum",
+      "slug": "sonic-spectrum-sound-curves-to-layered-tower",
+      "description": "Curves drawn from the way sound and force travel grow into a layered tower of bent PVC strips and sticks.\n\nModel making | Sound and structure study | PVC boards, wooden sticks, ABS sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "聲音光譜",
+          "description": "從聲音與力的傳遞方式畫出曲線，再發展成由彎曲 PVC 條與木棒構成的層疊高塔。\n\n模型製作｜聲音與結構研究｜PVC 板、木棒、ABS 棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/01-layered-tower.webp",
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/02-force-lines.webp",
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/03-wire-curves.webp",
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/04-curves-on-board.webp",
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/05-paper-relief.webp",
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/06-curved-strips.webp",
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/07-top-detail.webp",
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/08-wide-view.webp",
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/09-upper-section.webp",
+        "assets/board/sonic-spectrum-sound-curves-to-layered-tower/10-tower-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/01-layered-tower.webp"
+          ],
+          "captions": [
+            "The layered tower of bent strips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "由彎曲板條層疊而成的高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began with the inner structure of headphones. The student noticed that the way sound travels looks like the way force travels through a bridge, and asked whether that shared shape could become space.",
+          "images": [
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/02-force-lines.webp"
+          ],
+          "captions": [
+            "Drawings of lines of force."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題從耳機的內部結構出發。學生發現聲音傳遞的方式與力在橋梁中傳遞的方式相似，於是探問這種共通的形態能否轉化為空間。",
+              "captions": [
+                "力線的研究圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Wave patterns of sound were laid over bridge structures, and the points of force were drawn and then lifted into three dimensions. In the shadows the energy read as softer curves.",
+          "images": [
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/03-wire-curves.webp",
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/04-curves-on-board.webp"
+          ],
+          "captions": [
+            "Curves lifted off the drawing.",
+            "Wire curves over the drawn lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把聲波的圖形疊在橋梁結構上，畫出受力點，再把它們立體化。在陰影中，能量呈現為更柔和的曲線。",
+              "captions": [
+                "從圖面中立起的曲線。",
+                "覆在線稿上的線材曲線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A quiet scene from a trip was used as a test. The parts that felt like sound were turned into curves, and each kind of sound became its own layer, growing more blurred toward the top.",
+          "images": [
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/05-paper-relief.webp",
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/06-curved-strips.webp",
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/07-top-detail.webp"
+          ],
+          "captions": [
+            "A first relief of curved paper.",
+            "Curved strips set on the plan.",
+            "The top of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以旅途中一處安靜的場景作為實驗對象。畫面中帶有聲音感的部分被轉為曲線，每一種聲音成為一層，越往上越模糊。",
+              "captions": [
+                "第一個彎曲紙片浮雕。",
+                "立在平面上的彎曲板條。",
+                "模型頂部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final tower stacks these sound layers like the inside of a headphone. A contrasting upper section uses regular geometry and a helix to stand for the sound changed by the earphone.",
+          "images": [
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/08-wide-view.webp",
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/09-upper-section.webp",
+            "assets/board/sonic-spectrum-sound-curves-to-layered-tower/10-tower-drawing.webp"
+          ],
+          "captions": [
+            "The lower layers seen wide.",
+            "The regular upper section.",
+            "A drawing of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終高塔把這些聲音層疊起來，如同耳機的內部。上段以規則幾何與螺旋結構作為對比，代表經過耳機改變後的聲音。",
+              "captions": [
+                "下層的全景。",
+                "規則的上段結構。",
+                "高塔的手繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find a shared shape in two systems.\n2. Draw the forces as lines.\n3. Give each sound its own layer.\n4. Add a contrasting part to compare.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 在兩個系統中找出共通形態。\n2. 把力畫成線。\n3. 讓每種聲音自成一層。\n4. 加入對比段落作比較。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Return to the Renaissance",
+      "slug": "return-to-the-renaissance-arched-hillside-citadel",
+      "description": "Domes, arches and columns are collaged into a white citadel that climbs a mountain of stacked stick triangles.\n\nModel making | Collage and deconstruction | Wooden sticks, paperboard, model trees | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "回到文藝復興",
+          "description": "把穹頂、拱與柱拼貼成一座白色城堡，攀附在由木棒三角堆疊而成的山上。\n\n模型製作｜拼貼與解構｜木棒、紙板、模型樹｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/return-to-the-renaissance-arched-hillside-citadel/01-citadel.webp",
+        "assets/board/return-to-the-renaissance-arched-hillside-citadel/02-collage-drawing.webp",
+        "assets/board/return-to-the-renaissance-arched-hillside-citadel/03-hatched-drawing.webp",
+        "assets/board/return-to-the-renaissance-arched-hillside-citadel/04-dome-and-stairs.webp",
+        "assets/board/return-to-the-renaissance-arched-hillside-citadel/05-arcade-level.webp",
+        "assets/board/return-to-the-renaissance-arched-hillside-citadel/06-triangle-infill.webp",
+        "assets/board/return-to-the-renaissance-arched-hillside-citadel/07-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/return-to-the-renaissance-arched-hillside-citadel/01-citadel.webp"
+          ],
+          "captions": [
+            "The white citadel with its dome and arches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "帶有穹頂與拱的白色城堡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project started from an interest in Renaissance European architecture. It asks how a style known for order and symmetry could be taken apart and rebuilt as a new story.",
+          "images": [
+            "assets/board/return-to-the-renaissance-arched-hillside-citadel/02-collage-drawing.webp"
+          ],
+          "captions": [
+            "A collage drawing of domes and facades."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題源於學生對歐洲文藝復興建築的興趣。它探問一種以秩序與對稱著稱的風格，如何被拆解後重建成新的故事。",
+              "captions": [
+                "穹頂與立面的拼貼線稿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Drawings of Renaissance buildings were cut and collaged into one deconstructed scene. A second drawing tested how the building could sit on a rough, mountain-like base.",
+          "images": [
+            "assets/board/return-to-the-renaissance-arched-hillside-citadel/03-hatched-drawing.webp"
+          ],
+          "captions": [
+            "A hatched study of the citadel on its hill."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把文藝復興建築的線稿剪開，拼貼成一個解構的場景。第二張圖則測試建築如何坐落在粗糙如山的基座上。",
+              "captions": [
+                "山上城堡的排線研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wooden sticks were used to build mountains for the buildings to stand on. Arches and rows of columns carry the sense of grandeur, and the empty areas were filled with stacked triangles.",
+          "images": [
+            "assets/board/return-to-the-renaissance-arched-hillside-citadel/04-dome-and-stairs.webp",
+            "assets/board/return-to-the-renaissance-arched-hillside-citadel/05-arcade-level.webp"
+          ],
+          "captions": [
+            "The dome above a curving stair.",
+            "A level of arcades."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以木棒搭出讓建築立足的山體。拱與成排的柱子帶出宏偉感，空隙則以堆疊的三角形填滿。",
+              "captions": [
+                "弧形樓梯上方的穹頂。",
+                "一層拱廊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Winding paper strips link the parts into one piece. Model trees and tiny figures turn it into a scene with a story.",
+          "images": [
+            "assets/board/return-to-the-renaissance-arched-hillside-citadel/06-triangle-infill.webp",
+            "assets/board/return-to-the-renaissance-arched-hillside-citadel/07-side-view.webp"
+          ],
+          "captions": [
+            "Triangles filling the gaps.",
+            "A side view with trees."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "蜿蜒的紙條把各部分連成一體。模型樹與小人偶則讓它成為一個有故事的場景。",
+              "captions": [
+                "填滿空隙的三角形。",
+                "帶有樹木的側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study one style closely.\n2. Cut and collage its parts.\n3. Build a ground for it to climb.\n4. Link the parts into a story.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 仔細研究一種風格。\n2. 剪開並拼貼其元素。\n3. 搭建讓它攀附的地形。\n4. 把各部分串成故事。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Wave-Fold Pavilion",
+      "slug": "wave-fold-pavilion-paper-triangles-to-arch",
+      "description": "Folded paper waves of small irregular triangles are modelled digitally and enlarged into an arching pavilion.\n\nPaper folding and digital modelling | Pavilion | Paper, Rhino | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "浪摺亭",
+          "description": "以不規則小三角形摺出的紙浪，經數位建模後放大成一座拱形亭。\n\n摺紙與數位建模｜涼亭｜紙、Rhino｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/wave-fold-pavilion-paper-triangles-to-arch/01-pavilion-arch.webp",
+        "assets/board/wave-fold-pavilion-paper-triangles-to-arch/02-paper-fold-a.webp",
+        "assets/board/wave-fold-pavilion-paper-triangles-to-arch/03-paper-fold-b.webp",
+        "assets/board/wave-fold-pavilion-paper-triangles-to-arch/04-paper-fold-c.webp",
+        "assets/board/wave-fold-pavilion-paper-triangles-to-arch/05-fold-drawing.webp",
+        "assets/board/wave-fold-pavilion-paper-triangles-to-arch/06-pavilion-sketch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/wave-fold-pavilion-paper-triangles-to-arch/01-pavilion-arch.webp"
+          ],
+          "captions": [
+            "The folded arch placed in a courtyard."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "置入庭院中的摺紙拱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The work grew from a love of paper folding and of nature. It asks how the motion of a rough sea could be caught in a folded surface.",
+          "images": [
+            "assets/board/wave-fold-pavilion-paper-triangles-to-arch/02-paper-fold-a.webp"
+          ],
+          "captions": [
+            "A first wave fold."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這件作品源於學生對摺紙與自然的喜愛。它探問洶湧海面的動態如何被捕捉在摺疊的表面中。",
+              "captions": [
+                "第一個浪形摺紙。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied folding techniques and copied known folded works. Then a new folding device was designed, using irregular small triangles to imitate turbulent water.",
+          "images": [
+            "assets/board/wave-fold-pavilion-paper-triangles-to-arch/03-paper-fold-b.webp",
+            "assets/board/wave-fold-pavilion-paper-triangles-to-arch/04-paper-fold-c.webp"
+          ],
+          "captions": [
+            "The wave stretched into a loop.",
+            "The fold on a dark ground."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究摺紙技法並臨摹既有作品。接著設計出新的摺紙裝置，以不規則的小三角形模仿翻騰的水面。",
+              "captions": [
+                "拉長成環的浪。",
+                "深色背景上的摺紙。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The paper model was first redrawn by hand. It was then rebuilt in Rhino, where control points were used to shape and render the surface.",
+          "images": [
+            "assets/board/wave-fold-pavilion-paper-triangles-to-arch/05-fold-drawing.webp"
+          ],
+          "captions": [
+            "A drawing of the folded surface."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "紙模型先以手繪重新描繪。接著於 Rhino 中重建，並以控制點塑形與算圖。",
+              "captions": [
+                "摺面的手繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model was enlarged into a pavilion that could stand in the centre of a teaching building. Images placed it in a courtyard to show its size.",
+          "images": [
+            "assets/board/wave-fold-pavilion-paper-triangles-to-arch/06-pavilion-sketch.webp"
+          ],
+          "captions": [
+            "An illustration of the pavilion by a building."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型被放大為一座可置於教學大樓中央的涼亭。學生並以影像合成放入庭院中呈現尺度。",
+              "captions": [
+                "建築前涼亭的插畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Copy folds to learn them.\n2. Design your own fold.\n3. Rebuild it digitally.\n4. Test it at full scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 臨摹摺法以學習。\n2. 設計自己的摺法。\n3. 以數位方式重建。\n4. 在實際尺度中測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
