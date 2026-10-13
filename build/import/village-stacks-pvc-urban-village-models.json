@@ -1,0 +1,61 @@
+{
+  "project": "Village Stacks",
+  "dest": "assets/board/village-stacks-pvc-urban-village-models",
+  "note": "Portfolio 9eaa pages 2-5 cropped to 9 images, WebP q88 (PIL). Not used: street photo collage with shop signs, labelled street photo strip, photo of the student with the model, caption with city name and dates.",
+  "files": [
+    {
+      "name": "01-four-stacked-village-models.webp",
+      "sha256": "ee6cac8acd3da00470c66006d5efd8a146cfd56263e7f5afa3dce6c9a2e97ed5",
+      "bytes": 174212,
+      "from": "9eaa pages 2-5 — four stacked village models"
+    },
+    {
+      "name": "02-village-section-drawing-left.webp",
+      "sha256": "0c9a0a7455f0ecb9c5b5d28196e5e3a48952d206669eb668a07f2f3c187c2b0d",
+      "bytes": 574958,
+      "from": "9eaa pages 2-5 — left half of the village section"
+    },
+    {
+      "name": "03-village-section-drawing-right.webp",
+      "sha256": "fbc5b35862af74c7e9ee7a61e536ebcd5b274190e016efc53119d2630a9601e2",
+      "bytes": 588070,
+      "from": "9eaa pages 2-5 — right half of the village section"
+    },
+    {
+      "name": "04-early-model-views.webp",
+      "sha256": "21d9cc9fa5f70aa87f2e3115e64a9702124a4008fbdef3dd5f49af72d16d2e6e",
+      "bytes": 111594,
+      "from": "9eaa pages 2-5 — early views of the models"
+    },
+    {
+      "name": "05-four-models-side-by-side.webp",
+      "sha256": "a7ad5181ab818d7e235d30f6779f866ca9a9f8e5134929f45db5dbb13fd41ec6",
+      "bytes": 164394,
+      "from": "9eaa pages 2-5 — the four models side by side"
+    },
+    {
+      "name": "06-stacked-tower-pair.webp",
+      "sha256": "8694984184a66e16a380f1545d17709388f1d22ab9892336b09b4753aa6d9b80",
+      "bytes": 93570,
+      "from": "9eaa pages 2-5 — a pair of stacked towers"
+    },
+    {
+      "name": "07-interior-with-scale-figures.webp",
+      "sha256": "dc247d572b183e613620c7256ec3ba156591f3327b1fe704a0d2dbbe8ef0ada4",
+      "bytes": 32140,
+      "from": "9eaa pages 2-5 — an interior with scale figures"
+    },
+    {
+      "name": "08-cantilevered-floors-close.webp",
+      "sha256": "bb89edfb41e5af087074a01c067ab934f7eb22659db9215ba5e5613dad62b815",
+      "bytes": 41264,
+      "from": "9eaa pages 2-5 — cantilevered floors in close view"
+    },
+    {
+      "name": "09-combined-village-form.webp",
+      "sha256": "8fedadbe62ed2615afd3e8c0c0f7208631463c657f3c1f91d03ce4cbfa6ba047",
+      "bytes": 73278,
+      "from": "9eaa pages 2-5 — a combined village form"
+    }
+  ]
+}
