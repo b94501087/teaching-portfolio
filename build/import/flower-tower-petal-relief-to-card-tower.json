@@ -1,0 +1,49 @@
+{
+  "project": "Flower Tower",
+  "dest": "assets/board/flower-tower-petal-relief-to-card-tower",
+  "note": "Portfolio 3dee pages 10-11 cropped to 7 images, WebP q88 (PIL). Not used: cover page.",
+  "files": [
+    {
+      "name": "01-flower-tower-model.webp",
+      "sha256": "61a58e23f66452dd771def2535c9d298d5aacb011840a57e961cb7d7718e5c78",
+      "bytes": 381640,
+      "from": "3dee page 10-11 — the flower tower in the garden"
+    },
+    {
+      "name": "02-petal-relief-top.webp",
+      "sha256": "b13669247484d22ecf3f9d111c08b2474da945df1c40c44a78f9fe1c0723c7fe",
+      "bytes": 169750,
+      "from": "3dee page 10-11 — card reliefs from above"
+    },
+    {
+      "name": "03-petal-relief-panels.webp",
+      "sha256": "303735ec51b8dbbd6f506d05f9048258cd41713aae34cce73d4e273e2706d655",
+      "bytes": 358464,
+      "from": "3dee page 10-11 — a large petal relief"
+    },
+    {
+      "name": "04-flower-to-circles.webp",
+      "sha256": "6c81bd3251771e6e18e16f87cc8d5b1ed92497950e671581044e7677db443a66",
+      "bytes": 213794,
+      "from": "3dee page 10-11 — a flower traced into circles"
+    },
+    {
+      "name": "05-tower-process.webp",
+      "sha256": "9c9d2ea40811d0034d9767cce8ed390ea870e66e406a594e4e03a58651848a42",
+      "bytes": 80742,
+      "from": "3dee page 10-11 — the tower taking shape"
+    },
+    {
+      "name": "06-flower-tower-drawing.webp",
+      "sha256": "016601fcbed7aa6e2474c9f247260d4e9442ca75329979f015c26dcc0dba28d7",
+      "bytes": 504680,
+      "from": "3dee page 10-11 — the tower drawn in bloom"
+    },
+    {
+      "name": "07-relief-column.webp",
+      "sha256": "19d00b78e0a1f4e687220679108422311dbc626b399e0554a061b03a46422381",
+      "bytes": 232306,
+      "from": "3dee page 10-11 — a column of reliefs"
+    }
+  ]
+}
