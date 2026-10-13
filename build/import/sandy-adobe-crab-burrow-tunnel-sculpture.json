@@ -1,0 +1,43 @@
+{
+  "project": "Sandy Adobe",
+  "dest": "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture",
+  "note": "Portfolio fbb7 page 12 cropped to six images, WebP q88 (PIL). Not used: beach reference photos, process photos with hands.",
+  "files": [
+    {
+      "name": "01-tunnel-sculpture.webp",
+      "sha256": "194068fa8a773ba668005adab74fa012cb500e05b773463c1067e1369d534ea3",
+      "bytes": 215790,
+      "from": "fbb7 page 12 — tunnel sculpture"
+    },
+    {
+      "name": "02-clay-tubes.webp",
+      "sha256": "882dce335e8fd584fa5e75453f54e9224f96bf7fa371329f7025cbf02661cbcf",
+      "bytes": 24144,
+      "from": "fbb7 page 12 — clay tubes"
+    },
+    {
+      "name": "03-top-detail.webp",
+      "sha256": "ac372af3762c41e25f598daa1d5a0c3c6e82f755c9d4c07cd819481e8166ba76",
+      "bytes": 49566,
+      "from": "fbb7 page 12 — top detail"
+    },
+    {
+      "name": "04-tunnel-detail.webp",
+      "sha256": "1b3b59c5d9b1840ec7f323f025a21427a766e0439ccb8f3a3af94d651483e755",
+      "bytes": 35358,
+      "from": "fbb7 page 12 — tunnel detail"
+    },
+    {
+      "name": "05-tunnel-drawing.webp",
+      "sha256": "ff3cfbd7a56c943cd0739f6be2fe5df378ae9ff78dee88056532e9bfbf0074af",
+      "bytes": 77222,
+      "from": "fbb7 page 12 — tunnel drawing"
+    },
+    {
+      "name": "06-sanded-tubes.webp",
+      "sha256": "89cb71d7415f93faa5a32bb5f3799a90491cd34950b32df32db190539874e537",
+      "bytes": 51650,
+      "from": "fbb7 page 12 — sanded tubes"
+    }
+  ]
+}
