@@ -2,10 +2,10 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { CATEGORIES, CATEGORY_FILTER, pinShown, renderBoard, listedPins, pinLevel } from '../admin/render.js';
+import { mergeBoard, CATEGORIES, CATEGORY_FILTER, pinShown, renderBoard, listedPins, pinLevel } from '../admin/render.js';
 
 const cats = JSON.parse(readFileSync(new URL('../content/categories.json', import.meta.url)));
-const board = JSON.parse(readFileSync(new URL('../content/board.json', import.meta.url)));
+const board = mergeBoard(JSON.parse(readFileSync(new URL('../content/board.json', import.meta.url))), f => JSON.parse(readFileSync(new URL('../content/' + f, import.meta.url))));
 const site = JSON.parse(readFileSync(new URL('../content/site.json', import.meta.url)));
 
 test('categories.json only uses the five categories', () => {
