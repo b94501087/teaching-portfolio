@@ -59400,6 +59400,582 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Rhythm of the Court",
+      "slug": "rhythm-of-the-court-stick-chain-basketball-model",
+      "description": "Sticks, shoelaces and a hanging chain net turn the rhythm of a basketball game into a model.\n\nModel making | Sport study | Wood sticks, spray paint, shoelaces and iron chain | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "球場的節奏",
+          "description": "木條、鞋帶與懸掛的鐵鍊網，把籃球比賽的節奏化為一座模型。\n\n模型製作｜運動研究｜木條、噴漆、鞋帶與鐵鍊｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/01-final-model.webp",
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/02-motion-sketch.webp",
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/03-tower-sketch.webp",
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/04-stick-base.webp",
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/05-coloured-sticks.webp",
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/06-laced-posts.webp",
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/07-ball-corner.webp",
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/08-figures-below.webp",
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/09-high-view.webp",
+        "assets/board/rhythm-of-the-court-stick-chain-basketball-model/10-court-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The chain net over the court."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "球場上方的鐵鍊網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Basketball is full of rhythm: passes, jumps and shots. The student wanted to turn that rhythm into a space.",
+          "images": [
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/02-motion-sketch.webp",
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/03-tower-sketch.webp"
+          ],
+          "captions": [
+            "A sketch of movement on court.",
+            "A sketch of the rising form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "籃球充滿節奏：傳球、跳躍與投籃。學生想把這種節奏轉化為空間。",
+              "captions": [
+                "球場動態草圖。",
+                "上升形體的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sketches mapped the elements of the game and how players move. Loose drawings tested a form that rises from the floor.",
+          "images": [
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/04-stick-base.webp"
+          ],
+          "captions": [
+            "The stick base from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "草圖整理比賽的元素與球員的移動方式。隨意的線稿測試一個從地面升起的形體。",
+              "captions": [
+                "從上方看木條基座。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Painted sticks became the court floor. Upright sticks wrapped in yellow, blue and grey laces stood for two teams and the referees, and cantilevered sticks traced passes.",
+          "images": [
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/05-coloured-sticks.webp",
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/06-laced-posts.webp"
+          ],
+          "captions": [
+            "Coloured sticks for two teams.",
+            "Posts tied with laces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "上漆的木條成為球場地板。纏上黃、藍、灰鞋帶的直立木條代表兩隊與裁判，懸挑木條則描繪傳球軌跡。",
+              "captions": [
+                "代表兩隊的彩色木條。",
+                "綁上鞋帶的柱子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A chain from a street hoop was split and draped over the top, with a ball hung in the middle. The model captures the energy of a game in motion.",
+          "images": [
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/07-ball-corner.webp",
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/08-figures-below.webp",
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/09-high-view.webp",
+            "assets/board/rhythm-of-the-court-stick-chain-basketball-model/10-court-detail.webp"
+          ],
+          "captions": [
+            "The ball caught in the chains.",
+            "Figures under the net.",
+            "A high view of the net.",
+            "Players among the posts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "取自街頭籃框的鐵鍊被拆開並披掛在頂部，中央懸掛一顆球。模型捕捉比賽進行中的能量。",
+              "captions": [
+                "卡在鍊中的球。",
+                "網下的人偶。",
+                "網的高處視角。",
+                "柱間的球員。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. List the elements.\n2. Give each a material.\n3. Trace the movement.\n4. Build the energy.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 列出元素。\n2. 為每個元素選材料。\n3. 描繪動態。\n4. 建構能量。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Cube Rotate",
+      "slug": "cube-rotate-stacked-boolean-volume-model",
+      "description": "A summer workshop project rotates, stacks and splits boxes into a carved white volume.\n\nSummer workshop | Form study | 3D modelling and 3D printed model | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "旋轉立方",
+          "description": "一個暑期工作坊作品，把方塊旋轉、堆疊並切分成一個雕刻般的白色量體。\n\n暑期工作坊｜形體研究｜3D建模與3D列印模型｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cube-rotate-stacked-boolean-volume-model/01-physical-model.webp",
+        "assets/board/cube-rotate-stacked-boolean-volume-model/02-frame-one.webp",
+        "assets/board/cube-rotate-stacked-boolean-volume-model/03-frame-two.webp",
+        "assets/board/cube-rotate-stacked-boolean-volume-model/04-frame-three.webp",
+        "assets/board/cube-rotate-stacked-boolean-volume-model/05-render.webp",
+        "assets/board/cube-rotate-stacked-boolean-volume-model/06-rotation-drawing.webp",
+        "assets/board/cube-rotate-stacked-boolean-volume-model/07-surface-lines.webp",
+        "assets/board/cube-rotate-stacked-boolean-volume-model/08-model-close.webp",
+        "assets/board/cube-rotate-stacked-boolean-volume-model/09-unrolled-elevation.webp",
+        "assets/board/cube-rotate-stacked-boolean-volume-model/10-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cube-rotate-stacked-boolean-volume-model/01-physical-model.webp"
+          ],
+          "captions": [
+            "The printed model with a figure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "放有人偶的列印模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The workshop asked students to pick a volume and a verb that would shape it. The student chose a cube and the verb rotate.",
+          "images": [
+            "assets/board/cube-rotate-stacked-boolean-volume-model/02-frame-one.webp"
+          ],
+          "captions": [
+            "Aggregation, step one."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "工作坊要求學生選擇一個量體與一個塑造它的動詞。學生選了立方體與「旋轉」。",
+              "captions": [
+                "聚合步驟一。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A rectangle was copied, rotated and stacked again and again. The steps were tested in a series of animation frames.",
+          "images": [
+            "assets/board/cube-rotate-stacked-boolean-volume-model/03-frame-two.webp",
+            "assets/board/cube-rotate-stacked-boolean-volume-model/04-frame-three.webp"
+          ],
+          "captions": [
+            "Aggregation, step two.",
+            "Aggregation, step three."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一個矩形被反覆複製、旋轉與堆疊。各步驟以一系列動畫畫格測試。",
+              "captions": [
+                "聚合步驟二。",
+                "聚合步驟三。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A boolean cut split the stacked boxes into halves, and the same commands were repeated with small changes. Drawings explained the rotation and the surfaces.",
+          "images": [
+            "assets/board/cube-rotate-stacked-boolean-volume-model/05-render.webp",
+            "assets/board/cube-rotate-stacked-boolean-volume-model/06-rotation-drawing.webp",
+            "assets/board/cube-rotate-stacked-boolean-volume-model/07-surface-lines.webp"
+          ],
+          "captions": [
+            "A render of the whole form.",
+            "The rotation drawing.",
+            "Surface logic in lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以布林運算把堆疊的方塊切成兩半，並以細微調整重複相同指令。圖面說明旋轉與表面。",
+              "captions": [
+                "整體形體的算圖。",
+                "旋轉圖。",
+                "以線條表現的表面邏輯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The printed model is a carved white mass with stairs and terraces inside. An unrolled elevation and a section show how it works as a space.",
+          "images": [
+            "assets/board/cube-rotate-stacked-boolean-volume-model/08-model-close.webp",
+            "assets/board/cube-rotate-stacked-boolean-volume-model/09-unrolled-elevation.webp",
+            "assets/board/cube-rotate-stacked-boolean-volume-model/10-section.webp"
+          ],
+          "captions": [
+            "A close view of the model.",
+            "The unrolled elevations.",
+            "A section with stairs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "列印模型是一個內含樓梯與平台的白色雕刻量體。展開立面與剖面呈現它如何成為空間。",
+              "captions": [
+                "模型近景。",
+                "展開立面。",
+                "帶樓梯的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a volume.\n2. Pick a verb.\n3. Repeat the action.\n4. Draw the result.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個量體。\n2. 選一個動詞。\n3. 重複動作。\n4. 繪製成果。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Music Reflection Space",
+      "slug": "music-reflection-space-deconstructed-guitar-model",
+      "description": "A guitar is taken apart and rebuilt with mirror paper and white balls into a tall reflective box.\n\nModel making | Music and space | Guitar parts, paper, fishing line and white balls | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "音樂反射空間",
+          "description": "一把吉他被拆解，並以鏡面紙與白球重組成一座高大的反射盒。\n\n模型製作｜音樂與空間｜吉他零件、紙、釣魚線與白球｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/music-reflection-space-deconstructed-guitar-model/01-final-box.webp",
+        "assets/board/music-reflection-space-deconstructed-guitar-model/02-guitar-drawing.webp",
+        "assets/board/music-reflection-space-deconstructed-guitar-model/03-disassembly-start.webp",
+        "assets/board/music-reflection-space-deconstructed-guitar-model/04-parts-laid-out.webp",
+        "assets/board/music-reflection-space-deconstructed-guitar-model/05-mirror-shards.webp",
+        "assets/board/music-reflection-space-deconstructed-guitar-model/06-lower-detail.webp",
+        "assets/board/music-reflection-space-deconstructed-guitar-model/07-neck-detail.webp",
+        "assets/board/music-reflection-space-deconstructed-guitar-model/08-body-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/music-reflection-space-deconstructed-guitar-model/01-final-box.webp"
+          ],
+          "captions": [
+            "The guitar inside the reflective box."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "反射盒中的吉他。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to show music as a space, not only a sound. A guitar became the starting point.",
+          "images": [
+            "assets/board/music-reflection-space-deconstructed-guitar-model/02-guitar-drawing.webp"
+          ],
+          "captions": [
+            "A drawing of a guitar and music."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想把音樂呈現為空間，而不只是聲音。一把吉他成為起點。",
+              "captions": [
+                "吉他與音樂的手繪。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The guitar was taken apart piece by piece, and every stage was recorded. The neck, pegs and joints were studied closely.",
+          "images": [
+            "assets/board/music-reflection-space-deconstructed-guitar-model/03-disassembly-start.webp",
+            "assets/board/music-reflection-space-deconstructed-guitar-model/04-parts-laid-out.webp"
+          ],
+          "captions": [
+            "Taking the guitar apart.",
+            "The parts laid out."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "吉他被逐件拆解，每個階段都被記錄。琴頸、弦鈕與接合處都被仔細研究。",
+              "captions": [
+                "拆解吉他。",
+                "攤開的零件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The parts were put back together with mirror paper and white balls hung on fishing line. The reflections stand for the echo of music.",
+          "images": [
+            "assets/board/music-reflection-space-deconstructed-guitar-model/05-mirror-shards.webp",
+            "assets/board/music-reflection-space-deconstructed-guitar-model/06-lower-detail.webp"
+          ],
+          "captions": [
+            "Mirror shards and balls.",
+            "Shards at the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "零件與鏡面紙、以釣魚線懸掛的白球重新組合。反射代表音樂的回響。",
+              "captions": [
+                "鏡面碎片與白球。",
+                "底部的碎片。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The tall box holds the broken guitar among bright shards and floating balls. It reads like a song frozen in space.",
+          "images": [
+            "assets/board/music-reflection-space-deconstructed-guitar-model/07-neck-detail.webp",
+            "assets/board/music-reflection-space-deconstructed-guitar-model/08-body-detail.webp"
+          ],
+          "captions": [
+            "The neck among the shards.",
+            "Balls floating by the body."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "高大的盒子把拆開的吉他置於明亮碎片與漂浮白球之間。它如同凝結在空間中的一首歌。",
+              "captions": [
+                "碎片中的琴頸。",
+                "漂浮於琴身旁的白球。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick an object.\n2. Take it apart.\n3. Add new materials.\n4. Rebuild the feeling.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個物件。\n2. 把它拆開。\n3. 加入新材料。\n4. 重建感受。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Dissipating Forms of Time",
+      "slug": "dissipating-forms-of-time-wire-installation",
+      "description": "Bent iron and steel wire, hung in a wooden frame, capture a passing moment as a hovering form.\n\nModel making | Installation | Wooden frame, iron wire, clay, steel wire and fishing line | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "消散的時間形態",
+          "description": "彎折的鐵絲與鋼絲懸掛於木框中，以懸浮的形體捕捉流逝的瞬間。\n\n模型製作｜裝置｜木框、鐵絲、黏土、鋼絲與釣魚線｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/dissipating-forms-of-time-wire-installation/01-final-installation.webp",
+        "assets/board/dissipating-forms-of-time-wire-installation/02-frame-test.webp",
+        "assets/board/dissipating-forms-of-time-wire-installation/03-front-view.webp",
+        "assets/board/dissipating-forms-of-time-wire-installation/04-side-view.webp",
+        "assets/board/dissipating-forms-of-time-wire-installation/05-workbench.webp",
+        "assets/board/dissipating-forms-of-time-wire-installation/06-hung-form.webp",
+        "assets/board/dissipating-forms-of-time-wire-installation/07-profile.webp",
+        "assets/board/dissipating-forms-of-time-wire-installation/08-dark-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/dissipating-forms-of-time-wire-installation/01-final-installation.webp"
+          ],
+          "captions": [
+            "The wire form in light and shadow."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "光影中的鐵絲形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Paintings record moments, but they felt too flat to hold changing emotions. The student wanted a three-dimensional piece that could hold a feeling.",
+          "images": [
+            "assets/board/dissipating-forms-of-time-wire-installation/02-frame-test.webp"
+          ],
+          "captions": [
+            "The first wire in the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "繪畫能記錄瞬間，但對承載變化的情緒來說太平面。學生想做一件能承載感受的立體作品。",
+              "captions": [
+                "框中的第一批鐵絲。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A wooden frame was sized to fit a face. Thin black wire was woven into a flat plane fixed at both ends.",
+          "images": [
+            "assets/board/dissipating-forms-of-time-wire-installation/03-front-view.webp",
+            "assets/board/dissipating-forms-of-time-wire-installation/04-side-view.webp"
+          ],
+          "captions": [
+            "A front view in progress.",
+            "A side view in progress."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "木框依臉部尺寸製作。細黑鐵絲被編成固定兩端的平面。",
+              "captions": [
+                "製作中的正面。",
+                "製作中的側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The wire was pressed into shape with a little clay, and curly steel wire was added on top. The piece was then hung from the frame with fishing line.",
+          "images": [
+            "assets/board/dissipating-forms-of-time-wire-installation/05-workbench.webp",
+            "assets/board/dissipating-forms-of-time-wire-installation/06-hung-form.webp"
+          ],
+          "captions": [
+            "Wire work on the bench.",
+            "The form hung by fishing line."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "鐵絲被壓塑成形並加入少量黏土，頂部加上捲曲的鋼絲。作品再以釣魚線懸掛於框中。",
+              "captions": [
+                "工作台上的鐵絲作業。",
+                "以釣魚線懸掛的形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Under a single light, loose strands seem to blow away from the form. The installation shows a moment slowly fading.",
+          "images": [
+            "assets/board/dissipating-forms-of-time-wire-installation/07-profile.webp",
+            "assets/board/dissipating-forms-of-time-wire-installation/08-dark-view.webp"
+          ],
+          "captions": [
+            "The finished profile.",
+            "The installation in the dark."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在單一光源下，鬆散的線條彷彿從形體飄散。裝置呈現一個逐漸消逝的瞬間。",
+              "captions": [
+                "完成的側影。",
+                "暗處中的裝置。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Name a feeling.\n2. Set a frame.\n3. Shape the material.\n4. Light the moment.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 說出一種感受。\n2. 設定框架。\n3. 塑造材料。\n4. 照亮瞬間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
