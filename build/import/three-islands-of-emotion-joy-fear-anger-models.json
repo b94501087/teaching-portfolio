@@ -1,0 +1,61 @@
+{
+  "project": "Three Islands of Emotion",
+  "dest": "assets/board/three-islands-of-emotion-joy-fear-anger-models",
+  "note": "Portfolio ff8f pages 2-3 cropped to 9 images, WebP q88 (PIL). Not used: animated film stills and character art, film name.",
+  "files": [
+    {
+      "name": "01-joy-model.webp",
+      "sha256": "6a07962dc760e723556048b85677c1bf3328ff3c57c7f1aa25b434c0aebcf0d9",
+      "bytes": 37546,
+      "from": "ff8f pages 2-3 — the joy model"
+    },
+    {
+      "name": "02-joy-model-close-up.webp",
+      "sha256": "35d9ad725afdea4f08c90b7d59852fef14a38f988775fb454c1d7840b15a0789",
+      "bytes": 51208,
+      "from": "ff8f pages 2-3 — the joy model close up"
+    },
+    {
+      "name": "03-fear-model.webp",
+      "sha256": "84ee022d4d6774d375f1f54c81f16c038e4b7a6e3fda0156c7a5a5beb65cd4b0",
+      "bytes": 84996,
+      "from": "ff8f pages 2-3 — the fear model"
+    },
+    {
+      "name": "04-fear-model-detail.webp",
+      "sha256": "e7a37389b36c713cedfe9972521e3d433fb83ea666a4a72a4cfaf81c8d7f61b9",
+      "bytes": 34088,
+      "from": "ff8f pages 2-3 — a fear model detail"
+    },
+    {
+      "name": "05-fear-model-shadows.webp",
+      "sha256": "c57cfbbd14d18ccadb2120e258f81d1ac2f213e008fa95bb9b7d19fc76c5a684",
+      "bytes": 26594,
+      "from": "ff8f pages 2-3 — the fear model and its shadows"
+    },
+    {
+      "name": "06-anger-model.webp",
+      "sha256": "19725d5436cb56229de94e5597883bbd9650910bac168bfa6f95b3ff036bf735",
+      "bytes": 54232,
+      "from": "ff8f pages 2-3 — the anger model"
+    },
+    {
+      "name": "07-anger-model-detail.webp",
+      "sha256": "b4d882283c2b04a8d98954a5a0eb50547a0b3255f95c8830aa79289267feb445",
+      "bytes": 24964,
+      "from": "ff8f pages 2-3 — an anger model detail"
+    },
+    {
+      "name": "08-material-sketches.webp",
+      "sha256": "f2b65677b53cdd828becf75eeca877321b40d1cebbb79b0c037eb3866bd51fb6",
+      "bytes": 114598,
+      "from": "ff8f pages 2-3 — material sketches"
+    },
+    {
+      "name": "09-process-models.webp",
+      "sha256": "1c87e161df6e4abb643b65003c828a9bfd951c2156529f790c0239a2edede538",
+      "bytes": 210540,
+      "from": "ff8f pages 2-3 — process models"
+    }
+  ]
+}
