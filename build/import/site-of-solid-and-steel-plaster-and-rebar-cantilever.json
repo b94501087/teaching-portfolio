@@ -1,0 +1,67 @@
+{
+  "project": "Site of Solid and Steel",
+  "dest": "assets/board/site-of-solid-and-steel-plaster-and-rebar-cantilever",
+  "note": "Portfolio 4da0 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, construction-site photos with workers, family background, a collage of process photos.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "bbb68869ddf2edea9910ebd5aa89af2c4bdd95ba88aeb5132c45833610e0d3bb",
+      "bytes": 109302,
+      "from": "4da0 page 3 — final model"
+    },
+    {
+      "name": "02-grid-block.webp",
+      "sha256": "5737a797498b6de2ae556cd32e1c268bfb348f5b8cdacb8b357a79c9fc26e6aa",
+      "bytes": 5840,
+      "from": "4da0 page 2 — grid block"
+    },
+    {
+      "name": "03-wired-ring.webp",
+      "sha256": "7dd89cecc92c47f0a40bbc61d2a02c270e4d652182c3abf5c461a0bedf515671",
+      "bytes": 9178,
+      "from": "4da0 page 2 — wired ring"
+    },
+    {
+      "name": "04-rebar-cluster.webp",
+      "sha256": "5e1491ee5ecba96d6c92e5c8d397ee05f71035f5245afd4c2309417570653a6f",
+      "bytes": 10268,
+      "from": "4da0 page 2 — rebar cluster"
+    },
+    {
+      "name": "05-linked-forms.webp",
+      "sha256": "f031fb483a1ba95288fa3960fc83e0ed9e784ecf06bbd182e3263f6618ee951e",
+      "bytes": 10912,
+      "from": "4da0 page 2 — linked forms"
+    },
+    {
+      "name": "06-pierced-sheet.webp",
+      "sha256": "d94ea5b7a137d6a2560520544c37fc28020679438e9eaea974bea6673a846f5c",
+      "bytes": 10170,
+      "from": "4da0 page 3 — pierced sheet"
+    },
+    {
+      "name": "07-curved-sheet.webp",
+      "sha256": "26e5df65d7f00cd62c74a9ffaf68c74b071248fb62cd8628286883114eda1f60",
+      "bytes": 17756,
+      "from": "4da0 page 3 — curved sheet"
+    },
+    {
+      "name": "08-grid-sheets.webp",
+      "sha256": "281b569b31cd536842b02411d5070f8fd8e2d116ec1c6dc2e9307e3a9be6e156",
+      "bytes": 16530,
+      "from": "4da0 page 3 — grid sheets"
+    },
+    {
+      "name": "09-front-view.webp",
+      "sha256": "60634e31043e8069daa3db8abf8650395e3f39c5c017d0dbf2e42aef41b61d83",
+      "bytes": 14448,
+      "from": "4da0 page 3 — front view"
+    },
+    {
+      "name": "10-side-view.webp",
+      "sha256": "edce4086a6b56d88f3a139fb6395cb55134c822070fd87da841a892f7dc072c6",
+      "bytes": 18892,
+      "from": "4da0 page 3 — side view"
+    }
+  ]
+}
