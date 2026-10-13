@@ -1,0 +1,67 @@
+{
+  "project": "Frozen Swing",
+  "dest": "assets/board/frozen-swing-racket-track-fan-stick-structure",
+  "note": "Portfolio 312b pages 5-7 cropped to 10 images, WebP q88 (PIL). Not used: photos of a person swinging a racket, process photo with hands (retitled from Paralleled World).",
+  "files": [
+    {
+      "name": "01-swing-fan-model-top.webp",
+      "sha256": "3ee01e4856808fe71d23e8d953cfc109b66d6f72a972446ac2c1da7abe3c7f3f",
+      "bytes": 45686,
+      "from": "312b pages 5-7 — the swing fan model from above"
+    },
+    {
+      "name": "02-swing-fan-model-side.webp",
+      "sha256": "bfae89efdabe266240f68bd419975fe369eae4f307bbe1b98a7b3d7a44ebd44b",
+      "bytes": 67994,
+      "from": "312b pages 5-7 — the model from the side"
+    },
+    {
+      "name": "03-photo-fragment-collage.webp",
+      "sha256": "d3695a937fa7b1d8b51bd81427e31fffb187fdd69797190a5bb99e12dcb1b5b4",
+      "bytes": 318148,
+      "from": "312b pages 5-7 — a collage of photo fragments"
+    },
+    {
+      "name": "04-reconstructed-space.webp",
+      "sha256": "aad10532ccdbb95273bbd688283d2eba5b6967bc8350daf221ac38d96080c682",
+      "bytes": 351514,
+      "from": "312b pages 5-7 — the reconstructed space"
+    },
+    {
+      "name": "05-collage-detail-left.webp",
+      "sha256": "6055a3b803cdac4f27059c31e4026b8830fe80613b1175891a4f6481ca269939",
+      "bytes": 59064,
+      "from": "312b pages 5-7 — collage detail"
+    },
+    {
+      "name": "06-collage-detail-centre.webp",
+      "sha256": "29c6786ca2902c7fa990bb417c2d33fce01f286a5884fefe6f14743dee51d52d",
+      "bytes": 60616,
+      "from": "312b pages 5-7 — another collage detail"
+    },
+    {
+      "name": "07-swing-line-drawing.webp",
+      "sha256": "c2cf51d926d4858b27cbaa8bc3a3dd0fbace9f041436ee75541e6a5e0e7ef35a",
+      "bytes": 223814,
+      "from": "312b pages 5-7 — the swing line drawing"
+    },
+    {
+      "name": "08-wave-strip-study.webp",
+      "sha256": "960357481b709819f286342c5110459de327a74a2b5b5c9077a06255bc176513",
+      "bytes": 290252,
+      "from": "312b pages 5-7 — a wave study of sticks"
+    },
+    {
+      "name": "09-fan-assembly.webp",
+      "sha256": "8b44132275a459329561ec3d575ef20e29604176ac7bc32c179e2b3d83643380",
+      "bytes": 34704,
+      "from": "312b pages 5-7 — fan assembly"
+    },
+    {
+      "name": "10-fans-stacked-up.webp",
+      "sha256": "e90e94df262729f59667a815daf7214c6eba64be49324244b0fa29f8134da784",
+      "bytes": 82082,
+      "from": "312b pages 5-7 — fans stacked higher"
+    }
+  ]
+}
