@@ -57076,6 +57076,422 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Curled Shell Pavilion",
+      "slug": "curled-shell-pavilion-summer-workshop-digital-form",
+      "description": "A summer workshop project grows curling digital shells into a sculptural pavilion.\n\nSummer workshop | Digital form | Digital modelling and rendering | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "捲曲殼體涼亭",
+          "description": "一個暑期工作坊作品，把捲曲的數位殼體發展成雕塑般的涼亭。\n\n暑期工作坊｜數位形體｜數位建模與渲染｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/curled-shell-pavilion-summer-workshop-digital-form/01-final-render.webp",
+        "assets/board/curled-shell-pavilion-summer-workshop-digital-form/02-plan-lines.webp",
+        "assets/board/curled-shell-pavilion-summer-workshop-digital-form/03-wire-model.webp",
+        "assets/board/curled-shell-pavilion-summer-workshop-digital-form/04-section.webp",
+        "assets/board/curled-shell-pavilion-summer-workshop-digital-form/05-render-one.webp",
+        "assets/board/curled-shell-pavilion-summer-workshop-digital-form/06-render-two.webp",
+        "assets/board/curled-shell-pavilion-summer-workshop-digital-form/07-render-three.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/curled-shell-pavilion-summer-workshop-digital-form/01-final-render.webp"
+          ],
+          "captions": [
+            "Render of the curled shell pavilion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "捲曲殼體涼亭的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The workshop asked students to make a space from a single continuous digital form. The student wanted a shell that curls into rooms rather than walls.",
+          "images": [
+            "assets/board/curled-shell-pavilion-summer-workshop-digital-form/02-plan-lines.webp"
+          ],
+          "captions": [
+            "Plan lines of the first form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "工作坊要求學生以單一連續的數位形體創造空間。學生想做出捲曲成房間而非牆面的殼體。",
+              "captions": [
+                "初始形體的平面線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He started from simple crossing tubes drawn in plan. Bending and twisting them in the software revealed many curling surfaces.",
+          "images": [
+            "assets/board/curled-shell-pavilion-summer-workshop-digital-form/03-wire-model.webp"
+          ],
+          "captions": [
+            "Wireframe of the curled shells."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他從平面上簡單交叉的管狀體開始。在軟體中彎曲扭轉後，出現許多捲曲的曲面。",
+              "captions": [
+                "捲曲殼體的線框。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A section with a human figure checked the height and openings. Three render studies compared different curls and densities.",
+          "images": [
+            "assets/board/curled-shell-pavilion-summer-workshop-digital-form/04-section.webp",
+            "assets/board/curled-shell-pavilion-summer-workshop-digital-form/05-render-one.webp",
+            "assets/board/curled-shell-pavilion-summer-workshop-digital-form/06-render-two.webp"
+          ],
+          "captions": [
+            "Section with a scale figure.",
+            "First render study.",
+            "Second render study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "帶有人物的剖面檢查了高度與開口。三個渲染研究比較了不同的捲曲與密度。",
+              "captions": [
+                "帶有比例人物的剖面。",
+                "第一個渲染研究。",
+                "第二個渲染研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final shells overlap into a cave-like pavilion lit from above. The project shows how one digital gesture can become a complex space.",
+          "images": [
+            "assets/board/curled-shell-pavilion-summer-workshop-digital-form/07-render-three.webp"
+          ],
+          "captions": [
+            "Third render study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終殼體交疊成一座由上方採光的洞穴般涼亭。作品展示一個數位手勢如何成為複雜空間。",
+              "captions": [
+                "第三個渲染研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a simple line.\n2. Bend and twist it.\n3. Check with a section.\n4. Compare renders.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從簡單線條開始。\n2. 彎曲與扭轉。\n3. 以剖面檢查。\n4. 比較渲染圖。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Between Solid and Void",
+      "slug": "between-solid-and-void-eight-trigrams-stick-and-plaster",
+      "description": "The eight trigrams of an ancient classic are built as stick frames filled with plaster blocks.\n\nModel making | Traditional cosmology | Plaster, wood sticks and cardboard | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "虛實之間",
+          "description": "把古代經典中的八卦，以木條框架填入石膏塊建構出來。\n\n模型製作｜傳統宇宙觀｜石膏、木條與紙板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/01-final-model.webp",
+        "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/02-trigram-diagram.webp",
+        "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/03-frame-and-block.webp",
+        "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/04-plaster-pieces.webp",
+        "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/05-trigram-studies.webp",
+        "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/06-more-studies.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished trigram model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的八卦模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "In traditional thought, solid and void suggest how people relate to their surroundings. The student wanted to give this idea a physical form at different scales.",
+          "images": [
+            "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/02-trigram-diagram.webp"
+          ],
+          "captions": [
+            "Diagram of the eight trigrams."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在傳統思想中，虛與實暗示人與環境的關係。學生想在不同尺度上把這個概念化為實體。",
+              "captions": [
+                "八卦圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He studied how the eight trigrams each describe a relationship between people and environment. Lines of the trigrams were read as solid and broken bars.",
+          "images": [
+            "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/03-frame-and-block.webp"
+          ],
+          "captions": [
+            "A frame with one plaster block."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他研究八卦如何各自描述人與環境的關係。卦象中的線被解讀為實線與斷線。",
+              "captions": [
+                "帶有一塊石膏的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stick frames like building parts first made empty spaces without clear edges. Solid plaster blocks were added to give each trigram its form and field.",
+          "images": [
+            "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/04-plaster-pieces.webp",
+            "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/05-trigram-studies.webp"
+          ],
+          "captions": [
+            "Plaster pieces added to a frame.",
+            "Trigram studies, first row."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "像建築構件的木條框架最初只形成沒有清楚邊界的空間。加入實心石膏塊後，每一卦才有了形與場。",
+              "captions": [
+                "加入框架的石膏塊。",
+                "八卦研究第一排。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Eight small models were combined into one arrangement of frames and blocks. Together they show solid and void working as a pair.",
+          "images": [
+            "assets/board/between-solid-and-void-eight-trigrams-stick-and-plaster/06-more-studies.webp"
+          ],
+          "captions": [
+            "Trigram studies, second row."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "八個小模型組合成框架與石塊的整體配置。它們共同展現虛與實相互依存。",
+              "captions": [
+                "八卦研究第二排。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read an old system.\n2. Assign forms to symbols.\n3. Add solids to frames.\n4. Combine the set.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀古老的系統。\n2. 為符號賦予形式。\n3. 在框架中加入實體。\n4. 組合成整體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Floating Mangrove Pavilion",
+      "slug": "floating-mangrove-pavilion-wire-and-frosted-sheet",
+      "description": "A curving, translucent building floats on wire legs above a mangrove forest.\n\nModel making | Building and nature | Wire, frosted plastic sheet, bamboo strip and sand | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "漂浮紅樹林涼亭",
+          "description": "一座彎曲半透明的建築，以鋼絲支柱漂浮在紅樹林之上。\n\n模型製作｜建築與自然｜鋼絲、霧面塑膠片、竹條與沙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/01-final-model.webp",
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/02-digital-form.webp",
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/03-digital-slats.webp",
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/04-wire-forest.webp",
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/05-sheet-test.webp",
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/06-wire-canopy.webp",
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/07-dark-frame.webp",
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/08-tree-sketch.webp",
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/09-under-the-roof.webp",
+        "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/10-curved-edge.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished pavilion over the mangroves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "紅樹林上完成的涼亭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A mangrove forest stands on soft mud, floods with seawater and shelters rare birds. The student asked how a building could sit there without harming it.",
+          "images": [
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/02-digital-form.webp"
+          ],
+          "captions": [
+            "Digital study of the form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "紅樹林生長在軟泥上，會被海水淹沒，也是稀有鳥類的棲地。學生思考建築如何在此存在而不造成傷害。",
+              "captions": [
+                "形體的數位研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He decided to lift the building so its main structure never touches the forest floor. Digital studies tested curved slats that stay open to birds.",
+          "images": [
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/03-digital-slats.webp",
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/04-wire-forest.webp"
+          ],
+          "captions": [
+            "Digital study of the slats.",
+            "Wire roots on the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他決定把建築抬高，讓主結構不接觸林地。數位研究測試了對鳥類保持開放的弧形格柵。",
+              "captions": [
+                "格柵的數位研究。",
+                "底座上的鋼絲根系。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Thin wire pillars rise like roots to hold a light canopy. Frosted sheets were tested so sunlight can still reach the trees.",
+          "images": [
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/05-sheet-test.webp",
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/06-wire-canopy.webp",
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/07-dark-frame.webp",
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/08-tree-sketch.webp"
+          ],
+          "captions": [
+            "Testing frosted sheets.",
+            "The wire canopy.",
+            "The wire frame in dark light.",
+            "Sketch of mangrove roots."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "細鋼絲柱如根系般升起，托住輕盈的頂蓋。霧面片材經過測試，讓陽光仍能照到樹木。",
+              "captions": [
+                "測試霧面片材。",
+                "鋼絲頂蓋。",
+                "暗光下的鋼絲框架。",
+                "紅樹林根系草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Curving translucent sheets float above model trees and sand. The open roof lets birds fly through while light falls on the forest.",
+          "images": [
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/09-under-the-roof.webp",
+            "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet/10-curved-edge.webp"
+          ],
+          "captions": [
+            "Walking under the curved roof.",
+            "The curved edge and figures."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "彎曲的半透明片材漂浮在模型樹與沙地之上。開放的屋頂讓鳥自由穿越，光線灑落林間。",
+              "captions": [
+                "走在弧形屋頂下。",
+                "弧形邊緣與人偶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the site's limits.\n2. Lift off the ground.\n3. Test light materials.\n4. Keep it open.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 解讀場地限制。\n2. 離地抬升。\n3. 測試輕質材料。\n4. 保持開放。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
