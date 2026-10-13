@@ -1,0 +1,55 @@
+{
+  "project": "Space and Sound",
+  "dest": "assets/board/space-and-sound-guitar-chord-arcs-in-pvc",
+  "note": "Portfolio d669 page 4 cropped to 8 images, WebP q88 (PIL). Not used: photos of hands placing forms on the light table, explanatory text overlay.",
+  "files": [
+    {
+      "name": "01-sound-forms-on-light-table.webp",
+      "sha256": "b8d9251842384f3f70bbd254fac4efff5bd226734f7058857f61f1650501b726",
+      "bytes": 117362,
+      "from": "d669 page 4 — sound forms on a light table"
+    },
+    {
+      "name": "02-chord-arc-drawing.webp",
+      "sha256": "b5999c19590d28646267972a7238dfd0d8692559505617f1d55eff937c38b9bb",
+      "bytes": 48040,
+      "from": "d669 page 4 — arcs drawn from chord patterns"
+    },
+    {
+      "name": "03-arc-overlap-diagram-a.webp",
+      "sha256": "a5b4ee67a3b293362b4fb78320ebfdc1a60348a1ace4df89b5d685ebda389ecc",
+      "bytes": 51458,
+      "from": "d669 page 4 — single and double overlaps"
+    },
+    {
+      "name": "04-arc-overlap-diagram-b.webp",
+      "sha256": "48e51bfc331c895223a378d672f0e44529513abd5a6c23a197b75b8914a4fb4d",
+      "bytes": 37152,
+      "from": "d669 page 4 — triple overlaps"
+    },
+    {
+      "name": "05-overlapping-arc-pattern.webp",
+      "sha256": "f29b9df1ca99601200d934708be04f8cd59667056d02d26b721b10da596ac4a7",
+      "bytes": 100174,
+      "from": "d669 page 4 — the overlapping arc pattern"
+    },
+    {
+      "name": "06-form-studies-grid.webp",
+      "sha256": "0ce95ceaea6072448b9261e9376c6d66792e993295d7f1a656552ab45a4d442a",
+      "bytes": 24666,
+      "from": "d669 page 4 — studies of combined forms"
+    },
+    {
+      "name": "07-forms-on-arc-drawing.webp",
+      "sha256": "dd31ddb1a84ad174e78803fbd2b43c4d17ccb1561ab77d2618b0245e5704be62",
+      "bytes": 33318,
+      "from": "d669 page 4 — forms placed on the arc drawing"
+    },
+    {
+      "name": "08-eight-sound-forms.webp",
+      "sha256": "44cb47603c78184761ab34db1a9c93415d83d88cccb75daf09c991e4b11de664",
+      "bytes": 55388,
+      "from": "d669 page 4 — the eight sound forms"
+    }
+  ]
+}
