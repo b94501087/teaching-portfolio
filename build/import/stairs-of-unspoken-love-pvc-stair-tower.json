@@ -1,0 +1,25 @@
+{
+  "project": "Stairs of Unspoken Love",
+  "dest": "assets/board/stairs-of-unspoken-love-pvc-stair-tower",
+  "note": "Portfolio 6f23 page 11 cropped to 3 images, WebP q88 (PIL). Not used: film still of animated characters (film and character names dropped; retitled).",
+  "files": [
+    {
+      "name": "01-stair-tower.webp",
+      "sha256": "35bafc2583c44a02477be6b2b6a0a4e8910972b6d4c08421aa5552dd0bbb84fe",
+      "bytes": 153012,
+      "from": "6f23 page 11 — the stair tower"
+    },
+    {
+      "name": "02-stairs-and-strips.webp",
+      "sha256": "9411ce5a9cb0ac63197e96b736f77e40f8d79ae958dcc15f80499e9a66c0a277",
+      "bytes": 55948,
+      "from": "6f23 page 11 — stairs and clear strips"
+    },
+    {
+      "name": "03-stairs-in-dark.webp",
+      "sha256": "bf521fabd470906094a4bb49dd4d028447ade5c2c7d22a67cd0847f306acd5a4",
+      "bytes": 45754,
+      "from": "6f23 page 11 — the stairs in the dark"
+    }
+  ]
+}
