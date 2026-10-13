@@ -57936,6 +57936,450 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Modern Serenity",
+      "slug": "modern-serenity-timber-detached-house-model",
+      "description": "A detached house in wood plank and strip balances shared living spaces with quiet private rooms.\n\nModel making | House design | Wood plank and wood strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "現代寧靜",
+          "description": "以木板與木條製作的獨棟住宅，在共享起居空間與安靜的私密房間之間取得平衡。\n\n模型製作｜住宅設計｜木板與木條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/modern-serenity-timber-detached-house-model/01-final-house.webp",
+        "assets/board/modern-serenity-timber-detached-house-model/02-block-model.webp",
+        "assets/board/modern-serenity-timber-detached-house-model/03-block-cluster.webp",
+        "assets/board/modern-serenity-timber-detached-house-model/04-plan-sketch.webp",
+        "assets/board/modern-serenity-timber-detached-house-model/05-room-layout.webp",
+        "assets/board/modern-serenity-timber-detached-house-model/06-frame-model.webp",
+        "assets/board/modern-serenity-timber-detached-house-model/07-top-view.webp",
+        "assets/board/modern-serenity-timber-detached-house-model/08-front-view.webp",
+        "assets/board/modern-serenity-timber-detached-house-model/09-interior.webp",
+        "assets/board/modern-serenity-timber-detached-house-model/10-long-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/modern-serenity-timber-detached-house-model/01-final-house.webp"
+          ],
+          "captions": [
+            "The finished timber house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的木構住宅。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A home should bring people together while still giving each person a quiet place. The student set out to design a detached house with that balance.",
+          "images": [
+            "assets/board/modern-serenity-timber-detached-house-model/02-block-model.webp",
+            "assets/board/modern-serenity-timber-detached-house-model/03-block-cluster.webp"
+          ],
+          "captions": [
+            "Phase 1 block model.",
+            "Stacked foam blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "住宅應讓人們相聚，也要給每個人安靜的角落。學生著手設計一棟兼顧這種平衡的獨棟住宅。",
+              "captions": [
+                "第一階段量塊模型。",
+                "堆疊的泡綿量塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Foam block models tested several room arrangements. Plan sketches then fixed an open living and kitchen space with a guest room downstairs.",
+          "images": [
+            "assets/board/modern-serenity-timber-detached-house-model/04-plan-sketch.webp",
+            "assets/board/modern-serenity-timber-detached-house-model/05-room-layout.webp"
+          ],
+          "captions": [
+            "Plan sketches of both floors.",
+            "Room layout in blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "泡綿量塊模型測試多種房間配置。平面草圖再確定開放的客廳與廚房，以及一樓的客房。",
+              "captions": [
+                "兩層樓的平面草圖。",
+                "以量塊排列房間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A second concept model framed the rooms in timber. Large clear windows were added to bring natural light deep inside.",
+          "images": [
+            "assets/board/modern-serenity-timber-detached-house-model/06-frame-model.webp",
+            "assets/board/modern-serenity-timber-detached-house-model/07-top-view.webp"
+          ],
+          "captions": [
+            "The second concept model.",
+            "The house from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "第二個概念模型以木構框出房間。加入大面透明窗戶，把自然光引入深處。",
+              "captions": [
+                "第二個概念模型。",
+                "從上方看住宅。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final house uses wood boards and battens for warm, textured walls. A central stair leads up to a private floor of bedrooms.",
+          "images": [
+            "assets/board/modern-serenity-timber-detached-house-model/08-front-view.webp",
+            "assets/board/modern-serenity-timber-detached-house-model/09-interior.webp",
+            "assets/board/modern-serenity-timber-detached-house-model/10-long-view.webp"
+          ],
+          "captions": [
+            "Front elevation of the model.",
+            "An interior view.",
+            "The house in full light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終住宅以木板與木條構成溫暖而有質感的牆面。中央樓梯通往私密的臥室樓層。",
+              "captions": [
+                "模型正立面。",
+                "室內視角。",
+                "光線下的住宅全貌。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Define the daily life.\n2. Test layouts with blocks.\n3. Sketch the plan.\n4. Frame it in timber.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 定義日常生活。\n2. 以量塊測試配置。\n3. 草繪平面。\n4. 以木構建構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Shaped by Time",
+      "slug": "shaped-by-time-eroding-sea-cliff-projection-model",
+      "description": "A plaster sea cliff with projected future scenes shows how coastlines erode into stacks and new habitats.\n\nModel making | Landscape and time | Foam, plants, stones, glue, plaster cloth and sand | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "時間之形",
+          "description": "一座投影未來場景的石膏海崖，呈現海岸如何侵蝕成岩柱並形成新的棲地。\n\n模型製作｜地景與時間｜泡綿、植物、石頭、膠、石膏布與沙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/01-final-cliff.webp",
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/02-rock-reference.webp",
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/03-erosion-sketch.webp",
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/04-cliff-silhouette.webp",
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/05-low-silhouette.webp",
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/06-projection.webp",
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/07-rock-stacks.webp",
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/08-boulder.webp",
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/09-side-view.webp",
+        "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/10-shore-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/01-final-cliff.webp"
+          ],
+          "captions": [
+            "The eroding cliff model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "侵蝕中的海崖模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Weathering is slow and almost invisible, yet it reshapes every coast. The student wanted a model that makes this passing of time visible.",
+          "images": [
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/02-rock-reference.webp",
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/03-erosion-sketch.webp"
+          ],
+          "captions": [
+            "Reference photo of sea stacks.",
+            "A sketch of the cliff receding."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "風化緩慢而幾乎不可見，卻重塑每一片海岸。學生想做一個讓時間流逝變得可見的模型。",
+              "captions": [
+                "海蝕柱參考照片。",
+                "海崖後退的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She studied a famous coastal rock formation and how waves cut cliffs into stacks. Sketches traced the edge moving back over thousands of years.",
+          "images": [
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/04-cliff-silhouette.webp",
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/05-low-silhouette.webp"
+          ],
+          "captions": [
+            "Cliff silhouette study.",
+            "A lower worn coastline."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她研究一處著名的海岸岩層，以及海浪如何把海崖切成岩柱。草圖描繪了數千年間崖邊的後退。",
+              "captions": [
+                "海崖剪影研究。",
+                "被磨低的海岸線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Foam, plaster cloth, stones and sand built up the layered cliff. A projector then cast rising seas and new stacks onto its surface.",
+          "images": [
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/06-projection.webp",
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/07-rock-stacks.webp",
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/08-boulder.webp"
+          ],
+          "captions": [
+            "Future scenes projected on the model.",
+            "Rock stacks in the water.",
+            "A boulder lit by projection."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "泡綿、石膏布、石頭與沙堆出層狀海崖。再以投影機把上升的海面與新的岩柱投射在表面上。",
+              "captions": [
+                "投影在模型上的未來場景。",
+                "水中的岩柱。",
+                "被投影照亮的巨石。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The model is not static but changes with each projected scene. Worn rocks become homes for sea life as the beach slips under water.",
+          "images": [
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/09-side-view.webp",
+            "assets/board/shaped-by-time-eroding-sea-cliff-projection-model/10-shore-detail.webp"
+          ],
+          "captions": [
+            "Side view of the cliff.",
+            "Rocks along the shore."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "模型不是靜態的，而是隨每段投影改變。當沙灘沒入水中，被磨蝕的岩石成為海洋生物的家。",
+              "captions": [
+                "海崖側視。",
+                "岸邊的岩石。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe a slow change.\n2. Sketch it over time.\n3. Build layered material.\n4. Project the future.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察緩慢的變化。\n2. 描繪其隨時間的過程。\n3. 以材料層層堆疊。\n4. 投影未來。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Kingdom's Legacy",
+      "slug": "kingdoms-legacy-game-ruin-temple-3d-print",
+      "description": "Ancient ruins from a fantasy video game are reinterpreted as a 3D printed temple tower.\n\nModel making | Game-inspired form | 3D printing (PLA) and plaster | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "王國遺產",
+          "description": "奇幻電玩中的古老遺跡，被重新詮釋為一座3D列印的神殿塔樓。\n\n模型製作｜遊戲啟發的形體｜3D列印（PLA）與石膏｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/01-final-temple.webp",
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/02-game-still.webp",
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/03-ruin-arcade.webp",
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/04-elevation.webp",
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/05-plan-view.webp",
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/06-digital-model.webp",
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/07-inner-hall.webp",
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/08-column-room.webp",
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/09-upper-deck.webp",
+        "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/10-full-tower.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/01-final-temple.webp"
+          ],
+          "captions": [
+            "The 3D printed temple tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "3D列印的神殿塔樓。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Video game worlds often hold ruins that feel as sacred as real temples. The student asked how these imagined forms could be read again in a modern context.",
+          "images": [
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/02-game-still.webp",
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/03-ruin-arcade.webp"
+          ],
+          "captions": [
+            "A still of the game's ruins.",
+            "Columns of the game ruins."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "電玩世界中常有如真實神殿般神聖的遺跡。學生思考這些想像的形體如何在當代語境中被重新閱讀。",
+              "captions": [
+                "遊戲遺跡畫面。",
+                "遊戲遺跡的柱列。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Screenshots of the ruins were compared with ancient temple geometry. Their arches and heavy columns were redrawn as plans and elevations.",
+          "images": [
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/04-elevation.webp",
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/05-plan-view.webp"
+          ],
+          "captions": [
+            "Elevation of the digital model.",
+            "Plan of the column ring."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "遺跡截圖被拿來與古代神殿的幾何比較。拱與厚重的柱子被重新繪成平面與立面。",
+              "captions": [
+                "數位模型立面。",
+                "柱環平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The screenshots were turned into a detailed digital model. Ten columns were 3D printed and coated in plaster to match the base.",
+          "images": [
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/06-digital-model.webp",
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/07-inner-hall.webp"
+          ],
+          "captions": [
+            "The digital temple model.",
+            "Inside the arched hall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "截圖被轉化為精細的數位模型。十根柱子以3D列印製作，再塗上石膏與基座一致。",
+              "captions": [
+                "數位神殿模型。",
+                "拱形大廳內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The white tower blends sacred temple geometry with game-world fantasy. Scale figures show it as a space between real and imagined landscapes.",
+          "images": [
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/08-column-room.webp",
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/09-upper-deck.webp",
+            "assets/board/kingdoms-legacy-game-ruin-temple-3d-print/10-full-tower.webp"
+          ],
+          "captions": [
+            "Columns and scale figures.",
+            "The upper level.",
+            "The tower in full."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "白色塔樓融合神殿的神聖幾何與遊戲世界的奇想。比例人顯示它是介於真實與想像地景之間的空間。",
+              "captions": [
+                "柱列與比例人。",
+                "上層。",
+                "塔樓全貌。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a world you love.\n2. Capture key views.\n3. Model the geometry.\n4. Build it physically.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個你喜愛的世界。\n2. 擷取關鍵視角。\n3. 建構其幾何。\n4. 實體製作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
