@@ -1,0 +1,67 @@
+{
+  "project": "Chambers of a Restless Mind",
+  "dest": "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats",
+  "note": "Portfolio d669 pages 5-7 cropped to 10 images, WebP q88 (PIL). Not used: novel title, book cover, author and character names, annotated sketch with character names, process photos with hands (retitled from novel-based title).",
+  "files": [
+    {
+      "name": "01-forest-of-curving-slats.webp",
+      "sha256": "1834270a7d1e90d960a606a24d79e3999da1e85a0f611d17197276c02bb0e3f7",
+      "bytes": 264312,
+      "from": "d669 pages 5-7 — the forest of curving slats"
+    },
+    {
+      "name": "02-brick-room-exterior.webp",
+      "sha256": "10b79ca863188c74ec5b3fb793be1a3776580292d4e72be41c2db9b60250db2e",
+      "bytes": 58450,
+      "from": "d669 pages 5-7 — the brick room"
+    },
+    {
+      "name": "03-brick-room-with-strings.webp",
+      "sha256": "33fea9b03b2a54cba70b1fb92c4fca6697d03362f7237c91eb94e353a6b54481",
+      "bytes": 93918,
+      "from": "d669 pages 5-7 — strings across the bed"
+    },
+    {
+      "name": "04-mirror-well-geometry.webp",
+      "sha256": "85284730e0f3ea0490da929a45722a7c57cbd204c13b9a2b53359f5b2383b825",
+      "bytes": 75676,
+      "from": "d669 pages 5-7 — mirror geometry of the well"
+    },
+    {
+      "name": "05-mirror-well-close.webp",
+      "sha256": "0f5b907782bf7cb8fc5e310fd336b19fe9b7d5cd843c76612353f2fc59a234c4",
+      "bytes": 166212,
+      "from": "d669 pages 5-7 — inside the mirror well"
+    },
+    {
+      "name": "06-white-bubble-and-ropes.webp",
+      "sha256": "5578fe99f2fb4ca67f88579e79390d74183a74b04ebbdf8452c316a1ebc6f6ff",
+      "bytes": 50398,
+      "from": "d669 pages 5-7 — the white bubble held by ropes"
+    },
+    {
+      "name": "07-white-bubble-lower-view.webp",
+      "sha256": "61eda5512256fdd3fc90b1f9f8fc1e9c59eb290fa11545d0296c9d5965ce0e7c",
+      "bytes": 70746,
+      "from": "d669 pages 5-7 — the bubble from below"
+    },
+    {
+      "name": "08-slat-arch-view.webp",
+      "sha256": "d007c0678880b1c69ad839756b838f1e9ab7120624a03e1918b7b1d781928f66",
+      "bytes": 110206,
+      "from": "d669 pages 5-7 — the arch of slats"
+    },
+    {
+      "name": "09-brick-room-corner.webp",
+      "sha256": "8d4bba17d299e8bbf2cd6b7bea545c2e1d2fb7e00513eeb62b63d3da6616158d",
+      "bytes": 120474,
+      "from": "d669 pages 5-7 — a corner of the brick room"
+    },
+    {
+      "name": "10-slat-arch-close.webp",
+      "sha256": "fd26dc9d30ff22a377930f59398c018539f0e3e092b936781131a0799fae6628",
+      "bytes": 155670,
+      "from": "d669 pages 5-7 — the slats up close"
+    }
+  ]
+}
