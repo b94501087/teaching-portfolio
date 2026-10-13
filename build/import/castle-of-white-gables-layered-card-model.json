@@ -1,0 +1,37 @@
+{
+  "project": "Castle of White Gables",
+  "dest": "assets/board/castle-of-white-gables-layered-card-model",
+  "note": "Portfolio 56b3 pages 2-4 cropped to 5 images, WebP q88 (PIL). Not used: name cover, film-based collage, process photos with hands, photos with themed toys.",
+  "files": [
+    {
+      "name": "01-white-gabled-castle.webp",
+      "sha256": "efc9b4402f74893cd6d19b01e687e116563c23ff5751d2a880959c012a742707",
+      "bytes": 139974,
+      "from": "56b3 pages 2-4 — the white gabled castle"
+    },
+    {
+      "name": "02-tower-and-spire.webp",
+      "sha256": "bae17b675e01b39db787ef429a863155ca3747ba7ff511fe792fd655b29a7ade",
+      "bytes": 99724,
+      "from": "56b3 pages 2-4 — a hall with a cone spire"
+    },
+    {
+      "name": "03-gables-and-balcony.webp",
+      "sha256": "4b004400a67d4bd2a685dc6cb29379e926f039a822d6de570a93c33dca080cbd",
+      "bytes": 30880,
+      "from": "56b3 pages 2-4 — gables and a balcony"
+    },
+    {
+      "name": "04-arched-hall-inside.webp",
+      "sha256": "27ae237acf50bba70d6197fa0d5573cfa35cdccf15e090faae92413fbf36d685",
+      "bytes": 38452,
+      "from": "56b3 pages 2-4 — inside an arched hall"
+    },
+    {
+      "name": "05-first-house-pieces.webp",
+      "sha256": "badc7d6226ad520289263e480dd166516b67e245ff673aa9a3b299428f516834",
+      "bytes": 16586,
+      "from": "56b3 pages 2-4 — the first house pieces"
+    }
+  ]
+}
