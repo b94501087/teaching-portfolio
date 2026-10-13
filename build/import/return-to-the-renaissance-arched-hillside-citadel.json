@@ -1,0 +1,49 @@
+{
+  "project": "Return to the Renaissance",
+  "dest": "assets/board/return-to-the-renaissance-arched-hillside-citadel",
+  "note": "Portfolio fbb7 pages 5-6 cropped to seven images, WebP q88 (PIL). Not used: photos of existing buildings, drawings of single existing buildings, process photos with people, text naming buildings and a film.",
+  "files": [
+    {
+      "name": "01-citadel.webp",
+      "sha256": "3e1a539a9ba2bae06aca8625c2e8277971d6d858355bbf77918fc1b64b1cb8cf",
+      "bytes": 157128,
+      "from": "fbb7 page 6 — citadel"
+    },
+    {
+      "name": "02-collage-drawing.webp",
+      "sha256": "97aaa285fa758029143189061177b263ba00b49dbe074911318077d0da5d5c09",
+      "bytes": 264884,
+      "from": "fbb7 page 5 — collage drawing"
+    },
+    {
+      "name": "03-hatched-drawing.webp",
+      "sha256": "d991a96d42ef0ef20ead22892be65e86d53d0eb99b0fc92c59b454d7c1c5c957",
+      "bytes": 282064,
+      "from": "fbb7 page 6 — hatched drawing"
+    },
+    {
+      "name": "04-dome-and-stairs.webp",
+      "sha256": "635383db23ac8ccb897dc8e328ac2e9de52aa29fc811ba7c5fad66443f960a60",
+      "bytes": 55404,
+      "from": "fbb7 page 6 — dome and stairs"
+    },
+    {
+      "name": "05-arcade-level.webp",
+      "sha256": "9f3873d023158acaa43e4134a1e5e612f8b3c043ca9dfdba161e649416099ac8",
+      "bytes": 42830,
+      "from": "fbb7 page 6 — arcade level"
+    },
+    {
+      "name": "06-triangle-infill.webp",
+      "sha256": "0ce6eabce2a0c5e4d4455d6244d78e382781c1ea425f0a25b9d844f3ad085693",
+      "bytes": 136766,
+      "from": "fbb7 page 6 — triangle infill"
+    },
+    {
+      "name": "07-side-view.webp",
+      "sha256": "b3f41dfdbdcc17bdbd6a9a4f9f011307358ee3f27e5bc9e519b2fb7065c14052",
+      "bytes": 82670,
+      "from": "fbb7 page 6 — side view"
+    }
+  ]
+}
