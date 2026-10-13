@@ -1,0 +1,67 @@
+{
+  "project": "Bagua",
+  "dest": "assets/board/bagua-octagon-stick-and-plaster-trigram-walls",
+  "note": "Portfolio 3c08 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-octagon-from-above.webp",
+      "sha256": "4ee3a5d49ac6513145c721aad8ff364fb044c69b997e5d7953f16e62c5725ad6",
+      "bytes": 33020,
+      "from": "3c08 page 3 — octagon from above"
+    },
+    {
+      "name": "02-trigram-diagram.webp",
+      "sha256": "88234aaf16ff216a03ba78b082eff0bbf55379c273a1f300533485ffadb03f36",
+      "bytes": 18966,
+      "from": "3c08 page 2 — trigram diagram"
+    },
+    {
+      "name": "03-trigram-meanings.webp",
+      "sha256": "caeb427cada61569af5d2e3cd8b8ab56fc36711799163b4c5acee65e7d51cfc4",
+      "bytes": 34600,
+      "from": "3c08 page 2 — trigram meanings"
+    },
+    {
+      "name": "04-cast-walls.webp",
+      "sha256": "62e4d35c2d6de1f5c06bed30cee5a60d3e5f1b2d4b9e38aef5c648ae37967ec2",
+      "bytes": 19024,
+      "from": "3c08 page 2 — cast walls"
+    },
+    {
+      "name": "05-wall-assembly.webp",
+      "sha256": "32904627f59f99db5b9030b39e8105ebd2e1534284104d67145a3c107d0303b7",
+      "bytes": 29474,
+      "from": "3c08 page 2 — wall assembly"
+    },
+    {
+      "name": "06-stick-web-top.webp",
+      "sha256": "3718cce72764e25c346b873435974b4fcdb87eee07f250d1679aeecc0ef68b78",
+      "bytes": 48270,
+      "from": "3c08 page 2 — stick web top"
+    },
+    {
+      "name": "07-inside-octagon.webp",
+      "sha256": "9016e63f6565f466aaf452ff1480c38b33d1d2c3dbd2ead2358d82215b588112",
+      "bytes": 40082,
+      "from": "3c08 page 2 — inside octagon"
+    },
+    {
+      "name": "08-figures-on-walls.webp",
+      "sha256": "2897448d3b679c2d44ba75aabd9b6a2ce555cfc6083bc4a43bbe528177c3b6cf",
+      "bytes": 233122,
+      "from": "3c08 page 3 — figures on walls"
+    },
+    {
+      "name": "09-eye-level.webp",
+      "sha256": "9d6183f1d442d8f5c99f1efb41fe45e85b3d5a1e7597222a2d3aba00b3d9ed2b",
+      "bytes": 28678,
+      "from": "3c08 page 3 — eye level"
+    },
+    {
+      "name": "10-shadow-floor.webp",
+      "sha256": "60660351749258513a26361bbc478c306b59bca33bb47cc1829c2659094c20bf",
+      "bytes": 26584,
+      "from": "3c08 page 3 — shadow floor"
+    }
+  ]
+}
