@@ -1,0 +1,67 @@
+{
+  "project": "Hiking",
+  "dest": "assets/board/hiking-landscape-sketch-to-curved-pvc-model",
+  "note": "Portfolio 5fd5 pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text, trip photos, photos of hands at work.",
+  "files": [
+    {
+      "name": "01-curve-model.webp",
+      "sha256": "d73e8d4c466dc439e39ed581bc29c5d5ac7a9bb54875755702a3b2236488d7df",
+      "bytes": 138262,
+      "from": "5fd5 page 5 — curve model"
+    },
+    {
+      "name": "02-marker-sketches.webp",
+      "sha256": "685f6393aa952c6b94346473936c8590a9675825046af3858650c84e31b93b04",
+      "bytes": 119708,
+      "from": "5fd5 page 4 — marker sketches"
+    },
+    {
+      "name": "03-paper-collage.webp",
+      "sha256": "d729e9118b32cc2ca18a435d7e0e91154c4ed402ac73f01e271d2523e564a9a1",
+      "bytes": 65086,
+      "from": "5fd5 page 4 — paper collage"
+    },
+    {
+      "name": "04-new-pattern.webp",
+      "sha256": "cc066956eee8fc8d8f4abf5c040c31ca2f4b166df386318bb9f87db8a1d6b8f7",
+      "bytes": 119142,
+      "from": "5fd5 page 4 — new pattern"
+    },
+    {
+      "name": "05-top-view.webp",
+      "sha256": "de4a1ab7260c8c67bd69a737873fd7c8d139d7acd50403b2e3962bb6597aa841",
+      "bytes": 137192,
+      "from": "5fd5 page 4 — top view"
+    },
+    {
+      "name": "06-model-drawing.webp",
+      "sha256": "327f9f632fc90f58a267a51fddb8c5ea73e18bdc4fc0b71f0d8374b85dff8fab",
+      "bytes": 223422,
+      "from": "5fd5 page 5 — model drawing"
+    },
+    {
+      "name": "07-front-view.webp",
+      "sha256": "f8c51edcf71e9a8fc0fbe69bf666900a86b450f227aa18b147b4fdbd06e4eb02",
+      "bytes": 75274,
+      "from": "5fd5 page 5 — front view"
+    },
+    {
+      "name": "08-ribs.webp",
+      "sha256": "8cc05ce6bc1957f2c9cdcdc988c414fd200165b2b1c701ed23e774b025d7edb9",
+      "bytes": 45018,
+      "from": "5fd5 page 5 — ribs"
+    },
+    {
+      "name": "09-spiral.webp",
+      "sha256": "844cc89bde83bfa8681d86b66edb4ad5bdbe5995aaaef26023bc59a232175528",
+      "bytes": 33250,
+      "from": "5fd5 page 5 — spiral"
+    },
+    {
+      "name": "10-inside-view.webp",
+      "sha256": "ff32ee2dfe6c38ed3efad98c8b69f4324124f2386b5a053c8223a36fca75db33",
+      "bytes": 77598,
+      "from": "5fd5 page 5 — inside view"
+    }
+  ]
+}
