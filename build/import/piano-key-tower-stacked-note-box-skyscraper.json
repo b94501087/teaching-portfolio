@@ -1,0 +1,67 @@
+{
+  "project": "Piano Key Tower",
+  "dest": "assets/board/piano-key-tower-stacked-note-box-skyscraper",
+  "note": "Portfolio 7c9f pages 10-11 cropped to ten images, WebP q88 (PIL). Not used: title and text, process photos on the cutting mat.",
+  "files": [
+    {
+      "name": "01-tower-montage.webp",
+      "sha256": "17dca4077848cc5e96557f2af4515c4cf1be665a6edcc557fac6e827d5d8b985",
+      "bytes": 77016,
+      "from": "7c9f page 10 — tower montage"
+    },
+    {
+      "name": "02-key-blocks.webp",
+      "sha256": "b8e7567ce406f1cc69398713be760f14b7531a12eb8fa1f3dde868aa4427d201",
+      "bytes": 4112,
+      "from": "7c9f page 10 — key blocks"
+    },
+    {
+      "name": "03-note-boxes.webp",
+      "sha256": "12be16e78f2a74a8ead343a61d67961e471708e9d40c42c34aa56384182586d9",
+      "bytes": 51430,
+      "from": "7c9f page 10 — note boxes"
+    },
+    {
+      "name": "04-block-diagram.webp",
+      "sha256": "83afb35da479c3fbccc108c2e1ca53375ba61294119e1ac0be70aba896536170",
+      "bytes": 34892,
+      "from": "7c9f page 10 — block diagram"
+    },
+    {
+      "name": "05-paper-blocks.webp",
+      "sha256": "5935f77dec4c1dae2586bf4e796230409d2d8d566dbaa90ca2526c610b3d0cb4",
+      "bytes": 9032,
+      "from": "7c9f page 10 — paper blocks"
+    },
+    {
+      "name": "06-paper-cluster.webp",
+      "sha256": "38485a61f2881a81d1cd5ba06465f6dc409ee5bab96604ac56925ec1c9e32335",
+      "bytes": 12954,
+      "from": "7c9f page 10 — paper cluster"
+    },
+    {
+      "name": "07-tall-model.webp",
+      "sha256": "59d41c6dfa0422ae964aeeca64b7a8cb8716c8eaf6178191a1336c3acfa9f2c3",
+      "bytes": 35014,
+      "from": "7c9f page 11 — tall model"
+    },
+    {
+      "name": "08-tower-sketch.webp",
+      "sha256": "230e282befe0975c3f366c1f83c01c246f10f58cf447591e1c07293f38096940",
+      "bytes": 88866,
+      "from": "7c9f page 11 — tower sketch"
+    },
+    {
+      "name": "09-detail-left.webp",
+      "sha256": "551319f2ad40d9f96867c04c7906fc5808c295ef91eed12613d2d27139616d7c",
+      "bytes": 15538,
+      "from": "7c9f page 11 — detail left"
+    },
+    {
+      "name": "10-detail-right.webp",
+      "sha256": "3f5c45b95a597948c72407e1cd59827ff30fb8cd7333e2320b504ec283c18cfd",
+      "bytes": 14786,
+      "from": "7c9f page 11 — detail right"
+    }
+  ]
+}
