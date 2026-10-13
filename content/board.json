@@ -63700,6 +63700,442 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Fragments House",
+      "slug": "fragments-house-lakeside-fragment-model",
+      "description": "Drawings of one given image are broken into fragments and rebuilt, step by step, into a long house by a lake.\n\nSummer architecture studio | House design | Foam board, museum board, Photoshop, Rhino, Illustrator | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "碎片之屋",
+          "description": "一張指定圖像的多次繪製被拆解成碎片，再一步步重組成一座湖畔的長形住宅。\n\n暑期建築工作營｜住宅設計｜泡棉板、博物館紙板、Photoshop、Rhino、Illustrator｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/fragments-house-lakeside-fragment-model/01-house-render.webp",
+        "assets/board/fragments-house-lakeside-fragment-model/02-image-studies.webp",
+        "assets/board/fragments-house-lakeside-fragment-model/03-stick-fragments.webp",
+        "assets/board/fragments-house-lakeside-fragment-model/04-plane-fragments.webp",
+        "assets/board/fragments-house-lakeside-fragment-model/05-fragment-models.webp",
+        "assets/board/fragments-house-lakeside-fragment-model/06-collage-elevation.webp",
+        "assets/board/fragments-house-lakeside-fragment-model/07-axonometric.webp",
+        "assets/board/fragments-house-lakeside-fragment-model/08-scale-models.webp",
+        "assets/board/fragments-house-lakeside-fragment-model/09-top-view.webp",
+        "assets/board/fragments-house-lakeside-fragment-model/10-lake-section.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/fragments-house-lakeside-fragment-model/01-house-render.webp"
+          ],
+          "captions": [
+            "The house from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從上方看住宅。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Every student received the same image and had six weeks to turn it into architecture. The student set out to find forms and line weights hidden in that one picture.",
+          "images": [
+            "assets/board/fragments-house-lakeside-fragment-model/02-image-studies.webp"
+          ],
+          "captions": [
+            "Studies of the given image."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "每位學生都拿到同一張圖像，並有六週把它轉化為建築。學生著手尋找藏在這張圖中的形態與線條粗細。",
+              "captions": [
+                "對指定圖像的研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Many drawings of the image were made by hand and then layered digitally. The work kept moving from flat drawings to models and back again.",
+          "images": [
+            "assets/board/fragments-house-lakeside-fragment-model/03-stick-fragments.webp",
+            "assets/board/fragments-house-lakeside-fragment-model/04-plane-fragments.webp",
+            "assets/board/fragments-house-lakeside-fragment-model/05-fragment-models.webp"
+          ],
+          "captions": [
+            "Stick fragments.",
+            "Plane fragments.",
+            "Denser fragment models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先手繪多張圖像研究，再以數位方式層疊。過程不斷在平面圖與模型之間來回轉換。",
+              "captions": [
+                "線狀碎片模型。",
+                "面狀碎片模型。",
+                "更密集的碎片模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Small fragments from the scale models were joined into one overall form. The form became a house by a hillside lake for two scientists.",
+          "images": [
+            "assets/board/fragments-house-lakeside-fragment-model/06-collage-elevation.webp",
+            "assets/board/fragments-house-lakeside-fragment-model/07-axonometric.webp",
+            "assets/board/fragments-house-lakeside-fragment-model/08-scale-models.webp"
+          ],
+          "captions": [
+            "A layered elevation drawing.",
+            "Two axonometric views.",
+            "Scale models of the house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "比例模型中的小碎片被組合成一個整體形態。這個形態成為山坡湖畔一座供兩位科學家居住的住宅。",
+              "captions": [
+                "層疊的立面圖。",
+                "兩張軸測圖。",
+                "住宅的比例模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Long slabs and walls slide past each other and reach out over the water. The course also taught the student to cut cleaner and manage time better.",
+          "images": [
+            "assets/board/fragments-house-lakeside-fragment-model/09-top-view.webp",
+            "assets/board/fragments-house-lakeside-fragment-model/10-lake-section.webp"
+          ],
+          "captions": [
+            "The roof in plan.",
+            "A section toward the lake."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "長形樓板與牆體彼此錯動，向水面伸出。這門課也讓學生學會切得更俐落、更善於管理時間。",
+              "captions": [
+                "屋頂平面。",
+                "朝向湖面的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one image.\n2. Draw it many times.\n3. Break it into fragments.\n4. Rebuild a place.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一張圖像出發。\n2. 反覆繪製。\n3. 拆解成碎片。\n4. 重建一個場所。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Cell Bridge",
+      "slug": "cell-bridge-light-frame-over-sunken-stage",
+      "description": "A frame of cell-like openings rises over a small sunken stage, letting light fall onto the performers below.\n\nSummer architecture studio | Performance space | Polystyrene foam board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "細胞之橋",
+          "description": "一座由細胞狀開口組成的框架升起於小型下沉舞台之上，讓光線灑落在下方的表演者身上。\n\n暑期建築工作營｜表演空間｜聚苯乙烯泡棉板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cell-bridge-light-frame-over-sunken-stage/01-cell-frame-model.webp",
+        "assets/board/cell-bridge-light-frame-over-sunken-stage/02-frame-sketch.webp",
+        "assets/board/cell-bridge-light-frame-over-sunken-stage/03-section-sketch.webp",
+        "assets/board/cell-bridge-light-frame-over-sunken-stage/04-curve-template.webp",
+        "assets/board/cell-bridge-light-frame-over-sunken-stage/05-cut-cell.webp",
+        "assets/board/cell-bridge-light-frame-over-sunken-stage/06-first-assembly.webp",
+        "assets/board/cell-bridge-light-frame-over-sunken-stage/07-stacked-cells.webp",
+        "assets/board/cell-bridge-light-frame-over-sunken-stage/08-long-frame.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cell-bridge-light-frame-over-sunken-stage/01-cell-frame-model.webp"
+          ],
+          "captions": [
+            "The cell frame model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "細胞框架模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The earlier course project turned a parking space under an elevated park into a stage for a small band. Rows of benches circled a round platform sunk below the pavement.",
+          "images": [
+            "assets/board/cell-bridge-light-frame-over-sunken-stage/03-section-sketch.webp"
+          ],
+          "captions": [
+            "A section of the sunken stage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "先前的課程專題把高架公園下方的一個停車位改造成小型樂團的舞台。一排排長椅環繞著一個低於路面的圓形平台。",
+              "captions": [
+                "下沉舞台的剖面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "For the next step, the student looked at how living cells move and change shape. The idea was a frame that could feel alive and also bring in daylight.",
+          "images": [
+            "assets/board/cell-bridge-light-frame-over-sunken-stage/02-frame-sketch.webp",
+            "assets/board/cell-bridge-light-frame-over-sunken-stage/04-curve-template.webp"
+          ],
+          "captions": [
+            "A sketch of the frame.",
+            "A curve template."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "下一步，學生研究活細胞如何移動與變形。構想是一個看起來有生命、同時能引入日光的框架。",
+              "captions": [
+                "框架草圖。",
+                "曲線模板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Cells with rounded openings were cut from foam board and joined at their edges. Layers of cells were stacked into a long, bridge-like frame over the stage.",
+          "images": [
+            "assets/board/cell-bridge-light-frame-over-sunken-stage/05-cut-cell.webp",
+            "assets/board/cell-bridge-light-frame-over-sunken-stage/06-first-assembly.webp",
+            "assets/board/cell-bridge-light-frame-over-sunken-stage/08-long-frame.webp"
+          ],
+          "captions": [
+            "One cut cell.",
+            "The first assembly.",
+            "The long frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "帶有圓角開口的細胞單元以泡棉板切出，並在邊緣相接。一層層細胞單元被堆疊成跨越舞台的長形橋狀框架。",
+              "captions": [
+                "一個切好的細胞單元。",
+                "初步組裝。",
+                "長形框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Light passes through the openings and moves across the stage below. The frame gives the small performance space a lively, organic roof.",
+          "images": [
+            "assets/board/cell-bridge-light-frame-over-sunken-stage/07-stacked-cells.webp"
+          ],
+          "captions": [
+            "Cells stacked in layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "光線穿過開口，在下方舞台上移動。這個框架為小小的表演空間撐起一片生動而有機的屋頂。",
+              "captions": [
+                "層層堆疊的細胞單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Revisit a past project.\n2. Borrow from nature.\n3. Repeat one unit.\n4. Let light in.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 重新檢視過去的專題。\n2. 向自然借鏡。\n3. 重複一個單元。\n4. 讓光進來。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Rhythm of Notes",
+      "slug": "rhythm-of-notes-stick-and-colour-sheet-model",
+      "description": "Notes, clefs and beats of a piano piece are turned into shapes, laid out as a diagram and built up in thin sticks and blue sheets.\n\nModel making | Music and form | Coloured plastic sheets, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "音符的節奏",
+          "description": "一首鋼琴曲中的音符、譜號與節拍被轉化為形狀，排成圖解，再以細木棒與藍色片材堆疊而成。\n\n模型製作｜音樂與形態｜彩色塑膠片、木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/01-stick-model.webp",
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/02-symbol-forms.webp",
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/03-element-diagrams.webp",
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/04-composite-diagram.webp",
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/05-top-view.webp",
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/06-corner-detail.webp",
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/07-blue-light.webp",
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/08-dark-interior.webp",
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/09-low-angle.webp",
+        "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/10-tall-sticks.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/01-stick-model.webp"
+          ],
+          "captions": [
+            "The finished stick model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的木棒模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Every piece of music is built from meter, dynamics, rhythm, harmony and scales. The student wanted to show the movement and energy these parts create together.",
+          "images": [
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/02-symbol-forms.webp"
+          ],
+          "captions": [
+            "Musical symbols turned into forms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "每一首樂曲都由拍子、力度、節奏、和聲與音階構成。學生想呈現這些部分共同創造的動態與活力。",
+              "captions": [
+                "轉化為形態的音樂符號。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each element, from single notes to clefs, was given its own shape. The shapes were then placed along a chosen piano piece to show how they move and meet.",
+          "images": [
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/03-element-diagrams.webp",
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/04-composite-diagram.webp"
+          ],
+          "captions": [
+            "Diagrams of each part.",
+            "The full diagram."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "從單一音符到譜號，每個元素都被賦予專屬的形狀。這些形狀再依一首選定的鋼琴曲排列，呈現它們如何移動與交會。",
+              "captions": [
+                "各部分的圖解。",
+                "完整圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The flat diagram was raised into a model with thin wooden sticks. Open common areas sit beside smaller, more closed and private corners.",
+          "images": [
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/05-top-view.webp",
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/06-corner-detail.webp",
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/07-blue-light.webp"
+          ],
+          "captions": [
+            "The model from above.",
+            "A corner of sticks.",
+            "Blue light through the sheets."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "平面圖解被以細木棒提升為立體模型。開放的公共區域旁，是較小、較封閉而私密的角落。",
+              "captions": [
+                "從上方看模型。",
+                "木棒的轉角。",
+                "穿過片材的藍光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Small triangles stand for movement in the music and cast lively shadows. Light slips through the gaps into the empty spaces between the sticks.",
+          "images": [
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/08-dark-interior.webp",
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/09-low-angle.webp",
+            "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/10-tall-sticks.webp"
+          ],
+          "captions": [
+            "Inside at night.",
+            "A low view.",
+            "Tall sticks and gaps."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "小三角形代表音樂中的律動，並投下生動的陰影。光線從縫隙滲入木棒之間的空隙。",
+              "captions": [
+                "夜間的內部。",
+                "低角度視圖。",
+                "高聳的木棒與縫隙。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. List the parts of music.\n2. Give each a shape.\n3. Map them in time.\n4. Raise the map.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 列出音樂的組成。\n2. 為每一項賦形。\n3. 依時間排列。\n4. 把圖面立體化。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
