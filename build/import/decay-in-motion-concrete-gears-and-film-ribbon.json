@@ -1,0 +1,49 @@
+{
+  "project": "Decay in Motion",
+  "dest": "assets/board/decay-in-motion-concrete-gears-and-film-ribbon",
+  "note": "Portfolio dee0 page 3 cropped to 7 images, WebP q88 (PIL). Not used: film title and filmmaker reference, slow-shutter street photographs with shop signs and buildings, caption with dimensions and date.",
+  "files": [
+    {
+      "name": "01-concrete-block-and-film-reel.webp",
+      "sha256": "25af9b937efab50522732b1817aef9c676d1f6012ac11dd07cf14ac78c271430",
+      "bytes": 242812,
+      "from": "dee0 page 3 — the concrete block and film ribbon"
+    },
+    {
+      "name": "02-gear-and-tiny-figure.webp",
+      "sha256": "a2183755326c99e7c1aa478f66d4b4d0a4165f709ba05bd8e455ae737e43bf9b",
+      "bytes": 252122,
+      "from": "dee0 page 3 — a gear with a tiny figure"
+    },
+    {
+      "name": "03-film-strip-over-gears.webp",
+      "sha256": "efb19ddd215866855d64deba62f1de5a9f9db43a90614daadd483e9e97544a86",
+      "bytes": 107264,
+      "from": "dee0 page 3 — a film strip over gears"
+    },
+    {
+      "name": "04-gear-and-wire-tangle.webp",
+      "sha256": "905b0a86a5832d70e1f077feae070b7c57e6598a759456903d5469478d0848a4",
+      "bytes": 68002,
+      "from": "dee0 page 3 — a tangle of gears and wire"
+    },
+    {
+      "name": "05-shadow-of-the-gears.webp",
+      "sha256": "ce57f901f678e999e190dcbc2e78362183f07c6cf6a3f03da109f68f417d43bb",
+      "bytes": 33758,
+      "from": "dee0 page 3 — the shadow of the gears"
+    },
+    {
+      "name": "06-stair-and-concrete-detail.webp",
+      "sha256": "d60c7cdb41ce69658b96b438d1d3eac72ae71f500d965f1b2192543b7821dee0",
+      "bytes": 50032,
+      "from": "dee0 page 3 — a stair and concrete detail"
+    },
+    {
+      "name": "07-wire-and-film-detail.webp",
+      "sha256": "aa1ac3cd5497faf5101834e8b0161e80db95a343654ca7e614280fab73db8b5b",
+      "bytes": 63642,
+      "from": "dee0 page 3 — a wire and film detail"
+    }
+  ]
+}
