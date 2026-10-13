@@ -1,0 +1,61 @@
+{
+  "project": "Coffee-Ground Air Cleaner",
+  "dest": "assets/board/coffee-ground-air-cleaner-mesh-tower",
+  "note": "Portfolio ca28 pages 8-9 cropped to 9 images, WebP q88 (PIL). Not used: process photos with hands.",
+  "files": [
+    {
+      "name": "01-coffee-mesh-tower.webp",
+      "sha256": "9834cf5ec3aa0ea6b4bb0e52811a2d8132dbcaf2296394caba210d5fc43be94d",
+      "bytes": 58438,
+      "from": "ca28 pages 8-9 — the coffee mesh tower"
+    },
+    {
+      "name": "02-tower-in-daylight.webp",
+      "sha256": "31100b7ff149ccadbbaeb8a7db56b98f0e54e27533ccaa4a3527ea77ee81077c",
+      "bytes": 54114,
+      "from": "ca28 pages 8-9 — the tower in daylight"
+    },
+    {
+      "name": "03-tower-from-the-side.webp",
+      "sha256": "58f46c96c84e18c39ec179e0ba92f6f115a783f413298569fb7ee6183f19c85a",
+      "bytes": 45812,
+      "from": "ca28 pages 8-9 — the tower from the side"
+    },
+    {
+      "name": "04-mesh-on-a-stick-frame.webp",
+      "sha256": "db91105d58571e0cce6acdf84ad4c1a95f13729b067f32cd005f41119dbacbeb",
+      "bytes": 16078,
+      "from": "ca28 pages 8-9 — mesh on a stick frame"
+    },
+    {
+      "name": "05-twisted-mesh-test.webp",
+      "sha256": "f5723c7ce02d3a8eb526aed797e7a4b329a208f35187097adebb214990e6c876",
+      "bytes": 22310,
+      "from": "ca28 pages 8-9 — a twisted mesh test"
+    },
+    {
+      "name": "06-curled-coffee-sheet.webp",
+      "sha256": "9ffb97c41cf10b65b8acbfb6ca42ada850ecaeb73afcb790896eb989571791ca",
+      "bytes": 50146,
+      "from": "ca28 pages 8-9 — a curled coffee sheet"
+    },
+    {
+      "name": "07-coffee-tiles-with-screws.webp",
+      "sha256": "52b12bfc7ea083aec1c1b0c9a67c40e7a4caa1d1b0999fb09108489d28fb4662",
+      "bytes": 48474,
+      "from": "ca28 pages 8-9 — coffee tiles with screws"
+    },
+    {
+      "name": "08-coffee-shapes-on-paper.webp",
+      "sha256": "6991d2b8672b2e0e98de48f5d0931760df16860a57fb8e47d12c8d83de0e483f",
+      "bytes": 28678,
+      "from": "ca28 pages 8-9 — coffee shapes on paper"
+    },
+    {
+      "name": "09-first-coffee-tiles.webp",
+      "sha256": "48b33044ca98b1fd0baada5c0b455fc1bf216fde397bae238f4faeb0ba75a12e",
+      "bytes": 12060,
+      "from": "ca28 pages 8-9 — first coffee tiles"
+    }
+  ]
+}
