@@ -1,0 +1,61 @@
+{
+  "project": "Tower of Five Layers",
+  "dest": "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles",
+  "note": "Portfolio 72cd pages 3-4 cropped to 9 images, WebP q88 (PIL). Not used: book cover and title (retitled from novel-based Invisible Cities; novel, author and city names dropped), souvenir magnet photo, sketches of named cities, waste-island photos and place name, process photos with hands.",
+  "files": [
+    {
+      "name": "01-tower-of-five-layers.webp",
+      "sha256": "4a005b40d3d794b83745ba7df3bf725369d2bf38f6a086bd83950bcee4bb791b",
+      "bytes": 184922,
+      "from": "72cd pages 3-4 — the tower of five layers"
+    },
+    {
+      "name": "02-full-model-white.webp",
+      "sha256": "9da7df86eba82893a4460bca1d543d721d79e66b2876cd36d1050be0a3336ebf",
+      "bytes": 186634,
+      "from": "72cd pages 3-4 — the full model"
+    },
+    {
+      "name": "03-layered-concept-sketches.webp",
+      "sha256": "e0d3c71d868bf16ee6d6f599987986b9bad3ef7d2fd093b03d48c39a1dfc1472",
+      "bytes": 110882,
+      "from": "72cd pages 3-4 — concept sketches of the layers"
+    },
+    {
+      "name": "04-bubble-crown-detail.webp",
+      "sha256": "8c4974c2b78115cf7ae285f8f167d37b35e45b1930b9f089c9a63c3c316f6e66",
+      "bytes": 21172,
+      "from": "72cd pages 3-4 — the bubble crown"
+    },
+    {
+      "name": "05-folded-paper-layer.webp",
+      "sha256": "38a9c7a5f4165b7b6ff08cef4ae9534a16890d3f48b048f821ffee692c948abc",
+      "bytes": 10700,
+      "from": "72cd pages 3-4 — the folded paper layer"
+    },
+    {
+      "name": "06-acrylic-and-wood-parallels.webp",
+      "sha256": "deb23e8c6483387c5e4650bbaa3ced76a9303f9e7acf11a5467860057a4a6668",
+      "bytes": 36276,
+      "from": "72cd pages 3-4 — acrylic above wood"
+    },
+    {
+      "name": "07-wooden-stair-frame.webp",
+      "sha256": "c3811b9e3f63cbe9b25da480a16a18dac39129338d7ea97abb5ce178c2a7aea8",
+      "bytes": 35218,
+      "from": "72cd pages 3-4 — the wooden stair frame"
+    },
+    {
+      "name": "08-stone-and-clay-base.webp",
+      "sha256": "14cff63240993598ef804820e1c305e597fd7521f293a1096849458d79f42ced",
+      "bytes": 16882,
+      "from": "72cd pages 3-4 — the stone and clay base"
+    },
+    {
+      "name": "09-crown-views-strip.webp",
+      "sha256": "575009807597ebd4ea0c86c398cb1d7d40025bf193c4ff1b9e885031dc7167a3",
+      "bytes": 50036,
+      "from": "72cd pages 3-4 — views of the upper layers"
+    }
+  ]
+}
