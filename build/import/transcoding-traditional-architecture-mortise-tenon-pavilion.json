@@ -1,0 +1,61 @@
+{
+  "project": "Transcoding Traditional Chinese Architecture",
+  "dest": "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion",
+  "note": "Portfolio 3c08 pages 8-9 cropped to nine images, WebP q88 (PIL). Not used: title and text, reference drawings of a named historic pavilion and its name.",
+  "files": [
+    {
+      "name": "01-roof-model.webp",
+      "sha256": "fffa20178947f8ff60d5098ef6374758333fe5c1f420837d7193a00a685de223",
+      "bytes": 156178,
+      "from": "3c08 page 9 — roof model"
+    },
+    {
+      "name": "02-joint-pieces.webp",
+      "sha256": "5ffdd37c13483d026aea571c0fc8cb981379d74b3606113defb60d11e53dff3a",
+      "bytes": 35296,
+      "from": "3c08 page 8 — joint pieces"
+    },
+    {
+      "name": "03-first-frame.webp",
+      "sha256": "a55c40584f066cddfa13004505f404c4c0cdfd94bc8cde0df3221d7ffe824434",
+      "bytes": 21900,
+      "from": "3c08 page 8 — first frame"
+    },
+    {
+      "name": "04-bracket-layers.webp",
+      "sha256": "b12e7ebabb60cc59d599d61368818a4a285f4bf8d49628c6a00e9c863e9d85a1",
+      "bytes": 42912,
+      "from": "3c08 page 8 — bracket layers"
+    },
+    {
+      "name": "05-frame-angle.webp",
+      "sha256": "2a25c64a9e0c37c2ebc792419a6e57fa89a6d39b0732544bb0c749ae6a9c2acc",
+      "bytes": 34708,
+      "from": "3c08 page 8 — frame angle"
+    },
+    {
+      "name": "06-eaves-front.webp",
+      "sha256": "05c15c377bc3c2135841edd8956edf8658333c970d9ef01779aead4522df3195",
+      "bytes": 39032,
+      "from": "3c08 page 9 — eaves front"
+    },
+    {
+      "name": "07-roof-corner.webp",
+      "sha256": "4dbf5913f11cb89eb56e20abacdc0444cc9ea14d3602a2c3581e38ac0d164525",
+      "bytes": 33846,
+      "from": "3c08 page 9 — roof corner"
+    },
+    {
+      "name": "08-under-roof.webp",
+      "sha256": "3daf89e72a3fc7d1a817a8153de3aded14021f8fd194a92e9a49c7265aa9123f",
+      "bytes": 58552,
+      "from": "3c08 page 9 — under roof"
+    },
+    {
+      "name": "09-courtyard-view.webp",
+      "sha256": "5d8cea3a49daed325a2454340c918b71c3457be63e7afca3f46f3b887d8585c6",
+      "bytes": 31866,
+      "from": "3c08 page 9 — courtyard view"
+    }
+  ]
+}
