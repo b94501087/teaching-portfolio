@@ -1,0 +1,37 @@
+{
+  "project": "Stories of the City",
+  "dest": "assets/board/stories-of-the-city-urban-village-section-model",
+  "note": "Portfolio a9c4 page 2 cropped to 5 images, WebP q88 (PIL). Not used: cover with candidate name, city name in text, reference images, site photos of shopfronts and street life, caption with dimensions and date.",
+  "files": [
+    {
+      "name": "01-backlit-section-model.webp",
+      "sha256": "ebc21dc337d7701b2c3921a4b2970d010be2f3c45d0485160e464e536eb2b684",
+      "bytes": 132450,
+      "from": "a9c4 page 2 — the backlit section model"
+    },
+    {
+      "name": "02-white-wall-street-model.webp",
+      "sha256": "f1b32c9020dccc04dc2fc525403b8ff0281d091679e1b8ded3fcae83969083d1",
+      "bytes": 46988,
+      "from": "a9c4 page 2 — a street model of white walls"
+    },
+    {
+      "name": "03-stacked-rooms-view.webp",
+      "sha256": "d5b01194b19a7c7d3e7f6be77aebc8bd8a2c0a519a1dd66c143bb3db85e08f2c",
+      "bytes": 10836,
+      "from": "a9c4 page 2 — a view of stacked rooms"
+    },
+    {
+      "name": "04-section-floors-close.webp",
+      "sha256": "b6f8391052bfd783f6be164f8dcc9384e453675877bd944dd20d0161e1fa8b64",
+      "bytes": 8044,
+      "from": "a9c4 page 2 — section floors in close view"
+    },
+    {
+      "name": "05-section-with-figures.webp",
+      "sha256": "3a914f280a14951652d57919b13cdad909f16f0414ed72c23322e1940b0c61bc",
+      "bytes": 9700,
+      "from": "a9c4 page 2 — the section with figures"
+    }
+  ]
+}
