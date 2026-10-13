@@ -79068,6 +79068,426 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Maze City",
+      "slug": "maze-city-orthogonal-line-pvc-dense-settlement",
+      "description": "Orthogonal line patterns are extruded into PVC walls, dressed with drawn shop windows and stacked into a dense, maze-like city with small open spaces.\n\nModel | Pattern-to-space study | PVC boards, wooden sticks, tracing paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "迷宮城市",
+          "description": "正交的線條圖案被擠出成PVC牆，貼上手繪的櫥窗，再堆疊成一座留有小型開放空間、如迷宮般密集的城市。\n\n模型｜圖案到空間研究｜PVC板、木籤、描圖紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/01-dense-maze-city-model.webp",
+        "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/02-maze-plan-from-above.webp",
+        "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/03-line-pattern-to-relief.webp",
+        "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/04-extrusion-studies-a.webp",
+        "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/05-extrusion-studies-b.webp",
+        "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/06-stacked-top-view.webp",
+        "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/07-stacked-side-view.webp",
+        "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/08-stacked-white-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/01-dense-maze-city-model.webp"
+          ],
+          "captions": [
+            "The dense maze city model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "密集的迷宮城市模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Complicated rectangles, lines and right angles often appear in favourite science-fiction films. The project asks whether such a pattern of lines could grow into a city.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "複雜的矩形、線條與直角常出現在學生喜愛的科幻電影中。這個專題探問，這樣的線條圖案能否生長成一座城市。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew patterns of horizontal and vertical lines that never touch or cross. Shapes between the lines were then cut from PVC board and raised into walls.",
+          "images": [
+            "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/03-line-pattern-to-relief.webp"
+          ],
+          "captions": [
+            "From line pattern to relief."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生畫出水平與垂直、彼此從不接觸也不交叉的線條圖案。接著把線條之間的形狀從PVC板切出，立起成牆。",
+              "captions": [
+                "從線條圖案到浮雕。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wooden sticks were added as borders at right angles to sharpen the sense of extrusion. Cross-section drawings of homes on tracing paper were pasted on the walls like shop windows.",
+          "images": [
+            "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/04-extrusion-studies-a.webp",
+            "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/05-extrusion-studies-b.webp"
+          ],
+          "captions": [
+            "Extrusion studies.",
+            "More extrusion studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木籤以直角加在邊緣，強化擠出的立體感。描圖紙上的住宅剖面圖被貼在牆面上，宛如商店櫥窗。",
+              "captions": [
+                "擠出研究。",
+                "更多擠出研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Finally the pieces were folded, intersected and fixed on top of each other at high density. The whole looks like a crowded housing complex with a few open public spaces.",
+          "images": [
+            "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/02-maze-plan-from-above.webp",
+            "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/06-stacked-top-view.webp",
+            "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/07-stacked-side-view.webp",
+            "assets/board/maze-city-orthogonal-line-pvc-dense-settlement/08-stacked-white-view.webp"
+          ],
+          "captions": [
+            "The maze from above.",
+            "The stack from the top.",
+            "The stack from the side.",
+            "A white stacked view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最後，這些部件被摺疊、交錯，並以高密度相互疊合固定。整體看來像一座擁擠的住宅群，其中留有幾處開放的公共空間。",
+              "captions": [
+                "從上方看迷宮。",
+                "從頂部看堆疊。",
+                "從側面看堆疊。",
+                "白色堆疊視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Lines That Never Touch - Density as Design",
+          "body": "Dense cities are often described as chaos, yet this project discovered that crowding can follow strict rules. The work began on paper with a single constraint, lines running only horizontally or vertically, never touching and never crossing. Within that discipline, the student drew labyrinths whose gaps became the true subject, and the shapes between lines were cut from foam board and lifted into walls. Thin wooden sticks set at right angles along the edges exaggerated each extrusion, and small section drawings of homes, traced on translucent paper, were pasted onto the facades like lit shop windows, giving the abstract walls a domestic scale. The guidance encouraged testing many small fragments before committing, and a series of photographed studies explored how a strip of maze might bend, turn back or open into a courtyard. In the final stage the fragments were folded and stacked at high density until they read as one crowded settlement, pierced by a few open terraces. The project shows how a graphic rule can generate a believable urban fabric.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "永不相觸的線-以密度設計",
+              "body": "高密度的城市常被形容為混亂，然而這個專題發現，擁擠也可以遵循嚴格的規則。作品從紙上的單一限制開始：線條只能水平或垂直延伸，永不接觸，也永不交叉。在這份紀律之中，學生畫出迷宮，而線與線之間的空隙才是真正的主題，這些形狀從發泡板切出，立起成牆。沿邊緣以直角加上的細木籤誇大了每一道擠出，描在半透明紙上的小幅住宅剖面圖被貼到立面上，像亮著燈的商店櫥窗，為抽象的牆賦予居家的尺度。指導過程鼓勵在定案前測試許多小片段，一系列拍攝下來的研究探索一段迷宮如何彎折、折返，或開展成庭院。在最後階段，這些片段被摺疊並高密度地堆疊，直到讀來像一座擁擠的聚落，其間穿插幾處開放的平台。這個專題說明，一條圖形規則也能生成令人信服的城市紋理。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Offense and Defense",
+      "slug": "offense-and-defense-tangled-stick-and-strip-thicket",
+      "description": "Tangled line drawings layered on transparent sheets become a thicket of paper strips and wooden sticks, two clusters bristling at each other like attack and defence.\n\nModel and drawings | Form study | Wooden sticks, paper, transparent sheets | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "攻與守",
+          "description": "層疊在透明片上的糾纏線條，化為由紙條與木籤構成的叢狀量體，兩團量體如攻與守般相互對峙。\n\n模型與繪圖｜形態研究｜木籤、紙、透明片｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/01-stick-and-strip-thicket.webp",
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/02-attack-and-defence-model.webp",
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/03-layered-line-tracings.webp",
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/04-stacked-tracing-sheets.webp",
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/05-form-sketches.webp",
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/06-strip-cluster-side.webp",
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/07-two-clusters-view.webp",
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/08-close-strip-weave.webp",
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/09-standing-strips.webp",
+        "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/10-bent-strip-arcs.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/01-stick-and-strip-thicket.webp"
+          ],
+          "captions": [
+            "The stick and strip thicket."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "木籤與紙條的叢狀量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Attack and defence are actions full of tension, yet they leave no lasting form. The project asks how that push and resistance could be shown in a spatial structure.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "攻擊與防守是充滿張力的動作，卻不會留下持久的形體。這個專題探問，如何以空間結構呈現這種推進與抵抗。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student drew small closed shapes and tangled lines, then traced them on transparent sheets. The sheets were layered so the lines could be read in depth.",
+          "images": [
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/03-layered-line-tracings.webp",
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/04-stacked-tracing-sheets.webp",
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/05-form-sketches.webp"
+          ],
+          "captions": [
+            "Layered line tracings.",
+            "Stacked tracing sheets.",
+            "Form sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生畫出小型封閉形狀與糾纏的線條，再描到透明片上。這些透明片層層疊合，讓線條能在深度中被閱讀。",
+              "captions": [
+                "層疊的線條描圖。",
+                "堆疊的描圖片。",
+                "形態草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Bent paper strips were used for the open, curving forms, and sharp wooden sticks pierced through them. The two materials were built up into dense clusters that lean toward each other.",
+          "images": [
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/08-close-strip-weave.webp",
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/09-standing-strips.webp",
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/10-bent-strip-arcs.webp"
+          ],
+          "captions": [
+            "Woven strips up close.",
+            "Standing strips.",
+            "Bent strip arcs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "彎曲的紙條用來表現開放而彎轉的形體，尖銳的木籤則穿刺其間。兩種材料被堆疊成密集的量體，彼此傾向對方。",
+              "captions": [
+                "近看交織的紙條。",
+                "直立的紙條。",
+                "彎曲紙條的弧。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished thicket rises in two masses, one rounded and one spiked, with long shadows crossing between them. It reads as a frozen moment of attack and defence.",
+          "images": [
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/02-attack-and-defence-model.webp",
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/06-strip-cluster-side.webp",
+            "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/07-two-clusters-view.webp"
+          ],
+          "captions": [
+            "The two clusters.",
+            "A cluster from the side.",
+            "The two clusters together."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的叢狀量體分成兩團升起，一團渾圓，一團帶刺，長影在兩者之間交錯。它讀來像攻與守凝固的一刻。",
+              "captions": [
+                "兩團量體。",
+                "側看量體。",
+                "並置的兩團量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Strip Against Stick - The Architecture of Tension",
+          "body": "Conflict is usually imagined as something to resolve, but this project treated tension itself as a material worth building. The student began by drawing small closed shapes and restless tangled lines, then tracing them onto transparent sheets that could be stacked and shifted, so that a flat sketch gained depth and the lines appeared to move through space. From these layered studies two vocabularies emerged. Thin paper strips, bent into loops and arches, carry the soft logic of shelter, while sharp wooden sticks thrust through them with the urgency of attack. The guidance asked that neither material dominate, and the student kept adjusting the balance as the clusters grew, letting one mass swell into rounded cages while the other bristled with points. Photographed under a low light, the two thickets lean into each other and cast long crossing shadows that extend the struggle across the ground. The model captures a single suspended instant in which pressure and resistance are held in equilibrium, showing how opposing gestures can produce a richer space than either alone.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "紙條對木籤-張力的建築",
+              "body": "衝突通常被想像成需要化解的事，但這個專題把張力本身當作值得建造的材料。學生先畫出小型封閉形狀與躁動糾纏的線條，再把它們描到可以疊合、錯動的透明片上，使平面草圖獲得深度，線條彷彿在空間中移動。從這些層疊的研究中浮現兩套語彙。細薄的紙條彎成環與拱，承載庇護的柔和邏輯，尖銳的木籤則帶著攻擊的急迫穿刺其間。指導過程要求兩種材料都不能壓倒對方，學生隨著量體增長不斷調整平衡，讓一團膨脹為渾圓的籠，另一團則豎滿尖刺。在低角度的光線下拍攝，兩叢量體相互傾靠，投下長長交錯的影子，把這場角力延伸到地面上。模型捕捉了一個懸停的瞬間，壓力與抵抗在其中維持平衡，說明對立的姿態能比任何一方單獨存在時，創造出更豐富的空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Rational City",
+      "slug": "rational-city-coil-traffic-and-foam-tower-section",
+      "description": "Observations of a crowded station district become a model city section, with coils for traffic, foam blocks for buildings, and acrylic balconies and bridges linking them.\n\nModel and sketches | Urban study | Plastic straws, wooden sticks, threads, foam, PVC boards, copper coils | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "理性城市",
+          "description": "對一個擁擠車站街區的觀察化為一座模型城市剖面，以線圈代表交通、泡棉塊代表建築，並以壓克力陽台與天橋相連。\n\n模型與草圖｜城市研究｜塑膠吸管、木籤、絲線、泡棉、PVC板、銅線圈｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/rational-city-coil-traffic-and-foam-tower-section/01-rational-city-section-model.webp",
+        "assets/board/rational-city-coil-traffic-and-foam-tower-section/02-street-net-sketches.webp",
+        "assets/board/rational-city-coil-traffic-and-foam-tower-section/03-primary-model-studies.webp",
+        "assets/board/rational-city-coil-traffic-and-foam-tower-section/04-coil-city-from-above.webp",
+        "assets/board/rational-city-coil-traffic-and-foam-tower-section/06-figures-among-towers.webp",
+        "assets/board/rational-city-coil-traffic-and-foam-tower-section/07-balconies-and-bridges.webp",
+        "assets/board/rational-city-coil-traffic-and-foam-tower-section/08-coil-traffic-detail.webp",
+        "assets/board/rational-city-coil-traffic-and-foam-tower-section/09-acrylic-frame-detail.webp",
+        "assets/board/rational-city-coil-traffic-and-foam-tower-section/10-blue-pipe-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/rational-city-coil-traffic-and-foam-tower-section/01-rational-city-section-model.webp"
+          ],
+          "captions": [
+            "The rational city section model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "理性城市剖面模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A busy block around a railway station in the student’s home city suffered from very dense buildings and jammed traffic. The project asks how a more rational section of the city could be planned.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生家鄉城市中，一個火車站周邊的繁忙街區，建築極度密集、交通壅塞。這個專題探問，如何規劃出更理性的城市剖面。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Several site visits recorded water, trees, roads, buildings and the flow of people. Sketches turned the points of trees and roads into a net of lines over the block.",
+          "images": [
+            "assets/board/rational-city-coil-traffic-and-foam-tower-section/02-street-net-sketches.webp"
+          ],
+          "captions": [
+            "Street net sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "多次實地走訪記錄了水、樹木、道路、建築與人流。草圖把樹木與道路的位置轉化為覆蓋街區的線網。",
+              "captions": [
+                "街道線網草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Small models tested two directions, one on water and one on traffic and buildings. Straws and sticks stood for pipes and sap, while foam cubes, threads and a large wooden shade structure replaced crowded buildings, flows and trees.",
+          "images": [
+            "assets/board/rational-city-coil-traffic-and-foam-tower-section/03-primary-model-studies.webp",
+            "assets/board/rational-city-coil-traffic-and-foam-tower-section/04-coil-city-from-above.webp"
+          ],
+          "captions": [
+            "Primary model studies.",
+            "The city from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "小型模型測試兩個方向，一是水，一是交通與建築。吸管與木籤代表管線與樹液，泡棉方塊、絲線與一座大型木構遮陽系統則取代擁擠的建築、人車流與樹木。",
+              "captions": [
+                "初步模型研究。",
+                "從上方看城市。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model sets foam towers on a neat grid, with copper coils as traffic flows above. PVC balconies and pedestrian bridges link the buildings to give people open space between them.",
+          "images": [
+            "assets/board/rational-city-coil-traffic-and-foam-tower-section/06-figures-among-towers.webp",
+            "assets/board/rational-city-coil-traffic-and-foam-tower-section/07-balconies-and-bridges.webp",
+            "assets/board/rational-city-coil-traffic-and-foam-tower-section/08-coil-traffic-detail.webp",
+            "assets/board/rational-city-coil-traffic-and-foam-tower-section/09-acrylic-frame-detail.webp",
+            "assets/board/rational-city-coil-traffic-and-foam-tower-section/10-blue-pipe-detail.webp"
+          ],
+          "captions": [
+            "Figures among the towers.",
+            "Balconies and bridges.",
+            "Coils as traffic.",
+            "Acrylic frames.",
+            "A blue pipe loop."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型把泡棉塔樓置於整齊的格網上，銅線圈在上方代表交通流。PVC陽台與人行天橋連接各棟建築，在其間為人們留出開放空間。",
+              "captions": [
+                "塔樓間的人偶。",
+                "陽台與天橋。",
+                "代表交通的線圈。",
+                "壓克力框架。",
+                "藍色管線迴圈。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Untangling the Block - A Rational Section",
+          "body": "Cities rarely fail all at once, more often through small daily frictions of crowding, heat and congestion, and this project began by learning to see those frictions on foot. The student returned to one busy block several times, noting where water gathered, where trees offered shade, how roads cut through and where people struggled to pass. Rather than jumping to a design, the guidance asked for analysis made physical. Red straws stood for human circulation, dark and clear tubes for drainage and supply, blue sticks for the sap of trees, and connecting the trees on a plan produced a net that hinted at a new structure. A second study compressed the problem of density into foam cubes and silver threads beneath a broad timber canopy. From these tests came the final section, where pink-edged foam towers rise from a neat grid, copper coils loop overhead as lifted traffic, and clear acrylic balconies and bridges let pedestrians move freely between buildings. The model argues that careful observation can turn congestion into a calmer, more generous city.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "理順街區-一道理性的剖面",
+              "body": "城市很少一夕之間失靈，更常是因擁擠、炎熱與壅塞等日常的細小摩擦，而這個專題從學會徒步看見這些摩擦開始。學生多次回到同一個繁忙街區，記下水在哪裡聚集、樹木在哪裡提供遮蔭、道路如何切穿。指導過程沒有讓學生急於設計，而是要求把分析化為實體。紅色吸管代表人的流動，深色與透明的管子代表排水與供水，藍色木籤代表樹的汁液，把平面圖上的樹連接起來，則得到一張暗示新結構的網。第二個研究把密度問題壓縮為泡棉方塊與銀色絲線，覆於寬闊的木構棚架之下。從這些試驗中誕生了最終的剖面：粉紅鑲邊的泡棉塔樓從整齊的格網升起，銅線圈在上空盤繞成架高的交通，透明壓克力陽台與天橋讓行人在建築之間自由穿行。模型主張，細心的觀察能把壅塞轉化為更從容、更慷慨的城市。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
