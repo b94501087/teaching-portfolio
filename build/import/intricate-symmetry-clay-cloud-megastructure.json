@@ -1,0 +1,43 @@
+{
+  "project": "An Intricate Symmetry",
+  "dest": "assets/board/intricate-symmetry-clay-cloud-megastructure",
+  "note": "Portfolio d991 page 5 cropped to six images, WebP q88 (PIL). Not used: title and text, film and director names.",
+  "files": [
+    {
+      "name": "01-cloud-structure.webp",
+      "sha256": "c7cf4751e6aa62a3cdbf936ec21c629815825ee7ab308144a619cf324fd54294",
+      "bytes": 88348,
+      "from": "d991 page 5 — cloud structure"
+    },
+    {
+      "name": "02-lower-levels.webp",
+      "sha256": "2200f9aa66c75704bb829edf25eebe4e6e38b9e92825e71885f536400dd7ab65",
+      "bytes": 104172,
+      "from": "d991 page 5 — lower levels"
+    },
+    {
+      "name": "03-side-view.webp",
+      "sha256": "b1e521ff852f723aff2ff662813fe55b922486ec520b344379a34fc34a0712c7",
+      "bytes": 47218,
+      "from": "d991 page 5 — side view"
+    },
+    {
+      "name": "04-top-view.webp",
+      "sha256": "17a72df4984ad0179e4197569a731798f9fb09a16a56ae20cf9529acc5aebbd1",
+      "bytes": 40760,
+      "from": "d991 page 5 — top view"
+    },
+    {
+      "name": "05-corner-view.webp",
+      "sha256": "717e7e2216a78a69d120c4d52f86ba9b5ffbdcc0fce497f43a0bad0253e02f3e",
+      "bytes": 56266,
+      "from": "d991 page 5 — corner view"
+    },
+    {
+      "name": "06-film-scenes.webp",
+      "sha256": "f2e54f4aa4a24b76ab212572c2512c9773759ce28536615a988ba4e5613ccea6",
+      "bytes": 63606,
+      "from": "d991 page 5 — film scenes"
+    }
+  ]
+}
