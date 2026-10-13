@@ -1,0 +1,55 @@
+{
+  "project": "Family Cohesion",
+  "dest": "assets/board/family-cohesion-broken-home-rebuilt",
+  "note": "Portfolio ca28 pages 2-3 cropped to 8 images, WebP q88 (PIL). Not used: film stills.",
+  "files": [
+    {
+      "name": "01-rebuilt-house-model.webp",
+      "sha256": "99cd454d208495c5c0e880eab426f39c647e10ed743b339c7e3a862053cff760",
+      "bytes": 126862,
+      "from": "ca28 pages 2-3 — the rebuilt house"
+    },
+    {
+      "name": "02-house-from-the-left.webp",
+      "sha256": "00bf166d4550fcb80b7545778d0eab4ff9f24d072198e5886834936fc45dad8c",
+      "bytes": 79144,
+      "from": "ca28 pages 2-3 — the house from the left"
+    },
+    {
+      "name": "03-broken-home-sketch.webp",
+      "sha256": "ca4a85e79c9dd258cf83549e9a0d2868b4bd7c59f98ef3b5da575170e124fb86",
+      "bytes": 73164,
+      "from": "ca28 pages 2-3 — the broken home sketch"
+    },
+    {
+      "name": "04-paper-petals-close-up.webp",
+      "sha256": "1ee5ecadeb1bf93f72e77f6cfb0ee47f45582fed187e667ff623be4e0d14a483",
+      "bytes": 27822,
+      "from": "ca28 pages 2-3 — paper petals close up"
+    },
+    {
+      "name": "05-light-through-cut-paper.webp",
+      "sha256": "f00794e431c03d4ccf2003269b9c01d041687a2e5f011ce00ef5b7d8e4828898",
+      "bytes": 24812,
+      "from": "ca28 pages 2-3 — light through cut paper"
+    },
+    {
+      "name": "06-straw-nest-and-rooms.webp",
+      "sha256": "c4d9202d90c439bf9d177446d94f5d9307d651b7e775fc0dfffcc0bb74e04420",
+      "bytes": 43492,
+      "from": "ca28 pages 2-3 — a straw nest and rooms"
+    },
+    {
+      "name": "07-colour-straw-test.webp",
+      "sha256": "c14d51d9f9affc643ce9d77211eea5909b55e82178a2cfa966c338feaaed30fe",
+      "bytes": 16040,
+      "from": "ca28 pages 2-3 — a coloured straw test"
+    },
+    {
+      "name": "08-white-pieces-test.webp",
+      "sha256": "56789d4cd1d4b6718f82df766822473c78e684f2e7319d5c98f866241b7c4794",
+      "bytes": 17202,
+      "from": "ca28 pages 2-3 — white pieces test"
+    }
+  ]
+}
