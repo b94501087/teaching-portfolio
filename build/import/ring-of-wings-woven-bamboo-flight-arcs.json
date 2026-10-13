@@ -1,0 +1,67 @@
+{
+  "project": "Ring of Wings",
+  "dest": "assets/board/ring-of-wings-woven-bamboo-flight-arcs",
+  "note": "Portfolio 68e2 page 4 cropped to 10 images, WebP q88 (PIL). Not used: photo of a person with the piece.",
+  "files": [
+    {
+      "name": "01-bamboo-rings-hanging.webp",
+      "sha256": "861cc2888c40e67710979ccdc58136a324bb79db4b40f6129fba86c38e851e91",
+      "bytes": 71564,
+      "from": "68e2 page 4 — bamboo rings hanging in the dark"
+    },
+    {
+      "name": "02-woven-wing-arc.webp",
+      "sha256": "695ce3a5fbaae9705869b0db3a95c869ffc4d5b4d569275ff10092eace947644",
+      "bytes": 47934,
+      "from": "68e2 page 4 — a woven wing arc"
+    },
+    {
+      "name": "03-ring-edge.webp",
+      "sha256": "a2037aeac05c6fab2b75d178b52a287eda925e2f5fbf4597f2c7095469b93728",
+      "bytes": 12554,
+      "from": "68e2 page 4 — the edge of a ring"
+    },
+    {
+      "name": "04-woven-bowl.webp",
+      "sha256": "74ef7863a1d13455e30259d479c4dacce8da74531b0ee6a0ea44482977094eb0",
+      "bytes": 16020,
+      "from": "68e2 page 4 — a woven bowl form"
+    },
+    {
+      "name": "05-wing-tips.webp",
+      "sha256": "9e7d05f6895335655e4afb8e2e2c3aafa63b8419a069a2a504aa7f4e5c5ddcda",
+      "bytes": 16514,
+      "from": "68e2 page 4 — joined wing tips"
+    },
+    {
+      "name": "06-bird-flight-sketches.webp",
+      "sha256": "9931514e188346dceea7e6757dd82ec6a6374f55423cc949ad38c04e38d0d63c",
+      "bytes": 9780,
+      "from": "68e2 page 4 — sketches of birds in flight"
+    },
+    {
+      "name": "07-weaving-tests.webp",
+      "sha256": "999a5d869bd1eec613f596c9e95e4ca35a8de6603b107182bd3ba2bb378e3883",
+      "bytes": 62698,
+      "from": "68e2 page 4 — woven bamboo pattern tests"
+    },
+    {
+      "name": "08-wings-in-the-forest.webp",
+      "sha256": "cd2ff8c2f2954f1fca958490693ad09a43ebcf2f92a546c0d1e24a02ac5abc27",
+      "bytes": 143540,
+      "from": "68e2 page 4 — the rings among the trees"
+    },
+    {
+      "name": "09-forest-close-up.webp",
+      "sha256": "2d6782160c04a377b6c60eb8be547a58c503079c5c3bc6caa0de0cb57ba663cb",
+      "bytes": 73562,
+      "from": "68e2 page 4 — a closer view in the forest"
+    },
+    {
+      "name": "10-forest-distance.webp",
+      "sha256": "5fd2deae0564370c97cb8a9ecb83b4dcd3a3962d0cd05c20e0cd7be142358460",
+      "bytes": 72944,
+      "from": "68e2 page 4 — the piece from a distance"
+    }
+  ]
+}
