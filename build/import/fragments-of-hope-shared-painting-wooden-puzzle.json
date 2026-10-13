@@ -1,0 +1,55 @@
+{
+  "project": "Fragments of Hope",
+  "dest": "assets/board/fragments-of-hope-shared-painting-wooden-puzzle",
+  "note": "Portfolio 0bc2 page 7 cropped to eight images, WebP q88 (PIL). Not used: title and text, the name and address of the centre, all photos of children and people, the name of a famous painter.",
+  "files": [
+    {
+      "name": "01-shared-painting.webp",
+      "sha256": "e9f27f8d83cb9beef48c2135ab8c2b9e20d2deae95fca8e6c6f90b2b9b96bfb0",
+      "bytes": 59272,
+      "from": "0bc2 page 7 — shared painting"
+    },
+    {
+      "name": "02-colour-detail.webp",
+      "sha256": "fccfa0956df93f2c7417c1331b3a2c1d35ffbf594206b9dedd07d9810442b1c6",
+      "bytes": 8790,
+      "from": "0bc2 page 7 — colour detail"
+    },
+    {
+      "name": "03-face-detail.webp",
+      "sha256": "6adc358f3b37b902d99645ba8851b9453c8474a378b329bf822fd8192fc41fc4",
+      "bytes": 5830,
+      "from": "0bc2 page 7 — face detail"
+    },
+    {
+      "name": "04-shape-detail.webp",
+      "sha256": "b735ae73f469b643353bd72d1544bc185579dee72b32ee4abeee872020d0deb1",
+      "bytes": 5212,
+      "from": "0bc2 page 7 — shape detail"
+    },
+    {
+      "name": "05-cut-pieces.webp",
+      "sha256": "ed1aac137eeb68c73ab3a2bd593721420f469def5e04f854d73f4e959a59bedf",
+      "bytes": 7298,
+      "from": "0bc2 page 7 — cut pieces"
+    },
+    {
+      "name": "06-loose-pieces.webp",
+      "sha256": "7b174f948737312e57ab3cb16ddfbe1fa28940761fd88653a0fb0d51c899d710",
+      "bytes": 6960,
+      "from": "0bc2 page 7 — loose pieces"
+    },
+    {
+      "name": "07-half-done.webp",
+      "sha256": "64b5218eab40459e757c601494bde44f8a0c29bb0f1c8a8e6d928efd95a9ebc7",
+      "bytes": 5488,
+      "from": "0bc2 page 7 — half done"
+    },
+    {
+      "name": "08-finished-puzzle.webp",
+      "sha256": "ad42092740e4d646a80613e53a20d813e52b56baaac7078dc847d49637ca3242",
+      "bytes": 7798,
+      "from": "0bc2 page 7 — finished puzzle"
+    }
+  ]
+}
