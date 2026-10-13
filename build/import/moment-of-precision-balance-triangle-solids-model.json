@@ -1,0 +1,67 @@
+{
+  "project": "The Moment of Precision",
+  "dest": "assets/board/moment-of-precision-balance-triangle-solids-model",
+  "note": "Portfolio 04a9 pages 6-7 cropped to 10 images, WebP q88 (PIL). Not used: photos of a person shooting, stance figure drawings.",
+  "files": [
+    {
+      "name": "01-balance-model-overview.webp",
+      "sha256": "3716ebba73570fc21c5417c5f3f8166567ec588b43b82e518050ac8c6953e853",
+      "bytes": 58662,
+      "from": "04a9 pages 6-7 — the balance model"
+    },
+    {
+      "name": "02-balance-model-front.webp",
+      "sha256": "aacfc810178d9add392f5765181f7e3dae33efb481e0f071e56893bfc0a70091",
+      "bytes": 38704,
+      "from": "04a9 pages 6-7 — the model from the front"
+    },
+    {
+      "name": "03-balance-model-close.webp",
+      "sha256": "45a291f5269c2ed94f03ef4e53908ffc720b937039fe13a56abdd9f3ca2d11ce",
+      "bytes": 32790,
+      "from": "04a9 pages 6-7 — a close view"
+    },
+    {
+      "name": "04-stacked-solids-render.webp",
+      "sha256": "691c3aecbe3ac15ad9210a73f7c03044258466942fd06cefa0c31e4520574763",
+      "bytes": 51568,
+      "from": "04a9 pages 6-7 — a stacked render"
+    },
+    {
+      "name": "05-triangle-balance-diagrams.webp",
+      "sha256": "402ef7a8692699effbf50ba10d5a86c2f0220af8f9d423897753371eef2847ea",
+      "bytes": 14080,
+      "from": "04a9 pages 6-7 — balance triangle diagrams"
+    },
+    {
+      "name": "06-solid-study-a.webp",
+      "sha256": "700de0729dbe352133d96b6b1d14956de33d500c69f990ddfb4484c7c3fac65b",
+      "bytes": 8270,
+      "from": "04a9 pages 6-7 — solid study"
+    },
+    {
+      "name": "07-solid-study-b.webp",
+      "sha256": "32d9bf47b356d9efde3e3e3982d9d7561d8b87044ccb4a97d2f619022c87e3d0",
+      "bytes": 10596,
+      "from": "04a9 pages 6-7 — another solid study"
+    },
+    {
+      "name": "08-solid-study-c.webp",
+      "sha256": "ac279955f55f750b124150f0047d3118b912d25a0f9d2fa584a7f80baaf76c60",
+      "bytes": 10334,
+      "from": "04a9 pages 6-7 — a long solid study"
+    },
+    {
+      "name": "09-solid-study-d.webp",
+      "sha256": "c15453f934f538418ac528d5aa1af9fac403466c2838efc2c7d000d8d6e55989",
+      "bytes": 12222,
+      "from": "04a9 pages 6-7 — a wedge study"
+    },
+    {
+      "name": "10-solid-study-e.webp",
+      "sha256": "7d9a161efb4e5a25d18af67547c2aa279c31e74c953defe81d25745c01cf0a2a",
+      "bytes": 11658,
+      "from": "04a9 pages 6-7 — a cantilever study"
+    }
+  ]
+}
