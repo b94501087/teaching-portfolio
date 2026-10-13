@@ -1,0 +1,49 @@
+{
+  "project": "Remixed Terrain",
+  "dest": "assets/board/remixed-terrain-stick-roof-landscape",
+  "note": "Portfolio 56b3 pages 8-12 cropped to 7 images, WebP q88 (PIL). Not used: game title art and logo, game-scene painting, photos and drawing with toy figures holding guns, process photos with a hand.",
+  "files": [
+    {
+      "name": "01-terrain-model-with-stick-roofs.webp",
+      "sha256": "a328a9ca7b7aab9b98bde0ff032a15ae679759d2abd9258f21173049bbbe8c6a",
+      "bytes": 87150,
+      "from": "56b3 pages 8-12 — the terrain model"
+    },
+    {
+      "name": "02-stick-roof-web.webp",
+      "sha256": "aa8fae0005bda8fd67c7004f1181ef4934ddaab433e235bde522bd7495569e13",
+      "bytes": 250254,
+      "from": "56b3 pages 8-12 — the stick roof web"
+    },
+    {
+      "name": "03-pen-drawing-inside.webp",
+      "sha256": "0d2ff22110d7ed72d172eb7e7d4b46a4373a8ae478bda06573f778d8ba55cb50",
+      "bytes": 404174,
+      "from": "56b3 pages 8-12 — a pen drawing inside"
+    },
+    {
+      "name": "04-traced-map-plan.webp",
+      "sha256": "9022e7e60bdc6f4ae6daafa5fa0eb273cd5f90f327d0c532aecb9f6c153ab6da",
+      "bytes": 25394,
+      "from": "56b3 pages 8-12 — a traced map plan"
+    },
+    {
+      "name": "05-first-terrain-piece.webp",
+      "sha256": "b1e7c17b7b18aa22b510a65301d9aa28f90da275f97dbe580b2a6d4239e5e0a8",
+      "bytes": 5632,
+      "from": "56b3 pages 8-12 — a first terrain piece"
+    },
+    {
+      "name": "06-terrain-pieces-joined.webp",
+      "sha256": "6fb96e126eda7fde504e22a675d10ecb3a244b3ae62f3da05a0ec2cb7c99f4b4",
+      "bytes": 24580,
+      "from": "56b3 pages 8-12 — terrain pieces joined"
+    },
+    {
+      "name": "07-terrain-piece-side.webp",
+      "sha256": "1a4fd4a9f030c51c804aa10c7b8329b094ff5429fc9fee23bb553b63e001298d",
+      "bytes": 4192,
+      "from": "56b3 pages 8-12 — a terrain piece from the side"
+    }
+  ]
+}
