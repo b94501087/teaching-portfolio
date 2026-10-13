@@ -1,0 +1,49 @@
+{
+  "project": "Triangles Into Space",
+  "dest": "assets/board/triangles-into-space-drawing-to-reflective-stick-model",
+  "note": "Portfolio 4736 pages 7-8 cropped to 7 images, WebP q88 (PIL). Not used: caption with title, dimensions and date, text panels.",
+  "files": [
+    {
+      "name": "01-triangle-frame-model.webp",
+      "sha256": "9edf425d3acbe0004a8c070029b1c69595f2e765d5fef9240c83f25bb60093fd",
+      "bytes": 286020,
+      "from": "4736 pages 7-8 — the refined triangle frame model"
+    },
+    {
+      "name": "02-triangle-drawing-a.webp",
+      "sha256": "cd47dfd5a07c17cc8614e24f9fc876ef25618a445811760a71efc300abb20d65",
+      "bytes": 121454,
+      "from": "4736 pages 7-8 — the first triangle drawing"
+    },
+    {
+      "name": "03-triangle-drawing-b.webp",
+      "sha256": "e1034ee7c797d66d504ae8e7dd5727a7c90441afe92e26923bacf5bcb81b3734",
+      "bytes": 117384,
+      "from": "4736 pages 7-8 — the second triangle drawing"
+    },
+    {
+      "name": "04-triangle-drawing-c.webp",
+      "sha256": "405a41b07363bbb0235aadb0219a7c204adf15ee0bd165a91c31151f562aa271",
+      "bytes": 102544,
+      "from": "4736 pages 7-8 — the third triangle drawing"
+    },
+    {
+      "name": "05-model-close-view.webp",
+      "sha256": "9a9c4595d41fbc40dd4ef34738ec53cbcd408b6140d3d75bcca5a34eb34f1b5f",
+      "bytes": 424002,
+      "from": "4736 pages 7-8 — a close view of the stick frame"
+    },
+    {
+      "name": "06-reflective-panels.webp",
+      "sha256": "646920adc517f6ea4ebde960c31da94a98d8b554962dab3fe0c366512097c755",
+      "bytes": 187624,
+      "from": "4736 pages 7-8 — reflective panels among the sticks"
+    },
+    {
+      "name": "07-model-interior.webp",
+      "sha256": "3316fcfd5b0b412363b923c0ad581f4972c105394df6e60d610ce207d88ccbd0",
+      "bytes": 209364,
+      "from": "4736 pages 7-8 — the interior of the model"
+    }
+  ]
+}
