@@ -1,0 +1,67 @@
+{
+  "project": "Different Tone: Rich and Varied Space",
+  "dest": "assets/board/different-tone-spoken-tone-blocks-tower-model",
+  "note": "Portfolio 47e5 pages 12-13 cropped to ten images, WebP q88 (PIL). Not used: title and text, a painting taken from the internet, a process photo of the student, the poem and club names.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "7f9dc3dd4196eefc54b56c502449875c1189b0711b2d7842d5fada46778b4ffd",
+      "bytes": 41780,
+      "from": "47e5 page 13 — final tower"
+    },
+    {
+      "name": "02-nine-tones.webp",
+      "sha256": "d92b9035330f0283514ba7ffc1332ac079da279166fc3085e312835551da8f93",
+      "bytes": 12998,
+      "from": "47e5 page 12 — nine tones"
+    },
+    {
+      "name": "03-four-tones.webp",
+      "sha256": "b19533d29c0af22872fc2ce0d30ccc4491e9f96f4c6d42556adb25590d8bc559",
+      "bytes": 14372,
+      "from": "47e5 page 12 — four tones"
+    },
+    {
+      "name": "04-tone-blocks.webp",
+      "sha256": "dd72f92eb1625f9436b14154e988d25cfccdf36efad88ce0711c74b65f2a879d",
+      "bytes": 25892,
+      "from": "47e5 page 12 — tone blocks"
+    },
+    {
+      "name": "05-digital-studies.webp",
+      "sha256": "1990504aec595878ad1ad65f0b3b696ab428343b4c0aaf556d503acea5425b81",
+      "bytes": 31424,
+      "from": "47e5 page 12 — digital studies"
+    },
+    {
+      "name": "06-render.webp",
+      "sha256": "11881cd580b00174cee6bb6517cfb7e42d454a3dcda73464dac1c62712fa0400",
+      "bytes": 28108,
+      "from": "47e5 page 12 — render"
+    },
+    {
+      "name": "07-figure-detail.webp",
+      "sha256": "e5d9ad9919f2b079165cb0577c82ddba6d807ae6e0265d7c8a8e45ef91913c26",
+      "bytes": 6516,
+      "from": "47e5 page 13 — figure detail"
+    },
+    {
+      "name": "08-side-view.webp",
+      "sha256": "05e28140d42f6b27a87d1d03ea2a17ed02481db9b00e940946621aa28584479a",
+      "bytes": 17986,
+      "from": "47e5 page 13 — side view"
+    },
+    {
+      "name": "09-small-view.webp",
+      "sha256": "cb00f5566aa972ce26221eb5f151a90ac549ebe609ecab344cd5603d70107198",
+      "bytes": 13138,
+      "from": "47e5 page 13 — small view"
+    },
+    {
+      "name": "10-close-ups.webp",
+      "sha256": "5cf4edf35a60b2a53d4987e5b4f8c200d4689eb3bd434f762fdea73aae65f2f6",
+      "bytes": 7550,
+      "from": "47e5 page 13 — close ups"
+    }
+  ]
+}
