@@ -1,0 +1,67 @@
+{
+  "project": "Mapping Imagination",
+  "dest": "assets/board/mapping-imagination-string-peaks-and-newspaper-platforms",
+  "note": "Portfolio dee0 pages 1-2 cropped to 10 images, WebP q88 (PIL). Not used: competition and camp names, puzzle text and diagrams, photo with a hand holding the model, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-suspended-string-city.webp",
+      "sha256": "e30cc97371e555fe34bf06e47ee60d421257765d209e1c609d78640aec6d8ff8",
+      "bytes": 277496,
+      "from": "dee0 pages 1-2 — the suspended string city"
+    },
+    {
+      "name": "02-newspaper-platforms-on-grid.webp",
+      "sha256": "f222c9d29f6375e34f14b47ee69420d05fa7853f4e1c62c164df04d88a552afc",
+      "bytes": 76270,
+      "from": "dee0 pages 1-2 — newspaper platforms on the grid"
+    },
+    {
+      "name": "03-string-and-stair-detail.webp",
+      "sha256": "ed72f4930eb15df8e86b99693634c3514ce0278b66222219a660822a86aa057b",
+      "bytes": 46912,
+      "from": "dee0 pages 1-2 — a string and stair detail"
+    },
+    {
+      "name": "04-newspaper-floor-detail.webp",
+      "sha256": "220d9557e0bc32ea4a021f864529ef9f0018ec9ba3c596b04968c5de5655b149",
+      "bytes": 43530,
+      "from": "dee0 pages 1-2 — a newspaper floor detail"
+    },
+    {
+      "name": "05-string-peak-field.webp",
+      "sha256": "96aca1c9fd3e734d6e95d7363ea9db225b3066a3a8d9a806e6c105a582dcb482",
+      "bytes": 112494,
+      "from": "dee0 pages 1-2 — a field of string peaks"
+    },
+    {
+      "name": "06-string-peak-close.webp",
+      "sha256": "dc44af882bd7685fbfbbb81ae3be1ba41e21dd52f85817a8a522cac7f69efea8",
+      "bytes": 55492,
+      "from": "dee0 pages 1-2 — a string peak in close view"
+    },
+    {
+      "name": "07-string-base-close.webp",
+      "sha256": "c93ee0449bc61f8d88106dd45173473fa1d87966b9ed4a29b3df8b9dcf7cb143",
+      "bytes": 73904,
+      "from": "dee0 pages 1-2 — the string base in close view"
+    },
+    {
+      "name": "08-newspaper-mountain.webp",
+      "sha256": "5f1de796bdf5c5e27656a8eadc7d4c885ea3333736e34985168f0e69476ed0e9",
+      "bytes": 46448,
+      "from": "dee0 pages 1-2 — the newspaper mountain"
+    },
+    {
+      "name": "09-contour-drawing.webp",
+      "sha256": "af439f119516da7950c9779083d53c7f847eb9db5d3c93df981f4b9e276262ba",
+      "bytes": 97186,
+      "from": "dee0 pages 1-2 — the contour drawing"
+    },
+    {
+      "name": "10-newspaper-and-foam-model.webp",
+      "sha256": "e69770a960236b584fdaeaa3ed3d611922020d010f6b0243e2c542be97f13967",
+      "bytes": 119372,
+      "from": "dee0 pages 1-2 — the newspaper and foam model"
+    }
+  ]
+}
