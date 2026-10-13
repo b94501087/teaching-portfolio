@@ -1,0 +1,55 @@
+{
+  "project": "Walled Street Dream",
+  "dest": "assets/board/walled-street-dream-stacked-shopfront-light-model",
+  "note": "Portfolio 9954 pages 7-8 cropped to eight images, WebP q88 (PIL). Not used: title and text, city names, street photos with people, process photos with hands.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "a5a5f7e6c34523337f48988f632eb59009d79ce63672468280aa34e7ca5d37da",
+      "bytes": 157474,
+      "from": "9954 page 8 — final model"
+    },
+    {
+      "name": "02-aerial-city.webp",
+      "sha256": "9e5f37786afca6808a00056da84f4ac9f0b7f4a335236a0c9376ee77167a6430",
+      "bytes": 63280,
+      "from": "9954 page 7 — aerial city"
+    },
+    {
+      "name": "03-old-shops.webp",
+      "sha256": "98dd5997062518b72217a3644bd4f2c4f179d893f00f17a8688342a9ff7394d7",
+      "bytes": 6898,
+      "from": "9954 page 7 — old shops"
+    },
+    {
+      "name": "04-early-build.webp",
+      "sha256": "2fac227393880e980d79b799cd98e3b5ef248416e25b5fb0b2584068682f0199",
+      "bytes": 12762,
+      "from": "9954 page 7 — early build"
+    },
+    {
+      "name": "05-ink-drawing.webp",
+      "sha256": "8bcded5c8dfd6216f6540cd865e578e0c4c3aa647713316844ec26549bfa68e5",
+      "bytes": 295282,
+      "from": "9954 page 7 — ink drawing"
+    },
+    {
+      "name": "06-upper-view.webp",
+      "sha256": "f1476e125c3a0b81312e256a0255865e3a9b9970a78eb6114a52045606c7dbd6",
+      "bytes": 43644,
+      "from": "9954 page 8 — upper view"
+    },
+    {
+      "name": "07-sign-wall.webp",
+      "sha256": "5a0ebb1073ae728a40e78249d6856d9bf6f6dd638beafe64dacbee7f46daad94",
+      "bytes": 36062,
+      "from": "9954 page 8 — sign wall"
+    },
+    {
+      "name": "08-figure-path.webp",
+      "sha256": "55c889308d279518d4922f51cb84003c9753336c4756b0e868287ed8cdacd827",
+      "bytes": 33938,
+      "from": "9954 page 8 — figure path"
+    }
+  ]
+}
