@@ -1,0 +1,49 @@
+{
+  "project": "Space of Hidden Clues",
+  "dest": "assets/board/hidden-clues-wire-grid-cages-over-a-stick-base",
+  "note": "Portfolio 30d4 pages 4-5 cropped to 7 images, WebP q88 (PIL). Not used: story collage with photos of people, process photos with hands.",
+  "files": [
+    {
+      "name": "01-wire-grid-and-stick-tower.webp",
+      "sha256": "cc4566cb4d2e66100a107c4239caf1cbd1be96e89fe319f150ce49b4ebd5a3e1",
+      "bytes": 332808,
+      "from": "30d4 pages 4-5 — the wire grid and stick tower"
+    },
+    {
+      "name": "02-character-sketch.webp",
+      "sha256": "031e4a43658ee0800fcfc37314ee0a5ee8aff613880c942085ffabb40120a908",
+      "bytes": 198080,
+      "from": "30d4 pages 4-5 — a sketch of the parts of the story"
+    },
+    {
+      "name": "03-grid-cages-from-above.webp",
+      "sha256": "7e867344ec3e8f17a06a5dab2a7107d0e1d5b82aba7685b32b77a3211f77f01d",
+      "bytes": 460074,
+      "from": "30d4 pages 4-5 — the cages from above"
+    },
+    {
+      "name": "04-iridescent-shards.webp",
+      "sha256": "5d9855110a00d098a15a6c631b2740a677b399c8ffa6b08a6d5b4ba56501ffac",
+      "bytes": 129668,
+      "from": "30d4 pages 4-5 — shiny film shards"
+    },
+    {
+      "name": "05-cage-corner.webp",
+      "sha256": "b4a2e40a36cd74189b3bdc6116458698fd86ae1421ce15feeeccac6222347cf1",
+      "bytes": 94334,
+      "from": "30d4 pages 4-5 — a cage corner"
+    },
+    {
+      "name": "06-stick-base.webp",
+      "sha256": "1764dc97d7f4709c66e4a65406f72a3a994878540bcad35a0fe9eb76bba0996f",
+      "bytes": 119120,
+      "from": "30d4 pages 4-5 — the stick base"
+    },
+    {
+      "name": "07-shards-in-the-cage.webp",
+      "sha256": "bd760102174fea9b89f07e6655264bfe08eede384b1d95914f402a769b3e803d",
+      "bytes": 113846,
+      "from": "30d4 pages 4-5 — shards inside a cage"
+    }
+  ]
+}
