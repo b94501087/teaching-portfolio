@@ -1,0 +1,67 @@
+{
+  "project": "Shoe Rhapsody",
+  "dest": "assets/board/shoe-rhapsody-curved-cardboard-slice-tower",
+  "note": "Portfolio 956b pages 6-7 cropped to 10 images, WebP q88 (PIL). Not used: branded shoe photo, photos of bare feet, foot anatomy diagram, process photos with hands (brand name dropped).",
+  "files": [
+    {
+      "name": "01-curved-slice-tower.webp",
+      "sha256": "5845f1507f600a68f6e6a2d801a74f1df187b8953d2d976374501ee6288b1bc5",
+      "bytes": 73166,
+      "from": "956b pages 6-7 — the curved slice tower"
+    },
+    {
+      "name": "02-slice-cluster-close.webp",
+      "sha256": "59309762ffa436b349812ea586835b6dbe60bcae48997432d72e0eb3e9f2a360",
+      "bytes": 89632,
+      "from": "956b pages 6-7 — the cluster up close"
+    },
+    {
+      "name": "03-spiral-from-above.webp",
+      "sha256": "ed774d7abbcab26c2057da51984a837a459f3267d7f2f330245edcb4bd2b611b",
+      "bytes": 39080,
+      "from": "956b pages 6-7 — a spiral from above"
+    },
+    {
+      "name": "04-slice-canyon.webp",
+      "sha256": "6ab794bd0df82863edd231c518943d433af14f90e95b0daae11243345b3a2d76",
+      "bytes": 28568,
+      "from": "956b pages 6-7 — a canyon of slices"
+    },
+    {
+      "name": "05-slice-street-view.webp",
+      "sha256": "c68fec6692af39bce0b8168b389cacd2645c4f609e1140ea1175c157fa9e921a",
+      "bytes": 21624,
+      "from": "956b pages 6-7 — a street-like view"
+    },
+    {
+      "name": "06-curve-line-drawing.webp",
+      "sha256": "3745152de9aadd9a15b266f0147d0c45ee73921a8340aa27465041d487380c94",
+      "bytes": 94668,
+      "from": "956b pages 6-7 — a curve line drawing"
+    },
+    {
+      "name": "07-curve-line-study.webp",
+      "sha256": "90c1ae3243701949c34020ddc8505012b3b8f2d6744d7483885edcc02b7045a3",
+      "bytes": 48850,
+      "from": "956b pages 6-7 — another line study"
+    },
+    {
+      "name": "08-first-slice-group.webp",
+      "sha256": "3ed7a6b14deffa633b873c0fdb7b0a09dfa29d74b25756c20096cb2043e00f0b",
+      "bytes": 32000,
+      "from": "956b pages 6-7 — the first slice group"
+    },
+    {
+      "name": "09-scattered-curves.webp",
+      "sha256": "d7f731f3ca1ea081be29fc0a4570ad7d7d0251a2b5e62e1ba899b02f6a731c0d",
+      "bytes": 47272,
+      "from": "956b pages 6-7 — scattered curves"
+    },
+    {
+      "name": "10-slice-module-tests.webp",
+      "sha256": "0bb5b09b951e1f62b4aa400224cd0409d9a4c13e16b618670c0a491dbd2ad5b5",
+      "bytes": 19380,
+      "from": "956b pages 6-7 — slice module tests"
+    }
+  ]
+}
