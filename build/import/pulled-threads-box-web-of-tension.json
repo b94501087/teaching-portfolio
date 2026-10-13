@@ -1,0 +1,61 @@
+{
+  "project": "Pulled Threads",
+  "dest": "assets/board/pulled-threads-box-web-of-tension",
+  "note": "Portfolio bcbf pages 6-7 cropped to 9 images, WebP q88 (PIL). Not used: film reference and character names, process photos of a person, drawing of figures with faces.",
+  "files": [
+    {
+      "name": "01-thread-box.webp",
+      "sha256": "c959678683bbbca2db66446e2f5c250a0b95e63df8c96b44dc193039b2133d00",
+      "bytes": 293226,
+      "from": "bcbf pages 6-7 — the thread box"
+    },
+    {
+      "name": "02-box-from-above.webp",
+      "sha256": "a265fba770b6ec594cb4f9bba087dbabdacbc4db3455378e9a60e4a345c9dff4",
+      "bytes": 121412,
+      "from": "bcbf pages 6-7 — the box from above"
+    },
+    {
+      "name": "03-thread-web-inside.webp",
+      "sha256": "e199be00a14dc1867cafc5055d8c9dad8d7220424ebb7e9c8f7f71e92bb8af93",
+      "bytes": 345020,
+      "from": "bcbf pages 6-7 — the web inside"
+    },
+    {
+      "name": "04-pulled-thread-sketch.webp",
+      "sha256": "4ce2deb9f9e5fe651bf8a78c8e3b28afabe76afe65c30e43d6bbc5113957c9b5",
+      "bytes": 164674,
+      "from": "bcbf pages 6-7 — a sketch of pulled threads"
+    },
+    {
+      "name": "05-knot-sketch.webp",
+      "sha256": "64f772c6616056e17df4c6b3cb1f62a10576247912140c53afe7446e901a2c44",
+      "bytes": 126210,
+      "from": "bcbf pages 6-7 — a knot sketch"
+    },
+    {
+      "name": "06-web-drawing.webp",
+      "sha256": "ca5433bbe3d025d66c2bcad6bae4461e04033e1b2e7e9c7a8ef878867dc44a95",
+      "bytes": 141088,
+      "from": "bcbf pages 6-7 — a web drawing"
+    },
+    {
+      "name": "07-hanging-forms-drawing.webp",
+      "sha256": "f9efc7131578dad2b3fa2b0a79487d0bc66df1509b3c0b74e2afb1fe5cae1b73",
+      "bytes": 111690,
+      "from": "bcbf pages 6-7 — a drawing of hanging forms"
+    },
+    {
+      "name": "08-paper-plane-drawing.webp",
+      "sha256": "8e3ba271a8dc792faaf44e64f0cd028c997c876fba2681732f3b84808db42c33",
+      "bytes": 272564,
+      "from": "bcbf pages 6-7 — a drawing of trapped paper planes"
+    },
+    {
+      "name": "09-framed-core-drawing.webp",
+      "sha256": "9cb14fd9f350a6314dc1b8345341121d818ff61dfa4c8d8bea768a12a57db18b",
+      "bytes": 393442,
+      "from": "bcbf pages 6-7 — a drawing of a framed core"
+    }
+  ]
+}
