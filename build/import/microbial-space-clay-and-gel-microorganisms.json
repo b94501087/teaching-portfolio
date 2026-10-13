@@ -1,0 +1,61 @@
+{
+  "project": "Microbial Space",
+  "dest": "assets/board/microbial-space-clay-and-gel-microorganisms",
+  "note": "Portfolio 3a1d pages 6-7 cropped to 9 images, WebP q88 (PIL). Not used: stock microscope images, process photos with hands, table photos with printed paper cups.",
+  "files": [
+    {
+      "name": "01-microbial-clay-space.webp",
+      "sha256": "58c3160c31dceb011443bf261b34a952ee1cb2b8bb12886ec499a634e0b0b7b9",
+      "bytes": 96432,
+      "from": "3a1d pages 6-7 — the microbial clay space"
+    },
+    {
+      "name": "02-microbial-clay-space-front.webp",
+      "sha256": "53cbf63d55a3dd2f0d653394f331c226d004571b517d85697ed9fba7865426fd",
+      "bytes": 100038,
+      "from": "3a1d pages 6-7 — the microbial space from the front"
+    },
+    {
+      "name": "03-clay-cells-detail.webp",
+      "sha256": "74250572072b144db1ec4d8c22dd30902858297072584be6939e05ffe8d36ea8",
+      "bytes": 42882,
+      "from": "3a1d pages 6-7 — clay cells detail"
+    },
+    {
+      "name": "04-clay-folds-detail.webp",
+      "sha256": "27bea89e77db34ddd6db5fd3d66c3107b92d69a746b9745ebe9b13cd362d4bcf",
+      "bytes": 38238,
+      "from": "3a1d pages 6-7 — clay folds detail"
+    },
+    {
+      "name": "05-coloured-inclusions.webp",
+      "sha256": "74c9d3bacc2f1549f9c02a66a08f2a9d629a2d62e92be9a13153008908e41721",
+      "bytes": 51006,
+      "from": "3a1d pages 6-7 — coloured inclusions"
+    },
+    {
+      "name": "06-gel-and-resin-samples.webp",
+      "sha256": "27ae7deb4730203336760460d6f359b0b8473567fc88f5339c16fc2df29535fe",
+      "bytes": 111154,
+      "from": "3a1d pages 6-7 — gel samples"
+    },
+    {
+      "name": "07-bubble-gel.webp",
+      "sha256": "ebd69c2d3ced73f8fba97430860e0fec9b0dfdcb0640a6b4f9560a6b739df10d",
+      "bytes": 21536,
+      "from": "3a1d pages 6-7 — bubble gel"
+    },
+    {
+      "name": "08-coloured-gel-tray.webp",
+      "sha256": "de35738b52065f9954c92fc295ad4bc2261b49d4839f2e718735e6bd558f40f7",
+      "bytes": 20622,
+      "from": "3a1d pages 6-7 — a coloured gel tray"
+    },
+    {
+      "name": "09-molds-on-table.webp",
+      "sha256": "98e5f80760181f8d6c20e0cf6fbb8fbe9978b7937426edb4c351ad6a20d17426",
+      "bytes": 28930,
+      "from": "3a1d pages 6-7 — molds on the table"
+    }
+  ]
+}
