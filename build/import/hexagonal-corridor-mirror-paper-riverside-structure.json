@@ -1,0 +1,67 @@
+{
+  "project": "Hexagonal Corridor Structure",
+  "dest": "assets/board/hexagonal-corridor-mirror-paper-riverside-structure",
+  "note": "Portfolio 3c08 pages 10-11 cropped to ten images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-river-model.webp",
+      "sha256": "f84b4b03563c42cdc486aa2f59777b653f6820f556e06079f3fdf034b775db54",
+      "bytes": 168264,
+      "from": "3c08 page 11 — river model"
+    },
+    {
+      "name": "02-concept-sketches.webp",
+      "sha256": "5a529a4d264842b8a21c7941d9fee7203b43e6c7a2a6f35cb89d47df2d443cba",
+      "bytes": 67316,
+      "from": "3c08 page 10 — concept sketches"
+    },
+    {
+      "name": "03-unit-tests.webp",
+      "sha256": "7b38327151a367508653b7f42b182eb8fb94b4fa40c673b7f3fb1dc3ca51f0c7",
+      "bytes": 12486,
+      "from": "3c08 page 10 — unit tests"
+    },
+    {
+      "name": "04-terrain-start.webp",
+      "sha256": "1fd2e1888c0d9bc050ad74cb7ec860210694215631e74bb1bf87732331f84c2a",
+      "bytes": 10114,
+      "from": "3c08 page 10 — terrain start"
+    },
+    {
+      "name": "05-unit-clusters.webp",
+      "sha256": "5951ee741419459c4ed90c2b8f359a22ba3a51eeadc7c5de08ca61c0770aea50",
+      "bytes": 23096,
+      "from": "3c08 page 10 — unit clusters"
+    },
+    {
+      "name": "06-water-surface.webp",
+      "sha256": "5f058e37057e21e055e97f5f4e532ae526fce929aa57b140765516c0ab46bb10",
+      "bytes": 22018,
+      "from": "3c08 page 10 — water surface"
+    },
+    {
+      "name": "07-waterfront-night.webp",
+      "sha256": "3360fae7171fe7106a483914a48e5189491bb3536be6f2a2fc73e3baa767d216",
+      "bytes": 33062,
+      "from": "3c08 page 11 — waterfront night"
+    },
+    {
+      "name": "08-walkway-figures.webp",
+      "sha256": "4b45909af52b123d9c06ef1863af3d3cb651a71ef5d83ad00440eb7b25062ee4",
+      "bytes": 35526,
+      "from": "3c08 page 11 — walkway figures"
+    },
+    {
+      "name": "09-hexagon-roof.webp",
+      "sha256": "c65864e21e851846553a23e0a2d35e230fcb98790a7899fad480d45cf43614a0",
+      "bytes": 45200,
+      "from": "3c08 page 11 — hexagon roof"
+    },
+    {
+      "name": "10-platforms.webp",
+      "sha256": "c31ebb1d29b3afaf8245ae8ab89f6c1c5b8a90d217152e0852e217751fa8ea75",
+      "bytes": 35766,
+      "from": "3c08 page 11 — platforms"
+    }
+  ]
+}
