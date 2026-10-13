@@ -1,0 +1,67 @@
+{
+  "project": "Floating Mangrove Pavilion",
+  "dest": "assets/board/floating-mangrove-pavilion-wire-and-frosted-sheet",
+  "note": "Portfolio b2e2 pages 12-13 cropped to ten images, WebP q88 (PIL). Not used: title and text, an architect's name, process photos of the student.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "3f20f1b195a78efc40c90c982304a865bd81204daa98bfd96edefce569821917",
+      "bytes": 69344,
+      "from": "b2e2 page 13 — final model"
+    },
+    {
+      "name": "02-digital-form.webp",
+      "sha256": "0fd9e78e5e856a82d9065380d6a6cbb485860b3242e0fdf20f66e1dcb9f7c80e",
+      "bytes": 7986,
+      "from": "b2e2 page 12 — digital form"
+    },
+    {
+      "name": "03-digital-slats.webp",
+      "sha256": "5bd98644aa7c723db47b016adada1b5ad7c8c8615b8ef01bfa019cd47f995256",
+      "bytes": 16392,
+      "from": "b2e2 page 12 — digital slats"
+    },
+    {
+      "name": "04-wire-forest.webp",
+      "sha256": "9085af2c198137fb32d36244ca696982046f26fabe13851fdee8adf8cef4e3d2",
+      "bytes": 25040,
+      "from": "b2e2 page 12 — wire forest"
+    },
+    {
+      "name": "05-sheet-test.webp",
+      "sha256": "1f529b359d7aa19dbcabd82a11fcc033e2c627ac63388f4729c66eebf271b7bd",
+      "bytes": 6132,
+      "from": "b2e2 page 12 — sheet test"
+    },
+    {
+      "name": "06-wire-canopy.webp",
+      "sha256": "fe607c04f0a8924e5f8a039d3918649c1b83b1df771285f48139ce745d386651",
+      "bytes": 9074,
+      "from": "b2e2 page 12 — wire canopy"
+    },
+    {
+      "name": "07-dark-frame.webp",
+      "sha256": "c165cd53b83ca840854d677a0e1b053a10adfb7c1c7ebd96a4cdf22e0d79849c",
+      "bytes": 42946,
+      "from": "b2e2 page 12 — dark frame"
+    },
+    {
+      "name": "08-tree-sketch.webp",
+      "sha256": "558173eebd060b20752b7cddf048499e6efdb9d3bd6a5b28f7328f26295bb14e",
+      "bytes": 12584,
+      "from": "b2e2 page 12 — tree sketch"
+    },
+    {
+      "name": "09-under-the-roof.webp",
+      "sha256": "a0656e68de948ee7eacdd66e9f313dbcb7b5de4f4584e38ecf0d2843de88884b",
+      "bytes": 116594,
+      "from": "b2e2 page 13 — under the roof"
+    },
+    {
+      "name": "10-curved-edge.webp",
+      "sha256": "7aa83fc20253026868229629b715af46196f3263d6fb7c9a3b48c0a150665826",
+      "bytes": 48500,
+      "from": "b2e2 page 13 — curved edge"
+    }
+  ]
+}
