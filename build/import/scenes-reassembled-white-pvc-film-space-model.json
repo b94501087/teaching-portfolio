@@ -1,0 +1,61 @@
+{
+  "project": "Scenes Reassembled",
+  "dest": "assets/board/scenes-reassembled-white-pvc-film-space-model",
+  "note": "Portfolio 2744 pages 4-5 cropped to 9 images, WebP q88 (PIL). Not used: stills from the student film showing actors, reference architect drawings and book cover (film and architect names dropped; retitled from film title).",
+  "files": [
+    {
+      "name": "01-white-pvc-scene-model.webp",
+      "sha256": "7c5bba9b1318fcdce11b98df740726e274c1d9fa000a33383e0e906e4f5c2786",
+      "bytes": 70372,
+      "from": "2744 pages 4-5 — the white pvc scene model"
+    },
+    {
+      "name": "02-scene-storyboards.webp",
+      "sha256": "89d01ba477c7592adb9351a2258dd488bb8554b5146a108c0c0ed776c47d6e07",
+      "bytes": 97568,
+      "from": "2744 pages 4-5 — scene storyboards"
+    },
+    {
+      "name": "03-movement-diagrams.webp",
+      "sha256": "77a0f5fc0029d9fd78be7adee4e11b0c847c4cfd27c4707fedacff8bd2b9b3b0",
+      "bytes": 120690,
+      "from": "2744 pages 4-5 — movement diagrams"
+    },
+    {
+      "name": "04-event-model-studies.webp",
+      "sha256": "63d5886f659e45747c70e66d9f1233734730820b6579cc902d1a0a8cef308ae1",
+      "bytes": 66628,
+      "from": "2744 pages 4-5 — event model studies"
+    },
+    {
+      "name": "05-frame-tower-view.webp",
+      "sha256": "d9b3e6bd1d3763039748bea1ecd16235f7087b98372f310502b0c82b213f11ba",
+      "bytes": 71752,
+      "from": "2744 pages 4-5 — the frame tower"
+    },
+    {
+      "name": "06-layered-base-view.webp",
+      "sha256": "4f57a8ac48785187fc416a262c33bb5f7a734ef4c42199de38a29c2065b2fbaf",
+      "bytes": 51358,
+      "from": "2744 pages 4-5 — the layered base"
+    },
+    {
+      "name": "07-detail-frames.webp",
+      "sha256": "1bd76f638bcdcccb510ae72f925369d0fd2855fc5e74f8fda07ceb01d0635a4d",
+      "bytes": 17700,
+      "from": "2744 pages 4-5 — nested frames"
+    },
+    {
+      "name": "08-detail-curves.webp",
+      "sha256": "be7082e0577a4dd97fffff3e3d3fc8fa439c2f16a08d3e3a1b82b092b45bdc70",
+      "bytes": 18468,
+      "from": "2744 pages 4-5 — curved ribbons"
+    },
+    {
+      "name": "09-detail-stack.webp",
+      "sha256": "ba4b1f302255356413ed0d6e009076ba4ac0a960daf6728fd859fbfa314322bf",
+      "bytes": 17536,
+      "from": "2744 pages 4-5 — stacked planes"
+    }
+  ]
+}
