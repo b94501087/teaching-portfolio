@@ -1,0 +1,61 @@
+{
+  "project": "Tower of Conflict and Truce",
+  "dest": "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model",
+  "note": "Portfolio 312b pages 2-4 cropped to 9 images, WebP q88 (PIL). Not used: movie poster, film stills, process photo with hand painting (film and character names dropped; retitled from Paralleled World).",
+  "files": [
+    {
+      "name": "01-layered-tower-white-light.webp",
+      "sha256": "e4adf36d548e7cbcecd4514bbaaa2313c2a40f871b5a22c4a580f63af9927289",
+      "bytes": 231840,
+      "from": "312b pages 2-4 — the layered tower in white light"
+    },
+    {
+      "name": "02-layered-tower-green-light.webp",
+      "sha256": "a185f87b18d357a706b35e73e27ba03fe8d2c5f42914f395d0e8a3c62a412c68",
+      "bytes": 209660,
+      "from": "312b pages 2-4 — the tower in green light"
+    },
+    {
+      "name": "03-base-layer.webp",
+      "sha256": "4da85c0640b70fc49ce1649a8ada1ffd67111d24a7510f715e425b1f75e2329e",
+      "bytes": 124678,
+      "from": "312b pages 2-4 — the base layer"
+    },
+    {
+      "name": "04-middle-layer-green-glow.webp",
+      "sha256": "0993ada67bf81139b4aed8a0cd94753929b1f5ae66bb06cdc772eb43b725aabc",
+      "bytes": 122708,
+      "from": "312b pages 2-4 — the middle layer in green light"
+    },
+    {
+      "name": "05-upper-ring-layer.webp",
+      "sha256": "ca21428541ea08741e99b5a6efb7bb974519923f176104ea25bcd6a8ddd1c9c9",
+      "bytes": 60252,
+      "from": "312b pages 2-4 — the upper ring layer"
+    },
+    {
+      "name": "06-colour-cloud-crown.webp",
+      "sha256": "227975db92c081d58ba5be35d98d67ce3d3548299133c2076baeed62f0a887f5",
+      "bytes": 65846,
+      "from": "312b pages 2-4 — the coloured crown"
+    },
+    {
+      "name": "07-design-sketch.webp",
+      "sha256": "188c076c5f10fb05f32776af7f22d580b27ec7b076e2884499c22c3523a7f78a",
+      "bytes": 207754,
+      "from": "312b pages 2-4 — the layer sketch"
+    },
+    {
+      "name": "08-clay-fragments.webp",
+      "sha256": "0afc2fc59ca71e7bdc5f034f23edc154b5292c9ecefac01a4ac8cb97f335d527",
+      "bytes": 14818,
+      "from": "312b pages 2-4 — clay fragments"
+    },
+    {
+      "name": "09-white-foam-blocks.webp",
+      "sha256": "22383d444ce5a6aeb7373da9494f1d45baeaa7821433e4d9c72bcf0c850a05d3",
+      "bytes": 23496,
+      "from": "312b pages 2-4 — folded foam blocks"
+    }
+  ]
+}
