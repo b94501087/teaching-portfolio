@@ -55624,6 +55624,590 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Cats and Humans: A Vertical Apartment",
+      "slug": "cats-and-humans-vertical-apartment-stick-model",
+      "description": "An apartment where cats climb a tangle of jump paths while people live in a simple timber frame.\n\nModel making | Animal movement | PVC board, wood and hot melt glue | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "貓與人：垂直公寓",
+          "description": "一座公寓裡，貓在交錯的跳躍路徑間攀爬，人則住在簡潔的木構框架中。\n\n模型製作｜動物行為｜PVC板、木材與熱熔膠｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cats-and-humans-vertical-apartment-stick-model/01-final-model.webp",
+        "assets/board/cats-and-humans-vertical-apartment-stick-model/02-jump-frames.webp",
+        "assets/board/cats-and-humans-vertical-apartment-stick-model/03-path-sketches.webp",
+        "assets/board/cats-and-humans-vertical-apartment-stick-model/04-digital-paths.webp",
+        "assets/board/cats-and-humans-vertical-apartment-stick-model/05-timber-frame.webp",
+        "assets/board/cats-and-humans-vertical-apartment-stick-model/06-cat-ledges.webp",
+        "assets/board/cats-and-humans-vertical-apartment-stick-model/07-human-level.webp",
+        "assets/board/cats-and-humans-vertical-apartment-stick-model/08-pencil-view.webp",
+        "assets/board/cats-and-humans-vertical-apartment-stick-model/09-interior-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cats-and-humans-vertical-apartment-stick-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished apartment model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的公寓模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Homes are stacked in flat floors joined by stairs, but cats move by climbing and leaping. The student asked whether one apartment could suit both ways of moving.",
+          "images": [
+            "assets/board/cats-and-humans-vertical-apartment-stick-model/02-jump-frames.webp"
+          ],
+          "captions": [
+            "Video frames of a cat jumping."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "住宅以樓梯連接一層層平坦樓板，但貓靠攀爬與跳躍移動。學生思考一間公寓能否同時適合兩種移動方式。",
+              "captions": [
+                "貓跳躍的影片截圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He filmed a cat hunting and traced each jump and landing frame by frame. Each pose was simplified into straight lines that suggest a path.",
+          "images": [
+            "assets/board/cats-and-humans-vertical-apartment-stick-model/03-path-sketches.webp",
+            "assets/board/cats-and-humans-vertical-apartment-stick-model/04-digital-paths.webp"
+          ],
+          "captions": [
+            "Sketches of jump paths.",
+            "Jump paths modelled digitally."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他拍攝貓捕獵的影片，逐格描繪每次跳躍與落地。每個姿態被簡化為暗示路徑的直線。",
+              "captions": [
+                "跳躍路徑草圖。",
+                "數位建模的跳躍路徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each path was modelled as a small space sized to a cat and the pieces were combined. The human part was kept to a plain square timber frame.",
+          "images": [
+            "assets/board/cats-and-humans-vertical-apartment-stick-model/05-timber-frame.webp",
+            "assets/board/cats-and-humans-vertical-apartment-stick-model/06-cat-ledges.webp",
+            "assets/board/cats-and-humans-vertical-apartment-stick-model/07-human-level.webp"
+          ],
+          "captions": [
+            "The timber frame with cat paths.",
+            "Ledges at cat scale.",
+            "The simple level for people."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每條路徑都被建模成符合貓尺寸的小空間，再組合在一起。人的部分則保持為簡單方正的木構框架。",
+              "captions": [
+                "帶有貓路徑的木構框架。",
+                "貓尺度的平台。",
+                "給人使用的簡潔樓層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Cat paths weave through the frame above a calm living floor for people. A pencil drawing and photos look up through the busy vertical world.",
+          "images": [
+            "assets/board/cats-and-humans-vertical-apartment-stick-model/08-pencil-view.webp",
+            "assets/board/cats-and-humans-vertical-apartment-stick-model/09-interior-view.webp"
+          ],
+          "captions": [
+            "Pencil drawing of the interior.",
+            "Looking up through the paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "貓的路徑穿梭在框架中，下方是安靜的人居樓層。鉛筆圖與照片向上望穿這個熱鬧的垂直世界。",
+              "captions": [
+                "室內的鉛筆圖。",
+                "向上望穿路徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Observe a movement.\n2. Trace it frame by frame.\n3. Turn paths into spaces.\n4. Combine with a calm base.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察一種動作。\n2. 逐格描繪。\n3. 把路徑轉為空間。\n4. 與安靜的基座結合。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Coconut for Arch",
+      "slug": "coconut-for-arch-coconut-fibre-cave-arch-model",
+      "description": "Coconut fibre bound with glue is cast into a light, cave-like arch.\n\nMaterial study | Natural fibre | Coconut fibre, white glue and water | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "椰子之拱",
+          "description": "以膠水黏合的椰子纖維，鑄成輕盈如洞穴的拱。\n\n材料研究｜天然纖維｜椰子纖維、白膠與水｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/01-final-arch.webp",
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/02-coconut-tree.webp",
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/03-raw-fibre.webp",
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/04-material-tests.webp",
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/05-foam-mould.webp",
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/06-fibre-sheets.webp",
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/07-arch-legs.webp",
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/08-close-up.webp",
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/09-cave-view.webp",
+        "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/10-inner-space.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/01-final-arch.webp"
+          ],
+          "captions": [
+            "The finished coconut arch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的椰子拱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A coconut can drift across an ocean, yet its hard shell alone sinks. The student wanted to know what makes it float and whether that could become a building material.",
+          "images": [
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/02-coconut-tree.webp"
+          ],
+          "captions": [
+            "Coconuts on the tree."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "椰子能漂洋過海，但單獨的硬殼卻會下沉。學生想知道它浮起的原因，以及能否成為建築材料。",
+              "captions": [
+                "樹上的椰子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He found that the outer fibre layer is full of tiny air pockets that give buoyancy. Fibre, tea leaf residue and coconut jelly were tested as mixes.",
+          "images": [
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/03-raw-fibre.webp",
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/04-material-tests.webp"
+          ],
+          "captions": [
+            "Raw coconut fibre.",
+            "Three material tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他發現外層纖維充滿細小氣室，提供浮力。他測試了纖維、茶渣與椰果等混合配方。",
+              "captions": [
+                "椰子纖維原料。",
+                "三種材料測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Fibre coated with glue and water was dried on round objects to copy the husk. Tunnels carved into foam made a mould like an ant nest.",
+          "images": [
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/05-foam-mould.webp",
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/06-fibre-sheets.webp",
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/07-arch-legs.webp"
+          ],
+          "captions": [
+            "Tunnels carved into a foam mould.",
+            "Fibre sheets dried on round forms.",
+            "Legs of the cast arch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "塗上膠水的纖維在圓形物上乾燥，模仿椰殼外層。在泡棉中刻出的通道則形成如蟻巢般的模具。",
+              "captions": [
+                "在泡棉模具中刻出的通道。",
+                "在圓形模上乾燥的纖維片。",
+                "鑄造拱的支腳。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The cast is strong yet light, with arches and hollows like a cave. Scale figures show how natural material can shape a sheltering space.",
+          "images": [
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/08-close-up.webp",
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/09-cave-view.webp",
+            "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/10-inner-space.webp"
+          ],
+          "captions": [
+            "Fibre texture with scale figures.",
+            "Sitting under the arch.",
+            "The space beneath the arch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "鑄件堅固而輕盈，拱與空洞宛如洞穴。比例人偶展示天然材料如何塑造庇護空間。",
+              "captions": [
+                "纖維質感與比例人偶。",
+                "坐在拱下。",
+                "拱下的空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Ask why a material works.\n2. Test mixes.\n3. Make a mould.\n4. Cast and read the space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 追問材料為何有效。\n2. 測試配方。\n3. 製作模具。\n4. 鑄造並解讀空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Cat Shelter",
+      "slug": "cat-shelter-resin-light-tree-with-pupil-roof",
+      "description": "A resin tree shelter copies a cat's pupil and ear to shade, listen and glow.\n\nModel making | Biomimicry | Resin, steel bars, optical fibre and wood | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "貓的庇護所",
+          "description": "一座樹脂樹形庇護所，模仿貓的瞳孔與耳朵來遮陽、聆聽與發光。\n\n模型製作｜仿生設計｜樹脂、鋼條、光纖與木板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/01-glowing-tree.webp",
+        "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/02-pupil-study.webp",
+        "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/03-digital-model.webp",
+        "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/04-eye-device.webp",
+        "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/05-resin-shell.webp",
+        "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/06-water-roof.webp",
+        "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/07-branch-detail.webp",
+        "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/08-green-light.webp",
+        "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/09-light-colours.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/01-glowing-tree.webp"
+          ],
+          "captions": [
+            "The shelter glowing in the dark."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "在黑暗中發光的庇護所。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Cats like hidden spots where they can still watch the world. The student designed a shelter that answers a cat's sharp senses.",
+          "images": [
+            "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/02-pupil-study.webp"
+          ],
+          "captions": [
+            "How a cat's pupil changes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "貓喜歡隱蔽又能觀察外界的地方。學生設計一座回應貓敏銳感官的庇護所。",
+              "captions": [
+                "貓瞳孔的變化。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A cat's pupil widens and narrows with light, and its ears gather faint sounds. These two senses became the rules for the roof and the lights.",
+          "images": [
+            "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/03-digital-model.webp",
+            "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/04-eye-device.webp"
+          ],
+          "captions": [
+            "Digital model of the shelter.",
+            "Drawing of the shading device."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "貓的瞳孔隨光線放大縮小，耳朵能收集細微聲音。這兩種感官成為屋頂與燈光的設計規則。",
+              "captions": [
+                "庇護所的數位模型。",
+                "遮光裝置圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A light sensor and filtered rainwater on the roof shade the inside in strong sun and drain away in dim light. Branches of steel and optical fibre grow inside a clear resin shell.",
+          "images": [
+            "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/05-resin-shell.webp",
+            "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/06-water-roof.webp"
+          ],
+          "captions": [
+            "The clear resin shell.",
+            "The water roof and a cat figure."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "屋頂的光感測器與過濾雨水，在強光時遮蔭，光線不足時排走。鋼條與光纖的枝幹在透明樹脂殼內生長。",
+              "captions": [
+                "透明樹脂外殼。",
+                "水屋頂與貓偶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Cats can rest on the branches while sound sensors change the light colour to warn of danger. The shelter glows like a tree at night.",
+          "images": [
+            "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/07-branch-detail.webp",
+            "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/08-green-light.webp",
+            "assets/board/cat-shelter-resin-light-tree-with-pupil-roof/09-light-colours.webp"
+          ],
+          "captions": [
+            "Cats resting on the branches.",
+            "Glowing green.",
+            "Light colours that signal danger."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "貓可在枝幹上休息，聲音感測器會改變燈光顏色以提示危險。庇護所在夜裡如一棵發光的樹。",
+              "captions": [
+                "在枝幹上休息的貓。",
+                "發出綠光。",
+                "提示危險的燈光顏色。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study the user's senses.\n2. Turn senses into rules.\n3. Build a working prototype.\n4. Test it in light and dark.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究使用者的感官。\n2. 把感官轉成規則。\n3. 製作可運作的原型。\n4. 在明暗中測試。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Reinventing a Family House",
+      "slug": "reinventing-a-family-house-courtyard-round-house-model",
+      "description": "An old family house is redesigned around a shared courtyard learned from round earthen houses.\n\nModel making | Vernacular housing | Laser-cut wood board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重塑家族老屋",
+          "description": "一座家族老屋以圓形土樓的共享中庭為靈感重新設計。\n\n模型製作｜傳統民居｜雷射切割木板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/01-final-model.webp",
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/02-original-plan.webp",
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/03-round-house.webp",
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/04-new-plan.webp",
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/05-before-after.webp",
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/06-laser-parts.webp",
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/07-courtyard-view.webp",
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/08-curved-wing.webp",
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/09-top-view.webp",
+        "assets/board/reinventing-a-family-house-courtyard-round-house-model/10-courtyard-floor.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished house model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的住宅模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was asked to rebuild an old family villa in a historic town. He wanted to bring back the joy of the old house with a modern layout.",
+          "images": [
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/02-original-plan.webp"
+          ],
+          "captions": [
+            "Plans of the original house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生受託重建歷史小鎮中的一棟家族老宅。他想以現代格局找回老屋的歡樂。",
+              "captions": [
+                "原有住宅平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He studied the town's round earthen houses, where many families share a central courtyard behind thick walls. Their flexible routes and shared ground became key ideas.",
+          "images": [
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/03-round-house.webp",
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/04-new-plan.webp"
+          ],
+          "captions": [
+            "Study of a round earthen house.",
+            "Sketches of the new plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他研究鎮上的圓形土樓，許多家庭在厚牆後共享中央庭院。靈活的動線與共享地面成為關鍵概念。",
+              "captions": [
+                "圓形土樓研究。",
+                "新平面草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Many tracing-paper sketches over the old plans were merged into one design and modelled digitally. Walls were laser cut and assembled piece by piece.",
+          "images": [
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/05-before-after.webp",
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/06-laser-parts.webp"
+          ],
+          "captions": [
+            "Original and new house compared.",
+            "Laser-cut parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在舊平面上以描圖紙畫下大量草圖，合併為一個設計並數位建模。牆面以雷射切割，再逐片組裝。",
+              "captions": [
+                "新舊住宅比較。",
+                "雷射切割零件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Curved wings wrap a patterned courtyard with stairs and open frames. The house blends a shared vernacular layout with a light modern structure.",
+          "images": [
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/07-courtyard-view.webp",
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/08-curved-wing.webp",
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/09-top-view.webp",
+            "assets/board/reinventing-a-family-house-courtyard-round-house-model/10-courtyard-floor.webp"
+          ],
+          "captions": [
+            "Looking down into the courtyard.",
+            "The curved wing.",
+            "The house from above.",
+            "The courtyard floor."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "弧形翼樓環抱帶有圖案的中庭，配有樓梯與開放框架。住宅融合了共享的傳統格局與輕盈的現代結構。",
+              "captions": [
+                "俯視中庭。",
+                "弧形翼樓。",
+                "從上方看住宅。",
+                "中庭地面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Survey the existing house.\n2. Study a local type.\n3. Sketch over the plans.\n4. Cut and assemble.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 調查現有住宅。\n2. 研究在地類型。\n3. 在平面上疊圖草繪。\n4. 切割與組裝。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
