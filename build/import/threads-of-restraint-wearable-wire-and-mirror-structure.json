@@ -1,0 +1,37 @@
+{
+  "project": "Threads of Restraint",
+  "dest": "assets/board/threads-of-restraint-wearable-wire-and-mirror-structure",
+  "note": "Portfolio 4736 pages 3-4 cropped to 5 images, WebP q88 (PIL). Not used: photographs of a person wearing the piece, portrait collage with ink drawings, hand process photos, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-wire-garment-structure.webp",
+      "sha256": "a92e3b7c5623091e90e325e2ed6bf303d4578e4cd84af22e9dd759545a23866d",
+      "bytes": 339590,
+      "from": "4736 pages 3-4 — the wire structure in its refined form"
+    },
+    {
+      "name": "02-wire-form-detail.webp",
+      "sha256": "8fcc2b040dd4cef9695f5cb43dd49c11cf5bf079f56810d7df5a4592c408ea3a",
+      "bytes": 115404,
+      "from": "4736 pages 3-4 — a detail of the painted wire form"
+    },
+    {
+      "name": "03-mirror-fragments.webp",
+      "sha256": "5ee00c9e48a213c8f0224f10764e1056b68a7c5b2504e36521fdc84391297255",
+      "bytes": 22080,
+      "from": "4736 pages 3-4 — mirror fragments among the wires"
+    },
+    {
+      "name": "04-wireframe-stage.webp",
+      "sha256": "ea3dc6eb02b380c3ce133c4e155a59889aef424ddc70e310ada5c5beb5b8e728",
+      "bytes": 115572,
+      "from": "4736 pages 3-4 — the first wireframe stage"
+    },
+    {
+      "name": "05-thread-stage.webp",
+      "sha256": "bd7a6f1820176f21ccd6fa9ca6b1ed1a681feacb9d04b6b7928eb0ec54aa6b0f",
+      "bytes": 47538,
+      "from": "4736 pages 3-4 — the thread stage"
+    }
+  ]
+}
