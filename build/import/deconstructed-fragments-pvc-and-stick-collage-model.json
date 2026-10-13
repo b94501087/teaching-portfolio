@@ -1,0 +1,67 @@
+{
+  "project": "Deconstructed Fragments",
+  "dest": "assets/board/deconstructed-fragments-pvc-and-stick-collage-model",
+  "note": "Portfolio 312b pages 8-9 cropped to 10 images, WebP q88 (PIL). Not used: collages of building photographs (city name dropped).",
+  "files": [
+    {
+      "name": "01-deconstructed-model-overview.webp",
+      "sha256": "c76ae983bac63b2a671bda963bfaf8eba309e4fb8b760d9ca17aeeaca8c4e7dd",
+      "bytes": 80698,
+      "from": "312b pages 8-9 — the deconstructed model"
+    },
+    {
+      "name": "02-model-front.webp",
+      "sha256": "58ee608f498fd6825813cfa61de37d396db49980931ddd0a73fc0789ee1567d6",
+      "bytes": 53662,
+      "from": "312b pages 8-9 — the model from the front"
+    },
+    {
+      "name": "03-model-from-above.webp",
+      "sha256": "4e2793dda5dd45a7a15fcd702406d540bf359a8ff4698921a09bcc930a11991a",
+      "bytes": 23412,
+      "from": "312b pages 8-9 — the model from above"
+    },
+    {
+      "name": "04-model-side.webp",
+      "sha256": "9284bcfa1bbb8eb56116d41c189324aa91e95bdcc3b7ae5b281d2acefe86da73",
+      "bytes": 59690,
+      "from": "312b pages 8-9 — the model from the side"
+    },
+    {
+      "name": "05-traced-line-drawing.webp",
+      "sha256": "c08536ac80716c912e73048c51eb61e6ca351c7e6bf2a7644ea8f309b88f610b",
+      "bytes": 39590,
+      "from": "312b pages 8-9 — the traced line drawing"
+    },
+    {
+      "name": "06-black-and-white-composition.webp",
+      "sha256": "f31d12b707f5441cd564655d624aed15c3345d9bf7f6195c9d68c1fdc7ec0617",
+      "bytes": 39850,
+      "from": "312b pages 8-9 — the black and white composition"
+    },
+    {
+      "name": "07-first-pvc-pieces.webp",
+      "sha256": "72cd5ab5b8387b05753a01f43a5b8af7aea54b5a997fa256f8fa639624bad594",
+      "bytes": 27444,
+      "from": "312b pages 8-9 — the first pvc pieces"
+    },
+    {
+      "name": "08-cut-pvc-shapes.webp",
+      "sha256": "6d9a53942c80de73e5f69b1004014f4673d811321a22906e23da4f48f8b9fcc2",
+      "bytes": 11976,
+      "from": "312b pages 8-9 — cut pvc shapes"
+    },
+    {
+      "name": "09-sticks-on-base.webp",
+      "sha256": "168555d980f0a8253a34dd0a2d6c13782911c40a115042a4e49a000e351e9026",
+      "bytes": 21914,
+      "from": "312b pages 8-9 — sticks on the base"
+    },
+    {
+      "name": "11-model-nearly-done.webp",
+      "sha256": "c7367140e83c9994a23ac1f71692b0841da07d95984914b0d9c8776ef9d3bfde",
+      "bytes": 13974,
+      "from": "312b pages 8-9 — the model nearly finished"
+    }
+  ]
+}
