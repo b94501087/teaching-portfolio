@@ -1,0 +1,49 @@
+{
+  "project": "Lighthouse in the Void",
+  "dest": "assets/board/lighthouse-in-the-void-stocking-sails-and-exploding-core",
+  "note": "Portfolio b439 pages 7-8 cropped to 7 images, WebP q88 (PIL). Not used: novel title, process photos with hands.",
+  "files": [
+    {
+      "name": "01-lighthouse-frame-model.webp",
+      "sha256": "513ddb741038cf64da7a382b8e0ec2b8e44206ba662c0f8fbcfd3e64dc5ad101",
+      "bytes": 79432,
+      "from": "b439 pages 7-8 — the lighthouse space in its frame"
+    },
+    {
+      "name": "02-lighthouse-pyramid-sketch.webp",
+      "sha256": "cf840245813eb497fa75e1a1ee7dec03424e6fa4a1b1e0f1fced5269d7874b44",
+      "bytes": 87896,
+      "from": "b439 pages 7-8 — a sketch of the lighthouse inside a pyramid"
+    },
+    {
+      "name": "03-black-sails-detail.webp",
+      "sha256": "59727ca499e2b878bc3fd3f219460bd71e49500fd27d38545cb63ba4d461b2e3",
+      "bytes": 23578,
+      "from": "b439 pages 7-8 — black stocking sails"
+    },
+    {
+      "name": "04-yellow-ladder-detail.webp",
+      "sha256": "4e5ac875daa54de19115ecd9b6b0f98b72ec06027ef9a5c2a60147648510de7e",
+      "bytes": 23258,
+      "from": "b439 pages 7-8 — the yellow ladder in cotton cloud"
+    },
+    {
+      "name": "05-exploding-sphere.webp",
+      "sha256": "7443c93d1944dbe8bf01284855178c8e9638ce72e61434897956e56f923a099e",
+      "bytes": 123728,
+      "from": "b439 pages 7-8 — the bursting core of colour"
+    },
+    {
+      "name": "06-explosion-sketch.webp",
+      "sha256": "6ad664e62be1d76c021f4ce5bcfdc3e7c40f527dd23e3a5e361d55f795dc7a88",
+      "bytes": 83844,
+      "from": "b439 pages 7-8 — a sketch of the blast lines"
+    },
+    {
+      "name": "07-explosion-frame-view.webp",
+      "sha256": "d66e90d31f996b0854cc4a5bfb4950c7a1a12d8fb5cd7a4146e3b3bd7529a3cf",
+      "bytes": 16464,
+      "from": "b439 pages 7-8 — the core inside the frame"
+    }
+  ]
+}
