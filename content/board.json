@@ -62988,6 +62988,426 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "A Garden for an Individual",
+      "slug": "garden-for-an-individual-striated-wall-terrain",
+      "description": "A photo collage of a window turns into striped walls and terrain, shaping a quiet garden walked in sequence.\n\nSummer architecture studio | Garden design | Rhino model, picture collage | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "一個人的花園",
+          "description": "一張窗戶的照片拼貼轉化為條紋牆與地形，塑造出一座依序漫步的寧靜花園。\n\n暑期建築工作營｜花園設計｜Rhino模型、圖像拼貼｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/garden-for-an-individual-striated-wall-terrain/01-isometric-garden.webp",
+        "assets/board/garden-for-an-individual-striated-wall-terrain/02-window-collage.webp",
+        "assets/board/garden-for-an-individual-striated-wall-terrain/03-striation-collage.webp",
+        "assets/board/garden-for-an-individual-striated-wall-terrain/04-wall-iterations.webp",
+        "assets/board/garden-for-an-individual-striated-wall-terrain/05-strip-pieces.webp",
+        "assets/board/garden-for-an-individual-striated-wall-terrain/06-terrain-models.webp",
+        "assets/board/garden-for-an-individual-striated-wall-terrain/07-section-views.webp",
+        "assets/board/garden-for-an-individual-striated-wall-terrain/08-interior-sequence.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/garden-for-an-individual-striated-wall-terrain/01-isometric-garden.webp"
+          ],
+          "captions": [
+            "The garden in isometric view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "花園的等角視圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The task was to design a garden for one person from a single image. The student began with a photo grid of the window beside the study desk.",
+          "images": [
+            "assets/board/garden-for-an-individual-striated-wall-terrain/02-window-collage.webp"
+          ],
+          "captions": [
+            "The first collage from window photos."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "題目是從一張圖像出發，為一個人設計花園。學生從書桌旁窗戶的照片格網開始。",
+              "captions": [
+                "由窗戶照片做成的第一張拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A perspective collage of the photos was redrawn to stress the contrast of bright and dark. The white and dark lines kept strict right angles to each other.",
+          "images": [
+            "assets/board/garden-for-an-individual-striated-wall-terrain/03-striation-collage.webp",
+            "assets/board/garden-for-an-individual-striated-wall-terrain/04-wall-iterations.webp"
+          ],
+          "captions": [
+            "Light and dark lines in the collage.",
+            "Wall iterations."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "照片的透視拼貼被重新繪製，以強調明暗對比。白色與深色線條彼此保持嚴格的直角關係。",
+              "captions": [
+                "拼貼中的明暗線條。",
+                "牆體的反覆推演。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Many versions of wall and terrain led to the idea of striations across the landscape. Bands carved from the wall tops let sunlight fall into the spaces below.",
+          "images": [
+            "assets/board/garden-for-an-individual-striated-wall-terrain/05-strip-pieces.webp",
+            "assets/board/garden-for-an-individual-striated-wall-terrain/06-terrain-models.webp",
+            "assets/board/garden-for-an-individual-striated-wall-terrain/07-section-views.webp"
+          ],
+          "captions": [
+            "Striped pieces.",
+            "Wall and terrain combined.",
+            "Light in two sections."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "多次牆與地形的版本，發展出橫越地景的條紋概念。從牆頂刻出的帶狀開口，讓陽光灑入下方空間。",
+              "captions": [
+                "條紋構件。",
+                "牆與地形的結合。",
+                "兩個剖面中的光線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "After the final review, some strips were raised or lowered to form stairs. A visitor now moves through the garden in a clear order of light and shade.",
+          "images": [
+            "assets/board/garden-for-an-individual-striated-wall-terrain/08-interior-sequence.webp"
+          ],
+          "captions": [
+            "Views along the walking sequence."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "期末評圖後，部分條帶被升高或降低以形成階梯。訪客如今能依明暗的清楚順序穿越花園。",
+              "captions": [
+                "沿著行走序列的視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one image.\n2. Draw the contrast.\n3. Turn lines into walls.\n4. Shape a sequence.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一張圖像開始。\n2. 畫出對比。\n3. 把線條變成牆。\n4. 塑造行走序列。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Golf Motion in Space",
+      "slug": "golf-motion-in-space-acrylic-swing-sculpture",
+      "description": "The turning body of a golf swing is traced, frozen into a solid form and cut from stacked acrylic sheets.\n\nMotion study | Sculpture | Rhino model, physical model, acrylic board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "空間中的高爾夫揮桿",
+          "description": "高爾夫揮桿中轉動的身體被描繪下來，凝固成實體形態，再以層疊的壓克力板切割而成。\n\n動作研究｜雕塑｜Rhino模型、實體模型、壓克力板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/golf-motion-in-space-acrylic-swing-sculpture/01-standing-model.webp",
+        "assets/board/golf-motion-in-space-acrylic-swing-sculpture/02-motion-tracing.webp",
+        "assets/board/golf-motion-in-space-acrylic-swing-sculpture/03-point-sequence.webp",
+        "assets/board/golf-motion-in-space-acrylic-swing-sculpture/04-contour-study.webp",
+        "assets/board/golf-motion-in-space-acrylic-swing-sculpture/05-solid-body.webp",
+        "assets/board/golf-motion-in-space-acrylic-swing-sculpture/06-model-side.webp",
+        "assets/board/golf-motion-in-space-acrylic-swing-sculpture/07-light-stripes.webp",
+        "assets/board/golf-motion-in-space-acrylic-swing-sculpture/08-arch-detail.webp",
+        "assets/board/golf-motion-in-space-acrylic-swing-sculpture/09-shadow-lines.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/golf-motion-in-space-acrylic-swing-sculpture/01-standing-model.webp"
+          ],
+          "captions": [
+            "The acrylic model stands on its own."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "壓克力模型能自行站立。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A golf swing turns the shoulders, waist and hips and folds the arms one after another. The student wanted to show how these linked motions could describe space.",
+          "images": [
+            "assets/board/golf-motion-in-space-acrylic-swing-sculpture/02-motion-tracing.webp"
+          ],
+          "captions": [
+            "Traced lines of the swing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "高爾夫揮桿依序轉動肩、腰、髖，並彎曲手臂。學生想呈現這些連續動作如何描述空間。",
+              "captions": [
+                "揮桿的描線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Tracing the swing showed that the triangle between head, shoulder and wrist stays almost fixed while the body spins. Those points were taken out and reduced to simple diagrams.",
+          "images": [
+            "assets/board/golf-motion-in-space-acrylic-swing-sculpture/03-point-sequence.webp"
+          ],
+          "captions": [
+            "Points of the swing in order."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "描繪揮桿後發現，身體旋轉時頭、肩與手腕之間的三角關係幾乎不變。這些點被抽取出來，簡化為簡單的圖解。",
+              "captions": [
+                "依序排列的揮桿點位。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "In Rhino the diagrams grew from points to lines and then to a solid body. The body was sliced into contours and each slice was cut from acrylic.",
+          "images": [
+            "assets/board/golf-motion-in-space-acrylic-swing-sculpture/04-contour-study.webp",
+            "assets/board/golf-motion-in-space-acrylic-swing-sculpture/05-solid-body.webp",
+            "assets/board/golf-motion-in-space-acrylic-swing-sculpture/06-model-side.webp"
+          ],
+          "captions": [
+            "An early digital body.",
+            "The solid body before cutting.",
+            "Sharp edges from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "在Rhino中，圖解從點發展為線，再成為實體。實體被切成等高輪廓，每一片都以壓克力切出。",
+              "captions": [
+                "早期的數位形體。",
+                "切割前的實體形體。",
+                "側面的銳利邊緣。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model can stand on the ground by itself, like a statue or even a chair. Changing light throws striped shadows that move across it.",
+          "images": [
+            "assets/board/golf-motion-in-space-acrylic-swing-sculpture/07-light-stripes.webp",
+            "assets/board/golf-motion-in-space-acrylic-swing-sculpture/08-arch-detail.webp",
+            "assets/board/golf-motion-in-space-acrylic-swing-sculpture/09-shadow-lines.webp"
+          ],
+          "captions": [
+            "Stripes of light through the layers.",
+            "An arch under the form.",
+            "Lines of shadow."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型能自行立於地面，像一座雕像，甚至像一張椅子。變化的光線投下在其上移動的條紋陰影。",
+              "captions": [
+                "穿過層板的光紋。",
+                "形體下方的拱。",
+                "陰影的線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a motion you know.\n2. Trace it.\n3. Find what stays still.\n4. Build from slices.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個你熟悉的動作。\n2. 把它描繪下來。\n3. 找出不動的部分。\n4. 以切片建構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Spiral of Choices",
+      "slug": "spiral-of-choices-blue-dream-tower-model",
+      "description": "Five turning points of a story about chasing dreams become platforms on a spiral tower that climbs from bottom to top.\n\nModel making | Narrative space | Plastic board, coloured aluminium wire, acrylic, reflective sheets | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "選擇的螺旋",
+          "description": "一個追夢故事的五個轉折點，化為一座由下而上攀升的螺旋塔上的平台。\n\n模型製作｜敘事空間｜塑膠板、彩色鋁線、壓克力、反光片｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/spiral-of-choices-blue-dream-tower-model/01-spiral-stair.webp",
+        "assets/board/spiral-of-choices-blue-dream-tower-model/02-blue-model.webp",
+        "assets/board/spiral-of-choices-blue-dream-tower-model/03-upper-platforms.webp",
+        "assets/board/spiral-of-choices-blue-dream-tower-model/04-layered-floors.webp",
+        "assets/board/spiral-of-choices-blue-dream-tower-model/05-top-view.webp",
+        "assets/board/spiral-of-choices-blue-dream-tower-model/06-round-steps.webp",
+        "assets/board/spiral-of-choices-blue-dream-tower-model/07-lattice-base.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/spiral-of-choices-blue-dream-tower-model/01-spiral-stair.webp"
+          ],
+          "captions": [
+            "The spiral stair in blue light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "藍光中的螺旋梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A favourite musical film made the student think about growth, choices and chasing dreams. The project asks how those themes could be read in space.",
+          "images": [
+            "assets/board/spiral-of-choices-blue-dream-tower-model/02-blue-model.webp"
+          ],
+          "captions": [
+            "The whole tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部喜愛的音樂電影讓學生思考成長、選擇與追夢。這個專題探問這些主題如何在空間中被閱讀。",
+              "captions": [
+                "整座塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Five key moments were picked, from a hopeful start to a final parting on separate paths. For each one, a body motion or a turn of the plot was drawn as a spatial part.",
+          "images": [
+            "assets/board/spiral-of-choices-blue-dream-tower-model/07-lattice-base.webp"
+          ],
+          "captions": [
+            "The lattice base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生挑選了五個關鍵時刻，從充滿希望的開始到各自走上不同道路的分別。每一個時刻的肢體動作或情節轉折，都被畫成一個空間構件。",
+              "captions": [
+                "格狀基座。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The parts were stacked from bottom to top in the order of the story. Each was built on its own and then joined into one tower.",
+          "images": [
+            "assets/board/spiral-of-choices-blue-dream-tower-model/03-upper-platforms.webp",
+            "assets/board/spiral-of-choices-blue-dream-tower-model/04-layered-floors.webp"
+          ],
+          "captions": [
+            "Upper platforms.",
+            "Layered floors."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "這些構件依故事順序由下往上堆疊。每一個先單獨製作，再組合成一座塔。",
+              "captions": [
+                "上層平台。",
+                "層疊的樓板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Stairs, rings and round platforms climb through blue light toward the top. The tower shows that each choice brings some loss, yet every step adds to growth.",
+          "images": [
+            "assets/board/spiral-of-choices-blue-dream-tower-model/05-top-view.webp",
+            "assets/board/spiral-of-choices-blue-dream-tower-model/06-round-steps.webp"
+          ],
+          "captions": [
+            "The tower from above.",
+            "Round stepping platforms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "階梯、圓環與圓形平台在藍光中向上攀升。這座塔表達每個選擇都伴隨失去，但每一步都促成成長。",
+              "captions": [
+                "從上方看塔。",
+                "圓形踏台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Choose a story that matters.\n2. Pick key moments.\n3. Give each a form.\n4. Stack them in order.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一個對你重要的故事。\n2. 挑出關鍵時刻。\n3. 為每個時刻賦形。\n4. 依序堆疊。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
