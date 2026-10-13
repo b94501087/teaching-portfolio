@@ -77400,6 +77400,410 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Hexahedron and Rectangular Prisms",
+      "slug": "hexahedron-and-rectangular-prisms-violet-paper-folly",
+      "description": "A small folly cuts and folds intersecting cubes and prisms in white and violet paper, shaping uneven surfaces that bend the light.\n\nModel and drawings | Folly study | Bristol paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "六面體與長方稜柱",
+          "description": "一座小型裝置以白色與紫色紙張切割、摺疊相互交錯的立方體與稜柱，塑造出能彎折光線的起伏表面。\n\n模型與繪圖｜小型構築研究｜卡紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/01-violet-folly-model.webp",
+        "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/02-white-paper-study-a.webp",
+        "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/03-white-paper-study-b.webp",
+        "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/04-violet-study-a.webp",
+        "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/05-violet-study-b.webp",
+        "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/06-folly-on-base.webp",
+        "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/07-axonometric-sketch.webp",
+        "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/08-wireframe-intersections.webp",
+        "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/09-plan-and-elevation-sketch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/01-violet-folly-model.webp"
+          ],
+          "captions": [
+            "The violet folly model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "紫色小型構築模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A folly is a small building in a landscape, made more for looking and feeling than for use. The project asks how the meeting of a cube and rectangular prisms could frame views and guide light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "小型構築是景觀中的小建築，存在更多是為了觀看與感受，而非使用。這個專題探問，立方體與長方稜柱的交會如何框出視野並引導光線。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Plan and elevation sketches tested where the prisms would cut through the cube. Line drawings then showed the solids as wireframes, with triangles slicing across their faces.",
+          "images": [
+            "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/09-plan-and-elevation-sketch.webp",
+            "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/08-wireframe-intersections.webp",
+            "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/07-axonometric-sketch.webp"
+          ],
+          "captions": [
+            "Plan and elevation sketch.",
+            "Wireframe intersections.",
+            "An axonometric sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "平面與立面草圖測試稜柱會在何處穿過立方體。線圖接著把量體表現為線框，三角形斜切過它們的表面。",
+              "captions": [
+                "平面與立面草圖。",
+                "線框交會圖。",
+                "軸測草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "White paper studies folded the intersections into sharp crystal forms. Violet and lavender sheets were then added to mark where two similar squares blend together.",
+          "images": [
+            "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/02-white-paper-study-a.webp",
+            "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/03-white-paper-study-b.webp",
+            "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/04-violet-study-a.webp",
+            "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/05-violet-study-b.webp"
+          ],
+          "captions": [
+            "White paper study.",
+            "Another white study.",
+            "A violet study.",
+            "Another violet study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "白色紙張研究把交會處摺成尖銳的晶體形態。接著加入紫色與淡紫色紙張，標示兩個相似方形彼此融合之處。",
+              "captions": [
+                "白色紙張研究。",
+                "另一件白色研究。",
+                "紫色研究。",
+                "另一件紫色研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the final folly, a violet cube rises from a sloping white base. The shades of colour link the parts and give a sense of progression through the space.",
+          "images": [
+            "assets/board/hexahedron-and-rectangular-prisms-violet-paper-folly/06-folly-on-base.webp"
+          ],
+          "captions": [
+            "The folly on its base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在最終的小型構築中，一個紫色立方體從傾斜的白色基座升起。深淺不同的色彩連結各個部分，帶來穿越空間的推進感。",
+              "captions": [
+                "基座上的小型構築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Folded Light - A Cube Among Prisms",
+          "body": "Small buildings without a practical task offer a rare freedom, since every decision can serve perception alone. This project used that freedom to study how solids meet. The guidance began with orthographic sketches, asking the student to locate exactly where rectangular prisms would pierce a cube, and then moved to wireframes in which slicing triangles revealed hidden edges and unexpected openings. Only after those intersections were understood did the work turn to paper. Folded in white, the forms looked almost mineral, their uneven facets catching light at shifting angles. Colour was then introduced with restraint. Two closely related shades of violet marked the place where similar squares merge, so that a visitor would sense one volume dissolving into another rather than simply crossing it. Set on a sloping base, the final folly rises like a crystal from the ground. The study demonstrates how careful geometry, paired with a single colour decision, can turn a modest paper model into a lesson on light, sequence and the quiet drama of intersection.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "摺疊的光-稜柱之間的立方體",
+              "body": "沒有實際用途的小建築提供一種難得的自由，因為每個決定都可以只為感知服務。這個專題運用這份自由，研究量體如何相遇。指導過程從正投影草圖開始，要求學生精確找出長方稜柱刺穿立方體的位置，再轉向線框圖，讓斜切的三角形揭示隱藏的邊與意料之外的開口。唯有在理解這些交會之後，作品才轉向紙張。以白紙摺出的形態幾乎像礦物，起伏的晶面在變換的角度中捕捉光線。色彩隨後被節制地引入：兩種相近的紫色標示相似方形融合之處，讓來訪者感到一個量體溶入另一個，而非僅僅穿越。置於傾斜基座之上，最終的構築如晶體般從地面升起。研究說明縝密的幾何搭配單一的色彩決定，能把一件樸素的紙模型化為關於光、序列與交會之靜謐戲劇的一課。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Playground of Innocence",
+      "slug": "playground-of-innocence-toy-and-ribbon-carnival-model",
+      "description": "Toy parts, colourful strips and twisting ladders gather into a carnival model that imagines a place where people forget worry and grow young again.\n\nModel and sketch | Concept study | Toys, wooden strips, PVC boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "童心樂園",
+          "description": "玩具零件、彩色條帶與扭轉的梯子聚成一座嘉年華模型，想像一個讓人忘卻煩憂、重返年少的地方。\n\n模型與草圖｜概念研究｜玩具、木條、PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/01-carnival-model.webp",
+        "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/02-carnival-model-upper.webp",
+        "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/03-ribbon-detail.webp",
+        "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/04-twisting-ladders.webp",
+        "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/05-tower-and-wheel.webp",
+        "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/06-carousel-sketch.webp",
+        "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/07-early-test.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/01-carnival-model.webp"
+          ],
+          "captions": [
+            "The carnival model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "嘉年華模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Inspired by a cheerful song about growing old together, the project holds that love can keep people young at heart. It asks how a model could make visitors forget their worries and return to childlike wonder.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "受一首關於一同變老的輕快歌曲啟發，這個專題相信愛能讓人保有年輕的心。它探問，一件模型如何讓來訪者忘卻煩憂，重返孩童般的驚奇。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A carnival was chosen as the theme of a lifelong journey. A sketch imagined a tall carousel tower inside a protective dome, layered with rides and rooms.",
+          "images": [
+            "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/06-carousel-sketch.webp"
+          ],
+          "captions": [
+            "The carousel sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "嘉年華被選為一生旅程的主題。一張草圖想像一座位於保護穹頂內的高聳旋轉木馬塔，層層疊著遊樂設施與房間。",
+              "captions": [
+                "旋轉木馬草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Early tests mixed bent white strips with coloured toy parts. Colourful ribbons, coiled springs, a blue wheel and twisting ladders were added to build a sense of play.",
+          "images": [
+            "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/07-early-test.webp",
+            "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/03-ribbon-detail.webp",
+            "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/04-twisting-ladders.webp"
+          ],
+          "captions": [
+            "An early test.",
+            "Ribbon detail.",
+            "Twisting ladders."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "早期試驗把彎曲的白色條帶與彩色玩具零件混合。彩色緞帶、捲曲的彈簧、藍色輪子與扭轉的梯子陸續加入，營造遊戲感。",
+              "captions": [
+                "早期試驗。",
+                "緞帶細部。",
+                "扭轉的梯子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model is a bright tangle of tracks, ladders and toys. Its colours and shadows create a playful, childlike atmosphere, like a small utopia.",
+          "images": [
+            "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/02-carnival-model-upper.webp",
+            "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model/05-tower-and-wheel.webp"
+          ],
+          "captions": [
+            "The model from above.",
+            "The tower and wheel."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型是一團由軌道、梯子與玩具交織的明亮形體。它的色彩與光影營造出俏皮而充滿童心的氛圍，宛如一座小小的烏托邦。",
+              "captions": [
+                "從上方看模型。",
+                "高塔與輪子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Joyful Tangle - Building a Utopia of Play",
+          "body": "Ageing is often described as a slow loss, yet this project chose to imagine it as a journey that can stay light. Prompted by a cheerful melody about love that outlasts the years, the student set out to design a place where adults might set aside worry and recover the curiosity of childhood. The guidance encouraged a theme broad enough to hold a whole life, and the carnival offered exactly that, a world of circling motion, bright surfaces and small surprises. A first sketch placed a carousel tower under a sheltering dome, while the model grew more freely, combining bent white strips with toy fragments, coiled springs, ribbons and ladders that twist as if in mid-dance. Instead of a single route, the result offers a tangle in which the eye keeps finding new paths. Colour and cast shadow do much of the work, giving even plain surfaces a festive glow. The piece suggests that delight is a legitimate design aim, and that found objects can carry memory and emotion straight into architectural form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "歡樂的交纏-建造遊戲的烏托邦",
+              "body": "衰老常被描述為緩慢的失去，這個專題卻選擇把它想像為一段可以保持輕盈的旅程。受一首歌頌愛能超越歲月的輕快旋律所觸動，學生著手設計一個讓成年人放下煩憂、找回童年好奇的地方。指導過程鼓勵選擇一個足以容納一生的主題，而嘉年華恰好提供了這樣的世界：旋轉的運動、明亮的表面與小小的驚喜。第一張草圖把旋轉木馬塔置於庇護的穹頂之下，模型則更自由地生長，把彎曲的白色條帶與玩具碎片、捲曲的彈簧、緞帶，以及彷彿正在起舞而扭轉的梯子結合在一起。成果不提供單一路徑，而是一團讓目光不斷發現新路線的交纏。色彩與投影承擔了大部分的工作，讓即使樸素的表面也散發節慶的光彩。作品暗示，喜悅是正當的設計目標，而拾得的物件能把記憶與情感直接帶入建築形式。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Thorns of Desire",
+      "slug": "thorns-of-desire-wire-film-and-stick-cluster",
+      "description": "An orderly frame at the core bursts outward into tangled wire, iridescent film and a shell of stick thorns, tracing a mind pulled by desire.\n\nModel and sketch | Character study | PVC sheets, wooden strips, iron wire, bamboo sticks, chameleon window film | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "欲望之刺",
+          "description": "核心處規整的框架向外爆裂為糾纏的鐵絲、幻彩薄膜與木籤刺殼，描繪一顆被欲望拉扯的心。\n\n模型與草圖｜角色研究｜PVC片、木條、鐵絲、竹籤、幻彩窗膜｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/thorns-of-desire-wire-film-and-stick-cluster/01-thorn-cluster-model.webp",
+        "assets/board/thorns-of-desire-wire-film-and-stick-cluster/02-three-part-sketch.webp",
+        "assets/board/thorns-of-desire-wire-film-and-stick-cluster/03-model-from-above.webp",
+        "assets/board/thorns-of-desire-wire-film-and-stick-cluster/04-wire-and-film-tangle.webp",
+        "assets/board/thorns-of-desire-wire-film-and-stick-cluster/05-inner-frame-detail.webp",
+        "assets/board/thorns-of-desire-wire-film-and-stick-cluster/06-stick-thorn-detail.webp",
+        "assets/board/thorns-of-desire-wire-film-and-stick-cluster/07-film-and-frame-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/thorns-of-desire-wire-film-and-stick-cluster/01-thorn-cluster-model.webp"
+          ],
+          "captions": [
+            "The thorn cluster model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "刺簇模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A film follows a man trapped in a dull, repeated life who slowly loses control. Inspired by it, the project asks how such a change of mind could be built, moving from order to chaos.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "受一部電影啟發，片中一名男子困於乏味而重複的生活，逐漸失去控制。這個專題探問，如何建造這樣的心境轉變，從秩序走向混亂。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A sketch split the model into three parts. Ordered rectangle wires sit at the centre, bubbles grow smaller and denser around them, and thick messy wires wrap the outside.",
+          "images": [
+            "assets/board/thorns-of-desire-wire-film-and-stick-cluster/02-three-part-sketch.webp"
+          ],
+          "captions": [
+            "The three-part sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張草圖把模型分成三部分。中心是排列整齊的矩形線框，周圍是越來越小、越來越密的泡泡，最外層則是粗而雜亂的鐵絲。",
+              "captions": [
+                "三部分草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Straight wooden frames and right angles were used for the boring routine inside. Around them, clear PVC and iridescent film were bent into bubbles, and iron wire was looped more and more wildly.",
+          "images": [
+            "assets/board/thorns-of-desire-wire-film-and-stick-cluster/05-inner-frame-detail.webp",
+            "assets/board/thorns-of-desire-wire-film-and-stick-cluster/07-film-and-frame-detail.webp",
+            "assets/board/thorns-of-desire-wire-film-and-stick-cluster/04-wire-and-film-tangle.webp"
+          ],
+          "captions": [
+            "The inner frame.",
+            "Film around the frame.",
+            "Wire and film tangle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "筆直的木框與直角用來表現內部乏味的日常。在其周圍，透明PVC與幻彩膜被彎成泡泡，鐵絲則越繞越狂亂。",
+              "captions": [
+                "內部框架。",
+                "框架周圍的薄膜。",
+                "鐵絲與薄膜的交纏。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "On the outer layer, bamboo sticks burst out as clustering thorns. Under dark light the model glows with colour inside and bristles at its edge.",
+          "images": [
+            "assets/board/thorns-of-desire-wire-film-and-stick-cluster/03-model-from-above.webp",
+            "assets/board/thorns-of-desire-wire-film-and-stick-cluster/06-stick-thorn-detail.webp"
+          ],
+          "captions": [
+            "The model from above.",
+            "Stick thorns."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在最外層，竹籤爆出成一簇簇的刺。在暗光下，模型內部閃耀色彩，邊緣則豎起尖刺。",
+              "captions": [
+                "從上方看模型。",
+                "竹籤刺。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "From Grid to Thorn - The Anatomy of a Restless Mind",
+          "body": "A life of repetition can feel safe and suffocating at once, and this project set out to show what happens when that tension breaks. Drawing on a story of a man who escapes routine only to lose himself, the student was guided to read the character not as a plot but as a sequence of inner states, each needing its own geometry. The core was therefore made strict, a cage of straight strips and right angles standing for the dull rhythm of ordinary days. Moving outward, the order softens into bubbles of clear sheet and shimmering film, smaller and denser as if pressure were building, until iron wire loops without restraint. At the edge, bamboo sticks erupt into a crown of thorns, both defensive and violent. Making the piece, the student came to feel the character’s struggle and to ask how strongly people are steered by the material world around them. The model becomes a section through a mind, where the passage from grid to thorn reads as a quiet warning about desire.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "從格網到尖刺-躁動心靈的解剖",
+              "body": "重複的生活可能同時讓人感到安全與窒息，這個專題試圖呈現這份張力斷裂時會發生什麼。借鑑一個男子逃離日常卻迷失自我的故事，學生被引導不把角色讀成情節，而是讀成一連串的內在狀態，每一種都需要自己的幾何。於是核心被做得嚴謹，以筆直木條與直角構成的籠子，代表平凡日子的乏味節奏。向外移動，秩序軟化為透明片材與閃爍薄膜組成的泡泡，越來越小、越來越密，彷彿壓力正在累積，直到鐵絲毫無節制地盤繞。在邊緣，竹籤爆發成一頂刺冠，既是防衛，也是暴烈。在製作過程中，學生感受到角色的掙扎，並開始追問人們受周遭物質世界牽引的程度。模型成為一道穿過心靈的剖面，從格網到尖刺的過渡，讀來像一則關於欲望的安靜警語。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
