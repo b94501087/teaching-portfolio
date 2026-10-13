@@ -1,0 +1,67 @@
+{
+  "project": "Campus Impressions",
+  "dest": "assets/board/campus-impressions-pvc-islands-and-waves",
+  "note": "Portfolio 1d03 pages 2-3 cropped to 10 images, WebP q88 (PIL). Not used: cover with student name, colour photos of the sea and the school corner.",
+  "files": [
+    {
+      "name": "01-floating-pvc-islands.webp",
+      "sha256": "24b176f886fa6530aec13bc0cb91ff56dfd327619ae8d72bd7fc1b9bcd3435ce",
+      "bytes": 81616,
+      "from": "1d03 pages 2-3 — floating islands cut from pvc"
+    },
+    {
+      "name": "02-sea-line-study.webp",
+      "sha256": "d9f6996db24eb2b66116eff1f42c6327dbbd9e3892b3d024876a3ee133698a1f",
+      "bytes": 6744,
+      "from": "1d03 pages 2-3 — a line study of the sea"
+    },
+    {
+      "name": "03-school-corner-line-study.webp",
+      "sha256": "ccec08bae0650b85abfe7d171d4530dc0744e8d210349bc3c8fa9ca06ea2b476",
+      "bytes": 6104,
+      "from": "1d03 pages 2-3 — a line study of the school corner"
+    },
+    {
+      "name": "04-hollowed-geometry-panel.webp",
+      "sha256": "71a6b85c12c17f48d6d5eb33724bbeb477c692670e9a4fd0e0569bf383900acd",
+      "bytes": 33692,
+      "from": "1d03 pages 2-3 — a panel of hollowed geometry"
+    },
+    {
+      "name": "05-cut-pieces-view-a.webp",
+      "sha256": "3c0e54ddbc327110c26e079d2e60eacf7be97f33ac40efd480665e6b20611ca6",
+      "bytes": 33164,
+      "from": "1d03 pages 2-3 — cut pieces on a panel"
+    },
+    {
+      "name": "06-cut-pieces-view-b.webp",
+      "sha256": "da9876a7d2daebd30667add6b08c31481bec3834c17ca1c6464286b61de9b85e",
+      "bytes": 27812,
+      "from": "1d03 pages 2-3 — pieces raised above the panel"
+    },
+    {
+      "name": "07-cut-pieces-view-c.webp",
+      "sha256": "8c5e94a9739c7abd3e7e5b693ad27c9cca988fae5e93249a97c9fbe86f7d93f3",
+      "bytes": 32024,
+      "from": "1d03 pages 2-3 — pieces lowered below the panel"
+    },
+    {
+      "name": "08-layered-islands.webp",
+      "sha256": "b14f6b1a253637c98f6702329307f2fda0102b1f42ef52b1920892f8f6feaa6e",
+      "bytes": 33158,
+      "from": "1d03 pages 2-3 — layered islands"
+    },
+    {
+      "name": "09-stacked-layers-in-blue-light.webp",
+      "sha256": "d07fcab1169b0b4a236e7bf09bb31960c54ed2250e091dee3de73ece692d2389",
+      "bytes": 32122,
+      "from": "1d03 pages 2-3 — stacked layers in blue light"
+    },
+    {
+      "name": "10-wave-layers-with-figures.webp",
+      "sha256": "812659d32179338468532cc644aee7d926b69b83ee92e8501e584485421bbabb",
+      "bytes": 156334,
+      "from": "1d03 pages 2-3 — wave layers with figures"
+    }
+  ]
+}
