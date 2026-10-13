@@ -71176,6 +71176,434 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Sword Paths",
+      "slug": "sword-paths-twisted-plastic-strip-stairs",
+      "description": "Short plastic strips glued into twisting stairs trace the path of a sword through a match.\n\nModel | Movement-to-form study | Plastic sticks, cardboard, foam board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "劍的軌跡",
+          "description": "短塑膠條黏成扭轉的階梯，描出比賽中劍的軌跡。\n\n模型｜動作轉形態研究｜塑膠條、卡紙、泡棉板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sword-paths-twisted-plastic-strip-stairs/01-sword-path-strip-model.webp",
+        "assets/board/sword-paths-twisted-plastic-strip-stairs/02-spiral-strip-tower.webp",
+        "assets/board/sword-paths-twisted-plastic-strip-stairs/03-tower-on-strip-base.webp",
+        "assets/board/sword-paths-twisted-plastic-strip-stairs/04-twisted-stair-strip.webp",
+        "assets/board/sword-paths-twisted-plastic-strip-stairs/05-star-of-strips.webp",
+        "assets/board/sword-paths-twisted-plastic-strip-stairs/06-strip-shadows.webp",
+        "assets/board/sword-paths-twisted-plastic-strip-stairs/07-strip-close-up.webp",
+        "assets/board/sword-paths-twisted-plastic-strip-stairs/08-motion-frames.webp",
+        "assets/board/sword-paths-twisted-plastic-strip-stairs/09-first-strip-loop.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sword-paths-twisted-plastic-strip-stairs/01-sword-path-strip-model.webp"
+          ],
+          "captions": [
+            "The sword path model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "劍的軌跡模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student does sabre fencing as a hobby. The project asks how the moves and plans of a match could be shown in 3D.",
+          "images": [
+            "assets/board/sword-paths-twisted-plastic-strip-stairs/08-motion-frames.webp"
+          ],
+          "captions": [
+            "Motion frames of a sword swing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生的嗜好是軍刀擊劍。這個專題探問，比賽中的動作與策略如何以立體方式呈現。",
+              "captions": [
+                "揮劍動作的分格影像。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Motion frames showed how the blade sweeps in arcs. Early loops tested how a strip could follow that sweep.",
+          "images": [
+            "assets/board/sword-paths-twisted-plastic-strip-stairs/09-first-strip-loop.webp",
+            "assets/board/sword-paths-twisted-plastic-strip-stairs/04-twisted-stair-strip.webp"
+          ],
+          "captions": [
+            "A first strip loop.",
+            "A twisted stair strip."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "分格影像顯示劍身如何以弧線掃過。早期的環形試驗測試塑膠條如何跟隨這道軌跡。",
+              "captions": [
+                "最初的塑膠條環。",
+                "扭轉的階梯條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Strips were cut to set lengths and glued into stair shapes, the cross pieces standing for the sword and the long sides for its path. Each stair was then twisted to match a move.",
+          "images": [
+            "assets/board/sword-paths-twisted-plastic-strip-stairs/05-star-of-strips.webp",
+            "assets/board/sword-paths-twisted-plastic-strip-stairs/02-spiral-strip-tower.webp",
+            "assets/board/sword-paths-twisted-plastic-strip-stairs/03-tower-on-strip-base.webp"
+          ],
+          "captions": [
+            "A star of strips.",
+            "A spiral strip tower.",
+            "The tower on a strip base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "塑膠條被裁成固定長度，黏成階梯形狀，短橫條代表劍，兩側長條代表它的軌跡。每段階梯再依動作扭轉。",
+              "captions": [
+                "塑膠條組成的星形。",
+                "螺旋塑膠條塔。",
+                "立在塑膠條底座上的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 30-inch model is a light web of arcs and shadows. It reads like a frozen match.",
+          "images": [
+            "assets/board/sword-paths-twisted-plastic-strip-stairs/06-strip-shadows.webp",
+            "assets/board/sword-paths-twisted-plastic-strip-stairs/07-strip-close-up.webp"
+          ],
+          "captions": [
+            "Strip shadows.",
+            "A close view of the strips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這件30英寸長的模型是一張由弧線與陰影組成的輕盈網。它就像一場被凍結的比賽。",
+              "captions": [
+                "塑膠條的陰影。",
+                "塑膠條近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a sport you play.\n2. Break a move into frames.\n3. Turn each frame into a unit.\n4. Twist the units to follow the move.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從自己從事的運動出發。\n2. 把動作拆成分格。\n3. 每一格化為一個單元。\n4. 扭轉單元，跟隨動作。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Time-Loop Tower",
+      "slug": "time-loop-tower-coloured-cubes-and-wire-cages",
+      "description": "Coloured cubes, clay forms and wire cages climb a spiral tower, each level holding one key moment of a looping story.\n\nModel | Story-to-space study | Wooden sticks, PVC board, foam, clay, metal strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "時間迴圈之塔",
+          "description": "彩色方塊、黏土形體與鐵絲籠沿著螺旋塔攀升，每一層承載一段迴圈故事中的關鍵時刻。\n\n模型｜故事轉空間研究｜木條、PVC板、泡棉、黏土、金屬條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/01-time-loop-tower.webp",
+        "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/02-paper-birds-on-top.webp",
+        "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/03-clay-and-cages.webp",
+        "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/04-cube-blocks-close-up.webp",
+        "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/05-lower-cubes-and-wire.webp",
+        "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/06-tower-side-view.webp",
+        "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/07-annotated-sketch.webp",
+        "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/08-clay-pieces.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/01-time-loop-tower.webp"
+          ],
+          "captions": [
+            "The time-loop tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "時間迴圈之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student turned a favourite animated story about time loops into space. The project asks how a plot can become a model.",
+          "images": [
+            "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/07-annotated-sketch.webp"
+          ],
+          "captions": [
+            "An annotated sketch of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生把一部喜愛的時間迴圈動畫故事轉化為空間。這個專題探問，情節如何變成模型。",
+              "captions": [
+                "附註解的塔草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Key events were sorted into five groups. Each group got its own mood, theme and material.",
+          "images": [
+            "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/08-clay-pieces.webp"
+          ],
+          "captions": [
+            "Painted clay pieces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "關鍵事件被分成五組。每一組都有自己的情緒、主題與材料。",
+              "captions": [
+                "上色的黏土構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wire spirals and black cages link the levels. Bright foam cubes break apart near the top as the loop collapses.",
+          "images": [
+            "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/03-clay-and-cages.webp",
+            "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/04-cube-blocks-close-up.webp",
+            "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/05-lower-cubes-and-wire.webp"
+          ],
+          "captions": [
+            "Clay forms and cages.",
+            "Cube blocks close up.",
+            "Lower cubes and wire."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "鐵絲螺旋與黑色籠子串起各層。鮮豔的泡棉方塊在頂部散開，象徵迴圈崩解。",
+              "captions": [
+                "黏土形體與籠子。",
+                "方塊近觀。",
+                "下方的方塊與鐵絲。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 31.5-inch tower ends in paper birds that fly off the top. It shows lost time being won back.",
+          "images": [
+            "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/02-paper-birds-on-top.webp",
+            "assets/board/time-loop-tower-coloured-cubes-and-wire-cages/06-tower-side-view.webp"
+          ],
+          "captions": [
+            "Paper birds on top.",
+            "The tower from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座31.5英寸高的塔，頂端以飛離的紙鳥作結。它呈現失去的時間被重新奪回。",
+              "captions": [
+                "頂端的紙鳥。",
+                "側看塔身。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a story you love.\n2. Split it into key events.\n3. Give each event a material.\n4. Stack them in story order.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 挑一個喜愛的故事。\n2. 拆成關鍵事件。\n3. 每個事件一種材料。\n4. 依故事順序堆疊。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Engawa House",
+      "slug": "engawa-house-white-board-rooms-and-veranda",
+      "description": "White board rooms joined by a wooden veranda rebuild the open, linked layout of a traditional Japanese house.\n\nModel and drawings | House study | Wooden sticks, PVC board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "緣側之家",
+          "description": "以木製緣側串連的白色板材房間，重建傳統日式住宅開放而相連的格局。\n\n模型與繪圖｜住宅研究｜木條、PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/engawa-house-white-board-rooms-and-veranda/01-engawa-house-model.webp",
+        "assets/board/engawa-house-white-board-rooms-and-veranda/02-pen-sketch-of-the-model.webp",
+        "assets/board/engawa-house-white-board-rooms-and-veranda/03-slatted-corner.webp",
+        "assets/board/engawa-house-white-board-rooms-and-veranda/04-inner-room-view.webp",
+        "assets/board/engawa-house-white-board-rooms-and-veranda/05-veranda-drawing.webp",
+        "assets/board/engawa-house-white-board-rooms-and-veranda/06-veranda-in-the-model.webp",
+        "assets/board/engawa-house-white-board-rooms-and-veranda/07-section-views.webp",
+        "assets/board/engawa-house-white-board-rooms-and-veranda/08-plan-sketch.webp",
+        "assets/board/engawa-house-white-board-rooms-and-veranda/09-six-test-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/engawa-house-white-board-rooms-and-veranda/01-engawa-house-model.webp"
+          ],
+          "captions": [
+            "The house model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "住宅模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student loves the structure of traditional Japanese houses. The project asks how their open, linked rooms could be rebuilt in a model.",
+          "images": [
+            "assets/board/engawa-house-white-board-rooms-and-veranda/08-plan-sketch.webp"
+          ],
+          "captions": [
+            "A plan sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生喜愛傳統日式住宅的結構。這個專題探問，如何在模型中重建它們開放而相連的房間。",
+              "captions": [
+                "平面草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The engawa is a veranda that links all the rooms. By day it opens to the outside; at night panels close it in.",
+          "images": [
+            "assets/board/engawa-house-white-board-rooms-and-veranda/09-six-test-models.webp"
+          ],
+          "captions": [
+            "Six test models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "緣側是一條串起所有房間的廊道。白天它向外敞開，夜晚則以板門圍入室內。",
+              "captions": [
+                "六個試驗模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "PVC boards of many sizes make the rooms. Wooden slats form the veranda, stairs and screens.",
+          "images": [
+            "assets/board/engawa-house-white-board-rooms-and-veranda/02-pen-sketch-of-the-model.webp",
+            "assets/board/engawa-house-white-board-rooms-and-veranda/03-slatted-corner.webp",
+            "assets/board/engawa-house-white-board-rooms-and-veranda/05-veranda-drawing.webp"
+          ],
+          "captions": [
+            "A pen sketch of the model.",
+            "A slatted corner.",
+            "A drawing of the veranda."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "不同尺寸的PVC板構成房間。木條則形成緣側、樓梯與格柵。",
+              "captions": [
+                "模型的鋼筆速寫。",
+                "格柵轉角。",
+                "緣側繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 30-inch model is a semi-open cluster of rooms. Light falls through it as in a real house.",
+          "images": [
+            "assets/board/engawa-house-white-board-rooms-and-veranda/04-inner-room-view.webp",
+            "assets/board/engawa-house-white-board-rooms-and-veranda/06-veranda-in-the-model.webp",
+            "assets/board/engawa-house-white-board-rooms-and-veranda/07-section-views.webp"
+          ],
+          "captions": [
+            "Inside a room.",
+            "The veranda in the model.",
+            "Views through the house."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這件30英寸長的模型是一組半開放的房間群。光線如同在真實住宅中一般穿透其間。",
+              "captions": [
+                "房間內部。",
+                "模型中的緣側。",
+                "穿透住宅的視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a building type you love.\n2. Find its key space.\n3. Test it in many small models.\n4. Draw and photograph the inside.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 挑一種喜愛的建築類型。\n2. 找出它的關鍵空間。\n3. 以多個小模型試驗。\n4. 描繪並拍攝內部。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
