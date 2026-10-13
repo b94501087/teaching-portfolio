@@ -1,0 +1,55 @@
+{
+  "project": "Time-Loop Tower",
+  "dest": "assets/board/time-loop-tower-coloured-cubes-and-wire-cages",
+  "note": "Portfolio bcbf page 3 cropped to 8 images, WebP q88 (PIL). Not used: animation cover art and stills, process photos with hands, photo with a brand label, unrelated text.",
+  "files": [
+    {
+      "name": "01-time-loop-tower.webp",
+      "sha256": "792908ff3aaa93c40065e9304814ac5359f472fa9b7598bde8779b1eca389c5b",
+      "bytes": 261898,
+      "from": "bcbf page 3 — the time-loop tower"
+    },
+    {
+      "name": "02-paper-birds-on-top.webp",
+      "sha256": "8dab025fac5d1d4f4347defc598dd9f3173eed58229c545150ad38d2c7495b80",
+      "bytes": 49016,
+      "from": "bcbf page 3 — paper birds on top"
+    },
+    {
+      "name": "03-clay-and-cages.webp",
+      "sha256": "447d972fb13126c2b382454b724b25992bd5084dc3862584ee6e85fa0c12cef7",
+      "bytes": 77776,
+      "from": "bcbf page 3 — clay forms and cages"
+    },
+    {
+      "name": "04-cube-blocks-close-up.webp",
+      "sha256": "135cfe69042ed84d1cf971750893b94c5f15396afa82032a060dddf11c979c2f",
+      "bytes": 52684,
+      "from": "bcbf page 3 — cube blocks close up"
+    },
+    {
+      "name": "05-lower-cubes-and-wire.webp",
+      "sha256": "3d6775c9099d4c428568c8bcf527fbb16d976239feb1dea14bffed591e564238",
+      "bytes": 75340,
+      "from": "bcbf page 3 — lower cubes and wire"
+    },
+    {
+      "name": "06-tower-side-view.webp",
+      "sha256": "21c303a1147ccb2c1e18b5098ebf98a12a3a51b4278f49de3d9ebd1cac71e859",
+      "bytes": 123826,
+      "from": "bcbf page 3 — the tower from the side"
+    },
+    {
+      "name": "07-annotated-sketch.webp",
+      "sha256": "dbe2a9db94004cc3085d748719aa1a8f5932ef0b98123ac608e45bee6b5e91bd",
+      "bytes": 107236,
+      "from": "bcbf page 3 — an annotated sketch of the tower"
+    },
+    {
+      "name": "08-clay-pieces.webp",
+      "sha256": "efd1d8b3833dae47de98458c389ba87cd2ca15db6482f77610186f09dfff55eb",
+      "bytes": 45342,
+      "from": "bcbf page 3 — painted clay pieces"
+    }
+  ]
+}
