@@ -1,0 +1,61 @@
+{
+  "project": "Steel Unity",
+  "dest": "assets/board/steel-unity-triangle-stick-wearable-structure",
+  "note": "Portfolio cfd7 pages 6-7 cropped to nine images, WebP q88 (PIL). Not used: title and text, a photo of a real tower, reference images of faces, photos of the piece being worn.",
+  "files": [
+    {
+      "name": "01-structure-model.webp",
+      "sha256": "72f9d0cb44833ce7600c84b0bab530bfeaabed099d01d99fa351b2c5ad51a9b1",
+      "bytes": 57964,
+      "from": "cfd7 page 6 — structure model"
+    },
+    {
+      "name": "02-frame-drawing.webp",
+      "sha256": "7ff93f5274f4ba2bd747e5ed19378ab7a6fc1640e11ae6700eca3817e5e1d7cb",
+      "bytes": 28790,
+      "from": "cfd7 page 6 — frame drawing"
+    },
+    {
+      "name": "03-triangle-units.webp",
+      "sha256": "dc136f63a2cf054b5a6bf346549d7b3056ed63a8a8c0a8668c71049fc489a6b8",
+      "bytes": 7640,
+      "from": "cfd7 page 6 — triangle units"
+    },
+    {
+      "name": "04-line-drawing.webp",
+      "sha256": "bfd4e01a0441226e03865db9a375d4ac2cc320bc206fb230d28dae7f0a9b06e4",
+      "bytes": 30314,
+      "from": "cfd7 page 6 — line drawing"
+    },
+    {
+      "name": "05-shaded-drawing.webp",
+      "sha256": "69f06b13faa507514d7afabf979e9927270b118b33c7cf0856be92bc6bb3fb2b",
+      "bytes": 44782,
+      "from": "cfd7 page 6 — shaded drawing"
+    },
+    {
+      "name": "06-view-one.webp",
+      "sha256": "54056f7343950e47c025318fbf4af40581e4f1d48874530673c076bf894b2efb",
+      "bytes": 11588,
+      "from": "cfd7 page 7 — view one"
+    },
+    {
+      "name": "07-view-two.webp",
+      "sha256": "fc8a7a2bc4e941b5f31e05e4151b5314109c28f747505f0870dbc1109ade11a4",
+      "bytes": 10790,
+      "from": "cfd7 page 7 — view two"
+    },
+    {
+      "name": "08-view-three.webp",
+      "sha256": "9150a87ad62cf1196220a843c8261569eee23e3dbb1b65f52e7e397e8d9ccbac",
+      "bytes": 11986,
+      "from": "cfd7 page 7 — view three"
+    },
+    {
+      "name": "09-close-up.webp",
+      "sha256": "a50cc6d7a4508515931cbcbb15aa269cc72c94e836e06185664b254a6f0319fb",
+      "bytes": 16916,
+      "from": "cfd7 page 7 — close up"
+    }
+  ]
+}
