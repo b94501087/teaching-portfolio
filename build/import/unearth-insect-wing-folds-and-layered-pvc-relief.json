@@ -1,0 +1,67 @@
+{
+  "project": "Unearth",
+  "dest": "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief",
+  "note": "Portfolio 5fd5 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, insect photos, a reference drawing, photos of hands at work.",
+  "files": [
+    {
+      "name": "01-stick-field.webp",
+      "sha256": "e4c40718dd1265504a67995d10fbe38b61c06b4e468c57080a84b95dbcdf1ecc",
+      "bytes": 192962,
+      "from": "5fd5 page 7 — stick field"
+    },
+    {
+      "name": "02-folded-panels.webp",
+      "sha256": "a68e7ffb24384ca9a668d953410c0a63e8f1437d646b33ca51a329f572891b18",
+      "bytes": 80920,
+      "from": "5fd5 page 6 — folded panels"
+    },
+    {
+      "name": "03-clear-shells.webp",
+      "sha256": "df8afcb4fe4b84f5827fe0c2882eaefa0f71ce258105abeecf9ce99ae6cb1e6f",
+      "bytes": 32736,
+      "from": "5fd5 page 6 — clear shells"
+    },
+    {
+      "name": "04-layered-slices.webp",
+      "sha256": "838f2b3d636cf078170ac709394c7fa01beaf2213b7e74e9a5b9efd736a56bac",
+      "bytes": 177788,
+      "from": "5fd5 page 6 — layered slices"
+    },
+    {
+      "name": "05-cast-relief.webp",
+      "sha256": "cd427dd340e6ef0bf88b255787aed21ef62482e3e5e393d762721816e01f10eb",
+      "bytes": 74472,
+      "from": "5fd5 page 7 — slice model"
+    },
+    {
+      "name": "06-relief-blocks.webp",
+      "sha256": "b68c2d519bb17c079d0bca1083d755decbeb2ab07c500550e35bd0a73b7e54e4",
+      "bytes": 82128,
+      "from": "5fd5 page 7 — slice blocks"
+    },
+    {
+      "name": "07-stick-cluster.webp",
+      "sha256": "5a33886b3b82f3858641ea51d03f5d879abea5e69d176705bbbb3cb6fcffdf32",
+      "bytes": 120226,
+      "from": "5fd5 page 7 — stick cluster"
+    },
+    {
+      "name": "08-stick-walls.webp",
+      "sha256": "690ff8533a40c4eccdb87bf23ac6ce7f2f806241c35f4f4a53be868214d385e9",
+      "bytes": 77574,
+      "from": "5fd5 page 7 — stick walls"
+    },
+    {
+      "name": "09-narrow-path.webp",
+      "sha256": "33ad5f07b7baec72b2af567b65465dca7015bd4581c82b05e961dba2ed48afbf",
+      "bytes": 41750,
+      "from": "5fd5 page 7 — narrow path"
+    },
+    {
+      "name": "10-stick-passage.webp",
+      "sha256": "71546add0cad2d67ac121bf0fc7e40fe0c4492da5779e8650fcc551f20bd47ac",
+      "bytes": 44846,
+      "from": "5fd5 page 7 — stick passage"
+    }
+  ]
+}
