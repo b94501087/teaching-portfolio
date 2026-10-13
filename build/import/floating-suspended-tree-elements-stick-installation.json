@@ -1,0 +1,37 @@
+{
+  "project": "Floating",
+  "dest": "assets/board/floating-suspended-tree-elements-stick-installation",
+  "note": "Portfolio 5fd5 page 9 cropped to five images, WebP q88 (PIL). Not used: title and text, a reproduction of a painting and its notes, photos showing a person.",
+  "files": [
+    {
+      "name": "01-hanging-volume.webp",
+      "sha256": "e555da37e62481f6afb4c7138db8e18c758a0765bee82aabdd022433578e98ca",
+      "bytes": 92420,
+      "from": "5fd5 page 9 — hanging volume"
+    },
+    {
+      "name": "02-canopy-curves.webp",
+      "sha256": "26fb7401a92ee2ccbc0e6bc3839b6f73f527984d233ce05a0fda85bbb984f7cc",
+      "bytes": 77302,
+      "from": "5fd5 page 9 — canopy curves"
+    },
+    {
+      "name": "03-low-view.webp",
+      "sha256": "3fbfbf3609364e2f65f8fdcb171e6ba61d9c198d1aa5066a64d75f18995d9148",
+      "bytes": 21276,
+      "from": "5fd5 page 9 — low view"
+    },
+    {
+      "name": "05-inside-view.webp",
+      "sha256": "382b33c903c314f61e21135ae791f3e52f9e2b038dfee3f26477cc1d53ac260c",
+      "bytes": 37260,
+      "from": "5fd5 page 9 — inside view"
+    },
+    {
+      "name": "06-cards-and-spheres.webp",
+      "sha256": "d48dc570461c3c1dc01cf7743ed235b1308f6d8bb5fac57e1eda6f84d5a5ad8e",
+      "bytes": 24838,
+      "from": "5fd5 page 9 — cards and spheres"
+    }
+  ]
+}
