@@ -1,0 +1,61 @@
+{
+  "project": "Engawa House",
+  "dest": "assets/board/engawa-house-white-board-rooms-and-veranda",
+  "note": "Portfolio bcbf page 4 cropped to 9 images, WebP q88 (PIL). Not used: film stills.",
+  "files": [
+    {
+      "name": "01-engawa-house-model.webp",
+      "sha256": "437f76c34d69289c4bdb5d938de451f24b1e8e60c1ae71a7feb2ce49bc830e80",
+      "bytes": 67224,
+      "from": "bcbf page 4 — the house model"
+    },
+    {
+      "name": "02-pen-sketch-of-the-model.webp",
+      "sha256": "4b68d9f921b6c3f059a8dedfc8fd005ec6f0f3ebbe6935bd072a125f760369d1",
+      "bytes": 45888,
+      "from": "bcbf page 4 — a pen sketch of the model"
+    },
+    {
+      "name": "03-slatted-corner.webp",
+      "sha256": "6c53223bfbb7c374a79deeb35b11bcd170e4c6cd87168b0a7a6a04e708832a3e",
+      "bytes": 28916,
+      "from": "bcbf page 4 — a slatted corner"
+    },
+    {
+      "name": "04-inner-room-view.webp",
+      "sha256": "9c62a5d89d01ac6f0d90fcb200c1b5272db8ab14df6b313fcffd2ca60e31e325",
+      "bytes": 21366,
+      "from": "bcbf page 4 — inside a room"
+    },
+    {
+      "name": "05-veranda-drawing.webp",
+      "sha256": "32eacc554171f13c2d02ba49b19b0d7fee971b9d71e6b77d2436cff5fa86fc1f",
+      "bytes": 69286,
+      "from": "bcbf page 4 — a drawing of the veranda"
+    },
+    {
+      "name": "06-veranda-in-the-model.webp",
+      "sha256": "88fa6df79de64285330df89ae1b5819d6bcdd7db81f8e34ae15f2b525fa19519",
+      "bytes": 38444,
+      "from": "bcbf page 4 — the veranda in the model"
+    },
+    {
+      "name": "07-section-views.webp",
+      "sha256": "4f3d0bd04f898a8a4715b00d188d521ca904f60ef72db62e9980d92b8f12d3ba",
+      "bytes": 73526,
+      "from": "bcbf page 4 — views through the house"
+    },
+    {
+      "name": "08-plan-sketch.webp",
+      "sha256": "b1bda1ea788d6d8edfa9d95095a541199897af3f9772476d6fde81f50fb50646",
+      "bytes": 70702,
+      "from": "bcbf page 4 — a plan sketch"
+    },
+    {
+      "name": "09-six-test-models.webp",
+      "sha256": "5d305a3f08b0565239d1db96744d0cf114798f70b11de0c07a06d4f73143f5c6",
+      "bytes": 57212,
+      "from": "bcbf page 4 — six test models"
+    }
+  ]
+}
