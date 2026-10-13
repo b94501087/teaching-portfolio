@@ -1,0 +1,37 @@
+{
+  "project": "Tactics in Motion",
+  "dest": "assets/board/tactics-in-motion-basketball-movement-model",
+  "note": "Portfolio a289 page 2 cropped to 5 images, WebP q88 (PIL). Not used: reference architect and work title, basketball player silhouette, caption.",
+  "files": [
+    {
+      "name": "01-melded-movement-model.webp",
+      "sha256": "2046c30298d9e476677c5f43c81c1777c1a0ad26b16ca49d121190fbf85dc424",
+      "bytes": 127156,
+      "from": "a289 page 2 — the melded movement model"
+    },
+    {
+      "name": "02-movement-drawing-a.webp",
+      "sha256": "76fc05c70cb289c153d3c4b34c79e0b1bb342a52db86558f348d0e862ea5ec45",
+      "bytes": 48128,
+      "from": "a289 page 2 — movement drawing of the first tactic"
+    },
+    {
+      "name": "03-movement-drawing-b.webp",
+      "sha256": "fbf1d41b1730ef20999490472b7bfa01feabcefc1864368b1dfe013bc7f940f1",
+      "bytes": 41990,
+      "from": "a289 page 2 — movement drawing of the second tactic"
+    },
+    {
+      "name": "04-movement-drawing-c.webp",
+      "sha256": "c0bd962a81a017e403624735fbe91c4f09857a6bb523c2f850fbb91fa3b95063",
+      "bytes": 35500,
+      "from": "a289 page 2 — movement drawing of the third tactic"
+    },
+    {
+      "name": "05-traced-lines-and-arcs.webp",
+      "sha256": "ec8b9fc28a3c4bb459e8af191b15c394c1ec1cd1f9fcb88f03de11b1c69837a6",
+      "bytes": 38330,
+      "from": "a289 page 2 — traced lines and arcs of the plays"
+    }
+  ]
+}
