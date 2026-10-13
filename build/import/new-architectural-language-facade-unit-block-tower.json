@@ -1,0 +1,67 @@
+{
+  "project": "Exploring a New Architectural Language Through Facade and Form",
+  "dest": "assets/board/new-architectural-language-facade-unit-block-tower",
+  "note": "Portfolio b2e2 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, photos of existing buildings and an artwork used as references.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "b9466bffcc2342ebdac664f5afbb2c348eb99178ebb23c4bef730f12984b030c",
+      "bytes": 47136,
+      "from": "b2e2 page 6 — final tower"
+    },
+    {
+      "name": "02-facade-sketches.webp",
+      "sha256": "a44125525bca8a39ad3339cb6434f337ba85dbed390e536fe602b3e84e52fde2",
+      "bytes": 18684,
+      "from": "b2e2 page 6 — facade sketches"
+    },
+    {
+      "name": "03-unit-blocks.webp",
+      "sha256": "662d8ce72e17a7615d54f38d296062841bfd4aea909f933856a5ffd8ab2dd9f0",
+      "bytes": 41492,
+      "from": "b2e2 page 6 — unit blocks"
+    },
+    {
+      "name": "04-early-stack.webp",
+      "sha256": "94587dee5c0204072ff96b1723fbb0cefc19e9dba8ef93ee7beb78259f44ad33",
+      "bytes": 13500,
+      "from": "b2e2 page 6 — early stack"
+    },
+    {
+      "name": "05-stack-study.webp",
+      "sha256": "5581168414eb36c106d9bb4e9d2cd96c61b5ad85db69cb0093995939add3ac3d",
+      "bytes": 9382,
+      "from": "b2e2 page 6 — stack study"
+    },
+    {
+      "name": "06-upper-floors.webp",
+      "sha256": "83db25ab4879927255863b3b7a06a15e99b749d7e69e76576eab486f7b4160e4",
+      "bytes": 39648,
+      "from": "b2e2 page 7 — upper floors"
+    },
+    {
+      "name": "07-full-view.webp",
+      "sha256": "189930937b7e01364982a3c07964309530351ef8e7dd761ff77de1118117c40d",
+      "bytes": 25070,
+      "from": "b2e2 page 7 — full view"
+    },
+    {
+      "name": "08-stick-crown.webp",
+      "sha256": "e9d27adfa5f5f287af8efe0b828d815b605a7140b8c3299a69b9760c8bafac5c",
+      "bytes": 29496,
+      "from": "b2e2 page 7 — stick crown"
+    },
+    {
+      "name": "09-board-layers.webp",
+      "sha256": "cf5ed2f655f4dcf61990377cc94c7c458eb5902b228aebfb062237091feb8113",
+      "bytes": 20850,
+      "from": "b2e2 page 7 — board layers"
+    },
+    {
+      "name": "10-top-view.webp",
+      "sha256": "850094e0af2d60b1301c461e77f610606ec196ec559ad458efe4d295e62c511c",
+      "bytes": 89936,
+      "from": "b2e2 page 7 — top view"
+    }
+  ]
+}
