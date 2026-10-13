@@ -1,0 +1,25 @@
+{
+  "project": "A Room Recast in Blocks",
+  "dest": "assets/board/a-room-recast-in-palm-sized-blocks",
+  "note": "Portfolio a289 page 5 cropped to 3 images, WebP q88 (PIL). Not used: body-measurement figure and furniture isometrics with human silhouettes, figure motion diagrams, caption.",
+  "files": [
+    {
+      "name": "01-block-facade-model.webp",
+      "sha256": "1af8b2056f3feec1427b4cb40ae9b1c32a1b810208de9191b251d70c4472905b",
+      "bytes": 160846,
+      "from": "a289 page 5 — the recomposed block façades"
+    },
+    {
+      "name": "02-stepped-facade-studies.webp",
+      "sha256": "0055aa6212c60ffe0c505d069077c924a4f72f96142acd6091145671c74be137",
+      "bytes": 75812,
+      "from": "a289 page 5 — stepped façade studies"
+    },
+    {
+      "name": "03-facade-motion-strips.webp",
+      "sha256": "5df084a2b03a9e1b3310d2c2e7a9a3109118cc758d56fc8b3db64aeea35a9b13",
+      "bytes": 36928,
+      "from": "a289 page 5 — strips tracing the layup motion"
+    }
+  ]
+}
