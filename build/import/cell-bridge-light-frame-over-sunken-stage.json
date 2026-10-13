@@ -1,0 +1,55 @@
+{
+  "project": "Cell Bridge",
+  "dest": "assets/board/cell-bridge-light-frame-over-sunken-stage",
+  "note": "Portfolio 7c9f page 6 cropped to eight images, WebP q88 (PIL). Not used: title and text, the programme and school name, the site name and site photo, process photos on the cutting mat with hands.",
+  "files": [
+    {
+      "name": "01-cell-frame-model.webp",
+      "sha256": "9cac6bf838b6910df56a73d425466a2e84a5ddb6a0abb1f8c7ba6b16a79bb133",
+      "bytes": 29832,
+      "from": "7c9f page 6 — cell frame model"
+    },
+    {
+      "name": "02-frame-sketch.webp",
+      "sha256": "93bc9ddc46e6401a4c8a5ea8c862e897e24c906e7f93834f53a674da5d6683c5",
+      "bytes": 84348,
+      "from": "7c9f page 6 — frame sketch"
+    },
+    {
+      "name": "03-section-sketch.webp",
+      "sha256": "2a533e6cd7916d18393b28269f6d200d2fd0bfbd1282118128f95f76250dcd74",
+      "bytes": 5058,
+      "from": "7c9f page 6 — section sketch"
+    },
+    {
+      "name": "04-curve-template.webp",
+      "sha256": "fb707a2a5aba7364a8be87f088e3e8b591fcb9af420cc65b3975bc41ff38e9be",
+      "bytes": 17654,
+      "from": "7c9f page 6 — curve template"
+    },
+    {
+      "name": "05-cut-cell.webp",
+      "sha256": "56ce2baa1400c3a3054df0a47691e1fe6b0c08a637b44d8e9538d0408c1e122d",
+      "bytes": 4498,
+      "from": "7c9f page 6 — cut cell"
+    },
+    {
+      "name": "06-first-assembly.webp",
+      "sha256": "2774ab61c6e2f8867288020494955d1aadd6a6eee635818e4574db3e08fb0c3a",
+      "bytes": 30996,
+      "from": "7c9f page 6 — first assembly"
+    },
+    {
+      "name": "07-stacked-cells.webp",
+      "sha256": "96102bb8a82800a2bd4190aa09ade1400dc53b97c8415b9bed3cc545868664fe",
+      "bytes": 29252,
+      "from": "7c9f page 6 — stacked cells"
+    },
+    {
+      "name": "08-long-frame.webp",
+      "sha256": "50552574ad68b66d1d2b73ca499354da16d13914d10e2be83de8db93ef3ba12e",
+      "bytes": 22868,
+      "from": "7c9f page 6 — long frame"
+    }
+  ]
+}
