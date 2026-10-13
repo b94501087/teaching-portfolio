@@ -1,0 +1,67 @@
+{
+  "project": "The Arch",
+  "dest": "assets/board/the-arch-layered-acrylic-and-wood-arch-units",
+  "note": "Portfolio d991 page 4 cropped to ten images, WebP q88 (PIL). Not used: title and text, street photos of buildings, a process photo with a hand, street and city names.",
+  "files": [
+    {
+      "name": "01-black-arches.webp",
+      "sha256": "9a179c005f5e21440970a497938fa8565984a0093b4b7e475998ebbbf44bd705",
+      "bytes": 132548,
+      "from": "d991 page 4 — black arches"
+    },
+    {
+      "name": "02-arch-types.webp",
+      "sha256": "f29286fd7549fa3ddab06571031d73429a14ed97de0d5236e8a8b2131e279558",
+      "bytes": 44696,
+      "from": "d991 page 4 — arch types"
+    },
+    {
+      "name": "03-arch-sketches.webp",
+      "sha256": "8806bd974f16ac070d5dbec0158e26af3531ff0602f03b52788a9a2fd8926fb8",
+      "bytes": 49438,
+      "from": "d991 page 4 — arch sketches"
+    },
+    {
+      "name": "04-paper-tests.webp",
+      "sha256": "8c37f840f6086a115890cbadac6926aea5a11a2865cc798eb9882984adaeed8b",
+      "bytes": 42904,
+      "from": "d991 page 4 — paper tests"
+    },
+    {
+      "name": "05-foam-tests.webp",
+      "sha256": "37d6a1c570327cdadb05ad0efd9471e9c973dab467a4f8bb7d21c64bf3cf6ece",
+      "bytes": 80652,
+      "from": "d991 page 4 — foam tests"
+    },
+    {
+      "name": "06-arch-units.webp",
+      "sha256": "296e02b34c67a0e74e7223efd0b1056bd175af646f88864286f104996784f008",
+      "bytes": 131006,
+      "from": "d991 page 4 — arch units"
+    },
+    {
+      "name": "07-arch-units-two.webp",
+      "sha256": "0022fdad3db07b9f85d642d2426743fbf7459f8cab75769d7cbe4c92adb20cf1",
+      "bytes": 113148,
+      "from": "d991 page 4 — arch units two"
+    },
+    {
+      "name": "08-arch-cluster.webp",
+      "sha256": "885c8de29e8d74e5e35d3aa3cc6f62bd3dcae235a2b80e6009b21df39fcec067",
+      "bytes": 80256,
+      "from": "d991 page 4 — arch cluster"
+    },
+    {
+      "name": "09-joined-model.webp",
+      "sha256": "b67bb696067b9296ae24d57039602643bae79635d6d898c8497d013a7b8eb870",
+      "bytes": 52020,
+      "from": "d991 page 4 — joined model"
+    },
+    {
+      "name": "10-arch-drawing.webp",
+      "sha256": "db0fc7cc7b554ced0b5d0b3db0d6ceb776709842059172b92b71061e564018c3",
+      "bytes": 219342,
+      "from": "d991 page 4 — arch drawing"
+    }
+  ]
+}
