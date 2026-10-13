@@ -64988,6 +64988,574 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "The Multiverse",
+      "slug": "multiverse-five-layer-stained-glass-tower",
+      "description": "A five-layer tower of stairs, small worlds and coloured glass turns the feelings of a film story into space.\n\nModel making | Story and space | Salt, acrylics, cotton, spray paint, iron wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "多重宇宙",
+          "description": "一座由樓梯、小世界與彩色玻璃組成的五層塔，把電影故事中的情感轉化為空間。\n\n模型製作｜故事與空間｜鹽、壓克力、棉花、噴漆、鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/multiverse-five-layer-stained-glass-tower/01-glass-tower.webp",
+        "assets/board/multiverse-five-layer-stained-glass-tower/02-tower-sketch.webp",
+        "assets/board/multiverse-five-layer-stained-glass-tower/03-stair-sketch.webp",
+        "assets/board/multiverse-five-layer-stained-glass-tower/04-front-view.webp",
+        "assets/board/multiverse-five-layer-stained-glass-tower/05-glass-top.webp",
+        "assets/board/multiverse-five-layer-stained-glass-tower/06-spiral-stair.webp",
+        "assets/board/multiverse-five-layer-stained-glass-tower/07-bionic-trees.webp",
+        "assets/board/multiverse-five-layer-stained-glass-tower/08-small-worlds.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/multiverse-five-layer-stained-glass-tower/01-glass-tower.webp"
+          ],
+          "captions": [
+            "The tower crowned with coloured glass."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "頂端覆著彩色玻璃的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A film about travelling through many universes inspired the student to look at the feelings inside the story. These include facing the dark side of oneself, a mother's strong hold on her child and the spirit of a team.",
+          "images": [
+            "assets/board/multiverse-five-layer-stained-glass-tower/02-tower-sketch.webp"
+          ],
+          "captions": [
+            "A labelled sketch of the layers."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部關於穿越多重宇宙的電影，啟發學生審視故事中的情感。其中包括面對自我的黑暗面、母親對孩子的強烈執著，以及團隊精神。",
+              "captions": [
+                "標示各層的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Each feeling was given its own layer, so the model grew into a five-layer body. Sketches set out how stairs would link one layer to the next.",
+          "images": [
+            "assets/board/multiverse-five-layer-stained-glass-tower/03-stair-sketch.webp",
+            "assets/board/multiverse-five-layer-stained-glass-tower/06-spiral-stair.webp"
+          ],
+          "captions": [
+            "A sketch of the stair layers.",
+            "A spiral stair."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "每一種情感都有自己的一層，使模型發展成五層的實體。草圖規劃了樓梯如何連接各層。",
+              "captions": [
+                "樓梯層的草圖。",
+                "螺旋樓梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A foundation floor with stairs came first, then a prism frame of wooden strips on the second floor. Five small spaces on the third floor stand for different times and places, filled with clay and bionic trees.",
+          "images": [
+            "assets/board/multiverse-five-layer-stained-glass-tower/07-bionic-trees.webp",
+            "assets/board/multiverse-five-layer-stained-glass-tower/08-small-worlds.webp",
+            "assets/board/multiverse-five-layer-stained-glass-tower/05-glass-top.webp"
+          ],
+          "captions": [
+            "Dried bionic trees.",
+            "Small worlds on the third floor.",
+            "Glass panes at the top."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生先做出帶樓梯的基礎樓層，再在二樓以木條搭建稜柱框架。三樓的五個小空間代表不同的時間與空間，並填入黏土與仿生樹。",
+              "captions": [
+                "乾燥的仿生樹。",
+                "三樓的小世界。",
+                "頂部的玻璃窗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A grand staircase climbs to a stained glass building set on a turning wheel at the top. Small figures give the scale of a real person against the tower.",
+          "images": [
+            "assets/board/multiverse-five-layer-stained-glass-tower/04-front-view.webp"
+          ],
+          "captions": [
+            "The full model from the front."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一道大樓梯通往頂端轉輪上的彩繪玻璃建築。小人偶標示出真人與塔之間的尺度。",
+              "captions": [
+                "模型正面全景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read the feelings in a story.\n2. Give each one a layer.\n3. Link layers with stairs.\n4. Add a human scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 讀出故事中的情感。\n2. 為每種情感安排一層。\n3. 以樓梯連接各層。\n4. 加入人的尺度。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Bionic Canyon",
+      "slug": "bionic-canyon-stick-and-folded-paper-landscapes",
+      "description": "The curving layers of a sandstone canyon are rebuilt twice, once in spliced sticks and once in folded paper hung on thread.\n\nModel making | Landscape and form | Bamboo sticks, wooden sticks, paper, thread | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "仿生峽谷",
+          "description": "砂岩峽谷的彎曲層理被重建兩次，一次以拼接木棒，一次以懸掛於細線上的摺紙。\n\n模型製作｜地景與形態｜竹棒、木棒、紙、細線｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/01-folded-canyon.webp",
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/02-canyon-colours.webp",
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/03-line-drawing.webp",
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/04-stick-model.webp",
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/05-stick-wave.webp",
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/06-stick-close.webp",
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/07-stick-curl.webp",
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/08-hanging-frame.webp",
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/09-paper-folds.webp",
+        "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/10-inside-canyon.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/01-folded-canyon.webp"
+          ],
+          "captions": [
+            "Folded paper walls like a canyon."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "如峽谷般的摺紙牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "On a trip the student photographed a sandstone canyon whose shape changed with every viewing angle. The project asks how that shifting form could be combined with a human-scale model.",
+          "images": [
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/02-canyon-colours.webp"
+          ],
+          "captions": [
+            "Canyon walls that inspired the work."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生在旅途中拍下一座砂岩峽谷，它的形狀隨觀看角度不斷改變。這個專題探問如何把這種變化的形態結合到人的尺度模型中。",
+              "captions": [
+                "啟發作品的峽谷岩壁。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student traced the flowing lines of the rock into hand drawings. The drawings show how the layers bend, split and meet.",
+          "images": [
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/03-line-drawing.webp"
+          ],
+          "captions": [
+            "Flowing lines drawn from the rock."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把岩石的流動線條描成手繪圖。這些圖呈現層理如何彎曲、分開與交會。",
+              "captions": [
+                "從岩石描出的流動線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The first model splices sticks of different lengths into curling waves, then adds small figures. The second folds cardboard into the same pattern and hangs it on fishing line inside a frame.",
+          "images": [
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/04-stick-model.webp",
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/05-stick-wave.webp",
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/06-stick-close.webp",
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/07-stick-curl.webp",
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/08-hanging-frame.webp"
+          ],
+          "captions": [
+            "Spliced sticks.",
+            "A wave of sticks.",
+            "Sticks up close.",
+            "A curling stick form.",
+            "Paper hung inside a frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "第一個模型把不同長度的木棒拼接成捲曲的波浪，再加入小人偶。第二個模型把紙板摺成相同的紋理，並以釣魚線懸掛於框架中。",
+              "captions": [
+                "拼接的木棒。",
+                "木棒形成的波浪。",
+                "木棒近看。",
+                "捲曲的木棒形態。",
+                "懸掛於框架中的紙。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The two models give two readings of the same landscape, one rough and one smooth. Small red figures show how people might walk through these canyon spaces.",
+          "images": [
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/09-paper-folds.webp",
+            "assets/board/bionic-canyon-stick-and-folded-paper-landscapes/10-inside-canyon.webp"
+          ],
+          "captions": [
+            "Folds seen from above.",
+            "Inside the paper canyon."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "兩個模型為同一片地景提供兩種詮釋，一個粗獷、一個柔順。紅色小人偶呈現人們如何在這些峽谷空間中穿行。",
+              "captions": [
+                "從上方看摺紙。",
+                "紙峽谷內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Photograph a landscape.\n2. Trace its lines.\n3. Try two materials.\n4. Add people for scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 拍下一片地景。\n2. 描出它的線條。\n3. 嘗試兩種材料。\n4. 加入人物表現尺度。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Arch",
+      "slug": "the-arch-layered-acrylic-and-wood-arch-units",
+      "description": "Arches noticed along a shopping street are sorted, drawn and rebuilt as layered units of acrylic and wood.\n\nModel making | Form study | Acrylic sheets, boards, Rhino, laser cutting | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "拱",
+          "description": "在購物街上注意到的拱被分類、繪製，再重建為壓克力與木板層疊的單元。\n\n模型製作｜形態研究｜壓克力板、板材、Rhino、雷射切割｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/01-black-arches.webp",
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/02-arch-types.webp",
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/03-arch-sketches.webp",
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/04-paper-tests.webp",
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/05-foam-tests.webp",
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/06-arch-units.webp",
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/07-arch-units-two.webp",
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/08-arch-cluster.webp",
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/09-joined-model.webp",
+        "assets/board/the-arch-layered-acrylic-and-wood-arch-units/10-arch-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/01-black-arches.webp"
+          ],
+          "captions": [
+            "Arch units on black."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "黑底上的拱單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Walking down a shopping street, the student noticed that the arches of the shops were all quite different. It was something that had never caught the student's eye before.",
+          "images": [
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/02-arch-types.webp"
+          ],
+          "captions": [
+            "Arch types sorted."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "走在購物街上，學生注意到店面的拱形各不相同。這是學生過去從未留意過的現象。",
+              "captions": [
+                "分類的拱形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied many arches, adding arches seen on earlier travels, and sorted them by type. Hand drawings and quick paper tests explored their curves.",
+          "images": [
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/03-arch-sketches.webp",
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/04-paper-tests.webp",
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/05-foam-tests.webp"
+          ],
+          "captions": [
+            "Arches drawn by hand.",
+            "Paper arch tests.",
+            "Early form tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究了許多拱，也加入過去旅途中見過的拱，並依類型分類。手繪圖與快速的紙模測試探索了它們的曲線。",
+              "captions": [
+                "手繪的拱。",
+                "紙拱測試。",
+                "早期形態測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A single model was built in Rhino and sliced into layers, with the size of each layer set step by step. Acrylic and wood pieces were laser cut, glued and repeated to make many identical units.",
+          "images": [
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/06-arch-units.webp",
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/07-arch-units-two.webp"
+          ],
+          "captions": [
+            "Layered arch units.",
+            "More arch units."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生在Rhino中建立單一模型並切成多層，逐層決定每層的尺寸。壓克力與木板經雷射切割、黏合後，重複製作成許多相同的單元。",
+              "captions": [
+                "層疊的拱單元。",
+                "更多拱單元。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The units were put together into one model of mixed arches. Light passing through the thin layers makes each arch look soft and shifting.",
+          "images": [
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/08-arch-cluster.webp",
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/09-joined-model.webp",
+            "assets/board/the-arch-layered-acrylic-and-wood-arch-units/10-arch-drawing.webp"
+          ],
+          "captions": [
+            "A cluster of arches.",
+            "Units joined together.",
+            "A drawing of the arch city."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這些單元被組合成一個混合多種拱形的模型。穿過薄層的光線讓每個拱看起來柔和而多變。",
+              "captions": [
+                "一組拱。",
+                "組合在一起的單元。",
+                "拱之城的繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Notice something everyday.\n2. Collect and sort it.\n3. Slice a form into layers.\n4. Repeat and combine.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 留意日常事物。\n2. 收集並分類。\n3. 把形體切成層。\n4. 重複並組合。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "An Intricate Symmetry",
+      "slug": "intricate-symmetry-clay-cloud-megastructure",
+      "description": "Ideas from science fiction films are sorted into a symmetrical stick megastructure wrapped in clouds of light clay.\n\nModel making | Future architecture | Wooden sticks, light clay, PVC boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "繁複的對稱",
+          "description": "科幻電影中的構想被整理成一座對稱的木棒巨構，外覆輕黏土雲團。\n\n模型製作｜未來建築｜木棒、輕黏土、PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/intricate-symmetry-clay-cloud-megastructure/01-cloud-structure.webp",
+        "assets/board/intricate-symmetry-clay-cloud-megastructure/02-lower-levels.webp",
+        "assets/board/intricate-symmetry-clay-cloud-megastructure/03-side-view.webp",
+        "assets/board/intricate-symmetry-clay-cloud-megastructure/04-top-view.webp",
+        "assets/board/intricate-symmetry-clay-cloud-megastructure/05-corner-view.webp",
+        "assets/board/intricate-symmetry-clay-cloud-megastructure/06-film-scenes.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/intricate-symmetry-clay-cloud-megastructure/01-cloud-structure.webp"
+          ],
+          "captions": [
+            "The megastructure under clay clouds."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "雲團下的巨構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student loves science fiction films, which often show brand-new forms of architecture. The project asks what these imagined buildings have in common.",
+          "images": [
+            "assets/board/intricate-symmetry-clay-cloud-megastructure/06-film-scenes.webp"
+          ],
+          "captions": [
+            "Scenes from science fiction films."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生熱愛科幻電影，這些電影常呈現全新的建築形式。這個專題探問這些想像中的建築有何共通之處。",
+              "captions": [
+                "科幻電影場景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Several well-known science fiction films, old and new, were studied as references. Shared features included megastructures, symmetry, glowing curtain walls and irregular elements.",
+          "images": [
+            "assets/board/intricate-symmetry-clay-cloud-megastructure/03-side-view.webp"
+          ],
+          "captions": [
+            "A side view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究了數部新舊知名科幻電影作為參考。共同特徵包括巨型結構、對稱、發光的帷幕元素與不規則元素。",
+              "captions": [
+                "側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "These features were sorted and combined into one design. Stick frames form the symmetrical body, while light clay adds soft and irregular clouds.",
+          "images": [
+            "assets/board/intricate-symmetry-clay-cloud-megastructure/02-lower-levels.webp",
+            "assets/board/intricate-symmetry-clay-cloud-megastructure/04-top-view.webp"
+          ],
+          "captions": [
+            "Stick frames and walls below.",
+            "The model from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把這些特徵分類並整合成一個設計。木棒框架構成對稱的主體，輕黏土則加上柔軟而不規則的雲團。",
+              "captions": [
+                "下方的木棒框架與牆。",
+                "從上方看模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished model sets strict frames against loose white forms. It reads as a building from a future film set on the table.",
+          "images": [
+            "assets/board/intricate-symmetry-clay-cloud-megastructure/05-corner-view.webp"
+          ],
+          "captions": [
+            "A corner of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型讓嚴謹的框架與鬆散的白色形體相互對照。它就像一棟從未來電影中搬到桌上的建築。",
+              "captions": [
+                "模型一角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study the worlds you love.\n2. Find shared features.\n3. Sort them into a system.\n4. Build the contrast.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究你喜愛的世界。\n2. 找出共同特徵。\n3. 整理成一套系統。\n4. 建構對比。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
