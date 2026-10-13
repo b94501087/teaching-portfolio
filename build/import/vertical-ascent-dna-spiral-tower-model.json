@@ -1,0 +1,67 @@
+{
+  "project": "Vertical Ascent",
+  "dest": "assets/board/vertical-ascent-dna-spiral-tower-model",
+  "note": "Portfolio 3c08 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, a film collage with actor faces and the film and character names, film stills, process photos with hands.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "653d0b836a1c7629c4c782eb50960cde4a705f4bf80aba5c3f2c772d35b38e70",
+      "bytes": 65384,
+      "from": "3c08 page 7 — final tower"
+    },
+    {
+      "name": "02-tower-drawing.webp",
+      "sha256": "9c3a87ae18d2d2f6d66783fee30b2bb217aaf6a6be07a0c8b1c7e6b949cccacc",
+      "bytes": 43742,
+      "from": "3c08 page 6 — tower drawing"
+    },
+    {
+      "name": "03-level-sketch.webp",
+      "sha256": "e1eb28fe11562417843d3c06ddc753441da5935a5aa891c191a2150ecd0b1da2",
+      "bytes": 17490,
+      "from": "3c08 page 6 — level sketch"
+    },
+    {
+      "name": "04-tall-sketch.webp",
+      "sha256": "467981d19d88c05d19b973f0085441dfa07acc69325474fd11d24e8181275f27",
+      "bytes": 21840,
+      "from": "3c08 page 6 — tall sketch"
+    },
+    {
+      "name": "05-goal-level.webp",
+      "sha256": "58b455fe4020f4d1bbe4b7ab6e888f30055b9b7af0001eecd4f37ce0fab728ed",
+      "bytes": 13732,
+      "from": "3c08 page 7 — goal level"
+    },
+    {
+      "name": "06-dna-level.webp",
+      "sha256": "d1ed521d72764cc09b7cb858a764581492ae22b7eeb287f934bfdf43aef60051",
+      "bytes": 19824,
+      "from": "3c08 page 7 — dna level"
+    },
+    {
+      "name": "07-work-level.webp",
+      "sha256": "c1d60fac37878874fefe93312c33aa7db0ec85780b6cc12acc72a44c18beed5b",
+      "bytes": 15112,
+      "from": "3c08 page 7 — work level"
+    },
+    {
+      "name": "08-genetic-level.webp",
+      "sha256": "efd934052f641d1dba7f04a03e5c1d41a06128361d234ae6db577c3d9b1088b1",
+      "bytes": 15218,
+      "from": "3c08 page 7 — genetic level"
+    },
+    {
+      "name": "09-climbing.webp",
+      "sha256": "970401b214089b0fdec03c7673cbee9c94161d3e1061118b90276d93804c7bd8",
+      "bytes": 16156,
+      "from": "3c08 page 7 — climbing"
+    },
+    {
+      "name": "10-spiral-stairs.webp",
+      "sha256": "4572b48a1299da01c93c048931bf0705250e501ffcb5272a1c6d77b3eaf72042",
+      "bytes": 11288,
+      "from": "3c08 page 7 — spiral stairs"
+    }
+  ]
+}
