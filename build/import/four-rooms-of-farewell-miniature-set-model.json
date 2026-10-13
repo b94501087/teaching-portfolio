@@ -1,0 +1,55 @@
+{
+  "project": "Four Rooms of Farewell",
+  "dest": "assets/board/four-rooms-of-farewell-miniature-set-model",
+  "note": "Portfolio 2744 page 10 cropped to 8 images, WebP q88 (PIL). Not used: film stills with actors, brand/company and city references (retitled from film title).",
+  "files": [
+    {
+      "name": "01-four-part-set-from-above.webp",
+      "sha256": "efa287c228bc5c1d347154d89df44ad86c21143ee89bd3016058969e04ce7aa4",
+      "bytes": 68384,
+      "from": "2744 page 10 — the four-part set from above"
+    },
+    {
+      "name": "02-mountain-lake-part.webp",
+      "sha256": "0bbfdcdc1e99f6751131c15540b76bc2b722dc854c2a6a5ff6ec52fd35b69dfc",
+      "bytes": 34802,
+      "from": "2744 page 10 — the lakeshore quarter"
+    },
+    {
+      "name": "03-study-room-part.webp",
+      "sha256": "f56814083fcde345f226954b7739e25da647146baed07b11e43574610699f7f1",
+      "bytes": 30494,
+      "from": "2744 page 10 — the study room quarter"
+    },
+    {
+      "name": "04-houses-and-leaves-part.webp",
+      "sha256": "bb25822d69b440fc8a9762e072fdfb2bd2c0440665a4e22101a92174cbe49781",
+      "bytes": 48820,
+      "from": "2744 page 10 — the village quarter"
+    },
+    {
+      "name": "05-lakeshore-close.webp",
+      "sha256": "5b8596fbc09cc0594b19ba647c2662787d8c40e90d64eafa1a7faf38598d6cdd",
+      "bytes": 25192,
+      "from": "2744 page 10 — the lakeshore up close"
+    },
+    {
+      "name": "06-glowing-attic.webp",
+      "sha256": "6b44b23bc4c1352ff259dc58b71a113d63cb507b581d356e8fc3ab432afc5485",
+      "bytes": 7882,
+      "from": "2744 page 10 — the glowing window"
+    },
+    {
+      "name": "07-dark-hall-figures.webp",
+      "sha256": "3cddf74f17368a88aa74057c891365efe1aa52641d0a60757ac36973fc6f31e5",
+      "bytes": 12318,
+      "from": "2744 page 10 — the dark hall"
+    },
+    {
+      "name": "08-village-corner.webp",
+      "sha256": "5adea0f82a997993ccaf56ecca85be978332dfc4edfc50adca23068a91fcba00",
+      "bytes": 29352,
+      "from": "2744 page 10 — a village corner"
+    }
+  ]
+}
