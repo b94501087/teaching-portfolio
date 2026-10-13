@@ -1,0 +1,67 @@
+{
+  "project": "Court in the Sand",
+  "dest": "assets/board/court-in-the-sand-traced-motion-slat-tower",
+  "note": "Portfolio 2744 pages 8-9 cropped to 10 images, WebP q88 (PIL). Not used: photos of players, film reference still (film and city names dropped; retitled from film-based title).",
+  "files": [
+    {
+      "name": "01-slat-tower-dark.webp",
+      "sha256": "75b35667a104462e45f0e04c69592ec152253ee3235aa5fb9f04d8b10811fb90",
+      "bytes": 72202,
+      "from": "2744 pages 8-9 — the slat tower"
+    },
+    {
+      "name": "02-slat-tower-side.webp",
+      "sha256": "74c858a2829e435890130f798779d7b9029da38bfb72999e23e4cf848dde1aaf",
+      "bytes": 74744,
+      "from": "2744 pages 8-9 — the tower from the side"
+    },
+    {
+      "name": "03-traced-motion-panels.webp",
+      "sha256": "469fb3878e094184b5ae422b7dbb31057dfad0a106d4bfed8b04500d3e41fa48",
+      "bytes": 34502,
+      "from": "2744 pages 8-9 — traced motion panels"
+    },
+    {
+      "name": "04-folded-board-tests.webp",
+      "sha256": "5b5e8b4749204c2bd631a26ef512a41d917ca1e399742c392e54f4ed3cb7cd6b",
+      "bytes": 43266,
+      "from": "2744 pages 8-9 — folded board tests"
+    },
+    {
+      "name": "05-modules-in-sand.webp",
+      "sha256": "f823ef182f15d8a3e7fed7a34494daee8f82ad3b8a3c3e57083f9d89ff939bed",
+      "bytes": 49340,
+      "from": "2744 pages 8-9 — modules in sand"
+    },
+    {
+      "name": "06-slats-over-sand.webp",
+      "sha256": "0388abe3a327a1af10e06a767118f41d4103cbb0fd5da53c97aabb692f5eecd0",
+      "bytes": 67440,
+      "from": "2744 pages 8-9 — slats over sand"
+    },
+    {
+      "name": "07-sand-landscape.webp",
+      "sha256": "6c4212a9b444d66bcc4b37915b8337838f51ed847e26ecc75a377e3f27247f07",
+      "bytes": 51040,
+      "from": "2744 pages 8-9 — the sand landscape"
+    },
+    {
+      "name": "08-fanned-slats-close.webp",
+      "sha256": "3239e9eb0ecd10182534eb2f52f9f463d32b71388141bb00c1468a1c8d0543a7",
+      "bytes": 37014,
+      "from": "2744 pages 8-9 — fanned slats"
+    },
+    {
+      "name": "09-tower-mid-view.webp",
+      "sha256": "8af570888402cfa2ba56d7b311db4cc5eea9931785a040dbe4615b675a5b5e87",
+      "bytes": 23586,
+      "from": "2744 pages 8-9 — the middle of the tower"
+    },
+    {
+      "name": "10-tower-upper-view.webp",
+      "sha256": "fac15067efc10fe945874e8015cb221878509d3fd020501f1b1e597114f2be99",
+      "bytes": 33492,
+      "from": "2744 pages 8-9 — the upper tower"
+    }
+  ]
+}
