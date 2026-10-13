@@ -1,0 +1,49 @@
+{
+  "project": "Formal and Informal Space",
+  "dest": "assets/board/formal-and-informal-space-pvc-centre-and-free-paths",
+  "note": "Portfolio 1d03 pages 8-9 cropped to 7 images, WebP q88 (PIL). Not used: research sheet with named precedent buildings and their photos.",
+  "files": [
+    {
+      "name": "01-formal-and-informal-models.webp",
+      "sha256": "fc66875834314af65490a9b8c0942c063a5d656508cdd098db13461418289721",
+      "bytes": 45604,
+      "from": "1d03 pages 8-9 — the formal model with its central pyramid"
+    },
+    {
+      "name": "02-formal-precedent-plan.webp",
+      "sha256": "6a499feec24eef5ac28e763c2251e123d2182e9a867dde54a153602858c3bbd0",
+      "bytes": 61682,
+      "from": "1d03 pages 8-9 — plan of a symmetrical formal building"
+    },
+    {
+      "name": "03-informal-precedent-plan.webp",
+      "sha256": "fbe0bcce4be6ca351aee80b8ecc3c355e35c40c256962f232f6ec8c21db71905",
+      "bytes": 52984,
+      "from": "1d03 pages 8-9 — plan of an irregular complex"
+    },
+    {
+      "name": "04-informal-model-from-above.webp",
+      "sha256": "c12fa34b499b676a8664b4bb25bf6aa02e5fde57563e615c79288ae06e96a275",
+      "bytes": 45702,
+      "from": "1d03 pages 8-9 — the informal model from above"
+    },
+    {
+      "name": "05-pyramid-centre-close.webp",
+      "sha256": "6140da8c8244faf642287dc9cc04fff92f8bed54019e3795c2b9d3449d89c8e1",
+      "bytes": 35642,
+      "from": "1d03 pages 8-9 — the central pyramid"
+    },
+    {
+      "name": "06-pyramid-and-volumes-detail.webp",
+      "sha256": "ec75d77ddab541a722ed674ac785001c14267a5b48acefee372fffbc9813baba",
+      "bytes": 20576,
+      "from": "1d03 pages 8-9 — the pyramid among volumes"
+    },
+    {
+      "name": "07-low-model-elevation.webp",
+      "sha256": "24202a896f0a58f769e0e62f395b70cfe5170c8e403bccdfacd1132978954869",
+      "bytes": 8692,
+      "from": "1d03 pages 8-9 — a low view of the blocks"
+    }
+  ]
+}
