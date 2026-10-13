@@ -56208,6 +56208,434 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Different Tone: Rich and Varied Space",
+      "slug": "different-tone-spoken-tone-blocks-tower-model",
+      "description": "The rising and falling tones of a recited poem are turned into blocks that stack into a tower.\n\nModel making | Sound and language | Wood, clear acrylic and PVC board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "不同的聲調：豐富多變的空間",
+          "description": "朗誦詩句時起伏的聲調，被轉化為層層堆疊成塔的量體。\n\n模型製作｜聲音與語言｜木材、透明壓克力與PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/01-final-tower.webp",
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/02-nine-tones.webp",
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/03-four-tones.webp",
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/04-tone-blocks.webp",
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/05-digital-studies.webp",
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/06-render.webp",
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/07-figure-detail.webp",
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/08-side-view.webp",
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/09-small-view.webp",
+        "assets/board/different-tone-spoken-tone-blocks-tower-model/10-close-ups.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished tone tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的聲調之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Two Chinese dialects share the same characters yet sound very different, one with four tones and one with nine. The student wanted to make that difference visible as space.",
+          "images": [
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/02-nine-tones.webp"
+          ],
+          "captions": [
+            "Tone lines in one dialect."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "兩種漢語方言共用同樣的文字，聽起來卻差異很大，一種有四個聲調，另一種有九個。學生想把這種差異化為可見的空間。",
+              "captions": [
+                "一種方言的聲調線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He recorded a classical poem read in both dialects and studied the spectrograms. Each syllable's tone was traced as a simple line symbol.",
+          "images": [
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/03-four-tones.webp"
+          ],
+          "captions": [
+            "Tone lines in Mandarin."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他錄下以兩種方言朗誦的一首古詩，並研究聲譜圖。每個音節的聲調都被描成簡單的線條符號。",
+              "captions": [
+                "國語的聲調線條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The tone lines were drawn digitally and given thickness to become blocks. Following the order of the poem, the blocks were combined and stretched where the reading is most emphatic.",
+          "images": [
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/04-tone-blocks.webp",
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/05-digital-studies.webp",
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/06-render.webp"
+          ],
+          "captions": [
+            "Tone lines given thickness.",
+            "Three digital massing studies.",
+            "Render of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "聲調線條以數位方式繪製並賦予厚度成為量體。依照詩句的順序組合量體，並在朗誦最強調之處加以拉伸。",
+              "captions": [
+                "賦予厚度的聲調線條。",
+                "三個數位量體研究。",
+                "塔的渲染圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Wood and acrylic panels rise into a dense tower full of narrow gaps and platforms. Scale figures show how the rhythm of speech becomes a varied, climbable space.",
+          "images": [
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/07-figure-detail.webp",
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/08-side-view.webp",
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/09-small-view.webp",
+            "assets/board/different-tone-spoken-tone-blocks-tower-model/10-close-ups.webp"
+          ],
+          "captions": [
+            "A scale figure among the panels.",
+            "Side view of the stacked panels.",
+            "The tower from a distance.",
+            "Close-ups of the lower levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "木板與壓克力板升起成為一座密集的塔，充滿窄縫與平台。比例人偶顯示說話的節奏如何成為豐富可攀的空間。",
+              "captions": [
+                "板片間的比例人偶。",
+                "堆疊板片的側視。",
+                "遠看塔身。",
+                "下層的近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Record a sound.\n2. Trace it as lines.\n3. Give lines thickness.\n4. Stack in sequence.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 錄下一段聲音。\n2. 描成線條。\n3. 賦予線條厚度。\n4. 依序堆疊。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Hive in the Sand",
+      "slug": "hive-in-the-sand-honeycomb-paper-desert-structures",
+      "description": "Folding honeycomb paper grows into a sphere, shelters and towers imagined for the desert.\n\nMaterial study | Honeycomb structure | Honeycomb paper and marker sketches | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "沙中蜂巢",
+          "description": "可伸縮的蜂巢紙長成球體、庇護所與塔，構想於沙漠之中。\n\n材料研究｜蜂巢結構｜蜂巢紙與麥克筆草圖｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/01-final-sphere.webp",
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/02-base-sphere.webp",
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/03-first-cones.webp",
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/04-dense-surface.webp",
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/05-pattern-detail.webp",
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/06-paper-towers.webp",
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/07-desert-facility.webp",
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/08-animal-shelter.webp",
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/09-hive-wall.webp",
+        "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/10-marker-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/01-final-sphere.webp"
+          ],
+          "captions": [
+            "The finished honeycomb sphere."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的蜂巢球體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Honeycomb paper is used as packing, yet it can stretch, fold and stand on its own. The student asked whether this humble material could suggest new structures for harsh places.",
+          "images": [
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/02-base-sphere.webp"
+          ],
+          "captions": [
+            "The base sphere."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "蜂巢紙常用於包裝，卻能伸展、折疊並自行站立。學生思考這種平凡材料能否為嚴酷環境帶來新的結構。",
+              "captions": [
+                "球體基底。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He studied how geometric patterns are fitted to different shapes in traditional ornament. The same method guided how cones and fans were spread across a sphere.",
+          "images": [
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/03-first-cones.webp",
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/04-dense-surface.webp",
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/05-pattern-detail.webp"
+          ],
+          "captions": [
+            "The first cones added.",
+            "The surface filling up.",
+            "Radial pattern detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他研究傳統紋樣如何將幾何圖案配合不同形狀。同樣的方法引導他把錐體與扇形分布在球面上。",
+              "captions": [
+                "加上第一批錐體。",
+                "逐漸填滿的表面。",
+                "放射狀圖案細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wrapping the paper around sticks made small towers of hexagon cells. Sketches imagined prefabricated units that people could combine into homes in the dunes.",
+          "images": [
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/06-paper-towers.webp",
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/07-desert-facility.webp"
+          ],
+          "captions": [
+            "Paper wrapped around sticks.",
+            "Sketch of a desert facility."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "把紙纏繞在棍上，形成由六角格構成的小塔。草圖構想人們可組合成沙丘住宅的預製單元。",
+              "captions": [
+                "纏繞在棍上的紙。",
+                "沙漠設施草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The sphere, animal shelter and curved wall show one material taking many forms. Marker drawings picture a city that grows with the desert rather than against it.",
+          "images": [
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/08-animal-shelter.webp",
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/09-hive-wall.webp",
+            "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/10-marker-view.webp"
+          ],
+          "captions": [
+            "A desert animal shelter.",
+            "A curved honeycomb wall.",
+            "Marker drawing of the structures."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "球體、動物庇護所與弧牆展現一種材料的多種形態。麥克筆圖描繪一座與沙漠共生而非對抗的城市。",
+              "captions": [
+                "沙漠動物庇護所。",
+                "弧形蜂巢牆。",
+                "結構的麥克筆圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find a flexible material.\n2. Study a pattern method.\n3. Test small forms.\n4. Imagine a site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找到有彈性的材料。\n2. 研究圖案方法。\n3. 測試小型形態。\n4. 想像一處場地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Flowing Reed Pavilion",
+      "slug": "flowing-reed-pavilion-group-workshop-build",
+      "description": "A summer group workshop bends steel wire and reeds into a flowing outdoor pavilion.\n\nGroup workshop | Pavilion build | Steel wire, reeds and digital modelling | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "流動蘆葦亭",
+          "description": "一場暑期團體工作坊，將鋼絲與蘆葦彎折成流動的戶外涼亭。\n\n團體工作坊｜涼亭搭建｜鋼絲、蘆葦與數位建模｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/flowing-reed-pavilion-group-workshop-build/01-final-pavilion.webp",
+        "assets/board/flowing-reed-pavilion-group-workshop-build/02-wire-sketches.webp",
+        "assets/board/flowing-reed-pavilion-group-workshop-build/03-model-one.webp",
+        "assets/board/flowing-reed-pavilion-group-workshop-build/04-model-two.webp",
+        "assets/board/flowing-reed-pavilion-group-workshop-build/05-model-three.webp",
+        "assets/board/flowing-reed-pavilion-group-workshop-build/06-reed-columns.webp",
+        "assets/board/flowing-reed-pavilion-group-workshop-build/07-woven-panel.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/flowing-reed-pavilion-group-workshop-build/01-final-pavilion.webp"
+          ],
+          "captions": [
+            "The finished reed pavilion."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的蘆葦涼亭。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The workshop asked how a light pavilion could be made from simple, sustainable materials. The form had to come from what wire and reeds can naturally do.",
+          "images": [
+            "assets/board/flowing-reed-pavilion-group-workshop-build/02-wire-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of bending and twisting wire."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "工作坊探討如何以簡單、永續的材料做出輕盈的涼亭。形態必須來自鋼絲與蘆葦本身能做到的事。",
+              "captions": [
+                "鋼絲彎折與扭轉的草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student first sketched ways a wire can bend and twist into loops. Small models tested these curves with reed covering on the ground.",
+          "images": [
+            "assets/board/flowing-reed-pavilion-group-workshop-build/03-model-one.webp",
+            "assets/board/flowing-reed-pavilion-group-workshop-build/04-model-two.webp"
+          ],
+          "captions": [
+            "A small wire and reed model.",
+            "A second model study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生先草繪鋼絲彎折、扭轉成環的方式。小模型則在地面上測試這些曲線與蘆葦覆面。",
+              "captions": [
+                "小型鋼絲蘆葦模型。",
+                "第二個模型研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The chosen form was refined digitally and then built as a team on site. Scaffolding, welding, lighting and reed weaving were done step by step.",
+          "images": [
+            "assets/board/flowing-reed-pavilion-group-workshop-build/05-model-three.webp",
+            "assets/board/flowing-reed-pavilion-group-workshop-build/06-reed-columns.webp",
+            "assets/board/flowing-reed-pavilion-group-workshop-build/07-woven-panel.webp"
+          ],
+          "captions": [
+            "A third model study.",
+            "Reed-wrapped columns on site.",
+            "A woven reed panel."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "選定的形態以數位方式修整，再由團隊在現場搭建。鷹架、焊接、燈光與蘆葦編織逐步完成。",
+              "captions": [
+                "第三個模型研究。",
+                "現場以蘆葦包覆的柱子。",
+                "編織的蘆葦板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A long woven ribbon sweeps over curved legs and seats on the lawn. The build taught form, structure and construction as one connected process.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一條長長的編織帶越過草地上的弧形支腳與座椅。這次搭建把形態、結構與施工當作一個相連的過程來學習。"
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Sketch the material's moves.\n2. Test in small models.\n3. Refine digitally.\n4. Build as a team.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 草繪材料的動作。\n2. 以小模型測試。\n3. 數位修整。\n4. 團隊搭建。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
