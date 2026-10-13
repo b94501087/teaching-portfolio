@@ -1,0 +1,55 @@
+{
+  "project": "Steampunk City",
+  "dest": "assets/board/steampunk-city-mechanical-drawings-to-digital-model",
+  "note": "Portfolio a9c4 page 6 cropped to 8 images, WebP q88 (PIL). Not used: artist name and reproductions of the artist's drawings, caption with dimensions and date.",
+  "files": [
+    {
+      "name": "01-mechanical-assembly-drawing.webp",
+      "sha256": "f8a9ce3810f4ccb90f323498d40f8a5d0251bd336075ad5fab0a5acfd87250ea",
+      "bytes": 98098,
+      "from": "a9c4 page 6 — a mechanical assembly drawing"
+    },
+    {
+      "name": "02-vertical-machine-drawing.webp",
+      "sha256": "61b9c2f0d665a834b199ebbea240b4b87b6c6580d8dad8e9e285a53240930270",
+      "bytes": 77522,
+      "from": "a9c4 page 6 — a vertical machine drawing"
+    },
+    {
+      "name": "03-arm-drawing-study.webp",
+      "sha256": "dac781cfc9a0ce79ce8ca54412c0fb2e73f05f91d75e2579f051b21f4ca5caca",
+      "bytes": 34226,
+      "from": "a9c4 page 6 — a drawing study of an arm"
+    },
+    {
+      "name": "04-claw-drawing-study.webp",
+      "sha256": "59a5d0ab44a74153d971d9256d784047cf95aee5d051f4dfce75d6342f1e7eb7",
+      "bytes": 24430,
+      "from": "a9c4 page 6 — a drawing study of a claw"
+    },
+    {
+      "name": "05-gear-drawing-study.webp",
+      "sha256": "3c782b095b86f1750c9bd055659532b092087992642ddcc3c4a6aaa50f72fa82",
+      "bytes": 31306,
+      "from": "a9c4 page 6 — a drawing study of gears"
+    },
+    {
+      "name": "06-digital-model-tower.webp",
+      "sha256": "a60d473a4f1d628f916f7dc8841cc2b8669c702b821e18dc54cf04116456de6e",
+      "bytes": 7400,
+      "from": "a9c4 page 6 — the digital model of the tower"
+    },
+    {
+      "name": "07-digital-model-arm.webp",
+      "sha256": "70e25ee5074ddd3ec2e168c9831120a5d40debbf3df842fdc75285d5e2962c68",
+      "bytes": 4580,
+      "from": "a9c4 page 6 — the digital model of the arm"
+    },
+    {
+      "name": "08-digital-model-platform.webp",
+      "sha256": "f9b14cc5b4b5fa956d6065a7a2861cca6a642074e798b56941914176ea1f4672",
+      "bytes": 12110,
+      "from": "a9c4 page 6 — the digital model of a platform"
+    }
+  ]
+}
