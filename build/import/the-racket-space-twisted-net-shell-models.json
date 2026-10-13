@@ -1,0 +1,61 @@
+{
+  "project": "The Racket Space",
+  "dest": "assets/board/the-racket-space-twisted-net-shell-models",
+  "note": "Portfolio a9c4 page 7 cropped to 9 images, WebP q88 (PIL). Not used: photos with hands holding the racket, caption with dimensions and dates.",
+  "files": [
+    {
+      "name": "01-twisted-net-and-shadow.webp",
+      "sha256": "57b0268dbd972afb400cfd0bd9d730cd759eafcd2b29bec197b0b8afe9bc8dc2",
+      "bytes": 85874,
+      "from": "a9c4 page 7 — the twisted net and its shadow"
+    },
+    {
+      "name": "02-twisted-net-sketches.webp",
+      "sha256": "74fd62e14cb0288f0b55fcb09a63a18daa825bb8abef6aa52ea606c2752fd0eb",
+      "bytes": 116178,
+      "from": "a9c4 page 7 — sketches of the twisted net"
+    },
+    {
+      "name": "03-reshaped-racket-frame.webp",
+      "sha256": "65346fab040827e09499e8620d1b7f5c75162ef37aac09805a0c21c7552548fd",
+      "bytes": 10946,
+      "from": "a9c4 page 7 — a reshaped racket frame"
+    },
+    {
+      "name": "04-racket-and-strings-turned.webp",
+      "sha256": "2ccc184ebe503c61b428c2c85a2f5797a86e140931938f8ed5a867c686132120",
+      "bytes": 12090,
+      "from": "a9c4 page 7 — the racket and strings turned"
+    },
+    {
+      "name": "05-racket-shadow-study.webp",
+      "sha256": "f55c60e9593bde78b56480bc6323cf2629caee43c0d76fa638503e662bf9dbd1",
+      "bytes": 11150,
+      "from": "a9c4 page 7 — a racket shadow study"
+    },
+    {
+      "name": "06-paper-arch-model.webp",
+      "sha256": "150f2f83d9b6bf263b0aadadf6fa76daeee4f20a56f2fee1e746deb12ea9b072",
+      "bytes": 5642,
+      "from": "a9c4 page 7 — a paper arch model"
+    },
+    {
+      "name": "07-triangulated-shell-model.webp",
+      "sha256": "35988fba7d12be9936f595ab3026287267f2eeeb3daece7533b8b81059172e59",
+      "bytes": 10820,
+      "from": "a9c4 page 7 — a triangulated shell model"
+    },
+    {
+      "name": "08-shell-and-light.webp",
+      "sha256": "e9cd363dd480e9bc88a12f27adb7b810e811b1545d2cac6907b815eac883adc9",
+      "bytes": 11962,
+      "from": "a9c4 page 7 — the shell and light"
+    },
+    {
+      "name": "09-net-pattern-shadow.webp",
+      "sha256": "eecb15f8736424bf47d5812d30917b6005a7a3e67a3c9d40a559ceb9d6ea429e",
+      "bytes": 11700,
+      "from": "a9c4 page 7 — the net-pattern shadow"
+    }
+  ]
+}
