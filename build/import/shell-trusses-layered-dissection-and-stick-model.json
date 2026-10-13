@@ -1,0 +1,37 @@
+{
+  "project": "Shell Trusses",
+  "dest": "assets/board/shell-trusses-layered-dissection-and-stick-model",
+  "note": "Portfolio a289 page 5 cropped to 5 images, WebP q88 (PIL). Not used: caption.",
+  "files": [
+    {
+      "name": "01-truss-shell-model.webp",
+      "sha256": "e27cabe97413c0659fb3447499e6a9e34427847d0c6180414e7043852b1251e1",
+      "bytes": 70178,
+      "from": "a289 page 5 — the wooden truss shell"
+    },
+    {
+      "name": "02-shell-wireframes.webp",
+      "sha256": "75c8c58022c2b2284b556fe806574f4eeae935cb2d7939d810cc0b345dd6939c",
+      "bytes": 47142,
+      "from": "a289 page 5 — wireframes of shell structures"
+    },
+    {
+      "name": "03-layered-shell-dissections.webp",
+      "sha256": "fd184c17e8fb69264220708522da6688386ebea79fc340db87cfb03226ebce35",
+      "bytes": 63590,
+      "from": "a289 page 5 — layered dissections of the shell"
+    },
+    {
+      "name": "04-stacked-shell-model.webp",
+      "sha256": "1c20e2f8165df53b9ad207f116ec7a17bef4f948416cb7c209fadc31ed7a8cb0",
+      "bytes": 149094,
+      "from": "a289 page 5 — the stacked digital shell model"
+    },
+    {
+      "name": "05-truss-model-close.webp",
+      "sha256": "13f4c94636cbe465efcccc2c7063909945705aca192d388de6c24ba11d998f99",
+      "bytes": 37664,
+      "from": "a289 page 5 — a close view of the truss joints"
+    }
+  ]
+}
