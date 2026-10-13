@@ -1,0 +1,67 @@
+{
+  "project": "Light, Shadow, Colour",
+  "dest": "assets/board/light-shadow-colour-stick-frame-lightbox",
+  "note": "Portfolio cd80 pages 5-6 cropped to ten images, WebP q88 (PIL). Not used: title and text, family background details.",
+  "files": [
+    {
+      "name": "01-lit-lightbox.webp",
+      "sha256": "e3d1bad588432165856e39a484465f24c2857d505c190d70f1737a65b6579d93",
+      "bytes": 90690,
+      "from": "cd80 page 6 — lit lightbox"
+    },
+    {
+      "name": "02-stick-tower.webp",
+      "sha256": "3910f2d2fcc31c54f88d9c1995f0245a85933e0b2f840f7e179850a274ab914a",
+      "bytes": 111208,
+      "from": "cd80 page 5 — stick tower"
+    },
+    {
+      "name": "03-light-parts.webp",
+      "sha256": "bf7a65c391a5d516d6cdd06dd49d2b2b43582f96b7d265cd25ceabf09b17a0b1",
+      "bytes": 4748,
+      "from": "cd80 page 5 — light parts"
+    },
+    {
+      "name": "04-cube-study.webp",
+      "sha256": "c4420f8bf335b58eded90b221e323e5bd368b7fd3385d4fcd9787769b03f626f",
+      "bytes": 6832,
+      "from": "cd80 page 5 — cube study"
+    },
+    {
+      "name": "05-mesh-cube.webp",
+      "sha256": "1c39f76f379082045aaa1fce7d14ac9eae6ba5305fd73aad03f46bb54a01e341",
+      "bytes": 14006,
+      "from": "cd80 page 5 — mesh cube"
+    },
+    {
+      "name": "06-line-weave.webp",
+      "sha256": "899588c1edbb6dc2fd66c5f32416d720a634ef82e38d219a7e97419e60349d79",
+      "bytes": 20734,
+      "from": "cd80 page 5 — line weave"
+    },
+    {
+      "name": "07-colour-film.webp",
+      "sha256": "167db42240723941530796b4378e7dd5a647664087572870dce65f6642ffa0a6",
+      "bytes": 16864,
+      "from": "cd80 page 5 — colour film"
+    },
+    {
+      "name": "08-red-beams.webp",
+      "sha256": "f97e6e5cc1cc99a64907b2360e22d78c42128adb3bf2082db62d098ef671ae95",
+      "bytes": 19688,
+      "from": "cd80 page 6 — red beams"
+    },
+    {
+      "name": "09-blue-glow.webp",
+      "sha256": "e5a8a73be7e1575b588e184687b673592df95774005ab70d3b9c59528cc1efa9",
+      "bytes": 13634,
+      "from": "cd80 page 6 — blue glow"
+    },
+    {
+      "name": "10-lit-detail.webp",
+      "sha256": "5f6fe92866129b2f616df6679cd22e875d872deecb5161c1ae043ee3361f55df",
+      "bytes": 25844,
+      "from": "cd80 page 6 — lit detail"
+    }
+  ]
+}
