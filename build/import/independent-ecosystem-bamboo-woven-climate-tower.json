@@ -1,0 +1,55 @@
+{
+  "project": "Independent Ecosystem Research",
+  "dest": "assets/board/independent-ecosystem-bamboo-woven-climate-tower",
+  "note": "Portfolio 7c9f page 14 cropped to eight images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-bamboo-tower.webp",
+      "sha256": "0a0e81807197c4c8e10a5562a670a34f07033842a6111a3b2115a28f654b6378",
+      "bytes": 76270,
+      "from": "7c9f page 14 — bamboo tower"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "3dc505919bb0455e70ba7afb695d94ffec781955c7500be62cb51174c7c7a2d7",
+      "bytes": 16274,
+      "from": "7c9f page 14 — concept sketch"
+    },
+    {
+      "name": "03-plant-layers.webp",
+      "sha256": "4a785ed72cc44823edaf130ecb2bdd64bc51d156755696300a70177e9a0b21b7",
+      "bytes": 32124,
+      "from": "7c9f page 14 — plant layers"
+    },
+    {
+      "name": "04-final-showcase.webp",
+      "sha256": "92f9cc1942c363e5b4108151cfab85de95fa3e024b0b3901dd33b897fbb2645d",
+      "bytes": 16980,
+      "from": "7c9f page 14 — final showcase"
+    },
+    {
+      "name": "05-weave-close.webp",
+      "sha256": "5217e21523d9b3ecb06fe5a037c6f2d0eb9aeed79fd9811e28120ba083d0dcdf",
+      "bytes": 34466,
+      "from": "7c9f page 14 — weave close"
+    },
+    {
+      "name": "06-weave-curve.webp",
+      "sha256": "818ec73f14b55e193e2ab5528fb1ab7872dd62f37ba35e44b01602035459280e",
+      "bytes": 27094,
+      "from": "7c9f page 14 — weave curve"
+    },
+    {
+      "name": "07-inner-frame.webp",
+      "sha256": "4c0fa9ee534f5768afe03da78bcb0317a63a6017e312a06449979af59eff7a25",
+      "bytes": 26986,
+      "from": "7c9f page 14 — inner frame"
+    },
+    {
+      "name": "08-moss-shell.webp",
+      "sha256": "8a5d7e61ffe6377347a40c52a51b9a80d2bab3b90f210717bd96d625b483a9cc",
+      "bytes": 43262,
+      "from": "7c9f page 14 — moss shell"
+    }
+  ]
+}
