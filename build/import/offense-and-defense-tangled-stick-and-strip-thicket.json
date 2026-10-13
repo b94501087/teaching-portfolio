@@ -1,0 +1,67 @@
+{
+  "project": "Offense and Defense",
+  "dest": "assets/board/offense-and-defense-tangled-stick-and-strip-thicket",
+  "note": "Portfolio 4434 pages 8-9 cropped to 10 images, WebP q88 (PIL). Not used: process photos with hands.",
+  "files": [
+    {
+      "name": "01-stick-and-strip-thicket.webp",
+      "sha256": "ae13ca4b0a40204d2b2655ed8f6f0eaf9fd44ac503425fa47cb0ad23aa2b9a39",
+      "bytes": 181402,
+      "from": "4434 pages 8-9 — the stick and strip thicket"
+    },
+    {
+      "name": "02-attack-and-defence-model.webp",
+      "sha256": "3028035ee58e6a606d51f2b20249b1de2b86d8bdfe3c7b212d4b398ed2ac4c64",
+      "bytes": 138558,
+      "from": "4434 pages 8-9 — the two clusters"
+    },
+    {
+      "name": "03-layered-line-tracings.webp",
+      "sha256": "e79d039c8a4379bc18a16d938a8fdeb2b70bcfaa88123224809b5edf7bb74e9d",
+      "bytes": 18442,
+      "from": "4434 pages 8-9 — layered line tracings"
+    },
+    {
+      "name": "04-stacked-tracing-sheets.webp",
+      "sha256": "bc1be38694876676c35ccb265a73129f9593a601339b135ffc1a2e71272da608",
+      "bytes": 25466,
+      "from": "4434 pages 8-9 — stacked tracing sheets"
+    },
+    {
+      "name": "05-form-sketches.webp",
+      "sha256": "2a608539602f6af896d8ce3d3a2b81a5f333fd2c4c98cbc9c854987d2bbbd689",
+      "bytes": 12808,
+      "from": "4434 pages 8-9 — form sketches"
+    },
+    {
+      "name": "06-strip-cluster-side.webp",
+      "sha256": "b08d5c12ccf5de62bb641b86f9ff99d9f3bd62c50b8c63cc40eee565180a4594",
+      "bytes": 77584,
+      "from": "4434 pages 8-9 — a cluster from the side"
+    },
+    {
+      "name": "07-two-clusters-view.webp",
+      "sha256": "7032a20dcb9546f17db20474f142eeb3e8ba6db7ea17ddf8138efa8c5bc9410b",
+      "bytes": 98314,
+      "from": "4434 pages 8-9 — the two clusters together"
+    },
+    {
+      "name": "08-close-strip-weave.webp",
+      "sha256": "31093d1e91c0b6701db61fdceb88a001d0be93859574a806e977110c4214447a",
+      "bytes": 41236,
+      "from": "4434 pages 8-9 — woven strips up close"
+    },
+    {
+      "name": "09-standing-strips.webp",
+      "sha256": "2ade1db1d7e999714c15a70618fc19f82d73ebd14f2914e4a0b84d4fe6759662",
+      "bytes": 32954,
+      "from": "4434 pages 8-9 — standing strips"
+    },
+    {
+      "name": "10-bent-strip-arcs.webp",
+      "sha256": "1c7880482fabe301c262a50bfa56133eeb006a4d57c26f21d0127e8ab05d4138",
+      "bytes": 61016,
+      "from": "4434 pages 8-9 — bent strip arcs"
+    }
+  ]
+}
