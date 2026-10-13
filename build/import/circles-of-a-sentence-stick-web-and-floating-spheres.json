@@ -1,0 +1,37 @@
+{
+  "project": "Circles of a Sentence",
+  "dest": "assets/board/circles-of-a-sentence-stick-web-and-floating-spheres",
+  "note": "Portfolio dee0 pages 5-6 cropped to 5 images, WebP q88 (PIL). Not used: film title, film poster with actors, film still, logogram analysis traced from the film, photo edge with a hand, caption with dimensions and date.",
+  "files": [
+    {
+      "name": "01-floating-spheres-over-sticks.webp",
+      "sha256": "e82cb8b8fa97df224260bd65db846044c0112c5a6459ebc246f0b8430517c601",
+      "bytes": 172138,
+      "from": "dee0 pages 5-6 — floating spheres over the sticks"
+    },
+    {
+      "name": "02-stick-canopy-from-below.webp",
+      "sha256": "9cfbb0729c9e329473c821eca8da8c8219a5d1c3bdca2e8e18240821e7dfb995",
+      "bytes": 70752,
+      "from": "dee0 pages 5-6 — the stick canopy from below"
+    },
+    {
+      "name": "03-stick-frame-sphere.webp",
+      "sha256": "f7dcaedafd0ad12fd6b1f581b36b82ebd8ccafc85ee92e390018731e973e78d5",
+      "bytes": 151136,
+      "from": "dee0 pages 5-6 — a stick frame sphere"
+    },
+    {
+      "name": "04-frame-with-spheres-in-dark.webp",
+      "sha256": "129b6059e1077e4fe16578d239fa162ba73b6b45627eb48c9b09b5e6714d183a",
+      "bytes": 103198,
+      "from": "dee0 pages 5-6 — the frame with spheres in the dark"
+    },
+    {
+      "name": "05-stick-landscape-in-dark.webp",
+      "sha256": "5b894fb819004b7f1e1badce0212e2a254aa370cbffd08b2c01d878ed96d06c0",
+      "bytes": 190120,
+      "from": "dee0 pages 5-6 — the stick landscape in the dark"
+    }
+  ]
+}
