@@ -1,0 +1,55 @@
+{
+  "project": "Tower of Notes",
+  "dest": "assets/board/tower-of-notes-guitar-solo-cardboard-planes",
+  "note": "Portfolio 956b pages 8-9 cropped to 8 images, WebP q88 (PIL). Not used: photos of a person playing guitar, guitar and chord chart photo.",
+  "files": [
+    {
+      "name": "01-tower-of-notes.webp",
+      "sha256": "f8a22566145a1cdeb3fae0542868fa00925236cbfeb6d63be4858511794c2397",
+      "bytes": 60396,
+      "from": "956b pages 8-9 — the tower of notes"
+    },
+    {
+      "name": "02-three-note-towers.webp",
+      "sha256": "2abcb7098e48f1e9074c5b2614269948bbdff2a10d809236af8ddf4295546162",
+      "bytes": 59024,
+      "from": "956b pages 8-9 — three note towers"
+    },
+    {
+      "name": "03-tower-from-below.webp",
+      "sha256": "8a5a173f545dbe911174afc5452ecc46c78512e63913d21784c05cac97e517db",
+      "bytes": 31564,
+      "from": "956b pages 8-9 — the tower from below"
+    },
+    {
+      "name": "04-crossing-planes.webp",
+      "sha256": "543e1650ae9b4582e77eca76e7d29e982bd5265e09045c52f47db85437f65762",
+      "bytes": 22618,
+      "from": "956b pages 8-9 — crossing planes"
+    },
+    {
+      "name": "05-note-line-drawing.webp",
+      "sha256": "78c7d4b4753ba5cab9c803d12b87683a3943c4ab28fe0c73bed7b11f38af308b",
+      "bytes": 48152,
+      "from": "956b pages 8-9 — a line drawing of notes"
+    },
+    {
+      "name": "06-string-planes-top.webp",
+      "sha256": "934224f4333548fd6cc4ae5d216b5b88d6afea3cd594190dc38b0454e5c29308",
+      "bytes": 55044,
+      "from": "956b pages 8-9 — string planes from above"
+    },
+    {
+      "name": "07-fingerboard-grid.webp",
+      "sha256": "75b68faed9bd78b06ab3e45a6096c96f47ed5e663994c5c077de30bacbe10ebe",
+      "bytes": 43546,
+      "from": "956b pages 8-9 — the fingerboard grid"
+    },
+    {
+      "name": "08-string-planes-angled.webp",
+      "sha256": "a7a75bb11da9faa92487dc4f9e49b6f9a68c23583d7c96067cebf03f12bf95e8",
+      "bytes": 48852,
+      "from": "956b pages 8-9 — string planes at an angle"
+    }
+  ]
+}
