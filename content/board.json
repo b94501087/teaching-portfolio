@@ -75332,6 +75332,414 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Visualized Sound",
+      "slug": "visualized-sound-laser-traces-mesh-and-pvc",
+      "description": "Music played into a drum makes a laser draw glowing loops, which are rebuilt in wire mesh, stretched fabric and heat-shaped PVC.\n\nModels and light study | Sound study | Barrel, sticks, laser pointer, wire mesh, stockings, PVC sheet | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "看見聲音",
+          "description": "音樂傳入鼓面，使雷射畫出發光的線圈，再以鐵絲網、拉伸的布料與熱塑PVC重建。\n\n模型與光研究｜聲音研究｜桶、木棍、雷射筆、鐵絲網、絲襪、PVC片｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/visualized-sound-laser-traces-mesh-and-pvc/01-sound-wave-model.webp",
+        "assets/board/visualized-sound-laser-traces-mesh-and-pvc/02-sound-wave-model-side.webp",
+        "assets/board/visualized-sound-laser-traces-mesh-and-pvc/03-laser-light-traces.webp",
+        "assets/board/visualized-sound-laser-traces-mesh-and-pvc/04-stocking-wave-forms.webp",
+        "assets/board/visualized-sound-laser-traces-mesh-and-pvc/05-wire-mesh-model.webp",
+        "assets/board/visualized-sound-laser-traces-mesh-and-pvc/06-wire-mesh-close-up.webp",
+        "assets/board/visualized-sound-laser-traces-mesh-and-pvc/07-pvc-layers.webp",
+        "assets/board/visualized-sound-laser-traces-mesh-and-pvc/08-pvc-from-above.webp",
+        "assets/board/visualized-sound-laser-traces-mesh-and-pvc/09-mesh-cut-on-mat.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/visualized-sound-laser-traces-mesh-and-pvc/01-sound-wave-model.webp"
+          ],
+          "captions": [
+            "The sound wave model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "聲波模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Music is heard but never seen. The project asks what the lines of a song would look like if sound could be drawn in space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "音樂可以被聽見，卻無法被看見。這個專題探問，如果聲音能在空間中被畫出，一首歌的線條會是什麼模樣。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student built a device from a barrel, sticks and a laser pointer, then played music into it. The shaking drum made the laser draw loops of light that were recorded.",
+          "images": [
+            "assets/board/visualized-sound-laser-traces-mesh-and-pvc/03-laser-light-traces.webp"
+          ],
+          "captions": [
+            "Laser light traces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以桶、木棍與雷射筆製作了一個裝置，再對著它播放音樂。震動的鼓面使雷射畫出光的線圈，並被記錄下來。",
+              "captions": [
+                "雷射光軌跡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wire gave a frame that could bend, and stretched stockings gave smooth wave surfaces. Small forms tested how each loop of light could become a solid.",
+          "images": [
+            "assets/board/visualized-sound-laser-traces-mesh-and-pvc/04-stocking-wave-forms.webp",
+            "assets/board/visualized-sound-laser-traces-mesh-and-pvc/09-mesh-cut-on-mat.webp",
+            "assets/board/visualized-sound-laser-traces-mesh-and-pvc/05-wire-mesh-model.webp",
+            "assets/board/visualized-sound-laser-traces-mesh-and-pvc/06-wire-mesh-close-up.webp"
+          ],
+          "captions": [
+            "Stocking wave forms.",
+            "Mesh cut on a mat.",
+            "The wire mesh model.",
+            "Wire mesh close up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "鐵絲提供可以彎折的骨架，拉伸的絲襪則形成平滑的波面。小型形體測試每一圈光線如何成為實體。",
+              "captions": [
+                "絲襪波形。",
+                "切割墊上的鐵絲網。",
+                "鐵絲網模型。",
+                "鐵絲網近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Clear PVC sheet was found to hold its shape after heating, so it joined the mesh and fabric. All the parts were assembled in a 400 mm box like music frozen in mid-air.",
+          "images": [
+            "assets/board/visualized-sound-laser-traces-mesh-and-pvc/02-sound-wave-model-side.webp",
+            "assets/board/visualized-sound-laser-traces-mesh-and-pvc/07-pvc-layers.webp",
+            "assets/board/visualized-sound-laser-traces-mesh-and-pvc/08-pvc-from-above.webp"
+          ],
+          "captions": [
+            "The sound wave model from the side.",
+            "PVC layers.",
+            "PVC from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "學生發現透明PVC片加熱後可以定形，於是把它與鐵絲網、布料結合。所有構件被組裝在一個400毫米的盒中，如同凝結在半空的音樂。",
+              "captions": [
+                "側看聲波模型。",
+                "PVC層片。",
+                "俯看PVC。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Frozen Music - Turning Vibration into Form",
+          "body": "Sound vanishes the moment it is made, which is exactly why it tempts a designer to hold it still. The study began with a homemade instrument of seeing, a barrel skin, a few sticks and a laser pointer, and the guidance pressed for evidence before invention: play the music, watch the light, record what it draws. The drum trembled and the beam answered with loops and knots that no hand would have chosen, giving the project a vocabulary taken straight from vibration. Translation came next and was treated as a question of material. Bent wire held the paths, stretched stockings turned them into smooth wave skins, and clear PVC, softened by heat, kept curves that fabric alone could not. Each material carried a different temper of the same song, taut, supple or glassy. Assembled within a white box, the pieces hang like a chord paused in mid-air, and the work leaves behind a simple, persuasive thought: listening closely enough can become a way of building.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "凝結的樂音-把振動化為形體",
+              "body": "聲音在發出的瞬間便消逝，正因如此，設計者才會想要把它留住。這項研究從一件自製的「觀看樂器」開始：一面桶皮、幾根木棍與一支雷射筆；指導過程堅持先取證據、再談創造，播放音樂，觀察光，記錄它畫下的軌跡。鼓面顫動，光束以任何手都不會選擇的線圈與結回應，為專題提供一套直接取自振動的語彙。接著是轉譯，而轉譯被當作材料的問題。彎折的鐵絲承載路徑，拉伸的絲襪把路徑化為平滑的波面，受熱軟化的透明PVC則保住布料無法維持的曲線。每種材料都帶著同一首歌的不同性情：緊繃、柔韌或晶瑩。組裝在白色盒中，這些構件像一個停在半空的和弦；作品留下一個簡單而有說服力的想法：聽得夠專注，本身就可以成為一種建造。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Microbial Space",
+      "slug": "microbial-space-clay-and-gel-microorganisms",
+      "description": "Microorganisms seen through a lens are recreated in gelatin and glycerin, then pressed into white clay to form a living cave.\n\nModel | Material study | Soft clay, glycerin, gelatin, water | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "微生物空間",
+          "description": "透過鏡頭看見的微生物，以明膠與甘油重現，再嵌入白色黏土，形成一座有生命的洞穴。\n\n模型｜材料研究｜軟陶土、甘油、明膠、水｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/microbial-space-clay-and-gel-microorganisms/01-microbial-clay-space.webp",
+        "assets/board/microbial-space-clay-and-gel-microorganisms/02-microbial-clay-space-front.webp",
+        "assets/board/microbial-space-clay-and-gel-microorganisms/03-clay-cells-detail.webp",
+        "assets/board/microbial-space-clay-and-gel-microorganisms/04-clay-folds-detail.webp",
+        "assets/board/microbial-space-clay-and-gel-microorganisms/05-coloured-inclusions.webp",
+        "assets/board/microbial-space-clay-and-gel-microorganisms/06-gel-and-resin-samples.webp",
+        "assets/board/microbial-space-clay-and-gel-microorganisms/07-bubble-gel.webp",
+        "assets/board/microbial-space-clay-and-gel-microorganisms/08-coloured-gel-tray.webp",
+        "assets/board/microbial-space-clay-and-gel-microorganisms/09-molds-on-table.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/microbial-space-clay-and-gel-microorganisms/01-microbial-clay-space.webp"
+          ],
+          "captions": [
+            "The microbial clay space."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "微生物黏土空間。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Microorganisms seen through a magnifying lens show rich shapes and colours. The project asks how those tiny forms can be built into a space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "透過放大鏡看見的微生物，呈現豐富的形狀與色彩。這個專題探問，這些微小形體如何被建造成空間。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied images of microorganisms and mixed water, glycerin and gelatin with colour. Thin sheets of gel copied the cells, bubbles and membranes.",
+          "images": [
+            "assets/board/microbial-space-clay-and-gel-microorganisms/06-gel-and-resin-samples.webp",
+            "assets/board/microbial-space-clay-and-gel-microorganisms/07-bubble-gel.webp",
+            "assets/board/microbial-space-clay-and-gel-microorganisms/08-coloured-gel-tray.webp",
+            "assets/board/microbial-space-clay-and-gel-microorganisms/09-molds-on-table.webp"
+          ],
+          "captions": [
+            "Gel samples.",
+            "Bubble gel.",
+            "A coloured gel tray.",
+            "Molds on the table."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究微生物的影像，並把水、甘油與明膠和顏料調和。薄薄的凝膠片模仿細胞、氣泡與薄膜。",
+              "captions": [
+                "凝膠樣本。",
+                "氣泡凝膠。",
+                "彩色凝膠盤。",
+                "桌上的模具。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Soft white clay was kneaded into curved sheets of many shapes. The gel pieces were pressed into the clay while it was still soft.",
+          "images": [
+            "assets/board/microbial-space-clay-and-gel-microorganisms/03-clay-cells-detail.webp",
+            "assets/board/microbial-space-clay-and-gel-microorganisms/04-clay-folds-detail.webp"
+          ],
+          "captions": [
+            "Clay cells detail.",
+            "Clay folds detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "白色軟陶土被揉捏成各種形狀的彎曲薄片。凝膠片趁黏土仍柔軟時被嵌入其中。",
+              "captions": [
+                "黏土細胞細部。",
+                "黏土皺褶細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "All the pieces were joined into one 450 mm cave of holes and windows. Coloured gel glows in each opening like cells under glass.",
+          "images": [
+            "assets/board/microbial-space-clay-and-gel-microorganisms/02-microbial-clay-space-front.webp",
+            "assets/board/microbial-space-clay-and-gel-microorganisms/05-coloured-inclusions.webp"
+          ],
+          "captions": [
+            "The microbial space from the front.",
+            "Coloured inclusions."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "所有構件被組合成一座450毫米、布滿孔洞與窗口的洞穴。彩色凝膠在每個開口中發光，如同玻片下的細胞。",
+              "captions": [
+                "正看微生物空間。",
+                "彩色嵌入物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "A World Beneath the Lens - Building with the Invisible",
+          "body": "Some of the richest landscapes are too small to see, and this project chose to treat them as sites. It opened with images of cells and membranes, and the guidance soon moved the student from looking to making, asking that every colour and texture be proven in a material of its own. Water, glycerin and gelatin became a small laboratory: poured, tinted and left to set, they produced bubble skins, marbled sheets and translucent films that echo life under the lens without copying it. The next step was to give those fragments a body. Soft white clay was kneaded into curling shells, and the gel pieces were pressed in while the clay still yielded, so that each opening holds a glowing specimen. Joined together, the shells form a cave about half a metre across, pierced with windows and threaded with tiny red figures for scale. Walking through it in the imagination, one senses how architecture might borrow the patience and invention of the microscopic world.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "鏡下世界-以不可見之物建造",
+              "body": "有些最豐富的地景小到肉眼看不見，這個專題選擇把它們當作基地。研究從細胞與薄膜的影像開始，指導過程很快把學生從觀看帶向製作，要求每一種色彩與質地都必須在專屬的材料中被證明。水、甘油與明膠組成一間小小的實驗室：澆注、染色、靜置凝固，產生氣泡膜、大理石紋薄片與半透明的膜，呼應鏡頭下的生命，卻不加以複製。下一步是為這些碎片找到身體。白色軟陶土被揉捏成捲曲的殼，凝膠片趁黏土仍柔軟時嵌入，使每個開口都承載一枚發光的標本。殼片組合後形成一座寬約半米的洞穴，布滿窗口，並以細小的紅色人偶標示尺度。在想像中穿行其間，人們能感受到建築如何向微觀世界借取耐心與創造力。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Spider",
+      "slug": "spider-umbrella-frame-and-wire-web",
+      "description": "A childhood fear of spiders becomes a giant frame of umbrella ribs, tangled wire and mesh, held steady by lines like a web.\n\nModel and paint studies | Emotion study | Umbrella ribs, iron wire, mesh, salt, acrylic paint, cotton | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "蜘蛛",
+          "description": "童年對蜘蛛的恐懼，化為由傘骨、糾結鐵絲與鐵絲網組成的巨大骨架，並以如蛛絲般的線穩住。\n\n模型與繪畫研究｜情緒研究｜傘骨、鐵絲、鐵絲網、鹽、壓克力顏料、棉花｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/spider-umbrella-frame-and-wire-web/01-spider-frame.webp",
+        "assets/board/spider-umbrella-frame-and-wire-web/02-spider-frame-low-view.webp",
+        "assets/board/spider-umbrella-frame-and-wire-web/03-spider-frame-side.webp",
+        "assets/board/spider-umbrella-frame-and-wire-web/04-paint-studies.webp",
+        "assets/board/spider-umbrella-frame-and-wire-web/05-frame-and-wire-process.webp",
+        "assets/board/spider-umbrella-frame-and-wire-web/06-wire-web-process.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/spider-umbrella-frame-and-wire-web/01-spider-frame.webp"
+          ],
+          "captions": [
+            "The spider frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "蜘蛛骨架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Spiders have frightened the student since childhood. The project builds a spider in order to face that fear and break through it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "蜘蛛從童年起就讓學生感到害怕。這個專題透過建造一隻蜘蛛，來面對並突破這份恐懼。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied webs and made paint studies with salt, acrylic, water and cotton. Splashes and stains showed how a web feels rather than how it looks.",
+          "images": [
+            "assets/board/spider-umbrella-frame-and-wire-web/04-paint-studies.webp"
+          ],
+          "captions": [
+            "Paint studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究蛛網，並以鹽、壓克力顏料、水與棉花進行繪畫研究。潑灑與暈染表現的是蛛網給人的感受，而非它的外觀。",
+              "captions": [
+                "繪畫研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Umbrella ribs became the legs and claws, and a wire net formed the head and body. Wire was kneaded into a coiled tail.",
+          "images": [
+            "assets/board/spider-umbrella-frame-and-wire-web/05-frame-and-wire-process.webp",
+            "assets/board/spider-umbrella-frame-and-wire-web/06-wire-web-process.webp"
+          ],
+          "captions": [
+            "Frame and wire in process.",
+            "The wire web in process."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "傘骨成為腳與爪，鐵絲網構成頭部與身體。鐵絲被揉捏成捲曲的尾部。",
+              "captions": [
+                "製作中的骨架與鐵絲。",
+                "製作中的鐵絲網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Lines like threads hold the 600 mm spider steady in its corner. Under light, its shadow spreads across the walls like a web.",
+          "images": [
+            "assets/board/spider-umbrella-frame-and-wire-web/02-spider-frame-low-view.webp",
+            "assets/board/spider-umbrella-frame-and-wire-web/03-spider-frame-side.webp"
+          ],
+          "captions": [
+            "The spider frame from below.",
+            "The spider frame from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "如絲線般的拉線把這隻600毫米高的蜘蛛穩穩固定在角落。在光線下，它的影子像蛛網一樣在牆上展開。",
+              "captions": [
+                "仰看蜘蛛骨架。",
+                "側看蜘蛛骨架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Taming the Web - Building Toward What Frightens",
+          "body": "Fear tends to grow in the dark, and one way to shrink it is to bring it into the light and measure it. The project began from a fear held since childhood, and the guidance treated that feeling not as an obstacle but as a brief, asking the student to study the thing that frightened rather than avoid it. Paint studies with salt, acrylic, water and cotton came first, searching for the sensation of a web, its scatter, its sticky density, its trembling edges. Building followed with a practical, almost disarming choice: the ribs of an umbrella became legs and claws, a wire net shaped the head and body, and kneaded wire curled into a tail. Taut lines then fixed the creature in a corner, so that it could no longer move unexpectedly. Lit from one side, the frame throws a vast web of shadow across the walls, beautiful rather than threatening. The work suggests that making can be a form of courage, turning dread into structure one joint at a time.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "馴服蛛網-朝恐懼走去的建造",
+              "body": "恐懼往往在黑暗中滋長，縮小它的一種方式，是把它帶到光下加以丈量。這個專題始於一份從童年延續至今的恐懼；指導過程並未把這份情緒視為障礙，而是把它當作設計任務，要求學生研究令人害怕的事物，而非迴避它。首先是以鹽、壓克力顏料、水與棉花進行的繪畫研究，尋找蛛網的感受：它的散落、黏稠的密度與顫動的邊緣。接著的建造做了一個務實、近乎令人卸下心防的選擇：傘骨成為腳與爪，鐵絲網塑出頭部與身體，揉捏的鐵絲捲成尾巴。繃緊的拉線再把這隻生物固定在角落，使它不再能出其不意地移動。從一側打光，骨架在牆上投下一張巨大的影之網，美麗而非威脅。作品提示，製作可以是一種勇氣，把畏懼一節一節地化為結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
