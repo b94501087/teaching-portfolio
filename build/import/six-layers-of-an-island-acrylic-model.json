@@ -1,0 +1,49 @@
+{
+  "project": "Six Layers of an Island",
+  "dest": "assets/board/six-layers-of-an-island-acrylic-model",
+  "note": "Portfolio a289 page 4 cropped to 7 images, WebP q88 (PIL). Not used: summer programme and course name, caption.",
+  "files": [
+    {
+      "name": "01-layered-acrylic-tower.webp",
+      "sha256": "92b2798db671a993c9f40a4f54542fab1bbe4e5fa335b08af03ec019200e17ca",
+      "bytes": 96842,
+      "from": "a289 page 4 — the layered acrylic island"
+    },
+    {
+      "name": "02-collage-of-layers.webp",
+      "sha256": "9685d8583af5b2cdd7811f6a013336c66d629b9e3dcc7e12ce169c4c25d0b239",
+      "bytes": 135278,
+      "from": "a289 page 4 — the collage from the paper model"
+    },
+    {
+      "name": "03-occupiable-layer-plan.webp",
+      "sha256": "0ed90c93bfae0317186313d4b8dc7a91d3fbf9a07fd9e86ba3aad7eb502f3e8f",
+      "bytes": 183210,
+      "from": "a289 page 4 — a simplified, occupiable layer"
+    },
+    {
+      "name": "04-extruded-layers-in-shadow.webp",
+      "sha256": "54193f6ec3f1e8e22046eae09359f056a08e3dbd15dd025a644ccc04ff71b6ec",
+      "bytes": 95268,
+      "from": "a289 page 4 — extruded layers in shadow"
+    },
+    {
+      "name": "05-layer-explorations.webp",
+      "sha256": "1c4705053958589a501a007c6b077b2e5135aefc9f9e3a1b1c73037eb43ce1d6",
+      "bytes": 60216,
+      "from": "a289 page 4 — explorations of the traced layers"
+    },
+    {
+      "name": "06-section-studies.webp",
+      "sha256": "d74713314da3e2583cbda46d6868d96d196c3a1f6ced5c65067dce8f135138c0",
+      "bytes": 40196,
+      "from": "a289 page 4 — section studies of the space"
+    },
+    {
+      "name": "07-acrylic-model-views.webp",
+      "sha256": "5537bcc0471554a29262480bf1e0fc8422c655880f4ec7b429a54670d4729e0c",
+      "bytes": 41588,
+      "from": "a289 page 4 — views of the acrylic model"
+    }
+  ]
+}
