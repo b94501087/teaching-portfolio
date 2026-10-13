@@ -79916,6 +79916,418 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Floating Bark",
+      "slug": "floating-bark-wooden-stick-canopy-on-wire",
+      "description": "The sprawling branches of a great shade tree are rebuilt as a triangulated lattice of wooden sticks floating above a thicket of thin iron wires.\n\nModel | Natural form study | Iron wire, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "漂浮樹皮",
+          "description": "一棵巨大遮蔭樹蔓延的枝條，被重建為一片以木籤三角化構成的格構，漂浮在細鐵絲組成的叢林之上。\n\n模型｜自然形態研究｜鐵絲、木籤｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/floating-bark-wooden-stick-canopy-on-wire/01-floating-bark-lattice.webp",
+        "assets/board/floating-bark-wooden-stick-canopy-on-wire/02-lattice-canopy-close.webp",
+        "assets/board/floating-bark-wooden-stick-canopy-on-wire/03-lattice-view-strip.webp",
+        "assets/board/floating-bark-wooden-stick-canopy-on-wire/04-lattice-side-a.webp",
+        "assets/board/floating-bark-wooden-stick-canopy-on-wire/05-lattice-side-b.webp",
+        "assets/board/floating-bark-wooden-stick-canopy-on-wire/06-lattice-side-c.webp",
+        "assets/board/floating-bark-wooden-stick-canopy-on-wire/07-figure-under-stick-canopy.webp",
+        "assets/board/floating-bark-wooden-stick-canopy-on-wire/08-stick-canopy-upper.webp",
+        "assets/board/floating-bark-wooden-stick-canopy-on-wire/09-stick-canopy-lower.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/floating-bark-wooden-stick-canopy-on-wire/01-floating-bark-lattice.webp"
+          ],
+          "captions": [
+            "The floating bark lattice."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "漂浮的樹皮格構。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project grew from ordinary trees, and in particular the shade of a giant tree enjoyed on a sizzling summer day. The student was fascinated by the intricate branches spreading overhead as if they were alive.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題源自日常的樹木，尤其是炎夏裡一棵巨樹所帶來的遮蔭。學生著迷於頭頂上蔓延交錯、彷彿有生命的枝條。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Bark textures and branch patterns were studied and abstracted into a net of short straight lines. Small triangles proved able to bend the net into a curved, shell-like canopy.",
+          "images": [
+            "assets/board/floating-bark-wooden-stick-canopy-on-wire/03-lattice-view-strip.webp",
+            "assets/board/floating-bark-wooden-stick-canopy-on-wire/04-lattice-side-a.webp",
+            "assets/board/floating-bark-wooden-stick-canopy-on-wire/05-lattice-side-b.webp",
+            "assets/board/floating-bark-wooden-stick-canopy-on-wire/06-lattice-side-c.webp"
+          ],
+          "captions": [
+            "Views of the lattice.",
+            "The lattice edge.",
+            "Lattice from below.",
+            "Interlocking triangles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究樹皮紋理與枝條圖樣，並將其抽象化為由短直線構成的網。細小的三角形證明能讓網彎曲成弧形、殼狀的頂棚。",
+              "captions": [
+                "格構的多個視角。",
+                "格構邊緣。",
+                "從下方看格構。",
+                "交扣的三角形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wooden sticks were joined triangle by triangle into a canopy that swells and folds like bark. Dense thin iron wires were then set beneath it to lift the canopy off the ground.",
+          "images": [
+            "assets/board/floating-bark-wooden-stick-canopy-on-wire/02-lattice-canopy-close.webp",
+            "assets/board/floating-bark-wooden-stick-canopy-on-wire/08-stick-canopy-upper.webp"
+          ],
+          "captions": [
+            "The canopy up close.",
+            "The upper canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木籤一個三角形接一個三角形地接合，形成如樹皮般隆起與摺疊的頂棚。之後在其下方立起密集的細鐵絲，把頂棚托離地面。",
+              "captions": [
+                "近看頂棚。",
+                "上層頂棚。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished canopy seems to float above a forest of wires, casting a web of shadows on the floor. Small figures walking beneath it recall the cool shade of the tree.",
+          "images": [
+            "assets/board/floating-bark-wooden-stick-canopy-on-wire/07-figure-under-stick-canopy.webp",
+            "assets/board/floating-bark-wooden-stick-canopy-on-wire/09-stick-canopy-lower.webp"
+          ],
+          "captions": [
+            "A figure under the canopy.",
+            "Beneath the canopy."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的頂棚彷彿漂浮在鐵絲之林上，在地面投下網狀的影子。在其下行走的小人偶，喚起那棵樹下的清涼蔭影。",
+              "captions": [
+                "頂棚下的人偶。",
+                "頂棚之下。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Shade Made Visible - A Canopy of Lines",
+          "body": "Shade is one of the most generous gifts a tree offers, yet it is usually felt rather than seen, and this project set out to give that feeling a body. The student began with memories of resting under a vast tree on a burning summer afternoon, looking up into branches that seemed to keep moving. Rather than copying branches, the guidance encouraged reading their logic, how countless short members, each straight, can together describe a curving surface. Bark and branching were reduced to a net of lines, and small triangles became the unit that allowed the net to bend without collapsing. Built stick by stick, the canopy swells, folds and thins like living bark. Beneath it, a thicket of fine iron wire lifts the whole structure until it appears to hover, its weight almost dissolved. Under light the lattice throws a second canopy of shadows across the floor, and tiny figures stand within a dappled interior. The model demonstrates how a simple repeated unit can capture the atmosphere of a natural shelter.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "讓蔭影可見-線條構成的頂棚",
+              "body": "蔭影是一棵樹最慷慨的饋贈之一，卻通常只被感受而不被看見，這個專題便試圖為這份感受賦予形體。學生從記憶出發，回想炎夏午後在一棵巨樹下歇息，仰望那些彷彿仍在擺動的枝條。指導過程沒有讓學生臨摹枝條，而是鼓勵解讀其邏輯：無數根各自筆直的短構件，如何共同描繪出一個彎曲的表面。樹皮與枝序被簡化為一張線網，細小的三角形成為單元，使線網能彎曲而不崩塌。一根接一根地搭建，頂棚如活的樹皮般隆起、摺疊並變薄。在其下方，一片細鐵絲叢林把整個結構托起，直到它看似懸浮，重量幾乎消散。在光線下，格構在地面投下第二層由影子構成的頂棚，微小的人偶立於斑駁的室內。模型說明，一個簡單而重複的單元，便能捕捉自然庇護所的氛圍。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Wall",
+      "slug": "the-wall-woollen-folds-and-cube-windows",
+      "description": "Memories of a hand-knitted sweater and a walk home through old streets become a soft woollen wall, pierced by small windows and lit from within.\n\nModel and drawings | Memory and material study | Wool, PVC board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "牆",
+          "description": "對一件手織毛衣與穿過老街回家之路的記憶，化為一道柔軟的羊毛牆，牆上開著小窗，並從內部透出光亮。\n\n模型與繪圖｜記憶與材料研究｜羊毛、PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/the-wall-woollen-folds-and-cube-windows/01-woollen-wall-with-windows.webp",
+        "assets/board/the-wall-woollen-folds-and-cube-windows/02-folded-line-drawing.webp",
+        "assets/board/the-wall-woollen-folds-and-cube-windows/03-wool-texture-studies.webp",
+        "assets/board/the-wall-woollen-folds-and-cube-windows/04-framed-wave-model.webp",
+        "assets/board/the-wall-woollen-folds-and-cube-windows/05-cube-window-field.webp",
+        "assets/board/the-wall-woollen-folds-and-cube-windows/06-cube-field-detail-a.webp",
+        "assets/board/the-wall-woollen-folds-and-cube-windows/07-cube-field-detail-b.webp",
+        "assets/board/the-wall-woollen-folds-and-cube-windows/08-cube-field-detail-c.webp",
+        "assets/board/the-wall-woollen-folds-and-cube-windows/09-light-through-window.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/the-wall-woollen-folds-and-cube-windows/01-woollen-wall-with-windows.webp"
+          ],
+          "captions": [
+            "The woollen wall with windows."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "開著小窗的羊毛牆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The model began with a home-made sweater, a gift from a grandparent that felt full of love whenever it was worn. The most healing moment of childhood was the walk through old streets toward that home.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這件模型始於一件手織毛衣，那是祖父母送的禮物，每次穿上都感到滿滿的愛。童年最療癒的時刻，是穿過老街走向那個家的路。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A line drawing translated the rhythm of knitted stitches into folded fans of lines around square openings. Strands of wool were then photographed close up to study their texture under light.",
+          "images": [
+            "assets/board/the-wall-woollen-folds-and-cube-windows/02-folded-line-drawing.webp",
+            "assets/board/the-wall-woollen-folds-and-cube-windows/03-wool-texture-studies.webp",
+            "assets/board/the-wall-woollen-folds-and-cube-windows/04-framed-wave-model.webp"
+          ],
+          "captions": [
+            "The folded line drawing.",
+            "Wool texture studies.",
+            "A framed wave study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張線條圖把編織針目的節奏，轉譯為環繞方形開口、摺疊如扇的線條。學生接著近拍羊毛纖維，研究它們在光線下的質感。",
+              "captions": [
+                "摺疊的線條圖。",
+                "羊毛質感研究。",
+                "框中的波浪研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Small square tubes of PVC board were set into a field at different angles to act as windows. Their density and tilt were tuned so that light would pass through in a soft, scattered pattern.",
+          "images": [
+            "assets/board/the-wall-woollen-folds-and-cube-windows/05-cube-window-field.webp",
+            "assets/board/the-wall-woollen-folds-and-cube-windows/06-cube-field-detail-a.webp",
+            "assets/board/the-wall-woollen-folds-and-cube-windows/07-cube-field-detail-b.webp",
+            "assets/board/the-wall-woollen-folds-and-cube-windows/08-cube-field-detail-c.webp"
+          ],
+          "captions": [
+            "The field of window cubes.",
+            "Window cubes lit up.",
+            "The cube pattern.",
+            "Window cubes in light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "PVC板製成的小方管以不同角度嵌入一片場域，作為窗。學生調整它們的密度與傾斜，讓光以柔和而分散的方式穿透。",
+              "captions": [
+                "窗方塊的場域。",
+                "發光的窗方塊。",
+                "方塊圖樣。",
+                "光中的窗方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the final model, folds of wool drape over the wall and the windows glow like lit homes along a street. Looking at the blurry light coming out of them recalls the excitement of an awaited visit.",
+          "images": [
+            "assets/board/the-wall-woollen-folds-and-cube-windows/09-light-through-window.webp"
+          ],
+          "captions": [
+            "Light through a window."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在最終模型中，層層羊毛垂覆於牆上，小窗如街邊亮燈的人家般發光。凝望窗中透出的朦朧光線，喚起一次被期待的造訪所帶來的雀躍。",
+              "captions": [
+                "穿窗而出的光。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Knitted Walls - Warmth Held in Material",
+          "body": "Some walls separate, while others hold, and this project imagined a wall that behaves like a garment, soft, warm and made by hand. The starting point was a sweater knitted by a grandparent and the walk home along old lanes, where lit windows promised that someone was waiting. The guidance asked the student to find a spatial language for that tenderness rather than illustrate the memory. A line drawing captured the rhythm of stitches as fans of folded lines circling square openings, and close studies of wool revealed how its strands glow and blur when light falls across them. These studies led to two complementary parts. A field of small PVC tubes, tilted at varied angles, became windows that scatter light into a gentle grain. Over them, wool was drawn and gathered into deep vertical folds, a surface that seems to breathe. Photographed in low light, the wall reads as a quiet street at dusk, each window a small promise of welcome. The work shows how memory can be translated into material and light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "編織之牆-材料中的溫度",
+              "body": "有些牆用來分隔，有些牆則用來擁抱，這個專題想像一道如衣物般的牆：柔軟、溫暖，並由手工製成。出發點是一件祖父母親手編織的毛衣，以及沿著老巷回家的路，沿途亮著的窗彷彿在說有人正在等候。指導過程要求學生為這份溫柔找到一種空間語言，而不是圖解回憶。一張線條圖把針目的節奏捕捉為環繞方形開口、摺疊如扇的線條，對羊毛的近距離研究則揭示其纖維在光線掠過時如何發亮與暈開。這些研究引出兩個互補的部分。一片以不同角度傾斜的小PVC方管成為窗，把光散射成細緻的紋理。羊毛被牽引並收攏成深深的垂直皺褶覆於其上，形成一個彷彿在呼吸的表面。在微光中拍攝，這道牆讀來像黃昏時一條寧靜的街，每扇窗都是一個小小的歡迎承諾。作品說明，記憶可以被轉譯為材料與光。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Loop of Return",
+      "slug": "loop-of-return-three-part-time-reversal-model",
+      "description": "Three linked parts, an exploding hall, a racing loop and a concrete square with a stair of PVC ribbons, build a story in which time keeps folding back on itself.\n\nModel | Narrative space study | PVC board, iron wire, concrete, wooden sticks, cotton, transparent coloured paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "回返之環",
+          "description": "三個相連的部分，一座爆炸的大廳、一條追逐的迴圈，以及一座有PVC帶狀階梯的混凝土廣場，構成一個時間不斷回折的故事。\n\n模型｜敘事空間研究｜PVC板、鐵絲、混凝土、木籤、棉花、透明色紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/loop-of-return-three-part-time-reversal-model/01-endless-loop-model.webp",
+        "assets/board/loop-of-return-three-part-time-reversal-model/02-loop-concept-sketch.webp",
+        "assets/board/loop-of-return-three-part-time-reversal-model/03-cotton-and-stick-detail.webp",
+        "assets/board/loop-of-return-three-part-time-reversal-model/04-ribbon-and-stick-detail.webp",
+        "assets/board/loop-of-return-three-part-time-reversal-model/05-stair-and-cloud-detail.webp",
+        "assets/board/loop-of-return-three-part-time-reversal-model/06-loop-model-top.webp",
+        "assets/board/loop-of-return-three-part-time-reversal-model/07-spiral-stair-ribbon.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/loop-of-return-three-part-time-reversal-model/01-endless-loop-model.webp"
+          ],
+          "captions": [
+            "The loop model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "迴圈模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A favourite film about time running backward inspired the student to imagine a place where events repeat in a loop. The project asks how a model could hold the feeling of being trapped in an endless cycle of saving the world.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部關於時間倒流的電影，啟發學生想像一個事件不斷循環重演的地方。這個專題探問，一件模型如何承載受困於拯救世界的無盡循環之中的感受。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "A hand sketch mapped three scenes along one route, from an exploding hall to a chase and finally a square. Each scene was given its own material so that the journey could be read in sequence.",
+          "images": [
+            "assets/board/loop-of-return-three-part-time-reversal-model/02-loop-concept-sketch.webp"
+          ],
+          "captions": [
+            "The concept sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "一張手繪草圖沿著一條路線鋪排三個場景，從爆炸的大廳到一場追逐，最後抵達一座廣場。每個場景各自被賦予材料，讓旅程能依序被閱讀。",
+              "captions": [
+                "概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Cotton clouds and tangled wooden sticks describe the first explosion, while curving PVC strips race between them as the chase. A square model of PVC was cast in concrete to form the last part.",
+          "images": [
+            "assets/board/loop-of-return-three-part-time-reversal-model/03-cotton-and-stick-detail.webp",
+            "assets/board/loop-of-return-three-part-time-reversal-model/04-ribbon-and-stick-detail.webp",
+            "assets/board/loop-of-return-three-part-time-reversal-model/06-loop-model-top.webp"
+          ],
+          "captions": [
+            "Cotton and sticks.",
+            "Ribbons and sticks.",
+            "The model from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "棉花雲與糾結的木籤描繪第一場爆炸，彎曲的PVC條帶則在其間奔馳，代表追逐。PVC製成的方形模具中澆灌了混凝土，構成最後一部分。",
+              "captions": [
+                "棉花與木籤。",
+                "帶狀體與木籤。",
+                "從上方看模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A spiral staircase of PVC ribbons rises from the square, standing for a machine that lets people travel back and forth in time. The whole model conveys a figure caught in a loop with no other choice.",
+          "images": [
+            "assets/board/loop-of-return-three-part-time-reversal-model/05-stair-and-cloud-detail.webp",
+            "assets/board/loop-of-return-three-part-time-reversal-model/07-spiral-stair-ribbon.webp"
+          ],
+          "captions": [
+            "Stair and cloud.",
+            "The spiral stair."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一座PVC帶狀的螺旋梯從廣場升起，象徵一部讓人在時間中往返的機器。整件模型傳達出一個困於循環、別無選擇的身影。",
+              "captions": [
+                "階梯與雲。",
+                "螺旋梯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Folding Time - A Loop Built in Three Acts",
+          "body": "Stories about reversing time are thrilling because they bend cause and effect, and this project asked how such a bending might be built. Leaving the original narrative behind, the student was guided to design a sequence of spaces in which a visitor would feel time circling back. A sketch first plotted three acts along a single route. The opening act is an explosion rendered in billowing cotton and splintered wooden sticks, frozen at its loudest instant. The second is a chase, where white PVC strips sweep through the debris like tracks of speed. The final act settles into a square cast in concrete, solid and heavy, from which a spiral stair of PVC ribbon lifts away, a device for travelling in both directions at once. Coloured transparent paper adds flashes of light that hint at moments seen twice. Seen from above, the three parts join into one ring whose end returns to its beginning. The model shows how a sequence of materials can make an abstract idea of time tangible.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "摺疊時間-以三幕建成的環",
+              "body": "關於逆轉時間的故事之所以扣人心弦，在於它們扭轉了因果，這個專題追問，這樣的扭轉要如何被建造。學生放下原本的敘事，被引導設計一連串空間，讓造訪者感到時間繞圈回返。一張草圖先沿著單一路線安排三幕。第一幕是一場爆炸，以翻湧的棉花與碎裂的木籤呈現，凝結在最響亮的那一刻。第二幕是一場追逐，白色PVC條帶如速度的軌跡般掃過殘骸。最後一幕沉靜為一座以混凝土澆鑄、厚實沉重的廣場，一座PVC帶狀螺旋梯從中升起，是一部能同時朝兩個方向行進的裝置。透明色紙添上幾道閃光，暗示被看見兩次的瞬間。從上方看，三個部分連成一個終點回到起點的環。模型說明，一連串材料能讓抽象的時間概念變得可以觸及。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
