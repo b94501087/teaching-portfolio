@@ -1,0 +1,61 @@
+{
+  "project": "Cat Space",
+  "dest": "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views",
+  "note": "Portfolio 6f23 pages 2-3 cropped to 9 images, WebP q88 (PIL). Not used: process photos with hands, strip of reference room photos.",
+  "files": [
+    {
+      "name": "01-cat-space-model.webp",
+      "sha256": "d1a01ca502ec98bc71835fbdc5811b2611e1786dbf48f3f9d642bc9bf41b80d2",
+      "bytes": 70972,
+      "from": "6f23 pages 2-3 — the cat space model"
+    },
+    {
+      "name": "02-cat-space-model-front.webp",
+      "sha256": "2a8a393d321c2184a75acab62192996c2b1740f4f13793f46bba1dafd71a0c42",
+      "bytes": 80296,
+      "from": "6f23 pages 2-3 — the model from the front"
+    },
+    {
+      "name": "03-curled-sheets-and-cat.webp",
+      "sha256": "ab022d35e6f0d64c59d8d34044680b7ffea3405ff8858aa4529beaf5bde18f29",
+      "bytes": 42012,
+      "from": "6f23 pages 2-3 — curled sheets and a clay cat"
+    },
+    {
+      "name": "04-tangled-curves.webp",
+      "sha256": "88a291f69cd05d8c08d155987ce3c59d223a154f724e514a05f9a7809c9d3278",
+      "bytes": 40556,
+      "from": "6f23 pages 2-3 — tangled curves"
+    },
+    {
+      "name": "05-cat-tree-opening.webp",
+      "sha256": "d485b2603050b1f1888e9fa957bf71cc816a77b61ce3f5fb890f52a37eef2af1",
+      "bytes": 35842,
+      "from": "6f23 pages 2-3 — an opening like a cat tree"
+    },
+    {
+      "name": "06-tube-paths.webp",
+      "sha256": "7244ac6c711454b6144246e842855d2e274515e17f953839f1c82be248fec617",
+      "bytes": 46610,
+      "from": "6f23 pages 2-3 — tube-like paths"
+    },
+    {
+      "name": "07-cat-view-collage.webp",
+      "sha256": "76bc557896c78070fde9e3a359cffa78d5ccc9c8138b5e738af2f61bd74231b4",
+      "bytes": 85480,
+      "from": "6f23 pages 2-3 — a collage of cat-eye views"
+    },
+    {
+      "name": "08-outline-drawing.webp",
+      "sha256": "775526c8443850f271685866fc5d822926854da2ac9bd8f28839859a58cfd6a9",
+      "bytes": 53254,
+      "from": "6f23 pages 2-3 — the outline drawing"
+    },
+    {
+      "name": "09-first-foam-model.webp",
+      "sha256": "3727db271e3fb6b11bb0a9d724fe406d914cec9eabfebb6de6b59c6d86460df3",
+      "bytes": 63440,
+      "from": "6f23 pages 2-3 — the first foam model"
+    }
+  ]
+}
