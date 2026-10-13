@@ -1,0 +1,67 @@
+{
+  "project": "Parallel Worlds in a Box",
+  "dest": "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes",
+  "note": "Portfolio 3c08 pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text, the film name and character names, process photos with hands.",
+  "files": [
+    {
+      "name": "01-large-box.webp",
+      "sha256": "7fe2e7da4f325cde27f5b52714c9542b1f2996b21e31e6aa5e6a6144c23d7308",
+      "bytes": 101030,
+      "from": "3c08 page 5 — large box"
+    },
+    {
+      "name": "02-film-stills.webp",
+      "sha256": "da82c5aea0f22184f221884ee906f8f8a0926dca7c3a097bd73d53bcbcc24b8e",
+      "bytes": 84356,
+      "from": "3c08 page 4 — film stills"
+    },
+    {
+      "name": "03-cube-sketches.webp",
+      "sha256": "3333d45ee225fb1f364af1185c9f4992cb395c8822f877934bf55bde896c44ee",
+      "bytes": 32950,
+      "from": "3c08 page 4 — cube sketches"
+    },
+    {
+      "name": "04-arc-sketches.webp",
+      "sha256": "b65042afd18eb08d9db5f481fe7cbd7bbbc75299cef8641f39c8d54130bf814d",
+      "bytes": 26104,
+      "from": "3c08 page 4 — arc sketches"
+    },
+    {
+      "name": "05-first-cube.webp",
+      "sha256": "d902902c147b045f0a0d5c69ea9b25d76a3ec86cbeb3ff964b08d1124f3b14bc",
+      "bytes": 13458,
+      "from": "3c08 page 4 — first cube"
+    },
+    {
+      "name": "06-web-cube.webp",
+      "sha256": "c82955d7f72623b90b537183ecdf4a1baabeaf4af45ffebb6ac15c6ddde42142",
+      "bytes": 16488,
+      "from": "3c08 page 4 — web cube"
+    },
+    {
+      "name": "07-green-box.webp",
+      "sha256": "48af410f00ba37f89b48f397b673badc56a9663e020cc43d5561469379925947",
+      "bytes": 38282,
+      "from": "3c08 page 5 — green box"
+    },
+    {
+      "name": "08-red-box.webp",
+      "sha256": "26a05dffa5fbc7e9a8bb1e4361cde7518c35ba546e62f4c27a8fe20173d13545",
+      "bytes": 37062,
+      "from": "3c08 page 5 — red box"
+    },
+    {
+      "name": "09-detail-tall.webp",
+      "sha256": "21fcf95b9070de509b8394e2772fb89b57e2cd26f02b7ba9b40e9575ad62fbbb",
+      "bytes": 40928,
+      "from": "3c08 page 5 — detail tall"
+    },
+    {
+      "name": "10-detail-colour.webp",
+      "sha256": "097a151303d8bc32bf1acf5241457fd21061635ef09d2fa3c33c6b78abbacacc",
+      "bytes": 32938,
+      "from": "3c08 page 5 — detail colour"
+    }
+  ]
+}
