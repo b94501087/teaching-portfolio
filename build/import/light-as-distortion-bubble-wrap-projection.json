@@ -1,0 +1,43 @@
+{
+  "project": "Light as Distortion",
+  "dest": "assets/board/light-as-distortion-bubble-wrap-projection",
+  "note": "Portfolio a289 page 3 cropped to 6 images, WebP q88 (PIL). Not used: temple colonnade photo, projection photos with a hand-held light, caption.",
+  "files": [
+    {
+      "name": "01-ambient-light-collage.webp",
+      "sha256": "0a4e9030e62a6dc35c1b317b66dddc1ef8e6116b3134d9d1c5a05dc573ab2aca",
+      "bytes": 64196,
+      "from": "a289 page 3 — the ambient light collage"
+    },
+    {
+      "name": "02-projection-sketch.webp",
+      "sha256": "fa5d71b81a753b2141d0f3aec83c1498de66a62bdf16cf7d0e35badae759a178",
+      "bytes": 345724,
+      "from": "a289 page 3 — a sketch of the projection idea"
+    },
+    {
+      "name": "03-material-tests.webp",
+      "sha256": "04e93dee9d732c7d06b4b3c1d404b23ee028d49764d0506174f2c90d0f9e5edc",
+      "bytes": 43886,
+      "from": "a289 page 3 — tests of transparent materials"
+    },
+    {
+      "name": "04-light-angle-tests.webp",
+      "sha256": "c67e4aa9877fe015e82f42525ceba6a505b24611bd7a6f8f564e5717836aafed",
+      "bytes": 21172,
+      "from": "a289 page 3 — tests of light angle and distance"
+    },
+    {
+      "name": "06-collage-mock-up.webp",
+      "sha256": "5956f3bb4cb4d0f35f78a434d619743137f84c3b207a321c62c3f0d0d99b7ae9",
+      "bytes": 67560,
+      "from": "a289 page 3 — a coloured mock-up of the collage"
+    },
+    {
+      "name": "07-projection-section-sketches.webp",
+      "sha256": "c39eead96ea9317787166caa8a596d35a704b1db17d7a88a08d75824b54b3a27",
+      "bytes": 96044,
+      "from": "a289 page 3 — section sketches of the projection"
+    }
+  ]
+}
