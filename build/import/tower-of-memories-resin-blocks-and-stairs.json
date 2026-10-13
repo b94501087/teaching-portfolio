@@ -1,0 +1,37 @@
+{
+  "project": "Tower of Memories",
+  "dest": "assets/board/tower-of-memories-resin-blocks-and-stairs",
+  "note": "Portfolio 0b95 page 9 cropped to 5 images, WebP q88 (PIL). Not used: photos of people playing ball games, process photos with hands.",
+  "files": [
+    {
+      "name": "01-hanging-memory-blocks.webp",
+      "sha256": "a992fa08026dc7741830bc829ea47914c4665c2c71819014717a6cb4380c0687",
+      "bytes": 141266,
+      "from": "0b95 page 9 — hanging memory blocks"
+    },
+    {
+      "name": "02-stairs-and-blocks.webp",
+      "sha256": "8853496732493f1e2256e2b7243576efc49e1524aadd075478103d12ac994a48",
+      "bytes": 135224,
+      "from": "0b95 page 9 — stairs and blocks"
+    },
+    {
+      "name": "03-resin-blocks-close-up.webp",
+      "sha256": "fc492c4d393ce5056a0537f090868586f4c8147b8ad28f78e2170ea116282ecd",
+      "bytes": 35864,
+      "from": "0b95 page 9 — resin blocks close up"
+    },
+    {
+      "name": "04-block-stack.webp",
+      "sha256": "b12798b2987c81a1d2631983a74d9b3be751633928efb74d82107e4b6009f36e",
+      "bytes": 25874,
+      "from": "0b95 page 9 — a block stack"
+    },
+    {
+      "name": "05-blocks-on-the-ground.webp",
+      "sha256": "3440df43123d06034e8a1caaa006e3bffb86edc0ac306173e0fc14dce80352df",
+      "bytes": 36402,
+      "from": "0b95 page 9 — blocks on the ground"
+    }
+  ]
+}
