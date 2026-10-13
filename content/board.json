@@ -69520,6 +69520,554 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Flowing Winged Jungle",
+      "slug": "flowing-winged-jungle-branch-wing-loops-and-silver-tower",
+      "description": "Waste branches trace the loop of a flapping wing, then grow into a silver tower threaded with balsa paths.\n\nModel | Motion-to-form study | Waste sticks and branches, hot glue, foam base, balsa wood, silver spray paint | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "流動的羽翼叢林",
+          "description": "廢棄枝條描出拍翅的迴圈，再長成一座穿插輕木步道的銀色塔。\n\n模型｜動作轉形態研究｜廢棄木條與樹枝、熱熔膠、泡綿底座、輕木、銀色噴漆｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/01-branch-wing-swirl.webp",
+        "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/02-silver-tower-side.webp",
+        "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/03-silver-close-up.webp",
+        "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/04-silver-tower-front.webp",
+        "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/05-balsa-paths.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/01-branch-wing-swirl.webp"
+          ],
+          "captions": [
+            "Branches swirling like a wing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "如羽翼般迴旋的枝條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A bird's wing traces a loop each time it flaps. The project asks how that loop could become a space people move through.",
+          "images": [
+            "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/04-silver-tower-front.webp"
+          ],
+          "captions": [
+            "The tower from the front."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "鳥每次拍翅都會畫出一個迴圈。這個專題探問，這個迴圈如何成為人可以穿行的空間。",
+              "captions": [
+                "塔的正面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student watched birds from a window and the broken twigs they use for nests. Each wing stroke was cut into segments.",
+          "images": [
+            "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/02-silver-tower-side.webp"
+          ],
+          "captions": [
+            "The sprayed tower from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從窗口觀察鳥，以及牠們用來築巢的斷枝。每一次振翅都被切分成片段。",
+              "captions": [
+                "噴漆後的塔身側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Twigs from the street were glued into wing segments and stacked into a tower. Balsa paths of different widths run in and around it.",
+          "images": [
+            "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/05-balsa-paths.webp"
+          ],
+          "captions": [
+            "Balsa paths among the twigs."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把街上撿來的枝條黏成羽翼片段，再堆疊成塔。不同寬度的輕木步道在塔內外穿行。",
+              "captions": [
+                "枝條間的輕木步道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 850 mm model was sprayed silver. Tiny figures show a tower of linked paths and flowing spaces.",
+          "images": [
+            "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower/03-silver-close-up.webp"
+          ],
+          "captions": [
+            "A close view of the paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個850公釐的模型噴上銀漆。小人偶顯示出一座由相連路徑與流動空間構成的塔。",
+              "captions": [
+                "步道近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch one motion closely.\n2. Cut it into segments.\n3. Build each segment from found material.\n4. Add paths to test scale.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 仔細觀察一個動作。\n2. 把它切分成片段。\n3. 以撿拾材料製作每一段。\n4. 加入步道測試尺度。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Ring of Wings",
+      "slug": "ring-of-wings-woven-bamboo-flight-arcs",
+      "description": "Woven bamboo rings stack and sweep like the arcs of birds in flight, hung among real trees.\n\nInstallation | Flight path study | Bamboo, paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "羽翼之環",
+          "description": "編織竹環如飛鳥的弧線般堆疊、掠過，懸掛在真實的樹林間。\n\n裝置｜飛行軌跡研究｜竹、紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/01-bamboo-rings-hanging.webp",
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/02-woven-wing-arc.webp",
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/03-ring-edge.webp",
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/04-woven-bowl.webp",
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/05-wing-tips.webp",
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/06-bird-flight-sketches.webp",
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/07-weaving-tests.webp",
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/08-wings-in-the-forest.webp",
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/09-forest-close-up.webp",
+        "assets/board/ring-of-wings-woven-bamboo-flight-arcs/10-forest-distance.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/01-bamboo-rings-hanging.webp"
+          ],
+          "captions": [
+            "Bamboo rings hanging in the dark."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "暗處懸掛的竹環。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Each kind of bird flies along its own arc. The project asks how many such arcs could combine into one light structure.",
+          "images": [
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/06-bird-flight-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of birds in flight."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "每種鳥都沿著自己的弧線飛行。這個專題探問，許多弧線如何結合成一個輕盈的結構。",
+              "captions": [
+                "飛鳥素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Bamboo strips were woven in several patterns. The tests showed bamboo is tough, light and kind to the environment.",
+          "images": [
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/07-weaving-tests.webp"
+          ],
+          "captions": [
+            "Woven bamboo pattern tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以數種圖樣編織竹條。試驗顯示竹材強韌、輕巧，也對環境友善。",
+              "captions": [
+                "竹編圖樣試驗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Flight arcs were woven as open baskets and joined at their tips. Paper sails were added to catch the light.",
+          "images": [
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/02-woven-wing-arc.webp",
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/03-ring-edge.webp",
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/04-woven-bowl.webp",
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/05-wing-tips.webp"
+          ],
+          "captions": [
+            "A woven wing arc.",
+            "The edge of a ring.",
+            "A woven bowl form.",
+            "Joined wing tips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把飛行弧線編成開口的籃形，並在末端相接。再加入紙帆來捕捉光線。",
+              "captions": [
+                "編織的羽翼弧線。",
+                "竹環邊緣。",
+                "編織的碗形。",
+                "相接的翼端。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 1350 mm piece was hung in a forest. Among the leaves it reads as wings that belong to the place.",
+          "images": [
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/08-wings-in-the-forest.webp",
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/09-forest-close-up.webp",
+            "assets/board/ring-of-wings-woven-bamboo-flight-arcs/10-forest-distance.webp"
+          ],
+          "captions": [
+            "The rings among the trees.",
+            "A closer view in the forest.",
+            "The piece from a distance."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這件1350公釐的作品懸掛在樹林中。在枝葉間，它像是屬於這個地方的羽翼。",
+              "captions": [
+                "樹林間的竹環。",
+                "林中近觀。",
+                "遠望作品。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Draw the paths of a movement.\n2. Test a light material.\n3. Weave each path as a form.\n4. Try the piece on site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 畫出動作的路徑。\n2. 測試一種輕質材料。\n3. 把每條路徑編成形體。\n4. 在現地測試作品。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "From Timber to Clear Rods",
+      "slug": "timber-to-acrylic-tower-joints-fading-into-clear-rods",
+      "description": "A tower of interlocking wooden joints turns into clear acrylic rods as it rises, as if the old structure is fading away.\n\nModel and drawing | Traditional joinery study | Wooden strips, acrylic strips | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "從木構到透明",
+          "description": "一座以木構榫接組成的塔，越往上越變成透明壓克力桿，彷彿舊結構逐漸消逝。\n\n模型與繪圖｜傳統榫卯研究｜木條、壓克力條｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/01-wood-and-acrylic-tower.webp",
+        "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/02-joint-tests.webp",
+        "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/03-roof-layers.webp",
+        "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/04-bracket-detail.webp",
+        "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/05-acrylic-rods-detail.webp",
+        "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/06-tower-front.webp",
+        "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/07-eaves-pen-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/01-wood-and-acrylic-tower.webp"
+          ],
+          "captions": [
+            "The wood and acrylic tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "木與壓克力之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Many old timber buildings are being rebuilt or lost. The project asks how a model could show that slow loss.",
+          "images": [
+            "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/07-eaves-pen-drawing.webp"
+          ],
+          "captions": [
+            "A pen drawing of timber eaves."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "許多老木構建築正被改建或消失。這個專題探問，模型如何呈現這種緩慢的流失。",
+              "captions": [
+                "木構屋簷的鋼筆畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student sketched joints in old buildings and studied how hidden parts carry an all-wood frame. Small stick joints tested each type.",
+          "images": [
+            "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/02-joint-tests.webp"
+          ],
+          "captions": [
+            "Small joint tests."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生速寫老建築中的接頭，研究隱藏的構件如何支撐全木構架。小型木條接頭測試了每一種類型。",
+              "captions": [
+                "小型接頭測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The joints were made so they could repeat and lock with as little glue as possible. They were then stacked into roof layers.",
+          "images": [
+            "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/03-roof-layers.webp",
+            "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/04-bracket-detail.webp",
+            "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/05-acrylic-rods-detail.webp"
+          ],
+          "captions": [
+            "Stacked roof layers.",
+            "A bracket detail.",
+            "Acrylic rods above the wood."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生讓接頭可以重複、並盡量少用膠而互相咬合。接著把它們堆疊成一層層屋頂。",
+              "captions": [
+                "堆疊的屋頂層。",
+                "斗栱細部。",
+                "木構上方的壓克力桿。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 600 mm tower is solid wood at its base and clear acrylic at the top. The clear part reads as a past that is being lost.",
+          "images": [
+            "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods/06-tower-front.webp"
+          ],
+          "captions": [
+            "The tower from the front."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座600公釐的塔底部是實木，頂部是透明壓克力。透明的部分象徵正在消逝的過去。",
+              "captions": [
+                "塔的正面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Sketch real joints on site.\n2. Rebuild each joint small.\n3. Stack them into one form.\n4. Change material to tell a story.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 在現場速寫真實接頭。\n2. 以小尺度重做每個接頭。\n3. 把它們堆成一個形體。\n4. 用材料變化講故事。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tower on a Mountain of Debris",
+      "slug": "tower-on-a-mountain-of-debris-arched-rings-and-pearls",
+      "description": "Rings of arched walls rise from a heap of clay debris, hung with pearls and fragile plaster skin.\n\nModel and drawing | Story-to-space study | Concrete, wooden sticks, pearls, PVC board, stone clay, gauze | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "廢墟山上的塔",
+          "description": "一圈圈拱牆從黏土碎屑堆中升起，掛著珍珠與脆弱的石膏表皮。\n\n模型與繪圖｜故事轉空間研究｜混凝土、木條、珍珠、PVC板、石粉黏土、紗布｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/01-tower-on-debris.webp",
+        "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/02-pen-drawing.webp",
+        "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/03-arched-rings.webp",
+        "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/04-hanging-pearls.webp",
+        "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/05-debris-base.webp",
+        "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/06-rings-in-progress.webp",
+        "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/07-clay-debris-test.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/01-tower-on-debris.webp"
+          ],
+          "captions": [
+            "The tower on its debris base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "立於碎屑底座上的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The work starts from a novel about glamour, memory and loss. It asks how bright parties and hidden decay could share one tower.",
+          "images": [
+            "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/02-pen-drawing.webp"
+          ],
+          "captions": [
+            "A pen drawing of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "作品源自一部關於浮華、記憶與失落的小說。它探問，耀眼的派對與隱藏的衰敗如何共存於一座塔。",
+              "captions": [
+                "塔的鋼筆畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Rings of arches stand for grand parties at the top. A heap of rocks and bones below stands for what lies behind the show.",
+          "images": [
+            "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/03-arched-rings.webp"
+          ],
+          "captions": [
+            "Rings of arched walls."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "頂部的拱圈代表盛大的派對。下方的岩石與骨骼堆，代表浮華背後的真相。",
+              "captions": [
+                "拱牆環圈。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stone clay was shaped into a mound of waste. Pearls and building scraps hang down from the rings like falling time.",
+          "images": [
+            "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/06-rings-in-progress.webp",
+            "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/07-clay-debris-test.webp",
+            "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/04-hanging-pearls.webp"
+          ],
+          "captions": [
+            "The rings being built.",
+            "Clay debris pieces.",
+            "Pearls hanging from the rings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以石粉黏土塑出廢棄物堆。珍珠與建築碎片從環圈垂下，如流逝的時間。",
+              "captions": [
+                "製作中的環圈。",
+                "黏土碎屑構件。",
+                "從環圈垂下的珍珠。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A thin plaster skin makes the tower look fragile. The 750 mm model shows layers from the bright top to the heavy base.",
+          "images": [
+            "assets/board/tower-on-a-mountain-of-debris-arched-rings-and-pearls/05-debris-base.webp"
+          ],
+          "captions": [
+            "The debris at the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "薄薄的石膏表皮讓塔顯得脆弱。這個750公釐的模型呈現出從明亮頂部到沉重底座的層次。",
+              "captions": [
+                "底部的碎屑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Read a story for its themes.\n2. Give each theme a layer.\n3. Contrast light and heavy materials.\n4. Draw it once it is built.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從故事中找出主題。\n2. 每個主題一個層次。\n3. 對比輕與重的材料。\n4. 完成後把它畫下來。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
