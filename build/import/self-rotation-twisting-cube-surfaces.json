@@ -1,0 +1,61 @@
+{
+  "project": "Self-Rotation",
+  "dest": "assets/board/self-rotation-twisting-cube-surfaces",
+  "note": "Portfolio ca28 page 11 cropped to 9 images, WebP q88 (PIL). Not used: programme name.",
+  "files": [
+    {
+      "name": "01-twisting-surface-render.webp",
+      "sha256": "207fb4211ede0acab6ce02d5c7cc3f5f927737cdac25217d28a886aa881a5575",
+      "bytes": 9614,
+      "from": "ca28 page 11 — the twisting surface"
+    },
+    {
+      "name": "02-surface-render-b.webp",
+      "sha256": "0a911f9032e7c3c2ad548dd11a83ef84b17c6f3163b38e45882ee8cd99314ee2",
+      "bytes": 6312,
+      "from": "ca28 page 11 — another view"
+    },
+    {
+      "name": "03-rotation-drawing.webp",
+      "sha256": "f0c8b23150aea5f1755b6807ec4b3944922e93ba133c1f2ad415d91f95468f16",
+      "bytes": 27082,
+      "from": "ca28 page 11 — a rotation drawing"
+    },
+    {
+      "name": "04-detail-rotation-drawing.webp",
+      "sha256": "1abf5936fec69fa24ee1fff3ea3c2898d2e94b3bf7c8409122fa1b34a276c2e2",
+      "bytes": 17718,
+      "from": "ca28 page 11 — a detail rotation drawing"
+    },
+    {
+      "name": "05-detail-render.webp",
+      "sha256": "5343701ce54a2e4217fbc248df0572ee8d41aa4f974f08eb6a8afa7d76f97231",
+      "bytes": 8464,
+      "from": "ca28 page 11 — a detail render"
+    },
+    {
+      "name": "06-unrolled-elevation.webp",
+      "sha256": "edbf502a0d9c49b53dc781aff9c48d469edb1eea7102c5c30b6bdb0b889e6019",
+      "bytes": 23730,
+      "from": "ca28 page 11 — the unrolled elevation"
+    },
+    {
+      "name": "07-line-surface-render.webp",
+      "sha256": "7c429790ad8143e10c882be945b474cc3a42c4595deaa5d384ec14b919156db0",
+      "bytes": 16740,
+      "from": "ca28 page 11 — a line surface render"
+    },
+    {
+      "name": "08-acrylic-fan-model.webp",
+      "sha256": "347d417ec166dc6b4dd4d232b7e69fc0c974dfdcd29a637bc384d2b9655c9e3e",
+      "bytes": 11154,
+      "from": "ca28 page 11 — the acrylic fan model"
+    },
+    {
+      "name": "09-acrylic-fan-close-up.webp",
+      "sha256": "b400429c268b655c52f7ccbefd41e536232682cd133c7383b61f594fbb84247c",
+      "bytes": 8716,
+      "from": "ca28 page 11 — the acrylic fan close up"
+    }
+  ]
+}
