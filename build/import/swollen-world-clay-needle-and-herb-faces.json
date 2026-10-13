@@ -1,0 +1,55 @@
+{
+  "project": "Swollen World",
+  "dest": "assets/board/swollen-world-clay-needle-and-herb-faces",
+  "note": "Portfolio 74d1 pages 2-3 cropped to 8 images, WebP q88 (PIL). Not used: cover with name, photos of the student's face and skin, artist research with artist names and artworks, sketches over face photos, dark experiment photo, process photo with the student.",
+  "files": [
+    {
+      "name": "01-three-faced-clay-sculpture.webp",
+      "sha256": "8e614845748feb1138f0f17e27400ff2996e99f16371957ea65a542d394d14d9",
+      "bytes": 101512,
+      "from": "74d1 pages 2-3 — the three-faced clay sculpture"
+    },
+    {
+      "name": "02-swollen-face-with-herbs.webp",
+      "sha256": "f25d5a94447634a526f33474384b6895eafbad0f70c42c6657e37bdd6ab0e8e2",
+      "bytes": 169240,
+      "from": "74d1 pages 2-3 — a swollen face with herbs"
+    },
+    {
+      "name": "03-face-wrapped-in-leaves.webp",
+      "sha256": "4ab11750cfe4fec44298675760252cb4ff5192b37434fec7d4821f8076eaa18e",
+      "bytes": 101910,
+      "from": "74d1 pages 2-3 — a face wrapped in leaves"
+    },
+    {
+      "name": "04-exaggerated-swollen-face.webp",
+      "sha256": "b55416214bae0fd893f7bc3cb1722dad7472246ff1dba6551f3002501d6ed66e",
+      "bytes": 114192,
+      "from": "74d1 pages 2-3 — an exaggerated swollen face"
+    },
+    {
+      "name": "05-clay-face-with-needles.webp",
+      "sha256": "b822116d9f64bf571896fe53971847b40510d312fddfe3af14a69fc5b97467bf",
+      "bytes": 15112,
+      "from": "74d1 pages 2-3 — a clay face with needles"
+    },
+    {
+      "name": "06-clay-face-with-herb.webp",
+      "sha256": "2d0e179e1049ed6796a2ea7d51470110f56cdf0730f3ec62590a8aa172e47b29",
+      "bytes": 27370,
+      "from": "74d1 pages 2-3 — a clay face with herb"
+    },
+    {
+      "name": "07-white-clay-test-face.webp",
+      "sha256": "12a05c8f1cb05d1d01b6cb93fe8a0b75764e2e5f511915c791ef4e14392ce20b",
+      "bytes": 19704,
+      "from": "74d1 pages 2-3 — a white clay test face"
+    },
+    {
+      "name": "08-white-mask-study.webp",
+      "sha256": "843b23659dbbc08924691f1cbb83348df4cb1c64169b42773469b735a0680de5",
+      "bytes": 17568,
+      "from": "74d1 pages 2-3 — a white mask study"
+    }
+  ]
+}
