@@ -63408,6 +63408,298 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Imaginary Space",
+      "slug": "imaginary-space-curved-collage-model",
+      "description": "Traced pieces of curved, circular and flat buildings are collaged into one drawing and then built as a bursting white model.\n\nModel making | Collage and form | PVC board, wooden sticks, wooden plate | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "想像的空間",
+          "description": "描下的曲面、圓形與平面建築片段被拼貼成一張圖，再建成一座迸發的白色模型。\n\n模型製作｜拼貼與形態｜PVC板、木棒、木板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/imaginary-space-curved-collage-model/01-collage-model.webp",
+        "assets/board/imaginary-space-curved-collage-model/02-traced-drawing.webp",
+        "assets/board/imaginary-space-curved-collage-model/03-composite-collage.webp",
+        "assets/board/imaginary-space-curved-collage-model/04-curved-study.webp",
+        "assets/board/imaginary-space-curved-collage-model/05-early-model.webp",
+        "assets/board/imaginary-space-curved-collage-model/06-model-front.webp",
+        "assets/board/imaginary-space-curved-collage-model/07-stick-burst.webp",
+        "assets/board/imaginary-space-curved-collage-model/08-shadow-side.webp",
+        "assets/board/imaginary-space-curved-collage-model/09-narrow-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/imaginary-space-curved-collage-model/01-collage-model.webp"
+          ],
+          "captions": [
+            "The finished model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student was drawn to buildings known for curved fronts, round forms and calm flat walls. The aim was to join these very different languages in one imaginary space.",
+          "images": [
+            "assets/board/imaginary-space-curved-collage-model/04-curved-study.webp"
+          ],
+          "captions": [
+            "A curved study."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生被以曲面立面、圓形量體與平靜平牆聞名的建築所吸引。目標是把這些迥異的語彙結合在一個想像的空間中。",
+              "captions": [
+                "曲面研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Pictures of the buildings were traced on tracing paper and cut into pieces. The pieces were stretched and collaged into one composite drawing.",
+          "images": [
+            "assets/board/imaginary-space-curved-collage-model/02-traced-drawing.webp",
+            "assets/board/imaginary-space-curved-collage-model/03-composite-collage.webp"
+          ],
+          "captions": [
+            "The composite line drawing.",
+            "The layered tracing collage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "建築的圖片被描在描圖紙上並剪成碎片。這些碎片被延展、拼貼成一張組合圖。",
+              "captions": [
+                "組合的線描。",
+                "層疊的描圖拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Elements were lifted from the drawing to make the model. The work focused on fusing curved, circular and flat surfaces together.",
+          "images": [
+            "assets/board/imaginary-space-curved-collage-model/05-early-model.webp",
+            "assets/board/imaginary-space-curved-collage-model/06-model-front.webp"
+          ],
+          "captions": [
+            "An early model.",
+            "The model from the front."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生從圖中提取元素來製作模型。重點在於把曲面、圓形與平面融合在一起。",
+              "captions": [
+                "早期模型。",
+                "模型正面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "White walls curl around round rooms while sticks burst out on every side. The model reads as a single new place built from many borrowed parts.",
+          "images": [
+            "assets/board/imaginary-space-curved-collage-model/07-stick-burst.webp",
+            "assets/board/imaginary-space-curved-collage-model/08-shadow-side.webp",
+            "assets/board/imaginary-space-curved-collage-model/09-narrow-view.webp"
+          ],
+          "captions": [
+            "Sticks bursting out.",
+            "Shadows on the side.",
+            "A narrow view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "白牆環繞圓形空間捲曲，木棒向四面八方迸出。模型看起來是由許多借來的片段組成的一個全新場所。",
+              "captions": [
+                "迸出的木棒。",
+                "側面的陰影。",
+                "窄角視圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study works you admire.\n2. Trace and cut.\n3. Collage into one.\n4. Build the fusion.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究你欣賞的作品。\n2. 描繪並剪下。\n3. 拼貼成一體。\n4. 建構融合。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Ground I Run Upon",
+      "slug": "ground-i-run-upon-texture-material-models",
+      "description": "Ground textures noticed on daily runs are drawn as patterns and rebuilt as small models of foam, cotton, sand and sticks.\n\nModel making | Material study | Foam board, cotton, plaster, sand, pebbles, wooden sticks, iron wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "我奔跑的地面",
+          "description": "日常跑步時注意到的地面紋理被畫成圖案，再以泡棉、棉花、沙與木棒重建為小模型。\n\n模型製作｜材料研究｜泡棉板、棉花、石膏、沙、卵石、木棒、鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/ground-i-run-upon-texture-material-models/01-model-set.webp",
+        "assets/board/ground-i-run-upon-texture-material-models/02-texture-drawings.webp",
+        "assets/board/ground-i-run-upon-texture-material-models/03-foam-and-wire.webp",
+        "assets/board/ground-i-run-upon-texture-material-models/04-stick-frame.webp",
+        "assets/board/ground-i-run-upon-texture-material-models/05-cotton-trees.webp",
+        "assets/board/ground-i-run-upon-texture-material-models/06-folded-sail.webp",
+        "assets/board/ground-i-run-upon-texture-material-models/07-timber-shelter.webp",
+        "assets/board/ground-i-run-upon-texture-material-models/08-pebble-tray.webp",
+        "assets/board/ground-i-run-upon-texture-material-models/09-wire-tangle-top.webp",
+        "assets/board/ground-i-run-upon-texture-material-models/10-model-row.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/ground-i-run-upon-texture-material-models/01-model-set.webp"
+          ],
+          "captions": [
+            "The set of texture models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "整組紋理模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student runs around the neighbourhood and slows down when a view catches the eye. At that pace, the texture of the ground beneath becomes very clear.",
+          "images": [
+            "assets/board/ground-i-run-upon-texture-material-models/02-texture-drawings.webp"
+          ],
+          "captions": [
+            "Patterns traced from the ground."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生常在住家附近跑步，看到吸引目光的景色就會放慢腳步。在這樣的速度下，腳下地面的紋理變得格外清晰。",
+              "captions": [
+                "從地面描下的圖案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Some ground was hard and some was soft, and each was made of different materials. The student photographed the ground and traced a pattern from each texture.",
+          "images": [
+            "assets/board/ground-i-run-upon-texture-material-models/03-foam-and-wire.webp",
+            "assets/board/ground-i-run-upon-texture-material-models/08-pebble-tray.webp"
+          ],
+          "captions": [
+            "Foam and wire.",
+            "Pebbles set in foam."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "有些地面堅硬、有些柔軟，各自由不同材料組成。學生拍下地面，並從每種紋理描出圖案。",
+              "captions": [
+                "泡棉與鐵絲。",
+                "嵌入泡棉的卵石。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Materials that felt close to each texture were chosen, though not the same as on the ground. Each model was also lifted upward so it could be read as a space.",
+          "images": [
+            "assets/board/ground-i-run-upon-texture-material-models/04-stick-frame.webp",
+            "assets/board/ground-i-run-upon-texture-material-models/05-cotton-trees.webp",
+            "assets/board/ground-i-run-upon-texture-material-models/06-folded-sail.webp"
+          ],
+          "captions": [
+            "A stick frame over the ground.",
+            "Cotton on a plaster block.",
+            "A folded sail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生選擇感覺接近各種紋理的材料，雖然與地面上的並不相同。每個模型也被向上發展，讓它能被讀成一個空間。",
+              "captions": [
+                "地面上的木棒框架。",
+                "石膏塊上的棉花。",
+                "摺起的帆。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The pieces turn ordinary ground into shelters, sails and gardens. Working with so many materials broadened the student's sense of texture and making.",
+          "images": [
+            "assets/board/ground-i-run-upon-texture-material-models/07-timber-shelter.webp",
+            "assets/board/ground-i-run-upon-texture-material-models/09-wire-tangle-top.webp",
+            "assets/board/ground-i-run-upon-texture-material-models/10-model-row.webp"
+          ],
+          "captions": [
+            "A timber shelter.",
+            "Wire and cotton from above.",
+            "The models side by side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這些作品把平凡的地面變成棚架、帆與花園。運用這麼多材料，拓展了學生對紋理與製作的感受。",
+              "captions": [
+                "木構棚架。",
+                "從上方看鐵絲與棉花。",
+                "並排的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Notice the ground.\n2. Trace its pattern.\n3. Match a material.\n4. Lift it into space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 留意地面。\n2. 描下它的圖案。\n3. 找到相應的材料。\n4. 把它提升為空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
