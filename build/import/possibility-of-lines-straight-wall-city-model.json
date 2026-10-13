@@ -1,0 +1,61 @@
+{
+  "project": "Possibility of Lines",
+  "dest": "assets/board/possibility-of-lines-straight-wall-city-model",
+  "note": "Portfolio a9c4 page 3 cropped to 9 images, WebP q88 (PIL). Not used: caption with dimensions and date.",
+  "files": [
+    {
+      "name": "01-line-city-from-above.webp",
+      "sha256": "f24d73fc8a997fd90cec05c02bae7c68f16f0b0f79d7b84a2d35eb6b7dcc3302",
+      "bytes": 173256,
+      "from": "a9c4 page 3 — the line city from above"
+    },
+    {
+      "name": "02-wavy-line-drawing.webp",
+      "sha256": "99315b3f238f3f71c7b4ce00914f3499117b6e90701241eca55d4af2fa383998",
+      "bytes": 48368,
+      "from": "a9c4 page 3 — a drawing of wavy lines"
+    },
+    {
+      "name": "03-line-space-sketch.webp",
+      "sha256": "2f007ee6d42347cec13e2d9354f4bbb5f082fe429414bc1509e0ab7f4a992265",
+      "bytes": 30536,
+      "from": "a9c4 page 3 — a sketch of lines becoming space"
+    },
+    {
+      "name": "04-walls-and-trees-view.webp",
+      "sha256": "eecb60454dde14b03cf27b77437737acd502a0a7e9d49fac2659f4c09fab449f",
+      "bytes": 16594,
+      "from": "a9c4 page 3 — walls and trees in view"
+    },
+    {
+      "name": "05-layered-panels-view.webp",
+      "sha256": "8a6c746da217e0e9870f5db508650d97830a1caeb264177317295222aa6aac97",
+      "bytes": 13210,
+      "from": "a9c4 page 3 — layered panels in view"
+    },
+    {
+      "name": "06-parallel-walls-view.webp",
+      "sha256": "a98b1d58c31bfa2ff21eab93789fde1cae5295449ce134496bd0f855b6519f81",
+      "bytes": 19244,
+      "from": "a9c4 page 3 — parallel walls in view"
+    },
+    {
+      "name": "07-tree-between-walls.webp",
+      "sha256": "ec2b335148eab6ca64f7584c095502d183dd7a4561d115be172873926a2b4919",
+      "bytes": 13976,
+      "from": "a9c4 page 3 — a tree between walls"
+    },
+    {
+      "name": "08-lit-from-below.webp",
+      "sha256": "95b75417dd1efbac5ffc7c394149be83c3a9ad920992a7162b82bf418e1bfd16",
+      "bytes": 18796,
+      "from": "a9c4 page 3 — the model lit from below"
+    },
+    {
+      "name": "09-glowing-blank-spaces.webp",
+      "sha256": "2e978ba9b0f473bc7cfe35e268d787ff0a7bf4a43b4ab7f7eab28dee40cbfb37",
+      "bytes": 22808,
+      "from": "a9c4 page 3 — glowing blank spaces"
+    }
+  ]
+}
