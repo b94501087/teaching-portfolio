@@ -1,0 +1,67 @@
+{
+  "project": "The Blue Channel",
+  "dest": "assets/board/the-blue-channel-life-size-distance-installation",
+  "note": "Portfolio a9c4 pages 10-11 cropped to 10 images, WebP q88 (PIL). Not used: personal street photographs, collages with reference photos and people, idea-draft collage, photos of the student inside the installation, process thumbnails with hands.",
+  "files": [
+    {
+      "name": "01-channel-in-blue-light.webp",
+      "sha256": "2b815b8085156e0cfb05e1ad975a70a4b96b5bb14e5d704156f9bf7f9fbc7f31",
+      "bytes": 27434,
+      "from": "a9c4 pages 10-11 — the channel in blue light"
+    },
+    {
+      "name": "02-frame-with-hanging-forms.webp",
+      "sha256": "7fda3600055afda9bd46f07a0e98cd95758124a3e30280dbf2fe96ec54230574",
+      "bytes": 14534,
+      "from": "a9c4 pages 10-11 — a frame with hanging forms"
+    },
+    {
+      "name": "03-tall-frame-study.webp",
+      "sha256": "9b6746094b0b66d75b849024878f2ea885bdc88f27695472ba5b91418fa32179",
+      "bytes": 7102,
+      "from": "a9c4 pages 10-11 — a tall frame study"
+    },
+    {
+      "name": "04-small-box-study.webp",
+      "sha256": "24d8095b1a2538d715aec4a4c9753f932be69dc5d4f4138ab671f78123868631",
+      "bytes": 6470,
+      "from": "a9c4 pages 10-11 — a small box study"
+    },
+    {
+      "name": "05-layered-board-model.webp",
+      "sha256": "3cba7c6173dbaed71e689d3d8dd94e5f1d6b8020e3275efb4ccfde1a55393250",
+      "bytes": 7010,
+      "from": "a9c4 pages 10-11 — a layered board model"
+    },
+    {
+      "name": "06-model-with-black-forms.webp",
+      "sha256": "9fd6ce9bc7df4ce9c27a478813e9200b474f852224c682ed1219a5465f4db77c",
+      "bytes": 7600,
+      "from": "a9c4 pages 10-11 — a model with black forms"
+    },
+    {
+      "name": "07-channel-in-daylight.webp",
+      "sha256": "373d4baaf57e1182dc8dbbf14e8c4530383a56962005e9e05c708ee45e16e691",
+      "bytes": 17448,
+      "from": "a9c4 pages 10-11 — the channel in daylight"
+    },
+    {
+      "name": "08-dark-mass-against-panels.webp",
+      "sha256": "8d58f35311bf9dfbde3b90501c812814d2370cfe0d5611a9646d1df46d686305",
+      "bytes": 45084,
+      "from": "a9c4 pages 10-11 — the dark mass against panels"
+    },
+    {
+      "name": "09-channel-side-view.webp",
+      "sha256": "9b1b4c447d0802fce17c681e7100b9d9e0f362dd9d79d276206212c6459ce3a1",
+      "bytes": 21396,
+      "from": "a9c4 pages 10-11 — a side view of the channel"
+    },
+    {
+      "name": "10-black-mass-close.webp",
+      "sha256": "9f6747387d5ec50aa292286dd46227b45d848c17d0ef9ff7019025dc573352eb",
+      "bytes": 42386,
+      "from": "a9c4 pages 10-11 — the black mass in close view"
+    }
+  ]
+}
