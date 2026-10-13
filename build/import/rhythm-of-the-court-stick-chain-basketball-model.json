@@ -1,0 +1,67 @@
+{
+  "project": "Rhythm of the Court",
+  "dest": "assets/board/rhythm-of-the-court-stick-chain-basketball-model",
+  "note": "Portfolio cd80 pages 9-10 cropped to ten images, WebP q88 (PIL). Not used: title and text, mind-map pages with league and player names.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "e9a0de6f6942674318d1c78c9d9543035c05260a2fa5d650e76c3956afa38227",
+      "bytes": 90606,
+      "from": "cd80 page 10 — final model"
+    },
+    {
+      "name": "02-motion-sketch.webp",
+      "sha256": "e758e07232cf1a900770b459dfe7d1fa874b294779d3cbed032d1d98b5a252d0",
+      "bytes": 25436,
+      "from": "cd80 page 9 — motion sketch"
+    },
+    {
+      "name": "03-tower-sketch.webp",
+      "sha256": "f71145095c16330d75cbd27e17fae5575933d7e9a92fd1d26c68e01a67ce9e5a",
+      "bytes": 22488,
+      "from": "cd80 page 9 — tower sketch"
+    },
+    {
+      "name": "04-stick-base.webp",
+      "sha256": "994d289850e752e3de03f66b7f1db1bd6436d62d3f53d2db8bfe2ef5cb8b75dd",
+      "bytes": 8228,
+      "from": "cd80 page 9 — stick base"
+    },
+    {
+      "name": "05-coloured-sticks.webp",
+      "sha256": "20e3f30a35669c531fff6f439e1b60621b2d3a8682a301c51e3db7b517d00498",
+      "bytes": 24400,
+      "from": "cd80 page 9 — coloured sticks"
+    },
+    {
+      "name": "06-laced-posts.webp",
+      "sha256": "27d641bb11230ce134c5fdff8c8187c7b60526f5969a166bda577c83d08cbdae",
+      "bytes": 24928,
+      "from": "cd80 page 9 — laced posts"
+    },
+    {
+      "name": "07-ball-corner.webp",
+      "sha256": "0cd1008fa478c73d12afd142d8b93c0c65600eab0fcfffcc12891e4501c3c279",
+      "bytes": 24952,
+      "from": "cd80 page 10 — ball corner"
+    },
+    {
+      "name": "08-figures-below.webp",
+      "sha256": "4d9bd2bf36bfe3435eb3afcf34dc25fff1c77059dc14907554ae9c48ae0714cd",
+      "bytes": 23470,
+      "from": "cd80 page 10 — figures below"
+    },
+    {
+      "name": "09-high-view.webp",
+      "sha256": "201d8808fef6f1d7144045a40b1793ec7f6ff5fe2b9a4230260bd74399da756d",
+      "bytes": 22474,
+      "from": "cd80 page 10 — high view"
+    },
+    {
+      "name": "10-court-detail.webp",
+      "sha256": "2005794ab19a21a1196cec698d843bf3c60ba06320c79f0f0fb7381ad5708dd3",
+      "bytes": 25132,
+      "from": "cd80 page 10 — court detail"
+    }
+  ]
+}
