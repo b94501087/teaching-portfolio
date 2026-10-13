@@ -1,0 +1,37 @@
+{
+  "project": "Bubbles of Infinity",
+  "dest": "assets/board/bubbles-of-infinity-wired-sphere-twisted-strip",
+  "note": "Portfolio 4736 page 9 cropped to 5 images, WebP q88 (PIL). Not used: caption with title, dimensions and date, text panel.",
+  "files": [
+    {
+      "name": "01-bubble-strip-overview.webp",
+      "sha256": "36a0da757fed3744ba3f2e049aca89bf36c7934cf39993492e6cd8cf93852244",
+      "bytes": 142924,
+      "from": "4736 page 9 — the bubble strip seen from above"
+    },
+    {
+      "name": "02-bubbles-and-springs.webp",
+      "sha256": "8fe9c359276c428adf2df65f7d555020bc219665ba44a56fdfe50a5fbbdad914",
+      "bytes": 46402,
+      "from": "4736 page 9 — bubbles linked by springs"
+    },
+    {
+      "name": "03-bubble-cluster.webp",
+      "sha256": "17e6a1bc60a7a1d2b60fcee930c920426b5de2b93496d3134630b3b3cab85bc7",
+      "bytes": 79358,
+      "from": "4736 page 9 — a close view of the bubble cluster"
+    },
+    {
+      "name": "04-twisted-strip-sketch.webp",
+      "sha256": "3c335f218b242f4d3c39673acb05ed4e5681cb9c085a80dfd3bd1b5671ab5811",
+      "bytes": 70950,
+      "from": "4736 page 9 — a sketch of the twisted strip"
+    },
+    {
+      "name": "05-micro-city-sketch.webp",
+      "sha256": "8cccae42bf370d266f073625c93380b319d2696116a83cd7ffbcb8f1996ec3ed",
+      "bytes": 131426,
+      "from": "4736 page 9 — a sketch of a micro city in a bubble"
+    }
+  ]
+}
