@@ -72856,6 +72856,410 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "The Experience of a Fracture",
+      "slug": "experience-of-a-fracture-plaster-cavity-and-sticks",
+      "description": "Plaster cast around clay leaves hollows like broken bone, and a web of wooden sticks stitches the pieces back together.\n\nModel | Fracture study | Wooden sticks, plaster, clay | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "骨折的經驗",
+          "description": "以黏土翻模灌注石膏，留下如斷骨般的空腔，再以木條網絡把碎片縫合起來。\n\n模型｜骨折研究｜木條、石膏、黏土｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/01-plaster-and-stick-model.webp",
+        "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/02-bone-break-sketches.webp",
+        "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/03-plaster-cast-pieces.webp",
+        "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/04-cavity-close-up.webp",
+        "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/05-hollow-in-plaster.webp",
+        "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/06-cracked-surface-close-up.webp",
+        "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/07-sticks-from-the-side.webp",
+        "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/08-model-from-above.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/01-plaster-and-stick-model.webp"
+          ],
+          "captions": [
+            "The plaster and stick model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "石膏與木條模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student studied how bones break and heal. The project asks how the feeling of a fracture can become space.",
+          "images": [
+            "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/02-bone-break-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of bone breaks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生研究了骨頭如何斷裂與癒合。這個專題探問，骨折的感受如何轉化為空間。",
+              "captions": [
+                "骨折類型素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Sketches compared linear, oblique, spiral and crushed breaks. Each pattern was then pressed into clay as a 2D image.",
+          "images": [
+            "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/03-plaster-cast-pieces.webp"
+          ],
+          "captions": [
+            "Plaster cast pieces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "素描比較了線狀、斜向、螺旋與粉碎性骨折。每種圖樣再以平面形式壓進黏土。",
+              "captions": [
+                "石膏翻模塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Plaster was poured over the clay, and the clay was removed to leave a cavity. These hollows stand for the missing broken bone.",
+          "images": [
+            "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/04-cavity-close-up.webp",
+            "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/05-hollow-in-plaster.webp",
+            "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/06-cracked-surface-close-up.webp"
+          ],
+          "captions": [
+            "A lit cavity close up.",
+            "A hollow in the plaster.",
+            "The cracked surface."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "石膏灌注在黏土上，移除黏土後留下空腔。這些空洞代表斷裂缺失的骨頭。",
+              "captions": [
+                "受光的空腔近觀。",
+                "石膏中的空洞。",
+                "碎裂的表面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 16.5-inch model sets a forest of sticks over the plaster ground. The sticks join the pieces like stitches.",
+          "images": [
+            "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/07-sticks-from-the-side.webp",
+            "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks/08-model-from-above.webp"
+          ],
+          "captions": [
+            "The sticks from the side.",
+            "The model from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個16.5英寸的模型在石膏地面上立起一片木條林。木條像縫線般把碎片連接起來。",
+              "captions": [
+                "側看木條。",
+                "俯瞰模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study how something breaks.\n2. Draw each type of break.\n3. Cast the missing parts as hollows.\n4. Stitch the pieces back together.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一樣東西如何斷裂。\n2. 描繪每一種斷裂。\n3. 把缺失的部分翻成空腔。\n4. 把碎片縫合回去。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Deconstructing Basketball",
+      "slug": "deconstructing-basketball-wire-and-colour-card",
+      "description": "The lines on a moving basketball are traced and rebuilt as a field of wire, sticks and coloured see-through card.\n\nModel and drawings | Movement study | Wire, wooden sticks, coloured transparent card | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "解構籃球",
+          "description": "籃球運動中表面的線條被描出，再重建成一片由鐵絲、木條與彩色透明卡構成的場域。\n\n模型與繪圖｜運動研究｜鐵絲、木條、彩色透明卡｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/deconstructing-basketball-wire-and-colour-card/01-wire-and-colour-card-model.webp",
+        "assets/board/deconstructing-basketball-wire-and-colour-card/02-ball-pattern-drawings.webp",
+        "assets/board/deconstructing-basketball-wire-and-colour-card/03-motion-line-sketches.webp",
+        "assets/board/deconstructing-basketball-wire-and-colour-card/04-early-wire-test.webp",
+        "assets/board/deconstructing-basketball-wire-and-colour-card/05-stick-test.webp",
+        "assets/board/deconstructing-basketball-wire-and-colour-card/06-colour-card-close-up.webp",
+        "assets/board/deconstructing-basketball-wire-and-colour-card/07-wire-loops-close-up.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/deconstructing-basketball-wire-and-colour-card/01-wire-and-colour-card-model.webp"
+          ],
+          "captions": [
+            "The wire and colour card model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鐵絲與彩色卡模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student knows and loves basketball well. The project asks how the motion of a ball over time can become space.",
+          "images": [
+            "assets/board/deconstructing-basketball-wire-and-colour-card/02-ball-pattern-drawings.webp"
+          ],
+          "captions": [
+            "Ball pattern drawings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生熟悉並熱愛籃球。這個專題探問，球隨時間的運動如何轉化為空間。",
+              "captions": [
+                "球面圖樣繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The ball was rebuilt as a digital model and turned to many angles. Lines on its surface were drawn from each view.",
+          "images": [
+            "assets/board/deconstructing-basketball-wire-and-colour-card/03-motion-line-sketches.webp"
+          ],
+          "captions": [
+            "Motion line sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "籃球被重建成數位模型，並轉到各種角度。學生從每個視角描出球面上的線條。",
+              "captions": [
+                "運動線條素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wire loops traced the curves first, and sticks were added along them. Coloured card was then set between the sticks.",
+          "images": [
+            "assets/board/deconstructing-basketball-wire-and-colour-card/04-early-wire-test.webp",
+            "assets/board/deconstructing-basketball-wire-and-colour-card/05-stick-test.webp"
+          ],
+          "captions": [
+            "An early wire test.",
+            "Wire arches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "鐵絲圈先描出曲線，再沿著曲線加上木條。接著在木條之間嵌入彩色卡片。",
+              "captions": [
+                "早期鐵絲試驗。",
+                "鐵絲拱。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 16.5-inch model is a field of curving sticks and bright card. Light through the card throws pink and orange shadows.",
+          "images": [
+            "assets/board/deconstructing-basketball-wire-and-colour-card/06-colour-card-close-up.webp",
+            "assets/board/deconstructing-basketball-wire-and-colour-card/07-wire-loops-close-up.webp"
+          ],
+          "captions": [
+            "Colour card close up.",
+            "Wire loops close up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個16.5英寸的模型是一片彎曲木條與鮮豔卡片的場域。穿過卡片的光投下粉紅與橙色的陰影。",
+              "captions": [
+                "彩色卡片近觀。",
+                "鐵絲圈近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick an object that moves.\n2. Turn it and draw its lines.\n3. Trace the lines in wire.\n4. Add layers of colour and light.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 挑一個會動的物件。\n2. 轉動它並描出線條。\n3. 用鐵絲描出這些線。\n4. 加上色彩與光的層次。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Hero in Motion",
+      "slug": "hero-in-motion-hinged-stick-modules",
+      "description": "Fighting moves are drawn as lines, then rebuilt as hinged stick modules that turn and fold into a wearable space.\n\nModel and drawings | Motion study | Popsicle sticks, screws, PVC board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "動態英雄",
+          "description": "打鬥動作先被畫成線條，再重建為可轉動、折疊的鉸接木條模組，形成可穿戴的空間。\n\n模型與繪圖｜動作研究｜冰棒棍、螺絲、PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hero-in-motion-hinged-stick-modules/01-hinged-stick-model.webp",
+        "assets/board/hero-in-motion-hinged-stick-modules/02-motion-line-drawings.webp",
+        "assets/board/hero-in-motion-hinged-stick-modules/03-stick-modules-top.webp",
+        "assets/board/hero-in-motion-hinged-stick-modules/04-stick-modules-turning.webp",
+        "assets/board/hero-in-motion-hinged-stick-modules/05-stick-modules-close-up.webp",
+        "assets/board/hero-in-motion-hinged-stick-modules/06-stick-modules-side.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hero-in-motion-hinged-stick-modules/01-hinged-stick-model.webp"
+          ],
+          "captions": [
+            "The hinged stick model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鉸接木條模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student grew up with a screen hero and its battle moves. The project asks how those moves can become a space you wear.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生從小看著一位螢幕英雄與其戰鬥動作長大。這個專題探問，這些動作如何變成可以穿戴的空間。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student acted out each move and traced its path. Each path was drawn as a short line sketch.",
+          "images": [
+            "assets/board/hero-in-motion-hinged-stick-modules/02-motion-line-drawings.webp"
+          ],
+          "captions": [
+            "Motion line drawings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生親自模仿每個動作並記錄其軌跡。每條軌跡都被畫成一張簡短的線條素描。",
+              "captions": [
+                "動作線條繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Polygon modules were made from sticks with holes and screws. The screws let each joint turn and fold.",
+          "images": [
+            "assets/board/hero-in-motion-hinged-stick-modules/03-stick-modules-top.webp",
+            "assets/board/hero-in-motion-hinged-stick-modules/04-stick-modules-turning.webp"
+          ],
+          "captions": [
+            "Modules from above.",
+            "Modules turning."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "多邊形模組以鑽孔木條與螺絲製成。螺絲讓每個接點都能轉動與折疊。",
+              "captions": [
+                "俯看模組。",
+                "轉動中的模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 31.4-inch model links many modules into one moving shell. White planes inside catch the light.",
+          "images": [
+            "assets/board/hero-in-motion-hinged-stick-modules/05-stick-modules-close-up.webp",
+            "assets/board/hero-in-motion-hinged-stick-modules/06-stick-modules-side.webp"
+          ],
+          "captions": [
+            "Modules close up.",
+            "Modules from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個31.4英寸的模型把許多模組連成一個可動的外殼。內部的白色板面承接光線。",
+              "captions": [
+                "模組近觀。",
+                "側看模組。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a set of moves.\n2. Act them out and trace them.\n3. Build joints that can turn.\n4. Link them into one shell.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一組動作。\n2. 親自演出並記錄軌跡。\n3. 製作可轉動的接點。\n4. 把它們連成一個外殼。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
