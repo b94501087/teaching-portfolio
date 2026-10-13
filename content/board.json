@@ -80328,6 +80328,274 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "The Maze",
+      "slug": "the-maze-acrylic-cube-of-hidden-paths",
+      "description": "A clear acrylic cube holds layer upon layer of maze walls, letting viewers watch from outside as figures wander within routes they cannot leave.\n\nModel | Concept study | Acrylic board, PVC boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "迷宮",
+          "description": "一個透明壓克力立方體容納層層疊疊的迷宮牆，讓觀者從外部看著人偶在無法離開的路徑中徘徊。\n\n模型｜概念研究｜壓克力板、PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/01-acrylic-maze-cube.webp",
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/02-small-acrylic-cube.webp",
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/03-white-maze-modules.webp",
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/04-maze-corridor-glow.webp",
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/05-wireframe-maze-cube.webp",
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/06-stacked-maze-layers.webp",
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/07-maze-interior-close.webp",
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/08-maze-shards.webp",
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/09-maze-view-upper.webp",
+        "assets/board/the-maze-acrylic-cube-of-hidden-paths/10-maze-view-lower.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/01-acrylic-maze-cube.webp"
+          ],
+          "captions": [
+            "The acrylic maze cube."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "壓克力迷宮立方體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The model asks whether human beings have free will or not. To the student, life seems to offer countless ways to go, yet every route ends at the same destination.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這件模型追問人類是否擁有自由意志。在學生看來，人生似乎提供無數條路，然而每條路最終都通往同一個終點。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Several small PVC mazes were built to test patterns of turns, dead ends and loops. Their plans were compared to find layouts that feel open yet allow only one true way through.",
+          "images": [
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/03-white-maze-modules.webp",
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/02-small-acrylic-cube.webp"
+          ],
+          "captions": [
+            "White maze modules.",
+            "A small acrylic test cube."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生製作多個小型PVC迷宮，測試轉彎、死路與迴圈的圖樣。比較它們的平面，以找出看似開放、卻只容許一條真正出路的配置。",
+              "captions": [
+                "白色迷宮模組。",
+                "小型壓克力測試立方體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Acrylic board replaced PVC so that people inside the maze could be seen clearly from outside. Mazes were stacked in many levels inside one cube, with figures placed along the routes.",
+          "images": [
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/05-wireframe-maze-cube.webp",
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/06-stacked-maze-layers.webp",
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/07-maze-interior-close.webp"
+          ],
+          "captions": [
+            "The cube in the dark.",
+            "Stacked maze layers.",
+            "The interior up close."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "壓克力板取代了PVC，讓迷宮中的人能從外部被清楚看見。多層迷宮堆疊在同一個立方體內，人偶沿著路徑擺放。",
+              "captions": [
+                "黑暗中的立方體。",
+                "堆疊的迷宮層。",
+                "近看內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Lit against a dark ground, the walls turn into a tangle of glowing lines in which red figures wander. Viewers can see them confused, until they realise there is no choice but to follow the route set for them.",
+          "images": [
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/04-maze-corridor-glow.webp",
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/08-maze-shards.webp",
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/09-maze-view-upper.webp",
+            "assets/board/the-maze-acrylic-cube-of-hidden-paths/10-maze-view-lower.webp"
+          ],
+          "captions": [
+            "A glowing corridor.",
+            "Shards of light.",
+            "An upper view.",
+            "A lower view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在黑暗背景下打光，牆面化為一團發光線條，紅色人偶在其中徘徊。觀者能看見它們的困惑，直到它們明白，除了沿著被設定好的路線前進之外別無選擇。",
+              "captions": [
+                "發光的廊道。",
+                "光的碎片。",
+                "上方視角。",
+                "下方視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Walls of Glass - Choice Within a Cube",
+          "body": "A maze is a promise of choice that quietly withholds it, and this project used that tension to think about freedom. The student began with a question that philosophy has never settled, whether a life of many paths is truly free if every path leads to the same end. To make the question spatial, small mazes were first built in white PVC, testing turns, dead ends and loops until certain plans felt generous while still guiding walkers toward a single exit. The guidance then pushed for a change of material. Clear acrylic allowed the walls to vanish and reappear depending on the light, so that an observer outside could follow every hesitation of the tiny red figures inside. Stacked layer upon layer within one cube, the mazes multiply into a vertical city of corridors. Photographed against darkness, the edges glow like drawn lines and the figures seem suspended in a net of light. The model turns an abstract philosophical doubt into an experience of looking, showing how transparency can reveal the structures that shape a life.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "玻璃之牆-立方體中的選擇",
+              "body": "迷宮是一種悄悄收回選擇的選擇承諾，這個專題借用這份張力來思考自由。學生從一個哲學始終未能解答的問題出發：倘若每條路都通往同一個終點，擁有許多道路的人生是否真正自由。為了把問題空間化，學生先以白色PVC製作小型迷宮，測試轉彎、死路與迴圈，直到某些平面讀來寬容，卻仍把行走者引向唯一的出口。指導過程接著促成材料的轉換。透明壓克力讓牆面隨光線消失又浮現，外部的觀察者因而能追隨內部微小紅色人偶的每一次遲疑。迷宮在同一個立方體中層層堆疊，增殖為一座垂直的廊道之城。在黑暗中拍攝，邊緣如畫出的線條般發光，人偶彷彿懸浮在一張光網之中。模型把抽象的哲學疑問轉化為一種觀看的經驗，說明透明性能揭示形塑人生的結構。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Folding Geometry",
+      "slug": "folding-geometry-origami-to-wooden-stick-frames",
+      "description": "Paper origami folds are translated into cubic frames of wooden sticks and iron wire, from twisted planes of lines to stacked rotating squares.\n\nModel series | Geometry study | Iron wire, wooden sticks, paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "摺疊幾何",
+          "description": "紙摺紙的摺痕被轉譯為以木籤與鐵絲構成的立方框架，從扭轉的線面到層疊旋轉的方形。\n\n系列模型｜幾何研究｜鐵絲、木籤、紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/folding-geometry-origami-to-wooden-stick-frames/01-twisted-frame-rings.webp",
+        "assets/board/folding-geometry-origami-to-wooden-stick-frames/02-paper-origami-studies.webp",
+        "assets/board/folding-geometry-origami-to-wooden-stick-frames/03-folding-frame-drawings.webp",
+        "assets/board/folding-geometry-origami-to-wooden-stick-frames/04-wire-frame-cubes-a.webp",
+        "assets/board/folding-geometry-origami-to-wooden-stick-frames/05-wire-frame-cubes-b.webp",
+        "assets/board/folding-geometry-origami-to-wooden-stick-frames/06-stick-grid-cubes.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/folding-geometry-origami-to-wooden-stick-frames/01-twisted-frame-rings.webp"
+          ],
+          "captions": [
+            "The twisted frame rings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "扭轉的框架環。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Folding paper creates complex forms from a single flat sheet. The project asks how such folding could be carried from soft paper into rigid wood.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "摺紙能從一張平面紙張創造出複雜的形體。這個專題探問，這樣的摺疊如何從柔軟的紙轉移到堅硬的木材上。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Origami training served as the first step, with several folded paper forms photographed on black. Drawings then placed the folds inside cubic frames to study their geometry.",
+          "images": [
+            "assets/board/folding-geometry-origami-to-wooden-stick-frames/02-paper-origami-studies.webp",
+            "assets/board/folding-geometry-origami-to-wooden-stick-frames/03-folding-frame-drawings.webp"
+          ],
+          "captions": [
+            "Paper origami studies.",
+            "Fold drawings in frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以摺紙練習作為第一步，把多件摺紙作品拍攝在黑色背景上。接著以繪圖把摺痕放入立方框架中，研究其幾何。",
+              "captions": [
+                "摺紙研究。",
+                "框架中的摺痕繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wooden sticks and iron wire were used to rebuild the folds as cubes crossed by planes of parallel lines. Later frames filled the cube with stepped grids that rise like folded terraces.",
+          "images": [
+            "assets/board/folding-geometry-origami-to-wooden-stick-frames/04-wire-frame-cubes-a.webp",
+            "assets/board/folding-geometry-origami-to-wooden-stick-frames/05-wire-frame-cubes-b.webp",
+            "assets/board/folding-geometry-origami-to-wooden-stick-frames/06-stick-grid-cubes.webp"
+          ],
+          "captions": [
+            "Frames crossed by line planes.",
+            "Frames with folded diagonals.",
+            "Stepped grid cubes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以木籤與鐵絲重建摺痕，形成被平行線面穿越的立方體。後續的框架以階梯狀格網填滿立方體，如摺疊的台地般升起。",
+              "captions": [
+                "被線面穿越的框架。",
+                "帶摺疊斜線的框架。",
+                "階梯格網立方體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the final set, square frames are stacked and rotated step by step into a twisted ring. The rings show how a simple fold can grow into a rich spatial rhythm.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在最後一組作品中，方形框架逐步堆疊旋轉，形成一個扭轉的環。這些環展示了一個簡單的摺疊如何生長為豐富的空間韻律。"
+            }
+          }
+        },
+        {
+          "heading": "From Crease to Frame - Geometry Learned by Hand",
+          "body": "Origami teaches that a flat sheet already contains a world of forms, waiting to be released by a sequence of creases, and this project set out to carry that lesson from paper into wood. The student first practised folding, photographing each paper study against black so that its ridges and valleys read clearly. Drawings followed, placing the creases inside the edges of a cube and revealing hidden diagonals and planes. The guidance then asked what happens when a fold can no longer bend. Wooden sticks and iron wire turned each crease into a straight member, so that a soft surface became a field of parallel lines stretched across a frame. Some cubes are sliced by twisting planes of lines, others filled with stepped grids that climb like folded terraces. In the final series, square frames are stacked and turned a few degrees at a time, until they spiral into rings that feel woven rather than built. The project demonstrates how disciplined repetition can turn a childhood craft into architectural thinking.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "從摺痕到框架-以手習得的幾何",
+              "body": "摺紙教導我們，一張平面紙張早已蘊含一個形體的世界，等待一連串摺痕將其釋放，這個專題便試圖把這份領悟從紙帶進木材。學生先練習摺疊，把每件摺紙研究拍攝在黑色背景上，讓其山摺與谷摺清楚可讀。接著是繪圖，把摺痕放進立方體的邊框之內，揭示隱藏的斜線與平面。指導過程隨後追問：當摺疊不再能彎曲時，會發生什麼。木籤與鐵絲把每道摺痕化為一根直構件，柔軟的表面於是成為拉伸於框架間的平行線場。有些立方體被扭轉的線面切開，有些則被如摺疊台地般攀升的階梯格網填滿。在最後的系列中，方形框架每次轉動幾度地堆疊，直到盤旋成彷彿編織而非建造出來的環。這個專題說明，有紀律的重複能把童年的手藝轉化為建築思考。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
