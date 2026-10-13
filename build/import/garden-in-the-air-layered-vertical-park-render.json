@@ -1,0 +1,43 @@
+{
+  "project": "Garden in the Air",
+  "dest": "assets/board/garden-in-the-air-layered-vertical-park-render",
+  "note": "Portfolio 4736 pages 10-11 cropped to 6 images, WebP q88 (PIL). Not used: photo collage of city streets with people, signs and city name, caption with title and date.",
+  "files": [
+    {
+      "name": "01-layered-park-render.webp",
+      "sha256": "c0433a1b40567d88914076f1d2272f7831701975d5486bc89b5b6fad031ebd50",
+      "bytes": 176672,
+      "from": "4736 pages 10-11 — the layered vertical park"
+    },
+    {
+      "name": "02-neighbourhood-map.webp",
+      "sha256": "71010da392a9dc9b8b4dfdfe901ed6603f55ffef224f7e7346ed2b729d167d47",
+      "bytes": 359838,
+      "from": "4736 pages 10-11 — the site map of the neighbourhood"
+    },
+    {
+      "name": "03-concept-sketch-plates.webp",
+      "sha256": "179d37cebefe77df1af7feed6f384baa395dacd67016f71ccf5a041ea61143e3",
+      "bytes": 81286,
+      "from": "4736 pages 10-11 — sketches of floating green plates"
+    },
+    {
+      "name": "04-concept-sketch-frames.webp",
+      "sha256": "8149527ad336df17932c20d4f9ed1ba6bd526c9f3170f303f640bd733e4164ba",
+      "bytes": 69360,
+      "from": "4736 pages 10-11 — sketches of open frames"
+    },
+    {
+      "name": "05-concept-sketch-towers.webp",
+      "sha256": "eb0adbcd6a00ab1422980d8a53b7242bdcf5fe9af5f85b91ef85a3d570bdefc9",
+      "bytes": 55818,
+      "from": "4736 pages 10-11 — sketches of towers and platforms"
+    },
+    {
+      "name": "06-park-section.webp",
+      "sha256": "0ab9fc5bd335bc1d18af48f1f1fcb446bc1f5299b244697685e3c35c7c5f5663",
+      "bytes": 53768,
+      "from": "4736 pages 10-11 — the section of the vertical park"
+    }
+  ]
+}
