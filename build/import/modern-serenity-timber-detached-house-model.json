@@ -1,0 +1,67 @@
+{
+  "project": "Modern Serenity",
+  "dest": "assets/board/modern-serenity-timber-detached-house-model",
+  "note": "Portfolio 4da0 pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: title and text, process photos of the student, rough note sketches.",
+  "files": [
+    {
+      "name": "01-final-house.webp",
+      "sha256": "48b00f37225f818f17ef55a4d97a7176ff3c363d6d75fe2dc95f2302e20ec428",
+      "bytes": 33712,
+      "from": "4da0 page 8 — final house"
+    },
+    {
+      "name": "02-block-model.webp",
+      "sha256": "aee9198818806af8f672569e74acb895ef224e41a1485804f83b07e450e3bf93",
+      "bytes": 8524,
+      "from": "4da0 page 8 — block model"
+    },
+    {
+      "name": "03-block-cluster.webp",
+      "sha256": "ab48b4b174112847ca34281454ddddb8c06d4ad7d386a41370ce4bc39e6d8a61",
+      "bytes": 15000,
+      "from": "4da0 page 8 — block cluster"
+    },
+    {
+      "name": "04-plan-sketch.webp",
+      "sha256": "07adc8d60efadb58d1e17300b47670671730f4efb08db8a8dc02c895437dc0c7",
+      "bytes": 18568,
+      "from": "4da0 page 8 — plan sketch"
+    },
+    {
+      "name": "05-room-layout.webp",
+      "sha256": "7b0c5b887ce60d8c9163c2f8fb789a394b476e0ecc926c42baccc8d1c7a10f1e",
+      "bytes": 5056,
+      "from": "4da0 page 8 — room layout"
+    },
+    {
+      "name": "06-frame-model.webp",
+      "sha256": "8309574fd872a5478981646c0c942a194f51c0cc1a57b9cd243f704d9470454b",
+      "bytes": 20914,
+      "from": "4da0 page 8 — frame model"
+    },
+    {
+      "name": "07-top-view.webp",
+      "sha256": "9380e2e5687146fcdad2f522d00b601c741626576c6bd82a72904c7c2ad9153e",
+      "bytes": 34158,
+      "from": "4da0 page 9 — top view"
+    },
+    {
+      "name": "08-front-view.webp",
+      "sha256": "27d1c25d9a9c3479054b8dd240e369b49792b568c8125456c1cd4613d9af9095",
+      "bytes": 12404,
+      "from": "4da0 page 9 — front view"
+    },
+    {
+      "name": "09-interior.webp",
+      "sha256": "998c097b1275dfea12df461fb6c338d306ce7aaac6950aaca11ee242da4afc40",
+      "bytes": 19034,
+      "from": "4da0 page 9 — interior"
+    },
+    {
+      "name": "10-long-view.webp",
+      "sha256": "6ef1019ac6837d7a58db56039ecdcfecd9789b94b543f9f01ddf2353d32b20e3",
+      "bytes": 48722,
+      "from": "4da0 page 9 — long view"
+    }
+  ]
+}
