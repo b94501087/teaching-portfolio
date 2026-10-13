@@ -1,0 +1,37 @@
+{
+  "project": "Marine Habitat",
+  "dest": "assets/board/marine-habitat-woven-bamboo-and-moss-platforms",
+  "note": "Portfolio 30d4 pages 10-10 cropped to 5 images, WebP q88 (PIL). Not used: process photos of a person making the model.",
+  "files": [
+    {
+      "name": "01-woven-bamboo-habitat.webp",
+      "sha256": "031caf4a632b65715a6731c19fdc27240caee346e284c01a8b2f21e662ac1d45",
+      "bytes": 91834,
+      "from": "30d4 pages 10-10 — the woven bamboo habitat"
+    },
+    {
+      "name": "02-bamboo-weave.webp",
+      "sha256": "ca6320bda19ce4b3996b06c0d56ede700fd41277164266e5fc98284399e90962",
+      "bytes": 40512,
+      "from": "30d4 pages 10-10 — the bamboo weave"
+    },
+    {
+      "name": "03-moss-in-the-frame.webp",
+      "sha256": "abafd6f6fb9734d2d17e7cdc5298b0ceca4ba28d4f64dd6ddbc207fa0d9850a7",
+      "bytes": 33920,
+      "from": "30d4 pages 10-10 — moss in the frame"
+    },
+    {
+      "name": "04-roosting-poles.webp",
+      "sha256": "7cf7b9f6de6b0694e6bd8315d3d0a7345cab7c010d95c8805a1182307cd1efbb",
+      "bytes": 28928,
+      "from": "30d4 pages 10-10 — poles for birds"
+    },
+    {
+      "name": "05-woven-pods.webp",
+      "sha256": "c136c139ec23d266c011d4fd8851a9a6bf13d0c2e3485b6dc275f9f83f3f723f",
+      "bytes": 24342,
+      "from": "30d4 pages 10-10 — woven pods on tall poles"
+    }
+  ]
+}
