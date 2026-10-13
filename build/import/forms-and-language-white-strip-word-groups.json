@@ -1,0 +1,55 @@
+{
+  "project": "Forms and Language",
+  "dest": "assets/board/forms-and-language-white-strip-word-groups",
+  "note": "Portfolio 30d4 pages 2-3 cropped to 8 images, WebP q88 (PIL). Not used: film poster, calligraphy copies, trip photo with a person.",
+  "files": [
+    {
+      "name": "01-white-strip-word-cloud.webp",
+      "sha256": "9bb49d982fda94c07be9fcf53ac8acdc8da2f8d637e7bcc5e55e8b9aa427eb2a",
+      "bytes": 190682,
+      "from": "30d4 pages 2-3 — the white strip model"
+    },
+    {
+      "name": "02-low-view-left.webp",
+      "sha256": "fabad9800f4bea029714fb57768f37349f865e6cb280afc591d12ad596a5f6bf",
+      "bytes": 46030,
+      "from": "30d4 pages 2-3 — a low view of the field"
+    },
+    {
+      "name": "03-low-view-right.webp",
+      "sha256": "b4e4b0c27572cbfd10fff853fda966a6dadf2f5fad516aeaa996772747bd81d1",
+      "bytes": 40468,
+      "from": "30d4 pages 2-3 — the field from the other side"
+    },
+    {
+      "name": "04-close-up-upper.webp",
+      "sha256": "b7d3f32d7053d32f0bb8880cd1483f6b8b94cda8f92ab8f60fad541d448d7791",
+      "bytes": 82858,
+      "from": "30d4 pages 2-3 — a close view of the upper strips"
+    },
+    {
+      "name": "05-close-up-lower.webp",
+      "sha256": "f1c8c4f2c2989e14a290d3d105a3ab5bd3e2b055c871eeafd5c413fe78746cbe",
+      "bytes": 86982,
+      "from": "30d4 pages 2-3 — a close view of the lower strips"
+    },
+    {
+      "name": "06-brush-line-studies.webp",
+      "sha256": "74878e0554ffef5606c58de9cf57ff7491ebb5aedb19187d7dfc244cbd39adc4",
+      "bytes": 29732,
+      "from": "30d4 pages 2-3 — line studies from brush strokes"
+    },
+    {
+      "name": "07-strip-unit-tests.webp",
+      "sha256": "a5ed3f9fae3c63af1e913a20353c08c62aada95db0ca5d25a4540b6f02a2e79b",
+      "bytes": 73894,
+      "from": "30d4 pages 2-3 — small strip units"
+    },
+    {
+      "name": "08-word-group-models.webp",
+      "sha256": "552f98b79c2066688c94079361b762a0bdb6da95d9eb14340b1452402a498312",
+      "bytes": 155604,
+      "from": "30d4 pages 2-3 — word group models"
+    }
+  ]
+}
