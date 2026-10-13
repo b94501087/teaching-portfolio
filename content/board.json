@@ -54744,6 +54744,450 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Observation Deck: Haven",
+      "slug": "observation-deck-haven-timber-joinery-hill-model",
+      "description": "A hillside observation deck rebuilds the stacked timber joinery of an ancient pagoda with sticks.\n\nModel making | Traditional structure | Wood sticks, popsicle sticks and clay | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "觀景台：避風港",
+          "description": "一座山坡觀景台，以木棒重建古塔層層堆疊的木構榫卯。\n\n模型製作｜傳統結構｜木棒、冰棒棍與黏土｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/01-final-model.webp",
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/02-structure-drawing.webp",
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/03-plan-drawings.webp",
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/04-digital-frame.webp",
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/05-roof-study.webp",
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/06-frame-assembly.webp",
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/07-platform-test.webp",
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/08-roof-model.webp",
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/09-rafter-detail.webp",
+        "assets/board/observation-deck-haven-timber-joinery-hill-model/10-side-corridor.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished deck on its clay hill."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "黏土山丘上的完成觀景台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Traditional timber structures are admired but rarely used in new buildings. The student asked how an ancient wooden frame could serve a modern hillside deck.",
+          "images": [
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/02-structure-drawing.webp"
+          ],
+          "captions": [
+            "Drawing of the layered timber frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "傳統木構備受讚賞，卻很少用在新建築中。學生思考古老的木構架如何服務一座現代山坡觀景台。",
+              "captions": [
+                "層疊木構架的圖說。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He studied a historic wooden pagoda and found that each level nests a smaller ring inside a larger one. This socket-like layering explains its great stability.",
+          "images": [
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/03-plan-drawings.webp",
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/04-digital-frame.webp"
+          ],
+          "captions": [
+            "Plan and joint drawings.",
+            "Digital model of the ring frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他研究一座歷史木塔，發現每一層都在大環中嵌入小環。這種如套筒般的層疊，正是它穩固的原因。",
+              "captions": [
+                "平面與節點圖。",
+                "環形構架的數位模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Stick joints that imitate mortise and tenon form the base, and sticks pave the floors. A two-layer platform came first, then a roof of popsicle-stick rafters.",
+          "images": [
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/05-roof-study.webp",
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/06-frame-assembly.webp",
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/07-platform-test.webp"
+          ],
+          "captions": [
+            "Digital study of the roof.",
+            "Assembling the stick rings.",
+            "The two-layer platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "模仿榫卯的木棒節點構成基座，地板則以木棒鋪成。先完成雙層平台，再加上冰棒棍椽條的屋頂。",
+              "captions": [
+                "屋頂的數位研究。",
+                "組裝木棒環圈。",
+                "雙層平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The deck sits on a clay hill with corridors and small platforms on both sides. Plain, straight rafters blend old craft with modern simplicity.",
+          "images": [
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/08-roof-model.webp",
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/09-rafter-detail.webp",
+            "assets/board/observation-deck-haven-timber-joinery-hill-model/10-side-corridor.webp"
+          ],
+          "captions": [
+            "Roof rafters and side corridors.",
+            "Rafters from below.",
+            "A side corridor and platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "觀景台座落在黏土山丘上，兩側有廊道與小平台。簡潔筆直的椽條，融合傳統工藝與現代簡約。",
+              "captions": [
+                "屋頂椽條與兩側廊道。",
+                "從下方看椽條。",
+                "側邊廊道與平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a historic structure.\n2. Find its key principle.\n3. Rebuild it in sticks.\n4. Fit it to a new site.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一座歷史結構。\n2. 找出它的關鍵原理。\n3. 以木棒重建。\n4. 讓它適應新基地。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Sounds of Nature",
+      "slug": "sounds-of-nature-shredded-paper-net-shelter",
+      "description": "Nets of shredded paper recall the sound of leaves and form a light resting shelter.\n\nModel making | Sound and memory | Recycled paper and straws | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "自然之聲",
+          "description": "碎紙編成的網，喚起樹葉的聲音，形成輕盈的休憩棚架。\n\n模型製作｜聲音與記憶｜回收紙與吸管｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/01-final-shelter.webp",
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/02-paper-shreds.webp",
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/03-first-net.webp",
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/04-straw-tests.webp",
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/05-net-layers.webp",
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/06-low-profile.webp",
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/07-net-shadows.webp",
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/08-net-wave.webp",
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/09-canopy-view.webp",
+        "assets/board/sounds-of-nature-shredded-paper-net-shelter/10-trunk-legs.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/01-final-shelter.webp"
+          ],
+          "captions": [
+            "The finished shelter and its shadows."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的棚架與陰影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Familiar sounds can bring back a place long after we have left it. The student asked whether a space could be built from the sound of a memory.",
+          "images": [
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/02-paper-shreds.webp"
+          ],
+          "captions": [
+            "Shredded paper strips."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "熟悉的聲音能在多年後喚回一個地方。學生思考能否以一段記憶中的聲音建構空間。",
+              "captions": [
+                "碎紙條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The rustle of shredded paper reminded him of wind in the trees of a childhood garden. He first tried pairing the shreds with straws to suggest trees.",
+          "images": [
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/03-first-net.webp",
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/04-straw-tests.webp"
+          ],
+          "captions": [
+            "Strips joined into a net.",
+            "Early tests with straws."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "碎紙的沙沙聲讓他想起童年庭園裡風吹過樹葉。他先嘗試把碎紙與吸管結合，暗示樹木。",
+              "captions": [
+                "紙條連接成網。",
+                "以吸管做的早期測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The straws did not capture the mood, so the shreds were joined in pairs to form nets. The nets were pressed into the base like trunks meeting the ground.",
+          "images": [
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/05-net-layers.webp",
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/06-low-profile.webp",
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/07-net-shadows.webp"
+          ],
+          "captions": [
+            "Layered nets from above.",
+            "The low profile of the nets.",
+            "Shadows cast by the nets."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "吸管無法傳達氛圍，於是改把碎紙兩兩相連成網。網被壓入底座，如同樹幹扎入地面。",
+              "captions": [
+                "從上方看層疊的網。",
+                "網的低矮輪廓。",
+                "網投下的陰影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The nets were kept apart so their shadows overlap in a staggered pattern. The result is a light public shelter whose shadows sway like leaves.",
+          "images": [
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/08-net-wave.webp",
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/09-canopy-view.webp",
+            "assets/board/sounds-of-nature-shredded-paper-net-shelter/10-trunk-legs.webp"
+          ],
+          "captions": [
+            "Nets pressed into the base.",
+            "The canopy on its legs.",
+            "Legs like tree trunks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "網片彼此分開，使陰影錯落交疊。最終成為一座輕盈的公共棚架，陰影如樹葉般搖曳。",
+              "captions": [
+                "壓入底座的網。",
+                "支腳上的頂棚。",
+                "如樹幹般的支腳。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a sense.\n2. Find a matching material.\n3. Drop what does not work.\n4. Use light and shadow.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一種感官出發。\n2. 找到相應的材料。\n3. 捨棄行不通的嘗試。\n4. 運用光與影。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Puzzle of Liminal Space",
+      "slug": "puzzle-of-liminal-space-stacked-hallway-model",
+      "description": "Five overlooked in-between spaces, from a pool to a long hallway, are stacked into one puzzle.\n\nModel making | Liminal space | Wood board, resin, 3D print and LED | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "過渡空間的拼圖",
+          "description": "五種常被忽略的過渡空間，從泳池到長廊，被堆疊成一個拼圖。\n\n模型製作｜過渡空間｜木板、樹脂、3D列印與LED｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/01-final-model.webp",
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/02-mood-collage.webp",
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/03-sketches.webp",
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/04-laser-parts.webp",
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/05-window-walls.webp",
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/06-hallway-shell.webp",
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/07-first-stack.webp",
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/08-digital-model.webp",
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/09-upper-boxes.webp",
+        "assets/board/puzzle-of-liminal-space-stacked-hallway-model/10-spiral-stair.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished stacked model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "完成的堆疊模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Hallways and stairwells are passed every day yet hardly noticed. The student wanted to bring these quiet, uncanny in-between spaces into focus.",
+          "images": [
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/02-mood-collage.webp"
+          ],
+          "captions": [
+            "Collage of in-between spaces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "走廊與樓梯間每天經過，卻很少被注意。學生想讓這些安靜又詭異的過渡空間成為焦點。",
+              "captions": [
+                "過渡空間的拼貼。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "He gathered images of empty halls and drew from places that felt oddly familiar. Collages and sketches set out five spaces to connect.",
+          "images": [
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/03-sketches.webp"
+          ],
+          "captions": [
+            "Early sketches."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "他蒐集空曠大廳的影像，並從似曾相識的場所取材。拼貼與草圖定出五個要連接的空間。",
+              "captions": [
+                "早期草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The structure was modelled digitally, unrolled for laser cutting and 3D printed where curved. A tapered hallway with a warm light at the end exaggerates its length.",
+          "images": [
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/04-laser-parts.webp",
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/05-window-walls.webp",
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/06-hallway-shell.webp",
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/07-first-stack.webp"
+          ],
+          "captions": [
+            "Laser-cut parts.",
+            "Walls with inset windows.",
+            "The tapered hallway shell.",
+            "The first stacked test."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "結構先數位建模，展開後雷射切割，曲面部分則以3D列印製作。漸縮的走廊盡頭點上暖光，誇大了它的深度。",
+              "captions": [
+                "雷射切割零件。",
+                "內凹窗洞的牆面。",
+                "漸縮的走廊外殼。",
+                "第一次堆疊測試。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A pool with a spiral stair, a grey window block, a hallway, shelves and a playground lock together. Stairs and slides join them into one puzzle.",
+          "images": [
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/08-digital-model.webp",
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/09-upper-boxes.webp",
+            "assets/board/puzzle-of-liminal-space-stacked-hallway-model/10-spiral-stair.webp"
+          ],
+          "captions": [
+            "Digital model of the stack.",
+            "The upper boxes.",
+            "Spiral stair and grey block."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "有旋轉樓梯的泳池、灰色窗格量體、長廊、書架與遊樂場相互咬合。樓梯與滑梯把它們串成一個拼圖。",
+              "captions": [
+                "堆疊的數位模型。",
+                "上方的盒體。",
+                "旋轉樓梯與灰色量體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect a mood.\n2. List the spaces.\n3. Model, unroll and cut.\n4. Link them with circulation.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 蒐集一種氛圍。\n2. 列出空間。\n3. 建模、展開與切割。\n4. 以動線串聯。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
