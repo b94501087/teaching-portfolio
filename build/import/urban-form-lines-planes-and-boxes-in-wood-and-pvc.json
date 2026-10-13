@@ -1,0 +1,49 @@
+{
+  "project": "Urban Form",
+  "dest": "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc",
+  "note": "Portfolio 1d03 pages 6-7 cropped to 7 images, WebP q88 (PIL). Not used: portrait of a painter, reference painting diagram, photo of a named architect's building, city skyline photo, process photos of hands, painter and architect names.",
+  "files": [
+    {
+      "name": "01-stacked-boxes-on-timber-lattice.webp",
+      "sha256": "7fd1c9b71e30e87b9bb2789956f17866fa1d8dae6e6bdf2243665005924e1b1d",
+      "bytes": 135582,
+      "from": "1d03 pages 6-7 — white boxes on a timber lattice"
+    },
+    {
+      "name": "02-coloured-panels-close.webp",
+      "sha256": "b5fb7c7a3e4ac49e704d8ee080e6c749d7f26388ebe64126f3541cac3ea0df66",
+      "bytes": 72676,
+      "from": "1d03 pages 6-7 — coloured panels up close"
+    },
+    {
+      "name": "03-transparent-planes-and-branches.webp",
+      "sha256": "d4bf4728ce433e8624a85fe91d596b535c4ee7492a0071df3eb22d8f5d1a2fe2",
+      "bytes": 52498,
+      "from": "1d03 pages 6-7 — transparent planes and branches"
+    },
+    {
+      "name": "04-white-boxes-from-above.webp",
+      "sha256": "16c6eddbb1fc07ea4acc8b8deac5278a99962f965b887ee38a97796151917cbb",
+      "bytes": 54494,
+      "from": "1d03 pages 6-7 — white boxes from above"
+    },
+    {
+      "name": "05-dense-timber-base.webp",
+      "sha256": "1c2b1fd562c5a5a8f679b635166a31e1319e22dfed185ff2764dcfb2009a87f1",
+      "bytes": 34922,
+      "from": "1d03 pages 6-7 — the dense timber base"
+    },
+    {
+      "name": "06-green-plane-with-figures.webp",
+      "sha256": "71b898f6f2a07fd801af7668619adee68d9b80c133e3146c4db035faaa409e45",
+      "bytes": 42010,
+      "from": "1d03 pages 6-7 — a green plane with figures"
+    },
+    {
+      "name": "07-lattice-side-detail.webp",
+      "sha256": "ee76c0770f7da0b47104cd3c8bb150b964067f68233eb1b2a75d9e018517fee2",
+      "bytes": 20244,
+      "from": "1d03 pages 6-7 — detail of the lattice"
+    }
+  ]
+}
