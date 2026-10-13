@@ -1,0 +1,61 @@
+{
+  "project": "Mountain of Abandoned Things",
+  "dest": "assets/board/mountain-of-abandoned-things-clay-and-crane-model",
+  "note": "Portfolio 956b pages 4-5 cropped to 9 images, WebP q88 (PIL). Not used: video game screenshots, process photos with hands (game title dropped; retitled from Getting Over It).",
+  "files": [
+    {
+      "name": "01-clay-mountain-with-crane.webp",
+      "sha256": "88e7bdc7974785c013d8e7d8b5734e26dc7b7766e0179d353489f7e45d9fae22",
+      "bytes": 149620,
+      "from": "956b pages 4-5 — the clay mountain with its crane"
+    },
+    {
+      "name": "02-model-front-view.webp",
+      "sha256": "ef862a2f775bb0edfc72ac512a3c41e2d5f017f8065030fd71de638142f83516",
+      "bytes": 122096,
+      "from": "956b pages 4-5 — the model from the front"
+    },
+    {
+      "name": "03-model-shadow-view.webp",
+      "sha256": "0a50008d0af9b6563a199bdfbf99d9677a72fb0fb09a9de6acb704a8e2a5d8b0",
+      "bytes": 72494,
+      "from": "956b pages 4-5 — the model and its shadow"
+    },
+    {
+      "name": "04-chair-and-bench-detail.webp",
+      "sha256": "ce738127b3524107578b0a09e4ce732d780c682646ca6752215e45b6b7a2516e",
+      "bytes": 52172,
+      "from": "956b pages 4-5 — a chair and bench"
+    },
+    {
+      "name": "05-lower-terrace-detail.webp",
+      "sha256": "83bc5699d3ddec061fa5659f859cd82c0e64c09ba7efc82e6e3eca804dca902c",
+      "bytes": 39082,
+      "from": "956b pages 4-5 — the lower terrace"
+    },
+    {
+      "name": "06-chair-detail.webp",
+      "sha256": "414d2c986f1367d6eea1fb3079d5b01f5cf75bdb8eebdcd41bdba166430114cb",
+      "bytes": 20822,
+      "from": "956b pages 4-5 — a chair on the clay"
+    },
+    {
+      "name": "07-box-detail.webp",
+      "sha256": "0eb207049946d022abc737620a26f64d4793410d7a73fc5ad41cba7e30497133",
+      "bytes": 19296,
+      "from": "956b pages 4-5 — a box on the clay"
+    },
+    {
+      "name": "08-clay-pieces.webp",
+      "sha256": "6f37f0d52c0789914132a5102321a119dafd511e4aec876138810336f5ebbc4c",
+      "bytes": 27374,
+      "from": "956b pages 4-5 — clay pieces"
+    },
+    {
+      "name": "09-clay-base-forming.webp",
+      "sha256": "f5fca4fe1d9647353b588b9f5cce88d4c339ad6fe71603efe58e6cbb2695bf7b",
+      "bytes": 22978,
+      "from": "956b pages 4-5 — forming the clay base"
+    }
+  ]
+}
