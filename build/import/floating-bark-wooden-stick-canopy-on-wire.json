@@ -1,0 +1,61 @@
+{
+  "project": "Floating Bark",
+  "dest": "assets/board/floating-bark-wooden-stick-canopy-on-wire",
+  "note": "Portfolio a458 pages 5-6 cropped to 9 images, WebP q88 (PIL). Not used: tree and bark reference photos, process photos showing the student and hands, sketch sheet with photo insets.",
+  "files": [
+    {
+      "name": "01-floating-bark-lattice.webp",
+      "sha256": "dddff1e511f64f7e612bb56c18a67f6868cc8ad69871aa76dfc06f769b61920a",
+      "bytes": 288954,
+      "from": "a458 pages 5-6 — the floating bark lattice"
+    },
+    {
+      "name": "02-lattice-canopy-close.webp",
+      "sha256": "82ca9692f5b4dbfdb2ee3c2b459bb84bb088f13dbe3fd67dc80bb46a38bd35ab",
+      "bytes": 189430,
+      "from": "a458 pages 5-6 — the canopy up close"
+    },
+    {
+      "name": "03-lattice-view-strip.webp",
+      "sha256": "5855a7b1e4c48d395563d56b9c0409d18c80375a8583b4c3a3fd9669e058b97c",
+      "bytes": 82378,
+      "from": "a458 pages 5-6 — views of the lattice"
+    },
+    {
+      "name": "04-lattice-side-a.webp",
+      "sha256": "f24919423da06d05fa8d9c0f71b9479e1a84a6724eb5a92d69ced09645cf7753",
+      "bytes": 74094,
+      "from": "a458 pages 5-6 — the lattice edge"
+    },
+    {
+      "name": "05-lattice-side-b.webp",
+      "sha256": "44db309c140d95c8f1148311bc71e1e359e0351ba85598ceda6b0ff27b250380",
+      "bytes": 57700,
+      "from": "a458 pages 5-6 — lattice from below"
+    },
+    {
+      "name": "06-lattice-side-c.webp",
+      "sha256": "bfe82a6b76459033643244f625236c7d402e3ffde34bc8a9c545aeeaa01316bf",
+      "bytes": 66726,
+      "from": "a458 pages 5-6 — interlocking triangles"
+    },
+    {
+      "name": "07-figure-under-stick-canopy.webp",
+      "sha256": "0b7f4aa5b07d100de715943a07e34735a33f6c0ff9b987f009e5b7397961e0aa",
+      "bytes": 255406,
+      "from": "a458 pages 5-6 — a figure under the canopy"
+    },
+    {
+      "name": "08-stick-canopy-upper.webp",
+      "sha256": "23c1d1ba0ca1f85fb3aa21f7cccd5e9b058a0cfc4222f546834c0095de7c0fe2",
+      "bytes": 128776,
+      "from": "a458 pages 5-6 — the upper canopy"
+    },
+    {
+      "name": "09-stick-canopy-lower.webp",
+      "sha256": "77448c2f88491dba8b36e5aeef01bd9480eb14b3700ed079d7dab1c76e46ed60",
+      "bytes": 155494,
+      "from": "a458 pages 5-6 — beneath the canopy"
+    }
+  ]
+}
