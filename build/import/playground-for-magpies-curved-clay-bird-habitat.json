@@ -1,0 +1,67 @@
+{
+  "project": "A Playground for Magpies",
+  "dest": "assets/board/playground-for-magpies-curved-clay-bird-habitat",
+  "note": "Portfolio b439 pages 4-6 cropped to 10 images, WebP q88 (PIL). Not used: cover page, city and trip details, bird and park photos with people, book cover with author name, process photos with hands.",
+  "files": [
+    {
+      "name": "01-lit-clay-playground.webp",
+      "sha256": "be1dc87e5f600f838797c423d8f329f05e1925e4aaca3d61c5e0a6255eb4e24a",
+      "bytes": 68082,
+      "from": "b439 pages 4-6 — the clay playground under coloured light"
+    },
+    {
+      "name": "02-feather-sketches.webp",
+      "sha256": "259f1eddc53397bd35fb906642f9e9fc2122a8c5258cce9c69da4b2d7f065696",
+      "bytes": 86196,
+      "from": "b439 pages 4-6 — sketches of feather types"
+    },
+    {
+      "name": "03-flight-sequence.webp",
+      "sha256": "00d39fee56a64ca80a1266b6e9a09dd9e9056f632414d59685e96ffe7da9b8e4",
+      "bytes": 62928,
+      "from": "b439 pages 4-6 — a traced hop and flight sequence"
+    },
+    {
+      "name": "04-plan-sketch.webp",
+      "sha256": "485b42129681374a45fb43b802d0c3348d1fe0ac9d4eb35877f4c3894a496cdc",
+      "bytes": 77748,
+      "from": "b439 pages 4-6 — a bird's-eye plan sketch"
+    },
+    {
+      "name": "05-section-sketch.webp",
+      "sha256": "1190034ba5bf21c5d722b730e6644e8ab56faf9c8f4aae76090c75a9c920974a",
+      "bytes": 95296,
+      "from": "b439 pages 4-6 — a side sketch of the shelter"
+    },
+    {
+      "name": "06-wire-frame.webp",
+      "sha256": "8c12796e9eefc0f42902289a79d653671fe62c71898574f159ab1d395caf9874",
+      "bytes": 52586,
+      "from": "b439 pages 4-6 — the bent wire frame"
+    },
+    {
+      "name": "07-model-on-pink-light.webp",
+      "sha256": "813b73b7432ef1192ed4a661ca14c8c5134f84ebc86e0a9e3646fddc209c8d02",
+      "bytes": 54280,
+      "from": "b439 pages 4-6 — the model on a dark stage"
+    },
+    {
+      "name": "08-arches-and-figures.webp",
+      "sha256": "e64cea07186e8719d429d3de060b0cef84b5150c09fc72e419a05becf97814c1",
+      "bytes": 35286,
+      "from": "b439 pages 4-6 — arches with tiny figures"
+    },
+    {
+      "name": "09-white-model-angle.webp",
+      "sha256": "6af71f36f31a6c8d982619e65f2bb3822248a203b59bdbb1c6d2dceb5946642a",
+      "bytes": 22016,
+      "from": "b439 pages 4-6 — the model from above"
+    },
+    {
+      "name": "10-white-model-low.webp",
+      "sha256": "6c285d5ee7c2df4140225a9e80dedeb69deb551385bba197aae00e231f2d5410",
+      "bytes": 14950,
+      "from": "b439 pages 4-6 — a low view of the forms"
+    }
+  ]
+}
