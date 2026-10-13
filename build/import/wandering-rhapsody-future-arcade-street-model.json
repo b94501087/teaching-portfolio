@@ -1,0 +1,61 @@
+{
+  "project": "Wandering Rhapsody",
+  "dest": "assets/board/wandering-rhapsody-future-arcade-street-model",
+  "note": "Portfolio b63b pages 6-8 cropped to 9 images, WebP q88 (PIL). Not used: aerial location maps with street/district names, street photos of the five buildings, two facade drawings with shop-sign lettering (city and street names dropped; caption title dropped).",
+  "files": [
+    {
+      "name": "01-future-arcade-street-model.webp",
+      "sha256": "6bafa669ebb6eb39b5ec79fb0f31563d0cf493698f966bc8c790ceb670345379",
+      "bytes": 162178,
+      "from": "b63b pages 6-8 — the future arcade street model"
+    },
+    {
+      "name": "02-arcade-facade-drawing.webp",
+      "sha256": "0028eba48a045ee747034615b563f0246a057abe90c9f4d107f017a19bfc7d45",
+      "bytes": 19500,
+      "from": "b63b pages 6-8 — an arcade facade drawing"
+    },
+    {
+      "name": "03-five-line-pattern-drawings.webp",
+      "sha256": "ea2ca4354966d20995c63bad78b0c9f5b2be4f067247ae4f13795ee862910718",
+      "bytes": 234670,
+      "from": "b63b pages 6-8 — line pattern drawings"
+    },
+    {
+      "name": "04-six-material-samples.webp",
+      "sha256": "05af16b751ea1904fcc7d93f9c0850de5f4e4cb452d7eba9e8f5e8c1a47420a3",
+      "bytes": 43906,
+      "from": "b63b pages 6-8 — material samples"
+    },
+    {
+      "name": "05-five-scene-models.webp",
+      "sha256": "3443ffbb8215dbcc6c0e81a6399b387414a61470f997ff25389630d1abd2c360",
+      "bytes": 63144,
+      "from": "b63b pages 6-8 — the five scene models"
+    },
+    {
+      "name": "06-street-model-overview.webp",
+      "sha256": "09b2901f4dac89b6b53e222f6ad3ae0f4c6c37cb2515447728653b6a18fcb2b0",
+      "bytes": 129666,
+      "from": "b63b pages 6-8 — the street from above"
+    },
+    {
+      "name": "07-street-model-detail-a.webp",
+      "sha256": "d3eb5142b3a7cd59719eeed31280eaa5f90cfc9cc80f61b3e8c14c7e7d02bcec",
+      "bytes": 42872,
+      "from": "b63b pages 6-8 — a lattice detail"
+    },
+    {
+      "name": "08-street-model-detail-b.webp",
+      "sha256": "20c56834d019a8a882c6be957a283f4b3450fa4befd9c29e68df72cc833720bd",
+      "bytes": 45782,
+      "from": "b63b pages 6-8 — stairs and frames"
+    },
+    {
+      "name": "09-street-model-detail-c.webp",
+      "sha256": "7ce5595735415e6d3bb5a0b5546af261c5dad700211e87340cba1ec033a245b6",
+      "bytes": 30774,
+      "from": "b63b pages 6-8 — under the canopy"
+    }
+  ]
+}
