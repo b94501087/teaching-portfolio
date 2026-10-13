@@ -1,0 +1,67 @@
+{
+  "project": "Human and Nature",
+  "dest": "assets/board/human-and-nature-branch-metal-and-wire-sculptures",
+  "note": "Portfolio 1d99 pages 4-5 cropped to 10 images, WebP q88 (PIL). Not used: artist research with artist names and reproductions of artworks, collage of nature and city images, process photos with hands.",
+  "files": [
+    {
+      "name": "01-branch-and-metal-final.webp",
+      "sha256": "1aca8b20ab84126d19e9c28675021479bb09343fe7ace8c1d47feb0ecc8ba2cd",
+      "bytes": 25480,
+      "from": "1d99 pages 4-5 — the branch and metal final piece"
+    },
+    {
+      "name": "02-brainstorm-sketches.webp",
+      "sha256": "98369e71e13974a777f19d02cea6fcf18453d0024be01710d427cc4ab05e0b8e",
+      "bytes": 108670,
+      "from": "1d99 pages 4-5 — brainstorming sketches"
+    },
+    {
+      "name": "03-sticks-and-metal-test.webp",
+      "sha256": "a1903ff34c3281c7ccc55e4ff804fcbeadb971d5a27690a01cc5c0af7cf0c012",
+      "bytes": 49918,
+      "from": "1d99 pages 4-5 — a test of sticks and metal"
+    },
+    {
+      "name": "04-metal-shards-test.webp",
+      "sha256": "367b114603903c062993be52f9b2d1d15342215dbe493e030c9e90109eda1530",
+      "bytes": 60862,
+      "from": "1d99 pages 4-5 — a test with metal shards"
+    },
+    {
+      "name": "05-wire-wrapped-branch.webp",
+      "sha256": "043f65b427a4e213e8cab0245a7a733b0f921ecf7708b744c71f608b6160703c",
+      "bytes": 81622,
+      "from": "1d99 pages 4-5 — a wire-wrapped branch"
+    },
+    {
+      "name": "06-branch-burst-final.webp",
+      "sha256": "b5917fe4d94df84b72f71887ed88d68a384465f7a2f2464d459c632bd7237b8a",
+      "bytes": 77460,
+      "from": "1d99 pages 4-5 — a branch burst final piece"
+    },
+    {
+      "name": "07-two-stems-final.webp",
+      "sha256": "1edd74ec7ca4db4044ec968d10d8c13837bd2d8df4854d88a62101bacdd53a9b",
+      "bytes": 77428,
+      "from": "1d99 pages 4-5 — two stems as a final piece"
+    },
+    {
+      "name": "08-small-stem-final.webp",
+      "sha256": "3f1c3db1a19094724e658dd08fd1ea32d8d6fdabfa1d6c911be10a6f8c435418",
+      "bytes": 41190,
+      "from": "1d99 pages 4-5 — a small stem final piece"
+    },
+    {
+      "name": "09-dense-crown-final.webp",
+      "sha256": "064b3a51ba2096bcf58250d4090ee47cd575a93d32176dda50680c41bcdcceb0",
+      "bytes": 85626,
+      "from": "1d99 pages 4-5 — a dense crown in close view"
+    },
+    {
+      "name": "10-spread-branch-final.webp",
+      "sha256": "0829e3a5e27209e0debf1c76f38efe175166fcb4fa98ddd128137f72b7f72ad6",
+      "bytes": 77036,
+      "from": "1d99 pages 4-5 — a spreading branch final piece"
+    }
+  ]
+}
