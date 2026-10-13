@@ -1,0 +1,67 @@
+{
+  "project": "Four Layers of a Dream Park",
+  "dest": "assets/board/four-layers-of-a-dream-park-mixed-material-model",
+  "note": "Portfolio b63b pages 9-12 cropped to 10 images, WebP q88 (PIL). Not used: film poster, title and quote, film-still strip, scene-description text naming the film (retitled from film title; film references, city name and palace style label dropped).",
+  "files": [
+    {
+      "name": "01-four-part-dream-park-model.webp",
+      "sha256": "fe4e2a830338421efb8c588a13c1dd6aa71d027aad48a6e1b9ab12c0007f3c4d",
+      "bytes": 159470,
+      "from": "b63b pages 9-12 — the four-part dream park model"
+    },
+    {
+      "name": "02-ring-park-plan-sketch.webp",
+      "sha256": "23c2dff5f9653371fa2f8808296ef5b448c12ff4329fafa09e730819a5c07d00",
+      "bytes": 147736,
+      "from": "b63b pages 9-12 — the ring plan sketch"
+    },
+    {
+      "name": "03-four-part-process-models.webp",
+      "sha256": "6b320e3d5865ac09d516f43ae0f33b3da3267add98b7b1373ccfb3cfff5096db",
+      "bytes": 82490,
+      "from": "b63b pages 9-12 — process models of the four parts"
+    },
+    {
+      "name": "04-timber-pavilion-acrylic-tower.webp",
+      "sha256": "39ccbcf5c73edb400ac897f36bb6b05d51de9644c62e019227e110da0ed5b7cd",
+      "bytes": 82566,
+      "from": "b63b pages 9-12 — the timber pavilion over acrylic"
+    },
+    {
+      "name": "05-acrylic-lower-interior.webp",
+      "sha256": "0fafbb47c916f2b0cd5477d67c67f610faa52ad06bdee91041667082d68ccd39",
+      "bytes": 28426,
+      "from": "b63b pages 9-12 — inside the acrylic city"
+    },
+    {
+      "name": "06-rattan-loop-model.webp",
+      "sha256": "f115c1fb4c28f1081f179a237b462d1b87950517395ed728cc7544af8e821c8b",
+      "bytes": 61984,
+      "from": "b63b pages 9-12 — the rattan loop"
+    },
+    {
+      "name": "07-rattan-loop-from-above.webp",
+      "sha256": "59c77e9147618037543b1a2ba5c64f6fa8b9a86546f5d3261f18fcd67d55c46b",
+      "bytes": 50074,
+      "from": "b63b pages 9-12 — the loop from above"
+    },
+    {
+      "name": "08-snowfield-cube-cluster.webp",
+      "sha256": "2b9590d29cc8ffe6ac392c480bd9018934bb3929049e84d9855b3f3449e0b65a",
+      "bytes": 66438,
+      "from": "b63b pages 9-12 — the snowfield cubes"
+    },
+    {
+      "name": "09-snowfield-street-view.webp",
+      "sha256": "50246be7a45fb6e1e065ee7423b941dab9416ef3709a13fdcd35618d2d642871",
+      "bytes": 61778,
+      "from": "b63b pages 9-12 — a snowfield street"
+    },
+    {
+      "name": "10-collapsing-towers-lake.webp",
+      "sha256": "1dd34df2b01038261c694905085bde39660ef6c49e6e8ffe6286282217144215",
+      "bytes": 97934,
+      "from": "b63b pages 9-12 — collapsing towers around the lake"
+    }
+  ]
+}
