@@ -1,0 +1,49 @@
+{
+  "project": "Within the Light Cone",
+  "dest": "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments",
+  "note": "Portfolio 1ab1 pages 7-8 cropped to 7 images, WebP q88 (PIL). Not used: cover page, newspaper sketch with legible headlines.",
+  "files": [
+    {
+      "name": "01-acrylic-light-cone.webp",
+      "sha256": "8b7cdc39ac088bbbb24b339ebbf635e950d0d046133e056048f7845c076a80cb",
+      "bytes": 414734,
+      "from": "1ab1 page 7-8 — the acrylic light-cone model"
+    },
+    {
+      "name": "02-angle-one.webp",
+      "sha256": "443532c18e40b9db05f7fca27b892b99d5cb5524fbf989e8cd2a1dce5b7a7899",
+      "bytes": 67340,
+      "from": "1ab1 page 7-8 — the cone from one angle"
+    },
+    {
+      "name": "03-angle-two.webp",
+      "sha256": "bd7c32372cf54c737ca2da03d27db391c2d95c3a18ee9435264bb9dfb47bb11e",
+      "bytes": 62618,
+      "from": "1ab1 page 7-8 — the cone from another angle"
+    },
+    {
+      "name": "04-angle-three.webp",
+      "sha256": "ea20d206154b80a68b2df61a2a1bd1ab4410bfc813971615857351d85c71557e",
+      "bytes": 65300,
+      "from": "1ab1 page 7-8 — reflections from a third angle"
+    },
+    {
+      "name": "05-deep-cone-of-light.webp",
+      "sha256": "a4ffe3c7e63220bca2d21f705ebef8c59db656ec57ac74684b87d25f04dee3ca",
+      "bytes": 212370,
+      "from": "1ab1 page 7-8 — looking deep into the cone"
+    },
+    {
+      "name": "06-time-warp-sketch.webp",
+      "sha256": "0a1ee6c9736f5db723a9b37040c7feeb9a08b79e306ecd5c9e36f894745eeea8",
+      "bytes": 354410,
+      "from": "1ab1 page 7-8 — a pencil sketch of warped time"
+    },
+    {
+      "name": "07-world-in-a-light-cone-sketch.webp",
+      "sha256": "8c9fe91b7ea88de56e242be77598fa8630d29ccdba7859f347d2281af129688a",
+      "bytes": 287804,
+      "from": "1ab1 page 7-8 — a colour sketch of a world in a cone"
+    }
+  ]
+}
