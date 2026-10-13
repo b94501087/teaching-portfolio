@@ -1,0 +1,67 @@
+{
+  "project": "The Wave Corridor",
+  "dest": "assets/board/wave-corridor-folded-lattice-rib-canopy",
+  "note": "Portfolio 222e pages 9-11 cropped to 10 images, WebP q88 (PIL). Not used: site photographs of the mall with people, weekday schedule chart, camp and city names, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-folded-wave-canopy.webp",
+      "sha256": "38fd5ee83ca308c5e8f5607f61cfc44dc38b2bf845e7cf7a749b890620b9c2b9",
+      "bytes": 99812,
+      "from": "222e pages 9-11 — the folded wave canopy"
+    },
+    {
+      "name": "02-pattern-drawings.webp",
+      "sha256": "62db09abd8c2437ba27058cbe99438a09cca952ad8ec49678bc7513803bc6e61",
+      "bytes": 171548,
+      "from": "222e pages 9-11 — the pattern drawings"
+    },
+    {
+      "name": "03-curve-drawings.webp",
+      "sha256": "ac4abf8c24a7125ddee7a87cc7c524a07df08e586ba85af0153292cbbca9b22a",
+      "bytes": 138620,
+      "from": "222e pages 9-11 — the curve drawings"
+    },
+    {
+      "name": "04-wire-curve-study.webp",
+      "sha256": "d170363725ac9adfdac80e0e3f7d760af8ea5a08d859476a2024561bc65fb535",
+      "bytes": 32492,
+      "from": "222e pages 9-11 — a wire curve study"
+    },
+    {
+      "name": "05-wire-coil-model.webp",
+      "sha256": "398bd5b162c6fa6ccf9d28f65f1abf4ef10c8916dd943145d74f896debdb30c8",
+      "bytes": 23562,
+      "from": "222e pages 9-11 — a wire coil model"
+    },
+    {
+      "name": "06-folded-sponge-study.webp",
+      "sha256": "d82dfbc33cbe81a07a75eb80b3089b7c6b8eb1de6f0ae752f3c20a06655c2131",
+      "bytes": 15732,
+      "from": "222e pages 9-11 — a folded sponge study"
+    },
+    {
+      "name": "07-spiral-plan-model.webp",
+      "sha256": "dc69e6611466fb4fc2394c5829a69a2a16545556ce75a8a934895614c29c319d",
+      "bytes": 49936,
+      "from": "222e pages 9-11 — the spiral plan model"
+    },
+    {
+      "name": "08-interior-sketch-models.webp",
+      "sha256": "ec7bd776ae6a89efca9ec7b6da2fa5e7a52acd48f284a614b4186c3a2cd9baa7",
+      "bytes": 95624,
+      "from": "222e pages 9-11 — interior sketch models"
+    },
+    {
+      "name": "09-folding-tests.webp",
+      "sha256": "629800975415e7418faac9cf551a16b6d11ce4e3d16a3d78498490fa04b69b68",
+      "bytes": 19482,
+      "from": "222e pages 9-11 — paper folding tests"
+    },
+    {
+      "name": "10-lattice-rib-close.webp",
+      "sha256": "bd794226d68bb8832f2d20900d09dd65c1a6dc93c184b0463b9d30a9bc9e8a40",
+      "bytes": 125672,
+      "from": "222e pages 9-11 — the lattice rib in close view"
+    }
+  ]
+}
