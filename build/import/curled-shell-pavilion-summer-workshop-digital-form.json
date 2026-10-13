@@ -1,0 +1,49 @@
+{
+  "project": "Curled Shell Pavilion",
+  "dest": "assets/board/curled-shell-pavilion-summer-workshop-digital-form",
+  "note": "Portfolio b2e2 page 8 cropped to seven images, WebP q88 (PIL). Not used: title and text, the name of the summer school.",
+  "files": [
+    {
+      "name": "01-final-render.webp",
+      "sha256": "b7d4fbe35e2a6d613ed6f6b44fc1309172827ea374ba82e0629a76522180b855",
+      "bytes": 16072,
+      "from": "b2e2 page 8 — final render"
+    },
+    {
+      "name": "02-plan-lines.webp",
+      "sha256": "3413862f56482a4210c93b61ff785f03c46028f063e59bb19b1e7a11dfd9cc3e",
+      "bytes": 7632,
+      "from": "b2e2 page 8 — plan lines"
+    },
+    {
+      "name": "03-wire-model.webp",
+      "sha256": "4ceba2d10db89950077c51bb9ed6568622e4e31daec8e025e1516fd833289b00",
+      "bytes": 16248,
+      "from": "b2e2 page 8 — wire model"
+    },
+    {
+      "name": "04-section.webp",
+      "sha256": "6bd0f07099e9906aa8aa61020a2091cfe1b4bb9073b62a844d3711c209b4fc1a",
+      "bytes": 23894,
+      "from": "b2e2 page 8 — section"
+    },
+    {
+      "name": "05-render-one.webp",
+      "sha256": "daad3c53097bbdc274751a669f94d0826f56f3ec21184129854b4943d4bb24cb",
+      "bytes": 2758,
+      "from": "b2e2 page 8 — render one"
+    },
+    {
+      "name": "06-render-two.webp",
+      "sha256": "fa56a9caaa76c7afb83116cca405beed72161ff8b06c845e0c4a9f3c2bfbd6e0",
+      "bytes": 2410,
+      "from": "b2e2 page 8 — render two"
+    },
+    {
+      "name": "07-render-three.webp",
+      "sha256": "4a4c9b5dea2b31644ea068b5683bb913c9c73f2e5397055f5192cecd59eb7d16",
+      "bytes": 2316,
+      "from": "b2e2 page 8 — render three"
+    }
+  ]
+}
