@@ -1,0 +1,55 @@
+{
+  "project": "The Experience of a Fracture",
+  "dest": "assets/board/experience-of-a-fracture-plaster-cavity-and-sticks",
+  "note": "Portfolio b4db page 2 cropped to 8 images, WebP q88 (PIL). Not used: process photo with hands.",
+  "files": [
+    {
+      "name": "01-plaster-and-stick-model.webp",
+      "sha256": "ead8acbb19d403146aa950ffa4ee5d7f368a140816bdb2ac0f538a743717ae89",
+      "bytes": 152828,
+      "from": "b4db page 2 — the plaster and stick model"
+    },
+    {
+      "name": "02-bone-break-sketches.webp",
+      "sha256": "ea69cf5ddf8438ce0e63ccf1005e05468d7baf9717703e24d2f02d02a96a9d12",
+      "bytes": 36588,
+      "from": "b4db page 2 — sketches of bone breaks"
+    },
+    {
+      "name": "03-plaster-cast-pieces.webp",
+      "sha256": "67433bbf91228afd1d3d087389ca20ad6b821dcc315f4eaf82ae94fe3b41811b",
+      "bytes": 122110,
+      "from": "b4db page 2 — plaster cast pieces"
+    },
+    {
+      "name": "04-cavity-close-up.webp",
+      "sha256": "bf2dacd5106ee83ff21311eccbbd4fe5a71b013b6deb583a3ea915cd1bf833c1",
+      "bytes": 24752,
+      "from": "b4db page 2 — a lit cavity close up"
+    },
+    {
+      "name": "05-hollow-in-plaster.webp",
+      "sha256": "e8eba3734a3d7b377b140db0af4d52d15d0fdd69196f498b8c53309c46758c51",
+      "bytes": 35800,
+      "from": "b4db page 2 — a hollow in the plaster"
+    },
+    {
+      "name": "06-cracked-surface-close-up.webp",
+      "sha256": "9a42d9022e260408b32e64648fd8141f0673c84689a800f404a11bd5b5f584c6",
+      "bytes": 170534,
+      "from": "b4db page 2 — the cracked surface"
+    },
+    {
+      "name": "07-sticks-from-the-side.webp",
+      "sha256": "3daa66f78895accc62fe01dd037c93871a2e46d606a0393900e31dda65e7300c",
+      "bytes": 72356,
+      "from": "b4db page 2 — the sticks from the side"
+    },
+    {
+      "name": "08-model-from-above.webp",
+      "sha256": "7dcfff17322345449b6bb0c2102eae4cfbf9dce3ddfee09e9e194bc4ed054c40",
+      "bytes": 117396,
+      "from": "b4db page 2 — the model from above"
+    }
+  ]
+}
