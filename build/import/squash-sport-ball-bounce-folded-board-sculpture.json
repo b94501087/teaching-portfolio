@@ -1,0 +1,67 @@
+{
+  "project": "Squash Sport",
+  "dest": "assets/board/squash-sport-ball-bounce-folded-board-sculpture",
+  "note": "Portfolio 9954 pages 5-6 cropped to ten images, WebP q88 (PIL). Not used: title and text, a photo of a match with players, photos of the student wearing the model.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "c636fde581c98f5acbd4fb82bcbb91a148c88fcb840cf85212d578e9aa551b5b",
+      "bytes": 30182,
+      "from": "9954 page 5 — final model"
+    },
+    {
+      "name": "02-bounce-boxes.webp",
+      "sha256": "e6e6a2d2fbe7b8047d0ad62a0d2a1165b9ffe8dac0e0558ab281972653001103",
+      "bytes": 22922,
+      "from": "9954 page 5 — bounce boxes"
+    },
+    {
+      "name": "03-folded-study.webp",
+      "sha256": "7eb3ff5bf3d4572afd05a9d8f54f09ddb500a4b96ca2d9441bb6a7196b75439b",
+      "bytes": 4840,
+      "from": "9954 page 5 — folded study"
+    },
+    {
+      "name": "04-pyramid-row.webp",
+      "sha256": "e345adec681b03b0113319a0a579c9b5cc0fb7d00dcd642cdbc577e9379ab5c1",
+      "bytes": 7466,
+      "from": "9954 page 5 — pyramid row"
+    },
+    {
+      "name": "05-stick-cluster.webp",
+      "sha256": "4d9395419c719d5af324bdcfe14ef05a2b3375562bd226a4d51dc96c5ff90cbc",
+      "bytes": 14646,
+      "from": "9954 page 5 — stick cluster"
+    },
+    {
+      "name": "06-close-view.webp",
+      "sha256": "c0812e3eed1f9480688328e06a761231328102c424d001fd7daf35a8a579be33",
+      "bytes": 19248,
+      "from": "9954 page 5 — close view"
+    },
+    {
+      "name": "07-striped-form.webp",
+      "sha256": "8fbc936472d889eff60d8cff50c1d4e04a96e718d89a6b47dc50e57378972a81",
+      "bytes": 35604,
+      "from": "9954 page 6 — striped form"
+    },
+    {
+      "name": "08-low-view.webp",
+      "sha256": "a084ba4d4f12bef1f2836acc0a4660c9099f774678ec77937dd34217bf376e76",
+      "bytes": 32100,
+      "from": "9954 page 6 — low view"
+    },
+    {
+      "name": "09-ink-drawing.webp",
+      "sha256": "02d74a8634303eca042d7324448f07f84d9e4cd1150aac9822e731addb27e76e",
+      "bytes": 68746,
+      "from": "9954 page 6 — ink drawing"
+    },
+    {
+      "name": "10-green-collage.webp",
+      "sha256": "34093e4dac7d671b815e44240e312b97ce2736ab3bb66e26be3c36de2f0fba7b",
+      "bytes": 44408,
+      "from": "9954 page 6 — green collage"
+    }
+  ]
+}
