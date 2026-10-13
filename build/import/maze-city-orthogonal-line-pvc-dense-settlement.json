@@ -1,0 +1,55 @@
+{
+  "project": "Maze City",
+  "dest": "assets/board/maze-city-orthogonal-line-pvc-dense-settlement",
+  "note": "Portfolio 4434 pages 5-7 cropped to 8 images, WebP q88 (PIL). Not used: reference maze cube image, line drawing sheet with printed text.",
+  "files": [
+    {
+      "name": "01-dense-maze-city-model.webp",
+      "sha256": "d6c656dfe8a3ab41f51377583648695c5c0d3c2de9f11dc962cd7925b58fa791",
+      "bytes": 316018,
+      "from": "4434 pages 5-7 — the dense maze city model"
+    },
+    {
+      "name": "02-maze-plan-from-above.webp",
+      "sha256": "a80de18beec179c3d747dae0d3ad0ae2836597db3d13c87043d85f6addf33609",
+      "bytes": 188162,
+      "from": "4434 pages 5-7 — the maze from above"
+    },
+    {
+      "name": "03-line-pattern-to-relief.webp",
+      "sha256": "e7e6edaf6544ce2f70d4f39dca823c96e49c48d1cae02b9628f1ee6aa0da506a",
+      "bytes": 39794,
+      "from": "4434 pages 5-7 — from line pattern to relief"
+    },
+    {
+      "name": "04-extrusion-studies-a.webp",
+      "sha256": "f7f66ae7b2269ecc1a45636b3732393d06ce8a529e3044d6388cdde935f12d76",
+      "bytes": 76194,
+      "from": "4434 pages 5-7 — extrusion studies"
+    },
+    {
+      "name": "05-extrusion-studies-b.webp",
+      "sha256": "b8e9495aaa33829d34da323e631f8f9a1d1d65fa8d5d39eb216230ebb5d1c648",
+      "bytes": 75344,
+      "from": "4434 pages 5-7 — more extrusion studies"
+    },
+    {
+      "name": "06-stacked-top-view.webp",
+      "sha256": "7f37414f25c0b8ad8e38b2cc3fa2823a9bc557f3dc695c7dbcdb899e109c6344",
+      "bytes": 38622,
+      "from": "4434 pages 5-7 — the stack from the top"
+    },
+    {
+      "name": "07-stacked-side-view.webp",
+      "sha256": "c3550b0c48a99b9f69ca6b5228dcf9cb11947ad5ceaf49b78ff129e8b304d9aa",
+      "bytes": 32062,
+      "from": "4434 pages 5-7 — the stack from the side"
+    },
+    {
+      "name": "08-stacked-white-view.webp",
+      "sha256": "f69fae248fc9c309beed58d615426585951b042bb2fb18987549be96b8bc698f",
+      "bytes": 16448,
+      "from": "4434 pages 5-7 — a white stacked view"
+    }
+  ]
+}
