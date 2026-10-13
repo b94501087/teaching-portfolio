@@ -1,0 +1,61 @@
+{
+  "project": "Imaginary Space",
+  "dest": "assets/board/imaginary-space-curved-collage-model",
+  "note": "Portfolio 4663 pages 8-9 cropped to nine images, WebP q88 (PIL). Not used: title and text, photos of famous buildings, the names of the architects.",
+  "files": [
+    {
+      "name": "01-collage-model.webp",
+      "sha256": "27306a1fa64b4b30c922326faa2486d690436d0d9d5cb701299dc9cfbe0910a5",
+      "bytes": 49266,
+      "from": "4663 page 9 — collage model"
+    },
+    {
+      "name": "02-traced-drawing.webp",
+      "sha256": "0a3849c06921bb21765d03f4cf35febbce9a6f5ab92428bdad1a098f08e3df98",
+      "bytes": 52820,
+      "from": "4663 page 8 — traced drawing"
+    },
+    {
+      "name": "03-composite-collage.webp",
+      "sha256": "14c6dae6afbfb1fc3fc5fa6f55d519875ba8f81161ad19f54f9d4e023fad5d5d",
+      "bytes": 59816,
+      "from": "4663 page 8 — composite collage"
+    },
+    {
+      "name": "04-curved-study.webp",
+      "sha256": "d8a96ec6488a56b29009b8ef0ce73ec1059574b0b4a0fc1987c1cede4616a680",
+      "bytes": 2986,
+      "from": "4663 page 8 — curved study"
+    },
+    {
+      "name": "05-early-model.webp",
+      "sha256": "988af2c9827c719c8768de9d7856623c28b7a7d3315e8e706a307f053426532e",
+      "bytes": 8556,
+      "from": "4663 page 8 — early model"
+    },
+    {
+      "name": "06-model-front.webp",
+      "sha256": "a7ee2d7238035e62c9e1029f11277f7030e82dd2b48144cf6155725cd43df97a",
+      "bytes": 29588,
+      "from": "4663 page 8 — model front"
+    },
+    {
+      "name": "07-stick-burst.webp",
+      "sha256": "316f894d3dec685a5ef46a2f0343dcfc3cee6e9bbef428f5e726e6cff9d1d1ad",
+      "bytes": 27196,
+      "from": "4663 page 9 — stick burst"
+    },
+    {
+      "name": "08-shadow-side.webp",
+      "sha256": "cb6cec514e4da6c10fe25b182f5db1818e40cfb466508e1bfbed25e5072f255a",
+      "bytes": 26786,
+      "from": "4663 page 9 — shadow side"
+    },
+    {
+      "name": "09-narrow-view.webp",
+      "sha256": "2cd7c202d41de6bca5af16a517236c1ef03a3a97c2b23e80c11d50e0f7b1707b",
+      "bytes": 13656,
+      "from": "4663 page 9 — narrow view"
+    }
+  ]
+}
