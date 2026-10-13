@@ -76544,6 +76544,434 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Tower of Conflict and Truce",
+      "slug": "tower-of-conflict-and-truce-layered-light-and-cube-model",
+      "description": "A metre-tall tower tells a story of struggle and reconciliation in stacked layers of painted cubes, circuit boards, tubes and coloured light.\n\nModel and sketches | Story study | Wooden strips, wire, cotton, cardboard, LED beads, PVC, foam, window film | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "衝突與和解之塔",
+          "description": "一座高逾一米的塔，以彩繪方塊、電路板、管材與彩光層層堆疊，講述一段抗爭與和解的故事。\n\n模型與草圖｜故事研究｜木條、鐵絲、棉花、紙板、LED燈珠、PVC、泡沫塊、窗膜｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/01-layered-tower-white-light.webp",
+        "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/02-layered-tower-green-light.webp",
+        "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/03-base-layer.webp",
+        "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/04-middle-layer-green-glow.webp",
+        "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/05-upper-ring-layer.webp",
+        "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/06-colour-cloud-crown.webp",
+        "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/07-design-sketch.webp",
+        "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/08-clay-fragments.webp",
+        "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/09-white-foam-blocks.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/01-layered-tower-white-light.webp"
+          ],
+          "captions": [
+            "The layered tower in white light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "白光下的層塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A story of two opposing kinds of beings, one ruled by feeling and one by logic, unfolds in several stages. The project asks how such a story could be stacked into one tower, with each layer telling a different chapter.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一段關於兩種對立存在的故事，一方由情感主導，一方由邏輯主導，分成數個階段展開。這個專題探問，如何把這樣的故事堆疊成一座塔，讓每一層講述不同的篇章。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student chose the most vivid moments of the story and sketched four to five layers, noting a material and a colour for each. Early tests tried clay fragments and folded foam blocks.",
+          "images": [
+            "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/07-design-sketch.webp",
+            "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/08-clay-fragments.webp",
+            "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/09-white-foam-blocks.webp"
+          ],
+          "captions": [
+            "The layer sketch.",
+            "Clay fragments.",
+            "Folded foam blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生挑選故事中最鮮明的片段，畫出四到五層的草圖，並為每一層標註材料與顏色。早期試驗嘗試了黏土碎片與摺疊的泡沫塊。",
+              "captions": [
+                "分層草圖。",
+                "黏土碎片。",
+                "摺疊的泡沫塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "At the base, grey structures stand for the logical side and dripping painted cubes for the emotional side, with a broken tangle between them. Above, circuit boards, clear bubbles and green lights show a captive system, then white tubes and a ring of panels show a last refuge under attack.",
+          "images": [
+            "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/03-base-layer.webp",
+            "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/04-middle-layer-green-glow.webp",
+            "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/05-upper-ring-layer.webp"
+          ],
+          "captions": [
+            "The base layer.",
+            "The middle layer in green light.",
+            "The upper ring layer."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "底層以灰色結構代表邏輯的一方，以滴染的彩繪方塊代表情感的一方，兩者之間是一團破碎的交纏。往上，電路板、透明泡泡與綠光呈現被囚禁的系統，再往上，白色管材與一圈板片呈現遭受攻擊的最後庇護所。",
+              "captions": [
+                "底層。",
+                "綠光中的中層。",
+                "上方的環形層。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A crown of shining coloured film ends the story with a sign of truce. Lit in white or green, the same tower changes mood from a crowded city to a glowing machine.",
+          "images": [
+            "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/06-colour-cloud-crown.webp",
+            "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/02-layered-tower-green-light.webp"
+          ],
+          "captions": [
+            "The coloured crown.",
+            "The tower in green light."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "一頂閃耀的彩色窗膜之冠，以和解的象徵為故事作結。在白光或綠光下，同一座塔的氣氛從擁擠的城市轉變為發光的機器。",
+              "captions": [
+                "彩色之冠。",
+                "綠光下的塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Stacked Chapters - A Tower That Tells a Story",
+          "body": "Narrative and architecture both unfold in sequence, yet a story moves through time while a building must hold everything at once. This project tried to reconcile the two by turning chapters into floors. The guidance asked the student to choose only the most charged moments of a long tale of struggle and to give each of them a layer, a material and a colour, so that reading the tower from bottom to top would feel like turning pages. Dripping painted cubes set against grey frames open the conflict between feeling and logic; circuit boards, clear bubbles and green light describe a system that holds its prisoners; white tubes and a ring of panels portray a final refuge under siege; and a crown of shimmering film closes with a fragile truce. Lighting completes the narrative, since the same object reads as a crowded settlement in white light and as a humming machine in green. The work shows how vertical order, material contrast and atmosphere can carry plot, turning a model into a quiet theatre of rising chapters.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "堆疊的篇章-會說故事的塔",
+              "body": "敘事與建築都依序展開，然而故事在時間中流動，建築卻必須同時容納一切。這個專題嘗試把篇章轉化為樓層，以調和兩者。指導過程要求學生只從一段漫長的抗爭故事中挑選最具張力的時刻，並為每一刻賦予一層、一種材料與一種顏色，使人由下而上閱讀這座塔時，彷彿正在翻頁。滴染的彩繪方塊對比灰色的框架，揭開情感與邏輯的衝突；電路板、透明泡泡與綠光描繪一個囚禁其居民的系統；白色管材與一圈板片刻畫被圍困的最後庇護所；而一頂微微閃爍的窗膜之冠，以脆弱的和解作結。燈光完成了敘事：同一件物體在白光下讀來像擁擠的聚落，在綠光下則像嗡嗡作響的機器。作品說明垂直的秩序、材料的對比與氛圍能夠承載情節，把模型化為一座篇章層層上升的安靜劇場。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Frozen Swing",
+      "slug": "frozen-swing-racket-track-fan-stick-structure",
+      "description": "The path of a swinging racket is traced as fans of thin sticks, built up into a structure, and then cut back into photo collages of a new space.\n\nModel, drawings and collages | Motion study | Wooden sticks, paper, wire, cardboard | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "凝固的揮拍",
+          "description": "揮動球拍的軌跡被描繪為細木條組成的扇形，堆疊成結構，再被剪回照片拼貼，成為一個新的空間。\n\n模型、繪圖與拼貼｜運動研究｜木條、紙、鐵絲、紙板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/01-swing-fan-model-top.webp",
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/02-swing-fan-model-side.webp",
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/03-photo-fragment-collage.webp",
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/04-reconstructed-space.webp",
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/05-collage-detail-left.webp",
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/06-collage-detail-centre.webp",
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/07-swing-line-drawing.webp",
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/08-wave-strip-study.webp",
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/09-fan-assembly.webp",
+        "assets/board/frozen-swing-racket-track-fan-stick-structure/10-fans-stacked-up.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/01-swing-fan-model-top.webp"
+          ],
+          "captions": [
+            "The swing fan model from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從上方看揮拍扇形模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Paintings and sculptures cannot move, yet they can still make people feel movement. The project asks whether a motionless model could show the swing of a racket and the arc of a ball.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "繪畫與雕塑無法移動，卻仍能讓人感受到動態。這個專題探問，一件靜止的模型能否呈現球拍的揮動與球的弧線。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student watched the tracks of a racket in different strokes and drew them as fans of straight lines bending into arcs. A wave study tested how rows of sticks could follow a curve.",
+          "images": [
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/07-swing-line-drawing.webp",
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/08-wave-strip-study.webp"
+          ],
+          "captions": [
+            "The swing line drawing.",
+            "A wave study of sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生觀察不同擊球動作中球拍的軌跡，並把它們畫成由直線彎成弧線的扇形。一份波浪研究則測試成排的木條如何沿著曲線排列。",
+              "captions": [
+                "揮拍線條圖。",
+                "木條的波浪研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sticks were glued to paper to make fan shapes, with the longest stick in the middle marking the hardest moment of impact. To become three-dimensional, the fans were lifted on thin legs and stacked higher.",
+          "images": [
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/09-fan-assembly.webp",
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/10-fans-stacked-up.webp",
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/02-swing-fan-model-side.webp"
+          ],
+          "captions": [
+            "Fan assembly.",
+            "Fans stacked higher.",
+            "The model from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "木條黏貼在紙上組成扇形，中央最長的一根標示撞擊最猛烈的瞬間。為了成為立體，扇形被細長的支腳撐起並往上堆疊。",
+              "captions": [
+                "扇形的組裝。",
+                "往上堆疊的扇形。",
+                "模型側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Photos of the model from many angles were cut and rejoined into collages. With small human figures added, the fragments turn into an irregular space that could become parts of buildings.",
+          "images": [
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/03-photo-fragment-collage.webp",
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/04-reconstructed-space.webp",
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/05-collage-detail-left.webp",
+            "assets/board/frozen-swing-racket-track-fan-stick-structure/06-collage-detail-centre.webp"
+          ],
+          "captions": [
+            "A collage of photo fragments.",
+            "The reconstructed space.",
+            "Collage detail.",
+            "Another collage detail."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "從各個角度拍攝的模型照片被剪下並重新拼合。加上小小的人形後，這些碎片化為一個不規則的空間，有潛力成為建築的局部。",
+              "captions": [
+                "照片碎片的拼貼。",
+                "重構的空間。",
+                "拼貼細部。",
+                "另一處拼貼細部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Traces of a Stroke - From Motion to Form and Back",
+          "body": "Still images have long carried motion, from carved figures caught mid-step to paintings that seem to breathe, and this project set out to learn that skill through a single gesture: the swing of a racket. The guidance asked the student to watch the stroke carefully and to record it not as a picture of a body but as a field of lines, straight where the arm is firm and curving where speed takes over. Those drawings became fans of thin sticks, the longest placed at the instant of impact, and the fans were raised on slender legs until a flat diagram began to stand like a structure. The study then reversed direction. Photographs of the model, taken from many angles, were cut apart and reassembled into collages, where tiny figures reveal stairs, canopies and voids that never existed in the original object. Moving from four dimensions to three and finally to two, the work treats time as a design material, showing how the memory of a movement can open unexpected architectural space.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "一擊的痕跡-從運動到形體再回返",
+              "body": "靜止的影像自古便承載著動態，從凝結於跨步之間的雕像，到彷彿正在呼吸的畫作；這個專題試圖透過一個單一的動作——揮拍——來學習這項本領。指導過程要求學生仔細觀察擊球，並把它記錄為一片線的場域，而非身體的圖像：手臂穩定處為直線，速度接管處則彎成弧線。這些圖轉化為細木條組成的扇形，最長的一根置於撞擊的瞬間，扇形再被細長的支腳撐起，讓平面的圖解逐漸站立成結構。研究隨後反轉方向：從各個角度拍攝的模型照片被剪開、重新拼合，小小的人形在拼貼中揭示出原本物件裡並不存在的階梯、頂棚與空隙。從四維到三維，再到二維，作品把時間當作設計的材料，說明一個動作的記憶能夠開啟出人意料的建築空間。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Deconstructed Fragments",
+      "slug": "deconstructed-fragments-pvc-and-stick-collage-model",
+      "description": "Photo fragments of everyday buildings are traced and abstracted, then rebuilt in white PVC and wooden sticks as a tilted, stair-linked cluster.\n\nModel and drawings | Architecture study | Wooden strips, PVC boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "解構的碎片",
+          "description": "日常建築的照片碎片被描繪並抽象化，再以白色PVC與木條重建為一簇傾斜、以階梯相連的量體。\n\n模型與繪圖｜建築研究｜木條、PVC板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/01-deconstructed-model-overview.webp",
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/02-model-front.webp",
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/03-model-from-above.webp",
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/04-model-side.webp",
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/05-traced-line-drawing.webp",
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/06-black-and-white-composition.webp",
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/07-first-pvc-pieces.webp",
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/08-cut-pvc-shapes.webp",
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/09-sticks-on-base.webp",
+        "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/11-model-nearly-done.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/01-deconstructed-model-overview.webp"
+          ],
+          "captions": [
+            "The deconstructed model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "解構模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Deconstructivist architecture breaks away from right angles and symmetry. The project asks how ordinary buildings could be taken apart and reassembled into a lively, disordered whole.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "解構主義建築擺脫了直角與對稱。這個專題探問，平凡的建築如何被拆解，再重組為一個生動而無序的整體。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student cut photos of everyday buildings into small pieces and stuck them together into a collage. The collage was traced as a line drawing and abstracted into a bold black and white composition.",
+          "images": [
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/05-traced-line-drawing.webp",
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/06-black-and-white-composition.webp"
+          ],
+          "captions": [
+            "The traced line drawing.",
+            "The black and white composition."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生把日常建築的照片剪成小片並拼貼在一起。拼貼再被描成線稿，並抽象為一幅強烈的黑白構成。",
+              "captions": [
+                "描繪的線稿。",
+                "黑白構成。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "From the drawing, a hallway, a block of housing and distant towers were picked as elements. White PVC pieces and sticks were cut and joined step by step, with a disordered structure growing in the middle.",
+          "images": [
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/07-first-pvc-pieces.webp",
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/08-cut-pvc-shapes.webp",
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/09-sticks-on-base.webp",
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/11-model-nearly-done.webp"
+          ],
+          "captions": [
+            "The first PVC pieces.",
+            "Cut PVC shapes.",
+            "Sticks on the base.",
+            "The model nearly finished."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "從線稿中挑出走廊、一棟住宅與遠方的高塔作為元素。白色PVC片與木條被逐步切割與接合，一個無序的結構在中央生長。",
+              "captions": [
+                "最初的PVC片。",
+                "切割好的PVC形狀。",
+                "底座上的木條。",
+                "接近完成的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the finished model, slopes and a stairway link the isolated parts and balance the composition. Curved walls with cut windows wrap around a tilted stick tower.",
+          "images": [
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/02-model-front.webp",
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/03-model-from-above.webp",
+            "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/04-model-side.webp"
+          ],
+          "captions": [
+            "The model from the front.",
+            "The model from above.",
+            "The model from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在完成的模型中，坡道與階梯連結各自獨立的部分，並平衡整體構圖。開有窗洞的彎曲牆面環繞著一座傾斜的木條高塔。",
+              "captions": [
+                "模型正面。",
+                "從上方看模型。",
+                "模型側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Broken Order - Reassembling the Everyday",
+          "body": "The buildings of daily life are so familiar that their logic becomes invisible, and one way to see them again is to take them apart. This project used collage as that tool of dismantling. The guidance asked the student to cut photographs of ordinary streets into fragments and to rejoin them without regard for their original order, then to trace the result as a line drawing and finally to compress it into a stark composition of black and white masses. Each translation removed detail and sharpened structure, until a corridor, a slab of housing and a distant row of towers remained as clear architectural ideas. Rebuilt in white sheets and slender sticks, these ideas collided around a disordered core, while slopes and a stair were added to tie isolated fragments into one walkable ensemble. The result is unruly at first glance yet carefully balanced. It suggests that a vocabulary of breakage and tilt is not a style to imitate but a method of looking, one that lets the everyday city reappear as something strange and full of spatial possibility.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "破碎的秩序-重組日常",
+              "body": "日常生活中的建築如此熟悉，以至於其邏輯變得隱形；重新看見它們的一種方式，便是把它們拆開。這個專題以拼貼作為拆解的工具。指導過程要求學生把平凡街道的照片剪成碎片，不顧原本的秩序重新拼合，再把結果描成線稿，最後壓縮為一幅由黑白量塊組成的鮮明構成。每一次轉譯都去除細節、凸顯結構，直到一條走廊、一片住宅與遠方一排高塔，成為清晰的建築概念。以白色片材與細木條重建後，這些概念圍繞一個無序的核心彼此碰撞，坡道與階梯則被加入，把孤立的碎片繫成一個可以行走的整體。成果乍看桀驁不馴，實則經過細心的平衡。它暗示，破碎與傾斜的語彙並非可供模仿的風格，而是一種觀看的方法，讓日常的城市以陌生而充滿空間可能的面貌重新浮現。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
