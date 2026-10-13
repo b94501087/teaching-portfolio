@@ -1,0 +1,55 @@
+{
+  "project": "Knotted Cylinders",
+  "dest": "assets/board/knotted-cylinders-object-and-action-renders",
+  "note": "Portfolio bcbf page 7 cropped to 8 images, WebP q88 (PIL). Not used: programme and school name, title page.",
+  "files": [
+    {
+      "name": "01-knotted-cylinders-render.webp",
+      "sha256": "e053ffee1a409fb8c133df4f122d48fc9a966325ff72e9f80be9e56cbe6f1b8e",
+      "bytes": 12832,
+      "from": "bcbf page 7 — the knotted cylinders render"
+    },
+    {
+      "name": "02-step-1-cylinder.webp",
+      "sha256": "9a49b106d6c5349a63f94e165bd929343509c30ecbfa978bd0de032ef5d77421",
+      "bytes": 73532,
+      "from": "bcbf page 7 — step 1: one cylinder"
+    },
+    {
+      "name": "03-step-2-first-twist.webp",
+      "sha256": "3a0baba7e1fbcd9107657e0ba44a118153c55814a2ef97607847cb046bb3c61c",
+      "bytes": 5460,
+      "from": "bcbf page 7 — step 2: a first twist"
+    },
+    {
+      "name": "04-step-3-knot.webp",
+      "sha256": "8014e5d466ee2cb4da21a64f593f3be192720fbee4aad7846d7129dbb9041d74",
+      "bytes": 7312,
+      "from": "bcbf page 7 — step 3: a knot"
+    },
+    {
+      "name": "05-rotation-drawing.webp",
+      "sha256": "ef867c24551b0d38f2b472b3f21104830e8ea95f2748c9746e51dfbc28eb42ae",
+      "bytes": 35008,
+      "from": "bcbf page 7 — a rotation drawing"
+    },
+    {
+      "name": "06-section-drawing.webp",
+      "sha256": "ce6f6c0ba541d72711112291a2b66558a4c49448cf85b8a62d1acc27593147d8",
+      "bytes": 20078,
+      "from": "bcbf page 7 — a section drawing"
+    },
+    {
+      "name": "07-detail-render.webp",
+      "sha256": "cac54a1d984c8eb8006447fd170a8ceaca9d5e9218fd3f52600dd8cb83530ebb",
+      "bytes": 15674,
+      "from": "bcbf page 7 — a detail render"
+    },
+    {
+      "name": "08-surface-logic-lines.webp",
+      "sha256": "2d7c0d101257250a5dbe96fadc8c46081d54d1b5bf7e663273a3827774504abd",
+      "bytes": 102868,
+      "from": "bcbf page 7 — surface lines"
+    }
+  ]
+}
