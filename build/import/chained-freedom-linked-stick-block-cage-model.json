@@ -1,0 +1,61 @@
+{
+  "project": "Chained Freedom",
+  "dest": "assets/board/chained-freedom-linked-stick-block-cage-model",
+  "note": "Portfolio 04a9 pages 4-5 cropped to 9 images, WebP q88 (PIL). Not used: reference paintings (novel title dropped; retitled from Ultimate Freedom - Reachable Delusion).",
+  "files": [
+    {
+      "name": "01-chain-cage-model.webp",
+      "sha256": "e2b6673894f07b8de422814c8a38244f896309f06d67785ba4d89ba5fae7c825",
+      "bytes": 143698,
+      "from": "04a9 pages 4-5 — the chain cage model"
+    },
+    {
+      "name": "02-chain-cage-from-above.webp",
+      "sha256": "f6c9d93828163695ee1eafc29becd11e480ea2498d78ed5247dca525556ef4a5",
+      "bytes": 84414,
+      "from": "04a9 pages 4-5 — the cage from above"
+    },
+    {
+      "name": "03-chain-cage-side.webp",
+      "sha256": "bed782c5bb395cee3c37b54c9f194b157ffc5aa19aa35cce476da217892a3911",
+      "bytes": 84628,
+      "from": "04a9 pages 4-5 — the cage from the side"
+    },
+    {
+      "name": "04-chain-cage-render.webp",
+      "sha256": "adfec416d32757daca396bc4f833edbf5a0286a4cf70f9e76c4063802ebe3fdb",
+      "bytes": 73320,
+      "from": "04a9 pages 4-5 — a render of the chain cage"
+    },
+    {
+      "name": "05-block-type-studies.webp",
+      "sha256": "d83061d35d2858710a047ea2fc6017d2231a39aad6b3006dcf4fd8d804fb59a3",
+      "bytes": 52958,
+      "from": "04a9 pages 4-5 — block type studies"
+    },
+    {
+      "name": "06-first-chain-block.webp",
+      "sha256": "d65fb86d38d8c521b060c0edb2ce79643b44932b0672dff39983bd080d43fb2c",
+      "bytes": 29596,
+      "from": "04a9 pages 4-5 — the first chain block"
+    },
+    {
+      "name": "07-linked-blocks.webp",
+      "sha256": "98ed92c7846e543076c293458342d70b34fb2d0f595fcf0ae7d0008911c37d17",
+      "bytes": 25680,
+      "from": "04a9 pages 4-5 — linked blocks"
+    },
+    {
+      "name": "08-growing-chain.webp",
+      "sha256": "2ae6c8e69a4fdf11ce3697e5fb29cf9d5f296b5e140c7201342a63dd73ec4060",
+      "bytes": 71258,
+      "from": "04a9 pages 4-5 — the growing chain"
+    },
+    {
+      "name": "09-chain-on-cutting-mat.webp",
+      "sha256": "a06f8b92c76a2e961570cc3092c18656f8f6fd8a8ff35cbd739e56d9552394cb",
+      "bytes": 81446,
+      "from": "04a9 pages 4-5 — the chain on the cutting mat"
+    }
+  ]
+}
