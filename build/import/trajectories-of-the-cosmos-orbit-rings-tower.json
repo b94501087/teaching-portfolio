@@ -1,0 +1,61 @@
+{
+  "project": "The Trajectories of the Cosmos",
+  "dest": "assets/board/trajectories-of-the-cosmos-orbit-rings-tower",
+  "note": "Portfolio 30d4 pages 8-9 cropped to 9 images, WebP q88 (PIL). Not used: orbit charts, process photo with a hand, text naming a public figure.",
+  "files": [
+    {
+      "name": "01-orbit-tower-model.webp",
+      "sha256": "58d2e51f92328cededc6fadc43acc8b744c62b1ec2ba193d61d8b254fb3d9012",
+      "bytes": 181804,
+      "from": "30d4 pages 8-9 — the orbit tower model"
+    },
+    {
+      "name": "02-tower-pen-drawing.webp",
+      "sha256": "971ae3fc11832af195d27c23d663c58b1f3bea4ac296e498c45733c8cf9f902b",
+      "bytes": 290100,
+      "from": "30d4 pages 8-9 — a pen drawing of the tower"
+    },
+    {
+      "name": "03-tower-details.webp",
+      "sha256": "c39ef815fc11f46fce70d7ad5ef9150e3cf7277bace80bd1933866bafd6d9248",
+      "bytes": 128560,
+      "from": "30d4 pages 8-9 — details of the tower"
+    },
+    {
+      "name": "04-orbit-line-drawing.webp",
+      "sha256": "dc44843ee52e33cbee7f1f5460a57d7af3cb40b56175eb4eabad7bff637b924f",
+      "bytes": 46502,
+      "from": "30d4 pages 8-9 — overlaid orbit lines"
+    },
+    {
+      "name": "05-orbit-rings-in-sticks.webp",
+      "sha256": "8098bc16d86b42de4c102bf7f7c423eb102cad0c958a4be6e48049c8d3a1f023",
+      "bytes": 172578,
+      "from": "30d4 pages 8-9 — rings inside the stick walls"
+    },
+    {
+      "name": "06-first-sketch.webp",
+      "sha256": "7990fa13e952a0b8d25736e9550887043ae29dc674e004ce4a10c2dea62bffc2",
+      "bytes": 87844,
+      "from": "30d4 pages 8-9 — a first sketch of the tower"
+    },
+    {
+      "name": "07-rings-rising.webp",
+      "sha256": "793078340da866af2d0b1c574d14a1e35edbd4ee2634e3b6107513eeec458861",
+      "bytes": 126886,
+      "from": "30d4 pages 8-9 — rings rising"
+    },
+    {
+      "name": "08-paper-orbit-base.webp",
+      "sha256": "c89871b20f672a141a1037118709abb7221a21dfb7d1775da69b8bcaf7c19499",
+      "bytes": 26718,
+      "from": "30d4 pages 8-9 — the paper orbit base"
+    },
+    {
+      "name": "09-inner-rings.webp",
+      "sha256": "b41c529550d3faf98f09b73616be2578e2142f6c515fe8072b776f69054f92ab",
+      "bytes": 34886,
+      "from": "30d4 pages 8-9 — the inner rings"
+    }
+  ]
+}
