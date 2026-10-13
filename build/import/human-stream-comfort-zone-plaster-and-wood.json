@@ -1,0 +1,61 @@
+{
+  "project": "Human Stream",
+  "dest": "assets/board/human-stream-comfort-zone-plaster-and-wood",
+  "note": "Portfolio 0b95 pages 5-6 cropped to 9 images, WebP q88 (PIL). Not used: photos of people in a shopping hall.",
+  "files": [
+    {
+      "name": "01-plaster-and-wood-stream.webp",
+      "sha256": "a14c32360a108ddfb499c1cd68cacb76ed010eed7cc9921d4ff73b89fed99d82",
+      "bytes": 179800,
+      "from": "0b95 pages 5-6 — the plaster and wood stream"
+    },
+    {
+      "name": "02-comfort-sphere-diagrams.webp",
+      "sha256": "9e48a6c6cde39a994ccb01d69b46b876cb47d3e089ff5095635ca78fb9d6a733",
+      "bytes": 103006,
+      "from": "0b95 pages 5-6 — comfort sphere diagrams"
+    },
+    {
+      "name": "03-sphere-stream-render.webp",
+      "sha256": "cc7c49e3b8cdad39187a795bb05d6e8bc1472a37c1f446ab42af3cd7362bccef",
+      "bytes": 65634,
+      "from": "0b95 pages 5-6 — the sphere stream render"
+    },
+    {
+      "name": "04-layered-render-from-above.webp",
+      "sha256": "38cf6f71c0a9211e2e3ed683f57df77b65b9fa177c445afc7b133a7165a8b890",
+      "bytes": 40536,
+      "from": "0b95 pages 5-6 — a layered render from above"
+    },
+    {
+      "name": "05-layered-render-close-up.webp",
+      "sha256": "94f12646c20fa448325faac39c053a4a860e86b0edb6e8b959dd690966879695",
+      "bytes": 38230,
+      "from": "0b95 pages 5-6 — a layered render close up"
+    },
+    {
+      "name": "06-wood-ring-in-plaster.webp",
+      "sha256": "f6c332b26587adc532a73b4b9889999a4b592247b5e91244c55e70d410984b54",
+      "bytes": 71582,
+      "from": "0b95 pages 5-6 — a wood ring in plaster"
+    },
+    {
+      "name": "07-wood-and-plaster-low-view.webp",
+      "sha256": "02367d8ff6ae0615aec6f4e4bace5c9f5a8a70cd92a10235d7ba1f3e381c7edc",
+      "bytes": 56792,
+      "from": "0b95 pages 5-6 — wood and plaster low view"
+    },
+    {
+      "name": "08-wood-pieces-on-plaster.webp",
+      "sha256": "8a77dcc0fe333c5a28e168e9c5533df522788272bdd84e2bf3b957bec2f52932",
+      "bytes": 81904,
+      "from": "0b95 pages 5-6 — wood pieces on plaster"
+    },
+    {
+      "name": "09-plaster-cast-studies.webp",
+      "sha256": "fbcf2bd943bfde822ff49fa92e4a6a998f065ca2de0d3fcff9861bff70a7b432",
+      "bytes": 52662,
+      "from": "0b95 pages 5-6 — plaster cast studies"
+    }
+  ]
+}
