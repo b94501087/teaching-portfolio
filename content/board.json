@@ -72028,6 +72028,410 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Castle of White Gables",
+      "slug": "castle-of-white-gables-layered-card-model",
+      "description": "Small card houses with steep gables, arched windows and a cone spire are stacked into one dream castle.\n\nModel | Castle study | Card paper, PVC board, clay, tracing paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "白色山牆城堡",
+          "description": "帶有陡峭山牆、拱窗與圓錐尖塔的小卡紙房屋，層層堆疊成一座夢想城堡。\n\n模型｜城堡研究｜卡紙、PVC板、黏土、描圖紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/castle-of-white-gables-layered-card-model/01-white-gabled-castle.webp",
+        "assets/board/castle-of-white-gables-layered-card-model/02-tower-and-spire.webp",
+        "assets/board/castle-of-white-gables-layered-card-model/03-gables-and-balcony.webp",
+        "assets/board/castle-of-white-gables-layered-card-model/04-arched-hall-inside.webp",
+        "assets/board/castle-of-white-gables-layered-card-model/05-first-house-pieces.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/castle-of-white-gables-layered-card-model/01-white-gabled-castle.webp"
+          ],
+          "captions": [
+            "The white gabled castle."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "白色山牆城堡。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Since childhood the student has dreamed of living in a magic castle from the films. The project asks how that dream could be built by hand.",
+          "images": [
+            "assets/board/castle-of-white-gables-layered-card-model/05-first-house-pieces.webp"
+          ],
+          "captions": [
+            "The first house pieces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生從小就夢想住進電影中的魔法城堡。這個專題探問，如何親手把這個夢想蓋出來。",
+              "captions": [
+                "最初的房屋構件。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Old European towns and castles gave the steep roofs, arched windows and towers. The student picked parts that share one look.",
+          "images": [
+            "assets/board/castle-of-white-gables-layered-card-model/03-gables-and-balcony.webp"
+          ],
+          "captions": [
+            "Gables and a balcony."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "歐洲古城與城堡提供了陡峭屋頂、拱窗與塔樓。學生挑選出風格一致的構件。",
+              "captions": [
+                "山牆與陽台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each building was cut from board as its own piece. The pieces were then stacked and layered to form the castle.",
+          "images": [
+            "assets/board/castle-of-white-gables-layered-card-model/02-tower-and-spire.webp"
+          ],
+          "captions": [
+            "A hall with a cone spire."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每棟建築都以板材單獨裁出。這些構件再層層堆疊，組成城堡。",
+              "captions": [
+                "帶圓錐尖塔的廳堂。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 19.6-inch castle mixes many styles into one whole. Inside, small rooms catch light through tall arched windows.",
+          "images": [
+            "assets/board/castle-of-white-gables-layered-card-model/04-arched-hall-inside.webp"
+          ],
+          "captions": [
+            "Inside an arched hall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座19.6英寸的城堡把多種風格融為一體。內部的小房間透過高大的拱窗引入光線。",
+              "captions": [
+                "拱窗廳堂內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a place you dream of.\n2. Collect its key parts.\n3. Build each part on its own.\n4. Stack them into one whole.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從夢想中的地方出發。\n2. 收集它的關鍵構件。\n3. 每個構件單獨製作。\n4. 堆疊成一個整體。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Hanging Blocks",
+      "slug": "hanging-blocks-frame-of-threads-and-mirror",
+      "description": "Dozens of small dark blocks hang on threads inside a tall wooden frame above a broken mirror floor.\n\nModel and drawings | Words-and-feelings study | Polyethylene, wood, mirror | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "懸吊的方塊",
+          "description": "數十個深色小方塊以細線懸吊在高大的木框中，下方是碎裂的鏡面地板。\n\n模型與繪圖｜言語與情緒研究｜聚乙烯、木材、鏡子｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hanging-blocks-frame-of-threads-and-mirror/01-hanging-blocks-in-a-frame.webp",
+        "assets/board/hanging-blocks-frame-of-threads-and-mirror/02-blocks-and-threads-close-up.webp",
+        "assets/board/hanging-blocks-frame-of-threads-and-mirror/03-frame-from-the-left.webp",
+        "assets/board/hanging-blocks-frame-of-threads-and-mirror/04-frame-from-the-right.webp",
+        "assets/board/hanging-blocks-frame-of-threads-and-mirror/05-blocks-over-broken-mirror.webp",
+        "assets/board/hanging-blocks-frame-of-threads-and-mirror/06-net-and-falling-blocks-sketch.webp",
+        "assets/board/hanging-blocks-frame-of-threads-and-mirror/07-floating-cubes-drawing.webp",
+        "assets/board/hanging-blocks-frame-of-threads-and-mirror/08-faces-drawing.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hanging-blocks-frame-of-threads-and-mirror/01-hanging-blocks-in-a-frame.webp"
+          ],
+          "captions": [
+            "The hanging blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "懸吊的方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Online, people speak to one another in many tones. The project asks how words can pull on our feelings like gravity.",
+          "images": [
+            "assets/board/hanging-blocks-frame-of-threads-and-mirror/08-faces-drawing.webp"
+          ],
+          "captions": [
+            "A drawing of many faces."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "在網路上，人們以各種語氣彼此交談。這個專題探問，言語如何像重力一樣牽動我們的情緒。",
+              "captions": [
+                "許多面孔的素描。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Drawings showed faces with many moods and cubes drifting in space. A net catching falling blocks became the key image.",
+          "images": [
+            "assets/board/hanging-blocks-frame-of-threads-and-mirror/07-floating-cubes-drawing.webp",
+            "assets/board/hanging-blocks-frame-of-threads-and-mirror/06-net-and-falling-blocks-sketch.webp"
+          ],
+          "captions": [
+            "Floating cubes.",
+            "A net and falling blocks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "素描描繪了帶著各種情緒的面孔，以及漂浮在空中的方塊。一張接住下落方塊的網成為關鍵意象。",
+              "captions": [
+                "漂浮的方塊。",
+                "網與下落的方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Blocks were hung on threads at different heights. They thin out as they fall towards a cracked mirror.",
+          "images": [
+            "assets/board/hanging-blocks-frame-of-threads-and-mirror/02-blocks-and-threads-close-up.webp",
+            "assets/board/hanging-blocks-frame-of-threads-and-mirror/03-frame-from-the-left.webp",
+            "assets/board/hanging-blocks-frame-of-threads-and-mirror/04-frame-from-the-right.webp"
+          ],
+          "captions": [
+            "Blocks and threads close up.",
+            "The frame from the left.",
+            "The frame from the right."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "方塊以細線懸吊在不同高度。它們越往下越稀疏，落向碎裂的鏡面。",
+              "captions": [
+                "方塊與細線近觀。",
+                "左側看框架。",
+                "右側看框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 21.6-inch frame casts shifting shadows on the wall. The broken mirror doubles the falling blocks.",
+          "images": [
+            "assets/board/hanging-blocks-frame-of-threads-and-mirror/05-blocks-over-broken-mirror.webp"
+          ],
+          "captions": [
+            "Blocks over the broken mirror."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個21.6英寸的框架在牆上投下變動的陰影。碎裂的鏡面讓下落的方塊加倍。",
+              "captions": [
+                "碎鏡上方的方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a feeling words can cause.\n2. Draw it many ways.\n3. Find one strong image.\n4. Build it with light and shadow.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選一種言語會引起的感受。\n2. 用多種方式描繪。\n3. 找出一個有力的意象。\n4. 以光影把它建出來。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Remixed Terrain",
+      "slug": "remixed-terrain-stick-roof-landscape",
+      "description": "Card terrain pieces traced from favourite game maps are joined into one landscape under a web of stick roofs.\n\nModel and drawings | Map remix study | Card paper, wooden sticks, tracing paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "重組的地形",
+          "description": "從喜愛的遊戲地圖描出的卡紙地形塊，被拼合成一片覆著木條屋頂網的地景。\n\n模型與繪圖｜地圖重組研究｜卡紙、木條、描圖紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/remixed-terrain-stick-roof-landscape/01-terrain-model-with-stick-roofs.webp",
+        "assets/board/remixed-terrain-stick-roof-landscape/02-stick-roof-web.webp",
+        "assets/board/remixed-terrain-stick-roof-landscape/03-pen-drawing-inside.webp",
+        "assets/board/remixed-terrain-stick-roof-landscape/04-traced-map-plan.webp",
+        "assets/board/remixed-terrain-stick-roof-landscape/05-first-terrain-piece.webp",
+        "assets/board/remixed-terrain-stick-roof-landscape/06-terrain-pieces-joined.webp",
+        "assets/board/remixed-terrain-stick-roof-landscape/07-terrain-piece-side.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/remixed-terrain-stick-roof-landscape/01-terrain-model-with-stick-roofs.webp"
+          ],
+          "captions": [
+            "The terrain model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "地形模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student has played one game for years and loves its maps. The project asks how favourite spots from different maps could form one new place.",
+          "images": [
+            "assets/board/remixed-terrain-stick-roof-landscape/04-traced-map-plan.webp"
+          ],
+          "captions": [
+            "A traced map plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生玩一款遊戲多年，深愛它的地圖。這個專題探問，不同地圖中喜愛的角落如何組成一個新地方。",
+              "captions": [
+                "描繪的地圖平面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Two favourite spots were picked from each of three maps. Their plans were traced inside a set rectangle.",
+          "images": [
+            "assets/board/remixed-terrain-stick-roof-landscape/05-first-terrain-piece.webp",
+            "assets/board/remixed-terrain-stick-roof-landscape/07-terrain-piece-side.webp"
+          ],
+          "captions": [
+            "A first terrain piece.",
+            "A terrain piece from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從三張地圖中各挑出兩個喜愛的角落。它們的平面被描繪在一個固定的矩形內。",
+              "captions": [
+                "第一塊地形。",
+                "側看地形塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The terrain was cut from card and joined into a new layout. Raised walls and stick frames add depth.",
+          "images": [
+            "assets/board/remixed-terrain-stick-roof-landscape/06-terrain-pieces-joined.webp",
+            "assets/board/remixed-terrain-stick-roof-landscape/02-stick-roof-web.webp"
+          ],
+          "captions": [
+            "Terrain pieces joined.",
+            "The stick roof web."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "地形以卡紙裁出，拼合成新的配置。加高的牆與木條框架增添了深度。",
+              "captions": [
+                "拼合的地形塊。",
+                "木條屋頂網。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 23.6-inch model is a maze of walls under faceted roofs. A pen drawing shows how it feels to stand inside.",
+          "images": [
+            "assets/board/remixed-terrain-stick-roof-landscape/03-pen-drawing-inside.webp"
+          ],
+          "captions": [
+            "A pen drawing inside."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個23.6英寸的模型是一座覆著多面屋頂的牆體迷宮。一張鋼筆畫呈現站在其中的感受。",
+              "captions": [
+                "內部的鋼筆畫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick places you know well.\n2. Trace their plans.\n3. Cut and join them anew.\n4. Draw the view from inside.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 挑選熟悉的地方。\n2. 描出它們的平面。\n3. 裁切並重新拼合。\n4. 描繪內部的視角。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
