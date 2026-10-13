@@ -1,0 +1,61 @@
+{
+  "project": "Open Windows Community",
+  "dest": "assets/board/open-windows-community-cross-section-house-model",
+  "note": "Portfolio cfd7 pages 8-9 cropped to nine images, WebP q88 (PIL). Not used: title and text, a photo of a precedent house with people, the precedent and architect names.",
+  "files": [
+    {
+      "name": "01-community-model.webp",
+      "sha256": "4ac134167f62e34a729a814499f685f494624bd8fe72b5cffa2eaf52b9926b38",
+      "bytes": 48570,
+      "from": "cfd7 page 9 — community model"
+    },
+    {
+      "name": "02-section-sketches.webp",
+      "sha256": "80cd429e309f2f3f2b354575bf86743da3cf1650217e1c53d8a2414f6f391a11",
+      "bytes": 30912,
+      "from": "cfd7 page 8 — section sketches"
+    },
+    {
+      "name": "03-window-study.webp",
+      "sha256": "6a0a3016ac9b36e04f88ee64fd7c2544101328259d79440020ddffcc6bc9c395",
+      "bytes": 8816,
+      "from": "cfd7 page 8 — window study"
+    },
+    {
+      "name": "04-house-type-one.webp",
+      "sha256": "dc6a7e5df3b516c2ed52d3fc217daa6728af4d66069fa046b58176f2d61f8e02",
+      "bytes": 28892,
+      "from": "cfd7 page 8 — house type one"
+    },
+    {
+      "name": "05-house-type-two.webp",
+      "sha256": "aca7cdb9a4752827b14a9f7dac13ada65ee678d89ca88eec3f39e0f3f9a8967c",
+      "bytes": 23958,
+      "from": "cfd7 page 8 — house type two"
+    },
+    {
+      "name": "06-wooden-frames.webp",
+      "sha256": "beb939e5243b4f6ec389d5bfc8af7205a4a872d7478d6b43291eb073e49e3202",
+      "bytes": 16768,
+      "from": "cfd7 page 9 — wooden frames"
+    },
+    {
+      "name": "07-stair-block.webp",
+      "sha256": "c6559030c5f46d348dc7fcf054502569cfeb6c3f5d598eb0024f0ee6cb63806a",
+      "bytes": 14570,
+      "from": "cfd7 page 9 — stair block"
+    },
+    {
+      "name": "08-frames-from-above.webp",
+      "sha256": "b81609fd60bba65648146c60943bc9c0411dd775f30a5199415b8340e93c2ba8",
+      "bytes": 42418,
+      "from": "cfd7 page 9 — frames from above"
+    },
+    {
+      "name": "09-cotton-tree.webp",
+      "sha256": "6785b4e1a4dcd3a520e30d0b5b05c7f76c95ccb4a58f4d911c429d140e774d53",
+      "bytes": 17156,
+      "from": "cfd7 page 9 — cotton tree"
+    }
+  ]
+}
