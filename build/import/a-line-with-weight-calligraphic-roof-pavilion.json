@@ -1,0 +1,43 @@
+{
+  "project": "A Line with Weight",
+  "dest": "assets/board/a-line-with-weight-calligraphic-roof-pavilion",
+  "note": "Portfolio a289 page 6 cropped to 6 images, WebP q88 (PIL). Not used: caption.",
+  "files": [
+    {
+      "name": "01-wave-roof-pavilion.webp",
+      "sha256": "49753684f91cf22cf7bba3cb2c1cddc6033684cb3a0721b5cdde87b77e58ce81",
+      "bytes": 85974,
+      "from": "a289 page 6 — the undulating roof pavilion"
+    },
+    {
+      "name": "02-brush-line-studies.webp",
+      "sha256": "ec1861af66f4721d97f720d9b9e78db72c47be68c57dd8fd2b1fc598a28335c6",
+      "bytes": 44906,
+      "from": "a289 page 6 — studies of brushstroke profiles"
+    },
+    {
+      "name": "03-roof-line-variations.webp",
+      "sha256": "e688e671e466981d80618372eab2c9f647521ce3fd67f82a036e4540afe1068e",
+      "bytes": 74254,
+      "from": "a289 page 6 — variations of the roof line"
+    },
+    {
+      "name": "04-roof-in-shadow.webp",
+      "sha256": "84d9a37a88e960eac551cb705e1723226b27881885ffe124bd7e15f9eeff00c0",
+      "bytes": 10916,
+      "from": "a289 page 6 — the roof form in shadow"
+    },
+    {
+      "name": "05-carved-line-model.webp",
+      "sha256": "52405fa237cbf666861e22b5343120b9401994d7474ad35b8562589c74121b89",
+      "bytes": 33678,
+      "from": "a289 page 6 — a carved model of a line"
+    },
+    {
+      "name": "06-repetitive-roof-structure.webp",
+      "sha256": "c31b3273f181dfcb45976a6608d4bfeb37862e99de2342c69afc5ba5b43e3a9a",
+      "bytes": 137712,
+      "from": "a289 page 6 — the repetitive roof structure"
+    }
+  ]
+}
