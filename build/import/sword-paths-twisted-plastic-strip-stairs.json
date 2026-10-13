@@ -1,0 +1,61 @@
+{
+  "project": "Sword Paths",
+  "dest": "assets/board/sword-paths-twisted-plastic-strip-stairs",
+  "note": "Portfolio bcbf page 2 cropped to 9 images, WebP q88 (PIL). Not used: page cover with name, match photo with people, process photo with hands, charcoal drawing.",
+  "files": [
+    {
+      "name": "01-sword-path-strip-model.webp",
+      "sha256": "9b29d1c00cab03f1d03621923a7f0007364a2120c0a3f8975532312bd7dbe564",
+      "bytes": 127788,
+      "from": "bcbf page 2 — the sword path model"
+    },
+    {
+      "name": "02-spiral-strip-tower.webp",
+      "sha256": "4d7e6bb365267336c7c379c93504f389092af11e2ea62a53a19b355a67f23330",
+      "bytes": 64610,
+      "from": "bcbf page 2 — a spiral strip tower"
+    },
+    {
+      "name": "03-tower-on-strip-base.webp",
+      "sha256": "fb04ed95ba403276de6976e328d053826d11e046cea67277e936b1e5ea82a54b",
+      "bytes": 54872,
+      "from": "bcbf page 2 — the tower on a strip base"
+    },
+    {
+      "name": "04-twisted-stair-strip.webp",
+      "sha256": "1945ea653c1814e388445e057a8fde5e4960a55aab61c65700d6927d936c3eeb",
+      "bytes": 14278,
+      "from": "bcbf page 2 — a twisted stair strip"
+    },
+    {
+      "name": "05-star-of-strips.webp",
+      "sha256": "0411be1a9ea34af15a64faacf7f08de55e1aabdf4e2c9a7666ab3dd3097a1554",
+      "bytes": 22888,
+      "from": "bcbf page 2 — a star of strips"
+    },
+    {
+      "name": "06-strip-shadows.webp",
+      "sha256": "132204658fda26ebce9327cc11d6793c0cc4a46efc27e844b9cef19eded2674b",
+      "bytes": 31366,
+      "from": "bcbf page 2 — strip shadows"
+    },
+    {
+      "name": "07-strip-close-up.webp",
+      "sha256": "5fabc53c8f8750f34dca686d904729932ea510cb4f5612336074acb27c16296e",
+      "bytes": 40578,
+      "from": "bcbf page 2 — a close view of the strips"
+    },
+    {
+      "name": "08-motion-frames.webp",
+      "sha256": "9ba76e84db4aebe29ef50bd0e5760b942463eaf19f78180be580b4607b563bcb",
+      "bytes": 40458,
+      "from": "bcbf page 2 — motion frames of a sword swing"
+    },
+    {
+      "name": "09-first-strip-loop.webp",
+      "sha256": "e6a68a35de193f735e99806bf7057373c90e3cbd1bd83025ac3ede717222738e",
+      "bytes": 22304,
+      "from": "bcbf page 2 — a first strip loop"
+    }
+  ]
+}
