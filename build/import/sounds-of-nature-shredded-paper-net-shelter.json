@@ -1,0 +1,67 @@
+{
+  "project": "Sounds of Nature",
+  "dest": "assets/board/sounds-of-nature-shredded-paper-net-shelter",
+  "note": "Portfolio ddbe pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-final-shelter.webp",
+      "sha256": "132992d8318593325fb91c5c842caf9577498c2641f65b3d8f13327c73df8f2a",
+      "bytes": 93494,
+      "from": "ddbe page 5 — final shelter"
+    },
+    {
+      "name": "02-paper-shreds.webp",
+      "sha256": "0c3cd4f0cbad32f45e9d9d49d12fe1efa9e702ee1c8fd121ae69f62a305e73c5",
+      "bytes": 22234,
+      "from": "ddbe page 4 — paper shreds"
+    },
+    {
+      "name": "03-first-net.webp",
+      "sha256": "47a918354715e493d504b028e5feccc1cd8ae432940612045d5cb4d0b3933f7e",
+      "bytes": 30164,
+      "from": "ddbe page 4 — first net"
+    },
+    {
+      "name": "04-straw-tests.webp",
+      "sha256": "5ffb17575005ca06084593509be23c886a0517b9aa18d98af28c02299b486375",
+      "bytes": 16474,
+      "from": "ddbe page 4 — straw tests"
+    },
+    {
+      "name": "05-net-layers.webp",
+      "sha256": "e40e94041f81cdb594064720cc51ce1232be0d6b04526e596d8dd47efed440c3",
+      "bytes": 50532,
+      "from": "ddbe page 4 — net layers"
+    },
+    {
+      "name": "06-low-profile.webp",
+      "sha256": "f42f1ac8003fecf70df5729385844277e11f090e4220dd15316c936517aaa081",
+      "bytes": 13610,
+      "from": "ddbe page 4 — low profile"
+    },
+    {
+      "name": "07-net-shadows.webp",
+      "sha256": "c3060e6345e97e5d06e56d860ce738d6683af8a32e64dcebd8cbaa55434d868e",
+      "bytes": 81214,
+      "from": "ddbe page 4 — net shadows"
+    },
+    {
+      "name": "08-net-wave.webp",
+      "sha256": "e12041c0063c07f79d11b85523cbbb0806608099f8dbb65e6aa6653046c23c3b",
+      "bytes": 143038,
+      "from": "ddbe page 4 — net wave"
+    },
+    {
+      "name": "09-canopy-view.webp",
+      "sha256": "20da2c6c47f66044654312c6fe9a8bef7d45d70eb68da40fce5b3477f8af590a",
+      "bytes": 33048,
+      "from": "ddbe page 5 — canopy view"
+    },
+    {
+      "name": "10-trunk-legs.webp",
+      "sha256": "fe3ee26f274e930f8717ae1ae22033dcb42b622107688342b22e9c26551791c5",
+      "bytes": 59278,
+      "from": "ddbe page 5 — trunk legs"
+    }
+  ]
+}
