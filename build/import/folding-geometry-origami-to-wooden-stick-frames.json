@@ -1,0 +1,43 @@
+{
+  "project": "Folding Geometry",
+  "dest": "assets/board/folding-geometry-origami-to-wooden-stick-frames",
+  "note": "Portfolio a458 page 11 cropped to 6 images, WebP q88 (PIL).",
+  "files": [
+    {
+      "name": "01-twisted-frame-rings.webp",
+      "sha256": "14f22326dd3580657885a98306013bc016c81d4f0943a5988b69506a79a8ef28",
+      "bytes": 80922,
+      "from": "a458 page 11 — the twisted frame rings"
+    },
+    {
+      "name": "02-paper-origami-studies.webp",
+      "sha256": "c00687da2cb465b8470f5a5e192602990314dc2418a516861923dbe85849d5f8",
+      "bytes": 9744,
+      "from": "a458 page 11 — paper origami studies"
+    },
+    {
+      "name": "03-folding-frame-drawings.webp",
+      "sha256": "2cea6ac868dd5b37792241c58eee286a9210f3980759afe064846d83d9903c40",
+      "bytes": 65490,
+      "from": "a458 page 11 — fold drawings in frames"
+    },
+    {
+      "name": "04-wire-frame-cubes-a.webp",
+      "sha256": "3867f8f97da42463cf064cf701e600fcbc05eec1a57bcf4263ef6494f7e13c58",
+      "bytes": 99186,
+      "from": "a458 page 11 — frames crossed by line planes"
+    },
+    {
+      "name": "05-wire-frame-cubes-b.webp",
+      "sha256": "6e02d5025f73489d4641355e12a61f4db681551428942c32e83aeb0b7ed3d693",
+      "bytes": 84032,
+      "from": "a458 page 11 — frames with folded diagonals"
+    },
+    {
+      "name": "06-stick-grid-cubes.webp",
+      "sha256": "70f4b6c2b1a19da0de702a4eb36ddeef379d8bfd4ec399410adc3c38e49c4163",
+      "bytes": 110204,
+      "from": "a458 page 11 — stepped grid cubes"
+    }
+  ]
+}
