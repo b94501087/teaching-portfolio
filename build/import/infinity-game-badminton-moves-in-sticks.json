@@ -1,0 +1,55 @@
+{
+  "project": "Infinity Game",
+  "dest": "assets/board/infinity-game-badminton-moves-in-sticks",
+  "note": "Portfolio ca28 pages 6-7 cropped to 8 images, WebP q88 (PIL). Not used: video frames of people playing, process photos with hands.",
+  "files": [
+    {
+      "name": "01-stick-figures-under-a-net.webp",
+      "sha256": "c156073561bf921fe0e4d7f87ebcc1cd3317165f5f3dc0ee3f93074d7134bfb1",
+      "bytes": 108402,
+      "from": "ca28 pages 6-7 — stick figures under a net"
+    },
+    {
+      "name": "02-stick-figure-drawings.webp",
+      "sha256": "ce7fb667bf03bcdf2354c80b5e5d76442b8ae6e3b7f9ce4e950e0b911ebb9c2b",
+      "bytes": 26764,
+      "from": "ca28 pages 6-7 — stick figure drawings"
+    },
+    {
+      "name": "03-net-and-sticks-from-above.webp",
+      "sha256": "e7b2b5602fc30f17b6ea0e9fc211d2eedae4dbf9ca48171f80eefd2d558dbae7",
+      "bytes": 56272,
+      "from": "ca28 pages 6-7 — the net and sticks from above"
+    },
+    {
+      "name": "04-net-curving-over.webp",
+      "sha256": "91eee0efa3ca1ffafda4e5685b97d28e3261a7f1401b335a9a9ffe1bc4ed6fc8",
+      "bytes": 51200,
+      "from": "ca28 pages 6-7 — the net curving over"
+    },
+    {
+      "name": "05-net-shadow.webp",
+      "sha256": "960fea6f3df9963863edba81944d9fd95c985a99f6cb79a29b92da5bf2ca1bab",
+      "bytes": 59546,
+      "from": "ca28 pages 6-7 — the net shadow"
+    },
+    {
+      "name": "06-model-from-the-end.webp",
+      "sha256": "78e03c81717c12882ac6616e2eb76b71204673de56252ee218835168c7d79aed",
+      "bytes": 59846,
+      "from": "ca28 pages 6-7 — the model from the end"
+    },
+    {
+      "name": "07-sticks-and-net-close-up.webp",
+      "sha256": "8230cf076034571c46e11758df53db807e34fd38c1f6a4e231371fa4ff645f66",
+      "bytes": 80210,
+      "from": "ca28 pages 6-7 — sticks and net close up"
+    },
+    {
+      "name": "08-moving-figures-close-up.webp",
+      "sha256": "1db59eac06795a85bc55af92a41ae779fded0c2151cbf966d48731d4214169b8",
+      "bytes": 115190,
+      "from": "ca28 pages 6-7 — moving figures close up"
+    }
+  ]
+}
