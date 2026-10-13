@@ -1,0 +1,49 @@
+{
+  "project": "Playground of Innocence",
+  "dest": "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model",
+  "note": "Portfolio 04a9 page 9 cropped to 7 images, WebP q88 (PIL). Not used: sketch sheet with reference pictures, toy packaging photo, process photo with hands (song name dropped; retitled from Keep Innocence).",
+  "files": [
+    {
+      "name": "01-carnival-model.webp",
+      "sha256": "ec6980648dce520fa56213e323384564bf826e10bc963c94cef47e5b03628f1f",
+      "bytes": 67292,
+      "from": "04a9 page 9 — the carnival model"
+    },
+    {
+      "name": "02-carnival-model-upper.webp",
+      "sha256": "a2a7d4bbf593451f83246122641bcffb7ca1a24c7c9d280b9e0612ab7b80ac7d",
+      "bytes": 72764,
+      "from": "04a9 page 9 — the model from above"
+    },
+    {
+      "name": "03-ribbon-detail.webp",
+      "sha256": "1fefd18c4a8559262b685bbccf38874c900f3d85007037f1260ed76398353bbf",
+      "bytes": 25680,
+      "from": "04a9 page 9 — ribbon detail"
+    },
+    {
+      "name": "04-twisting-ladders.webp",
+      "sha256": "4da54009a60393bf2d69806b1f701e636f42320d96346ee0b40bf2a88742da83",
+      "bytes": 32872,
+      "from": "04a9 page 9 — twisting ladders"
+    },
+    {
+      "name": "05-tower-and-wheel.webp",
+      "sha256": "1c11c0e755c00ff2bce897d042786ef3c9004312830a28ef3cc559dcc8a9e5c3",
+      "bytes": 47160,
+      "from": "04a9 page 9 — the tower and wheel"
+    },
+    {
+      "name": "06-carousel-sketch.webp",
+      "sha256": "e57e7b899b378c9de764b8fa1c7d16860670c5c56df83df9aed1a0b6299d8df3",
+      "bytes": 31142,
+      "from": "04a9 page 9 — the carousel sketch"
+    },
+    {
+      "name": "07-early-test.webp",
+      "sha256": "e8aebb818b7dae1c6b30364e3df893f932090eb84d6fd8c623350f49e48d36a5",
+      "bytes": 19466,
+      "from": "04a9 page 9 — an early test"
+    }
+  ]
+}
