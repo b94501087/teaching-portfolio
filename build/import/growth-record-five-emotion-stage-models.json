@@ -1,0 +1,67 @@
+{
+  "project": "Growth Record",
+  "dest": "assets/board/growth-record-five-emotion-stage-models",
+  "note": "Portfolio 04a9 pages 2-3 cropped to 10 images, WebP q88 (PIL).",
+  "files": [
+    {
+      "name": "01-confident-model.webp",
+      "sha256": "892ec70c4d02e3573fbdf968e6a5909eed01a86013219a93c17911ea94f94cb1",
+      "bytes": 47588,
+      "from": "04a9 pages 2-3 — the confident stage model"
+    },
+    {
+      "name": "02-mutation-model.webp",
+      "sha256": "8c36cbef152ecdcb85a36c49441783bc384646e1a6bea368612f303a8c298b31",
+      "bytes": 60592,
+      "from": "04a9 pages 2-3 — the mutation model"
+    },
+    {
+      "name": "03-pressured-model.webp",
+      "sha256": "3249b912d3d0c0f453ff7bcf1fce081e7615ea9b281f2c5d5d32efc0948f2c25",
+      "bytes": 37020,
+      "from": "04a9 pages 2-3 — the pressured model"
+    },
+    {
+      "name": "04-lonely-model.webp",
+      "sha256": "4961ecec39b85bd9fe62a8de242d29e58d2ab9736ffdcd1d09347a4a9458af20",
+      "bytes": 92660,
+      "from": "04a9 pages 2-3 — the lonely model"
+    },
+    {
+      "name": "05-breakthrough-model.webp",
+      "sha256": "ca7de209e05f233d814430e7d290acbad81aa15f123502a99718cf9c58e7caf1",
+      "bytes": 61176,
+      "from": "04a9 pages 2-3 — the breakthrough model"
+    },
+    {
+      "name": "06-emotion-texture-paintings.webp",
+      "sha256": "563bc62354a3349d386484cb5c19a25adb189b0dd72b501045a3de0ffc6ac186",
+      "bytes": 266456,
+      "from": "04a9 pages 2-3 — paintings for the five stages"
+    },
+    {
+      "name": "07-confident-process.webp",
+      "sha256": "f323045fe2aebed1e3f87303e5832d71635cb993e0416a56ac5442046836940e",
+      "bytes": 51042,
+      "from": "04a9 pages 2-3 — testing iridescent film"
+    },
+    {
+      "name": "08-mutation-process.webp",
+      "sha256": "41c19d702795992c69aaba664a0396eaeabd40c5d42e6fcc344b6a702e5e40ca",
+      "bytes": 44890,
+      "from": "04a9 pages 2-3 — stacking white cells"
+    },
+    {
+      "name": "09-lonely-process.webp",
+      "sha256": "eeb7a2c66e89fff73ee1478c8d1653f8abad0b0e20ec323f14770ced16a43add",
+      "bytes": 78896,
+      "from": "04a9 pages 2-3 — stretching mesh in a frame"
+    },
+    {
+      "name": "10-breakthrough-process.webp",
+      "sha256": "4e395a4b83140fcf04bf9e9a049a4e55fa86d51f659cc6d3f65fb0d8feae94c4",
+      "bytes": 70410,
+      "from": "04a9 pages 2-3 — building the stick web"
+    }
+  ]
+}
