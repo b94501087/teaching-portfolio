@@ -1,0 +1,61 @@
+{
+  "project": "Golf Motion in Space",
+  "dest": "assets/board/golf-motion-in-space-acrylic-swing-sculpture",
+  "note": "Portfolio 4663 pages 4-5 cropped to nine images, WebP q88 (PIL). Not used: title and text, photos of a person swinging a club, process photos with a person, family details.",
+  "files": [
+    {
+      "name": "01-standing-model.webp",
+      "sha256": "1ba755e88c24adac34eba7d74e8570b04c5c1e303e32599cfc564ccb1f84a657",
+      "bytes": 25948,
+      "from": "4663 page 5 — standing model"
+    },
+    {
+      "name": "02-motion-tracing.webp",
+      "sha256": "66d1211662baf43dbc2a8bbb0f7992cc75e61296066c14e4809a3020c9cd9329",
+      "bytes": 24990,
+      "from": "4663 page 4 — motion tracing"
+    },
+    {
+      "name": "03-point-sequence.webp",
+      "sha256": "02af201b658480349612256b39d35a98d065de12e3c5f4926d0c266064ab9136",
+      "bytes": 5488,
+      "from": "4663 page 4 — point sequence"
+    },
+    {
+      "name": "04-contour-study.webp",
+      "sha256": "7b4e1633ed3c28e0b2ca339aeefe086859ebcab32f7fd5f45cba7fee2a8ff65c",
+      "bytes": 2818,
+      "from": "4663 page 4 — contour study"
+    },
+    {
+      "name": "05-solid-body.webp",
+      "sha256": "c22d725ebfe9a34e8ae05f1a0f72dc4c97a2219d1326d8915a792eb31e5e0876",
+      "bytes": 2342,
+      "from": "4663 page 4 — solid body"
+    },
+    {
+      "name": "06-model-side.webp",
+      "sha256": "a2c446540b6fd9730e9115a87e00a4299384e0de2a9d11334679080139232c31",
+      "bytes": 21274,
+      "from": "4663 page 5 — model side"
+    },
+    {
+      "name": "07-light-stripes.webp",
+      "sha256": "92d1939bf4049560b4e5cc5089fb26e8c8f3e3719cae01520322051b02bfdb9c",
+      "bytes": 25630,
+      "from": "4663 page 5 — light stripes"
+    },
+    {
+      "name": "08-arch-detail.webp",
+      "sha256": "3f61ca1c84d6d4dd8b5f69277cacf9bb598dc532a37e45f8f2c8a3026bc8bf81",
+      "bytes": 8646,
+      "from": "4663 page 5 — arch detail"
+    },
+    {
+      "name": "09-shadow-lines.webp",
+      "sha256": "a5634cc42ebe27fb77f2f045826737d345131210005dc2fd79508a1323611aa5",
+      "bytes": 5890,
+      "from": "4663 page 5 — shadow lines"
+    }
+  ]
+}
