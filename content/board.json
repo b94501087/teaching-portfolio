@@ -65848,6 +65848,434 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Volumes of Transitional Edges",
+      "slug": "volumes-of-transitional-edges-nested-frame-cube",
+      "description": "Nested cube frames in black and white wooden strips explore how the edges of shapes pass into one another.\n\nModel making | Geometric frame study | Wooden strips, white glue, super glue | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "過渡邊界的體量",
+          "description": "以黑白木條製成的層疊立方框架，探索形體邊界如何彼此過渡。\n\n模型製作｜幾何框架研究｜木條、白膠、瞬間膠｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/volumes-of-transitional-edges-nested-frame-cube/01-frame-model.webp",
+        "assets/board/volumes-of-transitional-edges-nested-frame-cube/02-line-studies.webp",
+        "assets/board/volumes-of-transitional-edges-nested-frame-cube/03-frame-diagrams.webp",
+        "assets/board/volumes-of-transitional-edges-nested-frame-cube/05-close-up.webp",
+        "assets/board/volumes-of-transitional-edges-nested-frame-cube/06-side-view.webp",
+        "assets/board/volumes-of-transitional-edges-nested-frame-cube/07-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/volumes-of-transitional-edges-nested-frame-cube/01-frame-model.webp"
+          ],
+          "captions": [
+            "Nested frames inside a cube."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "立方體內層疊的框架。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks how the boundaries of simple shapes relate to each other. It looks for the moments where one edge turns into the next.",
+          "images": [
+            "assets/board/volumes-of-transitional-edges-nested-frame-cube/02-line-studies.webp"
+          ],
+          "captions": [
+            "Early line studies."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探問簡單形體的邊界之間如何互相關聯。它尋找一條邊轉變為另一條邊的瞬間。",
+              "captions": [
+                "早期的線條研究。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Cubes were rotated, shifted and combined in a series of line drawings. Each drawing tested a different way for frames to overlap.",
+          "images": [
+            "assets/board/volumes-of-transitional-edges-nested-frame-cube/03-frame-diagrams.webp"
+          ],
+          "captions": [
+            "Diagrams of combined frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生在一系列線稿中把立方體旋轉、位移並組合。每張圖都測試框架重疊的不同方式。",
+              "captions": [
+                "組合框架圖解。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The chosen combinations were built from thin wooden strips in black and white. Smaller frames were set inside larger ones at changing angles.",
+          "images": [
+            "assets/board/volumes-of-transitional-edges-nested-frame-cube/05-close-up.webp"
+          ],
+          "captions": [
+            "A close-up of the frames."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以黑白細木條搭建選定的組合。較小的框架以不同角度置入較大的框架之中。",
+              "captions": [
+                "框架近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model reads as one volume made of many transitional edges. Seen from each side, the frames line up and break apart in new ways.",
+          "images": [
+            "assets/board/volumes-of-transitional-edges-nested-frame-cube/06-side-view.webp",
+            "assets/board/volumes-of-transitional-edges-nested-frame-cube/07-detail.webp"
+          ],
+          "captions": [
+            "A side view.",
+            "Frames crossing in depth."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型看起來是由許多過渡邊界構成的單一體量。從不同側面觀看，框架會以新的方式對齊又分離。",
+              "captions": [
+                "側面視角。",
+                "框架在深度中交錯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from one simple shape.\n2. Rotate and combine it in drawings.\n3. Build the best combination in strips.\n4. Read the model from every side.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一個簡單形體開始。\n2. 在圖中旋轉並組合它。\n3. 用木條搭建最佳組合。\n4. 從每個方向閱讀模型。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Hiking",
+      "slug": "hiking-landscape-sketch-to-curved-pvc-model",
+      "description": "Quick marker sketches of hiking views are cut up, recombined and built into a curving model of PVC board and sticks.\n\nModel making | Landscape abstraction | PVC boards, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "健行",
+          "description": "把健行風景的快速麥克筆速寫剪開、重組，再搭建成由 PVC 板與木棒構成的曲線模型。\n\n模型製作｜風景抽象化｜PVC 板、木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/01-curve-model.webp",
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/02-marker-sketches.webp",
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/03-paper-collage.webp",
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/04-new-pattern.webp",
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/05-top-view.webp",
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/06-model-drawing.webp",
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/07-front-view.webp",
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/08-ribs.webp",
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/09-spiral.webp",
+        "assets/board/hiking-landscape-sketch-to-curved-pvc-model/10-inside-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/01-curve-model.webp"
+          ],
+          "captions": [
+            "The curving PVC and stick model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "PVC 板與木棒的曲線模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project asks how everyday views can be abstracted into elements and rebuilt as space. The student wanted building blocks that were not shaped by too much thinking.",
+          "images": [
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/02-marker-sketches.webp"
+          ],
+          "captions": [
+            "Fast marker sketches of the views."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探問日常風景如何被抽象成元素，再重建為空間。學生希望得到不被過度思考左右的造形元素。",
+              "captions": [
+                "風景的快速麥克筆速寫。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Views from a hiking trip were traced with markers as quickly and randomly as possible. The tracing paper was then cut into pieces and reassembled into a new pattern.",
+          "images": [
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/03-paper-collage.webp",
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/04-new-pattern.webp"
+          ],
+          "captions": [
+            "Cut pieces recombined.",
+            "The new flat pattern."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以麥克筆盡可能快速而隨機地描繪健行時的風景。接著把描圖紙剪成碎片，重新拼組成新的圖案。",
+              "captions": [
+                "剪開後重組的碎片。",
+                "新的平面圖案。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The flat pattern was imagined as a spatial one using PVC boards, sticks and glue. Curves became the key element, giving motion and rhythm while linking the parts.",
+          "images": [
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/05-top-view.webp",
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/06-model-drawing.webp"
+          ],
+          "captions": [
+            "The model from above.",
+            "A drawing of the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生以 PVC 板、木棒與膠，把平面圖案想像成立體空間。曲線成為關鍵元素，在連接各部分的同時帶出動感與節奏。",
+              "captions": [
+                "俯視模型。",
+                "模型手繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model sweeps ribs, spirals and triangles around a loose centre. Its shadows add another layer of moving lines.",
+          "images": [
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/07-front-view.webp",
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/08-ribs.webp",
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/09-spiral.webp",
+            "assets/board/hiking-landscape-sketch-to-curved-pvc-model/10-inside-view.webp"
+          ],
+          "captions": [
+            "A front view.",
+            "Rows of ribs.",
+            "A spiral ramp.",
+            "Inside the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型讓肋片、螺旋與三角形環繞一個鬆散的中心展開。它的陰影又增添了一層流動的線條。",
+              "captions": [
+                "正面視角。",
+                "成排的肋片。",
+                "螺旋坡道。",
+                "模型內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Sketch a view fast.\n2. Cut and recombine the sketch.\n3. Turn the pattern into space.\n4. Use one key element to connect.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 快速速寫一處風景。\n2. 剪開並重組速寫。\n3. 把圖案轉成空間。\n4. 用一個關鍵元素串連。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Unearth",
+      "slug": "unearth-insect-wing-folds-and-layered-pvc-relief",
+      "description": "Folding studies of insect wings lead to laser-cut PVC slices, a cast plaster relief and a field of sticks.\n\nModel making | Folding and layering study | PVC boards, plaster, wooden sticks | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "出土",
+          "description": "從昆蟲翅膀的摺疊研究出發，發展出雷射切割 PVC 切片、石膏翻模浮雕與一片木棒林。\n\n模型製作｜摺疊與層疊研究｜PVC 板、石膏、木棒｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/01-stick-field.webp",
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/02-folded-panels.webp",
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/03-clear-shells.webp",
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/04-layered-slices.webp",
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/05-cast-relief.webp",
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/06-relief-blocks.webp",
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/07-stick-cluster.webp",
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/08-stick-walls.webp",
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/09-narrow-path.webp",
+        "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/10-stick-passage.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/01-stick-field.webp"
+          ],
+          "captions": [
+            "A field of sticks on a plaster base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "石膏基座上的木棒林。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project began as an experiment with the folding wings of insects. It then asked how a flat image of light and dark could become depth.",
+          "images": [
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/02-folded-panels.webp"
+          ],
+          "captions": [
+            "Folded panels based on wing creases."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題從昆蟲翅膀的摺疊實驗開始。接著探問一張明暗平面影像如何轉化為深度。",
+              "captions": [
+                "依翅膀摺痕製作的摺板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The key fold of beetle wings was studied and stretched upward into a three-dimensional form. The form was then split into faces and cut from PVC boards.",
+          "images": [
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/03-clear-shells.webp"
+          ],
+          "captions": [
+            "Clear folded shells."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究甲蟲翅膀的關鍵摺疊，並把它向上拉伸成立體形態。接著把形態拆成面，再從 PVC 板上切出。",
+              "captions": [
+                "透明摺疊殼體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The darkness of an image was read as depth in a digital model, then sliced and laser cut from PVC. Plaster poured over the slices made a negative relief that kept the burnt layer lines.",
+          "images": [
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/04-layered-slices.webp",
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/05-cast-relief.webp",
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/06-relief-blocks.webp"
+          ],
+          "captions": [
+            "Layered PVC slices.",
+            "The layered slice model.",
+            "Slice blocks side by side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把影像的暗度解讀為數位模型中的深度，再切片並以雷射切割 PVC。把石膏灌在切片上，得到保留燒痕層線的負形浮雕。",
+              "captions": [
+                "層疊的 PVC 切片。",
+                "層疊切片模型。",
+                "並排的切片塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "A dense field of sticks rises from the plaster base like a buried landscape breaking through. Small red figures show narrow paths and rooms between the sticks.",
+          "images": [
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/07-stick-cluster.webp",
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/08-stick-walls.webp",
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/09-narrow-path.webp",
+            "assets/board/unearth-insect-wing-folds-and-layered-pvc-relief/10-stick-passage.webp"
+          ],
+          "captions": [
+            "A cluster of sticks.",
+            "Walls of sticks.",
+            "A narrow path.",
+            "A passage through the sticks."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "密集的木棒林從石膏基座升起，像被埋藏的地景破土而出。小小的紅色人偶顯示木棒之間狹窄的通道與空間。",
+              "captions": [
+                "一簇木棒。",
+                "木棒構成的牆。",
+                "狹窄的通道。",
+                "穿過木棒的通道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a natural fold.\n2. Read dark as depth.\n3. Slice, cut and cast.\n4. Let the layers show.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一種自然摺疊。\n2. 把暗度讀成深度。\n3. 切片、切割與翻模。\n4. 讓層次顯露出來。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
