@@ -1,0 +1,49 @@
+{
+  "project": "Two Sides Tower",
+  "dest": "assets/board/two-sides-tower-mixed-material-story-model",
+  "note": "Portfolio cfd7 pages 2-3 cropped to seven images, WebP q88 (PIL). Not used: title and text, film stills with actors, the film title and character names, process photos with hands.",
+  "files": [
+    {
+      "name": "01-full-model.webp",
+      "sha256": "e7908bb287ffd551bea648bc5b8632a35bead225564813cf2b8a3308d71f702f",
+      "bytes": 161314,
+      "from": "cfd7 page 2 — full model"
+    },
+    {
+      "name": "02-story-sketch.webp",
+      "sha256": "2ee1564eb69d8967af9d4e1b04122aab0713435183e56335326cf7a5f91c6471",
+      "bytes": 53862,
+      "from": "cfd7 page 2 — story sketch"
+    },
+    {
+      "name": "03-folded-paper-part.webp",
+      "sha256": "ba17485d336f02dc9c75bcee3f3ee0f12f6827d679caa0e117f32c5b3f0b07ba",
+      "bytes": 44590,
+      "from": "cfd7 page 3 — folded paper part"
+    },
+    {
+      "name": "04-wire-cage.webp",
+      "sha256": "6d665bfacfbe26c87709f8b9b268058bd31bc95c2169edc95ab92089937357c3",
+      "bytes": 20878,
+      "from": "cfd7 page 3 — wire cage"
+    },
+    {
+      "name": "05-clay-flow.webp",
+      "sha256": "13ff1c8c2044920dee08e06201875411c04a1f2b9333d3768c45e4bb61ee5e4f",
+      "bytes": 21394,
+      "from": "cfd7 page 3 — clay flow"
+    },
+    {
+      "name": "06-model-angle.webp",
+      "sha256": "f10b9a9bb74b71e343dfdccc047e96d3afeca733ef3285053c51ce1db84c5a6e",
+      "bytes": 88646,
+      "from": "cfd7 page 3 — model angle"
+    },
+    {
+      "name": "07-pen-drawing.webp",
+      "sha256": "25401460781bf1e20e1cf2c7dd50e5b94a8b076c9b3a780d4fbc419dfbe51543",
+      "bytes": 113666,
+      "from": "cfd7 page 3 — pen drawing"
+    }
+  ]
+}
