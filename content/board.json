@@ -54204,6 +54204,546 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Exploring Chinese Calligraphy",
+      "slug": "exploring-chinese-calligraphy-woven-bamboo-strokes",
+      "description": "Free-flowing cursive strokes are rebuilt as curling bands of woven bamboo.\n\nModel making | Calligraphy to space | Bamboo, wire and hot glue | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "探索中國書法",
+          "description": "草書流動的筆畫，被重建為捲曲的編織竹帶。\n\n模型製作｜從書法到空間｜竹、鐵絲與熱熔膠｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/01-final-model.webp",
+        "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/02-stroke-sketch.webp",
+        "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/03-terrace-design.webp",
+        "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/04-weave-pattern.webp",
+        "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/05-curved-band.webp",
+        "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/06-crossing-bands.webp",
+        "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/07-light-shadow.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/01-final-model.webp"
+          ],
+          "captions": [
+            "The finished woven bamboo model, lit at night."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "夜間點燈的完成竹編模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Cursive script moves freely and uses empty space boldly, but it lives flat on paper. The student asked what space its strokes would hold in three dimensions.",
+          "images": [
+            "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/02-stroke-sketch.webp"
+          ],
+          "captions": [
+            "Abstract sketch of the strokes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "草書自由流動、大膽運用留白，卻只存在於平面紙上。學生思考這些筆畫在三維中會包覆出怎樣的空間。",
+              "captions": [
+                "筆畫的抽象草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She studied a classic cursive work and traced its strokes as abstract sketches. The sketches were turned into a 2D design that reads like layered terraces.",
+          "images": [
+            "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/03-terrace-design.webp"
+          ],
+          "captions": [
+            "Strokes turned into a layered terrace design."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她研究一件經典草書作品，把筆畫描成抽象草圖。草圖再轉化為宛如層疊梯田的平面設計。",
+              "captions": [
+                "筆畫轉化為層疊梯田的平面設計。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Bamboo was chosen for its flexibility and sharp edges, which match the speed of the brush. Strips were woven into a hexagonal mesh and bent into twisting bands.",
+          "images": [
+            "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/04-weave-pattern.webp",
+            "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/05-curved-band.webp"
+          ],
+          "captions": [
+            "The hexagonal weave pattern.",
+            "A curved band of weave."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "選用竹子，是因為它的柔韌與銳利呼應筆勢的速度。竹條被編成六角網格，再彎成扭轉的竹帶。",
+              "captions": [
+                "六角形編織紋理。",
+                "一段彎曲的編織帶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final model curls and crosses like a line of cursive written in the air. Small lights inside cast the woven pattern across the space.",
+          "images": [
+            "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/06-crossing-bands.webp",
+            "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes/07-light-shadow.webp"
+          ],
+          "captions": [
+            "Bands crossing in space.",
+            "Light through the weave."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型捲曲交錯，如同寫在空中的一行草書。內部的小燈把編織紋理投射到四周。",
+              "captions": [
+                "在空間中交錯的竹帶。",
+                "穿過編織的光線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick a written form.\n2. Sketch its strokes.\n3. Translate to a plan.\n4. Choose a material that matches.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 選定一種書寫形式。\n2. 描繪它的筆畫。\n3. 轉化為平面。\n4. 選擇相應的材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Harmony in Nature",
+      "slug": "harmony-in-nature-classical-garden-water-model",
+      "description": "A classical garden model joins pavilions, rockery, water and planting in one balanced scene.\n\nModel making | Classical garden design | Paper, wood sticks, model trees and stone | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "自然的和諧",
+          "description": "一座古典園林模型，把亭台、假山、水景與植栽融為和諧的一景。\n\n模型製作｜古典園林設計｜紙、木棒、模型樹與石材｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/harmony-in-nature-classical-garden-water-model/01-bridge-view.webp",
+        "assets/board/harmony-in-nature-classical-garden-water-model/02-garden-overview.webp",
+        "assets/board/harmony-in-nature-classical-garden-water-model/03-rockery-side.webp",
+        "assets/board/harmony-in-nature-classical-garden-water-model/04-walls-side.webp",
+        "assets/board/harmony-in-nature-classical-garden-water-model/05-front-side.webp",
+        "assets/board/harmony-in-nature-classical-garden-water-model/06-garden-diagrams.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/harmony-in-nature-classical-garden-water-model/01-bridge-view.webp"
+          ],
+          "captions": [
+            "Pavilion and arched bridge over the water."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "水上的亭子與拱橋。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Classical gardens now sit among high-rise towers, almost as borrowed scenery for the city. The student asked whether their techniques can still live in modern design.",
+          "images": [
+            "assets/board/harmony-in-nature-classical-garden-water-model/06-garden-diagrams.webp"
+          ],
+          "captions": [
+            "Diagrams of classical garden elements."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "古典園林如今座落在高樓之間，幾乎成為城市的借景。學生思考這些造園手法能否在現代設計中延續。",
+              "captions": [
+                "古典園林元素的分析圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She sketched windows, pavilions and plans to study framing, borrowing and screening views. She also looked at how plants change with water depth and humidity.",
+          "images": [
+            "assets/board/harmony-in-nature-classical-garden-water-model/05-front-side.webp"
+          ],
+          "captions": [
+            "The front elevation of the garden."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她描繪花窗、亭台與平面，研究框景、借景與障景等手法。她也觀察植物如何隨水深與濕度變化。",
+              "captions": [
+                "園林正立面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Paper and wood sticks formed walls, roofs and a bridge, while stone built up the rockery. Model trees were placed by height and density around the water.",
+          "images": [
+            "assets/board/harmony-in-nature-classical-garden-water-model/03-rockery-side.webp",
+            "assets/board/harmony-in-nature-classical-garden-water-model/04-walls-side.webp"
+          ],
+          "captions": [
+            "Rockery and pavilion from the side.",
+            "Garden walls and buildings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以紙與木棒製作牆垣、屋頂與橋，石材堆疊出假山。模型樹依高度與密度環繞水景配置。",
+              "captions": [
+                "假山與亭子側視。",
+                "園林的牆垣與建築。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final garden balances solid rockery against open water and light planting. Each view through a gate or over the bridge reveals a new framed scene.",
+          "images": [
+            "assets/board/harmony-in-nature-classical-garden-water-model/02-garden-overview.webp"
+          ],
+          "captions": [
+            "The whole garden from above."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終園林以厚重假山對比開闊水面與輕盈植栽。穿過門洞或越過橋時，每一處都展開新的框景。",
+              "captions": [
+                "從上方看整座園林。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Study a traditional type.\n2. Sketch its key techniques.\n3. Layer solid, water and plants.\n4. Test the views at eye level.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 研究一種傳統類型。\n2. 描繪它的關鍵手法。\n3. 層疊山石、水與植栽。\n4. 以視線高度檢驗景觀。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "The Echo of Lights",
+      "slug": "echo-of-lights-acrylic-panel-light-installation",
+      "description": "Clear coloured acrylic panels catch a spotlight and scatter it into moving colour.\n\nModel making | Light and reflection | Acrylic board, PVC board and spotlight | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "光的回響",
+          "description": "透明彩色壓克力板承接聚光燈，把光散射成流動的色彩。\n\n模型製作｜光與反射｜壓克力板、PVC板與聚光燈｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/echo-of-lights-acrylic-panel-light-installation/01-light-wall.webp",
+        "assets/board/echo-of-lights-acrylic-panel-light-installation/02-colour-rays.webp",
+        "assets/board/echo-of-lights-acrylic-panel-light-installation/03-panel-test.webp",
+        "assets/board/echo-of-lights-acrylic-panel-light-installation/04-dense-cluster.webp",
+        "assets/board/echo-of-lights-acrylic-panel-light-installation/05-spotlight-burst.webp",
+        "assets/board/echo-of-lights-acrylic-panel-light-installation/06-long-shadows.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/echo-of-lights-acrylic-panel-light-installation/01-light-wall.webp"
+          ],
+          "captions": [
+            "Panels spread out from the light source."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "從光源向外擴散的壓克力板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Coloured glass windows turn sunlight into a painting made of light. The student asked how a simple panel could guide light into a moving visual effect.",
+          "images": [
+            "assets/board/echo-of-lights-acrylic-panel-light-installation/02-colour-rays.webp"
+          ],
+          "captions": [
+            "Coloured rays from the panels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "彩色玻璃窗把陽光化為一幅由光構成的畫。學生思考簡單的板片如何引導光線，產生流動的視覺效果。",
+              "captions": [
+                "壓克力板折射出的彩色光線。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She held acrylic panels under a spotlight to test angles, heights and combinations. Each setup bent and scattered the light in a different way.",
+          "images": [
+            "assets/board/echo-of-lights-acrylic-panel-light-installation/03-panel-test.webp"
+          ],
+          "captions": [
+            "Testing a single panel."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她把壓克力板置於聚光燈下，測試角度、高度與組合。每種配置都以不同方式折射與散射光線。",
+              "captions": [
+                "測試單片壓克力板。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Laser-cut panels were glued to the wall, densest near the light for rich reflections. Further out they spread apart so their shadows stretched longer.",
+          "images": [
+            "assets/board/echo-of-lights-acrylic-panel-light-installation/04-dense-cluster.webp",
+            "assets/board/echo-of-lights-acrylic-panel-light-installation/05-spotlight-burst.webp"
+          ],
+          "captions": [
+            "A dense cluster of panels.",
+            "Light bursting from the spotlight."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "雷射切割的板片黏在牆上，靠近光源處最密集，反射最豐富。越往外越分散，陰影也越拉越長。",
+              "captions": [
+                "密集的壓克力板群。",
+                "從聚光燈迸發的光芒。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The final piece fans out from the light like a spray of colour. To her surprise, the panels cast two sets of shadows across the wall.",
+          "images": [
+            "assets/board/echo-of-lights-acrylic-panel-light-installation/06-long-shadows.webp"
+          ],
+          "captions": [
+            "Long double shadows on the wall."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終作品如一道彩色噴泉從光源展開。出乎她意料，板片在牆上投下了兩組陰影。",
+              "captions": [
+                "牆上拉長的雙重陰影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a light effect.\n2. Test materials by hand.\n3. Vary density from the source.\n4. Record surprises.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從一種光的效果出發。\n2. 親手測試材料。\n3. 由光源向外改變密度。\n4. 記錄意外的發現。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tower of Descending Feasts",
+      "slug": "tower-of-descending-feasts-film-inspired-clay-model",
+      "description": "A three-part clay tower, inspired by a film, shows food and greed flowing from the top down.\n\nModel making | Film to form | Clay, wire, wood sticks and acrylic paint | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "層層下降的盛宴之塔",
+          "description": "受一部電影啟發的三段式黏土高塔，呈現食物與貪婪由上而下流動。\n\n模型製作｜從電影到造型｜黏土、鐵絲、木棒與壓克力顏料｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tower-of-descending-feasts-film-inspired-clay-model/01-final-tower.webp",
+        "assets/board/tower-of-descending-feasts-film-inspired-clay-model/02-concept-sketch.webp",
+        "assets/board/tower-of-descending-feasts-film-inspired-clay-model/03-film-feast.webp",
+        "assets/board/tower-of-descending-feasts-film-inspired-clay-model/04-film-leftovers.webp",
+        "assets/board/tower-of-descending-feasts-film-inspired-clay-model/05-film-platform.webp",
+        "assets/board/tower-of-descending-feasts-film-inspired-clay-model/06-middle-level.webp",
+        "assets/board/tower-of-descending-feasts-film-inspired-clay-model/07-dome-top.webp",
+        "assets/board/tower-of-descending-feasts-film-inspired-clay-model/08-lower-level.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tower-of-descending-feasts-film-inspired-clay-model/01-final-tower.webp"
+          ],
+          "captions": [
+            "The finished tower with its domed top."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "頂部為圓頂的完成高塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A film about a vertical prison uses a descending food platform as a metaphor for inequality. The student wanted to turn its message about greed and survival into a model.",
+          "images": [
+            "assets/board/tower-of-descending-feasts-film-inspired-clay-model/02-concept-sketch.webp"
+          ],
+          "captions": [
+            "Annotated sketch of the three levels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一部關於垂直監獄的電影，以下降的食物平台比喻不平等。學生想把它關於貪婪與生存的訊息轉化為模型。",
+              "captions": [
+                "標註三個階層的概念草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "She rewatched the film and picked out greed, waste and revolt as its key themes. Stills of feasts and leftovers guided the mood of each level.",
+          "images": [
+            "assets/board/tower-of-descending-feasts-film-inspired-clay-model/03-film-feast.webp",
+            "assets/board/tower-of-descending-feasts-film-inspired-clay-model/04-film-leftovers.webp",
+            "assets/board/tower-of-descending-feasts-film-inspired-clay-model/05-film-platform.webp"
+          ],
+          "captions": [
+            "Film still of a crowded feast.",
+            "Film still of scattered leftovers.",
+            "Film still of the food platform."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "她重看電影，歸納出貪婪、浪費與反抗三個主題。盛宴與殘羹的畫面引導了各層的氛圍。",
+              "captions": [
+                "電影中擁擠盛宴的畫面。",
+                "電影中散落殘餘的畫面。",
+                "電影中食物平台的畫面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The tower was split into three sections for three social classes. Clay over wire formed spikes, warped outlines and hanging strips around the frame.",
+          "images": [
+            "assets/board/tower-of-descending-feasts-film-inspired-clay-model/06-middle-level.webp",
+            "assets/board/tower-of-descending-feasts-film-inspired-clay-model/08-lower-level.webp"
+          ],
+          "captions": [
+            "Tangled middle level.",
+            "Spikes and strands at the base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "高塔分為三段，代表三個社會階層。鐵絲外包黏土，在框架周圍形成尖刺、扭曲輪廓與垂掛條帶。",
+              "captions": [
+                "糾纏的中段。",
+                "底部的尖刺與垂絲。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The white tower rises from a ruined base to a calm dome at the top. Bright clay food stands out at first glance and thins out further down.",
+          "images": [
+            "assets/board/tower-of-descending-feasts-film-inspired-clay-model/07-dome-top.webp"
+          ],
+          "captions": [
+            "The dome and fallen food."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "白色高塔從殘破的底部升至頂端寧靜的圓頂。鮮豔的黏土食物一眼可見，越往下越稀少。",
+              "captions": [
+                "圓頂與掉落的食物。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Find the core metaphor.\n2. Name the themes.\n3. Give each level a form.\n4. Use colour for focus.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 找出核心隱喻。\n2. 命名主題。\n3. 為每一層賦予造型。\n4. 以色彩引導焦點。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
