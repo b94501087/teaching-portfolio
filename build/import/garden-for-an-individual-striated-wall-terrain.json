@@ -1,0 +1,55 @@
+{
+  "project": "A Garden for an Individual",
+  "dest": "assets/board/garden-for-an-individual-striated-wall-terrain",
+  "note": "Portfolio 4663 pages 2-3 cropped to eight images, WebP q88 (PIL). Not used: title and text, the programme and school name, the teaching assistant's name, the student's reflection on study plans.",
+  "files": [
+    {
+      "name": "01-isometric-garden.webp",
+      "sha256": "84401ba1fe5d5659a5f95f897d58cb68f41f8c37b457157d6b80cb3e6b336280",
+      "bytes": 85790,
+      "from": "4663 page 3 — isometric garden"
+    },
+    {
+      "name": "02-window-collage.webp",
+      "sha256": "d44f59b34c162bdaea5ca17f70644343aa19ffe3632ae7ec3298c167cfc10d2a",
+      "bytes": 38416,
+      "from": "4663 page 2 — window collage"
+    },
+    {
+      "name": "03-striation-collage.webp",
+      "sha256": "90017b11b3172d86005d72b4ea9252d8a79eaf488fcd18f481f5784a57cf78f1",
+      "bytes": 73178,
+      "from": "4663 page 2 — striation collage"
+    },
+    {
+      "name": "04-wall-iterations.webp",
+      "sha256": "0be66eafab93f0532f3351006fc9775dc8ffc9440849766aac6a3a2199fbbfb2",
+      "bytes": 10410,
+      "from": "4663 page 2 — wall iterations"
+    },
+    {
+      "name": "05-strip-pieces.webp",
+      "sha256": "a9e41c2f87804a9c0fb644a3f13daefe498360ebbcbb466e844747407c5d70b3",
+      "bytes": 12926,
+      "from": "4663 page 2 — strip pieces"
+    },
+    {
+      "name": "06-terrain-models.webp",
+      "sha256": "8924cc037f574ca5a69c8445946f781d4794c07648ef672d56161928c0d8baba",
+      "bytes": 37562,
+      "from": "4663 page 2 — terrain models"
+    },
+    {
+      "name": "07-section-views.webp",
+      "sha256": "dfc762ed8c62ffc33814923cc9218ba2be9d56db9b18429d081756f4cce9000f",
+      "bytes": 10452,
+      "from": "4663 page 3 — section views"
+    },
+    {
+      "name": "08-interior-sequence.webp",
+      "sha256": "5090191772ff8e19b062b5dfeaf81b90075af6bff82c7869dc0b5b2d3810a5fe",
+      "bytes": 44010,
+      "from": "4663 page 3 — interior sequence"
+    }
+  ]
+}
