@@ -1,0 +1,55 @@
+{
+  "project": "Crossing Lines",
+  "dest": "assets/board/crossing-lines-city-and-film-collage-model",
+  "note": "Portfolio 7c9f page 9 cropped to eight images, WebP q88 (PIL). Not used: title and text, a street photo with crowds, process photos with hands, city and film names.",
+  "files": [
+    {
+      "name": "01-paper-city.webp",
+      "sha256": "62ccae3a8f176188908696d435889b7665de66e6a21e7924c87493e05e3b9fae",
+      "bytes": 157834,
+      "from": "7c9f page 9 — paper city"
+    },
+    {
+      "name": "02-street-lines.webp",
+      "sha256": "1bf22be4f3b2f4c4b6346a0264aef013fb0d8007cdc21cf2e430c37ac1467a2b",
+      "bytes": 19900,
+      "from": "7c9f page 9 — street lines"
+    },
+    {
+      "name": "03-scene-lines.webp",
+      "sha256": "20d3b68b3e632df2a3375ea63e54ecf76345b5eb96d623f131d5587e9327827f",
+      "bytes": 17388,
+      "from": "7c9f page 9 — scene lines"
+    },
+    {
+      "name": "04-hatched-collage.webp",
+      "sha256": "1bf189c957e2946a2524942143b4fe2e36babe11fa754331edbe399f147c39db",
+      "bytes": 50440,
+      "from": "7c9f page 9 — hatched collage"
+    },
+    {
+      "name": "05-black-model.webp",
+      "sha256": "e8baec3b5ec93ca367e20f92987ee7e4f160677f8b1965b63f666169fcb0ebf4",
+      "bytes": 57434,
+      "from": "7c9f page 9 — black model"
+    },
+    {
+      "name": "06-model-top.webp",
+      "sha256": "bbde62b46071ad4c1fe75bad4b49364f4ad0804c2b484f6c188f56af6982479b",
+      "bytes": 17306,
+      "from": "7c9f page 9 — model top"
+    },
+    {
+      "name": "07-letter-forms.webp",
+      "sha256": "a643ad6957a7177a177884d3311e49cb7f16f79a3771a1db745d4ac8dd75c871",
+      "bytes": 12138,
+      "from": "7c9f page 9 — letter forms"
+    },
+    {
+      "name": "08-on-the-mat.webp",
+      "sha256": "269f7076cab5df5e007cffc204641d834fea0dd6aa018035ebe6635dd5abb380",
+      "bytes": 9044,
+      "from": "7c9f page 9 — on the mat"
+    }
+  ]
+}
