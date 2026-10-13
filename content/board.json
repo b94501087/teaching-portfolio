@@ -67112,6 +67112,430 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Stacked Circles",
+      "slug": "stacked-circles-ring-renders-to-laser-cut-table",
+      "description": "A digital study of stacked rings is drawn, animated and then built as a laser-cut table of layered boards.\n\nDigital modelling to furniture | Stacking study | Rhino, laser-cut boards, clear board | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "疊環",
+          "description": "一個疊環的數位研究經過繪圖與動畫，最後以雷射切割層板做成一張桌子。\n\n從數位建模到家具｜堆疊研究｜Rhino、雷射切割板、透明板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/01-ring-table.webp",
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/02-ring-render.webp",
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/03-rotation-drawing.webp",
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/04-surface-lines.webp",
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/05-aggregation.webp",
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/06-zoom-in.webp",
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/07-section.webp",
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/08-table-layers.webp",
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/09-table-close-up.webp",
+        "assets/board/stacked-circles-ring-renders-to-laser-cut-table/10-table-figures.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/01-ring-table.webp"
+          ],
+          "captions": [
+            "The laser-cut table with two model figures."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "雷射切割桌與兩個模型人偶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Made in a summer programme, the project is an expression of stacking circles. It then asks how a purely digital form could become a real object.",
+          "images": [
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/02-ring-render.webp"
+          ],
+          "captions": [
+            "A rendered view of the rings."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題完成於一個暑期課程，是對疊環的表現。接著它探問一個純數位的形態如何成為真實的物件。",
+              "captions": [
+                "疊環的算圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The rings were modelled in Rhino. They were shown through rotation drawings and an alternate surface made only of lines.",
+          "images": [
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/03-rotation-drawing.webp",
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/04-surface-lines.webp"
+          ],
+          "captions": [
+            "A rotation drawing.",
+            "The surface as lines."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生在 Rhino 中建立疊環模型。接著以旋轉圖與僅由線條構成的替代表面來呈現。",
+              "captions": [
+                "旋轉圖。",
+                "以線條呈現的表面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Animation frames show the rings gathering into a cluster. A zoomed-in render and a section drawing read the form from the inside.",
+          "images": [
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/05-aggregation.webp",
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/06-zoom-in.webp",
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/07-section.webp"
+          ],
+          "captions": [
+            "An aggregation frame.",
+            "A zoomed-in render.",
+            "A section drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "動畫影格呈現疊環逐步聚合。放大算圖與剖面圖則從內部解讀這個形態。",
+              "captions": [
+                "聚合動畫影格。",
+                "放大算圖。",
+                "剖面圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "Research showed the model had much in common with furniture. It was laser cut in layers and topped with clear board to give a sense of science fiction.",
+          "images": [
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/08-table-layers.webp",
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/09-table-close-up.webp",
+            "assets/board/stacked-circles-ring-renders-to-laser-cut-table/10-table-figures.webp"
+          ],
+          "captions": [
+            "The stacked layers of the base.",
+            "The table top and base.",
+            "Figures at the table."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "研究後學生發現模型與家具有許多相似之處。於是以雷射切割分層製作，並以透明板為桌面，營造科幻感。",
+              "captions": [
+                "底座的堆疊層次。",
+                "桌面與底座。",
+                "桌邊的人偶。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Model one simple rule.\n2. Draw it from many views.\n3. Animate how it gathers.\n4. Find a real use for it.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 以一個簡單規則建模。\n2. 從多個視角繪製。\n3. 以動畫呈現聚合。\n4. 為它找到真實用途。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Tree, Nest and Root",
+      "slug": "tree-nest-and-root-tree-spaces-and-ant-tunnels",
+      "description": "Tree houses, nests and ladders climb a root-wood tree while cast ant tunnels show what happens underground.\n\nModel making | Spaces between people, species and trees | Wood, rope, plaster, stone, paper | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "樹、巢與根",
+          "description": "樹屋、鳥巢與梯子攀上一棵樹根木，翻模的蟻道則呈現地底下發生的事。\n\n模型製作｜人、物種與樹之間的空間｜木、繩、石膏、石、紙｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/01-tree-model.webp",
+        "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/02-toppled-roots.webp",
+        "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/03-tree-house-sketches.webp",
+        "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/04-ant-tank.webp",
+        "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/05-gel-tunnels.webp",
+        "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/06-roots-in-gel.webp",
+        "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/07-branch-nests.webp",
+        "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/08-root-base.webp",
+        "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/09-ladder-detail.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/01-tree-model.webp"
+          ],
+          "captions": [
+            "The tree model on its root base."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "立於根部基座上的樹木模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project explores the spaces shared by people, other species and trees. Inspired by bird nests, it asks how lively spaces could be made in the crown, branches, trunk and roots.",
+          "images": [
+            "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/03-tree-house-sketches.webp"
+          ],
+          "captions": [
+            "Sketches of tree houses."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題探索人、其他物種與樹之間共享的空間。學生從鳥巢得到啟發，探問如何在樹冠、樹枝、樹幹與樹根中創造生動的空間。",
+              "captions": [
+                "樹屋草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "To study the space beneath, ants were placed in a gel medium and their tunnels observed. Plaster was then poured in to capture the tunnels as a solid form.",
+          "images": [
+            "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/04-ant-tank.webp",
+            "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/05-gel-tunnels.webp",
+            "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/06-roots-in-gel.webp"
+          ],
+          "captions": [
+            "Roots set in the gel tank.",
+            "Tunnels lit through the gel.",
+            "Roots and tunnels together."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "為了研究地下空間，學生把螞蟻放入凝膠介質中觀察牠們挖出的通道。接著灌入石膏，把通道凝固成實體。",
+              "captions": [
+                "置於凝膠槽中的樹根。",
+                "透光的凝膠通道。",
+                "樹根與通道交錯。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Eaves, windows, tree holes and nests were built into the branches. Ladders and small decks link them together.",
+          "images": [
+            "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/07-branch-nests.webp",
+            "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/09-ladder-detail.webp"
+          ],
+          "captions": [
+            "Nests and decks among the branches.",
+            "A ladder up the trunk."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把屋簷、窗、樹洞與鳥巢做進樹枝之間。梯子與小平台把它們串連起來。",
+              "captions": [
+                "枝間的巢與平台。",
+                "攀上樹幹的梯子。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the final model the ants have undermined the base and the tree is toppling. It is a reminder to step in with care and keep the balance of nature.",
+          "images": [
+            "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/08-root-base.webp",
+            "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels/02-toppled-roots.webp"
+          ],
+          "captions": [
+            "The hollowed root base.",
+            "The tree toppling over."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "最終模型中，螞蟻掏空了基座，樹正在傾倒。它提醒人們適度介入，守護自然的平衡。",
+              "captions": [
+                "被掏空的根部基座。",
+                "傾倒中的樹。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from how animals build.\n2. Observe a real process.\n3. Cast what you cannot see.\n4. Let the model tell a warning.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從動物的築巢方式出發。\n2. 觀察真實的過程。\n3. 把看不見的翻模成形。\n4. 讓模型傳達警示。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Sandy Adobe",
+      "slug": "sandy-adobe-crab-burrow-tunnel-sculpture",
+      "description": "Branching tunnels of paper clay, inspired by crab burrows, are knotted together and coated in sand.\n\nSculpture | Organic structure study | Sand, paper clay, iron wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "沙之巢",
+          "description": "受蟹洞啟發，以紙黏土塑出分岔通道，彼此纏結後再覆上沙。\n\n雕塑｜有機結構研究｜沙、紙黏土、鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/01-tunnel-sculpture.webp",
+        "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/02-clay-tubes.webp",
+        "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/03-top-detail.webp",
+        "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/04-tunnel-detail.webp",
+        "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/05-tunnel-drawing.webp",
+        "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/06-sanded-tubes.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/01-tunnel-sculpture.webp"
+          ],
+          "captions": [
+            "The sand-coated tunnel sculpture."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "覆沙的通道雕塑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The work comes from watching crabs by the sea. Their nests are made of many linked tunnels, and the project asks how that hidden structure could be made visible.",
+          "images": [
+            "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/05-tunnel-drawing.webp"
+          ],
+          "captions": [
+            "A drawing of the tunnel form."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這件作品來自學生在海邊觀察螃蟹的經驗。蟹巢由許多相連的通道構成，這個專題探問如何讓這個隱藏的結構被看見。",
+              "captions": [
+                "通道形態的手繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Long strips of paper clay were moulded one by one to stand for the inner tunnels. Each piece was given enough branches.",
+          "images": [
+            "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/02-clay-tubes.webp"
+          ],
+          "captions": [
+            "Clay strips joined into tunnels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生以紙黏土逐一塑出長條，代表內部通道。學生並確保每一段都有足夠的分岔。",
+              "captions": [
+                "接合成通道的黏土條。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The strips were joined into one knotted form. It was then covered in sand to bring back the look of the original burrow.",
+          "images": [
+            "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/06-sanded-tubes.webp"
+          ],
+          "captions": [
+            "The form being coated in sand."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生把這些長條接合成一個纏結的整體。接著覆上沙，還原蟹洞原本的質感。",
+              "captions": [
+                "正在覆沙的形體。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished sculpture is an organic device of looping tunnels. It is rough and porous like the ground it came from.",
+          "images": [
+            "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/03-top-detail.webp",
+            "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture/04-tunnel-detail.webp"
+          ],
+          "captions": [
+            "Looping tunnels from above.",
+            "Inside the knot of tunnels."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的雕塑是一個由迴繞通道構成的有機裝置。它粗糙而多孔，如同它所來自的土地。",
+              "captions": [
+                "俯視迴繞的通道。",
+                "通道纏結的內部。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch how an animal builds.\n2. Model each part by hand.\n3. Join the parts into one.\n4. Finish with the real material.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察動物如何築巢。\n2. 親手塑造每個部分。\n3. 把各部分接成一體。\n4. 以真實材料收尾。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
