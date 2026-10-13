@@ -1,0 +1,67 @@
+{
+  "project": "Möbius Tower",
+  "dest": "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches",
+  "note": "Portfolio 1ab1 pages 9-10 cropped to 10 images, WebP q88 (PIL). Not used: cover page, collage with a person photo, reference images, film and social-theme wording, process photos with hands.",
+  "files": [
+    {
+      "name": "01-mobius-tower.webp",
+      "sha256": "dc84cd8cccf94cade977bbf8e46f0bae3cef987384e733a20a11c70921b676b6",
+      "bytes": 262384,
+      "from": "1ab1 page 9-10 — the finished möbius tower"
+    },
+    {
+      "name": "02-tower-drawing.webp",
+      "sha256": "4362aea5e7138667eff4cc53c34bfe3f7da5230b7510ff3d867cc04fa97b0524",
+      "bytes": 225272,
+      "from": "1ab1 page 9-10 — a pen drawing of the tower"
+    },
+    {
+      "name": "03-concept-sketch.webp",
+      "sha256": "dfc470193eaa4c8a0173097744006c62b987282806f8045f6047a2a265fc33fa",
+      "bytes": 194710,
+      "from": "1ab1 page 9-10 — an early concept sketch"
+    },
+    {
+      "name": "04-mobius-diagrams.webp",
+      "sha256": "857660079da1a400df2ba3eb49249e2fb02b4c9333467d957b298059ac346715",
+      "bytes": 42888,
+      "from": "1ab1 page 9-10 — möbius ring diagrams"
+    },
+    {
+      "name": "05-ring-test-model.webp",
+      "sha256": "156e5b4a4cbcfbe134c21701ee3216674774dedae26c86a62a64cb5b76b6d2d9",
+      "bytes": 18874,
+      "from": "1ab1 page 9-10 — a white ring test model"
+    },
+    {
+      "name": "06-twisted-ring-renders.webp",
+      "sha256": "51753449194052c5683c017464ff886c46d68b7baadf2c2801ba728d65ada28b",
+      "bytes": 15048,
+      "from": "1ab1 page 9-10 — renders of twisted rings"
+    },
+    {
+      "name": "07-spiral-render.webp",
+      "sha256": "c66d6cfd305bf92b593e26629543138d249d3be660da0343972b85498e6c8654",
+      "bytes": 19952,
+      "from": "1ab1 page 9-10 — a spiral ring render"
+    },
+    {
+      "name": "08-cast-ring-pieces.webp",
+      "sha256": "b47bc0d4e6ad855a2aae01312f32ad8f53137d64d61a1889c2bc8d780d629934",
+      "bytes": 15166,
+      "from": "1ab1 page 9-10 — cast ring pieces"
+    },
+    {
+      "name": "09-branch-and-sphere-top.webp",
+      "sha256": "a1f73896190e46be91e6918948014e0a8c544080501a01561a518986d10040ad",
+      "bytes": 84060,
+      "from": "1ab1 page 9-10 — clay spheres and branches on top"
+    },
+    {
+      "name": "10-tower-from-above.webp",
+      "sha256": "7e43aa3b9b582fb744b855bce1cf2ad0b4d1de13315df7675f1ed9083dd63f93",
+      "bytes": 82470,
+      "from": "1ab1 page 9-10 — the tower seen from above"
+    }
+  ]
+}
