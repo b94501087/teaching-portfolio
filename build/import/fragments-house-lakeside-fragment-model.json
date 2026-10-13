@@ -1,0 +1,67 @@
+{
+  "project": "Fragments House",
+  "dest": "assets/board/fragments-house-lakeside-fragment-model",
+  "note": "Portfolio 7c9f pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, the programme and school name.",
+  "files": [
+    {
+      "name": "01-house-render.webp",
+      "sha256": "5ca4322d970adc4419c0ee20df49784c5b8ae74733101999346df37dcb5481b9",
+      "bytes": 47850,
+      "from": "7c9f page 3 — house render"
+    },
+    {
+      "name": "02-image-studies.webp",
+      "sha256": "090ec15b6ffdca86969378fd9f0f29bc729e98ef4227c3c5b3820d91015f72ee",
+      "bytes": 98498,
+      "from": "7c9f page 2 — image studies"
+    },
+    {
+      "name": "03-stick-fragments.webp",
+      "sha256": "c10c1fba20747934b19b1f0182a9a75556a235a28cce46c452bbb1449ad61dfb",
+      "bytes": 26110,
+      "from": "7c9f page 2 — stick fragments"
+    },
+    {
+      "name": "04-plane-fragments.webp",
+      "sha256": "433a09f62928d8f9b01ecab40391d02b8b2d6b59437a46cc77768faa8a2fe8c9",
+      "bytes": 18408,
+      "from": "7c9f page 2 — plane fragments"
+    },
+    {
+      "name": "05-fragment-models.webp",
+      "sha256": "c001eea971106283efdb99660934a447d3fe41885adeeab7c18214e625937d13",
+      "bytes": 21072,
+      "from": "7c9f page 2 — fragment models"
+    },
+    {
+      "name": "06-collage-elevation.webp",
+      "sha256": "c6a35e898dbfe342f1960ce7e0cb5babe68c54f816537c018d98f7fc1263b831",
+      "bytes": 33754,
+      "from": "7c9f page 2 — collage elevation"
+    },
+    {
+      "name": "07-axonometric.webp",
+      "sha256": "f33a7ffe1e6a9b45ec1ae9c4f724a212e1eff2da6b8297137904117fd8c1537c",
+      "bytes": 23982,
+      "from": "7c9f page 3 — axonometric"
+    },
+    {
+      "name": "08-scale-models.webp",
+      "sha256": "cb5c2e01a6db1747c6b4a8a0c0bf39f1302994f6d6cf394271db1ef99a733990",
+      "bytes": 45470,
+      "from": "7c9f page 3 — scale models"
+    },
+    {
+      "name": "09-top-view.webp",
+      "sha256": "dd8ef29e33282a6fede1495953b5bddfefd20db648aba1b67b3d5416245e8281",
+      "bytes": 23728,
+      "from": "7c9f page 3 — top view"
+    },
+    {
+      "name": "10-lake-section.webp",
+      "sha256": "dbeb7cbde895fe12d544e032e6231b1d6cab34f8f75ea0b76ef1859fe5619955",
+      "bytes": 15714,
+      "from": "7c9f page 3 — lake section"
+    }
+  ]
+}
