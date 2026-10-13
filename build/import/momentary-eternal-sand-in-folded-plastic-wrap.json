@@ -1,0 +1,67 @@
+{
+  "project": "Momentary Eternal",
+  "dest": "assets/board/momentary-eternal-sand-in-folded-plastic-wrap",
+  "note": "Portfolio 72cd pages 9-10 cropped to 10 images, WebP q88 (PIL). Not used: photo of a child on a beach, photos of hands holding trays and models, hometown place name.",
+  "files": [
+    {
+      "name": "01-sand-and-wrap-units.webp",
+      "sha256": "cfa131371dfa68ade477b0b6c07a9a97fc259c8bb8437c7cebc1a20c19cc10dd",
+      "bytes": 52106,
+      "from": "72cd pages 9-10 — sand and plastic wrap units"
+    },
+    {
+      "name": "02-plaster-sand-cast.webp",
+      "sha256": "9661a1ef117c0ca7caeb15a0b69cc31d0d96c93244c95fc4a5fe71be5e9e13a6",
+      "bytes": 33232,
+      "from": "72cd pages 9-10 — a plaster and sand cast"
+    },
+    {
+      "name": "03-stacked-plaster-casts.webp",
+      "sha256": "b6376e32fa4894fdea6cac5d21469c45be46daf88bbb4d025adddc384f475b0e",
+      "bytes": 26098,
+      "from": "72cd pages 9-10 — stacked plaster casts"
+    },
+    {
+      "name": "04-epoxy-sand-studies.webp",
+      "sha256": "0d64b37727cb576c4c40fb2efffee717ac783b96a0ab00c11df354f0b752a392",
+      "bytes": 83010,
+      "from": "72cd pages 9-10 — sand with epoxy glue"
+    },
+    {
+      "name": "05-wire-supported-sand.webp",
+      "sha256": "03131208fdcdaaae9ccc9a366409fdabbd4826a228d8d65184e49effc8a74594",
+      "bytes": 68814,
+      "from": "72cd pages 9-10 — sand supported by iron wire"
+    },
+    {
+      "name": "06-sand-units-in-frame.webp",
+      "sha256": "cd99344b16f9ff2a00a3b5d1a8ec1238f179d3735653a2e65690e317315cb2d0",
+      "bytes": 69618,
+      "from": "72cd pages 9-10 — units hung in a wooden frame"
+    },
+    {
+      "name": "07-wrap-and-sand-close.webp",
+      "sha256": "e482186cd41ae2bf672ebb9ffda2f41243fc59e67734c201672bcd94ed10f58e",
+      "bytes": 129960,
+      "from": "72cd pages 9-10 — wrap and sand up close"
+    },
+    {
+      "name": "08-connected-units-a.webp",
+      "sha256": "eaa69ee75c125c43166d2fff14dffeaa9a0fea8e422d1c22bac0fd0f9b476e5a",
+      "bytes": 33574,
+      "from": "72cd pages 9-10 — connected units"
+    },
+    {
+      "name": "09-connected-units-b.webp",
+      "sha256": "ba864e4badfc2fbd03c1e6feefbaa947ef0c8732be37f4287b642feebf3d903f",
+      "bytes": 25072,
+      "from": "72cd pages 9-10 — the cluster from above"
+    },
+    {
+      "name": "10-units-in-balance.webp",
+      "sha256": "2b93d41430c35e6cad6ab1985ce81e4c6f16c6a8fe9dd509c72424d0831ffb30",
+      "bytes": 45922,
+      "from": "72cd pages 9-10 — units in balance"
+    }
+  ]
+}
