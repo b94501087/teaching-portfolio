@@ -1,0 +1,55 @@
+{
+  "project": "Branch and Cage Tower",
+  "dest": "assets/board/branch-and-cage-tower-on-a-stick-field",
+  "note": "Portfolio bcbf page 5 cropped to 8 images, WebP q88 (PIL).",
+  "files": [
+    {
+      "name": "01-branch-and-cage-tower.webp",
+      "sha256": "f68cf6c5bdd860e265a9da6520aca3f5490a84c4d8b48eb5bb7758104e2f729b",
+      "bytes": 216684,
+      "from": "bcbf page 5 — the branch and cage tower"
+    },
+    {
+      "name": "02-cages-and-branches.webp",
+      "sha256": "f0f9fae1b93e5c14e94d6ac993b51f106721a5019edfab5d146f05da4e978f93",
+      "bytes": 47252,
+      "from": "bcbf page 5 — cages and branches"
+    },
+    {
+      "name": "03-stick-base-close-up.webp",
+      "sha256": "be4de48df7f3c3072ff4aeb30f421427383812978feedd954fcdbbae7e900eac",
+      "bytes": 46932,
+      "from": "bcbf page 5 — the stick base close up"
+    },
+    {
+      "name": "04-stick-cluster.webp",
+      "sha256": "bd427e99c9aa612d25f908807ca21762b9ced0ed2f34363495bba0ea4b5ad4d0",
+      "bytes": 66500,
+      "from": "bcbf page 5 — the first stick cluster"
+    },
+    {
+      "name": "05-stick-bundles.webp",
+      "sha256": "3628b1207b5352fe0a2f50422a4a4b5901df6bb70b06eb4bb91f71f6a8bccf15",
+      "bytes": 29808,
+      "from": "bcbf page 5 — stick bundles"
+    },
+    {
+      "name": "06-stick-field.webp",
+      "sha256": "7e96fa6f79efd83c611d51c72dec4625f9f6645beba1e953f0b6e574ec78c5b1",
+      "bytes": 97910,
+      "from": "bcbf page 5 — the stick field"
+    },
+    {
+      "name": "07-line-drawing-tower.webp",
+      "sha256": "11ea75055b52239efc23186d5c7d27918729615aba281b0e1602d344b3287d29",
+      "bytes": 231036,
+      "from": "bcbf page 5 — a line drawing of the tower"
+    },
+    {
+      "name": "08-line-drawing-sphere.webp",
+      "sha256": "11abecb36c0027eea650c9acd617b7c9e91a5ebae323808f40d5be73a8c1621f",
+      "bytes": 206950,
+      "from": "bcbf page 5 — a line drawing of the cage and ring"
+    }
+  ]
+}
