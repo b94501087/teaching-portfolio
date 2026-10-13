@@ -1,0 +1,55 @@
+{
+  "project": "Green Charging Park",
+  "dest": "assets/board/green-charging-park-plant-powered-rooftop-garden",
+  "note": "Portfolio 0bc2 pages 5-6 cropped to eight images, WebP q88 (PIL). Not used: title and text, market charts, a reference diagram of plant power, a reference ramp diagram.",
+  "files": [
+    {
+      "name": "01-final-design.webp",
+      "sha256": "676ef3dabcc499fb9ae7c66c647d285c8e4ccf92d00dd1b9144c8f97d36d6067",
+      "bytes": 140250,
+      "from": "0bc2 page 6 — final design"
+    },
+    {
+      "name": "02-zone-sketch.webp",
+      "sha256": "b745909436de797bf4372ab285f2037d43ac10118a5bc561343e668084cf092a",
+      "bytes": 9736,
+      "from": "0bc2 page 5 — zone sketch"
+    },
+    {
+      "name": "03-stairs-sketch.webp",
+      "sha256": "f3917b345ae653c8349e0d55a2016ec19a5c7c11e19ed2b67ebb88823e490c44",
+      "bytes": 33618,
+      "from": "0bc2 page 5 — stairs sketch"
+    },
+    {
+      "name": "04-column-sketch.webp",
+      "sha256": "9a1cbbd816c7e8464020fb4ab8b4e1b1ae9a208db2114d2a31c9f3db8eb9962e",
+      "bytes": 5816,
+      "from": "0bc2 page 5 — column sketch"
+    },
+    {
+      "name": "05-long-section.webp",
+      "sha256": "494512fc6defe656f2ea20ab711019a73e88f5ee97011d919b6893ac1668d871",
+      "bytes": 30042,
+      "from": "0bc2 page 6 — long section"
+    },
+    {
+      "name": "06-night-power.webp",
+      "sha256": "281659d42278295ea2193516280dffea4e72a4d7af14b55d5348feefc737b611",
+      "bytes": 8832,
+      "from": "0bc2 page 6 — night power"
+    },
+    {
+      "name": "07-garden-terraces.webp",
+      "sha256": "1b273ab60141f304125454148f5e8ae9877b58e8ce1ed482e7c19423ba4c8f61",
+      "bytes": 43262,
+      "from": "0bc2 page 6 — garden terraces"
+    },
+    {
+      "name": "08-elevator-corner.webp",
+      "sha256": "7b96667085e1feffbfc0c76a4b056c7253ca4204371cbe045225f19487bcca6d",
+      "bytes": 34404,
+      "from": "0bc2 page 6 — elevator corner"
+    }
+  ]
+}
