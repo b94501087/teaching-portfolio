@@ -1,0 +1,61 @@
+{
+  "project": "Stages of Freedom",
+  "dest": "assets/board/stages-of-freedom-stick-tower-from-cage-to-flight",
+  "note": "Portfolio 5fd5 pages 10-11 cropped to nine images, WebP q88 (PIL). Retitled from a film-name heading. Not used: title and placeholder text, film poster and stills, photos of hands at work.",
+  "files": [
+    {
+      "name": "01-rising-tower.webp",
+      "sha256": "ae580529695e8fef47d1600ec530add96d6e5ea4ba4d35eea33b932c54f4e0ff",
+      "bytes": 243906,
+      "from": "5fd5 page 11 — rising tower"
+    },
+    {
+      "name": "02-stage-sketches.webp",
+      "sha256": "3390027737dbeb9ef7ac77cd57cebc7d1c3d6affda7358b3000a9a2b83313892",
+      "bytes": 88900,
+      "from": "5fd5 page 10 — stage sketches"
+    },
+    {
+      "name": "03-tower-on-base.webp",
+      "sha256": "fd988ce9e63f435e655bcf917efe30ac1d2c57f42c6fd8fae838c1641df0c633",
+      "bytes": 145450,
+      "from": "5fd5 page 10 — tower on base"
+    },
+    {
+      "name": "04-crystal-cubes.webp",
+      "sha256": "ec79b0d6ef9aaca3c01f84fa240af54f95eeadd407f00bc0572dd4977fca3144",
+      "bytes": 85420,
+      "from": "5fd5 page 11 — crystal cubes"
+    },
+    {
+      "name": "05-paper-wings.webp",
+      "sha256": "758d2d54fecb96ecd88893f4521a8bcf31edf3cff51bdbebfbd85fe5350635ec",
+      "bytes": 41496,
+      "from": "5fd5 page 11 — paper wings"
+    },
+    {
+      "name": "06-full-height.webp",
+      "sha256": "94bafac86a49077fbe05b4be186a6ecf02036530bc416a3a420000148c8235d1",
+      "bytes": 69820,
+      "from": "5fd5 page 11 — full height"
+    },
+    {
+      "name": "07-lower-frame.webp",
+      "sha256": "785893550cca74c9dc77110ebc089d96167e2987a64a11a6a88b33468eb08f90",
+      "bytes": 52384,
+      "from": "5fd5 page 11 — lower frame"
+    },
+    {
+      "name": "08-middle-levels.webp",
+      "sha256": "56bff782baa05972521c574dc21beeb87b7a2769fd013025faf996d7f6407148",
+      "bytes": 51970,
+      "from": "5fd5 page 11 — middle levels"
+    },
+    {
+      "name": "09-top-levels.webp",
+      "sha256": "d4d6bff7b075974914ede6880547b3e7e60fcb16f6a7e886ac96270dddab6c26",
+      "bytes": 33232,
+      "from": "5fd5 page 11 — top levels"
+    }
+  ]
+}
