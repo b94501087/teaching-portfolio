@@ -1,0 +1,55 @@
+{
+  "project": "Maze of Sixty Cycles",
+  "dest": "assets/board/maze-of-sixty-cycles-white-card-radial-labyrinth",
+  "note": "Portfolio 222e pages 2-3 cropped to 8 images, WebP q88 (PIL). Not used: photo of the student working on the model, caption with title, dimensions and date, text panels.",
+  "files": [
+    {
+      "name": "01-radial-maze-final.webp",
+      "sha256": "6d128dd8d736f1f8a1e0dea598656c328712cfbcb1e2fb7d8e20c39683c87aae",
+      "bytes": 102888,
+      "from": "222e pages 2-3 — the radial maze in its final display"
+    },
+    {
+      "name": "02-cycle-diagram-sketch.webp",
+      "sha256": "238adb78de79fcc1217ea719b0e21ca2f9c8d78d618c8c546f863a6433cf234a",
+      "bytes": 52824,
+      "from": "222e pages 2-3 — a diagram of the sixty-sign cycle"
+    },
+    {
+      "name": "03-concentric-maze-drawings.webp",
+      "sha256": "f210877c8d4c703858cf847a6bcf12fa01dc0e05dab12382389b8209223aa5b2",
+      "bytes": 120542,
+      "from": "222e pages 2-3 — two concentric maze drawings"
+    },
+    {
+      "name": "04-primary-maze-plate.webp",
+      "sha256": "a9824707b606c4815f50711f3adb105a5552cf5d513dfe25935aceb008a077d6",
+      "bytes": 28874,
+      "from": "222e pages 2-3 — the primary maze plate"
+    },
+    {
+      "name": "05-primary-maze-views.webp",
+      "sha256": "493c2d20eb3bcec503a8b622a365b82053dcc701b46bfb00755ab6a4cc8f30df",
+      "bytes": 88444,
+      "from": "222e pages 2-3 — views of the primary maze"
+    },
+    {
+      "name": "06-upward-maze-close.webp",
+      "sha256": "b1ff9e45aafd9ea26b4e463e3cb2a95118c7d1f64c43de10f53da459ec1cfdcc",
+      "bytes": 161402,
+      "from": "222e pages 2-3 — the upward maze in close view"
+    },
+    {
+      "name": "07-white-card-development.webp",
+      "sha256": "ddddf67b2357d32171db505ff1248723e69752d08166aa8d23d2cf1956b3f754",
+      "bytes": 73936,
+      "from": "222e pages 2-3 — the white card development model"
+    },
+    {
+      "name": "08-maze-from-below.webp",
+      "sha256": "439e37f5938b1ee3111144a8ea00c12bdb65eca808fe6d23162a484deb92535b",
+      "bytes": 76608,
+      "from": "222e pages 2-3 — the maze seen from below"
+    }
+  ]
+}
