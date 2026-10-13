@@ -1,0 +1,61 @@
+{
+  "project": "Twisted Chessboard",
+  "dest": "assets/board/twisted-chessboard-ceramic-relief-and-glazed-pieces",
+  "note": "Portfolio 0bc2 page 13 cropped to nine images, WebP q88 (PIL). Not used: title and text, the name of the novel and its characters, the story summary.",
+  "files": [
+    {
+      "name": "01-finished-chessboard.webp",
+      "sha256": "847a53b56282b6f37215cfc0f5f07477b1260540f97d5ee8ac84684d777ba32b",
+      "bytes": 45738,
+      "from": "0bc2 page 13 — finished chessboard"
+    },
+    {
+      "name": "02-colour-study.webp",
+      "sha256": "8d365cbae2d6484f59bb4a5ee2f821a729096dea16c870ca6c287bd62d9d2536",
+      "bytes": 12336,
+      "from": "0bc2 page 13 — colour study"
+    },
+    {
+      "name": "03-sketch.webp",
+      "sha256": "c8fb005426538fbd62756467062b89dcb1362839fea0c865ac442e7dc2f79548",
+      "bytes": 32752,
+      "from": "0bc2 page 13 — sketch"
+    },
+    {
+      "name": "04-carved-relief.webp",
+      "sha256": "eac9239c0a35331480405ac994a960961b0d584937cb7a8be089a8dce3a4f091",
+      "bytes": 8848,
+      "from": "0bc2 page 13 — carved relief"
+    },
+    {
+      "name": "05-underglaze.webp",
+      "sha256": "8eba0879c5331d4550150395e2008d3d3ce2e31554388ffb8b9189843d9f1a24",
+      "bytes": 8480,
+      "from": "0bc2 page 13 — underglaze"
+    },
+    {
+      "name": "06-coloured-squares.webp",
+      "sha256": "c113de224afb9bf836f9a051ede371e1aa6b839f22249dcf006f1fb614a4a101",
+      "bytes": 10062,
+      "from": "0bc2 page 13 — coloured squares"
+    },
+    {
+      "name": "07-plain-pieces.webp",
+      "sha256": "145098602901401a744f967c4fc20812436f593c26855a684bb1aa0f6d4faf09",
+      "bytes": 7320,
+      "from": "0bc2 page 13 — plain pieces"
+    },
+    {
+      "name": "08-sculpted-piece.webp",
+      "sha256": "ed3376437321a142dc18ecc21452a2fe0d89254438cb9052a1cd2b2b30a61583",
+      "bytes": 10788,
+      "from": "0bc2 page 13 — sculpted piece"
+    },
+    {
+      "name": "09-before-glaze.webp",
+      "sha256": "75691d508f74b063fa4aa4c600cb6965b7e1f51201f106be4ff7e1944d5f2a58",
+      "bytes": 8438,
+      "from": "0bc2 page 13 — before glaze"
+    }
+  ]
+}
