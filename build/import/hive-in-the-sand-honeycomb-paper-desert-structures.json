@@ -1,0 +1,67 @@
+{
+  "project": "Hive in the Sand",
+  "dest": "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures",
+  "note": "Portfolio 47e5 pages 14-15 cropped to ten images, WebP q88 (PIL). Not used: title and text, images of an artist's work and the artist's name, photos showing hands, a family detail.",
+  "files": [
+    {
+      "name": "01-final-sphere.webp",
+      "sha256": "173ddd87f0ce9b2ae98ad0f18b0f65ad87a7810b216b661d110f8be77d1e4ada",
+      "bytes": 157924,
+      "from": "47e5 page 14 — final sphere"
+    },
+    {
+      "name": "02-base-sphere.webp",
+      "sha256": "76f2527bbaf39059e9f38b2caf1e7291106ed9f1f19f9caf92b4cd2ff196e63a",
+      "bytes": 11434,
+      "from": "47e5 page 14 — base sphere"
+    },
+    {
+      "name": "03-first-cones.webp",
+      "sha256": "3f507a4d360436a6327e6c5d144db7cda314d963deeed3a3d63014ba08049819",
+      "bytes": 21944,
+      "from": "47e5 page 14 — first cones"
+    },
+    {
+      "name": "04-dense-surface.webp",
+      "sha256": "c3b3d3d161c027ad36abd7c3495266e246d30d33fbb2538d912abbaa7262a23c",
+      "bytes": 26126,
+      "from": "47e5 page 14 — dense surface"
+    },
+    {
+      "name": "05-pattern-detail.webp",
+      "sha256": "39dab025f99cc93186a8aaab743b3f3c5fd7eb065d1df13a3ea3518a8a92421c",
+      "bytes": 36262,
+      "from": "47e5 page 14 — pattern detail"
+    },
+    {
+      "name": "06-paper-towers.webp",
+      "sha256": "693d5d8bb5baa39668442cde07bc0ad32cbef5e83aea55217d24d554847a8b4b",
+      "bytes": 12346,
+      "from": "47e5 page 15 — paper towers"
+    },
+    {
+      "name": "07-desert-facility.webp",
+      "sha256": "46a9b4d1b7f44e11ab67e7faec07eb2e1a3af84975c150fa5bfb8904292af869",
+      "bytes": 63650,
+      "from": "47e5 page 15 — desert facility"
+    },
+    {
+      "name": "08-animal-shelter.webp",
+      "sha256": "04908e720f05da448179cb34c440fbe05a47a4d299d1b5363c22304754765987",
+      "bytes": 50378,
+      "from": "47e5 page 15 — animal shelter"
+    },
+    {
+      "name": "09-hive-wall.webp",
+      "sha256": "e2fcfa10ff010c63c30e1c800c7dec66c93250b4a64dc295dc6e7a4d735a4d5f",
+      "bytes": 61092,
+      "from": "47e5 page 15 — hive wall"
+    },
+    {
+      "name": "10-marker-view.webp",
+      "sha256": "ed46a254400fdea3c02689fa9387e0b64c3fbd35236f21297cb1a710ea35de49",
+      "bytes": 106078,
+      "from": "47e5 page 15 — marker view"
+    }
+  ]
+}
