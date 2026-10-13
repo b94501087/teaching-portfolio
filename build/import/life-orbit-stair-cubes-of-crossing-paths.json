@@ -1,0 +1,43 @@
+{
+  "project": "Life Orbit",
+  "dest": "assets/board/life-orbit-stair-cubes-of-crossing-paths",
+  "note": "Portfolio 222e pages 6-8 cropped to 6 images, WebP q88 (PIL). Not used: film poster and stills, hand process photos, photo of students with the model, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-final-stair-cubes.webp",
+      "sha256": "0de538c044af9651fbc55188abc4aa03774f86a495540b134fd852757f2ccafe",
+      "bytes": 269916,
+      "from": "222e pages 6-8 — the stair cubes in their final display"
+    },
+    {
+      "name": "02-primary-model-grid.webp",
+      "sha256": "18fd494fb00f6a0c34a0747074af796d726d53a4efd1e064240208b0e1885565",
+      "bytes": 97110,
+      "from": "222e pages 6-8 — the primary model of twelve cubes"
+    },
+    {
+      "name": "03-interior-view-blue.webp",
+      "sha256": "fcdc86293512b99305d61965ac1919bf7441b46566c8e533d41a3832db8a8f1d",
+      "bytes": 120714,
+      "from": "222e pages 6-8 — an interior view of the stairs"
+    },
+    {
+      "name": "04-single-cube-study.webp",
+      "sha256": "e8dde7ff928fa25371ea6a86da9d29c7fe6848dc2031b9b46dc7b3652c2949a2",
+      "bytes": 29042,
+      "from": "222e pages 6-8 — a single cube study"
+    },
+    {
+      "name": "05-cube-variations.webp",
+      "sha256": "254da9c729238e33973b57202132bb69689b32ae2c86c42a62d5b10d47aa8d8f",
+      "bytes": 101252,
+      "from": "222e pages 6-8 — variations of the stair cubes"
+    },
+    {
+      "name": "06-interior-view-climbing.webp",
+      "sha256": "bfdc6048c9687e92a128e9f8eda6693912c5e08cb189765b12bc7bc73b826fb0",
+      "bytes": 101538,
+      "from": "222e pages 6-8 — a climbing view inside the cubes"
+    }
+  ]
+}
