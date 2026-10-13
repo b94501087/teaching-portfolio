@@ -1,0 +1,67 @@
+{
+  "project": "Wilderness & Urbanization",
+  "dest": "assets/board/wilderness-and-urbanization-sound-wave-city-model",
+  "note": "Portfolio b2e2 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, a book cover, a collage with a portrait of a writer.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "71776579781defcd519b6503d275e9ac6103b322665d74e24e153b6df1c3282c",
+      "bytes": 102894,
+      "from": "b2e2 page 3 — final model"
+    },
+    {
+      "name": "02-contour-map.webp",
+      "sha256": "5578a29e9029ce3072e0b7ef12fdd764aaaf5502be068c7826b083da8b35d872",
+      "bytes": 53514,
+      "from": "b2e2 page 2 — contour map"
+    },
+    {
+      "name": "03-sound-waves.webp",
+      "sha256": "f8dc4358455af694aed8032fdb4d16262d01a96d638251540a79e77529f5df20",
+      "bytes": 14118,
+      "from": "b2e2 page 2 — sound waves"
+    },
+    {
+      "name": "04-frame-layers.webp",
+      "sha256": "fec66fdb976c3346afce05a259dc659be1074d0585cd2854ccf3bbe93cfa00cc",
+      "bytes": 28326,
+      "from": "b2e2 page 2 — frame layers"
+    },
+    {
+      "name": "05-strip-process.webp",
+      "sha256": "560c29264443618473d1ba78a78184aa81a321c2644b258c2518a126a0a8d8eb",
+      "bytes": 25806,
+      "from": "b2e2 page 2 — strip process"
+    },
+    {
+      "name": "06-top-process.webp",
+      "sha256": "29ded21b0e593c2c5e5e0287f2276609754d8aca01b66835618942b2092e6ad6",
+      "bytes": 29436,
+      "from": "b2e2 page 2 — top process"
+    },
+    {
+      "name": "07-digital-model.webp",
+      "sha256": "545e375e2cf0afd52dd3a4574580fd91cb178f23fd521f491ec9433a569af689",
+      "bytes": 26838,
+      "from": "b2e2 page 2 — digital model"
+    },
+    {
+      "name": "08-aerial-view.webp",
+      "sha256": "ab3d5d5bebc82160a6659b0c3d8f69053728ea2d5102aa37e9f61f3930fddbff",
+      "bytes": 20130,
+      "from": "b2e2 page 3 — aerial view"
+    },
+    {
+      "name": "09-low-view.webp",
+      "sha256": "f1efd1a6c6fdb0e95bf517e1a43d37c2cb568c4aa865c80da258456fe5b48a33",
+      "bytes": 16526,
+      "from": "b2e2 page 3 — low view"
+    },
+    {
+      "name": "10-side-view.webp",
+      "sha256": "e60020e9ef946790fece47f00b729fa5da9e6765b4d9be4b1e0ce49ebd0cfdbc",
+      "bytes": 47780,
+      "from": "b2e2 page 3 — side view"
+    }
+  ]
+}
