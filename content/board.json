@@ -73956,6 +73956,426 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Coffee-Ground Air Cleaner",
+      "slug": "coffee-ground-air-cleaner-mesh-tower",
+      "description": "Used coffee grounds glued to old wire mesh and fixed with scrap screws build a small deodorising tower on a stick frame.\n\nModel | Waste material study | Coffee grounds, wood, metal | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "咖啡渣空氣清淨器",
+          "description": "把用過的咖啡渣黏在舊鐵絲網上，以回收螺絲固定，搭在木條框架上成為一座小型除臭塔。\n\n模型｜廢料研究｜咖啡渣、木材、金屬｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/coffee-ground-air-cleaner-mesh-tower/01-coffee-mesh-tower.webp",
+        "assets/board/coffee-ground-air-cleaner-mesh-tower/02-tower-in-daylight.webp",
+        "assets/board/coffee-ground-air-cleaner-mesh-tower/03-tower-from-the-side.webp",
+        "assets/board/coffee-ground-air-cleaner-mesh-tower/04-mesh-on-a-stick-frame.webp",
+        "assets/board/coffee-ground-air-cleaner-mesh-tower/05-twisted-mesh-test.webp",
+        "assets/board/coffee-ground-air-cleaner-mesh-tower/06-curled-coffee-sheet.webp",
+        "assets/board/coffee-ground-air-cleaner-mesh-tower/07-coffee-tiles-with-screws.webp",
+        "assets/board/coffee-ground-air-cleaner-mesh-tower/08-coffee-shapes-on-paper.webp",
+        "assets/board/coffee-ground-air-cleaner-mesh-tower/09-first-coffee-tiles.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/coffee-ground-air-cleaner-mesh-tower/01-coffee-mesh-tower.webp"
+          ],
+          "captions": [
+            "The coffee mesh tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "咖啡渣網塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student noticed that daily waste, like street snacks, changes with what it is made of. The project tests what used coffee grounds and scraps can become.",
+          "images": [
+            "assets/board/coffee-ground-air-cleaner-mesh-tower/09-first-coffee-tiles.webp"
+          ],
+          "captions": [
+            "First coffee tiles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生發現日常廢物就像街頭小吃一樣，會因材料而不同。這個專題測試用過的咖啡渣與廢料能變成什麼。",
+              "captions": [
+                "最初的咖啡渣方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Coffee grounds were glued onto different wrapping papers and old mesh. Screws and nuts from a scrap yard held the pieces.",
+          "images": [
+            "assets/board/coffee-ground-air-cleaner-mesh-tower/08-coffee-shapes-on-paper.webp",
+            "assets/board/coffee-ground-air-cleaner-mesh-tower/07-coffee-tiles-with-screws.webp"
+          ],
+          "captions": [
+            "Coffee shapes on paper.",
+            "Coffee tiles with screws."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "咖啡渣被黏在不同的包裝紙與舊網上。來自廢料場的螺絲與螺帽固定這些構件。",
+              "captions": [
+                "紙上的咖啡渣形狀。",
+                "以螺絲固定的咖啡渣方塊。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "The screws alone could not hold a large sheet of mesh. Wood strips were added to brace the nets and link them.",
+          "images": [
+            "assets/board/coffee-ground-air-cleaner-mesh-tower/06-curled-coffee-sheet.webp",
+            "assets/board/coffee-ground-air-cleaner-mesh-tower/04-mesh-on-a-stick-frame.webp",
+            "assets/board/coffee-ground-air-cleaner-mesh-tower/05-twisted-mesh-test.webp"
+          ],
+          "captions": [
+            "A curled coffee sheet.",
+            "Mesh on a stick frame.",
+            "A twisted mesh test."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "單靠螺絲撐不住大片鐵絲網。學生加上木條來支撐並連結這些網。",
+              "captions": [
+                "捲曲的咖啡渣片。",
+                "木條框架上的網。",
+                "扭轉的網試驗。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 600 mm tall tower stacks mesh boxes in a light stick frame. The coffee grounds help soak up odours in the air.",
+          "images": [
+            "assets/board/coffee-ground-air-cleaner-mesh-tower/02-tower-in-daylight.webp",
+            "assets/board/coffee-ground-air-cleaner-mesh-tower/03-tower-from-the-side.webp"
+          ],
+          "captions": [
+            "The tower in daylight.",
+            "The tower from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這座600毫米高的塔在輕巧的木條框架中堆疊網箱。咖啡渣有助吸附空氣中的異味。",
+              "captions": [
+                "日光下的塔。",
+                "側看塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Collect waste from daily life.\n2. Test how each piece holds.\n3. Add a frame where it fails.\n4. Give the waste a new use.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 收集日常生活的廢物。\n2. 測試每種材料的強度。\n3. 在撐不住處加上框架。\n4. 賦予廢物新的用途。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Protecting Wild Habitats",
+      "slug": "protecting-wild-habitats-grass-and-wire-cage",
+      "description": "A field of white grass grows inside a wire factory outline, showing how industry slowly takes over land that wild animals need.\n\nModel and sketches | Habitat study | Wood, plastic, metal | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "守護野生棲地",
+          "description": "一片白色草原在鐵絲工廠輪廓內生長，呈現工業如何逐漸佔據野生動物所需的土地。\n\n模型與草圖｜棲地研究｜木材、塑膠、金屬｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/protecting-wild-habitats-grass-and-wire-cage/01-grass-field-in-a-wire-cage.webp",
+        "assets/board/protecting-wild-habitats-grass-and-wire-cage/02-field-from-above.webp",
+        "assets/board/protecting-wild-habitats-grass-and-wire-cage/03-tall-grass-close-up.webp",
+        "assets/board/protecting-wild-habitats-grass-and-wire-cage/04-wire-walls-and-grass.webp",
+        "assets/board/protecting-wild-habitats-grass-and-wire-cage/05-box-sketch.webp",
+        "assets/board/protecting-wild-habitats-grass-and-wire-cage/06-fenced-boxes-sketch.webp",
+        "assets/board/protecting-wild-habitats-grass-and-wire-cage/07-stepped-boxes-sketch.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/protecting-wild-habitats-grass-and-wire-cage/01-grass-field-in-a-wire-cage.webp"
+          ],
+          "captions": [
+            "A grass field in a wire cage."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "鐵絲籠中的草原。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "A group study looked at how oil drilling in a cold northern region harms wild animals. The project asks how industry and nature can be balanced.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "一項小組研究探討了北方寒冷地區的石油開採如何傷害野生動物。這個專題探問，工業與自然如何取得平衡。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Many animals there lose their homes as drilling spreads. The harm comes slowly, not in one day or one year.",
+          "images": [
+            "assets/board/protecting-wild-habitats-grass-and-wire-cage/05-box-sketch.webp"
+          ],
+          "captions": [
+            "A box sketch."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "隨著開採擴張，當地許多動物失去家園。這種傷害是緩慢累積的，並非一天或一年造成。",
+              "captions": [
+                "方盒草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Sketches set boxes in rows behind fences and steps. A wire outline on one side stands for the factory.",
+          "images": [
+            "assets/board/protecting-wild-habitats-grass-and-wire-cage/06-fenced-boxes-sketch.webp",
+            "assets/board/protecting-wild-habitats-grass-and-wire-cage/07-stepped-boxes-sketch.webp"
+          ],
+          "captions": [
+            "Fenced boxes.",
+            "Stepped boxes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "草圖把方盒排在圍欄與階梯之後。一側的鐵絲輪廓代表工廠。",
+              "captions": [
+                "圍起的方盒。",
+                "階梯狀方盒。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 420 mm long model puts tall grass inside and around the wire walls. Bare patches show land with no life left.",
+          "images": [
+            "assets/board/protecting-wild-habitats-grass-and-wire-cage/02-field-from-above.webp",
+            "assets/board/protecting-wild-habitats-grass-and-wire-cage/03-tall-grass-close-up.webp",
+            "assets/board/protecting-wild-habitats-grass-and-wire-cage/04-wire-walls-and-grass.webp"
+          ],
+          "captions": [
+            "The field from above.",
+            "Tall grass close up.",
+            "Wire walls and grass."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個420毫米長的模型在鐵絲牆內外種滿高草。裸露的區塊表示失去生命的土地。",
+              "captions": [
+                "俯看草原。",
+                "高草近觀。",
+                "鐵絲牆與草。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a real issue in nature.\n2. Find what is being lost.\n3. Pick materials for each side.\n4. Let the model show the balance.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從自然中的真實議題出發。\n2. 找出正在失去的東西。\n3. 為每一方選擇材料。\n4. 讓模型呈現平衡。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Self-Rotation",
+      "slug": "self-rotation-twisting-cube-surfaces",
+      "description": "A cube is twisted until its faces curl into soft ribbons, studied in renders, rotation drawings and an acrylic model.\n\nRenders, drawings and model | Form study | Acrylic | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "自轉",
+          "description": "一個立方體被扭轉，直到各面捲成柔軟的緞帶，並以算圖、旋轉繪圖與壓克力模型研究。\n\n算圖、繪圖與模型｜形態研究｜壓克力｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/self-rotation-twisting-cube-surfaces/01-twisting-surface-render.webp",
+        "assets/board/self-rotation-twisting-cube-surfaces/02-surface-render-b.webp",
+        "assets/board/self-rotation-twisting-cube-surfaces/03-rotation-drawing.webp",
+        "assets/board/self-rotation-twisting-cube-surfaces/04-detail-rotation-drawing.webp",
+        "assets/board/self-rotation-twisting-cube-surfaces/05-detail-render.webp",
+        "assets/board/self-rotation-twisting-cube-surfaces/06-unrolled-elevation.webp",
+        "assets/board/self-rotation-twisting-cube-surfaces/07-line-surface-render.webp",
+        "assets/board/self-rotation-twisting-cube-surfaces/08-acrylic-fan-model.webp",
+        "assets/board/self-rotation-twisting-cube-surfaces/09-acrylic-fan-close-up.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/self-rotation-twisting-cube-surfaces/01-twisting-surface-render.webp"
+          ],
+          "captions": [
+            "The twisting surface."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "扭轉的曲面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The project starts from twisting a cube. It asks how a hard square form can turn into soft curves.",
+          "images": [
+            "assets/board/self-rotation-twisting-cube-surfaces/02-surface-render-b.webp"
+          ],
+          "captions": [
+            "Another view."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "這個專題從扭轉一個立方體出發。它探問，堅硬的方形如何轉為柔軟的曲線。",
+              "captions": [
+                "另一個視角。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "Rotating the cube recalled an old idea that the sky is round and the land is square. Drawings tracked how each face turns.",
+          "images": [
+            "assets/board/self-rotation-twisting-cube-surfaces/03-rotation-drawing.webp",
+            "assets/board/self-rotation-twisting-cube-surfaces/04-detail-rotation-drawing.webp"
+          ],
+          "captions": [
+            "A rotation drawing.",
+            "A detail rotation drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "旋轉立方體讓學生想起天圓地方的古老觀念。繪圖記錄了每一面如何轉動。",
+              "captions": [
+                "旋轉繪圖。",
+                "細部旋轉繪圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each part was moved apart and set in a new place. This made the gap between sharp angles and soft faces bigger.",
+          "images": [
+            "assets/board/self-rotation-twisting-cube-surfaces/05-detail-render.webp",
+            "assets/board/self-rotation-twisting-cube-surfaces/06-unrolled-elevation.webp",
+            "assets/board/self-rotation-twisting-cube-surfaces/07-line-surface-render.webp"
+          ],
+          "captions": [
+            "A detail render.",
+            "The unrolled elevation.",
+            "A line surface render."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每個部分被拉開並重新排列位置。這放大了尖角與柔面之間的差異。",
+              "captions": [
+                "細部算圖。",
+                "展開立面。",
+                "線構曲面算圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 900 mm long study ends in a clear acrylic model. Thin fins fan out like a turning surface.",
+          "images": [
+            "assets/board/self-rotation-twisting-cube-surfaces/08-acrylic-fan-model.webp",
+            "assets/board/self-rotation-twisting-cube-surfaces/09-acrylic-fan-close-up.webp"
+          ],
+          "captions": [
+            "The acrylic fan model.",
+            "The acrylic fan close up."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個900毫米長的研究以透明壓克力模型作結。細薄的鰭片如轉動的曲面般展開。",
+              "captions": [
+                "壓克力扇形模型。",
+                "壓克力扇形近觀。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Start from a simple solid.\n2. Twist it step by step.\n3. Draw each step.\n4. Build the most telling one.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 從簡單的實體出發。\n2. 一步步扭轉它。\n3. 畫下每一步。\n4. 做出最有說服力的一步。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
