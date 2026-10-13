@@ -1,0 +1,67 @@
+{
+  "project": "Ascending Realms",
+  "dest": "assets/board/ascending-realms-layered-game-world-timber-tower",
+  "note": "Portfolio 4da0 pages 4-5 cropped to ten images, WebP q88 (PIL). Not used: title and text, the game's name, a process photo with a hand.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "35a2bcb7c518528969150b54547290ee7dd86a738c7282eba9cbda709400f51d",
+      "bytes": 61044,
+      "from": "4da0 page 5 — final tower"
+    },
+    {
+      "name": "02-game-collage.webp",
+      "sha256": "4048d62b655af2ba1fd81e172b2b7be27beb53b6f474612fb7f075b66a99b448",
+      "bytes": 61024,
+      "from": "4da0 page 4 — game collage"
+    },
+    {
+      "name": "03-digital-blocks.webp",
+      "sha256": "8c89ea0a3d8db1874ba0c8bf3034c480a88572bc587a5ecbaae9397e0327de84",
+      "bytes": 19008,
+      "from": "4da0 page 4 — digital blocks"
+    },
+    {
+      "name": "04-print-file.webp",
+      "sha256": "fcf18e4fcee2f17aca5c61c569932f21aad6e17ffc088ee0cc8ed1243428600a",
+      "bytes": 11428,
+      "from": "4da0 page 4 — print file"
+    },
+    {
+      "name": "05-block-studies.webp",
+      "sha256": "8cc5cf4f76ab97461524a7f95b856f03be6bdf306bdb0c78d5a9929b09499f45",
+      "bytes": 13870,
+      "from": "4da0 page 4 — block studies"
+    },
+    {
+      "name": "06-timber-stairs.webp",
+      "sha256": "20b6816bc399ed36bf0f748a3f613b1e73bf2c830823a83586ff74a10ee222cd",
+      "bytes": 34268,
+      "from": "4da0 page 4 — timber stairs"
+    },
+    {
+      "name": "07-angled-view.webp",
+      "sha256": "6d2763dd28367db6d77d56146137838c52d950fd97bffc284c6ce92bb2b158ca",
+      "bytes": 54796,
+      "from": "4da0 page 4 — angled view"
+    },
+    {
+      "name": "08-full-model.webp",
+      "sha256": "76f1f64e32d6ab4991464cb93e0f076251e61bc821c44f93818d8025fea8d869",
+      "bytes": 40382,
+      "from": "4da0 page 5 — full model"
+    },
+    {
+      "name": "09-top-view.webp",
+      "sha256": "87b8bac4d6f58ec6ab578b84293f839d793059e228964b1950df776077ab5c67",
+      "bytes": 11028,
+      "from": "4da0 page 5 — top view"
+    },
+    {
+      "name": "10-deck-detail.webp",
+      "sha256": "00c521fbc97cdfd4c75c60646bc834d276daedecaa5e8e0579ffb1ec0629eece",
+      "bytes": 19682,
+      "from": "4da0 page 5 — deck detail"
+    }
+  ]
+}
