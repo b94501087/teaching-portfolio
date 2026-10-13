@@ -1,0 +1,61 @@
+{
+  "project": "Tower of Echoes",
+  "dest": "assets/board/tower-of-echoes-white-card-spire-with-red-paths",
+  "note": "Portfolio cfd7 pages 4-5 cropped to nine images, WebP q88 (PIL). Not used: title and text, photos of real campus buildings, the school name, a process photo with a person.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "873be820f1135a23eda3bcb86a7af6160cee6b053d1ff761790c5e881f470da1",
+      "bytes": 93174,
+      "from": "cfd7 page 5 — tower model"
+    },
+    {
+      "name": "02-stipple-drawing.webp",
+      "sha256": "9017615ac7be63cc719a196cf35f4e74261db0fddac3eeb8cde52ee14ceb753e",
+      "bytes": 82780,
+      "from": "cfd7 page 4 — stipple drawing"
+    },
+    {
+      "name": "03-process-base.webp",
+      "sha256": "79f39252a602091a952d89f9c8bf1af8479020e729ca52ee0ef8844574fe9062",
+      "bytes": 19298,
+      "from": "cfd7 page 4 — process base"
+    },
+    {
+      "name": "04-process-levels.webp",
+      "sha256": "d0254715760727e6bfe5a4e17db2219912f90762396e0c8f10ade9241f5ac61f",
+      "bytes": 15634,
+      "from": "cfd7 page 4 — process levels"
+    },
+    {
+      "name": "05-model-dark.webp",
+      "sha256": "1dc3a9bc13868099fe2f4b49f315a26f0ba9866688aa200717c3de1e9137a528",
+      "bytes": 46672,
+      "from": "cfd7 page 4 — model dark"
+    },
+    {
+      "name": "06-arched-doors.webp",
+      "sha256": "fce0993d82b24f2277ab2bdcbab11b4ead996734fbf295463e0a1aad7a988de3",
+      "bytes": 18286,
+      "from": "cfd7 page 5 — arched doors"
+    },
+    {
+      "name": "07-red-ramps.webp",
+      "sha256": "bb45afa65f550fe5aabf26aa7a09a02c5aaa129d312e2cb959508e701f7bf31a",
+      "bytes": 15048,
+      "from": "cfd7 page 5 — red ramps"
+    },
+    {
+      "name": "08-gable-walls.webp",
+      "sha256": "108410345718d3d4624414a9d2be6c0c946a3c1dd5d734c391bfbdd548d4ae44",
+      "bytes": 21498,
+      "from": "cfd7 page 5 — gable walls"
+    },
+    {
+      "name": "09-small-chapel.webp",
+      "sha256": "7d5b588fac3cc17a71791d77cd729b9c5e119c478b1407f316e49d63d857f081",
+      "bytes": 20092,
+      "from": "cfd7 page 5 — small chapel"
+    }
+  ]
+}
