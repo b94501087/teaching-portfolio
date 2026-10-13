@@ -1,0 +1,55 @@
+{
+  "project": "The Source of Purity",
+  "dest": "assets/board/source-of-purity-clay-cube-ocean-series",
+  "note": "Portfolio 0bc2 page 12 cropped to eight images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-three-cubes.webp",
+      "sha256": "a7e3cd094e476b204bd2955676fbb4c9856768ebbaba0105e73805178be28dc9",
+      "bytes": 47028,
+      "from": "0bc2 page 12 — three cubes"
+    },
+    {
+      "name": "02-pure-cube.webp",
+      "sha256": "3e9e42067700b8e60fa166eda37181c0bea49f07024772777d2ed136c63e2c5a",
+      "bytes": 8542,
+      "from": "0bc2 page 12 — pure cube"
+    },
+    {
+      "name": "03-scrambled-cube.webp",
+      "sha256": "e1de8f28e826ed2717587491d1c300241cc422b438810ac91ee17bb298db3e3f",
+      "bytes": 16478,
+      "from": "0bc2 page 12 — scrambled cube"
+    },
+    {
+      "name": "04-broken-cube.webp",
+      "sha256": "2032fa162181acebc97efbf8a5e6ec3a25151895a3f170e14d6bdacc4e06a111",
+      "bytes": 14752,
+      "from": "0bc2 page 12 — broken cube"
+    },
+    {
+      "name": "05-clay-surface.webp",
+      "sha256": "b281bdd8e08c866081edf769a3a9aab5bca96d234f20b7c79eb061ba2cafb251",
+      "bytes": 5866,
+      "from": "0bc2 page 12 — clay surface"
+    },
+    {
+      "name": "06-foam-waves.webp",
+      "sha256": "cdb777871c688cb00baed13c5178fe0bd275ff73327a1c97178403d50aa4b875",
+      "bytes": 8500,
+      "from": "0bc2 page 12 — foam waves"
+    },
+    {
+      "name": "07-green-blocks.webp",
+      "sha256": "c2b36e6e315df2a444d71a6eb2127be54db1f36bf98415a78298a124fca6cac6",
+      "bytes": 9588,
+      "from": "0bc2 page 12 — green blocks"
+    },
+    {
+      "name": "08-cotton-falls.webp",
+      "sha256": "7542a69dbf0d5a661a913c79d909c154f86e4aa6369c8974f4c5b9619dee8690",
+      "bytes": 11414,
+      "from": "0bc2 page 12 — cotton falls"
+    }
+  ]
+}
