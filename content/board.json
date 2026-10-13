@@ -67536,6 +67536,422 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Accessible Recreation Campus",
+      "slug": "accessible-recreation-campus-red-ramps-and-stick-frames",
+      "description": "Red ramps twist through a frame of wooden sticks to link small recreation rooms that older people can reach.\n\nModel and drawings | Accessibility study | PVC board, wooden sticks, tracing paper, laser-cut wood | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "無障礙休閒園區",
+          "description": "紅色坡道在木條框架間迂迴穿行，串起長者也能抵達的小型休閒空間。\n\n模型與繪圖｜無障礙研究｜PVC板、木條、描圖紙、雷射切割木料｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/01-ramp-model.webp",
+        "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/02-truss-and-ramp.webp",
+        "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/03-ramp-detail.webp",
+        "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/04-section-sketch.webp",
+        "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/05-red-ramp-tower.webp",
+        "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/06-stick-screen-study.webp",
+        "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/07-plan-and-mind-map.webp",
+        "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/08-courtyard-perspective.webp",
+        "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/09-deck-perspective.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/01-ramp-model.webp"
+          ],
+          "captions": [
+            "Red ramps winding through the model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "紅色坡道在模型中迂迴。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student saw that older neighbours struggled with stairs and that the rooms they met in were too small. The project asks how a campus could make every recreation space easy to reach.",
+          "images": [
+            "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/04-section-sketch.webp",
+            "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/07-plan-and-mind-map.webp"
+          ],
+          "captions": [
+            "A section sketch of ramps and rooms.",
+            "Top-view plan and idea map."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生觀察到年長鄰居上下樓梯很吃力，聚會的房間也太小。這個專題探問，園區如何讓每個休閒空間都容易抵達。",
+              "captions": [
+                "坡道與房間的剖面草圖。",
+                "俯視平面與構想圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The design was first built in 3D software. Painted PVC ramps were chosen for gentle slopes, with laser-cut wooden frames as support.",
+          "images": [
+            "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/06-stick-screen-study.webp",
+            "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/05-red-ramp-tower.webp"
+          ],
+          "captions": [
+            "A stick screen beside the ramp.",
+            "Ramps climbing a black frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "設計先在3D軟體中建立。學生選用上漆的PVC板做出平緩坡道，並以雷射切割的木框架支撐。",
+              "captions": [
+                "坡道旁的木條屏。",
+                "沿黑色框架爬升的坡道。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Wheat-straw walls proved too weak, so tracing paper on zig-zag sticks was used instead. Light through the paper casts shadows that show the structure.",
+          "images": [
+            "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/02-truss-and-ramp.webp",
+            "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/03-ramp-detail.webp"
+          ],
+          "captions": [
+            "A paper-and-stick room above the ramps.",
+            "Shadows under the hanging rooms."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "麥稈牆太脆弱，學生改用鋸齒木條撐起描圖紙。光線穿透紙面投下陰影，顯出結構。",
+              "captions": [
+                "坡道上方的紙與木條房間。",
+                "懸掛房間下的陰影。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The 500 mm model ties twisting ramps to rooms hung from the top. Two hand-drawn views show people moving through the planted courtyards.",
+          "images": [
+            "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/08-courtyard-perspective.webp",
+            "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames/09-deck-perspective.webp"
+          ],
+          "captions": [
+            "A courtyard among the frames.",
+            "A shaded wooden deck."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "這個500公釐的模型以迂迴坡道連接從頂部懸掛的房間。兩張手繪透視表現人們穿行於植栽庭院之中。",
+              "captions": [
+                "框架間的庭院。",
+                "有遮蔭的木平台。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Watch who struggles in a space.\n2. Sketch a route that anyone can use.\n3. Test it in 3D, then build it.\n4. Swap weak materials early.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 觀察誰在空間中感到吃力。\n2. 畫出人人可用的動線。\n3. 先在3D中測試，再動手製作。\n4. 及早更換不堪用的材料。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Stick-Frame Japanese House",
+      "slug": "stick-frame-japanese-house-model-with-lift-off-roof",
+      "description": "A traditional Japanese house is rebuilt from wooden sticks alone, with a roof that lifts off to show the rooms inside.\n\nModel and drawings | Timber structure study | Wooden sticks, hot glue, plaster | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "木條日式民居",
+          "description": "以木條重建一棟傳統日式民居，屋頂可以掀起，露出內部房間。\n\n模型與繪圖｜木構研究｜木條、熱熔膠、石膏｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/01-stick-house-model.webp",
+        "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/02-exterior-sketch.webp",
+        "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/03-interior-layout.webp",
+        "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/04-interior-views.webp",
+        "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/05-roof-frame-model.webp",
+        "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/06-open-roof-view.webp",
+        "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/07-side-view.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/01-stick-house-model.webp"
+          ],
+          "captions": [
+            "The stick-frame house model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "木條框架民居模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "The student wanted to understand the craft behind Japanese timber houses. The project asks whether sticks alone can show how such a house is put together.",
+          "images": [
+            "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/02-exterior-sketch.webp"
+          ],
+          "captions": [
+            "A study sketch of the house and its parts."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "學生想了解日式木屋背後的工藝。這個專題探問，只用木條能否呈現這類房屋如何組構。",
+              "captions": [
+                "房屋與構件的研究草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied a bird's-eye view, an interior layout and an exterior sketch. Hand drawings marked the roof, foundation stones and paper screens.",
+          "images": [
+            "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/03-interior-layout.webp"
+          ],
+          "captions": [
+            "The interior layout drawing."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生研究了鳥瞰圖、室內配置與外觀草圖。手繪圖標出屋頂、基礎石與紙拉門。",
+              "captions": [
+                "室內配置圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A scaled plan was printed and the base built on it. Sticks were cut and glued one by one, thin sticks split the rooms, and plaster levelled the base.",
+          "images": [
+            "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/04-interior-views.webp",
+            "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/07-side-view.webp"
+          ],
+          "captions": [
+            "Close views inside the frame.",
+            "The side of the frame."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "學生印出等比例平面，在上面搭建基座。木條逐根裁切黏合，細木條分隔房間，並以石膏整平基座。",
+              "captions": [
+                "框架內部近景。",
+                "框架側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The roof is fixed with tape so it can be lifted off. Small errors were sanded down, and the finished model shows the full frame.",
+          "images": [
+            "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/05-roof-frame-model.webp",
+            "assets/board/stick-frame-japanese-house-model-with-lift-off-roof/06-open-roof-view.webp"
+          ],
+          "captions": [
+            "The roof frame seen from above.",
+            "The model with its roof in place."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "屋頂以雙面膠固定，可以掀起。小誤差經砂磨修整，完成的模型完整呈現整個框架。",
+              "captions": [
+                "俯視屋頂框架。",
+                "屋頂就位的模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Draw the house part by part.\n2. Print the plan at full scale.\n3. Build from the base upward.\n4. Make the roof removable.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 逐一畫出房屋構件。\n2. 以實際尺寸印出平面。\n3. 由基座往上搭建。\n4. 讓屋頂可以拆下。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Nine Garden Scenes",
+      "slug": "nine-garden-scenes-stick-and-card-sense-models",
+      "description": "Nine small models capture nine spots in a traditional Chinese garden and the senses each one speaks to.\n\nModels | Garden and senses study | Wooden sticks, PVC board, cardboard | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "園林九景",
+          "description": "九個小模型捕捉傳統中式園林中的九個場景，以及各自觸動的感官。\n\n模型｜園林與感官研究｜木條、PVC板、紙板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/nine-garden-scenes-stick-and-card-sense-models/01-garden-model-cluster.webp",
+        "assets/board/nine-garden-scenes-stick-and-card-sense-models/02-bird-eye-sketch.webp",
+        "assets/board/nine-garden-scenes-stick-and-card-sense-models/03-route-plan-sketch.webp",
+        "assets/board/nine-garden-scenes-stick-and-card-sense-models/04-making-the-models.webp",
+        "assets/board/nine-garden-scenes-stick-and-card-sense-models/05-nine-models.webp",
+        "assets/board/nine-garden-scenes-stick-and-card-sense-models/06-small-pavilions.webp",
+        "assets/board/nine-garden-scenes-stick-and-card-sense-models/07-joined-models.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/nine-garden-scenes-stick-and-card-sense-models/01-garden-model-cluster.webp"
+          ],
+          "captions": [
+            "The nine models joined together."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "九個模型組合在一起。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Chinese gardens feel calm because each part speaks to a different sense. The project asks how that strategy could be shown in models.",
+          "images": [
+            "assets/board/nine-garden-scenes-stick-and-card-sense-models/02-bird-eye-sketch.webp"
+          ],
+          "captions": [
+            "A bird's-eye sketch of the scenes."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "中式園林讓人平靜，是因為各處觸動不同的感官。這個專題探問如何以模型呈現這套策略。",
+              "captions": [
+                "各場景的鳥瞰草圖。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student studied one garden in depth and marked nine places on its plan. Routes through the garden were traced to see how views change.",
+          "images": [
+            "assets/board/nine-garden-scenes-stick-and-card-sense-models/03-route-plan-sketch.webp"
+          ],
+          "captions": [
+            "Nine spots marked on a garden plan."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生深入研究一座園林，並在平面上標出九個地點。學生也描出園中路線，觀察視野如何變化。",
+              "captions": [
+                "園林平面上標出的九個地點。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Each spot became a small model of card walls and stick frames. Different materials stand for sound, smell, touch and sight.",
+          "images": [
+            "assets/board/nine-garden-scenes-stick-and-card-sense-models/04-making-the-models.webp",
+            "assets/board/nine-garden-scenes-stick-and-card-sense-models/05-nine-models.webp"
+          ],
+          "captions": [
+            "Models in progress on the desk.",
+            "Several of the nine models."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "每個地點都化為一個紙板牆與木條框架的小模型。不同材料代表聲音、氣味、觸感與視覺。",
+              "captions": [
+                "桌上製作中的模型。",
+                "九個模型中的幾個。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The nine models are joined into one cluster, like walking a route through the garden. They keep the fine detail of traditional craft.",
+          "images": [
+            "assets/board/nine-garden-scenes-stick-and-card-sense-models/06-small-pavilions.webp",
+            "assets/board/nine-garden-scenes-stick-and-card-sense-models/07-joined-models.webp"
+          ],
+          "captions": [
+            "Stick pavilions on card walls.",
+            "The joined models from the side."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "九個模型組合成一體，彷彿沿著路線走過園林。它們保留了傳統工藝的細膩。",
+              "captions": [
+                "紙板牆上的木條亭子。",
+                "組合模型的側面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "How I Teach This Method",
+          "body": "1. Pick places in a real garden.\n2. Ask which sense each one speaks to.\n3. Give each sense a material.\n4. Join the parts along a route.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "我如何教這套方法",
+              "body": "1. 在真實園林中選出地點。\n2. 問每處觸動哪種感官。\n3. 為每種感官選一種材料。\n4. 沿著路線組合各部分。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
