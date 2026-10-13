@@ -1,0 +1,61 @@
+{
+  "project": "Rooted Lattice Tower",
+  "dest": "assets/board/rooted-lattice-tower-summer-workshop-3d-print",
+  "note": "Portfolio 9954 pages 9-10 cropped to nine images, WebP q88 (PIL). Not used: title and text, the name of the summer school, a landmark tower name, process photos with hands.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "312b87bf345c3ce1b28fdeb62ef128b55220d5857e108d1ea0fb0a77d60c1117",
+      "bytes": 37184,
+      "from": "9954 page 10 — final tower"
+    },
+    {
+      "name": "02-primitive-forms.webp",
+      "sha256": "3fe6a861ae80cef964eaa4030e36e5a14b24fa8786daec95ee66a12bf37e373b",
+      "bytes": 10928,
+      "from": "9954 page 9 — primitive forms"
+    },
+    {
+      "name": "03-lattice-steps.webp",
+      "sha256": "ca129e5491c1082bf485ee1d2fb5791091021c26a98aa326a9a7807675fdaebe",
+      "bytes": 32810,
+      "from": "9954 page 9 — lattice steps"
+    },
+    {
+      "name": "04-script.webp",
+      "sha256": "561da5bdec6121510a4c7f0d1999ede822a51ae45be9ace933699f79d99f256a",
+      "bytes": 39898,
+      "from": "9954 page 9 — script"
+    },
+    {
+      "name": "05-tower-drawing.webp",
+      "sha256": "a30bab48e88c00af068efcd4791326c1abb488d424b5ed15e9197bb83d99d530",
+      "bytes": 135862,
+      "from": "9954 page 9 — tower drawing"
+    },
+    {
+      "name": "06-root-sketch.webp",
+      "sha256": "76bb871b041b2c01c17320ddf1fed9a5eb5360cb65ab9d35b4f6bfa90b5704fc",
+      "bytes": 32674,
+      "from": "9954 page 10 — root sketch"
+    },
+    {
+      "name": "07-stair-view.webp",
+      "sha256": "107dde4a6feed7ec476a0f1d220ff9a3d1ef8f1a1ef4fc3fb2f2953b0c58516e",
+      "bytes": 43770,
+      "from": "9954 page 10 — stair view"
+    },
+    {
+      "name": "08-hollow-detail.webp",
+      "sha256": "074f327d7b45f258025e00b4969b0359d37cb3bf68543a8b357e96fa8ed95e6e",
+      "bytes": 9072,
+      "from": "9954 page 10 — hollow detail"
+    },
+    {
+      "name": "09-base-arch.webp",
+      "sha256": "f28136415039a7faffd11a89c783e6ce5c20bcd120682a55aef7326cfb3ec374",
+      "bytes": 19584,
+      "from": "9954 page 10 — base arch"
+    }
+  ]
+}
