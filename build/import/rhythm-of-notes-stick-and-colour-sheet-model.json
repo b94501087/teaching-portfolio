@@ -1,0 +1,67 @@
+{
+  "project": "Rhythm of Notes",
+  "dest": "assets/board/rhythm-of-notes-stick-and-colour-sheet-model",
+  "note": "Portfolio 7c9f pages 7-8 cropped to ten images, WebP q88 (PIL). Not used: title and text, the name of the piece and its composer, the printed score.",
+  "files": [
+    {
+      "name": "01-stick-model.webp",
+      "sha256": "3f037533a322eb3cb1f1bdc815f352175742e33eaa7089a785d466d2c977f57d",
+      "bytes": 155702,
+      "from": "7c9f page 8 — stick model"
+    },
+    {
+      "name": "02-symbol-forms.webp",
+      "sha256": "2b5643bebe46ab56d3bf0bd1a54310d0682ecff46e53aa6c54202edfc083b108",
+      "bytes": 39906,
+      "from": "7c9f page 7 — symbol forms"
+    },
+    {
+      "name": "03-element-diagrams.webp",
+      "sha256": "c0eba722185530dd96874bedc8dd4355cddb424886c8c94e6050366b0d6899dc",
+      "bytes": 93490,
+      "from": "7c9f page 7 — element diagrams"
+    },
+    {
+      "name": "04-composite-diagram.webp",
+      "sha256": "1411f664c3081142d1fed171180a4b389300eca400f92db943278e5da2b6cefd",
+      "bytes": 174008,
+      "from": "7c9f page 7 — composite diagram"
+    },
+    {
+      "name": "05-top-view.webp",
+      "sha256": "32e50261e6d764cb68105d031ec2d3f16b9ee4c7a24cdc7479be8b5a0a8a3750",
+      "bytes": 186698,
+      "from": "7c9f page 8 — top view"
+    },
+    {
+      "name": "06-corner-detail.webp",
+      "sha256": "b9879c4fe130bf61ecbc6f13bf87c5b0f983d4c0f54ffdaea3023bdbcd2c5202",
+      "bytes": 28338,
+      "from": "7c9f page 8 — corner detail"
+    },
+    {
+      "name": "07-blue-light.webp",
+      "sha256": "61c6e28ad002b74e0cfc034f1a7b2ca6c649fe7454b476961c5f635c45194a94",
+      "bytes": 24000,
+      "from": "7c9f page 8 — blue light"
+    },
+    {
+      "name": "08-dark-interior.webp",
+      "sha256": "542889828fe5f779e0069e6e0365b5e04a103797ab62018866d66ef608576b7c",
+      "bytes": 19792,
+      "from": "7c9f page 8 — dark interior"
+    },
+    {
+      "name": "09-low-angle.webp",
+      "sha256": "760dfa58b528d6d8a6a8a60f9093cae3aed5307df9f11be0b49dc8aa4a73ea42",
+      "bytes": 39806,
+      "from": "7c9f page 8 — low angle"
+    },
+    {
+      "name": "10-tall-sticks.webp",
+      "sha256": "080ef99ba9ced66033866e12026c3d907e0342439ee94cd11ca19fc008d0e835",
+      "bytes": 22532,
+      "from": "7c9f page 8 — tall sticks"
+    }
+  ]
+}
