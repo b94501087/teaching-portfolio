@@ -75740,6 +75740,426 @@
       "visible": true,
       "big": false,
       "level": "undergrad"
+    },
+    {
+      "title": "Cat Space",
+      "slug": "cat-space-curled-pvc-shelter-from-cat-eye-views",
+      "description": "Photos of a room taken from a cat's height are cut into shapes, then curled in thin PVC into a shelter and playground for cats.\n\nModel and drawings | Animal space | PVC sheet, foam board, clay | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "貓的空間",
+          "description": "以貓的高度拍下房間，剪出形狀，再以薄PVC片捲曲成貓的庇護所與遊樂場。\n\n模型與繪圖｜動物空間｜PVC片、泡沫板、黏土｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/01-cat-space-model.webp",
+        "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/02-cat-space-model-front.webp",
+        "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/03-curled-sheets-and-cat.webp",
+        "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/04-tangled-curves.webp",
+        "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/05-cat-tree-opening.webp",
+        "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/06-tube-paths.webp",
+        "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/07-cat-view-collage.webp",
+        "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/08-outline-drawing.webp",
+        "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/09-first-foam-model.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/01-cat-space-model.webp"
+          ],
+          "captions": [
+            "The cat space model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "貓的空間模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "People see a room from one height and rarely bend to look again. The project asks what a room becomes when it is read through the low, curious eyes of a cat.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "人們總從同一個高度看房間，很少彎下身再看一次。這個專題探問，當房間透過貓低矮而好奇的眼睛被閱讀時，會變成什麼。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student photographed a room from a cat's eye level and cut interesting shapes from the prints. The pieces were arranged and rearranged into a collage, and its outline was traced as a drawing.",
+          "images": [
+            "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/07-cat-view-collage.webp",
+            "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/08-outline-drawing.webp",
+            "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/09-first-foam-model.webp"
+          ],
+          "captions": [
+            "A collage of cat-eye views.",
+            "The outline drawing.",
+            "The first foam model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生從貓的視線高度拍攝房間，並從照片中剪下有趣的形狀。這些碎片被反覆排列成拼貼，再把輪廓描成線稿。",
+              "captions": [
+                "貓眼視角的拼貼。",
+                "輪廓線稿。",
+                "第一個泡沫板模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Shapes were cut from thin foldable sheets and curled to the right curve before being glued together. Narrow tubes became paths to walk on, and hollow upward forms became climbing trees.",
+          "images": [
+            "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/03-curled-sheets-and-cat.webp",
+            "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/04-tangled-curves.webp",
+            "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/05-cat-tree-opening.webp",
+            "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/06-tube-paths.webp"
+          ],
+          "captions": [
+            "Curled sheets and a clay cat.",
+            "Tangled curves.",
+            "An opening like a cat tree.",
+            "Tube-like paths."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "形狀從可彎折的薄片上切下，捲成合適的曲度後再黏合。狹窄的管狀成為可以行走的小徑，鏤空向上的形體則成為攀爬的貓跳台。",
+              "captions": [
+                "捲曲的片材與黏土貓。",
+                "交纏的曲線。",
+                "如貓跳台般的開口。",
+                "管狀的小徑。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished shelter is a white tangle of ribbons, windows and stairs about forty centimetres tall. Spaces under the sheets stay dark and private, matching the hiding places cats love.",
+          "images": [
+            "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/02-cat-space-model-front.webp"
+          ],
+          "captions": [
+            "The model from the front."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的庇護所是一團白色的緞帶、窗洞與階梯，高約四十公分。片材下方的空間保持幽暗而隱密，正對應貓喜愛的藏身之處。",
+              "captions": [
+                "模型正面。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Low Horizons - Designing from a Cat's Eye",
+          "body": "Architecture usually begins at the height of a standing adult, yet much of a room is lived closer to the floor. This project lowered the horizon on purpose. The guidance asked the student to photograph a familiar room from the eye level of a cat, then to treat each print not as a picture but as raw material, cutting out fragments, shuffling them and tracing their outlines until a new plan appeared. That plan was carried into space through thin sheets curled by hand, so that every curve kept the memory of a cut edge. Narrow tubes turned into paths along which a small body could balance, hollow upward forms became trees for climbing, and the shaded pockets beneath the sheets offered the privacy an animal seeks. The method is simple but searching: by changing the viewpoint before changing the form, the work shows that empathy for another body can be a rigorous tool of design, able to turn an ordinary room into a landscape of ribbons, shadows and refuges.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "低處的視野-從貓的眼睛出發設計",
+              "body": "建築通常從成年人站立的高度開始，然而一個房間有許多部分其實是貼近地面被使用的。這個專題刻意壓低了地平線。指導過程要求學生從貓的視線高度拍攝熟悉的房間，再把每張照片視為原料而非影像：剪下碎片、反覆排列、描出輪廓，直到新的平面浮現。這份平面再透過以手捲曲的薄片帶入空間，使每一道曲線都保留著剪裁邊緣的記憶。狹窄的管道成為小小身體可以保持平衡的路徑，鏤空向上的形體成為攀爬的樹，片材下方的陰影角落則提供動物所尋求的隱密。方法簡單卻充滿探索：先改變視角，再改變形體，作品證明對另一種身體的同理可以成為嚴謹的設計工具，把平凡的房間化為緞帶、陰影與庇護交織的地景。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Cobalt Chloride Equilibrium",
+      "slug": "cobalt-chloride-equilibrium-triangle-wire-tower",
+      "description": "A chemistry experiment in which pink turns to blue becomes a tower of wooden and clear acrylic triangles caught in one moment of change.\n\nModel and studies | Science study | Wooden boards, acrylic boards, iron wire | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "氯化鈷平衡",
+          "description": "一場由粉紅轉為藍色的化學實驗，化為一座以木質與透明壓克力三角形構成的塔，凝結在變化的瞬間。\n\n模型與研究｜科學研究｜木板、壓克力板、鐵絲｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/01-triangle-tower.webp",
+        "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/02-colour-tower.webp",
+        "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/03-tower-in-dark.webp",
+        "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/04-tower-close-up.webp",
+        "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/05-pink-triangles.webp",
+        "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/06-blue-triangles.webp",
+        "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/07-triangle-studies.webp",
+        "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/08-diffusion-to-triangles.webp",
+        "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/09-two-colour-beakers.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/01-triangle-tower.webp"
+          ],
+          "captions": [
+            "The triangle tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "三角形之塔。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "When acid is added to a pink cobalt solution, blue spreads through the test tube while the pink slowly fades. The project tries to hold that brief, lively moment of reaction in a solid form.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "當酸加入粉紅色的鈷溶液，藍色會擴散到整支試管，粉紅則逐漸消退。這個專題試圖把這短暫而生動的反應瞬間，凝固為實體形式。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student observed the colour moving through the tube and translated the drops into a web of points and lines. A drawing turned the swirling liquid into a cluster of triangles.",
+          "images": [
+            "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/09-two-colour-beakers.webp",
+            "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/08-diffusion-to-triangles.webp"
+          ],
+          "captions": [
+            "Two colours of the solution.",
+            "From diffusion to triangles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生觀察顏色在試管中流動，並把液滴轉譯為點與線的網絡。一張圖把旋動的液體化為一簇三角形。",
+              "captions": [
+                "溶液的兩種顏色。",
+                "從擴散到三角形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "Small wire frames with wooden and acrylic faces were tested in many combinations. Each study was photographed with its shadow to judge how solid and clear parts balanced.",
+          "images": [
+            "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/07-triangle-studies.webp",
+            "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/03-tower-in-dark.webp",
+            "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/04-tower-close-up.webp"
+          ],
+          "captions": [
+            "Triangle studies.",
+            "The tower in the dark.",
+            "A close-up of the tower."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "以鐵絲為框、貼上木片與壓克力的小型構件，被嘗試了許多種組合。每個研究都連同陰影一起拍攝，以判斷實與透的部分如何平衡。",
+              "captions": [
+                "三角形研究。",
+                "暗處中的塔。",
+                "塔的近景。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "In the finished tower, wooden triangles at the core stand for the new blue compound, while clear acrylic around them stands for the pink that has not yet reacted. Coloured versions show the same change in pink and blue light.",
+          "images": [
+            "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/02-colour-tower.webp",
+            "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/05-pink-triangles.webp",
+            "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower/06-blue-triangles.webp"
+          ],
+          "captions": [
+            "The tower in colour.",
+            "Pink triangles.",
+            "Blue triangles."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "在完成的塔中，核心的木質三角形代表新生成的藍色化合物，周圍的透明壓克力則代表尚未反應的粉紅。彩色版本以粉紅與藍色的光呈現同樣的變化。",
+              "captions": [
+                "彩色的塔。",
+                "粉紅三角形。",
+                "藍色三角形。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Frozen Reaction - Building a Moment of Change",
+          "body": "Chemistry is usually learned as equations, balanced on paper and soon forgotten, but a reaction seen in a test tube can stay in the mind for years. This project began with such a memory: a pink solution turning blue as a single drop of acid spreads through it. The guidance encouraged the student to treat the experiment as a spatial event rather than a formula, watching how colour travels and recording it as points, lines and finally triangles. Small frames of wire, wood and acrylic were tested in many arrangements and judged by their shadows, until a clear logic emerged. Dense wooden triangles gather at the core like the newly formed compound, while transparent pieces drift outward like the part of the solution still waiting to change. The tower therefore freezes an instant that in the laboratory lasts only seconds. It shows how a scientific idea can become an architecture of balance, where the solid and the clear, the finished and the pending, lean against one another.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "凝固的反應-為變化的瞬間造形",
+              "body": "化學通常以方程式學習，在紙上配平之後很快就被遺忘，但在試管中親眼看見的反應卻能在心中停留多年。這個專題從這樣的記憶開始：一滴酸擴散開來，粉紅色的溶液隨之轉藍。指導過程鼓勵學生把實驗視為一場空間事件而非公式，觀察顏色如何移動，並把它記錄為點、線，最後成為三角形。以鐵絲、木片與壓克力組成的小框架被嘗試了許多種排列，並以陰影來判斷，直到清楚的邏輯浮現。密實的木質三角形聚集在核心，如同新生成的化合物；透明的片材向外漂散，如同仍在等待改變的溶液。於是這座塔凝固了實驗室中僅持續數秒的一瞬。它說明科學的概念可以成為一種平衡的建築，實與透、完成與未完成，在其中彼此倚靠。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
+    },
+    {
+      "title": "Quantified Polonaise",
+      "slug": "quantified-polonaise-note-height-printed-score-model",
+      "description": "Every note of a piano piece is measured by how hard it is played and rebuilt as a 3D-printed and paper landscape on a laser-cut base.\n\nModels | Music study | 3D printing, Dutch paper, wooden strips, acrylic boards | Student Project | Design Director: Yu Chun Tsai (full-cycle supervision)",
+      "i18n": {
+        "zh-Hant": {
+          "title": "量化的波蘭舞曲",
+          "description": "依照彈奏的力度量測一首鋼琴曲的每一個音符，再以3D列印與紙片重建為雷射切割底座上的地景。\n\n模型｜音樂研究｜3D列印、荷蘭紙、木條、壓克力板｜學生作品｜設計總監 Yu Chun Tsai，全程指導"
+        }
+      },
+      "images": [
+        "assets/board/quantified-polonaise-note-height-printed-score-model/01-note-model-overview.webp",
+        "assets/board/quantified-polonaise-note-height-printed-score-model/02-note-model-in-dark.webp",
+        "assets/board/quantified-polonaise-note-height-printed-score-model/03-note-model-diagonal.webp",
+        "assets/board/quantified-polonaise-note-height-printed-score-model/04-strips-close-up.webp",
+        "assets/board/quantified-polonaise-note-height-printed-score-model/05-printed-notes-on-base.webp",
+        "assets/board/quantified-polonaise-note-height-printed-score-model/06-printed-notes-low-view.webp",
+        "assets/board/quantified-polonaise-note-height-printed-score-model/07-printed-notes-side.webp",
+        "assets/board/quantified-polonaise-note-height-printed-score-model/08-printed-notes-detail.webp",
+        "assets/board/quantified-polonaise-note-height-printed-score-model/09-printed-notes-end.webp"
+      ],
+      "sections": [
+        {
+          "heading": "",
+          "body": "",
+          "images": [
+            "assets/board/quantified-polonaise-note-height-printed-score-model/01-note-model-overview.webp"
+          ],
+          "captions": [
+            "The note model."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "captions": [
+                "音符模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Problem",
+          "body": "Music is usually judged by ear, as something felt rather than measured. The project asks what a piano piece would look like if each note were given an exact height, width and shape.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "問題",
+              "body": "音樂通常以耳朵評判，是被感受而非被量測的東西。這個專題探問，如果每個音符都被賦予精確的高度、寬度與形狀，一首鋼琴曲會是什麼模樣。"
+            }
+          }
+        },
+        {
+          "heading": "Research",
+          "body": "The student modelled the notes on a computer according to the dynamics used when playing the piece, then 3D printed them. A base of acrylic boards was laser cut with sunken shapes that match each printed note.",
+          "images": [
+            "assets/board/quantified-polonaise-note-height-printed-score-model/05-printed-notes-on-base.webp",
+            "assets/board/quantified-polonaise-note-height-printed-score-model/06-printed-notes-low-view.webp",
+            "assets/board/quantified-polonaise-note-height-printed-score-model/07-printed-notes-side.webp",
+            "assets/board/quantified-polonaise-note-height-printed-score-model/08-printed-notes-detail.webp",
+            "assets/board/quantified-polonaise-note-height-printed-score-model/09-printed-notes-end.webp"
+          ],
+          "captions": [
+            "Printed notes on the base.",
+            "A low view of the printed notes.",
+            "The printed notes from the side.",
+            "A detail of the printed notes.",
+            "The end of the printed piece."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "研究",
+              "body": "學生依照自己彈奏時的力度在電腦上建模音符，再以3D列印輸出。壓克力板組成的底座經雷射切割，留下與每個列印音符相對應的凹陷形狀。",
+              "captions": [
+                "底座上的列印音符。",
+                "列印音符的低視角。",
+                "列印音符側面。",
+                "列印音符細部。",
+                "列印樂曲的結尾。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Development",
+          "body": "A second model translated the same piece into thin paper pieces and wooden strips. The taller a piece, the stronger the force on the keys at that moment.",
+          "images": [
+            "assets/board/quantified-polonaise-note-height-printed-score-model/04-strips-close-up.webp",
+            "assets/board/quantified-polonaise-note-height-printed-score-model/03-note-model-diagonal.webp"
+          ],
+          "captions": [
+            "A close-up of paper strips.",
+            "The paper model on the diagonal."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "推演",
+              "body": "第二個模型把同一首曲子轉譯為薄紙片與木條。紙片越高，代表那一刻按下琴鍵的力量越強。",
+              "captions": [
+                "紙條近景。",
+                "斜看紙片模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Outcome",
+          "body": "The finished models rise and fall like a city skyline that follows the music from beginning to end. Read together, they let a listener see the whole piece and its changing force at a glance.",
+          "images": [
+            "assets/board/quantified-polonaise-note-height-printed-score-model/02-note-model-in-dark.webp"
+          ],
+          "captions": [
+            "The paper model in the dark."
+          ],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "成果",
+              "body": "完成的模型起伏如一道城市天際線，從頭到尾跟隨著音樂。兩個模型一起閱讀，讓聆聽者能一眼看見整首曲子及其變化的力度。",
+              "captions": [
+                "暗處中的紙片模型。"
+              ]
+            }
+          }
+        },
+        {
+          "heading": "Measured Music - A Skyline of Touch",
+          "body": "Music is often described as something that cannot be held, a feeling that vanishes the moment it is heard. This project asked what would happen if a performance were treated instead as data with dimensions. The guidance began from the student's own hands at the keyboard: every note was assigned a height according to how firmly it was struck, and these values were modelled, printed and set into a base whose laser-cut hollows received each piece exactly. A second version translated the same measurements into thin paper and wooden strips, lighter and more fragile, so that loud passages rise like towers and soft ones settle into low terraces. Seen from one end, the work resembles a skyline. Seen from above, it becomes a score that can be read without sound. The result offers a different kind of beauty, concise and rational rather than emotional, and suggests that careful measurement, far from draining music of feeling, can reveal the hidden architecture already present in every phrase.",
+          "images": [],
+          "captions": [],
+          "i18n": {
+            "zh-Hant": {
+              "heading": "被量測的音樂-觸鍵的天際線",
+              "body": "音樂常被形容為無法掌握之物，一種在聽見的瞬間便消逝的感受。這個專題探問，若把一次演奏視為具有尺度的資料，會發生什麼。指導過程從學生自己在琴鍵上的雙手開始：每個音符依照按下的力度被賦予高度，這些數值被建模、列印，再嵌入一座底座，底座上雷射切割的凹槽恰好承接每一個構件。第二個版本把同樣的量測轉譯為更輕、更脆弱的薄紙與木條，使響亮的段落如高塔升起，柔和的段落則沉為低矮的台地。從一端看去，作品像一道天際線；從上方俯視，它成為一份無聲也能閱讀的樂譜。成果呈現另一種美，簡潔而理性，並暗示細心的量測不但不會抽乾音樂的情感，反而能揭示每個樂句中早已存在的隱藏建築。"
+            }
+          }
+        }
+      ],
+      "visible": true,
+      "big": false,
+      "level": "undergrad"
     }
   ]
 }
