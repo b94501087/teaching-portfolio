@@ -1,0 +1,67 @@
+{
+  "project": "Cube Rotate",
+  "dest": "assets/board/cube-rotate-stacked-boolean-volume-model",
+  "note": "Portfolio cd80 page 11 cropped to ten images, WebP q88 (PIL). Not used: title and text, the name of the summer school.",
+  "files": [
+    {
+      "name": "01-physical-model.webp",
+      "sha256": "6047e8ed57e8bb1ee08cb9dc3a000087dd0735dc662e8d490a1c45abe9c39316",
+      "bytes": 6700,
+      "from": "cd80 page 11 — physical model"
+    },
+    {
+      "name": "02-frame-one.webp",
+      "sha256": "6e6b8e78819daf76be9f007c222eac9d7446f7a9a4fa7ae845672ed519ccb43e",
+      "bytes": 5668,
+      "from": "cd80 page 11 — frame one"
+    },
+    {
+      "name": "03-frame-two.webp",
+      "sha256": "b3b452641fbf31744ac500366ec76e5b0949ba0413eac1d013d79fb36aae6a64",
+      "bytes": 4750,
+      "from": "cd80 page 11 — frame two"
+    },
+    {
+      "name": "04-frame-three.webp",
+      "sha256": "027ff34d19e074de3a0932c3e10b46221d35a3752ca5b234a763763530206bb2",
+      "bytes": 6126,
+      "from": "cd80 page 11 — frame three"
+    },
+    {
+      "name": "05-render.webp",
+      "sha256": "6dbfc7cce06672bf9aec8d32e7144898b6c0b23ead92273b4c80204d9bb4c2bd",
+      "bytes": 3600,
+      "from": "cd80 page 11 — render"
+    },
+    {
+      "name": "06-rotation-drawing.webp",
+      "sha256": "a5907abc52ad50baf8f668f04185aa1129afcb94a134d4b9e3f0fda3fa462c3f",
+      "bytes": 5852,
+      "from": "cd80 page 11 — rotation drawing"
+    },
+    {
+      "name": "07-surface-lines.webp",
+      "sha256": "dfb70a43bd4d9f7ad5faf9ab9a97716ad29750f0228d814bd54cada9a78fe2c5",
+      "bytes": 15130,
+      "from": "cd80 page 11 — surface lines"
+    },
+    {
+      "name": "08-model-close.webp",
+      "sha256": "425e53c1fb2d42ef573f14a5b4a3ff70879d07ab451640518c30da8035359cbf",
+      "bytes": 3476,
+      "from": "cd80 page 11 — model close"
+    },
+    {
+      "name": "09-unrolled-elevation.webp",
+      "sha256": "e01e7f8d778ce4818d4b2e1ba3fe1e596c15c462667a516269c8c5b4d79879ef",
+      "bytes": 6568,
+      "from": "cd80 page 11 — unrolled elevation"
+    },
+    {
+      "name": "10-section.webp",
+      "sha256": "0db49fbad1485a8474d1dbb2c577bcc554a08ae8fd0c814dfd7cc80a3ac95f84",
+      "bytes": 6120,
+      "from": "cd80 page 11 — section"
+    }
+  ]
+}
