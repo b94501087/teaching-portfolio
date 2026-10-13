@@ -1,0 +1,61 @@
+{
+  "project": "House",
+  "dest": "assets/board/crossing-rectangles-house-card-model",
+  "note": "Portfolio 3c08 page 14 cropped to nine images, WebP q88 (PIL). Not used: title and text.",
+  "files": [
+    {
+      "name": "01-model-front.webp",
+      "sha256": "60dafaeb3cf3f793163dc2782d839d587b6748637ffdf9a6e1a6955752f3e956",
+      "bytes": 9102,
+      "from": "3c08 page 14 — model front"
+    },
+    {
+      "name": "02-plan-sketch.webp",
+      "sha256": "8191846a19e8dd8f3b2ac1c0405fcce1387a5047a9602a88ef54e1729a16c9c6",
+      "bytes": 8306,
+      "from": "3c08 page 14 — plan sketch"
+    },
+    {
+      "name": "03-crossing-plan.webp",
+      "sha256": "9bf9d211fc25a1f78233b36e59966dbadac94fe11da4673830e9fdca435a539d",
+      "bytes": 15640,
+      "from": "3c08 page 14 — crossing plan"
+    },
+    {
+      "name": "04-form-sketch.webp",
+      "sha256": "ac43f5703ff052147d1b4757a81025870373b18bfdaae0642c3a76a09458b20f",
+      "bytes": 14056,
+      "from": "3c08 page 14 — form sketch"
+    },
+    {
+      "name": "05-process-panels.webp",
+      "sha256": "0c473abcda0f0eff814f66f63ee7a2cab2f97a58ded5b320c97472d3e40f4303",
+      "bytes": 11440,
+      "from": "3c08 page 14 — process panels"
+    },
+    {
+      "name": "06-process-frame.webp",
+      "sha256": "d0163f233caf713fd10262a8c5e66b8cdfbdab4d615958075ba9978189e4f57c",
+      "bytes": 7384,
+      "from": "3c08 page 14 — process frame"
+    },
+    {
+      "name": "07-model-corner.webp",
+      "sha256": "4efb7bc49d00fa353cbd8c3abf1bec741e54d292e7af727846fa32292ad9dcce",
+      "bytes": 11366,
+      "from": "3c08 page 14 — model corner"
+    },
+    {
+      "name": "08-model-top.webp",
+      "sha256": "e97ccf50d7720d89b73c15d4497333f3921de9496a7f6cd7fa7eca6002f2fdcf",
+      "bytes": 12078,
+      "from": "3c08 page 14 — model top"
+    },
+    {
+      "name": "09-model-inside.webp",
+      "sha256": "2dc400b572ce1669e6edc3b72a4b3c6ad816661ad9d6bc96b10e9b1be581869c",
+      "bytes": 13148,
+      "from": "3c08 page 14 — model inside"
+    }
+  ]
+}
