@@ -1,0 +1,67 @@
+{
+  "project": "Emergent Architecture",
+  "dest": "assets/board/emergent-architecture-drawing-elements-hillside-habitat",
+  "note": "Portfolio d991 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, the summer school name, a source painting, renderings with human figures.",
+  "files": [
+    {
+      "name": "01-hillside-model.webp",
+      "sha256": "15113111a466f30aaef63774af77870e31ac0e7a5ba09c64748f1177686cc07d",
+      "bytes": 232680,
+      "from": "d991 page 7 — hillside model"
+    },
+    {
+      "name": "02-image-analysis.webp",
+      "sha256": "3df7f1b527468659c21132cc823074688e54d64dc13d2a6578b43ec80eb0e123",
+      "bytes": 227404,
+      "from": "d991 page 6 — image analysis"
+    },
+    {
+      "name": "03-image-objects.webp",
+      "sha256": "f74128841c088aadd5ebd3aec22f5bcc7ecc03e5af7b06f18c62145f7d9cd201",
+      "bytes": 326664,
+      "from": "d991 page 6 — image objects"
+    },
+    {
+      "name": "04-excavation.webp",
+      "sha256": "991da58164f01a66c200620636715eb6bd1902a73bfceae2f75e849ca70dac55",
+      "bytes": 102028,
+      "from": "d991 page 6 — excavation"
+    },
+    {
+      "name": "05-emergent-axo.webp",
+      "sha256": "60eeac5861131f8f56c44deee5136990f7ce81a9b9ff7b741df69737fd886553",
+      "bytes": 59898,
+      "from": "d991 page 6 — emergent axo"
+    },
+    {
+      "name": "06-foam-pieces.webp",
+      "sha256": "cf9ff63efa3060fec9d773df0a3eb1f9218c05cc21698cb1e511227e161b4075",
+      "bytes": 116796,
+      "from": "d991 page 6 — foam pieces"
+    },
+    {
+      "name": "07-elevations.webp",
+      "sha256": "1d2026eed988bf0c11a2d5b004a139dff4d38c2348e8241760d6a2868196ece6",
+      "bytes": 215032,
+      "from": "d991 page 7 — elevations"
+    },
+    {
+      "name": "08-grey-render.webp",
+      "sha256": "32a42178bbeb8e4ba815b8ae0f7fa1cbecd269e393b16c82fff71a4792289928",
+      "bytes": 181436,
+      "from": "d991 page 7 — grey render"
+    },
+    {
+      "name": "09-hillside-sketch.webp",
+      "sha256": "fea6a196c488b6d2bfb485889afdfc51818144d949ef1c88eec688a2a41cdec1",
+      "bytes": 134970,
+      "from": "d991 page 7 — hillside sketch"
+    },
+    {
+      "name": "10-model-views.webp",
+      "sha256": "38a04f9468a9962941b77b4721e13dd2c19eb01f2d15814d9c967bedb236be7a",
+      "bytes": 310632,
+      "from": "d991 page 7 — model views"
+    }
+  ]
+}
