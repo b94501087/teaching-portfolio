@@ -1,0 +1,55 @@
+{
+  "project": "Scenery along the Road",
+  "dest": "assets/board/scenery-along-the-road-wooden-strip-canyon-model",
+  "note": "Portfolio cfd7 pages 12-13 cropped to eight images, WebP q88 (PIL). Not used: title and text, a travel photo of a real landmark, process photos with hands.",
+  "files": [
+    {
+      "name": "01-model-in-light.webp",
+      "sha256": "5104a38064f05e4e4798f073845bb4f7c4f1531ad9532ff22bc572e84c2d0fe2",
+      "bytes": 85432,
+      "from": "cfd7 page 13 — model in light"
+    },
+    {
+      "name": "02-mesh-drawing.webp",
+      "sha256": "03bb5961f89242ae12a0d0e59477473a67edd913b1ed0f2f1b55c39e62df979f",
+      "bytes": 56332,
+      "from": "cfd7 page 12 — mesh drawing"
+    },
+    {
+      "name": "03-layered-base.webp",
+      "sha256": "191605af97114d4e749c935cebba04c314f35a7b56e87b9c4206f556511aaf64",
+      "bytes": 39486,
+      "from": "cfd7 page 12 — layered base"
+    },
+    {
+      "name": "04-strips-from-above.webp",
+      "sha256": "cfb717f29a67d983308811cfa0c995f91bcf61efdc8f2a38ff3a6e8666cf095e",
+      "bytes": 62718,
+      "from": "cfd7 page 12 — strips from above"
+    },
+    {
+      "name": "05-strips-rising.webp",
+      "sha256": "8b1a75a610dd5a4bad3a4c39a8077638256a564b1e67f3943f122f03fd546992",
+      "bytes": 50826,
+      "from": "cfd7 page 12 — strips rising"
+    },
+    {
+      "name": "06-low-view.webp",
+      "sha256": "260520fd012d4978c3f3db0d00458bfb612439584f9db3fd3717e183cbf39346",
+      "bytes": 30908,
+      "from": "cfd7 page 13 — low view"
+    },
+    {
+      "name": "07-shadow-detail.webp",
+      "sha256": "ea8261e78fac645588f4d401c14289fbbfadf96d05e9a5352c8e3f4654efec4b",
+      "bytes": 72978,
+      "from": "cfd7 page 13 — shadow detail"
+    },
+    {
+      "name": "08-model-dark.webp",
+      "sha256": "9578e2f1d88a34cd0aa26004cb9a41c4318f268320ca0642e2c5eb13bff195b9",
+      "bytes": 58200,
+      "from": "cfd7 page 13 — model dark"
+    }
+  ]
+}
