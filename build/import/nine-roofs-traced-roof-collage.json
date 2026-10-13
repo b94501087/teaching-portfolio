@@ -1,0 +1,31 @@
+{
+  "project": "Nine Roofs",
+  "dest": "assets/board/nine-roofs-traced-roof-collage",
+  "note": "Portfolio a289 page 2 cropped to 4 images, WebP q88 (PIL). Not used: treatise title, collage inset with named landmark buildings, caption with dates/media.",
+  "files": [
+    {
+      "name": "01-collage-of-nine-roofs.webp",
+      "sha256": "e93b0865b8205c822d8c406a03c4ce754f1a3dcc66389567e235b09194d82802",
+      "bytes": 340280,
+      "from": "a289 page 2 — the collage of nine roof types"
+    },
+    {
+      "name": "03-ink-roof-silhouette-a.webp",
+      "sha256": "fc323dbcffd8a6edeeebb04f0908f333ce6a7a06c709c1e60f2dd8547dc97e73",
+      "bytes": 25786,
+      "from": "a289 page 2 — an ink silhouette of roofs"
+    },
+    {
+      "name": "04-ink-roof-silhouette-b.webp",
+      "sha256": "0a98046ff1d56bcbda554341b1115727eb7a1c3c107769acef5cb669ee012f7e",
+      "bytes": 29856,
+      "from": "a289 page 2 — a second ink silhouette"
+    },
+    {
+      "name": "05-ink-roof-silhouette-c.webp",
+      "sha256": "ce216b55a3914068a867a5e00c65f740efdb3fd8fb2dfaf0dd76d392ff756f1c",
+      "bytes": 26246,
+      "from": "a289 page 2 — a third ink silhouette"
+    }
+  ]
+}
