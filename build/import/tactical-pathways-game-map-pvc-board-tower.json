@@ -1,0 +1,67 @@
+{
+  "project": "Tactical Pathways",
+  "dest": "assets/board/tactical-pathways-game-map-pvc-board-tower",
+  "note": "Portfolio 9954 pages 2-4 cropped to ten images, WebP q88 (PIL). Not used: title and text, the game's and maps' names, a labelled game map, a game screenshot with a logo, a process photo with hands.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "2f44d6cfcc60fd03e96d0dda0cca161f7438b4c08361338844ae0acfa87068f2",
+      "bytes": 90528,
+      "from": "9954 page 4 — final tower"
+    },
+    {
+      "name": "02-game-still.webp",
+      "sha256": "2a18928d6aef08e6f04a90dd9e308eecefee78f3fb149a362d299db723303952",
+      "bytes": 10602,
+      "from": "9954 page 2 — game still"
+    },
+    {
+      "name": "03-early-build.webp",
+      "sha256": "1780305423d304fc176e2091021215ee2eb9e065f5423bbdd58afd8823d9e543",
+      "bytes": 14758,
+      "from": "9954 page 2 — early build"
+    },
+    {
+      "name": "04-ring-build.webp",
+      "sha256": "d3e77f8aab2fbdc5a7af08e757739c1df7cb8ab41b7a0dfa306fb29e280aa60e",
+      "bytes": 13020,
+      "from": "9954 page 2 — ring build"
+    },
+    {
+      "name": "05-street-view.webp",
+      "sha256": "eb7fada63a2902087c2d6d03e6adcd008937254b0f430db1c7403fe7a2d990be",
+      "bytes": 65660,
+      "from": "9954 page 2 — street view"
+    },
+    {
+      "name": "06-top-view.webp",
+      "sha256": "bb62ba6648291a9ce0ef770dd1bcddf65075f0468d0f80d93d8a5dcb1e1b2d14",
+      "bytes": 19110,
+      "from": "9954 page 3 — top view"
+    },
+    {
+      "name": "07-ring-route.webp",
+      "sha256": "5cf03f1ca8e28d0dd66cdb8ce0f41f22992033eab854ef0452fd1596ea01d59b",
+      "bytes": 21222,
+      "from": "9954 page 3 — ring route"
+    },
+    {
+      "name": "08-stair-yard.webp",
+      "sha256": "827acc7b27469a5549b1f4d303a9ce80827514df787505d7edff29e36959e9c8",
+      "bytes": 23662,
+      "from": "9954 page 3 — stair yard"
+    },
+    {
+      "name": "09-section-drawing.webp",
+      "sha256": "0d1d0c31e8739e0dccffe7c413e1aedc1786a83609f1ba8bc182fd6fa0f1c8e8",
+      "bytes": 84236,
+      "from": "9954 page 3 — section drawing"
+    },
+    {
+      "name": "10-hatched-drawing.webp",
+      "sha256": "bdcf7bb14691b8d921520b955c917690c193467e4bf24aca00bbc7d16c51dd90",
+      "bytes": 277504,
+      "from": "9954 page 4 — hatched drawing"
+    }
+  ]
+}
