@@ -1,0 +1,67 @@
+{
+  "project": "Tired Objects",
+  "dest": "assets/board/tired-objects-five-everyday-models-of-fatigue",
+  "note": "Portfolio b439 pages 9-13 cropped to 10 images, WebP q88 (PIL). Not used: process photos with hands and a student photo, magazine cover with brand name, plan sketch.",
+  "files": [
+    {
+      "name": "01-greenhouse-frame.webp",
+      "sha256": "8b458c30211797811685978cb858b6ff4f2d3a49fe8d6bcf3a49bf53ad6722dd",
+      "bytes": 74302,
+      "from": "b439 pages 9-13 — the neglected greenhouse"
+    },
+    {
+      "name": "02-greenhouse-interior.webp",
+      "sha256": "88740e6203fedc18cec0f5997e198bb14eb3f116fc77f88c35c924636f60663b",
+      "bytes": 164886,
+      "from": "b439 pages 9-13 — paper plants inside the greenhouse"
+    },
+    {
+      "name": "03-washer-pile.webp",
+      "sha256": "fee71fc9b21d9da18f46e637d2e5e9d3e7520386b132edcb365c531f8e00b022",
+      "bytes": 149570,
+      "from": "b439 pages 9-13 — a washer spilling cloth"
+    },
+    {
+      "name": "04-washer-side.webp",
+      "sha256": "ae6a810d96128440253b1258fe2483cf2c38361c947dda335e6e46213b73455e",
+      "bytes": 29368,
+      "from": "b439 pages 9-13 — the washer from the side"
+    },
+    {
+      "name": "05-shelf-cabinet.webp",
+      "sha256": "f896952773197d95ba517cabb2f2f1d6939ee19d392b98ad24d7f59dcfb7aaaa",
+      "bytes": 79986,
+      "from": "b439 pages 9-13 — the paper-lined cabinet"
+    },
+    {
+      "name": "06-shelf-interior.webp",
+      "sha256": "80b4f6b5294fe0f96399f473c864b667d23a25419679a01fb2108f3c42e79a39",
+      "bytes": 82550,
+      "from": "b439 pages 9-13 — inside the cabinet"
+    },
+    {
+      "name": "07-mesh-sink.webp",
+      "sha256": "5dae48be4f0ac1ac6db113ac52716e5437d802e7ffbcb726c9b20005be2ca0ec",
+      "bytes": 92598,
+      "from": "b439 pages 9-13 — the mesh sink"
+    },
+    {
+      "name": "08-sink-dishes.webp",
+      "sha256": "6954dad13934daa38f1dfd9d2e1c1bc1254bd38d7218ac332a95d355af899bbe",
+      "bytes": 61678,
+      "from": "b439 pages 9-13 — clay dishes in the sink"
+    },
+    {
+      "name": "09-loftbed-frame.webp",
+      "sha256": "6d559465d4eb78ddab89c67f55a344164c673f09220b31f4ff4e1ec0982ee242",
+      "bytes": 71844,
+      "from": "b439 pages 9-13 — the loft bed of torn fabric"
+    },
+    {
+      "name": "10-loftbed-cloud.webp",
+      "sha256": "1ab718935e7168c6a6755b7bfef8530d5fbd2d3ed35fdea7e7c4a4a628b403b0",
+      "bytes": 38244,
+      "from": "b439 pages 9-13 — the bed with its cotton cloud"
+    }
+  ]
+}
