@@ -1,0 +1,67 @@
+{
+  "project": "Puzzle-piece Calm Space",
+  "dest": "assets/board/puzzle-piece-calm-space-for-autistic-children",
+  "note": "Portfolio 0bc2 pages 8-9 cropped to ten images, WebP q88 (PIL). Not used: title and text, a reference chart of autism traits.",
+  "files": [
+    {
+      "name": "01-model-front.webp",
+      "sha256": "3fb1a0ba6f1458c62255496cdb4bb0f8a89e9176862ed67147847d456221d1b9",
+      "bytes": 54954,
+      "from": "0bc2 page 9 — model front"
+    },
+    {
+      "name": "02-needs-diagrams.webp",
+      "sha256": "cfdab94c4fa4fd132c5ca9a79cbe4d05028d148f1b7491e9bb84c3aec37ea182",
+      "bytes": 31046,
+      "from": "0bc2 page 8 — needs diagrams"
+    },
+    {
+      "name": "03-room-sketch.webp",
+      "sha256": "f643cee18c55b6e1ef49e3ea9c1db6d2d9404832841a64b328e413bfc04539fa",
+      "bytes": 52244,
+      "from": "0bc2 page 8 — room sketch"
+    },
+    {
+      "name": "04-unit-axons.webp",
+      "sha256": "af03fd81a13541afcd5ca1d878ff410bd02dcdf4024eeb1655a9791e8fe43c18",
+      "bytes": 35998,
+      "from": "0bc2 page 8 — unit axons"
+    },
+    {
+      "name": "05-digital-model.webp",
+      "sha256": "c3027bce739e8cda0dcf80047a0aea213903147ba1d6b4cf5308efc22e7ec9eb",
+      "bytes": 7506,
+      "from": "0bc2 page 8 — digital model"
+    },
+    {
+      "name": "06-model-side.webp",
+      "sha256": "9c1ddde7079b7c70810e99d1ef826757b26f2e3f2fa088580a14c9f2e043c4cf",
+      "bytes": 18454,
+      "from": "0bc2 page 9 — model side"
+    },
+    {
+      "name": "07-model-corner.webp",
+      "sha256": "fda593a2ad8f942ad9c59e058e6769e97cccb5ee5a90199a131773349c7d1071",
+      "bytes": 19556,
+      "from": "0bc2 page 9 — model corner"
+    },
+    {
+      "name": "08-ramp-hall.webp",
+      "sha256": "49a48dcb507d6a5f743621ba05dc3e73e9222e553539c3b5c6039121e5903a68",
+      "bytes": 12226,
+      "from": "0bc2 page 9 — ramp hall"
+    },
+    {
+      "name": "09-quiet-room.webp",
+      "sha256": "68f9fe530239921e8515d24c4dbcab27a3b9f6557a12d2cfe8a75f51a3498e63",
+      "bytes": 7190,
+      "from": "0bc2 page 9 — quiet room"
+    },
+    {
+      "name": "10-ramp-tangle.webp",
+      "sha256": "634ce29c969bd12a9ba6d59d3e43560b7acc9a0633bc293e3cd4b50d12e79f43",
+      "bytes": 10942,
+      "from": "0bc2 page 9 — ramp tangle"
+    }
+  ]
+}
