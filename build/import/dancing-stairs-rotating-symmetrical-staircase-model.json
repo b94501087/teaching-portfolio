@@ -1,0 +1,67 @@
+{
+  "project": "Dancing Stairs",
+  "dest": "assets/board/dancing-stairs-rotating-symmetrical-staircase-model",
+  "note": "Portfolio 222e pages 12-14 cropped to 10 images, WebP q88 (PIL). Not used: photographs of dancers on stage, pencil sketch sheets, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-spiral-stair-temple.webp",
+      "sha256": "0a3bcd04e57d72ad1a941c506120198568b0a46ae308b9069fdbc2eda6495e88",
+      "bytes": 41854,
+      "from": "222e pages 12-14 — the spiral stair temple"
+    },
+    {
+      "name": "02-colour-sketch.webp",
+      "sha256": "514fda4bb33490e1537ac14a3c3046e55bc975afb4fd8d8fafbfe1d5b85b3822",
+      "bytes": 76264,
+      "from": "222e pages 12-14 — a colour sketch of movement"
+    },
+    {
+      "name": "03-pink-model-studies.webp",
+      "sha256": "10df6603611793199dd5488789df2aa8f39a2941e9bffd6f9a65944c6d11a49e",
+      "bytes": 114118,
+      "from": "222e pages 12-14 — pink model studies"
+    },
+    {
+      "name": "04-white-rib-models.webp",
+      "sha256": "0d1663e22d0270d54f233a087fd1b28a5bfd337f54cc99385f250fca180bef78",
+      "bytes": 41168,
+      "from": "222e pages 12-14 — white rib models"
+    },
+    {
+      "name": "05-stair-interior.webp",
+      "sha256": "4d9fc33a44bce99ed145e70ed6efb102b57954ca30720e74b7c070503352fd40",
+      "bytes": 57964,
+      "from": "222e pages 12-14 — the stair interior"
+    },
+    {
+      "name": "06-arched-doorway.webp",
+      "sha256": "d02b5137bfcd63dc44790e22d300af693091ea087bea5db78bc35918ee58f2a6",
+      "bytes": 26984,
+      "from": "222e pages 12-14 — an arched doorway"
+    },
+    {
+      "name": "07-stair-through-opening.webp",
+      "sha256": "96f01600e569486fc9957d44edae4663cfbbdca0a75b0956c624db1c13ab6f64",
+      "bytes": 35316,
+      "from": "222e pages 12-14 — a stair seen through an opening"
+    },
+    {
+      "name": "08-final-spiral-oblique.webp",
+      "sha256": "bf2c70c123f107603c10acebad10f476bb7222e9726f5c6efcb4424ac482423e",
+      "bytes": 75826,
+      "from": "222e pages 12-14 — the spiral in oblique view"
+    },
+    {
+      "name": "09-final-double-spiral.webp",
+      "sha256": "da9c34ae5fc946aaa178a352470cc78f8375dda1b2cc317777a43d350c88d106",
+      "bytes": 55424,
+      "from": "222e pages 12-14 — the double spiral"
+    },
+    {
+      "name": "10-stair-edge-detail.webp",
+      "sha256": "08e91468dddea6b56d474d2b784da25aa49ac99b5be099e8d7664901e2dc7893",
+      "bytes": 50880,
+      "from": "222e pages 12-14 — a stair edge detail"
+    }
+  ]
+}
