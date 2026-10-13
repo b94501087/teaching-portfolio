@@ -1,0 +1,43 @@
+{
+  "project": "Hero in Motion",
+  "dest": "assets/board/hero-in-motion-hinged-stick-modules",
+  "note": "Portfolio b4db page 4 cropped to 6 images, WebP q88 (PIL). Not used: photos of the student acting out moves, character figure photos, character name.",
+  "files": [
+    {
+      "name": "01-hinged-stick-model.webp",
+      "sha256": "0c2a4f9cebf5f49a19b142395e0ebfbea0c1e650779dabe1d8bcb4dba2fa0fef",
+      "bytes": 150036,
+      "from": "b4db page 4 — the hinged stick model"
+    },
+    {
+      "name": "02-motion-line-drawings.webp",
+      "sha256": "c2de84953a054f8821c3352fd4417ceb7a0e2b9d062d8df11a5ca8c1a192b779",
+      "bytes": 126074,
+      "from": "b4db page 4 — motion line drawings"
+    },
+    {
+      "name": "03-stick-modules-top.webp",
+      "sha256": "c3938b15202ba08d35890d22120963c1e0a6f118c0b1f204ed1678ef0efc590a",
+      "bytes": 49210,
+      "from": "b4db page 4 — modules from above"
+    },
+    {
+      "name": "04-stick-modules-turning.webp",
+      "sha256": "254df41104a1e8626d317f4e8ce9b11c129fa7ccf2fc84d72a9b28aee0048230",
+      "bytes": 55338,
+      "from": "b4db page 4 — modules turning"
+    },
+    {
+      "name": "05-stick-modules-close-up.webp",
+      "sha256": "21f95318234e3eff325af3aca4c22c6217703a5d8cf98f1ef003a29fa5757d5e",
+      "bytes": 40202,
+      "from": "b4db page 4 — modules close up"
+    },
+    {
+      "name": "06-stick-modules-side.webp",
+      "sha256": "bbb63b7084b4e78a3b946d5724452a49510dd6f1953e81d13771fb41dc81023f",
+      "bytes": 53054,
+      "from": "b4db page 4 — modules from the side"
+    }
+  ]
+}
