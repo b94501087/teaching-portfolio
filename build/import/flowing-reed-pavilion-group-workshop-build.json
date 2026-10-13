@@ -1,0 +1,49 @@
+{
+  "project": "Flowing Reed Pavilion",
+  "dest": "assets/board/flowing-reed-pavilion-group-workshop-build",
+  "note": "Portfolio 47e5 page 16 cropped to seven images, WebP q88 (PIL). Not used: title and text, construction photos showing people, participant names and the site name.",
+  "files": [
+    {
+      "name": "01-final-pavilion.webp",
+      "sha256": "4b67c3c98b67a10050cadf13412011a288b4203b45e3a33cc4f74879d376b8b0",
+      "bytes": 176544,
+      "from": "47e5 page 16 — final pavilion"
+    },
+    {
+      "name": "02-wire-sketches.webp",
+      "sha256": "d99b51e69457dc97d07a7f8f32f200dafd7be86adc3996ddd12e4258a56c4cdb",
+      "bytes": 16196,
+      "from": "47e5 page 16 — wire sketches"
+    },
+    {
+      "name": "03-model-one.webp",
+      "sha256": "d440a5cb9b60b1fd0c37a61f7b83bf12a124469526d4af2ea51da0b0c27ccf86",
+      "bytes": 16452,
+      "from": "47e5 page 16 — model one"
+    },
+    {
+      "name": "04-model-two.webp",
+      "sha256": "620cf4698dec800aa1f0c0ac46a8e7139b1ec4150f7e115b752a095e5dbfaf72",
+      "bytes": 14068,
+      "from": "47e5 page 16 — model two"
+    },
+    {
+      "name": "05-model-three.webp",
+      "sha256": "85580ca4069c0ba9a5cd51a42fe10e39cb3221a6f91047b7e6379fbf0571bdad",
+      "bytes": 14542,
+      "from": "47e5 page 16 — model three"
+    },
+    {
+      "name": "06-reed-columns.webp",
+      "sha256": "9897654f417464bbaec6ab466c7c7df38902ac4834f58b127c1aef508e4ec258",
+      "bytes": 24196,
+      "from": "47e5 page 16 — reed columns"
+    },
+    {
+      "name": "07-woven-panel.webp",
+      "sha256": "6be6f6e5800493372ffa7e1656b0f9176148e6ccf968f2f00c52f3ee52620c2a",
+      "bytes": 11690,
+      "from": "47e5 page 16 — woven panel"
+    }
+  ]
+}
