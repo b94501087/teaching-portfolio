@@ -1,0 +1,67 @@
+{
+  "project": "Gravity Torsion",
+  "dest": "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks",
+  "note": "Portfolio d669 pages 2-3 cropped to 10 images, WebP q88 (PIL). Not used: film title and director name, accidental collage, stylised title graphic, photos of hands holding stair pieces.",
+  "files": [
+    {
+      "name": "01-twisted-stair-tower.webp",
+      "sha256": "3ac603425aed84e74b11e7180fed9fe1d74eaf4872488aa48eb23c9e423d12c7",
+      "bytes": 160552,
+      "from": "d669 pages 2-3 — the twisted stair tower"
+    },
+    {
+      "name": "02-stair-element-studies.webp",
+      "sha256": "28dee2019eaeba15fbec4382e852ff25819f5e64746643061ac83492d50d3de1",
+      "bytes": 58668,
+      "from": "d669 pages 2-3 — studies of stair elements"
+    },
+    {
+      "name": "03-stair-pieces-from-above.webp",
+      "sha256": "504dfc0711008bb27b8950caa520e266058500c36d1bc3364692e483334867f2",
+      "bytes": 55214,
+      "from": "d669 pages 2-3 — stair pieces from above"
+    },
+    {
+      "name": "04-stair-tower-close-a.webp",
+      "sha256": "72c0bdab3fa6558aa891196f86688de84c45004d7e96a57bb31b2ad2a374d7ba",
+      "bytes": 41366,
+      "from": "d669 pages 2-3 — stairs up close"
+    },
+    {
+      "name": "05-stair-tower-close-b.webp",
+      "sha256": "36666c9612c9ae17fbaf008a017061f36258430f7c75db11386adff87651c831",
+      "bytes": 55354,
+      "from": "d669 pages 2-3 — stairs and sticks"
+    },
+    {
+      "name": "06-spiral-stairs-and-sticks.webp",
+      "sha256": "21cd49b181f851bf7d51c1ebabbe8f863e521d3a297e2b5adf08da8316bb97be",
+      "bytes": 99710,
+      "from": "d669 pages 2-3 — spiralling stairs"
+    },
+    {
+      "name": "07-stairs-through-sticks.webp",
+      "sha256": "a7da03ba63f1b21c3392a3808a42fab095ba47276f1233318fd969a5fb661d7f",
+      "bytes": 108122,
+      "from": "d669 pages 2-3 — stairs threaded with sticks"
+    },
+    {
+      "name": "08-figures-on-twisted-stairs.webp",
+      "sha256": "0fa0622bf591364909b26412fde4bec3f312e0661dc3f39c3577674952396af5",
+      "bytes": 156492,
+      "from": "d669 pages 2-3 — figures on the twisted stairs"
+    },
+    {
+      "name": "09-crossing-stairs-view.webp",
+      "sha256": "b8685585892bb3cc3dc9f2144825a238352631521247c3c1367938aa088d3a20",
+      "bytes": 132244,
+      "from": "d669 pages 2-3 — crossing stairs"
+    },
+    {
+      "name": "10-figure-in-stair-tower.webp",
+      "sha256": "814ead1cd80fbac280a691ee9423af07bcd57e9dbb05c0e95b55b5bbb5de554d",
+      "bytes": 88754,
+      "from": "d669 pages 2-3 — a figure inside the tower"
+    }
+  ]
+}
