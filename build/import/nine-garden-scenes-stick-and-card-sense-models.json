@@ -1,0 +1,49 @@
+{
+  "project": "Nine Garden Scenes",
+  "dest": "assets/board/nine-garden-scenes-stick-and-card-sense-models",
+  "note": "Portfolio 3dee pages 8-9 cropped to 7 images, WebP q88 (PIL). Not used: cover page, process photos with people and hands, garden name.",
+  "files": [
+    {
+      "name": "01-garden-model-cluster.webp",
+      "sha256": "215d4d5328562e4d21efc8778bdb06473eb925ba9c0be597a454c33a85395230",
+      "bytes": 249604,
+      "from": "3dee page 8-9 — the nine models joined together"
+    },
+    {
+      "name": "02-bird-eye-sketch.webp",
+      "sha256": "0c0ae2d72fe0e789bce1158b785956444fd9de3658eb07ed7d712abf3b0d38fd",
+      "bytes": 97302,
+      "from": "3dee page 8-9 — a bird's-eye sketch of the scenes"
+    },
+    {
+      "name": "03-route-plan-sketch.webp",
+      "sha256": "ecbcfdca3176f1069a2974c9c0badd257982bec150a03cbc340f4f0c6f8042e2",
+      "bytes": 105410,
+      "from": "3dee page 8-9 — nine spots marked on a garden plan"
+    },
+    {
+      "name": "04-making-the-models.webp",
+      "sha256": "6fe9edbb5767673a5aac0972516fd0314090f4fcf0d5c6bc744fc9a1d3f5196a",
+      "bytes": 245632,
+      "from": "3dee page 8-9 — models in progress on the desk"
+    },
+    {
+      "name": "05-nine-models.webp",
+      "sha256": "dae0d290853cc27f21d438c1ff05579c96b65e249225d2ac02b64fafd048cdaf",
+      "bytes": 111194,
+      "from": "3dee page 8-9 — several of the nine models"
+    },
+    {
+      "name": "06-small-pavilions.webp",
+      "sha256": "8791fecad78b387ecb5b1268ee1c391f3d3c36f04479d80d72d765e1b5ae8a37",
+      "bytes": 63528,
+      "from": "3dee page 8-9 — stick pavilions on card walls"
+    },
+    {
+      "name": "07-joined-models.webp",
+      "sha256": "6f0afb65e64a0cadb0bc5c45f57346fda7e099914db1bb44da27a1c650925f0a",
+      "bytes": 112556,
+      "from": "3dee page 8-9 — the joined models from the side"
+    }
+  ]
+}
