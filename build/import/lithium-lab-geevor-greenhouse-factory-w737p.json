@@ -1,0 +1,16 @@
+{
+  "project": "Lithium Lab Geevor",
+  "dest": "assets/board/lithium-lab-geevor-greenhouse-factory",
+  "note": "w737p restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-context-and-history.webp",
+      "sha256": "3165ea2094a5d6a40fc8597ae211e5c15bb6246d719d9a00368f2529e6afbf95",
+      "bytes": 212262,
+      "from": "restored reference image (site context and history)"
+    }
+  ],
+  "delete": [
+    "assets/board/lithium-lab-geevor-greenhouse-factory/10-construction-explodes.webp"
+  ]
+}
