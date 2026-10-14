@@ -1,0 +1,13 @@
+{
+  "project": "The Trajectories of the Cosmos",
+  "dest": "assets/board/trajectories-of-the-cosmos-orbit-rings-tower",
+  "note": "w738j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-orbit-charts.webp",
+      "sha256": "136d7865ba82f788c11a22ceb37a667e0bd5fb5b5ea802655864c4688f587bca",
+      "bytes": 22104,
+      "from": "restored reference image (orbit charts)"
+    }
+  ]
+}
