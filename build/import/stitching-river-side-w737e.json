@@ -1,0 +1,19 @@
+{
+  "project": "Stitching River Side",
+  "dest": "assets/board/stitching-river-side",
+  "note": "w737e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-site-history-and-problems.webp",
+      "sha256": "85b582720f31bbfeb4dd45dd7b740c9b3f4c36d611e920d57226e62e32992da1",
+      "bytes": 165112,
+      "from": "restored reference image (site history and problems)"
+    },
+    {
+      "name": "10-satellite-site-analysis.webp",
+      "sha256": "85adaf559a053f9877f8d9d91e1ac705e798720906981198636f7dfa40f567f3",
+      "bytes": 238688,
+      "from": "restored reference image (satellite site analysis)"
+    }
+  ]
+}
