@@ -1,0 +1,13 @@
+{
+  "project": "Tree, Nest and Root",
+  "dest": "assets/board/tree-nest-and-root-tree-spaces-and-ant-tunnels",
+  "note": "w738g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-experiment-observation-photos.webp",
+      "sha256": "bf0c1e6d57d659f67f7c2feae93783f089ebbeb5b80bd2e4ffba3abc1f8292cb",
+      "bytes": 222770,
+      "from": "restored reference image (experiment observation photos)"
+    }
+  ]
+}
