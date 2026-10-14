@@ -22,22 +22,10 @@
       "from": "9954 page 5 — folded study"
     },
     {
-      "name": "04-pyramid-row.webp",
-      "sha256": "e345adec681b03b0113319a0a579c9b5cc0fb7d00dcd642cdbc577e9379ab5c1",
-      "bytes": 7466,
-      "from": "9954 page 5 — pyramid row"
-    },
-    {
       "name": "05-stick-cluster.webp",
       "sha256": "4d9395419c719d5af324bdcfe14ef05a2b3375562bd226a4d51dc96c5ff90cbc",
       "bytes": 14646,
       "from": "9954 page 5 — stick cluster"
-    },
-    {
-      "name": "06-close-view.webp",
-      "sha256": "c0812e3eed1f9480688328e06a761231328102c424d001fd7daf35a8a579be33",
-      "bytes": 19248,
-      "from": "9954 page 5 — close view"
     },
     {
       "name": "07-striped-form.webp",
@@ -62,6 +50,18 @@
       "sha256": "34093e4dac7d671b815e44240e312b97ce2736ab3bb66e26be3c36de2f0fba7b",
       "bytes": 44408,
       "from": "9954 page 6 — green collage"
+    },
+    {
+      "name": "11-squash-match-photo.webp",
+      "sha256": "0577eee870cf1b5c52f60795c7803f9a45a253f4e5da81e164ed4cd18512c74d",
+      "bytes": 9622,
+      "from": "restored reference image (squash match photo)"
+    },
+    {
+      "name": "12-wearing-the-sculpture.webp",
+      "sha256": "72e614b8223d285e597775a0c1e36775be2ad63098ab7ecc3046abb9626bacf0",
+      "bytes": 92672,
+      "from": "restored reference image (wearing the sculpture)"
     }
   ]
 }

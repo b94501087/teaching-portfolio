@@ -34,12 +34,6 @@
       "from": "cd80 page 2 — tidal zones"
     },
     {
-      "name": "06-tank-test.webp",
-      "sha256": "b8aa536f748920941ff68ad175035a623aca1a9bf2a8ac749e0a7cc8b8853c91",
-      "bytes": 6520,
-      "from": "cd80 page 3 — tank test"
-    },
-    {
       "name": "07-concept-sketch.webp",
       "sha256": "caad4f121b73798f1ab267a7c8550a4906756f6874da0419d7cbe1b28ace5d8c",
       "bytes": 36012,
@@ -58,10 +52,16 @@
       "from": "cd80 page 4 — buried level"
     },
     {
-      "name": "10-pillar-detail.webp",
-      "sha256": "5538bb778c111a633c64a406a7cfad20e886f5ef1a91b175ff7a68962cd45063",
-      "bytes": 15958,
-      "from": "cd80 page 4 — pillar detail"
+      "name": "11-mangrove-simulation.webp",
+      "sha256": "c1588f55a6b9403a34f9030d9cac00fcad776601e025c1e0e41c5de72cb34531",
+      "bytes": 105876,
+      "from": "restored reference image (mangrove simulation)"
+    },
+    {
+      "name": "12-making-by-hand.webp",
+      "sha256": "0aa425842fb84cd1bf43eb59e73aa15a79456d5f51b1023591da0f6de9028bf2",
+      "bytes": 24406,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }

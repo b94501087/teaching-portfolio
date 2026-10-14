@@ -10,12 +10,6 @@
       "from": "9954 page 4 — final tower"
     },
     {
-      "name": "02-game-still.webp",
-      "sha256": "2a18928d6aef08e6f04a90dd9e308eecefee78f3fb149a362d299db723303952",
-      "bytes": 10602,
-      "from": "9954 page 2 — game still"
-    },
-    {
       "name": "03-early-build.webp",
       "sha256": "1780305423d304fc176e2091021215ee2eb9e065f5423bbdd58afd8823d9e543",
       "bytes": 14758,
@@ -32,12 +26,6 @@
       "sha256": "eb7fada63a2902087c2d6d03e6adcd008937254b0f430db1c7403fe7a2d990be",
       "bytes": 65660,
       "from": "9954 page 2 — street view"
-    },
-    {
-      "name": "06-top-view.webp",
-      "sha256": "bb62ba6648291a9ce0ef770dd1bcddf65075f0468d0f80d93d8a5dcb1e1b2d14",
-      "bytes": 19110,
-      "from": "9954 page 3 — top view"
     },
     {
       "name": "07-ring-route.webp",
@@ -62,6 +50,18 @@
       "sha256": "bdcf7bb14691b8d921520b955c917690c193467e4bf24aca00bbc7d16c51dd90",
       "bytes": 277504,
       "from": "9954 page 4 — hatched drawing"
+    },
+    {
+      "name": "11-game-stills-and-map.webp",
+      "sha256": "15a126df19bf770943918a35781c9a424e25bd9a1fe7f6a50ed3c5d69dfe0b60",
+      "bytes": 69974,
+      "from": "restored reference image (game stills and map)"
+    },
+    {
+      "name": "12-building-by-hand.webp",
+      "sha256": "862a78cae9e431b6c440341c83b2ca0cae61510a76d965e8229aedefff3ca0a1",
+      "bytes": 10214,
+      "from": "restored reference image (building by hand)"
     }
   ]
 }

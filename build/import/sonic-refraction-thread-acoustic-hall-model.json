@@ -46,16 +46,22 @@
       "from": "cd80 page 8 — floor view"
     },
     {
-      "name": "08-long-view.webp",
-      "sha256": "0c555f3470f5e0bcdca9867af8e2b772083c424ef12b1be5f25da131b99bf548",
-      "bytes": 16256,
-      "from": "cd80 page 8 — long view"
-    },
-    {
       "name": "09-figure-view.webp",
       "sha256": "7b3b082560ee76712920b1dd3b7fb4af7151627f0b87096d2d9d34ebed48503e",
       "bytes": 13424,
       "from": "cd80 page 8 — figure view"
+    },
+    {
+      "name": "10-precedent-hall.webp",
+      "sha256": "005c942015ae61a718b891c988688091913e5f8611585ec0cbb6d275d5ea2e27",
+      "bytes": 49654,
+      "from": "restored reference image (precedent hall)"
+    },
+    {
+      "name": "11-building-the-model.webp",
+      "sha256": "d4b8bcfeaf053f186adff36a7c32ae42d36aa2a0f1e96e1702cc259402f29b33",
+      "bytes": 19734,
+      "from": "restored reference image (building the model)"
     }
   ]
 }
