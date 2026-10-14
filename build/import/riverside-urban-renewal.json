@@ -28,12 +28,6 @@
       "from": "page 27 — master plan of the youth entertainment zone, x 0–42 %, y 0–58.5 %"
     },
     {
-      "name": "05-youth-zone-design-process.webp",
-      "sha256": "6da059553700299eeb54d07193c51f87f79aa79d3dfb0286914ebd02c1d3e232",
-      "bytes": 32856,
-      "from": "page 27 — design process diagrams, x 0–42 %, y 59–100 %"
-    },
-    {
       "name": "06-youth-zone-rendering.webp",
       "sha256": "cab81a4463b6b753a50afeac21970f3008914979198653b25459bbee7061205f",
       "bytes": 45554,
@@ -46,12 +40,6 @@
       "from": "page 27 — section perspective, x 42.5–84.5 %, y 59.2–100 %"
     },
     {
-      "name": "08-hydrophilic-design-analysis.webp",
-      "sha256": "c73eb0e334517b14ffde43379d1eb928e9e0d624cfb32460b8fb2a3ad55ffd7b",
-      "bytes": 79270,
-      "from": "page 28 — design analysis sketch and renderings, x 0–100 %, y 0–42 %"
-    },
-    {
       "name": "09-opera-stage-renderings.webp",
       "sha256": "c04286abc020bebf59f4ee24fe979f3024bc8e53b94a5f0ab6a899152b1e85ce",
       "bytes": 103856,
@@ -62,6 +50,18 @@
       "sha256": "6f6a413764609f4adc7bb95f31cef46c3680c0f188c3d9696fe5682d698e4389",
       "bytes": 74190,
       "from": "page 29 — plan of the opera stage, x 63–100 %, y 0–100 %"
+    },
+    {
+      "name": "11-theory-framework.webp",
+      "sha256": "78a4d1ceae9b7bd5d0c9e79cc2691b1b92752f0303ee3b84d79cb1fb737c38d0",
+      "bytes": 131672,
+      "from": "restored reference image (theory framework)"
+    },
+    {
+      "name": "12-site-users-analysis.webp",
+      "sha256": "92995172777bed7e0de8dc1bb06bdc6476b2e52cf3a75bbb642593837f3b8daa",
+      "bytes": 108300,
+      "from": "restored reference image (site users analysis)"
     }
   ]
 }

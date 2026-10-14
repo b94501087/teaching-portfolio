@@ -1,0 +1,23 @@
+{
+  "project": "Riverside Urban Renewal",
+  "dest": "assets/board/riverside-urban-renewal",
+  "note": "w737e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-theory-framework.webp",
+      "sha256": "78a4d1ceae9b7bd5d0c9e79cc2691b1b92752f0303ee3b84d79cb1fb737c38d0",
+      "bytes": 131672,
+      "from": "restored reference image (theory framework)"
+    },
+    {
+      "name": "12-site-users-analysis.webp",
+      "sha256": "92995172777bed7e0de8dc1bb06bdc6476b2e52cf3a75bbb642593837f3b8daa",
+      "bytes": 108300,
+      "from": "restored reference image (site users analysis)"
+    }
+  ],
+  "delete": [
+    "assets/board/riverside-urban-renewal/05-youth-zone-design-process.webp",
+    "assets/board/riverside-urban-renewal/08-hydrophilic-design-analysis.webp"
+  ]
+}
