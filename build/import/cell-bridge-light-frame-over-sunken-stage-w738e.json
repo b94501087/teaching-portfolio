@@ -1,0 +1,19 @@
+{
+  "project": "Cell Bridge",
+  "dest": "assets/board/cell-bridge-light-frame-over-sunken-stage",
+  "note": "w738e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-high-line-site-photo.webp",
+      "sha256": "20fd8e194351ee7c9c63ef068266241de1c8a219edc3c0e2706fabcb256f8d03",
+      "bytes": 12596,
+      "from": "restored reference image (high line site photo)"
+    },
+    {
+      "name": "10-making-on-the-mat.webp",
+      "sha256": "df8893d0149b6c5b5b58d84dd0190dabc6e5809677100ab5f8c045342d638f88",
+      "bytes": 49816,
+      "from": "restored reference image (making on the mat)"
+    }
+  ]
+}
