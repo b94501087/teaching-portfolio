@@ -50,6 +50,18 @@
       "sha256": "a7a75bb11da9faa92487dc4f9e49b6f9a68c23583d7c96067cebf03f12bf95e8",
       "bytes": 48852,
       "from": "956b pages 8-9 — string planes at an angle"
+    },
+    {
+      "name": "09-guitar-player-photos.webp",
+      "sha256": "432dd1e0af61ccafe5c7d9548160ac74385afe85bf7f09e14cf05e3387df7ba9",
+      "bytes": 19420,
+      "from": "restored reference image (guitar player photos)"
+    },
+    {
+      "name": "10-chord-chart-and-guitar.webp",
+      "sha256": "7ebb1afe0103dfa5ce0b9b7f611ebb06eda6e3a50d4945ac4e458367969148ee",
+      "bytes": 30000,
+      "from": "restored reference image (chord chart and guitar)"
     }
   ]
 }
