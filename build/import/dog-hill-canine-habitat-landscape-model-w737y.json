@@ -1,0 +1,16 @@
+{
+  "project": "Dog Hill",
+  "dest": "assets/board/dog-hill-canine-habitat-landscape-model",
+  "note": "w737y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-inspiration-board.webp",
+      "sha256": "845c9f55b4b8f777fd3d0086a9e8bc35abc51c6490d65a8c5591153d109aed94",
+      "bytes": 29418,
+      "from": "restored reference image (inspiration board)"
+    }
+  ],
+  "delete": [
+    "assets/board/dog-hill-canine-habitat-landscape-model/09-flower-view.webp"
+  ]
+}

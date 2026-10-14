@@ -52,16 +52,16 @@
       "from": "b66d page 9 — caves view"
     },
     {
-      "name": "09-flower-view.webp",
-      "sha256": "70ce0c7e67712a281371d8dfe62d10786a10fec9ff79ecf6604c579fe87144b4",
-      "bytes": 25462,
-      "from": "b66d page 9 — flower view"
-    },
-    {
       "name": "10-top-view.webp",
       "sha256": "698492e44a188ead99b696b25f091504830175733956404e3a04231145324122",
       "bytes": 42950,
       "from": "b66d page 9 — top view"
+    },
+    {
+      "name": "11-inspiration-board.webp",
+      "sha256": "845c9f55b4b8f777fd3d0086a9e8bc35abc51c6490d65a8c5591153d109aed94",
+      "bytes": 29418,
+      "from": "restored reference image (inspiration board)"
     }
   ]
 }
