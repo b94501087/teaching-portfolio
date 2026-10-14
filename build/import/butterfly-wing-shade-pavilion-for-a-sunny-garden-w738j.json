@@ -1,0 +1,13 @@
+{
+  "project": "Butterfly-Wing Shade Pavilion",
+  "dest": "assets/board/butterfly-wing-shade-pavilion-for-a-sunny-garden",
+  "note": "w738j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-site-photos.webp",
+      "sha256": "caf2c8bda054b26e34cd0d2b3db9501428ec37920b5464cd388b94da333a163f",
+      "bytes": 37286,
+      "from": "restored reference image (site photos)"
+    }
+  ]
+}
