@@ -1,0 +1,19 @@
+{
+  "project": "Urban Form",
+  "dest": "assets/board/urban-form-lines-planes-and-boxes-in-wood-and-pvc",
+  "note": "w738w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-reference-collage.webp",
+      "sha256": "a1749370e719421f1dc381d1d8eb61c381aa37c50351ad5fe4acd9e5f46061bc",
+      "bytes": 39426,
+      "from": "restored reference image (reference collage)"
+    },
+    {
+      "name": "09-building-by-hand.webp",
+      "sha256": "d190119c2dd20438875b138f9897d1a907597a055e3b9b488c26ae8105037dbd",
+      "bytes": 101836,
+      "from": "restored reference image (building by hand)"
+    }
+  ]
+}
