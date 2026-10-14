@@ -1,0 +1,22 @@
+{
+  "project": "Floating Bark",
+  "dest": "assets/board/floating-bark-wooden-stick-canopy-on-wire",
+  "note": "w738u restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-tree-and-bark-references.webp",
+      "sha256": "28cc2b782b64026fa734825ae39321f28d2ba48dde5641b6608cfcd13356ee25",
+      "bytes": 75812,
+      "from": "restored reference image (tree and bark references)"
+    },
+    {
+      "name": "11-weaving-sticks-by-hand.webp",
+      "sha256": "236c6521c3b811ff898cebe14af6e4af272e4bb9c7a589531558d3671302769d",
+      "bytes": 33738,
+      "from": "restored reference image (weaving sticks by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/floating-bark-wooden-stick-canopy-on-wire/05-lattice-side-b.webp"
+  ]
+}
