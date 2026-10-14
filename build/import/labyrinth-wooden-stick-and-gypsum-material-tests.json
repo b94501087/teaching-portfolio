@@ -1,0 +1,67 @@
+{
+  "project": "Labyrinth",
+  "dest": "assets/board/labyrinth-wooden-stick-and-gypsum-material-tests",
+  "note": "Portfolio e3bb page 4 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text with a named architect and building, brick texture photos, process photos with hands.",
+  "files": [
+    {
+      "name": "01-stick-labyrinth.webp",
+      "sha256": "e202d44ad6162d87f776d0fbbb5bd7c3c5aa9ce6437224aab0ee01af0e11545b",
+      "bytes": 55756,
+      "from": "e3bb page 4 — the stick labyrinth"
+    },
+    {
+      "name": "02-pattern-studies.webp",
+      "sha256": "c5e39c39ac878a571eb738ecf1625f5d5e735d3c75a6b74d4c59c4d6dbde413b",
+      "bytes": 30784,
+      "from": "e3bb page 4 — studies of the first pattern"
+    },
+    {
+      "name": "03-material-tests.webp",
+      "sha256": "31646080dcf8f78542a76e23553600d614dba6ef4c533627512b5e3b401bdb2d",
+      "bytes": 15574,
+      "from": "e3bb page 4 — material tests of the first pattern"
+    },
+    {
+      "name": "04-pattern-model.webp",
+      "sha256": "1d9ac167b50c8e3e65a950e7269ef8fa69cd5839ca2636163d32d23a6f91004e",
+      "bytes": 12618,
+      "from": "e3bb page 4 — a model of layered blocks"
+    },
+    {
+      "name": "05-stacked-frame.webp",
+      "sha256": "21fddabf361aee9bb947960a93d6be14684c588587401d4967a8fc36aa13ae3c",
+      "bytes": 22210,
+      "from": "e3bb page 4 — the stacked stick frame"
+    },
+    {
+      "name": "06-frame-low.webp",
+      "sha256": "51530204920c8ad96668238e50ea135f1feb30a9a872b0f6b6031b973eb71e59",
+      "bytes": 17982,
+      "from": "e3bb page 4 — a low view of the frame"
+    },
+    {
+      "name": "07-curved-planes-top.webp",
+      "sha256": "d5634e2f09a416d9d8c0be4ca5ae2a494225c2d3afd7647592b292bd4643b3ff",
+      "bytes": 22194,
+      "from": "e3bb page 4 — curved planes seen from above"
+    },
+    {
+      "name": "08-curved-planes.webp",
+      "sha256": "558ab1a07297878ece0a7053d8569b7bb7f95829812b0dad73b43ed2b9738853",
+      "bytes": 18800,
+      "from": "e3bb page 4 — curved planes among sticks"
+    },
+    {
+      "name": "09-stick-forest.webp",
+      "sha256": "4a77215faba0ee5caaa9679e31ed4d1c57e8019c07e3eca0450e68281201a3f6",
+      "bytes": 40748,
+      "from": "e3bb page 4 — a forest of sticks and planes"
+    },
+    {
+      "name": "10-pattern-sketch.webp",
+      "sha256": "51fba131a23af85c1aa6458bbcfbdddbca4aaa801c44d7bea512c61f7c1f5ffb",
+      "bytes": 9502,
+      "from": "e3bb page 4 — sketches of the second pattern"
+    }
+  ]
+}
