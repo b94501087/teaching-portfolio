@@ -1,0 +1,67 @@
+{
+  "project": "Re-Creation",
+  "dest": "assets/board/re-creation-wooden-brick-activity-space-with-trees",
+  "note": "Portfolio d39e pages 5-6 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, site photo collages and diagrams, brick test photo with hands, mixed-media first model, brick close-up.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "0aa75eba6229acd560b1a16a0a8a34389d2c06d482a9d5939fc4d3e8a0d8d019",
+      "bytes": 83096,
+      "from": "d39e pages 5-6 — the final activity space of wooden bricks"
+    },
+    {
+      "name": "02-pattern-tiles.webp",
+      "sha256": "3ba21a77de942b05ee1ce544aaa8ccf051956d3e04d9be217c9b572b2d89fe4b",
+      "bytes": 124460,
+      "from": "d39e pages 5-6 — a grid of pattern tiles"
+    },
+    {
+      "name": "03-ink-drawing.webp",
+      "sha256": "cc3f621dd25d4a371d9a27f443e74be1c818c8cbca4471f792c81f271e809f40",
+      "bytes": 50066,
+      "from": "d39e pages 5-6 — an ink drawing of curved layers"
+    },
+    {
+      "name": "04-brick-sketches.webp",
+      "sha256": "f7ff05b6a38b6b41aad1a02e01caa15c11ae0c11400ae9470d506ad99ebf888a",
+      "bytes": 20186,
+      "from": "d39e pages 5-6 — sketches of brick walls"
+    },
+    {
+      "name": "05-brick-stacks-a.webp",
+      "sha256": "e326277c9ab46f21c3a836f57f34cfa6179899e5cb0d518acd7223f8f3249810",
+      "bytes": 22576,
+      "from": "d39e pages 5-6 — brick stacking tests"
+    },
+    {
+      "name": "06-brick-stacks-b.webp",
+      "sha256": "23d1694202eca57ea4c875c39d5523d35b723d56b896422626a084283ca5036c",
+      "bytes": 19964,
+      "from": "d39e pages 5-6 — further stacking tests"
+    },
+    {
+      "name": "07-curved-brick-wall.webp",
+      "sha256": "73a6a000828ccf9867c11c0504feb199050cbf55d5cd5a69800ac26ce15e500b",
+      "bytes": 47312,
+      "from": "d39e pages 5-6 — a curved brick wall"
+    },
+    {
+      "name": "08-model-side-view.webp",
+      "sha256": "473af39a756b2ab37f74a8a7f15937ddd19020264e08a3048690fbff704ce8f5",
+      "bytes": 95210,
+      "from": "d39e pages 5-6 — the model from the side"
+    },
+    {
+      "name": "09-seating-close-up.webp",
+      "sha256": "594eb56e52f7d7d229534daed5390756e9fcc60da82c7c61fcc74f2f3d2d69eb",
+      "bytes": 201626,
+      "from": "d39e pages 5-6 — blocks used as seats beneath a tree"
+    },
+    {
+      "name": "10-detail-views.webp",
+      "sha256": "6c2af9ed257b6ca7530965e826728e40794b5ef0f81ccd11cccd0e091766748d",
+      "bytes": 75594,
+      "from": "d39e pages 5-6 — detail views of the brick shelter"
+    }
+  ]
+}
