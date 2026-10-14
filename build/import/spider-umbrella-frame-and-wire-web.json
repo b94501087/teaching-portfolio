@@ -38,6 +38,12 @@
       "sha256": "e436e27eb7a5af551778e113a9f79d85f6bfaec3e31a8b671602f7e849a89418",
       "bytes": 38044,
       "from": "3a1d page 8 — the wire web in process"
+    },
+    {
+      "name": "07-spider-web-photos.webp",
+      "sha256": "6077a37c4d54f507412394f9afc0f361ae7f23b3bb43750e1bb7f41e24f9aadf",
+      "bytes": 34170,
+      "from": "restored reference image (spider web photos)"
     }
   ]
 }

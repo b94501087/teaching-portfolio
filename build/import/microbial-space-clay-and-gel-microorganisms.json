@@ -56,6 +56,12 @@
       "sha256": "98e5f80760181f8d6c20e0cf6fbb8fbe9978b7937426edb4c351ad6a20d17426",
       "bytes": 28930,
       "from": "3a1d pages 6-7 — molds on the table"
+    },
+    {
+      "name": "10-microscope-images.webp",
+      "sha256": "55892c119220db29f5117bb173ddf1dbd408160efeaf4f96dda3c7e2273e0812",
+      "bytes": 77512,
+      "from": "restored reference image (microscope images)"
     }
   ]
 }
