@@ -44,6 +44,24 @@
       "sha256": "b3f41dfdbdcc17bdbd6a9a4f9f011307358ee3f27e5bc9e519b2fb7065c14052",
       "bytes": 82670,
       "from": "fbb7 page 6 — side view"
+    },
+    {
+      "name": "08-landmark-photos.webp",
+      "sha256": "857f5cde8e0f89fd1331ca07a0a096ce3143b5be188ed44a163393ed6a64e712",
+      "bytes": 89966,
+      "from": "restored reference image (landmark photos)"
+    },
+    {
+      "name": "09-landmark-drawings.webp",
+      "sha256": "76b7ab2ea7c6070e4261999e4670acc89ea81a220fe7c3375cc81f2a48792709",
+      "bytes": 211396,
+      "from": "restored reference image (landmark drawings)"
+    },
+    {
+      "name": "10-making-process-photos.webp",
+      "sha256": "e904ca2915d9243a4dd8457a7e297761619d78548068201ca96f08a28e49f8d6",
+      "bytes": 153344,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }
