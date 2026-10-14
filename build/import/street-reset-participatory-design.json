@@ -34,12 +34,6 @@
       "from": "page 8 — Site 1 parents' waiting area: design process, area functions and plan, x 0–33.5 %, y 0–100 %"
     },
     {
-      "name": "06-healthy-streets.webp",
-      "sha256": "9c80bca213a8bd4e7313e617ea40809ddc2be2d18d0d038b560a4dcecec40167",
-      "bytes": 474426,
-      "from": "page 8 — Site 2 healthy streets axonometric, x 60–100 %, y 10–100 %"
-    },
-    {
       "name": "07-neighbourhood-before-after.webp",
       "sha256": "6b84682c92f1ea1ae9d16f8dcd89105eaa252c7514a643409ca6c78c6bf563eb",
       "bytes": 62462,
@@ -62,6 +56,12 @@
       "sha256": "c6f20ad0b5f4dca860f50b183f1ee27b0efe078f06d1b9abd6df92dba9226fdb",
       "bytes": 71148,
       "from": "page 9 — Site 4 master plan, x 63–100 %, y 77–100 %"
+    },
+    {
+      "name": "11-site-and-user-analysis.webp",
+      "sha256": "ba8aad2178b018071ee6d6f992eb539acb77d35b2b86d50c5ba9a402d3f0826c",
+      "bytes": 243764,
+      "from": "restored reference image (site and user analysis)"
     }
   ]
 }

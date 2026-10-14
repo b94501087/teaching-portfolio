@@ -1,0 +1,16 @@
+{
+  "project": "Street Reset",
+  "dest": "assets/board/street-reset-participatory-design",
+  "note": "w737f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-and-user-analysis.webp",
+      "sha256": "ba8aad2178b018071ee6d6f992eb539acb77d35b2b86d50c5ba9a402d3f0826c",
+      "bytes": 243764,
+      "from": "restored reference image (site and user analysis)"
+    }
+  ],
+  "delete": [
+    "assets/board/street-reset-participatory-design/06-healthy-streets.webp"
+  ]
+}
