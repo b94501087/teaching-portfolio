@@ -56,6 +56,12 @@
       "sha256": "6de40b829a625f03de2481f80f3becc683b1f692fcd7e3dca9fb5926df673863",
       "bytes": 86678,
       "from": "pages 22–23 spread — roof, first, ground and basement plans, x 10–98 %, y 8–51 %"
+    },
+    {
+      "name": "10-cutaway-and-sectional-perspectives.webp",
+      "sha256": "b352c741cc28c2030b02024025da149d68fd0cf8d5ff99856270be8c6f00f5a4",
+      "bytes": 120580,
+      "from": "restored reference image (cutaway and sectional perspectives)"
     }
   ]
 }
