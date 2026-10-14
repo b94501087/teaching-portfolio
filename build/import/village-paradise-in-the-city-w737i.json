@@ -1,0 +1,19 @@
+{
+  "project": "Village Paradise in the City",
+  "dest": "assets/board/village-paradise-in-the-city",
+  "note": "w737i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-location-analysis.webp",
+      "sha256": "5749aff3b7df35b213600b8c0364d5ad0b7dfe951ca58b317ce27a13ad5a953a",
+      "bytes": 95100,
+      "from": "restored reference image (location analysis)"
+    },
+    {
+      "name": "11-key-findings.webp",
+      "sha256": "94e11f178a31d3853d8f682c82112f963dc4769fb684ef30493eace0ba9eef02",
+      "bytes": 129970,
+      "from": "restored reference image (key findings)"
+    }
+  ]
+}
