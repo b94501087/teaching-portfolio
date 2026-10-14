@@ -40,12 +40,6 @@
       "from": "9caf page 8 — sketch"
     },
     {
-      "name": "07-process.webp",
-      "sha256": "f8374da648394609c51f8a5e37f63a17402f2255f32db588f94bc4fda468e740",
-      "bytes": 20712,
-      "from": "9caf page 9 — process"
-    },
-    {
       "name": "08-side-view.webp",
       "sha256": "24901fd0ba3c8e9b4b89535842876a7ffe4bda2b33552e31e2f425a9fa785b08",
       "bytes": 31558,
@@ -58,10 +52,16 @@
       "from": "9caf page 9 — view b"
     },
     {
-      "name": "10-view-c.webp",
-      "sha256": "0079fc79f3d0d2270537abd4066467d175a1eca90ead1cf7ac3a3292ec1262eb",
-      "bytes": 23060,
-      "from": "9caf page 9 — view c"
+      "name": "11-case-study-photos.webp",
+      "sha256": "0477876332440e887bfea8010eeb67fa09e5dc1e7534ec89c72cc31f91743c39",
+      "bytes": 27170,
+      "from": "restored reference image (case study photos)"
+    },
+    {
+      "name": "12-process-photos.webp",
+      "sha256": "46476b675968f2ceb68d2c52ef59ce1bca8f9125e54a1d1c7b16c9744f4733dd",
+      "bytes": 73510,
+      "from": "restored reference image (process photos)"
     }
   ]
 }

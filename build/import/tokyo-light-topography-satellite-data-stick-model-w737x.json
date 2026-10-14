@@ -1,0 +1,23 @@
+{
+  "project": "Tokyo Light Topography",
+  "dest": "assets/board/tokyo-light-topography-satellite-data-stick-model",
+  "note": "w737x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-case-study-photos.webp",
+      "sha256": "0477876332440e887bfea8010eeb67fa09e5dc1e7534ec89c72cc31f91743c39",
+      "bytes": 27170,
+      "from": "restored reference image (case study photos)"
+    },
+    {
+      "name": "12-process-photos.webp",
+      "sha256": "46476b675968f2ceb68d2c52ef59ce1bca8f9125e54a1d1c7b16c9744f4733dd",
+      "bytes": 73510,
+      "from": "restored reference image (process photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/tokyo-light-topography-satellite-data-stick-model/07-process.webp",
+    "assets/board/tokyo-light-topography-satellite-data-stick-model/10-view-c.webp"
+  ]
+}
