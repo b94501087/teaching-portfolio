@@ -1,0 +1,49 @@
+{
+  "project": "Triangle Structure",
+  "dest": "assets/board/triangle-structure-wooden-strip-petal-frame",
+  "note": "Portfolio 263a pages 3-5 cropped to 7 images, WebP q88 (PIL). Not used: title lettering, explanatory text, orchid photographs and traced photo, process photo with a hand, model data.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "0c6dddadf762c81c7e75dd0570186f19cea0d049b43db22ee6d077662f96c146",
+      "bytes": 230576,
+      "from": "263a pages 3-5 — the finished frame of wooden strips"
+    },
+    {
+      "name": "02-triangle-lines.webp",
+      "sha256": "8c3dcb39b0d89bcd7fa296d99278a92ea6c98ee02e66e870b410c22d25ff0748",
+      "bytes": 61464,
+      "from": "263a pages 3-5 — a net of angular cells"
+    },
+    {
+      "name": "03-frame-in-progress.webp",
+      "sha256": "4491b04237190d165ebf8886050ca6e0538410b74fb94beb9ab966412ab0394b",
+      "bytes": 118764,
+      "from": "263a pages 3-5 — the frame in progress"
+    },
+    {
+      "name": "04-model-and-shadow.webp",
+      "sha256": "b7f4fb3effd2d219e53db0a850dbc1899133cbcd8d1a0dd88fd20a1ba1f18e23",
+      "bytes": 244480,
+      "from": "263a pages 3-5 — the model and its shadow"
+    },
+    {
+      "name": "05-cardboard-planes.webp",
+      "sha256": "e6c77d627c1c6e7ff6c4dc66e2175b982bccee4dbf20c88a610fab84aa7cd8da",
+      "bytes": 164600,
+      "from": "263a pages 3-5 — card planes facing many directions"
+    },
+    {
+      "name": "06-front-view.webp",
+      "sha256": "5a4a3439eb85b9dd5f07666f8cf65953d2f9c3095b48e93bd26cd1c0bd70e8d5",
+      "bytes": 145264,
+      "from": "263a pages 3-5 — the frame seen from the front"
+    },
+    {
+      "name": "07-low-view.webp",
+      "sha256": "9cc1c4d4b1143bfdd1a2d6cba1e565f98ce2a2c61893d571bc79c495623e14c9",
+      "bytes": 157574,
+      "from": "263a pages 3-5 — a low view into the frame"
+    }
+  ]
+}
