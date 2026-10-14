@@ -50,6 +50,18 @@
       "sha256": "fa05eca246333bd0e7db267caf1ff8df7575e4cd711458f941c1bceb297e063d",
       "bytes": 85816,
       "from": "f312 page 15 — lower level"
+    },
+    {
+      "name": "09-title-card-still.webp",
+      "sha256": "c4cb96051246bea9ee9465fba52916021486283a0378a535e7ad7f92e5e497df",
+      "bytes": 3184,
+      "from": "restored reference image (title card still)"
+    },
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "183f0d9e9bd435a1202e4b2fd78ddfdcdeb205f6e7bd9aefe4ee434565d140e7",
+      "bytes": 133820,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }
