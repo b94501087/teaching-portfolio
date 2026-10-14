@@ -1,0 +1,16 @@
+{
+  "project": "Rhythm of Notes",
+  "dest": "assets/board/rhythm-of-notes-stick-and-colour-sheet-model",
+  "note": "w738f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-printed-score.webp",
+      "sha256": "f07a9272c15e9d187e0ddd317e55897fc33d501547e51bf9a0248a5998546e19",
+      "bytes": 21232,
+      "from": "restored reference image (printed score)"
+    }
+  ],
+  "delete": [
+    "assets/board/rhythm-of-notes-stick-and-colour-sheet-model/10-tall-sticks.webp"
+  ]
+}
