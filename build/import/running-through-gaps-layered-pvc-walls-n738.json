@@ -1,0 +1,22 @@
+{
+  "project": "Running Through Gaps",
+  "dest": "assets/board/running-through-gaps-layered-pvc-walls",
+  "note": "n738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-football-player-photo.webp",
+      "sha256": "ae6b7783be9683291d12f7833771534b0973b73ff3071dda14453f7a0341405a",
+      "bytes": 42334,
+      "from": "restored reference image (football player photo)"
+    },
+    {
+      "name": "11-making-by-hand.webp",
+      "sha256": "6f62bccf34ecd694f4b445c9801b363d176cf23ca4655ab6b703652479c9cb6b",
+      "bytes": 128946,
+      "from": "restored reference image (making by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/running-through-gaps-layered-pvc-walls/05-gap-between-walls.webp"
+  ]
+}
