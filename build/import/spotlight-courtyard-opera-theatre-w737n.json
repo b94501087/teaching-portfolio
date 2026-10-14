@@ -1,0 +1,19 @@
+{
+  "project": "Spotlight: Courtyard House Opera Theatre",
+  "dest": "assets/board/spotlight-courtyard-opera-theatre",
+  "note": "w737n restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-sidianjin-and-teochew-opera.webp",
+      "sha256": "eb4857a10be03a83151158633e5d8b53865a48d3944538bce1f3ef85517beb5e",
+      "bytes": 210362,
+      "from": "restored reference image (sidianjin and teochew opera)"
+    },
+    {
+      "name": "09-section-model-with-performers.webp",
+      "sha256": "018fe7648517cd18fd341c0da288977b164d5932c6918353fb5913edb8cec857",
+      "bytes": 96712,
+      "from": "restored reference image (section model with performers)"
+    }
+  ]
+}

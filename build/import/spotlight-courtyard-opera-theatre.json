@@ -44,6 +44,18 @@
       "sha256": "9873b1801e90eae1ff23cb87bb90ac958b51346e1bb3e5d40dd207e5369a57a9",
       "bytes": 119638,
       "from": "page 15 — theatre plan over the model base, x 52–100 %, y 55–100 %"
+    },
+    {
+      "name": "08-sidianjin-and-teochew-opera.webp",
+      "sha256": "eb4857a10be03a83151158633e5d8b53865a48d3944538bce1f3ef85517beb5e",
+      "bytes": 210362,
+      "from": "restored reference image (sidianjin and teochew opera)"
+    },
+    {
+      "name": "09-section-model-with-performers.webp",
+      "sha256": "018fe7648517cd18fd341c0da288977b164d5932c6918353fb5913edb8cec857",
+      "bytes": 96712,
+      "from": "restored reference image (section model with performers)"
     }
   ]
 }
