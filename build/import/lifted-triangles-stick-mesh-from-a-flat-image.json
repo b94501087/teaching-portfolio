@@ -1,0 +1,61 @@
+{
+  "project": "Lifted Triangles",
+  "dest": "assets/board/lifted-triangles-stick-mesh-from-a-flat-image",
+  "note": "Portfolio f825 pages 3-4 cropped to 9 images, WebP q88 (PIL). Not used: cover and contents, title lettering, explanatory text, sky photograph under the triangle overlay, process photos with hands and people.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "dd3b81210cf05c8d93d85c7df03ab2cda4c71d6f2f6675fb95b3122f4704ce6f",
+      "bytes": 82474,
+      "from": "f825 pages 3-4 — the final tower of sticks and paper planes"
+    },
+    {
+      "name": "02-triangle-drawing.webp",
+      "sha256": "09327b56c3c92e1338ac8f804e7dc664dde620cbbdf48c3b2c36285335885c41",
+      "bytes": 79410,
+      "from": "f825 pages 3-4 — the triangulated line drawing"
+    },
+    {
+      "name": "03-frame-in-progress.webp",
+      "sha256": "28a842f631424fa1cac2779109cc524acfe938e20a7dcc43ae457a20ef919811",
+      "bytes": 49716,
+      "from": "f825 pages 3-4 — the stick mesh taking shape"
+    },
+    {
+      "name": "04-frame-on-table.webp",
+      "sha256": "4441705cfbe24b11b8d9bcadcf6e69fce3b64763e9747a7576408958e84087e9",
+      "bytes": 49864,
+      "from": "f825 pages 3-4 — the mesh lifted into three dimensions"
+    },
+    {
+      "name": "05-model-shadow.webp",
+      "sha256": "8722dfdcbbaf37a7a0c6e0744142c56f9b5a98717ae9af5e115c382e37848e7f",
+      "bytes": 123538,
+      "from": "f825 pages 3-4 — the model and its shadows"
+    },
+    {
+      "name": "06-planes-detail.webp",
+      "sha256": "2112e8e71dcc0a1f4d264ebf846ec1d749075933ab7f6a1b9e8cc822fcb7f2f7",
+      "bytes": 40344,
+      "from": "f825 pages 3-4 — paper planes inside the mesh"
+    },
+    {
+      "name": "07-plan-view.webp",
+      "sha256": "df00dcc4ce8db419ead5988ed75a5c4f157809458081e06affe42c040611967d",
+      "bytes": 76796,
+      "from": "f825 pages 3-4 — the model seen from above"
+    },
+    {
+      "name": "08-low-view.webp",
+      "sha256": "5a09ce07836927bafecb7459fba9884cf974a43148b0c59bad6abd8bbce81b76",
+      "bytes": 85264,
+      "from": "f825 pages 3-4 — a low view of the model"
+    },
+    {
+      "name": "09-close-detail.webp",
+      "sha256": "0a28791344772f575288317dc281f628e132d422bb63367460f4dff220b55ac3",
+      "bytes": 49080,
+      "from": "f825 pages 3-4 — a close view of the triangles"
+    }
+  ]
+}
