@@ -44,6 +44,12 @@
       "sha256": "fa853a94786f902e4a5b4e57b87167dd6b47e542697deba553fa04afee60768c",
       "bytes": 100648,
       "from": "b66d page 11 — details"
+    },
+    {
+      "name": "08-historical-collage.webp",
+      "sha256": "2cb9b32cf6e11869fa9e1a2967c88c265c4d261e1ef01b68547d44e9276566aa",
+      "bytes": 132134,
+      "from": "restored reference image (historical collage)"
     }
   ]
 }

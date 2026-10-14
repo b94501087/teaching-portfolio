@@ -1,0 +1,13 @@
+{
+  "project": "Silk Road",
+  "dest": "assets/board/silk-road-woven-silk-thread-structure",
+  "note": "w737y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-historical-collage.webp",
+      "sha256": "2cb9b32cf6e11869fa9e1a2967c88c265c4d261e1ef01b68547d44e9276566aa",
+      "bytes": 132134,
+      "from": "restored reference image (historical collage)"
+    }
+  ]
+}
