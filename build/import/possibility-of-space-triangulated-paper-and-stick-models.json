@@ -1,0 +1,61 @@
+{
+  "project": "Possibility of Space",
+  "dest": "assets/board/possibility-of-space-triangulated-paper-and-stick-models",
+  "note": "Portfolio 5918 pages 12-13 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, process photos showing hands, models held in hands.",
+  "files": [
+    {
+      "name": "01-paper-landscape.webp",
+      "sha256": "3673b12b26075b7d5c06417099ab424eb17b7e9c7e22cd2245adf468bd0f35ee",
+      "bytes": 65930,
+      "from": "5918 pages 12-13 — the triangulated card landscape"
+    },
+    {
+      "name": "02-line-net-a.webp",
+      "sha256": "b0f9d83e0dadd0b92261f5f5ad69c23c53d0f8110b5709fa1ec8707f5820e69c",
+      "bytes": 84744,
+      "from": "5918 pages 12-13 — the first triangular net"
+    },
+    {
+      "name": "03-photo-net-a.webp",
+      "sha256": "6a8e422e038ad02a57d367b563ab98dedbe0aa4493620471c256ad20caf05eb7",
+      "bytes": 181530,
+      "from": "5918 pages 12-13 — the net laid over the wave"
+    },
+    {
+      "name": "04-line-net-b.webp",
+      "sha256": "88148a94bf7bfd8ff43a11ce33a8b428c9deda608008e7e838359ccbba440b4e",
+      "bytes": 124206,
+      "from": "5918 pages 12-13 — a finer triangular net"
+    },
+    {
+      "name": "05-photo-net-b.webp",
+      "sha256": "ca0f2b5978d8fb308b150a0befcf2fac75c576285bbcff0da027538a4defca2c",
+      "bytes": 156492,
+      "from": "5918 pages 12-13 — the finer net over the wave"
+    },
+    {
+      "name": "06-paper-pieces.webp",
+      "sha256": "a2f00b9a95491054f44addae1c060d1a16c328f7beecd79982a27787dfc939c8",
+      "bytes": 99838,
+      "from": "5918 pages 12-13 — cut card pieces on the mat"
+    },
+    {
+      "name": "07-folded-model.webp",
+      "sha256": "243089d2729dd81b772fcd67a47bf7bc6bebb6baca851507d31d14908106b51f",
+      "bytes": 43240,
+      "from": "5918 pages 12-13 — an early folded model"
+    },
+    {
+      "name": "08-paper-shards-a.webp",
+      "sha256": "9f45ae1cc8c10c8d16f823c8e4320889e52e0e1c58599ebf6d27a79c431ab167",
+      "bytes": 28032,
+      "from": "5918 pages 12-13 — sharp planes rising from the board"
+    },
+    {
+      "name": "09-paper-shards-b.webp",
+      "sha256": "17a46232e446b33605eb81ed0b6d2818d818595248e170f1fcc8736692e9a043",
+      "bytes": 37372,
+      "from": "5918 pages 12-13 — planes and sticks in tension"
+    }
+  ]
+}
