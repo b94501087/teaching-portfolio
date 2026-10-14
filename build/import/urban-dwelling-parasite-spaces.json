@@ -44,6 +44,24 @@
       "sha256": "dfb889a2bc675c11bcc7f583afb6913747da2bc1a9841c45c02b8db0934de61f",
       "bytes": 92474,
       "from": "page 9 — dancing office plan, x 72–100 %, y 0–100 %"
+    },
+    {
+      "name": "08-site-analysis-history.webp",
+      "sha256": "dc7030201ed1cd96eb6cc2ab7f5d0ddd6519efca9495e25cc1015acf2af51980",
+      "bytes": 172722,
+      "from": "restored reference image (site analysis history)"
+    },
+    {
+      "name": "09-users-analysis.webp",
+      "sha256": "52996fcc957b5aa7c8eba30fc82b044c0395a3f670da694d17f68c5847706792",
+      "bytes": 177122,
+      "from": "restored reference image (users analysis)"
+    },
+    {
+      "name": "10-parasite-architecture-intro.webp",
+      "sha256": "8b5f2a8df028aeb6b009cc913a89587d297da72f1018423949e437b71aa91c3a",
+      "bytes": 108878,
+      "from": "restored reference image (parasite architecture intro)"
     }
   ]
 }
