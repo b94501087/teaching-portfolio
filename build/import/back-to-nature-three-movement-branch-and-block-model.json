@@ -1,0 +1,67 @@
+{
+  "project": "Back to Nature",
+  "dest": "assets/board/back-to-nature-three-movement-branch-and-block-model",
+  "note": "Portfolio 2a0b pages 15-16 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, record-label disc images, process photo with hands.",
+  "files": [
+    {
+      "name": "01-branch-stairs.webp",
+      "sha256": "eea2e1fd33ba3bcbf8a69b27aaf42e77109089bc37e3e330eef72d85eaf39a5a",
+      "bytes": 235294,
+      "from": "2a0b pages 15-16 — stairs winding through the branches"
+    },
+    {
+      "name": "02-journey-drawing.webp",
+      "sha256": "5eb171695485a274e1fff3c131c1c7ce5dc6a021af38ba76b17b1be297297a48",
+      "bytes": 188642,
+      "from": "2a0b pages 15-16 — the drawing of the journey"
+    },
+    {
+      "name": "03-blocks-and-branches.webp",
+      "sha256": "cbba3357a501da513f98efa2caf95530eea3688e1dcf589dd0b2854aa2904122",
+      "bytes": 89654,
+      "from": "2a0b pages 15-16 — foam blocks among branches"
+    },
+    {
+      "name": "04-branches-close.webp",
+      "sha256": "e991e7e99c088c5f8a897f2e0039b3f3dd2a8ca46a7e8ddfdf329c0ea2c2f95a",
+      "bytes": 93684,
+      "from": "2a0b pages 15-16 — branches gathered over the blocks"
+    },
+    {
+      "name": "05-branch-tower.webp",
+      "sha256": "49fe9f4f4c40091738a6c260d1ab6f3a27443817a0ab8bbd2ff53df96878846a",
+      "bytes": 180002,
+      "from": "2a0b pages 15-16 — the rising forest of branches"
+    },
+    {
+      "name": "06-branch-frame.webp",
+      "sha256": "8936e245832ef6e5a294707fbc7c8022d7f1c1f9ebd93e8dce550532383d5c53",
+      "bytes": 277562,
+      "from": "2a0b pages 15-16 — stairs and platforms in the branch frame"
+    },
+    {
+      "name": "07-slide.webp",
+      "sha256": "0986a29a61bf59a317bf583330377355542e3833e288b899e72022802db3e90a",
+      "bytes": 88860,
+      "from": "2a0b pages 15-16 — the transparent slide among branches"
+    },
+    {
+      "name": "08-spiral-stair.webp",
+      "sha256": "971e4804725730e6494b3522558d5c3797eda9c81278fca9844bc0bbc48fc793",
+      "bytes": 121204,
+      "from": "2a0b pages 15-16 — a spiral stair rising through the forest"
+    },
+    {
+      "name": "09-climbing-path.webp",
+      "sha256": "319b0f1c0c93859ec262148d81056cca9d4794ccc6b42d7a1ddfb7799c7107b2",
+      "bytes": 207994,
+      "from": "2a0b pages 15-16 — the upward climbing path"
+    },
+    {
+      "name": "10-stair-close.webp",
+      "sha256": "ab8b64eaf153f6cbb170f62439b71af518ced0c72c2c3a2c16381e39ab2c1ba2",
+      "bytes": 200182,
+      "from": "2a0b pages 15-16 — a close view of a winding stair"
+    }
+  ]
+}
