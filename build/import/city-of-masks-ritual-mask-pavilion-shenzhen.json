@@ -46,22 +46,22 @@
       "from": "ca16 page 13 — spatial model: energy and power"
     },
     {
-      "name": "08-curved-gold-ribbons.webp",
-      "sha256": "1f14713c71e56f4624b2e5f80f91777bbd2a8c8d7ffa8bac25bd92d13af6da79",
-      "bytes": 37546,
-      "from": "ca16 page 14 — model with curved gold ribbons"
-    },
-    {
-      "name": "09-corrugated-towers.webp",
-      "sha256": "41459990ed899f5217243fc12beea6faefcef00bd364dc54c28863711fced8a5",
-      "bytes": 45676,
-      "from": "ca16 page 14 — corrugated towers"
-    },
-    {
       "name": "10-reflecting-court.webp",
       "sha256": "531aad498055060b8c8fabaddcf8d6740598c5a55e5a37e1f3877055732a25c4",
       "bytes": 19958,
       "from": "ca16 page 14 — reflecting court"
+    },
+    {
+      "name": "11-nuo-mask-photos.webp",
+      "sha256": "8e87c5062613fc2ff25d3fc169d961df2a6860a8af0b0efd3a493b57b5a0e4d5",
+      "bytes": 24942,
+      "from": "restored reference image (nuo mask photos)"
+    },
+    {
+      "name": "12-city-context-photos.webp",
+      "sha256": "4d931fc7c8f300ba6011d514ce6ed399348e07e15d779cad30fc0f657e29cc76",
+      "bytes": 25056,
+      "from": "restored reference image (city context photos)"
     }
   ]
 }

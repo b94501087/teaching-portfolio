@@ -32,6 +32,12 @@
       "sha256": "12b2b958947d8f24cdca4766830641c8e530e5a71d2e79ecd5a7e9788a6fbd84",
       "bytes": 16252,
       "from": "ca16 page 15 — lower model detail"
+    },
+    {
+      "name": "06-kahn-precedent-photos.webp",
+      "sha256": "55c5d24a4f781ed418ae563ca4f4aecc9df2a7b5321978dee5158d8c462713e2",
+      "bytes": 26514,
+      "from": "restored reference image (kahn precedent photos)"
     }
   ]
 }
