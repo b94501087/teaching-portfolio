@@ -1,0 +1,23 @@
+{
+  "project": "Reimagined Vaultypes",
+  "dest": "assets/board/reimagined-vaultypes-rattan-vault-pavilion",
+  "note": "w737s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-inspiration-photos.webp",
+      "sha256": "23099158ce6c0b9539a2274e42349a1521a28b40c36c1bcae63ee3584677c0ff",
+      "bytes": 30002,
+      "from": "restored reference image (inspiration photos)"
+    },
+    {
+      "name": "12-making-rattan-arches.webp",
+      "sha256": "5630313a2da6790115c0ebe09abbed77bfe715fc6639b7bd1b8d0a6787d9402c",
+      "bytes": 16872,
+      "from": "restored reference image (making rattan arches)"
+    }
+  ],
+  "delete": [
+    "assets/board/reimagined-vaultypes-rattan-vault-pavilion/07-sail-vault-detail.webp",
+    "assets/board/reimagined-vaultypes-rattan-vault-pavilion/10-model-from-above.webp"
+  ]
+}

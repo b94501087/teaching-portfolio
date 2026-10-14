@@ -40,12 +40,6 @@
       "from": "ca16 page 8 — mesh vaults close-up"
     },
     {
-      "name": "07-sail-vault-detail.webp",
-      "sha256": "7d9de384cc9169021f6a57c9eaf11e0f823dc4f8e59c907eb1ddb94ae03b8637",
-      "bytes": 10292,
-      "from": "ca16 page 8 — sail vault detail"
-    },
-    {
       "name": "08-interior-vistas.webp",
       "sha256": "4c2262f21dc88ec8ce265fd90951544066e2a6a9ffa70a6861bd8ff3cfaa1326",
       "bytes": 43278,
@@ -58,10 +52,16 @@
       "from": "ca16 page 8 — model elevation"
     },
     {
-      "name": "10-model-from-above.webp",
-      "sha256": "fecad3f4fc57164d3aff2d07c744b3d0f44d4cf3b202f39766ef0565edaaf08e",
-      "bytes": 32588,
-      "from": "ca16 page 8 — model from above"
+      "name": "11-inspiration-photos.webp",
+      "sha256": "23099158ce6c0b9539a2274e42349a1521a28b40c36c1bcae63ee3584677c0ff",
+      "bytes": 30002,
+      "from": "restored reference image (inspiration photos)"
+    },
+    {
+      "name": "12-making-rattan-arches.webp",
+      "sha256": "5630313a2da6790115c0ebe09abbed77bfe715fc6639b7bd1b8d0a6787d9402c",
+      "bytes": 16872,
+      "from": "restored reference image (making rattan arches)"
     }
   ]
 }
