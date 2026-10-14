@@ -1,0 +1,16 @@
+{
+  "project": "Coconut for Arch",
+  "dest": "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model",
+  "note": "w738b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-gluing-the-fibre.webp",
+      "sha256": "7665efe7cd3c49d18e54f44e98b2ea915920e9f3ade763ece2e4dce69a2a53e6",
+      "bytes": 12968,
+      "from": "restored reference image (gluing the fibre)"
+    }
+  ],
+  "delete": [
+    "assets/board/coconut-for-arch-coconut-fibre-cave-arch-model/09-cave-view.webp"
+  ]
+}
