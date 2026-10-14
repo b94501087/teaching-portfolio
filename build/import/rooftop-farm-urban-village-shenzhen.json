@@ -28,22 +28,10 @@
       "from": "c276 page 16 — problem and solution diagrams"
     },
     {
-      "name": "06-sunlight-analysis.webp",
-      "sha256": "2d5ef7ff3eab44a0d58c77025c239cda9b0961e368f70e34fe714ab9f3604d6e",
-      "bytes": 104630,
-      "from": "c276 page 16 — site sunlight analysis"
-    },
-    {
       "name": "07-building-systems.webp",
       "sha256": "098cc273c5b0c5d811cbfae78047f1d3955bb45735cc56f064ea5e17113cad99",
       "bytes": 134608,
       "from": "c276 page 17 — structure, water and planting systems"
-    },
-    {
-      "name": "08-material-axonometric.webp",
-      "sha256": "87a18c5130bc598a874e38958f77eaa54effc6615fe7184c0d2776a6b40ea475",
-      "bytes": 181684,
-      "from": "c276 page 16 — material axonometric"
     },
     {
       "name": "09-rooftop-canopies.webp",
@@ -56,6 +44,24 @@
       "sha256": "36b0f028ba172865bbb396e69d281f6de8c00576e9966f3115dfbb55f3424bfd",
       "bytes": 82116,
       "from": "c276 page 18 — rooftop room interior"
+    },
+    {
+      "name": "11-planning-history-collage.webp",
+      "sha256": "d3f7eaef6049ce9242360cf93c70b457e1c8f7562aa8432086696ab39b66373f",
+      "bytes": 238814,
+      "from": "restored reference image (planning history collage)"
+    },
+    {
+      "name": "12-density-and-discourse.webp",
+      "sha256": "595e71d6a885596b05e439a339517a760afe1c6ecfdd199dc5ff4dafe8c5583b",
+      "bytes": 260120,
+      "from": "restored reference image (density and discourse)"
+    },
+    {
+      "name": "13-circle-map-collage.webp",
+      "sha256": "7f8cf947b23c8d80f4b75be130f8e5d33396efb0d4b89c586ef9d274ff0b6b0d",
+      "bytes": 240162,
+      "from": "restored reference image (circle map collage)"
     }
   ]
 }

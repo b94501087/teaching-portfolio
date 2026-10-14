@@ -1,0 +1,29 @@
+{
+  "project": "Rooftop Farm in an Urban Village",
+  "dest": "assets/board/rooftop-farm-urban-village-shenzhen",
+  "note": "w737r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-planning-history-collage.webp",
+      "sha256": "d3f7eaef6049ce9242360cf93c70b457e1c8f7562aa8432086696ab39b66373f",
+      "bytes": 238814,
+      "from": "restored reference image (planning history collage)"
+    },
+    {
+      "name": "12-density-and-discourse.webp",
+      "sha256": "595e71d6a885596b05e439a339517a760afe1c6ecfdd199dc5ff4dafe8c5583b",
+      "bytes": 260120,
+      "from": "restored reference image (density and discourse)"
+    },
+    {
+      "name": "13-circle-map-collage.webp",
+      "sha256": "7f8cf947b23c8d80f4b75be130f8e5d33396efb0d4b89c586ef9d274ff0b6b0d",
+      "bytes": 240162,
+      "from": "restored reference image (circle map collage)"
+    }
+  ],
+  "delete": [
+    "assets/board/rooftop-farm-urban-village-shenzhen/06-sunlight-analysis.webp",
+    "assets/board/rooftop-farm-urban-village-shenzhen/08-material-axonometric.webp"
+  ]
+}
