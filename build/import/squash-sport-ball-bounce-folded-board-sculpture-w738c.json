@@ -1,0 +1,23 @@
+{
+  "project": "Squash Sport",
+  "dest": "assets/board/squash-sport-ball-bounce-folded-board-sculpture",
+  "note": "w738c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-squash-match-photo.webp",
+      "sha256": "0577eee870cf1b5c52f60795c7803f9a45a253f4e5da81e164ed4cd18512c74d",
+      "bytes": 9622,
+      "from": "restored reference image (squash match photo)"
+    },
+    {
+      "name": "12-wearing-the-sculpture.webp",
+      "sha256": "72e614b8223d285e597775a0c1e36775be2ad63098ab7ecc3046abb9626bacf0",
+      "bytes": 92672,
+      "from": "restored reference image (wearing the sculpture)"
+    }
+  ],
+  "delete": [
+    "assets/board/squash-sport-ball-bounce-folded-board-sculpture/04-pyramid-row.webp",
+    "assets/board/squash-sport-ball-bounce-folded-board-sculpture/06-close-view.webp"
+  ]
+}
