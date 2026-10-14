@@ -1,0 +1,61 @@
+{
+  "project": "Lunabase",
+  "dest": "assets/board/lunabase-carved-foam-plaster-and-resin-cave-cast",
+  "note": "Portfolio 5918 pages 9-11 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, reference photos of natural caves, model held in a hand, size caption, one detail with a fingertip.",
+  "files": [
+    {
+      "name": "01-foam-resin-cast.webp",
+      "sha256": "1266084149fb5773e22dbb2fd1af8c98623171e5e1d6c2ae14c2f92552e1b6a2",
+      "bytes": 379362,
+      "from": "5918 pages 9-11 — the carved and cast cave form"
+    },
+    {
+      "name": "02-surface-drawing.webp",
+      "sha256": "385f52a591e038085c706172d0c310225001473edc2a678b51dbec8b2c2ef916",
+      "bytes": 175844,
+      "from": "5918 pages 9-11 — a drawing of a cratered surface"
+    },
+    {
+      "name": "03-pencil-a.webp",
+      "sha256": "d35813814065e8fb17149e14de61a29a23c552b664a868c071bc49122be35dab",
+      "bytes": 57104,
+      "from": "5918 pages 9-11 — a pencil study of radiating lines"
+    },
+    {
+      "name": "04-pencil-b.webp",
+      "sha256": "651ff38f9e48cf4a1545bcde1bedff592953f6d5296f6a94f594a8a0c6ab1b9c",
+      "bytes": 29634,
+      "from": "5918 pages 9-11 — a pencil study of rings"
+    },
+    {
+      "name": "05-pencil-c.webp",
+      "sha256": "2e13ade06cf2a3d2899ca89244f66b82ae90d52a9cb79766462c92d26b35ecbf",
+      "bytes": 48678,
+      "from": "5918 pages 9-11 — a pencil study of a split form"
+    },
+    {
+      "name": "07-detail-b.webp",
+      "sha256": "4d66d904deaceab750104752a699e29590718189e75cbe5fc978ab416156aeb4",
+      "bytes": 76488,
+      "from": "5918 pages 9-11 — blue resin within the cast"
+    },
+    {
+      "name": "08-detail-c.webp",
+      "sha256": "837be19cb9aa57817a33b575a49b1778decd933c704a925b9ef1ea1d9b4c2c88",
+      "bytes": 43772,
+      "from": "5918 pages 9-11 — a close view of the rough surface"
+    },
+    {
+      "name": "09-detail-d.webp",
+      "sha256": "6a1f58452f16f790566198aa2b86ac4c7527056c610f116803d25214572c1e2b",
+      "bytes": 49176,
+      "from": "5918 pages 9-11 — cavities and pools in close view"
+    },
+    {
+      "name": "10-long-cast.webp",
+      "sha256": "fc048e0807e754a9db1ee801eb30f203a6c5796a982d090ccb718ed0bc7f5b49",
+      "bytes": 135924,
+      "from": "5918 pages 9-11 — the long profile of the cast"
+    }
+  ]
+}
