@@ -1,0 +1,55 @@
+{
+  "project": "Reforming",
+  "dest": "assets/board/reforming-silver-shards-and-strips-assembled-landscape",
+  "note": "Portfolio eb77 pages 6-8 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, photos of a branded toy figure and armour parts, traced sketches with a tool in frame, process photos with hands, model data.",
+  "files": [
+    {
+      "name": "01-shard-landscape.webp",
+      "sha256": "5ed3856e67c6afb90f240e3752c795f2f01f0774b1fd6ff4d1e1b819861d73f8",
+      "bytes": 113758,
+      "from": "eb77 pages 6-8 — the landscape of shards and strips"
+    },
+    {
+      "name": "03-folded-pieces.webp",
+      "sha256": "3778c105a6faf57086076ae7ad7e584a01be27465fb1cd808d7501993ee55a82",
+      "bytes": 52038,
+      "from": "eb77 pages 6-8 — folded paper pieces"
+    },
+    {
+      "name": "04-folded-body.webp",
+      "sha256": "649af14c052955f37d9c985a8c3ec35a0bef24685bd0f9c548e632a96785a900",
+      "bytes": 30224,
+      "from": "eb77 pages 6-8 — the folded main body"
+    },
+    {
+      "name": "05-silver-shards.webp",
+      "sha256": "a1b061734d855aac79a78006d851dc2cdf24e486c931895f4c0f5e0762f62b77",
+      "bytes": 154994,
+      "from": "eb77 pages 6-8 — silver shards on the board"
+    },
+    {
+      "name": "06-shard-cluster.webp",
+      "sha256": "b1905e064c6f7dadaef03846aa5d508f4036a6fa887e45796d16e87169e7b324",
+      "bytes": 102162,
+      "from": "eb77 pages 6-8 — a cluster of shards"
+    },
+    {
+      "name": "07-top-view.webp",
+      "sha256": "290eb12b76c17895c823415db2c2aaaa2ac63346a79ec7c459bbd43f1698e694",
+      "bytes": 160022,
+      "from": "eb77 pages 6-8 — the landscape from above"
+    },
+    {
+      "name": "08-side-view.webp",
+      "sha256": "6712d679756747e4251d5d0b901a5ee171966be6b88dc51f313659f2fdd20f80",
+      "bytes": 34294,
+      "from": "eb77 pages 6-8 — a side view of the main body"
+    },
+    {
+      "name": "09-scattered-strips.webp",
+      "sha256": "00fd19094e54c8b04d5aa27af5ae53f4836ac9db58c217b49979bb7586aca3c5",
+      "bytes": 28964,
+      "from": "eb77 pages 6-8 — scattered strips"
+    }
+  ]
+}
