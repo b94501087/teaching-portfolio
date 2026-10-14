@@ -1,0 +1,16 @@
+{
+  "project": "Home in the Tongsui Store",
+  "dest": "assets/board/home-in-the-tongsui-store",
+  "note": "w737f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-analysis.webp",
+      "sha256": "cbd2c6ec5c6b6f0c17169f6db510e93868a0424b025b0e783a221d0ef2b8764f",
+      "bytes": 84004,
+      "from": "restored reference image (site analysis)"
+    }
+  ],
+  "delete": [
+    "assets/board/home-in-the-tongsui-store/08-patio-platform.webp"
+  ]
+}

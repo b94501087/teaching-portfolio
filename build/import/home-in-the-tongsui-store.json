@@ -46,12 +46,6 @@
       "from": "page 16 — water bar, x 0–22.5 %, y 0–100 %"
     },
     {
-      "name": "08-patio-platform.webp",
-      "sha256": "3cb7f5c467efe42b81d6461d1f089ef0aad0c54e3c54152cace00c05f74e5b09",
-      "bytes": 188680,
-      "from": "page 16 — patio platform, x 23–69 %, y 0–100 %"
-    },
-    {
       "name": "09-workshop-gazebo.webp",
       "sha256": "6a624ca68afc5cbec5e90ea1536737f1d83f9c93430a82cf28304f52e77da7ce",
       "bytes": 95436,
@@ -62,6 +56,12 @@
       "sha256": "7653ec5fa0f7765657f065ac89cc91116f9b51504b78a5c86b36494f1ad0c29d",
       "bytes": 118494,
       "from": "page 17 — architectural section and the idea of epidermis, x 60–100 %, y 0–100 %"
+    },
+    {
+      "name": "11-site-analysis.webp",
+      "sha256": "cbd2c6ec5c6b6f0c17169f6db510e93868a0424b025b0e783a221d0ef2b8764f",
+      "bytes": 84004,
+      "from": "restored reference image (site analysis)"
     }
   ]
 }
