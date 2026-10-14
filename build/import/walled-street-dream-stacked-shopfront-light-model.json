@@ -50,6 +50,18 @@
       "sha256": "55c889308d279518d4922f51cb84003c9753336c4756b0e868287ed8cdacd827",
       "bytes": 33938,
       "from": "9954 page 8 — figure path"
+    },
+    {
+      "name": "09-street-photos.webp",
+      "sha256": "9e5dd110f87e78812f784340487d08369b635e07a1aa5dc367412acb8d780d3f",
+      "bytes": 58914,
+      "from": "restored reference image (street photos)"
+    },
+    {
+      "name": "10-making-process-photos.webp",
+      "sha256": "91ae7f83d39611b868e4c380ae0334f6d28a06a32619992f34ac86049006516e",
+      "bytes": 50700,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }

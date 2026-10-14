@@ -22,18 +22,6 @@
       "from": "47e5 page 14 — first cones"
     },
     {
-      "name": "04-dense-surface.webp",
-      "sha256": "c3b3d3d161c027ad36abd7c3495266e246d30d33fbb2538d912abbaa7262a23c",
-      "bytes": 26126,
-      "from": "47e5 page 14 — dense surface"
-    },
-    {
-      "name": "05-pattern-detail.webp",
-      "sha256": "39dab025f99cc93186a8aaab743b3f3c5fd7eb065d1df13a3ea3518a8a92421c",
-      "bytes": 36262,
-      "from": "47e5 page 14 — pattern detail"
-    },
-    {
       "name": "06-paper-towers.webp",
       "sha256": "693d5d8bb5baa39668442cde07bc0ad32cbef5e83aea55217d24d554847a8b4b",
       "bytes": 12346,
@@ -62,6 +50,18 @@
       "sha256": "ed46a254400fdea3c02689fa9387e0b64c3fbd35236f21297cb1a710ea35de49",
       "bytes": 106078,
       "from": "47e5 page 15 — marker view"
+    },
+    {
+      "name": "11-artist-texture-references.webp",
+      "sha256": "643929206efe032ff2551e043e1b344ebf14963b7ff0c0914b692cc289e13780",
+      "bytes": 32074,
+      "from": "restored reference image (artist texture references)"
+    },
+    {
+      "name": "12-stretching-the-paper.webp",
+      "sha256": "06c734662e9a0bcec3b66eb65baed42882ae6368d6e53d68338595c68f7ff021",
+      "bytes": 27938,
+      "from": "restored reference image (stretching the paper)"
     }
   ]
 }

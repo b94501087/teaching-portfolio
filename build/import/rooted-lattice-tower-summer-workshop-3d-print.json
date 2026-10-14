@@ -56,6 +56,12 @@
       "sha256": "f28136415039a7faffd11a89c783e6ce5c20bcd120682a55aef7326cfb3ec374",
       "bytes": 19584,
       "from": "9954 page 10 — base arch"
+    },
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "bd4ec45b803e40d6f8595f666b9568f7397070551ddcb69dfa66e770dafc57e3",
+      "bytes": 62998,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }
