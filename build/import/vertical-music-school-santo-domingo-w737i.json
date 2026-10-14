@@ -1,0 +1,19 @@
+{
+  "project": "Santo Domingo School of Music",
+  "dest": "assets/board/vertical-music-school-santo-domingo",
+  "note": "w737i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-site-analysis.webp",
+      "sha256": "e31860acdbf70964540ee2bfbd03961c46601a976f88674f68a01e88731acb73",
+      "bytes": 179188,
+      "from": "restored reference image (site analysis)"
+    },
+    {
+      "name": "07-social-structure.webp",
+      "sha256": "091cf1c792705675868121a02a850ea2db81bc0f5783f15c4e52505bc3cc2aef",
+      "bytes": 93930,
+      "from": "restored reference image (social structure)"
+    }
+  ]
+}

@@ -44,6 +44,24 @@
       "sha256": "8d4ec1a10e683c964b2616ce79e03f65d5e4010dbe112df38fbeb04eaebd8ec3",
       "bytes": 153560,
       "from": "page 18 — bridge structure renders, full page"
+    },
+    {
+      "name": "08-node-2-making.webp",
+      "sha256": "794512db8af42237a93e60d7f7c12c9da6721cd19b11a3ff5b0ee914fa57a844",
+      "bytes": 52736,
+      "from": "restored reference image (node 2 making)"
+    },
+    {
+      "name": "09-site-analysis.webp",
+      "sha256": "225615274d45630fffd7d6e4f14c3a6a84355dd58b3e1caf87ad913588420452",
+      "bytes": 212372,
+      "from": "restored reference image (site analysis)"
+    },
+    {
+      "name": "10-bridge-aerial-render.webp",
+      "sha256": "f00a2991e8198d0578d8f6176f475400d785b9874c2e42e86d456aa0d7564d82",
+      "bytes": 151518,
+      "from": "restored reference image (bridge aerial render)"
     }
   ]
 }
