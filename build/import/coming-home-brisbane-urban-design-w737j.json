@@ -1,0 +1,16 @@
+{
+  "project": "Coming Home",
+  "dest": "assets/board/coming-home-brisbane-urban-design",
+  "note": "w737j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-community-research.webp",
+      "sha256": "19a61525846ac1dd6b6e755293f2559523855c24ad53da2b26ac25f911680d5d",
+      "bytes": 150094,
+      "from": "restored reference image (community research)"
+    }
+  ],
+  "delete": [
+    "assets/board/coming-home-brisbane-urban-design/04-proposed-activities.webp"
+  ]
+}
