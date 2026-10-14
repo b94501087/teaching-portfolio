@@ -1,0 +1,16 @@
+{
+  "project": "Plants and Architecture in Symbiosis",
+  "dest": "assets/board/plants-and-architecture-in-symbiosis",
+  "note": "w737j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-and-behaviour-analysis.webp",
+      "sha256": "23b68bbbff65c51cb32392a9aa1e01ab8b72af53fa6d507b17e69cc7cbc3a933",
+      "bytes": 160412,
+      "from": "restored reference image (site and behaviour analysis)"
+    }
+  ],
+  "delete": [
+    "assets/board/plants-and-architecture-in-symbiosis/06-superimposed-volumes.webp"
+  ]
+}
