@@ -1,0 +1,23 @@
+{
+  "project": "Climate Adaptive Architecture",
+  "dest": "assets/board/climate-adaptive-museum-guangzhou",
+  "note": "w737l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-climate-element-collage.webp",
+      "sha256": "906e258e2980b0afcc34c97b5c419260ec5a352e131e21dc8643e971a7e75034",
+      "bytes": 194236,
+      "from": "restored reference image (climate element collage)"
+    },
+    {
+      "name": "12-climate-comfort-research.webp",
+      "sha256": "0c19a6d9cbd6254fa57e4275e402067bffa7176e3b1f4b7724455ab01e30ce48",
+      "bytes": 253222,
+      "from": "restored reference image (climate comfort research)"
+    }
+  ],
+  "delete": [
+    "assets/board/climate-adaptive-museum-guangzhou/03-site-orientation-studies.webp",
+    "assets/board/climate-adaptive-museum-guangzhou/09-model-details.webp"
+  ]
+}

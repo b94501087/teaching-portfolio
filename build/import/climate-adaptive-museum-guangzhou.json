@@ -16,12 +16,6 @@
       "from": "page 22 — vernacular design elements in line, x 0–50 %, y 37–66 %"
     },
     {
-      "name": "03-site-orientation-studies.webp",
-      "sha256": "7f6ff44c498a4973092e406bb8e6f9db87eeba1e7002ad48664d7a33d933565d",
-      "bytes": 137180,
-      "from": "page 22 — orientation, wind and light studies, x 0–50 %, y 66–100 %"
-    },
-    {
       "name": "04-vernacular-case-sketches.webp",
       "sha256": "41b915e097b5ea4ae98712cc9b21d0e6cb3d11df5791e9546bdbd48c46381580",
       "bytes": 448572,
@@ -52,16 +46,22 @@
       "from": "page 25 — physical model views, x 0–50 %, y 0–65.5 %"
     },
     {
-      "name": "09-model-details.webp",
-      "sha256": "1750030d269e53e7c698cc449e2c936fa46231b43948c11189374d244560c570",
-      "bytes": 80720,
-      "from": "page 25 — model details, x 0–50 %, y 65.5–100 %"
-    },
-    {
       "name": "10-water-wheel-cooling.webp",
       "sha256": "9c305191f10a9bb147873346f71cc63667c6c0f3f7931df004453f949674c685",
       "bytes": 370752,
       "from": "page 25 — water-wheel cooling equipment axonometric, x 51–100 %"
+    },
+    {
+      "name": "11-climate-element-collage.webp",
+      "sha256": "906e258e2980b0afcc34c97b5c419260ec5a352e131e21dc8643e971a7e75034",
+      "bytes": 194236,
+      "from": "restored reference image (climate element collage)"
+    },
+    {
+      "name": "12-climate-comfort-research.webp",
+      "sha256": "0c19a6d9cbd6254fa57e4275e402067bffa7176e3b1f4b7724455ab01e30ce48",
+      "bytes": 253222,
+      "from": "restored reference image (climate comfort research)"
     }
   ]
 }
