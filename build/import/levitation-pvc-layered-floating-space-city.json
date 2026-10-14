@@ -1,0 +1,67 @@
+{
+  "project": "Levitation",
+  "dest": "assets/board/levitation-pvc-layered-floating-space-city",
+  "note": "Portfolio eb77 pages 3-5 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, inspiration photos with hands, process photos with hands, model photo held in a hand, model data.",
+  "files": [
+    {
+      "name": "01-floating-city.webp",
+      "sha256": "aa067aaf34a557de0587c8aaeb579482ab3bdb88028e733acdac382a521b53cf",
+      "bytes": 118766,
+      "from": "eb77 pages 3-5 — the floating city model"
+    },
+    {
+      "name": "02-first-stage-relief.webp",
+      "sha256": "0a4015bc63ff4ff56f75dbda8d1d760c0800e32ded5e3515df454776337eb08e",
+      "bytes": 112020,
+      "from": "eb77 pages 3-5 — overlapping geometric shapes"
+    },
+    {
+      "name": "03-terrain-layers-a.webp",
+      "sha256": "7c484e48e826b916535a41c0daefc8a83a09c090105a3935f9f04a5c0d9d12e8",
+      "bytes": 44374,
+      "from": "eb77 pages 3-5 — stacked terrain contours"
+    },
+    {
+      "name": "04-terrain-layers-b.webp",
+      "sha256": "907242af6c100f44d10dba684e4e7112742c44c7dccf896853495bcfa774dfe2",
+      "bytes": 66208,
+      "from": "eb77 pages 3-5 — a second terrain study"
+    },
+    {
+      "name": "05-layer-stack.webp",
+      "sha256": "552141d9cb0c87e997950b0b7a67254270a1f9904eddbe4b85a60d6c80c2da67",
+      "bytes": 61594,
+      "from": "eb77 pages 3-5 — hundreds of stacked slices"
+    },
+    {
+      "name": "06-curved-tiers.webp",
+      "sha256": "f107ecf1c085731ca9a9df7b45510b89869e0c8099895e8fd5e1f5a5d1247c05",
+      "bytes": 29398,
+      "from": "eb77 pages 3-5 — curved tiers and rings"
+    },
+    {
+      "name": "07-top-view.webp",
+      "sha256": "b41de595021de7962c6cc73492c84a56cda0f837bbe8d1f58894df704df677a9",
+      "bytes": 38078,
+      "from": "eb77 pages 3-5 — the model from above"
+    },
+    {
+      "name": "08-inner-ribs.webp",
+      "sha256": "3036ee88c263a5932bbd24efb20b8f70af6d1ccabb45a9a504055945c5d5bd63",
+      "bytes": 27746,
+      "from": "eb77 pages 3-5 — ribs rising inside"
+    },
+    {
+      "name": "09-ribbed-hollow.webp",
+      "sha256": "fe000a6cfb225d71cede0ddc6450e4bd385ec6e8337654c6044cab7a18f3f268",
+      "bytes": 102132,
+      "from": "eb77 pages 3-5 — a ribbed hollow"
+    },
+    {
+      "name": "10-spherical-void.webp",
+      "sha256": "c72ecc5de1d88cd98563817028b8657d34e714120be0940939b59fb3f214375e",
+      "bytes": 49354,
+      "from": "eb77 pages 3-5 — a spherical void within the layers"
+    }
+  ]
+}
