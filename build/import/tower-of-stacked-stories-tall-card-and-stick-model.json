@@ -1,0 +1,37 @@
+{
+  "project": "Tower of Stacked Stories",
+  "dest": "assets/board/tower-of-stacked-stories-tall-card-and-stick-model",
+  "note": "Portfolio 5918 pages 6-8 cropped to 5 images, WebP q88 (PIL). Not used: film title and director, collage of film stills and street images with shop signs, process photos showing people and hands, explanatory text.",
+  "files": [
+    {
+      "name": "01-tall-tower.webp",
+      "sha256": "767c45cb5f94fa3870380000df13d57bc1550c925af5f203cd5acc87ded450a1",
+      "bytes": 82676,
+      "from": "5918 pages 6-8 — the tall tower of stacked rooms"
+    },
+    {
+      "name": "02-line-drawing.webp",
+      "sha256": "82742b15b473c095da3ec0ad9abc62d54e3de0f08b17d115b620be72db12ab32",
+      "bytes": 60076,
+      "from": "5918 pages 6-8 — the line drawing of overlapping frames"
+    },
+    {
+      "name": "03-stairs-a.webp",
+      "sha256": "6eb36a8c73f3d08ef05cb4a9cbaf49d803d9596f2859d88d73b180b2218bf73f",
+      "bytes": 52976,
+      "from": "5918 pages 6-8 — winding stairs inside the tower"
+    },
+    {
+      "name": "04-stairs-b.webp",
+      "sha256": "9140f7df58132cb6e43e8a4bdf074c799af14529f9adf49e86b27e93706bd352",
+      "bytes": 24898,
+      "from": "5918 pages 6-8 — rooms and stairs meeting"
+    },
+    {
+      "name": "05-stacked-interior.webp",
+      "sha256": "e190a98704db54a67e239f24c9dc7c55450af36d64fa161ac7af02abe5018f58",
+      "bytes": 71944,
+      "from": "5918 pages 6-8 — a close view of stacked rooms"
+    }
+  ]
+}
