@@ -1,0 +1,13 @@
+{
+  "project": "Travel Tales",
+  "dest": "assets/board/travel-tales-layered-landscape-model",
+  "note": "w737r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-travel-photos.webp",
+      "sha256": "15edd8746552c83153b2d705f13c409143caeefded20d5f378592b0ea6032be3",
+      "bytes": 129460,
+      "from": "restored reference image (travel photos)"
+    }
+  ]
+}

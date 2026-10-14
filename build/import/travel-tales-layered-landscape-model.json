@@ -56,6 +56,12 @@
       "sha256": "1978f8b7e16966d76f800e1227a6c352a54029be7ec2329b43fc2d4877f8b12a",
       "bytes": 63986,
       "from": "188e page 12 — layered details"
+    },
+    {
+      "name": "10-travel-photos.webp",
+      "sha256": "15edd8746552c83153b2d705f13c409143caeefded20d5f378592b0ea6032be3",
+      "bytes": 129460,
+      "from": "restored reference image (travel photos)"
     }
   ]
 }
