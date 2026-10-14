@@ -1,0 +1,37 @@
+{
+  "project": "The Toilet City",
+  "dest": "assets/board/the-toilet-city-isometric-drawing-of-stacked-fixtures",
+  "note": "Portfolio 724f pages 13-14 cropped to 5 images, WebP q88 (PIL). Not used: title lettering, explanatory text, photograph of a real toilet.",
+  "files": [
+    {
+      "name": "01-toilet-city.webp",
+      "sha256": "b93db70d8fde7a5f42378926f1272263a3b55fe26bbf7f014952a0c9dcb957ad",
+      "bytes": 634886,
+      "from": "724f pages 13-14 — the isometric city of toilets"
+    },
+    {
+      "name": "02-toilet-drawings.webp",
+      "sha256": "cb3fb3769972f75f7ae05f7c75da226b8a38e5df8a3140749da6423679b35dba",
+      "bytes": 240330,
+      "from": "724f pages 13-14 — a collection of toilet drawings"
+    },
+    {
+      "name": "03-toilet-row.webp",
+      "sha256": "a5f4fb160cec4196430de0f71c9769ae4015b1fb82109c2795982dbf70b0b54f",
+      "bytes": 94484,
+      "from": "724f pages 13-14 — different cisterns and bowls"
+    },
+    {
+      "name": "04-city-left.webp",
+      "sha256": "6a5f4730cfc5d4611ba5c6ff5cfb604e811169b9be1e6113e287c718d9150573",
+      "bytes": 329998,
+      "from": "724f pages 13-14 — rows of bowls forming terraces"
+    },
+    {
+      "name": "05-city-right.webp",
+      "sha256": "29ece68522942402d6e4aa9283f07f0800019b34d5971bc495548c70b0d65777",
+      "bytes": 494822,
+      "from": "724f pages 13-14 — pipes and towers in the city"
+    }
+  ]
+}
