@@ -1,0 +1,29 @@
+{
+  "project": "Tower of Conflict and Truce",
+  "dest": "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model",
+  "note": "w738r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-film-poster.webp",
+      "sha256": "e5f832ecaa40e0d4c862005594c344ec47863ee72dbc9761482a7ae3b7c1aefe",
+      "bytes": 19112,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "11-film-stills-parts-1-and-3.webp",
+      "sha256": "bf806730d2cc084aac90d1c08b7663796349be2f2b88b91dcb3203f95a62c39f",
+      "bytes": 47212,
+      "from": "restored reference image (film stills parts 1 and 3)"
+    },
+    {
+      "name": "12-film-stills-parts-2-and-3.webp",
+      "sha256": "470cb629ac066f198bf19f7dbccff3c9346f5e59321d2cf764d2c70febec7e83",
+      "bytes": 46370,
+      "from": "restored reference image (film stills parts 2 and 3)"
+    }
+  ],
+  "delete": [
+    "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/08-clay-fragments.webp",
+    "assets/board/tower-of-conflict-and-truce-layered-light-and-cube-model/09-white-foam-blocks.webp"
+  ]
+}
