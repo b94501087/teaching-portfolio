@@ -1,0 +1,16 @@
+{
+  "project": "Port of Culture",
+  "dest": "assets/board/port-of-culture-mariupol",
+  "note": "w737j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-destroyed-building-and-history.webp",
+      "sha256": "c4e1c67c0f05fb193f3073d5cb52a4d904e5a9261ff698977b776e0fe9e4c2be",
+      "bytes": 182316,
+      "from": "restored reference image (destroyed building and history)"
+    }
+  ],
+  "delete": [
+    "assets/board/port-of-culture-mariupol/09-node-diagrams.webp"
+  ]
+}
