@@ -34,12 +34,6 @@
       "from": "6f23 pages 2-3 — an opening like a cat tree"
     },
     {
-      "name": "06-tube-paths.webp",
-      "sha256": "7244ac6c711454b6144246e842855d2e274515e17f953839f1c82be248fec617",
-      "bytes": 46610,
-      "from": "6f23 pages 2-3 — tube-like paths"
-    },
-    {
       "name": "07-cat-view-collage.webp",
       "sha256": "76bc557896c78070fde9e3a359cffa78d5ccc9c8138b5e738af2f61bd74231b4",
       "bytes": 85480,
@@ -56,6 +50,18 @@
       "sha256": "3727db271e3fb6b11bb0a9d724fe406d914cec9eabfebb6de6b59c6d86460df3",
       "bytes": 63440,
       "from": "6f23 pages 2-3 — the first foam model"
+    },
+    {
+      "name": "10-cat-eye-room-photos.webp",
+      "sha256": "940e56d882e4c1198fe98ffd25471a7a8cf0629d05185a0d4e43764db3be1be9",
+      "bytes": 53732,
+      "from": "restored reference image (cat eye room photos)"
+    },
+    {
+      "name": "11-making-by-hand.webp",
+      "sha256": "f793019795f4f10f6b77d206432db4add94729e32115cde12c301d07b841728b",
+      "bytes": 84604,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }
