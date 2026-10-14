@@ -38,6 +38,18 @@
       "sha256": "dc48ad5d5b7276f0cbbeea1aade93182f4593a39eb550c38fe93e1966d74d423",
       "bytes": 212116,
       "from": "f986 page 7 — motion drawing"
+    },
+    {
+      "name": "07-wearing-the-frame.webp",
+      "sha256": "25c001efea8b5465473e8bec05f78df896cd1017469167ba6da60b9f50c590ee",
+      "bytes": 20462,
+      "from": "restored reference image (wearing the frame)"
+    },
+    {
+      "name": "08-assembling-by-hand.webp",
+      "sha256": "85eb1d8e98579f3b734c51d066e787ba2d762066f2ce29ac6c8d848024b2daec",
+      "bytes": 10140,
+      "from": "restored reference image (assembling by hand)"
     }
   ]
 }
