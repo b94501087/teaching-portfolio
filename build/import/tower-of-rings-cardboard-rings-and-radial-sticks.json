@@ -1,0 +1,43 @@
+{
+  "project": "Tower of Rings",
+  "dest": "assets/board/tower-of-rings-cardboard-rings-and-radial-sticks",
+  "note": "Portfolio 23a6 pages 3-4 cropped to 6 images, WebP q88 (PIL). Not used: cover photo with name lettering, title lettering, explanatory text copied from another project, third-party historical engraving with source link, process photo with hands, handwritten reference to a named tower.",
+  "files": [
+    {
+      "name": "01-ring-tower.webp",
+      "sha256": "aee8bad8ec02a8819575f62987e2889634f3fcad603af21dc4e26b9378b76418",
+      "bytes": 247842,
+      "from": "23a6 pages 3-4 — the tower of rings standing on its edge"
+    },
+    {
+      "name": "02-layer-sketches.webp",
+      "sha256": "406c293955fb2d8a87b487a8c9cd635243786662ef4ad85b0a3b82776880f5d3",
+      "bytes": 164354,
+      "from": "23a6 pages 3-4 — sketches of stacked circular layers"
+    },
+    {
+      "name": "03-light-table.webp",
+      "sha256": "aa26f4d7227f1e68d0dc2f4a39ac837b0869f863fd38b10db5e27f15d0775164",
+      "bytes": 159470,
+      "from": "23a6 pages 3-4 — the rings on a light table"
+    },
+    {
+      "name": "04-ring-interior.webp",
+      "sha256": "69259f5742ebe8b95b192d49892e8f2ef5d80d025f6cf08c4dd30b836df702ad",
+      "bytes": 308444,
+      "from": "23a6 pages 3-4 — rings and sticks seen from above"
+    },
+    {
+      "name": "05-stacked-rings.webp",
+      "sha256": "a072cff6bc778b33bf62f005000fbfec0e172ed379d6313df74ce20f6a555d59",
+      "bytes": 134690,
+      "from": "23a6 pages 3-4 — the stacked rings of the tower"
+    },
+    {
+      "name": "06-ring-side.webp",
+      "sha256": "c1a2fc41fcffc98b0b5dfd56c2f19818c6a7221a9742975bf144bcfe40f278bd",
+      "bytes": 90008,
+      "from": "23a6 pages 3-4 — the tower seen from the side"
+    }
+  ]
+}
