@@ -1,0 +1,13 @@
+{
+  "project": "Modular Housing with Corridors in the Sky",
+  "dest": "assets/board/modular-housing-sky-corridors",
+  "note": "w737h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-function-integration-hands.webp",
+      "sha256": "d08104e4c0ee109cb4f61f5f58ea8a2766991fe72f88163ec49e985553309cc2",
+      "bytes": 201836,
+      "from": "restored reference image (function integration hands)"
+    }
+  ]
+}
