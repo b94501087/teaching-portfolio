@@ -1,0 +1,49 @@
+{
+  "project": "Dreamy Lemon Shop",
+  "dest": "assets/board/dreamy-lemon-shop-sliced-fruit-as-floating-floors",
+  "note": "Portfolio ef03 page 6 cropped to 7 images, WebP q88 (PIL). Not used: title lettering, explanatory text, model data.",
+  "files": [
+    {
+      "name": "01-lemon-shop-model.webp",
+      "sha256": "e5ad498159a443bae9153759e545a580a35a1d98984350ffcb3e64269be99ac8",
+      "bytes": 215342,
+      "from": "ef03 page 6 — the lemon shop rising from a hologram ground"
+    },
+    {
+      "name": "02-sliced-lemon.webp",
+      "sha256": "a394d8e2a9ae2291411e606fe1c1fd3964e280b7a27fc725ab76c2570988a72e",
+      "bytes": 79290,
+      "from": "ef03 page 6 — a backlit lemon slice"
+    },
+    {
+      "name": "03-slice-detail.webp",
+      "sha256": "311375691608479c8f915a54da4b1a1260fb8b607d371271bc353b292d611c47",
+      "bytes": 71404,
+      "from": "ef03 page 6 — the glowing segments up close"
+    },
+    {
+      "name": "04-concept-drawing.webp",
+      "sha256": "df5f38d4a26408963808c4da27fe7a572eef6841e7443aa7d9874319ed0600b7",
+      "bytes": 202746,
+      "from": "ef03 page 6 — the conceptual drawing of transformed forms"
+    },
+    {
+      "name": "05-stacked-floors.webp",
+      "sha256": "6daee2f05afc1fa4abf7ee6fc9a3538ffffcc0fabdf7ea0401806322247b53ee",
+      "bytes": 50038,
+      "from": "ef03 page 6 — stacked floors on branching stems"
+    },
+    {
+      "name": "06-floating-roofs.webp",
+      "sha256": "ac1c8d6f421f85611c051dbc35969fccd72f67d8383e531c7dcb52ad552230b8",
+      "bytes": 58410,
+      "from": "ef03 page 6 — floating roofs over the ramp"
+    },
+    {
+      "name": "07-ramp-and-tower.webp",
+      "sha256": "90e93ba173763044d4caff2a7f7e8a58f07405c46ce60765f8d374f18bc22654",
+      "bytes": 71540,
+      "from": "ef03 page 6 — the ramp leading to the tower"
+    }
+  ]
+}
