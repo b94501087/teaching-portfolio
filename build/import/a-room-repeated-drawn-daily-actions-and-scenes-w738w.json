@@ -1,0 +1,22 @@
+{
+  "project": "A Room Repeated",
+  "dest": "assets/board/a-room-repeated-drawn-daily-actions-and-scenes",
+  "note": "w738w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-daily-objects-photos.webp",
+      "sha256": "5e33090045460f7e070ed4cefe4dadfd47296f1e1f9e913190bdf43ad61ae8a3",
+      "bytes": 141930,
+      "from": "restored reference image (daily objects photos)"
+    },
+    {
+      "name": "11-tying-hair-drawing.webp",
+      "sha256": "999e57d8d4421ecac97790149352c7960b41583a4d338f3ab4fca28570351471",
+      "bytes": 47102,
+      "from": "restored reference image (tying hair drawing)"
+    }
+  ],
+  "delete": [
+    "assets/board/a-room-repeated-drawn-daily-actions-and-scenes/07-clothes-scene.webp"
+  ]
+}
