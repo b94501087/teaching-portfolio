@@ -1,0 +1,67 @@
+{
+  "project": "Fluxion",
+  "dest": "assets/board/fluxion-bamboo-stick-flow-around-wooden-poles",
+  "note": "Portfolio eb77 pages 9-11 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, reference photo of a timber interior, prototype photo with lettered background, process photo with hands, model data.",
+  "files": [
+    {
+      "name": "01-final-flow.webp",
+      "sha256": "fccc11553d93c4dc2ff85dea72c41fbc963ce966884a92de41cad18cef39b36a",
+      "bytes": 138418,
+      "from": "eb77 pages 9-11 — the flow of sticks around three poles"
+    },
+    {
+      "name": "02-flow-sketch.webp",
+      "sha256": "3cdf6667fe731e121c561b8e546c7fd79de6b272cbd8fb1cd48e3db39e11c3a0",
+      "bytes": 64668,
+      "from": "eb77 pages 9-11 — traced strokes of flowing grain"
+    },
+    {
+      "name": "03-prototype-a.webp",
+      "sha256": "326198b75c3643eab9c4814744a259191f6a284619b09c109f630aca0a49c2d6",
+      "bytes": 80390,
+      "from": "eb77 pages 9-11 — an early cluster of sticks"
+    },
+    {
+      "name": "04-prototype-b.webp",
+      "sha256": "80a34283bd78c174505962096fa18535edd548da66d694a1501d2d7288e66aa9",
+      "bytes": 43760,
+      "from": "eb77 pages 9-11 — a rising stick prototype"
+    },
+    {
+      "name": "05-prototype-pole.webp",
+      "sha256": "46c5caf9fb397ebf961d51cbe8336cee934860e5f5636aa4eaa6d6c8409f8b1c",
+      "bytes": 46136,
+      "from": "eb77 pages 9-11 — sticks meeting a pole"
+    },
+    {
+      "name": "06-prototype-detail.webp",
+      "sha256": "6518a0e449e1c4b91a276701b76264da7a686def0f1ad49bab2bcce9052bb016",
+      "bytes": 53250,
+      "from": "eb77 pages 9-11 — sticks around the pole base"
+    },
+    {
+      "name": "07-night-layers.webp",
+      "sha256": "a5d717496a0b576a7c937ff125b0b23878c4ba55ac8c20c6b1f1856f1166718e",
+      "bytes": 268284,
+      "from": "eb77 pages 9-11 — two layers of flow in the dark"
+    },
+    {
+      "name": "08-pole-detail.webp",
+      "sha256": "1a5e8fdfbda292ed4b2355068680ffbd49a7abd06f135848d4916bb7751ee87f",
+      "bytes": 192404,
+      "from": "eb77 pages 9-11 — sticks wrapping a pole"
+    },
+    {
+      "name": "09-low-view.webp",
+      "sha256": "58ccecbbc83d26bae16e95978e2793728d08bee24ce424e9554d8a0f37da9536",
+      "bytes": 52516,
+      "from": "eb77 pages 9-11 — a low view of the flow"
+    },
+    {
+      "name": "10-canopy.webp",
+      "sha256": "579deee4a835b4c510079c4a728b5dbacf6d075a928750d5c3ebc8a4a15000c3",
+      "bytes": 104438,
+      "from": "eb77 pages 9-11 — the flow arching overhead"
+    }
+  ]
+}
