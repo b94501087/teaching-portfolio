@@ -40,12 +40,6 @@
       "from": "9caf page 10 — process c"
     },
     {
-      "name": "07-process-d.webp",
-      "sha256": "595dcade973b1b267d3efd2888f587dbfea203d3f84ed9e433ab29f8c7ed55f0",
-      "bytes": 21546,
-      "from": "9caf page 10 — process d"
-    },
-    {
       "name": "08-interior-a.webp",
       "sha256": "77ddc1cf2f94866b74d4ae0790cae24a2f5f86cc79ede705ec5dd1ec2b1a882f",
       "bytes": 11164,
@@ -62,6 +56,12 @@
       "sha256": "0b330e0da7bcba3afb28a7adf49bc733108ab085842596b67032df324350eb21",
       "bytes": 23880,
       "from": "9caf page 11 — plan view"
+    },
+    {
+      "name": "11-site-map-and-street-photos.webp",
+      "sha256": "793413d1c590855943847b6ec61acb415bcf0322775afc0ff619da76809a51d9",
+      "bytes": 86760,
+      "from": "restored reference image (site map and street photos)"
     }
   ]
 }

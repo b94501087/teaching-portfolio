@@ -1,0 +1,16 @@
+{
+  "project": "Night Market and Housing",
+  "dest": "assets/board/night-market-housing-wooden-strip-facade-model",
+  "note": "w737x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-map-and-street-photos.webp",
+      "sha256": "793413d1c590855943847b6ec61acb415bcf0322775afc0ff619da76809a51d9",
+      "bytes": 86760,
+      "from": "restored reference image (site map and street photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/night-market-housing-wooden-strip-facade-model/07-process-d.webp"
+  ]
+}
