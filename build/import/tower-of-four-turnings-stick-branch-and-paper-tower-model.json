@@ -1,0 +1,67 @@
+{
+  "project": "Tower of Four Turnings",
+  "dest": "assets/board/tower-of-four-turnings-stick-branch-and-paper-tower-model",
+  "note": "Portfolio 9679 pages 4-6 cropped to 10 images, WebP q88 (PIL). Not used: film poster and film title, photo collages from film stills, hand in process photo, middle-ring study strip, text panels, caption with title, material and size.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "fa96bb396009996b427224936a1242e2b959da54df0bf0c738555846ad28e4ad",
+      "bytes": 174606,
+      "from": "9679 pages 4-6 — the finished tower model"
+    },
+    {
+      "name": "02-symbol-sketch.webp",
+      "sha256": "3e2d8dcfa53b87a861c05ec60f07254029080e46854b4ab57e435b6bc5b5442f",
+      "bytes": 238380,
+      "from": "9679 pages 4-6 — a sketch stacking the symbols into a tower"
+    },
+    {
+      "name": "03-top-studies.webp",
+      "sha256": "1b1c243a3fd867e91636cdaf17b7a16f7eeff4643dcede50ca336ab9573b8e62",
+      "bytes": 20176,
+      "from": "9679 pages 4-6 — studies of the folded crown"
+    },
+    {
+      "name": "04-bottom-base.webp",
+      "sha256": "ccf79944b77a6a6b1a98d2243b79ab1d99b54c003fa8f64d11d5fc20fc6cdd44",
+      "bytes": 29872,
+      "from": "9679 pages 4-6 — the branch base in progress"
+    },
+    {
+      "name": "05-bottom-stages.webp",
+      "sha256": "5f14661e177a64246747e8b1fdcb755a730f93ec28ce8075e6e2bf1cb1b55206",
+      "bytes": 55310,
+      "from": "9679 pages 4-6 — stages of the base and lower floors"
+    },
+    {
+      "name": "06-water-element.webp",
+      "sha256": "434d037424adc9f53f7ac474af95bdb95d5718c54a854b8b3134239f4a3508eb",
+      "bytes": 86084,
+      "from": "9679 pages 4-6 — the ring of curved paper"
+    },
+    {
+      "name": "07-tower-frontal.webp",
+      "sha256": "ab6d32690a2b54fc43a43f2d12ebaec0033c5cddb53a6803ce03b22c89881254",
+      "bytes": 226822,
+      "from": "9679 pages 4-6 — the tower against a dark ground"
+    },
+    {
+      "name": "08-detail-top.webp",
+      "sha256": "94fb7b861fc5509914ec03ff5a7a9a2157228e377f1d7a9ac1d5ea036f88a507",
+      "bytes": 121350,
+      "from": "9679 pages 4-6 — the crown and the paper rings"
+    },
+    {
+      "name": "09-detail-net.webp",
+      "sha256": "cb7acce33aecb6595c870709427d411fedc8cc77f3d1ec4652e9dafcd20d19a2",
+      "bytes": 99304,
+      "from": "9679 pages 4-6 — netting woven through the branches"
+    },
+    {
+      "name": "10-detail-base.webp",
+      "sha256": "b1740d534eddb32b958c7b3b03542216612d47f3acafd5173f09ed0b8b892cc7",
+      "bytes": 60630,
+      "from": "9679 pages 4-6 — sticks and coloured film at the base"
+    }
+  ]
+}
