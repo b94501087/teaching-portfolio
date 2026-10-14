@@ -1,0 +1,16 @@
+{
+  "project": "Kinetics of Space",
+  "dest": "assets/board/kinetics-of-space-squash-court-installation",
+  "note": "w737w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-players-on-court.webp",
+      "sha256": "cb1166248e34eb09af4ad490ce5c4151aad232d20cee06bf6084ef216dd38518",
+      "bytes": 26722,
+      "from": "restored reference image (players on court)"
+    }
+  ],
+  "delete": [
+    "assets/board/kinetics-of-space-squash-court-installation/10-detail-c.webp"
+  ]
+}
