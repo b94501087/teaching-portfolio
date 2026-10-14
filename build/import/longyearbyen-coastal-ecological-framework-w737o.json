@@ -1,0 +1,16 @@
+{
+  "project": "Longyearbyen Coastal Ecological Framework",
+  "dest": "assets/board/longyearbyen-coastal-ecological-framework",
+  "note": "w737o restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-existing-edge-map.webp",
+      "sha256": "4db0b8243b02a683c502fa19c7e99af40ac63e6c53ace33bb19db773a03443e6",
+      "bytes": 69366,
+      "from": "restored reference image (existing edge map)"
+    }
+  ],
+  "delete": [
+    "assets/board/longyearbyen-coastal-ecological-framework/04-fragmented-vegetation.webp"
+  ]
+}

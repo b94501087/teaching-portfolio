@@ -22,12 +22,6 @@
       "from": "ba4c page 15 — hydrodynamic pressures map"
     },
     {
-      "name": "04-fragmented-vegetation.webp",
-      "sha256": "bfef2c0a23e15da9980b64780eaf27c5815b4094e9d207874a0152322ee08883",
-      "bytes": 41076,
-      "from": "ba4c page 15 — fragmented vegetation map"
-    },
-    {
       "name": "05-gabion-accretion.webp",
       "sha256": "e956273400f29941af908ef6fcf39ac5c0dfdfc72f3b6ab814d70f6380e36103",
       "bytes": 173064,
@@ -62,6 +56,12 @@
       "sha256": "e57d138693eb6ec92d1ab5b5bc07f4da62a7d12e6b2cf7f63cacd5e93c69cfea",
       "bytes": 129108,
       "from": "restored reference image (final view year 20)"
+    },
+    {
+      "name": "11-existing-edge-map.webp",
+      "sha256": "4db0b8243b02a683c502fa19c7e99af40ac63e6c53ace33bb19db773a03443e6",
+      "bytes": 69366,
+      "from": "restored reference image (existing edge map)"
     }
   ]
 }
