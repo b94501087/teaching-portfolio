@@ -50,6 +50,18 @@
       "sha256": "67d63097c556906ae842640465c9b3ffb7e818f820b74bca4d919e3a488cb1af",
       "bytes": 280492,
       "from": "page 26 — triangular units, plans and section, x 0–50 %, y 0–100 %"
+    },
+    {
+      "name": "09-users-analysis.webp",
+      "sha256": "8e77b1461202029ab893a5a09f679ef19aeb2fb8b3087ecf046f019a688a6b05",
+      "bytes": 227116,
+      "from": "restored reference image (users analysis)"
+    },
+    {
+      "name": "10-bamboo-ceiling-model.webp",
+      "sha256": "8032bec959082b017c5b60102dd6435577fbe4da206602d24915a385d1393a3b",
+      "bytes": 215392,
+      "from": "restored reference image (bamboo ceiling model)"
     }
   ]
 }
