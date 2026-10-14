@@ -1,0 +1,67 @@
+{
+  "project": "The Personality Space",
+  "dest": "assets/board/the-personality-space-acrylic-cube-of-sand-and-shards",
+  "note": "Portfolio 23a6 pages 6-8 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, process photo with a hand, labelled zone views (funny, complicated, centre).",
+  "files": [
+    {
+      "name": "01-acrylic-cube.webp",
+      "sha256": "db15e77dbf62431328616bd7cf1c86b02fd580ba3785ded519142d6ea68145d0",
+      "bytes": 430100,
+      "from": "23a6 pages 6-8 — the acrylic cube of the personality space"
+    },
+    {
+      "name": "02-concept-sketch.webp",
+      "sha256": "6e0b8a838fbba1b46de7b03bf73c94a1140b51a3de19ccb6c3eb7555ad6fb5c5",
+      "bytes": 127364,
+      "from": "23a6 pages 6-8 — a concept sketch of the zones"
+    },
+    {
+      "name": "03-assembly-a.webp",
+      "sha256": "4a4ae52b9d40b95e657ff9bbba3ef6a394da107892b3f00ad94550a21ea0f4e1",
+      "bytes": 108004,
+      "from": "23a6 pages 6-8 — the cube during assembly"
+    },
+    {
+      "name": "04-assembly-b.webp",
+      "sha256": "1c191c80f89e2b04c53e0945a79fa0c42e20d5673e41688d822a7a33a40142f0",
+      "bytes": 115156,
+      "from": "23a6 pages 6-8 — sticks crossing inside the cube"
+    },
+    {
+      "name": "05-tolerable-zone.webp",
+      "sha256": "e97bcaef44bee9301fa06c5a53ce8f40d4d046aec67ecd7a5182fb710a6a916a",
+      "bytes": 58120,
+      "from": "23a6 pages 6-8 — the tolerable zone"
+    },
+    {
+      "name": "06-violent-zone.webp",
+      "sha256": "a7151159a77215a1dd6f643facfc7dd91fbf6900299198c6b69f61efe3b08439",
+      "bytes": 85250,
+      "from": "23a6 pages 6-8 — the violent zone with red shards"
+    },
+    {
+      "name": "07-sand-box.webp",
+      "sha256": "c2a602fe4ac7e8b6431fba7e6ae861cff24cc86c8368bb0a246a6c8f8ecc7742",
+      "bytes": 156224,
+      "from": "23a6 pages 6-8 — the cube filled with blue sand"
+    },
+    {
+      "name": "08-reflective-pieces.webp",
+      "sha256": "532fe040eaff85e34b423a92e83c6762f21caf8ee2e3ed638f5d37885aa49534",
+      "bytes": 214162,
+      "from": "23a6 pages 6-8 — reflective pieces in the funny zone"
+    },
+    {
+      "name": "09-sand-and-sticks.webp",
+      "sha256": "71b443acf6fcb48de9dd09087a5fb8c73372228f8f9553ccd82a6d8961182026",
+      "bytes": 130436,
+      "from": "23a6 pages 6-8 — sand flowing between sticks"
+    },
+    {
+      "name": "10-prism-detail.webp",
+      "sha256": "f93c5dc8cdaee9104c4d66f767ff239a16f9d211bce968cf4fcc5add9e7e100b",
+      "bytes": 93552,
+      "from": "23a6 pages 6-8 — a reflective prism detail"
+    }
+  ]
+}
