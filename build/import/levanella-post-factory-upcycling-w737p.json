@@ -1,0 +1,16 @@
+{
+  "project": "Levanella Post-Factory",
+  "dest": "assets/board/levanella-post-factory-upcycling",
+  "note": "w737p restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-conceptual-precedent-circles.webp",
+      "sha256": "f7bb4bb289edf3e38fbf4e95303bdbea3e625c142c19144cc7044b47b5e793c6",
+      "bytes": 71500,
+      "from": "restored reference image (conceptual precedent circles)"
+    }
+  ],
+  "delete": [
+    "assets/board/levanella-post-factory-upcycling/09-timber-truss-detail.webp"
+  ]
+}

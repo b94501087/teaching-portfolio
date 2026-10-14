@@ -52,16 +52,16 @@
       "from": "5b5b page 10 — structural system section"
     },
     {
-      "name": "09-timber-truss-detail.webp",
-      "sha256": "78dc7cad251c3091de4aa3614871b85b723d801674509b69471c2150b5687dae",
-      "bytes": 67162,
-      "from": "5b5b page 10 — timber truss detail section"
-    },
-    {
       "name": "10-long-section.webp",
       "sha256": "beafb6c4ae3d0d76fec373da71e9624a3318dc871950940ba0c0fa37350e2d06",
       "bytes": 72360,
       "from": "5b5b page 10 — axonometric long section"
+    },
+    {
+      "name": "11-conceptual-precedent-circles.webp",
+      "sha256": "f7bb4bb289edf3e38fbf4e95303bdbea3e625c142c19144cc7044b47b5e793c6",
+      "bytes": 71500,
+      "from": "restored reference image (conceptual precedent circles)"
     }
   ]
 }
