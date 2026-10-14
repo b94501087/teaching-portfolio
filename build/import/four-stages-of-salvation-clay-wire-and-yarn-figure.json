@@ -52,16 +52,16 @@
       "from": "6f23 pages 8-9 — the wire frame rising"
     },
     {
-      "name": "09-pedestal-close-up.webp",
-      "sha256": "3cfdb2bd242fcf3d865256140088fe104b37f9fd57082ada2d87a820c4420686",
-      "bytes": 62762,
-      "from": "6f23 pages 8-9 — a close-up of the pedestal"
-    },
-    {
       "name": "10-yarn-and-pipe-cleaners.webp",
       "sha256": "be4752477ecc48930be4f3a9e6eaa2cc9808309b0a6c927bf93d94d9fe4b6f5e",
       "bytes": 69602,
       "from": "6f23 pages 8-9 — yarn and pipe cleaners"
+    },
+    {
+      "name": "11-film-stills.webp",
+      "sha256": "9cc8cf0841100be4ab316da4fd0284c85fd9f02cc734044e200899644a9e5129",
+      "bytes": 63826,
+      "from": "restored reference image (film stills)"
     }
   ]
 }
