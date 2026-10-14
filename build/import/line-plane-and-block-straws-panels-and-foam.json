@@ -1,0 +1,37 @@
+{
+  "project": "Line, Plane and Block",
+  "dest": "assets/board/line-plane-and-block-straws-panels-and-foam",
+  "note": "Portfolio 250b page 13 cropped to 5 images, WebP q88 (PIL). Not used: title lettering and captions.",
+  "files": [
+    {
+      "name": "01-swirling-block.webp",
+      "sha256": "c5ee53f41c8e44a988f2c54100666ec743560fe460e69d30a107e1b2f76dbce5",
+      "bytes": 92788,
+      "from": "250b page 13 — the swirling tower of foam blocks"
+    },
+    {
+      "name": "02-upward-line.webp",
+      "sha256": "90ad8ecaac90017132f49418cc283c667273e534a399c26d5105812ec8023d36",
+      "bytes": 39618,
+      "from": "250b page 13 — straws rising in height"
+    },
+    {
+      "name": "03-upward-line-top.webp",
+      "sha256": "50162b71e4d9ecd8a9f238aab8d722ec0fd3b62de12841a85245782a800be089",
+      "bytes": 49078,
+      "from": "250b page 13 — the spiral seen from above"
+    },
+    {
+      "name": "04-zigzag-plane.webp",
+      "sha256": "99ad367a12414b5a8d3bdf00c23ea38abf7b11fb9a83fbe5512d72e3235cabdd",
+      "bytes": 28564,
+      "from": "250b page 13 — the zigzag of panels"
+    },
+    {
+      "name": "05-zigzag-plane-top.webp",
+      "sha256": "ab47281ffbb97052a057d1dadfe222c6c288c734656f4c04959dacd6017ffc24",
+      "bytes": 45768,
+      "from": "250b page 13 — the zigzag from above"
+    }
+  ]
+}
