@@ -1,0 +1,67 @@
+{
+  "project": "Follow the Path",
+  "dest": "assets/board/follow-the-path-pet-routes-in-sticks-and-film",
+  "note": "Portfolio adc9 pages 7-9 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, pet photos with names, plan legend with names, film photos with hands.",
+  "files": [
+    {
+      "name": "01-film-model.webp",
+      "sha256": "5f6cfe41d4c28d01c62b058fd7622df5b138f3f8230c5500c8e2d5b22a9032b1",
+      "bytes": 243794,
+      "from": "adc9 pages 7-9 — curled film strips chasing across the base"
+    },
+    {
+      "name": "02-route-plan.webp",
+      "sha256": "89d77a267287002ed01656a2a9c4fcbe6fd4a5a14ff965c1c39401b9487f984b",
+      "bytes": 400686,
+      "from": "adc9 pages 7-9 — routes marked on a plan of the home"
+    },
+    {
+      "name": "03-frame-model-top.webp",
+      "sha256": "5ad0ac378040a2053f71fae540dfd4a157b9cb8e8469f529f9558883230c6f7e",
+      "bytes": 210676,
+      "from": "adc9 pages 7-9 — the frame model from above"
+    },
+    {
+      "name": "04-frame-model-front.webp",
+      "sha256": "2b37808f4d9263b6c41a84eaeba3193f47feb0f3f5dfbebf056a9c044656045e",
+      "bytes": 103368,
+      "from": "adc9 pages 7-9 — the frame model from the front"
+    },
+    {
+      "name": "05-frame-model-angle.webp",
+      "sha256": "1f075dea9aeb74196b87880086d1a005b60fbfc05652bdb579f1cbfe50a35705",
+      "bytes": 97626,
+      "from": "adc9 pages 7-9 — the frame model at an angle"
+    },
+    {
+      "name": "06-stick-wave.webp",
+      "sha256": "e1a8c02ccf18b3e9c98735cbfa47330295baff8ff4e9ee13afefdd5e9435263e",
+      "bytes": 70036,
+      "from": "adc9 pages 7-9 — a wave of upright sticks"
+    },
+    {
+      "name": "07-chevron-sticks.webp",
+      "sha256": "71706216c50f1b31a73c1fefdb31c8d633d4be0d8086e590e54e76bdab071875",
+      "bytes": 26220,
+      "from": "adc9 pages 7-9 — chevron rows of sticks"
+    },
+    {
+      "name": "08-film-curls.webp",
+      "sha256": "afffb06d9ac7d64640c74dfb80fae3d33ddb0d9b841264d179f3f77771b46eaf",
+      "bytes": 119108,
+      "from": "adc9 pages 7-9 — film curls and coloured film"
+    },
+    {
+      "name": "09-film-race.webp",
+      "sha256": "20e62d4a5d2f166c74fc1c16155107ea4cb2b215637086694e0deefb3d8c436d",
+      "bytes": 61266,
+      "from": "adc9 pages 7-9 — strips bending as they race"
+    },
+    {
+      "name": "10-film-in-monochrome.webp",
+      "sha256": "b894113c0b11ffca1fff53b832518818dab0374024db30155a91c9f5426d3dc1",
+      "bytes": 241384,
+      "from": "adc9 pages 7-9 — the film model in monochrome"
+    }
+  ]
+}
