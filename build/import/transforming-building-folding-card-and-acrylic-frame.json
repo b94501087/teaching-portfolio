@@ -1,0 +1,67 @@
+{
+  "project": "Transforming a Multifunctional Building",
+  "dest": "assets/board/transforming-building-folding-card-and-acrylic-frame",
+  "note": "Portfolio 4179 pages 3-4 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, photos of a branded toy figure, process photos with hands, photo collage on a river, model data.",
+  "files": [
+    {
+      "name": "01-stage-two-frame.webp",
+      "sha256": "4f5ee10cb5f76016da4b98128d0643153ccbe14aa6e78a3c3f876bbcfad8bc38",
+      "bytes": 118966,
+      "from": "4179 pages 3-4 — the translucent frame of the second model"
+    },
+    {
+      "name": "02-preliminary-sketch.webp",
+      "sha256": "ff6eb5caa0bf02b7fb12fc101f6967c2093cb08daa74198ad0e25aff994b5a67",
+      "bytes": 101560,
+      "from": "4179 pages 3-4 — a sketch of sharp triangles"
+    },
+    {
+      "name": "03-added-part-sketch.webp",
+      "sha256": "b393f12208460499fa5cdf0bfb23220d684becc3440d3f103adf93fbbce81bbb",
+      "bytes": 79658,
+      "from": "4179 pages 3-4 — rails and hinges drawn as added parts"
+    },
+    {
+      "name": "04-stage-one-drawing.webp",
+      "sha256": "6446ffa7af813decd5e109c24226a768b70b9e2b85b797f9988862400cc3b0ed",
+      "bytes": 108226,
+      "from": "4179 pages 3-4 — a drawing of the first model"
+    },
+    {
+      "name": "05-stage-one-model-a.webp",
+      "sha256": "f60fd837e856d6ccfba65b8d734a7e662d1dd5c17766af5d9661982639d23fc8",
+      "bytes": 43088,
+      "from": "4179 pages 3-4 — the first card model"
+    },
+    {
+      "name": "06-stage-one-model-b.webp",
+      "sha256": "8c49fb4238908204186011194e9fc881e80b6fa857da19416707cc0e29461f40",
+      "bytes": 39866,
+      "from": "4179 pages 3-4 — another view of the card model"
+    },
+    {
+      "name": "07-stage-one-series.webp",
+      "sha256": "be61b717e595e142748b899d0b2482b9483c56c501035c6113c7bd0054da889a",
+      "bytes": 74086,
+      "from": "4179 pages 3-4 — a series of views of the first model"
+    },
+    {
+      "name": "08-stage-two-side.webp",
+      "sha256": "6c09feaf16b71e79c43c3f7318d2699ca2e39ced6fe3884216bd25b8f1c64023",
+      "bytes": 61410,
+      "from": "4179 pages 3-4 — the frame from the side"
+    },
+    {
+      "name": "09-stage-two-detail.webp",
+      "sha256": "1ed3995b40c695bdb4bc9406a91a22fbf7a3091b8e52bdbc8669295e8ec565cd",
+      "bytes": 54834,
+      "from": "4179 pages 3-4 — a folded unit of the frame"
+    },
+    {
+      "name": "10-stage-two-series.webp",
+      "sha256": "fc53281a131499356cdde140c5816e2927dc68fbd74a11ebcf7e5a1baa7b8944",
+      "bytes": 42390,
+      "from": "4179 pages 3-4 — the frame in different positions"
+    }
+  ]
+}
