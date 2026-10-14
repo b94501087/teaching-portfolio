@@ -1,0 +1,25 @@
+{
+  "project": "Thorns of Desire",
+  "dest": "assets/board/thorns-of-desire-wire-film-and-stick-cluster",
+  "note": "w738s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-film-stills.webp",
+      "sha256": "80cf5befda6c0f3b7d636857b01863738b93c07cb0ab4664793d7e5aa1bee146",
+      "bytes": 58220,
+      "from": "restored reference image (film stills)"
+    },
+    {
+      "name": "09-gluing-the-frame-by-hand.webp",
+      "sha256": "e34ec23ab90d2db6bebb507741505b9342222a0520c1f81fe967b420c5175927",
+      "bytes": 46616,
+      "from": "restored reference image (gluing the frame by hand)"
+    },
+    {
+      "name": "10-wrapping-film-by-hand.webp",
+      "sha256": "bc3be4e936d3433807648b3056c3c8cf44824885582090ce842937ca3d95ad9c",
+      "bytes": 68444,
+      "from": "restored reference image (wrapping film by hand)"
+    }
+  ]
+}
