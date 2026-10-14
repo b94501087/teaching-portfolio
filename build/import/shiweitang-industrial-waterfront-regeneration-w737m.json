@@ -1,0 +1,23 @@
+{
+  "project": "Shiweitang: Industrial Waterfront Regeneration",
+  "dest": "assets/board/shiweitang-industrial-waterfront-regeneration",
+  "note": "w737m restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-context-and-history.webp",
+      "sha256": "bcb008d8c555fd43d9b8aa953e845a8d46c116f0d4365c74bf36e8d48e3c5719",
+      "bytes": 190416,
+      "from": "restored reference image (site context and history)"
+    },
+    {
+      "name": "12-roboat-design-key-nodes.webp",
+      "sha256": "88a3ab27611db0e5ecb89b12512ccd2de28f5f388bba276f415d0b2fcc2bb6c7",
+      "bytes": 182572,
+      "from": "restored reference image (roboat design key nodes)"
+    }
+  ],
+  "delete": [
+    "assets/board/shiweitang-industrial-waterfront-regeneration/04-location-table.webp",
+    "assets/board/shiweitang-industrial-waterfront-regeneration/07-concept-drawing.webp"
+  ]
+}

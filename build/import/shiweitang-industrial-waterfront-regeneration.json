@@ -22,12 +22,6 @@
       "from": "5757 page 17 — strategy diagrams and mobility, x 25–49 %, y 22–100 %"
     },
     {
-      "name": "04-location-table.webp",
-      "sha256": "985d89c5d536252a8f2876319e9ccbf266f2eef4092db5e36dc077e13bffe201",
-      "bytes": 223964,
-      "from": "5757 page 17 — location table of new programmes, x 50–85 %, y 0–100 %"
-    },
-    {
       "name": "05-site-analysis-maps.webp",
       "sha256": "fab8c382158f948b0cef3f008c8d670ffca73a6085e0f54ae351865c235daedb",
       "bytes": 156488,
@@ -38,12 +32,6 @@
       "sha256": "44341117d1db2e230dc6547c087ef25b8ceef83ca5db39a98436bc696f709b02",
       "bytes": 92276,
       "from": "5757 page 16 — five planning concepts, x 50–73 %, y 0–65 %"
-    },
-    {
-      "name": "07-concept-drawing.webp",
-      "sha256": "e482e389eda346be921c3b64c27de004a6ad1995b6d3095569e5cbb93d3840ac",
-      "bytes": 42830,
-      "from": "5757 page 16 — concept drawing, x 50–73 %, y 66–100 %"
     },
     {
       "name": "08-management-diagram.webp",
@@ -62,6 +50,18 @@
       "sha256": "abe0a6353b5ef880ceaf9c94eed861744d739a6a6b26cf5e08197fb5e9e90b8f",
       "bytes": 43194,
       "from": "5757 page 18 — factory axonometric and section, x 50–100 %, y 60–100 %"
+    },
+    {
+      "name": "11-site-context-and-history.webp",
+      "sha256": "bcb008d8c555fd43d9b8aa953e845a8d46c116f0d4365c74bf36e8d48e3c5719",
+      "bytes": 190416,
+      "from": "restored reference image (site context and history)"
+    },
+    {
+      "name": "12-roboat-design-key-nodes.webp",
+      "sha256": "88a3ab27611db0e5ecb89b12512ccd2de28f5f388bba276f415d0b2fcc2bb6c7",
+      "bytes": 182572,
+      "from": "restored reference image (roboat design key nodes)"
     }
   ]
 }
