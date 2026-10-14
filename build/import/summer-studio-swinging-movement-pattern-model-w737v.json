@@ -1,0 +1,13 @@
+{
+  "project": "Summer Studio: Movement Model",
+  "dest": "assets/board/summer-studio-swinging-movement-pattern-model",
+  "note": "w737v restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-swinging-movement-photos.webp",
+      "sha256": "df88ff5615c3ef0e12dd81f206bc43ac8e1ed6be8dc180a6f6a21ad512c4002d",
+      "bytes": 164740,
+      "from": "restored reference image (swinging movement photos)"
+    }
+  ]
+}
