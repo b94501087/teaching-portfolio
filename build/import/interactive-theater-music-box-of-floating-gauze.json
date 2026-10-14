@@ -1,0 +1,55 @@
+{
+  "project": "Interactive Theater",
+  "dest": "assets/board/interactive-theater-music-box-of-floating-gauze",
+  "note": "Portfolio 2a0b pages 12-14 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, printed score, composer portrait, opera house photo, mind map, painting photo with a hand, performance-figure views with show names, pop-up street drawing with lettering.",
+  "files": [
+    {
+      "name": "01-gauze-box.webp",
+      "sha256": "885ff082c5fd0c092c1f32022d53facc7fe9e1c3c696bf263f202d5ae7bea5a0",
+      "bytes": 258342,
+      "from": "2a0b pages 12-14 — the music box with floating gauze"
+    },
+    {
+      "name": "02-box-perspectives.webp",
+      "sha256": "df5fdd945ed0a08d13f464e6666a655790463cdad0ac4f05ca1a49a24291715d",
+      "bytes": 106302,
+      "from": "2a0b pages 12-14 — top and front views of the box"
+    },
+    {
+      "name": "03-note-model-top.webp",
+      "sha256": "a43931cf40093c8591ed04ce677ea03aee0895046254f9b4de794c7e3636dd95",
+      "bytes": 42366,
+      "from": "2a0b pages 12-14 — note cylinders placed on the staff"
+    },
+    {
+      "name": "04-sketch.webp",
+      "sha256": "a6ae0bc057d881192f57cf70941bfbfda4cafb608aa664f01b36df74a6ef6c09",
+      "bytes": 61338,
+      "from": "2a0b pages 12-14 — the first sketch of the box"
+    },
+    {
+      "name": "05-gauze-detail.webp",
+      "sha256": "99deb2179e9457ddb55224a0e2a0ac60c402444db7fbf44517acb33296fa2b61",
+      "bytes": 35232,
+      "from": "2a0b pages 12-14 — the painted blue top"
+    },
+    {
+      "name": "06-gauze-light.webp",
+      "sha256": "8de1019fa566c5c35d7376a49d3c3cf69cdbf3db1319231bf5d6aab6a438a2d2",
+      "bytes": 102038,
+      "from": "2a0b pages 12-14 — gauze rising toward the blue top"
+    },
+    {
+      "name": "07-gauze-base.webp",
+      "sha256": "6404b6d7dd96207bafcfe4dd33828207b23c6947c93d8126d8748eacf6aea539",
+      "bytes": 134648,
+      "from": "2a0b pages 12-14 — gauze floating over the notes"
+    },
+    {
+      "name": "08-box-stage.webp",
+      "sha256": "891e6a0bbfd8d897790bf65aeaac51a635863fda3cd55d6ef9af27a83fb1287b",
+      "bytes": 113750,
+      "from": "2a0b pages 12-14 — the box as a lit stage"
+    }
+  ]
+}
