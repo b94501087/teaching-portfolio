@@ -1,0 +1,30 @@
+{
+  "project": "Vertical Ascent",
+  "dest": "assets/board/vertical-ascent-dna-spiral-tower-model",
+  "note": "w738d restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-film-collage.webp",
+      "sha256": "321e0eaa78d731f1ac030b7f678954b0c78e955dafd4c3400bb0243469de8e97",
+      "bytes": 89012,
+      "from": "restored reference image (film collage)"
+    },
+    {
+      "name": "12-story-sketches-and-film-stills.webp",
+      "sha256": "479a4d0e0b3f6250e75036c04daebaff7a67504f08318eb29b9d4b22f7d8a95c",
+      "bytes": 76764,
+      "from": "restored reference image (story sketches and film stills)"
+    },
+    {
+      "name": "13-making-by-hand.webp",
+      "sha256": "247134648cf92dd459bff6a162bda5bb5abfe0af336ac2d2edd9b5464ab20cd3",
+      "bytes": 77704,
+      "from": "restored reference image (making by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/vertical-ascent-dna-spiral-tower-model/03-level-sketch.webp",
+    "assets/board/vertical-ascent-dna-spiral-tower-model/04-tall-sketch.webp",
+    "assets/board/vertical-ascent-dna-spiral-tower-model/07-work-level.webp"
+  ]
+}
