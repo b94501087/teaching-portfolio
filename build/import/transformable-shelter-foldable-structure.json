@@ -50,6 +50,18 @@
       "sha256": "7698a935d65aa0c409df3828bf392d127102a52190402ffc4fc3e1402fe2ec2a",
       "bytes": 78468,
       "from": "2cd4 page 17 — space in motion"
+    },
+    {
+      "name": "09-inspiration-photos.webp",
+      "sha256": "a195232465fe9f6a3bbae452a487a6934518713c2d4dd79027007cd44b1beabe",
+      "bytes": 12358,
+      "from": "restored reference image (inspiration photos)"
+    },
+    {
+      "name": "10-folding-hands.webp",
+      "sha256": "46797061240abbf9481ec9fea68dc092e710652263525fde120bb6b87e990ab6",
+      "bytes": 46952,
+      "from": "restored reference image (folding hands)"
     }
   ]
 }

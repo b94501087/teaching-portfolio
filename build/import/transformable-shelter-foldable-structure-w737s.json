@@ -1,0 +1,19 @@
+{
+  "project": "Transformable Shelter",
+  "dest": "assets/board/transformable-shelter-foldable-structure",
+  "note": "w737s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-inspiration-photos.webp",
+      "sha256": "a195232465fe9f6a3bbae452a487a6934518713c2d4dd79027007cd44b1beabe",
+      "bytes": 12358,
+      "from": "restored reference image (inspiration photos)"
+    },
+    {
+      "name": "10-folding-hands.webp",
+      "sha256": "46797061240abbf9481ec9fea68dc092e710652263525fde120bb6b87e990ab6",
+      "bytes": 46952,
+      "from": "restored reference image (folding hands)"
+    }
+  ]
+}
