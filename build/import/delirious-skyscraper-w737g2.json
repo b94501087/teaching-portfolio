@@ -1,0 +1,16 @@
+{
+  "project": "The Delirious Skyscraper",
+  "dest": "assets/board/delirious-skyscraper",
+  "note": "w737g2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-observation-of-the-surroundings.webp",
+      "sha256": "e4476ad0414566bad22e7f89acf7c0ade22172234cab6c1e4f7efb7cc69d99ea",
+      "bytes": 257560,
+      "from": "restored reference image (observation of the surroundings)"
+    }
+  ],
+  "delete": [
+    "assets/board/delirious-skyscraper/05-plank-wave.webp"
+  ]
+}

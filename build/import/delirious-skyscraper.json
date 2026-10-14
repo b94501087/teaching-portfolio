@@ -28,12 +28,6 @@
       "from": "page 7 — patterns and expanded block, x 66.5–80 %, y 0–100 %"
     },
     {
-      "name": "05-plank-wave.webp",
-      "sha256": "a719e1949e3862db307eccb47f0cb6721c565de6c1c2d2b9fd629636e644f7d1",
-      "bytes": 128798,
-      "from": "page 7 — plank wave, x 80–100 %, y 0–100 %"
-    },
-    {
       "name": "06-walls-and-windows.webp",
       "sha256": "8a3234e0a1f3e4a02456c5fa1af4033b8f1fe728ebbed22bd38790568ab02bfc",
       "bytes": 225790,
@@ -62,6 +56,12 @@
       "sha256": "a2d22d14e29d42b27d981839ed7ec031f33414200fc74916fa9bb62230317a18",
       "bytes": 180710,
       "from": "page 10 — floor plans, x 62.5–100 %, y 0–100 %"
+    },
+    {
+      "name": "11-observation-of-the-surroundings.webp",
+      "sha256": "e4476ad0414566bad22e7f89acf7c0ade22172234cab6c1e4f7efb7cc69d99ea",
+      "bytes": 257560,
+      "from": "restored reference image (observation of the surroundings)"
     }
   ]
 }
