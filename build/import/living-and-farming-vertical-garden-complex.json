@@ -32,6 +32,12 @@
       "sha256": "47b3083c63637464c668c502c434b63adf71bace49e6f7bdaffe7ae878f6705e",
       "bytes": 46082,
       "from": "f986 page 3 — model views"
+    },
+    {
+      "name": "06-book-cover-reference.webp",
+      "sha256": "84f78af9ebd4b0b5b6b978981afb3ac85af5be2ba341e26bf1c789e5865edf45",
+      "bytes": 13978,
+      "from": "restored reference image (book cover reference)"
     }
   ]
 }

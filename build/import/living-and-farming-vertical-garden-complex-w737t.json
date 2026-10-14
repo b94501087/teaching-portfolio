@@ -1,0 +1,13 @@
+{
+  "project": "Living and Farming",
+  "dest": "assets/board/living-and-farming-vertical-garden-complex",
+  "note": "w737t restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-book-cover-reference.webp",
+      "sha256": "84f78af9ebd4b0b5b6b978981afb3ac85af5be2ba341e26bf1c789e5865edf45",
+      "bytes": 13978,
+      "from": "restored reference image (book cover reference)"
+    }
+  ]
+}
