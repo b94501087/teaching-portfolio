@@ -56,6 +56,12 @@
       "sha256": "73127866f603b97076ad46090dbfa3a4d8d9c74f537a87bf9a420b0ed3871f54",
       "bytes": 31040,
       "from": "ce4a page 7 — details b"
+    },
+    {
+      "name": "10-inspiration-photos.webp",
+      "sha256": "d2a8b4520fa54a056defae1dad40523894097561d9b473dc8f4190a94568dde7",
+      "bytes": 40790,
+      "from": "restored reference image (inspiration photos)"
     }
   ]
 }

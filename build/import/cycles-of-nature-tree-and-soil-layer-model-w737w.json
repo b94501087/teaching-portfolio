@@ -1,0 +1,13 @@
+{
+  "project": "Cycles of Nature",
+  "dest": "assets/board/cycles-of-nature-tree-and-soil-layer-model",
+  "note": "w737w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-inspiration-photos.webp",
+      "sha256": "d2a8b4520fa54a056defae1dad40523894097561d9b473dc8f4190a94568dde7",
+      "bytes": 40790,
+      "from": "restored reference image (inspiration photos)"
+    }
+  ]
+}
