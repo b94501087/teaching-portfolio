@@ -46,16 +46,22 @@
       "from": "3a1d pages 2-3 — the brain model standing tall"
     },
     {
-      "name": "08-brain-model-low.webp",
-      "sha256": "ebca74566bc4260e4c15fdc1cf049fe96167c708edc445f6dde2e9fb5248329a",
-      "bytes": 47680,
-      "from": "3a1d pages 2-3 — the brain model from below"
-    },
-    {
       "name": "09-lung-sketch.webp",
       "sha256": "ee4c5859bfb477dec3334028df9b9b438ed51931e907c4eca75837344754a91f",
       "bytes": 15470,
       "from": "3a1d pages 2-3 — a lung sketch"
+    },
+    {
+      "name": "10-organ-diagrams.webp",
+      "sha256": "bedb162cbe3c74678254aceea62b2d8d3973a2767483d99f9f89807258bfbfc4",
+      "bytes": 41848,
+      "from": "restored reference image (organ diagrams)"
+    },
+    {
+      "name": "11-wearing-the-esophagus-model.webp",
+      "sha256": "4d41d891aa3c399f806b440709e6301163a0d3134eee1f4a524dfbe44be6d582",
+      "bytes": 95206,
+      "from": "restored reference image (wearing the esophagus model)"
     }
   ]
 }

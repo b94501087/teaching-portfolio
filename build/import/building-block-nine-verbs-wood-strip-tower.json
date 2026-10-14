@@ -50,6 +50,12 @@
       "sha256": "33b5a140eb6941477ef9e0fbed6798f44b150b80c0aae4b9758d07e150fca59b",
       "bytes": 50418,
       "from": "ff8f pages 4-5 — the tall tower"
+    },
+    {
+      "name": "09-archive-building-photos.webp",
+      "sha256": "517c38a08b217ec113de35d8fd1d2c81e406fe097d47a81cfce10eaa25e608de",
+      "bytes": 84594,
+      "from": "restored reference image (archive building photos)"
     }
   ]
 }

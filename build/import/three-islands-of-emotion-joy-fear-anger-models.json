@@ -56,6 +56,12 @@
       "sha256": "1c87e161df6e4abb643b65003c828a9bfd951c2156529f790c0239a2edede538",
       "bytes": 210540,
       "from": "ff8f pages 2-3 — process models"
+    },
+    {
+      "name": "10-film-stills.webp",
+      "sha256": "59e4f8c854958f0c83150e57bcae05a6a384b70bb4b1c419ebce51059ec899eb",
+      "bytes": 85394,
+      "from": "restored reference image (film stills)"
     }
   ]
 }

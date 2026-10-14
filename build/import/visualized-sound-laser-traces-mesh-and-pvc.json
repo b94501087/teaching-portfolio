@@ -46,16 +46,22 @@
       "from": "3a1d pages 4-5 — pvc layers"
     },
     {
-      "name": "08-pvc-from-above.webp",
-      "sha256": "c6d88e85bbff6cc556f477d07a2e4ebcf25b602b95a99c61e763d81cf7231ac7",
-      "bytes": 54766,
-      "from": "3a1d pages 4-5 — pvc from above"
-    },
-    {
       "name": "09-mesh-cut-on-mat.webp",
       "sha256": "0d8729cd5cbd725a947405c4a0bbfa3833b462ccaf5ea4f2f3265a9626aef304",
       "bytes": 23454,
       "from": "3a1d pages 4-5 — mesh cut on a mat"
+    },
+    {
+      "name": "10-concert-photo.webp",
+      "sha256": "a8211f172cdc9201138a8785e3ab8cf57d226f88e8eaadad5ffd171d753190b0",
+      "bytes": 35692,
+      "from": "restored reference image (concert photo)"
+    },
+    {
+      "name": "11-making-process-photos.webp",
+      "sha256": "dcfa591aae9df7e6124456c1a4da0465993b64f1788389acc31b3fb8b9c4acaa",
+      "bytes": 60070,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }
