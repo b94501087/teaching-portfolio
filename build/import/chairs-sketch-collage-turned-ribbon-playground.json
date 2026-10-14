@@ -1,0 +1,67 @@
+{
+  "project": "Chairs",
+  "dest": "assets/board/chairs-sketch-collage-turned-ribbon-playground",
+  "note": "Portfolio d39e pages 3-4 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, magazine-picture collage, process photo with hands.",
+  "files": [
+    {
+      "name": "01-final-model-front.webp",
+      "sha256": "5125d7fa3033278e9018c6b62f158a84e039de3d4ef4986b353daac5b3434095",
+      "bytes": 47952,
+      "from": "d39e pages 3-4 — the final model of curving ribbons"
+    },
+    {
+      "name": "02-chair-sketches.webp",
+      "sha256": "60a4666dfc2a713263608573147af7646b23313627dd5f81f4cad256e263a32a",
+      "bytes": 12180,
+      "from": "d39e pages 3-4 — outline sketches of daily chairs"
+    },
+    {
+      "name": "03-colour-studies.webp",
+      "sha256": "856b427f74359df568afde04d55c111a421c1fa20e891eb46fc3fa8211f6a596",
+      "bytes": 44142,
+      "from": "d39e pages 3-4 — colour studies and palettes"
+    },
+    {
+      "name": "04-overlapped-chairs.webp",
+      "sha256": "ea9bc96ed26c211756fcf4b869b82e80e893f7457cf714361137807a32c29868",
+      "bytes": 39938,
+      "from": "d39e pages 3-4 — overlapped chair outlines"
+    },
+    {
+      "name": "05-coloured-drawing.webp",
+      "sha256": "a6f0d4a355b873c41fac5eccdefcf871647cc76ffed23b45cee191c774cbcbcd",
+      "bytes": 65276,
+      "from": "d39e pages 3-4 — the coloured composition"
+    },
+    {
+      "name": "06-model-views.webp",
+      "sha256": "9f518dde8c6a426e32d22115cddc0cd1177f7ff12de06c0bbdafa1adb62f967a",
+      "bytes": 53642,
+      "from": "d39e pages 3-4 — two views of the ribbon model"
+    },
+    {
+      "name": "07-model-from-above.webp",
+      "sha256": "33ee4a86ea378ec9db7e5d8b2e187b7b769152076fe1e1ef7af5452717363980",
+      "bytes": 53268,
+      "from": "d39e pages 3-4 — the model seen from above"
+    },
+    {
+      "name": "08-stair-close-up.webp",
+      "sha256": "6438888e3d249bfce64c8de04d4ac7caee92f760653d2cf3040ad58a2fa87fd4",
+      "bytes": 42616,
+      "from": "d39e pages 3-4 — wooden stairs among the ribbons"
+    },
+    {
+      "name": "09-ribbon-interior.webp",
+      "sha256": "822f3028a5dfb5f27e1fbcc1f1f1c991269b84f2f8dd3fd8923799fb200816d8",
+      "bytes": 33028,
+      "from": "d39e pages 3-4 — an interior view of the ribbons"
+    },
+    {
+      "name": "10-final-model-rear.webp",
+      "sha256": "65a8f02432f1f2e69d7c0a950c19c98a5caa76f7c29a0c3d65fd1123621aee0e",
+      "bytes": 58312,
+      "from": "d39e pages 3-4 — the final model from the rear"
+    }
+  ]
+}
