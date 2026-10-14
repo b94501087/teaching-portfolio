@@ -1,0 +1,29 @@
+{
+  "project": "Urban Living Room",
+  "dest": "assets/board/urban-living-room-art-museum-renewal",
+  "note": "w737r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-opera-context-map.webp",
+      "sha256": "e98eec8c541075d12aaa22d947aa5fef5f822dbed9b16ffa778a47de9dcfec6a",
+      "bytes": 211586,
+      "from": "restored reference image (opera context map)"
+    },
+    {
+      "name": "11-user-groups.webp",
+      "sha256": "205706ae84b29b18c1bc5796c406a0a8f18b2afe44b98393f3bf9c4c41997a7c",
+      "bytes": 108280,
+      "from": "restored reference image (user groups)"
+    },
+    {
+      "name": "12-plaza-render.webp",
+      "sha256": "3ba0d778f9cd887df6e41ecb8076ed97f32ffa110253ace7f6ff9ef3a1ec09a7",
+      "bytes": 145876,
+      "from": "restored reference image (plaza render)"
+    }
+  ],
+  "delete": [
+    "assets/board/urban-living-room-art-museum-renewal/07-aerial-render.webp",
+    "assets/board/urban-living-room-art-museum-renewal/08-space-to-form-diagrams.webp"
+  ]
+}

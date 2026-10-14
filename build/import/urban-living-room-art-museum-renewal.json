@@ -40,22 +40,28 @@
       "from": "c0e5 page 25 — form evolution"
     },
     {
-      "name": "07-aerial-render.webp",
-      "sha256": "bc42c1184b6c909cf5b22c70325df00454f548e5b1cfd6401f4aded28a471fe3",
-      "bytes": 127546,
-      "from": "c0e5 page 25 — aerial render"
-    },
-    {
-      "name": "08-space-to-form-diagrams.webp",
-      "sha256": "c3d2c45adbaa8ee7f3b35a4dcab989e7f0631137ecb87ab188efa4a749af0107",
-      "bytes": 55960,
-      "from": "c0e5 page 27 — gallery type diagrams"
-    },
-    {
       "name": "09-gallery-interior.webp",
       "sha256": "6625919a66224edd1b6718d815fed3560d7c7229dd5d35df66bf6c0cba25c1db",
       "bytes": 22686,
       "from": "c0e5 page 26 — gallery interior render"
+    },
+    {
+      "name": "10-opera-context-map.webp",
+      "sha256": "e98eec8c541075d12aaa22d947aa5fef5f822dbed9b16ffa778a47de9dcfec6a",
+      "bytes": 211586,
+      "from": "restored reference image (opera context map)"
+    },
+    {
+      "name": "11-user-groups.webp",
+      "sha256": "205706ae84b29b18c1bc5796c406a0a8f18b2afe44b98393f3bf9c4c41997a7c",
+      "bytes": 108280,
+      "from": "restored reference image (user groups)"
+    },
+    {
+      "name": "12-plaza-render.webp",
+      "sha256": "3ba0d778f9cd887df6e41ecb8076ed97f32ffa110253ace7f6ff9ef3a1ec09a7",
+      "bytes": 145876,
+      "from": "restored reference image (plaza render)"
     }
   ]
 }
