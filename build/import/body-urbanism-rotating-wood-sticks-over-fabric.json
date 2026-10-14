@@ -1,0 +1,67 @@
+{
+  "project": "Body Urbanism",
+  "dest": "assets/board/body-urbanism-rotating-wood-sticks-over-fabric",
+  "note": "Portfolio 5918 pages 14-16 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, exploded drawing with a human figure, hanging-sequence photos showing hands, fabric close-ups.",
+  "files": [
+    {
+      "name": "01-stick-and-fabric.webp",
+      "sha256": "73aa7aca3dea93a0226e4c070ceaf6674d703fc05f0c3e168b9fe60f61f77215",
+      "bytes": 51928,
+      "from": "5918 pages 14-16 — wooden sticks gripping the fabric"
+    },
+    {
+      "name": "02-pattern-drawing.webp",
+      "sha256": "4626e54144f923b0285e0fa1d7ed193a9041ab0bbd6fe1a36f3bcf19d3cccb4d",
+      "bytes": 73280,
+      "from": "5918 pages 14-16 — pattern pieces of the shirt drawn flat"
+    },
+    {
+      "name": "03-joint-diagrams.webp",
+      "sha256": "2add9be4538cff65510f9191d426ef9b746c94f5d86ed9e53abe5fd3b587908c",
+      "bytes": 34972,
+      "from": "5918 pages 14-16 — diagrams of stick joints"
+    },
+    {
+      "name": "04-point-cloud.webp",
+      "sha256": "5ad9e5e0eb64c62900cc3e9cf4eaef6165bcb1a3c7d6c2b354151e7fff1c3377",
+      "bytes": 271326,
+      "from": "5918 pages 14-16 — a point-cloud drawing of the garment and frame"
+    },
+    {
+      "name": "05-wood-joints.webp",
+      "sha256": "43adeafb878a7d35d692392427f90bc7d05ea16d2a26a20c6f6896ef3c2d47d8",
+      "bytes": 13644,
+      "from": "5918 pages 14-16 — joined wooden sticks"
+    },
+    {
+      "name": "06-joint-grid.webp",
+      "sha256": "942b6cc20110c857bef3685f3e8fb69108721164d0903c5d374f165def52d921",
+      "bytes": 92744,
+      "from": "5918 pages 14-16 — joint studies in a grid"
+    },
+    {
+      "name": "07-fabric-sticks.webp",
+      "sha256": "4f121fb95603ba66f850eef43d586738edc612eafba829cf5e0886d1be3888e9",
+      "bytes": 126282,
+      "from": "5918 pages 14-16 — sticks and fabric combined"
+    },
+    {
+      "name": "08-joint-close.webp",
+      "sha256": "f3c5f4cc4601644c0148d7ca2f07254ed800a784198ce47e493fa0c906c51132",
+      "bytes": 31308,
+      "from": "5918 pages 14-16 — a close view of a rotating joint"
+    },
+    {
+      "name": "09-screw-detail.webp",
+      "sha256": "1010d0e163cca356d3f86df78ff1d39754d03f180c671f73eba2369eb6f3cf89",
+      "bytes": 7490,
+      "from": "5918 pages 14-16 — a screw passing through the fabric"
+    },
+    {
+      "name": "10-fabric-texture.webp",
+      "sha256": "0720f2c709f82a57006d33c00d159687d54cb936768ca05af252613eda98b458",
+      "bytes": 12184,
+      "from": "5918 pages 14-16 — the shirt before it was taken apart"
+    }
+  ]
+}
