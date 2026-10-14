@@ -1,0 +1,49 @@
+{
+  "project": "Ladder to Mountains, Waters and Clouds",
+  "dest": "assets/board/ladder-to-mountains-waters-and-clouds-stick-net-terrain",
+  "note": "Portfolio 711d pages 5-6 cropped to 7 images, WebP q88 (PIL). Not used: title lettering, explanatory text, riverside photograph with a landmark tower, process photos with a person and hands, a split two-photo detail.",
+  "files": [
+    {
+      "name": "01-ladder-model.webp",
+      "sha256": "316a4b7e07070a28556954977026902174602a90c8cb39448bd061a76b6a923a",
+      "bytes": 136690,
+      "from": "711d pages 5-6 — the ladder of sticks rising from its terrain"
+    },
+    {
+      "name": "02-terrain-frames.webp",
+      "sha256": "3f807ae0a1a834262260ee01094bc5132131e59b91f06703a7251d0a82dbefef",
+      "bytes": 110302,
+      "from": "711d pages 5-6 — stick terrain from above"
+    },
+    {
+      "name": "03-frames-side.webp",
+      "sha256": "1b7a651910d4da95a52a602bd3c26cd3fd2dd2d0e8d7675f63179900456f3b1c",
+      "bytes": 97840,
+      "from": "711d pages 5-6 — frames growing from the terrain"
+    },
+    {
+      "name": "04-panel-pathways.webp",
+      "sha256": "a88fa8192d67ce5277f8c657601fdfb850b7417d69932ce37c1a78e1f34c2b53",
+      "bytes": 109342,
+      "from": "711d pages 5-6 — panels among the frames"
+    },
+    {
+      "name": "05-detail-a.webp",
+      "sha256": "74b0eda43d448352cb1bc7b72c0172e385ebf7affbfbce33e230c7b9f0f2e4b7",
+      "bytes": 47638,
+      "from": "711d pages 5-6 — inside the frames"
+    },
+    {
+      "name": "06-detail-b.webp",
+      "sha256": "5b57315dc061aa7b740000b12dc63db5e0ec7cdb4c92e8c1677a794ed59fd2b0",
+      "bytes": 40238,
+      "from": "711d pages 5-6 — sticks over the timber terrain"
+    },
+    {
+      "name": "07-net-terrain.webp",
+      "sha256": "2decb607a00b0029577053feabf9fb0b68970cf17c9826d16ec79297ba47da66",
+      "bytes": 61034,
+      "from": "711d pages 5-6 — the net lifted into terrain"
+    }
+  ]
+}
