@@ -46,12 +46,6 @@
       "from": "9caf page 5 — model c"
     },
     {
-      "name": "08-model-d.webp",
-      "sha256": "1ebe102fb0f7eeda947ef1d4c0f09c79140d77a0418e3b22b9b94120f04f917d",
-      "bytes": 15808,
-      "from": "9caf page 5 — model d"
-    },
-    {
       "name": "09-aerial-render.webp",
       "sha256": "894a71226d3ecf62267ef4959ffce6dbc9091fee5d892b416cce6c9037b9fd02",
       "bytes": 64546,
@@ -62,6 +56,12 @@
       "sha256": "c2019832c43dac607309b5223465b634f5dbd9474349c49d6199cf698c04c0c0",
       "bytes": 43518,
       "from": "9caf page 5 — seat render"
+    },
+    {
+      "name": "11-site-photos.webp",
+      "sha256": "9bca7f0af094185166a8753ab18978e91beeba2f483d047fd933b0dfb4795dd4",
+      "bytes": 34878,
+      "from": "restored reference image (site photos)"
     }
   ]
 }

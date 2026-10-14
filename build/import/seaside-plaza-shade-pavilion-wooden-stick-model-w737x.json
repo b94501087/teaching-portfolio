@@ -1,0 +1,16 @@
+{
+  "project": "Shade Pavilion for a Seaside Plaza",
+  "dest": "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model",
+  "note": "w737x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-photos.webp",
+      "sha256": "9bca7f0af094185166a8753ab18978e91beeba2f483d047fd933b0dfb4795dd4",
+      "bytes": 34878,
+      "from": "restored reference image (site photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/seaside-plaza-shade-pavilion-wooden-stick-model/08-model-d.webp"
+  ]
+}
