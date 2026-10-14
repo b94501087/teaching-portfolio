@@ -32,6 +32,36 @@
       "sha256": "ab3a51d627d18812b9a251abaec7adc1ff4703593aa8a234e59af373c137259a",
       "bytes": 244446,
       "from": "ba4c page 22 — masterplan"
+    },
+    {
+      "name": "07-history-and-site-context.webp",
+      "sha256": "b8cbcd580a6dadfcdb4d71dc555150086521fae4968dd7dcdc5b4201a3d20fea",
+      "bytes": 186806,
+      "from": "restored reference image (history and site context)"
+    },
+    {
+      "name": "08-population-analysis.webp",
+      "sha256": "23a895e3259660edeeadbc0a218fc57c162ec4aa577f5a2641e0b3a6a87f521d",
+      "bytes": 123884,
+      "from": "restored reference image (population analysis)"
+    },
+    {
+      "name": "09-silk-concept-collage.webp",
+      "sha256": "929da8e3d35681f6d82034b7232e23a4deb0ae1991bea8393a4986958964387f",
+      "bytes": 65020,
+      "from": "restored reference image (silk concept collage)"
+    },
+    {
+      "name": "10-silk-museum-render.webp",
+      "sha256": "42056e2c0192f126830b24e2ace781b88bf62bc22a6db59e6dd1b55d8c7f84cd",
+      "bytes": 109032,
+      "from": "restored reference image (silk museum render)"
+    },
+    {
+      "name": "11-waterfront-green-park.webp",
+      "sha256": "a1b03cd323fd54bf428d598704c509c75234179440ae362116516196561b05ce",
+      "bytes": 198968,
+      "from": "restored reference image (waterfront green park)"
     }
   ]
 }
