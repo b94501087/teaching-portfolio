@@ -1,0 +1,19 @@
+{
+  "project": "Machine Mosaic",
+  "dest": "assets/board/mecha-mosaic-folded-card-and-stick-models",
+  "note": "n738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-robot-reference-drawings.webp",
+      "sha256": "df4407808ad59c7481091fcba2b92edf65431c3bcc08b18dd86b0046fe9ddf21",
+      "bytes": 164202,
+      "from": "restored reference image (robot reference drawings)"
+    },
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "772e324f4cff1ecbf8722f5cc4938a00f3b027710fdea05a5296baf79b88b5de",
+      "bytes": 100678,
+      "from": "restored reference image (making by hand)"
+    }
+  ]
+}
