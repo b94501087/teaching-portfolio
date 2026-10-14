@@ -52,16 +52,16 @@
       "from": "page 12 — rice tavern model show and interior spaces, x 0–34.5 %, y 0–38 %"
     },
     {
-      "name": "09-model-section.webp",
-      "sha256": "6f85f2f724fa74a847a931aac9a323832e88bb2eacbee67c78bca239d6ca1cf7",
-      "bytes": 248330,
-      "from": "page 12 — model section, x 0–34.5 %, y 38–100 %"
+      "name": "11-village-history.webp",
+      "sha256": "eaaf46bca83913059a4e21da069c2c45dd955ae94169f19cbe33eb114b187e9a",
+      "bytes": 414014,
+      "from": "restored reference image (village history)"
     },
     {
-      "name": "10-roof-views.webp",
-      "sha256": "4a8d12a7d6b23918fe815e58766113d1f9ef268f0a575334575f57f102ce0374",
-      "bytes": 196646,
-      "from": "page 12 — farmers farming, tourist view and roof structure texture of the model, x 34.5–50 %"
+      "name": "12-villager-collage.webp",
+      "sha256": "11844ea9d742755c9d5b0a3def38402793e5e9aede00003b4497b027f0b46907",
+      "bytes": 308346,
+      "from": "restored reference image (villager collage)"
     }
   ]
 }

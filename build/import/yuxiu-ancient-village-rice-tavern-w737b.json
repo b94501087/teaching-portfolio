@@ -1,0 +1,23 @@
+{
+  "project": "Revitalization Design of Yuxiu Ancient Village",
+  "dest": "assets/board/yuxiu-ancient-village-rice-tavern",
+  "note": "w737b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-village-history.webp",
+      "sha256": "eaaf46bca83913059a4e21da069c2c45dd955ae94169f19cbe33eb114b187e9a",
+      "bytes": 414014,
+      "from": "restored reference image (village history)"
+    },
+    {
+      "name": "12-villager-collage.webp",
+      "sha256": "11844ea9d742755c9d5b0a3def38402793e5e9aede00003b4497b027f0b46907",
+      "bytes": 308346,
+      "from": "restored reference image (villager collage)"
+    }
+  ],
+  "delete": [
+    "assets/board/yuxiu-ancient-village-rice-tavern/09-model-section.webp",
+    "assets/board/yuxiu-ancient-village-rice-tavern/10-roof-views.webp"
+  ]
+}
