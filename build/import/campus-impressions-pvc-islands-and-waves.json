@@ -34,12 +34,6 @@
       "from": "1d03 pages 2-3 — cut pieces on a panel"
     },
     {
-      "name": "06-cut-pieces-view-b.webp",
-      "sha256": "da9876a7d2daebd30667add6b08c31481bec3834c17ca1c6464286b61de9b85e",
-      "bytes": 27812,
-      "from": "1d03 pages 2-3 — pieces raised above the panel"
-    },
-    {
       "name": "07-cut-pieces-view-c.webp",
       "sha256": "8c5e94a9739c7abd3e7e5b693ad27c9cca988fae5e93249a97c9fbe86f7d93f3",
       "bytes": 32024,
@@ -62,6 +56,12 @@
       "sha256": "812659d32179338468532cc644aee7d926b69b83ee92e8501e584485421bbabb",
       "bytes": 156334,
       "from": "1d03 pages 2-3 — wave layers with figures"
+    },
+    {
+      "name": "11-sea-photo.webp",
+      "sha256": "8bfd6a4407b5a4d7af5761c145fee6eed05125252308a0c3c24a72f24ab04fd4",
+      "bytes": 5600,
+      "from": "restored reference image (sea photo)"
     }
   ]
 }
