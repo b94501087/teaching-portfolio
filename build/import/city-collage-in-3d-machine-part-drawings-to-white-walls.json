@@ -1,0 +1,43 @@
+{
+  "project": "City Collage in 3D",
+  "dest": "assets/board/city-collage-in-3d-machine-part-drawings-to-white-walls",
+  "note": "Portfolio 2a0b pages 10-11 cropped to 6 images, WebP q88 (PIL). Not used: title lettering, explanatory text, public-area view with photo cut-out people.",
+  "files": [
+    {
+      "name": "01-model-top.webp",
+      "sha256": "31cfd4d5ce16477be9a0fc74427f7e676b2904e1ec3f29155f304d0a186478cc",
+      "bytes": 292374,
+      "from": "2a0b pages 10-11 — the white city model seen from above"
+    },
+    {
+      "name": "02-collage-drawing.webp",
+      "sha256": "efc79a5d8a0a989ca57c3b1e974dc3754d7380446d11ccd872823b66cc0a1e3f",
+      "bytes": 804416,
+      "from": "2a0b pages 10-11 — the collaged drawing over contour lines"
+    },
+    {
+      "name": "03-component-drawings.webp",
+      "sha256": "75b422e6316b7be0d539cb6b94d3532bc089caaf0818ab4a3849ca4ca8c5dabc",
+      "bytes": 155914,
+      "from": "2a0b pages 10-11 — hand drawings of machine components"
+    },
+    {
+      "name": "04-model-walls.webp",
+      "sha256": "af850c16e198acc62f1b42d9626db483a0654f5781fe35c30b0d446cee51a9bd",
+      "bytes": 122040,
+      "from": "2a0b pages 10-11 — rounded towers and walls of the city"
+    },
+    {
+      "name": "05-model-overview.webp",
+      "sha256": "ee95d77a2b2c7bf484f4a8e2250996f06c78369237c31bdb3a6bb79b3e942dec",
+      "bytes": 179082,
+      "from": "2a0b pages 10-11 — the model across the collage base"
+    },
+    {
+      "name": "06-model-close.webp",
+      "sha256": "dacf9e15d628425c3bac0db02a590d0930a5c146e03a02e3a0db69b8a5cefdc7",
+      "bytes": 113426,
+      "from": "2a0b pages 10-11 — curving walls in close view"
+    }
+  ]
+}
