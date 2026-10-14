@@ -1,0 +1,67 @@
+{
+  "project": "Walkway of Infinity",
+  "dest": "assets/board/walkway-of-infinity-paper-loops-to-wooden-slat-path",
+  "note": "Portfolio 43de pages 12-14 cropped to 10 images, WebP q88 (PIL). Not used: photo collage on a real campus site with building name, spiral stretched by hand, hand-held paper and wooden slat process photos, text about a summer school, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-wood-path-top.webp",
+      "sha256": "9c53bc7858ad32810e6d1a6b997d4bc16b771530a08b75535c7e647d0925e2da",
+      "bytes": 117420,
+      "from": "43de pages 12-14 — the wooden slat path from above"
+    },
+    {
+      "name": "02-cut-paper-spiral.webp",
+      "sha256": "f314f1454766fadc86d13a19111c463f39ee1a248c5962034535780e6e8989e9",
+      "bytes": 70848,
+      "from": "43de pages 12-14 — a spiral cut from a paper disc"
+    },
+    {
+      "name": "03-pavilion-render.webp",
+      "sha256": "fb5c2f4f824516de1965b8d3296c613b1646919932d060082016889d363ebc28",
+      "bytes": 41390,
+      "from": "43de pages 12-14 — a render of the ribbon pavilion"
+    },
+    {
+      "name": "04-paper-loop-a.webp",
+      "sha256": "16417787f17bdd3c95ac70b301c7ea739a8537c17c68affc9c2e1ce7aaec6e36",
+      "bytes": 27580,
+      "from": "43de pages 12-14 — a paper loop with one surface"
+    },
+    {
+      "name": "05-paper-loop-b.webp",
+      "sha256": "b24c3d6c67ca2156f2edbde64e51e022bd7acfee76dd7ba52264242dfeaacbea",
+      "bytes": 32308,
+      "from": "43de pages 12-14 — a tighter paper knot"
+    },
+    {
+      "name": "06-paper-loop-c.webp",
+      "sha256": "9f10808368ae8d46605679a4344f085ae8c4913d13b3ff2b848ffc080c8a6d27",
+      "bytes": 30932,
+      "from": "43de pages 12-14 — a tall paper loop"
+    },
+    {
+      "name": "07-paper-loop-d.webp",
+      "sha256": "462b04dbe507d22827bdb87afa8d6cd412a8c6d0cd975d4d213c83bd222cd07a",
+      "bytes": 26070,
+      "from": "43de pages 12-14 — a loop with figures for scale"
+    },
+    {
+      "name": "08-wood-path-a.webp",
+      "sha256": "ba8923e8eef529f45eb8f5e032dff7617d534e8c0b2d47f9ff2b9019f9a16422",
+      "bytes": 65726,
+      "from": "43de pages 12-14 — the slat path with figures"
+    },
+    {
+      "name": "09-wood-path-b.webp",
+      "sha256": "4add557389ab1a6a8d12eb2b5a8c71c513e778524893da53c848418ce1d5d070",
+      "bytes": 83508,
+      "from": "43de pages 12-14 — the coiling slat path"
+    },
+    {
+      "name": "10-wood-path-close.webp",
+      "sha256": "4e08fa9e548f5046d2d3a135fdb1223aedcd091017990ab29c3ec02a0a0203b6",
+      "bytes": 54548,
+      "from": "43de pages 12-14 — a close view of the slats"
+    }
+  ]
+}
