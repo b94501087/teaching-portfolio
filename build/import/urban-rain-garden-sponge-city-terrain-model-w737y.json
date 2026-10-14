@@ -1,0 +1,17 @@
+{
+  "project": "Urban Rain Garden",
+  "dest": "assets/board/urban-rain-garden-sponge-city-terrain-model",
+  "note": "w737y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-photos.webp",
+      "sha256": "e1ea0f2d2b253fe6e315615af4dc136c5bfaac3518fa65ee12b2d02ef913dcd9",
+      "bytes": 62710,
+      "from": "restored reference image (site photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/urban-rain-garden-sponge-city-terrain-model/02-site-terraces.webp",
+    "assets/board/urban-rain-garden-sponge-city-terrain-model/03-site-pool.webp"
+  ]
+}

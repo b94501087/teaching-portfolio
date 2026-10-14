@@ -10,18 +10,6 @@
       "from": "915e page 6 — final model"
     },
     {
-      "name": "02-site-terraces.webp",
-      "sha256": "790d6f705de4bc944c24c5715b2940e3bb48ca9d3ba89b8f058f0852cee84180",
-      "bytes": 21464,
-      "from": "915e page 5 — site terraces"
-    },
-    {
-      "name": "03-site-pool.webp",
-      "sha256": "2772cb652efed769c923d06630fcad0acda1578c6e2d588ab55da3eb741c2dea",
-      "bytes": 19016,
-      "from": "915e page 5 — site pool"
-    },
-    {
       "name": "04-section-sketch.webp",
       "sha256": "bd6805a9747c076f5b5aadb74b47e3d5e1945a48bc4994d7d3dcb84cb3c8f039",
       "bytes": 74672,
@@ -62,6 +50,12 @@
       "sha256": "e5dc35be1fe4e23fd3e61d044d85b21aebf7bb1387c40ad7ae6630c1939f7814",
       "bytes": 57152,
       "from": "915e page 6 — pond detail"
+    },
+    {
+      "name": "11-site-photos.webp",
+      "sha256": "e1ea0f2d2b253fe6e315615af4dc136c5bfaac3518fa65ee12b2d02ef913dcd9",
+      "bytes": 62710,
+      "from": "restored reference image (site photos)"
     }
   ]
 }
