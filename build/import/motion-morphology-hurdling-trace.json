@@ -50,6 +50,18 @@
       "sha256": "0f65fbdf931c4ccc2e346abfb9508acc6569bc686ce2423af196546f7f6e0615",
       "bytes": 32134,
       "from": "188e page 7 — ribbons and panels"
+    },
+    {
+      "name": "09-motion-study-plate.webp",
+      "sha256": "586f48661180f3323e2d5c3f3e93f43ebc0997421e2ec07f09e113c19bc041d2",
+      "bytes": 46266,
+      "from": "restored reference image (motion study plate)"
+    },
+    {
+      "name": "10-hurdle-sequence-photos.webp",
+      "sha256": "f0126096af7b4ff7aead2c1e4b448bbdb33a76e0c082064fb187c34ae51c41d3",
+      "bytes": 35748,
+      "from": "restored reference image (hurdle sequence photos)"
     }
   ]
 }
