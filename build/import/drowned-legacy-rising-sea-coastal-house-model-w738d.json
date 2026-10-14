@@ -1,0 +1,23 @@
+{
+  "project": "Drowned Legacy: The Inevitable Tide",
+  "dest": "assets/board/drowned-legacy-rising-sea-coastal-house-model",
+  "note": "w738d restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-reference-flood-photo.webp",
+      "sha256": "8ac9153b21852f5c8ce21c670b5a18412d0df0911af8ca451635394d17106053",
+      "bytes": 8810,
+      "from": "restored reference image (reference flood photo)"
+    },
+    {
+      "name": "12-material-tests-by-hand.webp",
+      "sha256": "ca12c780f865f0626740e9a24810dbadf7b88eb294af0bb5b3a9ae12d8791e1e",
+      "bytes": 46052,
+      "from": "restored reference image (material tests by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/drowned-legacy-rising-sea-coastal-house-model/03-material-tests.webp",
+    "assets/board/drowned-legacy-rising-sea-coastal-house-model/10-timber-frame.webp"
+  ]
+}
