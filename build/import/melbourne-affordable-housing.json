@@ -16,12 +16,6 @@
       "from": "page 22 — house and flat price change map with pie charts, x 0–30 %, y 35.5–98.5 %"
     },
     {
-      "name": "03-rent-price-chart.webp",
-      "sha256": "c92eae60a4f0310fc483b6f444856e907c63ca9c67878d6b2c75a7b3af007455",
-      "bytes": 32396,
-      "from": "page 22 — rent price chart, x 30–49.5 %, y 35.5–98.5 %"
-    },
-    {
       "name": "04-life-time-loop.webp",
       "sha256": "ce7797261f512b0af89519c59d7eacfe179c4ddeada174b5653c504671d381df",
       "bytes": 186302,
@@ -62,6 +56,12 @@
       "sha256": "64c614ba0cd07a66bca948ade7cbd37730c2c0971066ab89b2dadfb9ec2f8f65",
       "bytes": 199078,
       "from": "page 29 — warning clock composition, dial and gear drawings, x 53.5–100 % y 5–65 % stacked over x 30–100 % y 65–100 %"
+    },
+    {
+      "name": "11-site-analysis.webp",
+      "sha256": "b95e1418f10d37a8c7de2a1a34330ef306240295dfcfcc4f5680f68fb277b43e",
+      "bytes": 181486,
+      "from": "restored reference image (site analysis)"
     }
   ]
 }

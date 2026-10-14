@@ -1,0 +1,16 @@
+{
+  "project": "Melbourne Affordable Housing",
+  "dest": "assets/board/melbourne-affordable-housing",
+  "note": "w737k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-analysis.webp",
+      "sha256": "b95e1418f10d37a8c7de2a1a34330ef306240295dfcfcc4f5680f68fb277b43e",
+      "bytes": 181486,
+      "from": "restored reference image (site analysis)"
+    }
+  ],
+  "delete": [
+    "assets/board/melbourne-affordable-housing/03-rent-price-chart.webp"
+  ]
+}
