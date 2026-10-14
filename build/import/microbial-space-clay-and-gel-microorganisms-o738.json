@@ -1,0 +1,13 @@
+{
+  "project": "Microbial Space",
+  "dest": "assets/board/microbial-space-clay-and-gel-microorganisms",
+  "note": "o738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-microscope-images.webp",
+      "sha256": "55892c119220db29f5117bb173ddf1dbd408160efeaf4f96dda3c7e2273e0812",
+      "bytes": 77512,
+      "from": "restored reference image (microscope images)"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "project": "Spider",
+  "dest": "assets/board/spider-umbrella-frame-and-wire-web",
+  "note": "o738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-spider-web-photos.webp",
+      "sha256": "6077a37c4d54f507412394f9afc0f361ae7f23b3bb43750e1bb7f41e24f9aadf",
+      "bytes": 34170,
+      "from": "restored reference image (spider web photos)"
+    }
+  ]
+}
