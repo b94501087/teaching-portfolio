@@ -1,0 +1,23 @@
+{
+  "project": "Four Layers of a Dream Park",
+  "dest": "assets/board/four-layers-of-a-dream-park-mixed-material-model",
+  "note": "w738u restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-film-poster.webp",
+      "sha256": "803756a964c8849100202df167f7fccb3cb7b9366a800b9c7b5fe6be11fb47d3",
+      "bytes": 47068,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "12-film-stills.webp",
+      "sha256": "66aa87b8155cdccf2471b66d18d58ddbdfd92d5dc68e6e25ece1d10cb278cfe2",
+      "bytes": 60800,
+      "from": "restored reference image (film stills)"
+    }
+  ],
+  "delete": [
+    "assets/board/four-layers-of-a-dream-park-mixed-material-model/05-acrylic-lower-interior.webp",
+    "assets/board/four-layers-of-a-dream-park-mixed-material-model/07-rattan-loop-from-above.webp"
+  ]
+}
