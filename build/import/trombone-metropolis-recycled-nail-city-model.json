@@ -50,6 +50,18 @@
       "sha256": "43d8ed5bbe5a7d3d4d5f5486a8bfbdc9c5d2d4abac735fa6f6b52be44a1f6b23",
       "bytes": 88452,
       "from": "7c9f page 13 — detail gears"
+    },
+    {
+      "name": "09-instrument-photo.webp",
+      "sha256": "c48d0edf34c942cf180efc53c7ab005398666a1e4bd54331029818d775d76756",
+      "bytes": 5384,
+      "from": "restored reference image (instrument photo)"
+    },
+    {
+      "name": "10-making-process-photos.webp",
+      "sha256": "3e8b869fa4c7220220ae6d1ccc5760820ae0898c05d72585924ab4d219a04c9c",
+      "bytes": 68418,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }

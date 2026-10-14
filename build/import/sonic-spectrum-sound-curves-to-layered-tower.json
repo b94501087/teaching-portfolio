@@ -34,34 +34,34 @@
       "from": "fbb7 page 3 — paper relief"
     },
     {
-      "name": "06-curved-strips.webp",
-      "sha256": "f9a83273e7eb37629fb51757a002b5ba52926f76ca4049648a890939f959f716",
-      "bytes": 32562,
-      "from": "fbb7 page 3 — curved strips"
-    },
-    {
-      "name": "07-top-detail.webp",
-      "sha256": "e53b9850dbfb32f6ca3d0b05405c1c0b36ba290c32f771bf514d86b8776f1dff",
-      "bytes": 72676,
-      "from": "fbb7 page 4 — top detail"
-    },
-    {
       "name": "08-wide-view.webp",
       "sha256": "b52c42603733a82bd33f25fe1fd7e2e2bc25d1afdb6bf0682c95da464583e897",
       "bytes": 51224,
       "from": "fbb7 page 4 — wide view"
     },
     {
-      "name": "09-upper-section.webp",
-      "sha256": "22d0b36e75e3f972b081396eb02d74bc5f0dcb546dbd44a3afc283a35c4d0718",
-      "bytes": 52764,
-      "from": "fbb7 page 4 — upper section"
-    },
-    {
       "name": "10-tower-drawing.webp",
       "sha256": "736e3fb84fb9b358c46c18926cf7f7fc06459d63dba903bc20dc63f4c0f9da7e",
       "bytes": 206392,
       "from": "fbb7 page 4 — tower drawing"
+    },
+    {
+      "name": "11-headphone-references.webp",
+      "sha256": "1ad52fa889221380f564d6b9684d0a17d6aad605da192b1d58eeb76981ddf61d",
+      "bytes": 22714,
+      "from": "restored reference image (headphone references)"
+    },
+    {
+      "name": "12-travel-photo.webp",
+      "sha256": "e689c7ea359856937e4a35c4438cc3c8e94eefff2909a30c87e4ae465e315df9",
+      "bytes": 66320,
+      "from": "restored reference image (travel photo)"
+    },
+    {
+      "name": "13-making-by-hand.webp",
+      "sha256": "7255e2a70b29c7a56fd1b81a086fc065808986f37828e82edd5acb7c4094bdc9",
+      "bytes": 64578,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }
