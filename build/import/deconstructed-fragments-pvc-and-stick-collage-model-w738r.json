@@ -1,0 +1,23 @@
+{
+  "project": "Deconstructed Fragments",
+  "dest": "assets/board/deconstructed-fragments-pvc-and-stick-collage-model",
+  "note": "w738r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "12-building-photo-collage.webp",
+      "sha256": "6aa9d94194a7f441939066eda23d79dfff62fe00772d476b945df969f0cedc54",
+      "bytes": 168906,
+      "from": "restored reference image (building photo collage)"
+    },
+    {
+      "name": "13-photo-fragments-on-mat.webp",
+      "sha256": "60c0596ee7ed542d6dae904cf7cb15cf4ea77994e2fdbedf8eec836ca56e1dc3",
+      "bytes": 127680,
+      "from": "restored reference image (photo fragments on mat)"
+    }
+  ],
+  "delete": [
+    "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/08-cut-pvc-shapes.webp",
+    "assets/board/deconstructed-fragments-pvc-and-stick-collage-model/09-sticks-on-base.webp"
+  ]
+}
