@@ -1,0 +1,13 @@
+{
+  "project": "Vegetables and Architecture",
+  "dest": "assets/board/vegetables-and-architecture-produce-to-paper-space",
+  "note": "l738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "c0e6183defbd44979c1229af3a5888892abb4199bfe60ce9742ceb3b9079a8e1",
+      "bytes": 35752,
+      "from": "restored reference image (making by hand)"
+    }
+  ]
+}
