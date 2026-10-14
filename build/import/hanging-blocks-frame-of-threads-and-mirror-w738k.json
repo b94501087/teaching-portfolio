@@ -1,0 +1,13 @@
+{
+  "project": "Hanging Blocks",
+  "dest": "assets/board/hanging-blocks-frame-of-threads-and-mirror",
+  "note": "w738k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-headstone-and-falling-figures-sketch.webp",
+      "sha256": "c1e9012cc3365b5732668c0b834efaac1e6a62d3668136997be627443c7373d7",
+      "bytes": 110610,
+      "from": "restored reference image (headstone and falling figures sketch)"
+    }
+  ]
+}
