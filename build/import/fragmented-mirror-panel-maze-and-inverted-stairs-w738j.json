@@ -1,0 +1,22 @@
+{
+  "project": "Fragmented Mirror",
+  "dest": "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs",
+  "note": "w738j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-artist-print-and-film-poster.webp",
+      "sha256": "ea64ebbdb569e85fe64f547ba2fe1987bac44a76c0b4b4d2a16d8080b4d2fdc5",
+      "bytes": 218272,
+      "from": "restored reference image (artist print and film poster)"
+    },
+    {
+      "name": "11-holding-the-stair-model.webp",
+      "sha256": "b276183d099d20935c26b3d3b1a8f1a914885c11225d6d2f42d8d6f9577e635d",
+      "bytes": 113770,
+      "from": "restored reference image (holding the stair model)"
+    }
+  ],
+  "delete": [
+    "assets/board/fragmented-mirror-panel-maze-and-inverted-stairs/07-stair-cluster-left.webp"
+  ]
+}
