@@ -1,0 +1,37 @@
+{
+  "project": "Loop Without End",
+  "dest": "assets/board/loop-without-end-wood-stick-and-cord-twisted-frame",
+  "note": "Portfolio 9679 pages 12-13 cropped to 5 images, WebP q88 (PIL). Not used: tree-alley inspiration photo, handwritten analysis list, blurred model photo, photos of the model worn on a body, caption with title, material and size.",
+  "files": [
+    {
+      "name": "01-stick-loop-model.webp",
+      "sha256": "431153cfdfbbb332ee5aa32bb7569f8015074c8662559a56377150ffa0734048",
+      "bytes": 137120,
+      "from": "9679 pages 12-13 — the twisted stick frame"
+    },
+    {
+      "name": "02-curve-composition.webp",
+      "sha256": "b01c07e3f2ac94a82139bdfcbef2fc4fbf2db671080382c7932d7f6213faa734",
+      "bytes": 137862,
+      "from": "9679 pages 12-13 — a composition of looping curves"
+    },
+    {
+      "name": "03-loop-diagram.webp",
+      "sha256": "f1c4d21da4673129fd8cbc93ef6a8481c709bf73294f0150b46d3590f1406135",
+      "bytes": 78974,
+      "from": "9679 pages 12-13 — a beaded figure eight diagram"
+    },
+    {
+      "name": "04-spiral-study.webp",
+      "sha256": "329da03324f739f4148e00637bb91f2a50f51ab0332ddf383076110070b43a9f",
+      "bytes": 12564,
+      "from": "9679 pages 12-13 — the spiral stick study"
+    },
+    {
+      "name": "05-stick-loop-side.webp",
+      "sha256": "3ab321f300b41f1c61ada02388aa8bfda5552281d3609495a4f66e09938e8e3a",
+      "bytes": 142436,
+      "from": "9679 pages 12-13 — the frame from another side"
+    }
+  ]
+}
