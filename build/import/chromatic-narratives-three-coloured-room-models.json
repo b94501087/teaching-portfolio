@@ -44,6 +44,24 @@
       "sha256": "b32e6f5118614562c73fa78b0cfd192d90cb14fb891f7a181f1d0b55b78dcb79",
       "bytes": 22966,
       "from": "1390 page 9 — hospital detail"
+    },
+    {
+      "name": "08-teacher-painting.webp",
+      "sha256": "35daf5aa5d99918c24b6fd2d31d7762d70a9a973dea3960f3aa73694961cf5b2",
+      "bytes": 55440,
+      "from": "restored reference image (teacher painting)"
+    },
+    {
+      "name": "09-performance-scenes.webp",
+      "sha256": "2a477581f823cf2d55babef89ef9389a5c5d1a4fe3e75bcd3db5440db71fc8bf",
+      "bytes": 200188,
+      "from": "restored reference image (performance scenes)"
+    },
+    {
+      "name": "10-making-process.webp",
+      "sha256": "7c22b47dc4525938d4efa2eca3384d5a8d71ff47e5bb5e7f85d7ac6f5a6910eb",
+      "bytes": 38722,
+      "from": "restored reference image (making process)"
     }
   ]
 }
