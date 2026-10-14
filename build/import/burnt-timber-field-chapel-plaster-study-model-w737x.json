@@ -1,0 +1,13 @@
+{
+  "project": "A Field Chapel in Plaster and Burnt Timber",
+  "dest": "assets/board/burnt-timber-field-chapel-plaster-study-model",
+  "note": "w737x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-chapel-photos.webp",
+      "sha256": "4f4c5093570a7b1c2e985c0c746c3ed38505f3585299ff22f3684d012dccba4f",
+      "bytes": 34234,
+      "from": "restored reference image (chapel photos)"
+    }
+  ]
+}
