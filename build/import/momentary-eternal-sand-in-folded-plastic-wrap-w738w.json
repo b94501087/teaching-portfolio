@@ -1,0 +1,30 @@
+{
+  "project": "Momentary Eternal",
+  "dest": "assets/board/momentary-eternal-sand-in-folded-plastic-wrap",
+  "note": "w738w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-childhood-beach-photo.webp",
+      "sha256": "a4c3e9fade0e11fa8fdb2ce3f12027ebccbc4031b1b3f8db1034a9c627c8a407",
+      "bytes": 4898,
+      "from": "restored reference image (childhood beach photo)"
+    },
+    {
+      "name": "12-sand-in-tray-by-hand.webp",
+      "sha256": "b5246d5577f04168bc0a0dcd216547e74a1cd998e38d0be0d0768ab3c127f7ab",
+      "bytes": 57286,
+      "from": "restored reference image (sand in tray by hand)"
+    },
+    {
+      "name": "13-making-units-by-hand.webp",
+      "sha256": "eee6dad25aed00c94663811c0dbfa1de2752385a3888b02ca1a5d63aa9906b89",
+      "bytes": 45376,
+      "from": "restored reference image (making units by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/02-plaster-sand-cast.webp",
+    "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/03-stacked-plaster-casts.webp",
+    "assets/board/momentary-eternal-sand-in-folded-plastic-wrap/09-connected-units-b.webp"
+  ]
+}
