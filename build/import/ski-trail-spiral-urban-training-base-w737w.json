@@ -1,0 +1,16 @@
+{
+  "project": "Ski Trail",
+  "dest": "assets/board/ski-trail-spiral-urban-training-base",
+  "note": "w737w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-skiing-photos-and-technique.webp",
+      "sha256": "db42639f67be09cd72796df83de31a826491b70eef6b162a77a615241c3cbce6",
+      "bytes": 54658,
+      "from": "restored reference image (skiing photos and technique)"
+    }
+  ],
+  "delete": [
+    "assets/board/ski-trail-spiral-urban-training-base/05-spiral-side-b.webp"
+  ]
+}

@@ -28,12 +28,6 @@
       "from": "606b page 16 — spiral side a"
     },
     {
-      "name": "05-spiral-side-b.webp",
-      "sha256": "09fc57056a95695c210514f400eda90d13175bd55629c67590b7eaf46d31f9f0",
-      "bytes": 15234,
-      "from": "606b page 16 — spiral side b"
-    },
-    {
       "name": "06-ring-model.webp",
       "sha256": "5c5254898b634b19505cd8ca65d0826f37e25e6caf1eeacac1aed2501a821b39",
       "bytes": 47606,
@@ -62,6 +56,12 @@
       "sha256": "bac479020923020018758204ab28f8d3d84d6daa157c66fa260b108b2c382029",
       "bytes": 55272,
       "from": "606b page 17 — side view"
+    },
+    {
+      "name": "11-skiing-photos-and-technique.webp",
+      "sha256": "db42639f67be09cd72796df83de31a826491b70eef6b162a77a615241c3cbce6",
+      "bytes": 54658,
+      "from": "restored reference image (skiing photos and technique)"
     }
   ]
 }
