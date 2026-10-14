@@ -1,0 +1,23 @@
+{
+  "project": "Modern Garden Architecture",
+  "dest": "assets/board/modern-garden-architecture-suzhou",
+  "note": "w737l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-commercial-functions.webp",
+      "sha256": "dde50ae17efb0a4a62e1b715de3b5ecf421c076f4f4a222773a4dd524354dbcd",
+      "bytes": 252612,
+      "from": "restored reference image (commercial functions)"
+    },
+    {
+      "name": "12-street-renders.webp",
+      "sha256": "ce1b6115b06d71fda9160f9d37b01229f69cecc7779c369d204c88ce84a2a777",
+      "bytes": 204402,
+      "from": "restored reference image (street renders)"
+    }
+  ],
+  "delete": [
+    "assets/board/modern-garden-architecture-suzhou/04-single-building-forms.webp",
+    "assets/board/modern-garden-architecture-suzhou/08-roof-and-courtyard-studies.webp"
+  ]
+}
