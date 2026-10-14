@@ -1,0 +1,49 @@
+{
+  "project": "Thunder",
+  "dest": "assets/board/thunder-shattered-board-storm-model",
+  "note": "Portfolio 23a6 pages 9-10 cropped to 7 images, WebP q88 (PIL). Not used: title lettering, explanatory text, third-party storm photograph with source link.",
+  "files": [
+    {
+      "name": "01-storm-model.webp",
+      "sha256": "aa230e16c13c420568d60c722e7eedbcb7e4a4edad2fdd163825f988bbb80f55",
+      "bytes": 156332,
+      "from": "23a6 pages 9-10 — the storm model of shattered board pieces"
+    },
+    {
+      "name": "02-storm-sketches.webp",
+      "sha256": "6178f2eed199a00c7802d62497b390cd16eaeaa22c2957c31d862db0f16fdaef",
+      "bytes": 224578,
+      "from": "23a6 pages 9-10 — sketches of swirls and storm lines"
+    },
+    {
+      "name": "03-shattered-plates.webp",
+      "sha256": "9f995137acdcd8aa90bcd380cb60061f9ce3c707e126293d614d5ff61b6c90cd",
+      "bytes": 136000,
+      "from": "23a6 pages 9-10 — shattered plates in close view"
+    },
+    {
+      "name": "04-crest.webp",
+      "sha256": "44cb10064de058d76ed00450e84fa34500329fe77c4ac344d1f70acbddb9dc20",
+      "bytes": 101510,
+      "from": "23a6 pages 9-10 — the crest of the storm"
+    },
+    {
+      "name": "05-swirl.webp",
+      "sha256": "730c82e835200e53325a6248c5c28f3e824d9d21c222709c11a2deb6f5d3b7e0",
+      "bytes": 112942,
+      "from": "23a6 pages 9-10 — the swirling body of the storm"
+    },
+    {
+      "name": "06-eye-a.webp",
+      "sha256": "36cf060d2759366d7dce17b840a123a0926b6f61ae5ad5ec6f36de742ed221d2",
+      "bytes": 55078,
+      "from": "23a6 pages 9-10 — the hollow eye of the storm"
+    },
+    {
+      "name": "07-eye-b.webp",
+      "sha256": "4d2b09a85123b57cba9d578af94eb8bdb5574e1d3cf8c9eb49b1e5057b30d8dc",
+      "bytes": 88830,
+      "from": "23a6 pages 9-10 — looking into the eye"
+    }
+  ]
+}
