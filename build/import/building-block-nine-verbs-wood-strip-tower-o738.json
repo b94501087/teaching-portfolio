@@ -1,0 +1,13 @@
+{
+  "project": "Building Block",
+  "dest": "assets/board/building-block-nine-verbs-wood-strip-tower",
+  "note": "o738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-archive-building-photos.webp",
+      "sha256": "517c38a08b217ec113de35d8fd1d2c81e406fe097d47a81cfce10eaa25e608de",
+      "bytes": 84594,
+      "from": "restored reference image (archive building photos)"
+    }
+  ]
+}
