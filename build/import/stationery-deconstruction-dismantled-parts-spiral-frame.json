@@ -1,0 +1,67 @@
+{
+  "project": "Stationery Deconstruction",
+  "dest": "assets/board/stationery-deconstruction-dismantled-parts-spiral-frame",
+  "note": "Portfolio 724f pages 2-7 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, watercolour sheet with stationery brand lettering, process photo with a person, palette photo, collage with packaging lettering, model data.",
+  "files": [
+    {
+      "name": "01-final-spiral.webp",
+      "sha256": "00547ab68a86a6ef80c73f33d2d25729fdc23e7697ce767bf08d43c4b9bb6a23",
+      "bytes": 288496,
+      "from": "724f pages 2-7 — the final spiralling frame holding stationery parts"
+    },
+    {
+      "name": "02-parts-on-grid.webp",
+      "sha256": "7b4706f60a5dcc6abeb736124126854094b9673795aa2dd6ced1d6ae7155c75d",
+      "bytes": 307016,
+      "from": "724f pages 2-7 — dismantled parts laid on a grid"
+    },
+    {
+      "name": "03-sorted-parts.webp",
+      "sha256": "c2175672c39c08cb0027aac604c5e34c647b1f0e4eecb39ae49a23148dfa5079",
+      "bytes": 163664,
+      "from": "724f pages 2-7 — parts sorted by type"
+    },
+    {
+      "name": "04-dark-collage.webp",
+      "sha256": "9cc3e8405afc3be906e4c79a7c088da9039f4591280dc198c85edd32d8793def",
+      "bytes": 108470,
+      "from": "724f pages 2-7 — a collage of recombined parts"
+    },
+    {
+      "name": "05-colour-model.webp",
+      "sha256": "010647752cfc1261b58588c50c986d143907530dd084a3e9572cc0485da2333e",
+      "bytes": 177772,
+      "from": "724f pages 2-7 — the colour and structure test"
+    },
+    {
+      "name": "06-colour-model-side.webp",
+      "sha256": "1a2d9e5575458fc8040ca23d8d30ef23666ebcba11763d35e762952071f5730c",
+      "bytes": 136596,
+      "from": "724f pages 2-7 — orange planes within a blue frame"
+    },
+    {
+      "name": "07-glue-model.webp",
+      "sha256": "bbfbdf2b12b59d4f3245d13b9dac140737c1463053afa676cf65edc8841bea87",
+      "bytes": 238032,
+      "from": "724f pages 2-7 — the glue-gun web test"
+    },
+    {
+      "name": "08-glue-shadow.webp",
+      "sha256": "aad0b38dc05680b4bf26ceb19c86e2bdcdf4c654237b1b5df7cd31c6b90de1f5",
+      "bytes": 176574,
+      "from": "724f pages 2-7 — shadows of the glue web"
+    },
+    {
+      "name": "09-combined-model.webp",
+      "sha256": "9dc4d73e6902401a7efa389caeb1f5eca9358fcad520163a1a8627c7638fb72a",
+      "bytes": 288220,
+      "from": "724f pages 2-7 — the combined model in progress"
+    },
+    {
+      "name": "10-shadow-detail.webp",
+      "sha256": "fc857dbc0b8f64bd71ad52f2f7d2c56ec7e29d0d95353f84b7bd22b251db1cdc",
+      "bytes": 63576,
+      "from": "724f pages 2-7 — shadows of the spiral frame"
+    }
+  ]
+}
