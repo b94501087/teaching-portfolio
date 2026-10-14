@@ -1,0 +1,19 @@
+{
+  "project": "Wave-Fold Pavilion",
+  "dest": "assets/board/wave-fold-pavilion-paper-triangles-to-arch",
+  "note": "w738f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-wave-photo.webp",
+      "sha256": "9712cb101fb57a32c89fd8f81d44a18e67dad9560f62850b7a4b69ddb5945c6d",
+      "bytes": 32798,
+      "from": "restored reference image (wave photo)"
+    },
+    {
+      "name": "08-pavilion-montage-with-people.webp",
+      "sha256": "0fde6c6beacb7ede47408ddfaf317805b800b7c05b6bca0e92e7736982e4cd16",
+      "bytes": 190522,
+      "from": "restored reference image (pavilion montage with people)"
+    }
+  ]
+}
