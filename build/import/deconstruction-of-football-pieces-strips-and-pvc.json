@@ -22,12 +22,6 @@
       "from": "b63b pages 3-5 — the pieces from the side"
     },
     {
-      "name": "04-football-piece-arches.webp",
-      "sha256": "a7fa23036243798c39ce8f74658207b947de2c931ba5b00b6084fa9f06d98e55",
-      "bytes": 18884,
-      "from": "b63b pages 3-5 — arches of football pieces"
-    },
-    {
       "name": "05-wooden-strip-mound.webp",
       "sha256": "f1304ebed5eca61941a157b9171fcd975128e608c2944bbbede1fbb39727997d",
       "bytes": 151870,
@@ -40,28 +34,34 @@
       "from": "b63b pages 3-5 — inside the lattice"
     },
     {
-      "name": "07-wooden-strip-canopy.webp",
-      "sha256": "81d9141d1112396aecd031b8e604e4fd9e596aac507f4f3e82fa694ff05a49c8",
-      "bytes": 62758,
-      "from": "b63b pages 3-5 — the strip canopy"
-    },
-    {
       "name": "08-pvc-ribbon-stair-view.webp",
       "sha256": "1ec6a393f98d328dc60462843ddb54e65178fdb1c2bd405b63f2bfc53baeb9b8",
       "bytes": 30968,
       "from": "b63b pages 3-5 — ribbons and stairs"
     },
     {
-      "name": "09-pvc-curved-shells.webp",
-      "sha256": "a5110572a98cb630fa3588e7b77b02ebb7e3f5b2676eadc32cdfb1e8e07fa7d4",
-      "bytes": 23138,
-      "from": "b63b pages 3-5 — curved shells"
+      "name": "11-architect-and-building.webp",
+      "sha256": "bf73b7fd8c5066bbdff85e42e652cc285d869e30512a6467595f4d263bbea1f9",
+      "bytes": 13562,
+      "from": "restored reference image (architect and building)"
     },
     {
-      "name": "10-pvc-model-wide-view.webp",
-      "sha256": "4d3dfa5bb5c1314e6f016ebf5eb26cde267ff6d0b6115c4a1a63201c915a87e8",
-      "bytes": 21366,
-      "from": "b63b pages 3-5 — the pvc model from afar"
+      "name": "12-logo-printed-ball-view.webp",
+      "sha256": "0198850f5614122971f63ceb88f952b90cb8bd323c935fde102efaec657b14bf",
+      "bytes": 65524,
+      "from": "restored reference image (logo printed ball view)"
+    },
+    {
+      "name": "13-cutting-the-football-by-hand.webp",
+      "sha256": "38acca3ae4da0d53d4ddd31b4b2b7f5ea2970d85bda81c8346517baa7bdc6dae",
+      "bytes": 53310,
+      "from": "restored reference image (cutting the football by hand)"
+    },
+    {
+      "name": "14-bending-pvc-by-hand.webp",
+      "sha256": "e0d743f285199154d2ec39cf11961026531254666309ba9c19bc4eb2a4169321",
+      "bytes": 45322,
+      "from": "restored reference image (bending pvc by hand)"
     }
   ]
 }
