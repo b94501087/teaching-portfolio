@@ -1,0 +1,61 @@
+{
+  "project": "Out of Shape",
+  "dest": "assets/board/out-of-shape-basketball-paths-to-layered-maquette",
+  "note": "Portfolio d39e page 7 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, background composite.",
+  "files": [
+    {
+      "name": "01-layered-maquette.webp",
+      "sha256": "f1dceb1b69b84e6c11c911806e3f9567eb2dcd29654b039612ba4f64b9bece7a",
+      "bytes": 76392,
+      "from": "d39e page 7 — the layered maquette with pvc shards"
+    },
+    {
+      "name": "02-court-diagrams.webp",
+      "sha256": "1ab4feb25b8102be5641752f2dfb2a95ac9fb34d6a946392a302ca9abc3b3792",
+      "bytes": 50628,
+      "from": "d39e page 7 — court diagrams of player paths"
+    },
+    {
+      "name": "03-play-sheets.webp",
+      "sha256": "61ecc235f57f8c08490c363684a74274f4a51e4993321f15403c5dbe2056b25b",
+      "bytes": 21062,
+      "from": "d39e page 7 — sheets of recorded plays"
+    },
+    {
+      "name": "04-abstract-render.webp",
+      "sha256": "754894ab1904ed0b588be93fb6006ffe6cb5748d722aa8d3a98f47d1a8eacf92",
+      "bytes": 29882,
+      "from": "d39e page 7 — an abstract render of linked paths"
+    },
+    {
+      "name": "05-framed-render-a.webp",
+      "sha256": "9ac7e8961db7d8a23c94657ef54608f28fd98f616acff938280668f5ecac21b6",
+      "bytes": 19046,
+      "from": "d39e page 7 — a framed render"
+    },
+    {
+      "name": "06-framed-render-b.webp",
+      "sha256": "51b288ad0228f1615e8620f5a1fdc63c8bab0ea38c0c60211ca424e2a57a8ad6",
+      "bytes": 9528,
+      "from": "d39e page 7 — a second framed render"
+    },
+    {
+      "name": "07-framed-render-c.webp",
+      "sha256": "7c02c1d8f36c7c5b8fdfa52c9ad626ef5878d71a6beea0582e3d9c22ac01dc56",
+      "bytes": 15288,
+      "from": "d39e page 7 — a third framed render"
+    },
+    {
+      "name": "08-sliced-sculpture.webp",
+      "sha256": "f2cd516b40888e315d4c64f38fb8124d854fa04728e0a715176c24584314ff36",
+      "bytes": 34422,
+      "from": "d39e page 7 — the sliced sculpture against black"
+    },
+    {
+      "name": "09-framed-render-d.webp",
+      "sha256": "e40afb0c7220849f12fbae88fdd69a7535796791f03ea635e4ee8367d8730c12",
+      "bytes": 14066,
+      "from": "d39e page 7 — a fourth framed render"
+    }
+  ]
+}
