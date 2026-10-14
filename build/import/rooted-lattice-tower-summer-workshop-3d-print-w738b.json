@@ -1,0 +1,13 @@
+{
+  "project": "Rooted Lattice Tower",
+  "dest": "assets/board/rooted-lattice-tower-summer-workshop-3d-print",
+  "note": "w738b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "bd4ec45b803e40d6f8595f666b9568f7397070551ddcb69dfa66e770dafc57e3",
+      "bytes": 62998,
+      "from": "restored reference image (making by hand)"
+    }
+  ]
+}
