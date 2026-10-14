@@ -1,0 +1,19 @@
+{
+  "project": "Flowing Reed Pavilion",
+  "dest": "assets/board/flowing-reed-pavilion-group-workshop-build",
+  "note": "w738b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-construction-photos.webp",
+      "sha256": "a8087352bba7fe6ffe195ba14bd398ea82964384754b6769c940fd62a0674f58",
+      "bytes": 52808,
+      "from": "restored reference image (construction photos)"
+    },
+    {
+      "name": "09-building-the-pavilion.webp",
+      "sha256": "6c46042ee489b321a4b14064c21047ab333e62292dae0f18d1afdda030136dc8",
+      "bytes": 82608,
+      "from": "restored reference image (building the pavilion)"
+    }
+  ]
+}
