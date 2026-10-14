@@ -44,6 +44,12 @@
       "sha256": "9c12b0f55153afc7e6f809f6eb659f013c5be8009a87591a91ec0135bbc968b0",
       "bytes": 78284,
       "from": "6c64 page 5 — model side views"
+    },
+    {
+      "name": "08-precedent-photos.webp",
+      "sha256": "445bb28f9e0d04a6c13c0d00dea492b36b4c8a55eeffff97214e641be2b5a254",
+      "bytes": 69816,
+      "from": "restored reference image (precedent photos)"
     }
   ]
 }

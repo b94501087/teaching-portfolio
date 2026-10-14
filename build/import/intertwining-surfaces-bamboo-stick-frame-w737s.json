@@ -1,0 +1,13 @@
+{
+  "project": "Intertwining Surfaces",
+  "dest": "assets/board/intertwining-surfaces-bamboo-stick-frame",
+  "note": "w737s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-precedent-photos.webp",
+      "sha256": "445bb28f9e0d04a6c13c0d00dea492b36b4c8a55eeffff97214e641be2b5a254",
+      "bytes": 69816,
+      "from": "restored reference image (precedent photos)"
+    }
+  ]
+}

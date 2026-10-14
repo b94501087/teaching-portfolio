@@ -1,0 +1,16 @@
+{
+  "project": "Fossilized Architecture",
+  "dest": "assets/board/fossilized-architecture-resin-curve-landscape",
+  "note": "w737s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-stone-and-ruin-photos.webp",
+      "sha256": "fa8383f8fc7dcc3f5c8a207be272d8093a71143ef171464fa9f7d3c8f99fcb42",
+      "bytes": 65274,
+      "from": "restored reference image (stone and ruin photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/fossilized-architecture-resin-curve-landscape/09-close-up-views.webp"
+  ]
+}
