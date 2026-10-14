@@ -1,0 +1,22 @@
+{
+  "project": "Tower of Echoes",
+  "dest": "assets/board/tower-of-echoes-white-card-spire-with-red-paths",
+  "note": "w738e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-inspiration-photos.webp",
+      "sha256": "ff7e613ababe7ea669a2439bad071f86e9e684aa23b8810d5da7f85bd2ce7016",
+      "bytes": 68996,
+      "from": "restored reference image (inspiration photos)"
+    },
+    {
+      "name": "11-making-process-photos.webp",
+      "sha256": "5a57a26955ea66d19723ce7c83832956dfda2676cbd669cf20224d7e9e910b2f",
+      "bytes": 54044,
+      "from": "restored reference image (making process photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/tower-of-echoes-white-card-spire-with-red-paths/09-small-chapel.webp"
+  ]
+}
