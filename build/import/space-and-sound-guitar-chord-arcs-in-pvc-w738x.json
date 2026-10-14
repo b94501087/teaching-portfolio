@@ -1,0 +1,13 @@
+{
+  "project": "Space and Sound",
+  "dest": "assets/board/space-and-sound-guitar-chord-arcs-in-pvc",
+  "note": "w738x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-placing-forms-by-hand.webp",
+      "sha256": "4965cf1a5fa3a244ef7a3051eb92495832c7e6c1555759f27b09b64f5ed5890b",
+      "bytes": 86108,
+      "from": "restored reference image (placing forms by hand)"
+    }
+  ]
+}
