@@ -22,30 +22,6 @@
       "from": "72cd pages 3-4 — concept sketches of the layers"
     },
     {
-      "name": "04-bubble-crown-detail.webp",
-      "sha256": "8c4974c2b78115cf7ae285f8f167d37b35e45b1930b9f089c9a63c3c316f6e66",
-      "bytes": 21172,
-      "from": "72cd pages 3-4 — the bubble crown"
-    },
-    {
-      "name": "05-folded-paper-layer.webp",
-      "sha256": "38a9c7a5f4165b7b6ff08cef4ae9534a16890d3f48b048f821ffee692c948abc",
-      "bytes": 10700,
-      "from": "72cd pages 3-4 — the folded paper layer"
-    },
-    {
-      "name": "06-acrylic-and-wood-parallels.webp",
-      "sha256": "deb23e8c6483387c5e4650bbaa3ced76a9303f9e7acf11a5467860057a4a6668",
-      "bytes": 36276,
-      "from": "72cd pages 3-4 — acrylic above wood"
-    },
-    {
-      "name": "07-wooden-stair-frame.webp",
-      "sha256": "c3811b9e3f63cbe9b25da480a16a18dac39129338d7ea97abb5ce178c2a7aea8",
-      "bytes": 35218,
-      "from": "72cd pages 3-4 — the wooden stair frame"
-    },
-    {
       "name": "08-stone-and-clay-base.webp",
       "sha256": "14cff63240993598ef804820e1c305e597fd7521f293a1096849458d79f42ced",
       "bytes": 16882,
@@ -56,6 +32,36 @@
       "sha256": "575009807597ebd4ea0c86c398cb1d7d40025bf193c4ff1b9e885031dc7167a3",
       "bytes": 50036,
       "from": "72cd pages 3-4 — views of the upper layers"
+    },
+    {
+      "name": "10-book-cover.webp",
+      "sha256": "2f2f737ed94cf82f0c9cbd9ab1432f287f9595572aa4c524f187053d15b7f29b",
+      "bytes": 9166,
+      "from": "restored reference image (book cover)"
+    },
+    {
+      "name": "11-fridge-magnets-photo.webp",
+      "sha256": "2078d6463b80fa85b0072cf4639f4159c3fc7fc0f11681abb3620e672fc251e1",
+      "bytes": 67146,
+      "from": "restored reference image (fridge magnets photo)"
+    },
+    {
+      "name": "12-city-sketches.webp",
+      "sha256": "bbd9b016841cba446e2affca38393b5df992945031d0f5478d6218fda5e22e3f",
+      "bytes": 198928,
+      "from": "restored reference image (city sketches)"
+    },
+    {
+      "name": "13-waste-island-photos.webp",
+      "sha256": "132cc0a37096b253a2b3509a56270a687658ac146b4969d0619fe1a669d2ce9e",
+      "bytes": 41074,
+      "from": "restored reference image (waste island photos)"
+    },
+    {
+      "name": "14-assembling-by-hand.webp",
+      "sha256": "9f0d914ed8888afb1888078a633ab77361869f923eecc06ab0245e6a990077f1",
+      "bytes": 31958,
+      "from": "restored reference image (assembling by hand)"
     }
   ]
 }
