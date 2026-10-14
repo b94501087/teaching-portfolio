@@ -1,0 +1,67 @@
+{
+  "project": "Windows of Cast Light",
+  "dest": "assets/board/windows-of-cast-light-polygon-openings-in-a-cast-box",
+  "note": "Portfolio 2a0b pages 4-7 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, photos of two well-known churches with web links, casting process photo, freehand sketch pair, one cast detail, a reference city drawing.",
+  "files": [
+    {
+      "name": "01-cast-box-interior.webp",
+      "sha256": "ebcb5355494ff5ff03d028896aac8d8cb6b0dad468819d6bef1fe9dd33facc88",
+      "bytes": 73060,
+      "from": "2a0b pages 4-7 — looking into the box through slanted planes"
+    },
+    {
+      "name": "02-triangle-drawing.webp",
+      "sha256": "7c08e1bc52e00f203b401f775b485462faaaf5deb92ad724f0ae0397df23d82b",
+      "bytes": 594546,
+      "from": "2a0b pages 4-7 — a pencil study of shaded triangles"
+    },
+    {
+      "name": "03-cut-shapes.webp",
+      "sha256": "f6a511e576f1f82a81e7162e8dc32cc8b7134318d4042313af8fa4fdb149f364",
+      "bytes": 26674,
+      "from": "2a0b pages 4-7 — polygons cut as possible openings"
+    },
+    {
+      "name": "04-box-model.webp",
+      "sha256": "23ba62bbb2a92b896dae75daa7a9a1719c6c24d2b8bf9a4e78c1e67e9f8052f1",
+      "bytes": 31956,
+      "from": "2a0b pages 4-7 — the cut box and its first cast"
+    },
+    {
+      "name": "05-cast-surface.webp",
+      "sha256": "7259d6a4eebd44a979d4b3f662f661cbbb6b58418ab7315aafb01194c7a37dd6",
+      "bytes": 172548,
+      "from": "2a0b pages 4-7 — openings in the rough cast surface"
+    },
+    {
+      "name": "06-light-opening-a.webp",
+      "sha256": "19ea21ee1154f98f27a1fe142e813bb46523150895952a8f136771d19a6f4cb9",
+      "bytes": 23950,
+      "from": "2a0b pages 4-7 — a dark opening seen from within"
+    },
+    {
+      "name": "07-light-opening-b.webp",
+      "sha256": "bc55ee3a315f8d1fc280a96d5f87acd7883e591b496c1d39ab19777ade37d970",
+      "bytes": 37232,
+      "from": "2a0b pages 4-7 — a polygon framed by glowing walls"
+    },
+    {
+      "name": "08-light-opening-c.webp",
+      "sha256": "730c8b05abea1f3b0a4ef05af772b2f1b910426382bdd8b1a25b9840693edb45",
+      "bytes": 45838,
+      "from": "2a0b pages 4-7 — a beam passing through a narrow opening"
+    },
+    {
+      "name": "09-imagined-section-a.webp",
+      "sha256": "967fe98f780b4647cf5c2a39905b5b76c38263f12eeb553ef99515734d98dbd3",
+      "bytes": 1120950,
+      "from": "2a0b pages 4-7 — an imagined section cut by openings"
+    },
+    {
+      "name": "10-imagined-section-b.webp",
+      "sha256": "dd7b1340ea6bc485e17fba8096c012bb25ea418afb424b6ed04547909aef7e69",
+      "bytes": 1681142,
+      "from": "2a0b pages 4-7 — a second imagined section"
+    }
+  ]
+}
