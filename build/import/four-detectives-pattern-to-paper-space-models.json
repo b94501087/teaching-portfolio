@@ -52,16 +52,16 @@
       "from": "1390 page 5 — second model"
     },
     {
-      "name": "09-third-model.webp",
-      "sha256": "4f2e57b166ed2c5999716a170a381c4e4ad3fdbb9b8ee4382924d93b2dd18753",
-      "bytes": 43766,
-      "from": "1390 page 5 — third model"
-    },
-    {
       "name": "10-fourth-model.webp",
       "sha256": "9bc7baa22e7af9364c1f484603257cc67b318bbe2ff9cca4849d244afcad55df",
       "bytes": 40524,
       "from": "1390 page 5 — fourth model"
+    },
+    {
+      "name": "11-character-portraits.webp",
+      "sha256": "ffdf9cd74c5bbe86c12fd5cf2e5db1eaa61a2b1a5ebf9a8f53f155bc73609307",
+      "bytes": 61436,
+      "from": "restored reference image (character portraits)"
     }
   ]
 }

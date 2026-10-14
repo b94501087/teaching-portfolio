@@ -1,0 +1,16 @@
+{
+  "project": "Four Detectives in Paper",
+  "dest": "assets/board/four-detectives-pattern-to-paper-space-models",
+  "note": "w737w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-character-portraits.webp",
+      "sha256": "ffdf9cd74c5bbe86c12fd5cf2e5db1eaa61a2b1a5ebf9a8f53f155bc73609307",
+      "bytes": 61436,
+      "from": "restored reference image (character portraits)"
+    }
+  ],
+  "delete": [
+    "assets/board/four-detectives-pattern-to-paper-space-models/09-third-model.webp"
+  ]
+}
