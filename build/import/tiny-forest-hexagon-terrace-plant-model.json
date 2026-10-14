@@ -22,12 +22,6 @@
       "from": "8409 page 6 — plan drawing"
     },
     {
-      "name": "04-garden-watercolour.webp",
-      "sha256": "ebc7c6d98fe9d0b3332647dd084229e7d489954e7852dc19ea40c337d63ead09",
-      "bytes": 99650,
-      "from": "8409 page 6 — garden watercolour"
-    },
-    {
       "name": "05-hexagon-cutting.webp",
       "sha256": "1c84c2e77822cce53f7b77e8efdd4b42f63cd9036296ff2c3c8ce6d9ce38922e",
       "bytes": 7510,
@@ -58,10 +52,16 @@
       "from": "8409 page 8 — side view a"
     },
     {
-      "name": "10-side-view-b.webp",
-      "sha256": "dba18b4a315e2785ad6418d6224a3bf65e7a77ff34cf1f1ae72d95a4388198de",
-      "bytes": 15884,
-      "from": "8409 page 8 — side view b"
+      "name": "11-plant-species-collection.webp",
+      "sha256": "728d982e8e3c76e9b116d64a4538e5615d03ea1bc1303467f23869cc00c9ea15",
+      "bytes": 219024,
+      "from": "restored reference image (plant species collection)"
+    },
+    {
+      "name": "12-longji-terrace-photo.webp",
+      "sha256": "7d770ad18587eeda1af2032aadd472f8e9e79baa67cc3c482ecf2b311e1db968",
+      "bytes": 15012,
+      "from": "restored reference image (longji terrace photo)"
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "project": "Tiny Forest",
+  "dest": "assets/board/tiny-forest-hexagon-terrace-plant-model",
+  "note": "w737z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-plant-species-collection.webp",
+      "sha256": "728d982e8e3c76e9b116d64a4538e5615d03ea1bc1303467f23869cc00c9ea15",
+      "bytes": 219024,
+      "from": "restored reference image (plant species collection)"
+    },
+    {
+      "name": "12-longji-terrace-photo.webp",
+      "sha256": "7d770ad18587eeda1af2032aadd472f8e9e79baa67cc3c482ecf2b311e1db968",
+      "bytes": 15012,
+      "from": "restored reference image (longji terrace photo)"
+    }
+  ],
+  "delete": [
+    "assets/board/tiny-forest-hexagon-terrace-plant-model/04-garden-watercolour.webp",
+    "assets/board/tiny-forest-hexagon-terrace-plant-model/10-side-view-b.webp"
+  ]
+}
