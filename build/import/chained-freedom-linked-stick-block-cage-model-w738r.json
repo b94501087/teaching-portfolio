@@ -1,0 +1,13 @@
+{
+  "project": "Chained Freedom",
+  "dest": "assets/board/chained-freedom-linked-stick-block-cage-model",
+  "note": "w738r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-reference-paintings.webp",
+      "sha256": "b9e542ff941918069729a77e46d547e0f050f595d04db6eb6810bd88c326f3a4",
+      "bytes": 44290,
+      "from": "restored reference image (reference paintings)"
+    }
+  ]
+}
