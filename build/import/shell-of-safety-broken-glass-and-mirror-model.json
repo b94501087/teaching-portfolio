@@ -1,0 +1,49 @@
+{
+  "project": "Shell of Safety",
+  "dest": "assets/board/shell-of-safety-broken-glass-and-mirror-model",
+  "note": "Portfolio 8b6a pages 5-7 cropped to 7 images, WebP q88 (PIL). Not used: title lettering over a shattered-glass photo, project caption, inspiration and reflection text, partial hand or sleeve at a photo edge.",
+  "files": [
+    {
+      "name": "01-glass-shell.webp",
+      "sha256": "741383690335a10c2c2838ae269c5b0a94de0927ed549e0541d2aee44ea53203",
+      "bytes": 193426,
+      "from": "8b6a pages 5-7 — the shell of broken glass with miniature figures"
+    },
+    {
+      "name": "02-whole-bowl.webp",
+      "sha256": "58d062e75ee133e6d2c9466bdf82581d6853f28bf4c753159526f9d018230bbc",
+      "bytes": 4732,
+      "from": "8b6a pages 5-7 — the intact glass bowl before breaking"
+    },
+    {
+      "name": "03-two-vessels.webp",
+      "sha256": "d974154d3ebadf425a0e8cbd7f94358ce2d6331b858cdc98378ea3dce2714bfe",
+      "bytes": 8754,
+      "from": "8b6a pages 5-7 — two glass vessels studied as starting material"
+    },
+    {
+      "name": "04-shell-in-tree.webp",
+      "sha256": "7fb4b0c8b345a1da33d65a58ef9c51463e66b46388d52eb4291751348b470e91",
+      "bytes": 287962,
+      "from": "8b6a pages 5-7 — the shell placed against a tree trunk"
+    },
+    {
+      "name": "05-shell-figures.webp",
+      "sha256": "ea1566ffd2da22f3ab4ab00d809e8004fb7e829470b874fa2404366f14ffc1ca",
+      "bytes": 147872,
+      "from": "8b6a pages 5-7 — figures inside the glass shards"
+    },
+    {
+      "name": "06-shell-in-roots.webp",
+      "sha256": "c1588fb7a9aca13f1227e87e8da0eb6f501ca6e6e3a1c7ff592fb41ec83d3f26",
+      "bytes": 322816,
+      "from": "8b6a pages 5-7 — the mirrored shell among tree roots"
+    },
+    {
+      "name": "07-mirror-shards.webp",
+      "sha256": "3909ed6aa66d702f821b3527436fc0dcc5e20493b20239b908489fbed7abddb4",
+      "bytes": 93868,
+      "from": "8b6a pages 5-7 — mirror shards and figures in close view"
+    }
+  ]
+}
