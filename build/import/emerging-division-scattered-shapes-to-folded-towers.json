@@ -1,0 +1,67 @@
+{
+  "project": "Emerging Division",
+  "dest": "assets/board/emerging-division-scattered-shapes-to-folded-towers",
+  "note": "Portfolio d410 pages 5-7 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, poem text, toy-brick photo and its filter studies, paper-model photo sheet, silhouette-figure collage views, references to animated films.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "180f8aaf87cf38270c5c01a2879f6baf03ca10018999eaa0acbc27f83be5411c",
+      "bytes": 98764,
+      "from": "d410 pages 5-7 — the final layered model"
+    },
+    {
+      "name": "02-shape-abstraction.webp",
+      "sha256": "669db84d8c5d182e980e840d6ebf8be1b15ae25cf23ee81163e20e6e0f70adf4",
+      "bytes": 52926,
+      "from": "d410 pages 5-7 — pieces reduced to grey blocks"
+    },
+    {
+      "name": "03-layered-shapes.webp",
+      "sha256": "f6c410dcb8e5f3a0fa8481a1d924a65e742a78ebabeb93e09b80997269e55d0f",
+      "bytes": 14666,
+      "from": "d410 pages 5-7 — three layers sorted by tone"
+    },
+    {
+      "name": "04-line-drawings.webp",
+      "sha256": "2bd0f7e64fb877ee4b4c5cb07daebc1093c6d81a43279a5fbb5279c619b8e21c",
+      "bytes": 148250,
+      "from": "d410 pages 5-7 — traced line studies"
+    },
+    {
+      "name": "05-triangulation.webp",
+      "sha256": "8cf80d76fa759e2af021de6e946db33d8a9a861724d02e43d26db8bd96f7a453",
+      "bytes": 118310,
+      "from": "d410 pages 5-7 — the triangulated net"
+    },
+    {
+      "name": "06-swab-models.webp",
+      "sha256": "5b2b07c11fad07ebce7fe481a0014835aa2db3e0a2d66abaa83f23660a0c9449",
+      "bytes": 102532,
+      "from": "d410 pages 5-7 — cotton-swab structural models"
+    },
+    {
+      "name": "07-design-concept.webp",
+      "sha256": "89bda78959011f03f8da63962509a18c6e884861fc66f63c4fc541e9f3d33300",
+      "bytes": 298976,
+      "from": "d410 pages 5-7 — the concept of stacked layers"
+    },
+    {
+      "name": "08-paper-folds.webp",
+      "sha256": "4140778c9dd121ed04928e0451383b7fd5947a2017ce1fa9b51a6d4fac2139b4",
+      "bytes": 67018,
+      "from": "d410 pages 5-7 — folded paper walls with cut planes"
+    },
+    {
+      "name": "09-model-side.webp",
+      "sha256": "501aa5c766345aba42624aafed41ca0883d9d51aa8d0cfb938c39db1b697cb08",
+      "bytes": 94972,
+      "from": "d410 pages 5-7 — the model seen from the side"
+    },
+    {
+      "name": "10-interior-views.webp",
+      "sha256": "0ddeace0d4b17a4b3ac4d0cf61ad06e2243ecf332d56ec5d81c1604b52472320",
+      "bytes": 118850,
+      "from": "d410 pages 5-7 — views among the leaning planes"
+    }
+  ]
+}
