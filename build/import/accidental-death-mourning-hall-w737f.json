@@ -1,0 +1,13 @@
+{
+  "project": "Accidental Death Mourning Hall",
+  "dest": "assets/board/accidental-death-mourning-hall",
+  "note": "w737f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-situation-analysis.webp",
+      "sha256": "8fa7e1234ab09f05a24d8380c6b11a9537a005a5fd7a7e0cb195dbd263bdc989",
+      "bytes": 264178,
+      "from": "restored reference image (situation analysis)"
+    }
+  ]
+}
