@@ -56,6 +56,12 @@
       "sha256": "474f074ac76470b6213647b83a918d28e0deabd0eda182f56075d8055bbda8a7",
       "bytes": 94200,
       "from": "5757 page 9 — axonometric strip of the village, x 0–100 %, y 69–100 %"
+    },
+    {
+      "name": "10-model-photo-strip.webp",
+      "sha256": "487220c160d98e7f6f4711d56e88ce536d30b5338fe1d78c1838f1262c054b3d",
+      "bytes": 41708,
+      "from": "restored reference image (model photo strip)"
     }
   ]
 }
