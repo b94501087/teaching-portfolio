@@ -38,6 +38,24 @@
       "sha256": "67eacd3304794082e1d2e3d4a4f1c4b6ee3a859ebccd7f63b677e6fa5fc3a08c",
       "bytes": 12730,
       "from": "5757 page 11 — film poster used as a reference, x 5–11 %, y 10–30 %"
+    },
+    {
+      "name": "07-actor-stills-and-sketches.webp",
+      "sha256": "1df9c24e3a4be153fb96ea4ebde1b6a4ea7c075af2d22477086207d28dfb3cfd",
+      "bytes": 121060,
+      "from": "restored reference image (actor stills and sketches)"
+    },
+    {
+      "name": "08-figure-and-photo-studies.webp",
+      "sha256": "7aca292db7521c402c0505c5be6ee5c5672f562c765e062ad0b94a251962bb31",
+      "bytes": 104404,
+      "from": "restored reference image (figure and photo studies)"
+    },
+    {
+      "name": "09-figure-axis-drawing.webp",
+      "sha256": "3bc5a1f4eaa513baa4dff6875b8b3786a7b471140ec3e3b108499f2780fde3d3",
+      "bytes": 204220,
+      "from": "restored reference image (figure axis drawing)"
     }
   ]
 }
