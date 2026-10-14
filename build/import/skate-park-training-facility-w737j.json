@@ -1,0 +1,13 @@
+{
+  "project": "Skate Park Training Facility",
+  "dest": "assets/board/skate-park-training-facility",
+  "note": "w737j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-cutaway-and-sectional-perspectives.webp",
+      "sha256": "b352c741cc28c2030b02024025da149d68fd0cf8d5ff99856270be8c6f00f5a4",
+      "bytes": 120580,
+      "from": "restored reference image (cutaway and sectional perspectives)"
+    }
+  ]
+}
