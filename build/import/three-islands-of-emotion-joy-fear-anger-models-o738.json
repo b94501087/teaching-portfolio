@@ -1,0 +1,13 @@
+{
+  "project": "Three Islands of Emotion",
+  "dest": "assets/board/three-islands-of-emotion-joy-fear-anger-models",
+  "note": "o738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-film-stills.webp",
+      "sha256": "59e4f8c854958f0c83150e57bcae05a6a384b70bb4b1c419ebce51059ec899eb",
+      "bytes": 85394,
+      "from": "restored reference image (film stills)"
+    }
+  ]
+}
