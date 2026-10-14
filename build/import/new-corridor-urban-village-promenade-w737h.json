@@ -1,0 +1,13 @@
+{
+  "project": "New Corridor",
+  "dest": "assets/board/new-corridor-urban-village-promenade",
+  "note": "w737h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-migrants-and-local-villagers.webp",
+      "sha256": "47da6cf8665566bc3240dd79d37662d3f67b44e45cc9975d9190b7624f7e1057",
+      "bytes": 258832,
+      "from": "restored reference image (migrants and local villagers)"
+    }
+  ]
+}
