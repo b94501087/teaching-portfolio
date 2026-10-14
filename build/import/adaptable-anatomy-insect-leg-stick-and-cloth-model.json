@@ -1,0 +1,55 @@
+{
+  "project": "Adaptable Anatomy",
+  "dest": "assets/board/adaptable-anatomy-insect-leg-stick-and-cloth-model",
+  "note": "Portfolio 029c pages 6-9 cropped to 8 images, WebP q88 (PIL). Not used: photo of the insect on a leaf, handwritten calculation sheet, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-final-stick-model.webp",
+      "sha256": "7d984616e47756c6a16f453f6ce1e96b1ba487e4b040782a1ec58e6d89fd29c3",
+      "bytes": 178604,
+      "from": "029c pages 6-9 — the final stick and cloth model"
+    },
+    {
+      "name": "02-insect-line-drawing.webp",
+      "sha256": "f1989cafcc4b0297c3d39b3a036362201abf264faf0eb314cf87b6497266c1e3",
+      "bytes": 158822,
+      "from": "029c pages 6-9 — a line drawing of the insect"
+    },
+    {
+      "name": "03-living-unit-drawing.webp",
+      "sha256": "749fd5e81bef718964161f3582e3d8abf02700019524b26e83b56499b148645d",
+      "bytes": 108302,
+      "from": "029c pages 6-9 — drawings of crowded living units"
+    },
+    {
+      "name": "04-cluster-diagram.webp",
+      "sha256": "8aebd2dca8776434554472858b48c474590b2f209a595aaa634ab6f0dbda769a",
+      "bytes": 170094,
+      "from": "029c pages 6-9 — a diagram of linked dwellings"
+    },
+    {
+      "name": "05-joint-sketches.webp",
+      "sha256": "de776ae94031cf8eeb8a177ddd93ef46a40bd7569e91517b8e22bb7c86c06ca9",
+      "bytes": 70782,
+      "from": "029c pages 6-9 — sketches of the leg joint"
+    },
+    {
+      "name": "06-stability-tests.webp",
+      "sha256": "95a54fb0388e9f156d29ce396bb20efe93ca3c53cc00a65b7edf34270e455ce8",
+      "bytes": 45756,
+      "from": "029c pages 6-9 — stability tests of stick joints"
+    },
+    {
+      "name": "07-flexibility-test.webp",
+      "sha256": "252485b2171e5c6595463a52f03a60b37f6fe8384e7aa451f42558fda79ea034",
+      "bytes": 23260,
+      "from": "029c pages 6-9 — a flexibility test of a stick bundle"
+    },
+    {
+      "name": "08-final-model-oblique.webp",
+      "sha256": "88004533d293bb71e09ca68773534b0a171b35e0205452c957e2fb433b9d30ea",
+      "bytes": 157366,
+      "from": "029c pages 6-9 — an oblique view of the final model"
+    }
+  ]
+}
