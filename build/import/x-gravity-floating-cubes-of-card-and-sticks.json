@@ -1,0 +1,55 @@
+{
+  "project": "X-Gravity",
+  "dest": "assets/board/x-gravity-floating-cubes-of-card-and-sticks",
+  "note": "Portfolio d39e page 8 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, exhibition photos with artist and work names, background composite.",
+  "files": [
+    {
+      "name": "01-floating-cubes.webp",
+      "sha256": "5f1a4f3de2e460b988d47fe89b81a41af5f9f6f999296a7bce283b0ba4c724f9",
+      "bytes": 131944,
+      "from": "d39e page 8 — the cluster of floating cubes"
+    },
+    {
+      "name": "02-loop-study-a.webp",
+      "sha256": "38596e2b90363c688e87d9cc05e7def67cb9695f0b319128fd2de0c4dc38dcf5",
+      "bytes": 13968,
+      "from": "d39e page 8 — a study of looping strips"
+    },
+    {
+      "name": "03-loop-study-b.webp",
+      "sha256": "ff92c2d051636b9bba092819e87f3af889bc58ee483285992f67c54d722db93b",
+      "bytes": 12284,
+      "from": "d39e page 8 — a second loop study"
+    },
+    {
+      "name": "04-cube-sketch.webp",
+      "sha256": "c5bdccaf632c8014bba32817cb7f0678b31b0b6c433357810546cecc0936f282",
+      "bytes": 13192,
+      "from": "d39e page 8 — a sketch of stacked boxes"
+    },
+    {
+      "name": "05-cube-cluster.webp",
+      "sha256": "b99cee405f31e72f25c68d58739d4a25add3408ffc718dd84ffc6dd175896c7e",
+      "bytes": 51364,
+      "from": "d39e page 8 — the connected cube cluster"
+    },
+    {
+      "name": "06-cube-tower.webp",
+      "sha256": "a2fef4c5125e768392741ad9a3af2bf05919f36ceb6910d4ee7a5b312d371f55",
+      "bytes": 26646,
+      "from": "d39e page 8 — a rising arrangement of cubes"
+    },
+    {
+      "name": "07-close-up-a.webp",
+      "sha256": "7cc6c003dfd94f1b4e81e32d8d396ba7fa6c143cd0809082de88b10b69bef939",
+      "bytes": 15366,
+      "from": "d39e page 8 — a close view of the frames"
+    },
+    {
+      "name": "08-close-up-b.webp",
+      "sha256": "30cb593bb0f74af9d24f4d31edaefb465642bf5ca66b22e6d0c4e81a3d90abff",
+      "bytes": 13568,
+      "from": "d39e page 8 — another close view"
+    }
+  ]
+}
