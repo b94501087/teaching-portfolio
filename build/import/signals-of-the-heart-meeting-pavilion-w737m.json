@@ -1,0 +1,23 @@
+{
+  "project": "Signals of the Heart",
+  "dest": "assets/board/signals-of-the-heart-meeting-pavilion",
+  "note": "w737m restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-love-history-timeline.webp",
+      "sha256": "18ef6b683efe25205ae8b89449cee09ed2ac6b0ef069ce001a6c6c6e9108198e",
+      "bytes": 404006,
+      "from": "restored reference image (love history timeline)"
+    },
+    {
+      "name": "12-dating-app-comic.webp",
+      "sha256": "2c5c653f9be45fcc90d954e9998dab57fbb4cc17eff9142a1b8546001d528aa5",
+      "bytes": 247896,
+      "from": "restored reference image (dating app comic)"
+    }
+  ],
+  "delete": [
+    "assets/board/signals-of-the-heart-meeting-pavilion/04-memory-box-exploded.webp",
+    "assets/board/signals-of-the-heart-meeting-pavilion/08-love-catalyst-exploded.webp"
+  ]
+}

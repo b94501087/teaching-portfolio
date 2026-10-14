@@ -22,12 +22,6 @@
       "from": "page 15 — render of the wall of memories, x 0–48 %, y 4–50 %"
     },
     {
-      "name": "04-memory-box-exploded.webp",
-      "sha256": "ebee047bb1f31ffcd0694040346aeac6196cc4bba1c5511e5d7e9a09236d2583",
-      "bytes": 28528,
-      "from": "page 15 — exploded view of the memory wall boxes, x 49–72 %, y 4–30 %"
-    },
-    {
       "name": "05-choose-time-pillars.webp",
       "sha256": "72222cdd5b7d931fe5534caf1d9fefcc8eaa6e1d22e7c18593903154e6a3c2dc",
       "bytes": 44038,
@@ -46,12 +40,6 @@
       "from": "page 16 — render of the stepped cinema space, x 0–49 %, y 4–49 %"
     },
     {
-      "name": "08-love-catalyst-exploded.webp",
-      "sha256": "86d2de899e0133ed09ce74648adfe6f1b1c25e82bbd6f734a144eedf3d509e01",
-      "bytes": 41534,
-      "from": "page 16 — exploded view of the cinema roof and frame, x 49–67 %, y 5–48 %"
-    },
-    {
       "name": "09-heartbeat-maze-layers.webp",
       "sha256": "193b7bf587ecda03df27cfcf777f5631ca222e99e99b7ee0f8e33070427344b4",
       "bytes": 40348,
@@ -62,6 +50,18 @@
       "sha256": "253954c18ae6194785cd624a07f7ab7cb01bbc93cbb288de93326344c77e64e4",
       "bytes": 208254,
       "from": "page 16 — render of the heartbeat maze, x 52–100 %, y 54–99 %"
+    },
+    {
+      "name": "11-love-history-timeline.webp",
+      "sha256": "18ef6b683efe25205ae8b89449cee09ed2ac6b0ef069ce001a6c6c6e9108198e",
+      "bytes": 404006,
+      "from": "restored reference image (love history timeline)"
+    },
+    {
+      "name": "12-dating-app-comic.webp",
+      "sha256": "2c5c653f9be45fcc90d954e9998dab57fbb4cc17eff9142a1b8546001d528aa5",
+      "bytes": 247896,
+      "from": "restored reference image (dating app comic)"
     }
   ]
 }
