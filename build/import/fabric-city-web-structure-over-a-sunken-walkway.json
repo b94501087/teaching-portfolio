@@ -1,0 +1,49 @@
+{
+  "project": "Fabric City",
+  "dest": "assets/board/fabric-city-web-structure-over-a-sunken-walkway",
+  "note": "Portfolio 029c pages 4-5 cropped to 7 images, WebP q88 (PIL). Not used: site photo of a street junction with city name, spider web and hermit crab photos, plant vessel reference image, site maps with street names, caption with location, title and date.",
+  "files": [
+    {
+      "name": "01-web-tower-render.webp",
+      "sha256": "0a8a4e8a672c64ca2050a3576fecbd330d16b6ba5344796da2bc4dc553ba5576",
+      "bytes": 290634,
+      "from": "029c pages 4-5 — the woven web tower over the walkway"
+    },
+    {
+      "name": "02-mesh-detail.webp",
+      "sha256": "4c3dc7b78cf8a57a5d7146e9fcdd1f4ba417bbed3cc1138a97457190a0baadc3",
+      "bytes": 57314,
+      "from": "029c pages 4-5 — a close view of the mesh"
+    },
+    {
+      "name": "03-concept-sketches.webp",
+      "sha256": "fa31f32592f5d31ae2d5b2afd6c9eab220f7964bbf36e43aa3537ba0f008735d",
+      "bytes": 69070,
+      "from": "029c pages 4-5 — concept sketches of curved ribs"
+    },
+    {
+      "name": "04-web-test-model-a.webp",
+      "sha256": "80adc674a636d73bb1d511b2a8987a7f75feebd125ccf7d70b499c5113559370",
+      "bytes": 40022,
+      "from": "029c pages 4-5 — a slotted test model of the web"
+    },
+    {
+      "name": "05-web-test-model-b.webp",
+      "sha256": "c959659662a42b5c21786d55c24b8e2e887ecc87871c118ad788b0f91e2c0ec7",
+      "bytes": 35126,
+      "from": "029c pages 4-5 — the test model and its shadow"
+    },
+    {
+      "name": "06-scenario-sketches-a.webp",
+      "sha256": "d89f2b6455d6db546b8c4047eb59ba6ff95763ae7c7dcbddcfa8e5368dfe0c2d",
+      "bytes": 72768,
+      "from": "029c pages 4-5 — scenario sketches of climbing and crossing"
+    },
+    {
+      "name": "07-scenario-sketches-b.webp",
+      "sha256": "e594dc340fa84ab827b3a3bee1575313b2bbc26fab8712131b5e538ba7531029",
+      "bytes": 77146,
+      "from": "029c pages 4-5 — scenario sketches of sitting and play"
+    }
+  ]
+}
