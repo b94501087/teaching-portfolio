@@ -1,0 +1,55 @@
+{
+  "project": "Trace of the Wind",
+  "dest": "assets/board/trace-of-the-wind-cement-and-resin-cast",
+  "note": "Portfolio 2179 pages 12-13 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, standing photo of a person, heat-gun process photos showing hands.",
+  "files": [
+    {
+      "name": "01-ocean-cube.webp",
+      "sha256": "5037ad279ad55bd55b5a552d2406c42a98e1724b374e4f99c4f28a42d93bf053",
+      "bytes": 56824,
+      "from": "2179 pages 12-13 — the cement cube with a blue resin sea"
+    },
+    {
+      "name": "02-cement-form.webp",
+      "sha256": "17615f32a716fef107d97cc7fe929211c7365935ca450d704b81d097b8594bfb",
+      "bytes": 39902,
+      "from": "2179 pages 12-13 — a cement form cast from a wind-shaped mould"
+    },
+    {
+      "name": "03-cast-row-a.webp",
+      "sha256": "01ba9e677edca9d00ef7fa75e89ae00f3e3aec817a07ea0ee61d2f60f023de89",
+      "bytes": 32556,
+      "from": "2179 pages 12-13 — the first row of casts and moulds"
+    },
+    {
+      "name": "04-cast-row-b.webp",
+      "sha256": "d61e5cf5f47d7bf103453ac85fd62febac1a689556557d3494668caa1f76c306",
+      "bytes": 44576,
+      "from": "2179 pages 12-13 — the second row of casts and moulds"
+    },
+    {
+      "name": "05-cast-row-c.webp",
+      "sha256": "d7a0c2f8a68cda31fc06b26401a8ae62c4919757c44381bf724f1d0d9094c4f2",
+      "bytes": 40854,
+      "from": "2179 pages 12-13 — the third row of casts and moulds"
+    },
+    {
+      "name": "06-cube-side.webp",
+      "sha256": "f55ca3437c172ea7f1d1f62d76db3d8f7f528ebaeb6dc9ad83cfbacae21cd6ee",
+      "bytes": 20126,
+      "from": "2179 pages 12-13 — the cube seen from the side"
+    },
+    {
+      "name": "07-blue-close.webp",
+      "sha256": "d50b0914ffa766f5fab04f3c6ce2782241cc816e43db467a9ff9797c82faaf4e",
+      "bytes": 37024,
+      "from": "2179 pages 12-13 — a close view of the resin sea"
+    },
+    {
+      "name": "08-cube-white.webp",
+      "sha256": "75e64dcc77ace01b9d63f11ee524f194d8fe473c1767ddf1b8173c72ffd56bdf",
+      "bytes": 23344,
+      "from": "2179 pages 12-13 — the finished cube on a white ground"
+    }
+  ]
+}
