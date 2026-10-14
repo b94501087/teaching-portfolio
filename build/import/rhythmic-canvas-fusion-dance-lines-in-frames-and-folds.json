@@ -1,0 +1,61 @@
+{
+  "project": "Rhythmic Canvas Fusion",
+  "dest": "assets/board/rhythmic-canvas-fusion-dance-lines-in-frames-and-folds",
+  "note": "Portfolio 711d pages 7-8 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text naming a painting, dance photographs of a person, figure sketches, annotated sketches.",
+  "files": [
+    {
+      "name": "01-frame-plan.webp",
+      "sha256": "975aec3a96e5641db97163f74b8a41317e51bcd42bd595af1e6bd223898dbaa3",
+      "bytes": 130204,
+      "from": "711d pages 7-8 — the model seen from above"
+    },
+    {
+      "name": "02-folded-planes.webp",
+      "sha256": "8d6ed5859045f6d92197ff55eec828c725c9ae5053c2058dc1f4f259a8a45c76",
+      "bytes": 53410,
+      "from": "711d pages 7-8 — folded planes among frames"
+    },
+    {
+      "name": "03-frame-aerial.webp",
+      "sha256": "917f1e2702807b99eea4cd72b3161fcd633d131396528b828423802540ba6668",
+      "bytes": 77632,
+      "from": "711d pages 7-8 — an aerial view with figures"
+    },
+    {
+      "name": "04-wide-model.webp",
+      "sha256": "57cd5b5eb261ce4894a3c79a29ad30c1837a227be801b2a13ac660470cf59779",
+      "bytes": 194304,
+      "from": "711d pages 7-8 — the field of frames and folded planes"
+    },
+    {
+      "name": "05-motion-drawing.webp",
+      "sha256": "ca13485aef6f3a2aaf6db7620b80d453b0bf7de8deb0ede5b546b2c7bfd5e007",
+      "bytes": 124186,
+      "from": "711d pages 7-8 — overlaid lines of movement"
+    },
+    {
+      "name": "06-study-a.webp",
+      "sha256": "541e92ae75bd075e38af78077a1fadf3afedce39391435a6157f2e7074dd8cbc",
+      "bytes": 35692,
+      "from": "711d pages 7-8 — stacked folded planes"
+    },
+    {
+      "name": "07-study-b.webp",
+      "sha256": "0fcf4395256ca5956f1667a0cbbdc9b6eb1e8767d5c9397c30e96f16031fde22",
+      "bytes": 47036,
+      "from": "711d pages 7-8 — frames threaded through the folds"
+    },
+    {
+      "name": "08-study-top.webp",
+      "sha256": "a637ae2a5dca401c8db4d248ac5325be4ca0fbfcfc2256de88c93bd1705ded61",
+      "bytes": 31416,
+      "from": "711d pages 7-8 — an early field model"
+    },
+    {
+      "name": "09-study-side.webp",
+      "sha256": "f13ce61517d733012c9bce5112f069e43b004c1b819e7966e393dd3810c8cbb6",
+      "bytes": 33936,
+      "from": "711d pages 7-8 — folds and frames in close view"
+    }
+  ]
+}
