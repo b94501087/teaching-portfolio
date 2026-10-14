@@ -1,7 +1,7 @@
 {
   "project": "A Spatial Narrative of Escape",
   "dest": "assets/board/spatial-narrative-of-escape-maze-model",
-  "note": "Portfolio 6c64 pages 12-13 cropped to nine images, WebP q88 (PIL). Not used: title and text, series poster, film stills, code screenshots, game-over screen, engine logo and QR code.",
+  "note": "Portfolio 6c64 pages 12-13 cropped to nine images, WebP q88 (PIL). Not used: title and text, series poster, film stills, code screenshots, game-over screen, engine logo and QR code. w735: reference posters/stills restored; removed 04-stair-detail.webp.",
   "files": [
     {
       "name": "01-escape-model.webp",
@@ -20,12 +20,6 @@
       "sha256": "80a5626d098b3b6bb51279bed0a543a64de534640e626a423a5ee1f8dc247546",
       "bytes": 19466,
       "from": "6c64 page 12 — wire net detail"
-    },
-    {
-      "name": "04-stair-detail.webp",
-      "sha256": "2f052bb14cb5bf42fffbaec76558e94baf2e5bd5230b5465dd3bb4cb0cb930ae",
-      "bytes": 11084,
-      "from": "6c64 page 12 — stair detail"
     },
     {
       "name": "05-arch-and-stair-detail.webp",
@@ -56,6 +50,18 @@
       "sha256": "44af4dada539b40c91c96a6f2223de71fc9de87fc42a1c833590f0fe8b0b4884",
       "bytes": 29142,
       "from": "6c64 page 13 — game paths"
+    },
+    {
+      "name": "10-series-poster.webp",
+      "sha256": "a4880e34364be3cea8a958e097dda63d5af132c309d27e8ad4bb3d40fe4f889c",
+      "bytes": 26284,
+      "from": "restored reference image (series poster)"
+    },
+    {
+      "name": "11-series-stills.webp",
+      "sha256": "a8da573f1e700377ac6093f194a0784432b1b27d76ac57e415adc065fa3b504a",
+      "bytes": 52898,
+      "from": "restored reference image (series stills)"
     }
   ]
 }
