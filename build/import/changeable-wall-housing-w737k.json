@@ -1,0 +1,25 @@
+{
+  "project": "Implantation of Changeable Wall",
+  "dest": "assets/board/changeable-wall-housing",
+  "note": "w737k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-skyline-collage.webp",
+      "sha256": "2e1fc5c50f58dfad592e384f17602ff6b27a5edbc01aa9055aa3ed6ced46a5ee",
+      "bytes": 274684,
+      "from": "restored reference image (skyline collage)"
+    },
+    {
+      "name": "09-site-history.webp",
+      "sha256": "f7006e7589888d0d1a7b7600b3bce9f1abf3999045d217c315b4badf4d6154a0",
+      "bytes": 182684,
+      "from": "restored reference image (site history)"
+    },
+    {
+      "name": "10-demands-and-strategies.webp",
+      "sha256": "e630cefd54464b9b60d7e7320f6e48cd7f9411460274bbdd0b1baa5de06c57a7",
+      "bytes": 237850,
+      "from": "restored reference image (demands and strategies)"
+    }
+  ]
+}
