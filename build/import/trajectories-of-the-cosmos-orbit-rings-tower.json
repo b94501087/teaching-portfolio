@@ -56,6 +56,12 @@
       "sha256": "b41c529550d3faf98f09b73616be2578e2142f6c515fe8072b776f69054f92ab",
       "bytes": 34886,
       "from": "30d4 pages 8-9 — the inner rings"
+    },
+    {
+      "name": "10-orbit-charts.webp",
+      "sha256": "136d7865ba82f788c11a22ceb37a667e0bd5fb5b5ea802655864c4688f587bca",
+      "bytes": 22104,
+      "from": "restored reference image (orbit charts)"
     }
   ]
 }

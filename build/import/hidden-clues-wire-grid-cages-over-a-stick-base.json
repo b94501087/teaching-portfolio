@@ -44,6 +44,18 @@
       "sha256": "bd760102174fea9b89f07e6655264bfe08eede384b1d95914f402a769b3e803d",
       "bytes": 113846,
       "from": "30d4 pages 4-5 — shards inside a cage"
+    },
+    {
+      "name": "08-story-collage.webp",
+      "sha256": "51eb74824cd30b5dc10bb1a5d7967e70957354266dca3d9569eef371c6afee42",
+      "bytes": 84686,
+      "from": "restored reference image (story collage)"
+    },
+    {
+      "name": "09-making-process-photos.webp",
+      "sha256": "19d6248ef1f85826ab8d349c72276e4a9e8ed1683d45f67f468a3f19ec169341",
+      "bytes": 69878,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }

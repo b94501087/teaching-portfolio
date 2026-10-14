@@ -40,12 +40,6 @@
       "from": "30d4 pages 6-7 — a collage of photo fragments"
     },
     {
-      "name": "07-stair-cluster-left.webp",
-      "sha256": "8fae304cc0f892a5bd3fd491784ba9377011c411e37a2fa3f83e947ed6d16c91",
-      "bytes": 29254,
-      "from": "30d4 pages 6-7 — stairs from the left"
-    },
-    {
       "name": "08-stair-cluster-centre.webp",
       "sha256": "c10a5823ea2d4b4c4e34b9866c1eb6866819dede42e7490315a82a674b2e93bb",
       "bytes": 26372,
@@ -56,6 +50,18 @@
       "sha256": "2d829622bdb58e7d9b6a63bbfa37db65df25de4cd6baa72716eefa58472a4267",
       "bytes": 39990,
       "from": "30d4 pages 6-7 — stairs from the right"
+    },
+    {
+      "name": "10-artist-print-and-film-poster.webp",
+      "sha256": "ea64ebbdb569e85fe64f547ba2fe1987bac44a76c0b4b4d2a16d8080b4d2fdc5",
+      "bytes": 218272,
+      "from": "restored reference image (artist print and film poster)"
+    },
+    {
+      "name": "11-holding-the-stair-model.webp",
+      "sha256": "b276183d099d20935c26b3d3b1a8f1a914885c11225d6d2f42d8d6f9577e635d",
+      "bytes": 113770,
+      "from": "restored reference image (holding the stair model)"
     }
   ]
 }
