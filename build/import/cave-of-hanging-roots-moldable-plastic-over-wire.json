@@ -1,0 +1,67 @@
+{
+  "project": "Cave of Hanging Roots",
+  "dest": "assets/board/cave-of-hanging-roots-moldable-plastic-over-wire",
+  "note": "Portfolio bf60 pages 12-15 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, reference photos of a tree and a cave, numbered process photos showing hands and a person, clay photo with a hand, top-left close-up.",
+  "files": [
+    {
+      "name": "01-final-form.webp",
+      "sha256": "5764463c3888ab0a7b1294722c5d76e4eae27d4c728229b23401c7010bf162ae",
+      "bytes": 51538,
+      "from": "bf60 pages 12-15 — the final form of pulled plastic"
+    },
+    {
+      "name": "02-root-sketches.webp",
+      "sha256": "128ba6b39ea8a90ae8f712c3e2f4e429e3f3452113f5043bf267c7491ef05cfc",
+      "bytes": 58212,
+      "from": "bf60 pages 12-15 — sketches of hanging roots"
+    },
+    {
+      "name": "03-landform-sketches.webp",
+      "sha256": "05caf3cd69b110a5029b76b5af2ea8e5ab0564480ab7b15b355807c965b4eed5",
+      "bytes": 65720,
+      "from": "bf60 pages 12-15 — sketches of cave formations"
+    },
+    {
+      "name": "04-conceptual-drawing.webp",
+      "sha256": "7b4102bbbfe274334ac7e8cf4f92f447c7b2d5d387009bd5977642c812ce11cb",
+      "bytes": 118788,
+      "from": "bf60 pages 12-15 — the conceptual drawing of the model"
+    },
+    {
+      "name": "05-clay-model.webp",
+      "sha256": "2d7ea440c7ee39fd852dbaf7aed534e702c800feb38a25e48f0eb4472d694fa0",
+      "bytes": 67192,
+      "from": "bf60 pages 12-15 — the first model in light clay"
+    },
+    {
+      "name": "06-wire-structure.webp",
+      "sha256": "e349c5503d935302ef6ef7bdb6059c938616622eb8cd32ad466236e246cc6d02",
+      "bytes": 65336,
+      "from": "bf60 pages 12-15 — the wire skeleton of the second model"
+    },
+    {
+      "name": "07-final-form-close.webp",
+      "sha256": "4f18c252b25edb195bc2b878fd42d0bca0b640bce242872d596dda48d1165ac4",
+      "bytes": 42576,
+      "from": "bf60 pages 12-15 — the final form from another side"
+    },
+    {
+      "name": "08-plastic-detail.webp",
+      "sha256": "bfe95b33974cd82be4961438b96e3cd3651fbf5127c2730bcc29c374a5fc0bbb",
+      "bytes": 181482,
+      "from": "bf60 pages 12-15 — membranes and openings in close view"
+    },
+    {
+      "name": "09-plastic-fibres.webp",
+      "sha256": "762f9db00ace205f1cbd4095f7b75e270ae769ff6e88e4ca3a7f05a077eed8dc",
+      "bytes": 29826,
+      "from": "bf60 pages 12-15 — strands pulled from the plastic"
+    },
+    {
+      "name": "10-two-views.webp",
+      "sha256": "9fed6686b9d74ec4fcac5c7badf1ffffc7497feb3de1c11b266b6d1813a852c6",
+      "bytes": 87380,
+      "from": "bf60 pages 12-15 — two views of the glowing form"
+    }
+  ]
+}
