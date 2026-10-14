@@ -1,0 +1,13 @@
+{
+  "project": "Between Chaos and Clarity",
+  "dest": "assets/board/between-chaos-and-clarity-plaster-pvc-model",
+  "note": "w737s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-making-process.webp",
+      "sha256": "5199c3592cb49abe5340a77bdda90a2063804fe58ed68d0cebd7d7134aeb1006",
+      "bytes": 18330,
+      "from": "restored reference image (making process)"
+    }
+  ]
+}

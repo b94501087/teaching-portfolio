@@ -44,6 +44,12 @@
       "sha256": "f70afaf6015a4625a2b76bf5c73e83224bfe1337e7613e91f02e12223dc643a2",
       "bytes": 19254,
       "from": "ca16 page 10 — plaster casting tests"
+    },
+    {
+      "name": "08-making-process.webp",
+      "sha256": "5199c3592cb49abe5340a77bdda90a2063804fe58ed68d0cebd7d7134aeb1006",
+      "bytes": 18330,
+      "from": "restored reference image (making process)"
     }
   ]
 }
