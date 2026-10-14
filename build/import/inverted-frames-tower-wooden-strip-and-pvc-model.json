@@ -1,0 +1,67 @@
+{
+  "project": "Inverted Frames Tower",
+  "dest": "assets/board/inverted-frames-tower-wooden-strip-and-pvc-model",
+  "note": "Portfolio 2179 pages 7-8 cropped to 10 images, WebP q88 (PIL). Not used: film title and inspiration text, reference still with a figure, process photos showing hands, explanatory text.",
+  "files": [
+    {
+      "name": "01-frame-tower.webp",
+      "sha256": "6a71d80c686fd773ebdf7e7ccff29547a8ceefcbda7107327f028028b9fd46fa",
+      "bytes": 131650,
+      "from": "2179 pages 7-8 — the tall frame tower of stacked buildings"
+    },
+    {
+      "name": "02-pattern-studies.webp",
+      "sha256": "f1f304a605f46e7c96f72ea4b0b5414cc831449d47fb83261296d94786603456",
+      "bytes": 92184,
+      "from": "2179 pages 7-8 — line pattern studies"
+    },
+    {
+      "name": "03-model-a.webp",
+      "sha256": "e735fb782c96692195f5e6161ffb1be27c6d53dcfdcebf485fb25fcd5b93fca3",
+      "bytes": 18748,
+      "from": "2179 pages 7-8 — a first frame study"
+    },
+    {
+      "name": "04-model-b.webp",
+      "sha256": "a2813af41cbded07ac4f33fd1f9ac9edf26e7fc8fa40c753d4f5160d6915ea20",
+      "bytes": 13506,
+      "from": "2179 pages 7-8 — small buildings on a frame"
+    },
+    {
+      "name": "05-model-c.webp",
+      "sha256": "66a7e5b501fbcb10d8416b9b8924063f3d40c3fee4b07eb1ca988e1241f8a9c8",
+      "bytes": 19286,
+      "from": "2179 pages 7-8 — intersecting planes in a study model"
+    },
+    {
+      "name": "06-interior-a.webp",
+      "sha256": "d1e0a6fb12ad6ceff2d018779b77ceae174c6d864a79b36991a75db5f8fb5faf",
+      "bytes": 207146,
+      "from": "2179 pages 7-8 — looking up into the frame"
+    },
+    {
+      "name": "07-interior-b.webp",
+      "sha256": "d64e5eacce3f8eb082acf35fb1cb2e91aa420c53abc7bcff9cf7c6cc97a785d5",
+      "bytes": 180238,
+      "from": "2179 pages 7-8 — a deep view through the lattice"
+    },
+    {
+      "name": "08-inset-a.webp",
+      "sha256": "2abce1bf0c3bef0607d52eb316d49ab222c605e6168d2e2453b5ce1ea2e567bd",
+      "bytes": 37364,
+      "from": "2179 pages 7-8 — overlapping rooms in close view"
+    },
+    {
+      "name": "09-inset-b.webp",
+      "sha256": "563f9e77e9caa3933f7047c010bc71286a50e1e0219d22bd14f2508cf73d21ec",
+      "bytes": 53348,
+      "from": "2179 pages 7-8 — crossing frames from below"
+    },
+    {
+      "name": "10-tower-dark.webp",
+      "sha256": "001dfd8a66cbb01c150f768923792a1adad43cf13eddae59c59c9fc46dec2036",
+      "bytes": 116980,
+      "from": "2179 pages 7-8 — the whole tower against a dark ground"
+    }
+  ]
+}
