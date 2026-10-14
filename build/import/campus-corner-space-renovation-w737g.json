@@ -1,0 +1,13 @@
+{
+  "project": "Campus Corner Space Renovation",
+  "dest": "assets/board/campus-corner-space-renovation",
+  "note": "w737g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-site-analysis-and-design-strategy.webp",
+      "sha256": "8ccb39d4a312e50daafb4c94f5dd8653e1e029a4d4f04114de2a23545ba762d4",
+      "bytes": 210150,
+      "from": "restored reference image (site analysis and design strategy)"
+    }
+  ]
+}
