@@ -1,0 +1,13 @@
+{
+  "project": "Bio-based Material",
+  "dest": "assets/board/bio-based-hempcrete-ceiling",
+  "note": "w737o2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-casting-photos.webp",
+      "sha256": "ae8f817e3c56bdbeef31a71511ea11025c81b857ff750d8cc100f0ee5f873772",
+      "bytes": 52546,
+      "from": "restored reference image (casting photos)"
+    }
+  ]
+}
