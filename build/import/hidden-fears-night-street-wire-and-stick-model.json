@@ -34,16 +34,34 @@
       "from": "cfd7 page 11 — wire frame"
     },
     {
-      "name": "06-close-up.webp",
-      "sha256": "490dbd80c6b2d0ff9cb43a44d93d6a8e11ba6a8a32302175d1c6451b56ba1c95",
-      "bytes": 56304,
-      "from": "cfd7 page 11 — close up"
-    },
-    {
       "name": "07-chalk-sketch.webp",
       "sha256": "d7421425d0a697d900e69c33b73cc88cf830538794d3efb40fddc06ea200decb",
       "bytes": 31204,
       "from": "cfd7 page 11 — chalk sketch"
+    },
+    {
+      "name": "08-city-map.webp",
+      "sha256": "47168eed31c3011b2bd4d8f0dabfc06efc70c1fb89bb3e7e2fd5d28d61671754",
+      "bytes": 72376,
+      "from": "restored reference image (city map)"
+    },
+    {
+      "name": "09-mind-map.webp",
+      "sha256": "e5ab487d17b92116a3dd5ddff5e5975ba37113cdb300df256be71066636522da",
+      "bytes": 80014,
+      "from": "restored reference image (mind map)"
+    },
+    {
+      "name": "10-street-photos.webp",
+      "sha256": "8d43ed7f5a1d6e99cc1e40be63777962f820444ded5aec4f7abd0d8d22a8beee",
+      "bytes": 93212,
+      "from": "restored reference image (street photos)"
+    },
+    {
+      "name": "11-making-by-hand.webp",
+      "sha256": "1a8679103dac04547eb55a52663a95884295a2e5d579552a7923845bf16d303e",
+      "bytes": 60822,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }

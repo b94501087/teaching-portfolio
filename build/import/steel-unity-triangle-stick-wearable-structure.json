@@ -40,22 +40,28 @@
       "from": "cfd7 page 7 — view one"
     },
     {
-      "name": "07-view-two.webp",
-      "sha256": "fc8a7a2bc4e941b5f31e05e4151b5314109c28f747505f0870dbc1109ade11a4",
-      "bytes": 10790,
-      "from": "cfd7 page 7 — view two"
-    },
-    {
-      "name": "08-view-three.webp",
-      "sha256": "9150a87ad62cf1196220a843c8261569eee23e3dbb1b65f52e7e397e8d9ccbac",
-      "bytes": 11986,
-      "from": "cfd7 page 7 — view three"
-    },
-    {
       "name": "09-close-up.webp",
       "sha256": "a50cc6d7a4508515931cbcbb15aa269cc72c94e836e06185664b254a6f0319fb",
       "bytes": 16916,
       "from": "cfd7 page 7 — close up"
+    },
+    {
+      "name": "10-tv-tower-photo.webp",
+      "sha256": "8f2998c387c8884e66ebb164391558c1a8b2adb516dfa5a71174bbbe9708e03c",
+      "bytes": 20148,
+      "from": "restored reference image (tv tower photo)"
+    },
+    {
+      "name": "11-face-references.webp",
+      "sha256": "5299c685421e727b941764b704ec485ceef333a115e0b4647aaa595b7d9db628",
+      "bytes": 42614,
+      "from": "restored reference image (face references)"
+    },
+    {
+      "name": "12-worn-on-the-shoulder.webp",
+      "sha256": "3708751cea418f565e1f900c1a7a2e62fe5be04e81ea4ce476ca115aa472e58c",
+      "bytes": 59554,
+      "from": "restored reference image (worn on the shoulder)"
     }
   ]
 }

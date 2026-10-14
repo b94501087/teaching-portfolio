@@ -56,6 +56,12 @@
       "sha256": "6785b4e1a4dcd3a520e30d0b5b05c7f76c95ccb4a58f4d911c429d140e774d53",
       "bytes": 17156,
       "from": "cfd7 page 9 — cotton tree"
+    },
+    {
+      "name": "10-precedent-house-photo.webp",
+      "sha256": "187a64833965d7550b6b64d721447d97af6f3534cbe7c3c5810f4e5a30822d98",
+      "bytes": 14192,
+      "from": "restored reference image (precedent house photo)"
     }
   ]
 }
