@@ -1,0 +1,43 @@
+{
+  "project": "Layered Plates Art Centre",
+  "dest": "assets/board/layered-plates-art-centre-pvc-massing-model",
+  "note": "Portfolio 2fb5 page 8 cropped to 6 images, WebP q88 (PIL). Not used: title lettering, handwritten site diagram with building heights, road and neighbour labels, concept words, size caption.",
+  "files": [
+    {
+      "name": "01-layered-plates.webp",
+      "sha256": "c6f3f6143f4e01120199e5e1347cb4877ccf2a54d940c48fcba654848cbc5f2a",
+      "bytes": 104362,
+      "from": "2fb5 page 8 — the layered pvc plates of the art centre"
+    },
+    {
+      "name": "02-form-sketches.webp",
+      "sha256": "b301ebb1face66d0a98d4778cea6bff76a4efb36e35476b7c648e2de0f857cb2",
+      "bytes": 39744,
+      "from": "2fb5 page 8 — sketches of forms and textures"
+    },
+    {
+      "name": "03-render-a.webp",
+      "sha256": "a94c1d1c1565b3f5f2567faf11e797d446011c37ff863e0b1273a2f87c4e1690",
+      "bytes": 53722,
+      "from": "2fb5 page 8 — a render of the shifting layers"
+    },
+    {
+      "name": "04-render-b.webp",
+      "sha256": "31c977e1243f462c636d1beda7bcadbae75b5cc114b6d23ae99f68a297b790ad",
+      "bytes": 17392,
+      "from": "2fb5 page 8 — a render of the lifted edge"
+    },
+    {
+      "name": "05-plate-edge.webp",
+      "sha256": "7728549af9f318a6a86b4f506b3962e65c47df27dd06741e3ab1759ca816a3b7",
+      "bytes": 45574,
+      "from": "2fb5 page 8 — the edge of the stacked plates"
+    },
+    {
+      "name": "06-model-details.webp",
+      "sha256": "d9c6905ea7c5677c8289634bcbd94488d9c32cfbda758ee92a4391c1c4ffdbe1",
+      "bytes": 66654,
+      "from": "2fb5 page 8 — details of the model surface"
+    }
+  ]
+}
