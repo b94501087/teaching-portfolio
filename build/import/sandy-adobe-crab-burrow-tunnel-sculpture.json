@@ -38,6 +38,18 @@
       "sha256": "89cb71d7415f93faa5a32bb5f3799a90491cd34950b32df32db190539874e537",
       "bytes": 51650,
       "from": "fbb7 page 12 — sanded tubes"
+    },
+    {
+      "name": "07-crab-and-beach-photos.webp",
+      "sha256": "adc02400cdd29892f14dbeb173ae42b358134fc840f380b22270c00505f66be9",
+      "bytes": 48514,
+      "from": "restored reference image (crab and beach photos)"
+    },
+    {
+      "name": "08-making-by-hand.webp",
+      "sha256": "67845f2a7aa76d320ed8c45ba8a2ee5bc5de6d91eb28fa861e24153df4d19d17",
+      "bytes": 188616,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }

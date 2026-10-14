@@ -56,6 +56,12 @@
       "sha256": "0aab8bff946c59708b0a20b7fdfea34df322a912985747ce49cb4b80cfdc5ac4",
       "bytes": 230500,
       "from": "3dee page 2-4 — a shaded wooden deck"
+    },
+    {
+      "name": "10-reference-photos.webp",
+      "sha256": "2954c5a9543ba63c4bd29b125402a2723cbda11a723a38669cd3c3882b6c45a2",
+      "bytes": 103442,
+      "from": "restored reference image (reference photos)"
     }
   ]
 }

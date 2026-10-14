@@ -56,6 +56,12 @@
       "sha256": "9cfd64a85c74f562861011dad04062252559a24b9709dcda3dcefec29d2c6f51",
       "bytes": 51548,
       "from": "fbb7 page 11 — ladder detail"
+    },
+    {
+      "name": "10-experiment-observation-photos.webp",
+      "sha256": "bf0c1e6d57d659f67f7c2feae93783f089ebbeb5b80bd2e4ffba3abc1f8292cb",
+      "bytes": 222770,
+      "from": "restored reference image (experiment observation photos)"
     }
   ]
 }
