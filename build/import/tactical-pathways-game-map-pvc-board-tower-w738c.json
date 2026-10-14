@@ -1,0 +1,23 @@
+{
+  "project": "Tactical Pathways",
+  "dest": "assets/board/tactical-pathways-game-map-pvc-board-tower",
+  "note": "w738c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-game-stills-and-map.webp",
+      "sha256": "15a126df19bf770943918a35781c9a424e25bd9a1fe7f6a50ed3c5d69dfe0b60",
+      "bytes": 69974,
+      "from": "restored reference image (game stills and map)"
+    },
+    {
+      "name": "12-building-by-hand.webp",
+      "sha256": "862a78cae9e431b6c440341c83b2ca0cae61510a76d965e8229aedefff3ca0a1",
+      "bytes": 10214,
+      "from": "restored reference image (building by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/tactical-pathways-game-map-pvc-board-tower/02-game-still.webp",
+    "assets/board/tactical-pathways-game-map-pvc-board-tower/06-top-view.webp"
+  ]
+}
