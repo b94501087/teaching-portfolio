@@ -1,0 +1,13 @@
+{
+  "project": "Residing in the City",
+  "dest": "assets/board/residing-in-the-city-oakland",
+  "note": "w737k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-urban-park-render.webp",
+      "sha256": "40af87a6a517b4a28285c90f01630ae71808b5b519c982ab98a9317d07ace414",
+      "bytes": 75332,
+      "from": "restored reference image (urban park render)"
+    }
+  ]
+}

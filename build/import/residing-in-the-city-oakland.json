@@ -56,6 +56,12 @@
       "sha256": "f200ee6097760187568c094983c81b90047d9186e543380d0a27bce81a8f6495",
       "bytes": 35704,
       "from": "page 27 — artwork station sections A and B, x 60–95.5 %, y 52–98 %"
+    },
+    {
+      "name": "10-urban-park-render.webp",
+      "sha256": "40af87a6a517b4a28285c90f01630ae71808b5b519c982ab98a9317d07ace414",
+      "bytes": 75332,
+      "from": "restored reference image (urban park render)"
     }
   ]
 }
