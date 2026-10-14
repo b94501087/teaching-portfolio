@@ -1,0 +1,61 @@
+{
+  "project": "Deep-Sectional Urbanism",
+  "dest": "assets/board/deep-sectional-urbanism-a-city-of-machine-sections",
+  "note": "Portfolio d410 pages 8-9 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, reproduced mechanism drawings, model data table, extra close-up.",
+  "files": [
+    {
+      "name": "01-model-front.webp",
+      "sha256": "c54f6e86ebbd45919c662535fad0c24bc28b4b6eccb73c2189c4332a1544d839",
+      "bytes": 186212,
+      "from": "d410 pages 8-9 — the machine city model"
+    },
+    {
+      "name": "02-section-collage-one.webp",
+      "sha256": "bcaa6b7273690dedf3c7738793276e6abda7a5c043f597458ebe0d28230cc0d9",
+      "bytes": 168254,
+      "from": "d410 pages 8-9 — section collage one"
+    },
+    {
+      "name": "03-section-collage-two.webp",
+      "sha256": "7cc5b0e183b53527a2d6bc79666e473b4da28f9beb7c2dfc0f57dfbca63d6f17",
+      "bytes": 349408,
+      "from": "d410 pages 8-9 — section collage two"
+    },
+    {
+      "name": "04-section-collages-three-four.webp",
+      "sha256": "f3b3de00c84714e5502eb7e4a506607319ace00e5d5b95b3993df9b76d6adca7",
+      "bytes": 191886,
+      "from": "d410 pages 8-9 — section collages three and four"
+    },
+    {
+      "name": "05-model-left.webp",
+      "sha256": "e24da2540c99ba3c304315f709ea6f6e7c7ecd76e9ac4d894afc2790ac6c1c2b",
+      "bytes": 180620,
+      "from": "d410 pages 8-9 — the model from the left"
+    },
+    {
+      "name": "06-model-right.webp",
+      "sha256": "8dc80100916a22f2b7fca447ab03303dc5e08ba689a7d25209532c1fa8f0d34f",
+      "bytes": 190622,
+      "from": "d410 pages 8-9 — the model from the right"
+    },
+    {
+      "name": "07-model-from-above.webp",
+      "sha256": "41756bb677d28e80c997811383432a101417d2f5cc1452dcfcaec1a247c5acd6",
+      "bytes": 107076,
+      "from": "d410 pages 8-9 — the model from above"
+    },
+    {
+      "name": "08-model-close-up.webp",
+      "sha256": "597d364b7b4fe06cde4e0a185f7d67f801f27b95ce224a995163d4f7b251ee96",
+      "bytes": 114402,
+      "from": "d410 pages 8-9 — a close view of the layered faces"
+    },
+    {
+      "name": "09-model-wide.webp",
+      "sha256": "8c5b90084226d7e670bec53f362464ce52eb1d554884a458d5bd2295f9d15a84",
+      "bytes": 153456,
+      "from": "d410 pages 8-9 — bridges and platforms across the city"
+    }
+  ]
+}
