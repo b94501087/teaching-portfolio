@@ -1,0 +1,30 @@
+{
+  "project": "Chambers of a Restless Mind",
+  "dest": "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats",
+  "note": "w738x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-novel-book-cover.webp",
+      "sha256": "9ccf9aa7f2e915ad3f67f1b4ee40644aa56137ebcd04502b4705a6286fd70ca8",
+      "bytes": 34092,
+      "from": "restored reference image (novel book cover)"
+    },
+    {
+      "name": "12-annotated-concept-sketch.webp",
+      "sha256": "df6a74704333840af272afa284c54f2d096710e71a42d664fcef98f9aa4ed782",
+      "bytes": 186124,
+      "from": "restored reference image (annotated concept sketch)"
+    },
+    {
+      "name": "13-making-the-spaces-by-hand.webp",
+      "sha256": "7258405fe32fd64ba3ee07f62c7b31e56131cf93abcd2831f4e6c5740107b3c1",
+      "bytes": 108828,
+      "from": "restored reference image (making the spaces by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/07-white-bubble-lower-view.webp",
+    "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/09-brick-room-corner.webp",
+    "assets/board/chambers-of-a-restless-mind-brick-mirror-and-slats/10-slat-arch-close.webp"
+  ]
+}
