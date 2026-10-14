@@ -1,0 +1,43 @@
+{
+  "project": "Redefined Cells",
+  "dest": "assets/board/redefined-cells-clay-and-wire-cell-model",
+  "note": "Portfolio 029c pages 19-20 cropped to 6 images, WebP q88 (PIL). Not used: photographs of the model held in hands, handwritten note strip, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-cell-model.webp",
+      "sha256": "941f676f56d5468276b72415eabdbb914f6b0700e47fb62d90cdda6ff7b6786d",
+      "bytes": 141774,
+      "from": "029c pages 19-20 — the coloured cell model"
+    },
+    {
+      "name": "02-cell-sketch.webp",
+      "sha256": "72022bbf513cc219b71f2dfcb5d3324f6fcb3131d46764f4f91a785f7fc55cd7",
+      "bytes": 65658,
+      "from": "029c pages 19-20 — a pencil sketch of the cell"
+    },
+    {
+      "name": "03-cell-render.webp",
+      "sha256": "a99391321182089db4c2e12e5a1b5b993f7680f2527e74d42a94afa664d71594",
+      "bytes": 47550,
+      "from": "029c pages 19-20 — a coloured drawing of the cell"
+    },
+    {
+      "name": "04-annotated-sketch-a.webp",
+      "sha256": "0e765292f85f129503e9a3d858ad065e54330f94fe8584e72d964827b1196ce3",
+      "bytes": 64500,
+      "from": "029c pages 19-20 — annotated sketch of materials"
+    },
+    {
+      "name": "05-annotated-sketch-b.webp",
+      "sha256": "e9dc85c5c4a93ff6441c646846ddf4307f6873eb34cfe7d0e9c84eae65387643",
+      "bytes": 53666,
+      "from": "029c pages 19-20 — annotated sketch of layers"
+    },
+    {
+      "name": "06-cell-model-upright.webp",
+      "sha256": "bb18b064be89e553900d7ff2f9563970779a62292536f3bd087ad838089c21c9",
+      "bytes": 68676,
+      "from": "029c pages 19-20 — the cell model standing upright"
+    }
+  ]
+}
