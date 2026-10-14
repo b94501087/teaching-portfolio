@@ -50,6 +50,18 @@
       "sha256": "cd8f6bd9a0fb29c4af11c3b855d40ff823a689bc8751fe3652e8a4c302406884",
       "bytes": 172072,
       "from": "page 25 — trap space, x 58.5–100 %, y 0–77 %"
+    },
+    {
+      "name": "09-middle-income-trap.webp",
+      "sha256": "8547cc4149cdf5b8c1ca0815c3d07f11a144e56eba5d2dddac8559a4cd637fa8",
+      "bytes": 244794,
+      "from": "restored reference image (middle income trap)"
+    },
+    {
+      "name": "10-consumerism-collage.webp",
+      "sha256": "2d0c06daeaab16caaca7a1a9bea668d77847c32e910724af8b44cc6aaa0d8ba3",
+      "bytes": 339458,
+      "from": "restored reference image (consumerism collage)"
     }
   ]
 }
