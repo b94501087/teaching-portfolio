@@ -44,6 +44,18 @@
       "sha256": "5ce62b04da500d934ec25184929d7680046072d2b8867d9aaff2664e597185f5",
       "bytes": 47252,
       "from": "188e page 5 — island details"
+    },
+    {
+      "name": "08-turtle-concept-painting.webp",
+      "sha256": "a74bcb326a7022cd84f7513856f2753a09ce7a4e076090b0c1434f240c366e1e",
+      "bytes": 123202,
+      "from": "restored reference image (turtle concept painting)"
+    },
+    {
+      "name": "09-turtle-photos.webp",
+      "sha256": "4994e6cac3a923fcbbb71be548f68b2e5442327efd44ee4317e92abd6621acba",
+      "bytes": 29200,
+      "from": "restored reference image (turtle photos)"
     }
   ]
 }

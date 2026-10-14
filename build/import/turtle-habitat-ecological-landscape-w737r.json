@@ -1,0 +1,19 @@
+{
+  "project": "Turtle Habitat",
+  "dest": "assets/board/turtle-habitat-ecological-landscape",
+  "note": "w737r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-turtle-concept-painting.webp",
+      "sha256": "a74bcb326a7022cd84f7513856f2753a09ce7a4e076090b0c1434f240c366e1e",
+      "bytes": 123202,
+      "from": "restored reference image (turtle concept painting)"
+    },
+    {
+      "name": "09-turtle-photos.webp",
+      "sha256": "4994e6cac3a923fcbbb71be548f68b2e5442327efd44ee4317e92abd6621acba",
+      "bytes": 29200,
+      "from": "restored reference image (turtle photos)"
+    }
+  ]
+}
