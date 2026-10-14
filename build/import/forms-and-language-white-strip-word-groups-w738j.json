@@ -1,0 +1,19 @@
+{
+  "project": "Forms and Language",
+  "dest": "assets/board/forms-and-language-white-strip-word-groups",
+  "note": "w738j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-film-poster-and-references.webp",
+      "sha256": "ff5bc4998d9fa3f1a3c410e902cda80285ee03235a26da8b59d2d59e04ff7bb1",
+      "bytes": 47004,
+      "from": "restored reference image (film poster and references)"
+    },
+    {
+      "name": "10-calligraphy-copies.webp",
+      "sha256": "a1a1ad606cc5ede076ee72173282dafd7ffce756b3e7c46c287b701f35bf6f90",
+      "bytes": 158798,
+      "from": "restored reference image (calligraphy copies)"
+    }
+  ]
+}
