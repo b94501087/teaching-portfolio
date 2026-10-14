@@ -1,0 +1,16 @@
+{
+  "project": "Ring of Wings",
+  "dest": "assets/board/ring-of-wings-woven-bamboo-flight-arcs",
+  "note": "w738i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-wearing-the-wing-ring.webp",
+      "sha256": "369323cb92fde1496f59089778c0416ff51dc6d06dc41ab6466040987aec57d6",
+      "bytes": 93312,
+      "from": "restored reference image (wearing the wing ring)"
+    }
+  ],
+  "delete": [
+    "assets/board/ring-of-wings-woven-bamboo-flight-arcs/05-wing-tips.webp"
+  ]
+}
