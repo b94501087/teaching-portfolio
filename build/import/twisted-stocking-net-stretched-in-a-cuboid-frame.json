@@ -1,0 +1,55 @@
+{
+  "project": "Twisted",
+  "dest": "assets/board/twisted-stocking-net-stretched-in-a-cuboid-frame",
+  "note": "Portfolio bf60 pages 10-11 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, material list.",
+  "files": [
+    {
+      "name": "01-stretched-net-frame.webp",
+      "sha256": "8a895f3a7765ec2a82e885b7db8315e740ef9eb8a6fbc70a405e1def1a45ff52",
+      "bytes": 266620,
+      "from": "bf60 pages 10-11 — stockings stretched and twisted in the frame"
+    },
+    {
+      "name": "02-pattern-drawing-a.webp",
+      "sha256": "8b97d8f59221413a7e4ea8ae1e123b156681aacc2bf89132b8855b62ea0ae066",
+      "bytes": 80630,
+      "from": "bf60 pages 10-11 — a drawing of twisting blots"
+    },
+    {
+      "name": "03-pattern-drawing-b.webp",
+      "sha256": "e13915a8370804d6e1b05c3dc2ac5b1dba08000fd264976440987895f07b1967",
+      "bytes": 63622,
+      "from": "bf60 pages 10-11 — a drawing of flowing patches"
+    },
+    {
+      "name": "04-pattern-row-a.webp",
+      "sha256": "e2efcec5acc01683bcc57c2f2417401fa431cbb8758a147db2bc8ec991593ced",
+      "bytes": 111894,
+      "from": "bf60 pages 10-11 — pattern studies of wavy lines"
+    },
+    {
+      "name": "05-pattern-row-b.webp",
+      "sha256": "43280e5e81b8a4eb2c3c19d35241506f3ae93be298d5f46e8d3d531be814d89d",
+      "bytes": 137870,
+      "from": "bf60 pages 10-11 — pattern studies of zigzags"
+    },
+    {
+      "name": "06-pattern-row-c.webp",
+      "sha256": "a8db5a58da8172ee584d0bbe8639976e016a53df0537d362f8c2038cef2ab850",
+      "bytes": 123326,
+      "from": "bf60 pages 10-11 — pattern studies of radiating lines"
+    },
+    {
+      "name": "07-frame-views-a.webp",
+      "sha256": "05faacf0d4e591e94746fbb72965cfc6cf9a0b1870afd8468a94f0151490119a",
+      "bytes": 71316,
+      "from": "bf60 pages 10-11 — twisted stockings seen from two sides"
+    },
+    {
+      "name": "08-frame-views-b.webp",
+      "sha256": "1a204814aa99728388cc35a9c0a99c979178c2c382456a07db9381b13cb0a239",
+      "bytes": 113086,
+      "from": "bf60 pages 10-11 — further views of the fixed twist"
+    }
+  ]
+}
