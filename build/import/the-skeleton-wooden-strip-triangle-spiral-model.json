@@ -1,0 +1,49 @@
+{
+  "project": "The Skeleton",
+  "dest": "assets/board/the-skeleton-wooden-strip-triangle-spiral-model",
+  "note": "Portfolio 2fb5 pages 2-3 cropped to 7 images, WebP q88 (PIL). Not used: title lettering, process photo with a hand, small triangle render icons, background map, size captions.",
+  "files": [
+    {
+      "name": "01-skeleton-model.webp",
+      "sha256": "fae9da93e253479628b0e33fb685fcf313a7e6a3ae11ac86d3770959d8114f7b",
+      "bytes": 198804,
+      "from": "2fb5 pages 2-3 — the twisting skeleton of wooden strips"
+    },
+    {
+      "name": "02-curve-sketches.webp",
+      "sha256": "73dd5fd9b99e1da37f1b8a491029a3e30ea5529c501fb21e80fa25ad016873e0",
+      "bytes": 18872,
+      "from": "2fb5 pages 2-3 — ink sketches of flowing curves"
+    },
+    {
+      "name": "03-curve-studies.webp",
+      "sha256": "5340f6bc962cce43d017ba333d68a2aceb29c4cde4fba9bd31152d53745a50d1",
+      "bytes": 83088,
+      "from": "2fb5 pages 2-3 — curve studies bent in three dimensions"
+    },
+    {
+      "name": "04-dark-view.webp",
+      "sha256": "1cbc2536a242757d65ac7616a7e21b0f77115373dd3654b42b5b28c7b84f2436",
+      "bytes": 193702,
+      "from": "2fb5 pages 2-3 — the skeleton against a dark ground"
+    },
+    {
+      "name": "05-side-view.webp",
+      "sha256": "2c21a5a2df838e2ac3513e16e61c5b8c375b554c35eebc18c7dfabf184bddf19",
+      "bytes": 70196,
+      "from": "2fb5 pages 2-3 — a side view of the arch"
+    },
+    {
+      "name": "06-low-view.webp",
+      "sha256": "92846707c5b38ba75be052f9034f5ffc92e10ea2fe0532cec2fd04bb5f91d0ce",
+      "bytes": 70060,
+      "from": "2fb5 pages 2-3 — the skeleton from a low angle"
+    },
+    {
+      "name": "07-full-drawing.webp",
+      "sha256": "1ce2ec662278426e03a1f05d3bc962988c390644ea1377f5b52e72e3878dd4d3",
+      "bytes": 364040,
+      "from": "2fb5 pages 2-3 — the full-size layered drawing"
+    }
+  ]
+}
