@@ -1,0 +1,13 @@
+{
+  "project": "Stairs of Unspoken Love",
+  "dest": "assets/board/stairs-of-unspoken-love-pvc-stair-tower",
+  "note": "q738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "04-anime-still.webp",
+      "sha256": "699d3c1500286e868abcdde21cc86d88b9c3b7061c3b5dd8aea965607a82b4bd",
+      "bytes": 23882,
+      "from": "restored reference image (anime still)"
+    }
+  ]
+}

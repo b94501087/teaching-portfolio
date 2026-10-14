@@ -1,0 +1,16 @@
+{
+  "project": "Four Stages of Salvation",
+  "dest": "assets/board/four-stages-of-salvation-clay-wire-and-yarn-figure",
+  "note": "q738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-film-stills.webp",
+      "sha256": "9cc8cf0841100be4ab316da4fd0284c85fd9f02cc734044e200899644a9e5129",
+      "bytes": 63826,
+      "from": "restored reference image (film stills)"
+    }
+  ],
+  "delete": [
+    "assets/board/four-stages-of-salvation-clay-wire-and-yarn-figure/09-pedestal-close-up.webp"
+  ]
+}
