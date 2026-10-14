@@ -1,0 +1,16 @@
+{
+  "project": "Puzzle of Liminal Space",
+  "dest": "assets/board/puzzle-of-liminal-space-stacked-hallway-model",
+  "note": "w738a restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-cutting-by-hand.webp",
+      "sha256": "243de2265a842060d6ce3cafc91c69ec5fce449db4dc8693522d944f0de3af67",
+      "bytes": 8980,
+      "from": "restored reference image (cutting by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/puzzle-of-liminal-space-stacked-hallway-model/09-upper-boxes.webp"
+  ]
+}

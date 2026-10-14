@@ -52,16 +52,16 @@
       "from": "ddbe page 6 — digital model"
     },
     {
-      "name": "09-upper-boxes.webp",
-      "sha256": "eeaee49c6a84285559f972b6dec2f52d9c9f60c84a614c82f5e862780f9938fb",
-      "bytes": 12970,
-      "from": "ddbe page 7 — upper boxes"
-    },
-    {
       "name": "10-spiral-stair.webp",
       "sha256": "8487db5d537bae0b4998bbf2a5a8c8b5093b82631f8dbf4e57c8fa682077ebd5",
       "bytes": 11100,
       "from": "ddbe page 7 — spiral stair"
+    },
+    {
+      "name": "11-cutting-by-hand.webp",
+      "sha256": "243de2265a842060d6ce3cafc91c69ec5fce449db4dc8693522d944f0de3af67",
+      "bytes": 8980,
+      "from": "restored reference image (cutting by hand)"
     }
   ]
 }
