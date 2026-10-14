@@ -1,0 +1,67 @@
+{
+  "project": "Wave Park",
+  "dest": "assets/board/wave-park-triangulated-ripples-as-open-pavilions",
+  "note": "Portfolio adc9 pages 14-15 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, stock water photo with web address, background composite.",
+  "files": [
+    {
+      "name": "01-park-from-above.webp",
+      "sha256": "ebe482d8dce91fac7d2d9b5b9f92d1ae023f1a448f70b55a688ecca741cc8963",
+      "bytes": 188016,
+      "from": "adc9 pages 14-15 — the park of folded pavilions from above"
+    },
+    {
+      "name": "02-line-study-a.webp",
+      "sha256": "b5239d5be27173ba80f87f8a48b66f7972fc081e51ef71f6545d2625812d6edd",
+      "bytes": 49326,
+      "from": "adc9 pages 14-15 — a first line study of ripples"
+    },
+    {
+      "name": "03-line-study-b.webp",
+      "sha256": "8e04491e925e9ea9c81c9ba8c16504e3f6d2f3194eb999003290c4b3eeff26d6",
+      "bytes": 46678,
+      "from": "adc9 pages 14-15 — a second line study"
+    },
+    {
+      "name": "04-triangle-net.webp",
+      "sha256": "508de7bf4d64450c460459d70f883b5efbc802c239a4bac266f4b54513d834be",
+      "bytes": 143876,
+      "from": "adc9 pages 14-15 — the merged triangle net"
+    },
+    {
+      "name": "05-concept-model.webp",
+      "sha256": "e3e7b34220c2ad7dab436324ace15f479884e10845902e2f68d2bd09232499c7",
+      "bytes": 82362,
+      "from": "adc9 pages 14-15 — the concept model of folded triangles"
+    },
+    {
+      "name": "06-pavilion-close-up.webp",
+      "sha256": "acc892a2c57f3df4685eb51ac042a5696fa46461b95868142d3c3bbfdaee3437",
+      "bytes": 50968,
+      "from": "adc9 pages 14-15 — a pavilion in close view"
+    },
+    {
+      "name": "07-pavilion-field.webp",
+      "sha256": "25090f319bfa7e099c21748c77e12d60484dec03ba39cd164587e70738c09001",
+      "bytes": 51718,
+      "from": "adc9 pages 14-15 — a field of pavilions"
+    },
+    {
+      "name": "08-park-overview.webp",
+      "sha256": "864f2def380ef296dfe246439640a8df804cf64be53c46415f810d28fd6b0d5f",
+      "bytes": 85644,
+      "from": "adc9 pages 14-15 — an overview of the park"
+    },
+    {
+      "name": "09-pavilions-a.webp",
+      "sha256": "2fadbd3fb2f6ffa6b93cc44bd972e09356cf3b4c721f22f3e2079d7a1cb8b686",
+      "bytes": 51048,
+      "from": "adc9 pages 14-15 — single pavilion studies"
+    },
+    {
+      "name": "10-pavilions-b.webp",
+      "sha256": "c07a143a4a463ecd413c00722b58a72bb59121e3277ef7ac54819513a96f9239",
+      "bytes": 64842,
+      "from": "adc9 pages 14-15 — further pavilion studies"
+    }
+  ]
+}
