@@ -1,0 +1,22 @@
+{
+  "project": "Sonic Refraction",
+  "dest": "assets/board/sonic-refraction-thread-acoustic-hall-model",
+  "note": "w738c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-precedent-hall.webp",
+      "sha256": "005c942015ae61a718b891c988688091913e5f8611585ec0cbb6d275d5ea2e27",
+      "bytes": 49654,
+      "from": "restored reference image (precedent hall)"
+    },
+    {
+      "name": "11-building-the-model.webp",
+      "sha256": "d4b8bcfeaf053f186adff36a7c32ae42d36aa2a0f1e96e1702cc259402f29b33",
+      "bytes": 19734,
+      "from": "restored reference image (building the model)"
+    }
+  ],
+  "delete": [
+    "assets/board/sonic-refraction-thread-acoustic-hall-model/08-long-view.webp"
+  ]
+}
