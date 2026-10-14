@@ -1,0 +1,31 @@
+{
+  "project": "Revive the Lijia Alley",
+  "dest": "assets/board/revive-the-lijia-alley",
+  "note": "w737i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-site-aerial-and-issues.webp",
+      "sha256": "caf897b4b260b9c689e78ec39bc2d928d8183c07a6359011f12299ec4120daf4",
+      "bytes": 209698,
+      "from": "restored reference image (site aerial and issues)"
+    },
+    {
+      "name": "08-research-and-history.webp",
+      "sha256": "73fe60e0686485b7f24d0153addddccc9093d4a9051ec4919ee56bff1fbf55e4",
+      "bytes": 200062,
+      "from": "restored reference image (research and history)"
+    },
+    {
+      "name": "09-phasing-strategy-map.webp",
+      "sha256": "242d89884d301a7cdb374816b225a4f8bea1200f4f39a4b9661158926d0cbc10",
+      "bytes": 239180,
+      "from": "restored reference image (phasing strategy map)"
+    },
+    {
+      "name": "10-street-renderings.webp",
+      "sha256": "e9c55486c780ee4dd5a6f51c582a51ff388941a6a0f421ef06a84a65d5bfc587",
+      "bytes": 211450,
+      "from": "restored reference image (street renderings)"
+    }
+  ]
+}
