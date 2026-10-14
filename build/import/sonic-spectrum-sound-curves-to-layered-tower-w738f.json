@@ -1,0 +1,30 @@
+{
+  "project": "Sonic Spectrum",
+  "dest": "assets/board/sonic-spectrum-sound-curves-to-layered-tower",
+  "note": "w738f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-headphone-references.webp",
+      "sha256": "1ad52fa889221380f564d6b9684d0a17d6aad605da192b1d58eeb76981ddf61d",
+      "bytes": 22714,
+      "from": "restored reference image (headphone references)"
+    },
+    {
+      "name": "12-travel-photo.webp",
+      "sha256": "e689c7ea359856937e4a35c4438cc3c8e94eefff2909a30c87e4ae465e315df9",
+      "bytes": 66320,
+      "from": "restored reference image (travel photo)"
+    },
+    {
+      "name": "13-making-by-hand.webp",
+      "sha256": "7255e2a70b29c7a56fd1b81a086fc065808986f37828e82edd5acb7c4094bdc9",
+      "bytes": 64578,
+      "from": "restored reference image (making by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/sonic-spectrum-sound-curves-to-layered-tower/06-curved-strips.webp",
+    "assets/board/sonic-spectrum-sound-curves-to-layered-tower/07-top-detail.webp",
+    "assets/board/sonic-spectrum-sound-curves-to-layered-tower/09-upper-section.webp"
+  ]
+}
