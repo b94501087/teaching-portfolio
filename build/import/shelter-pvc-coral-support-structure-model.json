@@ -1,0 +1,67 @@
+{
+  "project": "Shelter",
+  "dest": "assets/board/shelter-pvc-coral-support-structure-model",
+  "note": "Portfolio 2179 pages 9-11 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, sketch and model labels, heat-gun process photos showing hands.",
+  "files": [
+    {
+      "name": "01-coral-structure.webp",
+      "sha256": "770f4e404a5aeacc9b466c9d409bc0e76cd97d18734fb141863d15712eaaa32b",
+      "bytes": 145032,
+      "from": "2179 pages 9-11 — the coral-like pvc structure"
+    },
+    {
+      "name": "02-coral-sketch.webp",
+      "sha256": "9a53e46cd48f999696c1ef9d6a046549a4dee3224d70353cc5870c0efa19851a",
+      "bytes": 166292,
+      "from": "2179 pages 9-11 — a sketch of clustered coral cells"
+    },
+    {
+      "name": "03-primary-models.webp",
+      "sha256": "b0f04346b6c4dc81847a1a5160ccde98f530dde201dc4a3f3f1ea16a6753ac19",
+      "bytes": 12362,
+      "from": "2179 pages 9-11 — a primary study model"
+    },
+    {
+      "name": "04-white-model.webp",
+      "sha256": "48cb37448fd91954106374def36eca4ef646466c15742bd14e760fc9fddcc8db",
+      "bytes": 26126,
+      "from": "2179 pages 9-11 — a white frame cluster"
+    },
+    {
+      "name": "05-yellow-model.webp",
+      "sha256": "c92bdf96f280ffcfaf25c316d5277cb9daeae90aff609ff48fa752571e82f3da",
+      "bytes": 61930,
+      "from": "2179 pages 9-11 — a study in pale yellow frames"
+    },
+    {
+      "name": "06-white-close.webp",
+      "sha256": "f4413b4c16e212e2e016740a541803ab56ddc02303c4ed31a0ba55b17cf83abd",
+      "bytes": 95626,
+      "from": "2179 pages 9-11 — stacked frames in close view"
+    },
+    {
+      "name": "07-coral-top.webp",
+      "sha256": "c20f6e509f1882229721b3d71d1bb92e1cf0803695df60113f32ad59e8f1b14f",
+      "bytes": 99160,
+      "from": "2179 pages 9-11 — the reef form from above"
+    },
+    {
+      "name": "08-coral-low.webp",
+      "sha256": "87779991a79773bb8bbd1d5242198ac3de65f41c68f1bdd4e20b15354872d861",
+      "bytes": 62916,
+      "from": "2179 pages 9-11 — the reef seen from a low angle"
+    },
+    {
+      "name": "09-reinforced-a.webp",
+      "sha256": "44073e3be1164a45db109cb51c7e28c3c1ba9ab5a58d22a500fef881d90ba059",
+      "bytes": 153146,
+      "from": "2179 pages 9-11 — the softened structure braced with strips"
+    },
+    {
+      "name": "10-reinforced-b.webp",
+      "sha256": "a3b7a7a6d6b1ec3e7798ada3d1b073631fcfb8b6bd2ae29ef304eae8d4130251",
+      "bytes": 114836,
+      "from": "2179 pages 9-11 — the reinforced coral under blue light"
+    }
+  ]
+}
