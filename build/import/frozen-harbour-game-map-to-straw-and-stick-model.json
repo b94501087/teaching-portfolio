@@ -56,6 +56,12 @@
       "sha256": "42752a93ddbb3a32dca08858480ed68a66b2c0447c482410de812f67e4b6cdbf",
       "bytes": 31230,
       "from": "9caf page 13 — side view"
+    },
+    {
+      "name": "10-process-photos.webp",
+      "sha256": "d588d47578cd0037d300d292d6d42d392f29dde2e8d220470e8c52acfc905c5b",
+      "bytes": 92224,
+      "from": "restored reference image (process photos)"
     }
   ]
 }
