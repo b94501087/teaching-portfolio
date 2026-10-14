@@ -1,0 +1,29 @@
+{
+  "project": "Wandering Rhapsody",
+  "dest": "assets/board/wandering-rhapsody-future-arcade-street-model",
+  "note": "w738u restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-street-maps.webp",
+      "sha256": "836f5eee886d93a962722cbce891688f7c250550f3e33dac29210e2fbdb14179",
+      "bytes": 44510,
+      "from": "restored reference image (street maps)"
+    },
+    {
+      "name": "11-facade-drawing-and-scene-photo.webp",
+      "sha256": "cefb56a83ce774fc2f0f43299efc0cf3dc3c5a4d5d042a8d6ab849343dcc77cd",
+      "bytes": 47288,
+      "from": "restored reference image (facade drawing and scene photo)"
+    },
+    {
+      "name": "12-scene-photos-and-drawings.webp",
+      "sha256": "26c0e5b6711ea4c4c2aa1b94518c13c84ea57897e418bc20d7ee1e64e014010e",
+      "bytes": 60074,
+      "from": "restored reference image (scene photos and drawings)"
+    }
+  ],
+  "delete": [
+    "assets/board/wandering-rhapsody-future-arcade-street-model/07-street-model-detail-a.webp",
+    "assets/board/wandering-rhapsody-future-arcade-street-model/08-street-model-detail-b.webp"
+  ]
+}
