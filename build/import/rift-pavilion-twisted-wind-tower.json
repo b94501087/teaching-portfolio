@@ -44,6 +44,24 @@
       "sha256": "fdec6983f6b29132efed7d3574dbbb100a0550aee4ba3b8673a61b526f1e983d",
       "bytes": 34738,
       "from": "ca16 page 6 — site model views"
+    },
+    {
+      "name": "09-site-photo-and-map.webp",
+      "sha256": "d9f88b0ffe4b5badac8ffdd7cf01f14e08eb554f2967af1b19ea8160127f88cb",
+      "bytes": 32572,
+      "from": "restored reference image (site photo and map)"
+    },
+    {
+      "name": "10-concept-references.webp",
+      "sha256": "2e271117fb8b90c23d18d84bfba9f1d85a9f590b78a97a457656004cd61dd7b4",
+      "bytes": 49902,
+      "from": "restored reference image (concept references)"
+    },
+    {
+      "name": "11-plaza-aerial-render.webp",
+      "sha256": "71d90313750b901f0df8ef00e489d393cc12b2c048f4e7e02604e94d11decfc8",
+      "bytes": 49568,
+      "from": "restored reference image (plaza aerial render)"
     }
   ]
 }
