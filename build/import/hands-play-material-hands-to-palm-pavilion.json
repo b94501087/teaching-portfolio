@@ -1,0 +1,67 @@
+{
+  "project": "Hands Play",
+  "dest": "assets/board/hands-play-material-hands-to-palm-pavilion",
+  "note": "Portfolio 250b pages 11-12 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, photographs of hands and arm, handwritten notes on the sketch page, pavilion label.",
+  "files": [
+    {
+      "name": "01-palm-pavilion.webp",
+      "sha256": "f2c62d4f8b6c14a2bc1847fd8a339f8289c75a762c63e088001182a15b7b9aa0",
+      "bytes": 34452,
+      "from": "250b pages 11-12 — the palm pavilion"
+    },
+    {
+      "name": "02-hand-sketches.webp",
+      "sha256": "df2609662b682699eadd43ec6cec74170e8648aa50c159707993791d62a55238",
+      "bytes": 39602,
+      "from": "250b pages 11-12 — sketches of hand forms"
+    },
+    {
+      "name": "03-cardboard-hand.webp",
+      "sha256": "defe9bcbcfe6c0272a0bb7858790592de1b7258f69efa858960d9a65f5091229",
+      "bytes": 15688,
+      "from": "250b pages 11-12 — the cardboard hand"
+    },
+    {
+      "name": "04-wire-hand.webp",
+      "sha256": "60d5e2ad7564abe23cb6e44d81eac7ffc0f778018fb7f27a7d7d8296797deaa3",
+      "bytes": 32668,
+      "from": "250b pages 11-12 — the wire hand"
+    },
+    {
+      "name": "05-toothpick-hand.webp",
+      "sha256": "fceb63f6cfea9b48bca7e0dc2b2a14f118c08edd056772cf8ad4b84674d84307",
+      "bytes": 34618,
+      "from": "250b pages 11-12 — the toothpick hand"
+    },
+    {
+      "name": "06-plasticine-hand.webp",
+      "sha256": "ce553a20e875a6a22b6d4e535be90d737e4579a3a87e4699a2a85024d94d3495",
+      "bytes": 10582,
+      "from": "250b pages 11-12 — the plasticine hand"
+    },
+    {
+      "name": "07-clay-shelter-a.webp",
+      "sha256": "db27591a5cf488a3c785b8ec644fee327fb1cbbbd890bd98072baee4a2592316",
+      "bytes": 39630,
+      "from": "250b pages 11-12 — a clay shelter"
+    },
+    {
+      "name": "08-clay-shelter-b.webp",
+      "sha256": "8943935aa276e73b0504b4986d6c3c0e780e837a1e89081933eb89f4a58a358b",
+      "bytes": 38566,
+      "from": "250b pages 11-12 — a figure under the clay palm"
+    },
+    {
+      "name": "09-clay-shelter-c.webp",
+      "sha256": "eb164e237c6fd714e09e7c3e524fe8d62b3f7f62fa8c1cff940f50d469e339fe",
+      "bytes": 36250,
+      "from": "250b pages 11-12 — the clay shelter from another side"
+    },
+    {
+      "name": "10-pavilion-side.webp",
+      "sha256": "3dfa9bd77595bf45bb31f2f69866cb1cf7d1a5eeaddcf80db7d81a0c434b1873",
+      "bytes": 37562,
+      "from": "250b pages 11-12 — the pavilion from the side"
+    }
+  ]
+}
