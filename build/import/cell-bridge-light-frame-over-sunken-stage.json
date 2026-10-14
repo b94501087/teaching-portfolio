@@ -50,6 +50,18 @@
       "sha256": "50552574ad68b66d1d2b73ca499354da16d13914d10e2be83de8db93ef3ba12e",
       "bytes": 22868,
       "from": "7c9f page 6 — long frame"
+    },
+    {
+      "name": "09-high-line-site-photo.webp",
+      "sha256": "20fd8e194351ee7c9c63ef068266241de1c8a219edc3c0e2706fabcb256f8d03",
+      "bytes": 12596,
+      "from": "restored reference image (high line site photo)"
+    },
+    {
+      "name": "10-making-on-the-mat.webp",
+      "sha256": "df8893d0149b6c5b5b58d84dd0190dabc6e5809677100ab5f8c045342d638f88",
+      "bytes": 49816,
+      "from": "restored reference image (making on the mat)"
     }
   ]
 }
