@@ -1,0 +1,16 @@
+{
+  "project": "Piano Key Tower",
+  "dest": "assets/board/piano-key-tower-stacked-note-box-skyscraper",
+  "note": "w738f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-making-process-photos.webp",
+      "sha256": "73b22886d59b17b064d360fe4f602f3722278b353df29d2b3d71eb46da6fde25",
+      "bytes": 36812,
+      "from": "restored reference image (making process photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/piano-key-tower-stacked-note-box-skyscraper/10-detail-right.webp"
+  ]
+}
