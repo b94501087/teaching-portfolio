@@ -1,0 +1,19 @@
+{
+  "project": "Building a Prison",
+  "dest": "assets/board/building-a-prison-reframing-privacy",
+  "note": "w735 restore of reference posters/stills per user rule.",
+  "files": [
+    {
+      "name": "09-film-stills.webp",
+      "sha256": "e355c0449e71c42fcaf7bb587379f4f48bb25c65ba7569a1f5b24f9673f26728",
+      "bytes": 27824,
+      "from": "restored reference image (film stills)"
+    },
+    {
+      "name": "10-reference-stills.webp",
+      "sha256": "a581a65b494e43cdfcb8d9e4894361f550cef1dc11f08db1ffa3b304e5406338",
+      "bytes": 67816,
+      "from": "restored reference image (reference stills)"
+    }
+  ]
+}
