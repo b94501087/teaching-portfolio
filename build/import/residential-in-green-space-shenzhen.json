@@ -56,6 +56,12 @@
       "sha256": "28e97b5696a26836f986b21af84781400d59272d338591f184c403814364098b",
       "bytes": 42742,
       "from": "page 13 — vertical greening model, x 39–50 %, y 63–100 %"
+    },
+    {
+      "name": "10-site-and-users.webp",
+      "sha256": "ab99a380e512364bd7963415e3d1d50a1e9514a83796e8d93d870cfe25c1bef4",
+      "bytes": 227920,
+      "from": "restored reference image (site and users)"
     }
   ]
 }
