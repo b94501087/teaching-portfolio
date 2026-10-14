@@ -34,12 +34,6 @@
       "from": "page 4 — four detail blocks with plans, x 0–42 %, y 3–100 %"
     },
     {
-      "name": "06-superimposed-volumes.webp",
-      "sha256": "311b2ed20a0bd78caa64c90c572624cf6135db9e773400c966037469ee6b2c82",
-      "bytes": 91056,
-      "from": "page 4 — superimposed volumes, x 73–100 %, y 8–97 %"
-    },
-    {
       "name": "07-timber-joints.webp",
       "sha256": "0af35c7d03e2ff7cc9310982509c6af24f77574d2548814b4fb7e3478c8c3282",
       "bytes": 185406,
@@ -62,6 +56,12 @@
       "sha256": "cb90ade9eed7e13c248542ead1bf58c425d94d6aeb24b05cf2b1d4857a6b8084",
       "bytes": 44862,
       "from": "page 2 — light and shadow models, x 44–100 %, y 51–67 %"
+    },
+    {
+      "name": "11-site-and-behaviour-analysis.webp",
+      "sha256": "23b68bbbff65c51cb32392a9aa1e01ab8b72af53fa6d507b17e69cc7cbc3a933",
+      "bytes": 160412,
+      "from": "restored reference image (site and behaviour analysis)"
     }
   ]
 }

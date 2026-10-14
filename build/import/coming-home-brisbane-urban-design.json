@@ -22,12 +22,6 @@
       "from": "page 7 — district condition maps, x 41–73.5 %, y 74–100 %"
     },
     {
-      "name": "04-proposed-activities.webp",
-      "sha256": "a7bf7e15163c78ce3f2a6ae0b0583f503e1b6141e7c81d880966fddfe08cffaf",
-      "bytes": 69192,
-      "from": "page 11 — proposed activities diagram, x 0–48 %, y 3–48 %"
-    },
-    {
       "name": "05-planning-process.webp",
       "sha256": "085a2a4e5a74e9e8546a7871977d0e3553aa7b35e5b3f844c0a96e80a1447821",
       "bytes": 48562,
@@ -62,6 +56,12 @@
       "sha256": "506c9dc8d4ca0690545bae2bc5c706305c9110b0c30933091c824dea6f0192a9",
       "bytes": 33670,
       "from": "page 9 — A-A section, x 0–55 %, y 81.5–100 %"
+    },
+    {
+      "name": "11-community-research.webp",
+      "sha256": "19a61525846ac1dd6b6e755293f2559523855c24ad53da2b26ac25f911680d5d",
+      "bytes": 150094,
+      "from": "restored reference image (community research)"
     }
   ]
 }

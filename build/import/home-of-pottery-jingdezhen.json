@@ -56,6 +56,12 @@
       "sha256": "cfa5e1797e52e7eb18094ba35ce959e3176d668f3fd7ffd7580bc5856a5997a6",
       "bytes": 23894,
       "from": "page 21 — study model photos, x 49–100 %, y 0–30 %"
+    },
+    {
+      "name": "11-location-and-user-groups.webp",
+      "sha256": "739187be6995bd2a1332188c5d5357f5016a352bf5a5ce87ed4239a64c4c95f8",
+      "bytes": 201598,
+      "from": "restored reference image (location and user groups)"
     }
   ]
 }

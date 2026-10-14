@@ -50,6 +50,18 @@
       "sha256": "345f6ca6c690cc13a71b91401535efdf21656eea0c0fe585656677eb4f5655d8",
       "bytes": 76974,
       "from": "page 16 — experience area axonometric, x 53.5–98.5 %, y 15–59.5 %"
+    },
+    {
+      "name": "09-site-map-and-street-views.webp",
+      "sha256": "b4e87e88a4a2acbd36b1ee1b2e1110b200b927fe4173956cffce3c106ab91178",
+      "bytes": 161370,
+      "from": "restored reference image (site map and street views)"
+    },
+    {
+      "name": "10-medicine-research-and-survey.webp",
+      "sha256": "741772821e26d044142bf0f66310a3526ce5b4ebf93dc4eb345aa5318352c40e",
+      "bytes": 189016,
+      "from": "restored reference image (medicine research and survey)"
     }
   ]
 }
