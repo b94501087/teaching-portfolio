@@ -1,0 +1,37 @@
+{
+  "project": "Electronic World",
+  "dest": "assets/board/electronic-world-circuit-board-city-model",
+  "note": "Portfolio f825 pages 8-9 cropped to 5 images, WebP q88 (PIL). Not used: title lettering, explanatory text, graphics card photo with brand lettering, third-party circuit and city images, component line drawing.",
+  "files": [
+    {
+      "name": "01-city-model.webp",
+      "sha256": "1e67ecee132ce278644e30e08574812e702ded5bc246c739b8b522b6e7853307",
+      "bytes": 85488,
+      "from": "f825 pages 8-9 — the city model with its core towers"
+    },
+    {
+      "name": "02-circuit-sketch.webp",
+      "sha256": "2b7956596c9128f27b37d979405531e1e219fcee75adec14967750ffa521dff4",
+      "bytes": 131398,
+      "from": "f825 pages 8-9 — a sketch traced from a circuit board"
+    },
+    {
+      "name": "03-top-view.webp",
+      "sha256": "49579201017baace6b542d532e09b31d36b9f61c79f4cc7e93a1548b4820db67",
+      "bytes": 61616,
+      "from": "f825 pages 8-9 — the model seen from above"
+    },
+    {
+      "name": "04-side-view.webp",
+      "sha256": "41cb2a21b8bec9ef3031c7df2dd0c62eb6bc59824266bfc37bb69a5cec850bb2",
+      "bytes": 78028,
+      "from": "f825 pages 8-9 — a side view of the city model"
+    },
+    {
+      "name": "05-core-towers.webp",
+      "sha256": "6404b6b5b084357b6fb33d920685dba0261578ac6e31d51fd701d38c838f2d9a",
+      "bytes": 48884,
+      "from": "f825 pages 8-9 — core towers with stacked levels"
+    }
+  ]
+}
