@@ -38,6 +38,30 @@
       "sha256": "b5e6810e3867b821c5a77b118565cd0661caf53fa56bcf13cbe6d8d261219d98",
       "bytes": 74292,
       "from": "ba4c page 13 — connector masterplan"
+    },
+    {
+      "name": "08-lo-wu-district-site-photos.webp",
+      "sha256": "99a18947a0f81e1746219c17caf34268b4134bf612ec37c6bf4d315f80140f9c",
+      "bytes": 196478,
+      "from": "restored reference image (lo wu district site photos)"
+    },
+    {
+      "name": "09-site-challenges.webp",
+      "sha256": "8a4931a6c59b9044879113bc2a6bd02b2b178a0f3b80b8950968e0e834c4ecb2",
+      "bytes": 130638,
+      "from": "restored reference image (site challenges)"
+    },
+    {
+      "name": "10-speculative-spatial-scenario.webp",
+      "sha256": "f093bb3557c61c72b0c04e8c9eb775ebcbfec2aae0d8efb86e36b8c00a5a25c3",
+      "bytes": 48476,
+      "from": "restored reference image (speculative spatial scenario)"
+    },
+    {
+      "name": "11-connector-in-urban-context.webp",
+      "sha256": "78f9fade06a9fc91fa58d97d7810168a49a5d3cf383776d3a562487c0a91a3c5",
+      "bytes": 169048,
+      "from": "restored reference image (connector in urban context)"
     }
   ]
 }
