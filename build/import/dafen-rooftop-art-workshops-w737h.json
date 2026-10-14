@@ -1,0 +1,19 @@
+{
+  "project": "Rooftop Art Workshops in Dafen",
+  "dest": "assets/board/dafen-rooftop-art-workshops",
+  "note": "w737h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-shenzhen-skylines-and-culture-map.webp",
+      "sha256": "f56238401f10b52a7a176da78dd4d62453e84add442c7de2232e5a669b0cfb3a",
+      "bytes": 234414,
+      "from": "restored reference image (shenzhen skylines and culture map)"
+    },
+    {
+      "name": "10-art-ecosystem-research.webp",
+      "sha256": "5524adaf2f2bdf188b23cc9ef8d0b2a79a5ae0c30801e629a318222891bb094c",
+      "bytes": 214188,
+      "from": "restored reference image (art ecosystem research)"
+    }
+  ]
+}

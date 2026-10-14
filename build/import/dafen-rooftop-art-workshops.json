@@ -50,6 +50,18 @@
       "sha256": "aea0ac36985db76876b0dbb47143b070bf17959a1612aacc34a5e87e475b323d",
       "bytes": 117880,
       "from": "page 6 — the workshops suspended above the rooftops, x 0–50 %, y 72–100 %"
+    },
+    {
+      "name": "09-shenzhen-skylines-and-culture-map.webp",
+      "sha256": "f56238401f10b52a7a176da78dd4d62453e84add442c7de2232e5a669b0cfb3a",
+      "bytes": 234414,
+      "from": "restored reference image (shenzhen skylines and culture map)"
+    },
+    {
+      "name": "10-art-ecosystem-research.webp",
+      "sha256": "5524adaf2f2bdf188b23cc9ef8d0b2a79a5ae0c30801e629a318222891bb094c",
+      "bytes": 214188,
+      "from": "restored reference image (art ecosystem research)"
     }
   ]
 }
