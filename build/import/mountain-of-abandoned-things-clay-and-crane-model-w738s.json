@@ -1,0 +1,22 @@
+{
+  "project": "Mountain of Abandoned Things",
+  "dest": "assets/board/mountain-of-abandoned-things-clay-and-crane-model",
+  "note": "w738s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-game-screenshots.webp",
+      "sha256": "bb7daa44025838d941387b46139d26b7501e7391d04d6095cf0456dc3077f2f7",
+      "bytes": 90366,
+      "from": "restored reference image (game screenshots)"
+    },
+    {
+      "name": "11-shaping-clay-by-hand.webp",
+      "sha256": "a6277178a67ca5c1db9ae301516b15e636fb624d0dfead2ec25d97803b7250ce",
+      "bytes": 17246,
+      "from": "restored reference image (shaping clay by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/mountain-of-abandoned-things-clay-and-crane-model/07-box-detail.webp"
+  ]
+}
