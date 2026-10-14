@@ -40,12 +40,6 @@
       "from": "ce4a page 2 — storyline sketch"
     },
     {
-      "name": "07-process.webp",
-      "sha256": "74ed4a3d20297e17fe7d6ce2d34b159e11c74e2105ac3f1737c664e19f600da9",
-      "bytes": 11200,
-      "from": "ce4a page 3 — process"
-    },
-    {
       "name": "08-detail-a.webp",
       "sha256": "9c445c20f6fc7761b83c08acefc0b353b7ae68564b92fb745c750b1c48ca4fe1",
       "bytes": 63066,
@@ -62,6 +56,12 @@
       "sha256": "8ce73a41360cc1b978a39d93773e6407489415f373d3cba8e8dd8d0d2f10de21",
       "bytes": 73398,
       "from": "ce4a page 3 — detail c"
+    },
+    {
+      "name": "11-process-photos.webp",
+      "sha256": "aae60eb52015b448633dff4c033202ccc93be549e52590a8ffffa7e62efe74b7",
+      "bytes": 58800,
+      "from": "restored reference image (process photos)"
     }
   ]
 }

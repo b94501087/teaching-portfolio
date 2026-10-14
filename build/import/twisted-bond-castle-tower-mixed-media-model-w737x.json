@@ -1,0 +1,16 @@
+{
+  "project": "A Twisted Bond in Two Castles",
+  "dest": "assets/board/twisted-bond-castle-tower-mixed-media-model",
+  "note": "w737x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-process-photos.webp",
+      "sha256": "aae60eb52015b448633dff4c033202ccc93be549e52590a8ffffa7e62efe74b7",
+      "bytes": 58800,
+      "from": "restored reference image (process photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/twisted-bond-castle-tower-mixed-media-model/07-process.webp"
+  ]
+}
