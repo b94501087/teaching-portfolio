@@ -40,28 +40,28 @@
       "from": "47e5 page 12 — render"
     },
     {
-      "name": "07-figure-detail.webp",
-      "sha256": "e5d9ad9919f2b079165cb0577c82ddba6d807ae6e0265d7c8a8e45ef91913c26",
-      "bytes": 6516,
-      "from": "47e5 page 13 — figure detail"
-    },
-    {
       "name": "08-side-view.webp",
       "sha256": "05e28140d42f6b27a87d1d03ea2a17ed02481db9b00e940946621aa28584479a",
       "bytes": 17986,
       "from": "47e5 page 13 — side view"
     },
     {
-      "name": "09-small-view.webp",
-      "sha256": "cb00f5566aa972ce26221eb5f151a90ac549ebe609ecab344cd5603d70107198",
-      "bytes": 13138,
-      "from": "47e5 page 13 — small view"
-    },
-    {
       "name": "10-close-ups.webp",
       "sha256": "5cf4edf35a60b2a53d4987e5b4f8c200d4689eb3bd434f762fdea73aae65f2f6",
       "bytes": 7550,
       "from": "47e5 page 13 — close ups"
+    },
+    {
+      "name": "11-poem-painting.webp",
+      "sha256": "46ec50528f018e77975a1d4c4f4442b6210f5ce25023520d6905a9582c4a04de",
+      "bytes": 62616,
+      "from": "restored reference image (poem painting)"
+    },
+    {
+      "name": "12-building-the-tower.webp",
+      "sha256": "b3a09b8fd50cd5f200606eb6412e3552c3c689200a6a798f21dee4effbbf158c",
+      "bytes": 36940,
+      "from": "restored reference image (building the tower)"
     }
   ]
 }

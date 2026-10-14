@@ -52,16 +52,16 @@
       "from": "47e5 page 7 — close up"
     },
     {
-      "name": "09-cave-view.webp",
-      "sha256": "482b0f0f565dd8b0701b5758790dd4bb3e1cd4cbd6f7264ad0d372b0d2ff9457",
-      "bytes": 89820,
-      "from": "47e5 page 7 — cave view"
-    },
-    {
       "name": "10-inner-space.webp",
       "sha256": "1afacf650b5abd6c1de972fa6fefd51f4aa4ac6d303cb2eb03b043fd438df896",
       "bytes": 123370,
       "from": "47e5 page 7 — inner space"
+    },
+    {
+      "name": "11-gluing-the-fibre.webp",
+      "sha256": "7665efe7cd3c49d18e54f44e98b2ea915920e9f3ade763ece2e4dce69a2a53e6",
+      "bytes": 12968,
+      "from": "restored reference image (gluing the fibre)"
     }
   ]
 }

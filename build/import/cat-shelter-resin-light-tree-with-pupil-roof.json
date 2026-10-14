@@ -56,6 +56,12 @@
       "sha256": "2a475fcded6eadb87f1e8e29f4bf87e71bf8ff341795e734130497ce54f63991",
       "bytes": 19988,
       "from": "47e5 page 9 — light colours"
+    },
+    {
+      "name": "10-making-process-photos.webp",
+      "sha256": "f1ef530c9675c5c13466e23bda67dc9432003219dccf6c527bcfd15974a8c4e5",
+      "bytes": 73044,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }

@@ -56,6 +56,12 @@
       "sha256": "445a83ee0f15ca342fe875ad5b0fe6a73a0363282b3cd2d8f2a893bc4800ccff",
       "bytes": 200394,
       "from": "47e5 page 4 — interior view"
+    },
+    {
+      "name": "10-making-process-photos.webp",
+      "sha256": "0299acaec36bf3d861d56f47d05dede735cc83c6528c59dd5522cbd466dae91a",
+      "bytes": 46624,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }
