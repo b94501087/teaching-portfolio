@@ -10,12 +10,6 @@
       "from": "9caf page 3 — tower model"
     },
     {
-      "name": "02-series-poster.webp",
-      "sha256": "024576cf54d3207248fcb9041848f326785656dc43ff0e1ce91b62e663569a4b",
-      "bytes": 20294,
-      "from": "9caf page 2 — series poster"
-    },
-    {
       "name": "03-stills-a.webp",
       "sha256": "e601bdb9d2793232ddba54e969c7115caa833c463407263424565cdc43001b6f",
       "bytes": 23140,
@@ -56,6 +50,12 @@
       "sha256": "c139b651c1781aba53b642399a4c5ae0b50aeca26322561ab7dfe1228f7673e9",
       "bytes": 102438,
       "from": "9caf page 3 — top detail"
+    },
+    {
+      "name": "10-series-poster.webp",
+      "sha256": "d5c8a0320aa4ffc2ea4ace0e02d75e27adfd2e8a0ad856cbe9a78fe1329225a6",
+      "bytes": 26052,
+      "from": "restored reference image (series poster)"
     }
   ]
 }

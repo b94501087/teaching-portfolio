@@ -1,0 +1,16 @@
+{
+  "project": "A Tower of Two Cities",
+  "dest": "assets/board/two-cities-tower-from-animated-series-to-space",
+  "note": "w737y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-series-poster.webp",
+      "sha256": "d5c8a0320aa4ffc2ea4ace0e02d75e27adfd2e8a0ad856cbe9a78fe1329225a6",
+      "bytes": 26052,
+      "from": "restored reference image (series poster)"
+    }
+  ],
+  "delete": [
+    "assets/board/two-cities-tower-from-animated-series-to-space/02-series-poster.webp"
+  ]
+}
