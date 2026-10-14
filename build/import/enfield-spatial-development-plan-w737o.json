@@ -1,0 +1,43 @@
+{
+  "project": "Spatial Development Plan for Enfield",
+  "dest": "assets/board/enfield-spatial-development-plan",
+  "note": "w737o restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-borough-deprivation-map.webp",
+      "sha256": "0cc17e1c8aa5965703ec8bdf0384b5206cde04fc7e969d0c8f4ca8a17f1776eb",
+      "bytes": 204052,
+      "from": "restored reference image (borough deprivation map)"
+    },
+    {
+      "name": "07-site-selection-photos.webp",
+      "sha256": "26952106e18713eeffbfb28bfce58a7199ba7685a2c6564694ac4c6b926cdc14",
+      "bytes": 79124,
+      "from": "restored reference image (site selection photos)"
+    },
+    {
+      "name": "08-affordable-housing-analysis.webp",
+      "sha256": "39f6a9d1d44cd4aad9b6f5717eace6a41e83ec50909aa2673cef8b050e44e045",
+      "bytes": 115870,
+      "from": "restored reference image (affordable housing analysis)"
+    },
+    {
+      "name": "09-housing-allocation-and-targets.webp",
+      "sha256": "f45d86e2bb383eb9f8e28cdd350c77e4a1318924d7e8804ad2946ec71260931b",
+      "bytes": 191342,
+      "from": "restored reference image (housing allocation and targets)"
+    },
+    {
+      "name": "10-fifteen-minute-city-before-after.webp",
+      "sha256": "8c680f3871568b9e97fd5d534cc4a335996e42966db903cb18ab10452d4590b1",
+      "bytes": 110580,
+      "from": "restored reference image (fifteen minute city before after)"
+    },
+    {
+      "name": "11-vauban-case-study.webp",
+      "sha256": "293a96568fcffe04d1c326907f29d565a1269299897b502cf52b582477f7154c",
+      "bytes": 223770,
+      "from": "restored reference image (vauban case study)"
+    }
+  ]
+}
