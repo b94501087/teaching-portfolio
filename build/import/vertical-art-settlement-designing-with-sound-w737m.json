@@ -1,0 +1,25 @@
+{
+  "project": "Vertical Art Settlement: Designing with Sound",
+  "dest": "assets/board/vertical-art-settlement-designing-with-sound",
+  "note": "w737m restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-city-map-and-behaviour-analysis.webp",
+      "sha256": "e02c73f8419c7bdeae5e2a4df021e0c1ce4e1c9f4570ad0275564c097c7fa88c",
+      "bytes": 165654,
+      "from": "restored reference image (city map and behaviour analysis)"
+    },
+    {
+      "name": "09-sound-sketch-and-photo-strip.webp",
+      "sha256": "0574df270e07ad3654af53b6191b65a2e576196c520bd0cb37a7496102248800",
+      "bytes": 24116,
+      "from": "restored reference image (sound sketch and photo strip)"
+    },
+    {
+      "name": "10-circle-photo-collage.webp",
+      "sha256": "606db6a2bb6c68880de3eb53328feb00edea59bfea2cd85acb2792de1b0d3ee8",
+      "bytes": 111842,
+      "from": "restored reference image (circle photo collage)"
+    }
+  ]
+}
