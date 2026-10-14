@@ -1,0 +1,13 @@
+{
+  "project": "Vase of the City",
+  "dest": "assets/board/vase-of-the-city-parametric-3d-printed-planter",
+  "note": "w738a restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-street-tower-photo.webp",
+      "sha256": "85851cea3fd069cb4e7ef0e52e9cc663289ed2d978031afb280af64227398a0a",
+      "bytes": 24312,
+      "from": "restored reference image (street tower photo)"
+    }
+  ]
+}

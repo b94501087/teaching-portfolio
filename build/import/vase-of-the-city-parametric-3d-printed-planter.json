@@ -56,6 +56,12 @@
       "sha256": "e5d7d1616559f837c32f17f504863e6ed4c67f49c00e79ec8fee3a6481c08d30",
       "bytes": 7592,
       "from": "ddbe page 12 — top view"
+    },
+    {
+      "name": "10-street-tower-photo.webp",
+      "sha256": "85851cea3fd069cb4e7ef0e52e9cc663289ed2d978031afb280af64227398a0a",
+      "bytes": 24312,
+      "from": "restored reference image (street tower photo)"
     }
   ]
 }
