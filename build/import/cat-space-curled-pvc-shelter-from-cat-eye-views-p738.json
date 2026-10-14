@@ -1,0 +1,22 @@
+{
+  "project": "Cat Space",
+  "dest": "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views",
+  "note": "p738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-cat-eye-room-photos.webp",
+      "sha256": "940e56d882e4c1198fe98ffd25471a7a8cf0629d05185a0d4e43764db3be1be9",
+      "bytes": 53732,
+      "from": "restored reference image (cat eye room photos)"
+    },
+    {
+      "name": "11-making-by-hand.webp",
+      "sha256": "f793019795f4f10f6b77d206432db4add94729e32115cde12c301d07b841728b",
+      "bytes": 84604,
+      "from": "restored reference image (making by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/cat-space-curled-pvc-shelter-from-cat-eye-views/06-tube-paths.webp"
+  ]
+}
