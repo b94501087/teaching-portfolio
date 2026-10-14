@@ -1,0 +1,31 @@
+{
+  "project": "An Experiment in Empathy",
+  "dest": "assets/board/an-experiment-in-empathy",
+  "note": "w737g2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-title-collage.webp",
+      "sha256": "6875cf778b410a7c9b171e2d118b218f03729998f8b7c2cd676dbc4a4bbd2193",
+      "bytes": 181640,
+      "from": "restored reference image (title collage)"
+    },
+    {
+      "name": "07-background-and-inspiration.webp",
+      "sha256": "011128b05f16dfce693425800afc86134082283f19b5e7b54ddb2e6ec96009d4",
+      "bytes": 115328,
+      "from": "restored reference image (background and inspiration)"
+    },
+    {
+      "name": "08-design-strategy.webp",
+      "sha256": "66c5ab73afa49ddbc97fe2d5d40cda0bc53f6215b358561483697b0d05651d95",
+      "bytes": 147736,
+      "from": "restored reference image (design strategy)"
+    },
+    {
+      "name": "09-common-sense-circle.webp",
+      "sha256": "025005ffd51d6f9d60349a011f07844417b447c09a441511159a6746cde1737e",
+      "bytes": 158906,
+      "from": "restored reference image (common sense circle)"
+    }
+  ]
+}
