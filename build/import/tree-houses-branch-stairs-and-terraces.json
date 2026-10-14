@@ -1,0 +1,49 @@
+{
+  "project": "Tree Houses",
+  "dest": "assets/board/tree-houses-branch-stairs-and-terraces",
+  "note": "Portfolio e9e5 pages 16-17 cropped to 7 images, WebP q88 (PIL). Not used: title lettering, explanatory text, third-party tree house photograph, process photo with a brush, model data.",
+  "files": [
+    {
+      "name": "01-tree-house-model.webp",
+      "sha256": "5e64e0a62bb9490cb5c71b6c340ac0b2c1ab4beb5ae7f120d3ff7acdc6fa464e",
+      "bytes": 211780,
+      "from": "e9e5 pages 16-17 — the tree house model of branches and terraces"
+    },
+    {
+      "name": "02-elevation-drawing.webp",
+      "sha256": "f3ec3134b8a7dd308ef5145357264dbce635d41de62c6cc1377772c279446e7d",
+      "bytes": 297674,
+      "from": "e9e5 pages 16-17 — the elevation drawing"
+    },
+    {
+      "name": "03-concept-platforms.webp",
+      "sha256": "ba2c3dc242dc192a5a0a2ac8b4034c7f9467198b06556c606c52c8fefc70e122",
+      "bytes": 81852,
+      "from": "e9e5 pages 16-17 — platforms set among trunks"
+    },
+    {
+      "name": "04-concept-stairs.webp",
+      "sha256": "656146bdf106465ae52f4144f7c96de94a17e943692e6e5a68dfe5f52bed7f7c",
+      "bytes": 52426,
+      "from": "e9e5 pages 16-17 — stairs following the branches"
+    },
+    {
+      "name": "05-concept-joints.webp",
+      "sha256": "2ec98675c63dce03166e3e4e4f32f8ead7ea28c3a264a0b01f5f761c01e512ed",
+      "bytes": 63566,
+      "from": "e9e5 pages 16-17 — joints between branches and platforms"
+    },
+    {
+      "name": "06-terraces.webp",
+      "sha256": "db71cfe2f7fc471b1f1913a27f7f7ca40557f3a09bfc314eba35fae570f92b61",
+      "bytes": 136816,
+      "from": "e9e5 pages 16-17 — terraces among the branches"
+    },
+    {
+      "name": "07-branch-frame.webp",
+      "sha256": "b1f0a2dbba3e1add04246377cde4523d37a961ba91bc0c9430d1cb8579db0ce2",
+      "bytes": 27252,
+      "from": "e9e5 pages 16-17 — branches bound into a frame"
+    }
+  ]
+}
