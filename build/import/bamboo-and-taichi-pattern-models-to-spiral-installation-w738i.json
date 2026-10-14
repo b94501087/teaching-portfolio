@@ -1,0 +1,19 @@
+{
+  "project": "Bamboo and Taichi",
+  "dest": "assets/board/bamboo-and-taichi-pattern-models-to-spiral-installation",
+  "note": "w738i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-painting-references.webp",
+      "sha256": "d722588e67f4ab93eae30e33c52a83ee70ff1ce1e507016a9cc40c554491edc8",
+      "bytes": 35722,
+      "from": "restored reference image (painting references)"
+    },
+    {
+      "name": "09-wearing-the-model.webp",
+      "sha256": "09fdcfa1e5b9bfed3737e80787699373dba8ff840ed3520e57d5891509be56e6",
+      "bytes": 43650,
+      "from": "restored reference image (wearing the model)"
+    }
+  ]
+}
