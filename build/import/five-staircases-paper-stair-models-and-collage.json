@@ -1,0 +1,37 @@
+{
+  "project": "Five Staircases",
+  "dest": "assets/board/five-staircases-paper-stair-models-and-collage",
+  "note": "Portfolio 724f pages 9-10 cropped to 5 images, WebP q88 (PIL). Not used: title lettering, explanatory text, film stills and screenshot collages, film-strip frames, final model view with cut-out character figures and a person photo, model data.",
+  "files": [
+    {
+      "name": "01-stair-cluster.webp",
+      "sha256": "921fe9ce3d1b8323f97b944330024ad546cb7ac2335c1d48dfc0f8d86d3e38d3",
+      "bytes": 39922,
+      "from": "724f pages 9-10 — paper staircases combined into a cluster"
+    },
+    {
+      "name": "02-stair-drawing.webp",
+      "sha256": "f64a84e723b32ad4864c4ead996da67ff9b60b398969a646fbcd749325fccfc4",
+      "bytes": 858080,
+      "from": "724f pages 9-10 — a web of interwoven staircases"
+    },
+    {
+      "name": "03-stair-models-a.webp",
+      "sha256": "591b4be15b1809407bbacec8f1155e2577136b234c9ae51d50bcc7adb6964d3e",
+      "bytes": 18822,
+      "from": "724f pages 9-10 — straight and folding flights"
+    },
+    {
+      "name": "04-stair-models-b.webp",
+      "sha256": "6b61a9baa7d4168fff662cdc693e423f37fbc9f624472b85f4d4e042d0b1bd4c",
+      "bytes": 17590,
+      "from": "724f pages 9-10 — stairs turning around walls"
+    },
+    {
+      "name": "05-stair-collage.webp",
+      "sha256": "ca8b0bcb6b83828464164da1069185153f674437bced167d692260978e5c408f",
+      "bytes": 29176,
+      "from": "724f pages 9-10 — stairs joined into one composition"
+    }
+  ]
+}
