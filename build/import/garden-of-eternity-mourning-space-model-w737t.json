@@ -1,0 +1,13 @@
+{
+  "project": "The Garden of Eternity",
+  "dest": "assets/board/garden-of-eternity-mourning-space-model",
+  "note": "w737t restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-installation-in-the-tree.webp",
+      "sha256": "1ef095dd40173ef4d38fad877def0493368b4c28d764df99954dadd8b0969181",
+      "bytes": 45386,
+      "from": "restored reference image (installation in the tree)"
+    }
+  ]
+}
