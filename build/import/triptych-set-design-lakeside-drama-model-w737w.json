@@ -1,0 +1,13 @@
+{
+  "project": "A Triptych Set for a Lakeside Drama",
+  "dest": "assets/board/triptych-set-design-lakeside-drama-model",
+  "note": "w737w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-production-photos.webp",
+      "sha256": "9003ec51442d8289a0bfa1b923b7c14d1929924103fc6b162c589da5c6485f25",
+      "bytes": 82360,
+      "from": "restored reference image (production photos)"
+    }
+  ]
+}

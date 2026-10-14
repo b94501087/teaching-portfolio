@@ -56,6 +56,12 @@
       "sha256": "7e0dca5392493e50f6ed64998d42ade71f2ca18163bfe343d8dbeb8dda10d24f",
       "bytes": 40008,
       "from": "1390 page 12 — bedroom"
+    },
+    {
+      "name": "10-production-photos.webp",
+      "sha256": "9003ec51442d8289a0bfa1b923b7c14d1929924103fc6b162c589da5c6485f25",
+      "bytes": 82360,
+      "from": "restored reference image (production photos)"
     }
   ]
 }
