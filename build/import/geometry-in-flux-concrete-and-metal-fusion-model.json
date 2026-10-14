@@ -50,6 +50,18 @@
       "sha256": "83a9a83a40d89b4cf0df71d4acb8c75443fc91b9185f54d4e7d8eba6b8a8391c",
       "bytes": 23062,
       "from": "b66d page 5 — drum view"
+    },
+    {
+      "name": "09-precedent-photos.webp",
+      "sha256": "5a10a58d3802fbeea4c63516448cdedf208daa742f1e868aa0020cc2edc2504c",
+      "bytes": 32214,
+      "from": "restored reference image (precedent photos)"
+    },
+    {
+      "name": "10-making-process.webp",
+      "sha256": "3faf41ba7b2f8b40fc0c49a0f241465a7d691c8eed8420cfe519268b6075fde1",
+      "bytes": 31254,
+      "from": "restored reference image (making process)"
     }
   ]
 }
