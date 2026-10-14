@@ -1,0 +1,13 @@
+{
+  "project": "Living Layers, Watching Streets",
+  "dest": "assets/board/living-layers-watching-streets-staggered-plate-model",
+  "note": "w737y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-book-and-author.webp",
+      "sha256": "091181c5521ab3cc80325db21c5a85aa4c0ca6f535669cfcd5f2838dac7d8479",
+      "bytes": 34088,
+      "from": "restored reference image (book and author)"
+    }
+  ]
+}

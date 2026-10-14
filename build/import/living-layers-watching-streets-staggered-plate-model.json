@@ -50,6 +50,12 @@
       "sha256": "773f7a7afb1837a159104fb337fa19f600576da0f4e8a7590761e37dc0a1c074",
       "bytes": 21646,
       "from": "915e page 10 — side close"
+    },
+    {
+      "name": "09-book-and-author.webp",
+      "sha256": "091181c5521ab3cc80325db21c5a85aa4c0ca6f535669cfcd5f2838dac7d8479",
+      "bytes": 34088,
+      "from": "restored reference image (book and author)"
     }
   ]
 }
