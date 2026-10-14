@@ -1,0 +1,30 @@
+{
+  "project": "Stone Game",
+  "dest": "assets/board/stone-game-roadside-pebbles-climbing-timber-frames",
+  "note": "w738w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-pebbles-in-hand.webp",
+      "sha256": "53b4a7eb10918a80138ab2146a8a25099f743c19c3f91dc9826d7d2f3ca30bca",
+      "bytes": 13198,
+      "from": "restored reference image (pebbles in hand)"
+    },
+    {
+      "name": "12-naming-the-stones.webp",
+      "sha256": "1386cc72efd0ddbccf49f8ee0dc58821cf20489992f2573a3b9a3e5b1f9f695d",
+      "bytes": 7218,
+      "from": "restored reference image (naming the stones)"
+    },
+    {
+      "name": "13-building-frames-by-hand.webp",
+      "sha256": "c719e3066a1e70ff2a7d4e88bedebc280e2331fe32cf731733da303ebff44b0e",
+      "bytes": 10774,
+      "from": "restored reference image (building frames by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/03-triangle-frame-line-drawing.webp",
+    "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/07-arch-line-drawing.webp",
+    "assets/board/stone-game-roadside-pebbles-climbing-timber-frames/09-frames-and-stones-low-view.webp"
+  ]
+}
