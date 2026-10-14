@@ -22,12 +22,6 @@
       "from": "page 5 — strategy diagrams, x 0–100 %, y 0–38 %"
     },
     {
-      "name": "04-section-model.webp",
-      "sha256": "bc4e80c051d54a3d1784556df75149a7eb0b095b4bb7a210bb4c34414fd6c412",
-      "bytes": 143532,
-      "from": "page 6 — section model, x 33.5–100 %, y 0–100 %"
-    },
-    {
       "name": "05-design-process.webp",
       "sha256": "768195f024ebf4f535e91b4cdd9e8f98f658fdbfffe280c2b2b60ce93968cf4b",
       "bytes": 51520,
@@ -62,6 +56,12 @@
       "sha256": "f16a986469e69596cb866a292e24de2a9a05e9e402b7eebfce31ab44b820f195",
       "bytes": 87274,
       "from": "restored reference image (site problems)"
+    },
+    {
+      "name": "11-taobao-village-map.webp",
+      "sha256": "73f4b77a8c80762810df971c291f1083d0ca440aa181ca6fde9b021a97a416e2",
+      "bytes": 41102,
+      "from": "restored reference image (taobao village map)"
     }
   ]
 }

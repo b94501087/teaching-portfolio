@@ -1,0 +1,16 @@
+{
+  "project": "E-commerce City Complex",
+  "dest": "assets/board/e-commerce-city-complex",
+  "note": "w737d restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-taobao-village-map.webp",
+      "sha256": "73f4b77a8c80762810df971c291f1083d0ca440aa181ca6fde9b021a97a416e2",
+      "bytes": 41102,
+      "from": "restored reference image (taobao village map)"
+    }
+  ],
+  "delete": [
+    "assets/board/e-commerce-city-complex/04-section-model.webp"
+  ]
+}
