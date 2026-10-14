@@ -1,0 +1,13 @@
+{
+  "project": "Accessible Recreation Campus",
+  "dest": "assets/board/accessible-recreation-campus-red-ramps-and-stick-frames",
+  "note": "w738g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-reference-photos.webp",
+      "sha256": "2954c5a9543ba63c4bd29b125402a2723cbda11a723a38669cd3c3882b6c45a2",
+      "bytes": 103442,
+      "from": "restored reference image (reference photos)"
+    }
+  ]
+}
