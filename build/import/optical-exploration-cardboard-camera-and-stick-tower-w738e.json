@@ -1,0 +1,19 @@
+{
+  "project": "Optical Exploration",
+  "dest": "assets/board/optical-exploration-cardboard-camera-and-stick-tower",
+  "note": "w738e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-imaging-principles-engraving.webp",
+      "sha256": "71afe18dbf284f45d1e106c3a6b91e39a3a3c3faae4f0f9cd8b64426d3029feb",
+      "bytes": 17892,
+      "from": "restored reference image (imaging principles engraving)"
+    },
+    {
+      "name": "09-camera-tests-with-people.webp",
+      "sha256": "06fa927c9d94851efec581a6be62729220593809681c77528be8ac360a187ee8",
+      "bytes": 31632,
+      "from": "restored reference image (camera tests with people)"
+    }
+  ]
+}
