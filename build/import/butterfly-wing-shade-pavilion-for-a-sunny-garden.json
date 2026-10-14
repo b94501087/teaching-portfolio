@@ -56,6 +56,12 @@
       "sha256": "265049183e2aa6de1b09b8e98aa2332022f59ae2e08ddf28c64e3dc46cf09cfe",
       "bytes": 77418,
       "from": "30d4 pages 11-11 — early site model views"
+    },
+    {
+      "name": "10-site-photos.webp",
+      "sha256": "caf2c8bda054b26e34cd0d2b3db9501428ec37920b5464cd388b94da333a163f",
+      "bytes": 37286,
+      "from": "restored reference image (site photos)"
     }
   ]
 }
