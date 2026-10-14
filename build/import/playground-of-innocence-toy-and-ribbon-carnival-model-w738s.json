@@ -1,0 +1,25 @@
+{
+  "project": "Playground of Innocence",
+  "dest": "assets/board/playground-of-innocence-toy-and-ribbon-carnival-model",
+  "note": "w738s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-reference-sketch-sheet.webp",
+      "sha256": "c3d526e8445a0982ca7674c9e6cb397e29a5b9ca6072cc2b118e235b235cf54d",
+      "bytes": 75784,
+      "from": "restored reference image (reference sketch sheet)"
+    },
+    {
+      "name": "09-toy-packaging.webp",
+      "sha256": "3dc579e90249a8843140fe2c8430e79febc98b632c6ad71563eab4e1bcabc607",
+      "bytes": 36470,
+      "from": "restored reference image (toy packaging)"
+    },
+    {
+      "name": "10-shaping-by-hand.webp",
+      "sha256": "ceffefa345995986ce19b1f7aa4adec046b1f49d0ddfed0995270f9194d9da86",
+      "bytes": 16038,
+      "from": "restored reference image (shaping by hand)"
+    }
+  ]
+}
