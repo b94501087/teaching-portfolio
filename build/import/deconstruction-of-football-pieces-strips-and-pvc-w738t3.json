@@ -1,0 +1,37 @@
+{
+  "project": "Deconstruction of Football",
+  "dest": "assets/board/deconstruction-of-football-pieces-strips-and-pvc",
+  "note": "w738t3 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-architect-and-building.webp",
+      "sha256": "bf73b7fd8c5066bbdff85e42e652cc285d869e30512a6467595f4d263bbea1f9",
+      "bytes": 13562,
+      "from": "restored reference image (architect and building)"
+    },
+    {
+      "name": "12-logo-printed-ball-view.webp",
+      "sha256": "0198850f5614122971f63ceb88f952b90cb8bd323c935fde102efaec657b14bf",
+      "bytes": 65524,
+      "from": "restored reference image (logo printed ball view)"
+    },
+    {
+      "name": "13-cutting-the-football-by-hand.webp",
+      "sha256": "38acca3ae4da0d53d4ddd31b4b2b7f5ea2970d85bda81c8346517baa7bdc6dae",
+      "bytes": 53310,
+      "from": "restored reference image (cutting the football by hand)"
+    },
+    {
+      "name": "14-bending-pvc-by-hand.webp",
+      "sha256": "e0d743f285199154d2ec39cf11961026531254666309ba9c19bc4eb2a4169321",
+      "bytes": 45322,
+      "from": "restored reference image (bending pvc by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/deconstruction-of-football-pieces-strips-and-pvc/04-football-piece-arches.webp",
+    "assets/board/deconstruction-of-football-pieces-strips-and-pvc/07-wooden-strip-canopy.webp",
+    "assets/board/deconstruction-of-football-pieces-strips-and-pvc/09-pvc-curved-shells.webp",
+    "assets/board/deconstruction-of-football-pieces-strips-and-pvc/10-pvc-model-wide-view.webp"
+  ]
+}
