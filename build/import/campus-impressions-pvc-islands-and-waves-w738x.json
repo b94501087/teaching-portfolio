@@ -1,0 +1,16 @@
+{
+  "project": "Campus Impressions",
+  "dest": "assets/board/campus-impressions-pvc-islands-and-waves",
+  "note": "w738x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-sea-photo.webp",
+      "sha256": "8bfd6a4407b5a4d7af5761c145fee6eed05125252308a0c3c24a72f24ab04fd4",
+      "bytes": 5600,
+      "from": "restored reference image (sea photo)"
+    }
+  ],
+  "delete": [
+    "assets/board/campus-impressions-pvc-islands-and-waves/06-cut-pieces-view-b.webp"
+  ]
+}
