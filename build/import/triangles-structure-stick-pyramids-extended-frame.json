@@ -1,0 +1,67 @@
+{
+  "project": "Triangles Structure",
+  "dest": "assets/board/triangles-structure-stick-pyramids-extended-frame",
+  "note": "Portfolio e9e5 pages 10-12 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, photographs of plants and food used as texture sources, second stroke study, middle pyramid photos, model data.",
+  "files": [
+    {
+      "name": "01-triangle-tower.webp",
+      "sha256": "2f75a2e977fcb7cea87997a9f2b844c08cab57be42b14218aefbc96d21bf7c6e",
+      "bytes": 257110,
+      "from": "e9e5 pages 10-12 — the towering frame of triangles"
+    },
+    {
+      "name": "02-triangle-net.webp",
+      "sha256": "5915a640653b6dbe4877189530cb81a930a0b887851d5b3ee9cc1545a8742f89",
+      "bytes": 201366,
+      "from": "e9e5 pages 10-12 — a net of triangles"
+    },
+    {
+      "name": "03-stroke-study.webp",
+      "sha256": "2bc565be9c721942ae092b10ec42b7c2890b4fca778dd43e0949b037021d5f26",
+      "bytes": 61372,
+      "from": "e9e5 pages 10-12 — a study of strokes from a texture"
+    },
+    {
+      "name": "04-pyramid-a.webp",
+      "sha256": "046514e00b2f59393f56c07cc57d9d6c3adf65990d148d529d1ed0800be4aae9",
+      "bytes": 14022,
+      "from": "e9e5 pages 10-12 — a stick pyramid"
+    },
+    {
+      "name": "05-pyramid-b.webp",
+      "sha256": "ee3b281b4fd1fb6c5a9db0812216a790b47177db1a3b0bad95bc29a837867c16",
+      "bytes": 15036,
+      "from": "e9e5 pages 10-12 — a taller pyramid"
+    },
+    {
+      "name": "06-pyramid-cluster.webp",
+      "sha256": "087968f14be4b20f734c7edb9a4c91e34622260dbdffd675e4eca9b34623e037",
+      "bytes": 34502,
+      "from": "e9e5 pages 10-12 — a cluster of units"
+    },
+    {
+      "name": "07-extended-frame.webp",
+      "sha256": "50f2af40e7b3f8cc2dee8f04e0ad46134f910f0d803ada129000d8fc86a8c9fe",
+      "bytes": 205686,
+      "from": "e9e5 pages 10-12 — the extended frame"
+    },
+    {
+      "name": "08-frame-detail.webp",
+      "sha256": "b1c751f09431ed380873549d893cee31645f5fe9b53c3d459977533487d843a2",
+      "bytes": 262442,
+      "from": "e9e5 pages 10-12 — a detail of the frame"
+    },
+    {
+      "name": "09-frame-low.webp",
+      "sha256": "7aa8e6956f87a16e2a1e5cf35c1a04c7fae665a7485284310076b06e717e4a0d",
+      "bytes": 68554,
+      "from": "e9e5 pages 10-12 — a low view under the frame"
+    },
+    {
+      "name": "10-tree-under-frame.webp",
+      "sha256": "2bb2fc5014ffacce97548a694d05ce52654495c2517d840275a4834fbfaab97d",
+      "bytes": 152752,
+      "from": "e9e5 pages 10-12 — a tree beneath the frame"
+    }
+  ]
+}
