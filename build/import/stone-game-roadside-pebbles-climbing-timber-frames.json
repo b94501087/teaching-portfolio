@@ -16,12 +16,6 @@
       "from": "1d03 pages 4-5 — a concept drawing of gathering stones"
     },
     {
-      "name": "03-triangle-frame-line-drawing.webp",
-      "sha256": "f3c0b74d8a569c993a5384544b3727759a75c13c51fa5b91567abcd565f038f3",
-      "bytes": 48804,
-      "from": "1d03 pages 4-5 — a line drawing of the frames"
-    },
-    {
       "name": "04-triangular-timber-frames.webp",
       "sha256": "56f7b626b5a8b0ce852b400aad99ec0817ea2e09f81caf976bc2f1fed92ddb71",
       "bytes": 31274,
@@ -40,28 +34,34 @@
       "from": "1d03 pages 4-5 — three stone pillars"
     },
     {
-      "name": "07-arch-line-drawing.webp",
-      "sha256": "484202095c63072ea09567bc9381d2b1ba06e1aa26aef07c7b0537c44b139957",
-      "bytes": 18732,
-      "from": "1d03 pages 4-5 — a line drawing of the arch"
-    },
-    {
       "name": "08-climbing-stones-top-view.webp",
       "sha256": "ca3aee11239990f5923317970370b10796a81750d48fad830d6d02114fe462b9",
       "bytes": 152284,
       "from": "1d03 pages 4-5 — climbing stones from above"
     },
     {
-      "name": "09-frames-and-stones-low-view.webp",
-      "sha256": "0472410915dbc6f1515970b52371d1bf3ae7668e348c95c7500c98607fff3aad",
-      "bytes": 24518,
-      "from": "1d03 pages 4-5 — frames and stones from a low angle"
-    },
-    {
       "name": "10-arch-front-view.webp",
       "sha256": "1e526f2c5557a44240e7f303e98e6c12af4dec5d5ee7255e94632910ba86c173",
       "bytes": 32216,
       "from": "1d03 pages 4-5 — the arch from the front"
+    },
+    {
+      "name": "11-pebbles-in-hand.webp",
+      "sha256": "53b4a7eb10918a80138ab2146a8a25099f743c19c3f91dc9826d7d2f3ca30bca",
+      "bytes": 13198,
+      "from": "restored reference image (pebbles in hand)"
+    },
+    {
+      "name": "12-naming-the-stones.webp",
+      "sha256": "1386cc72efd0ddbccf49f8ee0dc58821cf20489992f2573a3b9a3e5b1f9f695d",
+      "bytes": 7218,
+      "from": "restored reference image (naming the stones)"
+    },
+    {
+      "name": "13-building-frames-by-hand.webp",
+      "sha256": "c719e3066a1e70ff2a7d4e88bedebc280e2331fe32cf731733da303ebff44b0e",
+      "bytes": 10774,
+      "from": "restored reference image (building frames by hand)"
     }
   ]
 }
