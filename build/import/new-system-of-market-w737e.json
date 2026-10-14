@@ -1,0 +1,19 @@
+{
+  "project": "The New System of Market",
+  "dest": "assets/board/new-system-of-market",
+  "note": "w737e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-alone-together-collage.webp",
+      "sha256": "6f77347e1b941ff769b807f3520ee0661f97734cfc11c886065e82911f6b7f9a",
+      "bytes": 126396,
+      "from": "restored reference image (alone together collage)"
+    },
+    {
+      "name": "10-food-market-decay.webp",
+      "sha256": "46af25d7a87bb786c0155b56342416f389ce589ab19cbb61319308284de1e9e0",
+      "bytes": 255758,
+      "from": "restored reference image (food market decay)"
+    }
+  ]
+}

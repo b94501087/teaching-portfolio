@@ -50,6 +50,18 @@
       "sha256": "44afdab37ee99aa855c33a0bf14758155b036b05c5bfd0e93672460a7e39e7da",
       "bytes": 148488,
       "from": "page 5 — exploded view, x 0–19.5 %, y 0–100 %"
+    },
+    {
+      "name": "09-alone-together-collage.webp",
+      "sha256": "6f77347e1b941ff769b807f3520ee0661f97734cfc11c886065e82911f6b7f9a",
+      "bytes": 126396,
+      "from": "restored reference image (alone together collage)"
+    },
+    {
+      "name": "10-food-market-decay.webp",
+      "sha256": "46af25d7a87bb786c0155b56342416f389ce589ab19cbb61319308284de1e9e0",
+      "bytes": 255758,
+      "from": "restored reference image (food market decay)"
     }
   ]
 }
