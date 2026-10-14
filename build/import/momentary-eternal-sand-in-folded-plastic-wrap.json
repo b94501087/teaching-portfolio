@@ -10,18 +10,6 @@
       "from": "72cd pages 9-10 — sand and plastic wrap units"
     },
     {
-      "name": "02-plaster-sand-cast.webp",
-      "sha256": "9661a1ef117c0ca7caeb15a0b69cc31d0d96c93244c95fc4a5fe71be5e9e13a6",
-      "bytes": 33232,
-      "from": "72cd pages 9-10 — a plaster and sand cast"
-    },
-    {
-      "name": "03-stacked-plaster-casts.webp",
-      "sha256": "b6376e32fa4894fdea6cac5d21469c45be46daf88bbb4d025adddc384f475b0e",
-      "bytes": 26098,
-      "from": "72cd pages 9-10 — stacked plaster casts"
-    },
-    {
       "name": "04-epoxy-sand-studies.webp",
       "sha256": "0d64b37727cb576c4c40fb2efffee717ac783b96a0ab00c11df354f0b752a392",
       "bytes": 83010,
@@ -52,16 +40,28 @@
       "from": "72cd pages 9-10 — connected units"
     },
     {
-      "name": "09-connected-units-b.webp",
-      "sha256": "ba864e4badfc2fbd03c1e6feefbaa947ef0c8732be37f4287b642feebf3d903f",
-      "bytes": 25072,
-      "from": "72cd pages 9-10 — the cluster from above"
-    },
-    {
       "name": "10-units-in-balance.webp",
       "sha256": "2b93d41430c35e6cad6ab1985ce81e4c6f16c6a8fe9dd509c72424d0831ffb30",
       "bytes": 45922,
       "from": "72cd pages 9-10 — units in balance"
+    },
+    {
+      "name": "11-childhood-beach-photo.webp",
+      "sha256": "a4c3e9fade0e11fa8fdb2ce3f12027ebccbc4031b1b3f8db1034a9c627c8a407",
+      "bytes": 4898,
+      "from": "restored reference image (childhood beach photo)"
+    },
+    {
+      "name": "12-sand-in-tray-by-hand.webp",
+      "sha256": "b5246d5577f04168bc0a0dcd216547e74a1cd998e38d0be0d0768ab3c127f7ab",
+      "bytes": 57286,
+      "from": "restored reference image (sand in tray by hand)"
+    },
+    {
+      "name": "13-making-units-by-hand.webp",
+      "sha256": "eee6dad25aed00c94663811c0dbfa1de2752385a3888b02ca1a5d63aa9906b89",
+      "bytes": 45376,
+      "from": "restored reference image (making units by hand)"
     }
   ]
 }

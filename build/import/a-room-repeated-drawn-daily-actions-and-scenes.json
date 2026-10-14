@@ -40,12 +40,6 @@
       "from": "72cd pages 12-13 — the windowsill scene"
     },
     {
-      "name": "07-clothes-scene.webp",
-      "sha256": "fc4b3b2808b030a046dd072203f65b2e2629ea365a7a2d8b18defc1cf6d93ba7",
-      "bytes": 54456,
-      "from": "72cd pages 12-13 — the clothes scene"
-    },
-    {
       "name": "08-quilt-scene.webp",
       "sha256": "4f5805b97d8ea01fd105b923930679f4df67bec3408835ed29d6caeaea0f7b1e",
       "bytes": 60824,
@@ -56,6 +50,18 @@
       "sha256": "dfb45a84de2a4fbda69e13d685884a69676e13d18764af54e37f7101c0a8f35a",
       "bytes": 54822,
       "from": "72cd pages 12-13 — the hair tie scene"
+    },
+    {
+      "name": "10-daily-objects-photos.webp",
+      "sha256": "5e33090045460f7e070ed4cefe4dadfd47296f1e1f9e913190bdf43ad61ae8a3",
+      "bytes": 141930,
+      "from": "restored reference image (daily objects photos)"
+    },
+    {
+      "name": "11-tying-hair-drawing.webp",
+      "sha256": "999e57d8d4421ecac97790149352c7960b41583a4d338f3ab4fca28570351471",
+      "bytes": 47102,
+      "from": "restored reference image (tying hair drawing)"
     }
   ]
 }

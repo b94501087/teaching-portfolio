@@ -40,12 +40,6 @@
       "from": "72cd pages 7-8 — the frame from the front"
     },
     {
-      "name": "07-frame-angle-b.webp",
-      "sha256": "73408fa408b5e914415055ed42105b5ec0ce1f0a4cbb9f0013e762402b827eaf",
-      "bytes": 15488,
-      "from": "72cd pages 7-8 — the frame from the side"
-    },
-    {
       "name": "08-frame-side-view.webp",
       "sha256": "0dd2df35297e26d892599be4cd890ffcead802889bce4b35a0633201f143d815",
       "bytes": 50876,
@@ -58,10 +52,16 @@
       "from": "72cd pages 7-8 — a low view"
     },
     {
-      "name": "10-frame-low-view-b.webp",
-      "sha256": "c1317565dc4648626f795dfbd7ed0ab2b34ef77e38fc6910f8014314acb47df3",
-      "bytes": 16128,
-      "from": "72cd pages 7-8 — another low view"
+      "name": "11-artistic-research-sheet.webp",
+      "sha256": "9e81a98ee8fc298d9608d64149cf908b574656e3521c5b602407332bea3cf020",
+      "bytes": 141066,
+      "from": "restored reference image (artistic research sheet)"
+    },
+    {
+      "name": "12-painted-figure-collage.webp",
+      "sha256": "efadae6849329b335db988b22a889a87cb71be47a55f1680e3c169628e4fcae6",
+      "bytes": 47694,
+      "from": "restored reference image (painted figure collage)"
     }
   ]
 }
