@@ -1,0 +1,55 @@
+{
+  "project": "Triangulated Chain",
+  "dest": "assets/board/triangulated-chain-image-net-to-stick-and-card-model",
+  "note": "Portfolio 2fb5 page 4 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, handwritten process diagram, background map, size caption.",
+  "files": [
+    {
+      "name": "01-triangle-chain.webp",
+      "sha256": "b049623d1f5492f16fa35d7fe36d47b43c29c3ce6e47c1df5243e48acda4463d",
+      "bytes": 116412,
+      "from": "2fb5 page 4 — the finished chain of faceted cells"
+    },
+    {
+      "name": "02-image-to-net.webp",
+      "sha256": "f32721bf6b85fc2365fc7071b6da43a77ab4fc675957aa393e2a26e9d3cbf587",
+      "bytes": 118872,
+      "from": "2fb5 page 4 — the photograph and its triangle net"
+    },
+    {
+      "name": "03-net-drawing.webp",
+      "sha256": "3180bf78a88a7b9c16c5d33a28ae0c08844911679c9b715a76bbe9542510a1bb",
+      "bytes": 75102,
+      "from": "2fb5 page 4 — the net redrawn on a sheet"
+    },
+    {
+      "name": "04-first-pieces.webp",
+      "sha256": "09b98ccbfacf7fb71213c685da96f431d7cabde77c35a8ecb58352ba68b8fb6f",
+      "bytes": 23268,
+      "from": "2fb5 page 4 — the first built pieces"
+    },
+    {
+      "name": "05-joined-piece.webp",
+      "sha256": "cec2dc9e011347218c5eb2253171babda52bbcb6a3aa3614a20cd82251a4b027",
+      "bytes": 38138,
+      "from": "2fb5 page 4 — pieces joined into a cluster"
+    },
+    {
+      "name": "06-chain-study.webp",
+      "sha256": "99bc3d1070bd59e46bdaf21819fbbd56146048e8a3f70afe63423e56b81c0ae6",
+      "bytes": 37248,
+      "from": "2fb5 page 4 — an early chain study"
+    },
+    {
+      "name": "07-piece-shadow.webp",
+      "sha256": "cbbba68bfbae25827f8b67c335240d04c1cc9693b590ebce22e2beae82495cd7",
+      "bytes": 25828,
+      "from": "2fb5 page 4 — a cell and its shadow"
+    },
+    {
+      "name": "08-piece-low.webp",
+      "sha256": "0eaaa07a8100e1bfe087e5e5fbdeba617714ef75aecc7eaf77f546ca2c7c877b",
+      "bytes": 16236,
+      "from": "2fb5 page 4 — a cell from a low angle"
+    }
+  ]
+}
