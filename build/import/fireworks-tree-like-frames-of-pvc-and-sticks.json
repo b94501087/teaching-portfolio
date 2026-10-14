@@ -1,0 +1,55 @@
+{
+  "project": "Fireworks",
+  "dest": "assets/board/fireworks-tree-like-frames-of-pvc-and-sticks",
+  "note": "Portfolio e3bb page 7 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, firework photograph, process photos with hands.",
+  "files": [
+    {
+      "name": "01-ordered-model.webp",
+      "sha256": "bbb0cee0cc1508394d462f2f1c9fadc17e4b9767528f7c6961bcbad0ec01b07d",
+      "bytes": 38604,
+      "from": "e3bb page 7 — the first model of a treelike frame"
+    },
+    {
+      "name": "02-colour-model.webp",
+      "sha256": "07e4392284512f27bce51750e394705a3d943d1cdee7bfc594d5a3ccf233be9b",
+      "bytes": 64536,
+      "from": "e3bb page 7 — the final colourful model"
+    },
+    {
+      "name": "03-chaotic-model.webp",
+      "sha256": "8158be2448fd65db4f3eafcaa51443c7ec9e5b6dfd8a5d4591cf5a6f8a18122b",
+      "bytes": 30364,
+      "from": "e3bb page 7 — a drawing of the chaotic version"
+    },
+    {
+      "name": "04-colour-detail-a.webp",
+      "sha256": "fcc98140a8a0f3c3a2e9e64664cd6e7115b78106c6c8dc0ffb5cd23df0d050b7",
+      "bytes": 26154,
+      "from": "e3bb page 7 — coloured film among the sticks"
+    },
+    {
+      "name": "05-colour-detail-b.webp",
+      "sha256": "6e79f8f59e357f5ccbdf6c52bb80b7f0b28fc75dd6988ca704836e67c0f004ce",
+      "bytes": 46466,
+      "from": "e3bb page 7 — the burst seen from above"
+    },
+    {
+      "name": "06-white-detail-a.webp",
+      "sha256": "bd0d2a2d4a8d67411df0e6656d5d96686049e91b28e3b51bd8b8e894d03b1354",
+      "bytes": 19906,
+      "from": "e3bb page 7 — rooms among the branches"
+    },
+    {
+      "name": "07-white-detail-b.webp",
+      "sha256": "02443c7b397281bfdc0bbb7d389e18a19907f245ff42d98e9a61534300dd01ff",
+      "bytes": 14946,
+      "from": "e3bb page 7 — a close view of the rooms"
+    },
+    {
+      "name": "08-early-study.webp",
+      "sha256": "45559e396616243d874cf5fe6c4ba31cf2711de28bd92506c3c3f64a81a2f513",
+      "bytes": 7048,
+      "from": "e3bb page 7 — an early study of sticks and boxes"
+    }
+  ]
+}
