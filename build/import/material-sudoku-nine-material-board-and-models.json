@@ -1,0 +1,37 @@
+{
+  "project": "Material Sudoku",
+  "dest": "assets/board/material-sudoku-nine-material-board-and-models",
+  "note": "Portfolio 2fb5 page 5 cropped to 5 images, WebP q88 (PIL). Not used: title lettering and material captions, side labels on the board.",
+  "files": [
+    {
+      "name": "01-material-row-a.webp",
+      "sha256": "45bf035e268d936154cfd0606c870bf7ee2787bce10f90eea45932130cf050ac",
+      "bytes": 51104,
+      "from": "2fb5 page 5 — three material models in a row"
+    },
+    {
+      "name": "02-material-row-b.webp",
+      "sha256": "53f21936c75bc47dc2f0d47facef1576dd1fd2a262f110cd8f6856487e5b2dbe",
+      "bytes": 47684,
+      "from": "2fb5 page 5 — stick, brick and resin models"
+    },
+    {
+      "name": "03-material-row-c.webp",
+      "sha256": "9024e2ed9790bb2200beb3c627b133cd7e2923474ba23e146a9e2b0530b6a6dd",
+      "bytes": 41072,
+      "from": "2fb5 page 5 — cotton, cement and wire models"
+    },
+    {
+      "name": "04-board-drawings.webp",
+      "sha256": "8f981c792c4658b6b943a3bf601800330f68a4374bcc1f71f8110d30b25962aa",
+      "bytes": 255306,
+      "from": "2fb5 page 5 — the board of nine texture drawings"
+    },
+    {
+      "name": "05-material-swatches.webp",
+      "sha256": "681264f15498adf6e76d54273e554090ee745344d3a23c73a76e87f6c087b0e8",
+      "bytes": 28034,
+      "from": "2fb5 page 5 — material samples gathered for study"
+    }
+  ]
+}
