@@ -1,0 +1,13 @@
+{
+  "project": "Cat Shelter",
+  "dest": "assets/board/cat-shelter-resin-light-tree-with-pupil-roof",
+  "note": "w738b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-making-process-photos.webp",
+      "sha256": "f1ef530c9675c5c13466e23bda67dc9432003219dccf6c527bcfd15974a8c4e5",
+      "bytes": 73044,
+      "from": "restored reference image (making process photos)"
+    }
+  ]
+}
