@@ -1,0 +1,37 @@
+{
+  "project": "Wandering Between Black and White",
+  "dest": "assets/board/wandering-between-black-and-white-white-spiral-stairs",
+  "note": "Portfolio 2a0b pages 8-9 cropped to 5 images, WebP q88 (PIL). Not used: title lettering, explanatory text, film poster and film stills with actors, web link.",
+  "files": [
+    {
+      "name": "01-spiral-stairs.webp",
+      "sha256": "0db83f193151c5978f7c9b2a8e398e9af3f0947ad3a023040a60e717dd5a852b",
+      "bytes": 78520,
+      "from": "2a0b pages 8-9 — spiral stairs looping across the base"
+    },
+    {
+      "name": "02-stair-loop.webp",
+      "sha256": "47f00fc348966bd90506a10b3e0bc9950be3e203ce8835ac361d282924b54051",
+      "bytes": 86686,
+      "from": "2a0b pages 8-9 — the stair loop seen from above"
+    },
+    {
+      "name": "03-stair-figures.webp",
+      "sha256": "dea78f292e96b3eb3ae3b4711840605635d359b827cca338353c8a818e59c4b8",
+      "bytes": 82848,
+      "from": "2a0b pages 8-9 — figures climbing the floating flights"
+    },
+    {
+      "name": "04-stair-tower.webp",
+      "sha256": "848aa2b4888a77a0b05801900a01cf427ace064db35f9b85b2c91b322fab6ae1",
+      "bytes": 65318,
+      "from": "2a0b pages 8-9 — a tight spiral rising upward"
+    },
+    {
+      "name": "05-stair-detail.webp",
+      "sha256": "fd78f13bbdb54c3de1a536713abf2e5cc9048c12d246d3a322b0979fdc87de94",
+      "bytes": 52790,
+      "from": "2a0b pages 8-9 — shadows following the steps"
+    }
+  ]
+}
