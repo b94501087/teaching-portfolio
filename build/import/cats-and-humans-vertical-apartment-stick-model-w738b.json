@@ -1,0 +1,13 @@
+{
+  "project": "Cats and Humans: A Vertical Apartment",
+  "dest": "assets/board/cats-and-humans-vertical-apartment-stick-model",
+  "note": "w738b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-making-process-photos.webp",
+      "sha256": "0299acaec36bf3d861d56f47d05dede735cc83c6528c59dd5522cbd466dae91a",
+      "bytes": 46624,
+      "from": "restored reference image (making process photos)"
+    }
+  ]
+}
