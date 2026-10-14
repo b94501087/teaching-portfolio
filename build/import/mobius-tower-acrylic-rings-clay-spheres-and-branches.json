@@ -40,18 +40,6 @@
       "from": "1ab1 page 9-10 — renders of twisted rings"
     },
     {
-      "name": "07-spiral-render.webp",
-      "sha256": "c66d6cfd305bf92b593e26629543138d249d3be660da0343972b85498e6c8654",
-      "bytes": 19952,
-      "from": "1ab1 page 9-10 — a spiral ring render"
-    },
-    {
-      "name": "08-cast-ring-pieces.webp",
-      "sha256": "b47bc0d4e6ad855a2aae01312f32ad8f53137d64d61a1889c2bc8d780d629934",
-      "bytes": 15166,
-      "from": "1ab1 page 9-10 — cast ring pieces"
-    },
-    {
       "name": "09-branch-and-sphere-top.webp",
       "sha256": "a1f73896190e46be91e6918948014e0a8c544080501a01561a518986d10040ad",
       "bytes": 84060,
@@ -62,6 +50,18 @@
       "sha256": "7e43aa3b9b582fb744b855bce1cf2ad0b4d1de13315df7675f1ed9083dd63f93",
       "bytes": 82470,
       "from": "1ab1 page 9-10 — the tower seen from above"
+    },
+    {
+      "name": "11-collage-and-references.webp",
+      "sha256": "01c0b2cf70356c87ebbf1cf9f79b7b30fcb5a5515313db186f7f3a7eca2daffc",
+      "bytes": 314120,
+      "from": "restored reference image (collage and references)"
+    },
+    {
+      "name": "12-shaping-rings-by-hand.webp",
+      "sha256": "7d7af20d53d4b66b58727866f788296038484e08b9844cd197c79a57e3be82c6",
+      "bytes": 102324,
+      "from": "restored reference image (shaping rings by hand)"
     }
   ]
 }

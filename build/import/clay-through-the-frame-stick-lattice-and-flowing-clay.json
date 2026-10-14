@@ -16,12 +16,6 @@
       "from": "1ab1 page 2-4 — an s-curve lattice of sticks"
     },
     {
-      "name": "03-hourglass-frame.webp",
-      "sha256": "1ce6f47a675889988ee6985fb149095ae004274c365a202f8fb75c7ffb117897",
-      "bytes": 55660,
-      "from": "1ab1 page 2-4 — an hourglass lattice outline"
-    },
-    {
       "name": "04-stick-blocks.webp",
       "sha256": "79a1862ec0e3732df4241dda4ca6112c533b6c6680c35ccbc831ccff080bd954",
       "bytes": 13710,
@@ -52,16 +46,22 @@
       "from": "1ab1 page 2-4 — the model from the side"
     },
     {
-      "name": "09-inner-passage.webp",
-      "sha256": "30802b169909e6c92b74637f7af719c8e44ba739c89df1ae6aebc8e88443f965",
-      "bytes": 32498,
-      "from": "1ab1 page 2-4 — a lit inner passage"
-    },
-    {
       "name": "10-cave-view.webp",
       "sha256": "9e17e0f74bb3bff14d1b59888f2f5523e6dada6169c2ed119e757558fcc978e3",
       "bytes": 50442,
       "from": "1ab1 page 2-4 — looking through the clay cave"
+    },
+    {
+      "name": "11-architect-and-building-references.webp",
+      "sha256": "ffb16f1b5651483bfef08f2ebda048cc284e4a83349ea00d975c87ce16e78e18",
+      "bytes": 152120,
+      "from": "restored reference image (architect and building references)"
+    },
+    {
+      "name": "12-shaping-by-hand.webp",
+      "sha256": "63a48b40c18cceaa97fa0455f150913bc159814b21a78e5b1815331070d5826d",
+      "bytes": 130410,
+      "from": "restored reference image (shaping by hand)"
     }
   ]
 }
