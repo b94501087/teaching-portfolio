@@ -1,0 +1,19 @@
+{
+  "project": "Herbal Garden",
+  "dest": "assets/board/herbal-garden-medicine-gallery",
+  "note": "w737j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-site-map-and-street-views.webp",
+      "sha256": "b4e87e88a4a2acbd36b1ee1b2e1110b200b927fe4173956cffce3c106ab91178",
+      "bytes": 161370,
+      "from": "restored reference image (site map and street views)"
+    },
+    {
+      "name": "10-medicine-research-and-survey.webp",
+      "sha256": "741772821e26d044142bf0f66310a3526ce5b4ebf93dc4eb345aa5318352c40e",
+      "bytes": 189016,
+      "from": "restored reference image (medicine research and survey)"
+    }
+  ]
+}
