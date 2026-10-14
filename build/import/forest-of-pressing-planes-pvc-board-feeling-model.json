@@ -1,0 +1,61 @@
+{
+  "project": "Forest of Pressing Planes",
+  "dest": "assets/board/forest-of-pressing-planes-pvc-board-feeling-model",
+  "note": "Portfolio 9679 pages 7-9 cropped to 9 images, WebP q88 (PIL). Not used: map of a real city with city name, film still and museum photo used as inspiration, research text, caption with title, material and size.",
+  "files": [
+    {
+      "name": "01-planes-model.webp",
+      "sha256": "1a77c6195f216fdf2b74a1fcb0258799b510b588271e776ec59858c1c66813fb",
+      "bytes": 254194,
+      "from": "9679 pages 7-9 — the finished model of crowded planes"
+    },
+    {
+      "name": "02-abstract-drawing.webp",
+      "sha256": "25393e861ed80ecf342fc6dab57d669b85b0d79bee46cd12e1ac75d573344dae",
+      "bytes": 161562,
+      "from": "9679 pages 7-9 — the abstract line composition"
+    },
+    {
+      "name": "03-combined-drawing.webp",
+      "sha256": "7bf8c538f8d7525ca1db06307d7624e74007f8a61d1b5957b5974aabb660045e",
+      "bytes": 164502,
+      "from": "9679 pages 7-9 — two compositions combined"
+    },
+    {
+      "name": "04-square-grid.webp",
+      "sha256": "96077be08b0d656132d8e0070976799dcfcdeca9d0679489e2417f361a2417b5",
+      "bytes": 204960,
+      "from": "9679 pages 7-9 — the drawing cut into squares"
+    },
+    {
+      "name": "05-first-planes.webp",
+      "sha256": "ddf39454afd230e816ee9abe94eecdbf5aa131dc5a5bc6088452eb0262ba0ecd",
+      "bytes": 33696,
+      "from": "9679 pages 7-9 — an early stack of planes"
+    },
+    {
+      "name": "06-model-view-a.webp",
+      "sha256": "938bbc1f4c0c8314030d54de96c08765f04f66ce4d3d421809acde312008d10c",
+      "bytes": 93528,
+      "from": "9679 pages 7-9 — the model from one end"
+    },
+    {
+      "name": "07-model-view-b.webp",
+      "sha256": "8e9a88a1c5c8bd8c559bd667b3604d6e5f2374b980755ff5401317507f79f299",
+      "bytes": 111460,
+      "from": "9679 pages 7-9 — the model from the other end"
+    },
+    {
+      "name": "08-model-low-a.webp",
+      "sha256": "625564be205adc8feef150ba99838dca1812872b35b611d744d94c90c547c1b1",
+      "bytes": 88512,
+      "from": "9679 pages 7-9 — a low view of the planes"
+    },
+    {
+      "name": "09-model-low-b.webp",
+      "sha256": "67fb1c9a79c1123bbc1b70d291190cf2d653bed579cbccaccdc54cbd5d9283e8",
+      "bytes": 83784,
+      "from": "9679 pages 7-9 — a low view of the fins and arcs"
+    }
+  ]
+}
