@@ -1,0 +1,19 @@
+{
+  "project": "Scenery along the Road",
+  "dest": "assets/board/scenery-along-the-road-wooden-strip-canyon-model",
+  "note": "w738e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-travel-photo-and-mesh.webp",
+      "sha256": "ada1d9cc103913cea7666e219c1e8f90bb725921fa6d737d05852ab91aeec244",
+      "bytes": 59002,
+      "from": "restored reference image (travel photo and mesh)"
+    },
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "3caaea32abecf062cf6bf0b22f8b62763ba3f04744e1fa4f6593d67884a9b4a3",
+      "bytes": 100538,
+      "from": "restored reference image (making by hand)"
+    }
+  ]
+}
