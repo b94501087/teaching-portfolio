@@ -44,6 +44,18 @@
       "sha256": "e9ea290fc2cc9be92f210825fa2c9315af6eb717d31079b55f6c00d0333fb248",
       "bytes": 140016,
       "from": "b4db page 3 — wire loops close up"
+    },
+    {
+      "name": "08-basketball-patent-drawing.webp",
+      "sha256": "9b925828b9c261e1023627fb2e3fef1be08e390becc8e24d860e351e9d88f1ff",
+      "bytes": 95296,
+      "from": "restored reference image (basketball patent drawing)"
+    },
+    {
+      "name": "09-making-by-hand.webp",
+      "sha256": "7969cc15b0c445cf8f4acba818424deb5bf606de478eb714b87bcd921206ef5f",
+      "bytes": 37680,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }

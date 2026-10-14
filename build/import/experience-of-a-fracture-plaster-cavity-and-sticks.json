@@ -50,6 +50,12 @@
       "sha256": "7dcfff17322345449b6bb0c2102eae4cfbf9dce3ddfee09e9e194bc4ed054c40",
       "bytes": 117396,
       "from": "b4db page 2 — the model from above"
+    },
+    {
+      "name": "09-shaping-the-clay-by-hand.webp",
+      "sha256": "c4744db8cecf8ca6ad151ddd367815e0a09088e96031792ce89a8844391da086",
+      "bytes": 38584,
+      "from": "restored reference image (shaping the clay by hand)"
     }
   ]
 }
