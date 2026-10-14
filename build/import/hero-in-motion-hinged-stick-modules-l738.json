@@ -1,0 +1,19 @@
+{
+  "project": "Hero in Motion",
+  "dest": "assets/board/hero-in-motion-hinged-stick-modules",
+  "note": "l738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-motion-sketches-with-figure-stills.webp",
+      "sha256": "0632619f92ddd2258ad093210892b8e3d7b749aff7d6033b39c98b10d2c74dc8",
+      "bytes": 114000,
+      "from": "restored reference image (motion sketches with figure stills)"
+    },
+    {
+      "name": "08-acting-out-the-moves.webp",
+      "sha256": "654f256fb2175dd9107c2f25e565bf296f378251a836a2852b0c179e1d27c0d3",
+      "bytes": 41266,
+      "from": "restored reference image (acting out the moves)"
+    }
+  ]
+}
