@@ -34,12 +34,6 @@
       "from": "30f3 page 16 — planting trellis model"
     },
     {
-      "name": "07-trellis-joints.webp",
-      "sha256": "3375e06bd2ab5cdd816fec14fa5577d7c0308e575b5efefc50a12a026b3e9cf4",
-      "bytes": 22648,
-      "from": "30f3 page 16 — trellis joint diagrams"
-    },
-    {
       "name": "08-roof-light-control.webp",
       "sha256": "b67dc834913315c23ad710a484911b6c35c719388b0970eb72206eef81b9a20e",
       "bytes": 70094,
@@ -56,6 +50,18 @@
       "sha256": "be34b1020f000ed1556e141a14cfb09841e55ff3664bf9b55cb415c10e201937",
       "bytes": 115612,
       "from": "30f3 page 18 — viewing tower and workshop details"
+    },
+    {
+      "name": "11-airport-history-collage.webp",
+      "sha256": "eb373eae17f9b348398103858c2cd8c56a60efe9592df9441a812a7ad152e266",
+      "bytes": 209590,
+      "from": "restored reference image (airport history collage)"
+    },
+    {
+      "name": "12-visitors-and-residents.webp",
+      "sha256": "049462c4bca351685df9a8cbc79a56a011f45c172823b8cb8b06aac8eb90dcab",
+      "bytes": 91894,
+      "from": "restored reference image (visitors and residents)"
     }
   ]
 }

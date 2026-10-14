@@ -1,0 +1,22 @@
+{
+  "project": "Reimagining Tegel",
+  "dest": "assets/board/reimagining-tegel-courtyard-urbanism",
+  "note": "w737o2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-airport-history-collage.webp",
+      "sha256": "eb373eae17f9b348398103858c2cd8c56a60efe9592df9441a812a7ad152e266",
+      "bytes": 209590,
+      "from": "restored reference image (airport history collage)"
+    },
+    {
+      "name": "12-visitors-and-residents.webp",
+      "sha256": "049462c4bca351685df9a8cbc79a56a011f45c172823b8cb8b06aac8eb90dcab",
+      "bytes": 91894,
+      "from": "restored reference image (visitors and residents)"
+    }
+  ],
+  "delete": [
+    "assets/board/reimagining-tegel-courtyard-urbanism/07-trellis-joints.webp"
+  ]
+}
