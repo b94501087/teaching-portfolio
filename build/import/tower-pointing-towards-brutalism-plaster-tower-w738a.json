@@ -1,0 +1,13 @@
+{
+  "project": "Tower Pointing Towards Brutalism",
+  "dest": "assets/board/tower-pointing-towards-brutalism-plaster-tower",
+  "note": "w738a restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-precedent-buildings.webp",
+      "sha256": "b5e319f6135ee0852b17ef160eacfb529ea99e50c03cc90c199c3526a7341992",
+      "bytes": 74710,
+      "from": "restored reference image (precedent buildings)"
+    }
+  ]
+}

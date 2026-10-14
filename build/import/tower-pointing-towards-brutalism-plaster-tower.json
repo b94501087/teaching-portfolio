@@ -56,6 +56,12 @@
       "sha256": "0f4b89270e47dae134809efedfdde28110eb1b1b8c48ee52026de4fafc710c8d",
       "bytes": 6402,
       "from": "ddbe page 9 — back view"
+    },
+    {
+      "name": "10-precedent-buildings.webp",
+      "sha256": "b5e319f6135ee0852b17ef160eacfb529ea99e50c03cc90c199c3526a7341992",
+      "bytes": 74710,
+      "from": "restored reference image (precedent buildings)"
     }
   ]
 }
