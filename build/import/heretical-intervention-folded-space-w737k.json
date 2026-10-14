@@ -1,0 +1,13 @@
+{
+  "project": "Heretical Intervention",
+  "dest": "assets/board/heretical-intervention-folded-space",
+  "note": "w737k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-flower-source-photo.webp",
+      "sha256": "e5ce35ff172161566206b5419276524ebf719cfc945969e8cc057fe31f03caac",
+      "bytes": 48324,
+      "from": "restored reference image (flower source photo)"
+    }
+  ]
+}

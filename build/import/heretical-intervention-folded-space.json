@@ -56,6 +56,12 @@
       "sha256": "3d50bdaab626679d648fde78f448eb54d8d355ec0f49feac6b9996157a39ded9",
       "bytes": 83792,
       "from": "page 14 — physical model overview, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "10-flower-source-photo.webp",
+      "sha256": "e5ce35ff172161566206b5419276524ebf719cfc945969e8cc057fe31f03caac",
+      "bytes": 48324,
+      "from": "restored reference image (flower source photo)"
     }
   ]
 }
