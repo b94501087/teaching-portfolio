@@ -34,12 +34,6 @@
       "from": "0bc2 page 8 — digital model"
     },
     {
-      "name": "06-model-side.webp",
-      "sha256": "9c1ddde7079b7c70810e99d1ef826757b26f2e3f2fa088580a14c9f2e043c4cf",
-      "bytes": 18454,
-      "from": "0bc2 page 9 — model side"
-    },
-    {
       "name": "07-model-corner.webp",
       "sha256": "fda593a2ad8f942ad9c59e058e6769e97cccb5ee5a90199a131773349c7d1071",
       "bytes": 19556,
@@ -62,6 +56,12 @@
       "sha256": "634ce29c969bd12a9ba6d59d3e43560b7acc9a0633bc293e3cd4b50d12e79f43",
       "bytes": 10942,
       "from": "0bc2 page 9 — ramp tangle"
+    },
+    {
+      "name": "11-autism-traits-chart.webp",
+      "sha256": "d53af76f5511e12dac311da77bcacb1126898055d79cb45532baa17fd7607aed",
+      "bytes": 33098,
+      "from": "restored reference image (autism traits chart)"
     }
   ]
 }
