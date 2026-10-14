@@ -1,0 +1,13 @@
+{
+  "project": "Open Windows Community",
+  "dest": "assets/board/open-windows-community-cross-section-house-model",
+  "note": "w738e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-precedent-house-photo.webp",
+      "sha256": "187a64833965d7550b6b64d721447d97af6f3534cbe7c3c5810f4e5a30822d98",
+      "bytes": 14192,
+      "from": "restored reference image (precedent house photo)"
+    }
+  ]
+}
