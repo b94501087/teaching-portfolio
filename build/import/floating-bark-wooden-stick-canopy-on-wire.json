@@ -28,12 +28,6 @@
       "from": "a458 pages 5-6 — the lattice edge"
     },
     {
-      "name": "05-lattice-side-b.webp",
-      "sha256": "44db309c140d95c8f1148311bc71e1e359e0351ba85598ceda6b0ff27b250380",
-      "bytes": 57700,
-      "from": "a458 pages 5-6 — lattice from below"
-    },
-    {
       "name": "06-lattice-side-c.webp",
       "sha256": "bfe82a6b76459033643244f625236c7d402e3ffde34bc8a9c545aeeaa01316bf",
       "bytes": 66726,
@@ -56,6 +50,18 @@
       "sha256": "77448c2f88491dba8b36e5aeef01bd9480eb14b3700ed079d7dab1c76e46ed60",
       "bytes": 155494,
       "from": "a458 pages 5-6 — beneath the canopy"
+    },
+    {
+      "name": "10-tree-and-bark-references.webp",
+      "sha256": "28cc2b782b64026fa734825ae39321f28d2ba48dde5641b6608cfcd13356ee25",
+      "bytes": 75812,
+      "from": "restored reference image (tree and bark references)"
+    },
+    {
+      "name": "11-weaving-sticks-by-hand.webp",
+      "sha256": "236c6521c3b811ff898cebe14af6e4af272e4bb9c7a589531558d3671302769d",
+      "bytes": 33738,
+      "from": "restored reference image (weaving sticks by hand)"
     }
   ]
 }

@@ -28,22 +28,10 @@
       "from": "b63b pages 9-12 — the timber pavilion over acrylic"
     },
     {
-      "name": "05-acrylic-lower-interior.webp",
-      "sha256": "0fafbb47c916f2b0cd5477d67c67f610faa52ad06bdee91041667082d68ccd39",
-      "bytes": 28426,
-      "from": "b63b pages 9-12 — inside the acrylic city"
-    },
-    {
       "name": "06-rattan-loop-model.webp",
       "sha256": "f115c1fb4c28f1081f179a237b462d1b87950517395ed728cc7544af8e821c8b",
       "bytes": 61984,
       "from": "b63b pages 9-12 — the rattan loop"
-    },
-    {
-      "name": "07-rattan-loop-from-above.webp",
-      "sha256": "59c77e9147618037543b1a2ba5c64f6fa8b9a86546f5d3261f18fcd67d55c46b",
-      "bytes": 50074,
-      "from": "b63b pages 9-12 — the loop from above"
     },
     {
       "name": "08-snowfield-cube-cluster.webp",
@@ -62,6 +50,18 @@
       "sha256": "1dd34df2b01038261c694905085bde39660ef6c49e6e8ffe6286282217144215",
       "bytes": 97934,
       "from": "b63b pages 9-12 — collapsing towers around the lake"
+    },
+    {
+      "name": "11-film-poster.webp",
+      "sha256": "803756a964c8849100202df167f7fccb3cb7b9366a800b9c7b5fe6be11fb47d3",
+      "bytes": 47068,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "12-film-stills.webp",
+      "sha256": "66aa87b8155cdccf2471b66d18d58ddbdfd92d5dc68e6e25ece1d10cb278cfe2",
+      "bytes": 60800,
+      "from": "restored reference image (film stills)"
     }
   ]
 }

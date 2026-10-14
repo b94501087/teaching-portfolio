@@ -40,22 +40,28 @@
       "from": "b63b pages 6-8 — the street from above"
     },
     {
-      "name": "07-street-model-detail-a.webp",
-      "sha256": "d3eb5142b3a7cd59719eeed31280eaa5f90cfc9cc80f61b3e8c14c7e7d02bcec",
-      "bytes": 42872,
-      "from": "b63b pages 6-8 — a lattice detail"
-    },
-    {
-      "name": "08-street-model-detail-b.webp",
-      "sha256": "20c56834d019a8a882c6be957a283f4b3450fa4befd9c29e68df72cc833720bd",
-      "bytes": 45782,
-      "from": "b63b pages 6-8 — stairs and frames"
-    },
-    {
       "name": "09-street-model-detail-c.webp",
       "sha256": "7ce5595735415e6d3bb5a0b5546af261c5dad700211e87340cba1ec033a245b6",
       "bytes": 30774,
       "from": "b63b pages 6-8 — under the canopy"
+    },
+    {
+      "name": "10-street-maps.webp",
+      "sha256": "836f5eee886d93a962722cbce891688f7c250550f3e33dac29210e2fbdb14179",
+      "bytes": 44510,
+      "from": "restored reference image (street maps)"
+    },
+    {
+      "name": "11-facade-drawing-and-scene-photo.webp",
+      "sha256": "cefb56a83ce774fc2f0f43299efc0cf3dc3c5a4d5d042a8d6ab849343dcc77cd",
+      "bytes": 47288,
+      "from": "restored reference image (facade drawing and scene photo)"
+    },
+    {
+      "name": "12-scene-photos-and-drawings.webp",
+      "sha256": "26c0e5b6711ea4c4c2aa1b94518c13c84ea57897e418bc20d7ee1e64e014010e",
+      "bytes": 60074,
+      "from": "restored reference image (scene photos and drawings)"
     }
   ]
 }
