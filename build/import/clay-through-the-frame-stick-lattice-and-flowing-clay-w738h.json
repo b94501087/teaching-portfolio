@@ -1,0 +1,23 @@
+{
+  "project": "Clay Through the Frame",
+  "dest": "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay",
+  "note": "w738h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-architect-and-building-references.webp",
+      "sha256": "ffb16f1b5651483bfef08f2ebda048cc284e4a83349ea00d975c87ce16e78e18",
+      "bytes": 152120,
+      "from": "restored reference image (architect and building references)"
+    },
+    {
+      "name": "12-shaping-by-hand.webp",
+      "sha256": "63a48b40c18cceaa97fa0455f150913bc159814b21a78e5b1815331070d5826d",
+      "bytes": 130410,
+      "from": "restored reference image (shaping by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/03-hourglass-frame.webp",
+    "assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/09-inner-passage.webp"
+  ]
+}
