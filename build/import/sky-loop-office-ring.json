@@ -10,12 +10,6 @@
       "from": "ab819a6e page 5 — rendering of the ring in the context, x 78–100 %, y 0–53 %"
     },
     {
-      "name": "02-location.webp",
-      "sha256": "372785e342a51d0bd9fde686d2f205cd30ba308a47f06e6c06d98cd71b598d39",
-      "bytes": 215054,
-      "from": "page 5 — location in Zhujiang New Town, x 0–25 %, y 0–65 %"
-    },
-    {
       "name": "03-conceptual-model-materials.webp",
       "sha256": "e44f7e14075acd139fcaf4e45ff6e2ec640d1070fd9770aa94abc1c7ebe05a10",
       "bytes": 101884,
@@ -52,16 +46,22 @@
       "from": "page 6 — cropped office model, x 0–29 %"
     },
     {
-      "name": "09-bridge-and-air-circulation.webp",
-      "sha256": "5d7f61cd771d3de43c2f4e072305485d8516b364725d806c3537400e5e5297a2",
-      "bytes": 151346,
-      "from": "page 6 — gallery bridge diagrams, window node and air circulation, x 29–50 %"
-    },
-    {
       "name": "10-swimming-and-reading.webp",
       "sha256": "ab944cbdbd92bf96a5b8b542c22b553ef3313f01f24b38a38187861417cf0c9f",
       "bytes": 305276,
       "from": "page 7 — swimming and reading spaces on the loop, x 0–50 %"
+    },
+    {
+      "name": "11-story-collage.webp",
+      "sha256": "e394ba875b4e0ac7a76af56a8e41138254d3974512ae2b8738069d1725b31a2f",
+      "bytes": 553492,
+      "from": "restored reference image (story collage)"
+    },
+    {
+      "name": "12-model-in-use.webp",
+      "sha256": "bc999846bc4af68557b57b5060ab21c3f4aefc46754fee11c52325fb78de0a3c",
+      "bytes": 339264,
+      "from": "restored reference image (model in use)"
     }
   ]
 }
