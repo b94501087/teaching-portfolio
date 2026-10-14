@@ -1,0 +1,30 @@
+{
+  "project": "Shoe Rhapsody",
+  "dest": "assets/board/shoe-rhapsody-curved-cardboard-slice-tower",
+  "note": "w738s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-sneaker-photo.webp",
+      "sha256": "a14bfbe0cc43c49beee19e7713a6b58c83edc9a4a489688dd063b92d4c4e74d9",
+      "bytes": 17980,
+      "from": "restored reference image (sneaker photo)"
+    },
+    {
+      "name": "12-foot-photos.webp",
+      "sha256": "871d6d7b29aae72d56a736f5f52421a5139dd9ffcdf6af5bc6efebe26128fa6b",
+      "bytes": 16114,
+      "from": "restored reference image (foot photos)"
+    },
+    {
+      "name": "13-foot-anatomy-diagram.webp",
+      "sha256": "5d54f784bfb78404fd00032371b9965b344127ed4aef28679c87e9966b8d1393",
+      "bytes": 17122,
+      "from": "restored reference image (foot anatomy diagram)"
+    }
+  ],
+  "delete": [
+    "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/02-slice-cluster-close.webp",
+    "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/04-slice-canyon.webp",
+    "assets/board/shoe-rhapsody-curved-cardboard-slice-tower/05-slice-street-view.webp"
+  ]
+}
