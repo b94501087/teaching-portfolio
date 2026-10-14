@@ -46,22 +46,22 @@
       "from": "4434 pages 8-9 — the two clusters together"
     },
     {
-      "name": "08-close-strip-weave.webp",
-      "sha256": "31093d1e91c0b6701db61fdceb88a001d0be93859574a806e977110c4214447a",
-      "bytes": 41236,
-      "from": "4434 pages 8-9 — woven strips up close"
-    },
-    {
-      "name": "09-standing-strips.webp",
-      "sha256": "2ade1db1d7e999714c15a70618fc19f82d73ebd14f2914e4a0b84d4fe6759662",
-      "bytes": 32954,
-      "from": "4434 pages 8-9 — standing strips"
-    },
-    {
       "name": "10-bent-strip-arcs.webp",
       "sha256": "1c7880482fabe301c262a50bfa56133eeb006a4d57c26f21d0127e8ab05d4138",
       "bytes": 61016,
       "from": "4434 pages 8-9 — bent strip arcs"
+    },
+    {
+      "name": "11-building-by-hand-photos.webp",
+      "sha256": "bada23f90d675b404e8830913f0f81eaafd73e903880c5639ad08b9d52f4fd32",
+      "bytes": 100130,
+      "from": "restored reference image (building by hand photos)"
+    },
+    {
+      "name": "12-tracing-by-hand.webp",
+      "sha256": "8184ea15bf5fb49d997fa3f0009f851f3a358a59f983732cd7beaf9e02ba8eb3",
+      "bytes": 17996,
+      "from": "restored reference image (tracing by hand)"
     }
   ]
 }

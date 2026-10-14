@@ -40,22 +40,28 @@
       "from": "4434 pages 10-12 — balconies and bridges"
     },
     {
-      "name": "08-coil-traffic-detail.webp",
-      "sha256": "d7ee81c78c471746942f5ba63e266df7a534d2aba82291d47f579e35759c446f",
-      "bytes": 36920,
-      "from": "4434 pages 10-12 — coils as traffic"
-    },
-    {
-      "name": "09-acrylic-frame-detail.webp",
-      "sha256": "ef8ffe3b206553308daf226e9e8d9d18a4ee07e0fc4f42a9b4131d17a47dc72f",
-      "bytes": 38014,
-      "from": "4434 pages 10-12 — acrylic frames"
-    },
-    {
       "name": "10-blue-pipe-detail.webp",
       "sha256": "214e9e067a39e53dddebd275018f01b2ad91df1ac067c486669dc7d7b2baf1d9",
       "bytes": 37188,
       "from": "4434 pages 10-12 — a blue pipe loop"
+    },
+    {
+      "name": "11-site-diagram-map.webp",
+      "sha256": "1a19dea7c77444faa5bf637378739d90bd12bf5e93254ca249ba344e8ddfb4e2",
+      "bytes": 98928,
+      "from": "restored reference image (site diagram map)"
+    },
+    {
+      "name": "12-street-photo.webp",
+      "sha256": "8830ec542760747344d60820c2f891d2d6a9503d4a6208986394226edecbc928",
+      "bytes": 53666,
+      "from": "restored reference image (street photo)"
+    },
+    {
+      "name": "13-model-making-photo.webp",
+      "sha256": "2e22f5dd73dc78ccc2ba625d1fdca622d321ac4d86bca67033074a2038e92ba8",
+      "bytes": 19136,
+      "from": "restored reference image (model making photo)"
     }
   ]
 }
