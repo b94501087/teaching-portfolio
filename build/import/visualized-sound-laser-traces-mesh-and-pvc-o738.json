@@ -1,0 +1,22 @@
+{
+  "project": "Visualized Sound",
+  "dest": "assets/board/visualized-sound-laser-traces-mesh-and-pvc",
+  "note": "o738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-concert-photo.webp",
+      "sha256": "a8211f172cdc9201138a8785e3ab8cf57d226f88e8eaadad5ffd171d753190b0",
+      "bytes": 35692,
+      "from": "restored reference image (concert photo)"
+    },
+    {
+      "name": "11-making-process-photos.webp",
+      "sha256": "dcfa591aae9df7e6124456c1a4da0465993b64f1788389acc31b3fb8b9c4acaa",
+      "bytes": 60070,
+      "from": "restored reference image (making process photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/visualized-sound-laser-traces-mesh-and-pvc/08-pvc-from-above.webp"
+  ]
+}
