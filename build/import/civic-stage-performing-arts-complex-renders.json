@@ -44,6 +44,12 @@
       "sha256": "4c7534560a7528e1f62f750af98c294f43e5ae7226eaf01479728378fce9cda1",
       "bytes": 75298,
       "from": "b66d page 13 — watercolour"
+    },
+    {
+      "name": "08-site-analysis-maps.webp",
+      "sha256": "e2f8b5ac352c1ea0f7272feeb0867d8e5e4df0c7b8ef5fc98cdfb3d037f4f906",
+      "bytes": 48486,
+      "from": "restored reference image (site analysis maps)"
     }
   ]
 }

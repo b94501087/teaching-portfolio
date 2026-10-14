@@ -1,0 +1,13 @@
+{
+  "project": "Civic Stage: Performing Arts Complex",
+  "dest": "assets/board/civic-stage-performing-arts-complex-renders",
+  "note": "w737y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-site-analysis-maps.webp",
+      "sha256": "e2f8b5ac352c1ea0f7272feeb0867d8e5e4df0c7b8ef5fc98cdfb3d037f4f906",
+      "bytes": 48486,
+      "from": "restored reference image (site analysis maps)"
+    }
+  ]
+}
