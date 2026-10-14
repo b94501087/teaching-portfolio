@@ -38,6 +38,12 @@
       "sha256": "48038ea5c2683e8f447b29f97d8303e68343d1545317d6d0615d7d99b4587782",
       "bytes": 85066,
       "from": "5b5b page 15 — assembly simulation stills"
+    },
+    {
+      "name": "07-red-planet-research.webp",
+      "sha256": "9710a73dbea2b7adf3d9376a6096f8fb13f9394ed6e44e9dd325aec0cf38d48a",
+      "bytes": 143740,
+      "from": "restored reference image (red planet research)"
     }
   ]
 }

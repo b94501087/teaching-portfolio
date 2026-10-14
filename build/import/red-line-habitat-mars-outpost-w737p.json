@@ -1,0 +1,13 @@
+{
+  "project": "Red Line Habitat: A Mars Outpost",
+  "dest": "assets/board/red-line-habitat-mars-outpost",
+  "note": "w737p restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-red-planet-research.webp",
+      "sha256": "9710a73dbea2b7adf3d9376a6096f8fb13f9394ed6e44e9dd325aec0cf38d48a",
+      "bytes": 143740,
+      "from": "restored reference image (red planet research)"
+    }
+  ]
+}
