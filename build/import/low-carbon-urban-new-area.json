@@ -50,6 +50,18 @@
       "sha256": "f6ac77e3bdd21f85976d3f8bcd9c782a401f1b95f5ee01aaa06026c30f7142c9",
       "bytes": 65212,
       "from": "page 18 — rendering of the scientific research universities, x 44–100 %, y 53–100 %"
+    },
+    {
+      "name": "09-site-satellite.webp",
+      "sha256": "2a106012041a1cb33ba26f0a6a2acf09aa206bf7f39f3cfd3d3e04a9673fb149",
+      "bytes": 12002,
+      "from": "restored reference image (site satellite)"
+    },
+    {
+      "name": "10-planting-analysis.webp",
+      "sha256": "350fcefcf15565e2989d5b8fe494c985b31031dfbe03c3d094f3dc8f9141c103",
+      "bytes": 27026,
+      "from": "restored reference image (planting analysis)"
     }
   ]
 }

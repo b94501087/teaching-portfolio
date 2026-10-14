@@ -1,0 +1,19 @@
+{
+  "project": "Low Carbon Urban New Area",
+  "dest": "assets/board/low-carbon-urban-new-area",
+  "note": "w737c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-site-satellite.webp",
+      "sha256": "2a106012041a1cb33ba26f0a6a2acf09aa206bf7f39f3cfd3d3e04a9673fb149",
+      "bytes": 12002,
+      "from": "restored reference image (site satellite)"
+    },
+    {
+      "name": "10-planting-analysis.webp",
+      "sha256": "350fcefcf15565e2989d5b8fe494c985b31031dfbe03c3d094f3dc8f9141c103",
+      "bytes": 27026,
+      "from": "restored reference image (planting analysis)"
+    }
+  ]
+}
