@@ -16,12 +16,6 @@
       "from": "0bc2 page 2 — conceptual drawing"
     },
     {
-      "name": "03-material-tests.webp",
-      "sha256": "9b1b951ad61db73bc1192f17dc2343961b5c5ea991453c04de0b075927e54757",
-      "bytes": 32554,
-      "from": "0bc2 page 2 — material tests"
-    },
-    {
       "name": "04-stone-shelter.webp",
       "sha256": "2b05e1d7c1ca44c8d827f7675a31f429c9ea4d7276523ddbebe24d08dc8c8eb6",
       "bytes": 12612,
@@ -58,10 +52,16 @@
       "from": "0bc2 page 3 — desolate building"
     },
     {
-      "name": "10-timber-frame.webp",
-      "sha256": "4a91cb8ec29dcd1223a439b879dd19144848d9582f86b75795c0fde38d0a4f23",
-      "bytes": 18642,
-      "from": "0bc2 page 2 — timber frame"
+      "name": "11-reference-flood-photo.webp",
+      "sha256": "8ac9153b21852f5c8ce21c670b5a18412d0df0911af8ca451635394d17106053",
+      "bytes": 8810,
+      "from": "restored reference image (reference flood photo)"
+    },
+    {
+      "name": "12-material-tests-by-hand.webp",
+      "sha256": "ca12c780f865f0626740e9a24810dbadf7b88eb294af0bb5b3a9ae12d8791e1e",
+      "bytes": 46052,
+      "from": "restored reference image (material tests by hand)"
     }
   ]
 }

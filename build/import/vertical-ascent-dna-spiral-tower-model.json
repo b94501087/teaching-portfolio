@@ -16,18 +16,6 @@
       "from": "3c08 page 6 — tower drawing"
     },
     {
-      "name": "03-level-sketch.webp",
-      "sha256": "e1eb28fe11562417843d3c06ddc753441da5935a5aa891c191a2150ecd0b1da2",
-      "bytes": 17490,
-      "from": "3c08 page 6 — level sketch"
-    },
-    {
-      "name": "04-tall-sketch.webp",
-      "sha256": "467981d19d88c05d19b973f0085441dfa07acc69325474fd11d24e8181275f27",
-      "bytes": 21840,
-      "from": "3c08 page 6 — tall sketch"
-    },
-    {
       "name": "05-goal-level.webp",
       "sha256": "58b455fe4020f4d1bbe4b7ab6e888f30055b9b7af0001eecd4f37ce0fab728ed",
       "bytes": 13732,
@@ -38,12 +26,6 @@
       "sha256": "d1ed521d72764cc09b7cb858a764581492ae22b7eeb287f934bfdf43aef60051",
       "bytes": 19824,
       "from": "3c08 page 7 — dna level"
-    },
-    {
-      "name": "07-work-level.webp",
-      "sha256": "c1d60fac37878874fefe93312c33aa7db0ec85780b6cc12acc72a44c18beed5b",
-      "bytes": 15112,
-      "from": "3c08 page 7 — work level"
     },
     {
       "name": "08-genetic-level.webp",
@@ -62,6 +44,24 @@
       "sha256": "4572b48a1299da01c93c048931bf0705250e501ffcb5272a1c6d77b3eaf72042",
       "bytes": 11288,
       "from": "3c08 page 7 — spiral stairs"
+    },
+    {
+      "name": "11-film-collage.webp",
+      "sha256": "321e0eaa78d731f1ac030b7f678954b0c78e955dafd4c3400bb0243469de8e97",
+      "bytes": 89012,
+      "from": "restored reference image (film collage)"
+    },
+    {
+      "name": "12-story-sketches-and-film-stills.webp",
+      "sha256": "479a4d0e0b3f6250e75036c04daebaff7a67504f08318eb29b9d4b22f7d8a95c",
+      "bytes": 76764,
+      "from": "restored reference image (story sketches and film stills)"
+    },
+    {
+      "name": "13-making-by-hand.webp",
+      "sha256": "247134648cf92dd459bff6a162bda5bb5abfe0af336ac2d2edd9b5464ab20cd3",
+      "bytes": 77704,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }

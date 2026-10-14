@@ -56,6 +56,12 @@
       "sha256": "5d8cea3a49daed325a2454340c918b71c3457be63e7afca3f46f3b887d8585c6",
       "bytes": 31866,
       "from": "3c08 page 9 — courtyard view"
+    },
+    {
+      "name": "10-pavilion-reference-drawings.webp",
+      "sha256": "fbf3e5c0ca9ddda1c28ac8b1b67ae5d3cae7bcb0c103a68276d20bc367a69dcb",
+      "bytes": 219724,
+      "from": "restored reference image (pavilion reference drawings)"
     }
   ]
 }

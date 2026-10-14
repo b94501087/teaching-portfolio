@@ -10,18 +10,6 @@
       "from": "3c08 page 13 — final canopy"
     },
     {
-      "name": "02-cake-fibres.webp",
-      "sha256": "7f207d5920310983f04b0a6c2627115a3e0ee5ed9f40942aa2e1d232f81e4c9b",
-      "bytes": 9392,
-      "from": "3c08 page 12 — cake fibres"
-    },
-    {
-      "name": "03-cake-halves.webp",
-      "sha256": "26432be23275ff93af0aed78da9b26ef854e198d927780495e10d2b934522940",
-      "bytes": 7784,
-      "from": "3c08 page 12 — cake halves"
-    },
-    {
       "name": "04-sketches.webp",
       "sha256": "b9a176597270a14a43ddf8dbdff914ea35d8928c50a5ef3a6131211b2389daee",
       "bytes": 29808,
@@ -62,6 +50,18 @@
       "sha256": "9f79afd47d5d0fbe40dd4712c34b8a1dffadae0b4acd60eff17710717fcf0972",
       "bytes": 78814,
       "from": "3c08 page 13 — inside view"
+    },
+    {
+      "name": "11-pastry-shop-and-cakes.webp",
+      "sha256": "ef707e8bdccfb587bdc984499859dffd75764c3a19d20cedbb23decfe059ad3c",
+      "bytes": 99506,
+      "from": "restored reference image (pastry shop and cakes)"
+    },
+    {
+      "name": "12-making-by-hand.webp",
+      "sha256": "92d033edc8d3fde37f98aa24b8c50b8584d50fe98b1a40e8bb33cbad59ab881e",
+      "bytes": 37914,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }
