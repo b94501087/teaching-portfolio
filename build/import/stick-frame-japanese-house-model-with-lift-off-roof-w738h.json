@@ -1,0 +1,19 @@
+{
+  "project": "Stick-Frame Japanese House",
+  "dest": "assets/board/stick-frame-japanese-house-model-with-lift-off-roof",
+  "note": "w738h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-building-photos.webp",
+      "sha256": "f0e522ac6efa97e9428a6989742394d53daaa68f116efa4a84cba2625b20793d",
+      "bytes": 234726,
+      "from": "restored reference image (building photos)"
+    },
+    {
+      "name": "09-handling-the-model.webp",
+      "sha256": "61439acc3ca6598e23add016ccb3d44f7d30806ce2de9a361dfeea8f5e4da8db",
+      "bytes": 159824,
+      "from": "restored reference image (handling the model)"
+    }
+  ]
+}
