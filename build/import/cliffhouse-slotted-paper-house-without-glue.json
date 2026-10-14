@@ -50,6 +50,12 @@
       "sha256": "3d417a9d88bc4c29b66d0fccd738434e2f32347fd060f7e6cf6c3e2dfda0947c",
       "bytes": 23240,
       "from": "3dee page 12-13 — small versions of the house"
+    },
+    {
+      "name": "09-new-york-building-photos.webp",
+      "sha256": "a07e475b0e25d6c2dc0946fbb03195984f2f2d09af3e883c3b831f2c9b6a1c12",
+      "bytes": 91686,
+      "from": "restored reference image (new york building photos)"
     }
   ]
 }
