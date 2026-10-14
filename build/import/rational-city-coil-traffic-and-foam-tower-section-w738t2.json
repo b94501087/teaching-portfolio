@@ -1,0 +1,29 @@
+{
+  "project": "Rational City",
+  "dest": "assets/board/rational-city-coil-traffic-and-foam-tower-section",
+  "note": "w738t2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-diagram-map.webp",
+      "sha256": "1a19dea7c77444faa5bf637378739d90bd12bf5e93254ca249ba344e8ddfb4e2",
+      "bytes": 98928,
+      "from": "restored reference image (site diagram map)"
+    },
+    {
+      "name": "12-street-photo.webp",
+      "sha256": "8830ec542760747344d60820c2f891d2d6a9503d4a6208986394226edecbc928",
+      "bytes": 53666,
+      "from": "restored reference image (street photo)"
+    },
+    {
+      "name": "13-model-making-photo.webp",
+      "sha256": "2e22f5dd73dc78ccc2ba625d1fdca622d321ac4d86bca67033074a2038e92ba8",
+      "bytes": 19136,
+      "from": "restored reference image (model making photo)"
+    }
+  ],
+  "delete": [
+    "assets/board/rational-city-coil-traffic-and-foam-tower-section/08-coil-traffic-detail.webp",
+    "assets/board/rational-city-coil-traffic-and-foam-tower-section/09-acrylic-frame-detail.webp"
+  ]
+}
