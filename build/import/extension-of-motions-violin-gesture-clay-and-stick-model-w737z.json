@@ -1,0 +1,13 @@
+{
+  "project": "Extension of Motions",
+  "dest": "assets/board/extension-of-motions-violin-gesture-clay-and-stick-model",
+  "note": "w737z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-video-frame-screenshots.webp",
+      "sha256": "714fc07c6f396bbe029c66e1168edea894a3dc65d377678135fdde5089507788",
+      "bytes": 40380,
+      "from": "restored reference image (video frame screenshots)"
+    }
+  ]
+}

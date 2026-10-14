@@ -56,6 +56,12 @@
       "sha256": "223d252c1359ce65e779438c568d3b74958e0fc96544985f4f24e00987de1895",
       "bytes": 73222,
       "from": "f312 page 4 — side view"
+    },
+    {
+      "name": "10-video-frame-screenshots.webp",
+      "sha256": "714fc07c6f396bbe029c66e1168edea894a3dc65d377678135fdde5089507788",
+      "bytes": 40380,
+      "from": "restored reference image (video frame screenshots)"
     }
   ]
 }
