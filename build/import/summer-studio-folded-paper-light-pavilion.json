@@ -50,6 +50,12 @@
       "sha256": "9d59553c063941e9b4c359f09248d0b17a1bcb58136cfd23106d8a43f7bdee28",
       "bytes": 15070,
       "from": "e7c5 page 16 — seating render"
+    },
+    {
+      "name": "09-precedent-dome-photo.webp",
+      "sha256": "016afe27d00e74f9dadb159e6818b1b3d0a4a04199cabf8c7b618d608f8cf83e",
+      "bytes": 58198,
+      "from": "restored reference image (precedent dome photo)"
     }
   ]
 }

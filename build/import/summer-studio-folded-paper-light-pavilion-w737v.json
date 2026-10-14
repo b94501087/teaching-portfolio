@@ -1,0 +1,13 @@
+{
+  "project": "Summer Studio: Folded Paper Pavilion",
+  "dest": "assets/board/summer-studio-folded-paper-light-pavilion",
+  "note": "w737v restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-precedent-dome-photo.webp",
+      "sha256": "016afe27d00e74f9dadb159e6818b1b3d0a4a04199cabf8c7b618d608f8cf83e",
+      "bytes": 58198,
+      "from": "restored reference image (precedent dome photo)"
+    }
+  ]
+}
