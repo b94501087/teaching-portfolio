@@ -50,6 +50,12 @@
       "sha256": "29fede53843a84f7fe599b08cbd181b3674761aaaf44f55fa9ada7bbb85b3b7e",
       "bytes": 21058,
       "from": "f986 page 9 — tower view"
+    },
+    {
+      "name": "09-mri-scans.webp",
+      "sha256": "6c2b64a045b776d4e18b3cdad8f8bca48ba7d990a03523e2e607484d89fdbf4d",
+      "bytes": 20080,
+      "from": "restored reference image (mri scans)"
     }
   ]
 }

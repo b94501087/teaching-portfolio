@@ -1,0 +1,13 @@
+{
+  "project": "A Scaffold of Growth",
+  "dest": "assets/board/scaffold-of-growth-cement-and-wire-tower",
+  "note": "w737v restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-mri-scans.webp",
+      "sha256": "6c2b64a045b776d4e18b3cdad8f8bca48ba7d990a03523e2e607484d89fdbf4d",
+      "bytes": 20080,
+      "from": "restored reference image (mri scans)"
+    }
+  ]
+}
