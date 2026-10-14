@@ -1,0 +1,55 @@
+{
+  "project": "Layers of Drift",
+  "dest": "assets/board/layers-of-drift-flowing-pvc-sculpture-model",
+  "note": "Portfolio 9679 pages 10-11 cropped to 8 images, WebP q88 (PIL). Not used: landscape photo with place name, two oil paintings used as inspiration, handwritten notes, caption with title, material and size.",
+  "files": [
+    {
+      "name": "01-flowing-sculpture.webp",
+      "sha256": "40b798d2dfdf23c59c9843326e21b990eaf47011df721d408f780bad563c73eb",
+      "bytes": 63946,
+      "from": "9679 pages 10-11 — the flowing layered sculpture"
+    },
+    {
+      "name": "02-flow-sketches.webp",
+      "sha256": "3213d5830cb06fc8bffa9404d1e4778980ea0fb567d7f2abe7bca402e6ec9391",
+      "bytes": 154742,
+      "from": "9679 pages 10-11 — sketches of flowing shells"
+    },
+    {
+      "name": "03-concept-model.webp",
+      "sha256": "b4c8c8d61492a5ef38287aae6d6758b3c7e90d85b6f7edee9975cec7fd7a3925",
+      "bytes": 18700,
+      "from": "9679 pages 10-11 — the smooth concept model"
+    },
+    {
+      "name": "04-layered-model.webp",
+      "sha256": "a51507db4a83f083053a18b008c4273c04167fb0280effe0b9657d7c7122cb4f",
+      "bytes": 51672,
+      "from": "9679 pages 10-11 — the form rebuilt in layers"
+    },
+    {
+      "name": "05-line-composition.webp",
+      "sha256": "4664ea05c855bb667f7f65484e4e9d9980c014537345dc0e24536f52b6fbf89b",
+      "bytes": 36582,
+      "from": "9679 pages 10-11 — a composition of crossing lines"
+    },
+    {
+      "name": "06-interior-drawing.webp",
+      "sha256": "6359f031f97bd0464228f03c6e9e1bf602ba0509a37ba295e35e7df9baf806d6",
+      "bytes": 216558,
+      "from": "9679 pages 10-11 — a drawing of the woven interior"
+    },
+    {
+      "name": "07-sculpture-close.webp",
+      "sha256": "040c6f7a749ddf67ce23732a4d7d62f02a7a9330818336e3feb6ce2c6488cf0b",
+      "bytes": 51108,
+      "from": "9679 pages 10-11 — a close view of the layers"
+    },
+    {
+      "name": "08-sculpture-upright.webp",
+      "sha256": "b2ae285e3c8786ca2bcfddcace2202dfe5ef66ca4468a6ae77c29a613ac2723a",
+      "bytes": 56700,
+      "from": "9679 pages 10-11 — the sculpture standing upright"
+    }
+  ]
+}
