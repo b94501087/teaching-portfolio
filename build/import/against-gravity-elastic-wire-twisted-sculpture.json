@@ -26,6 +26,18 @@
       "sha256": "6b347702ea550ad567a283df81f91e07d727f0411aa2e4dfbe90cef4947871d2",
       "bytes": 56498,
       "from": "d669 page 7 — the fourth view"
+    },
+    {
+      "name": "05-tying-wires-by-hand.webp",
+      "sha256": "5febd40b5ee8bcf0a09bdf748a748abc2971d0d04029d4469118b089c3e75eef",
+      "bytes": 60998,
+      "from": "restored reference image (tying wires by hand)"
+    },
+    {
+      "name": "06-building-the-lattice-by-hand.webp",
+      "sha256": "c9dbed508b36de57dff3686b76660c651649c1434b8d0d050e302715f132de67",
+      "bytes": 62128,
+      "from": "restored reference image (building the lattice by hand)"
     }
   ]
 }

@@ -40,28 +40,28 @@
       "from": "d669 pages 5-7 — the white bubble held by ropes"
     },
     {
-      "name": "07-white-bubble-lower-view.webp",
-      "sha256": "61eda5512256fdd3fc90b1f9f8fc1e9c59eb290fa11545d0296c9d5965ce0e7c",
-      "bytes": 70746,
-      "from": "d669 pages 5-7 — the bubble from below"
-    },
-    {
       "name": "08-slat-arch-view.webp",
       "sha256": "d007c0678880b1c69ad839756b838f1e9ab7120624a03e1918b7b1d781928f66",
       "bytes": 110206,
       "from": "d669 pages 5-7 — the arch of slats"
     },
     {
-      "name": "09-brick-room-corner.webp",
-      "sha256": "8d4bba17d299e8bbf2cd6b7bea545c2e1d2fb7e00513eeb62b63d3da6616158d",
-      "bytes": 120474,
-      "from": "d669 pages 5-7 — a corner of the brick room"
+      "name": "11-novel-book-cover.webp",
+      "sha256": "9ccf9aa7f2e915ad3f67f1b4ee40644aa56137ebcd04502b4705a6286fd70ca8",
+      "bytes": 34092,
+      "from": "restored reference image (novel book cover)"
     },
     {
-      "name": "10-slat-arch-close.webp",
-      "sha256": "fd26dc9d30ff22a377930f59398c018539f0e3e092b936781131a0799fae6628",
-      "bytes": 155670,
-      "from": "d669 pages 5-7 — the slats up close"
+      "name": "12-annotated-concept-sketch.webp",
+      "sha256": "df6a74704333840af272afa284c54f2d096710e71a42d664fcef98f9aa4ed782",
+      "bytes": 186124,
+      "from": "restored reference image (annotated concept sketch)"
+    },
+    {
+      "name": "13-making-the-spaces-by-hand.webp",
+      "sha256": "7258405fe32fd64ba3ee07f62c7b31e56131cf93abcd2831f4e6c5740107b3c1",
+      "bytes": 108828,
+      "from": "restored reference image (making the spaces by hand)"
     }
   ]
 }
