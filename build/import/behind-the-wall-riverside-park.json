@@ -50,6 +50,18 @@
       "sha256": "7fff1413c1c24133a0b6ba5776678aa31f785e0779ed92d97690e5ae81ee2d12",
       "bytes": 36722,
       "from": "page 9 — vegetation analysis, x 28–83 %, y 68–100 %"
+    },
+    {
+      "name": "09-site-and-visitor-analysis.webp",
+      "sha256": "827c027d807da587f2722cab5b20f78501390b4f45b9461b95454a8d7c7d157a",
+      "bytes": 244942,
+      "from": "restored reference image (site and visitor analysis)"
+    },
+    {
+      "name": "10-wetland-and-boat-platform.webp",
+      "sha256": "b9e2507cb49c7a07c874e0dc8e5d94c3151a33a1a3fb6f8500bb2dab7a703d45",
+      "bytes": 215920,
+      "from": "restored reference image (wetland and boat platform)"
     }
   ]
 }
