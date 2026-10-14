@@ -1,0 +1,61 @@
+{
+  "project": "House of Porosity",
+  "dest": "assets/board/house-of-porosity-cube-of-dense-and-open-rooms",
+  "note": "Portfolio d410 pages 2-3 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, model data table.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "9ce0723c94e782953634fa5c5fa50b94941c528aa1fbe362c853613839c21791",
+      "bytes": 183476,
+      "from": "d410 pages 2-3 — the final cube with stairs and figures"
+    },
+    {
+      "name": "02-solid-cube.webp",
+      "sha256": "ea3c48442124f57f04c1574c2d6acc72bcdc078693201a452a2c0d5072d07ad8",
+      "bytes": 9312,
+      "from": "d410 pages 2-3 — the starting solid cube"
+    },
+    {
+      "name": "03-open-frame.webp",
+      "sha256": "7fcb3580a81abba1819790c447d8c033a7eb06596cdc4d85c8a2470e15e3b66a",
+      "bytes": 111998,
+      "from": "d410 pages 2-3 — the open frame of sticks"
+    },
+    {
+      "name": "04-panelled-frame.webp",
+      "sha256": "0227739cb230e3c050fe733341d4163e1601e147d05134b9ed646ce104ae6a0b",
+      "bytes": 147228,
+      "from": "d410 pages 2-3 — panels placed by the patterns"
+    },
+    {
+      "name": "05-grid-patterns.webp",
+      "sha256": "d5217b68b8423bf7b9ba79939d15bd3e75432966ac8f0f729111899230e46a11",
+      "bytes": 51938,
+      "from": "d410 pages 2-3 — sixty-three black-and-white grid patterns"
+    },
+    {
+      "name": "06-observation-drawings.webp",
+      "sha256": "4b4c77f6a465b9f6e580818bdb9792bbc4e6a7684c9566301b326dcfd99ad4aa",
+      "bytes": 192296,
+      "from": "d410 pages 2-3 — layered patterns mapped onto the cube"
+    },
+    {
+      "name": "07-stair-interior.webp",
+      "sha256": "f2408176361e8f0d4afee4d3a80ec8c33504779094dd9b29bc33bd6d1dc596d0",
+      "bytes": 96370,
+      "from": "d410 pages 2-3 — stairs threading through the interior"
+    },
+    {
+      "name": "08-model-front-a.webp",
+      "sha256": "90734473b646a12addb84f170fe0653d351785ef76037327536fd5fe4bcdf964",
+      "bytes": 133832,
+      "from": "d410 pages 2-3 — the model against a dark ground"
+    },
+    {
+      "name": "09-model-front-b.webp",
+      "sha256": "b331083af77f940752effb28995cdd4d9ee003ec87da2231c229bf9bb0a082f2",
+      "bytes": 133932,
+      "from": "d410 pages 2-3 — another face of the cube"
+    }
+  ]
+}
