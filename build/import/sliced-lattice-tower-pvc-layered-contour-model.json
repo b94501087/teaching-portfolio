@@ -1,0 +1,49 @@
+{
+  "project": "Sliced Lattice Tower",
+  "dest": "assets/board/sliced-lattice-tower-pvc-layered-contour-model",
+  "note": "Portfolio 2fb5 page 6 cropped to 7 images, WebP q88 (PIL). Not used: title lettering, explanatory text, process photos showing hands, blurred interior view, size caption.",
+  "files": [
+    {
+      "name": "01-sliced-tower.webp",
+      "sha256": "df62830da27cc805e7e9f3e3ec06eb144b557d3dc81e5223859becd18d1f218a",
+      "bytes": 82456,
+      "from": "2fb5 page 6 — the sliced tower against a dark ground"
+    },
+    {
+      "name": "02-lattice-box.webp",
+      "sha256": "02858b6f8de1c02bec43d8723e9674cf6368c823d49679f229690da16407777b",
+      "bytes": 57364,
+      "from": "2fb5 page 6 — the starting lattice box"
+    },
+    {
+      "name": "03-grid-deform.webp",
+      "sha256": "7759a71627538c05ef321a64db31af1ed1accb199aaabf202dd92a62ad960de0",
+      "bytes": 41940,
+      "from": "2fb5 page 6 — the grid stretched, skewed and waved"
+    },
+    {
+      "name": "04-four-renders.webp",
+      "sha256": "4204ed9f3311a69b02877ce70b67b2a373bd1c364db5440dc4521927a3d7343a",
+      "bytes": 84830,
+      "from": "2fb5 page 6 — four digital versions of the tower"
+    },
+    {
+      "name": "05-tower-dark-a.webp",
+      "sha256": "aeb3dc4a6b76686b6f7aff655c5e8795bb78628deaf4d303331940bb98183740",
+      "bytes": 34592,
+      "from": "2fb5 page 6 — the tower from one side"
+    },
+    {
+      "name": "06-tower-dark-b.webp",
+      "sha256": "8a521b706dd566fc84d2d1aecf2d3fe9d497a88fed663392f6afc6020126f889",
+      "bytes": 23280,
+      "from": "2fb5 page 6 — the tower from another angle"
+    },
+    {
+      "name": "07-tower-close.webp",
+      "sha256": "0ec42dd019c88bd29c7d2925c6600677b7b92d53b932b7899e17e17217bf5049",
+      "bytes": 60718,
+      "from": "2fb5 page 6 — a close view of the layered edges"
+    }
+  ]
+}
