@@ -40,12 +40,6 @@
       "from": "ddbe page 11 — top view"
     },
     {
-      "name": "07-detail.webp",
-      "sha256": "85d0cbb03644dd7f3038935977ed5a721561cc886c1a363592e8fefaecadb2a9",
-      "bytes": 14966,
-      "from": "ddbe page 11 — detail"
-    },
-    {
       "name": "08-gear-wall.webp",
       "sha256": "b06f94e9865b36ef13ac6bd5cd8eba22f110b63b714ddea330d2a57814bc009c",
       "bytes": 26908,
@@ -62,6 +56,12 @@
       "sha256": "e7fcbf1286514e0fd8d4550dcf5053581aeb4dd337adfb06b886709bc89e6dee",
       "bytes": 24202,
       "from": "ddbe page 11 — glass floor"
+    },
+    {
+      "name": "11-making-process-photos.webp",
+      "sha256": "160032f18b3c9631b04abf644e5ab88546b74b032e912ed7c1a1c6a097c20a04",
+      "bytes": 51718,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }

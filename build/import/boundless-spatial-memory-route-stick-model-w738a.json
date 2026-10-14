@@ -1,0 +1,16 @@
+{
+  "project": "Boundless Spatial Memory",
+  "dest": "assets/board/boundless-spatial-memory-route-stick-model",
+  "note": "w738a restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-making-process-photos.webp",
+      "sha256": "160032f18b3c9631b04abf644e5ab88546b74b032e912ed7c1a1c6a097c20a04",
+      "bytes": 51718,
+      "from": "restored reference image (making process photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/boundless-spatial-memory-route-stick-model/07-detail.webp"
+  ]
+}
