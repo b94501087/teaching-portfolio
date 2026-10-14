@@ -1,0 +1,13 @@
+{
+  "project": "Nine Garden Scenes",
+  "dest": "assets/board/nine-garden-scenes-stick-and-card-sense-models",
+  "note": "w738h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-hands-making-the-models.webp",
+      "sha256": "8a25ba91cc5131443423c47668ea7fed291b784bb377ecbc55ba2ba01ebd74b1",
+      "bytes": 124304,
+      "from": "restored reference image (hands making the models)"
+    }
+  ]
+}

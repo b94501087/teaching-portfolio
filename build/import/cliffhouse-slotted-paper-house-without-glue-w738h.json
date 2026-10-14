@@ -1,0 +1,13 @@
+{
+  "project": "The Cliffhouse",
+  "dest": "assets/board/cliffhouse-slotted-paper-house-without-glue",
+  "note": "w738h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-new-york-building-photos.webp",
+      "sha256": "a07e475b0e25d6c2dc0946fbb03195984f2f2d09af3e883c3b831f2c9b6a1c12",
+      "bytes": 91686,
+      "from": "restored reference image (new york building photos)"
+    }
+  ]
+}
