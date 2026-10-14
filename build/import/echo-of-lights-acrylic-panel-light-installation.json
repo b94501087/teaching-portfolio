@@ -38,6 +38,12 @@
       "sha256": "d2ae99865cec8974a03f08ea67650ec3ed8a8c09db80719ae040587521a04726",
       "bytes": 43954,
       "from": "f312 page 13 — long shadows"
+    },
+    {
+      "name": "07-light-and-student.webp",
+      "sha256": "4ffe03f67b528095e4fd4b2600deb14aec8cc56dc6f3e90b55c73985c7b06f28",
+      "bytes": 15658,
+      "from": "restored reference image (light and student)"
     }
   ]
 }

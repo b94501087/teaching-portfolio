@@ -1,0 +1,13 @@
+{
+  "project": "The Echo of Lights",
+  "dest": "assets/board/echo-of-lights-acrylic-panel-light-installation",
+  "note": "w738a restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-light-and-student.webp",
+      "sha256": "4ffe03f67b528095e4fd4b2600deb14aec8cc56dc6f3e90b55c73985c7b06f28",
+      "bytes": 15658,
+      "from": "restored reference image (light and student)"
+    }
+  ]
+}
