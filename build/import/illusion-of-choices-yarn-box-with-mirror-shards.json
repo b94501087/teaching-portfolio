@@ -1,7 +1,7 @@
 {
   "project": "The Illusion of Choices",
   "dest": "assets/board/illusion-of-choices-yarn-box-with-mirror-shards",
-  "note": "Portfolio 0bc2 pages 10-11 cropped to nine images, WebP q88 (PIL). Not used: title and text, photos with a person, the name of a film.",
+  "note": "Portfolio 0bc2 pages 10-11 cropped to nine images, WebP q88 (PIL). Not used: title and text, photos with a person, the name of a film. w737: original images restored; removed 05-blue-face.webp, 07-yarn-strands.webp, 08-dark-face.webp.",
   "files": [
     {
       "name": "01-yarn-web-top.webp",
@@ -28,34 +28,40 @@
       "from": "0bc2 page 10 — viewer sketch"
     },
     {
-      "name": "05-blue-face.webp",
-      "sha256": "c03b4eeb9e79fb1d3875d85571f9ac894a05e954291f917e20da2f5357524598",
-      "bytes": 12302,
-      "from": "0bc2 page 10 — blue face"
-    },
-    {
       "name": "06-corner-view.webp",
       "sha256": "cfb46d2b703f8d35ada9f6316aa0a1b483bd8f3fe5b6ab121b0930328c4b41e3",
       "bytes": 22308,
       "from": "0bc2 page 10 — corner view"
     },
     {
-      "name": "07-yarn-strands.webp",
-      "sha256": "4ba6c85f4039a4f0048b8f61a0b5867f4f1f8990aefcdb75423d22683f4ac92c",
-      "bytes": 26186,
-      "from": "0bc2 page 10 — yarn strands"
-    },
-    {
-      "name": "08-dark-face.webp",
-      "sha256": "a63259804bbabddc9e10b4d8317535baa44e2da9b2264c690d09966ab04fc8a4",
-      "bytes": 15206,
-      "from": "0bc2 page 10 — dark face"
-    },
-    {
       "name": "09-side-view.webp",
       "sha256": "220c65cb2b0c54a25647d302d5e403d6b42e98a058d00d95f6e2ea24618529f8",
       "bytes": 44836,
       "from": "0bc2 page 11 — side view"
+    },
+    {
+      "name": "10-head-blue.webp",
+      "sha256": "7a48e7c76cf1047752987d75d6b5fd6261f66a8084892ddc945a758da08d807d",
+      "bytes": 20558,
+      "from": "restored reference image (head blue)"
+    },
+    {
+      "name": "11-head-dark.webp",
+      "sha256": "deb0e29501386e7bc702f4fadac72ec6ccea44cd78512beb391d387f30fb7c1b",
+      "bytes": 31910,
+      "from": "restored reference image (head dark)"
+    },
+    {
+      "name": "12-head-natural.webp",
+      "sha256": "3210b89955a3cae3817c983780a2e7e9089ec44b1786eeea2cb8c84b5a989525",
+      "bytes": 30694,
+      "from": "restored reference image (head natural)"
+    },
+    {
+      "name": "13-head-tree.webp",
+      "sha256": "7a4c51acbcf60191aa332a2c17a7a920d43703d5bf971170cb350e7a56497ebb",
+      "bytes": 36118,
+      "from": "restored reference image (head tree)"
     }
   ]
 }

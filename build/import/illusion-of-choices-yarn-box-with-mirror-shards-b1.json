@@ -1,0 +1,36 @@
+{
+  "project": "The Illusion of Choices",
+  "dest": "assets/board/illusion-of-choices-yarn-box-with-mirror-shards",
+  "note": "b1 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-head-blue.webp",
+      "sha256": "7a48e7c76cf1047752987d75d6b5fd6261f66a8084892ddc945a758da08d807d",
+      "bytes": 20558,
+      "from": "restored reference image (head blue)"
+    },
+    {
+      "name": "11-head-dark.webp",
+      "sha256": "deb0e29501386e7bc702f4fadac72ec6ccea44cd78512beb391d387f30fb7c1b",
+      "bytes": 31910,
+      "from": "restored reference image (head dark)"
+    },
+    {
+      "name": "12-head-natural.webp",
+      "sha256": "3210b89955a3cae3817c983780a2e7e9089ec44b1786eeea2cb8c84b5a989525",
+      "bytes": 30694,
+      "from": "restored reference image (head natural)"
+    },
+    {
+      "name": "13-head-tree.webp",
+      "sha256": "7a4c51acbcf60191aa332a2c17a7a920d43703d5bf971170cb350e7a56497ebb",
+      "bytes": 36118,
+      "from": "restored reference image (head tree)"
+    }
+  ],
+  "delete": [
+    "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/05-blue-face.webp",
+    "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/07-yarn-strands.webp",
+    "assets/board/illusion-of-choices-yarn-box-with-mirror-shards/08-dark-face.webp"
+  ]
+}
