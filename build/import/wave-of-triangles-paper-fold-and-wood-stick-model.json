@@ -1,0 +1,67 @@
+{
+  "project": "Wave of Triangles",
+  "dest": "assets/board/wave-of-triangles-paper-fold-and-wood-stick-model",
+  "note": "Portfolio 8b6a pages 8-12 cropped to 10 images, WebP q88 (PIL). Not used: two street photos with a city name in the caption, project caption and description text, a grey shadow collage.",
+  "files": [
+    {
+      "name": "01-stick-wave.webp",
+      "sha256": "8dd7b9204987ed0a2cf807417c6c856e1a922a1a90d2eb633615a968dc198739",
+      "bytes": 308568,
+      "from": "8b6a pages 8-12 — the wooden stick wave on its base"
+    },
+    {
+      "name": "02-triangle-drawing.webp",
+      "sha256": "67722f6c246aaa81027260eb0b8930f5b4d883a025a4718048b294ca089b1471",
+      "bytes": 74048,
+      "from": "8b6a pages 8-12 — the traced net of triangles"
+    },
+    {
+      "name": "03-paper-forms.webp",
+      "sha256": "c969e26c8b037e6d5c991ea04ff71f6436e27224665ca2c460ec3287f818358a",
+      "bytes": 64984,
+      "from": "8b6a pages 8-12 — two folded paper forms"
+    },
+    {
+      "name": "04-paper-trio.webp",
+      "sha256": "c8722275087302d8856b1617c5f188cefedce32d208e5010fbe30e2400b8b2b1",
+      "bytes": 40980,
+      "from": "8b6a pages 8-12 — further folded paper studies"
+    },
+    {
+      "name": "05-paper-studies.webp",
+      "sha256": "6a7f8d95a423deefb877a11b82c93ce379731c2477cb73b56b0bea4e7e5b3c81",
+      "bytes": 106804,
+      "from": "8b6a pages 8-12 — a sheet of paper form studies"
+    },
+    {
+      "name": "06-stick-close.webp",
+      "sha256": "951e8f619379538e9fda2be6ca4552431b986bc3f194dc370c8d53ae94625f19",
+      "bytes": 120844,
+      "from": "8b6a pages 8-12 — a close view of the stick lattice"
+    },
+    {
+      "name": "07-stick-ridge.webp",
+      "sha256": "98789822d9f1ea8d8de41dbe6c22f954376612dee520d7f3fc7578d5552e32b8",
+      "bytes": 73322,
+      "from": "8b6a pages 8-12 — peaks rising from the stick field"
+    },
+    {
+      "name": "08-stick-fields.webp",
+      "sha256": "b8e2b0e7ad89229422fb35cc3cd7f49ac350cb0b686afc861b2ff78ac0815a23",
+      "bytes": 159860,
+      "from": "8b6a pages 8-12 — the stick field seen from above"
+    },
+    {
+      "name": "09-wave-front.webp",
+      "sha256": "1973740dd117ff1833727d344980a388e51425b7191357d69d26f7c267f4bde2",
+      "bytes": 204500,
+      "from": "8b6a pages 8-12 — the wave seen from the front"
+    },
+    {
+      "name": "10-wave-small.webp",
+      "sha256": "2c196cf4635620ad1bd5dc90242233d67525c18ab6edfad5f0e5b4cd23c1d6e3",
+      "bytes": 54260,
+      "from": "8b6a pages 8-12 — a smaller view of the curled lattice"
+    }
+  ]
+}
