@@ -1,0 +1,61 @@
+{
+  "project": "Encounter with Shadow and Space",
+  "dest": "assets/board/encounter-with-shadow-and-space-staggered-wood-strip-frames",
+  "note": "Portfolio 2a0b pages 2-3 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, photos of a temple wall and bamboo grove, photo of a named architect's building, reference image of another architect's building, collage with a landscape photo.",
+  "files": [
+    {
+      "name": "01-final-tower.webp",
+      "sha256": "f0399994c912cf968e2bee68b11d070760b3fc13308fca3dda57be6ea13e537e",
+      "bytes": 140968,
+      "from": "2a0b pages 2-3 — the final tower of staggered wooden frames"
+    },
+    {
+      "name": "02-traced-shadow-lines.webp",
+      "sha256": "79ef2346b3949df4ac078d1e6102dc04df491959e85f88c0b640172d391cee15",
+      "bytes": 87816,
+      "from": "2a0b pages 2-3 — the shadow pattern traced as a net of lines"
+    },
+    {
+      "name": "03-model-base.webp",
+      "sha256": "62b2256838bc05fd4f339bbe0197a4b96902fb3bf56b3f97cc95748096914e2a",
+      "bytes": 54120,
+      "from": "2a0b pages 2-3 — the flat base following the traced lines"
+    },
+    {
+      "name": "04-first-frame-model.webp",
+      "sha256": "d4abb6bf57f3c9af51b5bc25e7032deeee12b0d8ab8c5a29cc831706c510660e",
+      "bytes": 190680,
+      "from": "2a0b pages 2-3 — the first layered frame model"
+    },
+    {
+      "name": "05-frame-cluster.webp",
+      "sha256": "bc10bcf8b6406bd0d8efce35b26c24be6381e3c5e28e4f98a0ad7a8fde614ddf",
+      "bytes": 78492,
+      "from": "2a0b pages 2-3 — frames clustered at the upper levels"
+    },
+    {
+      "name": "06-frame-roof.webp",
+      "sha256": "944c4d2193642ece31c7e283a561ac12cca9df35eba371030a8cffae623be75f",
+      "bytes": 95430,
+      "from": "2a0b pages 2-3 — the crossing strips of the roof"
+    },
+    {
+      "name": "07-platform-figures.webp",
+      "sha256": "f815fe4628a80c991311bad116ca6b0cb214297e0f618e2f04545240cbe3b025",
+      "bytes": 92190,
+      "from": "2a0b pages 2-3 — figures on a platform among the frames"
+    },
+    {
+      "name": "08-frame-detail.webp",
+      "sha256": "27022986ea98e3f8c8aa86b599f660c25b3b5d400ea4e4667423b785f16bd1bf",
+      "bytes": 36428,
+      "from": "2a0b pages 2-3 — a close view of stacked frames"
+    },
+    {
+      "name": "09-frame-corner.webp",
+      "sha256": "f06201984e250d04adcabac4aef0738cd01e5a356bd13177f07192242d9adb12",
+      "bytes": 33462,
+      "from": "2a0b pages 2-3 — a corner of the tower"
+    }
+  ]
+}
