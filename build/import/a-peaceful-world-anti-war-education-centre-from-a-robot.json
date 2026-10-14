@@ -1,0 +1,67 @@
+{
+  "project": "A Peaceful World",
+  "dest": "assets/board/a-peaceful-world-anti-war-education-centre-from-a-robot",
+  "note": "Portfolio 494d pages 15-20 cropped to 10 images, WebP q88 (PIL). Not used: cover page text with student and instructor names, character-analysis sheet, narrative-structure diagram, hall section, interior vignettes, construction details (10-image cap).",
+  "files": [
+    {
+      "name": "01-memorial-render.webp",
+      "sha256": "f5fd3ecc712287b90c4843b7c4714aab9ba4a5558b4ea2aa59ab1769ae312b00",
+      "bytes": 136740,
+      "from": "494d pages 15-20 — the shattered tower above the centre"
+    },
+    {
+      "name": "02-war-collage.webp",
+      "sha256": "a983dadb1f2e232213df89b039461ec53264d961ae9d9dc926f16eaa30e49728",
+      "bytes": 492712,
+      "from": "494d pages 15-20 — a collage of war photographs and animation scenes"
+    },
+    {
+      "name": "03-site-analysis.webp",
+      "sha256": "5fc3dd7dd2b1dada6e8798f53bb0396448abb2bf1320af664f3322004f4d61ab",
+      "bytes": 620402,
+      "from": "494d pages 15-20 — site analysis of the city and its visitors"
+    },
+    {
+      "name": "04-robot-decomposition.webp",
+      "sha256": "f035c8680201b4bc6ddf323cb5ab75c4625aef44fd78c757ab5723ffc5a3c61a",
+      "bytes": 625500,
+      "from": "494d pages 15-20 — the robot decomposed into story scenes"
+    },
+    {
+      "name": "05-form-refinement.webp",
+      "sha256": "c512a945d28e2c33f4023312b632b172c440ef92a4c3e9833ae8627b376ebc6e",
+      "bytes": 193420,
+      "from": "494d pages 15-20 — spatial forms refined from each scene"
+    },
+    {
+      "name": "06-study-models.webp",
+      "sha256": "39add41c7b1ef60ed9f25f93ab8d8345539a01e582c031717d3d75dc06e13438",
+      "bytes": 186738,
+      "from": "494d pages 15-20 — six study models of the scenes"
+    },
+    {
+      "name": "07-long-section.webp",
+      "sha256": "cbd0e223a1894e0c701121888c84ae1216ff3e047b390a2588d097ad9752c8d1",
+      "bytes": 115580,
+      "from": "494d pages 15-20 — the long sequence of the first building"
+    },
+    {
+      "name": "08-tower-renders.webp",
+      "sha256": "53b1645460521d5c2d4abb9d3e985df1bef606f57c73386665eea4e0365d7451",
+      "bytes": 476920,
+      "from": "494d pages 15-20 — renders of the hall and the shattered tower"
+    },
+    {
+      "name": "09-vertical-section.webp",
+      "sha256": "f0fb595fcf7810171f3b2940f175c60cae0a8e67e0a801bcb4d088c7d4fb1dd6",
+      "bytes": 245406,
+      "from": "494d pages 15-20 — vertical section through the tower"
+    },
+    {
+      "name": "10-bridge-section.webp",
+      "sha256": "d43b6a669d8f5152c2e3a7f60a09c992617ef9296fe7d7dc3a438584afc3bb2c",
+      "bytes": 431912,
+      "from": "494d pages 15-20 — bridges linking the rocky masses"
+    }
+  ]
+}
