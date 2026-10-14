@@ -40,12 +40,6 @@
       "from": "page 10 — the Swirl: entrance, installation and activities views, x 14.2–25.2 %, y 1–47 %"
     },
     {
-      "name": "07-water-treatment-before-after.webp",
-      "sha256": "353ee55f65489761568d0e417021d4c04243010f9860cb8e46a53f590eee2029",
-      "bytes": 18634,
-      "from": "page 10 — water treatment before and after, x 25.4–32.1 %, y 1–44 %"
-    },
-    {
       "name": "08-water-purification-process.webp",
       "sha256": "97c0f9f9f98e6349dacc08cc92ae9bd49f7f31721808e6212c4ed50a31185242",
       "bytes": 18788,
@@ -62,6 +56,12 @@
       "sha256": "9548e983a2abd9433e71eb96b2ef70a586f166a0e4210b36753529135dac823e",
       "bytes": 64868,
       "from": "page 10 — mining park aerial view, x 34.5–50 %, y 46–99 %"
+    },
+    {
+      "name": "11-site-and-swot-analysis.webp",
+      "sha256": "5e600b4929fc46f5125add3fa3edd1bb6383fe1a6f607bb633689be2ad78a3ba",
+      "bytes": 252418,
+      "from": "restored reference image (site and swot analysis)"
     }
   ]
 }

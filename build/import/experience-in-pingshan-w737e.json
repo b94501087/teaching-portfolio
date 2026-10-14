@@ -1,0 +1,16 @@
+{
+  "project": "Experience in Pingshan",
+  "dest": "assets/board/experience-in-pingshan",
+  "note": "w737e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-and-swot-analysis.webp",
+      "sha256": "5e600b4929fc46f5125add3fa3edd1bb6383fe1a6f607bb633689be2ad78a3ba",
+      "bytes": 252418,
+      "from": "restored reference image (site and swot analysis)"
+    }
+  ],
+  "delete": [
+    "assets/board/experience-in-pingshan/07-water-treatment-before-after.webp"
+  ]
+}
