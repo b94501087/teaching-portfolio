@@ -50,6 +50,12 @@
       "sha256": "db3eedec35ce6e5b36dc1c7c55e6b45728f6c7e0f09501eca4ed119f84d8c011",
       "bytes": 16186,
       "from": "cd80 page 13 — body detail"
+    },
+    {
+      "name": "09-reassembling-by-hand.webp",
+      "sha256": "4bea803d150bb6e8042521757771fc40f20c213267ee9ea2ab867e7cd00dec7f",
+      "bytes": 34020,
+      "from": "restored reference image (reassembling by hand)"
     }
   ]
 }

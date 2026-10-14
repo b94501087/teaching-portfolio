@@ -50,6 +50,18 @@
       "sha256": "19456faec7311a0ad7a3c7e70ba63dd2267768edbb0b8f4c9bd76fb7446808d4",
       "bytes": 41040,
       "from": "cd80 page 15 — dark view"
+    },
+    {
+      "name": "09-self-portrait-drawing.webp",
+      "sha256": "451b52fcf202b542b57ef2369706bd304354f874484621c4f023483299392754",
+      "bytes": 229530,
+      "from": "restored reference image (self portrait drawing)"
+    },
+    {
+      "name": "10-portrait-photo.webp",
+      "sha256": "a9be689dd64a0c95b090363d8adfc8fca8a10aab0e8d88aed82187788ff3b90a",
+      "bytes": 9020,
+      "from": "restored reference image (portrait photo)"
     }
   ]
 }
