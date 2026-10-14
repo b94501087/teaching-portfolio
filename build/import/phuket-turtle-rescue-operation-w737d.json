@@ -1,0 +1,19 @@
+{
+  "project": "Phuket Turtle Rescue Operation",
+  "dest": "assets/board/phuket-turtle-rescue-operation",
+  "note": "w737d restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-site-mapping.webp",
+      "sha256": "b4fa0c03abb46c271a68f347d0ed041bbfdb513570a4e081aa2080488e55d6f0",
+      "bytes": 127376,
+      "from": "restored reference image (site mapping)"
+    },
+    {
+      "name": "10-news-and-humanistic.webp",
+      "sha256": "15c709cea99bc764adfa431c2499844f1b8d7de19625ac7e25b5a6b0344e6131",
+      "bytes": 110300,
+      "from": "restored reference image (news and humanistic)"
+    }
+  ]
+}
