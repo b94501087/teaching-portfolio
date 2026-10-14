@@ -1,0 +1,49 @@
+{
+  "project": "Tower of Memory",
+  "dest": "assets/board/tower-of-memory-glue-blocks-sticks-and-old-toys",
+  "note": "Portfolio e3bb page 6 cropped to 7 images, WebP q88 (PIL). Not used: title lettering, film and game names, explanatory text, film/game image collages, process photo with a hand.",
+  "files": [
+    {
+      "name": "01-memory-tower.webp",
+      "sha256": "4bbaac92a631e4e34fe6205069ba26f5837099d5afa53a5fe6a1b0c1c6c122d2",
+      "bytes": 233352,
+      "from": "e3bb page 6 — the tower of memory"
+    },
+    {
+      "name": "02-tower-drawing.webp",
+      "sha256": "467a3adae77197b8506f0ae9beea283aa40722f4692f323749a9c1f72469f71a",
+      "bytes": 99768,
+      "from": "e3bb page 6 — a drawing of the tower"
+    },
+    {
+      "name": "03-detail-a.webp",
+      "sha256": "c60b36445e3a05224acb627e6b2c24d23b553b241b687f6d87da0ada6e7f926c",
+      "bytes": 19448,
+      "from": "e3bb page 6 — toys within the frame"
+    },
+    {
+      "name": "04-detail-b.webp",
+      "sha256": "1c7d9389dd5365f9478e353f90b51aba3a93186d7c5e762f4aaa44e5192fd44a",
+      "bytes": 15314,
+      "from": "e3bb page 6 — coloured blocks and sticks"
+    },
+    {
+      "name": "05-detail-c.webp",
+      "sha256": "6375bd3a762ee920062bf1c837df347ecf9f84afe24227e9646b02e878525909",
+      "bytes": 20282,
+      "from": "e3bb page 6 — a crowded level of the tower"
+    },
+    {
+      "name": "06-detail-d.webp",
+      "sha256": "cfabeaac400be74904bd72d3d25cb50c1b34f4b77dab280dbe38b97e9821ed72",
+      "bytes": 20584,
+      "from": "e3bb page 6 — plants and toys among the sticks"
+    },
+    {
+      "name": "07-glue-blocks.webp",
+      "sha256": "f6374851d3689cd76220ee205af7c081cf1593b483a58ffeb86deef7278d683a",
+      "bytes": 15852,
+      "from": "e3bb page 6 — glue blocks with embedded objects"
+    }
+  ]
+}
