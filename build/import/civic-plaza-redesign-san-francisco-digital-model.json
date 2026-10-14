@@ -38,6 +38,18 @@
       "sha256": "b635172f2d6c76b13da01dd35f7df32c9bf0dcecd00fec0c4bfb1ccdff284d6d",
       "bytes": 7236,
       "from": "f986 page 11 — terrace render"
+    },
+    {
+      "name": "07-site-map-and-photos.webp",
+      "sha256": "c90ad2a8a88e7a6bd3bd8b448713f6c4c11e9ac38ff306f220dd6ff5052a117d",
+      "bytes": 51342,
+      "from": "restored reference image (site map and photos)"
+    },
+    {
+      "name": "08-rock-and-shore-references.webp",
+      "sha256": "770b8a084a821fe571d4d2e1fc634d9c3f5dfc91e17d019e2d562d6feca81537",
+      "bytes": 32860,
+      "from": "restored reference image (rock and shore references)"
     }
   ]
 }
