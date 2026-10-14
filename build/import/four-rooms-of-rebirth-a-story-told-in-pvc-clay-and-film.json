@@ -1,0 +1,49 @@
+{
+  "project": "Four Rooms of Rebirth",
+  "dest": "assets/board/four-rooms-of-rebirth-a-story-told-in-pvc-clay-and-film",
+  "note": "Portfolio 711d pages 2-4 cropped to 7 images, WebP q88 (PIL). Not used: cover, title lettering, film title, character names and plot text, film stills, film poster, materials-labelled main photo, process photos with hands and a branded glue tube, handwritten annotations.",
+  "files": [
+    {
+      "name": "01-tower-model.webp",
+      "sha256": "4fabebc7059bb9fa418c8a17cc794737e0c6e6efad787239013f11f2aefd23fc",
+      "bytes": 237684,
+      "from": "711d pages 2-4 — the finished tower of four rooms"
+    },
+    {
+      "name": "02-line-drawing.webp",
+      "sha256": "26903527b63d71536b7d62be73dd51fc91523c690497914c3edefe719bb2dbcf",
+      "bytes": 217676,
+      "from": "711d pages 2-4 — line drawing of the tower"
+    },
+    {
+      "name": "03-detail-stairs.webp",
+      "sha256": "0640a94e890945a17ecc499ec7b58a29fb6f8d28c669b185a98fc3a9d022c63e",
+      "bytes": 54512,
+      "from": "711d pages 2-4 — translucent layers above the stairs"
+    },
+    {
+      "name": "04-detail-balls.webp",
+      "sha256": "b1f9411bd5c5dbd1a9a2e32978332764b3811a0b1ba19620f9a75d941b454849",
+      "bytes": 32738,
+      "from": "711d pages 2-4 — foam balls and blue stairs"
+    },
+    {
+      "name": "05-detail-side.webp",
+      "sha256": "a355b501084e9fe02ae1ad532b046c207e4bad4643671921cf4b6888c5ce6f27",
+      "bytes": 116740,
+      "from": "711d pages 2-4 — the black box beneath the rings"
+    },
+    {
+      "name": "06-concept-sketch.webp",
+      "sha256": "1c289a27c3bd3a0a29efb54db11796dc55ee598f48c52539fc81d8b2901a733c",
+      "bytes": 77888,
+      "from": "711d pages 2-4 — coloured sketch of the four spaces"
+    },
+    {
+      "name": "07-stick-frame.webp",
+      "sha256": "4ad97c51ab88c0412e2cc308934709a8926aa47768eea145575301a805c9d664",
+      "bytes": 9528,
+      "from": "711d pages 2-4 — an early frame of sticks and clay"
+    }
+  ]
+}
