@@ -1,0 +1,13 @@
+{
+  "project": "Human Stream",
+  "dest": "assets/board/human-stream-comfort-zone-plaster-and-wood",
+  "note": "n738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-shopping-mall-video-frames.webp",
+      "sha256": "8c76d4831a9b3b8dd2cb86b8a021530680ec8681f5e779d9cd296f211aac73ac",
+      "bytes": 100004,
+      "from": "restored reference image (shopping mall video frames)"
+    }
+  ]
+}
