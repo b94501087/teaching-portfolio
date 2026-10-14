@@ -50,6 +50,18 @@
       "sha256": "58d6378550ffc8af9ce0e6c36e63f3aaf5127248e554d31b2b575918028c7f8f",
       "bytes": 52922,
       "from": "page 14 — environmental cleaning process and floor plans, x 50–100 %, y 66–100 %"
+    },
+    {
+      "name": "09-global-warming-and-local-situation.webp",
+      "sha256": "9e122da6ef333b7d7894693fcb05c22e04c36c36ff4d834dec4d0c8aba2556ba",
+      "bytes": 277592,
+      "from": "restored reference image (global warming and local situation)"
+    },
+    {
+      "name": "10-user-and-theory-analysis.webp",
+      "sha256": "2f158e37e711c591763e04feadee80b815131c77451bdbf8a4e7248afda30a01",
+      "bytes": 254072,
+      "from": "restored reference image (user and theory analysis)"
     }
   ]
 }

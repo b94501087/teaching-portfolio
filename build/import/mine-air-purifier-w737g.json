@@ -1,0 +1,19 @@
+{
+  "project": "Mine Air Purifier",
+  "dest": "assets/board/mine-air-purifier",
+  "note": "w737g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-global-warming-and-local-situation.webp",
+      "sha256": "9e122da6ef333b7d7894693fcb05c22e04c36c36ff4d834dec4d0c8aba2556ba",
+      "bytes": 277592,
+      "from": "restored reference image (global warming and local situation)"
+    },
+    {
+      "name": "10-user-and-theory-analysis.webp",
+      "sha256": "2f158e37e711c591763e04feadee80b815131c77451bdbf8a4e7248afda30a01",
+      "bytes": 254072,
+      "from": "restored reference image (user and theory analysis)"
+    }
+  ]
+}
