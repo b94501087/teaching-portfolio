@@ -1,0 +1,13 @@
+{
+  "project": "Transcoding Traditional Chinese Architecture",
+  "dest": "assets/board/transcoding-traditional-architecture-mortise-tenon-pavilion",
+  "note": "w738d restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-pavilion-reference-drawings.webp",
+      "sha256": "fbf3e5c0ca9ddda1c28ac8b1b67ae5d3cae7bcb0c103a68276d20bc367a69dcb",
+      "bytes": 219724,
+      "from": "restored reference image (pavilion reference drawings)"
+    }
+  ]
+}
