@@ -1,0 +1,61 @@
+{
+  "project": "Learning from Cube",
+  "dest": "assets/board/learning-from-cube-foam-blocks-and-nested-frames",
+  "note": "Portfolio 250b pages 14-15 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, smaller cube photo rows, brand-name toy reference.",
+  "files": [
+    {
+      "name": "01-foam-cube-model.webp",
+      "sha256": "32387e96c27691b1575536ad4b14228f2ab8e4750c1a30ce5985630a87043795",
+      "bytes": 30082,
+      "from": "250b pages 14-15 — the stacked foam cube model"
+    },
+    {
+      "name": "02-perspective-studies.webp",
+      "sha256": "5a630bcade0ec5d4631493cc32e9db14b84560d7cc9cec9872285e984d114761",
+      "bytes": 75388,
+      "from": "250b pages 14-15 — perspective studies of cubes"
+    },
+    {
+      "name": "03-foam-studies.webp",
+      "sha256": "185b7aafe29a1bac8387fe5d076b9a9796fb8691a0f2a89eb0149c60766dd1e2",
+      "bytes": 35002,
+      "from": "250b pages 14-15 — foam cube arrangements"
+    },
+    {
+      "name": "04-multiple-views.webp",
+      "sha256": "2fabe112f509eccd2f4504ba2c391d355e0de36ce451758ea68ac0a52ff258d4",
+      "bytes": 32276,
+      "from": "250b pages 14-15 — multiple views of the model"
+    },
+    {
+      "name": "05-axonometric.webp",
+      "sha256": "91dc3acf6e1e394e88f5ecdcd1ca0ecc291aaea801d64984652d147073733bee",
+      "bytes": 46134,
+      "from": "250b pages 14-15 — axonometric drawings"
+    },
+    {
+      "name": "06-nine-centimetre-cubes.webp",
+      "sha256": "d8e833def0150004bd7cec1b4e957d935c29f7e5bc5f58ca1943981ae6f6fe8d",
+      "bytes": 40930,
+      "from": "250b pages 14-15 — nine-centimetre cubes from open to closed"
+    },
+    {
+      "name": "07-combination-a.webp",
+      "sha256": "b82049145fc8e4ac75e838b16c249252454eb7728f623925b08e07da2bea1ea5",
+      "bytes": 48620,
+      "from": "250b pages 14-15 — a frame cube holding a smaller frame"
+    },
+    {
+      "name": "08-combination-b.webp",
+      "sha256": "317a744d98e96afedacdc3917b64f8cd2f774cdc4fa4941e89c74f0313ce77ea",
+      "bytes": 40402,
+      "from": "250b pages 14-15 — a cube within a panelled cube"
+    },
+    {
+      "name": "09-nested-cube.webp",
+      "sha256": "7b8f4a19e3291d7fed070d0b9c717876f4ae5dd00807bb9dedc881bb5050c884",
+      "bytes": 18984,
+      "from": "250b pages 14-15 — a cube set on its corner inside another"
+    }
+  ]
+}
