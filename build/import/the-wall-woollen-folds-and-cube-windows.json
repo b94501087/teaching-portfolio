@@ -40,22 +40,28 @@
       "from": "a458 pages 6-7 — window cubes lit up"
     },
     {
-      "name": "07-cube-field-detail-b.webp",
-      "sha256": "b72fd23592dd52231c7b8ecb3e4b7ae608abe406b727703623df629839a097f4",
-      "bytes": 38228,
-      "from": "a458 pages 6-7 — the cube pattern"
-    },
-    {
-      "name": "08-cube-field-detail-c.webp",
-      "sha256": "ee0a1a89be6fa9e71823a388d6398fdd1f38b559d2185bc30cf9589a1ce2e95e",
-      "bytes": 13946,
-      "from": "a458 pages 6-7 — window cubes in light"
-    },
-    {
       "name": "09-light-through-window.webp",
       "sha256": "c4911532a47660b14c2db07009df62dd06425e75ad0e3b0503067e665f631928",
       "bytes": 17748,
       "from": "a458 pages 6-7 — light through a window"
+    },
+    {
+      "name": "10-old-street-photo.webp",
+      "sha256": "7e9081ad7111154d8ee1204893334f253419542c8846cd2cc06da4a6ae6bee2f",
+      "bytes": 22996,
+      "from": "restored reference image (old street photo)"
+    },
+    {
+      "name": "11-knitting-by-hand.webp",
+      "sha256": "dcd516c094020d5e39409f56f3684e3a227cc2bde726163203a49e969fcef78c",
+      "bytes": 9646,
+      "from": "restored reference image (knitting by hand)"
+    },
+    {
+      "name": "12-bedroom-photo.webp",
+      "sha256": "e37171ee85af163e9f47896dc65ccd838efb2bf00ee1d772f5f73bf6b4a29cd2",
+      "bytes": 36916,
+      "from": "restored reference image (bedroom photo)"
     }
   ]
 }
