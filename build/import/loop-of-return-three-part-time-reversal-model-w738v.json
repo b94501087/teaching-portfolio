@@ -1,0 +1,19 @@
+{
+  "project": "Loop of Return",
+  "dest": "assets/board/loop-of-return-three-part-time-reversal-model",
+  "note": "w738v restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-film-stills.webp",
+      "sha256": "a3797d36e0d3b8770b21eaaa11bd7594b3b1b10f0333784cd64d591579c4d6ee",
+      "bytes": 59750,
+      "from": "restored reference image (film stills)"
+    },
+    {
+      "name": "09-building-by-hand.webp",
+      "sha256": "4d2184cf46f6710a57f2e35bd8b6924c0da0a9e9861580ebb3c3263b33dac85a",
+      "bytes": 69512,
+      "from": "restored reference image (building by hand)"
+    }
+  ]
+}
