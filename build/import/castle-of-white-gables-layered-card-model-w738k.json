@@ -1,0 +1,25 @@
+{
+  "project": "Castle of White Gables",
+  "dest": "assets/board/castle-of-white-gables-layered-card-model",
+  "note": "w738k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-film-collage.webp",
+      "sha256": "6784cbb1714f9445e4f2f65216ed1643006851c682be6557af606bf6334d3f83",
+      "bytes": 196710,
+      "from": "restored reference image (film collage)"
+    },
+    {
+      "name": "07-making-process-photos.webp",
+      "sha256": "fda1d9e1d211bad7b2c6d870091723493c439cc0871367bb2cb6f523cd99f67f",
+      "bytes": 172964,
+      "from": "restored reference image (making process photos)"
+    },
+    {
+      "name": "08-themed-toy-scenes.webp",
+      "sha256": "97807c49ef022c9dfef96b17651156a0f12af1301d995c15e5d98c9160e27773",
+      "bytes": 98426,
+      "from": "restored reference image (themed toy scenes)"
+    }
+  ]
+}
