@@ -32,6 +32,12 @@
       "sha256": "eafef859c500f916c1dd11597fe4738a0da4f3344bc5b4dc95acd868b6af3838",
       "bytes": 64676,
       "from": "0687 page 4 — filter tests"
+    },
+    {
+      "name": "06-glacier-reference-photo.webp",
+      "sha256": "680bbbc75757bf86ca4a0affac308a3f97079c46380996af3df671e17da9f86e",
+      "bytes": 19996,
+      "from": "restored reference image (glacier reference photo)"
     }
   ]
 }

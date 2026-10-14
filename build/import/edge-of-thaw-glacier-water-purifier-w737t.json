@@ -1,0 +1,13 @@
+{
+  "project": "Edge of Thaw",
+  "dest": "assets/board/edge-of-thaw-glacier-water-purifier",
+  "note": "w737t restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-glacier-reference-photo.webp",
+      "sha256": "680bbbc75757bf86ca4a0affac308a3f97079c46380996af3df671e17da9f86e",
+      "bytes": 19996,
+      "from": "restored reference image (glacier reference photo)"
+    }
+  ]
+}
