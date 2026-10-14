@@ -1,0 +1,13 @@
+{
+  "project": "The Home of Pottery",
+  "dest": "assets/board/home-of-pottery-jingdezhen",
+  "note": "w737j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-location-and-user-groups.webp",
+      "sha256": "739187be6995bd2a1332188c5d5357f5016a352bf5a5ce87ed4239a64c4c95f8",
+      "bytes": 201598,
+      "from": "restored reference image (location and user groups)"
+    }
+  ]
+}
