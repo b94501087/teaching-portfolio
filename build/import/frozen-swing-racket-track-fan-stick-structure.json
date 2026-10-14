@@ -28,18 +28,6 @@
       "from": "312b pages 5-7 — the reconstructed space"
     },
     {
-      "name": "05-collage-detail-left.webp",
-      "sha256": "6055a3b803cdac4f27059c31e4026b8830fe80613b1175891a4f6481ca269939",
-      "bytes": 59064,
-      "from": "312b pages 5-7 — collage detail"
-    },
-    {
-      "name": "06-collage-detail-centre.webp",
-      "sha256": "29c6786ca2902c7fa990bb417c2d33fce01f286a5884fefe6f14743dee51d52d",
-      "bytes": 60616,
-      "from": "312b pages 5-7 — another collage detail"
-    },
-    {
       "name": "07-swing-line-drawing.webp",
       "sha256": "c2cf51d926d4858b27cbaa8bc3a3dd0fbace9f041436ee75541e6a5e0e7ef35a",
       "bytes": 223814,
@@ -62,6 +50,18 @@
       "sha256": "e90e94df262729f59667a815daf7214c6eba64be49324244b0fa29f8134da784",
       "bytes": 82082,
       "from": "312b pages 5-7 — fans stacked higher"
+    },
+    {
+      "name": "11-racket-swing-photos.webp",
+      "sha256": "9227f899236bb262b1229a0383660f94987f0228c4feb6ed754be5badcfc5ff3",
+      "bytes": 41938,
+      "from": "restored reference image (racket swing photos)"
+    },
+    {
+      "name": "12-shaping-fans-by-hand.webp",
+      "sha256": "257fb0fb800958ade5ef0ad848875593c90980145b90c05f370f4b8bd0ec8b83",
+      "bytes": 27372,
+      "from": "restored reference image (shaping fans by hand)"
     }
   ]
 }

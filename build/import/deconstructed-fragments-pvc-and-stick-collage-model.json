@@ -46,22 +46,22 @@
       "from": "312b pages 8-9 — the first pvc pieces"
     },
     {
-      "name": "08-cut-pvc-shapes.webp",
-      "sha256": "6d9a53942c80de73e5f69b1004014f4673d811321a22906e23da4f48f8b9fcc2",
-      "bytes": 11976,
-      "from": "312b pages 8-9 — cut pvc shapes"
-    },
-    {
-      "name": "09-sticks-on-base.webp",
-      "sha256": "168555d980f0a8253a34dd0a2d6c13782911c40a115042a4e49a000e351e9026",
-      "bytes": 21914,
-      "from": "312b pages 8-9 — sticks on the base"
-    },
-    {
       "name": "11-model-nearly-done.webp",
       "sha256": "c7367140e83c9994a23ac1f71692b0841da07d95984914b0d9c8776ef9d3bfde",
       "bytes": 13974,
       "from": "312b pages 8-9 — the model nearly finished"
+    },
+    {
+      "name": "12-building-photo-collage.webp",
+      "sha256": "6aa9d94194a7f441939066eda23d79dfff62fe00772d476b945df969f0cedc54",
+      "bytes": 168906,
+      "from": "restored reference image (building photo collage)"
+    },
+    {
+      "name": "13-photo-fragments-on-mat.webp",
+      "sha256": "60c0596ee7ed542d6dae904cf7cb15cf4ea77994e2fdbedf8eec836ca56e1dc3",
+      "bytes": 127680,
+      "from": "restored reference image (photo fragments on mat)"
     }
   ]
 }
