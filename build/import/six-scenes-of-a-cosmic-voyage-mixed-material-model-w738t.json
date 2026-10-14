@@ -1,0 +1,23 @@
+{
+  "project": "Six Scenes of a Cosmic Voyage",
+  "dest": "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model",
+  "note": "w738t restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-film-poster.webp",
+      "sha256": "53716a7fd47e9600f493be6e900181d9338c52af64e286ed885f552ddec1ce44",
+      "bytes": 16722,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "12-process-photos.webp",
+      "sha256": "21ee368d382adbf8e904ddaece93af27ff9817620c685e9f629266826675cf23",
+      "bytes": 93220,
+      "from": "restored reference image (process photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/04-acrylic-stick-grid.webp",
+    "assets/board/six-scenes-of-a-cosmic-voyage-mixed-material-model/07-mirror-slice-cluster.webp"
+  ]
+}
