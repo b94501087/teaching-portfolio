@@ -44,6 +44,24 @@
       "sha256": "419527e8e9512a1213e9f6e744ac7a8d7b5555191f1dc9b2358d8eab1f927fd4",
       "bytes": 43602,
       "from": "956b pages 2-3 — film around the frame"
+    },
+    {
+      "name": "08-film-stills.webp",
+      "sha256": "80cf5befda6c0f3b7d636857b01863738b93c07cb0ab4664793d7e5aa1bee146",
+      "bytes": 58220,
+      "from": "restored reference image (film stills)"
+    },
+    {
+      "name": "09-gluing-the-frame-by-hand.webp",
+      "sha256": "e34ec23ab90d2db6bebb507741505b9342222a0520c1f81fe967b420c5175927",
+      "bytes": 46616,
+      "from": "restored reference image (gluing the frame by hand)"
+    },
+    {
+      "name": "10-wrapping-film-by-hand.webp",
+      "sha256": "bc3be4e936d3433807648b3056c3c8cf44824885582090ce842937ca3d95ad9c",
+      "bytes": 68444,
+      "from": "restored reference image (wrapping film by hand)"
     }
   ]
 }

@@ -10,28 +10,10 @@
       "from": "956b pages 6-7 — the curved slice tower"
     },
     {
-      "name": "02-slice-cluster-close.webp",
-      "sha256": "59309762ffa436b349812ea586835b6dbe60bcae48997432d72e0eb3e9f2a360",
-      "bytes": 89632,
-      "from": "956b pages 6-7 — the cluster up close"
-    },
-    {
       "name": "03-spiral-from-above.webp",
       "sha256": "ed774d7abbcab26c2057da51984a837a459f3267d7f2f330245edcb4bd2b611b",
       "bytes": 39080,
       "from": "956b pages 6-7 — a spiral from above"
-    },
-    {
-      "name": "04-slice-canyon.webp",
-      "sha256": "6ab794bd0df82863edd231c518943d433af14f90e95b0daae11243345b3a2d76",
-      "bytes": 28568,
-      "from": "956b pages 6-7 — a canyon of slices"
-    },
-    {
-      "name": "05-slice-street-view.webp",
-      "sha256": "c68fec6692af39bce0b8168b389cacd2645c4f609e1140ea1175c157fa9e921a",
-      "bytes": 21624,
-      "from": "956b pages 6-7 — a street-like view"
     },
     {
       "name": "06-curve-line-drawing.webp",
@@ -62,6 +44,24 @@
       "sha256": "0bb5b09b951e1f62b4aa400224cd0409d9a4c13e16b618670c0a491dbd2ad5b5",
       "bytes": 19380,
       "from": "956b pages 6-7 — slice module tests"
+    },
+    {
+      "name": "11-sneaker-photo.webp",
+      "sha256": "a14bfbe0cc43c49beee19e7713a6b58c83edc9a4a489688dd063b92d4c4e74d9",
+      "bytes": 17980,
+      "from": "restored reference image (sneaker photo)"
+    },
+    {
+      "name": "12-foot-photos.webp",
+      "sha256": "871d6d7b29aae72d56a736f5f52421a5139dd9ffcdf6af5bc6efebe26128fa6b",
+      "bytes": 16114,
+      "from": "restored reference image (foot photos)"
+    },
+    {
+      "name": "13-foot-anatomy-diagram.webp",
+      "sha256": "5d54f784bfb78404fd00032371b9965b344127ed4aef28679c87e9966b8d1393",
+      "bytes": 17122,
+      "from": "restored reference image (foot anatomy diagram)"
     }
   ]
 }
