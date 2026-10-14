@@ -1,0 +1,29 @@
+{
+  "project": "The Wall",
+  "dest": "assets/board/the-wall-woollen-folds-and-cube-windows",
+  "note": "w738u restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-old-street-photo.webp",
+      "sha256": "7e9081ad7111154d8ee1204893334f253419542c8846cd2cc06da4a6ae6bee2f",
+      "bytes": 22996,
+      "from": "restored reference image (old street photo)"
+    },
+    {
+      "name": "11-knitting-by-hand.webp",
+      "sha256": "dcd516c094020d5e39409f56f3684e3a227cc2bde726163203a49e969fcef78c",
+      "bytes": 9646,
+      "from": "restored reference image (knitting by hand)"
+    },
+    {
+      "name": "12-bedroom-photo.webp",
+      "sha256": "e37171ee85af163e9f47896dc65ccd838efb2bf00ee1d772f5f73bf6b4a29cd2",
+      "bytes": 36916,
+      "from": "restored reference image (bedroom photo)"
+    }
+  ],
+  "delete": [
+    "assets/board/the-wall-woollen-folds-and-cube-windows/07-cube-field-detail-b.webp",
+    "assets/board/the-wall-woollen-folds-and-cube-windows/08-cube-field-detail-c.webp"
+  ]
+}
