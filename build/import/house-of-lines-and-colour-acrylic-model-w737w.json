@@ -1,0 +1,13 @@
+{
+  "project": "House of Lines and Colour",
+  "dest": "assets/board/house-of-lines-and-colour-acrylic-model",
+  "note": "w737w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-source-paintings.webp",
+      "sha256": "ad8f4b04c3be396b9f0406214e5b8b82228dc4073c520842564484a951693981",
+      "bytes": 34356,
+      "from": "restored reference image (source paintings)"
+    }
+  ]
+}

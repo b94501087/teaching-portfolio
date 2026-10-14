@@ -56,6 +56,12 @@
       "sha256": "993acb00bf57470b5d7431d28f958c01ee2295f0a7a0729a8ace5c86fa093466",
       "bytes": 49246,
       "from": "606b page 6 — view f"
+    },
+    {
+      "name": "10-source-paintings.webp",
+      "sha256": "ad8f4b04c3be396b9f0406214e5b8b82228dc4073c520842564484a951693981",
+      "bytes": 34356,
+      "from": "restored reference image (source paintings)"
     }
   ]
 }
