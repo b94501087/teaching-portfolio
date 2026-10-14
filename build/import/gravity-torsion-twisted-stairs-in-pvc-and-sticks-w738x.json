@@ -1,0 +1,30 @@
+{
+  "project": "Gravity Torsion",
+  "dest": "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks",
+  "note": "w738x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-accidental-gravity-collage.webp",
+      "sha256": "4d8e14490aa77ea64da765d31bb3443b3f7dee06baadaf1b87d20e59f5b86d99",
+      "bytes": 40096,
+      "from": "restored reference image (accidental gravity collage)"
+    },
+    {
+      "name": "12-title-graphic.webp",
+      "sha256": "0ad213c3077772b7f23d9cc560367673f28dd23ff0aa13d8a5c211eff9903071",
+      "bytes": 10688,
+      "from": "restored reference image (title graphic)"
+    },
+    {
+      "name": "13-making-stairs-by-hand.webp",
+      "sha256": "293bf4e1862e482f658578fd8813ceaa71946c3afe7b22a74ba2bd5149ca30ae",
+      "bytes": 68782,
+      "from": "restored reference image (making stairs by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/04-stair-tower-close-a.webp",
+    "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/05-stair-tower-close-b.webp",
+    "assets/board/gravity-torsion-twisted-stairs-in-pvc-and-sticks/09-crossing-stairs-view.webp"
+  ]
+}
