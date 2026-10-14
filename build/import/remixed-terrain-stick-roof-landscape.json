@@ -40,10 +40,28 @@
       "from": "56b3 pages 8-12 — terrain pieces joined"
     },
     {
-      "name": "07-terrain-piece-side.webp",
-      "sha256": "1a4fd4a9f030c51c804aa10c7b8329b094ff5429fc9fee23bb553b63e001298d",
-      "bytes": 4192,
-      "from": "56b3 pages 8-12 — a terrain piece from the side"
+      "name": "08-game-title-art.webp",
+      "sha256": "a892554e3a894acccdb5fecd684ecd567ecd83ad67f300abdc2d88df3bc0f438",
+      "bytes": 21702,
+      "from": "restored reference image (game title art)"
+    },
+    {
+      "name": "09-game-scene-painting.webp",
+      "sha256": "f63e2b9583370cf83dd95d751799bf5ceda69ee80a1c126b271d2358dca0030b",
+      "bytes": 108276,
+      "from": "restored reference image (game scene painting)"
+    },
+    {
+      "name": "10-sniper-scene-with-toy.webp",
+      "sha256": "252a64ec94c131279f29d845d2b37b6ff0bcfaf2377246958a6016a8079bc2a3",
+      "bytes": 155220,
+      "from": "restored reference image (sniper scene with toy)"
+    },
+    {
+      "name": "11-making-by-hand.webp",
+      "sha256": "d637ee814b6723445fd60007e64762f88b70d8fd936605e1d627c2a546e1d7dd",
+      "bytes": 26044,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }

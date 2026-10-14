@@ -56,6 +56,12 @@
       "sha256": "58aee9e53ddc290f61282f2ff98c599ff02785c2bb8c4b783d63609aa006e64c",
       "bytes": 29682,
       "from": "56b3 pages 15-17 — a folded plane test"
+    },
+    {
+      "name": "10-snooker-players-photo.webp",
+      "sha256": "7f17f8f04c27a99a7c2db527655827a38434d379284c64080f264e53024c2f1a",
+      "bytes": 46378,
+      "from": "restored reference image (snooker players photo)"
     }
   ]
 }
