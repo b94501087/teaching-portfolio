@@ -1,0 +1,55 @@
+{
+  "project": "Green Into the House",
+  "dest": "assets/board/green-into-house-wooden-maze-with-dried-flowers",
+  "note": "Portfolio d39e page 2 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "fe755f620e6b170473a4541272e1fef5af52a2cffedc915b71371d6707e327fe",
+      "bytes": 107724,
+      "from": "d39e page 2 — the final model with dried flowers"
+    },
+    {
+      "name": "02-first-sketch.webp",
+      "sha256": "6382fda0f354f6a83fc90bcdc5e9dd901c3d0f45dedddc59026c8346e27c3094",
+      "bytes": 21200,
+      "from": "d39e page 2 — a first sketch of plants on the pattern"
+    },
+    {
+      "name": "03-pattern-crop.webp",
+      "sha256": "d6bf3bad994f4b0f3afff7c949389a4d4ccd955e97df614e920b66735d454099",
+      "bytes": 4982,
+      "from": "d39e page 2 — the cropped black-and-white pattern"
+    },
+    {
+      "name": "04-process-models.webp",
+      "sha256": "1efb323d7eae2379b8188906f1a16615d20bfeb4af7c1d31078aa35833bfcbff",
+      "bytes": 20306,
+      "from": "d39e page 2 — process models of sticks and planks"
+    },
+    {
+      "name": "05-framed-model.webp",
+      "sha256": "dfed17904448e2c6417f20556325080ce1320d4339a27f811c8919c210ea4175",
+      "bytes": 14786,
+      "from": "d39e page 2 — the model in its frame"
+    },
+    {
+      "name": "06-frames-and-flowers.webp",
+      "sha256": "de5b7776ee721af9ca44aed2bcc64fbaa18b97b955e04dbc3ea805d4bffbbd71",
+      "bytes": 172278,
+      "from": "d39e page 2 — frames and flowers in close view"
+    },
+    {
+      "name": "07-plants-in-the-maze.webp",
+      "sha256": "5cee896f70b65c84765c23f60291867a1d6d094179bf2740a9a2d137196d23de",
+      "bytes": 85996,
+      "from": "d39e page 2 — plants rising through the maze"
+    },
+    {
+      "name": "08-window-planks.webp",
+      "sha256": "c57e48bff893ed141d76ba2f89a7183f7beb725e9363563e267a77ed796ca7d6",
+      "bytes": 94586,
+      "from": "d39e page 2 — window planks among the stems"
+    }
+  ]
+}
