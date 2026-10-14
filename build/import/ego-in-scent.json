@@ -28,12 +28,6 @@
       "from": "page 8 — extraction process diagram, x 0–48.5 %, y 0–50 %"
     },
     {
-      "name": "05-block-generation.webp",
-      "sha256": "adae6cc9f1492f2feb730ca00cbfd830c95ee89cabee576271508f65f9f472cb",
-      "bytes": 110432,
-      "from": "page 8 — block generation, x 0–27.5 %, y 52–100 %"
-    },
-    {
       "name": "06-streamline-organization.webp",
       "sha256": "9284ca97a8f22abceda73528310c19fb88a6357f8af64eb56f5d6708b5806c98",
       "bytes": 71472,
@@ -62,6 +56,12 @@
       "sha256": "d30f7478b95f64bf7077523274933ec701c9bf440e2386ee832e29a06bb4b1f3",
       "bytes": 49132,
       "from": "page 9 — showroom plan and materials, x 76.2–98.5 %, y 58.5–100 %"
+    },
+    {
+      "name": "11-site-and-senses-research.webp",
+      "sha256": "29a7733d97b932f6f3ecca4369d3456776a99d034f555777d9b31ce7e1368ad7",
+      "bytes": 216630,
+      "from": "restored reference image (site and senses research)"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "project": "Ego in Scent",
+  "dest": "assets/board/ego-in-scent",
+  "note": "w737f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-and-senses-research.webp",
+      "sha256": "29a7733d97b932f6f3ecca4369d3456776a99d034f555777d9b31ce7e1368ad7",
+      "bytes": 216630,
+      "from": "restored reference image (site and senses research)"
+    }
+  ],
+  "delete": [
+    "assets/board/ego-in-scent/05-block-generation.webp"
+  ]
+}
