@@ -1,0 +1,67 @@
+{
+  "project": "Tower and Space",
+  "dest": "assets/board/tower-and-space-four-storeys-of-changing-scale",
+  "note": "Portfolio 4179 pages 9-10 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, film still sequence, quoted literary passages with author names, model data.",
+  "files": [
+    {
+      "name": "01-four-storey-tower.webp",
+      "sha256": "cdb7e4100ceccab861b1c4f8199831eed1a62363abbc25bb1feff38093a7e23e",
+      "bytes": 100672,
+      "from": "4179 pages 9-10 — the four-storey tower"
+    },
+    {
+      "name": "02-tower-side.webp",
+      "sha256": "ccda67078358466d5fc6a6b5f60ad7e83ed8d4db7f725731821adaefeef6eb4a",
+      "bytes": 118852,
+      "from": "4179 pages 9-10 — the tower from the side"
+    },
+    {
+      "name": "03-grid-from-above.webp",
+      "sha256": "9233cb530bb986645d24c135653aed2129ea0e65353f4ee9ce54ea40d2633ec3",
+      "bytes": 86466,
+      "from": "4179 pages 9-10 — the grid seen from above"
+    },
+    {
+      "name": "04-upper-floor.webp",
+      "sha256": "fcdb2358cb0f34df49e5a4c3bd0f877bf8d5db9e9a6fdfba9de4cc71dfcc33d5",
+      "bytes": 46830,
+      "from": "4179 pages 9-10 — walls of an upper floor"
+    },
+    {
+      "name": "05-floor-two-blocks.webp",
+      "sha256": "7bba984009a4abbe94f0e9fd0b2b788983f6647da83153c715771aa06bc166c1",
+      "bytes": 21226,
+      "from": "4179 pages 9-10 — white blocks of the second floor"
+    },
+    {
+      "name": "06-floor-two-interior.webp",
+      "sha256": "7341f739fc97bbc5c3f67b6d4e1aa2434f1574ee1b0a6b4430d73ee3e7a8f5ae",
+      "bytes": 31794,
+      "from": "4179 pages 9-10 — inside the second floor"
+    },
+    {
+      "name": "07-floor-three-stairs.webp",
+      "sha256": "97e050906dd5a28535f9c14bfdb8be55fe7ce12b2d61c0e86320598f2942a6c3",
+      "bytes": 93942,
+      "from": "4179 pages 9-10 — stairs and ropes of the third floor"
+    },
+    {
+      "name": "08-floor-three-climb.webp",
+      "sha256": "5d6626398ea93ead6c240c49dac2485edbbb7f3f6e10a4655f1c9afb385b6e09",
+      "bytes": 82582,
+      "from": "4179 pages 9-10 — figures climbing the third floor"
+    },
+    {
+      "name": "09-floor-four.webp",
+      "sha256": "da016289de02b51bb503932fda801a034ab512a52125976a155624758bcdb45e",
+      "bytes": 30048,
+      "from": "4179 pages 9-10 — the chamber of the fourth floor"
+    },
+    {
+      "name": "10-floor-one.webp",
+      "sha256": "ef1332aed1bea008b1a54c5001ed9a78b3d6a61d6d596eb056246b53019faf92",
+      "bytes": 42064,
+      "from": "4179 pages 9-10 — the labyrinth of the first floor"
+    }
+  ]
+}
