@@ -44,6 +44,18 @@
       "sha256": "d754bd16e752b4e04ee5ee6118f574e24d076fff3167a605a9f2931d68928f50",
       "bytes": 35752,
       "from": "68e2 pages 7-8 — clay debris pieces"
+    },
+    {
+      "name": "08-film-stills.webp",
+      "sha256": "39b6ec000aa0ff85ecc3c3c67fef43434f6d59c40356ed5d7179c4b0a28fcd84",
+      "bytes": 131822,
+      "from": "restored reference image (film stills)"
+    },
+    {
+      "name": "09-gluing-by-hand.webp",
+      "sha256": "0dfe9b2f65a1368fa92799983380f367560ae658b7c6fc0a2af033a165bbb425",
+      "bytes": 45728,
+      "from": "restored reference image (gluing by hand)"
     }
   ]
 }

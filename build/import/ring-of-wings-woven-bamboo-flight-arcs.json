@@ -28,12 +28,6 @@
       "from": "68e2 page 4 — a woven bowl form"
     },
     {
-      "name": "05-wing-tips.webp",
-      "sha256": "9e7d05f6895335655e4afb8e2e2c3aafa63b8419a069a2a504aa7f4e5c5ddcda",
-      "bytes": 16514,
-      "from": "68e2 page 4 — joined wing tips"
-    },
-    {
       "name": "06-bird-flight-sketches.webp",
       "sha256": "9931514e188346dceea7e6757dd82ec6a6374f55423cc949ad38c04e38d0d63c",
       "bytes": 9780,
@@ -62,6 +56,12 @@
       "sha256": "5fd2deae0564370c97cb8a9ecb83b4dcd3a3962d0cd05c20e0cd7be142358460",
       "bytes": 72944,
       "from": "68e2 page 4 — the piece from a distance"
+    },
+    {
+      "name": "11-wearing-the-wing-ring.webp",
+      "sha256": "369323cb92fde1496f59089778c0416ff51dc6d06dc41ab6466040987aec57d6",
+      "bytes": 93312,
+      "from": "restored reference image (wearing the wing ring)"
     }
   ]
 }

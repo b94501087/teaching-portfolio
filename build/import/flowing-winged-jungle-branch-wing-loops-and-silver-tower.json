@@ -32,6 +32,18 @@
       "sha256": "2bd7be3c84df46f1ac99a59b166bc6d9670241daa1acb2f0ce125d07081f2b66",
       "bytes": 93358,
       "from": "68e2 pages 2-3 — balsa paths among the twigs"
+    },
+    {
+      "name": "06-hummingbird-references.webp",
+      "sha256": "d7c012c54f58f243f041d656fb33cef6cf3c748d2a87d89bf712597a9844def7",
+      "bytes": 130056,
+      "from": "restored reference image (hummingbird references)"
+    },
+    {
+      "name": "07-shaping-wings-by-hand.webp",
+      "sha256": "8e5b1360fd7b185dcc8f9ba7aa59f4f9c45003db0c3db7b44fb1cca2a6886d39",
+      "bytes": 161984,
+      "from": "restored reference image (shaping wings by hand)"
     }
   ]
 }
