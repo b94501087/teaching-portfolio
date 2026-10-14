@@ -22,12 +22,6 @@
       "from": "30f3 page 8 — long section"
     },
     {
-      "name": "04-flora-and-fauna.webp",
-      "sha256": "02ca762ab23f9cc6bcb952dcf2d30d5339e9d8435c8d51491c4438b41b8e8de3",
-      "bytes": 90378,
-      "from": "30f3 page 9 — flora and fauna analysis"
-    },
-    {
       "name": "05-tree-column-structure.webp",
       "sha256": "89c6e51b82bbaa7c7af81a114dc2aab179ea3ad2b36e6e8fd37e5a9e05d1e508",
       "bytes": 76342,
@@ -46,12 +40,6 @@
       "from": "30f3 page 11 — human-bird interaction diagram"
     },
     {
-      "name": "08-spatial-relationships.webp",
-      "sha256": "5b6dae63642ae0718c8280bd6143e5c4e6081da26dbd3947f139becbe5109d0b",
-      "bytes": 83436,
-      "from": "30f3 page 11 — spatial relationship section"
-    },
-    {
       "name": "09-exploded-axonometric.webp",
       "sha256": "76c50564a64a576d7955992c1a1ccf82647d32ce3481865cd6cac57c8294bd9b",
       "bytes": 312572,
@@ -62,6 +50,18 @@
       "sha256": "164af9e913ba0231a684945e38e265514981d178fc6e11119d44242db9963fc7",
       "bytes": 86490,
       "from": "30f3 page 12 — floor plans"
+    },
+    {
+      "name": "11-site-and-flood-analysis.webp",
+      "sha256": "9791eeea90c947abf16629f62bf70278793427de9ee69a419439bbeec9602388",
+      "bytes": 242650,
+      "from": "restored reference image (site and flood analysis)"
+    },
+    {
+      "name": "12-design-process.webp",
+      "sha256": "36cd1e56347df90c17f8831e52edb8a40de1cae2b95ee5a82ce7943fc818924b",
+      "bytes": 187148,
+      "from": "restored reference image (design process)"
     }
   ]
 }

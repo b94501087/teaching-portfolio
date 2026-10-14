@@ -1,0 +1,23 @@
+{
+  "project": "Wetland Gallery",
+  "dest": "assets/board/wetland-gallery-bird-watching-site",
+  "note": "w737o2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-and-flood-analysis.webp",
+      "sha256": "9791eeea90c947abf16629f62bf70278793427de9ee69a419439bbeec9602388",
+      "bytes": 242650,
+      "from": "restored reference image (site and flood analysis)"
+    },
+    {
+      "name": "12-design-process.webp",
+      "sha256": "36cd1e56347df90c17f8831e52edb8a40de1cae2b95ee5a82ce7943fc818924b",
+      "bytes": 187148,
+      "from": "restored reference image (design process)"
+    }
+  ],
+  "delete": [
+    "assets/board/wetland-gallery-bird-watching-site/04-flora-and-fauna.webp",
+    "assets/board/wetland-gallery-bird-watching-site/08-spatial-relationships.webp"
+  ]
+}
