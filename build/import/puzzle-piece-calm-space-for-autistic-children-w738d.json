@@ -1,0 +1,16 @@
+{
+  "project": "Puzzle-piece Calm Space",
+  "dest": "assets/board/puzzle-piece-calm-space-for-autistic-children",
+  "note": "w738d restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-autism-traits-chart.webp",
+      "sha256": "d53af76f5511e12dac311da77bcacb1126898055d79cb45532baa17fd7607aed",
+      "bytes": 33098,
+      "from": "restored reference image (autism traits chart)"
+    }
+  ],
+  "delete": [
+    "assets/board/puzzle-piece-calm-space-for-autistic-children/06-model-side.webp"
+  ]
+}
