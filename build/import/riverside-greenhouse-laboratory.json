@@ -46,12 +46,6 @@
       "from": "54f3 page 20 — distribution of areas"
     },
     {
-      "name": "08-flow-analysis.webp",
-      "sha256": "74735eed8d254d69d0b4cb0684de7a32944ea9207c5d013574b7fce9666335ac",
-      "bytes": 39082,
-      "from": "54f3 page 20 — flow analysis"
-    },
-    {
       "name": "09-performance-strategies.webp",
       "sha256": "5658879f5a8a6eb40dc19bcde97a102c427ce70ad6f4fb516ac4f9ec20e31613",
       "bytes": 36500,
@@ -62,6 +56,12 @@
       "sha256": "b43024c47e3f88ff08bbf7f9bf3452adf36c6e1e9eafc4940c7598f391a0f619",
       "bytes": 163936,
       "from": "54f3 page 21 — environmental section"
+    },
+    {
+      "name": "11-site-photos.webp",
+      "sha256": "8eb388fd1d3c3ad7d21cb4c39d89a0fbff23d1ccdcc1739ea30a116b3f3d75fc",
+      "bytes": 88770,
+      "from": "restored reference image (site photos)"
     }
   ]
 }

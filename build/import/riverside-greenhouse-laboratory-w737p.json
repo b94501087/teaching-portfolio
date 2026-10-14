@@ -1,0 +1,16 @@
+{
+  "project": "Riverside Greenhouse",
+  "dest": "assets/board/riverside-greenhouse-laboratory",
+  "note": "w737p restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-photos.webp",
+      "sha256": "8eb388fd1d3c3ad7d21cb4c39d89a0fbff23d1ccdcc1739ea30a116b3f3d75fc",
+      "bytes": 88770,
+      "from": "restored reference image (site photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/riverside-greenhouse-laboratory/08-flow-analysis.webp"
+  ]
+}
