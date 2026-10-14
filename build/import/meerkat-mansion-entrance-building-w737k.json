@@ -1,0 +1,16 @@
+{
+  "project": "Meerkat Mansion and Entrance Building",
+  "dest": "assets/board/meerkat-mansion-entrance-building",
+  "note": "w737k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-exploded-axonometric.webp",
+      "sha256": "4b6c91fbcad35bbee4237d0d1bf759699467024e402bca474b4b87bfeb52a320",
+      "bytes": 163226,
+      "from": "restored reference image (exploded axonometric)"
+    }
+  ],
+  "delete": [
+    "assets/board/meerkat-mansion-entrance-building/05-viewing-concepts.webp"
+  ]
+}
