@@ -16,12 +16,6 @@
       "from": "page 3 — plane generation diagrams, x 83.5–100 %, y 0–43 %"
     },
     {
-      "name": "03-form-generation.webp",
-      "sha256": "c029fe85e587c1c601f4a96b4b0b892e6a94c2c769a2d6a7ad81cadd26943b7f",
-      "bytes": 80288,
-      "from": "page 3 — form and circulation generation diagrams, x 83.5–100 %, y 43–100 %"
-    },
-    {
       "name": "04-container-axonometric.webp",
       "sha256": "7d212fdebc38c603b14db2cc2c6dc1b37f454f166d16d3bb7f743332632a3e07",
       "bytes": 484264,
@@ -56,6 +50,18 @@
       "sha256": "051e60c73ef6c04dfacf65723ff2bbce0794c538b732dde4fbcbe15bade33fad",
       "bytes": 138858,
       "from": "page 5 — physical model overview, x 50–87.5 %, y 55–100 %"
+    },
+    {
+      "name": "10-site-and-problems.webp",
+      "sha256": "eb9351a7ff4706b9e3cf2a46334167e55d28b556b9d1ef2432e9e3ef67c41616",
+      "bytes": 266034,
+      "from": "restored reference image (site and problems)"
+    },
+    {
+      "name": "11-entrance-render.webp",
+      "sha256": "f77121666abc817462bd3c85cd696b7eea8ed677af1f9047a39db0590f6673d3",
+      "bytes": 186430,
+      "from": "restored reference image (entrance render)"
     }
   ]
 }

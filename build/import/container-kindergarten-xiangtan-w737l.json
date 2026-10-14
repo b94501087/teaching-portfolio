@@ -1,0 +1,22 @@
+{
+  "project": "Container Kindergarten",
+  "dest": "assets/board/container-kindergarten-xiangtan",
+  "note": "w737l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-site-and-problems.webp",
+      "sha256": "eb9351a7ff4706b9e3cf2a46334167e55d28b556b9d1ef2432e9e3ef67c41616",
+      "bytes": 266034,
+      "from": "restored reference image (site and problems)"
+    },
+    {
+      "name": "11-entrance-render.webp",
+      "sha256": "f77121666abc817462bd3c85cd696b7eea8ed677af1f9047a39db0590f6673d3",
+      "bytes": 186430,
+      "from": "restored reference image (entrance render)"
+    }
+  ],
+  "delete": [
+    "assets/board/container-kindergarten-xiangtan/03-form-generation.webp"
+  ]
+}
