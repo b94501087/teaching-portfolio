@@ -1,0 +1,19 @@
+{
+  "project": "Rain Tower",
+  "dest": "assets/board/rain-tower-layered-story-model-of-loss-and-sky",
+  "note": "w738h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-story-sketch-with-film-stills.webp",
+      "sha256": "ca8b9815b26fb8269e890474d883b17f0c3c2282f2d95ef94311f4bc76d869f1",
+      "bytes": 150832,
+      "from": "restored reference image (story sketch with film stills)"
+    },
+    {
+      "name": "09-holding-the-core.webp",
+      "sha256": "2a456cd457e72b78f09d9918ea42aea06895231d249fb704e5fbede687e91c84",
+      "bytes": 45110,
+      "from": "restored reference image (holding the core)"
+    }
+  ]
+}
