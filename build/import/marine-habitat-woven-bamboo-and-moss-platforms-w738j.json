@@ -1,0 +1,13 @@
+{
+  "project": "Marine Habitat",
+  "dest": "assets/board/marine-habitat-woven-bamboo-and-moss-platforms",
+  "note": "w738j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-making-with-moss.webp",
+      "sha256": "6abb4dd8c95861141c4b1cb48d9f6c599ee3a4c22933845f140283f661b77238",
+      "bytes": 138234,
+      "from": "restored reference image (making with moss)"
+    }
+  ]
+}
