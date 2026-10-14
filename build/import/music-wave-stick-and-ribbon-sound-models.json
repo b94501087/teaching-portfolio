@@ -1,0 +1,67 @@
+{
+  "project": "Music Wave",
+  "dest": "assets/board/music-wave-stick-and-ribbon-sound-models",
+  "note": "Portfolio f825 pages 5-7 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, experiment photo with an arm and speaker, speaker close-up.",
+  "files": [
+    {
+      "name": "01-refined-model.webp",
+      "sha256": "ff6492292c573a1556fef943c7fdd4a2311d250225941e937e134bda0e8061e3",
+      "bytes": 133760,
+      "from": "f825 pages 5-7 — the refined model of sticks and paper ribbons"
+    },
+    {
+      "name": "02-waveform.webp",
+      "sha256": "e20593d5f799edb011143baa35aaa5a7bdad72617e2b254adce83009d4773c15",
+      "bytes": 23602,
+      "from": "f825 pages 5-7 — a recorded sound wave"
+    },
+    {
+      "name": "03-light-traces.webp",
+      "sha256": "810caf481e2b3c9497c76ffce95197977cac392e640f30a5af262c0281c22c1e",
+      "bytes": 45998,
+      "from": "f825 pages 5-7 — light traces of moving sound"
+    },
+    {
+      "name": "04-wave-sketch.webp",
+      "sha256": "24b33a13babcafe52a5b78c479d7549aad7936813e69ea5901dc01940c2ba095",
+      "bytes": 66792,
+      "from": "f825 pages 5-7 — a sketch of looping waves"
+    },
+    {
+      "name": "05-stick-wave.webp",
+      "sha256": "4630f03c1bff4232aabc4df6db505c1a359551859c46836505e30285ed5b9ef8",
+      "bytes": 76390,
+      "from": "f825 pages 5-7 — an initial model of fanned sticks"
+    },
+    {
+      "name": "06-ribbon-model-a.webp",
+      "sha256": "113906b390d955a389168c5475511f4275a2403e380404486cc64bc5b46f8e49",
+      "bytes": 27822,
+      "from": "f825 pages 5-7 — an initial model of curled paper"
+    },
+    {
+      "name": "07-ribbon-model-b.webp",
+      "sha256": "d4b218d7701888cf272d28e5a1841e15b1040c7d3cf8b955fdfff7ff71c6c074",
+      "bytes": 22148,
+      "from": "f825 pages 5-7 — a second paper model"
+    },
+    {
+      "name": "08-stick-variants.webp",
+      "sha256": "08f3c7353582168c6fed6b389749f032517a073d568681b4be8c1d82ea9f0636",
+      "bytes": 54172,
+      "from": "f825 pages 5-7 — variations of the stick wave"
+    },
+    {
+      "name": "09-refine-a.webp",
+      "sha256": "2a7ec66d039f1f14e794c25906435c836273f5c2a859144f08b760f7dda2f34e",
+      "bytes": 72556,
+      "from": "f825 pages 5-7 — the refined model from above"
+    },
+    {
+      "name": "10-refine-b.webp",
+      "sha256": "4e2cb54568b9be1f9d9032bb59d088dec0e14e61d416d9df4cd8b2d70f873e87",
+      "bytes": 67476,
+      "from": "f825 pages 5-7 — ribbons and sticks intertwined"
+    }
+  ]
+}
