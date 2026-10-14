@@ -1,0 +1,16 @@
+{
+  "project": "Rhythm of the Court",
+  "dest": "assets/board/rhythm-of-the-court-stick-chain-basketball-model",
+  "note": "w738c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-mind-maps.webp",
+      "sha256": "c571544ff44df1720714a5c69694560c94cb6e4f1f2d5b261ddef8ba317f9aaa",
+      "bytes": 89232,
+      "from": "restored reference image (mind maps)"
+    }
+  ],
+  "delete": [
+    "assets/board/rhythm-of-the-court-stick-chain-basketball-model/09-high-view.webp"
+  ]
+}
