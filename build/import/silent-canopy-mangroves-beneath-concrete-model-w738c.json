@@ -1,0 +1,23 @@
+{
+  "project": "Silent Canopy",
+  "dest": "assets/board/silent-canopy-mangroves-beneath-concrete-model",
+  "note": "w738c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-mangrove-simulation.webp",
+      "sha256": "c1588f55a6b9403a34f9030d9cac00fcad776601e025c1e0e41c5de72cb34531",
+      "bytes": 105876,
+      "from": "restored reference image (mangrove simulation)"
+    },
+    {
+      "name": "12-making-by-hand.webp",
+      "sha256": "0aa425842fb84cd1bf43eb59e73aa15a79456d5f51b1023591da0f6de9028bf2",
+      "bytes": 24406,
+      "from": "restored reference image (making by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/silent-canopy-mangroves-beneath-concrete-model/06-tank-test.webp",
+    "assets/board/silent-canopy-mangroves-beneath-concrete-model/10-pillar-detail.webp"
+  ]
+}
