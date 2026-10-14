@@ -56,6 +56,12 @@
       "sha256": "e7167177184de28ed82ee1123fa55bcb048664d2fb6f1ecdbdb89266a8063e36",
       "bytes": 102140,
       "from": "page 7 — section perspective along the water, x 50–100 %, y 63–100 %"
+    },
+    {
+      "name": "10-background-collage.webp",
+      "sha256": "dd43bbbcd27d1506eb274c0a0fea34ae8004163c30ce14264e8b55a53601ef83",
+      "bytes": 171094,
+      "from": "restored reference image (background collage)"
     }
   ]
 }

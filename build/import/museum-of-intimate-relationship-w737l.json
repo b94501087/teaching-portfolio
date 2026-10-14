@@ -1,0 +1,13 @@
+{
+  "project": "Museum of Intimate Relationship",
+  "dest": "assets/board/museum-of-intimate-relationship",
+  "note": "w737l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-background-collage.webp",
+      "sha256": "dd43bbbcd27d1506eb274c0a0fea34ae8004163c30ce14264e8b55a53601ef83",
+      "bytes": 171094,
+      "from": "restored reference image (background collage)"
+    }
+  ]
+}
