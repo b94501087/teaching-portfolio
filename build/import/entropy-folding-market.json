@@ -32,6 +32,36 @@
       "sha256": "0aa5fd0178012fec31906284b1835fb2187018555b518112c08908b3082b69f8",
       "bytes": 471294,
       "from": "page 11 — bird's-eye view with weekday activities, x 50–100 %, y 0–69 %; sign text painted out"
+    },
+    {
+      "name": "06-site-history-and-ganji-scenes.webp",
+      "sha256": "01f0d4d2e0bf7deb04bd4d1c4cf0a74a245a0943be43c71fd1562d4833c30061",
+      "bytes": 258766,
+      "from": "restored reference image (site history and ganji scenes)"
+    },
+    {
+      "name": "07-site-and-vendor-analysis.webp",
+      "sha256": "aea65bb2b0db319d895e1a5b7e8f0e77342583def6c275cc220db4fe2abec76a",
+      "bytes": 261038,
+      "from": "restored reference image (site and vendor analysis)"
+    },
+    {
+      "name": "08-stall-types-and-utilisation.webp",
+      "sha256": "71123763a5b7d9d2fab887e48c4cdf4e41bdacf15fbce8ec1bc3d88de639a01b",
+      "bytes": 132470,
+      "from": "restored reference image (stall types and utilisation)"
+    },
+    {
+      "name": "09-cloud-management-stages.webp",
+      "sha256": "99710db0736cde9bcd4eeb8b34f6575319a56a6a060a9fff2846b7a00b1d7f23",
+      "bytes": 216436,
+      "from": "restored reference image (cloud management stages)"
+    },
+    {
+      "name": "10-smart-city-experience.webp",
+      "sha256": "d6423b7d7648d8dcd910714dad1d7f18adbe7b8c84dac17d6a5555b350017d1c",
+      "bytes": 257534,
+      "from": "restored reference image (smart city experience)"
     }
   ]
 }
