@@ -32,6 +32,18 @@
       "sha256": "3440df43123d06034e8a1caaa006e3bffb86edc0ac306173e0fc14dce80352df",
       "bytes": 36402,
       "from": "0b95 page 9 — blocks on the ground"
+    },
+    {
+      "name": "06-ball-game-photos.webp",
+      "sha256": "2c4b224188630ff4c51ff7042f0b78d676a70105a037bdc41c049603968989f8",
+      "bytes": 133136,
+      "from": "restored reference image (ball game photos)"
+    },
+    {
+      "name": "07-making-by-hand.webp",
+      "sha256": "4c99e22772b2f38dc57f28556fd45b13f845fe57acc4c5d025423ed4495d6a96",
+      "bytes": 72906,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }

@@ -56,6 +56,12 @@
       "sha256": "fbcf2bd943bfde822ff49fa92e4a6a998f065ca2de0d3fcff9861bff70a7b432",
       "bytes": 52662,
       "from": "0b95 pages 5-6 — plaster cast studies"
+    },
+    {
+      "name": "10-shopping-mall-video-frames.webp",
+      "sha256": "8c76d4831a9b3b8dd2cb86b8a021530680ec8681f5e779d9cd296f211aac73ac",
+      "bytes": 100004,
+      "from": "restored reference image (shopping mall video frames)"
     }
   ]
 }

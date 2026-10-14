@@ -28,12 +28,6 @@
       "from": "0b95 pages 7-8 — walking between walls"
     },
     {
-      "name": "05-gap-between-walls.webp",
-      "sha256": "f1b01bbe7da9f1173429f6b1d352e06ce1e3fcde5ecc358dae8278a7db1386df",
-      "bytes": 30570,
-      "from": "0b95 pages 7-8 — a gap between walls"
-    },
-    {
       "name": "06-movement-combination.webp",
       "sha256": "6683d70d7a88196b6a29cca25849a68b0fd6f302b3ab657bc93e94f54b32a672",
       "bytes": 39972,
@@ -56,6 +50,18 @@
       "sha256": "ea708320858919aabe435ce1ed2eddf2a15f6ee14afdd0599c5ecdc0ae2368d2",
       "bytes": 159434,
       "from": "0b95 pages 7-8 — wall elevations"
+    },
+    {
+      "name": "10-football-player-photo.webp",
+      "sha256": "ae6b7783be9683291d12f7833771534b0973b73ff3071dda14453f7a0341405a",
+      "bytes": 42334,
+      "from": "restored reference image (football player photo)"
+    },
+    {
+      "name": "11-making-by-hand.webp",
+      "sha256": "6f62bccf34ecd694f4b445c9801b363d176cf23ca4655ab6b703652479c9cb6b",
+      "bytes": 128946,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }
