@@ -1,0 +1,23 @@
+{
+  "project": "Möbius Tower",
+  "dest": "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches",
+  "note": "w738h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-collage-and-references.webp",
+      "sha256": "01c0b2cf70356c87ebbf1cf9f79b7b30fcb5a5515313db186f7f3a7eca2daffc",
+      "bytes": 314120,
+      "from": "restored reference image (collage and references)"
+    },
+    {
+      "name": "12-shaping-rings-by-hand.webp",
+      "sha256": "7d7af20d53d4b66b58727866f788296038484e08b9844cd197c79a57e3be82c6",
+      "bytes": 102324,
+      "from": "restored reference image (shaping rings by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/07-spiral-render.webp",
+    "assets/board/mobius-tower-acrylic-rings-clay-spheres-and-branches/08-cast-ring-pieces.webp"
+  ]
+}
