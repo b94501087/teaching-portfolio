@@ -1,0 +1,55 @@
+{
+  "project": "Ribbons of Survival",
+  "dest": "assets/board/ribbons-of-survival-foam-paper-and-wire-emotion-model",
+  "note": "Portfolio 263a pages 12-14 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, film stills and character collage, concept sketches, gloved-hand photo, annotated colour chart, model data.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "1f15709a798aaaf6227efb8f0638c3a6a9214c5d09e3a97f08393e5f43232e5d",
+      "bytes": 155810,
+      "from": "263a pages 12-14 — the final landscape of ribbons"
+    },
+    {
+      "name": "02-resin-sphere.webp",
+      "sha256": "27627882e335497a956cf1b9ab11bba19a7e65ea341fb5df09cacdc55a14e939",
+      "bytes": 12450,
+      "from": "263a pages 12-14 — a coloured resin sphere"
+    },
+    {
+      "name": "03-bubble-glue-wire.webp",
+      "sha256": "c665ac61df98409db9a451d313d8169126b49097c9810dbf21f1ed7c20e304f1",
+      "bytes": 31662,
+      "from": "263a pages 12-14 — bubble glue on a curved wire"
+    },
+    {
+      "name": "04-clay-mixes.webp",
+      "sha256": "2f2359713f4f51415b2e59a9767bc0eef13c3b6c4ce9e0a6fdc2a722ecaa223b",
+      "bytes": 38408,
+      "from": "263a pages 12-14 — mixed plasticine colours"
+    },
+    {
+      "name": "05-model-side.webp",
+      "sha256": "9b714733d7f4b5e5e45e3ae0737f10df68b4d03464720dcdb7b2068e7cc47f67",
+      "bytes": 187318,
+      "from": "263a pages 12-14 — the ribbons seen from the side"
+    },
+    {
+      "name": "06-from-above.webp",
+      "sha256": "83d6bc7cf692c65c34ed6029e194a7def137fdf3c5d9014f733c15435e4993de",
+      "bytes": 193232,
+      "from": "263a pages 12-14 — the model from above"
+    },
+    {
+      "name": "07-low-front.webp",
+      "sha256": "25ac7ba33c8dcaa59d441658b19e5376e70c2a85c8fe2245793edb19edbe5ce7",
+      "bytes": 126654,
+      "from": "263a pages 12-14 — a low view of the layered mounds"
+    },
+    {
+      "name": "08-dark-corner.webp",
+      "sha256": "433ed599cc0c0542184a0720185d6d363b8d6acdb92825e5e3d2f28815e02531",
+      "bytes": 56228,
+      "from": "263a pages 12-14 — ribbons against a dark ground"
+    }
+  ]
+}
