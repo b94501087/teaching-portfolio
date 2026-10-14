@@ -52,16 +52,16 @@
       "from": "ca16 page 12 — model from above"
     },
     {
-      "name": "09-stair-and-trees.webp",
-      "sha256": "290d13a47bf629ce9a1eb19933a1b1b83d64c94971c4aefca170a253b27e3696",
-      "bytes": 34494,
-      "from": "ca16 page 12 — stairs and trees"
-    },
-    {
       "name": "10-long-elevation.webp",
       "sha256": "2f2c92e8bef7ecc3071867793ddbea9f7944191636dc13626434d80190047f59",
       "bytes": 46508,
       "from": "ca16 page 12 — long elevation"
+    },
+    {
+      "name": "11-campus-master-plan.webp",
+      "sha256": "b7d8529eaef8170242789dafa2ab1fefb90f59106e8f35be936cd8b7c7bed0e5",
+      "bytes": 45856,
+      "from": "restored reference image (campus master plan)"
     }
   ]
 }

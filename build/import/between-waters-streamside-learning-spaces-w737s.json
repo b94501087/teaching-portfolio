@@ -1,0 +1,16 @@
+{
+  "project": "Between Waters",
+  "dest": "assets/board/between-waters-streamside-learning-spaces",
+  "note": "w737s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-campus-master-plan.webp",
+      "sha256": "b7d8529eaef8170242789dafa2ab1fefb90f59106e8f35be936cd8b7c7bed0e5",
+      "bytes": 45856,
+      "from": "restored reference image (campus master plan)"
+    }
+  ],
+  "delete": [
+    "assets/board/between-waters-streamside-learning-spaces/09-stair-and-trees.webp"
+  ]
+}

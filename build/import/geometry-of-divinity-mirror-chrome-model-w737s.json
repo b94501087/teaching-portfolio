@@ -1,0 +1,13 @@
+{
+  "project": "Geometry of Divinity",
+  "dest": "assets/board/geometry-of-divinity-mirror-chrome-model",
+  "note": "w737s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-kahn-precedent-photos.webp",
+      "sha256": "55c5d24a4f781ed418ae563ca4f4aecc9df2a7b5321978dee5158d8c462713e2",
+      "bytes": 26514,
+      "from": "restored reference image (kahn precedent photos)"
+    }
+  ]
+}
