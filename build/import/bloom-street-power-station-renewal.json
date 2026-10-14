@@ -40,12 +40,6 @@
       "from": "54f3 page 14 — chimney structure section"
     },
     {
-      "name": "07-facade-interface.webp",
-      "sha256": "18abe66801a6498defc4d7496ca8395b26ed2239504b669ff90b0dd5d8d241ee",
-      "bytes": 57836,
-      "from": "54f3 page 14 — floor and facade interface detail"
-    },
-    {
       "name": "08-structure-explosion.webp",
       "sha256": "dcc46d7a249920dcaa2517a384ad9a227dad1dc9a99b3782c6240978aa576744",
       "bytes": 80162,
@@ -62,6 +56,12 @@
       "sha256": "59065d105c084b43ea86c59668294585fedf0906ebc999495aa275119ae21633",
       "bytes": 60482,
       "from": "54f3 page 15 — interior views"
+    },
+    {
+      "name": "11-context-and-heritage-timeline.webp",
+      "sha256": "2a94c81257e832e410fafed251f270c9e888f4ec20ee8978992ac60cff042cf1",
+      "bytes": 265008,
+      "from": "restored reference image (context and heritage timeline)"
     }
   ]
 }

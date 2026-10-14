@@ -1,0 +1,16 @@
+{
+  "project": "Bloom Street Power Station Renewal",
+  "dest": "assets/board/bloom-street-power-station-renewal",
+  "note": "w737p restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-context-and-heritage-timeline.webp",
+      "sha256": "2a94c81257e832e410fafed251f270c9e888f4ec20ee8978992ac60cff042cf1",
+      "bytes": 265008,
+      "from": "restored reference image (context and heritage timeline)"
+    }
+  ],
+  "delete": [
+    "assets/board/bloom-street-power-station-renewal/07-facade-interface.webp"
+  ]
+}
