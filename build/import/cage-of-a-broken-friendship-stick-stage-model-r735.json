@@ -1,0 +1,23 @@
+{
+  "project": "Cage of a Broken Friendship",
+  "dest": "assets/board/cage-of-a-broken-friendship-stick-stage-model",
+  "note": "w735 restore of reference posters/stills per user rule.",
+  "files": [
+    {
+      "name": "11-film-poster.webp",
+      "sha256": "4124c62990b3e114339d606e414c236899a06f4a80068df418ac9601b34f0a59",
+      "bytes": 6426,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "12-storyline-stills.webp",
+      "sha256": "f33a4e0b5f8520392fdf68b4618807f0e34228dff5c5dda6b5e461c7cb3ac17b",
+      "bytes": 136568,
+      "from": "restored reference image (storyline stills)"
+    }
+  ],
+  "delete": [
+    "assets/board/cage-of-a-broken-friendship-stick-stage-model/03-process-b.webp",
+    "assets/board/cage-of-a-broken-friendship-stick-stage-model/05-process-c.webp"
+  ]
+}

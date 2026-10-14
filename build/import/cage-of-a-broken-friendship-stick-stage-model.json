@@ -1,7 +1,7 @@
 {
   "project": "Cage of a Broken Friendship",
   "dest": "assets/board/cage-of-a-broken-friendship-stick-stage-model",
-  "note": "Portfolio 1390 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, film poster, film stills with actors, storyline sketches, film title and character names.",
+  "note": "Portfolio 1390 pages 2-3 cropped to ten images, WebP q88 (PIL). Not used: title and text, film poster, film stills with actors, storyline sketches, film title and character names. w735: reference posters/stills restored; removed 03-process-b.webp, 05-process-c.webp.",
   "files": [
     {
       "name": "01-stage-model.webp",
@@ -16,22 +16,10 @@
       "from": "1390 page 2 — process a"
     },
     {
-      "name": "03-process-b.webp",
-      "sha256": "6f1bee40a6872c32f90a3618acdb19ac01837c2f001f77f36ca61ec16a404e1f",
-      "bytes": 23576,
-      "from": "1390 page 2 — process b"
-    },
-    {
       "name": "04-lit-model.webp",
       "sha256": "2f4b49f597c5885ec75ff2e0e45b7a90673cc3db666472ee7f732676867f98f1",
       "bytes": 42772,
       "from": "1390 page 2 — lit model"
-    },
-    {
-      "name": "05-process-c.webp",
-      "sha256": "23761b524955ace12c27dd327d2cc843080ff8ee242fa77e65c784b6a1adce7c",
-      "bytes": 23768,
-      "from": "1390 page 2 — process c"
     },
     {
       "name": "06-burn-test.webp",
@@ -62,6 +50,18 @@
       "sha256": "7fb0535234251b39bd5b56e3804c1f5675a40cb0d36443c9fdc756e61bdee211",
       "bytes": 29478,
       "from": "1390 page 3 — detail b"
+    },
+    {
+      "name": "11-film-poster.webp",
+      "sha256": "4124c62990b3e114339d606e414c236899a06f4a80068df418ac9601b34f0a59",
+      "bytes": 6426,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "12-storyline-stills.webp",
+      "sha256": "f33a4e0b5f8520392fdf68b4618807f0e34228dff5c5dda6b5e461c7cb3ac17b",
+      "bytes": 136568,
+      "from": "restored reference image (storyline stills)"
     }
   ]
 }
