@@ -1,0 +1,19 @@
+{
+  "project": "Exploring Chinese Calligraphy",
+  "dest": "assets/board/exploring-chinese-calligraphy-woven-bamboo-strokes",
+  "note": "w738a restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-historic-calligraphy.webp",
+      "sha256": "59d7904191e1cb6dbd26db2b32a830a83136322fad6c36ad805f0ea82c15a886",
+      "bytes": 31022,
+      "from": "restored reference image (historic calligraphy)"
+    },
+    {
+      "name": "09-weaving-by-hand.webp",
+      "sha256": "152d97f01812d9142325f6c60d04724af8eae4c7939358eebe4c9e84410eb44f",
+      "bytes": 69852,
+      "from": "restored reference image (weaving by hand)"
+    }
+  ]
+}

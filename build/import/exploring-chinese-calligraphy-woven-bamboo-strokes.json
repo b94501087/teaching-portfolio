@@ -44,6 +44,18 @@
       "sha256": "950067bfc7de484ea158e1df79d6684491dfce49485271c69176ec728845be54",
       "bytes": 10216,
       "from": "f312 page 8 — light shadow"
+    },
+    {
+      "name": "08-historic-calligraphy.webp",
+      "sha256": "59d7904191e1cb6dbd26db2b32a830a83136322fad6c36ad805f0ea82c15a886",
+      "bytes": 31022,
+      "from": "restored reference image (historic calligraphy)"
+    },
+    {
+      "name": "09-weaving-by-hand.webp",
+      "sha256": "152d97f01812d9142325f6c60d04724af8eae4c7939358eebe4c9e84410eb44f",
+      "bytes": 69852,
+      "from": "restored reference image (weaving by hand)"
     }
   ]
 }
