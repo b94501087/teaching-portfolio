@@ -1,0 +1,61 @@
+{
+  "project": "Replan and Joint Bridge",
+  "dest": "assets/board/replan-and-joint-bridge-pause-and-shade-crossing",
+  "note": "Portfolio 4179 pages 5-8 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, site name, location maps and street photos with people, diagrams with labels, mood-board photos, annotated model plan with callouts, draft sheets.",
+  "files": [
+    {
+      "name": "01-bridge-model.webp",
+      "sha256": "b0c4192e16c8c425597318737156850c9d574bda35ffdd04772468369520b9cc",
+      "bytes": 43842,
+      "from": "4179 pages 5-8 — the bridge model with figures resting on its steps"
+    },
+    {
+      "name": "02-partition-sketches.webp",
+      "sha256": "4ff08a185740e8f6ac3e89abb1014e63e136a8b903833c0ad78ca01238ee9cd0",
+      "bytes": 56772,
+      "from": "4179 pages 5-8 — sketches of a safe partition"
+    },
+    {
+      "name": "03-routine-sketches.webp",
+      "sha256": "2bd05f4ca2e978e3d8a3d0931a6812eba50da8feabf0927918f63f4f9168105e",
+      "bytes": 39682,
+      "from": "4179 pages 5-8 — routes of cyclists and walkers"
+    },
+    {
+      "name": "04-communication-steps.webp",
+      "sha256": "15560e55f1afe733dca8c22a3535803d8a527d6252b6674aac427f0f8f650c7a",
+      "bytes": 45132,
+      "from": "4179 pages 5-8 — stepped platforms for conversation"
+    },
+    {
+      "name": "05-shade-sketches.webp",
+      "sha256": "d99a0df4c26f79fcd162c7e0dd6e238f12290fe3094eb3de4ba05790cc250232",
+      "bytes": 37360,
+      "from": "4179 pages 5-8 — sloped walls tested as shade"
+    },
+    {
+      "name": "06-model-view-a.webp",
+      "sha256": "e183835ce66f136dd736578a33f987a175045f47aeba04f482654f4c6fa84109",
+      "bytes": 13712,
+      "from": "4179 pages 5-8 — steps for gathering"
+    },
+    {
+      "name": "07-model-view-b.webp",
+      "sha256": "df8424e14f0154b0e69d5023477e1c3da34580a76c43576d3eb02f243487f0d2",
+      "bytes": 13594,
+      "from": "4179 pages 5-8 — the branching bridge from above"
+    },
+    {
+      "name": "08-model-view-c.webp",
+      "sha256": "cc8e8be211df388cf5c8025caf78e2461ed94a127253c9a1cfd9d4bb97ab078a",
+      "bytes": 12988,
+      "from": "4179 pages 5-8 — a long curve of the bridge"
+    },
+    {
+      "name": "09-model-view-d.webp",
+      "sha256": "af68f869cb80d646f159f86013324f9ad6b296be6fb0c51b3d364219e8b19167",
+      "bytes": 13922,
+      "from": "4179 pages 5-8 — seats sheltered by a raised edge"
+    }
+  ]
+}
