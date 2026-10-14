@@ -50,6 +50,18 @@
       "sha256": "8d1fa0d00a5da670a52ed438005466d2e4b7567abd874af0b286486c4dd0f928",
       "bytes": 31246,
       "from": "f312 page 2 — stair hall"
+    },
+    {
+      "name": "09-site-satellite-photo.webp",
+      "sha256": "d2170f424d74cbe0b66884222f32fc6010870a41801ab2f60888cfd1e5253085",
+      "bytes": 16786,
+      "from": "restored reference image (site satellite photo)"
+    },
+    {
+      "name": "10-building-the-model.webp",
+      "sha256": "eea3fa832f1a1871e37ef698620eb05b080936c0ea5d71a208b582b41b2dc4ce",
+      "bytes": 30672,
+      "from": "restored reference image (building the model)"
     }
   ]
 }
