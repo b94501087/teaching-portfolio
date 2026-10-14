@@ -1,0 +1,13 @@
+{
+  "project": "Cobalt Chloride Equilibrium",
+  "dest": "assets/board/cobalt-chloride-equilibrium-triangle-wire-tower",
+  "note": "p738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-formula-and-molecule-diagrams.webp",
+      "sha256": "1bb048bdaf2a171d26706844247c35edc7f14ddaddb6372b2238498242307e44",
+      "bytes": 33418,
+      "from": "restored reference image (formula and molecule diagrams)"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "project": "Quantified Polonaise",
+  "dest": "assets/board/quantified-polonaise-note-height-printed-score-model",
+  "note": "p738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-score-excerpts.webp",
+      "sha256": "50efba85397cf913d88c40eda004c68b4df607be268de7b9d220cd62bb067eb4",
+      "bytes": 77326,
+      "from": "restored reference image (score excerpts)"
+    }
+  ]
+}
