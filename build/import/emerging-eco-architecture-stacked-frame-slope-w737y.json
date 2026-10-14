@@ -1,0 +1,13 @@
+{
+  "project": "Emerging Eco-Architecture",
+  "dest": "assets/board/emerging-eco-architecture-stacked-frame-slope",
+  "note": "w737y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-precedent-architects.webp",
+      "sha256": "bf246b487d127a66d4023832e3a73947130df237d193e42904e5a2659cfb29e1",
+      "bytes": 61500,
+      "from": "restored reference image (precedent architects)"
+    }
+  ]
+}
