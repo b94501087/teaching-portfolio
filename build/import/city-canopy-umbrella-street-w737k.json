@@ -1,0 +1,13 @@
+{
+  "project": "Implantation of City Canopy",
+  "dest": "assets/board/city-canopy-umbrella-street",
+  "note": "w737k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-site-location-and-history.webp",
+      "sha256": "bdb2845eba5215267b4074e855878833b9e61dfe9a584766a31d6c8c5fc08088",
+      "bytes": 264024,
+      "from": "restored reference image (site location and history)"
+    }
+  ]
+}
