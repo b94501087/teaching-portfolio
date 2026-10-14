@@ -22,12 +22,6 @@
       "from": "4434 pages 2-4 — the clay terrain"
     },
     {
-      "name": "04-acrylic-stick-grid.webp",
-      "sha256": "0a048aa867bcd48105f5fac266b89e4832dee26b86208f60e404d4c99a7d8831",
-      "bytes": 32350,
-      "from": "4434 pages 2-4 — the acrylic stick grid"
-    },
-    {
       "name": "05-stick-ring-tunnel.webp",
       "sha256": "094817cbd35d4eebcdc696fda63144785d545d9bbf1a09f9a2ee863ae0c232bb",
       "bytes": 28926,
@@ -38,12 +32,6 @@
       "sha256": "d4b065acb80ec8aaf5a01aaf0cdb29199f515796dc955bb7afab8b600c081b6f",
       "bytes": 37232,
       "from": "4434 pages 2-4 — the mirror spiral tower"
-    },
-    {
-      "name": "07-mirror-slice-cluster.webp",
-      "sha256": "434b28d33dfddf2329b836ba3d76e3417e427e1d5034777de092773b983d433d",
-      "bytes": 51656,
-      "from": "4434 pages 2-4 — mirror slices"
     },
     {
       "name": "08-scenes-composite.webp",
@@ -62,6 +50,18 @@
       "sha256": "72440e9e8eef792792d39c9557244385d87f6302e8c63bbc22d2e3f53a46f917",
       "bytes": 65032,
       "from": "4434 pages 2-4 — rooms of acrylic sticks"
+    },
+    {
+      "name": "11-film-poster.webp",
+      "sha256": "53716a7fd47e9600f493be6e900181d9338c52af64e286ed885f552ddec1ce44",
+      "bytes": 16722,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "12-process-photos.webp",
+      "sha256": "21ee368d382adbf8e904ddaece93af27ff9817620c685e9f629266826675cf23",
+      "bytes": 93220,
+      "from": "restored reference image (process photos)"
     }
   ]
 }
