@@ -1,0 +1,19 @@
+{
+  "project": "Dissipating Forms of Time",
+  "dest": "assets/board/dissipating-forms-of-time-wire-installation",
+  "note": "w738c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-self-portrait-drawing.webp",
+      "sha256": "451b52fcf202b542b57ef2369706bd304354f874484621c4f023483299392754",
+      "bytes": 229530,
+      "from": "restored reference image (self portrait drawing)"
+    },
+    {
+      "name": "10-portrait-photo.webp",
+      "sha256": "a9be689dd64a0c95b090363d8adfc8fca8a10aab0e8d88aed82187788ff3b90a",
+      "bytes": 9020,
+      "from": "restored reference image (portrait photo)"
+    }
+  ]
+}
