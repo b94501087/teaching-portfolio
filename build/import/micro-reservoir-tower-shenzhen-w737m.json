@@ -1,0 +1,16 @@
+{
+  "project": "Micro Reservoir Construction: A Water-Collecting Tower",
+  "dest": "assets/board/micro-reservoir-tower-shenzhen",
+  "note": "w737m restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-tower-in-the-city-render.webp",
+      "sha256": "58bc66678aec1f8f5ee84f3548871799e7e3463d85c7ca0a2fdd86e23a1ede6b",
+      "bytes": 240652,
+      "from": "restored reference image (tower in the city render)"
+    }
+  ],
+  "delete": [
+    "assets/board/micro-reservoir-tower-shenzhen/04-sewage-purification.webp"
+  ]
+}

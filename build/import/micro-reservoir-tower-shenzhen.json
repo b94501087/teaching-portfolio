@@ -22,12 +22,6 @@
       "from": "5757 page 3 — rainwater and power cycle diagram, x 26–53 %, y 3–100 %"
     },
     {
-      "name": "04-sewage-purification.webp",
-      "sha256": "4904c3aeb81f1307c68116a91c2e78a582955f891a50d4061ceebe652cd2d70a",
-      "bytes": 184802,
-      "from": "5757 page 3 — sewage purification mechanism, x 53–83 %, y 0–73 %"
-    },
-    {
       "name": "05-micro-power-generation.webp",
       "sha256": "a473d9e0f22bcf6efe185b427bd878c9b4c0c1c35f23304d5a6c9de07bc0859c",
       "bytes": 73376,
@@ -62,6 +56,12 @@
       "sha256": "de240576fcd483fcd70c67ca138131d6e03b60306bd5f8b9d8cf608223fd797d",
       "bytes": 181708,
       "from": "5757 page 5 — physical model of a unit, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "11-tower-in-the-city-render.webp",
+      "sha256": "58bc66678aec1f8f5ee84f3548871799e7e3463d85c7ca0a2fdd86e23a1ede6b",
+      "bytes": 240652,
+      "from": "restored reference image (tower in the city render)"
     }
   ]
 }
