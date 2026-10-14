@@ -52,16 +52,16 @@
       "from": "6c64 page 15 — top view with figures"
     },
     {
-      "name": "09-hanging-stick-details.webp",
-      "sha256": "00d8c54ddd655aa35209814a8d486a736dfbb34e0e7132d9fba2bd380baed5c6",
-      "bytes": 48570,
-      "from": "6c64 page 15 — hanging stick details"
-    },
-    {
       "name": "10-interior-corridor.webp",
       "sha256": "9d258a1760826ba9454d1164964bade928403945781ab53dae983215b545e754",
       "bytes": 28084,
       "from": "6c64 page 15 — interior corridor"
+    },
+    {
+      "name": "11-game-reference-screenshots.webp",
+      "sha256": "948344a2c582a94186dc3ed66db298a1c018550a73512bb2a8577cb5ed9d1af6",
+      "bytes": 34844,
+      "from": "restored reference image (game reference screenshots)"
     }
   ]
 }

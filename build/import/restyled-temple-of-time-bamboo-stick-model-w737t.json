@@ -1,0 +1,16 @@
+{
+  "project": "Restyled Temple of Time",
+  "dest": "assets/board/restyled-temple-of-time-bamboo-stick-model",
+  "note": "w737t restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-game-reference-screenshots.webp",
+      "sha256": "948344a2c582a94186dc3ed66db298a1c018550a73512bb2a8577cb5ed9d1af6",
+      "bytes": 34844,
+      "from": "restored reference image (game reference screenshots)"
+    }
+  ],
+  "delete": [
+    "assets/board/restyled-temple-of-time-bamboo-stick-model/09-hanging-stick-details.webp"
+  ]
+}
