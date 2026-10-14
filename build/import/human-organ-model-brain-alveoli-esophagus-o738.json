@@ -1,0 +1,22 @@
+{
+  "project": "Human Organ Model",
+  "dest": "assets/board/human-organ-model-brain-alveoli-esophagus",
+  "note": "o738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-organ-diagrams.webp",
+      "sha256": "bedb162cbe3c74678254aceea62b2d8d3973a2767483d99f9f89807258bfbfc4",
+      "bytes": 41848,
+      "from": "restored reference image (organ diagrams)"
+    },
+    {
+      "name": "11-wearing-the-esophagus-model.webp",
+      "sha256": "4d41d891aa3c399f806b440709e6301163a0d3134eee1f4a524dfbe44be6d582",
+      "bytes": 95206,
+      "from": "restored reference image (wearing the esophagus model)"
+    }
+  ],
+  "delete": [
+    "assets/board/human-organ-model-brain-alveoli-esophagus/08-brain-model-low.webp"
+  ]
+}
