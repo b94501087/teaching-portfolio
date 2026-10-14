@@ -16,12 +16,6 @@
       "from": "page 11 — L, M and S tower strategy diagrams, x 50–100 %, y 0–38 %"
     },
     {
-      "name": "03-towers-across-the-village.webp",
-      "sha256": "bb608d9cc224a0b33e382e9b9d64f8dc222412d61a5c767130641fe66367c074",
-      "bytes": 535620,
-      "from": "page 11 — aerial render of towers across the village, x 50–100 %, y 38–100 %"
-    },
-    {
       "name": "04-tower-generation.webp",
       "sha256": "3c39cf8c052de28bf4a245be21566672064dc3a783335936f866ccc88ef992a5",
       "bytes": 504328,
@@ -58,10 +52,16 @@
       "from": "page 14 — physical model of the tower, x 0–42 %"
     },
     {
-      "name": "10-model-details.webp",
-      "sha256": "6169f9adece27ec81e5f18ce4112ecdbdf4829bee058b1b2a71150f84be461cc",
-      "bytes": 230076,
-      "from": "page 14 — stair node and residential module models, x 43–78.5 %, y 0–64 %"
+      "name": "11-site-analysis.webp",
+      "sha256": "5360cd0ce9025c3a85ea0006bdd39947f6fe2c1c4609d9b50a96e40bbdc6fe7d",
+      "bytes": 255054,
+      "from": "restored reference image (site analysis)"
+    },
+    {
+      "name": "12-village-comic.webp",
+      "sha256": "d0ff7a3c1f2aa058681fdfff2327a6f3791db7bdf583c5bd164613908992a5f5",
+      "bytes": 216394,
+      "from": "restored reference image (village comic)"
     }
   ]
 }

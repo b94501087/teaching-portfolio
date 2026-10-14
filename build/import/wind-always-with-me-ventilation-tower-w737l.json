@@ -1,0 +1,23 @@
+{
+  "project": "Wind, Always With Me",
+  "dest": "assets/board/wind-always-with-me-ventilation-tower",
+  "note": "w737l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-analysis.webp",
+      "sha256": "5360cd0ce9025c3a85ea0006bdd39947f6fe2c1c4609d9b50a96e40bbdc6fe7d",
+      "bytes": 255054,
+      "from": "restored reference image (site analysis)"
+    },
+    {
+      "name": "12-village-comic.webp",
+      "sha256": "d0ff7a3c1f2aa058681fdfff2327a6f3791db7bdf583c5bd164613908992a5f5",
+      "bytes": 216394,
+      "from": "restored reference image (village comic)"
+    }
+  ],
+  "delete": [
+    "assets/board/wind-always-with-me-ventilation-tower/03-towers-across-the-village.webp",
+    "assets/board/wind-always-with-me-ventilation-tower/10-model-details.webp"
+  ]
+}
