@@ -1,0 +1,25 @@
+{
+  "project": "Longyearbyen Coastal Ecological Framework",
+  "dest": "assets/board/longyearbyen-coastal-ecological-framework",
+  "note": "w737n restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-site-selection-and-changes.webp",
+      "sha256": "d2c4f3f23f2d793333fb659dd610034c634b82135201009b9b296d7ff70bb0a8",
+      "bytes": 63034,
+      "from": "restored reference image (site selection and changes)"
+    },
+    {
+      "name": "09-final-view-year-0.webp",
+      "sha256": "b29f0b3ad29e967f3ca6e22010ae02647783f6ffd58409c9c632f90cfc344ae4",
+      "bytes": 184274,
+      "from": "restored reference image (final view year 0)"
+    },
+    {
+      "name": "10-final-view-year-20.webp",
+      "sha256": "e57d138693eb6ec92d1ab5b5bc07f4da62a7d12e6b2cf7f63cacd5e93c69cfea",
+      "bytes": 129108,
+      "from": "restored reference image (final view year 20)"
+    }
+  ]
+}
