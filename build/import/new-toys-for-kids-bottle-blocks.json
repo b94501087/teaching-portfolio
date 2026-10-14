@@ -10,12 +10,6 @@
       "from": "e4dc page 16 — design development, individual and combined blocks, x 0–40 %, y 0–50 %"
     },
     {
-      "name": "02-wash-and-clean-bottles.webp",
-      "sha256": "5c61a0c82f68f91d848d04837fc53e02fb308676bf3cd66ae242069860e93a0f",
-      "bytes": 220676,
-      "from": "page 15 — recycling process steps 3 and 4, x 0–42 %, y 50–98 %"
-    },
-    {
       "name": "03-bottle-building-block.webp",
       "sha256": "8c12aaf4699d999d47ce8bd3662d84cc0a5de18ac845b8c9cbacbd25f2111f8c",
       "bytes": 75890,
@@ -38,6 +32,36 @@
       "sha256": "0dbccc3432f9c2d0b3d48855ab7f2083aa8ffa93b6463ebd60b93359d0e8c79b",
       "bytes": 51996,
       "from": "page 16 — 1:1 model test of the blocks, x 42–100 %, y 6–31 %"
+    },
+    {
+      "name": "07-title-collage.webp",
+      "sha256": "40a9a88f7d880f60348ba1a7548888145d6630af8a67483529567350d1e14d89",
+      "bytes": 156758,
+      "from": "restored reference image (title collage)"
+    },
+    {
+      "name": "08-background.webp",
+      "sha256": "a5d4fe65d3a18032486c32d1d677b8275cde80835c2bab6a649be0689f2a4a39",
+      "bytes": 228232,
+      "from": "restored reference image (background)"
+    },
+    {
+      "name": "09-recycling-process.webp",
+      "sha256": "9fba24e87b3388ca496f30ce9af9eb3599ad5d1aaf84a4b9009ab7fab3ea08df",
+      "bytes": 202532,
+      "from": "restored reference image (recycling process)"
+    },
+    {
+      "name": "10-model-test-with-children.webp",
+      "sha256": "cdaf5554f0b2535479549f05359a279619674ef16a81b5cbb7874195475242ac",
+      "bytes": 233504,
+      "from": "restored reference image (model test with children)"
+    },
+    {
+      "name": "11-rendering.webp",
+      "sha256": "065c525cf1fd23140c5b54efb2f16dd4ede5b4373ff9df87430cd9fb16745f6c",
+      "bytes": 229486,
+      "from": "restored reference image (rendering)"
     }
   ]
 }
