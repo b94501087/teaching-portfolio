@@ -1,0 +1,13 @@
+{
+  "project": "Line Offset Pop-up Shop",
+  "dest": "assets/board/line-offset-pop-up-shop",
+  "note": "w737n restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-brand-analysis.webp",
+      "sha256": "1933c32b5683cf8fa45f3fbfb5f07ac22439679759b794eb9b61c632a43fa3b9",
+      "bytes": 37480,
+      "from": "restored reference image (brand analysis)"
+    }
+  ]
+}

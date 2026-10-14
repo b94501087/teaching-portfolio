@@ -56,6 +56,12 @@
       "sha256": "933376bd2891ccaaacc74b3d508d84aba02169e7cd09606e0d44e4b1dc93dc62",
       "bytes": 43448,
       "from": "page 16 — element and material matrix, x 10–37 %, y 50–100 %"
+    },
+    {
+      "name": "10-brand-analysis.webp",
+      "sha256": "1933c32b5683cf8fa45f3fbfb5f07ac22439679759b794eb9b61c632a43fa3b9",
+      "bytes": 37480,
+      "from": "restored reference image (brand analysis)"
     }
   ]
 }
