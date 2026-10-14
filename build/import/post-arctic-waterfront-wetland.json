@@ -44,6 +44,24 @@
       "sha256": "807418081b09d519d0dd6e74ba6e52296d773f7697c61cee0a6df511875cdc83",
       "bytes": 26860,
       "from": "5b5b page 19 — species and shoreline profile"
+    },
+    {
+      "name": "08-hero-render.webp",
+      "sha256": "1bebed01b8f0b5517942584056de6ec8adfbe46624b7855326a1af88145d73cb",
+      "bytes": 209316,
+      "from": "restored reference image (hero render)"
+    },
+    {
+      "name": "09-boardwalk-perspectives.webp",
+      "sha256": "cabcb4d3a3691e7c451003efbbb0ad23c0ca221c77b8b3c96086fd896d2bddfb",
+      "bytes": 124644,
+      "from": "restored reference image (boardwalk perspectives)"
+    },
+    {
+      "name": "10-visitor-zone-perspectives.webp",
+      "sha256": "9218e856f0b27146a58af029d1a71bbf4e2027e1f38e7058485ce17fc01807a0",
+      "bytes": 118208,
+      "from": "restored reference image (visitor zone perspectives)"
     }
   ]
 }
