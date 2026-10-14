@@ -1,0 +1,23 @@
+{
+  "project": "Hive in the Sand",
+  "dest": "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures",
+  "note": "w738b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-artist-texture-references.webp",
+      "sha256": "643929206efe032ff2551e043e1b344ebf14963b7ff0c0914b692cc289e13780",
+      "bytes": 32074,
+      "from": "restored reference image (artist texture references)"
+    },
+    {
+      "name": "12-stretching-the-paper.webp",
+      "sha256": "06c734662e9a0bcec3b66eb65baed42882ae6368d6e53d68338595c68f7ff021",
+      "bytes": 27938,
+      "from": "restored reference image (stretching the paper)"
+    }
+  ],
+  "delete": [
+    "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/04-dense-surface.webp",
+    "assets/board/hive-in-the-sand-honeycomb-paper-desert-structures/05-pattern-detail.webp"
+  ]
+}
