@@ -1,0 +1,43 @@
+{
+  "project": "Space Within a Space",
+  "dest": "assets/board/space-within-a-space-loofah-section-paper-model",
+  "note": "Portfolio 029c pages 16-17 cropped to 6 images, WebP q88 (PIL). Not used: photographs of a real loofah, loofah cross-section photo, text panel, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-curved-paper-model.webp",
+      "sha256": "c6f028f60581b78f8385fcc035a59acdeb4005009f9a52afa65b713e2817b8e0",
+      "bytes": 117562,
+      "from": "029c pages 16-17 — the curling card model"
+    },
+    {
+      "name": "02-circle-overlay-drawing.webp",
+      "sha256": "e0c9a30c52727af83ed65c4f48b37c5d6a14425e07c12132026cf490a80ce3f9",
+      "bytes": 236294,
+      "from": "029c pages 16-17 — an overlay of circles"
+    },
+    {
+      "name": "03-section-drawing.webp",
+      "sha256": "04503e8c757d1fdbb437fd277ba6c2630e13d997df1337c96de06d3ff78844e4",
+      "bytes": 177180,
+      "from": "029c pages 16-17 — a section drawing of the loofah"
+    },
+    {
+      "name": "04-fragment-sketch.webp",
+      "sha256": "557359e4d99778d5a58c82958de7062ee2bfc00610e577013dba8baa89090930",
+      "bytes": 30774,
+      "from": "029c pages 16-17 — fragment sketches of curves"
+    },
+    {
+      "name": "05-variant-shoebox-illustration.webp",
+      "sha256": "c8f5c8478cfd970e7ee97f0d10e6de75b47262495fa78e0d4f41bbaf60670bfa",
+      "bytes": 751504,
+      "from": "029c pages 16-17 — the shoebox world illustration"
+    },
+    {
+      "name": "06-illustration-panels.webp",
+      "sha256": "851fec3d3d2d131d0e5a6090b1498fb0e42486260ccd549f1b750544229897e6",
+      "bytes": 264914,
+      "from": "029c pages 16-17 — panels of the illustrated city"
+    }
+  ]
+}
