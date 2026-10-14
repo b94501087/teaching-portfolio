@@ -38,6 +38,24 @@
       "sha256": "182c96a8914c9b44a98902c29c88c1c9ace2ba709f429b2b8805b1bc30103249",
       "bytes": 13604,
       "from": "page 8 — marketplace site plan, x 0–11 %, y 57–93 %"
+    },
+    {
+      "name": "07-location-analysis.webp",
+      "sha256": "97ce604770f93ace91e67f3000573cbdc36663615f8fd3fee4d5adcbdc1a2e3c",
+      "bytes": 182540,
+      "from": "restored reference image (location analysis)"
+    },
+    {
+      "name": "08-title-collage.webp",
+      "sha256": "28b465f3f2a30583cec0e3f1cd6f2aa7aaa67ae8dbe3c7a9918f43d3a3585530",
+      "bytes": 27810,
+      "from": "restored reference image (title collage)"
+    },
+    {
+      "name": "09-street-photo-study.webp",
+      "sha256": "cfa9adcc1a3a89de22e114e8fdc7f982dc4671e412f578847b4c07b0f6800e00",
+      "bytes": 200832,
+      "from": "restored reference image (street photo study)"
     }
   ]
 }
