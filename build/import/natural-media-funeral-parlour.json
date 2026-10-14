@@ -34,12 +34,6 @@
       "from": "page 9 — form generation, x 39–98 %, y 0–31 %"
     },
     {
-      "name": "06-surface-analysis.webp",
-      "sha256": "93f82f1c6e39445820766481afa3e3bf56fc500b10b84598e3035ca108cfc403",
-      "bytes": 143118,
-      "from": "page 9 — surface analysis, x 39–98 %, y 31–83.5 %"
-    },
-    {
       "name": "07-form-sequence.webp",
       "sha256": "7c14a8a98de355b1df37911bf34f2da5fbbcd07691f62b0313b08ec755ed456c",
       "bytes": 35744,
@@ -50,6 +44,24 @@
       "sha256": "e708cdd4018afb2a15d69b162adb2cda5a7d2e7da7208cc5926274d4b637ec17",
       "bytes": 28542,
       "from": "page 10 — underground plan, x 1.5–33.5 %, y 79–97.5 %"
+    },
+    {
+      "name": "09-site-and-district-analysis.webp",
+      "sha256": "c2e12cb07851a0dad445306ff7a9d1a4516d6775f79c93ff51be29f5ad324884",
+      "bytes": 205112,
+      "from": "restored reference image (site and district analysis)"
+    },
+    {
+      "name": "10-funeral-and-emotion-collage.webp",
+      "sha256": "831b249ca97aed030c5a4c052d665f18468ed498b9d49eedb19fbcef4c5f9192",
+      "bytes": 248988,
+      "from": "restored reference image (funeral and emotion collage)"
+    },
+    {
+      "name": "11-scene-rendering.webp",
+      "sha256": "3f742ccbd53475e0b7be18849672b7474f4948690eaec8628095dd2494e85ffc",
+      "bytes": 230162,
+      "from": "restored reference image (scene rendering)"
     }
   ]
 }
