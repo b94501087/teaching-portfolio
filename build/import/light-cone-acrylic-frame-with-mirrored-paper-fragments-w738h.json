@@ -1,0 +1,13 @@
+{
+  "project": "Within the Light Cone",
+  "dest": "assets/board/light-cone-acrylic-frame-with-mirrored-paper-fragments",
+  "note": "w738h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-time-record-sketch.webp",
+      "sha256": "f4095a18fc74459216a226ee850e74c7a9428a5884c36955bf208b7eb4ac5caf",
+      "bytes": 245116,
+      "from": "restored reference image (time record sketch)"
+    }
+  ]
+}
