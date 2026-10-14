@@ -1,0 +1,34 @@
+{
+  "project": "Remixed Terrain",
+  "dest": "assets/board/remixed-terrain-stick-roof-landscape",
+  "note": "w738k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-game-title-art.webp",
+      "sha256": "a892554e3a894acccdb5fecd684ecd567ecd83ad67f300abdc2d88df3bc0f438",
+      "bytes": 21702,
+      "from": "restored reference image (game title art)"
+    },
+    {
+      "name": "09-game-scene-painting.webp",
+      "sha256": "f63e2b9583370cf83dd95d751799bf5ceda69ee80a1c126b271d2358dca0030b",
+      "bytes": 108276,
+      "from": "restored reference image (game scene painting)"
+    },
+    {
+      "name": "10-sniper-scene-with-toy.webp",
+      "sha256": "252a64ec94c131279f29d845d2b37b6ff0bcfaf2377246958a6016a8079bc2a3",
+      "bytes": 155220,
+      "from": "restored reference image (sniper scene with toy)"
+    },
+    {
+      "name": "11-making-by-hand.webp",
+      "sha256": "d637ee814b6723445fd60007e64762f88b70d8fd936605e1d627c2a546e1d7dd",
+      "bytes": 26044,
+      "from": "restored reference image (making by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/remixed-terrain-stick-roof-landscape/07-terrain-piece-side.webp"
+  ]
+}
