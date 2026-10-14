@@ -56,6 +56,12 @@
       "sha256": "8520f84b6c58211992d3cd0c7660abebdf87c8aa4ec96750dfdc74257aad0a07",
       "bytes": 124942,
       "from": "6c64 page 11 — digital replica"
+    },
+    {
+      "name": "10-vertical-forest-precedents.webp",
+      "sha256": "b3218dfce0c3d9ecf695ec562a813793e13c6fe8f92d68aff83b952d72830968",
+      "bytes": 32928,
+      "from": "restored reference image (vertical forest precedents)"
     }
   ]
 }

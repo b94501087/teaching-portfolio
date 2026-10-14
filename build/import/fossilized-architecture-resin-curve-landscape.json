@@ -52,16 +52,16 @@
       "from": "6c64 page 7 — hand sketch"
     },
     {
-      "name": "09-close-up-views.webp",
-      "sha256": "1f3fb8c095d2fe0c4b9818ff8cd572277a0787ab6b21ad6092feb2bb59bd85aa",
-      "bytes": 95826,
-      "from": "6c64 page 7 — close-up views"
-    },
-    {
       "name": "10-curve-and-trees.webp",
       "sha256": "357d1e20b6a10a19f39122c86422ca1a90d53f60c332fe5c7ad5eb2b84f0d308",
       "bytes": 24468,
       "from": "6c64 page 7 — curve and trees"
+    },
+    {
+      "name": "11-stone-and-ruin-photos.webp",
+      "sha256": "fa8383f8fc7dcc3f5c8a207be272d8093a71143ef171464fa9f7d3c8f99fcb42",
+      "bytes": 65274,
+      "from": "restored reference image (stone and ruin photos)"
     }
   ]
 }
