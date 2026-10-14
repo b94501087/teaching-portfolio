@@ -1,0 +1,13 @@
+{
+  "project": "Parrot Shelter",
+  "dest": "assets/board/parrot-shelter",
+  "note": "w737f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-parrot-habits-and-depression.webp",
+      "sha256": "8134331c450a45726c6ae8e5e15f7d2f7fd501b56bd4de3097de318e4f28d6d1",
+      "bytes": 223818,
+      "from": "restored reference image (parrot habits and depression)"
+    }
+  ]
+}

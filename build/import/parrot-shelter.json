@@ -56,6 +56,12 @@
       "sha256": "8f1967fc735c08c8b916679490c09f4d1be039386a9d7694d9a80e0d407e913c",
       "bytes": 71266,
       "from": "page 5 — physical model 1:1 details, x 50.5–100 %, y 72–100 %"
+    },
+    {
+      "name": "10-parrot-habits-and-depression.webp",
+      "sha256": "8134331c450a45726c6ae8e5e15f7d2f7fd501b56bd4de3097de318e4f28d6d1",
+      "bytes": 223818,
+      "from": "restored reference image (parrot habits and depression)"
     }
   ]
 }
