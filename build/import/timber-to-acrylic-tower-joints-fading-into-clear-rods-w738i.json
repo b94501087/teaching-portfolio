@@ -1,0 +1,19 @@
+{
+  "project": "From Timber to Clear Rods",
+  "dest": "assets/board/timber-to-acrylic-tower-joints-fading-into-clear-rods",
+  "note": "w738i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-reference-legend-drawing.webp",
+      "sha256": "045bd82cd7a8bc20902710d84ae90cebcec5a9c72d276c38aa069afae4965c14",
+      "bytes": 97850,
+      "from": "restored reference image (reference legend drawing)"
+    },
+    {
+      "name": "09-joint-studies-by-hand.webp",
+      "sha256": "6c3ccd86ebc53e1951c3ce117f456c049a018b397d19b8fc43e2835a34c48523",
+      "bytes": 57232,
+      "from": "restored reference image (joint studies by hand)"
+    }
+  ]
+}
