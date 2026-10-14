@@ -1,0 +1,31 @@
+{
+  "project": "Typological Exploration",
+  "dest": "assets/board/typological-exploration-campus",
+  "note": "w737i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-background-and-strategy-maps.webp",
+      "sha256": "de1ed130cf3111e914576910cf081c6b4a2067b1b14a09baab3c85577f8172d8",
+      "bytes": 138108,
+      "from": "restored reference image (background and strategy maps)"
+    },
+    {
+      "name": "07-concept-analysis.webp",
+      "sha256": "a2c78d638769ab7774bb4d225a79df9f75549da79140c6ea680d06bc8763cc20",
+      "bytes": 107066,
+      "from": "restored reference image (concept analysis)"
+    },
+    {
+      "name": "08-quota-distribution.webp",
+      "sha256": "4151bb368483c67be420e815d8f03e5ea05bcb069270dd1cd5c67ba2d391fd79",
+      "bytes": 132994,
+      "from": "restored reference image (quota distribution)"
+    },
+    {
+      "name": "09-strategy-and-concept.webp",
+      "sha256": "3068919c0a28a5c901a38a1601fa01b4576b4b67238d2de4b7d5ea4b6a3f5b12",
+      "bytes": 130442,
+      "from": "restored reference image (strategy and concept)"
+    }
+  ]
+}
