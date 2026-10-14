@@ -50,6 +50,12 @@
       "sha256": "0f0e4620a7240e34d46069590e397d18e47e3ba9df9315f0250e3d3bae77fd76",
       "bytes": 30098,
       "from": "ce4a page 14 — stacking"
+    },
+    {
+      "name": "09-stitching-the-paper.webp",
+      "sha256": "6665c44f7ee56c91e6191888efe59886be8e5477dfc24705bd6d7b2e849a054e",
+      "bytes": 9606,
+      "from": "restored reference image (stitching the paper)"
     }
   ]
 }

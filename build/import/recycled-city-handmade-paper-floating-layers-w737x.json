@@ -1,0 +1,13 @@
+{
+  "project": "The Recycled City",
+  "dest": "assets/board/recycled-city-handmade-paper-floating-layers",
+  "note": "w737x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-stitching-the-paper.webp",
+      "sha256": "6665c44f7ee56c91e6191888efe59886be8e5477dfc24705bd6d7b2e849a054e",
+      "bytes": 9606,
+      "from": "restored reference image (stitching the paper)"
+    }
+  ]
+}
