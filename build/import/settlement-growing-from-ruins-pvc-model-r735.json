@@ -1,0 +1,23 @@
+{
+  "project": "A Settlement Growing from Ruins",
+  "dest": "assets/board/settlement-growing-from-ruins-pvc-model",
+  "note": "w735 restore of reference posters/stills per user rule.",
+  "files": [
+    {
+      "name": "11-game-key-art.webp",
+      "sha256": "9d0a11d01ea6cf890850754134d1cd6e8dce8aaa854204c964fcc74219be2d9f",
+      "bytes": 25642,
+      "from": "restored reference image (game key art)"
+    },
+    {
+      "name": "12-game-collage.webp",
+      "sha256": "4b5a61f568783be5f3b4ea5f63e9d9f7a06a72e242a8ed37e0db08032cd94e6d",
+      "bytes": 129494,
+      "from": "restored reference image (game collage)"
+    }
+  ],
+  "delete": [
+    "assets/board/settlement-growing-from-ruins-pvc-model/05-block-study-d.webp",
+    "assets/board/settlement-growing-from-ruins-pvc-model/09-detail-b.webp"
+  ]
+}

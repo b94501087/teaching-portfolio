@@ -1,7 +1,7 @@
 {
   "project": "A Settlement Growing from Ruins",
   "dest": "assets/board/settlement-growing-from-ruins-pvc-model",
-  "note": "Portfolio 1390 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, game key art, game screenshots and collage, game name.",
+  "note": "Portfolio 1390 pages 6-7 cropped to ten images, WebP q88 (PIL). Not used: title and text, game key art, game screenshots and collage, game name. w735: reference posters/stills restored; removed 05-block-study-d.webp, 09-detail-b.webp.",
   "files": [
     {
       "name": "01-settlement-model.webp",
@@ -28,12 +28,6 @@
       "from": "1390 page 6 — block study c"
     },
     {
-      "name": "05-block-study-d.webp",
-      "sha256": "e3130eb7791171a660d33ef706dbd5f95f5cf838cab5fffd399a10de00717b63",
-      "bytes": 7680,
-      "from": "1390 page 6 — block study d"
-    },
-    {
       "name": "06-view-a.webp",
       "sha256": "7a65d756d74df0ebb96ee24bc56fc3c9ea7fd52f69fd8a6412b04400065e8eb4",
       "bytes": 71090,
@@ -52,16 +46,22 @@
       "from": "1390 page 7 — detail a"
     },
     {
-      "name": "09-detail-b.webp",
-      "sha256": "582d96adb589cc316e421755a064383368decca647b2b7d504f41621267a85db",
-      "bytes": 25364,
-      "from": "1390 page 7 — detail b"
-    },
-    {
       "name": "10-detail-c.webp",
       "sha256": "3e5c6d15b1be60395c40a4ec3b97470daa1a8421a64e313a4677477a38d2bd87",
       "bytes": 22128,
       "from": "1390 page 7 — detail c"
+    },
+    {
+      "name": "11-game-key-art.webp",
+      "sha256": "9d0a11d01ea6cf890850754134d1cd6e8dce8aaa854204c964fcc74219be2d9f",
+      "bytes": 25642,
+      "from": "restored reference image (game key art)"
+    },
+    {
+      "name": "12-game-collage.webp",
+      "sha256": "4b5a61f568783be5f3b4ea5f63e9d9f7a06a72e242a8ed37e0db08032cd94e6d",
+      "bytes": 129494,
+      "from": "restored reference image (game collage)"
     }
   ]
 }
