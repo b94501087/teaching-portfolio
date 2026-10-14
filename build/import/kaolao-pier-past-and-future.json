@@ -40,12 +40,6 @@
       "from": "page 12 — timber jetty section with silhouettes, x 0–50 %, y 93.5–100 %"
     },
     {
-      "name": "09-stool-concept.webp",
-      "sha256": "3dd7102b9536309dc2db6d08a98f50d6de8cb9a4c9d4ade18814a78be7849bba",
-      "bytes": 51430,
-      "from": "page 14 — stool design concept drawings, x 52–74 %, y 15.5–98.5 %"
-    },
-    {
       "name": "10-pod-section.webp",
       "sha256": "ee723da145c64d719b78dfeaeea0a3b332da5ffeff2990cd92799d277399307a",
       "bytes": 18918,
@@ -62,6 +56,12 @@
       "sha256": "5a4831861e032646294b4cdd88bf4fd6bdac2b18d136dcc411b82e7fc45c0e0f",
       "bytes": 19240,
       "from": "page 13 — museum sections for three tide stages, x 76.5–100 %, y 69–99 %"
+    },
+    {
+      "name": "11-masterplan.webp",
+      "sha256": "601d35f068e802fd83c42a90d34c3195035549c30bb91d4615ab8e8dcf0b800a",
+      "bytes": 203122,
+      "from": "restored reference image (masterplan)"
     }
   ]
 }

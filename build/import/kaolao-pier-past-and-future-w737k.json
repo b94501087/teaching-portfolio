@@ -1,0 +1,16 @@
+{
+  "project": "The Past and Future of KaoLao Pier",
+  "dest": "assets/board/kaolao-pier-past-and-future",
+  "note": "w737k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-masterplan.webp",
+      "sha256": "601d35f068e802fd83c42a90d34c3195035549c30bb91d4615ab8e8dcf0b800a",
+      "bytes": 203122,
+      "from": "restored reference image (masterplan)"
+    }
+  ],
+  "delete": [
+    "assets/board/kaolao-pier-past-and-future/09-stool-concept.webp"
+  ]
+}
