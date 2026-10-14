@@ -1,0 +1,23 @@
+{
+  "project": "Rhythms in Structure",
+  "dest": "assets/board/rhythms-in-structure-piano-music-stick-sculpture",
+  "note": "w737z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-piano-score-sheets.webp",
+      "sha256": "1ba20896b28a11c602e248b2e782fdcb0eba38b6504b76b51d096d407d594c83",
+      "bytes": 39884,
+      "from": "restored reference image (piano score sheets)"
+    },
+    {
+      "name": "12-building-with-hands.webp",
+      "sha256": "5efefaefca6eaeeb536544e418355236bb267d8509f74f7793841d31c621582c",
+      "bytes": 18688,
+      "from": "restored reference image (building with hands)"
+    }
+  ],
+  "delete": [
+    "assets/board/rhythms-in-structure-piano-music-stick-sculpture/09-blue-glow.webp",
+    "assets/board/rhythms-in-structure-piano-music-stick-sculpture/10-side-view.webp"
+  ]
+}

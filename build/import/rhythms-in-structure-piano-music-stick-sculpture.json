@@ -52,16 +52,16 @@
       "from": "8409 page 10 — reflection"
     },
     {
-      "name": "09-blue-glow.webp",
-      "sha256": "984b338432e3e8595f8f7a34e7fdba9208c29c8c698733183aec344db5469f27",
-      "bytes": 34188,
-      "from": "8409 page 10 — blue glow"
+      "name": "11-piano-score-sheets.webp",
+      "sha256": "1ba20896b28a11c602e248b2e782fdcb0eba38b6504b76b51d096d407d594c83",
+      "bytes": 39884,
+      "from": "restored reference image (piano score sheets)"
     },
     {
-      "name": "10-side-view.webp",
-      "sha256": "0866e4e94734c6f1fd0ed750ccdf2c1ea90bf2ce071b79caf6c90c11c19991a5",
-      "bytes": 50028,
-      "from": "8409 page 10 — side view"
+      "name": "12-building-with-hands.webp",
+      "sha256": "5efefaefca6eaeeb536544e418355236bb267d8509f74f7793841d31c621582c",
+      "bytes": 18688,
+      "from": "restored reference image (building with hands)"
     }
   ]
 }
