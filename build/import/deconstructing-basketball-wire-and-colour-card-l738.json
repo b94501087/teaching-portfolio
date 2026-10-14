@@ -1,0 +1,19 @@
+{
+  "project": "Deconstructing Basketball",
+  "dest": "assets/board/deconstructing-basketball-wire-and-colour-card",
+  "note": "l738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-basketball-patent-drawing.webp",
+      "sha256": "9b925828b9c261e1023627fb2e3fef1be08e390becc8e24d860e351e9d88f1ff",
+      "bytes": 95296,
+      "from": "restored reference image (basketball patent drawing)"
+    },
+    {
+      "name": "09-making-by-hand.webp",
+      "sha256": "7969cc15b0c445cf8f4acba818424deb5bf606de478eb714b87bcd921206ef5f",
+      "bytes": 37680,
+      "from": "restored reference image (making by hand)"
+    }
+  ]
+}
