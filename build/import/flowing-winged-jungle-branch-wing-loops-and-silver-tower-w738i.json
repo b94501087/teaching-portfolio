@@ -1,0 +1,19 @@
+{
+  "project": "Flowing Winged Jungle",
+  "dest": "assets/board/flowing-winged-jungle-branch-wing-loops-and-silver-tower",
+  "note": "w738i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-hummingbird-references.webp",
+      "sha256": "d7c012c54f58f243f041d656fb33cef6cf3c748d2a87d89bf712597a9844def7",
+      "bytes": 130056,
+      "from": "restored reference image (hummingbird references)"
+    },
+    {
+      "name": "07-shaping-wings-by-hand.webp",
+      "sha256": "8e5b1360fd7b185dcc8f9ba7aa59f4f9c45003db0c3db7b44fb1cca2a6886d39",
+      "bytes": 161984,
+      "from": "restored reference image (shaping wings by hand)"
+    }
+  ]
+}
