@@ -16,12 +16,6 @@
       "from": "ba4c page 5 — concept model from below"
     },
     {
-      "name": "03-model-light-study.webp",
-      "sha256": "61afd2bbadbbdadf8004f75d1900e48092d7b3f8b0fc1b7269f8d4e06d4ead18",
-      "bytes": 19546,
-      "from": "ba4c page 5 — concept model light study"
-    },
-    {
       "name": "04-model-aggregation.webp",
       "sha256": "a199cfe2365aec00a55b016b51a6d1a5223df401d9567fc5becb3df078f2aa2d",
       "bytes": 33976,
@@ -56,6 +50,18 @@
       "sha256": "40070b32a05ed3508bda6f6c4f958f6e5127184a4d68e46bd2b2cce7abf3a974",
       "bytes": 21638,
       "from": "ba4c page 6 — district energy link"
+    },
+    {
+      "name": "10-site-context-timeline.webp",
+      "sha256": "1f233ace432147f2ee61312894ef490fef6688e166bb447ede53e74a0cf577d7",
+      "bytes": 70246,
+      "from": "restored reference image (site context timeline)"
+    },
+    {
+      "name": "11-final-market-render.webp",
+      "sha256": "355b1a3a250cacf35656a054bcc97944b199f89558ee8c83cc4b26539fd954b2",
+      "bytes": 171908,
+      "from": "restored reference image (final market render)"
     }
   ]
 }

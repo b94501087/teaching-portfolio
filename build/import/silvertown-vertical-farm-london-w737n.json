@@ -1,0 +1,22 @@
+{
+  "project": "Silvertown Vertical Farm: Urban Food Infrastructure",
+  "dest": "assets/board/silvertown-vertical-farm-london",
+  "note": "w737n restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-site-context-timeline.webp",
+      "sha256": "1f233ace432147f2ee61312894ef490fef6688e166bb447ede53e74a0cf577d7",
+      "bytes": 70246,
+      "from": "restored reference image (site context timeline)"
+    },
+    {
+      "name": "11-final-market-render.webp",
+      "sha256": "355b1a3a250cacf35656a054bcc97944b199f89558ee8c83cc4b26539fd954b2",
+      "bytes": 171908,
+      "from": "restored reference image (final market render)"
+    }
+  ],
+  "delete": [
+    "assets/board/silvertown-vertical-farm-london/03-model-light-study.webp"
+  ]
+}
