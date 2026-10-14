@@ -1,0 +1,61 @@
+{
+  "project": "Distances Between Five Characters",
+  "dest": "assets/board/distances-between-five-characters-curved-walls-and-bridges",
+  "note": "Portfolio 2939 pages 17-19 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, music-video stills of performers, photo collages cut from performer images, model data.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "6d9d414b56ed5b3b4d48a183373a29655902c8132a769a27ef7c91ab079231b1",
+      "bytes": 114346,
+      "from": "2939 pages 17-19 — five clusters joined by paths and bridges"
+    },
+    {
+      "name": "02-gesture-sketches.webp",
+      "sha256": "1280b51b3b27aadd125a15fcd9b1e604035db63e7b2cdc5649e38e4e3ef927d2",
+      "bytes": 236198,
+      "from": "2939 pages 17-19 — sketches of gestures and paths"
+    },
+    {
+      "name": "03-clay-figures.webp",
+      "sha256": "bdf2bdda6248fdd9ae37419e463eee4bd22cde57009b2e07333d8fc1c3a63f3e",
+      "bytes": 143214,
+      "from": "2939 pages 17-19 — clay figures for five characters"
+    },
+    {
+      "name": "04-paper-units.webp",
+      "sha256": "ff7cf4826b3ea72cf16799de704704fe21bab729a1c3ac76aa8710fc12551009",
+      "bytes": 133136,
+      "from": "2939 pages 17-19 — paper units arranged in combinations"
+    },
+    {
+      "name": "05-curved-walls.webp",
+      "sha256": "00dc376c677cb23a29f2f4768a75d29936fb01cfb96e253a0fe40cdf21c68061",
+      "bytes": 52282,
+      "from": "2939 pages 17-19 — curved walls around a small figure"
+    },
+    {
+      "name": "06-model-overall.webp",
+      "sha256": "968b4b3c9d862c3067782d8232950a44c78cf8da8a600bcf00624c328d6edd47",
+      "bytes": 105326,
+      "from": "2939 pages 17-19 — the model seen as a whole"
+    },
+    {
+      "name": "07-path-and-bridge.webp",
+      "sha256": "5c706b4850240e43df02072238e3f334237c477b2100ad035c28038eac235057",
+      "bytes": 55098,
+      "from": "2939 pages 17-19 — a winding path and bridge"
+    },
+    {
+      "name": "08-clear-tower.webp",
+      "sha256": "5169561cc90adb23e89b53bee9be4c7ccd17e3e575c5c468c1520745c8544dfd",
+      "bytes": 56186,
+      "from": "2939 pages 17-19 — a clear tower beside the walls"
+    },
+    {
+      "name": "09-steps-and-frames.webp",
+      "sha256": "87c991f9695e9d702c5c5ec0329635b00528ec4757153d62199f2c50e7f540d2",
+      "bytes": 97304,
+      "from": "2939 pages 17-19 — stepping blocks and clear frames"
+    }
+  ]
+}
