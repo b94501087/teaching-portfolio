@@ -1,0 +1,25 @@
+{
+  "project": "Implantation of Welfare Index",
+  "dest": "assets/board/welfare-index-urban-village",
+  "note": "w737k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-urban-village-aerial.webp",
+      "sha256": "6a493d182a0e7c349e1c45860849f21cb5c46098661cd044d3fa00476b25649b",
+      "bytes": 207028,
+      "from": "restored reference image (urban village aerial)"
+    },
+    {
+      "name": "09-village-distribution-map.webp",
+      "sha256": "63bfdca920c06aa5a51f675a7bcdbc6d5992d2f2d73471c61e72140b78474563",
+      "bytes": 274888,
+      "from": "restored reference image (village distribution map)"
+    },
+    {
+      "name": "10-village-development-stages.webp",
+      "sha256": "b71c4e0f7b25746aedc93c4c0711eea87bceeec61c9f60c6b67c64d0e609d1d2",
+      "bytes": 110232,
+      "from": "restored reference image (village development stages)"
+    }
+  ]
+}
