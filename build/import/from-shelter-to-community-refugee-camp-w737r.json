@@ -1,0 +1,29 @@
+{
+  "project": "From Shelter to Community",
+  "dest": "assets/board/from-shelter-to-community-refugee-camp",
+  "note": "w737r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-refugee-history-timeline.webp",
+      "sha256": "7759303210dc119c4f32e2a47c692c971f9160e09d4a6f5bf233166512c0ea05",
+      "bytes": 146440,
+      "from": "restored reference image (refugee history timeline)"
+    },
+    {
+      "name": "11-refugee-camp-conditions.webp",
+      "sha256": "af0eb253fa01d86a5854078f24de44facecad65af79dda1dcaa1802d8cecf048",
+      "bytes": 156906,
+      "from": "restored reference image (refugee camp conditions)"
+    },
+    {
+      "name": "12-interior-renders.webp",
+      "sha256": "31dde2b62e5c8bee94876a2721a9c95a6ffad5a5b99bc51edf8054b5e658925c",
+      "bytes": 105070,
+      "from": "restored reference image (interior renders)"
+    }
+  ],
+  "delete": [
+    "assets/board/from-shelter-to-community-refugee-camp/07-section-two.webp",
+    "assets/board/from-shelter-to-community-refugee-camp/09-modular-house-model.webp"
+  ]
+}

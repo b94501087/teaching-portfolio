@@ -40,22 +40,28 @@
       "from": "c0e5 page 15 — section one"
     },
     {
-      "name": "07-section-two.webp",
-      "sha256": "5011e642222ec15173a59a63e6f14067732e15e26417312c976c256011fb0761",
-      "bytes": 74348,
-      "from": "c0e5 page 15 — section two"
-    },
-    {
       "name": "08-market-frame-model.webp",
       "sha256": "5ba44efb6650a9fb06ca052a4f5e15a32c115bc647366970061d20d82030c1aa",
       "bytes": 81732,
       "from": "c0e5 page 16 — market frame model"
     },
     {
-      "name": "09-modular-house-model.webp",
-      "sha256": "d15c0594cfc58bd80ca418a6bb80810ea26a96866adb459be22e1fe8d32d3e50",
-      "bytes": 103284,
-      "from": "c0e5 page 16 — modular house model"
+      "name": "10-refugee-history-timeline.webp",
+      "sha256": "7759303210dc119c4f32e2a47c692c971f9160e09d4a6f5bf233166512c0ea05",
+      "bytes": 146440,
+      "from": "restored reference image (refugee history timeline)"
+    },
+    {
+      "name": "11-refugee-camp-conditions.webp",
+      "sha256": "af0eb253fa01d86a5854078f24de44facecad65af79dda1dcaa1802d8cecf048",
+      "bytes": 156906,
+      "from": "restored reference image (refugee camp conditions)"
+    },
+    {
+      "name": "12-interior-renders.webp",
+      "sha256": "31dde2b62e5c8bee94876a2721a9c95a6ffad5a5b99bc51edf8054b5e658925c",
+      "bytes": 105070,
+      "from": "restored reference image (interior renders)"
     }
   ]
 }
