@@ -16,18 +16,6 @@
       "from": "page 2 — section of moist and dry air flow, x 67–93 %, y 10–49 %"
     },
     {
-      "name": "03-prototype-space-models.webp",
-      "sha256": "5122f5dbdd5c9a5e83cb1a97a6121bce24ac4c4d969261697b438f6fc745a51f",
-      "bytes": 62274,
-      "from": "page 3 — prototype space deduction models and sketches, x 0–100 %, y 80–99 %"
-    },
-    {
-      "name": "04-model-sun-study.webp",
-      "sha256": "bfe2c46f0607bafe2a9e7f21b34f5cb6a7ab7b1919601f6e2c932b3b8ef069ed",
-      "bytes": 101138,
-      "from": "page 4 — model perspective and summer/winter sunshine study, x 0–62 %, y 6–31 %"
-    },
-    {
       "name": "05-dehumidification-model.webp",
       "sha256": "20dac504a1615c4e56ddbb4ff83768dd0ff913f2e169ac4ae05bda23661d87ea",
       "bytes": 170174,
@@ -62,6 +50,18 @@
       "sha256": "cfb33fa08cfcad4e9f58dd12b28fe1a60717e1382e826443fb5bcc96d21800ee",
       "bytes": 106324,
       "from": "page 6 — wall section with the aerial-root air layer, x 70.5–100 %, y 5.5–97.5 %"
+    },
+    {
+      "name": "11-shi-qi-diseases-and-remedies.webp",
+      "sha256": "044962c3ed439d7364a8f4475f1bec402ee362b45d0cfe02af0a03a2263dbf14",
+      "bytes": 141522,
+      "from": "restored reference image (shi qi diseases and remedies)"
+    },
+    {
+      "name": "12-user-relationship-analysis.webp",
+      "sha256": "7bb1e7d9676e1ea268633dd9429b6d5fe8bbfb1b7859230a7eaff5bb9954c1f0",
+      "bytes": 202854,
+      "from": "restored reference image (user relationship analysis)"
     }
   ]
 }

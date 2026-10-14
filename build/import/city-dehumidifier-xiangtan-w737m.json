@@ -1,0 +1,23 @@
+{
+  "project": "The City Dehumidifier",
+  "dest": "assets/board/city-dehumidifier-xiangtan",
+  "note": "w737m restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-shi-qi-diseases-and-remedies.webp",
+      "sha256": "044962c3ed439d7364a8f4475f1bec402ee362b45d0cfe02af0a03a2263dbf14",
+      "bytes": 141522,
+      "from": "restored reference image (shi qi diseases and remedies)"
+    },
+    {
+      "name": "12-user-relationship-analysis.webp",
+      "sha256": "7bb1e7d9676e1ea268633dd9429b6d5fe8bbfb1b7859230a7eaff5bb9954c1f0",
+      "bytes": 202854,
+      "from": "restored reference image (user relationship analysis)"
+    }
+  ],
+  "delete": [
+    "assets/board/city-dehumidifier-xiangtan/03-prototype-space-models.webp",
+    "assets/board/city-dehumidifier-xiangtan/04-model-sun-study.webp"
+  ]
+}
