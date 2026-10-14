@@ -1,0 +1,49 @@
+{
+  "project": "Reconstitution of Soccer",
+  "dest": "assets/board/reconstitution-of-soccer-ball-panel-pavilion-model",
+  "note": "Portfolio 43de pages 9-11 cropped to 7 images, WebP q88 (PIL). Not used: photos of the printed ball with country and brand lettering, hand cutting and testing photos, panel views with brand lettering, step labels, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-pavilion-overview.webp",
+      "sha256": "f413bdffc518a15bb5144fa6f2b52f401059c45c7e7b238de3235266204f12ab",
+      "bytes": 157778,
+      "from": "43de pages 9-11 — the pavilion model as a whole"
+    },
+    {
+      "name": "02-creating-space.webp",
+      "sha256": "ba44cb6e585c0d2c47e7711f534406c605a48e15a5477c4f17ceffa5da2575c8",
+      "bytes": 35632,
+      "from": "43de pages 9-11 — shells beginning to create space"
+    },
+    {
+      "name": "03-canopy-view-a.webp",
+      "sha256": "efc175e36291e12c3af70f4837d36a1862d5afde9b4d091bfe7cd3dcd10fcfe5",
+      "bytes": 106872,
+      "from": "43de pages 9-11 — canopies with soft fibre clouds"
+    },
+    {
+      "name": "04-canopy-view-b.webp",
+      "sha256": "172aac1fbd0c4f3c8b2672986d8184a7bdb8487ae42a57862b6884902963274c",
+      "bytes": 86294,
+      "from": "43de pages 9-11 — a canopy raised on a stick"
+    },
+    {
+      "name": "05-under-canopy.webp",
+      "sha256": "06cbf941619e5c7f84b1d0ec5f2213ca9ae3e87a47f4affbc2fa31cb28dde956",
+      "bytes": 64150,
+      "from": "43de pages 9-11 — a view under a curved shell"
+    },
+    {
+      "name": "06-interior-view.webp",
+      "sha256": "8d8de6c5e426e0d42696f3ff62920e7d6b7da4d3ed4bc01c60ffb81763849830",
+      "bytes": 75302,
+      "from": "43de pages 9-11 — the sheltered ground with figures"
+    },
+    {
+      "name": "07-entrance-view.webp",
+      "sha256": "5c9ddd167daf4ae4118da208d28ebc76471092669b00286a1ca41b4d625a432d",
+      "bytes": 105522,
+      "from": "43de pages 9-11 — an entrance between the shells"
+    }
+  ]
+}
