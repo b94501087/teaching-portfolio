@@ -1,0 +1,43 @@
+{
+  "project": "Stacked Rooms of a Dense City",
+  "dest": "assets/board/stacked-rooms-of-a-dense-city-pvc-and-drawing",
+  "note": "Portfolio 2fb5 page 7 cropped to 6 images, WebP q88 (PIL). Not used: title lettering, introduction text naming a real settlement, workspace photo, speech-bubble lettering across most of the section drawing, size captions.",
+  "files": [
+    {
+      "name": "01-stacked-rooms.webp",
+      "sha256": "9df1f74ba717104e62d76f1ddbee394c2b712fccb2e000eb10f564d577e0572b",
+      "bytes": 211370,
+      "from": "2fb5 page 7 — the stacked block of rooms"
+    },
+    {
+      "name": "02-floor-plates.webp",
+      "sha256": "14c8c26b90f7c0ed8a3fefeb91ae6bb81c3c8d024ff351b69b0b36d814e4de62",
+      "bytes": 58440,
+      "from": "2fb5 page 7 — exploded floor plates"
+    },
+    {
+      "name": "03-side-tower.webp",
+      "sha256": "90f578261464c562ca89e9fdf360b03f1f72fab53fc4f0a157c9042ae035ffff",
+      "bytes": 20050,
+      "from": "2fb5 page 7 — a stacked side tower"
+    },
+    {
+      "name": "04-round-detail.webp",
+      "sha256": "c66c663981c1e05601a62fb7fa4633254bd6b84d9daffef87335f5a7954bbf02",
+      "bytes": 22906,
+      "from": "2fb5 page 7 — a close view of stacked floors"
+    },
+    {
+      "name": "05-frame-detail.webp",
+      "sha256": "fe13bf770c613e24e09e11b56b9a492161ff8d416fd9a12fcd832d6b071b99c9",
+      "bytes": 16732,
+      "from": "2fb5 page 7 — a detail of the thin walls"
+    },
+    {
+      "name": "06-section-drawing.webp",
+      "sha256": "57afed4560798d07c3d2e6897186a57077c71035099b8c994a991b34c27fbed0",
+      "bytes": 143456,
+      "from": "2fb5 page 7 — part of the long section drawing"
+    }
+  ]
+}
