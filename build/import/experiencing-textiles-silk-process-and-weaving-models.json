@@ -1,0 +1,61 @@
+{
+  "project": "Experiencing Textiles",
+  "dest": "assets/board/experiencing-textiles-silk-process-and-weaving-models",
+  "note": "Portfolio 029c pages 10-15 cropped to 9 images, WebP q88 (PIL). Not used: historic scroll painting and its machine excerpts, stage icon strip, line drawing of the second weaving model (its photographs are missing from the file), caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-textiles-model-overview.webp",
+      "sha256": "fb4f181cc989b1a03c3d74c4d43c72318f96fcd84db7fecaa467cdbcfba7948d",
+      "bytes": 137316,
+      "from": "029c pages 10-15 — the textiles model in four stages"
+    },
+    {
+      "name": "02-loom-sketches.webp",
+      "sha256": "3ee5444145671e73186f158870275d223c39a3fb237b8989ff1ed096498bd909",
+      "bytes": 221588,
+      "from": "029c pages 10-15 — sketches of weaving machines"
+    },
+    {
+      "name": "03-mesh-interior.webp",
+      "sha256": "6e14e0e1557a84229e872ed963f7c90932a1a9c7a6e6409270f37560ddd1a090",
+      "bytes": 232708,
+      "from": "029c pages 10-15 — the mesh interior with figures"
+    },
+    {
+      "name": "04-cube-cluster.webp",
+      "sha256": "5e30d8cdfbcfd19b37319a0edb9075c44232037ba4256113ff25eb489a8461d8",
+      "bytes": 60140,
+      "from": "029c pages 10-15 — a cluster of clay cubes"
+    },
+    {
+      "name": "05-ribbon-interior.webp",
+      "sha256": "c7fa9c046ce64be95ae7eaa16dea880e15b32b496658f8baf6455fd131178236",
+      "bytes": 212760,
+      "from": "029c pages 10-15 — ribbons sweeping through the mesh"
+    },
+    {
+      "name": "06-ribbon-close-view.webp",
+      "sha256": "6b3af39982e98d35d4c996d8a08a0bd8c1054d5e86b901d0b091f49cd6f7eb6b",
+      "bytes": 151836,
+      "from": "029c pages 10-15 — close views of ribbon and mesh"
+    },
+    {
+      "name": "07-weaving-model.webp",
+      "sha256": "ee2e10e23e3615236ed04d5d366dfb849481bab63fc3ea17a4f249faed6eddd1",
+      "bytes": 143504,
+      "from": "029c pages 10-15 — the folded weaving model"
+    },
+    {
+      "name": "08-weaving-model-top.webp",
+      "sha256": "1680721dab7415c13dffbb5ff0f9edc14be4053784f651aefc2c23abadd29577",
+      "bytes": 44362,
+      "from": "029c pages 10-15 — the weaving model from above"
+    },
+    {
+      "name": "09-weaving-model-side.webp",
+      "sha256": "a4a123273c2259c625826ea9e450c83e61847fca6b4ba56181d7bd0af18fe757",
+      "bytes": 71560,
+      "from": "029c pages 10-15 — the weaving model from the side"
+    }
+  ]
+}
