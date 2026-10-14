@@ -1,0 +1,43 @@
+{
+  "project": "Tower of Five Layers",
+  "dest": "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles",
+  "note": "w738v restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-book-cover.webp",
+      "sha256": "2f2f737ed94cf82f0c9cbd9ab1432f287f9595572aa4c524f187053d15b7f29b",
+      "bytes": 9166,
+      "from": "restored reference image (book cover)"
+    },
+    {
+      "name": "11-fridge-magnets-photo.webp",
+      "sha256": "2078d6463b80fa85b0072cf4639f4159c3fc7fc0f11681abb3620e672fc251e1",
+      "bytes": 67146,
+      "from": "restored reference image (fridge magnets photo)"
+    },
+    {
+      "name": "12-city-sketches.webp",
+      "sha256": "bbd9b016841cba446e2affca38393b5df992945031d0f5478d6218fda5e22e3f",
+      "bytes": 198928,
+      "from": "restored reference image (city sketches)"
+    },
+    {
+      "name": "13-waste-island-photos.webp",
+      "sha256": "132cc0a37096b253a2b3509a56270a687658ac146b4969d0619fe1a669d2ce9e",
+      "bytes": 41074,
+      "from": "restored reference image (waste island photos)"
+    },
+    {
+      "name": "14-assembling-by-hand.webp",
+      "sha256": "9f0d914ed8888afb1888078a633ab77361869f923eecc06ab0245e6a990077f1",
+      "bytes": 31958,
+      "from": "restored reference image (assembling by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/04-bubble-crown-detail.webp",
+    "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/05-folded-paper-layer.webp",
+    "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/06-acrylic-and-wood-parallels.webp",
+    "assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/07-wooden-stair-frame.webp"
+  ]
+}
