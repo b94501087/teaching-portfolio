@@ -1,0 +1,55 @@
+{
+  "project": "Car Bloom",
+  "dest": "assets/board/car-bloom-streamlined-folds-for-a-public-garden",
+  "note": "Portfolio ef03 pages 8-9 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, car brand photo and model name, drawing labels naming the brand, model data.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "6118ac99adfa8612f22d0ae6ef8608e2b10cd91561c48cc82ef5b88b8e919133",
+      "bytes": 73876,
+      "from": "ef03 pages 8-9 — the flowing pavilion and garden"
+    },
+    {
+      "name": "02-concept-drawing.webp",
+      "sha256": "c2c7a3c17dd4fbd4de5d6d06b154c15d1913e942de136057d97648783403132f",
+      "bytes": 261306,
+      "from": "ef03 pages 8-9 — sketches of the car taken apart"
+    },
+    {
+      "name": "03-form-studies.webp",
+      "sha256": "420c49e8c821c0397067acb06f5a01138abc132437243d9ebdaf7138d9ffb651",
+      "bytes": 90422,
+      "from": "ef03 pages 8-9 — paper form study models"
+    },
+    {
+      "name": "04-folded-shell.webp",
+      "sha256": "d19797675e71959a650e4576bbc4750bfeaaec2269741e9b2ebc29fb8b302768",
+      "bytes": 74990,
+      "from": "ef03 pages 8-9 — the folded shell in pvc"
+    },
+    {
+      "name": "05-curving-path.webp",
+      "sha256": "2edc41e47759c93af6e3fc4980e0b56e32a8ce2b08f161a8c0179585becd8324",
+      "bytes": 59752,
+      "from": "ef03 pages 8-9 — a curving path through the shell"
+    },
+    {
+      "name": "06-tree-court.webp",
+      "sha256": "ddbbc69356c5911b1b38a2a961f283920c7315c317da44f2b50172da970264ab",
+      "bytes": 73574,
+      "from": "ef03 pages 8-9 — a court with a tree"
+    },
+    {
+      "name": "07-garden-edge.webp",
+      "sha256": "d8cffb538330626ea518e44d08789423f94cbd29d86bf66812c79b3cc54761b3",
+      "bytes": 53868,
+      "from": "ef03 pages 8-9 — the garden edge with trees"
+    },
+    {
+      "name": "08-model-overview.webp",
+      "sha256": "4e95356f870d9544993d0186be98fe6bb3c0758cc090c2738d126d9dbb822d5c",
+      "bytes": 92686,
+      "from": "ef03 pages 8-9 — an overview of the model"
+    }
+  ]
+}
