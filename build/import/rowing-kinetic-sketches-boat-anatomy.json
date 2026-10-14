@@ -32,6 +32,24 @@
       "sha256": "fd3256aeec96f20f3d1dbfb99e4d246cabdebf9ad5c8dac5d4b7fb300e0fdc9b",
       "bytes": 58738,
       "from": "2cd4 page 8 — oar sweep sectional drawing"
+    },
+    {
+      "name": "06-rowing-photos.webp",
+      "sha256": "41834936daa1541042debb35e34ecf3e112120e45c524cf153cc0e63f9efbff2",
+      "bytes": 25610,
+      "from": "restored reference image (rowing photos)"
+    },
+    {
+      "name": "07-collage-of-rowing.webp",
+      "sha256": "bdb465dbb168948b9dfda5b6b39b455e9dee25a3199d5701c21e104acf9f3040",
+      "bytes": 55802,
+      "from": "restored reference image (collage of rowing)"
+    },
+    {
+      "name": "08-crew-photos.webp",
+      "sha256": "1ee786d6e2310f89eae8e634bcba636b91fca0740e6a2aff5f85bb11f5115814",
+      "bytes": 30638,
+      "from": "restored reference image (crew photos)"
     }
   ]
 }
