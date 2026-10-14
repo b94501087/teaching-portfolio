@@ -1,0 +1,19 @@
+{
+  "project": "Consumption Binge",
+  "dest": "assets/board/consumption-binge-vertical-carnival",
+  "note": "w737f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-consumerism-collage.webp",
+      "sha256": "197dfc96c3f53df9deeedbe584d351f87562f903e97e46c7a130baa390f86506",
+      "bytes": 199302,
+      "from": "restored reference image (consumerism collage)"
+    },
+    {
+      "name": "09-background-discovery.webp",
+      "sha256": "9cbf93153ebd7943d2d7b4eb153fbc42e66a5251ecdf59c68f6ba57e3e7a2ec9",
+      "bytes": 259706,
+      "from": "restored reference image (background discovery)"
+    }
+  ]
+}
