@@ -1,0 +1,23 @@
+{
+  "project": "Different Tone: Rich and Varied Space",
+  "dest": "assets/board/different-tone-spoken-tone-blocks-tower-model",
+  "note": "w738b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-poem-painting.webp",
+      "sha256": "46ec50528f018e77975a1d4c4f4442b6210f5ce25023520d6905a9582c4a04de",
+      "bytes": 62616,
+      "from": "restored reference image (poem painting)"
+    },
+    {
+      "name": "12-building-the-tower.webp",
+      "sha256": "b3a09b8fd50cd5f200606eb6412e3552c3c689200a6a798f21dee4effbbf158c",
+      "bytes": 36940,
+      "from": "restored reference image (building the tower)"
+    }
+  ],
+  "delete": [
+    "assets/board/different-tone-spoken-tone-blocks-tower-model/07-figure-detail.webp",
+    "assets/board/different-tone-spoken-tone-blocks-tower-model/09-small-view.webp"
+  ]
+}
