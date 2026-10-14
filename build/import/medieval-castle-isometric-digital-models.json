@@ -38,6 +38,18 @@
       "sha256": "1c6218a2ed42e0ffb4503c226a1513616b729079c6ed932b482a281a89694845",
       "bytes": 13300,
       "from": "6c64 page 17 — castle elevations"
+    },
+    {
+      "name": "07-series-castle-still.webp",
+      "sha256": "4e0557b9795ea47eaf2c6c7aa2094e440a38ae0af45ada6eafb599e565b0bcfb",
+      "bytes": 19424,
+      "from": "restored reference image (series castle still)"
+    },
+    {
+      "name": "08-game-castle-screenshots.webp",
+      "sha256": "1a1a4c07bb0ace36466fc55556651aec2e0ccdd6c7992c7675bac342e9741955",
+      "bytes": 63628,
+      "from": "restored reference image (game castle screenshots)"
     }
   ]
 }
