@@ -1,0 +1,67 @@
+{
+  "project": "The Machine Age",
+  "dest": "assets/board/the-machine-age-collaged-machines-to-a-city-on-stilts",
+  "note": "Portfolio 2939 pages 13-15 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, animated-film images and character drawing, reproduced patent drawings, model data.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "9f91f8ca17d100e7126a98506cef902e6f80bc6789a5d757b99c884635638507",
+      "bytes": 152362,
+      "from": "2939 pages 13-15 — the final city rising on stilts"
+    },
+    {
+      "name": "02-machine-collages.webp",
+      "sha256": "da8d4f5535f8e0147ce328dc0e82753a929ee147b333b229f6e30f18fd078e31",
+      "bytes": 228322,
+      "from": "2939 pages 13-15 — collaged machines"
+    },
+    {
+      "name": "03-machine-skyline.webp",
+      "sha256": "25c8547955a8223842407303b24dea06aac7ca3a5d4375b5f7cb5b89c4acd52b",
+      "bytes": 195220,
+      "from": "2939 pages 13-15 — the skyline of an industrial city"
+    },
+    {
+      "name": "04-city-map.webp",
+      "sha256": "cd74b4d096e4bb126b6259f07ca2d845c51aa02c26ec202d3f52666b85fdcbb7",
+      "bytes": 294722,
+      "from": "2939 pages 13-15 — a city map made from machine pieces"
+    },
+    {
+      "name": "05-first-city-plan.webp",
+      "sha256": "d0eb25fc36d3863297b681f1ba9b3f7c3ad84a07dc7d4fc906b612f19d6c7f35",
+      "bytes": 120378,
+      "from": "2939 pages 13-15 — the first city plan in progress"
+    },
+    {
+      "name": "06-plan-low-view.webp",
+      "sha256": "a8385011cb31fcf27ab22176276c516d3df1d7f828dcd126c5452fa4a52245a2",
+      "bytes": 53500,
+      "from": "2939 pages 13-15 — a low view across the platforms"
+    },
+    {
+      "name": "07-stilts.webp",
+      "sha256": "32a2d571ac1714d8b486557eb9912557f7f57422eaa5e9a0881e5a6b47448c5d",
+      "bytes": 72522,
+      "from": "2939 pages 13-15 — stilts beneath the surfaces"
+    },
+    {
+      "name": "08-plan-overview.webp",
+      "sha256": "b7908585b7eb3d50b41844f41530428d16a8e83811b42f586cfc11873c1768f2",
+      "bytes": 84986,
+      "from": "2939 pages 13-15 — an overview of the first plan"
+    },
+    {
+      "name": "09-from-above.webp",
+      "sha256": "e5239696ccfd5254f77d744be49cc69c28bfa40fc4aa548b06a4fc142d375649",
+      "bytes": 116196,
+      "from": "2939 pages 13-15 — the deconstructed model from above"
+    },
+    {
+      "name": "10-vertical-detail.webp",
+      "sha256": "183b13b0e979623dde0a87f94de7da7ec21ff9095f91546a775397fb64143733",
+      "bytes": 141936,
+      "from": "2939 pages 13-15 — vertical layers of the rebuilt city"
+    }
+  ]
+}
