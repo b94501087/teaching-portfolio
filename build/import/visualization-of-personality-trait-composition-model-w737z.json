@@ -1,0 +1,24 @@
+{
+  "project": "Visualization of Personality",
+  "dest": "assets/board/visualization-of-personality-trait-composition-model",
+  "note": "w737z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-personality-compositions.webp",
+      "sha256": "5a42a1f1180fab982d39444ad54600568271d6b417b3fe4177852aa4a915e70a",
+      "bytes": 154338,
+      "from": "restored reference image (personality compositions)"
+    },
+    {
+      "name": "12-shaping-the-clay.webp",
+      "sha256": "178bc5395a5598d48374c73453c54432561080e7e2b2514b2ab842c0d954a01f",
+      "bytes": 29522,
+      "from": "restored reference image (shaping the clay)"
+    }
+  ],
+  "delete": [
+    "assets/board/visualization-of-personality-trait-composition-model/03-blocks-and-lines.webp",
+    "assets/board/visualization-of-personality-trait-composition-model/04-closed-shape.webp",
+    "assets/board/visualization-of-personality-trait-composition-model/05-mixed-patterns.webp"
+  ]
+}

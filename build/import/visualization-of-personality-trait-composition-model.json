@@ -16,24 +16,6 @@
       "from": "8409 page 11 — warm circles"
     },
     {
-      "name": "03-blocks-and-lines.webp",
-      "sha256": "70efbb99515fe903a77b4b71eefa48533d6ddab5184fc82b7f2ca2fec471068e",
-      "bytes": 24732,
-      "from": "8409 page 11 — blocks and lines"
-    },
-    {
-      "name": "04-closed-shape.webp",
-      "sha256": "62efae0ffbcb9e2f534834e3b4ce6ddd15bd95249ea7a026ec7b5556f7a5dc14",
-      "bytes": 16084,
-      "from": "8409 page 11 — closed shape"
-    },
-    {
-      "name": "05-mixed-patterns.webp",
-      "sha256": "de3038ae1b75d85cb7da0496c15421a55c3dfa766ad82061646c86173a579ffa",
-      "bytes": 34934,
-      "from": "8409 page 11 — mixed patterns"
-    },
-    {
       "name": "06-line-drawing.webp",
       "sha256": "004a680b4ef708fc2eb3361f7d4cfa39816cc40b17115bc0f3dc158fd2db47c6",
       "bytes": 53708,
@@ -62,6 +44,18 @@
       "sha256": "c0d423964cebe56efb07871eb3c058efb395f18f4dd972aa6f9761ba36320003",
       "bytes": 52094,
       "from": "8409 page 12 — angle view"
+    },
+    {
+      "name": "11-personality-compositions.webp",
+      "sha256": "5a42a1f1180fab982d39444ad54600568271d6b417b3fe4177852aa4a915e70a",
+      "bytes": 154338,
+      "from": "restored reference image (personality compositions)"
+    },
+    {
+      "name": "12-shaping-the-clay.webp",
+      "sha256": "178bc5395a5598d48374c73453c54432561080e7e2b2514b2ab842c0d954a01f",
+      "bytes": 29522,
+      "from": "restored reference image (shaping the clay)"
     }
   ]
 }
