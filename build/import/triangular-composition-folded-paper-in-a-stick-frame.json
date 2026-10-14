@@ -1,0 +1,49 @@
+{
+  "project": "Triangular Composition",
+  "dest": "assets/board/triangular-composition-folded-paper-in-a-stick-frame",
+  "note": "Portfolio 724f pages 15-16 cropped to 7 images, WebP q88 (PIL). Not used: title lettering, explanatory text, source photograph used for the triangulation, model data.",
+  "files": [
+    {
+      "name": "01-final-frame.webp",
+      "sha256": "f19bd09db51fce09ddf978811e9c8c5409927db448ea217b588d0ff5f9483042",
+      "bytes": 183672,
+      "from": "724f pages 15-16 — the final frame and its shadow"
+    },
+    {
+      "name": "02-triangle-lines.webp",
+      "sha256": "2a8e501444cbacc3e15843c932faa9fc16d33c7ad4384c1fd1b02ad53459da81",
+      "bytes": 81208,
+      "from": "724f pages 15-16 — the net of triangles"
+    },
+    {
+      "name": "03-paper-pieces.webp",
+      "sha256": "5a9791e3940251f2c5a16e4c43706ab130e28137d941412d5a533aa62ac134cd",
+      "bytes": 89372,
+      "from": "724f pages 15-16 — folded paper fragments"
+    },
+    {
+      "name": "04-folded-model.webp",
+      "sha256": "420b6c8564d4b11b3fc0dcd931c954b0dab6e23ca1daf33195e38b2f84907527",
+      "bytes": 57720,
+      "from": "724f pages 15-16 — a cluster of folded triangles"
+    },
+    {
+      "name": "05-making.webp",
+      "sha256": "2868af21b927d40c517d51ecf8bb186710d6c5c356f35a959f30ee2e5ac86f52",
+      "bytes": 70702,
+      "from": "724f pages 15-16 — the cluster taking shape"
+    },
+    {
+      "name": "06-frame-front.webp",
+      "sha256": "7caa88a8996184248fc7899c901bcf1cd3100f72010859f0fa0a2995b75c08e5",
+      "bytes": 68162,
+      "from": "724f pages 15-16 — the frame seen from the front"
+    },
+    {
+      "name": "07-frame-inside.webp",
+      "sha256": "3ce13c02c3362834fbdabfa64c4bd31359634e2efc3c834b1b1bf1c98b73e254",
+      "bytes": 135684,
+      "from": "724f pages 15-16 — folded paper within the frame"
+    }
+  ]
+}
