@@ -1,0 +1,23 @@
+{
+  "project": "From Batter to Bricks",
+  "dest": "assets/board/from-batter-to-bricks-porous-plaster-wall",
+  "note": "w737s restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-baking-gesture-photos.webp",
+      "sha256": "4c8e9e2f376602ad2dd570ac8261925cad4151f84dc06627bcffb9d6f2a13416",
+      "bytes": 24954,
+      "from": "restored reference image (baking gesture photos)"
+    },
+    {
+      "name": "12-assembling-the-wall.webp",
+      "sha256": "0a147da6d851fda997b7cb04e035bcf9fb513c47247936508efb34cf9a6a8254",
+      "bytes": 34396,
+      "from": "restored reference image (assembling the wall)"
+    }
+  ],
+  "delete": [
+    "assets/board/from-batter-to-bricks-porous-plaster-wall/08-lit-brick-pair.webp",
+    "assets/board/from-batter-to-bricks-porous-plaster-wall/10-brick-details.webp"
+  ]
+}
