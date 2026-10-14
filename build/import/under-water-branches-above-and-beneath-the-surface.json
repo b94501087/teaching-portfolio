@@ -1,0 +1,55 @@
+{
+  "project": "Under Water",
+  "dest": "assets/board/under-water-branches-above-and-beneath-the-surface",
+  "note": "Portfolio ef03 page 7 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, model data, full wall view with lettering.",
+  "files": [
+    {
+      "name": "01-hanging-frame.webp",
+      "sha256": "09249695889e98d48e56e3c5cb6190c921a9b349f259c8ddbd49a3aaa15ba58a",
+      "bytes": 95220,
+      "from": "ef03 page 7 — the suspended frame of sticks and coloured triangles"
+    },
+    {
+      "name": "02-frame-close-up.webp",
+      "sha256": "0ccc1f54b15e7bc643a2b8a0ef61ca10647db9c7a38c47625a998c53719b54ea",
+      "bytes": 103850,
+      "from": "ef03 page 7 — frames and triangles up close"
+    },
+    {
+      "name": "03-branches-in-water.webp",
+      "sha256": "61b3f5322cd041ebe520626c260866dd8d01abf0c35cd2bdb8648d08f428358e",
+      "bytes": 193078,
+      "from": "ef03 page 7 — branches seen through water"
+    },
+    {
+      "name": "04-line-sketches.webp",
+      "sha256": "dfd9b7cd688e0bf0fdde1d99c7b683080ba73efd952140a98d49cccabe748bba",
+      "bytes": 37612,
+      "from": "ef03 page 7 — line sketches of the branches"
+    },
+    {
+      "name": "05-branch-extraction.webp",
+      "sha256": "04cbfab45abbdc2745290be68eb5b8c33747d598784aa1041dbfa362d58e0096",
+      "bytes": 58020,
+      "from": "ef03 page 7 — a bold extraction of the branches"
+    },
+    {
+      "name": "06-frame-in-dark.webp",
+      "sha256": "c5270986477d3cf24cf585d6f0a5e8d78f14269c07b0f4c3a1d51b83244ad340",
+      "bytes": 51076,
+      "from": "ef03 page 7 — the frame lit in the dark"
+    },
+    {
+      "name": "07-frame-shadows.webp",
+      "sha256": "1a0dd37366c48de8b4b8f70564d7418d7460aa3f1b90d45997d346c7331f394b",
+      "bytes": 79708,
+      "from": "ef03 page 7 — layered shadows of the frame"
+    },
+    {
+      "name": "08-suspended-model.webp",
+      "sha256": "d31a51c4acb89b263ea0a0074d6145cafa66842c65bcf3d5e3cab7c4f156c95b",
+      "bytes": 28256,
+      "from": "ef03 page 7 — the model hanging from a branch"
+    }
+  ]
+}
