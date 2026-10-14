@@ -1,0 +1,43 @@
+{
+  "project": "Linear Structure",
+  "dest": "assets/board/linear-structure-paper-walls-on-a-light-table",
+  "note": "Portfolio e9e5 pages 8-9 cropped to 6 images, WebP q88 (PIL). Not used: title lettering, explanatory text, third-party photograph of an elevated park with its source line, model data.",
+  "files": [
+    {
+      "name": "01-lit-field.webp",
+      "sha256": "55a338a876ded0a2303b324ba7d179d287c5093d5e933e9a3645827782ec2678",
+      "bytes": 95852,
+      "from": "e9e5 pages 8-9 — the field of card walls lit from below"
+    },
+    {
+      "name": "02-concept-drawing.webp",
+      "sha256": "477ba3618c3b6de2f02fb82011c0e4e91494f621c8d8828d09aa390494eb2c2c",
+      "bytes": 315204,
+      "from": "e9e5 pages 8-9 — a concept drawing of parallel lines"
+    },
+    {
+      "name": "03-field-perspective.webp",
+      "sha256": "cd79e71178ae0188c11a4765efbfbbc91ee12b1258e8d6c59dcb296f25ae0c5b",
+      "bytes": 59332,
+      "from": "e9e5 pages 8-9 — a view along the walls"
+    },
+    {
+      "name": "04-field-wide.webp",
+      "sha256": "a8b28fab21f1e4db0f5ecd11f0bba65e6f4de5b2f75ebc83fa693e1f1eb00437",
+      "bytes": 73516,
+      "from": "e9e5 pages 8-9 — the field of walls and trees"
+    },
+    {
+      "name": "05-tree-among-planes.webp",
+      "sha256": "8eb3ce505b12dde3e7abca073ed283d8379e65740141f1e5fd44ac2e238c0991",
+      "bytes": 61036,
+      "from": "e9e5 pages 8-9 — a tree among the planes"
+    },
+    {
+      "name": "06-skyline.webp",
+      "sha256": "8c11e65e7e9c57ce9274e71090544a697ee94bc614a213e11f1884a6dbf18202",
+      "bytes": 40352,
+      "from": "e9e5 pages 8-9 — the skyline of walls and trees"
+    }
+  ]
+}
