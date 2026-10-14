@@ -1,0 +1,19 @@
+{
+  "project": "A Midsummer Night’s Dream",
+  "dest": "assets/board/a-midsummer-nights-dream-stage",
+  "note": "w737g2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-production-stills.webp",
+      "sha256": "d9bc8eb868396e6b20d097bab00f68ef8848ee83001492218b25a24f87c1183d",
+      "bytes": 228530,
+      "from": "restored reference image (production stills)"
+    },
+    {
+      "name": "09-design-development-on-site.webp",
+      "sha256": "1607627d356556a769bf02ed7a5352d2eed1095f710432e0286ec2afc4d2e8e5",
+      "bytes": 166876,
+      "from": "restored reference image (design development on site)"
+    }
+  ]
+}
