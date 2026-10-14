@@ -46,22 +46,22 @@
       "from": "04a9 pages 6-7 — another solid study"
     },
     {
-      "name": "08-solid-study-c.webp",
-      "sha256": "ac279955f55f750b124150f0047d3118b912d25a0f9d2fa584a7f80baaf76c60",
-      "bytes": 10334,
-      "from": "04a9 pages 6-7 — a long solid study"
-    },
-    {
-      "name": "09-solid-study-d.webp",
-      "sha256": "c15453f934f538418ac528d5aa1af9fac403466c2838efc2c7d000d8d6e55989",
-      "bytes": 12222,
-      "from": "04a9 pages 6-7 — a wedge study"
-    },
-    {
       "name": "10-solid-study-e.webp",
       "sha256": "7d9a161efb4e5a25d18af67547c2aa279c31e74c953defe81d25745c01cf0a2a",
       "bytes": 11658,
       "from": "04a9 pages 6-7 — a cantilever study"
+    },
+    {
+      "name": "11-shooting-stance-photos.webp",
+      "sha256": "a3b7701b3892440e66e4aa7f4698111e300674ff188175f61cd1ebe6359294eb",
+      "bytes": 34422,
+      "from": "restored reference image (shooting stance photos)"
+    },
+    {
+      "name": "12-three-position-stance-figures.webp",
+      "sha256": "4fe8d51dc12e896f93878ba8440bdded9b007cc1d23b2f0c760a5f00e9adb1c1",
+      "bytes": 26208,
+      "from": "restored reference image (three position stance figures)"
     }
   ]
 }

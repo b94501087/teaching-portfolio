@@ -56,6 +56,12 @@
       "sha256": "a06f8b92c76a2e961570cc3092c18656f8f6fd8a8ff35cbd739e56d9552394cb",
       "bytes": 81446,
       "from": "04a9 pages 4-5 — the chain on the cutting mat"
+    },
+    {
+      "name": "10-reference-paintings.webp",
+      "sha256": "b9e542ff941918069729a77e46d547e0f050f595d04db6eb6810bd88c326f3a4",
+      "bytes": 44290,
+      "from": "restored reference image (reference paintings)"
     }
   ]
 }
