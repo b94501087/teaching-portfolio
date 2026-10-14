@@ -16,12 +16,6 @@
       "from": "page 9 — plane generation diagrams, x 0–27.5 %, y 0–18 %"
     },
     {
-      "name": "03-form-development.webp",
-      "sha256": "0a893ba46a659de082260379882cbc2edcb99abeabcb729580586fecdcfc1da5",
-      "bytes": 47232,
-      "from": "page 9 — form development diagrams, x 0–36 %, y 17.5–33.5 %"
-    },
-    {
       "name": "04-activity-space-analysis.webp",
       "sha256": "4f3cffba7a677f9ead59251d4a00b4ff2bf5b089ff3d8cf8021d16e23571a75e",
       "bytes": 39578,
@@ -62,6 +56,12 @@
       "sha256": "3ea0a365275c9b1034be2b93764a7ac63da0c58123681dacf8bb4408085a5146",
       "bytes": 96986,
       "from": "page 10 — three street style axonometrics, x 65.5–100 %, y 24–43 %"
+    },
+    {
+      "name": "11-site-and-history.webp",
+      "sha256": "57f1d27782b58a93253c5ae65f3cc35022aeec0cb537b373a51b234ad136a000",
+      "bytes": 224982,
+      "from": "restored reference image (site and history)"
     }
   ]
 }

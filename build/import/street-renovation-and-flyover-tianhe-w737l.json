@@ -1,0 +1,16 @@
+{
+  "project": "Urban Street Renovation and Flyover",
+  "dest": "assets/board/street-renovation-and-flyover-tianhe",
+  "note": "w737l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-and-history.webp",
+      "sha256": "57f1d27782b58a93253c5ae65f3cc35022aeec0cb537b373a51b234ad136a000",
+      "bytes": 224982,
+      "from": "restored reference image (site and history)"
+    }
+  ],
+  "delete": [
+    "assets/board/street-renovation-and-flyover-tianhe/03-form-development.webp"
+  ]
+}
