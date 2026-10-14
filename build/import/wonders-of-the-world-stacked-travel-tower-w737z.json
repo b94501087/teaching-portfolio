@@ -1,0 +1,22 @@
+{
+  "project": "Wonders of the World Stacks",
+  "dest": "assets/board/wonders-of-the-world-stacked-travel-tower",
+  "note": "w737z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-impression-collage.webp",
+      "sha256": "bed7363b63ddb1a6294ef96a3a7094b3654b398da7bf10a490e394021e160af4",
+      "bytes": 36082,
+      "from": "restored reference image (impression collage)"
+    },
+    {
+      "name": "11-annotated-concept-sketch.webp",
+      "sha256": "fd225979f8b7597e0fe6092913b00af525a03bdc041b997173053ff8bdd844cb",
+      "bytes": 106096,
+      "from": "restored reference image (annotated concept sketch)"
+    }
+  ],
+  "delete": [
+    "assets/board/wonders-of-the-world-stacked-travel-tower/02-concept-sketch.webp"
+  ]
+}

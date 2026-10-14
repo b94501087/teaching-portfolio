@@ -10,12 +10,6 @@
       "from": "8409 page 5 — final model"
     },
     {
-      "name": "02-concept-sketch.webp",
-      "sha256": "d99b395ab8c1539efb72e0bcabc94f00c65416a29ea403ed6deca59029094ef3",
-      "bytes": 79300,
-      "from": "8409 page 4 — concept sketch"
-    },
-    {
       "name": "03-impression-drawing.webp",
       "sha256": "c2fbe77f82fd746be1ed6f74aa16abe2f23d398251b4191b786ef54b5dd9b49e",
       "bytes": 72338,
@@ -56,6 +50,18 @@
       "sha256": "3f01951ff21d1e22b9d681a0a1b31c96412c0b66a2d761a50d9cd9f6998ff152",
       "bytes": 33410,
       "from": "8409 page 5 — coloured houses"
+    },
+    {
+      "name": "10-impression-collage.webp",
+      "sha256": "bed7363b63ddb1a6294ef96a3a7094b3654b398da7bf10a490e394021e160af4",
+      "bytes": 36082,
+      "from": "restored reference image (impression collage)"
+    },
+    {
+      "name": "11-annotated-concept-sketch.webp",
+      "sha256": "fd225979f8b7597e0fe6092913b00af525a03bdc041b997173053ff8bdd844cb",
+      "bytes": 106096,
+      "from": "restored reference image (annotated concept sketch)"
     }
   ]
 }
