@@ -50,6 +50,18 @@
       "sha256": "d3faa4e961789a72f3b32ceea9d95d2a85c43d7bc9760e97283e318c471c9ece",
       "bytes": 8798,
       "from": "0687 page 7 — brick process diagram"
+    },
+    {
+      "name": "09-site-photos.webp",
+      "sha256": "28bd3b53d37d88fdd5d4e91270cd5199ca96c1bed312f37c8c47118501f93abb",
+      "bytes": 72544,
+      "from": "restored reference image (site photos)"
+    },
+    {
+      "name": "10-collecting-coffee-grounds.webp",
+      "sha256": "f3b2860dc2428144a4c9a2a6affe223ca1b91fa82899d91da2f0610ce277152d",
+      "bytes": 31428,
+      "from": "restored reference image (collecting coffee grounds)"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "project": "Coffee-ground Brick",
+  "dest": "assets/board/coffee-ground-brick-underground-coffee-hub",
+  "note": "w737v restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-site-photos.webp",
+      "sha256": "28bd3b53d37d88fdd5d4e91270cd5199ca96c1bed312f37c8c47118501f93abb",
+      "bytes": 72544,
+      "from": "restored reference image (site photos)"
+    },
+    {
+      "name": "10-collecting-coffee-grounds.webp",
+      "sha256": "f3b2860dc2428144a4c9a2a6affe223ca1b91fa82899d91da2f0610ce277152d",
+      "bytes": 31428,
+      "from": "restored reference image (collecting coffee grounds)"
+    }
+  ]
+}
