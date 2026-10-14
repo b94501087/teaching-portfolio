@@ -1,0 +1,19 @@
+{
+  "project": "The Water Prison Stage",
+  "dest": "assets/board/water-prison-semicircular-stage-led-model",
+  "note": "w737w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-production-photo.webp",
+      "sha256": "2ab0084da565cf17fa2dffab75d71350de48dd1e82d0fb33004e4dfd83fe7755",
+      "bytes": 10998,
+      "from": "restored reference image (production photo)"
+    },
+    {
+      "name": "08-making-process.webp",
+      "sha256": "ba163f8ae24d1e597b99f1423067cc239dd9bb2cd9dc4bc8a8f35a061b4bb9ff",
+      "bytes": 41984,
+      "from": "restored reference image (making process)"
+    }
+  ]
+}
