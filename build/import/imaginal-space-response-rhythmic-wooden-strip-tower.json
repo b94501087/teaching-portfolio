@@ -1,0 +1,37 @@
+{
+  "project": "Imaginal Space-Response",
+  "dest": "assets/board/imaginal-space-response-rhythmic-wooden-strip-tower",
+  "note": "Portfolio e3bb page 8 cropped to 5 images, WebP q88 (PIL). Not used: title lettering, explanatory text, source painting and artist credit, extracted painting diagram, process photos with people and hands.",
+  "files": [
+    {
+      "name": "01-strip-tower.webp",
+      "sha256": "774c7b3e75242138f24dcefc2d5783a87f933a19c2bf18753c4ce388e8bfd369",
+      "bytes": 53484,
+      "from": "e3bb page 8 — the tower of rhythmic wooden strips"
+    },
+    {
+      "name": "02-effect-model.webp",
+      "sha256": "fdc497e4893e554c040a6d7e6e9d0712aba924a80985c9e5c7ed07a2234d5308",
+      "bytes": 5200,
+      "from": "e3bb page 8 — an early model of the effect"
+    },
+    {
+      "name": "03-making-model.webp",
+      "sha256": "43b7c33e07d6d79d61a273a3341fb84edb39ac3d3ed8413a857f479ed28e607c",
+      "bytes": 8374,
+      "from": "e3bb page 8 — the model during making"
+    },
+    {
+      "name": "04-detail-top.webp",
+      "sha256": "ac2cbdd13d832f3497ef2c1c8de9ffb6c5ea4e4bd4ac589805dbe47d17d938d3",
+      "bytes": 3936,
+      "from": "e3bb page 8 — the top of the tower"
+    },
+    {
+      "name": "05-detail-base.webp",
+      "sha256": "a04a3b2626a7b589f0031af56487513455979ec3a6482a1705ce5e6a76ad0c0d",
+      "bytes": 7714,
+      "from": "e3bb page 8 — strips meeting the base"
+    }
+  ]
+}
