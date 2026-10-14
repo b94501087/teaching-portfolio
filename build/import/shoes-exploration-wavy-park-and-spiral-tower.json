@@ -1,0 +1,67 @@
+{
+  "project": "Shoes Exploration",
+  "dest": "assets/board/shoes-exploration-wavy-park-and-spiral-tower",
+  "note": "Portfolio e9e5 pages 13-15 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, branded sneaker photographs, process photos with hands and people, reconstruction photo of a branded shoe, annotated model photos with callouts, model data.",
+  "files": [
+    {
+      "name": "01-wavy-park-tower.webp",
+      "sha256": "3f51431f821bf2caa11497f51733a104c4a0db97c1411c482890ffc39e2d72ab",
+      "bytes": 87508,
+      "from": "e9e5 pages 13-15 — the wavy park and tower"
+    },
+    {
+      "name": "02-shoe-sketch.webp",
+      "sha256": "5802bcdb3fc1acba603a1d909578a7d70a8abb27f039b5b606da0f7f04b48b57",
+      "bytes": 241298,
+      "from": "e9e5 pages 13-15 — a sketch in overlapping lines"
+    },
+    {
+      "name": "03-space-analysis-a.webp",
+      "sha256": "6a3390cebad930c5348b3ed009faade97b8719712f8c3ae188ab4d2db1881ea3",
+      "bytes": 40984,
+      "from": "e9e5 pages 13-15 — a shaded analysis of hollow space"
+    },
+    {
+      "name": "04-space-analysis-b.webp",
+      "sha256": "056261cbc0d8bcffb7724275947c9c0f094d4716126f0fc91c39194a049edda3",
+      "bytes": 28158,
+      "from": "e9e5 pages 13-15 — a second space analysis"
+    },
+    {
+      "name": "05-space-analysis-c.webp",
+      "sha256": "2c2e460eb11b32ec8f601968e365f5531780d8b1ea172cb5ebf3984b2617c9fe",
+      "bytes": 37036,
+      "from": "e9e5 pages 13-15 — a third space analysis"
+    },
+    {
+      "name": "06-process-model-a.webp",
+      "sha256": "da98504f477650fcc6293169483c680a462141eef0c45fe293992c664e18d770",
+      "bytes": 15560,
+      "from": "e9e5 pages 13-15 — a model of curled strips"
+    },
+    {
+      "name": "07-process-model-b.webp",
+      "sha256": "3df1828122d79ae9ef851b585c09a3066ce97aafb48f53c08d0a7492f1dca0f7",
+      "bytes": 17696,
+      "from": "e9e5 pages 13-15 — loops and waves of strips"
+    },
+    {
+      "name": "08-tower-stair.webp",
+      "sha256": "97a79daf7c15fdad6dd31b72122afb79f75a98c19948e97bde694bd717904c14",
+      "bytes": 34012,
+      "from": "e9e5 pages 13-15 — the spiral stair of the tower"
+    },
+    {
+      "name": "09-spiral-arches.webp",
+      "sha256": "223d1074473676387088aacb2cf4c9af8a29e579eb806ceed16c022fb4547869",
+      "bytes": 46726,
+      "from": "e9e5 pages 13-15 — wire arches above the stair"
+    },
+    {
+      "name": "10-arch-canopy.webp",
+      "sha256": "357797e0132c61ee1be7a4b76769d9e7d4e2d7131ac6119866e846f301c0e553",
+      "bytes": 43642,
+      "from": "e9e5 pages 13-15 — the curved canopy and arches"
+    }
+  ]
+}
