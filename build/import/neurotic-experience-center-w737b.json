@@ -1,0 +1,23 @@
+{
+  "project": "Neurotic Experience Center — A Space of Bubbles",
+  "dest": "assets/board/neurotic-experience-center",
+  "note": "w737b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-concept-collage.webp",
+      "sha256": "d74dc0a6f1212ce1226eb1a9d7aadfe8bc437aa65b4834a213187e04dffc17d8",
+      "bytes": 126432,
+      "from": "restored reference image (concept collage)"
+    },
+    {
+      "name": "12-growth-and-weakness.webp",
+      "sha256": "ade69db09669b0bf198f971f4e0d20146614e6be7782fce0b956f70da53c58e1",
+      "bytes": 81272,
+      "from": "restored reference image (growth and weakness)"
+    }
+  ],
+  "delete": [
+    "assets/board/neurotic-experience-center/09-first-floor-plan.webp",
+    "assets/board/neurotic-experience-center/10-second-floor-plan.webp"
+  ]
+}
