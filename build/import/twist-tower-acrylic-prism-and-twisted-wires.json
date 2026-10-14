@@ -1,0 +1,67 @@
+{
+  "project": "Twist Tower",
+  "dest": "assets/board/twist-tower-acrylic-prism-and-twisted-wires",
+  "note": "Portfolio f825 pages 13-15 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, landmark tower photograph, process and test photos with hands and people, film quotation, labelled turn sequence.",
+  "files": [
+    {
+      "name": "01-twist-tower.webp",
+      "sha256": "982016e4878ec1dfe79f15bb22ae97c00b402f5e6fba9e5e4ec58679ad22136b",
+      "bytes": 55762,
+      "from": "f825 pages 13-15 — the twist tower"
+    },
+    {
+      "name": "02-sketches.webp",
+      "sha256": "d293fcd7c2f31c1622b5baa9d831aab4085455db61947301bf7abb15c05c3dd9",
+      "bytes": 40910,
+      "from": "f825 pages 13-15 — sketches of the frame and wires"
+    },
+    {
+      "name": "03-hexagon-diagrams.webp",
+      "sha256": "a65985fcb0cc909cfbfb0cd1b4cc828c4468490b74c1ea765d7ee28957a41c32",
+      "bytes": 31990,
+      "from": "f825 pages 13-15 — hexagonal plate diagrams"
+    },
+    {
+      "name": "04-radial-detail.webp",
+      "sha256": "9e57e7c09ff1ab0284eef2c8061c0d3b4dde967ca7ae865d826e29610048f68f",
+      "bytes": 21260,
+      "from": "f825 pages 13-15 — wires seen from one end"
+    },
+    {
+      "name": "05-tower-on-table.webp",
+      "sha256": "0fa16f1c2c375cefd384363007b62ce5a22d8d1362d95d1997da46c6c7a9a856",
+      "bytes": 48808,
+      "from": "f825 pages 13-15 — the prism during making"
+    },
+    {
+      "name": "06-twist-stages.webp",
+      "sha256": "06ab59399d37ad928bcd1bb846472c520bf70c52155f6bde54c9c082f5894e90",
+      "bytes": 114840,
+      "from": "f825 pages 13-15 — wires after pulling, spinning and twisting"
+    },
+    {
+      "name": "07-side-lines.webp",
+      "sha256": "838869e82b1bb81b82d642fcf1d4d8becbc65a8a8da34ece74150e9ce1563cd5",
+      "bytes": 96320,
+      "from": "f825 pages 13-15 — lines converging along the prism"
+    },
+    {
+      "name": "08-looking-through.webp",
+      "sha256": "7bcb5338a31f97046603cb17b3aa15395e5424f9a2d5bef36ad8b276d4f9258f",
+      "bytes": 61492,
+      "from": "f825 pages 13-15 — looking through the twisted wires"
+    },
+    {
+      "name": "09-crossing-lines.webp",
+      "sha256": "4732bef98ff49ad2eab90abec0d4da810a661417d290a6968ed8d309b37fedc3",
+      "bytes": 31748,
+      "from": "f825 pages 13-15 — crossing lines inside the prism"
+    },
+    {
+      "name": "10-one-turn.webp",
+      "sha256": "f6f898d73a4eb095ba9688023584ca17a19ddaadbec6dd167d0cd33b03d872c6",
+      "bytes": 41864,
+      "from": "f825 pages 13-15 — the view after one turn"
+    }
+  ]
+}
