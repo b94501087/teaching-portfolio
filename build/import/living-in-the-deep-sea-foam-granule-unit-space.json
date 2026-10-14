@@ -1,0 +1,55 @@
+{
+  "project": "Living in the Deep Sea",
+  "dest": "assets/board/living-in-the-deep-sea-foam-granule-unit-space",
+  "note": "Portfolio 711d pages 11-13 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, reef photographs, process photos with people and hands.",
+  "files": [
+    {
+      "name": "01-blue-installation.webp",
+      "sha256": "180a2e546639f40944324b0d829f3f919427b16bcbcf34f147851611671497f1",
+      "bytes": 196190,
+      "from": "711d pages 11-13 — the blue unit space of the deep sea"
+    },
+    {
+      "name": "02-ink-reef.webp",
+      "sha256": "abae393d6eb4de040f982a4873f64ff0906de94f46aa9852d01bf553aaaebc9f",
+      "bytes": 694350,
+      "from": "711d pages 11-13 — an ink drawing of reef life"
+    },
+    {
+      "name": "03-turtle-drawing.webp",
+      "sha256": "4e2f38d9bcba5cfc35475eec113825b18db784791a9f3b78784d8ffa401b63d8",
+      "bytes": 304138,
+      "from": "711d pages 11-13 — a turtle among reef plants"
+    },
+    {
+      "name": "04-jellyfish-drawing.webp",
+      "sha256": "5cf6482603ae709bbd12a871e694c3469614d8b5c5267202009d6703d80a4f4c",
+      "bytes": 422522,
+      "from": "711d pages 11-13 — jellyfish above the reef"
+    },
+    {
+      "name": "05-painted-sea.webp",
+      "sha256": "1e759c54403646b8b19182cf1b06ec4a833de29c3ad2d66e90940c1a9e54c114",
+      "bytes": 197226,
+      "from": "711d pages 11-13 — a painted study of the deep sea"
+    },
+    {
+      "name": "06-unit-detail.webp",
+      "sha256": "3b58939a2197002c18103530f4dcef18c1c02572b5c7b39b831b76096a84a6b7",
+      "bytes": 79200,
+      "from": "711d pages 11-13 — clusters inside the unit"
+    },
+    {
+      "name": "07-detail-a.webp",
+      "sha256": "843e9e9cc17c743860f22885082ebee94b2f18c560c3514229e13e821f1554b7",
+      "bytes": 34108,
+      "from": "711d pages 11-13 — granules around a silver mound"
+    },
+    {
+      "name": "08-detail-b.webp",
+      "sha256": "d2cfaf47cb78213fd862fad443b5aa71a526bae7c55ab885de1257af48890ca6",
+      "bytes": 34980,
+      "from": "711d pages 11-13 — blue clusters in close view"
+    }
+  ]
+}
