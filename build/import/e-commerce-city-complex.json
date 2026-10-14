@@ -50,6 +50,18 @@
       "sha256": "d00caa84ee24a37ea4558839acb7c3538ca250ade43f2671bb82dd48e52dcf50",
       "bytes": 124310,
       "from": "page 8 — rendering of the complex, x 0–100 %, y 40–100 %"
+    },
+    {
+      "name": "09-village-mapping.webp",
+      "sha256": "2077722eba200e9421d7a0d1d24a1da847a61d48c09637895f150aa89f37fccc",
+      "bytes": 66928,
+      "from": "restored reference image (village mapping)"
+    },
+    {
+      "name": "10-site-problems.webp",
+      "sha256": "f16a986469e69596cb866a292e24de2a9a05e9e402b7eebfce31ab44b820f195",
+      "bytes": 87274,
+      "from": "restored reference image (site problems)"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "project": "E-commerce City Complex",
+  "dest": "assets/board/e-commerce-city-complex",
+  "note": "w737c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-village-mapping.webp",
+      "sha256": "2077722eba200e9421d7a0d1d24a1da847a61d48c09637895f150aa89f37fccc",
+      "bytes": 66928,
+      "from": "restored reference image (village mapping)"
+    },
+    {
+      "name": "10-site-problems.webp",
+      "sha256": "f16a986469e69596cb866a292e24de2a9a05e9e402b7eebfce31ab44b820f195",
+      "bytes": 87274,
+      "from": "restored reference image (site problems)"
+    }
+  ]
+}
