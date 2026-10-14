@@ -56,6 +56,12 @@
       "sha256": "48b33044ca98b1fd0baada5c0b455fc1bf216fde397bae238f4faeb0ba75a12e",
       "bytes": 12060,
       "from": "ca28 pages 8-9 — first coffee tiles"
+    },
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "9a0bb5897c48a67371ea77c08bce507d37ffd111fbe1b861da1d892cdd0ab1e9",
+      "bytes": 128690,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }

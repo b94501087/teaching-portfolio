@@ -50,6 +50,18 @@
       "sha256": "1db59eac06795a85bc55af92a41ae779fded0c2151cbf966d48731d4214169b8",
       "bytes": 115190,
       "from": "ca28 pages 6-7 — moving figures close up"
+    },
+    {
+      "name": "09-badminton-video-frames.webp",
+      "sha256": "a1fcf6c19abd17a5992ca1496be8564a2b0e15f499aafe28651b3585e3b14507",
+      "bytes": 48652,
+      "from": "restored reference image (badminton video frames)"
+    },
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "c748c32621c7c4aa13f7bccd105677d8de3508ccd3049c53a624b38a5f4712a5",
+      "bytes": 60438,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }

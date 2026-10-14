@@ -50,6 +50,12 @@
       "sha256": "56789d4cd1d4b6718f82df766822473c78e684f2e7319d5c98f866241b7c4794",
       "bytes": 17202,
       "from": "ca28 pages 2-3 — white pieces test"
+    },
+    {
+      "name": "09-film-stills.webp",
+      "sha256": "4a21b957ccdcdf19b0dbad4e5c0f9d921fd5b41ff3e57810beefce2238fbfb1f",
+      "bytes": 96450,
+      "from": "restored reference image (film stills)"
     }
   ]
 }

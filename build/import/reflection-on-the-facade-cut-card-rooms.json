@@ -50,6 +50,12 @@
       "sha256": "15e812824279ffbeedb39317faf0201422ec0e3c94f835ff18224d28f098a0a5",
       "bytes": 26298,
       "from": "ca28 pages 4-5 — rooms joined"
+    },
+    {
+      "name": "09-glass-tower-photo.webp",
+      "sha256": "4e5c157e7c16f4ad25ffc502107f3ad919429b97979e0c997dd81253c4a4fe2c",
+      "bytes": 13340,
+      "from": "restored reference image (glass tower photo)"
     }
   ]
 }
