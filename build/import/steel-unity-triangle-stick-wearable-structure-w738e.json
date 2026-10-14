@@ -1,0 +1,29 @@
+{
+  "project": "Steel Unity",
+  "dest": "assets/board/steel-unity-triangle-stick-wearable-structure",
+  "note": "w738e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-tv-tower-photo.webp",
+      "sha256": "8f2998c387c8884e66ebb164391558c1a8b2adb516dfa5a71174bbbe9708e03c",
+      "bytes": 20148,
+      "from": "restored reference image (tv tower photo)"
+    },
+    {
+      "name": "11-face-references.webp",
+      "sha256": "5299c685421e727b941764b704ec485ceef333a115e0b4647aaa595b7d9db628",
+      "bytes": 42614,
+      "from": "restored reference image (face references)"
+    },
+    {
+      "name": "12-worn-on-the-shoulder.webp",
+      "sha256": "3708751cea418f565e1f900c1a7a2e62fe5be04e81ea4ce476ca115aa472e58c",
+      "bytes": 59554,
+      "from": "restored reference image (worn on the shoulder)"
+    }
+  ],
+  "delete": [
+    "assets/board/steel-unity-triangle-stick-wearable-structure/07-view-two.webp",
+    "assets/board/steel-unity-triangle-stick-wearable-structure/08-view-three.webp"
+  ]
+}
