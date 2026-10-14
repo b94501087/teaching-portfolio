@@ -1,0 +1,43 @@
+{
+  "project": "The Wings",
+  "dest": "assets/board/the-wings-wire-and-pvc-insect-wing-model",
+  "note": "Portfolio 2179 page 6 cropped to 6 images, WebP q88 (PIL). Not used: title lettering, explanatory text, process photos showing hands, handwritten sketch labels.",
+  "files": [
+    {
+      "name": "01-wire-wing.webp",
+      "sha256": "8efc1694fdf90aade015ded4915bace10ff373208c99ee2bd9c66dfc508d3e8a",
+      "bytes": 231270,
+      "from": "2179 page 6 — the tangled wire wing in close view"
+    },
+    {
+      "name": "02-sketch-sheets.webp",
+      "sha256": "f1a914d53ab951732889c87ef9b94d533a7b6ec8a55a96c056e423adb4779145",
+      "bytes": 5782,
+      "from": "2179 page 6 — sheets of wing sketches"
+    },
+    {
+      "name": "03-wing-model.webp",
+      "sha256": "1102f747fb9279c49e3ca2fa4c20cc424be1e2f790ee539aee9ae083eefde525",
+      "bytes": 77836,
+      "from": "2179 page 6 — an early wire wing on a white base"
+    },
+    {
+      "name": "04-wing-curve.webp",
+      "sha256": "f2cdba0721b8c5336c3c1aa49b3f3c1f72d52f5bfd43a8526ba818b1e46c2cbc",
+      "bytes": 71042,
+      "from": "2179 page 6 — the curving edge of the wire wing"
+    },
+    {
+      "name": "05-wire-detail.webp",
+      "sha256": "5cddb89059fcc2581bce11549d63de4e747da63b7ec8c6587dea9850cc5cd70f",
+      "bytes": 112996,
+      "from": "2179 page 6 — a detail of tangled wire veins"
+    },
+    {
+      "name": "06-wing-low.webp",
+      "sha256": "670740a1fbcbc469f27d83cc080531639d6e81590c1a0b0ee8a2786c69674d46",
+      "bytes": 15672,
+      "from": "2179 page 6 — the wing model seen from a low angle"
+    }
+  ]
+}
