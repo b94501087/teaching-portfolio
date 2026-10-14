@@ -28,12 +28,6 @@
       "from": "page 11 — social research chart and space demand, x 37–100 %, y 27–74.5 %"
     },
     {
-      "name": "05-strategy.webp",
-      "sha256": "dfc0efaa418dcb2f265917abe04dcd78ec858ba285b80ff0951c21de50bf519b",
-      "bytes": 47388,
-      "from": "page 11 — strategy diagrams, x 0–100 %, y 75–100 %"
-    },
-    {
       "name": "06-design-process.webp",
       "sha256": "d017a3eafb42f561b43304f6b9fc5ce5a9af437745cbfdf7a442e61fed2bf6b9",
       "bytes": 57422,
@@ -46,12 +40,6 @@
       "from": "page 12 — master plan, x 26–100 %, y 0–100 %"
     },
     {
-      "name": "08-stakeholders-map.webp",
-      "sha256": "e67ce75c867330e64c64e878dbf0c58d07c542aa24f9f0c470f38dbf3371da8d",
-      "bytes": 42852,
-      "from": "page 13 — stakeholders map, x 0–41 %, y 0–67 %"
-    },
-    {
       "name": "09-space-renovation.webp",
       "sha256": "7c7bbb97177d5e183418aea040a47dcee4cedbeba5809bfa11326607a7eab5fa",
       "bytes": 122048,
@@ -62,6 +50,18 @@
       "sha256": "aa83f823b8507ceff07a30494c2ed0ee9b43ba962bb8d77014441047460e2a01",
       "bytes": 251742,
       "from": "page 14 — anchor point vignettes and axonometric drawing, full page"
+    },
+    {
+      "name": "11-age-structure.webp",
+      "sha256": "7354e099a2ab585362a6bcdae3392f427924cd6f5730caa8b248d2c8873844da",
+      "bytes": 14676,
+      "from": "restored reference image (age structure)"
+    },
+    {
+      "name": "12-psychology-strip.webp",
+      "sha256": "0824417f6a8a034c6805dc1d9b113bffbde0b3f8a4e53d706b76dd0b3b98ae6b",
+      "bytes": 42810,
+      "from": "restored reference image (psychology strip)"
     }
   ]
 }
