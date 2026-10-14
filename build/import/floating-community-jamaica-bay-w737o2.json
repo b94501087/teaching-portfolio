@@ -1,0 +1,13 @@
+{
+  "project": "The Floating Community",
+  "dest": "assets/board/floating-community-jamaica-bay",
+  "note": "w737o2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-household-unit-plans.webp",
+      "sha256": "8f556d1a3e29935b1b0086c99f0b28a875a320b35370f2db7fca6ea82d15c496",
+      "bytes": 165184,
+      "from": "restored reference image (household unit plans)"
+    }
+  ]
+}

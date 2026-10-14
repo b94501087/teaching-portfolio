@@ -38,6 +38,12 @@
       "sha256": "d61c127b5814684b6b6949454442efe9d03c9880661887e8a11894a0e95530db",
       "bytes": 218360,
       "from": "30f3 page 6 — underwater section render"
+    },
+    {
+      "name": "07-household-unit-plans.webp",
+      "sha256": "8f556d1a3e29935b1b0086c99f0b28a875a320b35370f2db7fca6ea82d15c496",
+      "bytes": 165184,
+      "from": "restored reference image (household unit plans)"
     }
   ]
 }
