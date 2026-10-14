@@ -1,0 +1,23 @@
+{
+  "project": "The Frame",
+  "dest": "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame",
+  "note": "w738w restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-artistic-research-sheet.webp",
+      "sha256": "9e81a98ee8fc298d9608d64149cf908b574656e3521c5b602407332bea3cf020",
+      "bytes": 141066,
+      "from": "restored reference image (artistic research sheet)"
+    },
+    {
+      "name": "12-painted-figure-collage.webp",
+      "sha256": "efadae6849329b335db988b22a889a87cb71be47a55f1680e3c169628e4fcae6",
+      "bytes": 47694,
+      "from": "restored reference image (painted figure collage)"
+    }
+  ],
+  "delete": [
+    "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/07-frame-angle-b.webp",
+    "assets/board/the-frame-colour-surfaces-in-a-white-resin-frame/10-frame-low-view-b.webp"
+  ]
+}
