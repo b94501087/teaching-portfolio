@@ -1,0 +1,67 @@
+{
+  "project": "Separation and Condensation",
+  "dest": "assets/board/separation-and-condensation-boxes-in-a-stick-frame",
+  "note": "Portfolio 43de pages 6-8 cropped to 10 images, WebP q88 (PIL). Not used: photo and web link of the precedent house, photographs of the model held in hands, hand assembly photo, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-frame-model.webp",
+      "sha256": "b31ae3942e22ba20076f93b08d3ff030ef381ebb398bb90c853fdddf27d488c1",
+      "bytes": 200314,
+      "from": "43de pages 6-8 — the stick frame with suspended boxes"
+    },
+    {
+      "name": "02-unit-studies.webp",
+      "sha256": "e031498a5ee081f19aee441c0dcd2d67bf53bcc99bbaa4bb6ad1235302f06e93",
+      "bytes": 140200,
+      "from": "43de pages 6-8 — trial combinations of box units"
+    },
+    {
+      "name": "03-frame-assembly.webp",
+      "sha256": "eba506de3b417716a30bebc9f49c469e69f653244b8c82c47afbda3ae544c822",
+      "bytes": 53840,
+      "from": "43de pages 6-8 — assembling boxes inside the frame"
+    },
+    {
+      "name": "04-frame-interior-a.webp",
+      "sha256": "005566c58e12803173ce29e71e8bd6972354fd59ed966d0ad70cc4857a178518",
+      "bytes": 63368,
+      "from": "43de pages 6-8 — boxes held by crossing sticks"
+    },
+    {
+      "name": "05-frame-interior-b.webp",
+      "sha256": "c53e0882029c7c7b00bfdb558a894b872535de0154bc48c071ad8be47e3f3239",
+      "bytes": 75502,
+      "from": "43de pages 6-8 — units at different heights"
+    },
+    {
+      "name": "06-frame-interior-dark.webp",
+      "sha256": "4f42f0ba714b7b691d253b8cd1fbf40cbcfda5d3f38d4f7dc7af0ee3302a519a",
+      "bytes": 126440,
+      "from": "43de pages 6-8 — the lattice against a dark ground"
+    },
+    {
+      "name": "07-top-detail.webp",
+      "sha256": "1dc10e124ac19f6a84ce12e2594e9a32b757d88feedfd7fdc95e8ca9d0880de6",
+      "bytes": 102372,
+      "from": "43de pages 6-8 — a view down into the frame"
+    },
+    {
+      "name": "08-frame-front.webp",
+      "sha256": "f1fbdf9579949d192ce57e635797a6285aabb8ec1a80d37accd5515d254bb8bb",
+      "bytes": 142878,
+      "from": "43de pages 6-8 — the frame from the front"
+    },
+    {
+      "name": "09-interior-close.webp",
+      "sha256": "145f6791026f9186e16d2d485bc65c2d7ae997b2d6952fd401e46bce18679b01",
+      "bytes": 163738,
+      "from": "43de pages 6-8 — a close view among the units"
+    },
+    {
+      "name": "10-elevation.webp",
+      "sha256": "cddd71bc18e3f8d3e2cee4e448cb69e891ee3ee4e3a4391496cc484c33be87d9",
+      "bytes": 143118,
+      "from": "43de pages 6-8 — an elevation of the cubic frame"
+    }
+  ]
+}
