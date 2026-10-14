@@ -1,0 +1,19 @@
+{
+  "project": "Sunward Orphanage",
+  "dest": "assets/board/sunward-orphanage",
+  "note": "w737g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-news-collage.webp",
+      "sha256": "ee1db731da1f3c7cce48c7a969b52b43c5b9cd2d11abb9e4bc385a557d25c64f",
+      "bytes": 219448,
+      "from": "restored reference image (news collage)"
+    },
+    {
+      "name": "10-site-and-location.webp",
+      "sha256": "0df9cc6b833623b0d70139821fb39d7a4e8b60645cda58d6b3fb0f6004027604",
+      "bytes": 192218,
+      "from": "restored reference image (site and location)"
+    }
+  ]
+}

@@ -50,6 +50,18 @@
       "sha256": "aeeb73a0fd28124bcdb182d96e813ea29b6507a6e1eca795fe18174f92b8251d",
       "bytes": 53078,
       "from": "page 17 — first and second floor plans, x 38–100 %, y 0–25 %"
+    },
+    {
+      "name": "09-news-collage.webp",
+      "sha256": "ee1db731da1f3c7cce48c7a969b52b43c5b9cd2d11abb9e4bc385a557d25c64f",
+      "bytes": 219448,
+      "from": "restored reference image (news collage)"
+    },
+    {
+      "name": "10-site-and-location.webp",
+      "sha256": "0df9cc6b833623b0d70139821fb39d7a4e8b60645cda58d6b3fb0f6004027604",
+      "bytes": 192218,
+      "from": "restored reference image (site and location)"
     }
   ]
 }
