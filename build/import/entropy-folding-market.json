@@ -4,12 +4,6 @@
   "note": "Portfolio 0995 pages 7–11 cropped to five images, WebP q88 (PIL), max 2000 px wide. Not used: the title and intro text, the site history page with painting details, aerial and site photos, the activity density map over an aerial photo, the stall type photo strip, the cloud management photo row and stage plans over aerial photos, the phone and laptop drawing with an event photo and app branding, and the photo strip under the weekday view. Sign text on two drawings was painted out.",
   "files": [
     {
-      "name": "01-weekend-birds-eye.webp",
-      "sha256": "2fc3ae89498301c6290ed5c72c72118d52caeddc62bf9384b8a6d2a395de96f8",
-      "bytes": 716166,
-      "from": "0995 page 7 — bird's-eye view with weekend activities, x 0–72 %; sign text painted out"
-    },
-    {
       "name": "02-market-section.webp",
       "sha256": "9130c5bbe86b3c6aaa663d0a43b0eba9ab6e1618b53a9c2f0ef3cea40924c42c",
       "bytes": 116696,
@@ -26,12 +20,6 @@
       "sha256": "77251fe63dae517cf1696d6b38b1f9d4ed847b885b918214ab068c8df6923c50",
       "bytes": 292244,
       "from": "page 11 — collapsible stall module renders, x 0–40 %, y 3–92 %"
-    },
-    {
-      "name": "05-weekday-birds-eye.webp",
-      "sha256": "0aa5fd0178012fec31906284b1835fb2187018555b518112c08908b3082b69f8",
-      "bytes": 471294,
-      "from": "page 11 — bird's-eye view with weekday activities, x 50–100 %, y 0–69 %; sign text painted out"
     },
     {
       "name": "06-site-history-and-ganji-scenes.webp",
@@ -62,6 +50,18 @@
       "sha256": "d6423b7d7648d8dcd910714dad1d7f18adbe7b8c84dac17d6a5555b350017d1c",
       "bytes": 257534,
       "from": "restored reference image (smart city experience)"
+    },
+    {
+      "name": "01-weekend-birds-eye.webp",
+      "sha256": "39c7de27375fef046af2650068c2517948faa6e818104882e959064d40711ffe",
+      "bytes": 374336,
+      "from": "restored reference image (weekend birds eye)"
+    },
+    {
+      "name": "05-weekday-birds-eye.webp",
+      "sha256": "6e41ce405ef8ca0b02bbe1fc1622451aea9fb9574405ce56c25ee7bcb1ca6a75",
+      "bytes": 257058,
+      "from": "restored reference image (weekday birds eye)"
     }
   ]
 }

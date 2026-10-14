@@ -1,0 +1,19 @@
+{
+  "project": "Entropy: A Folding Market",
+  "dest": "assets/board/entropy-folding-market",
+  "note": "w737n restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "01-weekend-birds-eye.webp",
+      "sha256": "39c7de27375fef046af2650068c2517948faa6e818104882e959064d40711ffe",
+      "bytes": 374336,
+      "from": "restored reference image (weekend birds eye)"
+    },
+    {
+      "name": "05-weekday-birds-eye.webp",
+      "sha256": "6e41ce405ef8ca0b02bbe1fc1622451aea9fb9574405ce56c25ee7bcb1ca6a75",
+      "bytes": 257058,
+      "from": "restored reference image (weekday birds eye)"
+    }
+  ]
+}
