@@ -1,0 +1,23 @@
+{
+  "project": "Offense and Defense",
+  "dest": "assets/board/offense-and-defense-tangled-stick-and-strip-thicket",
+  "note": "w738t2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-building-by-hand-photos.webp",
+      "sha256": "bada23f90d675b404e8830913f0f81eaafd73e903880c5639ad08b9d52f4fd32",
+      "bytes": 100130,
+      "from": "restored reference image (building by hand photos)"
+    },
+    {
+      "name": "12-tracing-by-hand.webp",
+      "sha256": "8184ea15bf5fb49d997fa3f0009f851f3a358a59f983732cd7beaf9e02ba8eb3",
+      "bytes": 17996,
+      "from": "restored reference image (tracing by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/08-close-strip-weave.webp",
+    "assets/board/offense-and-defense-tangled-stick-and-strip-thicket/09-standing-strips.webp"
+  ]
+}
