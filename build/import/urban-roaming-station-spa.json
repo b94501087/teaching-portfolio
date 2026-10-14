@@ -44,6 +44,24 @@
       "sha256": "fa0ab61283cd59789b5fd26692fb288528ccf7acc4ad7d16bf5f2da31bdb5359",
       "bytes": 15278,
       "from": "page 13 — detail section of the rain walking pool, x 78–100 %, y 10–29 %"
+    },
+    {
+      "name": "08-interactive-wall-tech.webp",
+      "sha256": "ac98da60a56e40260f5e1537d0b837ee5c5ed04511df5ec5e1ca975560919af4",
+      "bytes": 52866,
+      "from": "restored reference image (interactive wall tech)"
+    },
+    {
+      "name": "09-visiting-process.webp",
+      "sha256": "ceb1ced3582ad7679800cb1dd1859343daa361ec253d403b3e9896966959cfa7",
+      "bytes": 314346,
+      "from": "restored reference image (visiting process)"
+    },
+    {
+      "name": "10-escape-scenes.webp",
+      "sha256": "a876a450c25c6b217cf9d936d1f930303607409a537cf20da4fe4550c98beaca",
+      "bytes": 442506,
+      "from": "restored reference image (escape scenes)"
     }
   ]
 }

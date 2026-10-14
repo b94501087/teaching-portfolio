@@ -1,0 +1,19 @@
+{
+  "project": "The Middle Income Trap — A Mall of Fast Consumption",
+  "dest": "assets/board/middle-income-trap-mall",
+  "note": "w737b restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-middle-income-trap.webp",
+      "sha256": "8547cc4149cdf5b8c1ca0815c3d07f11a144e56eba5d2dddac8559a4cd637fa8",
+      "bytes": 244794,
+      "from": "restored reference image (middle income trap)"
+    },
+    {
+      "name": "10-consumerism-collage.webp",
+      "sha256": "2d0c06daeaab16caaca7a1a9bea668d77847c32e910724af8b44cc6aaa0d8ba3",
+      "bytes": 339458,
+      "from": "restored reference image (consumerism collage)"
+    }
+  ]
+}
