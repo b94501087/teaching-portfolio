@@ -1,0 +1,13 @@
+{
+  "project": "Activation of a Boiler House",
+  "dest": "assets/board/activation-of-a-boiler-house",
+  "note": "w737f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-site-analysis-and-history.webp",
+      "sha256": "6af6182d983edeaef7e5e979482ef02b7b7cebfd7494ff7aeccdeddd4469f89c",
+      "bytes": 260436,
+      "from": "restored reference image (site analysis and history)"
+    }
+  ]
+}
