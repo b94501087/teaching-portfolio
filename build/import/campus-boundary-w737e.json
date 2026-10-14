@@ -1,0 +1,13 @@
+{
+  "project": "Campus Boundary",
+  "dest": "assets/board/campus-boundary",
+  "note": "w737e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-overlap-and-program-edge.webp",
+      "sha256": "6d692c91d9a0e59600cf507de0692a90bc2ca31b0801f4b46ad69ee049623826",
+      "bytes": 58046,
+      "from": "restored reference image (overlap and program edge)"
+    }
+  ]
+}

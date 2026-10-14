@@ -44,6 +44,12 @@
       "sha256": "801fd7819f073c1ff36311d3218ebba3c51d148b59fad8dad57936dcc8038e70",
       "bytes": 120086,
       "from": "page 11 — route, transport hub and park as edge, x 79.2–99.8 %, y 0–100 %"
+    },
+    {
+      "name": "08-overlap-and-program-edge.webp",
+      "sha256": "6d692c91d9a0e59600cf507de0692a90bc2ca31b0801f4b46ad69ee049623826",
+      "bytes": 58046,
+      "from": "restored reference image (overlap and program edge)"
     }
   ]
 }
