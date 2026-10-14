@@ -1,0 +1,67 @@
+{
+  "project": "Growing City from Machine Drawings",
+  "dest": "assets/board/growing-city-from-machine-drawings-card-and-stick-model",
+  "note": "Portfolio 5918 pages 3-5 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, reproduced engine and machine reference images.",
+  "files": [
+    {
+      "name": "01-stick-city.webp",
+      "sha256": "659c0f4fccca954a9588817695eab0aa6858ad9daab6e787eafc251c0dfc50ef",
+      "bytes": 180456,
+      "from": "5918 pages 3-5 — the long landscape of stick frames"
+    },
+    {
+      "name": "02-traced-machine.webp",
+      "sha256": "e1f7eb67de5d752645c674a911ddc0f315c43bd7e10001fc752d1c5f8c4f1dac",
+      "bytes": 279622,
+      "from": "5918 pages 3-5 — a traced machine drawing with notes"
+    },
+    {
+      "name": "03-machine-drawings-a.webp",
+      "sha256": "1f37b2c8272be0949bcded45c1d0e83022b2635c019abdb8de560b3814cd9428",
+      "bytes": 119442,
+      "from": "5918 pages 3-5 — recombined machine drawings"
+    },
+    {
+      "name": "04-machine-drawings-b.webp",
+      "sha256": "50447e17e0483988c627b9a1a643a0f9c6557a955c2bd220745f09176387e9a7",
+      "bytes": 214672,
+      "from": "5918 pages 3-5 — further recombined drawings"
+    },
+    {
+      "name": "05-card-model.webp",
+      "sha256": "151646818f59c2f8ccf80b39f6c99cc802683bdefb7cd40caae554931b9242de",
+      "bytes": 48674,
+      "from": "5918 pages 3-5 — the card city model"
+    },
+    {
+      "name": "06-card-detail-a.webp",
+      "sha256": "07c5e000934eef21f4dd68b859e5de68514764a6fdc4435d441e95943b1857d9",
+      "bytes": 30582,
+      "from": "5918 pages 3-5 — a view of curving card walls"
+    },
+    {
+      "name": "07-card-detail-b.webp",
+      "sha256": "a1da0808d147d7d15f2439b18f5e1f18fe55dd6bee0296214a4bb85738f86bba",
+      "bytes": 33258,
+      "from": "5918 pages 3-5 — the card model from the side"
+    },
+    {
+      "name": "08-card-detail-c.webp",
+      "sha256": "c308af5bcb8943d0e39b18cec1f695d0fab865e11325fe23b90e68b886c117ea",
+      "bytes": 25884,
+      "from": "5918 pages 3-5 — a cluster of card rooms"
+    },
+    {
+      "name": "09-card-detail-d.webp",
+      "sha256": "9b56477950d52f3ea4eb6e40a93d6517bb9fcc1d1a837208e451f42d4c900a29",
+      "bytes": 22610,
+      "from": "5918 pages 3-5 — the card model on its base"
+    },
+    {
+      "name": "10-stick-model.webp",
+      "sha256": "d22282871935faaddba9e699a40606d874568e24e8a57dafa8d24255a58f59fa",
+      "bytes": 102550,
+      "from": "5918 pages 3-5 — a close view of the stick frames"
+    }
+  ]
+}
