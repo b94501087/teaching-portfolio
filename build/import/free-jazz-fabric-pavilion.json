@@ -50,6 +50,18 @@
       "sha256": "c663fabb942e530154ff9113a9bcc12ce3088f19535cc52267374e5eae8737d3",
       "bytes": 373920,
       "from": "page 19 — spatial analysis drawing of interior and exterior, x 50–100 %, y 0–100 %"
+    },
+    {
+      "name": "09-multi-reality-landmark-map.webp",
+      "sha256": "81715fcc03b15789aee572aefe4819185542e115aa8828edeb2a397e49718212",
+      "bytes": 219562,
+      "from": "restored reference image (multi reality landmark map)"
+    },
+    {
+      "name": "10-free-jazz-concept-tree.webp",
+      "sha256": "f2f6c4cdac1f0c9e70b0b2ee650ab81e66cab6e114177617183c6b9dfa65c356",
+      "bytes": 241034,
+      "from": "restored reference image (free jazz concept tree)"
     }
   ]
 }
