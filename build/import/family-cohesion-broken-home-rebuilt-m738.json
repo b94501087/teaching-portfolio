@@ -1,0 +1,13 @@
+{
+  "project": "Family Cohesion",
+  "dest": "assets/board/family-cohesion-broken-home-rebuilt",
+  "note": "m738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-film-stills.webp",
+      "sha256": "4a21b957ccdcdf19b0dbad4e5c0f9d921fd5b41ff3e57810beefce2238fbfb1f",
+      "bytes": 96450,
+      "from": "restored reference image (film stills)"
+    }
+  ]
+}
