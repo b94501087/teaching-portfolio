@@ -1,0 +1,23 @@
+{
+  "project": "Pineapple Bio-geometry",
+  "dest": "assets/board/pineapple-bio-geometry-stick-fibre-canopy",
+  "note": "w738d restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-pastry-shop-and-cakes.webp",
+      "sha256": "ef707e8bdccfb587bdc984499859dffd75764c3a19d20cedbb23decfe059ad3c",
+      "bytes": 99506,
+      "from": "restored reference image (pastry shop and cakes)"
+    },
+    {
+      "name": "12-making-by-hand.webp",
+      "sha256": "92d033edc8d3fde37f98aa24b8c50b8584d50fe98b1a40e8bb33cbad59ab881e",
+      "bytes": 37914,
+      "from": "restored reference image (making by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/pineapple-bio-geometry-stick-fibre-canopy/02-cake-fibres.webp",
+    "assets/board/pineapple-bio-geometry-stick-fibre-canopy/03-cake-halves.webp"
+  ]
+}
