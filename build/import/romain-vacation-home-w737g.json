@@ -1,0 +1,16 @@
+{
+  "project": "Romain Vacation Home",
+  "dest": "assets/board/romain-vacation-home",
+  "note": "w737g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-and-users-analysis.webp",
+      "sha256": "b82016539c699e803e8917858558ac6796aebf6b7415d1003e7ae5596d5aebec",
+      "bytes": 181528,
+      "from": "restored reference image (site and users analysis)"
+    }
+  ],
+  "delete": [
+    "assets/board/romain-vacation-home/07-section-c.webp"
+  ]
+}

@@ -40,12 +40,6 @@
       "from": "page 6 — section B-B', x 0.9–28.9 %, y 1.7–24.7 %"
     },
     {
-      "name": "07-section-c.webp",
-      "sha256": "da7e4851eae9a88b7e64cb92b6fc16f6a99c8a89f688a187062d8c4d07f33b33",
-      "bytes": 36002,
-      "from": "page 6 — section C-C', x 0.9–28.9 %, y 32.2–56.4 %"
-    },
-    {
       "name": "08-climate-section.webp",
       "sha256": "42b274bd286c91611342bd888bfa2e3d7a25fe9379231189b492d946f8c3b795",
       "bytes": 27714,
@@ -62,6 +56,12 @@
       "sha256": "865e316585c95fc7455c2dc690d919b723d2d4558bbaed07320f71a22495f6ea",
       "bytes": 64306,
       "from": "page 7 — facade explosion, x 0–51 %, y 47–98 %"
+    },
+    {
+      "name": "11-site-and-users-analysis.webp",
+      "sha256": "b82016539c699e803e8917858558ac6796aebf6b7415d1003e7ae5596d5aebec",
+      "bytes": 181528,
+      "from": "restored reference image (site and users analysis)"
     }
   ]
 }
