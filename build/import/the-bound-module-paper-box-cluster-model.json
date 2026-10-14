@@ -1,0 +1,61 @@
+{
+  "project": "The Bound",
+  "dest": "assets/board/the-bound-module-paper-box-cluster-model",
+  "note": "Portfolio 8b6a pages 13-16 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, project caption, inspiration and experiment text, remaining modules row, closing statement text.",
+  "files": [
+    {
+      "name": "01-bound-tower.webp",
+      "sha256": "03a064fe0330cec0a1443c2cbecc98fde6cb512d28222d8a319c37e13a328fb5",
+      "bytes": 84526,
+      "from": "8b6a pages 13-16 — the stacked cluster as a tower"
+    },
+    {
+      "name": "02-box-cluster.webp",
+      "sha256": "b7381f612474894a23d72de44985353a0dc18c7bb3617e60c3f9e6d934bbe93d",
+      "bytes": 40242,
+      "from": "8b6a pages 13-16 — an early cluster of boxes and curves"
+    },
+    {
+      "name": "03-early-study.webp",
+      "sha256": "2353a585de544857d1160a131c29ac19474992523d3931b9cbf714ee72f921bb",
+      "bytes": 16130,
+      "from": "8b6a pages 13-16 — an early open card frame"
+    },
+    {
+      "name": "04-module-pieces.webp",
+      "sha256": "5ba9e0f88cfdbcdd628b984a81cfe589a24f2eab72e6e362eda90c78a559acda",
+      "bytes": 26716,
+      "from": "8b6a pages 13-16 — individual modules laid out"
+    },
+    {
+      "name": "05-pieces-combined.webp",
+      "sha256": "b767d72ddda4eb8219fa6399f2c3847b26365f7c7da527161e94314a8fe3053b",
+      "bytes": 32108,
+      "from": "8b6a pages 13-16 — modules combined into a block"
+    },
+    {
+      "name": "06-process-views.webp",
+      "sha256": "19b19fd58b16100d3bc4da0f0b0eee5a4a8f84218b91ab81e11cebfdd12772fc",
+      "bytes": 52564,
+      "from": "8b6a pages 13-16 — process views of the combinations"
+    },
+    {
+      "name": "07-plan-view.webp",
+      "sha256": "d86e83cb42b2f96bc5eddb812c3a8600fdb9a9f1852ab2995b877c06a85dc287",
+      "bytes": 96864,
+      "from": "8b6a pages 13-16 — the cluster seen from above"
+    },
+    {
+      "name": "08-axon-view.webp",
+      "sha256": "625053158bc55a159bb86cf552f54b34091caad7cada1454d172aad174309c51",
+      "bytes": 55296,
+      "from": "8b6a pages 13-16 — an angled overhead view"
+    },
+    {
+      "name": "09-inner-passage.webp",
+      "sha256": "747ce3c27abe6725e203b5c2e1049403edb6933472d02b67b4bf0d2a8ffea121",
+      "bytes": 96028,
+      "from": "8b6a pages 13-16 — figures in an inner passage"
+    }
+  ]
+}
