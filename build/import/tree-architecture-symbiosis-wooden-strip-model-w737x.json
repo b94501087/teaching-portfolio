@@ -1,0 +1,16 @@
+{
+  "project": "Tree-Architecture Symbiosis",
+  "dest": "assets/board/tree-architecture-symbiosis-wooden-strip-model",
+  "note": "w737x restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-treehouse-precedent.webp",
+      "sha256": "49196595db894e3a64e04e5de1ec070a4a94f1e44bee426bfa182ccfe0d0d8d2",
+      "bytes": 17454,
+      "from": "restored reference image (treehouse precedent)"
+    }
+  ],
+  "delete": [
+    "assets/board/tree-architecture-symbiosis-wooden-strip-model/10-detail-d.webp"
+  ]
+}
