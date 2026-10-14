@@ -50,6 +50,18 @@
       "sha256": "21220f5bca1f95ebab03ce517be56b9814c842d1a43c93f3e0bef7c4f14666ba",
       "bytes": 149694,
       "from": "page 4 — design language, x 50–100 %, y 0–48 %"
+    },
+    {
+      "name": "09-site-aerial-photos.webp",
+      "sha256": "f2b6ad2ea97a879d07219e9b6bb93920db68d8e438cf262473f61236e15d0dab",
+      "bytes": 103014,
+      "from": "restored reference image (site aerial photos)"
+    },
+    {
+      "name": "10-city-photo.webp",
+      "sha256": "953f27d4ba8c6941b1477f743279c1ec0948886e1294f156c0d31f3abc186bf3",
+      "bytes": 26370,
+      "from": "restored reference image (city photo)"
     }
   ]
 }

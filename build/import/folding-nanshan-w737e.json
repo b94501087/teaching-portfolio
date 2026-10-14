@@ -1,0 +1,19 @@
+{
+  "project": "Folding Nanshan",
+  "dest": "assets/board/folding-nanshan",
+  "note": "w737e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-site-aerial-photos.webp",
+      "sha256": "f2b6ad2ea97a879d07219e9b6bb93920db68d8e438cf262473f61236e15d0dab",
+      "bytes": 103014,
+      "from": "restored reference image (site aerial photos)"
+    },
+    {
+      "name": "10-city-photo.webp",
+      "sha256": "953f27d4ba8c6941b1477f743279c1ec0948886e1294f156c0d31f3abc186bf3",
+      "bytes": 26370,
+      "from": "restored reference image (city photo)"
+    }
+  ]
+}
