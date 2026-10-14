@@ -1,0 +1,19 @@
+{
+  "project": "Sandy Adobe",
+  "dest": "assets/board/sandy-adobe-crab-burrow-tunnel-sculpture",
+  "note": "w738g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-crab-and-beach-photos.webp",
+      "sha256": "adc02400cdd29892f14dbeb173ae42b358134fc840f380b22270c00505f66be9",
+      "bytes": 48514,
+      "from": "restored reference image (crab and beach photos)"
+    },
+    {
+      "name": "08-making-by-hand.webp",
+      "sha256": "67845f2a7aa76d320ed8c45ba8a2ee5bc5de6d91eb28fa861e24153df4d19d17",
+      "bytes": 188616,
+      "from": "restored reference image (making by hand)"
+    }
+  ]
+}
