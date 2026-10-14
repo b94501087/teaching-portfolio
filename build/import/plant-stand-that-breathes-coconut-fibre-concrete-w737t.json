@@ -1,0 +1,13 @@
+{
+  "project": "A Plant Stand That Breathes",
+  "dest": "assets/board/plant-stand-that-breathes-coconut-fibre-concrete",
+  "note": "w737t restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-arranging-the-plants.webp",
+      "sha256": "d137f612e684acad80d1ee770c47dd54a781ded6047fd41f51ba1f9d01ef51dd",
+      "bytes": 13716,
+      "from": "restored reference image (arranging the plants)"
+    }
+  ]
+}
