@@ -1,0 +1,13 @@
+{
+  "project": "Flowing Sleeves: Dance to Space Design",
+  "dest": "assets/board/flowing-sleeves-dance-to-space-fabric-frames",
+  "note": "w737z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-making-process-photos.webp",
+      "sha256": "2a2283cd6dc6a6bfa0ce6a5586e50dc5175a334c3a006fc2d206274a87f51d64",
+      "bytes": 25630,
+      "from": "restored reference image (making process photos)"
+    }
+  ]
+}

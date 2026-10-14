@@ -38,6 +38,12 @@
       "sha256": "0b62918a731ecd87e35636fd9f231d7990debfd8797c256ad6e75a8baff28532",
       "bytes": 41600,
       "from": "c916 page 5 — frame by frame"
+    },
+    {
+      "name": "07-making-process-photos.webp",
+      "sha256": "2a2283cd6dc6a6bfa0ce6a5586e50dc5175a334c3a006fc2d206274a87f51d64",
+      "bytes": 25630,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }
