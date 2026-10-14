@@ -1,0 +1,19 @@
+{
+  "project": "Animal Box",
+  "dest": "assets/board/animal-box-guangzhou",
+  "note": "w737m restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-background-and-zoo-timeline.webp",
+      "sha256": "a2e2b87142ad1ffb1cf7703f4a905208ca6d1a8bb67ec4b1bdaf03c4dd1b1f91",
+      "bytes": 260832,
+      "from": "restored reference image (background and zoo timeline)"
+    },
+    {
+      "name": "10-vr-and-real-effect.webp",
+      "sha256": "12975f33881c289dcd330a6948cdb2eadf574a23608f35f9df417b2d131e9cee",
+      "bytes": 287030,
+      "from": "restored reference image (vr and real effect)"
+    }
+  ]
+}

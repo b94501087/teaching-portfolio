@@ -50,6 +50,18 @@
       "sha256": "5e2d18946368d7003f0b5c3a87061a9436af2d4433b6900cf11c0c5646c82407",
       "bytes": 216418,
       "from": "page 20 — long section with the legend, x 0–100 %, y 53–100 %"
+    },
+    {
+      "name": "09-background-and-zoo-timeline.webp",
+      "sha256": "a2e2b87142ad1ffb1cf7703f4a905208ca6d1a8bb67ec4b1bdaf03c4dd1b1f91",
+      "bytes": 260832,
+      "from": "restored reference image (background and zoo timeline)"
+    },
+    {
+      "name": "10-vr-and-real-effect.webp",
+      "sha256": "12975f33881c289dcd330a6948cdb2eadf574a23608f35f9df417b2d131e9cee",
+      "bytes": 287030,
+      "from": "restored reference image (vr and real effect)"
     }
   ]
 }
