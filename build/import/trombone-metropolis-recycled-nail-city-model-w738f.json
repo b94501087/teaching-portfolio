@@ -1,0 +1,19 @@
+{
+  "project": "Trombone Metropolis",
+  "dest": "assets/board/trombone-metropolis-recycled-nail-city-model",
+  "note": "w738f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-instrument-photo.webp",
+      "sha256": "c48d0edf34c942cf180efc53c7ab005398666a1e4bd54331029818d775d76756",
+      "bytes": 5384,
+      "from": "restored reference image (instrument photo)"
+    },
+    {
+      "name": "10-making-process-photos.webp",
+      "sha256": "3e8b869fa4c7220220ae6d1ccc5760820ae0898c05d72585924ab4d219a04c9c",
+      "bytes": 68418,
+      "from": "restored reference image (making process photos)"
+    }
+  ]
+}
