@@ -50,6 +50,12 @@
       "sha256": "0cb0bb6259cd572c06a8805f59aa0b52271b3724fffe73adde4c672200172608",
       "bytes": 16116,
       "from": "c916 page 4 — pond view"
+    },
+    {
+      "name": "09-garden-impression-sketches.webp",
+      "sha256": "99587c970b7b2f9ad8a70f98147bde5cf3a78f4e5ab3f4add0419edb64c7823d",
+      "bytes": 86636,
+      "from": "restored reference image (garden impression sketches)"
     }
   ]
 }

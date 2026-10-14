@@ -1,0 +1,13 @@
+{
+  "project": "Spatial Deconstruction of Chinese Gardens",
+  "dest": "assets/board/spatial-deconstruction-of-a-classical-garden-model",
+  "note": "w737z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-garden-impression-sketches.webp",
+      "sha256": "99587c970b7b2f9ad8a70f98147bde5cf3a78f4e5ab3f4add0419edb64c7823d",
+      "bytes": 86636,
+      "from": "restored reference image (garden impression sketches)"
+    }
+  ]
+}
