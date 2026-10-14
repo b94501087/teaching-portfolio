@@ -1,0 +1,13 @@
+{
+  "project": "Sawtooth Horizons",
+  "dest": "assets/board/sawtooth-horizons-cultural-centre",
+  "note": "w737p restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-interior-render.webp",
+      "sha256": "13b74d9acb62a5d96c351b71bf6a0649397f9c31a6361017d510bec591eb0ad9",
+      "bytes": 48446,
+      "from": "restored reference image (interior render)"
+    }
+  ]
+}

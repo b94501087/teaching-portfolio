@@ -56,6 +56,12 @@
       "sha256": "36c86fe88f8604cc875d9353a533b13295322748a7e67bd2c4f0e84b6cb6a081",
       "bytes": 78466,
       "from": "2712 page 9 — model views"
+    },
+    {
+      "name": "10-interior-render.webp",
+      "sha256": "13b74d9acb62a5d96c351b71bf6a0649397f9c31a6361017d510bec591eb0ad9",
+      "bytes": 48446,
+      "from": "restored reference image (interior render)"
     }
   ]
 }
