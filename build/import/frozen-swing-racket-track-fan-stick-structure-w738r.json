@@ -1,0 +1,23 @@
+{
+  "project": "Frozen Swing",
+  "dest": "assets/board/frozen-swing-racket-track-fan-stick-structure",
+  "note": "w738r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-racket-swing-photos.webp",
+      "sha256": "9227f899236bb262b1229a0383660f94987f0228c4feb6ed754be5badcfc5ff3",
+      "bytes": 41938,
+      "from": "restored reference image (racket swing photos)"
+    },
+    {
+      "name": "12-shaping-fans-by-hand.webp",
+      "sha256": "257fb0fb800958ade5ef0ad848875593c90980145b90c05f370f4b8bd0ec8b83",
+      "bytes": 27372,
+      "from": "restored reference image (shaping fans by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/frozen-swing-racket-track-fan-stick-structure/05-collage-detail-left.webp",
+    "assets/board/frozen-swing-racket-track-fan-stick-structure/06-collage-detail-centre.webp"
+  ]
+}
