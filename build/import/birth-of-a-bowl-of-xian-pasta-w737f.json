@@ -1,0 +1,13 @@
+{
+  "project": "The Birth of a Bowl of Xi’an Pasta",
+  "dest": "assets/board/birth-of-a-bowl-of-xian-pasta",
+  "note": "w737f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-theme-and-inspiration.webp",
+      "sha256": "027a6790f8a6ec6d625894841d6f8929d5b10167b6eaaee5550da69f36986354",
+      "bytes": 184066,
+      "from": "restored reference image (theme and inspiration)"
+    }
+  ]
+}
