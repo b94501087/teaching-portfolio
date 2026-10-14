@@ -1,0 +1,67 @@
+{
+  "project": "From 2D to 3D",
+  "dest": "assets/board/from-2d-to-3d-cardboard-triangle-twin-mountain-model",
+  "note": "Portfolio 43de pages 3-5 cropped to 10 images, WebP q88 (PIL). Not used: market photo with shop signs used as inspiration, text panels, caption with title, dimensions and date.",
+  "files": [
+    {
+      "name": "01-twin-triangle-model.webp",
+      "sha256": "79d429090b9eed399d5ffab86e33e5f2adedaaedf2b3e275fce8af07389efd9f",
+      "bytes": 119600,
+      "from": "43de pages 3-5 — the twin triangle model in full height"
+    },
+    {
+      "name": "02-triangle-line-drawing.webp",
+      "sha256": "821acbe0d0d28ea3495f907e6b8f843ca9a5ad58faa50f4b2aea5f544c069542",
+      "bytes": 75310,
+      "from": "43de pages 3-5 — a line drawing of the triangle mesh"
+    },
+    {
+      "name": "03-board-process-a.webp",
+      "sha256": "5a0521ba25a8ac583d26e7bf832cdb3add80f37c9a83191976749f9b98634936",
+      "bytes": 76768,
+      "from": "43de pages 3-5 — early stages of the board platform"
+    },
+    {
+      "name": "04-board-process-b.webp",
+      "sha256": "3c42e39ea89333aa522edbbe88bc2c46d24f9b77aa1e5b001c7b3a608908dfdc",
+      "bytes": 74120,
+      "from": "43de pages 3-5 — the platform gaining density"
+    },
+    {
+      "name": "05-model-low-view.webp",
+      "sha256": "6d51f7b51eb817083e259d14aebe8423c8e9fbaf91575a339fa84f74d1cd65f1",
+      "bytes": 127224,
+      "from": "43de pages 3-5 — a low view of the joined model"
+    },
+    {
+      "name": "06-model-aerial.webp",
+      "sha256": "1efbb2a332ed8d2856547a3c935321076aba8f99e585d19ab49d400f7ea20af9",
+      "bytes": 106966,
+      "from": "43de pages 3-5 — the model seen from above"
+    },
+    {
+      "name": "07-model-frontal.webp",
+      "sha256": "c02a431631a8c6773c140dabb658ac5b02a3e955f2c59c1fde1054fd5279c8f2",
+      "bytes": 82610,
+      "from": "43de pages 3-5 — a frontal view of the model"
+    },
+    {
+      "name": "08-detail-shadow.webp",
+      "sha256": "af7846555524c2f506a8a835f2c90f5e5954cda2ec67e91fb09d64473bfd5cf0",
+      "bytes": 80642,
+      "from": "43de pages 3-5 — facets casting shadows"
+    },
+    {
+      "name": "09-detail-cluster.webp",
+      "sha256": "d909549055ffbb22fda445161a7add2abfcd44cb1fc8bb3c30e4776e1eca2499",
+      "bytes": 49168,
+      "from": "43de pages 3-5 — a cluster of facets"
+    },
+    {
+      "name": "10-close-up.webp",
+      "sha256": "5e306b7a89b66c0d8650b90d464293d310848cf9e976fa1f902cee0cb3120d8d",
+      "bytes": 204104,
+      "from": "43de pages 3-5 — a close view of the shards"
+    }
+  ]
+}
