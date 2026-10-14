@@ -1,0 +1,13 @@
+{
+  "project": "Protecting Wild Habitats",
+  "dest": "assets/board/protecting-wild-habitats-grass-and-wire-cage",
+  "note": "m738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-alaska-photo-and-maps.webp",
+      "sha256": "f18604642534731dc2467a3d00caf759d502d20631da1737a6e6c11ba6078a6e",
+      "bytes": 52840,
+      "from": "restored reference image (alaska photo and maps)"
+    }
+  ]
+}

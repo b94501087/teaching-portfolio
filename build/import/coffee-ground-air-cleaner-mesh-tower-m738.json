@@ -1,0 +1,13 @@
+{
+  "project": "Coffee-Ground Air Cleaner",
+  "dest": "assets/board/coffee-ground-air-cleaner-mesh-tower",
+  "note": "m738 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "9a0bb5897c48a67371ea77c08bce507d37ffd111fbe1b861da1d892cdd0ab1e9",
+      "bytes": 128690,
+      "from": "restored reference image (making by hand)"
+    }
+  ]
+}
