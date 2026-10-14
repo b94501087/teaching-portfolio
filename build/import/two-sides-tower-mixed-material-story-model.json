@@ -1,7 +1,7 @@
 {
   "project": "Two Sides Tower",
   "dest": "assets/board/two-sides-tower-mixed-material-story-model",
-  "note": "Portfolio cfd7 pages 2-3 cropped to seven images, WebP q88 (PIL). Not used: title and text, film stills with actors, the film title and character names, process photos with hands.",
+  "note": "Portfolio cfd7 pages 2-3 cropped to seven images, WebP q88 (PIL). Not used: title and text, film stills with actors, the film title and character names, process photos with hands. w737: original images restored.",
   "files": [
     {
       "name": "01-full-model.webp",
@@ -44,6 +44,18 @@
       "sha256": "25401460781bf1e20e1cf2c7dd50e5b94a8b076c9b3a780d4fbc419dfbe51543",
       "bytes": 113666,
       "from": "cfd7 page 3 — pen drawing"
+    },
+    {
+      "name": "08-inspiration-stills.webp",
+      "sha256": "0fb16ec98d1e366943d47f04a49cd0f92b529dd81106157676cd0f9293acf890",
+      "bytes": 108330,
+      "from": "restored reference image (inspiration stills)"
+    },
+    {
+      "name": "09-process-photos.webp",
+      "sha256": "412ffe1ca92895fd32bf4b44e44a0be1271963b42b94032fc1eab950546d9125",
+      "bytes": 51658,
+      "from": "restored reference image (process photos)"
     }
   ]
 }

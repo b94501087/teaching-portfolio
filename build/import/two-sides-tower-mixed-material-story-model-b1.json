@@ -1,0 +1,19 @@
+{
+  "project": "Two Sides Tower",
+  "dest": "assets/board/two-sides-tower-mixed-material-story-model",
+  "note": "b1 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-inspiration-stills.webp",
+      "sha256": "0fb16ec98d1e366943d47f04a49cd0f92b529dd81106157676cd0f9293acf890",
+      "bytes": 108330,
+      "from": "restored reference image (inspiration stills)"
+    },
+    {
+      "name": "09-process-photos.webp",
+      "sha256": "412ffe1ca92895fd32bf4b44e44a0be1271963b42b94032fc1eab950546d9125",
+      "bytes": 51658,
+      "from": "restored reference image (process photos)"
+    }
+  ]
+}
