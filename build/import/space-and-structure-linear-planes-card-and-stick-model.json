@@ -1,0 +1,67 @@
+{
+  "project": "Space and Structure",
+  "dest": "assets/board/space-and-structure-linear-planes-card-and-stick-model",
+  "note": "Portfolio e9e5 pages 4-7 cropped to 10 images, WebP q88 (PIL). Not used: title lettering, explanatory text, programme and site names, name label on the plan sheet, section drawing, model data.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "36f47302d945e321fd54c1adc69b5b55949e1d606ce69d5efc494438b6f22281",
+      "bytes": 65472,
+      "from": "e9e5 pages 4-7 — the final model of linear planes"
+    },
+    {
+      "name": "02-line-frame.webp",
+      "sha256": "df8fc252767cc3e6ba20abfe7c657b324331912ec0b5795214fd9b03ed1153f6",
+      "bytes": 12524,
+      "from": "e9e5 pages 4-7 — a frame of sticks"
+    },
+    {
+      "name": "03-linear-plan.webp",
+      "sha256": "f9c0ab2cd8988982daa7543ab4299cdab9c8a514e7a2e65ac556aba52176433e",
+      "bytes": 19680,
+      "from": "e9e5 pages 4-7 — a linear plan drawing"
+    },
+    {
+      "name": "04-refined-model.webp",
+      "sha256": "1fafb4a9bdfc359385012c2ac806cd77d6e49c90a20c265e481adc6f3e64fc52",
+      "bytes": 56348,
+      "from": "e9e5 pages 4-7 — a refined model of frames and blocks"
+    },
+    {
+      "name": "05-preliminary-plans.webp",
+      "sha256": "f71648b442a77b9d2b16e0f76a236ecebcf64b28bc52eb5cec43369f208e75ce",
+      "bytes": 72998,
+      "from": "e9e5 pages 4-7 — preliminary plans with foam blocks"
+    },
+    {
+      "name": "06-refined-field.webp",
+      "sha256": "048e8a0e787c8f3ece4abdffd2cf36284a186ffc603a06f091316d8d19e3026b",
+      "bytes": 64104,
+      "from": "e9e5 pages 4-7 — a field of folded walls"
+    },
+    {
+      "name": "07-refined-layers.webp",
+      "sha256": "6ad3777ffda82083ae6e43c2e03258ae7a3c03c2ad1b27fcf42a4c77dff3363e",
+      "bytes": 39212,
+      "from": "e9e5 pages 4-7 — layered linear plans"
+    },
+    {
+      "name": "08-interior-view.webp",
+      "sha256": "c41abbc62bb531f0ad04717104e3d922a5e0fd595e5a5b32053e030d9888f4f9",
+      "bytes": 69192,
+      "from": "e9e5 pages 4-7 — an interior view of the spaces"
+    },
+    {
+      "name": "09-plan-drawing.webp",
+      "sha256": "b2039b2b625fa58733dbd09222b18c10b6974d50374a1d196b5028e8e45562c6",
+      "bytes": 50392,
+      "from": "e9e5 pages 4-7 — the plan drawing"
+    },
+    {
+      "name": "10-final-top.webp",
+      "sha256": "db0db7b9fa59efb095ec954340aa2b8c38cd234418de80ff2d9a650b7d50332e",
+      "bytes": 64380,
+      "from": "e9e5 pages 4-7 — the final model from above"
+    }
+  ]
+}
