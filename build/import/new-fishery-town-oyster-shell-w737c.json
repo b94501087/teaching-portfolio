@@ -1,0 +1,25 @@
+{
+  "project": "New Fishery Town",
+  "dest": "assets/board/new-fishery-town-oyster-shell",
+  "note": "w737c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-research-and-problems.webp",
+      "sha256": "075a5befefacc6732ceef75af7f0b80129441a9f0ed551d4e16b8f15c4f1a30d",
+      "bytes": 334708,
+      "from": "restored reference image (research and problems)"
+    },
+    {
+      "name": "09-shell-experiments.webp",
+      "sha256": "7c905cc31906ce53200ae805415dd1c97b2d625c75c05f239d89d77b73cc5347",
+      "bytes": 205492,
+      "from": "restored reference image (shell experiments)"
+    },
+    {
+      "name": "10-site-activities.webp",
+      "sha256": "7978a05ec31aee4e5cd191e1d0965b64275c083456ef7deb9934736a7b7b0b45",
+      "bytes": 289056,
+      "from": "restored reference image (site activities)"
+    }
+  ]
+}
