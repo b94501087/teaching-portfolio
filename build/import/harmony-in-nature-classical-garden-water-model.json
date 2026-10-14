@@ -38,6 +38,18 @@
       "sha256": "ed78306d6d31b5090728b13f9d84d6c961ff5571f0b0675e45b50a02c5610552",
       "bytes": 102526,
       "from": "f312 page 10 — garden diagrams"
+    },
+    {
+      "name": "07-garden-site-photo.webp",
+      "sha256": "d50d9f0bf75ee88a4bd4fac7285fa595cedde0860b2cf3449f111289997cc8eb",
+      "bytes": 13298,
+      "from": "restored reference image (garden site photo)"
+    },
+    {
+      "name": "08-making-process-photos.webp",
+      "sha256": "895ac82b4b2e0bb6fac46e9d06e146221bd6cbf22f4efa4abf6d9c281945cbdc",
+      "bytes": 98900,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }

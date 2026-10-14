@@ -1,0 +1,19 @@
+{
+  "project": "Harmony in Nature",
+  "dest": "assets/board/harmony-in-nature-classical-garden-water-model",
+  "note": "w738a restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-garden-site-photo.webp",
+      "sha256": "d50d9f0bf75ee88a4bd4fac7285fa595cedde0860b2cf3449f111289997cc8eb",
+      "bytes": 13298,
+      "from": "restored reference image (garden site photo)"
+    },
+    {
+      "name": "08-making-process-photos.webp",
+      "sha256": "895ac82b4b2e0bb6fac46e9d06e146221bd6cbf22f4efa4abf6d9c281945cbdc",
+      "bytes": 98900,
+      "from": "restored reference image (making process photos)"
+    }
+  ]
+}
