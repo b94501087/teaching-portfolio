@@ -1,0 +1,23 @@
+{
+  "project": "The Moment of Precision",
+  "dest": "assets/board/moment-of-precision-balance-triangle-solids-model",
+  "note": "w738r restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-shooting-stance-photos.webp",
+      "sha256": "a3b7701b3892440e66e4aa7f4698111e300674ff188175f61cd1ebe6359294eb",
+      "bytes": 34422,
+      "from": "restored reference image (shooting stance photos)"
+    },
+    {
+      "name": "12-three-position-stance-figures.webp",
+      "sha256": "4fe8d51dc12e896f93878ba8440bdded9b007cc1d23b2f0c760a5f00e9adb1c1",
+      "bytes": 26208,
+      "from": "restored reference image (three position stance figures)"
+    }
+  ],
+  "delete": [
+    "assets/board/moment-of-precision-balance-triangle-solids-model/08-solid-study-c.webp",
+    "assets/board/moment-of-precision-balance-triangle-solids-model/09-solid-study-d.webp"
+  ]
+}
