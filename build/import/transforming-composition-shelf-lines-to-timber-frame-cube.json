@@ -1,0 +1,61 @@
+{
+  "project": "Transforming Composition",
+  "dest": "assets/board/transforming-composition-shelf-lines-to-timber-frame-cube",
+  "note": "Portfolio 250b pages 18-20 cropped to 9 images, WebP q88 (PIL). Not used: title lettering, explanatory text, photographs of flowers, soil, a shelf and a bin, flower line drawing, labelled process photos, combined-frame photo with overlay.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "128eef0a81c32e84534e34d9599c128c450afc444810b03d65104149ef5a283e",
+      "bytes": 167124,
+      "from": "250b pages 18-20 — the final frame model"
+    },
+    {
+      "name": "02-shelf-lines.webp",
+      "sha256": "848a887b6e99f9bb8e7d6ae095a04570daa681b23549762fd617d3740b0a64a9",
+      "bytes": 55048,
+      "from": "250b pages 18-20 — lines drawn from a shelf"
+    },
+    {
+      "name": "03-shelf-hatching.webp",
+      "sha256": "a9f7cf0f8afdd1835a8d85329c5f5b5b9cc0febd2776d68608fa074e4780e1cd",
+      "bytes": 164556,
+      "from": "250b pages 18-20 — hatched chevrons"
+    },
+    {
+      "name": "04-ground-triangulation.webp",
+      "sha256": "671683bb99f4d12d329133853df1a326573438beffad1a06b9c10f02878460e2",
+      "bytes": 54374,
+      "from": "250b pages 18-20 — the ground as a net of triangles"
+    },
+    {
+      "name": "05-frame-on-grid.webp",
+      "sha256": "f96037bafc4918eaf7cc5c338e96010383330a9c9141bb237d0c1dd444f8279c",
+      "bytes": 28772,
+      "from": "250b pages 18-20 — strips laid out on a grid"
+    },
+    {
+      "name": "06-light-structure.webp",
+      "sha256": "95ce2e26562c60f2ec70f0d3291b5735de369393484527c0ef65fbd5d302b0f0",
+      "bytes": 126962,
+      "from": "250b pages 18-20 — the light and clear structure"
+    },
+    {
+      "name": "07-dense-structure.webp",
+      "sha256": "4584a2294710956db75d31fbc6a6354ea8a67e30fcd31fb29f1df280f3adc1b7",
+      "bytes": 173254,
+      "from": "250b pages 18-20 — the dense and complex structure"
+    },
+    {
+      "name": "09-final-side.webp",
+      "sha256": "281408c7833de16a486612001081897c1f2e38e87385827414deee19b90a5961",
+      "bytes": 82810,
+      "from": "250b pages 18-20 — the model from the side"
+    },
+    {
+      "name": "10-final-front.webp",
+      "sha256": "d1d24c01b7a8f961f64cd708373ee32ff5ef8cd102895df220d531251b552ebf",
+      "bytes": 60408,
+      "from": "250b pages 18-20 — the model from the front"
+    }
+  ]
+}
