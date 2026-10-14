@@ -1,0 +1,16 @@
+{
+  "project": "Parallel Worlds in a Box",
+  "dest": "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes",
+  "note": "w738c restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-drawing-with-the-3d-pen.webp",
+      "sha256": "e5f61a3735eb652a4a1743f11ac39186ef60360ca12fd1d4420aff85fdd0ffd6",
+      "bytes": 108704,
+      "from": "restored reference image (drawing with the 3d pen)"
+    }
+  ],
+  "delete": [
+    "assets/board/parallel-worlds-3d-pen-lines-in-mirror-boxes/10-detail-colour.webp"
+  ]
+}
