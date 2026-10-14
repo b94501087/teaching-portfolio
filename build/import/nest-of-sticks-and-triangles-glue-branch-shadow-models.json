@@ -1,0 +1,55 @@
+{
+  "project": "Nest of Sticks and Triangles",
+  "dest": "assets/board/nest-of-sticks-and-triangles-glue-branch-shadow-models",
+  "note": "Portfolio 2939 pages 7-8 cropped to 8 images, WebP q88 (PIL). Not used: title lettering, explanatory text, third-party photos of precedent buildings with names, model data.",
+  "files": [
+    {
+      "name": "01-nest-model.webp",
+      "sha256": "27743ab0666ac4ec9dbc946b9b3f43d6b84224be309988f9519ca8427830e59f",
+      "bytes": 147412,
+      "from": "2939 pages 7-8 — the nest-like tower of glued sticks"
+    },
+    {
+      "name": "02-nest-shadow.webp",
+      "sha256": "7e5c42e7595afb9bc189e662f5c0eb4082325ef80ce1da822f5a350f80d86141",
+      "bytes": 37996,
+      "from": "2939 pages 7-8 — the tower and its long shadow"
+    },
+    {
+      "name": "03-nest-base.webp",
+      "sha256": "4a93312c6b810f9d517ece39b7941d925f77241bf7f383c3f71813fc14cc18a1",
+      "bytes": 37764,
+      "from": "2939 pages 7-8 — the dense base of the nest"
+    },
+    {
+      "name": "04-triangle-drawing.webp",
+      "sha256": "f831ceff46e0f455d60add5e2098d627834c7821ac84befd460a037014e0041b",
+      "bytes": 168208,
+      "from": "2939 pages 7-8 — the net of scalene triangles"
+    },
+    {
+      "name": "05-triangle-model.webp",
+      "sha256": "337a1370f8869441fdc26e1bec9812d55ce8946204db13c804d2d142949fc8d4",
+      "bytes": 40062,
+      "from": "2939 pages 7-8 — a hanging bowl of triangles"
+    },
+    {
+      "name": "06-cardboard-strips.webp",
+      "sha256": "75380f4d1c66b75ee8e421ce431c01331c2a919eab8fe4dc752ba19546f18d2f",
+      "bytes": 28268,
+      "from": "2939 pages 7-8 — rippling strips of card"
+    },
+    {
+      "name": "07-pvc-wings.webp",
+      "sha256": "e71d8cbef2b158fbfcfb88944439b117cea7aa5c7b6fd80e4500c5205cb33448",
+      "bytes": 32424,
+      "from": "2939 pages 7-8 — a fan of pvc fins"
+    },
+    {
+      "name": "08-cast-shadows.webp",
+      "sha256": "e62c499669303eb0dade20a34e5ea690a1f6cd6909a5f216921f99889ba727f6",
+      "bytes": 33380,
+      "from": "2939 pages 7-8 — shadows cast on a wall"
+    }
+  ]
+}
