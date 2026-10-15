@@ -1,0 +1,13 @@
+{
+  "project": "The Wings",
+  "dest": "assets/board/the-wings-wire-and-pvc-insect-wing-model",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-sketching-wings-by-hand.webp",
+      "sha256": "396b2abeafe2dfe6d9f14bab2f6b5c3bac68a9f36e167fb8c485dfbaab4ce781",
+      "bytes": 121236,
+      "from": "restored reference image (sketching wings by hand)"
+    }
+  ]
+}

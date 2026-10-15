@@ -1,0 +1,16 @@
+{
+  "project": "Wave of Triangles",
+  "dest": "assets/board/wave-of-triangles-paper-fold-and-wood-stick-model",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-old-city-street-photos.webp",
+      "sha256": "8d346d987e5765b03cdfbe65106c8e8fd0b2a28811626bbfa8a5624f10ca7ff5",
+      "bytes": 101688,
+      "from": "restored reference image (old city street photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/wave-of-triangles-paper-fold-and-wood-stick-model/04-paper-trio.webp"
+  ]
+}
