@@ -34,22 +34,10 @@
       "from": "724f pages 2-7 — the colour and structure test"
     },
     {
-      "name": "06-colour-model-side.webp",
-      "sha256": "1a2d9e5575458fc8040ca23d8d30ef23666ebcba11763d35e762952071f5730c",
-      "bytes": 136596,
-      "from": "724f pages 2-7 — orange planes within a blue frame"
-    },
-    {
       "name": "07-glue-model.webp",
       "sha256": "bbfbdf2b12b59d4f3245d13b9dac140737c1463053afa676cf65edc8841bea87",
       "bytes": 238032,
       "from": "724f pages 2-7 — the glue-gun web test"
-    },
-    {
-      "name": "08-glue-shadow.webp",
-      "sha256": "aad0b38dc05680b4bf26ceb19c86e2bdcdf4c654237b1b5df7cd31c6b90de1f5",
-      "bytes": 176574,
-      "from": "724f pages 2-7 — shadows of the glue web"
     },
     {
       "name": "09-combined-model.webp",
@@ -62,6 +50,18 @@
       "sha256": "fc857dbc0b8f64bd71ad52f2f7d2c56ec7e29d0d95353f84b7bd22b251db1cdc",
       "bytes": 63576,
       "from": "724f pages 2-7 — shadows of the spiral frame"
+    },
+    {
+      "name": "11-stationery-watercolour-sheet.webp",
+      "sha256": "7cd722119c183d89de6df71ed714227113c7d246c29ab92f96c9a39b2971601a",
+      "bytes": 167670,
+      "from": "restored reference image (stationery watercolour sheet)"
+    },
+    {
+      "name": "12-painting-the-model-by-hand.webp",
+      "sha256": "2ec0628f7a4ae2f26ac16fc10023f531906d9d9084358456e10ec982ff5be1ee",
+      "bytes": 122486,
+      "from": "restored reference image (painting the model by hand)"
     }
   ]
 }

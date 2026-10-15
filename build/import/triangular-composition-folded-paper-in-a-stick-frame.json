@@ -44,6 +44,12 @@
       "sha256": "3ce13c02c3362834fbdabfa64c4bd31359634e2efc3c834b1b1bf1c98b73e254",
       "bytes": 135684,
       "from": "724f pages 15-16 — folded paper within the frame"
+    },
+    {
+      "name": "08-source-photo.webp",
+      "sha256": "93b25d40a5ffb1e8c24fa239a35898caa04b3afc10cffb92eb8c5dd508005968",
+      "bytes": 57842,
+      "from": "restored reference image (source photo)"
     }
   ]
 }

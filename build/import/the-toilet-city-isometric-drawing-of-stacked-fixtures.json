@@ -32,6 +32,12 @@
       "sha256": "29ece68522942402d6e4aa9283f07f0800019b34d5971bc495548c70b0d65777",
       "bytes": 494822,
       "from": "724f pages 13-14 — pipes and towers in the city"
+    },
+    {
+      "name": "06-real-toilet-photo.webp",
+      "sha256": "aea35bd3c9528378e7ba6d6ca12e54f2468a434eabfe5b01c81ab4927a43c05a",
+      "bytes": 49880,
+      "from": "restored reference image (real toilet photo)"
     }
   ]
 }
