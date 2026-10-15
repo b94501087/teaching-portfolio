@@ -1,0 +1,31 @@
+{
+  "project": "Changeable Towers",
+  "dest": "assets/board/changeable-towers-foam-and-stick-skyscrapers",
+  "note": "w739a restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-skyscraper-history-collage.webp",
+      "sha256": "5a80d42009d33da4c70aa14c8be7d3f7460d50b17f19abcc2ded210b519fb724",
+      "bytes": 241408,
+      "from": "restored reference image (skyscraper history collage)"
+    },
+    {
+      "name": "08-natural-form-photos.webp",
+      "sha256": "ade80148fef90042e9f7c037302bc08faeeffa558e402ebb47435edc8c1bf410",
+      "bytes": 128614,
+      "from": "restored reference image (natural form photos)"
+    },
+    {
+      "name": "09-skyline-renders.webp",
+      "sha256": "b55a8daa25cfbd5410dd36b38430c8eea47a79b18df6b97d07f3e9a0f467c09b",
+      "bytes": 208042,
+      "from": "restored reference image (skyline renders)"
+    },
+    {
+      "name": "10-tall-tower-with-maker.webp",
+      "sha256": "025eecd217f01d715db4b0c43a9e3a7ff57a5a620640b1178c1d7c74e85d6bdb",
+      "bytes": 99482,
+      "from": "restored reference image (tall tower with maker)"
+    }
+  ]
+}

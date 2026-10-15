@@ -1,0 +1,34 @@
+{
+  "project": "Symbol of My Own",
+  "dest": "assets/board/symbol-of-my-own-brass-and-wax-candle",
+  "note": "w739a restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-people-and-symbol-sketches.webp",
+      "sha256": "8c7f460bef14144926616aa3845faf026d8d0787a1d6258a928160fa2bec087c",
+      "bytes": 174268,
+      "from": "restored reference image (people and symbol sketches)"
+    },
+    {
+      "name": "09-anime-inspiration.webp",
+      "sha256": "e08bf8ed3a5d57fff6a38e32b0a4c9d6d834f1b61be4ca2cdd7a9d0b47bb041c",
+      "bytes": 45630,
+      "from": "restored reference image (anime inspiration)"
+    },
+    {
+      "name": "10-making-by-hand.webp",
+      "sha256": "efa4379334fa32c087c3deead2d3e6ca58b2523a43cf1600ca48d2566c497e3a",
+      "bytes": 142930,
+      "from": "restored reference image (making by hand)"
+    },
+    {
+      "name": "11-growth-inspiration-collage.webp",
+      "sha256": "7d0ec0dff45afeeee35e8849231fad1f651d422dfc5cc28010bb25b885d4df38",
+      "bytes": 174828,
+      "from": "restored reference image (growth inspiration collage)"
+    }
+  ],
+  "delete": [
+    "assets/board/symbol-of-my-own-brass-and-wax-candle/07-brass-frame-in-melted-wax.webp"
+  ]
+}
