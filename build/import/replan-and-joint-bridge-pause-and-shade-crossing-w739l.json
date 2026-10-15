@@ -1,0 +1,36 @@
+{
+  "project": "Replan and Joint Bridge",
+  "dest": "assets/board/replan-and-joint-bridge-pause-and-shade-crossing",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-station-and-park-photos.webp",
+      "sha256": "ca3ae82e8a22d212d24f50ce1e860cda5673e3346e76c20ade410d8d60f06d2f",
+      "bytes": 88318,
+      "from": "restored reference image (station and park photos)"
+    },
+    {
+      "name": "11-location-research-and-observation.webp",
+      "sha256": "a70cd82deeda7803db263e0edafe5a9f8e33ab6a40b9528396c77a30b127180f",
+      "bytes": 199170,
+      "from": "restored reference image (location research and observation)"
+    },
+    {
+      "name": "12-mood-board.webp",
+      "sha256": "f65f46f29ecaff85ebacca618786a55684c0159255ed79e51ca2c1eb1ef41277",
+      "bytes": 126352,
+      "from": "restored reference image (mood board)"
+    },
+    {
+      "name": "13-annotated-model-diagram.webp",
+      "sha256": "b175613952d912659c6fc9ee656e9a30f67eaa2738dd6f12e5f677bafff73bd5",
+      "bytes": 100426,
+      "from": "restored reference image (annotated model diagram)"
+    }
+  ],
+  "delete": [
+    "assets/board/replan-and-joint-bridge-pause-and-shade-crossing/07-model-view-b.webp",
+    "assets/board/replan-and-joint-bridge-pause-and-shade-crossing/08-model-view-c.webp",
+    "assets/board/replan-and-joint-bridge-pause-and-shade-crossing/09-model-view-d.webp"
+  ]
+}
