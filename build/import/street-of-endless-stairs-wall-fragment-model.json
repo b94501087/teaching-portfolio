@@ -28,12 +28,6 @@
       "from": "74d1 pages 6-7 — a tower of stacked walls"
     },
     {
-      "name": "05-overlapping-walls-close.webp",
-      "sha256": "0056645c2fd2027f569a1d490b73f24bc9cada95bb278ca45c6b86c1a4d34c1d",
-      "bytes": 71058,
-      "from": "74d1 pages 6-7 — overlapping walls in close view"
-    },
-    {
       "name": "06-floating-wall-pieces.webp",
       "sha256": "f828b2dc978ec313c2efac0554689c57171b0cacd1f56b390e83cf73dc19eb5d",
       "bytes": 52510,
@@ -58,10 +52,16 @@
       "from": "74d1 pages 6-7 — stairs linking platforms"
     },
     {
-      "name": "10-winding-stair-close.webp",
-      "sha256": "7a43222999a22cce0050b58d085b413a0ad9c3a5ffd198be2393d2c24f847c8e",
-      "bytes": 40918,
-      "from": "74d1 pages 6-7 — a winding stair in close view"
+      "name": "11-villa-mairea-floor-plan.webp",
+      "sha256": "ad8d46cd6a36b5e04bedd9473f2582de83d7d8374984d68b4f339918359a7efe",
+      "bytes": 38350,
+      "from": "restored reference image (villa mairea floor plan)"
+    },
+    {
+      "name": "12-maker-with-the-model.webp",
+      "sha256": "d7145c4f3621b632a2c0373cd990b902387ff08d14b6c8ec1bc512635ef96b29",
+      "bytes": 214690,
+      "from": "restored reference image (maker with the model)"
     }
   ]
 }

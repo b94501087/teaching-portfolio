@@ -50,6 +50,12 @@
       "sha256": "f9b14cc5b4b5fa956d6065a7a2861cca6a642074e798b56941914176ea1f4672",
       "bytes": 12110,
       "from": "a9c4 page 6 — the digital model of a platform"
+    },
+    {
+      "name": "09-lebbeus-woods-artworks.webp",
+      "sha256": "1a5bf2be54c8c778137cf60b3eb8d32cecd577820e7ddd79b3ebe1b0edfe3bb6",
+      "bytes": 145218,
+      "from": "restored reference image (lebbeus woods artworks)"
     }
   ]
 }

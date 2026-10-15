@@ -28,18 +28,6 @@
       "from": "a9c4 pages 4-5 — a floating frame test"
     },
     {
-      "name": "05-folded-frame-test.webp",
-      "sha256": "59bc5b66b38047b23342e2c59a8237583acbb7419569a2a0559da17ae89118e1",
-      "bytes": 40274,
-      "from": "a9c4 pages 4-5 — a folded frame test"
-    },
-    {
-      "name": "06-bowl-frame-test.webp",
-      "sha256": "8b39a01630a74b587b8a7d77b53cab555b63c5013b01bc4b8d2dc59c41f95d14",
-      "bytes": 33168,
-      "from": "a9c4 pages 4-5 — a bowl-shaped frame test"
-    },
-    {
       "name": "07-lattice-canopy.webp",
       "sha256": "0fe394671404bc9300821199cef2e235c0d951353750fe14fa15ca155184b7bd",
       "bytes": 116568,
@@ -56,6 +44,24 @@
       "sha256": "d97d23a5ccecfcda01126d5efbdb6a311691a763845990a34d4572d0833befdc",
       "bytes": 60122,
       "from": "a9c4 pages 4-5 — the shadow of the lattice"
+    },
+    {
+      "name": "10-kelp-forest-photo.webp",
+      "sha256": "9fa995d80ac22fa5e22285b30b6552da2ce1830612b8a101c774b9727e2e51fb",
+      "bytes": 56030,
+      "from": "restored reference image (kelp forest photo)"
+    },
+    {
+      "name": "11-building-the-frame-by-hand.webp",
+      "sha256": "41c405df0af5a4699d9b726817961f3cb999c18c57bc12d7429b2d55efbadb83",
+      "bytes": 233112,
+      "from": "restored reference image (building the frame by hand)"
+    },
+    {
+      "name": "12-tying-sticks-by-hand.webp",
+      "sha256": "62a0b1f7bda7f0ace3b0cd5abd0ad14b7a88dba38ffc958bcb251137c183db3c",
+      "bytes": 166050,
+      "from": "restored reference image (tying sticks by hand)"
     }
   ]
 }
