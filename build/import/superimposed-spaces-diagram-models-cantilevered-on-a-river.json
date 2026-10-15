@@ -22,12 +22,6 @@
       "from": "e3bb pages 2-3 — study models from many directions"
     },
     {
-      "name": "04-composite-strip.webp",
-      "sha256": "a1c76cd946abd2f75e62e65f731778b801ac83b2320bd8542b691eba3f139934",
-      "bytes": 20450,
-      "from": "e3bb pages 2-3 — a row of superimposed models"
-    },
-    {
       "name": "05-drawdel.webp",
       "sha256": "e9d253ace142d3192e72e7dd23ef6c9321c086f856c1e4fd3e891f990e20469b",
       "bytes": 31246,
@@ -46,16 +40,28 @@
       "from": "e3bb pages 2-3 — drawings with varied line weights"
     },
     {
-      "name": "08-draft-models.webp",
-      "sha256": "6c39b58089e68acfeb3d4edb5f5acf90cedae772012c76da40d77085c8899474",
-      "bytes": 11000,
-      "from": "e3bb pages 2-3 — draft models against black"
-    },
-    {
       "name": "09-rendered-model.webp",
       "sha256": "e6379a74056ceba83863ec4844ef5eacb5218b303350c02c84e05f982836a9af",
       "bytes": 26710,
       "from": "e3bb pages 2-3 — a rendered model of the structure"
+    },
+    {
+      "name": "10-source-artwork-and-composite.webp",
+      "sha256": "d552cb7c8edab2b14789907b0e3b279cf5c4333095176762b091f8b5c6617017",
+      "bytes": 39474,
+      "from": "restored reference image (source artwork and composite)"
+    },
+    {
+      "name": "11-section-render-with-figure.webp",
+      "sha256": "b83e1363fa51524f081c2cc80a0bbc10382d68fb6b1c16592eea02db153c5b37",
+      "bytes": 9962,
+      "from": "restored reference image (section render with figure)"
+    },
+    {
+      "name": "12-rendered-views-with-figures.webp",
+      "sha256": "56a1fb3877b5b982354bac0f0f5e6679e9d8c0d238f17865c7ccf160bfe40a30",
+      "bytes": 35460,
+      "from": "restored reference image (rendered views with figures)"
     }
   ]
 }

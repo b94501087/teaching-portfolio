@@ -16,12 +16,6 @@
       "from": "e3bb page 5 — a layered sketch of facade features"
     },
     {
-      "name": "03-deconstruction-drawing.webp",
-      "sha256": "130bceb0c19989599291c99af34a2fbc1cdda9750ccd06079825ab0e409a737b",
-      "bytes": 27596,
-      "from": "e3bb page 5 — a deconstruction drawing"
-    },
-    {
       "name": "04-white-model-a.webp",
       "sha256": "280b09c74cf3e5b3a858b48f238f568a4bc0d759adf25606590e54bd81760b17",
       "bytes": 16032,
@@ -50,6 +44,18 @@
       "sha256": "e8a79fb953f7f53e361149ca7e15e290db4639c497f89616761430a07dd422b0",
       "bytes": 19584,
       "from": "e3bb page 5 — coloured stairs and frames"
+    },
+    {
+      "name": "09-location-photos-and-deconstruction-sketches.webp",
+      "sha256": "fa7fdcf7bc52e615efbd92c236a5a82e9742dceb6f2d069bc2ff4ac5c0912124",
+      "bytes": 67974,
+      "from": "restored reference image (location photos and deconstruction sketches)"
+    },
+    {
+      "name": "10-film-still-and-colour-palette.webp",
+      "sha256": "d8f9e5a65a53b6508576f4b01f8526da583d71c6c045a38bbf1a6a026f819a07",
+      "bytes": 9264,
+      "from": "restored reference image (film still and colour palette)"
     }
   ]
 }
