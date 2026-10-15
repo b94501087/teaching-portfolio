@@ -1,0 +1,13 @@
+{
+  "project": "Rhythmic Canvas Fusion",
+  "dest": "assets/board/rhythmic-canvas-fusion-dance-lines-in-frames-and-folds",
+  "note": "w739l2 re-add of 09-study-side (dropped unnecessarily; pin has room).",
+  "files": [
+    {
+      "name": "09-study-side.webp",
+      "sha256": "f13ce61517d733012c9bce5112f069e43b004c1b819e7966e393dd3810c8cbb6",
+      "bytes": 33936,
+      "from": "re-added original image (study side)"
+    }
+  ]
+}
