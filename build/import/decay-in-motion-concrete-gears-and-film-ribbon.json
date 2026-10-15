@@ -44,6 +44,12 @@
       "sha256": "aa1ac3cd5497faf5101834e8b0161e80db95a343654ca7e614280fab73db8b5b",
       "bytes": 63642,
       "from": "dee0 page 3 — a wire and film detail"
+    },
+    {
+      "name": "08-slow-shutter-street-photos.webp",
+      "sha256": "916474c5c4c7e4f4cbde69d3a81a09bc593fa788c09ac889a9852ac5323c661d",
+      "bytes": 134794,
+      "from": "restored reference image (slow shutter street photos)"
     }
   ]
 }

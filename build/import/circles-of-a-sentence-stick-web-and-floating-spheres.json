@@ -32,6 +32,24 @@
       "sha256": "5b894fb819004b7f1e1badce0212e2a254aa370cbffd08b2c01d878ed96d06c0",
       "bytes": 190120,
       "from": "dee0 pages 5-6 — the stick landscape in the dark"
+    },
+    {
+      "name": "06-film-poster.webp",
+      "sha256": "eed699d5a895aa3d5e3cdf5067c15fd43608be0765b7c474fcdf6e25643b2ded",
+      "bytes": 13824,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "07-film-still.webp",
+      "sha256": "fee92a57cb915a89ebf43bddacfa4e7c1f5e757f61e3b535ea50b9795ccd9aea",
+      "bytes": 5178,
+      "from": "restored reference image (film still)"
+    },
+    {
+      "name": "08-traced-logogram.webp",
+      "sha256": "aa0d477c787ec6b5801124ba5faf4114b1311e81c751e0843ffcf11c553a6691",
+      "bytes": 125702,
+      "from": "restored reference image (traced logogram)"
     }
   ]
 }

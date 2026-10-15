@@ -22,22 +22,10 @@
       "from": "dee0 pages 1-2 — a string and stair detail"
     },
     {
-      "name": "04-newspaper-floor-detail.webp",
-      "sha256": "220d9557e0bc32ea4a021f864529ef9f0018ec9ba3c596b04968c5de5655b149",
-      "bytes": 43530,
-      "from": "dee0 pages 1-2 — a newspaper floor detail"
-    },
-    {
       "name": "05-string-peak-field.webp",
       "sha256": "96aca1c9fd3e734d6e95d7363ea9db225b3066a3a8d9a806e6c105a582dcb482",
       "bytes": 112494,
       "from": "dee0 pages 1-2 — a field of string peaks"
-    },
-    {
-      "name": "06-string-peak-close.webp",
-      "sha256": "dc44af882bd7685fbfbbb81ae3be1ba41e21dd52f85817a8a522cac7f69efea8",
-      "bytes": 55492,
-      "from": "dee0 pages 1-2 — a string peak in close view"
     },
     {
       "name": "07-string-base-close.webp",
@@ -62,6 +50,18 @@
       "sha256": "e69770a960236b584fdaeaa3ed3d611922020d010f6b0243e2c542be97f13967",
       "bytes": 119372,
       "from": "dee0 pages 1-2 — the newspaper and foam model"
+    },
+    {
+      "name": "11-holding-the-string-model.webp",
+      "sha256": "5c6d8e4e19c59099b173506fcc8800a689d5682233ecb0cda1f1c1771566e3f9",
+      "bytes": 69078,
+      "from": "restored reference image (holding the string model)"
+    },
+    {
+      "name": "12-olympiad-puzzle-sheet.webp",
+      "sha256": "ec696516b609054e0e4c72d0c12fb2b61bcc2eced109dbc0518bce856d229fc4",
+      "bytes": 24568,
+      "from": "restored reference image (olympiad puzzle sheet)"
     }
   ]
 }

@@ -50,6 +50,12 @@
       "sha256": "439e37f5938b1ee3111144a8ea00c12bdb65eca808fe6d23162a484deb92535b",
       "bytes": 76608,
       "from": "222e pages 2-3 — the maze seen from below"
+    },
+    {
+      "name": "09-making-the-maze-by-hand.webp",
+      "sha256": "aab901f882d3ac7454a137a6eb5ce88c7258fbb236533cdb2f5d5e619fb33d83",
+      "bytes": 37478,
+      "from": "restored reference image (making the maze by hand)"
     }
   ]
 }
