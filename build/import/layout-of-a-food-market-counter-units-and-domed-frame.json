@@ -28,12 +28,6 @@
       "from": "1d99 pages 6-8 — a sketch of the hall interior"
     },
     {
-      "name": "05-frame-and-floor-model.webp",
-      "sha256": "71ee872be47d0552f89418709995585fdd6ae3bea16ae5d66c2d72a5b68c5847",
-      "bytes": 135156,
-      "from": "1d99 pages 6-8 — the frame and floor model"
-    },
-    {
       "name": "06-counter-arrangement-tests.webp",
       "sha256": "59925e7b39d48e1458c4ecfe84a97a65ae61a30eb2066af8a2267c9a53e52b84",
       "bytes": 268828,
@@ -46,10 +40,28 @@
       "from": "1d99 pages 6-8 — the market from above"
     },
     {
-      "name": "08-domed-roof-top-view.webp",
-      "sha256": "8e4ac84384d763d98b95f4297c87abf33b089b31a638bb7cca6c35896a5b969b",
-      "bytes": 126296,
-      "from": "1d99 pages 6-8 — the domed roof from above"
+      "name": "09-shopper-and-stall-collage.webp",
+      "sha256": "5aada73c9050447027719a6b3822bdd4a23ee0e3b5b3e901d2aa32b011284a7a",
+      "bytes": 149852,
+      "from": "restored reference image (shopper and stall collage)"
+    },
+    {
+      "name": "10-existing-hall-photos.webp",
+      "sha256": "720398647059bd4f062c820e69993f5770ce4f950dc0c087856e0e709cb195c2",
+      "bytes": 224646,
+      "from": "restored reference image (existing hall photos)"
+    },
+    {
+      "name": "11-street-and-shop-sign-sketches.webp",
+      "sha256": "498fa3efb7dc1ad786b47c33159adbd12ecab70a3c737f84a162d408b9a254dd",
+      "bytes": 219108,
+      "from": "restored reference image (street and shop sign sketches)"
+    },
+    {
+      "name": "12-market-scenes-with-figures.webp",
+      "sha256": "bb2431c213584c968ca3ca5cb2d060f641158e409fc10e2f52f2f6534ca444a1",
+      "bytes": 250484,
+      "from": "restored reference image (market scenes with figures)"
     }
   ]
 }

@@ -22,12 +22,6 @@
       "from": "1d99 pages 4-5 — a test of sticks and metal"
     },
     {
-      "name": "04-metal-shards-test.webp",
-      "sha256": "367b114603903c062993be52f9b2d1d15342215dbe493e030c9e90109eda1530",
-      "bytes": 60862,
-      "from": "1d99 pages 4-5 — a test with metal shards"
-    },
-    {
       "name": "05-wire-wrapped-branch.webp",
       "sha256": "043f65b427a4e213e8cab0245a7a733b0f921ecf7708b744c71f608b6160703c",
       "bytes": 81622,
@@ -46,22 +40,28 @@
       "from": "1d99 pages 4-5 — two stems as a final piece"
     },
     {
-      "name": "08-small-stem-final.webp",
-      "sha256": "3f1c3db1a19094724e658dd08fd1ea32d8d6fdabfa1d6c911be10a6f8c435418",
-      "bytes": 41190,
-      "from": "1d99 pages 4-5 — a small stem final piece"
-    },
-    {
       "name": "09-dense-crown-final.webp",
       "sha256": "064b3a51ba2096bcf58250d4090ee47cd575a93d32176dda50680c41bcdcceb0",
       "bytes": 85626,
       "from": "1d99 pages 4-5 — a dense crown in close view"
     },
     {
-      "name": "10-spread-branch-final.webp",
-      "sha256": "0829e3a5e27209e0debf1c76f38efe175166fcb4fa98ddd128137f72b7f72ad6",
-      "bytes": 77036,
-      "from": "1d99 pages 4-5 — a spreading branch final piece"
+      "name": "11-artist-research.webp",
+      "sha256": "00668d8531ac6483b82dbd88ad30e60bf30527ce8db9ca812e287dbd5a23018c",
+      "bytes": 212044,
+      "from": "restored reference image (artist research)"
+    },
+    {
+      "name": "12-nature-and-city-collage.webp",
+      "sha256": "837edbb48c5468a15919102dc169342f23a7d9de8aec338ee5cec3d6cb4b1cee",
+      "bytes": 65248,
+      "from": "restored reference image (nature and city collage)"
+    },
+    {
+      "name": "13-making-by-hand.webp",
+      "sha256": "1c00f9e10c8073edc1b9fc8cd818533abdaf4559269289bacb12b48bfd4dab2b",
+      "bytes": 245276,
+      "from": "restored reference image (making by hand)"
     }
   ]
 }
