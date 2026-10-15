@@ -1,0 +1,23 @@
+{
+  "project": "Hands Play",
+  "dest": "assets/board/hands-play-material-hands-to-palm-pavilion",
+  "note": "w739k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-hand-posture-photos.webp",
+      "sha256": "a3c29454b2d6bf7c75a3801ab2eaaaaac086f7cb4f466eabaaecbe50a4329b70",
+      "bytes": 46046,
+      "from": "restored reference image (hand posture photos)"
+    },
+    {
+      "name": "12-clenched-fist-photo.webp",
+      "sha256": "70990948b0a629bb2abd8cf317743f0d84fcc8464296daaa9cca959db3c5abe2",
+      "bytes": 23166,
+      "from": "restored reference image (clenched fist photo)"
+    }
+  ],
+  "delete": [
+    "assets/board/hands-play-material-hands-to-palm-pavilion/08-clay-shelter-b.webp",
+    "assets/board/hands-play-material-hands-to-palm-pavilion/09-clay-shelter-c.webp"
+  ]
+}
