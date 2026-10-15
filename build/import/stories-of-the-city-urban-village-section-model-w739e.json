@@ -1,0 +1,31 @@
+{
+  "project": "Stories of the City",
+  "dest": "assets/board/stories-of-the-city-urban-village-section-model",
+  "note": "w739e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-reference-section-drawing.webp",
+      "sha256": "7d93ae60a3c6fb49c82bf26c97b698bb632d325733db05f3ff76d40eb8c7b2e8",
+      "bytes": 15644,
+      "from": "restored reference image (reference section drawing)"
+    },
+    {
+      "name": "07-reference-building-sketch.webp",
+      "sha256": "25c3b54abb245837605a6f685873879405d0f76f56dbcea52f273bdbcae026d5",
+      "bytes": 19262,
+      "from": "restored reference image (reference building sketch)"
+    },
+    {
+      "name": "08-urban-village-street-photos.webp",
+      "sha256": "6d25867c6f136b54ae993adf443064fb63f8d3d234dd38d6a3cfb405345fa50c",
+      "bytes": 88500,
+      "from": "restored reference image (urban village street photos)"
+    },
+    {
+      "name": "09-night-street-photo.webp",
+      "sha256": "7c938942cd52139789e3e8676679b01e023e035aba1964ffb3136364b9453598",
+      "bytes": 13510,
+      "from": "restored reference image (night street photo)"
+    }
+  ]
+}
