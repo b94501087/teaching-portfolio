@@ -1,0 +1,13 @@
+{
+  "project": "A Home Measured in Basswood",
+  "dest": "assets/board/a-home-measured-in-basswood-three-floor-model",
+  "note": "w738z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-refining-the-model-by-hand.webp",
+      "sha256": "a4f6dfbe7f639f464f424fe600c5a071d2b319620ef8c46a166424326da090f8",
+      "bytes": 87832,
+      "from": "restored reference image (refining the model by hand)"
+    }
+  ]
+}
