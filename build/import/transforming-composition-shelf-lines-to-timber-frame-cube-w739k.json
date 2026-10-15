@@ -1,0 +1,13 @@
+{
+  "project": "Transforming Composition",
+  "dest": "assets/board/transforming-composition-shelf-lines-to-timber-frame-cube",
+  "note": "w739k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-observed-objects-and-analyses.webp",
+      "sha256": "c46834534effefa0cabbafa5d3fc7b753eaf24dd2a78d6bb71cf6e8ccb731230",
+      "bytes": 182804,
+      "from": "restored reference image (observed objects and analyses)"
+    }
+  ]
+}
