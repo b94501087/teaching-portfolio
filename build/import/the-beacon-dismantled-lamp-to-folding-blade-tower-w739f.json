@@ -1,0 +1,23 @@
+{
+  "project": "The Beacon",
+  "dest": "assets/board/the-beacon-dismantled-lamp-to-folding-blade-tower",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-lamp-history-timeline.webp",
+      "sha256": "370e3598c1992ac5d66a8f96e04dd0edfa0066b839559f1f916377211e082561",
+      "bytes": 62852,
+      "from": "restored reference image (lamp history timeline)"
+    },
+    {
+      "name": "12-dismantling-the-lamp.webp",
+      "sha256": "c13e71a56b5f9bccd28f0e4c2da56788ee52e02df08c343915ef5eaeca8cf12b",
+      "bytes": 48788,
+      "from": "restored reference image (dismantling the lamp)"
+    }
+  ],
+  "delete": [
+    "assets/board/the-beacon-dismantled-lamp-to-folding-blade-tower/05-crane-scene-arm.webp",
+    "assets/board/the-beacon-dismantled-lamp-to-folding-blade-tower/06-crane-scene-base.webp"
+  ]
+}
