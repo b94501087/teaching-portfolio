@@ -1,0 +1,49 @@
+{
+  "project": "En Garde, Prêt, Allez",
+  "dest": "assets/board/en-garde-pret-allez-fencing-balance-triangle-models",
+  "note": "Portfolio 5369 pages 2-3 cropped to 7 images, WebP (PIL). Not used: p1 cover with name and contact details.",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "99e7ee25da31230cd58360e591509e316aeb198fa4a84973223d2dcb3ab2423e",
+      "bytes": 195442,
+      "from": "5369 pages 2-3 — the final model of rising triangles"
+    },
+    {
+      "name": "02-fencing-photos-and-triangles.webp",
+      "sha256": "b3836f86b2d6ecd3fba5674c974b7b3456bfb7c5a10cbdd70c005622978f76e8",
+      "bytes": 86130,
+      "from": "5369 pages 2-3 — fencing postures and the triangles of balance traced from them"
+    },
+    {
+      "name": "03-continuous-triangle-drawing.webp",
+      "sha256": "33925d31d369a819c62392089454389b8d043720a6a7760f0c1f7dd801f08df9",
+      "bytes": 242562,
+      "from": "5369 pages 2-3 — the continuous chain of triangles drawn as one form"
+    },
+    {
+      "name": "04-separate-moments-studies.webp",
+      "sha256": "ade94db91669dd1a8af44dba7b0f93318ccbd09f71ff848e5c7813e91d995e51",
+      "bytes": 133502,
+      "from": "5369 pages 2-3 — sketches and studies isolating the moments of balance"
+    },
+    {
+      "name": "05-second-model.webp",
+      "sha256": "a437f331025b154b4eef04d000d38a76cf8993664b195aff3fdfeb8eb298fbe4",
+      "bytes": 172124,
+      "from": "5369 pages 2-3 — the second model of separate moments joined by lines"
+    },
+    {
+      "name": "06-painting-another-perspective.webp",
+      "sha256": "c5894a000044cd80fd8f1a2581fe2ef0238713a7887d0550e51204ea690bf259",
+      "bytes": 142212,
+      "from": "5369 pages 2-3 — a painting of the form from another perspective"
+    },
+    {
+      "name": "07-painting-zooming-in.webp",
+      "sha256": "9e7d1bcaa16ea00a9a5cdc8bf199d179cd22ee3934b9a8c5683b68598364345f",
+      "bytes": 237892,
+      "from": "5369 pages 2-3 — a painting zooming into the structure"
+    }
+  ]
+}
