@@ -1,0 +1,31 @@
+{
+  "project": "The Pulse of Nature",
+  "dest": "assets/board/the-pulse-of-nature-clay-coral-and-branch-sculpture",
+  "note": "Portfolio 5369 pages 6-7 cropped to 4 images, WebP (PIL).",
+  "files": [
+    {
+      "name": "01-sculpture.webp",
+      "sha256": "123bb53b3240c99885ea51e4608f9360a7a349353745c7f524df125960ea7ae4",
+      "bytes": 195370,
+      "from": "5369 pages 6-7 — the finished sculpture in colour"
+    },
+    {
+      "name": "02-white-views.webp",
+      "sha256": "a3df391bb6b01a79c6d79ac048ca57a17b92b5ea2d449fde17d259299770a2ac",
+      "bytes": 185630,
+      "from": "5369 pages 6-7 — the sculpture in white from two sides"
+    },
+    {
+      "name": "03-partial-detail-drawing-a.webp",
+      "sha256": "0906fd2be0b1338babb0c593801454d68e3607a593fcbcb205c98232406371cb",
+      "bytes": 261898,
+      "from": "5369 pages 6-7 — a pen drawing of a partial detail"
+    },
+    {
+      "name": "04-partial-detail-drawing-b.webp",
+      "sha256": "6dd5b98f1f19a99b7e8a1031fcabfbd2448bc26b7b061e24e34a661f73aad332",
+      "bytes": 238404,
+      "from": "5369 pages 6-7 — a second pen drawing of a partial detail"
+    }
+  ]
+}
