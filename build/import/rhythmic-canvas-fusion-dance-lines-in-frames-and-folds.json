@@ -52,10 +52,16 @@
       "from": "711d pages 7-8 — an early field model"
     },
     {
+      "name": "10-dance-photos-and-figure-sketches.webp",
+      "sha256": "2cf835755f5fe1325a9dacdf7c96d0ff6db10d0a16c66e851fdde03db68523c2",
+      "bytes": 57282,
+      "from": "restored reference image (dance photos and figure sketches)"
+    },
+    {
       "name": "09-study-side.webp",
       "sha256": "f13ce61517d733012c9bce5112f069e43b004c1b819e7966e393dd3810c8cbb6",
       "bytes": 33936,
-      "from": "711d pages 7-8 — folds and frames in close view"
+      "from": "re-added original image (study side)"
     }
   ]
 }
