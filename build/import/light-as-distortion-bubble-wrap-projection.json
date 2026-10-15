@@ -38,6 +38,18 @@
       "sha256": "c39eead96ea9317787166caa8a596d35a704b1db17d7a88a08d75824b54b3a27",
       "bytes": 96044,
       "from": "a289 page 3 — section sketches of the projection"
+    },
+    {
+      "name": "08-colonnade-photo.webp",
+      "sha256": "6a13136d03edc76f77771bb7d1bb452f30adc8009d64048f8cbad799f9ab3299",
+      "bytes": 15804,
+      "from": "restored reference image (colonnade photo)"
+    },
+    {
+      "name": "09-hand-held-light-tests.webp",
+      "sha256": "513420acb496fbcebd2c0313402bf4a3b7b57f825367aa6b8b31de6df86533b1",
+      "bytes": 55558,
+      "from": "restored reference image (hand held light tests)"
     }
   ]
 }
