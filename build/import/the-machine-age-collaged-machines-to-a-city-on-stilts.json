@@ -34,18 +34,6 @@
       "from": "2939 pages 13-15 — the first city plan in progress"
     },
     {
-      "name": "06-plan-low-view.webp",
-      "sha256": "a8385011cb31fcf27ab22176276c516d3df1d7f828dcd126c5452fa4a52245a2",
-      "bytes": 53500,
-      "from": "2939 pages 13-15 — a low view across the platforms"
-    },
-    {
-      "name": "07-stilts.webp",
-      "sha256": "32a2d571ac1714d8b486557eb9912557f7f57422eaa5e9a0881e5a6b47448c5d",
-      "bytes": 72522,
-      "from": "2939 pages 13-15 — stilts beneath the surfaces"
-    },
-    {
       "name": "08-plan-overview.webp",
       "sha256": "b7908585b7eb3d50b41844f41530428d16a8e83811b42f586cfc11873c1768f2",
       "bytes": 84986,
@@ -58,10 +46,22 @@
       "from": "2939 pages 13-15 — the deconstructed model from above"
     },
     {
-      "name": "10-vertical-detail.webp",
-      "sha256": "183b13b0e979623dde0a87f94de7da7ec21ff9095f91546a775397fb64143733",
-      "bytes": 141936,
-      "from": "2939 pages 13-15 — vertical layers of the rebuilt city"
+      "name": "11-howls-moving-castle-film-stills.webp",
+      "sha256": "fecf41514ec3d2c98a5b8fa6579f1df9f7322b9247d23d44e5290232c75d274e",
+      "bytes": 254880,
+      "from": "restored reference image (howls moving castle film stills)"
+    },
+    {
+      "name": "12-patent-drawing-studies.webp",
+      "sha256": "1afca55eb0bf470a35871772818c66aae57f8a042dd034c199814c0b9de189b5",
+      "bytes": 248024,
+      "from": "restored reference image (patent drawing studies)"
+    },
+    {
+      "name": "13-moving-castle-drawing.webp",
+      "sha256": "39cf495c31e0967ca0f499c6b320b04f6e438e03e3fe7e006da8cb01b4a31d79",
+      "bytes": 264462,
+      "from": "restored reference image (moving castle drawing)"
     }
   ]
 }

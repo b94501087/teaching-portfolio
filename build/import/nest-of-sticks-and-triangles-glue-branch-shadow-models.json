@@ -28,12 +28,6 @@
       "from": "2939 pages 7-8 — the net of scalene triangles"
     },
     {
-      "name": "05-triangle-model.webp",
-      "sha256": "337a1370f8869441fdc26e1bec9812d55ce8946204db13c804d2d142949fc8d4",
-      "bytes": 40062,
-      "from": "2939 pages 7-8 — a hanging bowl of triangles"
-    },
-    {
       "name": "06-cardboard-strips.webp",
       "sha256": "75380f4d1c66b75ee8e421ce431c01331c2a919eab8fe4dc752ba19546f18d2f",
       "bytes": 28268,
@@ -50,6 +44,24 @@
       "sha256": "e62c499669303eb0dade20a34e5ea690a1f6cd6909a5f216921f99889ba727f6",
       "bytes": 33380,
       "from": "2939 pages 7-8 — shadows cast on a wall"
+    },
+    {
+      "name": "05-triangle-model.webp",
+      "sha256": "781bf3526fb037062f289d2b5f2ee7382da3133f3b84293bd7f999bdd50092d1",
+      "bytes": 54046,
+      "from": "restored reference image (triangle model)"
+    },
+    {
+      "name": "09-sunnyhills-store-precedent.webp",
+      "sha256": "be46bb8ac35ea428336ff716867508d5c0e394f86d28a42ef8fc850d424f7e4e",
+      "bytes": 198756,
+      "from": "restored reference image (sunnyhills store precedent)"
+    },
+    {
+      "name": "10-design-sight-precedent.webp",
+      "sha256": "311548820f1056bbbdd1965a675891b2b92eca04295ebd4ceac4adeb227d2036",
+      "bytes": 90024,
+      "from": "restored reference image (design sight precedent)"
     }
   ]
 }

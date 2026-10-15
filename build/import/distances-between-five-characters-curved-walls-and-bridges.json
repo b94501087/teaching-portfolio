@@ -52,10 +52,16 @@
       "from": "2939 pages 17-19 — a clear tower beside the walls"
     },
     {
-      "name": "09-steps-and-frames.webp",
-      "sha256": "87c991f9695e9d702c5c5ec0329635b00528ec4757153d62199f2c50e7f540d2",
-      "bytes": 97304,
-      "from": "2939 pages 17-19 — stepping blocks and clear frames"
+      "name": "10-music-video-stills.webp",
+      "sha256": "7d612ab72adb01a62b6cfe0b445ac8fdc45ec1be55f394ea960a163252ee38a6",
+      "bytes": 195744,
+      "from": "restored reference image (music video stills)"
+    },
+    {
+      "name": "11-dancer-photo-collages.webp",
+      "sha256": "8318e34ea27255770536959325067a122d8799eb33b4faed59986012ea10ccd7",
+      "bytes": 156098,
+      "from": "restored reference image (dancer photo collages)"
     }
   ]
 }
