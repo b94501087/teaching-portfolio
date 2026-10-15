@@ -1,106 +1,317 @@
 {
-  "chimera-haven": "architecture",
-  "sz-hk-border": "urban",
-  "larks-song": "architecture",
-  "curtain-call-reverie": "stage",
-  "italian-rice-restaurant": "architecture",
+  "chimera-haven": [
+    "architecture",
+    "urban"
+  ],
+  "sz-hk-border": [
+    "urban",
+    "landscape"
+  ],
+  "larks-song": [
+    "architecture",
+    "urban"
+  ],
+  "curtain-call-reverie": [
+    "stage",
+    "interior"
+  ],
+  "italian-rice-restaurant": [
+    "architecture",
+    "interior"
+  ],
   "marine-ecological-experience-space": [
     "landscape",
     "architecture"
   ],
-  "building-field-on-tempelhof": "architecture",
-  "identity-sculpting-for-kharkiv": "architecture",
-  "tiny-forest": "architecture",
-  "motion-generation-at-airports": "architecture",
-  "marine-alchemy": "landscape",
-  "creativity-centre": "architecture",
-  "right-here-write-here": "interior",
-  "fragmented-interpretation": "architecture",
-  "pig-farm": "landscape",
-  "a-body-without-rights": "interior",
+  "building-field-on-tempelhof": [
+    "architecture",
+    "urban"
+  ],
+  "identity-sculpting-for-kharkiv": [
+    "architecture",
+    "urban"
+  ],
+  "tiny-forest": [
+    "architecture",
+    "landscape"
+  ],
+  "motion-generation-at-airports": [
+    "architecture",
+    "interior"
+  ],
+  "marine-alchemy": [
+    "landscape",
+    "architecture"
+  ],
+  "creativity-centre": [
+    "architecture",
+    "urban"
+  ],
+  "right-here-write-here": [
+    "interior",
+    "architecture"
+  ],
+  "fragmented-interpretation": [
+    "architecture",
+    "urban",
+    "stage"
+  ],
+  "pig-farm": [
+    "landscape",
+    "urban"
+  ],
+  "a-body-without-rights": [
+    "interior",
+    "architecture"
+  ],
   "eco-friendly-brand": [
     "interior",
     "architecture"
   ],
-  "art-museum-house": "architecture",
+  "art-museum-house": [
+    "architecture",
+    "interior"
+  ],
   "silent-habitation": [
     "architecture",
     "landscape"
   ],
-  "celebration-of-vertical": "architecture",
-  "bridges-of-humanity": "architecture",
-  "re-imagine-metabolism": "architecture",
-  "mangrove-wetland-sandbeach": "landscape",
-  "draw-healing-power-from-plants": "landscape",
-  "save-white-dolphin": "landscape",
-  "pleat": "landscape",
-  "childrens-healing-garden": "landscape",
-  "living-with-otters": "landscape",
+  "celebration-of-vertical": [
+    "architecture",
+    "interior"
+  ],
+  "bridges-of-humanity": [
+    "architecture",
+    "urban"
+  ],
+  "re-imagine-metabolism": [
+    "architecture",
+    "interior"
+  ],
+  "mangrove-wetland-sandbeach": [
+    "landscape",
+    "urban"
+  ],
+  "draw-healing-power-from-plants": [
+    "landscape",
+    "architecture"
+  ],
+  "save-white-dolphin": [
+    "landscape",
+    "architecture"
+  ],
+  "pleat": [
+    "landscape",
+    "architecture"
+  ],
+  "childrens-healing-garden": [
+    "landscape",
+    "architecture"
+  ],
+  "living-with-otters": [
+    "landscape",
+    "urban"
+  ],
   "floating-forest": [
     "landscape",
     "urban"
   ],
-  "doomsday-garden": "landscape",
-  "resilient-urban-design-of-nansha": "urban",
-  "retrieving-folklore": "urban",
-  "hongkong-female-in-london": "urban",
-  "uru-fairy-land": "urban",
-  "under-the-midnight-sun": "stage",
-  "home-and-life": "architecture",
-  "urban-cat-island": "architecture",
-  "rebirth-of-cloth-fabric": "architecture",
-  "birkenhead-music-college": "architecture",
-  "emerged-to-the-surface": "architecture",
+  "doomsday-garden": [
+    "landscape",
+    "architecture"
+  ],
+  "resilient-urban-design-of-nansha": [
+    "urban",
+    "landscape"
+  ],
+  "retrieving-folklore": [
+    "urban",
+    "architecture"
+  ],
+  "hongkong-female-in-london": [
+    "urban",
+    "architecture"
+  ],
+  "uru-fairy-land": [
+    "urban",
+    "architecture"
+  ],
+  "under-the-midnight-sun": [
+    "stage",
+    "architecture"
+  ],
+  "home-and-life": [
+    "architecture",
+    "interior"
+  ],
+  "urban-cat-island": [
+    "architecture",
+    "urban"
+  ],
+  "rebirth-of-cloth-fabric": [
+    "architecture",
+    "interior"
+  ],
+  "birkenhead-music-college": [
+    "architecture",
+    "urban"
+  ],
+  "emerged-to-the-surface": [
+    "architecture",
+    "interior"
+  ],
   "seawater-thermal-pollution": [
     "landscape",
     "urban"
   ],
-  "new-life-in-open-pit-mines": "urban",
+  "new-life-in-open-pit-mines": [
+    "urban",
+    "landscape"
+  ],
   "story-behind-oppenheimer": [
     "landscape",
     "urban"
   ],
-  "moving-golf-castle": "landscape",
-  "dead-sea": "landscape",
-  "norway-sami-landscape": "landscape",
-  "xinzao-ferry-terminal-park": "landscape",
-  "shaoxing-modern-chinese-garden": "landscape",
-  "earthen-elegance": "architecture",
-  "spine-museum": "urban",
-  "data-transmission": "urban",
-  "whale-harmony": "landscape",
-  "gangtou-rural-greenspace": "landscape",
-  "whiskey-energy-farm": "architecture",
-  "fast-fashion-tower": "architecture",
-  "city-lighthouse": "architecture",
+  "moving-golf-castle": [
+    "landscape",
+    "architecture"
+  ],
+  "dead-sea": [
+    "landscape",
+    "architecture"
+  ],
+  "norway-sami-landscape": [
+    "landscape",
+    "urban"
+  ],
+  "xinzao-ferry-terminal-park": [
+    "landscape",
+    "urban"
+  ],
+  "shaoxing-modern-chinese-garden": [
+    "landscape",
+    "urban"
+  ],
+  "earthen-elegance": [
+    "architecture",
+    "urban"
+  ],
+  "spine-museum": [
+    "urban",
+    "architecture"
+  ],
+  "data-transmission": [
+    "urban",
+    "architecture"
+  ],
+  "whale-harmony": [
+    "landscape",
+    "architecture"
+  ],
+  "gangtou-rural-greenspace": [
+    "landscape",
+    "urban"
+  ],
+  "whiskey-energy-farm": [
+    "architecture",
+    "landscape"
+  ],
+  "fast-fashion-tower": [
+    "architecture",
+    "urban"
+  ],
+  "city-lighthouse": [
+    "architecture",
+    "urban"
+  ],
   "post-war-rehabilitation-centre": [
     "landscape",
     "architecture"
   ],
-  "kibera-slum-design": "architecture",
-  "liuyun-residential-renovation": "architecture",
-  "unfathomable-desire": "architecture",
-  "koala-rehabilitation": "architecture",
-  "threshold-of-tianhe-coach-station": "architecture",
-  "the-phoenix-harbor": "urban",
-  "yongqing-district-building-renewal": "architecture",
-  "missile-toilet": "architecture",
-  "colosseum-deconstruction": "architecture",
-  "escape-from-the-city": "architecture",
-  "folding-avon-river": "architecture",
-  "metropolis-unfinished-building": "architecture",
-  "grapes-and-wine": "architecture",
-  "plan-of-building-resurrection": "architecture",
-  "new-sky-urban-village": "urban",
-  "hakka-bnb-return-to-homeland": "architecture",
-  "sustainable-housing-on-mars": "architecture",
-  "healing-post-war-trauma": "architecture",
+  "kibera-slum-design": [
+    "architecture",
+    "urban"
+  ],
+  "liuyun-residential-renovation": [
+    "architecture",
+    "urban"
+  ],
+  "unfathomable-desire": [
+    "architecture",
+    "interior"
+  ],
+  "koala-rehabilitation": [
+    "architecture",
+    "landscape"
+  ],
+  "threshold-of-tianhe-coach-station": [
+    "architecture",
+    "urban"
+  ],
+  "the-phoenix-harbor": [
+    "urban",
+    "landscape"
+  ],
+  "yongqing-district-building-renewal": [
+    "architecture",
+    "interior"
+  ],
+  "missile-toilet": [
+    "architecture",
+    "interior"
+  ],
+  "colosseum-deconstruction": [
+    "architecture",
+    "urban"
+  ],
+  "escape-from-the-city": [
+    "architecture",
+    "urban"
+  ],
+  "folding-avon-river": [
+    "architecture",
+    "landscape"
+  ],
+  "metropolis-unfinished-building": [
+    "architecture",
+    "interior"
+  ],
+  "grapes-and-wine": [
+    "architecture",
+    "landscape"
+  ],
+  "plan-of-building-resurrection": [
+    "architecture",
+    "interior"
+  ],
+  "new-sky-urban-village": [
+    "urban",
+    "architecture"
+  ],
+  "hakka-bnb-return-to-homeland": [
+    "architecture",
+    "landscape"
+  ],
+  "sustainable-housing-on-mars": [
+    "architecture",
+    "urban"
+  ],
+  "healing-post-war-trauma": [
+    "architecture",
+    "landscape"
+  ],
   "noise-cancelling-spaces": [
     "interior",
     "urban"
   ],
-  "yau-ma-tei-theatre-revitalisation": "architecture",
-  "soul-ferry-terminal": "architecture",
+  "yau-ma-tei-theatre-revitalisation": [
+    "architecture",
+    "urban"
+  ],
+  "soul-ferry-terminal": [
+    "architecture",
+    "landscape"
+  ],
   "sky-garden-community-renewal": [
     "urban",
     "architecture"
@@ -109,36 +320,102 @@
     "urban",
     "architecture"
   ],
-  "urban-space-debris-farm": "urban",
-  "inner-peace-kulangsu": "landscape",
+  "urban-space-debris-farm": [
+    "urban",
+    "landscape"
+  ],
+  "inner-peace-kulangsu": [
+    "landscape",
+    "urban"
+  ],
   "city-respite-straw-canopy": [
     "interior",
     "urban"
   ],
-  "birth-of-ginger-milk-curd": "architecture",
-  "stair-to-the-roof-dormitory": "architecture",
-  "carnival-for-the-terminally-ill-elderly": "architecture",
-  "reborn-embryonic-space": "interior",
-  "memory-of-the-tower": "architecture",
-  "rabbit-hole-healing-underland": "architecture",
+  "birth-of-ginger-milk-curd": [
+    "architecture",
+    "interior"
+  ],
+  "stair-to-the-roof-dormitory": [
+    "architecture",
+    "interior"
+  ],
+  "carnival-for-the-terminally-ill-elderly": [
+    "architecture",
+    "interior"
+  ],
+  "reborn-embryonic-space": [
+    "interior",
+    "architecture"
+  ],
+  "memory-of-the-tower": [
+    "architecture",
+    "stage"
+  ],
+  "rabbit-hole-healing-underland": [
+    "architecture",
+    "interior"
+  ],
   "building-surround-urban-park": [
     "landscape",
     "urban"
   ],
-  "school-bully-black-sheep-effect": "interior",
-  "urban-roaming-station-spa": "interior",
-  "cashmere-flash-store": "interior",
-  "middle-income-trap-mall": "interior",
-  "macao-fisheries-museum": "architecture",
-  "neurotic-experience-center": "interior",
-  "home-for-left-behind-children-shangri-la": "architecture",
-  "co-living-community-personalities": "architecture",
-  "sky-loop-office-ring": "architecture",
-  "co-living-tower-self-ego-superego": "architecture",
-  "yuxiu-ancient-village-rice-tavern": "urban",
-  "oil-tank-eco-park": "landscape",
-  "conflict-to-harmony-elephant-corridor": "landscape",
-  "power-of-plants-tree-tower": "landscape",
+  "school-bully-black-sheep-effect": [
+    "interior",
+    "architecture"
+  ],
+  "urban-roaming-station-spa": [
+    "interior",
+    "architecture"
+  ],
+  "cashmere-flash-store": [
+    "interior",
+    "architecture"
+  ],
+  "middle-income-trap-mall": [
+    "interior",
+    "architecture"
+  ],
+  "macao-fisheries-museum": [
+    "architecture",
+    "interior"
+  ],
+  "neurotic-experience-center": [
+    "interior",
+    "architecture"
+  ],
+  "home-for-left-behind-children-shangri-la": [
+    "architecture",
+    "interior"
+  ],
+  "co-living-community-personalities": [
+    "architecture",
+    "urban"
+  ],
+  "sky-loop-office-ring": [
+    "architecture",
+    "urban"
+  ],
+  "co-living-tower-self-ego-superego": [
+    "architecture",
+    "urban"
+  ],
+  "yuxiu-ancient-village-rice-tavern": [
+    "urban",
+    "landscape"
+  ],
+  "oil-tank-eco-park": [
+    "landscape",
+    "urban"
+  ],
+  "conflict-to-harmony-elephant-corridor": [
+    "landscape",
+    "urban"
+  ],
+  "power-of-plants-tree-tower": [
+    "landscape",
+    "architecture"
+  ],
   "new-fishery-town-oyster-shell": [
     "urban",
     "architecture"
@@ -147,103 +424,612 @@
     "urban",
     "architecture"
   ],
-  "anchor-point-community": "urban",
-  "low-carbon-urban-new-area": "urban",
-  "phuket-turtle-rescue-operation": "architecture",
-  "riverside-urban-renewal": "urban",
-  "folding-nanshan": "urban",
-  "arcades-project-21st-century": "urban",
-  "experience-in-pingshan": "landscape",
-  "campus-boundary": "architecture",
-  "new-system-of-market": "urban",
-  "street-reset-participatory-design": "urban",
+  "anchor-point-community": [
+    "urban",
+    "landscape"
+  ],
+  "low-carbon-urban-new-area": [
+    "urban",
+    "landscape"
+  ],
+  "phuket-turtle-rescue-operation": [
+    "architecture",
+    "landscape"
+  ],
+  "riverside-urban-renewal": [
+    "urban",
+    "landscape"
+  ],
+  "folding-nanshan": [
+    "urban",
+    "architecture"
+  ],
+  "arcades-project-21st-century": [
+    "urban",
+    "interior"
+  ],
+  "experience-in-pingshan": [
+    "landscape",
+    "urban"
+  ],
+  "campus-boundary": [
+    "architecture",
+    "urban"
+  ],
+  "new-system-of-market": [
+    "urban",
+    "architecture"
+  ],
+  "street-reset-participatory-design": [
+    "urban",
+    "landscape"
+  ],
   "stitching-river-side": [
     "urban",
     "landscape"
   ],
-  "zhuhai-2050-30-minute-city": "urban",
-  "parrot-shelter": "interior",
-  "ego-in-scent": "interior",
+  "zhuhai-2050-30-minute-city": [
+    "urban",
+    "landscape"
+  ],
+  "parrot-shelter": [
+    "interior",
+    "architecture"
+  ],
+  "ego-in-scent": [
+    "interior",
+    "architecture"
+  ],
   "activation-of-a-boiler-house": [
     "architecture",
     "interior"
   ],
-  "art-academy-living-quarters-lighting": "interior",
-  "multiple-realities-waste-material-installation": "interior",
+  "art-academy-living-quarters-lighting": [
+    "interior",
+    "urban"
+  ],
+  "multiple-realities-waste-material-installation": [
+    "interior",
+    "architecture"
+  ],
   "consumption-binge-vertical-carnival": [
     "urban",
     "architecture"
   ],
-  "home-in-the-tongsui-store": "architecture",
-  "birth-of-a-bowl-of-xian-pasta": "interior",
-  "accidental-death-mourning-hall": "interior",
-  "campus-corner-space-renovation": "architecture",
-  "mine-air-purifier": "architecture",
-  "space-generated-by-the-body": "interior",
-  "romain-vacation-home": "architecture",
-  "club-hub-brick-building-renovation": "architecture",
-  "sunward-orphanage": "architecture",
-  "assimilate-plan-refugee-housing": "architecture",
-  "jiegui-street-reconstruction": "urban",
-  "delirious-skyscraper": "architecture",
-  "taipei-x-site-ocean-installation": "interior",
-  "second-nature-2060-shenzhen": "architecture",
-  "an-experiment-in-empathy": "interior",
-  "a-midsummer-nights-dream-stage": "stage",
-  "new-toys-for-kids-bottle-blocks": "interior",
-  "dafen-rooftop-art-workshops": "urban",
-  "modular-housing-sky-corridors": "architecture",
-  "free-jazz-fabric-pavilion": "architecture",
-  "changeable-public-space-guangzhou": "urban",
-  "behind-the-wall-riverside-park": "landscape",
-  "beauty-and-beast-outdoor-teaching-park": "landscape",
-  "festival-village-ancient-village-reconstruction": "urban",
-  "child-living-in-the-rivers-narrative-landscape": "landscape",
-  "new-corridor-urban-village-promenade": "urban",
-  "danan-eco-park": "landscape",
-  "community-rescue-program-zhangzhou": "urban",
-  "tank-hsinchu-recreation-park": "landscape",
-  "new-community-activity-center": "architecture",
-  "natural-media-funeral-parlour": "architecture",
-  "revive-the-lijia-alley": "urban",
+  "home-in-the-tongsui-store": [
+    "architecture",
+    "interior"
+  ],
+  "birth-of-a-bowl-of-xian-pasta": [
+    "interior",
+    "architecture"
+  ],
+  "accidental-death-mourning-hall": [
+    "interior",
+    "architecture"
+  ],
+  "campus-corner-space-renovation": [
+    "architecture",
+    "interior"
+  ],
+  "mine-air-purifier": [
+    "architecture",
+    "landscape"
+  ],
+  "space-generated-by-the-body": [
+    "interior",
+    "architecture"
+  ],
+  "romain-vacation-home": [
+    "architecture",
+    "landscape"
+  ],
+  "club-hub-brick-building-renovation": [
+    "architecture",
+    "interior"
+  ],
+  "sunward-orphanage": [
+    "architecture",
+    "landscape"
+  ],
+  "assimilate-plan-refugee-housing": [
+    "architecture",
+    "urban"
+  ],
+  "jiegui-street-reconstruction": [
+    "urban",
+    "architecture"
+  ],
+  "delirious-skyscraper": [
+    "architecture",
+    "urban"
+  ],
+  "taipei-x-site-ocean-installation": [
+    "interior",
+    "architecture"
+  ],
+  "second-nature-2060-shenzhen": [
+    "architecture",
+    "urban"
+  ],
+  "an-experiment-in-empathy": [
+    "interior",
+    "architecture"
+  ],
+  "a-midsummer-nights-dream-stage": [
+    "stage",
+    "interior"
+  ],
+  "new-toys-for-kids-bottle-blocks": [
+    "interior",
+    "architecture"
+  ],
+  "dafen-rooftop-art-workshops": [
+    "urban",
+    "architecture"
+  ],
+  "modular-housing-sky-corridors": [
+    "architecture",
+    "urban"
+  ],
+  "free-jazz-fabric-pavilion": [
+    "architecture",
+    "interior"
+  ],
+  "changeable-public-space-guangzhou": [
+    "urban",
+    "architecture"
+  ],
+  "behind-the-wall-riverside-park": [
+    "landscape",
+    "urban"
+  ],
+  "beauty-and-beast-outdoor-teaching-park": [
+    "landscape",
+    "architecture"
+  ],
+  "festival-village-ancient-village-reconstruction": [
+    "urban",
+    "landscape"
+  ],
+  "child-living-in-the-rivers-narrative-landscape": [
+    "landscape",
+    "architecture"
+  ],
+  "new-corridor-urban-village-promenade": [
+    "urban",
+    "architecture"
+  ],
+  "danan-eco-park": [
+    "landscape",
+    "urban"
+  ],
+  "community-rescue-program-zhangzhou": [
+    "urban",
+    "landscape"
+  ],
+  "tank-hsinchu-recreation-park": [
+    "landscape",
+    "architecture"
+  ],
+  "new-community-activity-center": [
+    "architecture",
+    "urban"
+  ],
+  "natural-media-funeral-parlour": [
+    "architecture",
+    "landscape"
+  ],
+  "revive-the-lijia-alley": [
+    "urban",
+    "landscape"
+  ],
   "accelerate-the-city": [
     "architecture",
     "urban"
   ],
-  "artistic-rebirth-of-the-harbor": "urban",
-  "typological-exploration-campus": "urban",
-  "village-paradise-in-the-city": "urban",
-  "urban-dwelling-parasite-spaces": "architecture",
-  "polyver-polyline-timber-bridge": "architecture",
-  "mountain-village-cultural-centre": "architecture",
-  "vertical-music-school-santo-domingo": "architecture",
-  "plants-and-architecture-in-symbiosis": "architecture",
-  "coming-home-brisbane-urban-design": "urban",
-  "herbal-garden-medicine-gallery": "architecture",
-  "home-of-pottery-jingdezhen": "architecture",
-  "port-of-culture-mariupol": "architecture",
+  "artistic-rebirth-of-the-harbor": [
+    "urban",
+    "landscape"
+  ],
+  "typological-exploration-campus": [
+    "urban",
+    "architecture"
+  ],
+  "village-paradise-in-the-city": [
+    "urban",
+    "architecture"
+  ],
+  "urban-dwelling-parasite-spaces": [
+    "architecture",
+    "urban"
+  ],
+  "polyver-polyline-timber-bridge": [
+    "architecture",
+    "landscape"
+  ],
+  "mountain-village-cultural-centre": [
+    "architecture",
+    "landscape"
+  ],
+  "vertical-music-school-santo-domingo": [
+    "architecture",
+    "urban"
+  ],
+  "plants-and-architecture-in-symbiosis": [
+    "architecture",
+    "landscape"
+  ],
+  "coming-home-brisbane-urban-design": [
+    "urban",
+    "landscape"
+  ],
+  "herbal-garden-medicine-gallery": [
+    "architecture",
+    "landscape"
+  ],
+  "home-of-pottery-jingdezhen": [
+    "architecture",
+    "landscape"
+  ],
+  "port-of-culture-mariupol": [
+    "architecture",
+    "urban"
+  ],
   "kaolao-pier-past-and-future": [
     "urban",
     "landscape"
   ],
-  "jinan-spring-pulse-remodeling": "urban",
-  "melbourne-affordable-housing": "architecture",
-  "cambodian-restaurant-cookery-school": "architecture",
-  "meerkat-mansion-entrance-building": "architecture",
+  "jinan-spring-pulse-remodeling": [
+    "urban",
+    "landscape"
+  ],
+  "melbourne-affordable-housing": [
+    "architecture",
+    "urban"
+  ],
+  "cambodian-restaurant-cookery-school": [
+    "architecture",
+    "interior"
+  ],
+  "meerkat-mansion-entrance-building": [
+    "architecture",
+    "landscape"
+  ],
   "skate-park-training-facility": [
     "architecture",
     "landscape"
   ],
-  "residing-in-the-city-oakland": "urban",
-  "inspired-by-structure-modular-tower": "architecture",
-  "renovation-of-the-family-hotel-chaozhou-courtyard-house": "architecture",
-  "self-residence-ivory-street-tube-house-renewal": "architecture",
-  "exhibition-hall-behaviour-cubes-and-space-script": "architecture",
+  "residing-in-the-city-oakland": [
+    "urban",
+    "landscape"
+  ],
+  "inspired-by-structure-modular-tower": [
+    "architecture",
+    "interior"
+  ],
+  "renovation-of-the-family-hotel-chaozhou-courtyard-house": [
+    "architecture",
+    "interior"
+  ],
+  "self-residence-ivory-street-tube-house-renewal": [
+    "architecture",
+    "interior"
+  ],
+  "exhibition-hall-behaviour-cubes-and-space-script": [
+    "architecture",
+    "interior"
+  ],
   "rules-and-construction-reusing-a-shantou-arcade": [
     "architecture",
     "urban"
   ],
-  "tjs-elementary-school-a-school-for-better-education": "architecture",
-  "micro-reservoir-tower-shenzhen": "architecture",
-  "village-in-the-city-street-texture-tower": "architecture"
+  "tjs-elementary-school-a-school-for-better-education": [
+    "architecture",
+    "urban"
+  ],
+  "micro-reservoir-tower-shenzhen": [
+    "architecture",
+    "urban"
+  ],
+  "village-in-the-city-street-texture-tower": [
+    "architecture",
+    "urban"
+  ],
+  "new-urban-life-racetrack-neighbourhood": [
+    "urban",
+    "landscape"
+  ],
+  "building-a-prison-reframing-privacy": [
+    "architecture",
+    "interior"
+  ],
+  "changeable-wall-housing": [
+    "architecture",
+    "interior"
+  ],
+  "welfare-index-urban-village": [
+    "urban",
+    "architecture"
+  ],
+  "city-canopy-umbrella-street": [
+    "urban",
+    "architecture"
+  ],
+  "heretical-intervention-folded-space": [
+    "architecture",
+    "interior"
+  ],
+  "modern-garden-architecture-suzhou": [
+    "architecture",
+    "landscape"
+  ],
+  "wind-always-with-me-ventilation-tower": [
+    "architecture",
+    "urban"
+  ],
+  "climate-adaptive-museum-guangzhou": [
+    "architecture",
+    "interior"
+  ],
+  "container-kindergarten-xiangtan": [
+    "architecture",
+    "urban"
+  ],
+  "museum-of-intimate-relationship": [
+    "architecture",
+    "landscape"
+  ],
+  "street-renovation-and-flyover-tianhe": [
+    "urban",
+    "architecture"
+  ],
+  "residential-in-green-space-shenzhen": [
+    "architecture",
+    "landscape"
+  ],
+  "city-dehumidifier-xiangtan": [
+    "architecture",
+    "landscape"
+  ],
+  "listening-to-the-sound-guangzhou-square": [
+    "landscape",
+    "urban"
+  ],
+  "signals-of-the-heart-meeting-pavilion": [
+    "architecture",
+    "interior"
+  ],
+  "animal-box-guangzhou": [
+    "architecture",
+    "interior"
+  ],
+  "the-bridging-embedded-renewal": [
+    "urban",
+    "architecture"
+  ],
+  "another-sustainable-participatory-building": [
+    "architecture",
+    "urban"
+  ],
+  "rhapsody-of-future-office": [
+    "architecture",
+    "interior"
+  ],
+  "family-unit-council-house": [
+    "architecture",
+    "urban"
+  ],
+  "fengqing-community-bridge-renewal": [
+    "urban",
+    "architecture"
+  ],
+  "cantonese-opera-street-museum": [
+    "architecture",
+    "stage",
+    "urban"
+  ],
+  "gradient-prototype-spatial-experiment": [
+    "architecture",
+    "interior"
+  ],
+  "period-of-solidification": [
+    "architecture",
+    "interior"
+  ],
+  "reinventing-shape-spontaneous-growth": [
+    "architecture",
+    "urban"
+  ],
+  "line-offset-pop-up-shop": [
+    "interior",
+    "architecture"
+  ],
+  "recore-textile-district-renewal": [
+    "urban",
+    "landscape",
+    "architecture"
+  ],
+  "entropy-folding-market": [
+    "urban",
+    "architecture"
+  ],
+  "spotlight-courtyard-opera-theatre": [
+    "architecture",
+    "stage"
+  ],
+  "urbanism-of-nature-furniture-landscape-tower": [
+    "interior",
+    "architecture",
+    "landscape"
+  ],
+  "beacon-of-hope-mobile-modular-school": [
+    "architecture",
+    "interior"
+  ],
+  "havenopause-cave-like-retreat": [
+    "interior",
+    "architecture"
+  ],
+  "modular-liveblock-reconfigurable-stage": [
+    "stage",
+    "architecture"
+  ],
+  "re-opera-pop-up-cantonese-opera-stage": [
+    "stage",
+    "architecture",
+    "urban"
+  ],
+  "fragmented-self-personality-tower": [
+    "architecture",
+    "interior"
+  ],
+  "edge-of-production-waterfront-regeneration": [
+    "urban",
+    "landscape"
+  ],
+  "silvertown-vertical-farm-london": [
+    "architecture",
+    "urban"
+  ],
+  "longyearbyen-coastal-ecological-framework": [
+    "landscape",
+    "urban"
+  ],
+  "holding-the-crossing-pedestrian-connector": [
+    "architecture",
+    "urban"
+  ],
+  "weaving-back-the-sugar-factory": [
+    "urban",
+    "landscape"
+  ],
+  "enfield-spatial-development-plan": [
+    "urban",
+    "landscape"
+  ],
+  "floating-community-jamaica-bay": [
+    "architecture",
+    "urban",
+    "landscape"
+  ],
+  "wetland-gallery-bird-watching-site": [
+    "architecture",
+    "landscape"
+  ],
+  "reimagining-tegel-courtyard-urbanism": [
+    "urban",
+    "architecture"
+  ],
+  "floating-eco-islands-bird-habitat": [
+    "landscape",
+    "architecture"
+  ],
+  "bio-based-hempcrete-ceiling": [
+    "interior",
+    "architecture"
+  ],
+  "sediment-tide-and-habitat": [
+    "landscape",
+    "urban"
+  ],
+  "sawtooth-horizons-cultural-centre": [
+    "architecture",
+    "interior"
+  ],
+  "under-the-hood-plug-in-city": [
+    "architecture",
+    "urban"
+  ],
+  "inhabited-machine-school-addition": [
+    "architecture",
+    "interior"
+  ],
+  "carmen-rewritten-stage-machine": [
+    "stage",
+    "interior"
+  ],
+  "lithium-lab-geevor-greenhouse-factory": [
+    "architecture",
+    "landscape"
+  ],
+  "bloom-street-power-station-renewal": [
+    "architecture",
+    "interior"
+  ],
+  "riverside-greenhouse-laboratory": [
+    "landscape",
+    "architecture"
+  ],
+  "tartu-folded-cultural-centre": [
+    "architecture",
+    "landscape",
+    "urban"
+  ],
+  "levanella-post-factory-upcycling": [
+    "architecture",
+    "landscape"
+  ],
+  "red-line-habitat-mars-outpost": [
+    "architecture",
+    "landscape"
+  ],
+  "post-arctic-waterfront-wetland": [
+    "landscape",
+    "urban"
+  ],
+  "urban-vertical-farm-mill-transformation": [
+    "architecture",
+    "urban"
+  ],
+  "from-shelter-to-community-refugee-camp": [
+    "architecture",
+    "urban"
+  ],
+  "tangjia-bay-reborn-living-shoreline": [
+    "landscape",
+    "architecture"
+  ],
+  "urban-living-room-art-museum-renewal": [
+    "architecture",
+    "interior",
+    "urban"
+  ],
+  "house-in-nesso-climate-responsive-home": [
+    "architecture",
+    "landscape"
+  ],
+  "dongshan-bus-station-fissures": [
+    "architecture",
+    "urban"
+  ],
+  "campus-district-reformation-guangzhou": [
+    "landscape",
+    "urban"
+  ],
+  "rooftop-farm-urban-village-shenzhen": [
+    "urban",
+    "landscape"
+  ],
+  "turning-waste-into-treasure-transfer-station": [
+    "architecture",
+    "interior"
+  ],
+  "haizhu-lake-wetland-museum-hub": [
+    "urban",
+    "landscape",
+    "architecture"
+  ],
+  "occupying-the-void-fruit-market": [
+    "architecture",
+    "urban"
+  ],
+  "healing-anchor-factory-care-campus": [
+    "architecture",
+    "interior"
+  ],
+  "the-wave-bamboo-pavilion": [
+    "architecture",
+    "landscape"
+  ]
 }

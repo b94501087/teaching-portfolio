@@ -18,10 +18,9 @@ test('categories.json only names pins that exist on the board', () => {
   const slugs = new Set((board.pins || []).map(p => p.slug));
   for (const slug of Object.keys(cats)) assert.ok(slugs.has(slug), slug);
 });
-test('every listed master pin is classified (pins published later: classify in the audit)', { todo: false }, () => {
-  const missing = listedPins(board).filter(p => pinLevel(p) === 'master' && !cats[p.slug]).map(p => p.slug);
-  if (missing.length) console.log('unclassified master pins (shown under All only):', missing.join(', '));
-  assert.ok(missing.length <= 10, 'too many unclassified: ' + missing.length);
+test('every listed master pin has 2-3 categories', () => {
+  const few = listedPins(board).filter(p => pinLevel(p) === 'master').filter(p => { const c = cats[p.slug]; return !Array.isArray(c) || c.length < 2; }).map(p => p.slug);
+  assert.deepEqual(few, [], 'master pins with fewer than 2 categories: ' + few.join(', '));
 });
 
 const st = (f, cat = 'all') => ({ f, cat, sort: 'default' });
