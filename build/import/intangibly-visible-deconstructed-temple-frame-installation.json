@@ -1,0 +1,25 @@
+{
+  "project": "Intangibly Visible",
+  "dest": "assets/board/intangibly-visible-deconstructed-temple-frame-installation",
+  "note": "Portfolio 5369 page 5 cropped to 3 images, WebP (PIL).",
+  "files": [
+    {
+      "name": "01-installation.webp",
+      "sha256": "62189ce867c09bd0350dc3971b9401e89cfba6d3245284ec1a9fa21cd67e7b7b",
+      "bytes": 122564,
+      "from": "5369 page 5 — the installation glowing in the dark"
+    },
+    {
+      "name": "02-temple-drawings.webp",
+      "sha256": "121071465029940b3ab010ed5f7dbfdcee91aed42d2ba51ee0f17a64bb748db2",
+      "bytes": 194796,
+      "from": "5369 page 5 — drawings of temple forms, construction and the extracted frame"
+    },
+    {
+      "name": "03-production-and-details.webp",
+      "sha256": "ba4e727e8968319b9477d12040c6fe3a5a2dbd3466f492c497b15f2e88b2420c",
+      "bytes": 183418,
+      "from": "5369 page 5 — the production process and details of the frame"
+    }
+  ]
+}
