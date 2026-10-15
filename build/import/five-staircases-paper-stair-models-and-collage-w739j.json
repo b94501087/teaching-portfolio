@@ -1,0 +1,25 @@
+{
+  "project": "Five Staircases",
+  "dest": "assets/board/five-staircases-paper-stair-models-and-collage",
+  "note": "w739j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-film-still-strips.webp",
+      "sha256": "11b31eb76becf37ddd819a005185af1ab5fb7290fd1e2d9e214aa618a551434b",
+      "bytes": 234714,
+      "from": "restored reference image (film still strips)"
+    },
+    {
+      "name": "07-film-screenshot-collage.webp",
+      "sha256": "9a6a1a18c4caf2414bd80f9e634b12b2f36cd8f9fa7c4a06131d0f09d7667002",
+      "bytes": 267124,
+      "from": "restored reference image (film screenshot collage)"
+    },
+    {
+      "name": "08-staircase-collage-with-film-figures.webp",
+      "sha256": "2c0b3d349742ec6890d795919c43e85ceb0f0d16f974e69dd91700ab1b269436",
+      "bytes": 178808,
+      "from": "restored reference image (staircase collage with film figures)"
+    }
+  ]
+}
