@@ -1,0 +1,30 @@
+{
+  "project": "Blind Boxes",
+  "dest": "assets/board/blind-boxes-six-moods-built-as-spliced-cubes",
+  "note": "w739i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-mood-diagram-with-blind-box-figure.webp",
+      "sha256": "fdb7ed49b969c0e12bfde1595783a685160e3bcab3439b6ad726c5f5dea5eeaa",
+      "bytes": 203940,
+      "from": "restored reference image (mood diagram with blind box figure)"
+    },
+    {
+      "name": "12-blind-box-packaging-photo.webp",
+      "sha256": "a24b726f7542263894ed933956f3c2d93e93eb21b9859c57c1818987ffde99b5",
+      "bytes": 52282,
+      "from": "restored reference image (blind box packaging photo)"
+    },
+    {
+      "name": "13-making-the-blocks-by-hand.webp",
+      "sha256": "a0f09847b43254d343b093396d1eb12a991e4ed0334994c7a63b2fb65dd1a63f",
+      "bytes": 175356,
+      "from": "restored reference image (making the blocks by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/blind-boxes-six-moods-built-as-spliced-cubes/02-imagine-drawing.webp",
+    "assets/board/blind-boxes-six-moods-built-as-spliced-cubes/03-disappointed-drawing.webp",
+    "assets/board/blind-boxes-six-moods-built-as-spliced-cubes/04-white-blocks.webp"
+  ]
+}
