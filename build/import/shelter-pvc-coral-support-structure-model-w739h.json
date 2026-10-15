@@ -1,0 +1,23 @@
+{
+  "project": "Shelter",
+  "dest": "assets/board/shelter-pvc-coral-support-structure-model",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-heat-gun-by-hand.webp",
+      "sha256": "c733e9753965c17417d3e67e4a1854fb80a1a73ef3e2bcdc87203e132f2bbd12",
+      "bytes": 71768,
+      "from": "restored reference image (heat gun by hand)"
+    },
+    {
+      "name": "12-softening-with-a-heat-gun.webp",
+      "sha256": "22fc6c288933900cd05c9d6780be473ea225ecc9d810d4c2064ab57b07a15af7",
+      "bytes": 106802,
+      "from": "restored reference image (softening with a heat gun)"
+    }
+  ],
+  "delete": [
+    "assets/board/shelter-pvc-coral-support-structure-model/05-yellow-model.webp",
+    "assets/board/shelter-pvc-coral-support-structure-model/06-white-close.webp"
+  ]
+}
