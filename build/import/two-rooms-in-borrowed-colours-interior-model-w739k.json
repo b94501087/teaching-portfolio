@@ -1,0 +1,34 @@
+{
+  "project": "Two Rooms in Borrowed Colours",
+  "dest": "assets/board/two-rooms-in-borrowed-colours-interior-model",
+  "note": "w739k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-film-posters.webp",
+      "sha256": "8a0d9f5303155399039c3dbe2744cebc3b887cd16e72c3168e3a81493f624e56",
+      "bytes": 208580,
+      "from": "restored reference image (film posters)"
+    },
+    {
+      "name": "09-film-scenes-and-colour-palettes.webp",
+      "sha256": "34aed3079e9eb18173238d16736e8718b370d40004bd514146c864e9e71a4181",
+      "bytes": 189884,
+      "from": "restored reference image (film scenes and colour palettes)"
+    },
+    {
+      "name": "10-reference-interior-moodboards.webp",
+      "sha256": "64a9293f183ec801db86934cfd46199b8abfb487f4b571f083db93844052e534",
+      "bytes": 148968,
+      "from": "restored reference image (reference interior moodboards)"
+    },
+    {
+      "name": "11-making-furniture-by-hand.webp",
+      "sha256": "093b4100089ea614e0ba248a3e2526d4d64df4ac3dd47dbab6326a260bab39f2",
+      "bytes": 39662,
+      "from": "restored reference image (making furniture by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/two-rooms-in-borrowed-colours-interior-model/07-pink-room-wide.webp"
+  ]
+}
