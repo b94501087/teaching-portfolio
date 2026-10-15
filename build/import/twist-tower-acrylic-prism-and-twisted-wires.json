@@ -22,24 +22,6 @@
       "from": "f825 pages 13-15 — hexagonal plate diagrams"
     },
     {
-      "name": "04-radial-detail.webp",
-      "sha256": "9e57e7c09ff1ab0284eef2c8061c0d3b4dde967ca7ae865d826e29610048f68f",
-      "bytes": 21260,
-      "from": "f825 pages 13-15 — wires seen from one end"
-    },
-    {
-      "name": "05-tower-on-table.webp",
-      "sha256": "0fa16f1c2c375cefd384363007b62ce5a22d8d1362d95d1997da46c6c7a9a856",
-      "bytes": 48808,
-      "from": "f825 pages 13-15 — the prism during making"
-    },
-    {
-      "name": "06-twist-stages.webp",
-      "sha256": "06ab59399d37ad928bcd1bb846472c520bf70c52155f6bde54c9c082f5894e90",
-      "bytes": 114840,
-      "from": "f825 pages 13-15 — wires after pulling, spinning and twisting"
-    },
-    {
       "name": "07-side-lines.webp",
       "sha256": "838869e82b1bb81b82d642fcf1d4d8becbc65a8a8da34ece74150e9ce1563cd5",
       "bytes": 96320,
@@ -62,6 +44,24 @@
       "sha256": "f6f898d73a4eb095ba9688023584ca17a19ddaadbec6dd167d0cd33b03d872c6",
       "bytes": 41864,
       "from": "f825 pages 13-15 — the view after one turn"
+    },
+    {
+      "name": "11-landmark-tower-photo.webp",
+      "sha256": "f77676a70cf860cd2d8139c0aa102a4ea46a92e3c55154ef9225020e986c3840",
+      "bytes": 23256,
+      "from": "restored reference image (landmark tower photo)"
+    },
+    {
+      "name": "12-making-the-prism-by-hand.webp",
+      "sha256": "362d0aab0d8cb23fab6d7acff4e6de8ed6c60591ed88dc0e24bb025152bd2d73",
+      "bytes": 173492,
+      "from": "restored reference image (making the prism by hand)"
+    },
+    {
+      "name": "13-twist-test-by-hand-with-quotation.webp",
+      "sha256": "303ae43b95d2cd640678df155150793b1072982e76d6c0f26c3b9720b9d294fa",
+      "bytes": 213250,
+      "from": "restored reference image (twist test by hand with quotation)"
     }
   ]
 }
