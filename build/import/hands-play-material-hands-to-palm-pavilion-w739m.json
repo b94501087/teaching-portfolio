@@ -1,0 +1,16 @@
+{
+  "project": "Hands Play",
+  "dest": "assets/board/hands-play-material-hands-to-palm-pavilion",
+  "note": "w739m restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "13-handwritten-notes-sketch.webp",
+      "sha256": "c9b73707d4e2cd0c58b368d21143ba3b849edffefd0e003d151d6b2827cfa62e",
+      "bytes": 76646,
+      "from": "restored reference image (handwritten notes sketch)"
+    }
+  ],
+  "delete": [
+    "assets/board/hands-play-material-hands-to-palm-pavilion/10-pavilion-side.webp"
+  ]
+}
