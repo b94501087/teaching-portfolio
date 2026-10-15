@@ -1,0 +1,25 @@
+{
+  "project": "The Personality Space",
+  "dest": "assets/board/the-personality-space-acrylic-cube-of-sand-and-shards",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-assembling-the-cube-by-hand.webp",
+      "sha256": "d782b16059103e64567dcedd3d74a901f9d6c9df487d82aa10b54962dadb554d",
+      "bytes": 226414,
+      "from": "restored reference image (assembling the cube by hand)"
+    },
+    {
+      "name": "12-labelled-zone-views.webp",
+      "sha256": "8df02178780570609755a80d90585148c3a872a5a1f13a21fe6d85f121a63bc4",
+      "bytes": 188862,
+      "from": "restored reference image (labelled zone views)"
+    }
+  ],
+  "delete": [
+    "assets/board/the-personality-space-acrylic-cube-of-sand-and-shards/03-assembly-a.webp",
+    "assets/board/the-personality-space-acrylic-cube-of-sand-and-shards/04-assembly-b.webp",
+    "assets/board/the-personality-space-acrylic-cube-of-sand-and-shards/05-tolerable-zone.webp",
+    "assets/board/the-personality-space-acrylic-cube-of-sand-and-shards/06-violent-zone.webp"
+  ]
+}

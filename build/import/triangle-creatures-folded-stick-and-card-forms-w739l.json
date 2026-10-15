@@ -1,0 +1,16 @@
+{
+  "project": "Triangle Creatures",
+  "dest": "assets/board/triangle-creatures-folded-stick-and-card-forms",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-landscape-photo-and-triangulation.webp",
+      "sha256": "0e4fd96ad0298a2f32c388d70d6f006e988cc03fec0d0d21f8a633217fa0e188",
+      "bytes": 184024,
+      "from": "restored reference image (landscape photo and triangulation)"
+    }
+  ],
+  "delete": [
+    "assets/board/triangle-creatures-folded-stick-and-card-forms/02-triangle-net.webp"
+  ]
+}
