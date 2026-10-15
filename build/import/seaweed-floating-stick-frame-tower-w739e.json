@@ -1,0 +1,29 @@
+{
+  "project": "Seaweed",
+  "dest": "assets/board/seaweed-floating-stick-frame-tower",
+  "note": "w739e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-kelp-forest-photo.webp",
+      "sha256": "9fa995d80ac22fa5e22285b30b6552da2ce1830612b8a101c774b9727e2e51fb",
+      "bytes": 56030,
+      "from": "restored reference image (kelp forest photo)"
+    },
+    {
+      "name": "11-building-the-frame-by-hand.webp",
+      "sha256": "41c405df0af5a4699d9b726817961f3cb999c18c57bc12d7429b2d55efbadb83",
+      "bytes": 233112,
+      "from": "restored reference image (building the frame by hand)"
+    },
+    {
+      "name": "12-tying-sticks-by-hand.webp",
+      "sha256": "62a0b1f7bda7f0ace3b0cd5abd0ad14b7a88dba38ffc958bcb251137c183db3c",
+      "bytes": 166050,
+      "from": "restored reference image (tying sticks by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/seaweed-floating-stick-frame-tower/05-folded-frame-test.webp",
+    "assets/board/seaweed-floating-stick-frame-tower/06-bowl-frame-test.webp"
+  ]
+}
