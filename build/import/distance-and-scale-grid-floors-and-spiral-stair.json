@@ -28,18 +28,6 @@
       "from": "eb94 page 5 — rooms on a grid floor"
     },
     {
-      "name": "05-grid-floor-close-b.webp",
-      "sha256": "d309acdf464fe18ffaaaa1cce76ee1775feb41fc3e3124387e16957da1e226a0",
-      "bytes": 27664,
-      "from": "eb94 page 5 — benches and figures"
-    },
-    {
-      "name": "06-grid-floor-close-c.webp",
-      "sha256": "6986bae74c27f407dbc24648af4f1f297291cc8896285d52509fd4605e8052e6",
-      "bytes": 36526,
-      "from": "eb94 page 5 — curved furniture on the grid"
-    },
-    {
       "name": "07-flowing-walls-on-grid.webp",
       "sha256": "2fb96a7688aa700824bb2b81a18c5323be13d6b6136d07af2af276ccb2ba74f5",
       "bytes": 48940,
@@ -62,6 +50,18 @@
       "sha256": "825370aea2336c97c19ad86222a882c5a9ff6b491c75d338cb1b0826c7f9044c",
       "bytes": 12998,
       "from": "eb94 page 5 — light through the grid"
+    },
+    {
+      "name": "11-animated-city-image.webp",
+      "sha256": "437e9cd26ea6d9a910a40d31db5a2fd2c5871bea83f3255db00d8703b23570bb",
+      "bytes": 83608,
+      "from": "restored reference image (animated city image)"
+    },
+    {
+      "name": "12-animated-city-diagram.webp",
+      "sha256": "43ac96eb06f9c006ff7451d485b834b959b0c08aa8eb126d75abe430f4d25540",
+      "bytes": 29750,
+      "from": "restored reference image (animated city diagram)"
     }
   ]
 }

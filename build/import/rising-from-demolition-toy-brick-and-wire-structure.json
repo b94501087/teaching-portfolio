@@ -38,6 +38,24 @@
       "sha256": "dae2898425fa49722977c8b18fd062b8680f92d1e2bf3691856d452952dd3848",
       "bytes": 68420,
       "from": "eb94 pages 7-8 — stacked beams up close"
+    },
+    {
+      "name": "07-demolition-site-collage.webp",
+      "sha256": "41a700650d2d055837e1966ac62870129d33bca148dc175f070e9bd30a89d30b",
+      "bytes": 192032,
+      "from": "restored reference image (demolition site collage)"
+    },
+    {
+      "name": "08-brick-robot-works.webp",
+      "sha256": "4f64f29ebeaf42ab9c1f7c87af6091aff02bd6ff987f478a96ae17907935913e",
+      "bytes": 56464,
+      "from": "restored reference image (brick robot works)"
+    },
+    {
+      "name": "09-building-by-hand.webp",
+      "sha256": "2638bc83d093d7f265847b6330c95fa7309d671ddde25979db140a1ca6a49cc2",
+      "bytes": 115192,
+      "from": "restored reference image (building by hand)"
     }
   ]
 }

@@ -46,16 +46,22 @@
       "from": "eb94 page 9 — collage model three"
     },
     {
-      "name": "08-collage-model-4.webp",
-      "sha256": "9451bfa7385690ed3f653fe22f64718af3b1e6ef8571117c47ad93cc1913f4ac",
-      "bytes": 16170,
-      "from": "eb94 page 9 — collage model four"
+      "name": "10-film-image.webp",
+      "sha256": "87d9f223116c6d69c8d37917aca5565524e8e4b6db3fa515b9b05efa4672d829",
+      "bytes": 29406,
+      "from": "restored reference image (film image)"
     },
     {
-      "name": "09-bent-ground-close.webp",
-      "sha256": "4675f0350c0b26e71067abf6a27b002607e163dce2029cefc53ce9c95b933662",
-      "bytes": 59968,
-      "from": "eb94 page 9 — the bent ground up close"
+      "name": "11-toy-blaster-box.webp",
+      "sha256": "b672902156a9cd280c1dad5e160a50ef9c28084f9c762355830e983fbacd3398",
+      "bytes": 14532,
+      "from": "restored reference image (toy blaster box)"
+    },
+    {
+      "name": "12-maker-with-the-model.webp",
+      "sha256": "f415079d0d55ed33038008cefabe8694a977957057dc6e602678d1a9c2920657",
+      "bytes": 38300,
+      "from": "restored reference image (maker with the model)"
     }
   ]
 }

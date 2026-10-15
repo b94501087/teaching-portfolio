@@ -40,28 +40,28 @@
       "from": "eb94 pages 3-4 — stick scaffolds among rooms"
     },
     {
-      "name": "07-looking-up-through-rings.webp",
-      "sha256": "c88c4536ac76aa5d92d0ef6cca7180827c83d75419a4bfefbf597906b2ea477f",
-      "bytes": 34126,
-      "from": "eb94 pages 3-4 — looking up through the rings"
-    },
-    {
       "name": "08-ringed-crown-of-the-tower.webp",
       "sha256": "d22d2db619ae1f4055b467f567271a89f9ba819a1b3595cbb36ef99903432f45",
       "bytes": 68768,
       "from": "eb94 pages 3-4 — the ringed crown"
     },
     {
-      "name": "09-middle-floors-and-figures.webp",
-      "sha256": "5abd700818a4e3564a8feb7d7ca85235b2988cb2710cdbc8986bb451eb330408",
-      "bytes": 82478,
-      "from": "eb94 pages 3-4 — middle floors with figures"
+      "name": "11-film-title.webp",
+      "sha256": "d554363bf5b1a5ac7b03129904ace68960b19774f9b73040f43cd55a46c51c52",
+      "bytes": 10608,
+      "from": "restored reference image (film title)"
     },
     {
-      "name": "10-pipes-and-passages-close.webp",
-      "sha256": "61cff4721f848616ee3ace500365fb0712f52d4f399118383706905c235fc6a2",
-      "bytes": 98302,
-      "from": "eb94 pages 3-4 — pipes and passages up close"
+      "name": "12-film-stills.webp",
+      "sha256": "47dbb089ca2f9ffe82a590cc9d1155138be22a6d3cd579de8eadd93e9619dbb9",
+      "bytes": 109616,
+      "from": "restored reference image (film stills)"
+    },
+    {
+      "name": "13-building-by-hand.webp",
+      "sha256": "2a54ffae3ff37a5871389ad0a967ea994fb44983d58ff26527f6ab10ae76809d",
+      "bytes": 82538,
+      "from": "restored reference image (building by hand)"
     }
   ]
 }
