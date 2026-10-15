@@ -1,0 +1,25 @@
+{
+  "project": "Rising from Demolition",
+  "dest": "assets/board/rising-from-demolition-toy-brick-and-wire-structure",
+  "note": "w738y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-demolition-site-collage.webp",
+      "sha256": "76ce11111c99d649c2e67f39185ad1701ae0ab9019143ef327e53ecadab27806",
+      "bytes": 317522,
+      "from": "restored reference image (demolition site collage)"
+    },
+    {
+      "name": "08-brick-robot-works.webp",
+      "sha256": "4f64f29ebeaf42ab9c1f7c87af6091aff02bd6ff987f478a96ae17907935913e",
+      "bytes": 56464,
+      "from": "restored reference image (brick robot works)"
+    },
+    {
+      "name": "09-building-by-hand.webp",
+      "sha256": "2638bc83d093d7f265847b6330c95fa7309d671ddde25979db140a1ca6a49cc2",
+      "bytes": 115192,
+      "from": "restored reference image (building by hand)"
+    }
+  ]
+}
