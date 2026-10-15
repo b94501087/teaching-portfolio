@@ -1,0 +1,22 @@
+{
+  "project": "Distances Between Five Characters",
+  "dest": "assets/board/distances-between-five-characters-curved-walls-and-bridges",
+  "note": "w739j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-music-video-stills.webp",
+      "sha256": "7d612ab72adb01a62b6cfe0b445ac8fdc45ec1be55f394ea960a163252ee38a6",
+      "bytes": 195744,
+      "from": "restored reference image (music video stills)"
+    },
+    {
+      "name": "11-dancer-photo-collages.webp",
+      "sha256": "8318e34ea27255770536959325067a122d8799eb33b4faed59986012ea10ccd7",
+      "bytes": 156098,
+      "from": "restored reference image (dancer photo collages)"
+    }
+  ],
+  "delete": [
+    "assets/board/distances-between-five-characters-curved-walls-and-bridges/09-steps-and-frames.webp"
+  ]
+}
