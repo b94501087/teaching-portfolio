@@ -40,16 +40,28 @@
       "from": "74d1 pages 2-3 — a clay face with herb"
     },
     {
-      "name": "07-white-clay-test-face.webp",
-      "sha256": "12a05c8f1cb05d1d01b6cb93fe8a0b75764e2e5f511915c791ef4e14392ce20b",
-      "bytes": 19704,
-      "from": "74d1 pages 2-3 — a white clay test face"
-    },
-    {
       "name": "08-white-mask-study.webp",
       "sha256": "843b23659dbbc08924691f1cbb83348df4cb1c64169b42773469b735a0680de5",
       "bytes": 17568,
       "from": "74d1 pages 2-3 — a white mask study"
+    },
+    {
+      "name": "09-skin-condition-concept-collage.webp",
+      "sha256": "4dc91d134467386502f96771490ec9d42e196aa6e0efeb9ce504f0beb14562d9",
+      "bytes": 196314,
+      "from": "restored reference image (skin condition concept collage)"
+    },
+    {
+      "name": "10-artist-research.webp",
+      "sha256": "c11efd27fcad444ad72bbb70bffeafad06d4c750d67be72310b5a6570808a3d9",
+      "bytes": 220922,
+      "from": "restored reference image (artist research)"
+    },
+    {
+      "name": "11-sculpting-the-faces.webp",
+      "sha256": "8eec5689cd91eafb10a4c029e4f79e5877c12519114c3565e3c9fa3fe260bef1",
+      "bytes": 119484,
+      "from": "restored reference image (sculpting the faces)"
     }
   ]
 }

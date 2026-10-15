@@ -22,22 +22,10 @@
       "from": "74d1 pages 3-5 — a line drawing of a waiting queue"
     },
     {
-      "name": "04-bamboo-cane-and-sticks.webp",
-      "sha256": "c2838eaf6dba7a37d3e90127c4e5ca8065a5cf83137599a9cedbf6bfcf7b881c",
-      "bytes": 32948,
-      "from": "74d1 pages 3-5 — bamboo cane and sticks"
-    },
-    {
       "name": "05-cutting-the-island-base.webp",
       "sha256": "26ad58511ec98e2c9362fc676c1b46531b9d87928f72526b4e337873db2a6ddd",
       "bytes": 37786,
       "from": "74d1 pages 3-5 — cutting the island base"
-    },
-    {
-      "name": "06-early-stick-frame.webp",
-      "sha256": "19d26653ee0dc3f4cdf1082693cc22510e679fb9218b6df3d97d9a33348dfb21",
-      "bytes": 58866,
-      "from": "74d1 pages 3-5 — an early stick frame"
     },
     {
       "name": "07-bending-bamboo-strips.webp",
@@ -52,16 +40,28 @@
       "from": "74d1 pages 3-5 — curved strips over the base"
     },
     {
-      "name": "09-stick-lattice-close.webp",
-      "sha256": "9ba001a4e10a56f5115bc730a3a6bca28aa54c2f8eef393e9b05c58c297de3d8",
-      "bytes": 78314,
-      "from": "74d1 pages 3-5 — the stick lattice in close view"
-    },
-    {
       "name": "10-lattice-with-scale-figures.webp",
       "sha256": "9bf5de301ea356cfe667a1ba1c81bfee451ec304366d7fa45066b9842f93eba0",
       "bytes": 156374,
       "from": "74d1 pages 3-5 — the lattice with scale figures"
+    },
+    {
+      "name": "11-household-bathroom-collage.webp",
+      "sha256": "b59a1956e765d823d729b72da8da10f95a160d7f8871a480b984e9113465171c",
+      "bytes": 193142,
+      "from": "restored reference image (household bathroom collage)"
+    },
+    {
+      "name": "12-architect-research.webp",
+      "sha256": "227400237a34f62847659e493a55957ebcaec59f8f4525b64d5a17f0e33060f2",
+      "bytes": 227070,
+      "from": "restored reference image (architect research)"
+    },
+    {
+      "name": "13-weaving-sticks-by-hand.webp",
+      "sha256": "8d7151bca277dd7c8378357193a96cee7594f17752308e86a2ef51130409742c",
+      "bytes": 106632,
+      "from": "restored reference image (weaving sticks by hand)"
     }
   ]
 }
