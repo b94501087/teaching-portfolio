@@ -1,0 +1,36 @@
+{
+  "project": "Natural Growth",
+  "dest": "assets/board/natural-growth-triangulated-stick-and-pvc-tower",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-joined-models.webp",
+      "sha256": "ecb81cacd6e94f92e770e9e63b7f9b20eba2b22b9e677c667fa76cd98414d7cc",
+      "bytes": 56192,
+      "from": "restored reference image (joined models)"
+    },
+    {
+      "name": "11-tower-of-babel-and-primitive-hut.webp",
+      "sha256": "536e92800858fa6324f2ef7812542521db4a9763ab7c1b61e24e7fe094e15855",
+      "bytes": 183114,
+      "from": "restored reference image (tower of babel and primitive hut)"
+    },
+    {
+      "name": "12-landscape-photo.webp",
+      "sha256": "8cdccc6a441eb3591c720605b5ae04ba4450c6475a0c25b5984bc4b13db7bae5",
+      "bytes": 209144,
+      "from": "restored reference image (landscape photo)"
+    },
+    {
+      "name": "13-shaping-the-model-by-hand.webp",
+      "sha256": "6769ad7049d4f5210a1ea42bbdedc7e980ea7e257c41f0df02ee480e91b20550",
+      "bytes": 43208,
+      "from": "restored reference image (shaping the model by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/natural-growth-triangulated-stick-and-pvc-tower/05-first-model-front.webp",
+    "assets/board/natural-growth-triangulated-stick-and-pvc-tower/09-balcony-space.webp",
+    "assets/board/natural-growth-triangulated-stick-and-pvc-tower/10-veranda-space.webp"
+  ]
+}
