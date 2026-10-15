@@ -1,0 +1,19 @@
+{
+  "project": "Tree Houses",
+  "dest": "assets/board/tree-houses-branch-stairs-and-terraces",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-tree-house-photo.webp",
+      "sha256": "4a6904d18f5702405abeb910f2aaa1fe5a14eaa7a90dec00bc2513c46880c0c3",
+      "bytes": 102862,
+      "from": "restored reference image (tree house photo)"
+    },
+    {
+      "name": "09-painting-the-base-by-hand.webp",
+      "sha256": "b69a3572ffb7d318608f93b9ee5621020ccc3c1dbd53ebc76c7b073240fd1755",
+      "bytes": 32886,
+      "from": "restored reference image (painting the base by hand)"
+    }
+  ]
+}
