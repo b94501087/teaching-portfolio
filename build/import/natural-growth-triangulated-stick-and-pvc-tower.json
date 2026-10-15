@@ -28,22 +28,10 @@
       "from": "bf60 pages 6-9 — the first model of strips and card"
     },
     {
-      "name": "05-first-model-front.webp",
-      "sha256": "9df0da6fed4c92aa9cba134d18bfd3b5353a5a6c8173003e8a1856ec1d1576f6",
-      "bytes": 33650,
-      "from": "bf60 pages 6-9 — the first model seen from the front"
-    },
-    {
       "name": "06-stacked-halves.webp",
       "sha256": "a049b07a2a965a019fb0d85aa21f2277ccca46e4be24e19bdd71d18199d8c1cf",
       "bytes": 24718,
       "from": "bf60 pages 6-9 — two halves stacked together"
-    },
-    {
-      "name": "07-joined-models.webp",
-      "sha256": "92fe10808c03154564ea2bd4bacfdbd56ace39704b3ecb3971f2631c28adc78c",
-      "bytes": 45290,
-      "from": "bf60 pages 6-9 — the halves joined into one tower"
     },
     {
       "name": "08-combined-tower.webp",
@@ -52,16 +40,28 @@
       "from": "bf60 pages 6-9 — the combined tower on its base"
     },
     {
-      "name": "09-balcony-space.webp",
-      "sha256": "0f874f5436d5b8e25b761b90abee60cea8bb82465e040a8cb73371b360907ed9",
-      "bytes": 21448,
-      "from": "bf60 pages 6-9 — a balcony space with figures"
+      "name": "07-joined-models.webp",
+      "sha256": "ecb81cacd6e94f92e770e9e63b7f9b20eba2b22b9e677c667fa76cd98414d7cc",
+      "bytes": 56192,
+      "from": "restored reference image (joined models)"
     },
     {
-      "name": "10-veranda-space.webp",
-      "sha256": "662f0eff003a5561aa30ba4627362b6e9e4cae2eaa1f533380c405d09c47990c",
-      "bytes": 38084,
-      "from": "bf60 pages 6-9 — a veranda space within the frame"
+      "name": "11-tower-of-babel-and-primitive-hut.webp",
+      "sha256": "536e92800858fa6324f2ef7812542521db4a9763ab7c1b61e24e7fe094e15855",
+      "bytes": 183114,
+      "from": "restored reference image (tower of babel and primitive hut)"
+    },
+    {
+      "name": "12-landscape-photo.webp",
+      "sha256": "8cdccc6a441eb3591c720605b5ae04ba4450c6475a0c25b5984bc4b13db7bae5",
+      "bytes": 209144,
+      "from": "restored reference image (landscape photo)"
+    },
+    {
+      "name": "13-shaping-the-model-by-hand.webp",
+      "sha256": "6769ad7049d4f5210a1ea42bbdedc7e980ea7e257c41f0df02ee480e91b20550",
+      "bytes": 43208,
+      "from": "restored reference image (shaping the model by hand)"
     }
   ]
 }

@@ -46,22 +46,22 @@
       "from": "bf60 pages 12-15 — the final form from another side"
     },
     {
-      "name": "08-plastic-detail.webp",
-      "sha256": "bfe95b33974cd82be4961438b96e3cd3651fbf5127c2730bcc29c374a5fc0bbb",
-      "bytes": 181482,
-      "from": "bf60 pages 12-15 — membranes and openings in close view"
+      "name": "11-fig-tree-and-cave-references.webp",
+      "sha256": "71f1ad0b488c28673760f9385d08ec3f78c450b91434d5dd3b59da63b2481a36",
+      "bytes": 153130,
+      "from": "restored reference image (fig tree and cave references)"
     },
     {
-      "name": "09-plastic-fibres.webp",
-      "sha256": "762f9db00ace205f1cbd4095f7b75e270ae769ff6e88e4ca3a7f05a077eed8dc",
-      "bytes": 29826,
-      "from": "bf60 pages 12-15 — strands pulled from the plastic"
+      "name": "12-softening-and-pulling-plastic-by-hand.webp",
+      "sha256": "b3ea1fb5f5459cf0294382d71e20a2b38c47c18f510a37a32017defbf6690aa8",
+      "bytes": 160174,
+      "from": "restored reference image (softening and pulling plastic by hand)"
     },
     {
-      "name": "10-two-views.webp",
-      "sha256": "9fed6686b9d74ec4fcac5c7badf1ffffc7497feb3de1c11b266b6d1813a852c6",
-      "bytes": 87380,
-      "from": "bf60 pages 12-15 — two views of the glowing form"
+      "name": "13-pulling-the-clay-by-hand.webp",
+      "sha256": "1e6e6cf18cb7bf69a43544f940d6f811e52f1eaa4244b550714abaa5da3311b0",
+      "bytes": 43674,
+      "from": "restored reference image (pulling the clay by hand)"
     }
   ]
 }
