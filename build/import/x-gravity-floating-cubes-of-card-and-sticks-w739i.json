@@ -1,0 +1,13 @@
+{
+  "project": "X-Gravity",
+  "dest": "assets/board/x-gravity-floating-cubes-of-card-and-sticks",
+  "note": "w739i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-exhibition-photos.webp",
+      "sha256": "81aa82a7887b54aa09e4e672c2111c37c0048f9e4f19498ae389b0b70a98c1f7",
+      "bytes": 63974,
+      "from": "restored reference image (exhibition photos)"
+    }
+  ]
+}
