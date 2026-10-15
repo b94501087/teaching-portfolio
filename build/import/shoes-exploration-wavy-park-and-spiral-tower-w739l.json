@@ -1,0 +1,38 @@
+{
+  "project": "Shoes Exploration",
+  "dest": "assets/board/shoes-exploration-wavy-park-and-spiral-tower",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-space-analysis-sketches.webp",
+      "sha256": "edb492c525202730d02c4569395fd438e18429e89cfb7b2c3445c66dfc988ca7",
+      "bytes": 85276,
+      "from": "restored reference image (space analysis sketches)"
+    },
+    {
+      "name": "12-dismantling-the-sneakers-by-hand.webp",
+      "sha256": "978646aa698f8cdab1775823a8892008803f4827fc5cde7e930a446319469d25",
+      "bytes": 104444,
+      "from": "restored reference image (dismantling the sneakers by hand)"
+    },
+    {
+      "name": "13-sneaker-reconstruction.webp",
+      "sha256": "ca081e3d2ce2a28190c2f4ad7c3ac62115eefd590130620944aaea30aab3a13c",
+      "bytes": 158382,
+      "from": "restored reference image (sneaker reconstruction)"
+    },
+    {
+      "name": "14-final-model-with-sneaker-callouts.webp",
+      "sha256": "ec16b1cdc7746e7a8d125900609e16a0400da585aa6a700c4e3e15079593a588",
+      "bytes": 216028,
+      "from": "restored reference image (final model with sneaker callouts)"
+    }
+  ],
+  "delete": [
+    "assets/board/shoes-exploration-wavy-park-and-spiral-tower/03-space-analysis-a.webp",
+    "assets/board/shoes-exploration-wavy-park-and-spiral-tower/04-space-analysis-b.webp",
+    "assets/board/shoes-exploration-wavy-park-and-spiral-tower/05-space-analysis-c.webp",
+    "assets/board/shoes-exploration-wavy-park-and-spiral-tower/09-spiral-arches.webp",
+    "assets/board/shoes-exploration-wavy-park-and-spiral-tower/10-arch-canopy.webp"
+  ]
+}
