@@ -1,0 +1,22 @@
+{
+  "project": "Chairs",
+  "dest": "assets/board/chairs-sketch-collage-turned-ribbon-playground",
+  "note": "w739i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-model-views.webp",
+      "sha256": "e4483cd81900d85133f50060e3e163701f830d69556156c992a0172e7a28b298",
+      "bytes": 112656,
+      "from": "restored reference image (model views)"
+    },
+    {
+      "name": "11-magazine-picture-collage.webp",
+      "sha256": "0b02a107b3cde624f1b379bf88a1003dbc516437713a124f54a567dc1ca4cfcc",
+      "bytes": 35440,
+      "from": "restored reference image (magazine picture collage)"
+    }
+  ],
+  "delete": [
+    "assets/board/chairs-sketch-collage-turned-ribbon-playground/09-ribbon-interior.webp"
+  ]
+}

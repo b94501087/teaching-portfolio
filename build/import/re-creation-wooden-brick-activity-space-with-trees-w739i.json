@@ -1,0 +1,23 @@
+{
+  "project": "Re-Creation",
+  "dest": "assets/board/re-creation-wooden-brick-activity-space-with-trees",
+  "note": "w739i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-site-photo-collages.webp",
+      "sha256": "e6b815dc141a471a91ca7586978b678ee5eb3df085bb58829e8d18d63ca79afd",
+      "bytes": 111802,
+      "from": "restored reference image (site photo collages)"
+    },
+    {
+      "name": "12-stacking-bricks-by-hand.webp",
+      "sha256": "bb05aed152a78473b3fb464671885478cf06e9a33fbe13152b9c021efdd26fc6",
+      "bytes": 14656,
+      "from": "restored reference image (stacking bricks by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/re-creation-wooden-brick-activity-space-with-trees/06-brick-stacks-b.webp",
+    "assets/board/re-creation-wooden-brick-activity-space-with-trees/10-detail-views.webp"
+  ]
+}
