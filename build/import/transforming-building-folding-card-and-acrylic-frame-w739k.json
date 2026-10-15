@@ -1,0 +1,30 @@
+{
+  "project": "Transforming a Multifunctional Building",
+  "dest": "assets/board/transforming-building-folding-card-and-acrylic-frame",
+  "note": "w739k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-gundam-model-photos.webp",
+      "sha256": "f2b88fd136ec35f8aed775ebf75715a476e6d9844dffc91b2aba5754d3c7f1bc",
+      "bytes": 68866,
+      "from": "restored reference image (gundam model photos)"
+    },
+    {
+      "name": "12-assembling-by-hand.webp",
+      "sha256": "3a2852c79005ed48aca185015f9d5c136e1135c7bd6a28b5f2d8688f63392e47",
+      "bytes": 178712,
+      "from": "restored reference image (assembling by hand)"
+    },
+    {
+      "name": "13-river-photo-montage.webp",
+      "sha256": "3c87051aaedbc8aabfdd7753163bcd66e613b1e00633dae7b910d20b287832c1",
+      "bytes": 268938,
+      "from": "restored reference image (river photo montage)"
+    }
+  ],
+  "delete": [
+    "assets/board/transforming-building-folding-card-and-acrylic-frame/05-stage-one-model-a.webp",
+    "assets/board/transforming-building-folding-card-and-acrylic-frame/06-stage-one-model-b.webp",
+    "assets/board/transforming-building-folding-card-and-acrylic-frame/09-stage-two-detail.webp"
+  ]
+}
