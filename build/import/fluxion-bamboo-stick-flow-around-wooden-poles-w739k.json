@@ -1,0 +1,30 @@
+{
+  "project": "Fluxion",
+  "dest": "assets/board/fluxion-bamboo-stick-flow-around-wooden-poles",
+  "note": "w739k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-timber-reference-and-flow-sketch.webp",
+      "sha256": "adf9c6cea53d7630012f825cd2d6c223e879fad05aa1744e73367616a4628565",
+      "bytes": 102790,
+      "from": "restored reference image (timber reference and flow sketch)"
+    },
+    {
+      "name": "12-gluing-sticks-by-hand.webp",
+      "sha256": "f6283928c12444f5425dba50c08c9b83a223b099c2eae8ec208fa61a7d6cd2a7",
+      "bytes": 80230,
+      "from": "restored reference image (gluing sticks by hand)"
+    },
+    {
+      "name": "13-prototype-around-the-poles.webp",
+      "sha256": "8965e288ff3a5945ad31462b9cf33628f6f58796bd7ce13a7b309c0d8ef17022",
+      "bytes": 154780,
+      "from": "restored reference image (prototype around the poles)"
+    }
+  ],
+  "delete": [
+    "assets/board/fluxion-bamboo-stick-flow-around-wooden-poles/02-flow-sketch.webp",
+    "assets/board/fluxion-bamboo-stick-flow-around-wooden-poles/04-prototype-b.webp",
+    "assets/board/fluxion-bamboo-stick-flow-around-wooden-poles/06-prototype-detail.webp"
+  ]
+}
