@@ -1,0 +1,19 @@
+{
+  "project": "Space Within a Space",
+  "dest": "assets/board/space-within-a-space-loofah-section-paper-model",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-loofah-cross-section-photo.webp",
+      "sha256": "fbaf39db19ca86e3261b9b804fbd04289322baa465f5ed2a21678edf22557bd7",
+      "bytes": 45646,
+      "from": "restored reference image (loofah cross section photo)"
+    },
+    {
+      "name": "08-loofah-photo.webp",
+      "sha256": "b44fe8c6c865575c2d033e2901ac5e1e45f5a50930a29d9ed36a7458a0dc7c9a",
+      "bytes": 31016,
+      "from": "restored reference image (loofah photo)"
+    }
+  ]
+}
