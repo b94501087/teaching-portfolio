@@ -1,0 +1,19 @@
+{
+  "project": "Shell of Safety",
+  "dest": "assets/board/shell-of-safety-broken-glass-and-mirror-model",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "04-shell-in-tree.webp",
+      "sha256": "bf56a72908a9e526de2709e596ab1dc280225674e014df3049bde02f92f2afb2",
+      "bytes": 152604,
+      "from": "restored reference image (shell in tree)"
+    },
+    {
+      "name": "08-title-over-glass-shards.webp",
+      "sha256": "1d33b5ab1022e1cd576cee900673f3e0fdf3132b925d5cef64d4979baefce379",
+      "bytes": 33590,
+      "from": "restored reference image (title over glass shards)"
+    }
+  ]
+}

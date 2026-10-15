@@ -1,0 +1,37 @@
+{
+  "project": "Walkway of Infinity",
+  "dest": "assets/board/walkway-of-infinity-paper-loops-to-wooden-slat-path",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-holding-the-standing-spiral.webp",
+      "sha256": "ad992d1688618a031e2462e0ef0502c1bd69a0698ad0380b77c8ce95d8d39115",
+      "bytes": 35252,
+      "from": "restored reference image (holding the standing spiral)"
+    },
+    {
+      "name": "12-pavilion-photomontage-on-site.webp",
+      "sha256": "13add9753b9fa01564c40ef7efb690a1e00f5de7cf933f3ef8a259c8ed056838",
+      "bytes": 214348,
+      "from": "restored reference image (pavilion photomontage on site)"
+    },
+    {
+      "name": "13-twisting-paper-loops-by-hand.webp",
+      "sha256": "4512a2eb1e0aa0abb5ce9bf51e39e5946ac5ebb9b1f07a8603c647a75c0e2231",
+      "bytes": 129230,
+      "from": "restored reference image (twisting paper loops by hand)"
+    },
+    {
+      "name": "14-gluing-wooden-slats-by-hand.webp",
+      "sha256": "b5dd6126aa6186e804776cf66e33ecc50d1daf915fc900460d1742a6c04cfa26",
+      "bytes": 229448,
+      "from": "restored reference image (gluing wooden slats by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/walkway-of-infinity-paper-loops-to-wooden-slat-path/05-paper-loop-b.webp",
+    "assets/board/walkway-of-infinity-paper-loops-to-wooden-slat-path/06-paper-loop-c.webp",
+    "assets/board/walkway-of-infinity-paper-loops-to-wooden-slat-path/09-wood-path-b.webp",
+    "assets/board/walkway-of-infinity-paper-loops-to-wooden-slat-path/10-wood-path-close.webp"
+  ]
+}
