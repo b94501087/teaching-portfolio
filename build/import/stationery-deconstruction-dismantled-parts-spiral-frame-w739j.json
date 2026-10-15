@@ -1,0 +1,23 @@
+{
+  "project": "Stationery Deconstruction",
+  "dest": "assets/board/stationery-deconstruction-dismantled-parts-spiral-frame",
+  "note": "w739j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-stationery-watercolour-sheet.webp",
+      "sha256": "7cd722119c183d89de6df71ed714227113c7d246c29ab92f96c9a39b2971601a",
+      "bytes": 167670,
+      "from": "restored reference image (stationery watercolour sheet)"
+    },
+    {
+      "name": "12-painting-the-model-by-hand.webp",
+      "sha256": "2ec0628f7a4ae2f26ac16fc10023f531906d9d9084358456e10ec982ff5be1ee",
+      "bytes": 122486,
+      "from": "restored reference image (painting the model by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/stationery-deconstruction-dismantled-parts-spiral-frame/06-colour-model-side.webp",
+    "assets/board/stationery-deconstruction-dismantled-parts-spiral-frame/08-glue-shadow.webp"
+  ]
+}
