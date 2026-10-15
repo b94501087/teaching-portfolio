@@ -1,0 +1,67 @@
+{
+  "project": "Exhibition Hall of the Institute of Design",
+  "dest": "assets/board/exhibition-hall-behaviour-cubes-and-space-script",
+  "note": "Portfolio ee62 pages 12-14 cropped to 10 images, WebP (PIL). Not used: title-page project info block (supervisor name, e-mail); site-plan caption line naming the campus masked.",
+  "files": [
+    {
+      "name": "01-plans-and-renders.webp",
+      "sha256": "cf87d83909fd0c770f101f3af409bf27ecff86db9b5e9c3e95a03827b8335bc4",
+      "bytes": 147016,
+      "from": "ee62 pages 12-14 — floor plans and rendered views of the hall"
+    },
+    {
+      "name": "02-behaviour-cubes.webp",
+      "sha256": "49ddb2aad174f384be6d86bf07dffdcd139a65bdac01c2903b42edc18d2c58e3",
+      "bytes": 264128,
+      "from": "ee62 pages 12-14 — drawings of behaviours enclosed in simple cubes"
+    },
+    {
+      "name": "03-behaviour-sections.webp",
+      "sha256": "7a56a8f29301b9e7c9a84501cb9b18e744a62977c1f0d6730c4757c5bb0334ac",
+      "bytes": 60424,
+      "from": "ee62 pages 12-14 — behaviour cubes joined into long sections"
+    },
+    {
+      "name": "04-cube-models.webp",
+      "sha256": "0ca58646b92fd183c5ed845b7bea92577ede48156845767d0513bef46e065e9a",
+      "bytes": 45538,
+      "from": "ee62 pages 12-14 — cube models of the programme arrangements"
+    },
+    {
+      "name": "05-site-sketches.webp",
+      "sha256": "1bb360a67f0c1b1e47242d3a0bf8f2e4d7e532d3cceafdeba6fd3dc5d45f587d",
+      "bytes": 110468,
+      "from": "ee62 pages 12-14 — site sketches of paths and landscape"
+    },
+    {
+      "name": "06-site-plan.webp",
+      "sha256": "37603e453c3d0ef775ecb44babc5bfc95ff8c88040c8f12224ba850fdb355252",
+      "bytes": 98300,
+      "from": "ee62 pages 12-14 — the site plan of the hall on the campus"
+    },
+    {
+      "name": "07-coloured-plan-studies.webp",
+      "sha256": "4085ca016afdaa8e0dcf8517fec9fec7c9a62f96a70c8b010f5beee2784e0f55",
+      "bytes": 100144,
+      "from": "ee62 pages 12-14 — coloured plan studies of the zones"
+    },
+    {
+      "name": "08-timetable.webp",
+      "sha256": "874a3b4f81ed9387d7df3b6b9847c04571c2d7bebf4f8a84a8409ff692f5dd67",
+      "bytes": 239456,
+      "from": "ee62 pages 12-14 — a timetable of room use through the day"
+    },
+    {
+      "name": "09-space-script.webp",
+      "sha256": "3ef1047c73ac222fe6ec8b1c0459bb67793c01ae7d79001c2bc8f15145974f26",
+      "bytes": 158826,
+      "from": "ee62 pages 12-14 — the space script drawn as exploded axonometrics"
+    },
+    {
+      "name": "10-elevations.webp",
+      "sha256": "1f2e68b0f552caff2afc8fc944a54b9324a83b9b0d5c79b9a316cc32ccab10a1",
+      "bytes": 49246,
+      "from": "ee62 pages 12-14 — elevations of the hall"
+    }
+  ]
+}
