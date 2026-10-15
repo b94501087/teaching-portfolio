@@ -1,0 +1,29 @@
+{
+  "project": "Village Stacks",
+  "dest": "assets/board/village-stacks-pvc-urban-village-models",
+  "note": "w738z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-street-photo-collage.webp",
+      "sha256": "3ff2a82c61dd912e024b985da16f14c1cef3b4348efd36e8d446127332960ba3",
+      "bytes": 172022,
+      "from": "restored reference image (street photo collage)"
+    },
+    {
+      "name": "11-village-street-photos.webp",
+      "sha256": "9d35eb701a92e5cbdb7bd984481888525289e19f9ae5111c664dd1d3b2394208",
+      "bytes": 95376,
+      "from": "restored reference image (village street photos)"
+    },
+    {
+      "name": "12-maker-with-the-model.webp",
+      "sha256": "f949cf3061c859ddb07dcc6ef01f6e3063d869407d6652407bf1a7bd7bab6bd4",
+      "bytes": 203632,
+      "from": "restored reference image (maker with the model)"
+    }
+  ],
+  "delete": [
+    "assets/board/village-stacks-pvc-urban-village-models/06-stacked-tower-pair.webp",
+    "assets/board/village-stacks-pvc-urban-village-models/08-cantilevered-floors-close.webp"
+  ]
+}
