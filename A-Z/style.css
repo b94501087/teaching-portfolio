@@ -50,3 +50,28 @@ a:hover{text-decoration:underline}
   aside{position:relative;width:auto;height:auto}
   main,.doc{margin-left:0}
 }
+/* cv (/cv/): resume layout */
+.doc.cv{max-width:760px}
+.cv-top{display:flex;align-items:baseline;justify-content:space-between;gap:16px}
+.cv-langs{display:flex;gap:12px}
+.cv-langs button{appearance:none;border:0;background:none;padding:0;font:inherit;font-size:13px;color:#888;cursor:pointer}
+.cv-langs button:hover,.cv-langs button.on{color:#111}
+.cv-langs button.on{text-decoration:underline;text-underline-offset:3px}
+.cv-lead{margin:6px 0 18px;color:#555}
+.cv-stats{display:flex;flex-wrap:wrap;gap:6px 28px;margin:0 0 8px;padding:14px 0;border-top:1px solid #e4e4e4;border-bottom:1px solid #e4e4e4}
+.cv-stats li{color:#555;font-size:15px}
+.cv-stats .cv-hours{flex-basis:100%}
+.cv-note{margin:2px 0 0;color:#444}
+.cv-stats strong{color:#222;font-weight:600;font-size:18px;margin-right:2px}
+.cv-sec{margin:34px 0 0}
+.cv-sec h3{font-weight:400;font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:#9a9a9a;margin:0 0 12px;padding-bottom:6px;border-bottom:1px solid #e4e4e4}
+.cv-item{margin:0 0 14px}
+.cv-row{display:flex;justify-content:space-between;align-items:baseline;gap:16px}
+.cv-what{font-weight:600;color:#222}
+.cv-when{color:#888;font-size:14px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.cv-sec ul{margin:2px 0 0}
+.cv-sec li{position:relative;padding-left:1.1em;color:#444}
+.cv-sec li::before{content:"·";position:absolute;left:.25em;color:#9a9a9a}
+.cv-schools{columns:2;column-gap:28px}
+.cv-schools li{break-inside:avoid}
+@media(max-width:700px){.doc.cv{padding:28px 20px 64px}.cv-schools{columns:1}.cv-stats{gap:4px 18px}}
