@@ -1,0 +1,16 @@
+{
+  "project": "The Wave Corridor",
+  "dest": "assets/board/wave-corridor-folded-lattice-rib-canopy",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-mall-photos.webp",
+      "sha256": "6d10f5fbfdc37cb34460b47b9eb5c5c119b1783ae6e4da0517529e858bedabe9",
+      "bytes": 69194,
+      "from": "restored reference image (mall photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/wave-corridor-folded-lattice-rib-canopy/04-wire-curve-study.webp"
+  ]
+}
