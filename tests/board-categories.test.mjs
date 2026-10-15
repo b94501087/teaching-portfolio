@@ -9,7 +9,10 @@ const board = mergeBoard(JSON.parse(readFileSync(new URL('../content/board.json'
 const site = JSON.parse(readFileSync(new URL('../content/site.json', import.meta.url)));
 
 test('categories.json only uses the five categories', () => {
-  for (const [slug, c] of Object.entries(cats)) assert.ok(CATEGORIES.includes(c), slug + ': ' + c);
+  for (const [slug, c] of Object.entries(cats)) {
+    const l = Array.isArray(c) ? c : [c];
+    assert.ok(l.length >= 1 && l.length <= 3 && new Set(l).size === l.length && l.every(x => CATEGORIES.includes(x)), slug + ': ' + c);
+  }
 });
 test('categories.json only names pins that exist on the board', () => {
   const slugs = new Set((board.pins || []).map(p => p.slug));
@@ -28,6 +31,8 @@ test('sub-category filtering', () => {
   assert.ok(pinShown(arch, st('master')) && pinShown(none, st('master')));
   assert.ok(pinShown(arch, st('master', 'architecture')));
   assert.ok(!pinShown(arch, st('master', 'stage')));
+  const multi = { level: 'master', cat: ['architecture', 'urban'] };
+  assert.ok(pinShown(multi, st('master', 'architecture')) && pinShown(multi, st('master', 'urban')) && !pinShown(multi, st('master', 'stage')));
   assert.ok(!pinShown(none, st('master', 'architecture')), 'unmapped master pin shows under All only');
   assert.ok(!pinShown(ug, st('master')) && pinShown(ug, st('undergrad')) && !pinShown(own, st('undergrad')));
 });

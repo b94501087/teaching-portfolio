@@ -149,7 +149,7 @@ export function pinLevel(p) {
 }
 const BOARD_LANGS = ['en', 'zh-Hant'];
 const bl = (o, tag) => BOARD_LANGS.map(l => '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + esc(o[l]) + '</' + tag + '>').join('');
-// Master sub-categories (content/categories.json: { slug: "architecture" | ... }), loaded by the board
+// Master sub-categories (content/categories.json: { slug: "architecture" | ["architecture", "urban"] | ... }), loaded by the board
 // page at runtime so the mapping lives apart from board.json. A master pin missing from it shows under All only.
 export const CATEGORIES = ['architecture', 'landscape', 'urban', 'interior', 'stage'];
 export const CATEGORY_FILTER = { all: { en: 'All', 'zh-Hant': '全部' }, architecture: { en: 'Architecture', 'zh-Hant': '建築' }, landscape: { en: 'Landscape', 'zh-Hant': '景觀' }, urban: { en: 'Urban', 'zh-Hant': '城市' }, interior: { en: 'Interior', 'zh-Hant': '室內' }, stage: { en: 'Stage', 'zh-Hant': '舞台' } };
@@ -218,8 +218,10 @@ export function boardHash(st) {
 export function pinShown(pin, st) {
   if (st.f === 'all') return true;
   if (pin.level !== st.f) return false;
-  return st.f !== 'master' || st.cat === 'all' || pin.cat === st.cat;
+  return st.f !== 'master' || st.cat === 'all' || catList(pin.cat).includes(st.cat);
 }
+// A categories.json value is one category or a list of them (a pin matches if any entry matches).
+export const catList = c => (Array.isArray(c) ? c : [c]).filter(x => CATEGORIES.includes(x));
 
 const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".board"),L=' + JSON.stringify(LEVELS) + ',C=' + JSON.stringify(CATEGORIES) + ',S=' + JSON.stringify(SORTS) + ',st={f:"all",cat:"all",sort:"default"},pins=[].slice.call(b.querySelectorAll(".pin"));' +
   'function parse(){var h=location.hash.slice(1).split("&"),s={f:"all",cat:"all",sort:"default"};h.forEach(function(t){var kv=t.split("=");if(kv.length<2){if(L.indexOf(t)>=0)s.f=t}else if(kv[0]==="cat"&&C.indexOf(kv[1])>=0)s.cat=kv[1];else if(kv[0]==="sort"&&S.indexOf(kv[1])>=0)s.sort=kv[1]});if(s.f!=="master")s.cat="all";return s}' +
@@ -231,13 +233,13 @@ const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".boar
   'else if(s==="newest"||s==="oldest"){var e=s==="oldest"?1:-1;a.sort(function(x,y){return has(x.date)&&has(y.date)?e*(x.date-y.date)||x.i-y.i:has(x.date)?-1:has(y.date)?1:e*(x.i-y.i)})}' +
   'else a.sort(function(x,y){return x.i-y.i});a.forEach(function(k){b.appendChild(k.p)})}' +
   'function apply(){mark("data-filter",st.f);mark("data-cat-filter",st.cat);mark("data-sort",st.sort);var sub=document.querySelector(".subfilters");if(sub)sub.hidden=st.f!=="master";order();' +
-  'pins.forEach(function(p){p.hidden=st.f!=="all"&&(!p.classList.contains("lv-"+st.f)||st.f==="master"&&st.cat!=="all"&&p.getAttribute("data-cat")!==st.cat)});b.setAttribute("data-filter",st.f);b.setAttribute("data-cat",st.cat);b.setAttribute("data-sort",st.sort);' +
+  'pins.forEach(function(p){p.hidden=st.f!=="all"&&(!p.classList.contains("lv-"+st.f)||st.f==="master"&&st.cat!=="all"&&(" "+(p.getAttribute("data-cat")||"")+" ").indexOf(" "+st.cat+" ")<0)});b.setAttribute("data-filter",st.f);b.setAttribute("data-cat",st.cat);b.setAttribute("data-sort",st.sort);' +
   'var e=document.querySelector(".board-empty");if(e)e.hidden=!!b.querySelector(".pin:not([hidden])");if(b.classList.contains("masonry"))dispatchEvent(new Event("resize"))}' +
   'function save(){try{history.replaceState(null,"",hash()||location.pathname+location.search)}catch(z){}}' +
   'document.addEventListener("click",function(e){var c=e.target.closest&&e.target.closest("[data-filter],[data-cat-filter],[data-sort]");if(!c)return;' +
   'if(c.hasAttribute("data-filter")){st.f=c.getAttribute("data-filter");st.cat="all"}else if(c.hasAttribute("data-cat-filter"))st.cat=c.getAttribute("data-cat-filter");else st.sort=c.getAttribute("data-sort");apply();save()});' +
   'st=parse();apply();' +
-  'if(window.fetch)fetch("../content/categories.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var c=m[p.getAttribute("data-slug")];if(C.indexOf(c)>=0)p.setAttribute("data-cat",c)});apply()}).catch(function(){})})();</script>\n';
+  'if(window.fetch)fetch("../content/categories.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var c=m[p.getAttribute("data-slug")];c=(Array.isArray(c)?c:[c]).filter(function(x){return C.indexOf(x)>=0});if(c.length)p.setAttribute("data-cat",c.join(" "))});apply()}).catch(function(){})})();</script>\n';
 
 export function renderBoard(site, board, opts) {
   const n = site.nav;
