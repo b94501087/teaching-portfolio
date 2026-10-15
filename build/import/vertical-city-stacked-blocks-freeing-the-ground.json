@@ -28,22 +28,10 @@
       "from": "adc9 pages 10-13 — phase one of the stacking"
     },
     {
-      "name": "05-phase-three.webp",
-      "sha256": "8db37e067357cbd6e8e74138d8fb5d836768f6fbada76848cb40dace5f1707a0",
-      "bytes": 104114,
-      "from": "adc9 pages 10-13 — phase three of the stacking"
-    },
-    {
       "name": "06-refined-model.webp",
       "sha256": "887962e9fc54d497bfff545dc62db176a1f13b774276552dec37d9674998f466",
       "bytes": 167714,
       "from": "adc9 pages 10-13 — the refined model of towers"
-    },
-    {
-      "name": "07-view-from-above.webp",
-      "sha256": "8eb9536f2b4716f3c3195675ff65b54c151aa20e442d5545d851c2206333e580",
-      "bytes": 104920,
-      "from": "adc9 pages 10-13 — looking down between the towers"
     },
     {
       "name": "08-furniture-models.webp",
@@ -58,10 +46,22 @@
       "from": "adc9 pages 10-13 — a furnished interior room"
     },
     {
-      "name": "10-interior-room-b.webp",
-      "sha256": "7d6d021add2ac02499cbd35d3f15ae5a380c5e7037fabc232e6f9191d239e573",
-      "bytes": 41550,
-      "from": "adc9 pages 10-13 — a room with bunk beds"
+      "name": "11-tetris-screenshot.webp",
+      "sha256": "ba73c01163099466239ca59b863729c32e73352c59f34b11105b8b3f4913ffc4",
+      "bytes": 27974,
+      "from": "restored reference image (tetris screenshot)"
+    },
+    {
+      "name": "12-kowloon-walled-city-section.webp",
+      "sha256": "ba10b6d4d084919725451a0177c5b2048cebd149edcc95f4f794b2844fa6230c",
+      "bytes": 251832,
+      "from": "restored reference image (kowloon walled city section)"
+    },
+    {
+      "name": "13-arranging-blocks-by-hand.webp",
+      "sha256": "c1fec452585e9f5507d06b226863f640c4c32c320180f8d262fed89b7d035fa2",
+      "bytes": 84196,
+      "from": "restored reference image (arranging blocks by hand)"
     }
   ]
 }

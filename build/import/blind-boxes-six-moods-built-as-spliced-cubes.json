@@ -10,24 +10,6 @@
       "from": "adc9 pages 3-6 — the mood boxes spliced into one building"
     },
     {
-      "name": "02-imagine-drawing.webp",
-      "sha256": "c2c763c5370518a53dcff3ca4d2b3e59b634db6ad826eec78b4e3fc681f08609",
-      "bytes": 136356,
-      "from": "adc9 pages 3-6 — clustered hexagons for imagining"
-    },
-    {
-      "name": "03-disappointed-drawing.webp",
-      "sha256": "83a703e77aa5703ae20477d7cd6b84573c10fbc08d86f818cc3316263678d6cb",
-      "bytes": 59682,
-      "from": "adc9 pages 3-6 — scattered triangles for disappointment"
-    },
-    {
-      "name": "04-white-blocks.webp",
-      "sha256": "899f7ae2e7fa953370a21f2324420384e791b8ce2ba58036e8385798b36b3fbe",
-      "bytes": 89626,
-      "from": "adc9 pages 3-6 — early white block studies"
-    },
-    {
       "name": "05-shard-detail.webp",
       "sha256": "37c7beb99176878997ffb263337633981103db3af816af048da16a16f3ccbfe0",
       "bytes": 85528,
@@ -62,6 +44,24 @@
       "sha256": "f6bbf50e9466f08a8f539d4e6dc0bf322ebe15adb880b1c7081fd321e494aa1a",
       "bytes": 122256,
       "from": "adc9 pages 3-6 — a chain of small cubic frames"
+    },
+    {
+      "name": "11-mood-diagram-with-blind-box-figure.webp",
+      "sha256": "fdb7ed49b969c0e12bfde1595783a685160e3bcab3439b6ad726c5f5dea5eeaa",
+      "bytes": 203940,
+      "from": "restored reference image (mood diagram with blind box figure)"
+    },
+    {
+      "name": "12-blind-box-packaging-photo.webp",
+      "sha256": "a24b726f7542263894ed933956f3c2d93e93eb21b9859c57c1818987ffde99b5",
+      "bytes": 52282,
+      "from": "restored reference image (blind box packaging photo)"
+    },
+    {
+      "name": "13-making-the-blocks-by-hand.webp",
+      "sha256": "a0f09847b43254d343b093396d1eb12a991e4ed0334994c7a63b2fb65dd1a63f",
+      "bytes": 175356,
+      "from": "restored reference image (making the blocks by hand)"
     }
   ]
 }

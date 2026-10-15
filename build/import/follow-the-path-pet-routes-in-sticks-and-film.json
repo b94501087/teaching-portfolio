@@ -10,24 +10,6 @@
       "from": "adc9 pages 7-9 — curled film strips chasing across the base"
     },
     {
-      "name": "02-route-plan.webp",
-      "sha256": "89d77a267287002ed01656a2a9c4fcbe6fd4a5a14ff965c1c39401b9487f984b",
-      "bytes": 400686,
-      "from": "adc9 pages 7-9 — routes marked on a plan of the home"
-    },
-    {
-      "name": "03-frame-model-top.webp",
-      "sha256": "5ad0ac378040a2053f71fae540dfd4a157b9cb8e8469f529f9558883230c6f7e",
-      "bytes": 210676,
-      "from": "adc9 pages 7-9 — the frame model from above"
-    },
-    {
-      "name": "04-frame-model-front.webp",
-      "sha256": "2b37808f4d9263b6c41a84eaeba3193f47feb0f3f5dfbebf056a9c044656045e",
-      "bytes": 103368,
-      "from": "adc9 pages 7-9 — the frame model from the front"
-    },
-    {
       "name": "05-frame-model-angle.webp",
       "sha256": "1f075dea9aeb74196b87880086d1a005b60fbfc05652bdb579f1cbfe50a35705",
       "bytes": 97626,
@@ -62,6 +44,24 @@
       "sha256": "b894113c0b11ffca1fff53b832518818dab0374024db30155a91c9f5426d3dc1",
       "bytes": 241384,
       "from": "adc9 pages 7-9 — the film model in monochrome"
+    },
+    {
+      "name": "02-route-plan.webp",
+      "sha256": "01fa735aa0a915c373efbe23314ae07f7c36e948400a40d72972a0c7496977dd",
+      "bytes": 155782,
+      "from": "restored reference image (route plan)"
+    },
+    {
+      "name": "11-pets-chuchu-nana-coffee.webp",
+      "sha256": "2449424e7ba989ae959e1e0e18d1f5415f4f429cab0a655303da7d1fa8337775",
+      "bytes": 100248,
+      "from": "restored reference image (pets chuchu nana coffee)"
+    },
+    {
+      "name": "12-holding-the-film-strips.webp",
+      "sha256": "c14def8a9deb3e1800985aba15b759f156a6a98e300e92bdf7f9d0baa7edcfd1",
+      "bytes": 125790,
+      "from": "restored reference image (holding the film strips)"
     }
   ]
 }
