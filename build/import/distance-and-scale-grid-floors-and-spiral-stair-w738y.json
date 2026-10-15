@@ -1,0 +1,23 @@
+{
+  "project": "Distance and Scale",
+  "dest": "assets/board/distance-and-scale-grid-floors-and-spiral-stair",
+  "note": "w738y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-animated-city-image.webp",
+      "sha256": "437e9cd26ea6d9a910a40d31db5a2fd2c5871bea83f3255db00d8703b23570bb",
+      "bytes": 83608,
+      "from": "restored reference image (animated city image)"
+    },
+    {
+      "name": "12-animated-city-diagram.webp",
+      "sha256": "43ac96eb06f9c006ff7451d485b834b959b0c08aa8eb126d75abe430f4d25540",
+      "bytes": 29750,
+      "from": "restored reference image (animated city diagram)"
+    }
+  ],
+  "delete": [
+    "assets/board/distance-and-scale-grid-floors-and-spiral-stair/05-grid-floor-close-b.webp",
+    "assets/board/distance-and-scale-grid-floors-and-spiral-stair/06-grid-floor-close-c.webp"
+  ]
+}
