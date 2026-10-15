@@ -508,7 +508,7 @@ function updatePreview(resetScroll) {
     landing: () => renderLanding(d.site, { base }),
     board: () => renderBoard(d.site, d.board, { base }),
     detail: () => pin ? renderDetail(d.site, d.board, pin, { base, lang: state.editLang }) : '<p>還沒有作品。</p>',
-    az: () => renderAZ(d.site, d.az, { base }),
+    az: () => renderAZ(d.site, d.az, { base }, d.board, d.teaching),
     teaching: () => renderTeaching(d.site, d.teaching, { base }),
     consulting: () => renderConsulting(d.site, d.consulting, { base })
   }[page];

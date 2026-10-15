@@ -491,15 +491,29 @@ function sideNav(site, withEmail, here) {
     '</aside>\n';
 }
 
-export function renderAZ(site, az, opts) {
+// A–Z entries: the hand-written content/az.json entries plus, generated, every listed board pin
+// (/board/<slug>/) and every teaching workshop (/teaching/<slug>/), so new pins appear by themselves.
+// Each letter is sorted like the board's A–Z sort; generated entries carry a small kind tag.
+export function azEntries(az, board, teaching) {
+  const out = ((az && az.entries) || []).map(e => Object.assign({}, e));
+  for (const s of teachingStudios(teaching)) {
+    const en = String(s.subtitle || '').trim(), zh = String(s.title || '').trim();
+    out.push({ title: en ? en + (zh ? '（' + zh + '）' : '') : zh, link: '../teaching/' + s.slug + '/', kind: 'workshop' });
+  }
+  for (const p of (board ? listedPins(board) : [])) if (String(p.title || '').trim()) out.push({ title: p.title, link: '../board/' + p.slug + '/', kind: 'board' });
+  return out;
+}
+const AZ_KIND = { board: 'board', workshop: 'workshop' };
+export function renderAZ(site, az, opts, board, teaching) {
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="stylesheet" href="style.css"></head><body>\n' +
     sideNav(site, true, 'az') +
     '<main>\n';
-  for (const g of groupAZ(az.entries)) {
+  const cmp = (x, y) => sortTitle(x.title).localeCompare(sortTitle(y.title), 'en', { sensitivity: 'base', numeric: true });
+  for (const g of groupAZ(azEntries(az, board, teaching))) {
     h += '<section><h2>' + esc(g.label) + '</h2><ul>\n';
-    for (const e of g.entries) h += '  <li><a href="' + esc(safeUrl(e.link)) + '">' + esc(e.title) + '</a></li>\n';
+    for (const e of g.entries.slice().sort(cmp)) h += '  <li><a href="' + esc(safeUrl(e.link)) + '">' + esc(e.title) + '</a>' + (AZ_KIND[e.kind] ? ' <span class="az-k">' + AZ_KIND[e.kind] + '</span>' : '') + '</li>\n';
     h += '</ul></section>\n';
   }
   h += '</main>\n</body></html>\n';
@@ -890,7 +904,7 @@ export function renderAll(all, opts) {
   const out = {
     [PAGES.landing]: renderLanding(all.site, opts),
     [PAGES.board]: renderBoard(all.site, all.board, opts),
-    [PAGES.az]: renderAZ(all.site, all.az, opts),
+    [PAGES.az]: renderAZ(all.site, all.az, opts, all.board, all.teaching),
     [PAGES.teaching]: renderTeaching(all.site, all.teaching, opts),
     [PAGES.consulting]: renderConsulting(all.site, all.consulting, opts)
   };
