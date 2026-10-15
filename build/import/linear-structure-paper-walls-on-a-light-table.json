@@ -38,6 +38,12 @@
       "sha256": "8c11e65e7e9c57ce9274e71090544a697ee94bc614a213e11f1884a6dbf18202",
       "bytes": 40352,
       "from": "e9e5 pages 8-9 — the skyline of walls and trees"
+    },
+    {
+      "name": "07-highline-park-photo.webp",
+      "sha256": "8ae07b8aa9815bbb0f10aea3479dd34a93c3c52185b768383b09942f611eb18a",
+      "bytes": 211888,
+      "from": "restored reference image (highline park photo)"
     }
   ]
 }

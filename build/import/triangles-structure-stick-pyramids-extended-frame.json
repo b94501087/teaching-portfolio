@@ -16,12 +16,6 @@
       "from": "e9e5 pages 10-12 — a net of triangles"
     },
     {
-      "name": "03-stroke-study.webp",
-      "sha256": "2bc565be9c721942ae092b10ec42b7c2890b4fca778dd43e0949b037021d5f26",
-      "bytes": 61372,
-      "from": "e9e5 pages 10-12 — a study of strokes from a texture"
-    },
-    {
       "name": "04-pyramid-a.webp",
       "sha256": "046514e00b2f59393f56c07cc57d9d6c3adf65990d148d529d1ed0800be4aae9",
       "bytes": 14022,
@@ -62,6 +56,12 @@
       "sha256": "2bb2fc5014ffacce97548a694d05ce52654495c2517d840275a4834fbfaab97d",
       "bytes": 152752,
       "from": "e9e5 pages 10-12 — a tree beneath the frame"
+    },
+    {
+      "name": "11-texture-photo-studies.webp",
+      "sha256": "92cbbffcf94809586e70ef009d8f4fecbd66ff919238ce9fcd139203c82f8259",
+      "bytes": 220230,
+      "from": "restored reference image (texture photo studies)"
     }
   ]
 }
