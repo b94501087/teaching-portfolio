@@ -1,0 +1,29 @@
+{
+  "project": "Four Rooms of Rebirth",
+  "dest": "assets/board/four-rooms-of-rebirth-a-story-told-in-pvc-clay-and-film",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-film-poster.webp",
+      "sha256": "a0274bd6bce885f32924295720456461fbbb2adeb8705b9f898b3e47fc8702f6",
+      "bytes": 12078,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "09-film-stills-and-storyline-sketch.webp",
+      "sha256": "0557b86f5766d4a16ab7d61de721dde06245063c80d220326dc97612e83d975a",
+      "bytes": 263732,
+      "from": "restored reference image (film stills and storyline sketch)"
+    },
+    {
+      "name": "10-process-photos-by-hand.webp",
+      "sha256": "fa9d6b65030768e7ef5988a25c6e6c9ff739420144ea3bb6b2bf982b1ac7d2a0",
+      "bytes": 188364,
+      "from": "restored reference image (process photos by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/four-rooms-of-rebirth-a-story-told-in-pvc-clay-and-film/06-concept-sketch.webp",
+    "assets/board/four-rooms-of-rebirth-a-story-told-in-pvc-clay-and-film/07-stick-frame.webp"
+  ]
+}
