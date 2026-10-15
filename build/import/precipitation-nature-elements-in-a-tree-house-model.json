@@ -1,0 +1,49 @@
+{
+  "project": "Precipitation",
+  "dest": "assets/board/precipitation-nature-elements-in-a-tree-house-model",
+  "note": "Portfolio 5369 pages 5-6 cropped to 7 images, WebP (PIL).",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "685c4354667dea0ecec3fcbde1ea0c6fa147e18862edab7475a1c8b1509f17b0",
+      "bytes": 234670,
+      "from": "5369 pages 5-6 — the final model of branches, waves and wooden houses"
+    },
+    {
+      "name": "02-inspiration-and-analysis.webp",
+      "sha256": "feb197bbea8aa3ba9072282ec392b22b57fd480048506883b7cf02e40f51620c",
+      "bytes": 186028,
+      "from": "5369 pages 5-6 — the inspiration collage and the design drawing"
+    },
+    {
+      "name": "03-model-making.webp",
+      "sha256": "c9b5fd5fb9d4b123b49352a1032e414f04ccf0f14e2def3bd479990b591d8e16",
+      "bytes": 73784,
+      "from": "5369 pages 5-6 — the model in progress"
+    },
+    {
+      "name": "04-process-by-hand.webp",
+      "sha256": "be4e23dee0f831d167250b8170456c218b166c844d0a5bb20791d88433170546",
+      "bytes": 125756,
+      "from": "5369 pages 5-6 — shaping the clay and branches by hand"
+    },
+    {
+      "name": "05-model-on-base.webp",
+      "sha256": "94abfc109ab69eaa88e3126aa4dd39b5b0cba3c63ea136dc97597cda6eae0c93",
+      "bytes": 128898,
+      "from": "5369 pages 5-6 — the model on its base"
+    },
+    {
+      "name": "06-final-model-views.webp",
+      "sha256": "65b05bf8267b2a6cc1bc5b5ec1e9ffee72cd6a7f071566b89f1c0c4753dfb8ec",
+      "bytes": 117310,
+      "from": "5369 pages 5-6 — two views of the final model"
+    },
+    {
+      "name": "07-final-model-details.webp",
+      "sha256": "4b66167ab6d597a0ca1be8c6f09d28ca03b434b71ba128d4361c35f89eceb842",
+      "bytes": 247464,
+      "from": "5369 pages 5-6 — details of the houses, branches and waves"
+    }
+  ]
+}
