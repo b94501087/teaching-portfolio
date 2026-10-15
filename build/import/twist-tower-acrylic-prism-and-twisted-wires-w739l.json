@@ -1,0 +1,30 @@
+{
+  "project": "Twist Tower",
+  "dest": "assets/board/twist-tower-acrylic-prism-and-twisted-wires",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-landmark-tower-photo.webp",
+      "sha256": "f77676a70cf860cd2d8139c0aa102a4ea46a92e3c55154ef9225020e986c3840",
+      "bytes": 23256,
+      "from": "restored reference image (landmark tower photo)"
+    },
+    {
+      "name": "12-making-the-prism-by-hand.webp",
+      "sha256": "362d0aab0d8cb23fab6d7acff4e6de8ed6c60591ed88dc0e24bb025152bd2d73",
+      "bytes": 173492,
+      "from": "restored reference image (making the prism by hand)"
+    },
+    {
+      "name": "13-twist-test-by-hand-with-quotation.webp",
+      "sha256": "303ae43b95d2cd640678df155150793b1072982e76d6c0f26c3b9720b9d294fa",
+      "bytes": 213250,
+      "from": "restored reference image (twist test by hand with quotation)"
+    }
+  ],
+  "delete": [
+    "assets/board/twist-tower-acrylic-prism-and-twisted-wires/04-radial-detail.webp",
+    "assets/board/twist-tower-acrylic-prism-and-twisted-wires/05-tower-on-table.webp",
+    "assets/board/twist-tower-acrylic-prism-and-twisted-wires/06-twist-stages.webp"
+  ]
+}

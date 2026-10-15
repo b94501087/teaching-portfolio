@@ -1,0 +1,23 @@
+{
+  "project": "Section of the City",
+  "dest": "assets/board/section-of-the-city-mixed-use-overhang-building-model",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-inspiration-images-with-source.webp",
+      "sha256": "f3255bf195d1604603d799407415e3c541ce4e632087a60245bec60007c8f140",
+      "bytes": 176426,
+      "from": "restored reference image (inspiration images with source)"
+    },
+    {
+      "name": "12-making-the-model-by-hand.webp",
+      "sha256": "b3125ecaf062b581adebff752defd3e75132cf6b0c114a39cb5952c5433d3b91",
+      "bytes": 118412,
+      "from": "restored reference image (making the model by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/section-of-the-city-mixed-use-overhang-building-model/08-loft-unit.webp",
+    "assets/board/section-of-the-city-mixed-use-overhang-building-model/10-room-detail.webp"
+  ]
+}
