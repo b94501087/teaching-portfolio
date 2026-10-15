@@ -1,0 +1,13 @@
+{
+  "project": "Triangular Composition",
+  "dest": "assets/board/triangular-composition-folded-paper-in-a-stick-frame",
+  "note": "w739j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-source-photo.webp",
+      "sha256": "93b25d40a5ffb1e8c24fa239a35898caa04b3afc10cffb92eb8c5dd508005968",
+      "bytes": 57842,
+      "from": "restored reference image (source photo)"
+    }
+  ]
+}

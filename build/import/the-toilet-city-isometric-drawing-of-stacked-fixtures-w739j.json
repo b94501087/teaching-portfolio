@@ -1,0 +1,13 @@
+{
+  "project": "The Toilet City",
+  "dest": "assets/board/the-toilet-city-isometric-drawing-of-stacked-fixtures",
+  "note": "w739j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-real-toilet-photo.webp",
+      "sha256": "aea35bd3c9528378e7ba6d6ca12e54f2468a434eabfe5b01c81ab4927a43c05a",
+      "bytes": 49880,
+      "from": "restored reference image (real toilet photo)"
+    }
+  ]
+}
