@@ -1,0 +1,29 @@
+{
+  "project": "Lunabase",
+  "dest": "assets/board/lunabase-carved-foam-plaster-and-resin-cave-cast",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-holding-the-cast-by-hand.webp",
+      "sha256": "a9dfec23774c4ca9995c8752d3d728893ad8b34e7fe2172544e5f10ec9a7c642",
+      "bytes": 171336,
+      "from": "restored reference image (holding the cast by hand)"
+    },
+    {
+      "name": "11-cave-reference-photos.webp",
+      "sha256": "fe3b8874196be4142a6247217dbb6236c68501cd1dd8068a9356beadc5185418",
+      "bytes": 122608,
+      "from": "restored reference image (cave reference photos)"
+    },
+    {
+      "name": "12-fingertip-and-cast-detail.webp",
+      "sha256": "9ab4eab2139bedb3b51425c58b406af82086229b5a4f0203308641f8491000c0",
+      "bytes": 56334,
+      "from": "restored reference image (fingertip and cast detail)"
+    }
+  ],
+  "delete": [
+    "assets/board/lunabase-carved-foam-plaster-and-resin-cave-cast/04-pencil-b.webp",
+    "assets/board/lunabase-carved-foam-plaster-and-resin-cave-cast/08-detail-c.webp"
+  ]
+}
