@@ -1,0 +1,29 @@
+{
+  "project": "Follow the Path",
+  "dest": "assets/board/follow-the-path-pet-routes-in-sticks-and-film",
+  "note": "w739i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "02-route-plan.webp",
+      "sha256": "01fa735aa0a915c373efbe23314ae07f7c36e948400a40d72972a0c7496977dd",
+      "bytes": 155782,
+      "from": "restored reference image (route plan)"
+    },
+    {
+      "name": "11-pets-chuchu-nana-coffee.webp",
+      "sha256": "2449424e7ba989ae959e1e0e18d1f5415f4f429cab0a655303da7d1fa8337775",
+      "bytes": 100248,
+      "from": "restored reference image (pets chuchu nana coffee)"
+    },
+    {
+      "name": "12-holding-the-film-strips.webp",
+      "sha256": "c14def8a9deb3e1800985aba15b759f156a6a98e300e92bdf7f9d0baa7edcfd1",
+      "bytes": 125790,
+      "from": "restored reference image (holding the film strips)"
+    }
+  ],
+  "delete": [
+    "assets/board/follow-the-path-pet-routes-in-sticks-and-film/03-frame-model-top.webp",
+    "assets/board/follow-the-path-pet-routes-in-sticks-and-film/04-frame-model-front.webp"
+  ]
+}
