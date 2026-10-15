@@ -1,0 +1,37 @@
+{
+  "project": "The Blue Channel",
+  "dest": "assets/board/the-blue-channel-life-size-distance-installation",
+  "note": "w739e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-my-photographs-of-distance.webp",
+      "sha256": "0c23fe6775334146a03b35ceda5e749c73d20b80446db92e3a41938d4a560b4a",
+      "bytes": 104638,
+      "from": "restored reference image (my photographs of distance)"
+    },
+    {
+      "name": "12-inspiration-collage.webp",
+      "sha256": "1a5f0e4bca29c06fb649353e177a9e7a2abc3bb02fce83cd96c555f408fea4bc",
+      "bytes": 32424,
+      "from": "restored reference image (inspiration collage)"
+    },
+    {
+      "name": "13-mirror-and-distortion-collage.webp",
+      "sha256": "4f3748f0836ad62611cea87b8a648ae869e7aafbb198fec39a3be03ff338cc02",
+      "bytes": 39230,
+      "from": "restored reference image (mirror and distortion collage)"
+    },
+    {
+      "name": "14-standing-in-the-channel.webp",
+      "sha256": "d7d46f99de8b14e2ce7fb6b18b2fe3716f6f46a407e7bb9a7a2dc3db93979eb2",
+      "bytes": 31764,
+      "from": "restored reference image (standing in the channel)"
+    }
+  ],
+  "delete": [
+    "assets/board/the-blue-channel-life-size-distance-installation/03-tall-frame-study.webp",
+    "assets/board/the-blue-channel-life-size-distance-installation/04-small-box-study.webp",
+    "assets/board/the-blue-channel-life-size-distance-installation/09-channel-side-view.webp",
+    "assets/board/the-blue-channel-life-size-distance-installation/10-black-mass-close.webp"
+  ]
+}
