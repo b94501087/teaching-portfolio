@@ -1,0 +1,61 @@
+{
+  "project": "Renovation of the Family Hotel",
+  "dest": "assets/board/renovation-of-the-family-hotel-chaozhou-courtyard-house",
+  "note": "Portfolio ee62 pages 3-8 cropped to 9 images, WebP (PIL). Not used: p1 cover and p2 CV/contents (name, school, firm); title-page project info block (supervisor name, e-mail) and text paragraphs.",
+  "files": [
+    {
+      "name": "01-model-with-pitched-roof.webp",
+      "sha256": "dcae1c880e6421698bc1cd6820867515b2d2e0a495d9d74f4d283ee8e55d08e0",
+      "bytes": 161950,
+      "from": "ee62 pages 3-8 — the final model with its tiled roof and balcony"
+    },
+    {
+      "name": "02-street-sketches.webp",
+      "sha256": "acb847ed3ec4dd1e74f460c3632508fce6c907a73d9a8fc27f17bb3eed31b5bd",
+      "bytes": 151874,
+      "from": "ee62 pages 3-8 — sketches of the streets and landmarks of the old town"
+    },
+    {
+      "name": "03-history-map.webp",
+      "sha256": "981c066f88316708714b0b0e92c01b3942bc3a8cd5583fc60ce330078e4105ea",
+      "bytes": 215124,
+      "from": "ee62 pages 3-8 — the port history of the region drawn on a painted map"
+    },
+    {
+      "name": "04-site-analysis.webp",
+      "sha256": "cdcd7864d4e45474a11effee79e0d7fc6e89874a7f74bc3e98a4980b4ab7cdf6",
+      "bytes": 213814,
+      "from": "ee62 pages 3-8 — site analysis of the old streets and the house"
+    },
+    {
+      "name": "05-adaptation-and-sections.webp",
+      "sha256": "7108aa92ded2c7f4331f3777a55b8cfd5d29cf00f1584d94c12bc65eab76b0b3",
+      "bytes": 193688,
+      "from": "ee62 pages 3-8 — the courtyard pattern adapted to new uses, with a long section"
+    },
+    {
+      "name": "06-transformation-drawings.webp",
+      "sha256": "9caaca954582d0051ba8f67a35028de28eb352a19b4d5b7e2d51bc2d12beb0a8",
+      "bytes": 200970,
+      "from": "ee62 pages 3-8 — plans before and after, elevations and massing operations"
+    },
+    {
+      "name": "07-exploded-view.webp",
+      "sha256": "29add1ae1d20c23e96cd0f0d5469ec2746530f60a80358bc9104b8d8f194248b",
+      "bytes": 237692,
+      "from": "ee62 pages 3-8 — the exploded view from roof to timber frame"
+    },
+    {
+      "name": "08-interior-model-views.webp",
+      "sha256": "9e2db98a123342ba5fb649d1e2c80b47d58b7e66d40673eda488a34601d152d9",
+      "bytes": 210272,
+      "from": "ee62 pages 3-8 — interior views of the model atrium"
+    },
+    {
+      "name": "09-model-with-balcony.webp",
+      "sha256": "1c189fbebe600b8aff699b3ee600bf10dc829527b733485166d11e92264d0371",
+      "bytes": 98378,
+      "from": "ee62 pages 3-8 — the model with its balcony and timber railing"
+    }
+  ]
+}
