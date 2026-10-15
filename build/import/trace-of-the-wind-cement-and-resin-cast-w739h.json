@@ -1,0 +1,19 @@
+{
+  "project": "Trace of the Wind",
+  "dest": "assets/board/trace-of-the-wind-cement-and-resin-cast",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-catching-the-falling-tissue.webp",
+      "sha256": "b05a814a5a151d6274dbc386be5339880ed3432956d38f4e26d0755de5cb423a",
+      "bytes": 32272,
+      "from": "restored reference image (catching the falling tissue)"
+    },
+    {
+      "name": "10-heat-gun-on-plastic-by-hand.webp",
+      "sha256": "9f5ec1aa64620ed3f943c6a16a160cf58893eeac3d5b728047cf6bdd01e64ee1",
+      "bytes": 48202,
+      "from": "restored reference image (heat gun on plastic by hand)"
+    }
+  ]
+}
