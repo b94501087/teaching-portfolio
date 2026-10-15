@@ -1,0 +1,30 @@
+{
+  "project": "Human and Nature",
+  "dest": "assets/board/human-and-nature-branch-metal-and-wire-sculptures",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-artist-research.webp",
+      "sha256": "00668d8531ac6483b82dbd88ad30e60bf30527ce8db9ca812e287dbd5a23018c",
+      "bytes": 212044,
+      "from": "restored reference image (artist research)"
+    },
+    {
+      "name": "12-nature-and-city-collage.webp",
+      "sha256": "837edbb48c5468a15919102dc169342f23a7d9de8aec338ee5cec3d6cb4b1cee",
+      "bytes": 65248,
+      "from": "restored reference image (nature and city collage)"
+    },
+    {
+      "name": "13-making-by-hand.webp",
+      "sha256": "1c00f9e10c8073edc1b9fc8cd818533abdaf4559269289bacb12b48bfd4dab2b",
+      "bytes": 245276,
+      "from": "restored reference image (making by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/human-and-nature-branch-metal-and-wire-sculptures/04-metal-shards-test.webp",
+    "assets/board/human-and-nature-branch-metal-and-wire-sculptures/08-small-stem-final.webp",
+    "assets/board/human-and-nature-branch-metal-and-wire-sculptures/10-spread-branch-final.webp"
+  ]
+}
