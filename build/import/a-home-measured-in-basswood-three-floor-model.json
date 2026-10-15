@@ -32,6 +32,12 @@
       "sha256": "ad5b2a5062c36f10961fda77ce8d1588a24883812f81be60dd9c16d32088c33e",
       "bytes": 114820,
       "from": "9eaa pages 10-11 — perspectives of the floor models"
+    },
+    {
+      "name": "06-refining-the-model-by-hand.webp",
+      "sha256": "a4f6dfbe7f639f464f424fe600c5a071d2b319620ef8c46a166424326da090f8",
+      "bytes": 87832,
+      "from": "restored reference image (refining the model by hand)"
     }
   ]
 }

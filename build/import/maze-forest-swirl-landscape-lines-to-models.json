@@ -34,22 +34,10 @@
       "from": "9eaa pages 6-9 — a drawing of dotted waves"
     },
     {
-      "name": "06-maze-walls-close.webp",
-      "sha256": "7df81e1ebc4ab34fb0199021c74a8d1809cdf73f430a2a03c52c2eaecd776a25",
-      "bytes": 69080,
-      "from": "9eaa pages 6-9 — maze walls in close view"
-    },
-    {
       "name": "07-maze-in-low-light.webp",
       "sha256": "053b5f639ecd0bbac75fdc13fad276c024443fb8db726f84defd72360898f2ea",
       "bytes": 45836,
       "from": "9eaa pages 6-9 — the maze in low light"
-    },
-    {
-      "name": "08-forest-strips-from-above.webp",
-      "sha256": "be546a0fcfe6bcf7225981778645b433e722c4c895efba3df6c54b39bcabb5a9",
-      "bytes": 129400,
-      "from": "9eaa pages 6-9 — forest strips from above"
     },
     {
       "name": "09-swirl-floating-ring.webp",
@@ -58,10 +46,22 @@
       "from": "9eaa pages 6-9 — the swirl as a floating ring"
     },
     {
-      "name": "10-swirl-from-below.webp",
-      "sha256": "ebd320b35bda1023644780b51d30d1a52b19621f15daaba81b70ee2fbab4e668",
-      "bytes": 67686,
-      "from": "9eaa pages 6-9 — the swirl from below"
+      "name": "11-trip-landscape-photos.webp",
+      "sha256": "4e63f7fc99c3a2a11369fb4fa06fa0d337e25bd5f479026a090a582efe671a06",
+      "bytes": 62892,
+      "from": "restored reference image (trip landscape photos)"
+    },
+    {
+      "name": "12-holding-the-maze.webp",
+      "sha256": "58c0733efd088e5428da15c6ba8886754f5a3b2c0d14ebfc2c0456fb4d82a401",
+      "bytes": 81178,
+      "from": "restored reference image (holding the maze)"
+    },
+    {
+      "name": "13-making-process-photos.webp",
+      "sha256": "4cd1f171dae71b99da8b0e6bce193970cd87564c117b1b84b7d9191b2263f660",
+      "bytes": 93236,
+      "from": "restored reference image (making process photos)"
     }
   ]
 }
