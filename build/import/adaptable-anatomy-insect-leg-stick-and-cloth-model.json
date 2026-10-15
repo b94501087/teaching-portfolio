@@ -50,6 +50,12 @@
       "sha256": "88004533d293bb71e09ca68773534b0a171b35e0205452c957e2fb433b9d30ea",
       "bytes": 157366,
       "from": "029c pages 6-9 — an oblique view of the final model"
+    },
+    {
+      "name": "09-katydid-leaf-photo.webp",
+      "sha256": "14aac2644c65deea2c8239d117e5097c1c823ccfbbc0e2fe61ca7b01019796e6",
+      "bytes": 69138,
+      "from": "restored reference image (katydid leaf photo)"
     }
   ]
 }

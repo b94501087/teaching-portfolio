@@ -38,6 +38,18 @@
       "sha256": "851fec3d3d2d131d0e5a6090b1498fb0e42486260ccd549f1b750544229897e6",
       "bytes": 264914,
       "from": "029c pages 16-17 — panels of the illustrated city"
+    },
+    {
+      "name": "07-loofah-cross-section-photo.webp",
+      "sha256": "fbaf39db19ca86e3261b9b804fbd04289322baa465f5ed2a21678edf22557bd7",
+      "bytes": 45646,
+      "from": "restored reference image (loofah cross section photo)"
+    },
+    {
+      "name": "08-loofah-photo.webp",
+      "sha256": "b44fe8c6c865575c2d033e2901ac5e1e45f5a50930a29d9ed36a7458a0dc7c9a",
+      "bytes": 31016,
+      "from": "restored reference image (loofah photo)"
     }
   ]
 }
