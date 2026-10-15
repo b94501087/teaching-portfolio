@@ -1,0 +1,16 @@
+{
+  "project": "Wave Park",
+  "dest": "assets/board/wave-park-triangulated-ripples-as-open-pavilions",
+  "note": "w739i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-stock-water-photo.webp",
+      "sha256": "65a720a5fffa196347bfd592a25a6f48a02196bac162bb95bd8fc16e1bd57094",
+      "bytes": 101064,
+      "from": "restored reference image (stock water photo)"
+    }
+  ],
+  "delete": [
+    "assets/board/wave-park-triangulated-ripples-as-open-pavilions/10-pavilions-b.webp"
+  ]
+}
