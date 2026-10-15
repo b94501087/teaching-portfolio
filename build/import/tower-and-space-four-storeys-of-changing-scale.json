@@ -16,52 +16,34 @@
       "from": "4179 pages 9-10 — the tower from the side"
     },
     {
-      "name": "03-grid-from-above.webp",
-      "sha256": "9233cb530bb986645d24c135653aed2129ea0e65353f4ee9ce54ea40d2633ec3",
-      "bytes": 86466,
-      "from": "4179 pages 9-10 — the grid seen from above"
+      "name": "11-film-still-sequence.webp",
+      "sha256": "b5d050a27c0d1120b4c9d3910acfa047058417b0e951a8f900c021046af0c435",
+      "bytes": 95056,
+      "from": "restored reference image (film still sequence)"
     },
     {
-      "name": "04-upper-floor.webp",
-      "sha256": "fcdb2358cb0f34df49e5a4c3bd0f877bf8d5db9e9a6fdfba9de4cc71dfcc33d5",
-      "bytes": 46830,
-      "from": "4179 pages 9-10 — walls of an upper floor"
+      "name": "12-floor-one-panel-with-quotation.webp",
+      "sha256": "7a7f1315e11ad5d97823a9cf4b0972a4e722dc4051f40851a3293d5ae75125c0",
+      "bytes": 92276,
+      "from": "restored reference image (floor one panel with quotation)"
     },
     {
-      "name": "05-floor-two-blocks.webp",
-      "sha256": "7bba984009a4abbe94f0e9fd0b2b788983f6647da83153c715771aa06bc166c1",
-      "bytes": 21226,
-      "from": "4179 pages 9-10 — white blocks of the second floor"
+      "name": "13-floor-two-panel-with-quotation.webp",
+      "sha256": "07b421c1978a13bd62f88e9f85597d2f29b23ebd8948e083e4123d4a2b50f163",
+      "bytes": 96496,
+      "from": "restored reference image (floor two panel with quotation)"
     },
     {
-      "name": "06-floor-two-interior.webp",
-      "sha256": "7341f739fc97bbc5c3f67b6d4e1aa2434f1574ee1b0a6b4430d73ee3e7a8f5ae",
-      "bytes": 31794,
-      "from": "4179 pages 9-10 — inside the second floor"
+      "name": "14-floor-three-panel-with-quotation.webp",
+      "sha256": "d46d67e985fe0f62e913587c43ce7c3872b171f28ce409211c6c304c684e8ebd",
+      "bytes": 139258,
+      "from": "restored reference image (floor three panel with quotation)"
     },
     {
-      "name": "07-floor-three-stairs.webp",
-      "sha256": "97e050906dd5a28535f9c14bfdb8be55fe7ce12b2d61c0e86320598f2942a6c3",
-      "bytes": 93942,
-      "from": "4179 pages 9-10 — stairs and ropes of the third floor"
-    },
-    {
-      "name": "08-floor-three-climb.webp",
-      "sha256": "5d6626398ea93ead6c240c49dac2485edbbb7f3f6e10a4655f1c9afb385b6e09",
-      "bytes": 82582,
-      "from": "4179 pages 9-10 — figures climbing the third floor"
-    },
-    {
-      "name": "09-floor-four.webp",
-      "sha256": "da016289de02b51bb503932fda801a034ab512a52125976a155624758bcdb45e",
-      "bytes": 30048,
-      "from": "4179 pages 9-10 — the chamber of the fourth floor"
-    },
-    {
-      "name": "10-floor-one.webp",
-      "sha256": "ef1332aed1bea008b1a54c5001ed9a78b3d6a61d6d596eb056246b53019faf92",
-      "bytes": 42064,
-      "from": "4179 pages 9-10 — the labyrinth of the first floor"
+      "name": "15-floor-four-panel-with-quotation.webp",
+      "sha256": "e10d0143e473fcf75f846accb335740c5c6d475d7e99a9b865c0814053fd1916",
+      "bytes": 95580,
+      "from": "restored reference image (floor four panel with quotation)"
     }
   ]
 }

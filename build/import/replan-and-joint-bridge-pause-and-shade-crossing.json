@@ -40,22 +40,28 @@
       "from": "4179 pages 5-8 — steps for gathering"
     },
     {
-      "name": "07-model-view-b.webp",
-      "sha256": "df8424e14f0154b0e69d5023477e1c3da34580a76c43576d3eb02f243487f0d2",
-      "bytes": 13594,
-      "from": "4179 pages 5-8 — the branching bridge from above"
+      "name": "10-station-and-park-photos.webp",
+      "sha256": "ca3ae82e8a22d212d24f50ce1e860cda5673e3346e76c20ade410d8d60f06d2f",
+      "bytes": 88318,
+      "from": "restored reference image (station and park photos)"
     },
     {
-      "name": "08-model-view-c.webp",
-      "sha256": "cc8e8be211df388cf5c8025caf78e2461ed94a127253c9a1cfd9d4bb97ab078a",
-      "bytes": 12988,
-      "from": "4179 pages 5-8 — a long curve of the bridge"
+      "name": "11-location-research-and-observation.webp",
+      "sha256": "a70cd82deeda7803db263e0edafe5a9f8e33ab6a40b9528396c77a30b127180f",
+      "bytes": 199170,
+      "from": "restored reference image (location research and observation)"
     },
     {
-      "name": "09-model-view-d.webp",
-      "sha256": "af68f869cb80d646f159f86013324f9ad6b296be6fb0c51b3d364219e8b19167",
-      "bytes": 13922,
-      "from": "4179 pages 5-8 — seats sheltered by a raised edge"
+      "name": "12-mood-board.webp",
+      "sha256": "f65f46f29ecaff85ebacca618786a55684c0159255ed79e51ca2c1eb1ef41277",
+      "bytes": 126352,
+      "from": "restored reference image (mood board)"
+    },
+    {
+      "name": "13-annotated-model-diagram.webp",
+      "sha256": "b175613952d912659c6fc9ee656e9a30f67eaa2738dd6f12e5f677bafff73bd5",
+      "bytes": 100426,
+      "from": "restored reference image (annotated model diagram)"
     }
   ]
 }
