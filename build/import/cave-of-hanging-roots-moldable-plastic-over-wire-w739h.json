@@ -1,0 +1,30 @@
+{
+  "project": "Cave of Hanging Roots",
+  "dest": "assets/board/cave-of-hanging-roots-moldable-plastic-over-wire",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-fig-tree-and-cave-references.webp",
+      "sha256": "71f1ad0b488c28673760f9385d08ec3f78c450b91434d5dd3b59da63b2481a36",
+      "bytes": 153130,
+      "from": "restored reference image (fig tree and cave references)"
+    },
+    {
+      "name": "12-softening-and-pulling-plastic-by-hand.webp",
+      "sha256": "b3ea1fb5f5459cf0294382d71e20a2b38c47c18f510a37a32017defbf6690aa8",
+      "bytes": 160174,
+      "from": "restored reference image (softening and pulling plastic by hand)"
+    },
+    {
+      "name": "13-pulling-the-clay-by-hand.webp",
+      "sha256": "1e6e6cf18cb7bf69a43544f940d6f811e52f1eaa4244b550714abaa5da3311b0",
+      "bytes": 43674,
+      "from": "restored reference image (pulling the clay by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/cave-of-hanging-roots-moldable-plastic-over-wire/08-plastic-detail.webp",
+    "assets/board/cave-of-hanging-roots-moldable-plastic-over-wire/09-plastic-fibres.webp",
+    "assets/board/cave-of-hanging-roots-moldable-plastic-over-wire/10-two-views.webp"
+  ]
+}
