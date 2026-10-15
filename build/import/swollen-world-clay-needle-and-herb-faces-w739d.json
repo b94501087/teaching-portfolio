@@ -1,0 +1,28 @@
+{
+  "project": "Swollen World",
+  "dest": "assets/board/swollen-world-clay-needle-and-herb-faces",
+  "note": "w739d restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-skin-condition-concept-collage.webp",
+      "sha256": "4dc91d134467386502f96771490ec9d42e196aa6e0efeb9ce504f0beb14562d9",
+      "bytes": 196314,
+      "from": "restored reference image (skin condition concept collage)"
+    },
+    {
+      "name": "10-artist-research.webp",
+      "sha256": "c11efd27fcad444ad72bbb70bffeafad06d4c750d67be72310b5a6570808a3d9",
+      "bytes": 220922,
+      "from": "restored reference image (artist research)"
+    },
+    {
+      "name": "11-sculpting-the-faces.webp",
+      "sha256": "8eec5689cd91eafb10a4c029e4f79e5877c12519114c3565e3c9fa3fe260bef1",
+      "bytes": 119484,
+      "from": "restored reference image (sculpting the faces)"
+    }
+  ],
+  "delete": [
+    "assets/board/swollen-world-clay-needle-and-herb-faces/07-white-clay-test-face.webp"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "project": "Cozy Island",
+  "dest": "assets/board/cozy-island-bamboo-and-stick-retreat-model",
+  "note": "w739d restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-household-bathroom-collage.webp",
+      "sha256": "b59a1956e765d823d729b72da8da10f95a160d7f8871a480b984e9113465171c",
+      "bytes": 193142,
+      "from": "restored reference image (household bathroom collage)"
+    },
+    {
+      "name": "12-architect-research.webp",
+      "sha256": "227400237a34f62847659e493a55957ebcaec59f8f4525b64d5a17f0e33060f2",
+      "bytes": 227070,
+      "from": "restored reference image (architect research)"
+    },
+    {
+      "name": "13-weaving-sticks-by-hand.webp",
+      "sha256": "8d7151bca277dd7c8378357193a96cee7594f17752308e86a2ef51130409742c",
+      "bytes": 106632,
+      "from": "restored reference image (weaving sticks by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/cozy-island-bamboo-and-stick-retreat-model/04-bamboo-cane-and-sticks.webp",
+    "assets/board/cozy-island-bamboo-and-stick-retreat-model/06-early-stick-frame.webp",
+    "assets/board/cozy-island-bamboo-and-stick-retreat-model/09-stick-lattice-close.webp"
+  ]
+}
