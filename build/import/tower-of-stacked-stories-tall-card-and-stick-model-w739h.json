@@ -1,0 +1,25 @@
+{
+  "project": "Tower of Stacked Stories",
+  "dest": "assets/board/tower-of-stacked-stories-tall-card-and-stick-model",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-film-still-and-street-sign-collage.webp",
+      "sha256": "a1bab72f8f4a3be5b07de23fcbd703a080f544c89082cc196d345dd1bb5449b1",
+      "bytes": 223494,
+      "from": "restored reference image (film still and street sign collage)"
+    },
+    {
+      "name": "07-building-the-tower-by-hand.webp",
+      "sha256": "eb216bb001982bc595050697922cf99d454d1ea38e4ed59d4c07588ae847ad22",
+      "bytes": 223920,
+      "from": "restored reference image (building the tower by hand)"
+    },
+    {
+      "name": "08-the-tower-in-the-workshop.webp",
+      "sha256": "ebceb542c8f1bce9bbea0b88201d93ae1132c61145ff8ab043f0e52648c87a35",
+      "bytes": 117096,
+      "from": "restored reference image (the tower in the workshop)"
+    }
+  ]
+}
