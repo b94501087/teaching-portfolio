@@ -1,0 +1,13 @@
+{
+  "project": "Adaptable Anatomy",
+  "dest": "assets/board/adaptable-anatomy-insect-leg-stick-and-cloth-model",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-katydid-leaf-photo.webp",
+      "sha256": "14aac2644c65deea2c8239d117e5097c1c823ccfbbc0e2fe61ca7b01019796e6",
+      "bytes": 69138,
+      "from": "restored reference image (katydid leaf photo)"
+    }
+  ]
+}

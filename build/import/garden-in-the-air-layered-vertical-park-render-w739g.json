@@ -1,0 +1,13 @@
+{
+  "project": "Garden in the Air",
+  "dest": "assets/board/garden-in-the-air-layered-vertical-park-render",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-street-photo-collage.webp",
+      "sha256": "00e21425f95c7712c7ecb34415b7b5d88ad9435235f98a8181968e2a55b50612",
+      "bytes": 214550,
+      "from": "restored reference image (street photo collage)"
+    }
+  ]
+}
