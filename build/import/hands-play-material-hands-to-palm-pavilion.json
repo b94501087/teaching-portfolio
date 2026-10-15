@@ -46,12 +46,6 @@
       "from": "250b pages 11-12 — a clay shelter"
     },
     {
-      "name": "10-pavilion-side.webp",
-      "sha256": "3dfa9bd77595bf45bb31f2f69866cb1cf7d1a5eeaddcf80db7d81a0c434b1873",
-      "bytes": 37562,
-      "from": "250b pages 11-12 — the pavilion from the side"
-    },
-    {
       "name": "11-hand-posture-photos.webp",
       "sha256": "a3c29454b2d6bf7c75a3801ab2eaaaaac086f7cb4f466eabaaecbe50a4329b70",
       "bytes": 46046,
@@ -62,6 +56,12 @@
       "sha256": "70990948b0a629bb2abd8cf317743f0d84fcc8464296daaa9cca959db3c5abe2",
       "bytes": 23166,
       "from": "restored reference image (clenched fist photo)"
+    },
+    {
+      "name": "13-handwritten-notes-sketch.webp",
+      "sha256": "c9b73707d4e2cd0c58b368d21143ba3b849edffefd0e003d151d6b2827cfa62e",
+      "bytes": 76646,
+      "from": "restored reference image (handwritten notes sketch)"
     }
   ]
 }
