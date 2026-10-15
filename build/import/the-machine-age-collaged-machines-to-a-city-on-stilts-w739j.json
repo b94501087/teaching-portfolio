@@ -1,0 +1,30 @@
+{
+  "project": "The Machine Age",
+  "dest": "assets/board/the-machine-age-collaged-machines-to-a-city-on-stilts",
+  "note": "w739j restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-howls-moving-castle-film-stills.webp",
+      "sha256": "fecf41514ec3d2c98a5b8fa6579f1df9f7322b9247d23d44e5290232c75d274e",
+      "bytes": 254880,
+      "from": "restored reference image (howls moving castle film stills)"
+    },
+    {
+      "name": "12-patent-drawing-studies.webp",
+      "sha256": "1afca55eb0bf470a35871772818c66aae57f8a042dd034c199814c0b9de189b5",
+      "bytes": 248024,
+      "from": "restored reference image (patent drawing studies)"
+    },
+    {
+      "name": "13-moving-castle-drawing.webp",
+      "sha256": "39cf495c31e0967ca0f499c6b320b04f6e438e03e3fe7e006da8cb01b4a31d79",
+      "bytes": 264462,
+      "from": "restored reference image (moving castle drawing)"
+    }
+  ],
+  "delete": [
+    "assets/board/the-machine-age-collaged-machines-to-a-city-on-stilts/06-plan-low-view.webp",
+    "assets/board/the-machine-age-collaged-machines-to-a-city-on-stilts/07-stilts.webp",
+    "assets/board/the-machine-age-collaged-machines-to-a-city-on-stilts/10-vertical-detail.webp"
+  ]
+}
