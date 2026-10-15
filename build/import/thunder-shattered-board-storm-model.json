@@ -44,6 +44,12 @@
       "sha256": "4d2b09a85123b57cba9d578af94eb8bdb5574e1d3cf8c9eb49b1e5057b30d8dc",
       "bytes": 88830,
       "from": "23a6 pages 9-10 — looking into the eye"
+    },
+    {
+      "name": "08-storm-photo-with-link.webp",
+      "sha256": "6f077bd4f12d16aa31ea9f6904b1e6cd61c7a4e664eb6f4473d964b4226f231e",
+      "bytes": 17782,
+      "from": "restored reference image (storm photo with link)"
     }
   ]
 }

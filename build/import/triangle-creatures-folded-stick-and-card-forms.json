@@ -10,12 +10,6 @@
       "from": "23a6 page 5 — a creature of triangles"
     },
     {
-      "name": "02-triangle-net.webp",
-      "sha256": "f231416b09d146a12cd1369437a09d144261c173ae36685e2d9fd267d752f631",
-      "bytes": 132896,
-      "from": "23a6 page 5 — the net of triangles"
-    },
-    {
       "name": "03-creature-b.webp",
       "sha256": "f2e00ce98fa483230737cffe6fe067e138a87e0f95c97a150a1d9e6e5634407b",
       "bytes": 72754,
@@ -32,6 +26,12 @@
       "sha256": "26f385dca08cadc067303bbfdc17d83d1dbcf1613c4fc49d457064a07d155afb",
       "bytes": 52298,
       "from": "23a6 page 5 — a fourth folded form"
+    },
+    {
+      "name": "06-landscape-photo-and-triangulation.webp",
+      "sha256": "0e4fd96ad0298a2f32c388d70d6f006e988cc03fec0d0d21f8a633217fa0e188",
+      "bytes": 184024,
+      "from": "restored reference image (landscape photo and triangulation)"
     }
   ]
 }

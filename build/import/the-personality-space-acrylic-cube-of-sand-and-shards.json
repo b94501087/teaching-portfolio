@@ -16,30 +16,6 @@
       "from": "23a6 pages 6-8 — a concept sketch of the zones"
     },
     {
-      "name": "03-assembly-a.webp",
-      "sha256": "4a4ae52b9d40b95e657ff9bbba3ef6a394da107892b3f00ad94550a21ea0f4e1",
-      "bytes": 108004,
-      "from": "23a6 pages 6-8 — the cube during assembly"
-    },
-    {
-      "name": "04-assembly-b.webp",
-      "sha256": "1c191c80f89e2b04c53e0945a79fa0c42e20d5673e41688d822a7a33a40142f0",
-      "bytes": 115156,
-      "from": "23a6 pages 6-8 — sticks crossing inside the cube"
-    },
-    {
-      "name": "05-tolerable-zone.webp",
-      "sha256": "e97bcaef44bee9301fa06c5a53ce8f40d4d046aec67ecd7a5182fb710a6a916a",
-      "bytes": 58120,
-      "from": "23a6 pages 6-8 — the tolerable zone"
-    },
-    {
-      "name": "06-violent-zone.webp",
-      "sha256": "a7151159a77215a1dd6f643facfc7dd91fbf6900299198c6b69f61efe3b08439",
-      "bytes": 85250,
-      "from": "23a6 pages 6-8 — the violent zone with red shards"
-    },
-    {
       "name": "07-sand-box.webp",
       "sha256": "c2a602fe4ac7e8b6431fba7e6ae861cff24cc86c8368bb0a246a6c8f8ecc7742",
       "bytes": 156224,
@@ -62,6 +38,18 @@
       "sha256": "f93c5dc8cdaee9104c4d66f767ff239a16f9d211bce968cf4fcc5add9e7e100b",
       "bytes": 93552,
       "from": "23a6 pages 6-8 — a reflective prism detail"
+    },
+    {
+      "name": "11-assembling-the-cube-by-hand.webp",
+      "sha256": "d782b16059103e64567dcedd3d74a901f9d6c9df487d82aa10b54962dadb554d",
+      "bytes": 226414,
+      "from": "restored reference image (assembling the cube by hand)"
+    },
+    {
+      "name": "12-labelled-zone-views.webp",
+      "sha256": "8df02178780570609755a80d90585148c3a872a5a1f13a21fe6d85f121a63bc4",
+      "bytes": 188862,
+      "from": "restored reference image (labelled zone views)"
     }
   ]
 }

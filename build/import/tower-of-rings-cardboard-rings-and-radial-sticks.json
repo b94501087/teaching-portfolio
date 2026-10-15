@@ -10,18 +10,6 @@
       "from": "23a6 pages 3-4 — the tower of rings standing on its edge"
     },
     {
-      "name": "02-layer-sketches.webp",
-      "sha256": "406c293955fb2d8a87b487a8c9cd635243786662ef4ad85b0a3b82776880f5d3",
-      "bytes": 164354,
-      "from": "23a6 pages 3-4 — sketches of stacked circular layers"
-    },
-    {
-      "name": "03-light-table.webp",
-      "sha256": "aa26f4d7227f1e68d0dc2f4a39ac837b0869f863fd38b10db5e27f15d0775164",
-      "bytes": 159470,
-      "from": "23a6 pages 3-4 — the rings on a light table"
-    },
-    {
       "name": "04-ring-interior.webp",
       "sha256": "69259f5742ebe8b95b192d49892e8f2ef5d80d025f6cf08c4dd30b836df702ad",
       "bytes": 308444,
@@ -38,6 +26,24 @@
       "sha256": "c1a2fc41fcffc98b0b5dfd56c2f19818c6a7221a9742975bf144bcfe40f278bd",
       "bytes": 90008,
       "from": "23a6 pages 3-4 — the tower seen from the side"
+    },
+    {
+      "name": "03-light-table.webp",
+      "sha256": "ddd1b66f301c4d6677b65bc1a8517e7e06d711829cdb58524b1ca92a32480ece",
+      "bytes": 160630,
+      "from": "restored reference image (light table)"
+    },
+    {
+      "name": "07-historical-engraving-with-link.webp",
+      "sha256": "5469e45dd8f037f9fdd209b65993424478b939ed0408809ac945931d000117fb",
+      "bytes": 150982,
+      "from": "restored reference image (historical engraving with link)"
+    },
+    {
+      "name": "08-layer-sketches-with-handwritten-notes.webp",
+      "sha256": "be6d0de0eb4753775658c5946a7a6aa6eddb6368d181f73502c62bf0167895d7",
+      "bytes": 183716,
+      "from": "restored reference image (layer sketches with handwritten notes)"
     }
   ]
 }
