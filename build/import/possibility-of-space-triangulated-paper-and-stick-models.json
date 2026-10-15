@@ -22,12 +22,6 @@
       "from": "5918 pages 12-13 — the net laid over the wave"
     },
     {
-      "name": "04-line-net-b.webp",
-      "sha256": "88148a94bf7bfd8ff43a11ce33a8b428c9deda608008e7e838359ccbba440b4e",
-      "bytes": 124206,
-      "from": "5918 pages 12-13 — a finer triangular net"
-    },
-    {
       "name": "05-photo-net-b.webp",
       "sha256": "ca0f2b5978d8fb308b150a0befcf2fac75c576285bbcff0da027538a4defca2c",
       "bytes": 156492,
@@ -56,6 +50,18 @@
       "sha256": "17a46232e446b33605eb81ed0b6d2818d818595248e170f1fcc8736692e9a043",
       "bytes": 37372,
       "from": "5918 pages 12-13 — planes and sticks in tension"
+    },
+    {
+      "name": "10-cutting-the-card-by-hand.webp",
+      "sha256": "944c8b44e8f83c30cc6daebd44c0a6750d12755f2ef17399cb2a8bf6231b627e",
+      "bytes": 222788,
+      "from": "restored reference image (cutting the card by hand)"
+    },
+    {
+      "name": "11-holding-the-stick-frames.webp",
+      "sha256": "3c2d8e9b1232d2dfa7098562d5a5b823b664650fac48c600e606169e965a20c8",
+      "bytes": 53674,
+      "from": "restored reference image (holding the stick frames)"
     }
   ]
 }

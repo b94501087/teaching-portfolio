@@ -22,12 +22,6 @@
       "from": "5918 pages 9-11 — a pencil study of radiating lines"
     },
     {
-      "name": "04-pencil-b.webp",
-      "sha256": "651ff38f9e48cf4a1545bcde1bedff592953f6d5296f6a94f594a8a0c6ab1b9c",
-      "bytes": 29634,
-      "from": "5918 pages 9-11 — a pencil study of rings"
-    },
-    {
       "name": "05-pencil-c.webp",
       "sha256": "2e13ade06cf2a3d2899ca89244f66b82ae90d52a9cb79766462c92d26b35ecbf",
       "bytes": 48678,
@@ -40,12 +34,6 @@
       "from": "5918 pages 9-11 — blue resin within the cast"
     },
     {
-      "name": "08-detail-c.webp",
-      "sha256": "837be19cb9aa57817a33b575a49b1778decd933c704a925b9ef1ea1d9b4c2c88",
-      "bytes": 43772,
-      "from": "5918 pages 9-11 — a close view of the rough surface"
-    },
-    {
       "name": "09-detail-d.webp",
       "sha256": "6a1f58452f16f790566198aa2b86ac4c7527056c610f116803d25214572c1e2b",
       "bytes": 49176,
@@ -56,6 +44,24 @@
       "sha256": "fc048e0807e754a9db1ee801eb30f203a6c5796a982d090ccb718ed0bc7f5b49",
       "bytes": 135924,
       "from": "5918 pages 9-11 — the long profile of the cast"
+    },
+    {
+      "name": "06-holding-the-cast-by-hand.webp",
+      "sha256": "a9dfec23774c4ca9995c8752d3d728893ad8b34e7fe2172544e5f10ec9a7c642",
+      "bytes": 171336,
+      "from": "restored reference image (holding the cast by hand)"
+    },
+    {
+      "name": "11-cave-reference-photos.webp",
+      "sha256": "fe3b8874196be4142a6247217dbb6236c68501cd1dd8068a9356beadc5185418",
+      "bytes": 122608,
+      "from": "restored reference image (cave reference photos)"
+    },
+    {
+      "name": "12-fingertip-and-cast-detail.webp",
+      "sha256": "9ab4eab2139bedb3b51425c58b406af82086229b5a4f0203308641f8491000c0",
+      "bytes": 56334,
+      "from": "restored reference image (fingertip and cast detail)"
     }
   ]
 }
