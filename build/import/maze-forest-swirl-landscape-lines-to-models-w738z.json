@@ -1,0 +1,30 @@
+{
+  "project": "Maze, Forest, Swirl",
+  "dest": "assets/board/maze-forest-swirl-landscape-lines-to-models",
+  "note": "w738z restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-trip-landscape-photos.webp",
+      "sha256": "4e63f7fc99c3a2a11369fb4fa06fa0d337e25bd5f479026a090a582efe671a06",
+      "bytes": 62892,
+      "from": "restored reference image (trip landscape photos)"
+    },
+    {
+      "name": "12-holding-the-maze.webp",
+      "sha256": "58c0733efd088e5428da15c6ba8886754f5a3b2c0d14ebfc2c0456fb4d82a401",
+      "bytes": 81178,
+      "from": "restored reference image (holding the maze)"
+    },
+    {
+      "name": "13-making-process-photos.webp",
+      "sha256": "4cd1f171dae71b99da8b0e6bce193970cd87564c117b1b84b7d9191b2263f660",
+      "bytes": 93236,
+      "from": "restored reference image (making process photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/maze-forest-swirl-landscape-lines-to-models/06-maze-walls-close.webp",
+    "assets/board/maze-forest-swirl-landscape-lines-to-models/08-forest-strips-from-above.webp",
+    "assets/board/maze-forest-swirl-landscape-lines-to-models/10-swirl-from-below.webp"
+  ]
+}
