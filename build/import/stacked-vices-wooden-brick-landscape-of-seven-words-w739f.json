@@ -1,0 +1,19 @@
+{
+  "project": "Stacked Vices",
+  "dest": "assets/board/stacked-vices-wooden-brick-landscape-of-seven-words",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-film-poster.webp",
+      "sha256": "797d22df682ee1ea50621c8d801caadd18cca28168cf14a8cb5adb0ec1ef78f9",
+      "bytes": 40750,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "09-concept-board.webp",
+      "sha256": "90961f92aeebdc79dc41a85e7641203569a1b229fa561be2198e0e9b1fde554e",
+      "bytes": 138966,
+      "from": "restored reference image (concept board)"
+    }
+  ]
+}
