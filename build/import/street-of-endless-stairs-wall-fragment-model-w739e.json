@@ -1,0 +1,23 @@
+{
+  "project": "Street of Endless Stairs",
+  "dest": "assets/board/street-of-endless-stairs-wall-fragment-model",
+  "note": "w739e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-villa-mairea-floor-plan.webp",
+      "sha256": "ad8d46cd6a36b5e04bedd9473f2582de83d7d8374984d68b4f339918359a7efe",
+      "bytes": 38350,
+      "from": "restored reference image (villa mairea floor plan)"
+    },
+    {
+      "name": "12-maker-with-the-model.webp",
+      "sha256": "d7145c4f3621b632a2c0373cd990b902387ff08d14b6c8ec1bc512635ef96b29",
+      "bytes": 214690,
+      "from": "restored reference image (maker with the model)"
+    }
+  ],
+  "delete": [
+    "assets/board/street-of-endless-stairs-wall-fragment-model/05-overlapping-walls-close.webp",
+    "assets/board/street-of-endless-stairs-wall-fragment-model/10-winding-stair-close.webp"
+  ]
+}
