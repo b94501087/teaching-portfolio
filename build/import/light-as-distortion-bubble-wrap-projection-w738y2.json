@@ -1,0 +1,19 @@
+{
+  "project": "Light as Distortion",
+  "dest": "assets/board/light-as-distortion-bubble-wrap-projection",
+  "note": "w738y2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-colonnade-photo.webp",
+      "sha256": "6a13136d03edc76f77771bb7d1bb452f30adc8009d64048f8cbad799f9ab3299",
+      "bytes": 15804,
+      "from": "restored reference image (colonnade photo)"
+    },
+    {
+      "name": "09-hand-held-light-tests.webp",
+      "sha256": "513420acb496fbcebd2c0313402bf4a3b7b57f825367aa6b8b31de6df86533b1",
+      "bytes": 55558,
+      "from": "restored reference image (hand held light tests)"
+    }
+  ]
+}
