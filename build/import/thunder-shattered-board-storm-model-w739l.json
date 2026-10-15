@@ -1,0 +1,13 @@
+{
+  "project": "Thunder",
+  "dest": "assets/board/thunder-shattered-board-storm-model",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-storm-photo-with-link.webp",
+      "sha256": "6f077bd4f12d16aa31ea9f6904b1e6cd61c7a4e664eb6f4473d964b4226f231e",
+      "bytes": 17782,
+      "from": "restored reference image (storm photo with link)"
+    }
+  ]
+}
