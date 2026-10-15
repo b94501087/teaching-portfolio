@@ -1,0 +1,67 @@
+{
+  "project": "Self Residence",
+  "dest": "assets/board/self-residence-ivory-street-tube-house-renewal",
+  "note": "Portfolio ee62 pages 9-11 cropped to 10 images, WebP (PIL). Not used: title-page project info block (supervisor name, e-mail) and title text.",
+  "files": [
+    {
+      "name": "01-model-front.webp",
+      "sha256": "69d995a656d34748a61ab7df89bfb364cc6beec25908973f956a34da0ff2bf29",
+      "bytes": 60090,
+      "from": "ee62 pages 9-11 — the model seen from the street"
+    },
+    {
+      "name": "02-street-collage.webp",
+      "sha256": "f408621c5fd72f246f2790886476235a7334e0a7318a481f01075c89b5bd31d5",
+      "bytes": 225974,
+      "from": "ee62 pages 9-11 — a collage of the street and the towers around it"
+    },
+    {
+      "name": "03-site-and-family.webp",
+      "sha256": "ecf26fdcc7e72b5f30610ac40e78af55c5a36bb2229899ec7b10a4b605beaa8a",
+      "bytes": 222584,
+      "from": "ee62 pages 9-11 — site analysis, design limits and the members of the family"
+    },
+    {
+      "name": "04-furniture-abstraction.webp",
+      "sha256": "a8d445b5c7bb6637ec8dcd0f5420328a05be329c80974139f114922120a53e89",
+      "bytes": 76190,
+      "from": "ee62 pages 9-11 — furniture abstracted into simple blocks"
+    },
+    {
+      "name": "05-rooms-and-body-scale.webp",
+      "sha256": "e467b84f78f79fab4ad207039c3f27cb4e8a92333fe7adf483fe2d24e7385157",
+      "bytes": 191644,
+      "from": "ee62 pages 9-11 — rooms built from the blocks and drawings of body scale"
+    },
+    {
+      "name": "06-floor-plans.webp",
+      "sha256": "f38cc757ae1abaf7b361b142e03900fa47825d89e3679e4736c958b48cc35e10",
+      "bytes": 74036,
+      "from": "ee62 pages 9-11 — plans of the three floors and the sloping roof"
+    },
+    {
+      "name": "07-street-elevation.webp",
+      "sha256": "5ebca2e24aeb105c13d8ad66a2e178e23618332ac2330cb64f2d593c9e489d84",
+      "bytes": 143830,
+      "from": "ee62 pages 9-11 — the street elevation with the kept facade"
+    },
+    {
+      "name": "08-sections.webp",
+      "sha256": "3f9c6e343d47e032f22f08ffafb110ae26a910625555ba3ec59996ca84624270",
+      "bytes": 217882,
+      "from": "ee62 pages 9-11 — three sections through the house"
+    },
+    {
+      "name": "09-model-interiors.webp",
+      "sha256": "128643c3a3f4d809b44f50b595fd169c0fa2010a11ba85abc9894be06e2e25dc",
+      "bytes": 68682,
+      "from": "ee62 pages 9-11 — interior views of the stair and the rooms"
+    },
+    {
+      "name": "10-model-views.webp",
+      "sha256": "bbe49bf61cce8bf1a263b39cff106b77108c9d36be7205238b6c3bf406ff0b6e",
+      "bytes": 131500,
+      "from": "ee62 pages 9-11 — the model opened from the side and from above"
+    }
+  ]
+}
