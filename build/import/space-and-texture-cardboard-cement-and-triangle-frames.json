@@ -16,12 +16,6 @@
       "from": "1d99 pages 9-10 — the cut cardboard concept"
     },
     {
-      "name": "03-standing-cardboard-pieces.webp",
-      "sha256": "a22f4c78d86851348e457b95fa9b60a20a315fd58baddd7324db9d56157f0a81",
-      "bytes": 149388,
-      "from": "1d99 pages 9-10 — standing cardboard pieces"
-    },
-    {
       "name": "04-triangle-outline-drawing.webp",
       "sha256": "bd5f01da08f2296b1b2ed7033df9185c467c66ba6a971a09bbfaa8c7ddbac3e7",
       "bytes": 83562,
@@ -34,34 +28,40 @@
       "from": "1d99 pages 9-10 — the cement texture slab"
     },
     {
-      "name": "06-cement-slab-views.webp",
-      "sha256": "116cfe46816af8bdda3073d6a45af046e0d49fa991e08c44002c1eb03bf801f1",
-      "bytes": 55174,
-      "from": "1d99 pages 9-10 — views of the cement slab"
-    },
-    {
-      "name": "07-triangle-frame-variations.webp",
-      "sha256": "2ada14c01822cb97a4b5aa4141f13dc9cbb842cf73a8b5c8c971ea7af9ab31ca",
-      "bytes": 122540,
-      "from": "1d99 pages 9-10 — variations of the triangle frame"
-    },
-    {
       "name": "08-triangle-light-and-shadow.webp",
       "sha256": "4f27a9b2b04a8a450b8842bcac60e6cbffbf9e6b8cc64d7442b9bbcb20cb65bd",
       "bytes": 244018,
       "from": "1d99 pages 9-10 — triangles in light and shadow"
     },
     {
-      "name": "09-small-unit-arrangements.webp",
-      "sha256": "703884b41a2516cd25fb79f50a1d87838ab4074cdb6a51ca43cb6f01e3fa7ee1",
-      "bytes": 113514,
-      "from": "1d99 pages 9-10 — arrangements of small units"
-    },
-    {
       "name": "10-unit-city-model.webp",
       "sha256": "3cd46f5e25807efe0e2f2813045cf5a98b671e017149968fb784933802ee19c2",
       "bytes": 360858,
       "from": "1d99 pages 9-10 — the unit city model"
+    },
+    {
+      "name": "11-city-photos-and-sketch.webp",
+      "sha256": "70d26bc24938c358545144a0bce641bf3f33ad0eb9a2bfe1aecb513cbce915cc",
+      "bytes": 268124,
+      "from": "restored reference image (city photos and sketch)"
+    },
+    {
+      "name": "12-trip-landscape-photo.webp",
+      "sha256": "97933bd3445774a4b37e65884344e49093e3ae3e620f90bb4c903c2c8f4f3e72",
+      "bytes": 99954,
+      "from": "restored reference image (trip landscape photo)"
+    },
+    {
+      "name": "13-pouring-the-cement.webp",
+      "sha256": "15655421d24ea00c32f655921c397a216532553794b7cc8eee9c0c5a0163ec87",
+      "bytes": 166706,
+      "from": "restored reference image (pouring the cement)"
+    },
+    {
+      "name": "14-villa-case-study-plans.webp",
+      "sha256": "9c635cbdf335b3dcc35c497912c4ca46f4bc7af66b66703885e0614c2bd22897",
+      "bytes": 193256,
+      "from": "restored reference image (villa case study plans)"
     }
   ]
 }
