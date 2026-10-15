@@ -1,0 +1,30 @@
+{
+  "project": "Vertical City",
+  "dest": "assets/board/vertical-city-stacked-blocks-freeing-the-ground",
+  "note": "w739i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-tetris-screenshot.webp",
+      "sha256": "ba73c01163099466239ca59b863729c32e73352c59f34b11105b8b3f4913ffc4",
+      "bytes": 27974,
+      "from": "restored reference image (tetris screenshot)"
+    },
+    {
+      "name": "12-kowloon-walled-city-section.webp",
+      "sha256": "ba10b6d4d084919725451a0177c5b2048cebd149edcc95f4f794b2844fa6230c",
+      "bytes": 251832,
+      "from": "restored reference image (kowloon walled city section)"
+    },
+    {
+      "name": "13-arranging-blocks-by-hand.webp",
+      "sha256": "c1fec452585e9f5507d06b226863f640c4c32c320180f8d262fed89b7d035fa2",
+      "bytes": 84196,
+      "from": "restored reference image (arranging blocks by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/vertical-city-stacked-blocks-freeing-the-ground/05-phase-three.webp",
+    "assets/board/vertical-city-stacked-blocks-freeing-the-ground/07-view-from-above.webp",
+    "assets/board/vertical-city-stacked-blocks-freeing-the-ground/10-interior-room-b.webp"
+  ]
+}
