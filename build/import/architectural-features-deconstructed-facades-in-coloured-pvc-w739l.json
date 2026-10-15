@@ -1,0 +1,22 @@
+{
+  "project": "Architectural Features",
+  "dest": "assets/board/architectural-features-deconstructed-facades-in-coloured-pvc",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-location-photos-and-deconstruction-sketches.webp",
+      "sha256": "fa7fdcf7bc52e615efbd92c236a5a82e9742dceb6f2d069bc2ff4ac5c0912124",
+      "bytes": 67974,
+      "from": "restored reference image (location photos and deconstruction sketches)"
+    },
+    {
+      "name": "10-film-still-and-colour-palette.webp",
+      "sha256": "d8f9e5a65a53b6508576f4b01f8526da583d71c6c045a38bbf1a6a026f819a07",
+      "bytes": 9264,
+      "from": "restored reference image (film still and colour palette)"
+    }
+  ],
+  "delete": [
+    "assets/board/architectural-features-deconstructed-facades-in-coloured-pvc/03-deconstruction-drawing.webp"
+  ]
+}

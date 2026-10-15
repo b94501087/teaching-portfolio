@@ -1,0 +1,19 @@
+{
+  "project": "Tower of Memory",
+  "dest": "assets/board/tower-of-memory-glue-blocks-sticks-and-old-toys",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-film-and-game-image-collage.webp",
+      "sha256": "4b9456a7c8a2bcd392dd5bca0610adfe7f850d5f4132b16d8b917e79aef12613",
+      "bytes": 47300,
+      "from": "restored reference image (film and game image collage)"
+    },
+    {
+      "name": "09-making-the-blocks-by-hand.webp",
+      "sha256": "8103b55551f39ac35e5b32cb59bfaaa0d79a890ac623e18bf8cf1b77a93f4516",
+      "bytes": 35376,
+      "from": "restored reference image (making the blocks by hand)"
+    }
+  ]
+}
