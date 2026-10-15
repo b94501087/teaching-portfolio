@@ -1,0 +1,23 @@
+{
+  "project": "Inverted Frames Tower",
+  "dest": "assets/board/inverted-frames-tower-wooden-strip-and-pvc-model",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-film-still-with-figure.webp",
+      "sha256": "0431e9a03835246e6155516c7b7010f50203d2660a9dff01229915bda9d2bd0a",
+      "bytes": 17080,
+      "from": "restored reference image (film still with figure)"
+    },
+    {
+      "name": "12-building-frames-by-hand.webp",
+      "sha256": "706780ac0c33ba218faa79187e57caaf582cf7d484051b355c5687a144c0ca0c",
+      "bytes": 10986,
+      "from": "restored reference image (building frames by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/inverted-frames-tower-wooden-strip-and-pvc-model/08-inset-a.webp",
+    "assets/board/inverted-frames-tower-wooden-strip-and-pvc-model/09-inset-b.webp"
+  ]
+}
