@@ -1,0 +1,25 @@
+{
+  "project": "Fabric City",
+  "dest": "assets/board/fabric-city-web-structure-over-a-sunken-walkway",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-site-street-photo.webp",
+      "sha256": "1da2b4faa153840cc7026d4c465f3590a7e2136a4527f50ae6712607fbd82c37",
+      "bytes": 95798,
+      "from": "restored reference image (site street photo)"
+    },
+    {
+      "name": "09-site-maps.webp",
+      "sha256": "6378e72e0c9dc25c47f4d3a57ca75439d6ec05275d9445e19d723910a64fbd4c",
+      "bytes": 161430,
+      "from": "restored reference image (site maps)"
+    },
+    {
+      "name": "10-spiderweb-and-plant-vessel-references.webp",
+      "sha256": "4b0ea91fff96c1b1605fb49e7d4458e3fa99cf0aac1dc579acae201075dcacad",
+      "bytes": 95362,
+      "from": "restored reference image (spiderweb and plant vessel references)"
+    }
+  ]
+}
