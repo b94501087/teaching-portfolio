@@ -1,0 +1,30 @@
+{
+  "project": "Stacked Divide: A Corrugated High-Rise",
+  "dest": "assets/board/stacked-divide-corrugated-paper-high-rise",
+  "note": "w738y restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-film-title.webp",
+      "sha256": "d554363bf5b1a5ac7b03129904ace68960b19774f9b73040f43cd55a46c51c52",
+      "bytes": 10608,
+      "from": "restored reference image (film title)"
+    },
+    {
+      "name": "12-film-stills.webp",
+      "sha256": "47dbb089ca2f9ffe82a590cc9d1155138be22a6d3cd579de8eadd93e9619dbb9",
+      "bytes": 109616,
+      "from": "restored reference image (film stills)"
+    },
+    {
+      "name": "13-building-by-hand.webp",
+      "sha256": "2a54ffae3ff37a5871389ad0a967ea994fb44983d58ff26527f6ab10ae76809d",
+      "bytes": 82538,
+      "from": "restored reference image (building by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/stacked-divide-corrugated-paper-high-rise/07-looking-up-through-rings.webp",
+    "assets/board/stacked-divide-corrugated-paper-high-rise/09-middle-floors-and-figures.webp",
+    "assets/board/stacked-divide-corrugated-paper-high-rise/10-pipes-and-passages-close.webp"
+  ]
+}
