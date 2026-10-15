@@ -1,0 +1,19 @@
+{
+  "project": "A Room Recast in Blocks",
+  "dest": "assets/board/a-room-recast-in-palm-sized-blocks",
+  "note": "w738y2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "04-figure-and-furniture-isometrics.webp",
+      "sha256": "dc3039c40b046f969bc1b991377c4fa14fb8ef6c1bb454ee40f4b5cf8de25360",
+      "bytes": 60470,
+      "from": "restored reference image (figure and furniture isometrics)"
+    },
+    {
+      "name": "05-motion-silhouette-studies.webp",
+      "sha256": "40ad611c642fa2d6369d830505397c667b7a4b674f60c69af1aa937a808de0de",
+      "bytes": 26542,
+      "from": "restored reference image (motion silhouette studies)"
+    }
+  ]
+}
