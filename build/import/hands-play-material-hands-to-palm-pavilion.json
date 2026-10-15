@@ -46,22 +46,22 @@
       "from": "250b pages 11-12 — a clay shelter"
     },
     {
-      "name": "08-clay-shelter-b.webp",
-      "sha256": "8943935aa276e73b0504b4986d6c3c0e780e837a1e89081933eb89f4a58a358b",
-      "bytes": 38566,
-      "from": "250b pages 11-12 — a figure under the clay palm"
-    },
-    {
-      "name": "09-clay-shelter-c.webp",
-      "sha256": "eb164e237c6fd714e09e7c3e524fe8d62b3f7f62fa8c1cff940f50d469e339fe",
-      "bytes": 36250,
-      "from": "250b pages 11-12 — the clay shelter from another side"
-    },
-    {
       "name": "10-pavilion-side.webp",
       "sha256": "3dfa9bd77595bf45bb31f2f69866cb1cf7d1a5eeaddcf80db7d81a0c434b1873",
       "bytes": 37562,
       "from": "250b pages 11-12 — the pavilion from the side"
+    },
+    {
+      "name": "11-hand-posture-photos.webp",
+      "sha256": "a3c29454b2d6bf7c75a3801ab2eaaaaac086f7cb4f466eabaaecbe50a4329b70",
+      "bytes": 46046,
+      "from": "restored reference image (hand posture photos)"
+    },
+    {
+      "name": "12-clenched-fist-photo.webp",
+      "sha256": "70990948b0a629bb2abd8cf317743f0d84fcc8464296daaa9cca959db3c5abe2",
+      "bytes": 23166,
+      "from": "restored reference image (clenched fist photo)"
     }
   ]
 }

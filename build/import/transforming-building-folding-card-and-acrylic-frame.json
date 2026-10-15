@@ -28,18 +28,6 @@
       "from": "4179 pages 3-4 — a drawing of the first model"
     },
     {
-      "name": "05-stage-one-model-a.webp",
-      "sha256": "f60fd837e856d6ccfba65b8d734a7e662d1dd5c17766af5d9661982639d23fc8",
-      "bytes": 43088,
-      "from": "4179 pages 3-4 — the first card model"
-    },
-    {
-      "name": "06-stage-one-model-b.webp",
-      "sha256": "8c49fb4238908204186011194e9fc881e80b6fa857da19416707cc0e29461f40",
-      "bytes": 39866,
-      "from": "4179 pages 3-4 — another view of the card model"
-    },
-    {
       "name": "07-stage-one-series.webp",
       "sha256": "be61b717e595e142748b899d0b2482b9483c56c501035c6113c7bd0054da889a",
       "bytes": 74086,
@@ -52,16 +40,28 @@
       "from": "4179 pages 3-4 — the frame from the side"
     },
     {
-      "name": "09-stage-two-detail.webp",
-      "sha256": "1ed3995b40c695bdb4bc9406a91a22fbf7a3091b8e52bdbc8669295e8ec565cd",
-      "bytes": 54834,
-      "from": "4179 pages 3-4 — a folded unit of the frame"
-    },
-    {
       "name": "10-stage-two-series.webp",
       "sha256": "fc53281a131499356cdde140c5816e2927dc68fbd74a11ebcf7e5a1baa7b8944",
       "bytes": 42390,
       "from": "4179 pages 3-4 — the frame in different positions"
+    },
+    {
+      "name": "11-gundam-model-photos.webp",
+      "sha256": "f2b88fd136ec35f8aed775ebf75715a476e6d9844dffc91b2aba5754d3c7f1bc",
+      "bytes": 68866,
+      "from": "restored reference image (gundam model photos)"
+    },
+    {
+      "name": "12-assembling-by-hand.webp",
+      "sha256": "3a2852c79005ed48aca185015f9d5c136e1135c7bd6a28b5f2d8688f63392e47",
+      "bytes": 178712,
+      "from": "restored reference image (assembling by hand)"
+    },
+    {
+      "name": "13-river-photo-montage.webp",
+      "sha256": "3c87051aaedbc8aabfdd7753163bcd66e613b1e00633dae7b910d20b287832c1",
+      "bytes": 268938,
+      "from": "restored reference image (river photo montage)"
     }
   ]
 }
