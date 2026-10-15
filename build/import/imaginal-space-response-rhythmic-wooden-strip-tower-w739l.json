@@ -1,0 +1,25 @@
+{
+  "project": "Imaginal Space-Response",
+  "dest": "assets/board/imaginal-space-response-rhythmic-wooden-strip-tower",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "03-making-model.webp",
+      "sha256": "33297fdd2a7d0c864be4190c04544acfae623ff964ebd4e41ab8a698e646e72f",
+      "bytes": 10090,
+      "from": "restored reference image (making model)"
+    },
+    {
+      "name": "06-source-painting-and-extraction.webp",
+      "sha256": "fc9c5bd78f0c3e2348b72bcadbde80e57c3a712df5cdabf87c06fd4d94013de8",
+      "bytes": 51206,
+      "from": "restored reference image (source painting and extraction)"
+    },
+    {
+      "name": "07-preparing-materials-by-hand.webp",
+      "sha256": "c523c10662a7981c4bbac2780f42b2fc5f61967a9badf45018a35661746add18",
+      "bytes": 23958,
+      "from": "restored reference image (preparing materials by hand)"
+    }
+  ]
+}
