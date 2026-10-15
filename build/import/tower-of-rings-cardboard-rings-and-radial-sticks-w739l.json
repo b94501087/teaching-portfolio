@@ -1,0 +1,28 @@
+{
+  "project": "Tower of Rings",
+  "dest": "assets/board/tower-of-rings-cardboard-rings-and-radial-sticks",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "03-light-table.webp",
+      "sha256": "ddd1b66f301c4d6677b65bc1a8517e7e06d711829cdb58524b1ca92a32480ece",
+      "bytes": 160630,
+      "from": "restored reference image (light table)"
+    },
+    {
+      "name": "07-historical-engraving-with-link.webp",
+      "sha256": "5469e45dd8f037f9fdd209b65993424478b939ed0408809ac945931d000117fb",
+      "bytes": 150982,
+      "from": "restored reference image (historical engraving with link)"
+    },
+    {
+      "name": "08-layer-sketches-with-handwritten-notes.webp",
+      "sha256": "be6d0de0eb4753775658c5946a7a6aa6eddb6368d181f73502c62bf0167895d7",
+      "bytes": 183716,
+      "from": "restored reference image (layer sketches with handwritten notes)"
+    }
+  ],
+  "delete": [
+    "assets/board/tower-of-rings-cardboard-rings-and-radial-sticks/02-layer-sketches.webp"
+  ]
+}
