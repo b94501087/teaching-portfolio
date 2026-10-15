@@ -1,0 +1,16 @@
+{
+  "project": "Triangles Structure",
+  "dest": "assets/board/triangles-structure-stick-pyramids-extended-frame",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-texture-photo-studies.webp",
+      "sha256": "92cbbffcf94809586e70ef009d8f4fecbd66ff919238ce9fcd139203c82f8259",
+      "bytes": 220230,
+      "from": "restored reference image (texture photo studies)"
+    }
+  ],
+  "delete": [
+    "assets/board/triangles-structure-stick-pyramids-extended-frame/03-stroke-study.webp"
+  ]
+}

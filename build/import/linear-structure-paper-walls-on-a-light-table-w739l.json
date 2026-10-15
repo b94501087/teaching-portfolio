@@ -1,0 +1,13 @@
+{
+  "project": "Linear Structure",
+  "dest": "assets/board/linear-structure-paper-walls-on-a-light-table",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-highline-park-photo.webp",
+      "sha256": "8ae07b8aa9815bbb0f10aea3479dd34a93c3c52185b768383b09942f611eb18a",
+      "bytes": 211888,
+      "from": "restored reference image (highline park photo)"
+    }
+  ]
+}
