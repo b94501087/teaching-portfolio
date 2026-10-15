@@ -1,0 +1,67 @@
+{
+  "project": "TJS Elementary School",
+  "dest": "assets/board/tjs-elementary-school-a-school-for-better-education",
+  "note": "Portfolio ee62 pages 22-27 cropped to 10 images, WebP (PIL). Not used: title-page project info block (supervisor name, e-mail) and dialogue text column.",
+  "files": [
+    {
+      "name": "01-long-section.webp",
+      "sha256": "a86eaa669377db5e55fd1a7b3cb3efcfa6bb71e6cfcf9944b99cbf562ed95b99",
+      "bytes": 164000,
+      "from": "ee62 pages 22-27 — a long section through the classrooms, courts and pool"
+    },
+    {
+      "name": "02-chessboard-of-subjects.webp",
+      "sha256": "00fb93b99e6ba0a2df4f288e335818484d88feacefd277b8745d91fb057330d9",
+      "bytes": 219824,
+      "from": "ee62 pages 22-27 — school subjects set out on a chessboard"
+    },
+    {
+      "name": "03-habitat-case-study.webp",
+      "sha256": "751d2ec13d123145fad8911c0cc7b119b55066546d0c9d2a3c16e6562f1339dc",
+      "bytes": 202492,
+      "from": "ee62 pages 22-27 — a case study of stacked housing in collaged sections"
+    },
+    {
+      "name": "04-courtyard-case-study.webp",
+      "sha256": "745def11f9e13c6ec6269ca19e8d29eb40c535aa5b35272ce16582bd59c20321",
+      "bytes": 223672,
+      "from": "ee62 pages 22-27 — a case study of a courtyard building with root-and-concrete tests"
+    },
+    {
+      "name": "05-library-case-study.webp",
+      "sha256": "df705b6ec59824cf544361ff6bb6e759d12d5b4a6fd87e1176c36fd786412b90",
+      "bytes": 178696,
+      "from": "ee62 pages 22-27 — a case study of a library and its pattern rules"
+    },
+    {
+      "name": "06-standard-space-scales.webp",
+      "sha256": "a412b1d9eb3286d0073792691eb34a7d4252252de08b9f54b620989d6c85a1f9",
+      "bytes": 171318,
+      "from": "ee62 pages 22-27 — standard scales of classrooms, courts and halls"
+    },
+    {
+      "name": "07-foam-models.webp",
+      "sha256": "3d244fd968d034077f7ea3f3b6ce3d4dcef8b14e97854bf62e27c0f5c9ad6f8c",
+      "bytes": 226208,
+      "from": "ee62 pages 22-27 — foam and white models of the school"
+    },
+    {
+      "name": "08-curriculum-redesign.webp",
+      "sha256": "4a32edd71f5a076ed423cab0dcbcb4b886767f8661c8677cfecb924650c111e9",
+      "bytes": 195544,
+      "from": "ee62 pages 22-27 — the original and redesigned curriculum and classroom use"
+    },
+    {
+      "name": "09-programme-axonometric.webp",
+      "sha256": "39bdd6590b081684c03c9b95e4a6d59771086accbf16a69311b0c5dd5c62ed7c",
+      "bytes": 190314,
+      "from": "ee62 pages 22-27 — an axonometric of the programme and its weighing columns"
+    },
+    {
+      "name": "10-renders.webp",
+      "sha256": "b417dc3a724c588191521d462b4e139a4f228841896c70b394d92a3fbd2906d2",
+      "bytes": 215824,
+      "from": "ee62 pages 22-27 — rendered views of the runway, square and courts"
+    }
+  ]
+}
