@@ -1,0 +1,16 @@
+{
+  "project": "Music Wave",
+  "dest": "assets/board/music-wave-stick-and-ribbon-sound-models",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-light-trace-experiment-with-arm-and-speaker.webp",
+      "sha256": "e6ec5904dfb321f8a7d04337c0f39cfdff9f50331dce2f212978d80a3a9d3858",
+      "bytes": 98474,
+      "from": "restored reference image (light trace experiment with arm and speaker)"
+    }
+  ],
+  "delete": [
+    "assets/board/music-wave-stick-and-ribbon-sound-models/03-light-traces.webp"
+  ]
+}

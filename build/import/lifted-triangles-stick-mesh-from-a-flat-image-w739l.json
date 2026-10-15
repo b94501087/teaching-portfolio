@@ -1,0 +1,24 @@
+{
+  "project": "Lifted Triangles",
+  "dest": "assets/board/lifted-triangles-stick-mesh-from-a-flat-image",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-sky-photo-and-triangulation.webp",
+      "sha256": "bdc2f52dd9ead3a3f332a3b1e25f3a90c95fa153b1fd06b70115b67b6703a9d6",
+      "bytes": 189968,
+      "from": "restored reference image (sky photo and triangulation)"
+    },
+    {
+      "name": "11-process-photos-by-hand.webp",
+      "sha256": "d8048de3dcd9f00d2c691540410bb9040f2292f08f5478ce9ee186e1f7e9bdf1",
+      "bytes": 185270,
+      "from": "restored reference image (process photos by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/lifted-triangles-stick-mesh-from-a-flat-image/02-triangle-drawing.webp",
+    "assets/board/lifted-triangles-stick-mesh-from-a-flat-image/03-frame-in-progress.webp",
+    "assets/board/lifted-triangles-stick-mesh-from-a-flat-image/04-frame-on-table.webp"
+  ]
+}
