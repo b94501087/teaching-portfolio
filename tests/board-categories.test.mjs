@@ -47,4 +47,5 @@ test('board renders the category row (shown by the script for every level) in bo
     assert.ok(h.includes(CATEGORY_FILTER[c].en) && h.includes(CATEGORY_FILTER[c]['zh-Hant']), c);
   }
   assert.ok(h.includes('fetch("../content/categories.json"'));
+  for (const m of h.matchAll(/<script>([\s\S]*?)<\/script>/g)) assert.doesNotThrow(() => new Function(m[1]), 'inline board script must parse');
 });

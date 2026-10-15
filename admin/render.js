@@ -235,7 +235,7 @@ const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".boar
   'var e=document.querySelector(".board-empty");if(e)e.hidden=!!b.querySelector(".pin:not([hidden])");if(b.classList.contains("masonry"))dispatchEvent(new Event("resize"))}' +
   'function save(){try{history.replaceState(null,"",hash()||location.pathname+location.search)}catch(z){}}' +
   'document.addEventListener("click",function(e){var c=e.target.closest&&e.target.closest("[data-filter],[data-cat-filter],[data-sort]");if(!c)return;' +
-  'if(c.hasAttribute("data-filter"))st.f=c.getAttribute("data-filter")else if(c.hasAttribute("data-cat-filter"))st.cat=c.getAttribute("data-cat-filter");else st.sort=c.getAttribute("data-sort");apply();save()});' +
+  'if(c.hasAttribute("data-filter"))st.f=c.getAttribute("data-filter");else if(c.hasAttribute("data-cat-filter"))st.cat=c.getAttribute("data-cat-filter");else st.sort=c.getAttribute("data-sort");apply();save()});' +
   'st=parse();apply();' +
   'if(window.fetch)fetch("../content/categories.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var c=m[p.getAttribute("data-slug")];c=(Array.isArray(c)?c:[c]).filter(function(x){return C.indexOf(x)>=0});if(c.length)p.setAttribute("data-cat",c.join(" "))});apply()}).catch(function(){})})();</script>\n';
 
