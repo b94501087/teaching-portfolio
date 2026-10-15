@@ -50,6 +50,12 @@
       "sha256": "30cb593bb0f74af9d24f4d31edaefb465642bf5ca66b22e6d0c4e81a3d90abff",
       "bytes": 13568,
       "from": "d39e page 8 — another close view"
+    },
+    {
+      "name": "09-exhibition-photos.webp",
+      "sha256": "81aa82a7887b54aa09e4e672c2111c37c0048f9e4f19498ae389b0b70a98c1f7",
+      "bytes": 63974,
+      "from": "restored reference image (exhibition photos)"
     }
   ]
 }
