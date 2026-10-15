@@ -10,12 +10,6 @@
       "from": "263a pages 12-14 — the final landscape of ribbons"
     },
     {
-      "name": "02-resin-sphere.webp",
-      "sha256": "27627882e335497a956cf1b9ab11bba19a7e65ea341fb5df09cacdc55a14e939",
-      "bytes": 12450,
-      "from": "263a pages 12-14 — a coloured resin sphere"
-    },
-    {
       "name": "03-bubble-glue-wire.webp",
       "sha256": "c665ac61df98409db9a451d313d8169126b49097c9810dbf21f1ed7c20e304f1",
       "bytes": 31662,
@@ -50,6 +44,24 @@
       "sha256": "433ed599cc0c0542184a0720185d6d363b8d6acdb92825e5e3d2f28815e02531",
       "bytes": 56228,
       "from": "263a pages 12-14 — ribbons against a dark ground"
+    },
+    {
+      "name": "02-resin-sphere.webp",
+      "sha256": "a1e34dec89d6004b8a80c9760a1725cf818e040e511a34e7124fd8f88a2db21f",
+      "bytes": 40384,
+      "from": "restored reference image (resin sphere)"
+    },
+    {
+      "name": "09-film-character-study.webp",
+      "sha256": "4d9258aa2d45c5cac817d14010cc63183ab8abdac597b9adfd4f252771702af5",
+      "bytes": 202522,
+      "from": "restored reference image (film character study)"
+    },
+    {
+      "name": "10-face-and-film-still-collages.webp",
+      "sha256": "810a71fd9e4370dc5624062cbd21e0b6674e4fca19c116bd9c0af2c8b958bc9c",
+      "bytes": 265956,
+      "from": "restored reference image (face and film still collages)"
     }
   ]
 }

@@ -50,6 +50,18 @@
       "sha256": "00fd19094e54c8b04d5aa27af5ae53f4836ac9db58c217b49979bb7586aca3c5",
       "bytes": 28964,
       "from": "eb77 pages 6-8 — scattered strips"
+    },
+    {
+      "name": "10-gundam-model-and-armour-sketches.webp",
+      "sha256": "5f3d46993d725858e203016f4c7826afd8dcb02db39f76bd91041000b1c92d91",
+      "bytes": 253928,
+      "from": "restored reference image (gundam model and armour sketches)"
+    },
+    {
+      "name": "11-folding-the-paper-by-hand.webp",
+      "sha256": "4b9843d0e868d78fd3a5d19724a727b8d1a7a83ab2e1329d97b4ec0df0308535",
+      "bytes": 50198,
+      "from": "restored reference image (folding the paper by hand)"
     }
   ]
 }

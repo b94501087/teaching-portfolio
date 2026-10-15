@@ -10,34 +10,16 @@
       "from": "eb77 pages 9-11 — the flow of sticks around three poles"
     },
     {
-      "name": "02-flow-sketch.webp",
-      "sha256": "3cdf6667fe731e121c561b8e546c7fd79de6b272cbd8fb1cd48e3db39e11c3a0",
-      "bytes": 64668,
-      "from": "eb77 pages 9-11 — traced strokes of flowing grain"
-    },
-    {
       "name": "03-prototype-a.webp",
       "sha256": "326198b75c3643eab9c4814744a259191f6a284619b09c109f630aca0a49c2d6",
       "bytes": 80390,
       "from": "eb77 pages 9-11 — an early cluster of sticks"
     },
     {
-      "name": "04-prototype-b.webp",
-      "sha256": "80a34283bd78c174505962096fa18535edd548da66d694a1501d2d7288e66aa9",
-      "bytes": 43760,
-      "from": "eb77 pages 9-11 — a rising stick prototype"
-    },
-    {
       "name": "05-prototype-pole.webp",
       "sha256": "46c5caf9fb397ebf961d51cbe8336cee934860e5f5636aa4eaa6d6c8409f8b1c",
       "bytes": 46136,
       "from": "eb77 pages 9-11 — sticks meeting a pole"
-    },
-    {
-      "name": "06-prototype-detail.webp",
-      "sha256": "6518a0e449e1c4b91a276701b76264da7a686def0f1ad49bab2bcce9052bb016",
-      "bytes": 53250,
-      "from": "eb77 pages 9-11 — sticks around the pole base"
     },
     {
       "name": "07-night-layers.webp",
@@ -62,6 +44,24 @@
       "sha256": "579deee4a835b4c510079c4a728b5dbacf6d075a928750d5c3ebc8a4a15000c3",
       "bytes": 104438,
       "from": "eb77 pages 9-11 — the flow arching overhead"
+    },
+    {
+      "name": "11-timber-reference-and-flow-sketch.webp",
+      "sha256": "adf9c6cea53d7630012f825cd2d6c223e879fad05aa1744e73367616a4628565",
+      "bytes": 102790,
+      "from": "restored reference image (timber reference and flow sketch)"
+    },
+    {
+      "name": "12-gluing-sticks-by-hand.webp",
+      "sha256": "f6283928c12444f5425dba50c08c9b83a223b099c2eae8ec208fa61a7d6cd2a7",
+      "bytes": 80230,
+      "from": "restored reference image (gluing sticks by hand)"
+    },
+    {
+      "name": "13-prototype-around-the-poles.webp",
+      "sha256": "8965e288ff3a5945ad31462b9cf33628f6f58796bd7ce13a7b309c0d8ef17022",
+      "bytes": 154780,
+      "from": "restored reference image (prototype around the poles)"
     }
   ]
 }
