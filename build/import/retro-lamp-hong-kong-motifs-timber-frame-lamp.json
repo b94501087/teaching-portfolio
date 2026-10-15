@@ -1,0 +1,25 @@
+{
+  "project": "Retro Lamp",
+  "dest": "assets/board/retro-lamp-hong-kong-motifs-timber-frame-lamp",
+  "note": "Portfolio 5369 page 7 cropped to 3 images, WebP (PIL).",
+  "files": [
+    {
+      "name": "01-lit-lamp.webp",
+      "sha256": "28d80a2887fc59d98f45701b1ed456bc920247ccb9f4609f614ab58f699950e0",
+      "bytes": 110604,
+      "from": "5369 page 7 — the finished lamp switched on"
+    },
+    {
+      "name": "02-design-sketches.webp",
+      "sha256": "91be07bbc834674f1a6667244d67cef63ab434dd9433bfddce9925d24ca5111b",
+      "bytes": 251546,
+      "from": "5369 page 7 — design ideas and details sketched with notes"
+    },
+    {
+      "name": "03-lamp-frame.webp",
+      "sha256": "7fa72f563350cbff9fda4af326976a910ac3b9566635ee37cec8b277151f2889",
+      "bytes": 44132,
+      "from": "5369 page 7 — the timber frame of the lamp from two angles"
+    }
+  ]
+}
