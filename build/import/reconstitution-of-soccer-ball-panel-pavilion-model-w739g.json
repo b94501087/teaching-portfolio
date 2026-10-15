@@ -1,0 +1,28 @@
+{
+  "project": "Reconstitution of Soccer",
+  "dest": "assets/board/reconstitution-of-soccer-ball-panel-pavilion-model",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-making-process-collage.webp",
+      "sha256": "3dc71416102aba404776fef39a3c2285b38be8e40b87ab57e16c562346f44ae0",
+      "bytes": 221446,
+      "from": "restored reference image (making process collage)"
+    },
+    {
+      "name": "09-panel-cluster-photo.webp",
+      "sha256": "3a8653e01313edb06b06c65c8004cb1b048734c2a789d61eee5eed5e71021c9b",
+      "bytes": 148524,
+      "from": "restored reference image (panel cluster photo)"
+    },
+    {
+      "name": "10-lettered-panel-view.webp",
+      "sha256": "268e49066c24316c879ada60e729155ccc294bb0c6c9f4d4303089a52925dddf",
+      "bytes": 179312,
+      "from": "restored reference image (lettered panel view)"
+    }
+  ],
+  "delete": [
+    "assets/board/reconstitution-of-soccer-ball-panel-pavilion-model/02-creating-space.webp"
+  ]
+}
