@@ -1,0 +1,13 @@
+{
+  "project": "Steampunk City",
+  "dest": "assets/board/steampunk-city-mechanical-drawings-to-digital-model",
+  "note": "w739e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-lebbeus-woods-artworks.webp",
+      "sha256": "1a5bf2be54c8c778137cf60b3eb8d32cecd577820e7ddd79b3ebe1b0edfe3bb6",
+      "bytes": 145218,
+      "from": "restored reference image (lebbeus woods artworks)"
+    }
+  ]
+}

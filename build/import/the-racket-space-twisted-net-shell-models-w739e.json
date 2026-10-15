@@ -1,0 +1,13 @@
+{
+  "project": "The Racket Space",
+  "dest": "assets/board/the-racket-space-twisted-net-shell-models",
+  "note": "w739e restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-cutting-the-racket-frame.webp",
+      "sha256": "6ff5b1024dd4f5fe87d4f2a00fb799d6acadcee1363b6b713294f99ad85db12b",
+      "bytes": 10256,
+      "from": "restored reference image (cutting the racket frame)"
+    }
+  ]
+}
