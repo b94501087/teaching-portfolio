@@ -1,0 +1,19 @@
+{
+  "project": "Tactics in Motion",
+  "dest": "assets/board/tactics-in-motion-basketball-movement-model",
+  "note": "w738y2 restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-player-silhouette.webp",
+      "sha256": "229e67453a93a684228a4ba6451890fbbff75a9c811a48b2be0e98b640d5c1f9",
+      "bytes": 3142,
+      "from": "restored reference image (player silhouette)"
+    },
+    {
+      "name": "07-transcript-title.webp",
+      "sha256": "659546a2e9137a53b21b09fd36e4287030bf6877fd22c254684a1715607f5348",
+      "bytes": 7882,
+      "from": "restored reference image (transcript title)"
+    }
+  ]
+}
