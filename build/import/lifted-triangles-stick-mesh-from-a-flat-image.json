@@ -10,24 +10,6 @@
       "from": "f825 pages 3-4 — the final tower of sticks and paper planes"
     },
     {
-      "name": "02-triangle-drawing.webp",
-      "sha256": "09327b56c3c92e1338ac8f804e7dc664dde620cbbdf48c3b2c36285335885c41",
-      "bytes": 79410,
-      "from": "f825 pages 3-4 — the triangulated line drawing"
-    },
-    {
-      "name": "03-frame-in-progress.webp",
-      "sha256": "28a842f631424fa1cac2779109cc524acfe938e20a7dcc43ae457a20ef919811",
-      "bytes": 49716,
-      "from": "f825 pages 3-4 — the stick mesh taking shape"
-    },
-    {
-      "name": "04-frame-on-table.webp",
-      "sha256": "4441705cfbe24b11b8d9bcadcf6e69fce3b64763e9747a7576408958e84087e9",
-      "bytes": 49864,
-      "from": "f825 pages 3-4 — the mesh lifted into three dimensions"
-    },
-    {
       "name": "05-model-shadow.webp",
       "sha256": "8722dfdcbbaf37a7a0c6e0744142c56f9b5a98717ae9af5e115c382e37848e7f",
       "bytes": 123538,
@@ -56,6 +38,18 @@
       "sha256": "0a28791344772f575288317dc281f628e132d422bb63367460f4dff220b55ac3",
       "bytes": 49080,
       "from": "f825 pages 3-4 — a close view of the triangles"
+    },
+    {
+      "name": "10-sky-photo-and-triangulation.webp",
+      "sha256": "bdc2f52dd9ead3a3f332a3b1e25f3a90c95fa153b1fd06b70115b67b6703a9d6",
+      "bytes": 189968,
+      "from": "restored reference image (sky photo and triangulation)"
+    },
+    {
+      "name": "11-process-photos-by-hand.webp",
+      "sha256": "d8048de3dcd9f00d2c691540410bb9040f2292f08f5478ce9ee186e1f7e9bdf1",
+      "bytes": 185270,
+      "from": "restored reference image (process photos by hand)"
     }
   ]
 }

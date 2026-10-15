@@ -16,12 +16,6 @@
       "from": "f825 pages 5-7 — a recorded sound wave"
     },
     {
-      "name": "03-light-traces.webp",
-      "sha256": "810caf481e2b3c9497c76ffce95197977cac392e640f30a5af262c0281c22c1e",
-      "bytes": 45998,
-      "from": "f825 pages 5-7 — light traces of moving sound"
-    },
-    {
       "name": "04-wave-sketch.webp",
       "sha256": "24b33a13babcafe52a5b78c479d7549aad7936813e69ea5901dc01940c2ba095",
       "bytes": 66792,
@@ -62,6 +56,12 @@
       "sha256": "4e2cb54568b9be1f9d9032bb59d088dec0e14e61d416d9df4cd8b2d70f873e87",
       "bytes": 67476,
       "from": "f825 pages 5-7 — ribbons and sticks intertwined"
+    },
+    {
+      "name": "11-light-trace-experiment-with-arm-and-speaker.webp",
+      "sha256": "e6ec5904dfb321f8a7d04337c0f39cfdff9f50331dce2f212978d80a3a9d3858",
+      "bytes": 98474,
+      "from": "restored reference image (light trace experiment with arm and speaker)"
     }
   ]
 }

@@ -10,12 +10,6 @@
       "from": "f825 pages 8-9 — the city model with its core towers"
     },
     {
-      "name": "02-circuit-sketch.webp",
-      "sha256": "2b7956596c9128f27b37d979405531e1e219fcee75adec14967750ffa521dff4",
-      "bytes": 131398,
-      "from": "f825 pages 8-9 — a sketch traced from a circuit board"
-    },
-    {
       "name": "03-top-view.webp",
       "sha256": "49579201017baace6b542d532e09b31d36b9f61c79f4cc7e93a1548b4820db67",
       "bytes": 61616,
@@ -32,6 +26,18 @@
       "sha256": "6404b6b5b084357b6fb33d920685dba0261578ac6e31d51fd701d38c838f2d9a",
       "bytes": 48884,
       "from": "f825 pages 8-9 — core towers with stacked levels"
+    },
+    {
+      "name": "06-graphics-card-traced-to-sketch.webp",
+      "sha256": "be5564a15048fc0980fb07e7738b86c2ea57223071821e532bc6267577c8ffe1",
+      "bytes": 199292,
+      "from": "restored reference image (graphics card traced to sketch)"
+    },
+    {
+      "name": "07-circuit-and-city-inspiration.webp",
+      "sha256": "4f4d230e60fd6bf9e9da6eadad4199bd4d1cfb165455aa5ecead7dbac9eb39b8",
+      "bytes": 203644,
+      "from": "restored reference image (circuit and city inspiration)"
     }
   ]
 }

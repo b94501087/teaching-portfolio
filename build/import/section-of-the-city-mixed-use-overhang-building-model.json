@@ -46,22 +46,22 @@
       "from": "f825 pages 10-12 — a rooftop with a pergola"
     },
     {
-      "name": "08-loft-unit.webp",
-      "sha256": "62435ef743d21c6f222120dfbde666c64795a6fbda0d212528bb2e43898978d9",
-      "bytes": 25382,
-      "from": "f825 pages 10-12 — a loft unit"
-    },
-    {
       "name": "09-basement-shelf.webp",
       "sha256": "9dacbfd679fda1dd1bba3dc44a2864da6a670dab63bf2c2194179099ef58844e",
       "bytes": 34334,
       "from": "f825 pages 10-12 — the basement with its shelf"
     },
     {
-      "name": "10-room-detail.webp",
-      "sha256": "1b9bef8481f71a6eb78a9c5b41c133038aa0db2c22916a3f82472dbff9dc671c",
-      "bytes": 29650,
-      "from": "f825 pages 10-12 — a furnished room"
+      "name": "11-inspiration-images-with-source.webp",
+      "sha256": "f3255bf195d1604603d799407415e3c541ce4e632087a60245bec60007c8f140",
+      "bytes": 176426,
+      "from": "restored reference image (inspiration images with source)"
+    },
+    {
+      "name": "12-making-the-model-by-hand.webp",
+      "sha256": "b3125ecaf062b581adebff752defd3e75132cf6b0c114a39cb5952c5433d3b91",
+      "bytes": 118412,
+      "from": "restored reference image (making the model by hand)"
     }
   ]
 }
