@@ -1,0 +1,28 @@
+{
+  "project": "Separation and Condensation",
+  "dest": "assets/board/separation-and-condensation-boxes-in-a-stick-frame",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "02-unit-studies.webp",
+      "sha256": "8868b42c539e872aa21658ce9215b8cbd1f6894650e1b21cfd3a8827ba79684d",
+      "bytes": 258938,
+      "from": "restored reference image (unit studies)"
+    },
+    {
+      "name": "03-frame-assembly.webp",
+      "sha256": "dd69fa330e31e05cd31ad180270da0099bf351f55596f8393bfbd7edccd14891",
+      "bytes": 162952,
+      "from": "restored reference image (frame assembly)"
+    },
+    {
+      "name": "11-house-na-precedent.webp",
+      "sha256": "07f92c8f7cdb9e7472bde5c51e8597d3962cc1904278216dca590f4cfbeed43f",
+      "bytes": 98692,
+      "from": "restored reference image (house na precedent)"
+    }
+  ],
+  "delete": [
+    "assets/board/separation-and-condensation-boxes-in-a-stick-frame/05-frame-interior-b.webp"
+  ]
+}
