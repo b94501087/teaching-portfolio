@@ -1,0 +1,22 @@
+{
+  "project": "Electronic World",
+  "dest": "assets/board/electronic-world-circuit-board-city-model",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "06-graphics-card-traced-to-sketch.webp",
+      "sha256": "be5564a15048fc0980fb07e7738b86c2ea57223071821e532bc6267577c8ffe1",
+      "bytes": 199292,
+      "from": "restored reference image (graphics card traced to sketch)"
+    },
+    {
+      "name": "07-circuit-and-city-inspiration.webp",
+      "sha256": "4f4d230e60fd6bf9e9da6eadad4199bd4d1cfb165455aa5ecead7dbac9eb39b8",
+      "bytes": 203644,
+      "from": "restored reference image (circuit and city inspiration)"
+    }
+  ],
+  "delete": [
+    "assets/board/electronic-world-circuit-board-city-model/02-circuit-sketch.webp"
+  ]
+}
