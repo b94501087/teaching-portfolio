@@ -44,6 +44,18 @@
       "sha256": "9cc1c4d4b1143bfdd1a2d6cba1e565f98ce2a2c61893d571bc79c495623e14c9",
       "bytes": 157574,
       "from": "263a pages 3-5 — a low view into the frame"
+    },
+    {
+      "name": "08-orchid-photos-and-tracing.webp",
+      "sha256": "b530b516f602fae583e54c06221f0897ab64f2db1df024bfbf1780c58e1d87bf",
+      "bytes": 234380,
+      "from": "restored reference image (orchid photos and tracing)"
+    },
+    {
+      "name": "09-assembling-the-frame-by-hand.webp",
+      "sha256": "2ec1de5c604bdddba3ddfe616b54d59b8360f293f083038abef3c94d8f90c335",
+      "bytes": 149210,
+      "from": "restored reference image (assembling the frame by hand)"
     }
   ]
 }
