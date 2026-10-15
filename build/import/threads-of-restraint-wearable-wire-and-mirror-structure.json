@@ -32,6 +32,36 @@
       "sha256": "bd7a6f1820176f21ccd6fa9ca6b1ed1a681feacb9d04b6b7928eb0ec54aa6b0f",
       "bytes": 47538,
       "from": "4736 pages 3-4 — the thread stage"
+    },
+    {
+      "name": "06-portrait-collage.webp",
+      "sha256": "698ac5e81721c97fd1468a318ea2e70ad90d679834220908074ffbd6e40961a8",
+      "bytes": 149412,
+      "from": "restored reference image (portrait collage)"
+    },
+    {
+      "name": "07-spray-painting-by-hand.webp",
+      "sha256": "84aae3cdfd1d02c8fd7a970b030514e7da8d102003ba9e47524423fa708b3bd0",
+      "bytes": 86026,
+      "from": "restored reference image (spray painting by hand)"
+    },
+    {
+      "name": "08-mirror-stage.webp",
+      "sha256": "e48e90dd0ffe5388ac721a17da955391f5e64c39e9d419d5afb0a27d4b1f274a",
+      "bytes": 93288,
+      "from": "restored reference image (mirror stage)"
+    },
+    {
+      "name": "09-wearing-the-structure.webp",
+      "sha256": "fce26de0bcbb8688e77c8d47c75799e0c4abda1f12c5c0119d9ea8ac3cad7a4b",
+      "bytes": 220118,
+      "from": "restored reference image (wearing the structure)"
+    },
+    {
+      "name": "10-worn-structure-at-sunset.webp",
+      "sha256": "e6c16c09e27fb7829863f59b513ecf1cd227261d89d5f255c863dff36e03d036",
+      "bytes": 81124,
+      "from": "restored reference image (worn structure at sunset)"
     }
   ]
 }

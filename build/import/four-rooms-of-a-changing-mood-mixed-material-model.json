@@ -38,6 +38,12 @@
       "sha256": "e7a8699bb72ab6a0507be1afded9c9e8f15bfa0195504bfb812915b20cb0d024",
       "bytes": 76274,
       "from": "4736 pages 5-6 — the warm house"
+    },
+    {
+      "name": "07-film-stills-strip.webp",
+      "sha256": "4575283cabcb729398784f292c3aa095f7c2f32e2db3bf1edc8f022560783482",
+      "bytes": 162626,
+      "from": "restored reference image (film stills strip)"
     }
   ]
 }
