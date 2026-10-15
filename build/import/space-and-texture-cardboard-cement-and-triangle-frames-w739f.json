@@ -1,0 +1,37 @@
+{
+  "project": "Space and Texture",
+  "dest": "assets/board/space-and-texture-cardboard-cement-and-triangle-frames",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-city-photos-and-sketch.webp",
+      "sha256": "70d26bc24938c358545144a0bce641bf3f33ad0eb9a2bfe1aecb513cbce915cc",
+      "bytes": 268124,
+      "from": "restored reference image (city photos and sketch)"
+    },
+    {
+      "name": "12-trip-landscape-photo.webp",
+      "sha256": "97933bd3445774a4b37e65884344e49093e3ae3e620f90bb4c903c2c8f4f3e72",
+      "bytes": 99954,
+      "from": "restored reference image (trip landscape photo)"
+    },
+    {
+      "name": "13-pouring-the-cement.webp",
+      "sha256": "15655421d24ea00c32f655921c397a216532553794b7cc8eee9c0c5a0163ec87",
+      "bytes": 166706,
+      "from": "restored reference image (pouring the cement)"
+    },
+    {
+      "name": "14-villa-case-study-plans.webp",
+      "sha256": "9c635cbdf335b3dcc35c497912c4ca46f4bc7af66b66703885e0614c2bd22897",
+      "bytes": 193256,
+      "from": "restored reference image (villa case study plans)"
+    }
+  ],
+  "delete": [
+    "assets/board/space-and-texture-cardboard-cement-and-triangle-frames/03-standing-cardboard-pieces.webp",
+    "assets/board/space-and-texture-cardboard-cement-and-triangle-frames/06-cement-slab-views.webp",
+    "assets/board/space-and-texture-cardboard-cement-and-triangle-frames/07-triangle-frame-variations.webp",
+    "assets/board/space-and-texture-cardboard-cement-and-triangle-frames/09-small-unit-arrangements.webp"
+  ]
+}
