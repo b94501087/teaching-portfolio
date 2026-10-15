@@ -1,0 +1,43 @@
+{
+  "project": "Rethinking Waste Plastics",
+  "dest": "assets/board/rethinking-waste-plastics-coral-biomimetic-models",
+  "note": "Portfolio 5369 page 3 cropped to 6 images, WebP (PIL).",
+  "files": [
+    {
+      "name": "01-final-model.webp",
+      "sha256": "b7a2ecba00b0eff62fe23aec76d800dfa0e044cc21fcbc68967eb584d38a03a1",
+      "bytes": 133996,
+      "from": "5369 page 3 — the final coral-like models of waste plastics"
+    },
+    {
+      "name": "02-coral-drawing.webp",
+      "sha256": "cc6461421f20a8a56adfa5ae76dd72d10750ab202b309fd36f13e13c9a05c1d5",
+      "bytes": 269316,
+      "from": "5369 page 3 — a drawing of the structure as triangulated cells"
+    },
+    {
+      "name": "03-photo-collage.webp",
+      "sha256": "159cffbe5bf40bc4dc5d1f38defb34c34f1902cfbee4085323532a4362929ef8",
+      "bytes": 25196,
+      "from": "5369 page 3 — an inspiration collage of plastics and coral"
+    },
+    {
+      "name": "04-coral-analysis.webp",
+      "sha256": "09a16d2c74cddf78a0889c24f4d61234753e7c589cb60577dc6aabf74ea885bf",
+      "bytes": 252386,
+      "from": "5369 page 3 — sketches analysing coral structure"
+    },
+    {
+      "name": "05-collected-plastics.webp",
+      "sha256": "a6fdf0981fcb87f4d3e59b043ff7fb7144aceaf0a03441619706cc22ecccc01f",
+      "bytes": 68978,
+      "from": "5369 page 3 — collected straws and cups"
+    },
+    {
+      "name": "06-experiments.webp",
+      "sha256": "d1fd238afaad9128f0dafe804d919ae094b5e545944f51af3c35d626d0304313",
+      "bytes": 72510,
+      "from": "5369 page 3 — experiments with joints and small frames"
+    }
+  ]
+}
