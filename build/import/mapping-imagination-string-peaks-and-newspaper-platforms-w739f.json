@@ -1,0 +1,23 @@
+{
+  "project": "Mapping Imagination",
+  "dest": "assets/board/mapping-imagination-string-peaks-and-newspaper-platforms",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-holding-the-string-model.webp",
+      "sha256": "5c6d8e4e19c59099b173506fcc8800a689d5682233ecb0cda1f1c1771566e3f9",
+      "bytes": 69078,
+      "from": "restored reference image (holding the string model)"
+    },
+    {
+      "name": "12-olympiad-puzzle-sheet.webp",
+      "sha256": "ec696516b609054e0e4c72d0c12fb2b61bcc2eced109dbc0518bce856d229fc4",
+      "bytes": 24568,
+      "from": "restored reference image (olympiad puzzle sheet)"
+    }
+  ],
+  "delete": [
+    "assets/board/mapping-imagination-string-peaks-and-newspaper-platforms/06-string-peak-close.webp",
+    "assets/board/mapping-imagination-string-peaks-and-newspaper-platforms/04-newspaper-floor-detail.webp"
+  ]
+}
