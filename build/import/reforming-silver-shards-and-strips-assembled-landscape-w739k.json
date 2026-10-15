@@ -1,0 +1,19 @@
+{
+  "project": "Reforming",
+  "dest": "assets/board/reforming-silver-shards-and-strips-assembled-landscape",
+  "note": "w739k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-gundam-model-and-armour-sketches.webp",
+      "sha256": "5f3d46993d725858e203016f4c7826afd8dcb02db39f76bd91041000b1c92d91",
+      "bytes": 253928,
+      "from": "restored reference image (gundam model and armour sketches)"
+    },
+    {
+      "name": "11-folding-the-paper-by-hand.webp",
+      "sha256": "4b9843d0e868d78fd3a5d19724a727b8d1a7a83ab2e1329d97b4ec0df0308535",
+      "bytes": 50198,
+      "from": "restored reference image (folding the paper by hand)"
+    }
+  ]
+}

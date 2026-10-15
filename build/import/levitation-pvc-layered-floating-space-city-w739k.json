@@ -1,0 +1,36 @@
+{
+  "project": "Levitation",
+  "dest": "assets/board/levitation-pvc-layered-floating-space-city",
+  "note": "w739k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "02-first-stage-relief.webp",
+      "sha256": "1f943338884a06002960d44560b98abbe60acf8a20175191f26951cb2174ee38",
+      "bytes": 119872,
+      "from": "restored reference image (first stage relief)"
+    },
+    {
+      "name": "11-kneading-dough-inspiration.webp",
+      "sha256": "c062434313dcbf9ee18433fef22eede3940ed33614e9cf0848e43b57924f139b",
+      "bytes": 37304,
+      "from": "restored reference image (kneading dough inspiration)"
+    },
+    {
+      "name": "12-cutting-the-pvc-by-hand.webp",
+      "sha256": "51b2bd84498b52b7800efbc266fd02c8fcde97c31e81fbf6c98afc467544197c",
+      "bytes": 133096,
+      "from": "restored reference image (cutting the pvc by hand)"
+    },
+    {
+      "name": "13-holding-the-refined-model.webp",
+      "sha256": "f0055cb10f30b23858d87c48634fc63ff728da8e9c8b24d92f6ad03b3cdb35a9",
+      "bytes": 66130,
+      "from": "restored reference image (holding the refined model)"
+    }
+  ],
+  "delete": [
+    "assets/board/levitation-pvc-layered-floating-space-city/04-terrain-layers-b.webp",
+    "assets/board/levitation-pvc-layered-floating-space-city/08-inner-ribs.webp",
+    "assets/board/levitation-pvc-layered-floating-space-city/09-ribbed-hollow.webp"
+  ]
+}
