@@ -4,12 +4,6 @@
   "note": "Portfolio 029c pages 19-20 cropped to 6 images, WebP q88 (PIL). Not used: photographs of the model held in hands, handwritten note strip, caption with title, dimensions and date.",
   "files": [
     {
-      "name": "01-cell-model.webp",
-      "sha256": "941f676f56d5468276b72415eabdbb914f6b0700e47fb62d90cdda6ff7b6786d",
-      "bytes": 141774,
-      "from": "029c pages 19-20 — the coloured cell model"
-    },
-    {
       "name": "02-cell-sketch.webp",
       "sha256": "72022bbf513cc219b71f2dfcb5d3324f6fcb3131d46764f4f91a785f7fc55cd7",
       "bytes": 65658,
@@ -34,10 +28,28 @@
       "from": "029c pages 19-20 — annotated sketch of layers"
     },
     {
+      "name": "01-cell-model.webp",
+      "sha256": "e394d5a8a4d557b11c4e3dc40442586a3c864a0aa98f9098051f1d3dd2708d3d",
+      "bytes": 134602,
+      "from": "restored reference image (cell model)"
+    },
+    {
       "name": "06-cell-model-upright.webp",
-      "sha256": "bb18b064be89e553900d7ff2f9563970779a62292536f3bd087ad838089c21c9",
-      "bytes": 68676,
-      "from": "029c pages 19-20 — the cell model standing upright"
+      "sha256": "049a1f3a625ad29ecb8bd0683e2c2da22098b6a784ec94b9c040b07fbbc3176c",
+      "bytes": 81568,
+      "from": "restored reference image (cell model upright)"
+    },
+    {
+      "name": "07-holding-the-cell-model-a.webp",
+      "sha256": "7a6136da08ec752caad0329791665faadf7d8d46e6c619657423fa3793b2c616",
+      "bytes": 113024,
+      "from": "restored reference image (holding the cell model a)"
+    },
+    {
+      "name": "08-holding-the-cell-model-b.webp",
+      "sha256": "0e2529cf0baeaa0473c821240b430ca5e9c11db512a348b6e63654e26e153be6",
+      "bytes": 86886,
+      "from": "restored reference image (holding the cell model b)"
     }
   ]
 }

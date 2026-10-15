@@ -10,12 +10,6 @@
       "from": "43de pages 9-11 — the pavilion model as a whole"
     },
     {
-      "name": "02-creating-space.webp",
-      "sha256": "ba44cb6e585c0d2c47e7711f534406c605a48e15a5477c4f17ceffa5da2575c8",
-      "bytes": 35632,
-      "from": "43de pages 9-11 — shells beginning to create space"
-    },
-    {
       "name": "03-canopy-view-a.webp",
       "sha256": "efc175e36291e12c3af70f4837d36a1862d5afde9b4d091bfe7cd3dcd10fcfe5",
       "bytes": 106872,
@@ -44,6 +38,24 @@
       "sha256": "5c9ddd167daf4ae4118da208d28ebc76471092669b00286a1ca41b4d625a432d",
       "bytes": 105522,
       "from": "43de pages 9-11 — an entrance between the shells"
+    },
+    {
+      "name": "08-making-process-collage.webp",
+      "sha256": "3dc71416102aba404776fef39a3c2285b38be8e40b87ab57e16c562346f44ae0",
+      "bytes": 221446,
+      "from": "restored reference image (making process collage)"
+    },
+    {
+      "name": "09-panel-cluster-photo.webp",
+      "sha256": "3a8653e01313edb06b06c65c8004cb1b048734c2a789d61eee5eed5e71021c9b",
+      "bytes": 148524,
+      "from": "restored reference image (panel cluster photo)"
+    },
+    {
+      "name": "10-lettered-panel-view.webp",
+      "sha256": "268e49066c24316c879ada60e729155ccc294bb0c6c9f4d4303089a52925dddf",
+      "bytes": 179312,
+      "from": "restored reference image (lettered panel view)"
     }
   ]
 }

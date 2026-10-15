@@ -52,16 +52,16 @@
       "from": "43de pages 3-5 — facets casting shadows"
     },
     {
-      "name": "09-detail-cluster.webp",
-      "sha256": "d909549055ffbb22fda445161a7add2abfcd44cb1fc8bb3c30e4776e1eca2499",
-      "bytes": 49168,
-      "from": "43de pages 3-5 — a cluster of facets"
-    },
-    {
       "name": "10-close-up.webp",
       "sha256": "5e306b7a89b66c0d8650b90d464293d310848cf9e976fa1f902cee0cb3120d8d",
       "bytes": 204104,
       "from": "43de pages 3-5 — a close view of the shards"
+    },
+    {
+      "name": "11-market-photo.webp",
+      "sha256": "fc6c1db7ab3d98171255a3591a399ed1e6e42ab29fe48b3c2eb9ce4f9a9dca59",
+      "bytes": 125754,
+      "from": "restored reference image (market photo)"
     }
   ]
 }
