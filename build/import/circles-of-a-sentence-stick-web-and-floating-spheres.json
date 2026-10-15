@@ -4,12 +4,6 @@
   "note": "Portfolio dee0 pages 5-6 cropped to 5 images, WebP q88 (PIL). Not used: film title, film poster with actors, film still, logogram analysis traced from the film, photo edge with a hand, caption with dimensions and date.",
   "files": [
     {
-      "name": "01-floating-spheres-over-sticks.webp",
-      "sha256": "e82cb8b8fa97df224260bd65db846044c0112c5a6459ebc246f0b8430517c601",
-      "bytes": 172138,
-      "from": "dee0 pages 5-6 — floating spheres over the sticks"
-    },
-    {
       "name": "02-stick-canopy-from-below.webp",
       "sha256": "9cfbb0729c9e329473c821eca8da8c8219a5d1c3bdca2e8e18240821e7dfb995",
       "bytes": 70752,
@@ -50,6 +44,12 @@
       "sha256": "aa0d477c787ec6b5801124ba5faf4114b1311e81c751e0843ffcf11c553a6691",
       "bytes": 125702,
       "from": "restored reference image (traced logogram)"
+    },
+    {
+      "name": "01-floating-spheres-over-sticks.webp",
+      "sha256": "61552701f3e6dbaabd9b23a43bc869b73235ea5a051ecd838db219f2ac11e7bf",
+      "bytes": 241162,
+      "from": "restored reference image (floating spheres over sticks)"
     }
   ]
 }

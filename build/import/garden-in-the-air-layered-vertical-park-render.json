@@ -38,6 +38,12 @@
       "sha256": "0ab9fc5bd335bc1d18af48f1f1fcb446bc1f5299b244697685e3c35c7c5f5663",
       "bytes": 53768,
       "from": "4736 pages 10-11 — the section of the vertical park"
+    },
+    {
+      "name": "07-street-photo-collage.webp",
+      "sha256": "00e21425f95c7712c7ecb34415b7b5d88ad9435235f98a8181968e2a55b50612",
+      "bytes": 214550,
+      "from": "restored reference image (street photo collage)"
     }
   ]
 }
