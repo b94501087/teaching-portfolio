@@ -1,0 +1,31 @@
+{
+  "project": "Redefined Cells",
+  "dest": "assets/board/redefined-cells-clay-and-wire-cell-model",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "01-cell-model.webp",
+      "sha256": "e394d5a8a4d557b11c4e3dc40442586a3c864a0aa98f9098051f1d3dd2708d3d",
+      "bytes": 134602,
+      "from": "restored reference image (cell model)"
+    },
+    {
+      "name": "06-cell-model-upright.webp",
+      "sha256": "049a1f3a625ad29ecb8bd0683e2c2da22098b6a784ec94b9c040b07fbbc3176c",
+      "bytes": 81568,
+      "from": "restored reference image (cell model upright)"
+    },
+    {
+      "name": "07-holding-the-cell-model-a.webp",
+      "sha256": "7a6136da08ec752caad0329791665faadf7d8d46e6c619657423fa3793b2c616",
+      "bytes": 113024,
+      "from": "restored reference image (holding the cell model a)"
+    },
+    {
+      "name": "08-holding-the-cell-model-b.webp",
+      "sha256": "0e2529cf0baeaa0473c821240b430ca5e9c11db512a348b6e63654e26e153be6",
+      "bytes": 86886,
+      "from": "restored reference image (holding the cell model b)"
+    }
+  ]
+}

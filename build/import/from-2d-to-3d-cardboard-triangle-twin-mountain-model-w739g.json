@@ -1,0 +1,16 @@
+{
+  "project": "From 2D to 3D",
+  "dest": "assets/board/from-2d-to-3d-cardboard-triangle-twin-mountain-model",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-market-photo.webp",
+      "sha256": "fc6c1db7ab3d98171255a3591a399ed1e6e42ab29fe48b3c2eb9ce4f9a9dca59",
+      "bytes": 125754,
+      "from": "restored reference image (market photo)"
+    }
+  ],
+  "delete": [
+    "assets/board/from-2d-to-3d-cardboard-triangle-twin-mountain-model/09-detail-cluster.webp"
+  ]
+}
