@@ -1,0 +1,67 @@
+{
+  "project": "Rules and Construction",
+  "dest": "assets/board/rules-and-construction-reusing-a-shantou-arcade",
+  "note": "Portfolio ee62 pages 15-21 cropped to 10 images, WebP (PIL). Not used: title-page project info block (supervisor name, e-mail) and title text; arcade texture comparisons of other cities (p16 right) and the detail-view strip (p20 right) (10-image cap).",
+  "files": [
+    {
+      "name": "01-arcade-collage.webp",
+      "sha256": "54bcf3aeedf3e781135b7c6dd600d2bcd88c67f907ed139286c90abbeff0abe6",
+      "bytes": 159240,
+      "from": "ee62 pages 15-21 — the old town as dark volumes with glimpses of craft life inside"
+    },
+    {
+      "name": "02-old-town-map.webp",
+      "sha256": "a2e4feead9316eb9c5d8a8ad1a4f023fcefd0062f3292a6b37340788e8a283b3",
+      "bytes": 204200,
+      "from": "ee62 pages 15-21 — a map of the old part of town and its arcade buildings"
+    },
+    {
+      "name": "03-history-timeline.webp",
+      "sha256": "298ac30270446d936f1a93140818631d93fbbd05fb10a70e6c407cbc469f85d2",
+      "bytes": 213350,
+      "from": "ee62 pages 15-21 — street photographs from 1933 to 1990 and a day on the street today"
+    },
+    {
+      "name": "04-the-past.webp",
+      "sha256": "08f7d8ffa4db367a6e5b13c238bc3a49bfb05d2284ecfd77e6f7e42508d8fd07",
+      "bytes": 196482,
+      "from": "ee62 pages 15-21 — the past of the arcade with photographs and density maps"
+    },
+    {
+      "name": "05-current-axonometric.webp",
+      "sha256": "e147cfcaf94bd5814fbc0a8cd1b32b3a7e57ed16a9d67f2ebd87f10c6223f862",
+      "bytes": 178492,
+      "from": "ee62 pages 15-21 — an axonometric of the district as it is today"
+    },
+    {
+      "name": "06-structure-investigation.webp",
+      "sha256": "532aa03b20cb41d5e98d6928dfe1f597bab912d3873c201cde57bffb88ff52d9",
+      "bytes": 226902,
+      "from": "ee62 pages 15-21 — the pillars, damaged structure and complex interiors investigated"
+    },
+    {
+      "name": "07-new-functions.webp",
+      "sha256": "4ffc44dca17d700bc51567989797f819507c5b0cdc70d11259958cbbe3cb81d8",
+      "bytes": 171954,
+      "from": "ee62 pages 15-21 — the new functions layered floor by floor"
+    },
+    {
+      "name": "08-interior-views.webp",
+      "sha256": "19e60594d9fb80fff6410b914c2a2370e3f19665a63adad66c1eeb32ec1a1017",
+      "bytes": 141494,
+      "from": "ee62 pages 15-21 — views of the market, workshops, reading room and balcony"
+    },
+    {
+      "name": "09-street-elevation.webp",
+      "sha256": "1dd9f4e2a84ac14450cee2918522d1eacfc451560d12e13fdb9f61b94b5bf14d",
+      "bytes": 100152,
+      "from": "ee62 pages 15-21 — the street elevation with the new theatre"
+    },
+    {
+      "name": "10-ground-plan.webp",
+      "sha256": "92327f88df47cbd973d70e22772c556c6ad3cb73717d6b4252755dfdadc7ab0d",
+      "bytes": 136230,
+      "from": "ee62 pages 15-21 — the ground plan along the street"
+    }
+  ]
+}
