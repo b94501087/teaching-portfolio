@@ -1,0 +1,29 @@
+{
+  "project": "Superimposed Spaces",
+  "dest": "assets/board/superimposed-spaces-diagram-models-cantilevered-on-a-river",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-source-artwork-and-composite.webp",
+      "sha256": "d552cb7c8edab2b14789907b0e3b279cf5c4333095176762b091f8b5c6617017",
+      "bytes": 39474,
+      "from": "restored reference image (source artwork and composite)"
+    },
+    {
+      "name": "11-section-render-with-figure.webp",
+      "sha256": "b83e1363fa51524f081c2cc80a0bbc10382d68fb6b1c16592eea02db153c5b37",
+      "bytes": 9962,
+      "from": "restored reference image (section render with figure)"
+    },
+    {
+      "name": "12-rendered-views-with-figures.webp",
+      "sha256": "56a1fb3877b5b982354bac0f0f5e6679e9d8c0d238f17865c7ccf160bfe40a30",
+      "bytes": 35460,
+      "from": "restored reference image (rendered views with figures)"
+    }
+  ],
+  "delete": [
+    "assets/board/superimposed-spaces-diagram-models-cantilevered-on-a-river/04-composite-strip.webp",
+    "assets/board/superimposed-spaces-diagram-models-cantilevered-on-a-river/08-draft-models.webp"
+  ]
+}
