@@ -1,0 +1,13 @@
+{
+  "project": "Maze of Sixty Cycles",
+  "dest": "assets/board/maze-of-sixty-cycles-white-card-radial-labyrinth",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "09-making-the-maze-by-hand.webp",
+      "sha256": "aab901f882d3ac7454a137a6eb5ce88c7258fbb236533cdb2f5d5e619fb33d83",
+      "bytes": 37478,
+      "from": "restored reference image (making the maze by hand)"
+    }
+  ]
+}

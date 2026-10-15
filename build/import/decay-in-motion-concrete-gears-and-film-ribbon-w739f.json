@@ -1,0 +1,13 @@
+{
+  "project": "Decay in Motion",
+  "dest": "assets/board/decay-in-motion-concrete-gears-and-film-ribbon",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-slow-shutter-street-photos.webp",
+      "sha256": "916474c5c4c7e4f4cbde69d3a81a09bc593fa788c09ac889a9852ac5323c661d",
+      "bytes": 134794,
+      "from": "restored reference image (slow shutter street photos)"
+    }
+  ]
+}
