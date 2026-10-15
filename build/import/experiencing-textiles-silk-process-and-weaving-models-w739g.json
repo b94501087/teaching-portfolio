@@ -1,0 +1,22 @@
+{
+  "project": "Experiencing Textiles",
+  "dest": "assets/board/experiencing-textiles-silk-process-and-weaving-models",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-silk-scroll-painting.webp",
+      "sha256": "651235ae9dec5a4cf79e7ea9718bcafeb4bfd397093058ff9d6933940f2999c5",
+      "bytes": 229402,
+      "from": "restored reference image (silk scroll painting)"
+    },
+    {
+      "name": "11-weaving-machines-in-the-scroll.webp",
+      "sha256": "d9a9584a651cb8a51c13cd3dd4769ed64d4c7627aabae1423b4cb172e4a65de7",
+      "bytes": 41496,
+      "from": "restored reference image (weaving machines in the scroll)"
+    }
+  ],
+  "delete": [
+    "assets/board/experiencing-textiles-silk-process-and-weaving-models/09-weaving-model-side.webp"
+  ]
+}
