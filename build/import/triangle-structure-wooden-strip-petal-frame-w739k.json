@@ -1,0 +1,19 @@
+{
+  "project": "Triangle Structure",
+  "dest": "assets/board/triangle-structure-wooden-strip-petal-frame",
+  "note": "w739k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "08-orchid-photos-and-tracing.webp",
+      "sha256": "b530b516f602fae583e54c06221f0897ab64f2db1df024bfbf1780c58e1d87bf",
+      "bytes": 234380,
+      "from": "restored reference image (orchid photos and tracing)"
+    },
+    {
+      "name": "09-assembling-the-frame-by-hand.webp",
+      "sha256": "2ec1de5c604bdddba3ddfe616b54d59b8360f293f083038abef3c94d8f90c335",
+      "bytes": 149210,
+      "from": "restored reference image (assembling the frame by hand)"
+    }
+  ]
+}
