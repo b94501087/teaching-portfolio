@@ -1,0 +1,13 @@
+{
+  "project": "Circles of a Sentence",
+  "dest": "assets/board/circles-of-a-sentence-stick-web-and-floating-spheres",
+  "note": "w739g restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "01-floating-spheres-over-sticks.webp",
+      "sha256": "61552701f3e6dbaabd9b23a43bc869b73235ea5a051ecd838db219f2ac11e7bf",
+      "bytes": 241162,
+      "from": "restored reference image (floating spheres over sticks)"
+    }
+  ]
+}
