@@ -1,0 +1,13 @@
+{
+  "project": "Inverted Frames Tower",
+  "dest": "assets/board/inverted-frames-tower-wooden-strip-and-pvc-model",
+  "note": "w739i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-film-still-with-figure.webp",
+      "sha256": "a5100f8016341721dd92296c52fb323bbadf730f24a28a3218da8c9d79dd6ff1",
+      "bytes": 22488,
+      "from": "restored reference image (film still with figure)"
+    }
+  ]
+}

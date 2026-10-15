@@ -1,0 +1,13 @@
+{
+  "project": "Out of Shape",
+  "dest": "assets/board/out-of-shape-basketball-paths-to-layered-maquette",
+  "note": "w739i restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-sculpture-inserted-into-a-building.webp",
+      "sha256": "2d0efeae56da9a5b3aff7e7464776a3f7ad709821e8656d59a73bb18caedec1b",
+      "bytes": 202414,
+      "from": "restored reference image (sculpture inserted into a building)"
+    }
+  ]
+}
