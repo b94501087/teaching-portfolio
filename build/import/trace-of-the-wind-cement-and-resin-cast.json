@@ -50,6 +50,18 @@
       "sha256": "75e64dcc77ace01b9d63f11ee524f194d8fe473c1767ddf1b8173c72ffd56bdf",
       "bytes": 23344,
       "from": "2179 pages 12-13 — the finished cube on a white ground"
+    },
+    {
+      "name": "09-catching-the-falling-tissue.webp",
+      "sha256": "b05a814a5a151d6274dbc386be5339880ed3432956d38f4e26d0755de5cb423a",
+      "bytes": 32272,
+      "from": "restored reference image (catching the falling tissue)"
+    },
+    {
+      "name": "10-heat-gun-on-plastic-by-hand.webp",
+      "sha256": "9f5ec1aa64620ed3f943c6a16a160cf58893eeac3d5b728047cf6bdd01e64ee1",
+      "bytes": 48202,
+      "from": "restored reference image (heat gun on plastic by hand)"
     }
   ]
 }

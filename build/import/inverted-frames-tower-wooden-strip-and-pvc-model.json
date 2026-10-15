@@ -46,22 +46,22 @@
       "from": "2179 pages 7-8 — a deep view through the lattice"
     },
     {
-      "name": "08-inset-a.webp",
-      "sha256": "2abce1bf0c3bef0607d52eb316d49ab222c605e6168d2e2453b5ce1ea2e567bd",
-      "bytes": 37364,
-      "from": "2179 pages 7-8 — overlapping rooms in close view"
-    },
-    {
-      "name": "09-inset-b.webp",
-      "sha256": "563f9e77e9caa3933f7047c010bc71286a50e1e0219d22bd14f2508cf73d21ec",
-      "bytes": 53348,
-      "from": "2179 pages 7-8 — crossing frames from below"
-    },
-    {
       "name": "10-tower-dark.webp",
       "sha256": "001dfd8a66cbb01c150f768923792a1adad43cf13eddae59c59c9fc46dec2036",
       "bytes": 116980,
       "from": "2179 pages 7-8 — the whole tower against a dark ground"
+    },
+    {
+      "name": "11-film-still-with-figure.webp",
+      "sha256": "0431e9a03835246e6155516c7b7010f50203d2660a9dff01229915bda9d2bd0a",
+      "bytes": 17080,
+      "from": "restored reference image (film still with figure)"
+    },
+    {
+      "name": "12-building-frames-by-hand.webp",
+      "sha256": "706780ac0c33ba218faa79187e57caaf582cf7d484051b355c5687a144c0ca0c",
+      "bytes": 10986,
+      "from": "restored reference image (building frames by hand)"
     }
   ]
 }
