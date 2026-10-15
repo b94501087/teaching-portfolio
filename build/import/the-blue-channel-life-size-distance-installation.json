@@ -16,18 +16,6 @@
       "from": "a9c4 pages 10-11 — a frame with hanging forms"
     },
     {
-      "name": "03-tall-frame-study.webp",
-      "sha256": "9b6746094b0b66d75b849024878f2ea885bdc88f27695472ba5b91418fa32179",
-      "bytes": 7102,
-      "from": "a9c4 pages 10-11 — a tall frame study"
-    },
-    {
-      "name": "04-small-box-study.webp",
-      "sha256": "24d8095b1a2538d715aec4a4c9753f932be69dc5d4f4138ab671f78123868631",
-      "bytes": 6470,
-      "from": "a9c4 pages 10-11 — a small box study"
-    },
-    {
       "name": "05-layered-board-model.webp",
       "sha256": "3cba7c6173dbaed71e689d3d8dd94e5f1d6b8020e3275efb4ccfde1a55393250",
       "bytes": 7010,
@@ -52,16 +40,28 @@
       "from": "a9c4 pages 10-11 — the dark mass against panels"
     },
     {
-      "name": "09-channel-side-view.webp",
-      "sha256": "9b1b4c447d0802fce17c681e7100b9d9e0f362dd9d79d276206212c6459ce3a1",
-      "bytes": 21396,
-      "from": "a9c4 pages 10-11 — a side view of the channel"
+      "name": "11-my-photographs-of-distance.webp",
+      "sha256": "0c23fe6775334146a03b35ceda5e749c73d20b80446db92e3a41938d4a560b4a",
+      "bytes": 104638,
+      "from": "restored reference image (my photographs of distance)"
     },
     {
-      "name": "10-black-mass-close.webp",
-      "sha256": "9f6747387d5ec50aa292286dd46227b45d848c17d0ef9ff7019025dc573352eb",
-      "bytes": 42386,
-      "from": "a9c4 pages 10-11 — the black mass in close view"
+      "name": "12-inspiration-collage.webp",
+      "sha256": "1a5f0e4bca29c06fb649353e177a9e7a2abc3bb02fce83cd96c555f408fea4bc",
+      "bytes": 32424,
+      "from": "restored reference image (inspiration collage)"
+    },
+    {
+      "name": "13-mirror-and-distortion-collage.webp",
+      "sha256": "4f3748f0836ad62611cea87b8a648ae869e7aafbb198fec39a3be03ff338cc02",
+      "bytes": 39230,
+      "from": "restored reference image (mirror and distortion collage)"
+    },
+    {
+      "name": "14-standing-in-the-channel.webp",
+      "sha256": "d7d46f99de8b14e2ce7fb6b18b2fe3716f6f46a407e7bb9a7a2dc3db93979eb2",
+      "bytes": 31764,
+      "from": "restored reference image (standing in the channel)"
     }
   ]
 }

@@ -50,6 +50,18 @@
       "sha256": "bd96557844f6070592a139b3de8ec258242301a2e0af08e89f994e93c8504cb0",
       "bytes": 71080,
       "from": "a9c4 pages 8-9 — studies of domes and rocks"
+    },
+    {
+      "name": "09-game-scene-collage-upper.webp",
+      "sha256": "041a6885da9b046885ee6b8a322c0cb797a273d551b53901d2ec89701ddc0bc6",
+      "bytes": 67486,
+      "from": "restored reference image (game scene collage upper)"
+    },
+    {
+      "name": "10-game-scene-collage-lower.webp",
+      "sha256": "6b783baabf3b1840a33bad626f8c560ef0ea367909ff6a368cf08af8eba28fbe",
+      "bytes": 46294,
+      "from": "restored reference image (game scene collage lower)"
     }
   ]
 }

@@ -56,6 +56,12 @@
       "sha256": "eecb15f8736424bf47d5812d30917b6005a7a3e67a3c9d40a559ceb9d6ea429e",
       "bytes": 11700,
       "from": "a9c4 page 7 — the net-pattern shadow"
+    },
+    {
+      "name": "10-cutting-the-racket-frame.webp",
+      "sha256": "6ff5b1024dd4f5fe87d4f2a00fb799d6acadcee1363b6b713294f99ad85db12b",
+      "bytes": 10256,
+      "from": "restored reference image (cutting the racket frame)"
     }
   ]
 }
