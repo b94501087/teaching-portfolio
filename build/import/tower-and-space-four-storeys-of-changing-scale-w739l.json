@@ -1,0 +1,47 @@
+{
+  "project": "Tower and Space",
+  "dest": "assets/board/tower-and-space-four-storeys-of-changing-scale",
+  "note": "w739l restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-film-still-sequence.webp",
+      "sha256": "b5d050a27c0d1120b4c9d3910acfa047058417b0e951a8f900c021046af0c435",
+      "bytes": 95056,
+      "from": "restored reference image (film still sequence)"
+    },
+    {
+      "name": "12-floor-one-panel-with-quotation.webp",
+      "sha256": "7a7f1315e11ad5d97823a9cf4b0972a4e722dc4051f40851a3293d5ae75125c0",
+      "bytes": 92276,
+      "from": "restored reference image (floor one panel with quotation)"
+    },
+    {
+      "name": "13-floor-two-panel-with-quotation.webp",
+      "sha256": "07b421c1978a13bd62f88e9f85597d2f29b23ebd8948e083e4123d4a2b50f163",
+      "bytes": 96496,
+      "from": "restored reference image (floor two panel with quotation)"
+    },
+    {
+      "name": "14-floor-three-panel-with-quotation.webp",
+      "sha256": "d46d67e985fe0f62e913587c43ce7c3872b171f28ce409211c6c304c684e8ebd",
+      "bytes": 139258,
+      "from": "restored reference image (floor three panel with quotation)"
+    },
+    {
+      "name": "15-floor-four-panel-with-quotation.webp",
+      "sha256": "e10d0143e473fcf75f846accb335740c5c6d475d7e99a9b865c0814053fd1916",
+      "bytes": 95580,
+      "from": "restored reference image (floor four panel with quotation)"
+    }
+  ],
+  "delete": [
+    "assets/board/tower-and-space-four-storeys-of-changing-scale/03-grid-from-above.webp",
+    "assets/board/tower-and-space-four-storeys-of-changing-scale/04-upper-floor.webp",
+    "assets/board/tower-and-space-four-storeys-of-changing-scale/10-floor-one.webp",
+    "assets/board/tower-and-space-four-storeys-of-changing-scale/05-floor-two-blocks.webp",
+    "assets/board/tower-and-space-four-storeys-of-changing-scale/06-floor-two-interior.webp",
+    "assets/board/tower-and-space-four-storeys-of-changing-scale/07-floor-three-stairs.webp",
+    "assets/board/tower-and-space-four-storeys-of-changing-scale/08-floor-three-climb.webp",
+    "assets/board/tower-and-space-four-storeys-of-changing-scale/09-floor-four.webp"
+  ]
+}
