@@ -1,0 +1,49 @@
+{
+  "project": "Among the Desert",
+  "dest": "assets/board/among-the-desert-algae-facade-public-space",
+  "note": "Portfolio 5369 page 4 cropped to 7 images, WebP (PIL).",
+  "files": [
+    {
+      "name": "01-final-render.webp",
+      "sha256": "c67f8d1bce8c1db0155f04c7f0c461c2c47196457e7e8cb4c7811df689572ad4",
+      "bytes": 102482,
+      "from": "5369 page 4 — the public space set in the desert"
+    },
+    {
+      "name": "02-site-analysis.webp",
+      "sha256": "cf7f5dc4c7a5c09e63f6055951eeadc925c3d8b2f7814caa148b46bad32fdd2e",
+      "bytes": 34492,
+      "from": "5369 page 4 — a map of extreme weather events in africa"
+    },
+    {
+      "name": "03-hedgehog-facade-analysis.webp",
+      "sha256": "feb29c7842e7c44af2a653a9c9da6f93adfb0357bae579bb743098546690b91e",
+      "bytes": 93916,
+      "from": "5369 page 4 — hedgehog spines and algae studied for the facade"
+    },
+    {
+      "name": "04-facade-generation.webp",
+      "sha256": "3720c5fa28ff23ab52f394cefdb4be9b8086a05c15271e9ec9a0250d3a82529c",
+      "bytes": 79144,
+      "from": "5369 page 4 — the facade generated in grasshopper"
+    },
+    {
+      "name": "05-algae-facade-and-applications.webp",
+      "sha256": "a42160196fe447e4a2ed13cc07df62f7f8925e9039eb4891c268900080020d51",
+      "bytes": 125498,
+      "from": "5369 page 4 — principles of the algae facade and its applications"
+    },
+    {
+      "name": "06-aquaponics-device.webp",
+      "sha256": "560d29614151091da3066889fc4c5d1bde1d37bf38b02ce54eb26dfbfe120045",
+      "bytes": 88780,
+      "from": "5369 page 4 — the aquaponics prototype in a tank with fish"
+    },
+    {
+      "name": "07-fish-habitat.webp",
+      "sha256": "78960aa9eec0559a82a7b2ab80a2ef78bdf44c0d6496bc1970e144685702a802",
+      "bytes": 178870,
+      "from": "5369 page 4 — the artificial fish habitat prototype"
+    }
+  ]
+}
