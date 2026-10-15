@@ -1,0 +1,22 @@
+{
+  "project": "Possibility of Space",
+  "dest": "assets/board/possibility-of-space-triangulated-paper-and-stick-models",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "10-cutting-the-card-by-hand.webp",
+      "sha256": "944c8b44e8f83c30cc6daebd44c0a6750d12755f2ef17399cb2a8bf6231b627e",
+      "bytes": 222788,
+      "from": "restored reference image (cutting the card by hand)"
+    },
+    {
+      "name": "11-holding-the-stick-frames.webp",
+      "sha256": "3c2d8e9b1232d2dfa7098562d5a5b823b664650fac48c600e606169e965a20c8",
+      "bytes": 53674,
+      "from": "restored reference image (holding the stick frames)"
+    }
+  ],
+  "delete": [
+    "assets/board/possibility-of-space-triangulated-paper-and-stick-models/04-line-net-b.webp"
+  ]
+}
