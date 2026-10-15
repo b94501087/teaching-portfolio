@@ -1,0 +1,37 @@
+{
+  "project": "Exercise Bike for the Elderly",
+  "dest": "assets/board/exercise-bike-for-the-elderly-octagonal-home-trainer",
+  "note": "Portfolio 5369 page 8 cropped to 5 images, WebP (PIL). Not used: Facade Photography & Sketches (p8 right, photography/sketch work); p9-12 2D art works.",
+  "files": [
+    {
+      "name": "01-rendered-views.webp",
+      "sha256": "2e9727e6ae774a86d879bbf827bfce8dbed04722a8fb600ddf988e0ce323882c",
+      "bytes": 38036,
+      "from": "5369 page 8 — rendered views of the exercise bike"
+    },
+    {
+      "name": "02-octagon-drawing.webp",
+      "sha256": "7f5426e44958bf8f9ef985ae0952a6a246e5594ce59268a73d0c6811f37660ed",
+      "bytes": 19700,
+      "from": "5369 page 8 — a drawing of the octagonal body with the screen holder"
+    },
+    {
+      "name": "03-concept-sketches.webp",
+      "sha256": "fd54785020f9262be750e16d858f260cd50adb9ccf22be1ea82d2f488fb25fb1",
+      "bytes": 129368,
+      "from": "5369 page 8 — concept sketches with notes"
+    },
+    {
+      "name": "04-using-the-bike.webp",
+      "sha256": "6f961ce01cc8848649dffa93459af5345ecdec9e59aae50d6e62f742dc0dfdc1",
+      "bytes": 57532,
+      "from": "5369 page 8 — testing the prototype while seated"
+    },
+    {
+      "name": "05-technical-drawings.webp",
+      "sha256": "f88c7d403c7b7e52368f1c5a35d6fee5b6cb15d1a2bb95a46bd6088cd16c7329",
+      "bytes": 23094,
+      "from": "5369 page 8 — measured drawings of the parts"
+    }
+  ]
+}
