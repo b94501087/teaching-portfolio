@@ -56,6 +56,12 @@
       "sha256": "e40afb0c7220849f12fbae88fdd69a7535796791f03ea635e4ee8367d8730c12",
       "bytes": 14066,
       "from": "d39e page 7 — a fourth framed render"
+    },
+    {
+      "name": "10-sculpture-inserted-into-a-building.webp",
+      "sha256": "2d0efeae56da9a5b3aff7e7464776a3f7ad709821e8656d59a73bb18caedec1b",
+      "bytes": 202414,
+      "from": "restored reference image (sculpture inserted into a building)"
     }
   ]
 }

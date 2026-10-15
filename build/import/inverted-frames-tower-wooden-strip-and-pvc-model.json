@@ -52,16 +52,16 @@
       "from": "2179 pages 7-8 — the whole tower against a dark ground"
     },
     {
-      "name": "11-film-still-with-figure.webp",
-      "sha256": "0431e9a03835246e6155516c7b7010f50203d2660a9dff01229915bda9d2bd0a",
-      "bytes": 17080,
-      "from": "restored reference image (film still with figure)"
-    },
-    {
       "name": "12-building-frames-by-hand.webp",
       "sha256": "706780ac0c33ba218faa79187e57caaf582cf7d484051b355c5687a144c0ca0c",
       "bytes": 10986,
       "from": "restored reference image (building frames by hand)"
+    },
+    {
+      "name": "11-film-still-with-figure.webp",
+      "sha256": "a5100f8016341721dd92296c52fb323bbadf730f24a28a3218da8c9d79dd6ff1",
+      "bytes": 22488,
+      "from": "restored reference image (film still with figure)"
     }
   ]
 }

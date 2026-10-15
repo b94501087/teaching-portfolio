@@ -34,12 +34,6 @@
       "from": "d39e pages 3-4 — the coloured composition"
     },
     {
-      "name": "06-model-views.webp",
-      "sha256": "9f518dde8c6a426e32d22115cddc0cd1177f7ff12de06c0bbdafa1adb62f967a",
-      "bytes": 53642,
-      "from": "d39e pages 3-4 — two views of the ribbon model"
-    },
-    {
       "name": "07-model-from-above.webp",
       "sha256": "33ee4a86ea378ec9db7e5d8b2e187b7b769152076fe1e1ef7af5452717363980",
       "bytes": 53268,
@@ -52,16 +46,22 @@
       "from": "d39e pages 3-4 — wooden stairs among the ribbons"
     },
     {
-      "name": "09-ribbon-interior.webp",
-      "sha256": "822f3028a5dfb5f27e1fbcc1f1f1c991269b84f2f8dd3fd8923799fb200816d8",
-      "bytes": 33028,
-      "from": "d39e pages 3-4 — an interior view of the ribbons"
-    },
-    {
       "name": "10-final-model-rear.webp",
       "sha256": "65a8f02432f1f2e69d7c0a950c19c98a5caa76f7c29a0c3d65fd1123621aee0e",
       "bytes": 58312,
       "from": "d39e pages 3-4 — the final model from the rear"
+    },
+    {
+      "name": "06-model-views.webp",
+      "sha256": "e4483cd81900d85133f50060e3e163701f830d69556156c992a0172e7a28b298",
+      "bytes": 112656,
+      "from": "restored reference image (model views)"
+    },
+    {
+      "name": "11-magazine-picture-collage.webp",
+      "sha256": "0b02a107b3cde624f1b379bf88a1003dbc516437713a124f54a567dc1ca4cfcc",
+      "bytes": 35440,
+      "from": "restored reference image (magazine picture collage)"
     }
   ]
 }
