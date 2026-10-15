@@ -22,12 +22,6 @@
       "from": "222e pages 9-11 — the curve drawings"
     },
     {
-      "name": "04-wire-curve-study.webp",
-      "sha256": "d170363725ac9adfdac80e0e3f7d760af8ea5a08d859476a2024561bc65fb535",
-      "bytes": 32492,
-      "from": "222e pages 9-11 — a wire curve study"
-    },
-    {
       "name": "05-wire-coil-model.webp",
       "sha256": "398bd5b162c6fa6ccf9d28f65f1abf4ef10c8916dd943145d74f896debdb30c8",
       "bytes": 23562,
@@ -62,6 +56,12 @@
       "sha256": "bd794226d68bb8832f2d20900d09dd65c1a6dc93c184b0463b9d30a9bc9e8a40",
       "bytes": 125672,
       "from": "222e pages 9-11 — the lattice rib in close view"
+    },
+    {
+      "name": "11-mall-photos.webp",
+      "sha256": "6d10f5fbfdc37cb34460b47b9eb5c5c119b1783ae6e4da0517529e858bedabe9",
+      "bytes": 69194,
+      "from": "restored reference image (mall photos)"
     }
   ]
 }

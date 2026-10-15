@@ -44,6 +44,18 @@
       "sha256": "6783de3383989792ca95ee4be000b4fb4887ff3463c1d972eb01616abc2945d5",
       "bytes": 40102,
       "from": "222e pages 4-5 — a close view of the coloured towers"
+    },
+    {
+      "name": "08-film-poster.webp",
+      "sha256": "797d22df682ee1ea50621c8d801caadd18cca28168cf14a8cb5adb0ec1ef78f9",
+      "bytes": 40750,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "09-concept-board.webp",
+      "sha256": "90961f92aeebdc79dc41a85e7641203569a1b229fa561be2198e0e9b1fde554e",
+      "bytes": 138966,
+      "from": "restored reference image (concept board)"
     }
   ]
 }

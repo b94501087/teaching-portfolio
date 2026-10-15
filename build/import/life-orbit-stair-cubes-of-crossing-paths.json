@@ -38,6 +38,30 @@
       "sha256": "bfdc6048c9687e92a128e9f8eda6693912c5e08cb189765b12bc7bc73b826fb0",
       "bytes": 101538,
       "from": "222e pages 6-8 — a climbing view inside the cubes"
+    },
+    {
+      "name": "07-film-poster.webp",
+      "sha256": "3e5cbb58addca0cbc8e8235e49204587d8d4d7033770f18dc8db912736451613",
+      "bytes": 32786,
+      "from": "restored reference image (film poster)"
+    },
+    {
+      "name": "08-corridor-reference-drawing.webp",
+      "sha256": "edc350598d70e72f6073e0c09f692f7f9d4788cb230227019c5103ecd0f4f9a2",
+      "bytes": 30700,
+      "from": "restored reference image (corridor reference drawing)"
+    },
+    {
+      "name": "09-making-by-hand.webp",
+      "sha256": "631b98f2189de62cefa339f4714e0c84dd8e6b5daa258918b88749042b0f2584",
+      "bytes": 31656,
+      "from": "restored reference image (making by hand)"
+    },
+    {
+      "name": "10-students-with-the-model.webp",
+      "sha256": "5fa1b25715fc07d02e8a939dbe53ac86728892af131cb344e35eb29c8d0b96c3",
+      "bytes": 205620,
+      "from": "restored reference image (students with the model)"
     }
   ]
 }
