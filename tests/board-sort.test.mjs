@@ -51,7 +51,9 @@ test('hash state round-trips and the bare level hash still works', () => {
   for (const st of [{ f: 'all', cat: 'all', sort: 'newest' }, { f: 'master', cat: 'stage', sort: 'az' }, { f: 'undergrad', cat: 'all', sort: 'default' }])
     assert.deepEqual(parseBoardHash(boardHash(st)), st);
   assert.equal(boardHash({ f: 'all', cat: 'all', sort: 'default' }), '');
-  assert.equal(parseBoardHash('#undergrad&cat=stage').cat, 'all');
+  assert.equal(parseBoardHash('#undergrad&cat=stage').cat, 'stage');
+  assert.deepEqual(parseBoardHash('#cat=urban'), { f: 'all', cat: 'urban', sort: 'default' });
+  assert.equal(boardHash({ f: 'undergrad', cat: 'interior', sort: 'default' }), '#undergrad&cat=interior');
 });
 
 test('board renders one sort button per option in both languages, default on', () => {
