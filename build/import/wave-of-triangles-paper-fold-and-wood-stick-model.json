@@ -22,12 +22,6 @@
       "from": "8b6a pages 8-12 — two folded paper forms"
     },
     {
-      "name": "04-paper-trio.webp",
-      "sha256": "c8722275087302d8856b1617c5f188cefedce32d208e5010fbe30e2400b8b2b1",
-      "bytes": 40980,
-      "from": "8b6a pages 8-12 — further folded paper studies"
-    },
-    {
       "name": "05-paper-studies.webp",
       "sha256": "6a7f8d95a423deefb877a11b82c93ce379731c2477cb73b56b0bea4e7e5b3c81",
       "bytes": 106804,
@@ -62,6 +56,12 @@
       "sha256": "2c196cf4635620ad1bd5dc90242233d67525c18ab6edfad5f0e5b4cd23c1d6e3",
       "bytes": 54260,
       "from": "8b6a pages 8-12 — a smaller view of the curled lattice"
+    },
+    {
+      "name": "11-old-city-street-photos.webp",
+      "sha256": "8d346d987e5765b03cdfbe65106c8e8fd0b2a28811626bbfa8a5624f10ca7ff5",
+      "bytes": 101688,
+      "from": "restored reference image (old city street photos)"
     }
   ]
 }

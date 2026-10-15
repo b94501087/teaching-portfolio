@@ -38,6 +38,12 @@
       "sha256": "670740a1fbcbc469f27d83cc080531639d6e81590c1a0b0ee8a2786c69674d46",
       "bytes": 15672,
       "from": "2179 page 6 — the wing model seen from a low angle"
+    },
+    {
+      "name": "07-sketching-wings-by-hand.webp",
+      "sha256": "396b2abeafe2dfe6d9f14bab2f6b5c3bac68a9f36e167fb8c485dfbaab4ce781",
+      "bytes": 121236,
+      "from": "restored reference image (sketching wings by hand)"
     }
   ]
 }

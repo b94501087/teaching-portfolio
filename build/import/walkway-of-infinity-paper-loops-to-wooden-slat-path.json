@@ -28,18 +28,6 @@
       "from": "43de pages 12-14 — a paper loop with one surface"
     },
     {
-      "name": "05-paper-loop-b.webp",
-      "sha256": "b24c3d6c67ca2156f2edbde64e51e022bd7acfee76dd7ba52264242dfeaacbea",
-      "bytes": 32308,
-      "from": "43de pages 12-14 — a tighter paper knot"
-    },
-    {
-      "name": "06-paper-loop-c.webp",
-      "sha256": "9f10808368ae8d46605679a4344f085ae8c4913d13b3ff2b848ffc080c8a6d27",
-      "bytes": 30932,
-      "from": "43de pages 12-14 — a tall paper loop"
-    },
-    {
       "name": "07-paper-loop-d.webp",
       "sha256": "462b04dbe507d22827bdb87afa8d6cd412a8c6d0cd975d4d213c83bd222cd07a",
       "bytes": 26070,
@@ -52,16 +40,28 @@
       "from": "43de pages 12-14 — the slat path with figures"
     },
     {
-      "name": "09-wood-path-b.webp",
-      "sha256": "4add557389ab1a6a8d12eb2b5a8c71c513e778524893da53c848418ce1d5d070",
-      "bytes": 83508,
-      "from": "43de pages 12-14 — the coiling slat path"
+      "name": "11-holding-the-standing-spiral.webp",
+      "sha256": "ad992d1688618a031e2462e0ef0502c1bd69a0698ad0380b77c8ce95d8d39115",
+      "bytes": 35252,
+      "from": "restored reference image (holding the standing spiral)"
     },
     {
-      "name": "10-wood-path-close.webp",
-      "sha256": "4e08fa9e548f5046d2d3a135fdb1223aedcd091017990ab29c3ec02a0a0203b6",
-      "bytes": 54548,
-      "from": "43de pages 12-14 — a close view of the slats"
+      "name": "12-pavilion-photomontage-on-site.webp",
+      "sha256": "13add9753b9fa01564c40ef7efb690a1e00f5de7cf933f3ef8a259c8ed056838",
+      "bytes": 214348,
+      "from": "restored reference image (pavilion photomontage on site)"
+    },
+    {
+      "name": "13-twisting-paper-loops-by-hand.webp",
+      "sha256": "4512a2eb1e0aa0abb5ce9bf51e39e5946ac5ebb9b1f07a8603c647a75c0e2231",
+      "bytes": 129230,
+      "from": "restored reference image (twisting paper loops by hand)"
+    },
+    {
+      "name": "14-gluing-wooden-slats-by-hand.webp",
+      "sha256": "b5dd6126aa6186e804776cf66e33ecc50d1daf915fc900460d1742a6c04cfa26",
+      "bytes": 229448,
+      "from": "restored reference image (gluing wooden slats by hand)"
     }
   ]
 }
