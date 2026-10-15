@@ -1,0 +1,16 @@
+{
+  "project": "Dancing Stairs",
+  "dest": "assets/board/dancing-stairs-rotating-symmetrical-staircase-model",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-dance-performance-photos.webp",
+      "sha256": "35dfac8469ab13991fdc46c984545dba942d6e715b756faa78fc8cbc5d88e4b2",
+      "bytes": 50592,
+      "from": "restored reference image (dance performance photos)"
+    }
+  ],
+  "delete": [
+    "assets/board/dancing-stairs-rotating-symmetrical-staircase-model/10-stair-edge-detail.webp"
+  ]
+}

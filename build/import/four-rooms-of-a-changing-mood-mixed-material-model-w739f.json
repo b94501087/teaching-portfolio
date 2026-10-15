@@ -1,0 +1,13 @@
+{
+  "project": "Four Rooms of a Changing Mood",
+  "dest": "assets/board/four-rooms-of-a-changing-mood-mixed-material-model",
+  "note": "w739f restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "07-film-stills-strip.webp",
+      "sha256": "4575283cabcb729398784f292c3aa095f7c2f32e2db3bf1edc8f022560783482",
+      "bytes": 162626,
+      "from": "restored reference image (film stills strip)"
+    }
+  ]
+}
