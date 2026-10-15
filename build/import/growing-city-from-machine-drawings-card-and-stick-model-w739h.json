@@ -1,0 +1,23 @@
+{
+  "project": "Growing City from Machine Drawings",
+  "dest": "assets/board/growing-city-from-machine-drawings-card-and-stick-model",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-steam-engine-engraving.webp",
+      "sha256": "3a65e2755b214f728b307f98f9202c51010b19c5b8b5b92fea89f4ecdb0aa1ef",
+      "bytes": 155034,
+      "from": "restored reference image (steam engine engraving)"
+    },
+    {
+      "name": "12-car-engine-photo.webp",
+      "sha256": "86d5553cc656f02b1bc8bf2ed778b92896db9a0df199f0f19b20d17e89eb718f",
+      "bytes": 72898,
+      "from": "restored reference image (car engine photo)"
+    }
+  ],
+  "delete": [
+    "assets/board/growing-city-from-machine-drawings-card-and-stick-model/08-card-detail-c.webp",
+    "assets/board/growing-city-from-machine-drawings-card-and-stick-model/09-card-detail-d.webp"
+  ]
+}
