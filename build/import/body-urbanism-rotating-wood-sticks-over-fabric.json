@@ -34,12 +34,6 @@
       "from": "5918 pages 14-16 — joined wooden sticks"
     },
     {
-      "name": "06-joint-grid.webp",
-      "sha256": "942b6cc20110c857bef3685f3e8fb69108721164d0903c5d374f165def52d921",
-      "bytes": 92744,
-      "from": "5918 pages 14-16 — joint studies in a grid"
-    },
-    {
       "name": "07-fabric-sticks.webp",
       "sha256": "4f121fb95603ba66f850eef43d586738edc612eafba829cf5e0886d1be3888e9",
       "bytes": 126282,
@@ -52,16 +46,22 @@
       "from": "5918 pages 14-16 — a close view of a rotating joint"
     },
     {
-      "name": "09-screw-detail.webp",
-      "sha256": "1010d0e163cca356d3f86df78ff1d39754d03f180c671f73eba2369eb6f3cf89",
-      "bytes": 7490,
-      "from": "5918 pages 14-16 — a screw passing through the fabric"
-    },
-    {
       "name": "10-fabric-texture.webp",
       "sha256": "0720f2c709f82a57006d33c00d159687d54cb936768ca05af252613eda98b458",
       "bytes": 12184,
       "from": "5918 pages 14-16 — the shirt before it was taken apart"
+    },
+    {
+      "name": "11-exploded-drawing-on-the-body.webp",
+      "sha256": "52aa071ba53c634e733eeb273949bf126c9194ef1f2d17a5aca05422e7be4942",
+      "bytes": 193990,
+      "from": "restored reference image (exploded drawing on the body)"
+    },
+    {
+      "name": "12-hanging-the-frame-by-hand.webp",
+      "sha256": "b8889cbb517cf8e955de47abe26a31d58b4d2626aef4abb128d45cc355a09906",
+      "bytes": 165484,
+      "from": "restored reference image (hanging the frame by hand)"
     }
   ]
 }
