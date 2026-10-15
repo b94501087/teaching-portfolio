@@ -1,0 +1,25 @@
+{
+  "project": "Ribbons of Survival",
+  "dest": "assets/board/ribbons-of-survival-foam-paper-and-wire-emotion-model",
+  "note": "w739k restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "02-resin-sphere.webp",
+      "sha256": "a1e34dec89d6004b8a80c9760a1725cf818e040e511a34e7124fd8f88a2db21f",
+      "bytes": 40384,
+      "from": "restored reference image (resin sphere)"
+    },
+    {
+      "name": "09-film-character-study.webp",
+      "sha256": "4d9258aa2d45c5cac817d14010cc63183ab8abdac597b9adfd4f252771702af5",
+      "bytes": 202522,
+      "from": "restored reference image (film character study)"
+    },
+    {
+      "name": "10-face-and-film-still-collages.webp",
+      "sha256": "810a71fd9e4370dc5624062cbd21e0b6674e4fca19c116bd9c0af2c8b958bc9c",
+      "bytes": 265956,
+      "from": "restored reference image (face and film still collages)"
+    }
+  ]
+}
