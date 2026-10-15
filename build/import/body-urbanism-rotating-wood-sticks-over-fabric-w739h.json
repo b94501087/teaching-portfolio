@@ -1,0 +1,23 @@
+{
+  "project": "Body Urbanism",
+  "dest": "assets/board/body-urbanism-rotating-wood-sticks-over-fabric",
+  "note": "w739h restore of original images per user rule (controversial images kept).",
+  "files": [
+    {
+      "name": "11-exploded-drawing-on-the-body.webp",
+      "sha256": "52aa071ba53c634e733eeb273949bf126c9194ef1f2d17a5aca05422e7be4942",
+      "bytes": 193990,
+      "from": "restored reference image (exploded drawing on the body)"
+    },
+    {
+      "name": "12-hanging-the-frame-by-hand.webp",
+      "sha256": "b8889cbb517cf8e955de47abe26a31d58b4d2626aef4abb128d45cc355a09906",
+      "bytes": 165484,
+      "from": "restored reference image (hanging the frame by hand)"
+    }
+  ],
+  "delete": [
+    "assets/board/body-urbanism-rotating-wood-sticks-over-fabric/06-joint-grid.webp",
+    "assets/board/body-urbanism-rotating-wood-sticks-over-fabric/09-screw-detail.webp"
+  ]
+}
