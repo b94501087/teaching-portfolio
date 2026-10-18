@@ -7,6 +7,120 @@
       "items": []
     },
     {
+      "type": "philosophy",
+      "title": "教學理念",
+      "heading": {
+        "zh-Hant": "教學理念",
+        "en": "Teaching Philosophy"
+      },
+      "lead": {
+        "zh-Hant": "以敘事為驅動的「設計即研究」教學法：將社會與空間的張力轉譯為建築論證，從物件尺度延伸至城市地景。",
+        "en": "A narrative-driven, research-by-design pedagogy that transforms social and spatial tensions into architectural arguments across scales, from object to territory."
+      },
+      "subheading": {
+        "zh-Hant": "設計理論與教學方法",
+        "en": "Design Theory & Pedagogy"
+      },
+      "groups": [
+        {
+          "title": {
+            "zh-Hant": "設計理論",
+            "en": "Design Theory"
+          },
+          "items": [
+            {
+              "title": {
+                "zh-Hant": "議題先於形式",
+                "en": "Issue before form"
+              },
+              "body": {
+                "zh-Hant": "設計從社會與基地的矛盾出發——邊界、廢墟、生態、記憶與權力——而不是從造型出發。",
+                "en": "Design begins with social and site contradictions (borders, ruins, ecology, memory, power) rather than with shape."
+              }
+            },
+            {
+              "title": {
+                "zh-Hant": "空間敘事學",
+                "en": "Spatial narratology"
+              },
+              "body": {
+                "zh-Hant": "空間是可被閱讀的文本；以劇場、電影與文學為方法，透過序列、事件與身體經驗組織空間。",
+                "en": "Space is read as a text. Theatre, film and literature serve as methods, and space is composed through sequence, event and bodily experience."
+              }
+            },
+            {
+              "title": {
+                "zh-Hant": "跨尺度思考",
+                "en": "Trans-scalar thinking"
+              },
+              "body": {
+                "zh-Hant": "同一套設計邏輯，從裝置（S）、單體建築（M）、建築群（L）一路檢驗到城市地景（XL）。",
+                "en": "A single design logic is tested from installation (S) to building (M), cluster (L) and urban landscape (XL)."
+              }
+            },
+            {
+              "title": {
+                "zh-Hant": "跨領域類型",
+                "en": "Disciplinary fluidity"
+              },
+              "body": {
+                "zh-Hant": "建築、地景、城市、室內與舞台設計彼此流動，沒有硬性邊界。",
+                "en": "Architecture, landscape, urbanism, interior design and scenography flow into one another, without hard borders."
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "zh-Hant": "教學方法",
+            "en": "Pedagogy"
+          },
+          "items": [
+            {
+              "title": {
+                "zh-Hant": "大學部：建立設計語言",
+                "en": "Undergraduate: building a design language"
+              },
+              "body": {
+                "zh-Hant": "從物件、材料與身體尺度入手，訓練觀察、概念轉譯，以及折疊、切割、堆疊等形式操作。",
+                "en": "Work begins at the scale of object, material and body, training observation, conceptual translation and formal operations such as folding, cutting and stacking."
+              }
+            },
+            {
+              "title": {
+                "zh-Hant": "碩士：研究型設計",
+                "en": "Master's: research by design"
+              },
+              "body": {
+                "zh-Hant": "建立清晰的批判立場；以圖解與圖面作為研究工具，將理論轉化為可檢驗的空間策略；作品集是一篇以圖面寫成的論文。",
+                "en": "Each project takes a clear critical position. Diagrams and drawings act as research instruments, theory becomes a testable spatial strategy, and the portfolio reads as a thesis written in drawings."
+              }
+            },
+            {
+              "title": {
+                "zh-Hant": "蘇格拉底式引導",
+                "en": "Socratic mentoring"
+              },
+              "body": {
+                "zh-Hant": "先問「為什麼」，再問「怎麼做」；作品的作者始終是學生，教師的角色是導師（Mentor）。",
+                "en": "Why comes before how. Authorship always stays with the student; the teacher acts as a mentor."
+              }
+            },
+            {
+              "title": {
+                "zh-Hant": "作品集即論證",
+                "en": "Portfolio as argument"
+              },
+              "body": {
+                "zh-Hant": "版面敘事、圖面層級與文字都是設計的一部分，讓評審在幾分鐘內讀懂整個論證。",
+                "en": "Layout narrative, graphic hierarchy and text are part of the design, so that a jury can follow the argument within minutes."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "設計工作營與競賽工作坊",
       "body": "2020–2023 年間，我規劃並帶領了八個主題式設計工作營。每一個都從一個理論命題出發，要求學生先閱讀、寫出自己的設計宣言（Manifesto）與方法學（Methodology），再把方法帶進一個自選的國際競賽題目（大、中、小三種尺度），推演成完整方案。點選下方卡片看每個工作營的理論與方法。",
       "items": []

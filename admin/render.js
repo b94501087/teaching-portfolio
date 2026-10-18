@@ -555,11 +555,28 @@ function textBlock(s) {
   if (items.length) x += '<ul>\n' + items.map(it => '  <li>' + inline(it) + '</li>\n').join('') + '</ul>\n';
   return x;
 }
+// Bilingual teaching-philosophy section (type "philosophy"): heading, lead, subheading and groups of
+// titled points; every text is { "zh-Hant": ..., "en": ... }. Its EN / 繁中 buttons use the same
+// language switch as project pages (?lang=, remembered in localStorage); the rest of the page is untouched.
+export const hasPhilosophy = t => (t && Array.isArray(t.sections) ? t.sections : []).some(s => s && s.type === 'philosophy');
+const biText = (o, tag) => LANGS.map(l => '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + esc(str(o && o[l])) + '</' + tag + '>').join('');
+export function philosophyBlock(s) {
+  const groups = Array.isArray(s.groups) ? s.groups : [];
+  let x = '<section class="t-text t-philo">\n<div class="t-philo-top"><h2>' + biText(s.heading || { 'zh-Hant': s.title, en: s.title }, 'span') + '</h2>' +
+    '<div class="langs" role="group" aria-label="Language">' + LANGS.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l]) + '">' + esc(LANG_LABEL[l]) + '</button>').join('') + '</div></div>\n';
+  if (s.lead) x += '<p class="t-philo-lead">' + biText(s.lead, 'span') + '</p>\n';
+  if (s.subheading) x += '<h3 class="t-philo-sub">' + biText(s.subheading, 'span') + '</h3>\n';
+  if (groups.length) x += '<div class="t-philo-cols">\n' + groups.map(g => '<div class="t-philo-col"><h4>' + biText(g.title, 'span') + '</h4>\n<ul>\n' +
+    (Array.isArray(g.items) ? g.items : []).map(it => '  <li>' + LANGS.map(l => '<span data-l="' + l + '" lang="' + l + '"><strong>' + esc(str(it.title && it.title[l])) + '</strong>' + esc(str(it.body && it.body[l])) + '</span>').join('') + '</li>\n').join('') +
+    '</ul></div>\n').join('') + '</div>\n';
+  return x + '</section>\n';
+}
 function renderTeachingWall(site, t, opts) {
   const n = site.nav, secs = t.sections || [];
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.teaching) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/teaching/">\n' +
+    (hasPhilosophy(t) ? langHead(LANGS) : '') +
     '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="teach-wall">\n' +
     topBar(site, 1, 'teaching');
   let open = '';
@@ -571,6 +588,7 @@ function renderTeachingWall(site, t, opts) {
       return;
     }
     if (open === 'board') { h += '</div>\n'; open = ''; }
+    if (s.type === 'philosophy') { h += philosophyBlock(s); return; }
     if (s.type === 'group') {
       h += '<section class="t-cat"><h2>' + esc(s.title) + (s.subtitle ? ' <small>' + esc(s.subtitle) + '</small>' : '') + '</h2>' + (s.body ? '<p>' + inline(s.body) + '</p>' : '') + '</section>\n';
     } else {
@@ -579,7 +597,7 @@ function renderTeachingWall(site, t, opts) {
   });
   if (open === 'board') h += '</div>\n';
   if (t.closing) h += '<p class="t-closing">' + inline(t.closing) + '</p>\n';
-  return h + '</body></html>\n';
+  return h + (hasPhilosophy(t) ? LANG_SWITCH_JS : '') + '</body></html>\n';
 }
 export function renderTeaching(site, t, opts) {
   if (teachingStudios(t).length) return renderTeachingWall(site, t, opts);
@@ -587,6 +605,7 @@ export function renderTeaching(site, t, opts) {
   const first = secs[0] ? secs[0].title : '';
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>Teaching — ' + esc(first) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
+    (hasPhilosophy(t) ? langHead(LANGS) : '') +
     '<link rel="stylesheet" href="../A-Z/style.css"></head><body>\n' +
     sideNav(site, false, 'teaching') +
     '<main class="doc teaching">\n';
@@ -594,6 +613,7 @@ export function renderTeaching(site, t, opts) {
   let shown = 0;
   const imgs = s => (Array.isArray(s.images) ? s.images : []).map(String).filter(x => x.trim());
   h += secs.map((s, i) => {
+    if (s.type === 'philosophy') return philosophyBlock(s);
     // Category heading: groups the studio sections that follow it (optional, newer content).
     if (s.type === 'group') {
       let g = '<section class="t-group">\n<h2 class="t-group-h">' + esc(s.title) + '</h2>\n';
@@ -619,7 +639,7 @@ export function renderTeaching(site, t, opts) {
     return rich ? '<section class="t-studio">\n' + x + '</section>\n' : x;
   }).join('\n');
   if (t.closing) h += '\n<p style="margin-top:2em">' + inline(t.closing) + '</p>\n';
-  h += '</main>\n</body></html>\n';
+  h += '</main>\n' + (hasPhilosophy(t) ? LANG_SWITCH_JS : '') + '</body></html>\n';
   return h;
 }
 
@@ -889,6 +909,12 @@ export function validate(all) {
     if (!s || typeof s !== 'object') { errs.push('教學頁段落 ' + (i + 1) + ' 格式錯誤'); return; }
     if (s.images !== undefined && (!Array.isArray(s.images) || s.images.some(x => typeof x !== 'string'))) errs.push('教學頁段落「' + (s.title || i + 1) + '」的圖片必須是路徑清單');
     if (s.captions !== undefined && !Array.isArray(s.captions)) errs.push('教學頁段落「' + (s.title || i + 1) + '」的圖說必須是清單');
+    if (s.type === 'philosophy') {
+      const bi = o => !!o && LANGS.every(l => String(o[l] || '').trim());
+      const nm = '教學頁理念段落「' + (s.title || i + 1) + '」';
+      if (!bi(s.heading) || !bi(s.lead)) errs.push(nm + '的標題與導言需要中英文');
+      if (!Array.isArray(s.groups) || s.groups.some(g => !g || !bi(g.title) || !Array.isArray(g.items) || g.items.some(it => !it || !bi(it.title) || !bi(it.body)))) errs.push(nm + '的條目每項都需要中英文標題與內文');
+    }
     if (s.type === 'studio') {
       const nm = '教學頁工作營「' + (s.title || i + 1) + '」';
       if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(s.slug || '')) errs.push(nm + '的網址代稱只能用小寫英文、數字和連字號');

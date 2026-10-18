@@ -411,6 +411,7 @@ function editTeaching(t) {
           el('button', { type: 'button', class: 'small', disabled: i === 0, onclick: () => { move(t.sections, i, i - 1); changed(true); } }, '↑'),
           el('button', { type: 'button', class: 'small', disabled: i === t.sections.length - 1, onclick: () => { move(t.sections, i, i + 1); changed(true); } }, '↓'),
           el('button', { type: 'button', class: 'small', disabled: t.sections.length < 2, onclick: () => { if (confirm('刪除段落「' + s.title + '」？')) { t.sections.splice(i, 1); changed(true); } } }, '刪除'))),
+      ...(s.type === 'philosophy' ? [el('p', { class: 'hint' }, '教學理念（中英雙語）：內容請在 content/teaching.json 直接編輯；可用 ↑↓ 調整位置。')] : [
       field('標題', s.title, v => { s.title = v; changed(); }),
       field('副標（英文，可留白）', s.subtitle || '', v => { if (v.trim()) s.subtitle = v; else delete s.subtitle; changed(); }),
       ...(s.type === 'group' ? [] : [field('資訊列（年份、時長等，可留白）', s.meta || '', v => { if (v.trim()) s.meta = v; else delete s.meta; changed(); })]),
@@ -419,7 +420,7 @@ function editTeaching(t) {
       ...(s.type === 'group' ? [el('p', { class: 'hint' }, '分類標題：下面的段落屬於這個分類，直到下一個分類標題。')] : s.type === 'studio' ? [] : [
       field('條列（每行一項，可留白）', (s.items || []).join('\n'), v => { s.items = v.split('\n').map(x => x.trim()).filter(Boolean); changed(); }, { multiline: true, rows: Math.max(3, (s.items || []).length + 1) }),
       field('圖片（每行一個路徑，例如 assets/teaching/a-01-poster.webp，可留白）', (s.images || []).join('\n'), v => { const a = v.split('\n').map(x => x.trim()).filter(Boolean); if (a.length) s.images = a; else delete s.images; changed(); }, { multiline: true, rows: Math.max(2, (s.images || []).length + 1) }),
-      field('圖說（每行一則，順序對應圖片）', (s.captions || []).join('\n'), v => { const a = v.split('\n').map(x => x.trim()); while (a.length && !a[a.length - 1]) a.pop(); if (a.length) s.captions = a; else delete s.captions; changed(); }, { multiline: true, rows: Math.max(2, (s.captions || []).length + 1) })])));
+      field('圖說（每行一則，順序對應圖片）', (s.captions || []).join('\n'), v => { const a = v.split('\n').map(x => x.trim()); while (a.length && !a[a.length - 1]) a.pop(); if (a.length) s.captions = a; else delete s.captions; changed(); }, { multiline: true, rows: Math.max(2, (s.captions || []).length + 1) })])])));
   });
   out.push(el('div', { class: 'addbar' }, el('button', { type: 'button', onclick: () => { t.sections.push({ title: '新段落', body: '', items: [] }); changed(true); } }, '新增段落'), el('button', { type: 'button', onclick: () => { t.sections.push({ type: 'group', title: '新分類', body: '' }); changed(true); } }, '新增分類標題'), el('button', { type: 'button', onclick: () => { t.sections.push({ type: 'studio', slug: 'new-studio', title: '新工作營', subtitle: '', meta: '', cover: '', description: '', sections: [] }); changed(true); } }, '新增工作營')));
   out.push(field('結尾文字', t.closing, v => { t.closing = v; changed(); }, { multiline: true, rows: 2, hint: MARKUP_HINT }));
