@@ -25,6 +25,8 @@ body{margin:0;background:#f0f0f0;color:#111;font:14px/1.4 'Taipei Sans TC','Noto
 .board-tools .langs{display:flex;gap:12px}
 .board-tools.sub{padding-top:2px}
 .board-tools .subfilters[hidden]{display:none}
+.board-tools.scalefilters[hidden]{display:none}
+.board-tools.scalefilters button{font-size:12px}
 .board-tools .sorts{display:flex;flex-wrap:wrap;gap:6px 14px;margin-left:auto}
 .board-tools .subfilters button,.board-tools .sorts button{font-size:12px}
 @media(max-width:700px){.board-tools .sorts{margin-left:0}}
