@@ -45,15 +45,15 @@ test('A–Z and Z–A are case-insensitive', () => {
 test('sortItems does not mutate its input', () => { const c = items.slice(); sortItems(items, 'az'); assert.deepEqual(items, c); });
 
 test('hash state round-trips and the bare level hash still works', () => {
-  assert.deepEqual(parseBoardHash('#master'), { f: 'master', cat: 'all', sort: 'default' });
-  assert.deepEqual(parseBoardHash('#undergrad&sort=za'), { f: 'undergrad', cat: 'all', sort: 'za' });
-  assert.deepEqual(parseBoardHash('#sort=bogus&cat=nope'), { f: 'all', cat: 'all', sort: 'default' });
-  for (const st of [{ f: 'all', cat: 'all', sort: 'newest' }, { f: 'master', cat: 'stage', sort: 'az' }, { f: 'undergrad', cat: 'all', sort: 'default' }])
+  assert.deepEqual(parseBoardHash('#master'), { f: 'master', cat: 'all', scale: 'all', sort: 'default' });
+  assert.deepEqual(parseBoardHash('#undergrad&sort=za'), { f: 'undergrad', cat: 'all', scale: 'all', sort: 'za' });
+  assert.deepEqual(parseBoardHash('#sort=bogus&cat=nope'), { f: 'all', cat: 'all', scale: 'all', sort: 'default' });
+  for (const st of [{ f: 'all', cat: 'all', scale: 'all', sort: 'newest' }, { f: 'master', cat: 'stage', scale: 'all', sort: 'az' }, { f: 'undergrad', cat: 'all', scale: 'all', sort: 'default' }])
     assert.deepEqual(parseBoardHash(boardHash(st)), st);
-  assert.equal(boardHash({ f: 'all', cat: 'all', sort: 'default' }), '');
+  assert.equal(boardHash({ f: 'all', cat: 'all', scale: 'all', sort: 'default' }), '');
   assert.equal(parseBoardHash('#undergrad&cat=stage').cat, 'stage');
-  assert.deepEqual(parseBoardHash('#cat=urban'), { f: 'all', cat: 'urban', sort: 'default' });
-  assert.equal(boardHash({ f: 'undergrad', cat: 'interior', sort: 'default' }), '#undergrad&cat=interior');
+  assert.deepEqual(parseBoardHash('#cat=urban'), { f: 'all', cat: 'urban', scale: 'all', sort: 'default' });
+  assert.equal(boardHash({ f: 'undergrad', cat: 'interior', scale: 'all', sort: 'default' }), '#undergrad&cat=interior');
 });
 
 test('board renders one sort button per option in both languages, default on', () => {

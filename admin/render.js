@@ -153,6 +153,10 @@ const bl = (o, tag) => BOARD_LANGS.map(l => '<' + tag + ' data-l="' + l + '" lan
 // page at runtime so the mapping lives apart from board.json. A master pin missing from it shows under All only.
 export const CATEGORIES = ['architecture', 'landscape', 'urban', 'interior', 'stage'];
 export const CATEGORY_FILTER = { all: { en: 'All', 'zh-Hant': '全部' }, architecture: { en: 'Architecture', 'zh-Hant': '建築' }, landscape: { en: 'Landscape', 'zh-Hant': '景觀' }, urban: { en: 'Urban', 'zh-Hant': '城市' }, interior: { en: 'Interior', 'zh-Hant': '室內' }, stage: { en: 'Stage', 'zh-Hant': '舞台' } };
+// Master scales (content/scale.json: { slug: "S" | "M" | "L" | "XL" }, one per master pin), loaded by the board at
+// runtime like categories.json. The scale row is shown only under 碩士申請; leaving that level resets it.
+export const SCALES = ['S', 'M', 'L', 'XL'];
+export const SCALE_FILTER = { all: { en: 'All scales', 'zh-Hant': '全部尺度' }, S: { en: 'S · Small', 'zh-Hant': 'S 小尺度' }, M: { en: 'M · Building', 'zh-Hant': 'M 單體建築' }, L: { en: 'L · Complex', 'zh-Hant': 'L 建築群' }, XL: { en: 'XL · Urban & landscape', 'zh-Hant': 'XL 城市地景' } };
 export const SORTS = ['default', 'newest', 'oldest', 'az', 'za'];
 export const SORT_LABEL = { default: { en: 'Default', 'zh-Hant': '預設' }, newest: { en: 'Newest', 'zh-Hant': '時間新→舊' }, oldest: { en: 'Oldest', 'zh-Hant': '時間舊→新' }, az: { en: 'A–Z', 'zh-Hant': '字母 A→Z' }, za: { en: 'Z–A', 'zh-Hant': '字母 Z→A' } };
 
@@ -197,47 +201,51 @@ export function sortItems(items, how) {
 
 // Hash state: "#master&cat=landscape&sort=newest" (cat works with any level, incl. "#cat=urban" for All); the bare "#master" / "#undergrad" of the level filter still works.
 export function parseBoardHash(hash) {
-  const st = { f: 'all', cat: 'all', sort: 'default' };
+  const st = { f: 'all', cat: 'all', scale: 'all', sort: 'default' };
   for (const t of String(hash || '').replace(/^#/, '').split('&')) {
     const [k, v] = t.split('=');
     if (v === undefined) { if (LEVELS.includes(k)) st.f = k; }
     else if (k === 'cat' && CATEGORIES.includes(v)) st.cat = v;
+    else if (k === 'scale' && SCALES.includes(v)) st.scale = v;
     else if (k === 'sort' && SORTS.includes(v)) st.sort = v;
   }
+  if (st.f !== 'master') st.scale = 'all';
   return st;
 }
 export function boardHash(st) {
   const t = [];
   if (st.f && st.f !== 'all') t.push(st.f);
   if (st.cat && st.cat !== 'all') t.push('cat=' + st.cat);
+  if (st.f === 'master' && st.scale && st.scale !== 'all') t.push('scale=' + st.scale);
   if (st.sort && st.sort !== 'default') t.push('sort=' + st.sort);
   return t.length ? '#' + t.join('&') : '';
 }
-// Which pins are shown: pin = { level, cat }.
+// Which pins are shown: pin = { level, cat, scale }.
 export function pinShown(pin, st) {
   if (st.f !== 'all' && pin.level !== st.f) return false;
+  if (st.f === 'master' && st.scale && st.scale !== 'all' && pin.scale !== st.scale) return false;
   return st.cat === 'all' || catList(pin.cat).includes(st.cat);
 }
 // A categories.json value is one category or a list of them (a pin matches if any entry matches).
 export const catList = c => (Array.isArray(c) ? c : [c]).filter(x => CATEGORIES.includes(x));
 
-const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".board"),L=' + JSON.stringify(LEVELS) + ',C=' + JSON.stringify(CATEGORIES) + ',S=' + JSON.stringify(SORTS) + ',st={f:"all",cat:"all",sort:"default"},pins=[].slice.call(b.querySelectorAll(".pin"));' +
-  'function parse(){var h=location.hash.slice(1).split("&"),s={f:"all",cat:"all",sort:"default"};h.forEach(function(t){var kv=t.split("=");if(kv.length<2){if(L.indexOf(t)>=0)s.f=t}else if(kv[0]==="cat"&&C.indexOf(kv[1])>=0)s.cat=kv[1];else if(kv[0]==="sort"&&S.indexOf(kv[1])>=0)s.sort=kv[1]});return s}' +
-  'function hash(){var t=[];if(st.f!=="all")t.push(st.f);if(st.cat!=="all")t.push("cat="+st.cat);if(st.sort!=="default")t.push("sort="+st.sort);return t.length?"#"+t.join("&"):""}' +
+const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".board"),L=' + JSON.stringify(LEVELS) + ',C=' + JSON.stringify(CATEGORIES) + ',S=' + JSON.stringify(SORTS) + ',Z=' + JSON.stringify(SCALES) + ',st={f:"all",cat:"all",scale:"all",sort:"default"},pins=[].slice.call(b.querySelectorAll(".pin"));' +
+  'function parse(){var h=location.hash.slice(1).split("&"),s={f:"all",cat:"all",scale:"all",sort:"default"};h.forEach(function(t){var kv=t.split("=");if(kv.length<2){if(L.indexOf(t)>=0)s.f=t}else if(kv[0]==="cat"&&C.indexOf(kv[1])>=0)s.cat=kv[1];else if(kv[0]==="scale"&&Z.indexOf(kv[1])>=0)s.scale=kv[1];else if(kv[0]==="sort"&&S.indexOf(kv[1])>=0)s.sort=kv[1]});if(s.f!=="master")s.scale="all";return s}' +
+  'function hash(){var t=[];if(st.f!=="all")t.push(st.f);if(st.cat!=="all")t.push("cat="+st.cat);if(st.f==="master"&&st.scale!=="all")t.push("scale="+st.scale);if(st.sort!=="default")t.push("sort="+st.sort);return t.length?"#"+t.join("&"):""}' +
   'function mark(a,v){[].forEach.call(document.querySelectorAll("["+a+"]"),function(x){var on=x.getAttribute(a)===v;x.classList.toggle("on",on);x.setAttribute("aria-pressed",on?"true":"false")})}' +
   'function key(p){var d=p.getAttribute("data-date");return{p:p,i:+p.getAttribute("data-i"),date:d?+d:null,title:p.getAttribute("data-title")||""}}' +
   'function order(){var a=pins.map(key),s=st.sort,has=function(v){return v!==null};' +
   'if(s==="az"||s==="za"){var d=s==="az"?1:-1;a.sort(function(x,y){return d*x.title.localeCompare(y.title,"en",{sensitivity:"base",numeric:true})||x.i-y.i})}' +
   'else if(s==="newest"||s==="oldest"){var e=s==="oldest"?1:-1;a.sort(function(x,y){return has(x.date)&&has(y.date)?e*(x.date-y.date)||x.i-y.i:has(x.date)?-1:has(y.date)?1:e*(x.i-y.i)})}' +
   'else a.sort(function(x,y){return x.i-y.i});a.forEach(function(k){b.appendChild(k.p)})}' +
-  'function apply(){mark("data-filter",st.f);mark("data-cat-filter",st.cat);mark("data-sort",st.sort);var sub=document.querySelector(".subfilters");if(sub)sub.hidden=false;order();' +
-  'pins.forEach(function(p){p.hidden=st.f!=="all"&&!p.classList.contains("lv-"+st.f)||st.cat!=="all"&&(" "+(p.getAttribute("data-cat")||"")+" ").indexOf(" "+st.cat+" ")<0});b.setAttribute("data-filter",st.f);b.setAttribute("data-cat",st.cat);b.setAttribute("data-sort",st.sort);' +
+  'function apply(){mark("data-filter",st.f);mark("data-cat-filter",st.cat);mark("data-scale-filter",st.scale);mark("data-sort",st.sort);var sub=document.querySelector(".subfilters");if(sub)sub.hidden=false;var zr=document.querySelector(".scalefilters");if(zr)zr.hidden=st.f!=="master";order();' +
+  'pins.forEach(function(p){p.hidden=st.f!=="all"&&!p.classList.contains("lv-"+st.f)||st.cat!=="all"&&(" "+(p.getAttribute("data-cat")||"")+" ").indexOf(" "+st.cat+" ")<0||st.f==="master"&&st.scale!=="all"&&p.getAttribute("data-scale")!==st.scale});b.setAttribute("data-scale",st.scale);b.setAttribute("data-filter",st.f);b.setAttribute("data-cat",st.cat);b.setAttribute("data-sort",st.sort);' +
   'var e=document.querySelector(".board-empty");if(e)e.hidden=!!b.querySelector(".pin:not([hidden])");if(b.classList.contains("masonry"))dispatchEvent(new Event("resize"))}' +
   'function save(){try{history.replaceState(null,"",hash()||location.pathname+location.search)}catch(z){}}' +
-  'document.addEventListener("click",function(e){var c=e.target.closest&&e.target.closest("[data-filter],[data-cat-filter],[data-sort]");if(!c)return;' +
-  'if(c.hasAttribute("data-filter"))st.f=c.getAttribute("data-filter");else if(c.hasAttribute("data-cat-filter"))st.cat=c.getAttribute("data-cat-filter");else st.sort=c.getAttribute("data-sort");apply();save()});' +
+  'document.addEventListener("click",function(e){var c=e.target.closest&&e.target.closest("[data-filter],[data-cat-filter],[data-scale-filter],[data-sort]");if(!c)return;' +
+  'if(c.hasAttribute("data-filter")){st.f=c.getAttribute("data-filter");if(st.f!=="master")st.scale="all"}else if(c.hasAttribute("data-cat-filter"))st.cat=c.getAttribute("data-cat-filter");else if(c.hasAttribute("data-scale-filter"))st.scale=c.getAttribute("data-scale-filter");else st.sort=c.getAttribute("data-sort");apply();save()});' +
   'st=parse();apply();' +
-  'if(window.fetch)fetch("../content/categories.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var c=m[p.getAttribute("data-slug")];c=(Array.isArray(c)?c:[c]).filter(function(x){return C.indexOf(x)>=0});if(c.length)p.setAttribute("data-cat",c.join(" "))});apply()}).catch(function(){})})();</script>\n';
+  'if(window.fetch)fetch("../content/categories.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var c=m[p.getAttribute("data-slug")];c=(Array.isArray(c)?c:[c]).filter(function(x){return C.indexOf(x)>=0});if(c.length)p.setAttribute("data-cat",c.join(" "))});apply()}).catch(function(){});if(window.fetch)fetch("../content/scale.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var z=m[p.getAttribute("data-slug")];if(Z.indexOf(z)>=0)p.setAttribute("data-scale",z)});apply()}).catch(function(){})})();</script>\n';
 
 export function renderBoard(site, board, opts) {
   const n = site.nav;
@@ -253,6 +261,9 @@ export function renderBoard(site, board, opts) {
     ['all', 'master', 'undergrad'].map(f => '<button type="button" data-filter="' + f + '"' + (f === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(LEVEL_FILTER[f], 'span') + '</button>').join('') +
     '</div><div class="langs" role="group" aria-label="Language">' +
     BOARD_LANGS.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l] || l) + '">' + esc(LANG_LABEL[l] || l) + '</button>').join('') + '</div></div>\n' +
+    '<div class="board-tools sub scalefilters" hidden><div class="filters" role="group" aria-label="Scale">' +
+    ['all', ...SCALES].map(z => '<button type="button" data-scale-filter="' + z + '"' + (z === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(SCALE_FILTER[z], 'span') + '</button>').join('') +
+    '</div></div>\n' +
     '<div class="board-tools sub"><div class="filters subfilters" role="group" aria-label="Category" hidden>' +
     ['all', ...CATEGORIES].map(c => '<button type="button" data-cat-filter="' + c + '"' + (c === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(CATEGORY_FILTER[c], 'span') + '</button>').join('') +
     '</div><div class="sorts" role="group" aria-label="Sort">' +
