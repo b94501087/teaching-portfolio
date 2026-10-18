@@ -74,4 +74,10 @@ a:hover{text-decoration:underline}
 .cv-sec li::before{content:"·";position:absolute;left:.25em;color:#9a9a9a}
 .cv-schools{columns:2;column-gap:28px}
 .cv-schools li{break-inside:avoid}
+.cv-philo-lead{margin:0 0 16px;color:#222;font-size:16px;line-height:1.75}
+.cv-philo-cols{display:grid;grid-template-columns:1fr 1fr;gap:4px 36px}
+.cv-philo-cols h4{font-weight:500;font-size:15px;margin:4px 0 6px;color:#222}
+.cv-sec .cv-philo-cols li{margin:0 0 8px;line-height:1.65}
+.cv-philo-cols li strong{display:block;font-weight:500;color:#222}
+@media(max-width:700px){.cv-philo-cols{grid-template-columns:1fr}}
 @media(max-width:700px){.doc.cv{padding:28px 20px 64px}.cv-schools{columns:1}.cv-stats{gap:4px 18px}}
