@@ -116,3 +116,26 @@ test('blog link in every navigation; A–Z lists posts with a blog tag', () => {
   assert.deepEqual(e.map(x => x.link).sort(), ['../blog/fixture-older/', '../blog/fixture-post/']);
   assert.ok(renderAZ(site, all.az, {}, null, null, FIXTURE).includes('<span class="az-k">blog</span>'));
 });
+
+test('post student works link to existing board pins and reuse local images', () => {
+  const slugs = new Set(board.pins.map(p => p.slug));
+  for (const p of blogPosts(blog)) {
+    const html = JSON.stringify(p.body);
+    for (const m of html.matchAll(/\.\.\/\.\.\/board\/([a-z0-9-]+)\//g)) assert.ok(slugs.has(m[1]), p.slug + ' -> ' + m[1]);
+    for (const m of html.matchAll(/assets\/board\/[a-z0-9-]+\/[\w.-]+\.webp/g)) assert.ok(existsSync(new URL('../' + m[0], import.meta.url)), m[0]);
+    const h = renderBlogPost(site, blog, p, {});
+    if (p.abstract_en) assert.ok(h.includes('class="en-abstract" lang="en"'));
+    for (const m of h.matchAll(/class="post-work"[\s\S]*?<\/figure>/g)) assert.match(m[0], /看完整作品：|<figcaption>/);
+  }
+});
+
+test('board school tags: card + detail, bilingual, only where set', () => {
+  const pages = renderAll(all, {});
+  const b = pages['board/index.html'];
+  assert.ok(b.includes('class="schools"') && b.includes('普林斯頓') && b.includes('Cornell B.Arch ED'));
+  const tagged = board.pins.filter(p => Array.isArray(p.admitted_schools) && p.admitted_schools.length);
+  assert.ok(tagged.length >= 1);
+  for (const p of tagged) assert.ok(pages['board/' + p.slug + '/index.html'].includes('class="schools-row"'), p.slug);
+  const untagged = board.pins.find(p => !p.admitted_schools);
+  assert.ok(!pages['board/' + untagged.slug + '/index.html'].includes('class="schools-row"'));
+});

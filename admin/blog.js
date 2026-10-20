@@ -16,6 +16,10 @@
 //   "body": { "zh-Hant": "<h2>…？</h2><p>…</p>", "en": "…" },  // trusted HTML; H2s phrased as questions
 //   "keywords": ["…"], "faq": [{ "q": {…}, "a": {…} }],        // optional
 //   "source": { "type": "wechat", "date": "YYYY-MM-DD", "url": "…" },   // optional (original publication)
+//   "abstract_en": "…",                            // optional ~120-word English summary (shown as a block; also in llms-full.txt)
+//   Student works in body: <div class="work-grid"><figure class="post-work"><a href="../../board/<slug>/"><img src="../../assets/board/<slug>/NN.webp" …></a>
+//     <figcaption><strong>Title</strong>｜caption (no student names)<br><a class="work-link" href="../../board/<slug>/">看完整作品：Title →</a></figcaption></figure>…</div>
+//     Reuse the matching board pin images; works with no board match keep a local assets/blog/<slug>/ image and no link.
 //   "draft": true                                   // optional: page built with noindex, not listed
 // }
 import { esc, safeUrl, assetUrl, headExtra, cssV, langHead, LANG_SWITCH_JS, LANGS, LANG_LABEL, LANG_NAME,
@@ -191,6 +195,7 @@ export function renderBlogPost(site, blog, post, opts) {
   if (zhOr(post.tldr)) h += '<aside class="tldr"><p class="tldr-h">' + ui('tldr') + '</p>' + bi(post.tldr, 'p', L) + '</aside>\n';
   if (post.cover) h += '<figure class="post-cover"><img src="' + esc(assetUrl(post.cover, 2)) + '" alt="' + esc(title) + '"></figure>\n';
   h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (loc(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n';
+  if (post.abstract_en) h += '<section class="en-abstract" lang="en"><h2>English summary</h2><p>' + esc(post.abstract_en) + '</p></section>\n';
   if (faq.length) h += '<section class="faq"><h2>' + ui('faq') + '</h2>\n' + faq.map(f => '<details open><summary>' + bi(f.q, 'span', L) + '</summary>' + bi(f.a, 'p', L) + '</details>\n').join('') + '</section>\n';
   if (post.source && post.source.date) h += '<p class="post-source">' + ui('source') + ' ' + esc(post.source.date) + (post.source.url ? ' · <a href="' + esc(safeUrl(post.source.url)) + '" rel="nofollow noopener">WeChat</a>' : '') + '</p>\n';
   h += '</article>\n' +
@@ -245,7 +250,7 @@ export function renderLlms(all, full) {
     '## Blog posts\n\n' + (posts.length ? posts.map(p => '- [' + zhOr(p.title) + (loc(p.title, 'en') ? ' / ' + loc(p.title, 'en') : '') + '](' + postUrl(p.slug) + ')' + (zhOr(p.summary) ? ': ' + zhOr(p.summary) : '')).join('\n') : '- Coming soon.') + '\n';
   if (full) {
     t += '\n## Blog posts — full summaries\n\n' + (posts.length ? posts.map(p => '### ' + zhOr(p.title) + '\n\nURL: ' + postUrl(p.slug) + '\nPublished: ' + p.date + (p.updated ? ' · Updated: ' + p.updated : '') +
-      '\nCategories: ' + postCats(p).map(c => CAT[c].en).join(', ') + '\n\n' + [zhOr(p.tldr), loc(p.tldr, 'en'), zhOr(p.summary), loc(p.summary, 'en')].filter(Boolean).join('\n\n') +
+      '\nCategories: ' + postCats(p).map(c => CAT[c].en).join(', ') + '\n\n' + [zhOr(p.tldr), loc(p.tldr, 'en'), zhOr(p.summary), loc(p.summary, 'en'), p.abstract_en].filter(Boolean).join('\n\n') +
       ((Array.isArray(p.faq) ? p.faq : []).length ? '\n\nFAQ:\n' + p.faq.map(f => '- Q: ' + plain(zhOr(f.q)) + '\n  A: ' + plain(zhOr(f.a))).join('\n') : '')).join('\n\n') : 'Coming soon.') + '\n';
     t += '\n## Student projects (titles)\n\n' + pins.map(p => '- [' + p.title + '](' + SITE_URL + '/board/' + p.slug + '/)').join('\n') + '\n';
   }

@@ -38,3 +38,5 @@ so every image must be downloaded and re-hosted under `assets/blog/<slug>/` (Web
 2. Paste the entry into `content/blog.json`, edit: zh/en `title`, `summary` (1–2 sentences), `tldr` (direct
    answer), H2s as questions, `keywords`, optional `faq`; remove names of students; then drop `"draft": true`.
 3. `node --test tests/ && node build/build.mjs`, check `/blog/<slug>/` locally, push.
+
+Student works: match each student image against board pins (title + image similarity). If matched, show it as a `.post-work` card inside a `.work-grid`, reusing the pin image (`../../assets/board/<slug>/…`), with a caption (project title, school if the source says so, never a student name) and a 「看完整作品：<title>」 link to `../../board/<slug>/`. If not matched, do not guess a link; keep the cleaned local image and list it for the owner. Add official requirement facts with links and an "as of" date, plus an optional `abstract_en` (~120 words).

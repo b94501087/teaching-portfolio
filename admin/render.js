@@ -298,7 +298,7 @@ export function renderBoard(site, board, opts) {
     '<div class="board">\n';
   pins.forEach((p, i) => {
     const lv = pinLevel(p), d = pinDate(p);
-    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span></a>\n';
+    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span>' + schoolTags(p, 'span') + '</a>\n';
   });
   h += '</div>\n<p class="board-empty" hidden>' + bl({ en: 'No projects in this category yet.', 'zh-Hant': '這個類別目前還沒有作品。' }, 'span') + '</p>\n';
   if (board.foot) h += '<p class="foot">' + inline(board.foot) + '</p>\n';
@@ -395,6 +395,16 @@ export const LANG_SWITCH_JS = '<script>(function(){var d=document.documentElemen
 // ?v=<hash of style.css> (passed by build/build.mjs) so returning visitors fetch the new stylesheet.
 export const cssV = opts => (opts && opts.v ? '?v=' + esc(opts.v) : '');
 
+// Optional pin.admitted_schools = [{ "en": "Princeton", "zh-Hant": "普林斯頓" }, …] (or plain strings): schools the student was admitted to, filled ONLY
+// from a real source (portfolio file name/cover, the student's own offer). Shown as tags on the board card and detail page.
+export const pinSchools = p => (Array.isArray(p && p.admitted_schools) ? p.admitted_schools
+  .map(x => (typeof x === 'string' ? { en: x } : x)).filter(x => x && typeof x.en === 'string' && x.en.trim()) : []);
+export function schoolTags(p, wrap) {
+  const s = pinSchools(p);
+  if (!s.length) return '';
+  return '<' + wrap + ' class="schools">' + s.map(x => '<span class="school">' + (x['zh-Hant'] && x['zh-Hant'] !== x.en ? bl(x, 'span') : esc(x.en)) + '</span>').join('') + '</' + wrap + '>';
+}
+
 export function renderDetail(site, board, pin, opts) {
   const n = site.nav, teach = !!(opts && opts.kind === 'teaching');
   const backLabel = teach ? n.teaching : n.board;
@@ -428,6 +438,7 @@ export function renderDetail(site, board, pin, opts) {
     const desc = paragraphs(pin.description);
     if (desc) h += '<div class="desc">\n' + desc + '</div>\n';
   }
+  if (!teach && pinSchools(pin).length) h += '  <p class="schools-row"><span class="schools-h">Admitted · 錄取</span>' + schoolTags(pin, 'span') + '</p>\n';
   let rest = imgs, shown = 0;
   if (secs.length) {
     const used = new Set();
