@@ -12,10 +12,11 @@ import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { mergeBoard, renderAll, fillPlaceholders, validate } from '../admin/render.js';
+import { renderBlog, validateBlog, renderFeed, renderSitemap, renderRobots, renderLlms, blogPosts } from '../admin/blog.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const out = path.join(root, '_site');
-const EXCLUDE = new Set(['.git', '.github', '_site', 'build', 'worker', 'node_modules', 'README.md', '.gitignore', 'package.json']);
+const EXCLUDE = new Set(['.git', '.github', '_site', 'build', 'worker', 'node_modules', 'tests', 'README.md', '.gitignore', 'package.json']);
 
 async function copyDir(src, dst) {
   await fs.mkdir(dst, { recursive: true });
@@ -31,9 +32,10 @@ const readFile = async n => JSON.parse(await fs.readFile(path.join(root, 'conten
 const read = async n => n === 'board' ? mergeBoard(await readFile('board.json'), readFile) : readFile(n + '.json');
 const all = {
   site: await read('site'), board: await read('board'), az: await read('az'),
-  teaching: await read('teaching'), consulting: await read('consulting')
+  teaching: await read('teaching'), consulting: await read('consulting'),
+  blog: await readFile('blog.json').catch(() => ({ posts: [] }))
 };
-const errs = validate(all);
+const errs = validate(all).concat(validateBlog(all.blog));
 if (errs.length) { console.error('Content validation failed:\n- ' + errs.join('\n- ')); process.exit(1); }
 
 await fs.rm(out, { recursive: true, force: true });
@@ -64,7 +66,7 @@ for (const p of all.board.pins || []) for (const src of p.images || []) {
   if (typeof src !== 'string' || dims[src] || /^(https?:|data:|\/)/i.test(src)) continue;
   try { const d = imgSize(await fs.readFile(path.join(root, src))); if (d && d[0] > 0 && d[1] > 0) dims[src] = d; } catch {}
 }
-const pages = renderAll(all, { v, dims });
+const pages = Object.assign(renderAll(all, { v, dims }), renderBlog(all, { v }));
 for (const [rel, html] of Object.entries(pages)) {
   await fs.mkdir(path.dirname(path.join(out, rel)), { recursive: true });
   await fs.writeFile(path.join(out, rel), html);
@@ -84,5 +86,21 @@ await fs.writeFile(path.join(out, 'a-z', 'index.html'),
   '<meta http-equiv="refresh" content="0; url=../A-Z/">\n' +
   '<link rel="canonical" href="https://yuchuntsai.com/A-Z/">\n' +
   '</head><body>\n<p><a href="../A-Z/">A–Z</a></p>\n</body></html>\n');
+// Search / answer-engine files: Atom feed, robots.txt, sitemap.xml (every public page, drafts excluded), llms.txt.
+const today = new Date().toISOString().slice(0, 10);
+const SITE = 'https://yuchuntsai.com';
+const drafts = new Set((all.board.pins || []).filter(p => p.draft === true).map(p => 'board/' + p.slug + '/index.html')
+  .concat((all.blog.posts || []).filter(p => p && p.draft === true).map(p => 'blog/' + p.slug + '/index.html')));
+const postMod = Object.fromEntries(blogPosts(all.blog).map(p => ['blog/' + p.slug + '/index.html', p.updated || p.date]));
+const blogMod = blogPosts(all.blog).map(p => p.updated || p.date).sort().pop();
+const staticPages = ['cv/index.html', ...(await fs.readdir(path.join(root, 'A-Z'))).filter(f => f.endsWith('.html') && f !== 'index.html').map(f => 'A-Z/' + f)];
+const urls = [...Object.keys(pages), ...staticPages].filter(rel => !drafts.has(rel)).sort()
+  .map(rel => ({ loc: SITE + '/' + rel.replace(/(^|\/)index\.html$/, '$1'), lastmod: postMod[rel] || (rel === 'blog/index.html' && blogMod) || today }));
+await fs.writeFile(path.join(out, 'sitemap.xml'), renderSitemap(urls));
+await fs.writeFile(path.join(out, 'robots.txt'), renderRobots());
+await fs.writeFile(path.join(out, 'blog', 'feed.xml'), renderFeed(all.blog, today));
+await fs.writeFile(path.join(out, 'llms.txt'), renderLlms(all, false));
+await fs.writeFile(path.join(out, 'llms-full.txt'), renderLlms(all, true));
+console.log('sitemap urls:', urls.length, '· blog posts:', blogPosts(all.blog).length);
 console.log('detail pages:', Object.keys(pages).filter(k => /^board\/[^/]+\/index\.html$/.test(k)).length);
 console.log('build ok →', path.relative(process.cwd(), out) || '.');

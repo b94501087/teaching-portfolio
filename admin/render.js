@@ -63,7 +63,7 @@ export function esc(s) {
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-function safeUrl(u) {
+export function safeUrl(u) {
   u = String(u == null ? '' : u).trim();
   if (/^(javascript|data|vbscript):/i.test(u)) return '#';
   return u || '#';
@@ -80,13 +80,13 @@ export function inline(s, indent) {
 }
 
 // Root-relative asset paths (e.g. "assets/pins/x.jpg") are made relative to the page directory.
-function assetUrl(src, depth) {
+export function assetUrl(src, depth) {
   src = String(src || '');
   if (/^(https?:|data:|blob:|\/|\.\.?\/)/i.test(src)) return src;
   return '../'.repeat(depth) + src;
 }
 
-function headExtra(opts) {
+export function headExtra(opts) {
   return opts && opts.base ? '<base href="' + esc(opts.base) + '">' : '';
 }
 
@@ -102,6 +102,9 @@ export function renderLanding(site, opts) {
   return '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/">\n' +
+    '<meta name="description" content="' + esc(SITE_DESCRIPTION) + '">\n' +
+    '<link rel="alternate" type="application/atom+xml" title="Blog" href="blog/feed.xml">\n' +
+    jsonLdScript(siteJsonLd()) +
     '<link rel="stylesheet" href="style.css' + cssV(opts) + '"></head><body class="landing">\n' +
     '<main>\n' +
     '  <h1>' + esc(site.name) + '</h1>\n' +
@@ -111,6 +114,7 @@ export function renderLanding(site, opts) {
     '    <a href="teaching/">' + esc(n.teaching) + '</a>\n' +
     '    <a href="consulting/">' + esc(n.consulting) + '</a>\n' +
     '    <a href="cv/">' + esc(n.cv) + '</a>\n' +
+    '    <a href="blog/">' + esc(navBlog(n)) + '</a>\n' +
     '  </nav>\n' +
     '</main>\n' +
     '</body></html>\n';
@@ -118,19 +122,42 @@ export function renderLanding(site, opts) {
 
 /* ---------- board (/board/) and pin detail pages (/board/<slug>/) ---------- */
 // Top bar shared by the board and its detail pages. depth = directory depth below the root.
-function topBar(site, depth, here) {
-  const n = site.nav, up = '../'.repeat(depth), t = here === 'teaching';
+// here = the section the page belongs to ('board' by default, 'teaching', 'blog'); its link is marked .on
+// and points to the section root (./ on the section index, ../ one level below).
+export const navBlog = n => (n && String(n.blog || '').trim()) || 'blog';
+export function topBar(site, depth, here) {
+  const n = site.nav, up = '../'.repeat(depth), cur = here || 'board';
+  const a = (key, dir, label) => cur === key
+    ? '    <a class="on" href="' + (depth === 1 ? './' : '../'.repeat(depth - 1)) + '">' + esc(label) + '</a>\n'
+    : '    <a href="' + up + dir + '/">' + esc(label) + '</a>\n';
   return '<header class="bar">\n' +
     '  <strong><a href="' + up + '">' + esc(site.name) + '</a></strong>\n' +
     '  <nav>\n' +
-    (t ? '    <a href="' + up + 'board/">' + esc(n.board) + '</a>\n' : '    <a class="on" href="' + (depth === 1 ? './' : '../'.repeat(depth - 1)) + '">' + esc(n.board) + '</a>\n') +
+    a('board', 'board', n.board) +
     '    <a href="' + up + 'A-Z/">' + esc(n.az) + '</a>\n' +
-    (t ? '    <a class="on" href="' + (depth === 1 ? './' : '../'.repeat(depth - 1)) + '">' + esc(n.teaching) + '</a>\n' : '    <a href="' + up + 'teaching/">' + esc(n.teaching) + '</a>\n') +
+    a('teaching', 'teaching', n.teaching) +
     '    <a href="' + up + 'consulting/">' + esc(n.consulting) + '</a>\n' +
     '    <a href="' + up + 'cv/">' + esc(n.cv) + '</a>\n' +
+    a('blog', 'blog', navBlog(n)) +
     '  </nav>\n' +
     '</header>\n';
 }
+
+// Site-wide identity for search / answer engines (JSON-LD on the landing page, /cv/ and blog pages).
+export const SITE_URL = 'https://yuchuntsai.com';
+export const SITE_DESCRIPTION = 'Yu Chun Tsai — architecture & design portfolio mentor. 12,000+ hours of design teaching and design consultation since 2017, 370+ students, 1,800+ offers. 建築與設計作品集指導、留學申請諮詢。';
+export function personJsonLd() {
+  return { '@type': 'Person', '@id': SITE_URL + '/#person', name: 'Yu Chun Tsai', url: SITE_URL + '/cv/',
+    jobTitle: 'Architecture & design portfolio mentor; Senior External Design Consultant, S&J Design (Hong Kong)',
+    alumniOf: [{ '@type': 'CollegeOrUniversity', name: 'University of California, Berkeley' }, { '@type': 'CollegeOrUniversity', name: 'National Taiwan University' }],
+    knowsAbout: ['architecture portfolio', 'design portfolio', 'art and design study abroad applications', 'school selection', 'statement of purpose', 'architecture education'] };
+}
+export function siteJsonLd() {
+  return { '@context': 'https://schema.org', '@graph': [personJsonLd(),
+    { '@type': 'WebSite', '@id': SITE_URL + '/#website', url: SITE_URL + '/', name: 'Yu Chun Tsai', inLanguage: ['zh-Hant', 'en'], publisher: { '@id': SITE_URL + '/#person' } }] };
+}
+// JSON-LD inside <script type="application/ld+json">; "<" is escaped so content cannot close the tag.
+export const jsonLdScript = o => '<script type="application/ld+json">' + JSON.stringify(o).replace(/</g, '\\u003c') + '</script>\n';
 
 export const pinImages = p => (Array.isArray(p.images) ? p.images : []).filter(x => String(x || '').trim());
 export const visiblePins = board => (board.pins || []).filter(p => p.visible !== false);
@@ -354,7 +381,7 @@ function perLang(langs, get, wrap) {
 }
 
 // Picks the language before first paint: ?lang= (remembered), else the remembered choice, else the browser's.
-function langHead(langs) {
+export function langHead(langs) {
   return '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' +
     '<script>(function(){var L=' + JSON.stringify(langs) + ',d=document.documentElement,q=(/[?&]lang=([A-Za-z-]+)/.exec(location.search)||[])[1],s=null;' +
     'try{s=localStorage.getItem("lang")}catch(e){}' +
@@ -362,11 +389,11 @@ function langHead(langs) {
     'var l=L.indexOf(q)>=0?q:L.indexOf(s)>=0?s:(z&&/(^|,)zh/.test(n)?z:"en");' +
     'if(L.indexOf(q)>=0){try{localStorage.setItem("lang",q)}catch(e){}}d.setAttribute("data-lang",l);d.lang=l})();</script>\n';
 }
-const LANG_SWITCH_JS = '<script>(function(){var d=document.documentElement;function mark(){[].forEach.call(document.querySelectorAll("[data-set-lang]"),function(b){var on=b.getAttribute("data-set-lang")===d.getAttribute("data-lang");b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")})}' +
+export const LANG_SWITCH_JS = '<script>(function(){var d=document.documentElement;function mark(){[].forEach.call(document.querySelectorAll("[data-set-lang]"),function(b){var on=b.getAttribute("data-set-lang")===d.getAttribute("data-lang");b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")})}' +
   'document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("[data-set-lang]");if(!b)return;var l=b.getAttribute("data-set-lang");d.setAttribute("data-lang",l);d.lang=l;try{localStorage.setItem("lang",l)}catch(x){}mark()});mark()})();</script>\n';
 
 // ?v=<hash of style.css> (passed by build/build.mjs) so returning visitors fetch the new stylesheet.
-const cssV = opts => (opts && opts.v ? '?v=' + esc(opts.v) : '');
+export const cssV = opts => (opts && opts.v ? '?v=' + esc(opts.v) : '');
 
 export function renderDetail(site, board, pin, opts) {
   const n = site.nav, teach = !!(opts && opts.kind === 'teaching');
@@ -497,6 +524,7 @@ function sideNav(site, withEmail, here) {
     '    <a href="' + (here === 'teaching' ? './' : '../teaching/') + '">' + esc(n.teaching) + '</a>\n' +
     '    <a href="../consulting/">' + esc(n.consulting) + '</a>\n' +
     '    <a href="../cv/">' + esc(n.cv) + '</a>\n' +
+    '    <a href="../blog/">' + esc(navBlog(n)) + '</a>\n' +
     (withEmail ? '    <a href="mailto:' + esc(site.email) + '">' + esc(n.email) + '</a>\n' : '') +
     '  </nav>\n' +
     '</aside>\n';
@@ -505,24 +533,29 @@ function sideNav(site, withEmail, here) {
 // A–Z entries: the hand-written content/az.json entries plus, generated, every listed board pin
 // (/board/<slug>/) and every teaching workshop (/teaching/<slug>/), so new pins appear by themselves.
 // Each letter is sorted like the board's A–Z sort; generated entries carry a small kind tag.
-export function azEntries(az, board, teaching) {
+export function azEntries(az, board, teaching, blog) {
   const out = ((az && az.entries) || []).map(e => Object.assign({}, e));
   for (const s of teachingStudios(teaching)) {
     const en = String(s.subtitle || '').trim(), zh = String(s.title || '').trim();
     out.push({ title: en ? en + (zh ? '（' + zh + '）' : '') : zh, link: '../teaching/' + s.slug + '/', kind: 'workshop' });
   }
   for (const p of (board ? listedPins(board) : [])) if (String(p.title || '').trim()) out.push({ title: p.title, link: '../board/' + p.slug + '/', kind: 'board' });
+  // Blog posts (content/blog.json): listed under the English title when there is one, else the Chinese one.
+  for (const p of (blog && Array.isArray(blog.posts) ? blog.posts : []).filter(p => p && p.slug && p.visible !== false && p.draft !== true)) {
+    const t = p.title, en = String((t && typeof t === 'object' ? t.en : '') || '').trim(), zh = String((t && typeof t === 'object' ? t['zh-Hant'] : t) || '').trim();
+    if (en || zh) out.push({ title: en ? en + (zh ? '（' + zh + '）' : '') : zh, link: '../blog/' + p.slug + '/', kind: 'blog' });
+  }
   return out;
 }
-const AZ_KIND = { board: 'board', workshop: 'workshop' };
-export function renderAZ(site, az, opts, board, teaching) {
+const AZ_KIND = { board: 'board', workshop: 'workshop', blog: 'blog' };
+export function renderAZ(site, az, opts, board, teaching, blog) {
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="stylesheet" href="style.css"></head><body>\n' +
     sideNav(site, true, 'az') +
     '<main>\n';
   const cmp = (x, y) => sortTitle(x.title).localeCompare(sortTitle(y.title), 'en', { sensitivity: 'base', numeric: true });
-  for (const g of groupAZ(azEntries(az, board, teaching))) {
+  for (const g of groupAZ(azEntries(az, board, teaching, blog))) {
     h += '<section><h2>' + esc(g.label) + '</h2><ul>\n';
     for (const e of g.entries.slice().sort(cmp)) h += '  <li><a href="' + esc(safeUrl(e.link)) + '">' + esc(e.title) + '</a>' + (AZ_KIND[e.kind] ? ' <span class="az-k">' + AZ_KIND[e.kind] + '</span>' : '') + '</li>\n';
     h += '</ul></section>\n';
@@ -677,6 +710,7 @@ export function renderConsulting(site, c, opts) {
     <a href="../teaching/">${esc(n.teaching)}</a>
     <a class="on" href="./">${esc(n.consulting)}</a>
     <a href="../cv/">${esc(n.cv)}</a>
+    <a href="../blog/">${esc(navBlog(n))}</a>
   </nav>
 </header>
 <main class="wrap">
@@ -941,7 +975,7 @@ export function renderAll(all, opts) {
   const out = {
     [PAGES.landing]: renderLanding(all.site, opts),
     [PAGES.board]: renderBoard(all.site, all.board, opts),
-    [PAGES.az]: renderAZ(all.site, all.az, opts, all.board, all.teaching),
+    [PAGES.az]: renderAZ(all.site, all.az, opts, all.board, all.teaching, all.blog),
     [PAGES.teaching]: renderTeaching(all.site, all.teaching, opts),
     [PAGES.consulting]: renderConsulting(all.site, all.consulting, opts)
   };
