@@ -17,6 +17,11 @@ body{margin:0;background:#f0f0f0;color:#111;font:14px/1.4 'Taipei Sans TC','Noto
 .board.masonry{position:relative;column-count:auto}
 .board.masonry .pin{position:absolute;margin:0}
 .pin[hidden]{display:none}
+.pin .schools{display:flex;flex-wrap:wrap;gap:4px;padding:0 12px 12px;margin-top:-4px}
+.school{display:inline-block;font-size:11px;line-height:1.4;padding:2px 7px;border-radius:999px;background:#111;color:#fff;letter-spacing:.02em;white-space:nowrap;max-width:100%;overflow:hidden;text-overflow:ellipsis}
+.schools-row{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:10px 0 0}
+.schools-row .schools{display:contents}
+.schools-h{font-size:12px;color:#888;margin-right:2px}
 .board-tools{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px 16px;padding:16px 16px 0}
 .board-tools .filters{display:flex;flex-wrap:wrap;gap:6px 18px}
 .board-tools button{appearance:none;border:0;background:none;padding:4px 0;font:inherit;font-size:13px;color:#888;cursor:pointer}
@@ -153,6 +158,16 @@ body.blog-page,body.blog-post-page{background:#fff}
 .post-body li{margin:.25em 0}
 .post-body figure{margin:1.4em 0}
 .post-body figcaption{font-size:13px;color:#888;margin-top:6px}
+.work-grid{display:grid;grid-template-columns:1fr;gap:18px;margin:1.4em 0}
+@media(min-width:640px){.work-grid{grid-template-columns:1fr 1fr}}
+.work-grid .post-work{margin:0}
+.post-work img{aspect-ratio:4/3;object-fit:cover;width:100%;background:#f3f3f1}
+.post-work figcaption{color:#555;line-height:1.6}
+.post-work figcaption strong{color:#111}
+.post-body a.work-link{display:inline-block;margin-top:4px;font-weight:700;font-size:13px}
+.en-abstract{background:#f6f6f4;border-radius:4px;padding:14px 18px;margin:2.4em 0 0}
+.en-abstract h2{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:#777;margin:0 0 6px}
+.en-abstract p{margin:0;font-size:15px;line-height:1.75;color:#222}
 .post-body blockquote{margin:1.2em 0;padding:2px 0 2px 16px;border-left:3px solid #ddd;color:#555}
 .post-body a,.post-source a,.ab-links a{color:#111;text-decoration:underline;text-underline-offset:3px}
 .post-body table{border-collapse:collapse;display:block;overflow-x:auto;max-width:100%;font-size:14px}
