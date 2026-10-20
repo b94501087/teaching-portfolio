@@ -1,8 +1,8 @@
 // Blog (/blog/), its SEO / answer-engine output (JSON-LD, feed, sitemap, robots, llms.txt) and the
-// blog link in every navigation. The posts below are a TEST FIXTURE only (never in content/blog.json).
+// blog link in every navigation. FIXTURE below is test-only (never in content/blog.json).
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { readFileSync } from 'node:fs';
+import { readFileSync, existsSync } from 'node:fs';
 import { renderAll, mergeBoard, azEntries, renderAZ } from '../admin/render.js';
 import { BLOG_CATEGORIES, renderBlog, renderBlogIndex, renderBlogPost, blogPosts, validateBlog, renderFeed, renderSitemap, renderRobots, renderLlms, AI_BOTS, relatedPosts } from '../admin/blog.js';
 
@@ -25,10 +25,21 @@ const ldOf = h => [...h.matchAll(/<script type="application\/ld\+json">([\s\S]*?
 const types = ld => ld.flatMap(o => o['@graph'] || [o]).map(x => x['@type']);
 const scripts = h => [...h.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
 
-test('live content ships no posts: empty state, valid data', () => {
+test('live content: posts valid, rebranded, local images; empty state still renders', () => {
   assert.deepEqual(validateBlog(blog), []);
-  assert.equal(blogPosts(blog).length, 0, 'content/blog.json must not contain sample posts');
-  const h = renderBlogIndex(site, blog, {});
+  const live = blogPosts(blog);
+  assert.ok(live.length >= 1);
+  const txt = JSON.stringify(blog);
+  assert.doesNotMatch(txt, /宇乔|宇喬|YUCIAO|Ycer|qpic\.cn/i, 'no third-party brand or WeChat image URLs');
+  for (const p of live) {
+    assert.ok(p.source && p.source.type === 'wechat' && /^\d{4}-\d{2}-\d{2}$/.test(p.source.date));
+    for (const m of (JSON.stringify(p.body) + (p.cover || '')).matchAll(/assets\/blog\/[a-z0-9-]+\/[\w.-]+\.webp/g))
+      assert.ok(existsSync(new URL('../' + m[0], import.meta.url)), m[0]);
+    const h = renderBlogPost(site, blog, p, {});
+    for (const s of scripts(h)) assert.doesNotThrow(() => new Function(s));
+    assert.ok(types(ldOf(h)).includes('BlogPosting'));
+  }
+  const h = renderBlogIndex(site, { author: blog.author, posts: [] }, {});
   assert.ok(h.includes('class="blog-empty"') && h.includes('即將上線') && h.includes('Coming soon'));
   for (const c of BLOG_CATEGORIES) assert.ok(h.includes('data-blog-cat="' + c.id + '"') && h.includes(c['zh-Hant']) && h.includes(c.en));
   for (const s of scripts(h)) assert.doesNotThrow(() => new Function(s));
@@ -89,12 +100,13 @@ test('feed, sitemap, robots and llms.txt', () => {
   assert.match(r, /Sitemap: https:\/\/yuchuntsai\.com\/sitemap\.xml/);
   const l = renderLlms(Object.assign({}, all, { blog: FIXTURE }), true);
   for (const k of ['12,000+', '370+', '1,800+', 'Princeton University', 'National University of Singapore', 'https://yuchuntsai.com/blog/fixture-post/', '測試重點']) assert.ok(l.includes(k), k);
-  assert.ok(renderLlms(all, false).includes('Coming soon'));
+  assert.ok(renderLlms(Object.assign({}, all, { blog: { posts: [] } }), false).includes('Coming soon'));
+  for (const p of blogPosts(blog)) assert.ok(renderLlms(all, true).includes('https://yuchuntsai.com/blog/' + p.slug + '/'), p.slug);
 });
 
 test('blog link in every navigation; A–Z lists posts with a blog tag', () => {
   const pages = Object.assign(renderAll(all, {}), renderBlog(all, {}));
-  for (const [rel, h] of Object.entries(pages)) assert.match(h, /href="(\.\.\/)*blog\/"|href="\.\/"[^>]*>blog</, rel + ' has no blog link');
+  for (const [rel, h] of Object.entries(pages)) assert.match(h, /href="(\.\.\/)*blog\/"|href="(\.\.\/|\.\/)"[^>]*>blog</, rel + ' has no blog link');
   assert.match(pages['blog/index.html'], /<a class="on" href="\.\/">blog<\/a>/);
   const cv = readFileSync(new URL('../cv/index.html', import.meta.url), 'utf8');
   assert.ok(cv.includes('href="../blog/"'));
