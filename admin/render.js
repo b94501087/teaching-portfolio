@@ -397,8 +397,16 @@ export const cssV = opts => (opts && opts.v ? '?v=' + esc(opts.v) : '');
 
 // Optional pin.admitted_schools = [{ "en": "Princeton", "zh-Hant": "普林斯頓" }, …] (or plain strings): schools the student was admitted to, filled ONLY
 // from a real source (portfolio file name/cover, the student's own offer). Shown as tags on the board card and detail page.
+// SCHOOL_ZH: Taiwan short names used on 繁中 pages when a pin's zh-Hant is missing or still the English label.
+// SCAD and UCLA intentionally stay English on Chinese pages too. English pages always show `en` unchanged.
+export const SCHOOL_ZH = { UCL: '倫敦大學學院', UIUC: '伊利諾香檳', 'UC Davis': '加大戴維斯', UCSB: '加大聖塔芭芭拉', UCI: '加大爾灣', 'UC Irvine': '加大爾灣',
+  UCSD: '加大聖地牙哥', 'UC San Diego': '加大聖地牙哥', RISD: '羅德島設計', UBC: '英屬哥倫比亞', Pratt: '普瑞特', UAL: '倫敦藝大', IIT: '伊利諾理工',
+  'UT Austin': '德州奧斯汀', UCSC: '加大聖塔克魯茲', MIT: '麻省理工', RMIT: '皇家墨爾本理工', WashU: '聖路易華盛頓', Amherst: '阿默斯特', USC: '南加大',
+  Edinburgh: '愛丁堡', Manchester: '曼徹斯特', Sheffield: '雪菲爾', Syracuse: '雪城' };
+export const SCHOOL_KEEP_EN = ['SCAD', 'UCLA'];
+const withZh = x => (x['zh-Hant'] && x['zh-Hant'] !== x.en) || !SCHOOL_ZH[x.en.trim()] ? x : { ...x, 'zh-Hant': SCHOOL_ZH[x.en.trim()] };
 export const pinSchools = p => (Array.isArray(p && p.admitted_schools) ? p.admitted_schools
-  .map(x => (typeof x === 'string' ? { en: x } : x)).filter(x => x && typeof x.en === 'string' && x.en.trim()) : []);
+  .map(x => (typeof x === 'string' ? { en: x } : x)).filter(x => x && typeof x.en === 'string' && x.en.trim()).map(withZh) : []);
 // max (board card): show the first `max` schools, then one 「等 N 校」/"+N more" tag; the detail page passes no max and lists all.
 export const CARD_SCHOOLS = 4;
 export function schoolTags(p, wrap, max) {
