@@ -37,3 +37,13 @@ test('/cv/ no longer carries the Teaching Philosophy line (it lives only on /tea
   assert.ok(cv.indexOf('cv-stats') < cv.indexOf('教學經歷'));
   for (const m of cv.matchAll(/<script>([\s\S]*?)<\/script>/g)) assert.doesNotThrow(() => new Function(m[1]));
 });
+
+test('CV and A-Z use the YC International name, never the old brand', async () => {
+  const { readFileSync } = await import('node:fs');
+  for (const f of ['../cv/index.html', '../A-Z/yuqiao.html']) {
+    const h = readFileSync(new URL(f, import.meta.url), 'utf8');
+    assert.doesNotMatch(h, /宇喬|宇乔|Yuqiao International|Yuciao/i, f);
+  }
+  const cv = readFileSync(new URL('../cv/index.html', import.meta.url), 'utf8');
+  assert.ok(cv.includes('YC國際') && cv.includes('YC International'));
+});
