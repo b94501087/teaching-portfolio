@@ -139,3 +139,18 @@ test('board school tags: card + detail, bilingual, only where set', () => {
   const untagged = board.pins.find(p => !p.admitted_schools);
   assert.ok(!pages['board/' + untagged.slug + '/index.html'].includes('class="schools-row"'));
 });
+
+test('post pages: 發表於 = original date, 更新於 = latest; no visible WeChat / 微信 / 公眾號 source text', () => {
+  const out = renderBlog(all, {});
+  for (const [f, html] of Object.entries(out)) {
+    const vis = html.replace(/<script[\s\S]*?<\/script>/g, '');
+    assert.doesNotMatch(vis, /微信|公眾號|公众号|WeChat|mp\.weixin/i, f + ' must not mention WeChat');
+    assert.ok(!vis.includes('發佈'), f + ' uses 發表於, not 發佈');
+  }
+  for (const p of blogPosts(blog)) {
+    const html = Object.entries(out).find(([f]) => f.includes(p.slug + '/'))[1];
+    const orig = (p.source && p.source.date) || p.date;
+    assert.ok(html.includes('發表於</span> <time datetime="' + orig + '"'), p.slug + ' published date');
+    if (p.updated && p.updated !== orig) assert.ok(html.includes('更新於</span> <time datetime="' + p.updated + '"'), p.slug + ' updated date');
+  }
+});

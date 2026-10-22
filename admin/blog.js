@@ -41,6 +41,8 @@ export const AUTHOR_FACTS = {
 export const ADMISSIONS = ['Princeton University', 'Harvard University', 'MIT', 'Columbia University', 'Cornell University', 'UC Berkeley',
   'Rice University', 'University of Cambridge', 'UCL', 'Politecnico di Milano', 'KU Leuven', 'TU Berlin', 'Lund University',
   'KTH Royal Institute of Technology', 'The University of Hong Kong', 'National University of Singapore'];
+// 發表於 = the original publication date (source.date when the post was first published elsewhere), 更新於 = latest update.
+export const firstPub = p => (p.source && /^\d{4}-\d{2}-\d{2}$/.test(p.source.date || '') ? p.source.date : p.date);
 const UI = {
   blog: { 'zh-Hant': '部落格', en: 'Blog' },
   lead: { 'zh-Hant': '作品集與藝術／設計留學申請的經驗分享：選校、作品集、文書與頂尖學院解析。', en: 'Notes on portfolios and art / design study-abroad applications: school selection, portfolio strategy, essays and what top schools look for.' },
@@ -49,10 +51,9 @@ const UI = {
   none: { 'zh-Hant': '這個分類暫時沒有文章。', en: 'No posts in this category yet.' },
   tldr: { 'zh-Hant': '重點摘要', en: 'TL;DR' },
   faq: { 'zh-Hant': '常見問題', en: 'FAQ' },
-  updated: { 'zh-Hant': '更新', en: 'Updated' },
-  published: { 'zh-Hant': '發佈', en: 'Published' },
+  updated: { 'zh-Hant': '更新於', en: 'Updated' },
+  published: { 'zh-Hant': '發表於', en: 'Published' },
   related: { 'zh-Hant': '相關文章', en: 'Related posts' },
-  source: { 'zh-Hant': '原文首發於微信公眾號', en: 'First published on WeChat' },
   author: { 'zh-Hant': '作者', en: 'Author' },
   role: { 'zh-Hant': '建築與設計作品集導師（Mentor）・香港 S&J Design 資深外聘設計顧問', en: 'Architecture & design portfolio mentor · Senior External Design Consultant, S&J Design, Hong Kong' },
   cvLink: { 'zh-Hant': '完整履歷', en: 'Full CV' },
@@ -189,15 +190,15 @@ export function renderBlogPost(site, blog, post, opts) {
     topBar(site, 2, 'blog') +
     '<main class="post">\n<div class="crumbs"><nav aria-label="Breadcrumb"><a href="../">' + ui('blog') + '</a>' + cats.map(c => ' / <a href="../#cat=' + c + '">' + catLabel(c, L) + '</a>').join('') + '</nav>' + (en ? langButtons() : '') + '</div>\n' +
     '<article>\n<h1>' + bi(post.title, 'span', L) + '</h1>\n' +
-    '<p class="post-meta"><span>' + ui('published') + ' <time datetime="' + esc(post.date) + '">' + esc(post.date) + '</time></span>' +
-    (post.updated && post.updated !== post.date ? ' · <span>' + ui('updated') + ' <time datetime="' + esc(post.updated) + '">' + esc(post.updated) + '</time></span>' : '') +
+    '<p class="post-meta"><span>' + ui('published') + ' <time datetime="' + esc(firstPub(post)) + '">' + esc(firstPub(post)) + '</time></span>' +
+    (post.updated && post.updated !== firstPub(post) ? ' · <span>' + ui('updated') + ' <time datetime="' + esc(post.updated) + '">' + esc(post.updated) + '</time></span>' : '') +
     ' · <span>' + AUTHOR_NAME + '</span></p>\n';
   if (zhOr(post.tldr)) h += '<aside class="tldr"><p class="tldr-h">' + ui('tldr') + '</p>' + bi(post.tldr, 'p', L) + '</aside>\n';
   if (post.cover) h += '<figure class="post-cover"><img src="' + esc(assetUrl(post.cover, 2)) + '" alt="' + esc(title) + '"></figure>\n';
   h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (loc(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n';
   if (post.abstract_en) h += '<section class="en-abstract" lang="en"><h2>English summary</h2><p>' + esc(post.abstract_en) + '</p></section>\n';
   if (faq.length) h += '<section class="faq"><h2>' + ui('faq') + '</h2>\n' + faq.map(f => '<details open><summary>' + bi(f.q, 'span', L) + '</summary>' + bi(f.a, 'p', L) + '</details>\n').join('') + '</section>\n';
-  if (post.source && post.source.date) h += '<p class="post-source">' + ui('source') + ' ' + esc(post.source.date) + (post.source.url ? ' · <a href="' + esc(safeUrl(post.source.url)) + '" rel="nofollow noopener">WeChat</a>' : '') + '</p>\n';
+  // post.source (original publication) stays internal data only; it is not shown on the page.
   h += '</article>\n' +
     '<section class="author-box"><p class="ab-h">' + ui('author') + '</p><p class="ab-name"><a href="../../cv/">' + AUTHOR_NAME + '</a></p>' +
     '<p class="ab-role">' + ui('role') + '</p><p class="ab-facts">' + bi(AUTHOR_FACTS, 'span', L) + '</p>' +
