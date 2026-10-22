@@ -298,7 +298,7 @@ export function renderBoard(site, board, opts) {
     '<div class="board">\n';
   pins.forEach((p, i) => {
     const lv = pinLevel(p), d = pinDate(p);
-    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span>' + schoolTags(p, 'span') + '</a>\n';
+    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span>' + schoolTags(p, 'span', CARD_SCHOOLS) + '</a>\n';
   });
   h += '</div>\n<p class="board-empty" hidden>' + bl({ en: 'No projects in this category yet.', 'zh-Hant': '這個類別目前還沒有作品。' }, 'span') + '</p>\n';
   if (board.foot) h += '<p class="foot">' + inline(board.foot) + '</p>\n';
@@ -399,10 +399,14 @@ export const cssV = opts => (opts && opts.v ? '?v=' + esc(opts.v) : '');
 // from a real source (portfolio file name/cover, the student's own offer). Shown as tags on the board card and detail page.
 export const pinSchools = p => (Array.isArray(p && p.admitted_schools) ? p.admitted_schools
   .map(x => (typeof x === 'string' ? { en: x } : x)).filter(x => x && typeof x.en === 'string' && x.en.trim()) : []);
-export function schoolTags(p, wrap) {
-  const s = pinSchools(p);
-  if (!s.length) return '';
-  return '<' + wrap + ' class="schools">' + s.map(x => '<span class="school">' + (x['zh-Hant'] && x['zh-Hant'] !== x.en ? bl(x, 'span') : esc(x.en)) + '</span>').join('') + '</' + wrap + '>';
+// max (board card): show the first `max` schools, then one 「等 N 校」/"+N more" tag; the detail page passes no max and lists all.
+export const CARD_SCHOOLS = 4;
+export function schoolTags(p, wrap, max) {
+  const all = pinSchools(p);
+  if (!all.length) return '';
+  const s = max > 0 && all.length > max ? all.slice(0, max) : all, rest = all.length - s.length;
+  return '<' + wrap + ' class="schools">' + s.map(x => '<span class="school">' + (x['zh-Hant'] && x['zh-Hant'] !== x.en ? bl(x, 'span') : esc(x.en)) + '</span>').join('') +
+    (rest ? '<span class="school more">' + bl({ en: '+' + rest + ' more', 'zh-Hant': '等 ' + rest + ' 校' }, 'span') + '</span>' : '') + '</' + wrap + '>';
 }
 
 export function renderDetail(site, board, pin, opts) {
