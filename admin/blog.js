@@ -23,7 +23,7 @@
 //   "draft": true                                   // optional: page built with noindex, not listed
 // }
 import { esc, safeUrl, assetUrl, headExtra, cssV, langHead, LANG_SWITCH_JS, LANGS, LANG_LABEL, LANG_NAME,
-  topBar, SITE_URL, SITE_DESCRIPTION, personJsonLd, siteJsonLd, jsonLdScript, listedPins, teachingStudios } from './render.js';
+  topBar, SITE_URL, SITE_DESCRIPTION, personJsonLd, siteJsonLd, jsonLdScript, listedPins, teachingStudios, finishPage } from './render.js';
 
 export const BLOG_CATEGORIES = [
   { id: 'school-selection', 'zh-Hant': '選校策略', en: 'School selection' },
@@ -132,12 +132,12 @@ export function renderBlogIndex(site, blog, opts) {
     h += '<ul class="post-list">\n' + posts.map(p => postCard(p, 1, L)).join('') + '</ul>\n';
     h += '<p class="blog-none" hidden>' + bi(UI.none, 'span', L) + '</p>\n';
   }
-  return h + '</main>\n' + BLOG_FILTER_JS + LANG_SWITCH_JS + '</body></html>\n';
+  return finishPage(h + '</main>\n' + BLOG_FILTER_JS + LANG_SWITCH_JS + '</body></html>\n', 1);
 }
 function postCard(p, depth, L) {
   const cats = postCats(p);
   return '  <li class="post-card" data-cat="' + esc(cats.join(' ')) + '"><a href="' + (depth === 1 ? '' : '../') + esc(p.slug) + '/">' +
-    (p.cover ? '<img src="' + esc(assetUrl(p.cover, depth)) + '" alt="" loading="lazy">' : '') +
+    (p.cover ? '<img src="' + esc(assetUrl(p.cover, depth)) + '" alt="" draggable="false" loading="lazy">' : '') +
     '<span class="pc-text"><span class="pc-meta"><time datetime="' + esc(p.date) + '">' + esc(p.date) + '</time> · ' + cats.map(c => catLabel(c, L)).join(' / ') + '</span>' +
     '<strong class="pc-title">' + bi(p.title, 'span', L) + '</strong>' +
     (zhOr(p.summary) ? '<span class="pc-sum">' + bi(p.summary, 'span', L) + '</span>' : '') + '</span></a></li>\n';
@@ -194,7 +194,7 @@ export function renderBlogPost(site, blog, post, opts) {
     (post.updated && post.updated !== firstPub(post) ? ' · <span>' + ui('updated') + ' <time datetime="' + esc(post.updated) + '">' + esc(post.updated) + '</time></span>' : '') +
     ' · <span>' + AUTHOR_NAME + '</span></p>\n';
   if (zhOr(post.tldr)) h += '<aside class="tldr"><p class="tldr-h">' + ui('tldr') + '</p>' + bi(post.tldr, 'p', L) + '</aside>\n';
-  if (post.cover) h += '<figure class="post-cover"><img src="' + esc(assetUrl(post.cover, 2)) + '" alt="' + esc(title) + '"></figure>\n';
+  if (post.cover) h += '<figure class="post-cover"><img src="' + esc(assetUrl(post.cover, 2)) + '" alt="' + esc(title) + '" draggable="false"></figure>\n';
   h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (loc(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n';
   if (post.abstract_en) h += '<section class="en-abstract" lang="en"><h2>English summary</h2><p>' + esc(post.abstract_en) + '</p></section>\n';
   if (faq.length) h += '<section class="faq"><h2>' + ui('faq') + '</h2>\n' + faq.map(f => '<details open><summary>' + bi(f.q, 'span', L) + '</summary>' + bi(f.a, 'p', L) + '</details>\n').join('') + '</section>\n';
@@ -205,7 +205,7 @@ export function renderBlogPost(site, blog, post, opts) {
     '<p class="ab-links"><a href="../../cv/">' + ui('cvLink') + '</a> · <a href="../../board/">' + ui('boardLink') + '</a> · <a href="../../teaching/">' + ui('teachLink') + '</a> · <a href="../../consulting/">' + ui('consultLink') + '</a></p></section>\n';
   const rel = relatedPosts(blog, post);
   if (rel.length) h += '<section class="related"><h2>' + ui('related') + '</h2><ul class="post-list">\n' + rel.map(p => postCard(p, 2, L)).join('') + '</ul></section>\n';
-  return h + '</main>\n' + (en ? LANG_SWITCH_JS : '') + '</body></html>\n';
+  return finishPage(h + '</main>\n' + (en ? LANG_SWITCH_JS : '') + '</body></html>\n', 2);
 }
 
 /* ---------- feed, sitemap, robots, llms ---------- */

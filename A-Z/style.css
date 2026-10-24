@@ -1,6 +1,9 @@
 @import url(/assets/fonts/taipei-sans-tc.css); /* 台北黑體 Taipei Sans TC (self-hosted, unicode-range chunks) */
 *{box-sizing:border-box}
 html,body{margin:0;background:#fff;color:#222}
+img,picture,figure,.lb,.gallery,.sec-imgs,.t-imgs,.post-cover,.zoom{-webkit-touch-callout:none;-webkit-user-drag:none;user-select:none}
+figcaption{-webkit-touch-callout:default;-webkit-user-drag:auto;user-select:text}
+button.zoom{appearance:none;border:0;padding:0;margin:0;background:none;font:inherit;color:inherit;line-height:0;cursor:zoom-in;text-align:inherit}
 body{font:16px/1.7 'Taipei Sans TC','Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif}
 aside{
   position:fixed;top:0;left:0;width:220px;height:100vh;
@@ -42,7 +45,7 @@ a:hover{text-decoration:underline}
 .doc .t-list li::before{content:'・'}
 .doc .t-imgs{display:flex;flex-direction:column;gap:16px;margin-top:16px}
 .doc .t-imgs figure{margin:0}
-.doc .t-imgs a{display:block;width:100%;aspect-ratio:4/3;background:#f0f0f0;border-radius:6px;overflow:hidden}
+.doc .t-imgs a,.doc .t-imgs button.zoom{display:block;width:100%;aspect-ratio:4/3;background:#f0f0f0;border-radius:6px;overflow:hidden}
 .doc .t-imgs img{display:block;width:100%;height:100%;object-fit:contain}
 .doc .t-imgs figcaption{margin-top:8px;font-size:14px;line-height:1.5;color:#888}
 @media(max-width:700px){.doc.teaching{padding:28px 20px 64px}.doc.teaching p,.doc.teaching li{font-size:16px}}

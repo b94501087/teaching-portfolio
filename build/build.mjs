@@ -11,7 +11,7 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
-import { mergeBoard, renderAll, fillPlaceholders, validate } from '../admin/render.js';
+import { mergeBoard, renderAll, fillPlaceholders, validate, imgGuardTag } from '../admin/render.js';
 import { renderBlog, validateBlog, renderFeed, renderSitemap, renderRobots, renderLlms, blogPosts } from '../admin/blog.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -85,7 +85,7 @@ await fs.writeFile(path.join(out, 'a-z', 'index.html'),
   '<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>' + all.site.name.replace(/[<&]/g, '') + '</title>\n' +
   '<meta http-equiv="refresh" content="0; url=../A-Z/">\n' +
   '<link rel="canonical" href="https://yuchuntsai.com/A-Z/">\n' +
-  '</head><body>\n<p><a href="../A-Z/">A–Z</a></p>\n</body></html>\n');
+  '</head><body>\n<p><a href="../A-Z/">A–Z</a></p>\n' + imgGuardTag(1) + '</body></html>\n');
 // Search / answer-engine files: Atom feed, robots.txt, sitemap.xml (every public page, drafts excluded), llms.txt.
 const today = new Date().toISOString().slice(0, 10);
 const SITE = 'https://yuchuntsai.com';
@@ -101,6 +101,23 @@ await fs.writeFile(path.join(out, 'robots.txt'), renderRobots());
 await fs.writeFile(path.join(out, 'blog', 'feed.xml'), renderFeed(all.blog, today));
 await fs.writeFile(path.join(out, 'llms.txt'), renderLlms(all, false));
 await fs.writeFile(path.join(out, 'llms-full.txt'), renderLlms(all, true));
+// Static pages (cv, A-Z essays, redirects) are copied, not rendered. Give them the same image guard.
+async function injectImgGuard(dir, rel = '') {
+  for (const ent of await fs.readdir(dir, { withFileTypes: true })) {
+    if (rel === '' && ent.name === 'admin') continue;
+    const r = rel ? rel + '/' + ent.name : ent.name;
+    const p = path.join(dir, ent.name);
+    if (ent.isDirectory()) await injectImgGuard(p, r);
+    else if (ent.isFile() && ent.name.endsWith('.html')) {
+      let html = await fs.readFile(p, 'utf8');
+      if (html.includes('assets/img-guard.js') || !/<\/body>/i.test(html)) continue;
+      const depth = r.split('/').length - 1;
+      html = html.replace(/<\/body>/i, imgGuardTag(depth) + '</body>');
+      await fs.writeFile(p, html);
+    }
+  }
+}
+await injectImgGuard(out);
 console.log('sitemap urls:', urls.length, '· blog posts:', blogPosts(all.blog).length);
 console.log('detail pages:', Object.keys(pages).filter(k => /^board\/[^/]+\/index\.html$/.test(k)).length);
 console.log('build ok →', path.relative(process.cwd(), out) || '.');

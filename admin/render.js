@@ -90,6 +90,85 @@ export function headExtra(opts) {
   return opts && opts.base ? '<base href="' + esc(opts.base) + '">' : '';
 }
 
+// Casual save/download guard for rendered pages. Image-file anchors (lightbox href="….webp") and any
+// anchor with a download attribute become buttons that carry data-full, so the gallery can still open
+// the file without a direct link. Every <img> gets draggable="false". Ordinary text links stay anchors.
+const IMAGE_HREF = /\.(?:avif|bmp|gif|jpe?g|png|svg|webp)$/i;
+function attrValue(attrs, name) {
+  const m = String(attrs).match(new RegExp('(?:^|\\s)' + name + '\\s*=\\s*(?:"([^"]*)"|\'([^\']*)\'|([^\\s>]+))', 'i'));
+  if (!m) return null;
+  return m[1] != null ? m[1] : m[2] != null ? m[2] : m[3];
+}
+function hasAttr(attrs, name) {
+  return new RegExp('(?:^|\\s)' + name + '(?:\\s*=|\\s|$)', 'i').test(attrs);
+}
+function removeAttr(attrs, name) {
+  return String(attrs).replace(new RegExp('(?:^|\\s)' + name + '(?:\\s*=\\s*(?:"[^"]*"|\'[^\']*\'|[^\\s>]+))?(?=\\s|$)', 'ig'), '');
+}
+function addClass(attrs, cls) {
+  const dq = String(attrs).match(/\bclass\s*=\s*"([^"]*)"/i);
+  if (dq) {
+    const parts = dq[1].split(/\s+/).filter(Boolean);
+    if (!parts.includes(cls)) parts.push(cls);
+    return attrs.replace(/\bclass\s*=\s*"[^"]*"/i, 'class="' + parts.join(' ') + '"');
+  }
+  const sq = String(attrs).match(/\bclass\s*=\s*'([^']*)'/i);
+  if (sq) {
+    const parts = sq[1].split(/\s+/).filter(Boolean);
+    if (!parts.includes(cls)) parts.push(cls);
+    return attrs.replace(/\bclass\s*=\s*'[^']*'/i, "class='" + parts.join(' ') + "'");
+  }
+  return attrs + ' class="' + cls + '"';
+}
+function isImageHref(href) {
+  if (href == null) return false;
+  const path = String(href).replace(/&amp;/gi, '&').split(/[?#]/)[0].trim();
+  return IMAGE_HREF.test(path);
+}
+function withDraggable(tag) {
+  if (/\bdraggable\s*=/i.test(tag)) return tag;
+  return tag.replace(/\/?\s*>$/, m => ' draggable="false"' + (m.indexOf('/') >= 0 ? ' />' : '>'));
+}
+function withDraggableIn(html) {
+  return String(html).replace(/<img\b[^>]*>/gi, withDraggable);
+}
+function hardenAnchor(chunk) {
+  const m = chunk.match(/^<a\b([^>]*)>([\s\S]*)<\/a>$/i);
+  if (!m) return chunk;
+  let attrs = m[1];
+  const inner = withDraggableIn(m[2]);
+  const href = attrValue(attrs, 'href');
+  const download = hasAttr(attrs, 'download');
+  if (!isImageHref(href) && !download) return '<a' + attrs + '>' + inner + '</a>';
+  attrs = removeAttr(removeAttr(removeAttr(attrs, 'href'), 'download'), 'target');
+  attrs = removeAttr(attrs, 'rel');
+  if (!hasAttr(attrs, 'type')) attrs += ' type="button"';
+  if (isImageHref(href)) {
+    attrs = addClass(attrs, 'zoom');
+    if (!hasAttr(attrs, 'data-full')) attrs += ' data-full="' + href + '"';
+    if (!hasAttr(attrs, 'draggable')) attrs += ' draggable="false"';
+  }
+  return '<button' + attrs + '>' + inner + '</button>';
+}
+export function hardenImages(html) {
+  return String(html).replace(/<script\b[\s\S]*?<\/script>|<style\b[\s\S]*?<\/style>|<img\b[^>]*>|<a\b[^>]*>[\s\S]*?<\/a>/gi, chunk => {
+    if (/^<script\b/i.test(chunk) || /^<style\b/i.test(chunk)) return chunk;
+    if (/^<img\b/i.test(chunk)) return withDraggable(chunk);
+    return hardenAnchor(chunk);
+  });
+}
+export function imgGuardTag(depth) {
+  return '<script src="' + '../'.repeat(depth > 0 ? depth : 0) + 'assets/img-guard.js"></script>\n';
+}
+export function finishPage(html, depth) {
+  let h = hardenImages(html);
+  if (!h.includes('assets/img-guard.js')) {
+    const tag = imgGuardTag(depth || 0);
+    h = /<\/body>/i.test(h) ? h.replace(/<\/body>/i, tag + '</body>') : h + tag;
+  }
+  return h;
+}
+
 export function letterOf(title) {
   const m = String(title || '').match(/[A-Za-z]/);
   return m ? m[0].toLowerCase() : '#';
@@ -99,7 +178,7 @@ export function letterOf(title) {
 // Layout is fixed; only the name and the link labels come from content/site.json.
 export function renderLanding(site, opts) {
   const n = site.nav;
-  return '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + '</title>\n' +
+  return finishPage('<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/">\n' +
     '<meta name="description" content="' + esc(SITE_DESCRIPTION) + '">\n' +
@@ -117,7 +196,7 @@ export function renderLanding(site, opts) {
     '    <a href="blog/">' + esc(navBlog(n)) + '</a>\n' +
     '  </nav>\n' +
     '</main>\n' +
-    '</body></html>\n';
+    '</body></html>\n', 0);
 }
 
 /* ---------- board (/board/) and pin detail pages (/board/<slug>/) ---------- */
@@ -298,13 +377,13 @@ export function renderBoard(site, board, opts) {
     '<div class="board">\n';
   pins.forEach((p, i) => {
     const lv = pinLevel(p), d = pinDate(p);
-    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt=""><span class="cap">' + esc(p.title) + '</span>' + schoolTags(p, 'span', CARD_SCHOOLS) + '</a>\n';
+    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt="" draggable="false"><span class="cap">' + esc(p.title) + '</span>' + schoolTags(p, 'span', CARD_SCHOOLS) + '</a>\n';
   });
   h += '</div>\n<p class="board-empty" hidden>' + bl({ en: 'No projects in this category yet.', 'zh-Hant': '這個類別目前還沒有作品。' }, 'span') + '</p>\n';
   if (board.foot) h += '<p class="foot">' + inline(board.foot) + '</p>\n';
   if (anyBig) h += BOARD_MASONRY;
   h += BOARD_FILTER_JS + LANG_SWITCH_JS + '</body></html>\n';
-  return h;
+  return finishPage(h, 1);
 }
 
 // Plain-text description: blank line = new paragraph, single newline = line break. No markup.
@@ -359,17 +438,18 @@ export function pinLangs(pin) {
 // browser reserves each image's own natural box before it loads (no layout jump, no fixed-ratio frame).
 function galleryImg(src, alt, lazy, dims) {
   const u = esc(assetUrl(src, 2)), d = dims && dims[String(src)];
-  return '<a class="zoom" href="' + u + '"><img src="' + u + '" alt="' + esc(alt) + '"' +
-    (d ? ' width="' + d[0] + '" height="' + d[1] + '"' : '') + (lazy ? ' loading="lazy"' : '') + ' decoding="async"></a>';
+  return '<button type="button" class="zoom" draggable="false" data-full="' + u + '"><img src="' + u + '" alt="' + esc(alt) + '" draggable="false"' +
+    (d ? ' width="' + d[0] + '" height="' + d[1] + '"' : '') + (lazy ? ' loading="lazy"' : '') + ' decoding="async"></button>';
 }
 
 // Click/tap an image: show the full file (the original asset, not a resized copy) in an overlay.
-// Tap the image or the backdrop, or press Esc, to close; the page never scrolls or navigates, and
-// no history entry is added, so browser Back still leaves the page as usual.
-const ZOOM_JS = '<div class="lb" hidden role="dialog" aria-modal="true" aria-label="Image"><img alt=""></div>\n' +
+// The control is a button with data-full, not a link to the file. Tap the image or the backdrop,
+// or press Esc, to close; the page never scrolls or navigates, and no history entry is added,
+// so browser Back still leaves the page as usual.
+const ZOOM_JS = '<div class="lb" hidden role="dialog" aria-modal="true" aria-label="Image"><img alt="" draggable="false"></div>\n' +
   '<script>(function(){var b=document.querySelector(".lb"),i=b.querySelector("img"),last=null;' +
   'function close(){if(b.hidden)return;b.hidden=true;i.removeAttribute("src");document.documentElement.classList.remove("lb-on");if(last)try{last.focus({preventScroll:true})}catch(e){}}' +
-  'document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a.zoom");if(!a||e.metaKey||e.ctrlKey||e.shiftKey||e.button)return;e.preventDefault();last=a;var t=a.querySelector("img");i.alt=t?t.alt:"";i.src=a.getAttribute("href");b.hidden=false;document.documentElement.classList.add("lb-on")});' +
+  'document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest(".zoom");if(!a||e.metaKey||e.ctrlKey||e.shiftKey||e.button)return;e.preventDefault();last=a;var t=a.querySelector("img");i.alt=t?t.alt:"";i.src=a.getAttribute("data-full")||"";if(!i.src)return;b.hidden=false;document.documentElement.classList.add("lb-on")});' +
   'b.addEventListener("click",close);document.addEventListener("keydown",function(e){if(e.key==="Escape"||e.key==="Esc")close()})})();</script>\n';
 
 // One value per language (empty = English). Identical values are written once, untagged;
@@ -481,7 +561,7 @@ export function renderDetail(site, board, pin, opts) {
   }
   h += '<p class="back end"><a href="../">← ' + esc(backLabel) + '</a></p>\n' +
     '</main>\n' + ZOOM_JS + (multi ? LANG_SWITCH_JS : '') + '</body></html>\n';
-  return h;
+  return finishPage(h, 2);
 }
 
 // Only emitted when at least one pin is marked 大圖 (big). CSS columns cannot span exactly two
@@ -584,7 +664,7 @@ export function renderAZ(site, az, opts, board, teaching, blog) {
     h += '</ul></section>\n';
   }
   h += '</main>\n</body></html>\n';
-  return h;
+  return finishPage(h, 1);
 }
 
 /* ---------- teaching (/teaching/) ---------- */
@@ -640,7 +720,7 @@ function renderTeachingWall(site, t, opts) {
     if (!s || typeof s !== 'object') return;
     if (s.type === 'studio' && s.slug) {
       if (open !== 'board') { h += '<div class="board">\n'; open = 'board'; }
-      h += '  <a class="pin" href="' + esc(s.slug) + '/"><img src="' + esc(assetUrl(s.cover, 1)) + '" alt=""' + (i > 4 ? ' loading="lazy"' : '') + '><span class="cap">' + esc(s.title) + (s.subtitle ? '<small>' + esc(s.subtitle) + '</small>' : '') + '</span></a>\n';
+      h += '  <a class="pin" href="' + esc(s.slug) + '/"><img src="' + esc(assetUrl(s.cover, 1)) + '" alt="" draggable="false"' + (i > 4 ? ' loading="lazy"' : '') + '><span class="cap">' + esc(s.title) + (s.subtitle ? '<small>' + esc(s.subtitle) + '</small>' : '') + '</span></a>\n';
       return;
     }
     if (open === 'board') { h += '</div>\n'; open = ''; }
@@ -653,7 +733,7 @@ function renderTeachingWall(site, t, opts) {
   });
   if (open === 'board') h += '</div>\n';
   if (t.closing) h += '<p class="t-closing">' + inline(t.closing) + '</p>\n';
-  return h + (hasPhilosophy(t) ? LANG_SWITCH_JS : '') + '</body></html>\n';
+  return finishPage(h + (hasPhilosophy(t) ? LANG_SWITCH_JS : '') + '</body></html>\n', 1);
 }
 export function renderTeaching(site, t, opts) {
   if (teachingStudios(t).length) return renderTeachingWall(site, t, opts);
@@ -689,14 +769,14 @@ export function renderTeaching(site, t, opts) {
       const caps = Array.isArray(s.captions) ? s.captions : [];
       x += '<div class="t-imgs">\n' + im.map((src, k) => {
         const u = esc(assetUrl(src, 1)), c = String(caps[k] || '').trim();
-        return '<figure><a href="' + u + '"><img src="' + u + '" alt="' + esc(c || s.title) + '"' + (shown++ > 0 ? ' loading="lazy"' : '') + '></a>' + (c ? '<figcaption>' + esc(c) + '</figcaption>' : '') + '</figure>\n';
+        return '<figure><button type="button" class="zoom" draggable="false" data-full="' + u + '"><img src="' + u + '" alt="' + esc(c || s.title) + '" draggable="false"' + (shown++ > 0 ? ' loading="lazy"' : '') + '></button>' + (c ? '<figcaption>' + esc(c) + '</figcaption>' : '') + '</figure>\n';
       }).join('') + '</div>\n';
     }
     return rich ? '<section class="t-studio">\n' + x + '</section>\n' : x;
   }).join('\n');
   if (t.closing) h += '\n<p style="margin-top:2em">' + inline(t.closing) + '</p>\n';
-  h += '</main>\n' + (hasPhilosophy(t) ? LANG_SWITCH_JS : '') + '</body></html>\n';
-  return h;
+  h += '</main>\n' + (shown ? ZOOM_JS : '') + (hasPhilosophy(t) ? LANG_SWITCH_JS : '') + '</body></html>\n';
+  return finishPage(h, 1);
 }
 
 /* ---------- consulting ---------- */
@@ -716,7 +796,7 @@ export function renderConsulting(site, c, opts) {
     '<small>CNY · 基準 CNY ' + fmt(p.price.CNY) + '</small></div>' +
     '<button type="button" class="pick" data-pick="' + esc(p.id) + '">選擇此方案</button>' +
     '</div></div>').join('');
-  return `<!doctype html>
+  return finishPage(`<!doctype html>
 <html lang="zh-Hant">
 <head>${headExtra(opts)}
 <meta charset="utf-8">
@@ -880,7 +960,7 @@ ${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}
 </script>
 </body>
 </html>
-`;
+`, 1);
 }
 
 /* ---------- static doc pages (cv/index.html, A-Z/*.html) ---------- */
