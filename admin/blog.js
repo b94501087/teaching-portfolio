@@ -7,8 +7,9 @@
 // content/blog.json = { "author": { "sameAs": [urls] }, "posts": [post] }
 // post = {
 //   "slug": "lowercase-with-hyphens",             // URL /blog/<slug>/
-//   "title": { "zh-Hant": "…", "en": "…" },       // zh primary; en optional (a plain string = zh only)
+//   "title": { "zh-Hant": "…", "en": "…", "hans": "…" }, // zh primary; en optional; hans / zh-Hans optional override
 //   "title_en": "…",                              // flat alias of title.en (also summary_en / excerpt_en / description_en, tldr_en, body_en)
+//   "title_hans": "…",                            // flat alias of title.hans (also summary_hans, tldr_hans, body_hans, q_hans, a_hans)
 //   "date": "YYYY-MM-DD", "updated": "YYYY-MM-DD", // published / last updated (updated optional)
 //   "categories": ["school-selection", …],         // 1+ of BLOG_CATEGORIES ids
 //   "cover": "assets/blog/<slug>/cover.webp",      // optional, local file (never a WeChat URL)
@@ -23,13 +24,16 @@
 //     Those figcaptions are the work-card captions. Translate them inside body.en / body_en
 //     (English link text: "See the full project: Title →"). Reuse the matching board pin images;
 //     works with no board match keep a local assets/blog/<slug>/ image and no link.
-//   The language switch (same EN / 繁中 control as project pages) appears when both an English
-//   title and an English body exist. Any missing English field falls back to Chinese. The page
-//   defaults to zh-Hant; ?lang= and the shared localStorage "lang" key still follow the site switch.
+//   The language switch (EN / 繁中 / 简中, same control as project pages) appears when the post
+//   has Traditional text. English buttons appear when both an English title and body exist.
+//   Simplified is OpenCC(zh-Hant) unless title.hans / title["zh-Hans"] / title_hans (and the same
+//   for summary, tldr, body, faq q/a) is set. A missing English field falls back to Chinese.
+//   The page defaults to zh-Hant; ?lang=zh-Hans (any case) and localStorage "lang" follow the switch.
 //   "draft": true                                   // optional: page built with noindex, not listed
 // }
-import { esc, safeUrl, assetUrl, headExtra, cssV, langHead, LANG_SWITCH_JS, LANGS, LANG_LABEL, LANG_NAME,
+import { esc, safeUrl, assetUrl, headExtra, cssV, langHead, hreflangLinks, LANG_SWITCH_JS, LANGS, LANG_LABEL, LANG_NAME,
   topBar, SITE_URL, SITE_DESCRIPTION, personJsonLd, siteJsonLd, jsonLdScript, listedPins, teachingStudios, finishPage } from './render.js';
+import { toHans } from './hans.js';
 
 export const BLOG_CATEGORIES = [
   { id: 'school-selection', 'zh-Hant': '選校策略', en: 'School selection' },
@@ -68,9 +72,21 @@ const UI = {
   consultLink: { 'zh-Hant': '一對一諮詢', en: 'One-to-one consulting' }
 };
 
-// A localized field: { "zh-Hant", "en" } or a plain string (= Chinese only).
+// A localized field: { "zh-Hant", "en", "zh-Hans"? } or a plain string (= Chinese only).
 export const loc = (v, l) => (v && typeof v === 'object' ? String(v[l] || '') : (l === 'zh-Hant' && typeof v === 'string' ? v : '')).trim();
 const zhOr = v => loc(v, 'zh-Hant') || loc(v, 'en');
+// Simplified: an explicit zh-Hans / hans string, else OpenCC of the Traditional text.
+function hansText(v, zh) {
+  if (v && typeof v === 'object') {
+    const manual = String(v['zh-Hans'] || v.hans || '').trim();
+    if (manual) return manual;
+  }
+  return zh ? toHans(zh) : '';
+}
+function textOf(v, l) {
+  if (l === 'zh-Hans') return hansText(v, loc(v, 'zh-Hant'));
+  return loc(v, l);
+}
 // Flat English aliases for new posts. Nested title.en / summary.en / … wins when both are set.
 const FLAT_EN = {
   title: ['title_en'],
@@ -84,29 +100,51 @@ const flatEn = (post, key) => {
   }
   return '';
 };
-// One view of a post with title/summary/tldr/body/faq normalised to { "zh-Hant", "en" }.
+function flatHans(post, key) {
+  const k = key + '_hans';
+  return typeof post[k] === 'string' && post[k].trim() ? post[k].trim() : '';
+}
+function withHans(post, key, zh, en) {
+  const manual = (post[key] && typeof post[key] === 'object' ? String(post[key]['zh-Hans'] || post[key].hans || '').trim() : '') || flatHans(post, key);
+  const hans = manual || (zh ? toHans(zh) : '');
+  if (!zh && !en && !hans) return null;
+  return { ...(zh ? { 'zh-Hant': zh } : {}), ...(hans ? { 'zh-Hans': hans } : {}), ...(en ? { en } : {}) };
+}
+// One view of a post with title/summary/tldr/body/faq normalised to { "zh-Hant", "zh-Hans", "en" }.
 function mergeLoc(post) {
   if (!post || post.__loc) return post;
   const out = { ...post, __loc: true };
   for (const key of Object.keys(FLAT_EN)) {
     const zh = loc(post[key], 'zh-Hant'), en = loc(post[key], 'en') || flatEn(post, key);
-    if (zh || en) out[key] = { ...(zh ? { 'zh-Hant': zh } : {}), ...(en ? { en } : {}) };
+    const merged = withHans(post, key, zh, en);
+    if (merged) out[key] = merged;
   }
   if (Array.isArray(post.faq)) {
     out.faq = post.faq.map(f => {
       if (!f || typeof f !== 'object') return f;
       const qen = loc(f.q, 'en') || (typeof f.q_en === 'string' ? f.q_en.trim() : '');
       const aen = loc(f.a, 'en') || (typeof f.a_en === 'string' ? f.a_en.trim() : '');
+      const qhans = (typeof f.q_hans === 'string' && f.q_hans.trim()) || '';
+      const ahans = (typeof f.a_hans === 'string' && f.a_hans.trim()) || '';
+      const qzh = loc(f.q, 'zh-Hant'), azh = loc(f.a, 'zh-Hant');
       return { ...f,
-        q: { 'zh-Hant': loc(f.q, 'zh-Hant'), ...(qen ? { en: qen } : {}) },
-        a: { 'zh-Hant': loc(f.a, 'zh-Hant'), ...(aen ? { en: aen } : {}) } };
+        q: { 'zh-Hant': qzh, 'zh-Hans': String((f.q && f.q['zh-Hans']) || (f.q && f.q.hans) || qhans || (qzh ? toHans(qzh) : '')).trim(), ...(qen ? { en: qen } : {}) },
+        a: { 'zh-Hant': azh, 'zh-Hans': String((f.a && f.a['zh-Hans']) || (f.a && f.a.hans) || ahans || (azh ? toHans(azh) : '')).trim(), ...(aen ? { en: aen } : {}) } };
     });
   }
   return out;
 }
 export const postHasEn = p => { const m = mergeLoc(p); return !!(loc(m.title, 'en') && loc(m.body, 'en')); };
-// Chinese is the default reading order. Buttons stay EN then 繁中, matching project pages.
-const CONTENT_LANGS = ['zh-Hant', 'en'];
+const postHasZh = p => !!(loc(p.title, 'zh-Hant') || loc(p.body, 'zh-Hant') || (typeof p.title === 'string' && p.title.trim()));
+// Buttons: EN / 繁中 / 简中, omitting EN when the post has no English version.
+function switchLangs(post) {
+  const langs = [];
+  if (postHasEn(post)) langs.push('en');
+  if (postHasZh(post)) langs.push('zh-Hant', 'zh-Hans');
+  return langs.length ? langs : ['zh-Hant'];
+}
+// Chinese (Traditional, then Simplified) is the default reading order.
+const contentOrder = langs => ['zh-Hant', 'zh-Hans', 'en'].filter(l => langs.includes(l));
 const plain = h => String(h || '').replace(/<[^>]*>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
 const clip = (t, n) => (t.length > n ? t.slice(0, n - 1).replace(/\s+\S*$/, '') + '…' : t);
 export const postUrl = slug => SITE_URL + '/blog/' + slug + '/';
@@ -121,12 +159,12 @@ export const blogPosts = blog => blogPostsAll(blog).filter(p => p.draft !== true
 // back to Chinese and is written once, untagged, so it stays visible in either language.
 function bi(v, tag, langs, raw) {
   const f = x => (raw ? x : esc(x));
-  const texts = langs.map(l => loc(v, l) || zhOr(v));
+  const texts = langs.map(l => textOf(v, l) || zhOr(v));
   if (!texts.some(Boolean)) return '';
   if (langs.length < 2 || texts.every(t => t === texts[0])) return '<' + tag + '>' + f(texts[0]) + '</' + tag + '>';
   return langs.map((l, i) => texts[i] ? '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + f(texts[i]) + '</' + tag + '>' : '').join('');
 }
-const langButtons = () => '<div class="langs" role="group" aria-label="Language">' + LANGS.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l]) + '">' + esc(LANG_LABEL[l]) + '</button>').join('') + '</div>';
+const langButtons = langs => '<div class="langs" role="group" aria-label="Language">' + langs.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l]) + '">' + esc(LANG_LABEL[l]) + '</button>').join('') + '</div>';
 // Label and date stay in the same span so each language reads as one phrase ("發表於 2026-04-07" / "Published 2026-04-07").
 function metaDate(key, iso, langs) {
   return langs.map(l => {
@@ -140,10 +178,12 @@ const catLabel = (id, langs) => bi(CAT[id], 'span', langs);
 function socialMeta(o) {
   return '<meta name="description" content="' + esc(o.description) + '">\n' +
     '<link rel="canonical" href="' + esc(o.url) + '">\n' +
-    (o.hreflang ? '<link rel="alternate" hreflang="zh-Hant" href="' + esc(o.url) + '">\n<link rel="alternate" hreflang="en" href="' + esc(o.url) + '?lang=en">\n<link rel="alternate" hreflang="x-default" href="' + esc(o.url) + '">\n' : '') +
+    (o.langs && o.langs.length > 1 ? hreflangLinks(o.url, o.langs) : '') +
     '<meta property="og:type" content="' + o.type + '">\n<meta property="og:site_name" content="Yu Chun Tsai">\n' +
     '<meta property="og:title" content="' + esc(o.title) + '">\n<meta property="og:description" content="' + esc(o.description) + '">\n' +
-    '<meta property="og:url" content="' + esc(o.url) + '">\n<meta property="og:locale" content="zh_TW">\n' + (o.hreflang ? '<meta property="og:locale:alternate" content="en_US">\n' : '') +
+    '<meta property="og:url" content="' + esc(o.url) + '">\n<meta property="og:locale" content="zh_TW">\n' +
+    (o.langs && o.langs.includes('zh-Hans') ? '<meta property="og:locale:alternate" content="zh_CN">\n' : '') +
+    (o.langs && o.langs.includes('en') ? '<meta property="og:locale:alternate" content="en_US">\n' : '') +
     (o.image ? '<meta property="og:image" content="' + esc(o.image) + '">\n' : '') +
     '<meta name="twitter:card" content="' + (o.image ? 'summary_large_image' : 'summary') + '">\n<meta name="twitter:title" content="' + esc(o.title) + '">\n<meta name="twitter:description" content="' + esc(o.description) + '">\n' +
     (o.image ? '<meta name="twitter:image" content="' + esc(o.image) + '">\n' : '') +
@@ -161,7 +201,7 @@ const BLOG_FILTER_JS = '<script>(function(){var bs=[].slice.call(document.queryS
   'window.addEventListener("hashchange",apply);apply()})();</script>\n';
 
 export function renderBlogIndex(site, blog, opts) {
-  const posts = blogPosts(blog).map(mergeLoc), L = CONTENT_LANGS;
+  const posts = blogPosts(blog).map(mergeLoc), L = contentOrder(LANGS), buttons = LANGS;
   const url = SITE_URL + '/blog/';
   const ld = { '@context': 'https://schema.org', '@graph': [personJsonLd(),
     { '@type': 'Blog', '@id': url + '#blog', url, name: 'Yu Chun Tsai — Blog', description: loc(UI.lead, 'en'), inLanguage: 'zh-Hant', author: { '@id': SITE_URL + '/#person' },
@@ -169,11 +209,11 @@ export function renderBlogIndex(site, blog, opts) {
     breadcrumbs([['Home', SITE_URL + '/'], ['Blog', url]])] };
   let h = '<!doctype html><html lang="zh-Hant" data-lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>部落格 Blog — 作品集與藝術設計留學 — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
-    socialMeta({ type: 'website', title: '部落格 Blog — ' + site.name, description: loc(UI.lead, 'zh-Hant') + ' ' + loc(UI.lead, 'en'), url, hreflang: true }) +
-    jsonLdScript(ld) + langHead(LANGS, 'zh-Hant') +
+    socialMeta({ type: 'website', title: '部落格 Blog — ' + site.name, description: loc(UI.lead, 'zh-Hant') + ' ' + loc(UI.lead, 'en'), url, langs: buttons }) +
+    jsonLdScript(ld) + langHead(buttons, 'zh-Hant') +
     '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="blog-page">\n' +
     topBar(site, 1, 'blog') +
-    '<main class="blog">\n<div class="blog-head"><h1>' + bi(UI.blog, 'span', L) + '</h1>' + langButtons() + '</div>\n' +
+    '<main class="blog">\n<div class="blog-head"><h1>' + bi(UI.blog, 'span', L) + '</h1>' + langButtons(buttons) + '</div>\n' +
     '<p class="blog-lead">' + bi(UI.lead, 'span', L) + '</p>\n' +
     '<div class="board-tools blog-tools"><div class="filters" role="group" aria-label="Category">' +
     [{ id: 'all' }].concat(BLOG_CATEGORIES).map(c => '<button type="button" data-blog-cat="' + c.id + '"' + (c.id === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' +
@@ -213,7 +253,7 @@ export function postJsonLd(post) {
       headline: zhOr(post.title), ...(en ? { alternativeHeadline: loc(post.title, 'en') } : {}),
       description: zhOr(post.summary) || clip(plain(zhOr(post.body)), 160),
       datePublished: post.date, dateModified: post.updated || post.date,
-      inLanguage: en ? ['zh-Hant', 'en'] : 'zh-Hant',
+      inLanguage: contentOrder(switchLangs(post)),
       author: { '@type': 'Person', '@id': SITE_URL + '/#person', name: AUTHOR_NAME, url: SITE_URL + '/cv/' },
       publisher: { '@id': SITE_URL + '/#person' },
       ...(post.cover ? { image: absAsset(post.cover) } : {}),
@@ -227,7 +267,7 @@ export function postJsonLd(post) {
 }
 export function renderBlogPost(site, blog, post, opts) {
   post = mergeLoc(post);
-  const en = postHasEn(post), L = en ? CONTENT_LANGS : ['zh-Hant'], url = postUrl(post.slug), cats = postCats(post);
+  const buttons = switchLangs(post), L = contentOrder(buttons), en = buttons.includes('en'), hans = buttons.includes('zh-Hans'), url = postUrl(post.slug), cats = postCats(post);
   const sameAs = blog && blog.author && Array.isArray(blog.author.sameAs) ? blog.author.sameAs.filter(Boolean) : [];
   const ld = postJsonLd(post); if (sameAs.length) ld['@graph'][0].sameAs = sameAs;
   const title = zhOr(post.title);
@@ -237,21 +277,25 @@ export function renderBlogPost(site, blog, post, opts) {
   let h = '<!doctype html><html lang="zh-Hant" data-lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(title) + (en ? ' | ' + esc(loc(post.title, 'en')) : '') + ' — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     (post.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '') +
-    socialMeta({ type: 'article', title, description: desc, url, hreflang: en, image: absAsset(post.cover) }) +
+    socialMeta({ type: 'article', title, description: desc, url, langs: buttons.length > 1 ? buttons : null, image: absAsset(post.cover) }) +
     '<meta property="article:published_time" content="' + esc(post.date) + '">\n<meta property="article:modified_time" content="' + esc(post.updated || post.date) + '">\n<meta property="article:author" content="' + SITE_URL + '/cv/">\n' +
     (Array.isArray(post.keywords) && post.keywords.length ? '<meta name="keywords" content="' + esc(post.keywords.join(', ')) + '">\n' : '') +
-    jsonLdScript(ld) + (en ? langHead(LANGS, 'zh-Hant') : '') +
+    jsonLdScript(ld) + (buttons.length > 1 ? langHead(buttons, 'zh-Hant') : '') +
     '<link rel="stylesheet" href="../../style.css' + cssV(opts) + '"></head><body class="blog-post-page">\n' +
     topBar(site, 2, 'blog') +
-    '<main class="post">\n<div class="crumbs"><nav aria-label="Breadcrumb"><a href="../">' + ui('blog') + '</a>' + cats.map(c => ' / <a href="../#cat=' + c + '">' + catLabel(c, L) + '</a>').join('') + '</nav>' + (en ? langButtons() : '') + '</div>\n' +
+    '<main class="post">\n<div class="crumbs"><nav aria-label="Breadcrumb"><a href="../">' + ui('blog') + '</a>' + cats.map(c => ' / <a href="../#cat=' + c + '">' + catLabel(c, L) + '</a>').join('') + '</nav>' + (buttons.length > 1 ? langButtons(buttons) : '') + '</div>\n' +
     '<article>\n<h1>' + bi(post.title, 'span', L) + '</h1>\n' +
     '<p class="post-meta">' + metaDate('published', firstPub(post), L) +
     (post.updated && post.updated !== firstPub(post) ? ' · ' + metaDate('updated', post.updated, L) : '') +
     ' · <span>' + AUTHOR_NAME + '</span></p>\n';
   if (zhOr(post.tldr)) h += '<aside class="tldr"><p class="tldr-h">' + ui('tldr') + '</p>' + bi(post.tldr, 'p', L) + '</aside>\n';
   if (post.cover) h += '<figure class="post-cover"><img src="' + esc(assetUrl(post.cover, 2)) + '" alt="' + esc(title) + '" draggable="false"></figure>\n';
-  h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (loc(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n';
-  if (post.abstract_en) h += '<section class="en-abstract" lang="en"' + (en ? ' data-l="zh-Hant"' : '') + '><h2>English summary</h2><p>' + esc(post.abstract_en) + '</p></section>\n';
+  h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (textOf(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n';
+  if (post.abstract_en) {
+    const zhViews = L.filter(l => l !== 'en');
+    if (hans && zhViews.length) h += zhViews.map(l => '<section class="en-abstract" lang="en" data-l="' + l + '"><h2>English summary</h2><p>' + esc(post.abstract_en) + '</p></section>\n').join('');
+    else h += '<section class="en-abstract" lang="en"><h2>English summary</h2><p>' + esc(post.abstract_en) + '</p></section>\n';
+  }
   if (faq.length) h += '<section class="faq"><h2>' + ui('faq') + '</h2>\n' + faq.map(f => '<details open><summary>' + bi(f.q, 'span', L) + '</summary>' + bi(f.a, 'p', L) + '</details>\n').join('') + '</section>\n';
   // post.source (original publication) stays internal data only; it is not shown on the page.
   h += '</article>\n' +
@@ -260,7 +304,7 @@ export function renderBlogPost(site, blog, post, opts) {
     '<p class="ab-links"><a href="../../cv/">' + ui('cvLink') + '</a> · <a href="../../board/">' + ui('boardLink') + '</a> · <a href="../../teaching/">' + ui('teachLink') + '</a> · <a href="../../consulting/">' + ui('consultLink') + '</a></p></section>\n';
   const rel = relatedPosts(blog, post);
   if (rel.length) h += '<section class="related"><h2>' + ui('related') + '</h2><ul class="post-list">\n' + rel.map(p => postCard(p, 2, L)).join('') + '</ul></section>\n';
-  return finishPage(h + '</main>\n' + (en ? LANG_SWITCH_JS : '') + '</body></html>\n', 2);
+  return finishPage(h + '</main>\n' + (buttons.length > 1 ? LANG_SWITCH_JS : '') + '</body></html>\n', 2);
 }
 
 /* ---------- feed, sitemap, robots, llms ---------- */
@@ -331,7 +375,7 @@ export function validateBlog(blog) {
     const cs = Array.isArray(p.categories) ? p.categories : [p.categories];
     if (!cs.length || cs.some(c => !CAT[c])) errs.push(nm + '的分類必須是：' + BLOG_CATEGORIES.map(c => c.id).join(', '));
     if (!zhOr(p.body)) errs.push(nm + '需要內文');
-    const html = [loc(p.body, 'zh-Hant'), loc(p.body, 'en')].join('');
+    const html = [loc(p.body, 'zh-Hant'), loc(p.body, 'zh-Hans'), loc(p.body, 'en')].join('');
     if (/mmbiz\.(qpic|qlogo)\.cn|qpic\.cn/i.test(html + (p.cover || ''))) errs.push(nm + '含微信圖片網址（會被防盜鏈擋），請下載到 assets/blog/ 再引用');
     if (/<script/i.test(html)) errs.push(nm + '的內文不能含 <script>');
     if (p.faq != null && (!Array.isArray(p.faq) || p.faq.some(f => !f || !zhOr(f.q) || !zhOr(f.a)))) errs.push(nm + '的 FAQ 每項需要 q 與 a');
