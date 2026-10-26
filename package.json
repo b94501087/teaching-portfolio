@@ -1,5 +1,10 @@
 {
   "private": true,
   "type": "module",
-  "scripts": { "build": "node build/build.mjs" }
+  "scripts": {
+    "build": "node build/build.mjs"
+  },
+  "dependencies": {
+    "opencc-js": "^1.0.5"
+  }
 }

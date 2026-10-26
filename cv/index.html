@@ -1,9 +1,13 @@
 <!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>cv — {{name}}</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<style>html:not([data-lang="en"]) [data-l="en"],html:not([data-lang="zh-Hant"]) [data-l="zh-Hant"]{display:none}</style>
-<script>(function(){var L=["en","zh-Hant"],d=document.documentElement,q=(/[?&]lang=([A-Za-z-]+)/.exec(location.search)||[])[1],s=null;try{s=localStorage.getItem("lang")}catch(e){}var n=(navigator.languages||[navigator.language||""]).join(",").toLowerCase(),z=L.filter(function(x){return x.indexOf("zh")===0})[0];var l=L.indexOf(q)>=0?q:L.indexOf(s)>=0?s:(z&&/(^|,)zh/.test(n)?z:"en");if(L.indexOf(q)>=0){try{localStorage.setItem("lang",q)}catch(e){}}d.setAttribute("data-lang",l);d.lang=l})();</script>
+<style>html:not([data-lang="en"]) [data-l="en"],html:not([data-lang="zh-Hant"]) [data-l="zh-Hant"],html:not([data-lang="zh-Hans"]) [data-l="zh-Hans"]{display:none}</style>
+<script>(function(){var L=["en","zh-Hant","zh-Hans"],d=document.documentElement,m=/[?&]lang=([A-Za-z-]+)/.exec(location.search),q=m?m[1]:"",s="";function canon(x){if(!x)return"";var k=String(x).toLowerCase();for(var i=0;i<L.length;i++)if(L[i].toLowerCase()===k)return L[i];return""}try{s=localStorage.getItem("lang")}catch(e){}q=canon(q);s=canon(s);var n=(navigator.languages||[navigator.language||""]).join(",").toLowerCase(),z=L.filter(function(x){return x.indexOf("zh")===0})[0];var l=q||s||(z&&/(^|,)zh/.test(n)?z:"en");if(q){try{localStorage.setItem("lang",q)}catch(e){}}d.setAttribute("data-lang",l);d.lang=l})();</script>
 <meta name="description" content="Yu Chun Tsai — CV: architecture &amp; design portfolio mentor; teaching and design experience, education, student admissions. 履歷：建築與設計作品集指導、教學與設計經歷、學歷、學生錄取院校。">
 <link rel="canonical" href="https://yuchuntsai.com/cv/">
+<link rel="alternate" hreflang="zh-Hant" href="https://yuchuntsai.com/cv/">
+<link rel="alternate" hreflang="zh-Hans" href="https://yuchuntsai.com/cv/?lang=zh-Hans">
+<link rel="alternate" hreflang="en" href="https://yuchuntsai.com/cv/?lang=en">
+<link rel="alternate" hreflang="x-default" href="https://yuchuntsai.com/cv/">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://yuchuntsai.com/#person","name":"Yu Chun Tsai","url":"https://yuchuntsai.com/cv/","jobTitle":"Architecture & design portfolio mentor; Senior External Design Consultant, S&J Design (Hong Kong)","alumniOf":[{"@type":"CollegeOrUniversity","name":"University of California, Berkeley"},{"@type":"CollegeOrUniversity","name":"National Taiwan University"}],"knowsAbout":["architecture portfolio","design portfolio","art and design study abroad applications","school selection","statement of purpose","architecture education"]},{"@type":"WebSite","@id":"https://yuchuntsai.com/#website","url":"https://yuchuntsai.com/","name":"Yu Chun Tsai","inLanguage":["zh-Hant","en"],"publisher":{"@id":"https://yuchuntsai.com/#person"}}]}</script>
 <link rel="stylesheet" href="../A-Z/style.css"></head><body>
 <aside>
@@ -19,7 +23,7 @@
   </nav>
 </aside>
 <main class="doc cv">
-<div class="cv-top"><h2>cv</h2><div class="cv-langs" role="group" aria-label="Language"><button type="button" data-set-lang="en" lang="en" title="English">EN</button><button type="button" data-set-lang="zh-Hant" lang="zh-Hant" title="繁體中文">繁中</button></div></div>
+<div class="cv-top"><h2>cv</h2><div class="cv-langs" role="group" aria-label="Language"><button type="button" data-set-lang="en" lang="en" title="English">EN</button><button type="button" data-set-lang="zh-Hant" lang="zh-Hant" title="繁體中文">繁中</button><button type="button" data-set-lang="zh-Hans" lang="zh-Hans" title="简体中文">简中</button></div></div>
 
 <p class="cv-lead"><span data-l="zh-Hant" lang="zh-Hant">香港 S&amp;J Design 資深外聘設計顧問・建築作品集教學與設計諮詢</span><span data-l="en" lang="en">Senior External Design Consultant, S&amp;J Design, Hong Kong · Architecture portfolio teaching and design consultation</span></p>
 

@@ -4,6 +4,7 @@
 // Pure functions only: content objects in, HTML strings out. No DOM, no Node APIs.
 // Locked design (fonts, colours, spacing, radius, column count) lives in the page CSS files,
 // not in content, and cannot be changed from /admin.
+import { toHans } from './hans.js';
 
 // Board shards. content/board.json may list extra pin files in "shards" (e.g. ["board-2.json"]),
 // each { "pins": [...] }; the full board is board.json's pins followed by each shard's pins, in order.
@@ -253,8 +254,8 @@ export function pinLevel(p) {
   const d = [p && p.description, p && p.i18n && p.i18n['zh-Hant'] && p.i18n['zh-Hant'].description].map(str).join('\n');
   return /student project|學生作品/i.test(d) ? 'master' : '';
 }
-const BOARD_LANGS = ['en', 'zh-Hant'];
-const bl = (o, tag) => BOARD_LANGS.map(l => '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + esc(o[l]) + '</' + tag + '>').join('');
+// One labelled copy per switch language. zh-Hans is derived from zh-Hant when a page does not store it.
+const bl = (o, tag) => LANGS.map(l => '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + esc(dictText(o, l)) + '</' + tag + '>').join('');
 // Board categories for every level (content/categories.json: { slug: "architecture" | ["architecture", "urban"] | ... }), loaded by the board
 // page at runtime so the mapping lives apart from board.json. A master pin missing from it shows under All only.
 export const CATEGORIES = ['architecture', 'landscape', 'urban', 'interior', 'stage'];
@@ -360,13 +361,14 @@ export function renderBoard(site, board, opts) {
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.board) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/board/">\n' +
-    langHead(BOARD_LANGS) +
+    hreflangLinks('https://yuchuntsai.com/board/', LANGS) +
+    langHead(LANGS) +
     '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="board-page">\n' +
     topBar(site, 1) +
     '<div class="board-tools"><div class="filters" role="group" aria-label="Filter">' +
     ['all', 'master', 'undergrad'].map(f => '<button type="button" data-filter="' + f + '"' + (f === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(LEVEL_FILTER[f], 'span') + '</button>').join('') +
     '</div><div class="langs" role="group" aria-label="Language">' +
-    BOARD_LANGS.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l] || l) + '">' + esc(LANG_LABEL[l] || l) + '</button>').join('') + '</div></div>\n' +
+    LANGS.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l] || l) + '">' + esc(LANG_LABEL[l] || l) + '</button>').join('') + '</div></div>\n' +
     '<div class="board-tools sub scalefilters" hidden><div class="filters" role="group" aria-label="Scale">' +
     ['all', ...SCALES].map(z => '<button type="button" data-scale-filter="' + z + '"' + (z === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(SCALE_FILTER[z], 'span') + '</button>').join('') +
     '</div></div>\n' +
@@ -395,13 +397,49 @@ export function paragraphs(text) {
 // Languages a detail page can be read in. English is the source text (pin.title, pin.description,
 // section heading/body/captions); other languages are optional translations in pin.i18n[lang] and
 // section.i18n[lang] with the same keys. Any empty translated field falls back to English.
-// The language switch only appears on pages that actually have a translation. To add a language
-// (e.g. 'zh-Hans'), add it here with its labels; admin, validation and the switch follow.
-export const LANGS = ['en', 'zh-Hant'];
-export const LANG_LABEL = { en: 'EN', 'zh-Hant': '繁中' };
-export const LANG_NAME = { en: 'English', 'zh-Hant': '繁體中文' };
+// The language switch only appears on pages that actually have a translation. Button order is
+// EN / 繁中 / 简中. zh-Hans is generated from zh-Hant (see admin/hans.js); a stored i18n['zh-Hans']
+// or a "hans" string overrides that field. Authored content still only requires en and zh-Hant.
+export const LANGS = ['en', 'zh-Hant', 'zh-Hans'];
+const AUTHORED_LANGS = ['en', 'zh-Hant'];
+export const LANG_LABEL = { en: 'EN', 'zh-Hant': '繁中', 'zh-Hans': '简中' };
+export const LANG_NAME = { en: 'English', 'zh-Hant': '繁體中文', 'zh-Hans': '简体中文' };
 const str = v => (typeof v === 'string' ? v : '');
 const tr = (o, l, k) => str(o && o.i18n && o.i18n[l] && o.i18n[l][k]);
+// A { en, zh-Hant, zh-Hans?, hans? } label. Simplified is the stored value, else OpenCC(zh-Hant).
+export function dictText(o, l) {
+  if (!o || typeof o !== 'object') return '';
+  const direct = str(o[l]).trim();
+  if (direct) return direct;
+  if (l === 'zh-Hans') {
+    const manual = str(o.hans).trim();
+    if (manual) return manual;
+    const zh = str(o['zh-Hant']).trim();
+    if (zh) return toHans(zh);
+  }
+  return '';
+}
+// English lives on the object; other languages live in i18n. zh-Hans falls back to OpenCC(zh-Hant).
+function i18nText(o, l, k, enVal) {
+  if (l === 'en') return str(enVal !== undefined ? enVal : (o && o[k])).trim();
+  const direct = tr(o, l, k).trim();
+  if (direct) return direct;
+  if (l === 'zh-Hans') {
+    const zh = tr(o, 'zh-Hant', k).trim();
+    if (zh) return toHans(zh);
+  }
+  return '';
+}
+function capAt(s, l, k) {
+  if (l === 'en') return str(Array.isArray(s.captions) ? s.captions[k] : '').trim();
+  const over = s.i18n && s.i18n[l] && Array.isArray(s.i18n[l].captions) ? str(s.i18n[l].captions[k]).trim() : '';
+  if (over) return over;
+  if (l === 'zh-Hans') {
+    const zh = s.i18n && s.i18n['zh-Hant'] && Array.isArray(s.i18n['zh-Hant'].captions) ? str(s.i18n['zh-Hant'].captions[k]).trim() : '';
+    if (zh) return toHans(zh);
+  }
+  return '';
+}
 
 // Optional sections layout: pin.sections = [{ heading, body, images: [paths from pin.images], captions: [one line each], i18n }].
 // One centred column: each section's text, then its images, all at the same width; every image sits in
@@ -415,13 +453,10 @@ export function pinSections(pin) {
     (Array.isArray(s.images) ? s.images : []).forEach((src, k) => {
       if (!pool.has(src)) return;
       imgs.push(src);
-      for (const l of LANGS) {
-        const arr = l === 'en' ? s.captions : s.i18n && s.i18n[l] && s.i18n[l].captions;
-        caps[l].push(str(Array.isArray(arr) ? arr[k] : '').trim());
-      }
+      for (const l of LANGS) caps[l].push(capAt(s, l, k));
     });
     const heading = {}, body = {};
-    for (const l of LANGS) { heading[l] = (l === 'en' ? str(s.heading) : tr(s, l, 'heading')).trim(); body[l] = l === 'en' ? str(s.body) : tr(s, l, 'body'); }
+    for (const l of LANGS) { heading[l] = i18nText(s, l, 'heading', s.heading); body[l] = i18nText(s, l, 'body', s.body); }
     return { heading, body, images: imgs, captions: caps };
   }).filter(s => s.heading.en || s.body.en.trim() || s.images.length);
 }
@@ -431,7 +466,7 @@ export function pinLangs(pin) {
   const has = l => [tr(pin, l, 'title'), tr(pin, l, 'description')].some(x => x.trim()) ||
     (Array.isArray(pin.sections) ? pin.sections : []).some(s => s && [tr(s, l, 'heading'), tr(s, l, 'body')].some(x => x.trim()) ||
       (s && s.i18n && s.i18n[l] && Array.isArray(s.i18n[l].captions) ? s.i18n[l].captions : []).some(c => str(c).trim()));
-  return LANGS.filter(l => l === 'en' || has(l));
+  return LANGS.filter(l => l === 'en' || has(l) || (l === 'zh-Hans' && has('zh-Hant')));
 }
 
 // dims (optional, from build/build.mjs): { "<src>": [width, height] } read from the image files, so the
@@ -466,11 +501,19 @@ function perLang(langs, get, wrap) {
 export function langHead(langs, fallback = 'en') {
   const fb = langs.includes(fallback) ? fallback : (langs[0] || 'en');
   return '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' +
-    '<script>(function(){var L=' + JSON.stringify(langs) + ',d=document.documentElement,q=(/[?&]lang=([A-Za-z-]+)/.exec(location.search)||[])[1],s=null;' +
+    '<script>(function(){var L=' + JSON.stringify(langs) + ',d=document.documentElement,m=/[?&]lang=([A-Za-z-]+)/.exec(location.search),q=m?m[1]:"",s="";' +
+    'function canon(x){if(!x)return"";var k=String(x).toLowerCase();for(var i=0;i<L.length;i++)if(L[i].toLowerCase()===k)return L[i];return""}' +
     'try{s=localStorage.getItem("lang")}catch(e){}' +
+    'q=canon(q);s=canon(s);' +
     'var n=(navigator.languages||[navigator.language||""]).join(",").toLowerCase(),z=L.filter(function(x){return x.indexOf("zh")===0})[0];' +
-    'var l=L.indexOf(q)>=0?q:L.indexOf(s)>=0?s:(z&&/(^|,)zh/.test(n)?z:' + JSON.stringify(fb) + ');' +
-    'if(L.indexOf(q)>=0){try{localStorage.setItem("lang",q)}catch(e){}}d.setAttribute("data-lang",l);d.lang=l})();</script>\n';
+    'var l=q||s||(z&&/(^|,)zh/.test(n)?z:' + JSON.stringify(fb) + ');' +
+    'if(q){try{localStorage.setItem("lang",q)}catch(e){}}d.setAttribute("data-lang",l);d.lang=l})();</script>\n';
+}
+// zh-Hant (and x-default) keep the clean URL. Other languages use ?lang=, matching the switch.
+export function hreflangLinks(url, langs) {
+  const order = ['zh-Hant', 'zh-Hans', 'en'].filter(l => langs.includes(l));
+  return order.map(l => '<link rel="alternate" hreflang="' + l + '" href="' + esc(l === 'zh-Hant' ? url : url + '?lang=' + l) + '">').join('\n') +
+    '\n<link rel="alternate" hreflang="x-default" href="' + esc(url) + '">\n';
 }
 export const LANG_SWITCH_JS = '<script>(function(){var d=document.documentElement;function mark(){[].forEach.call(document.querySelectorAll("[data-set-lang]"),function(b){var on=b.getAttribute("data-set-lang")===d.getAttribute("data-lang");b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")})}' +
   'document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("[data-set-lang]");if(!b)return;var l=b.getAttribute("data-set-lang");d.setAttribute("data-lang",l);d.lang=l;try{localStorage.setItem("lang",l)}catch(x){}mark()});mark()})();</script>\n';
@@ -512,28 +555,28 @@ export function renderDetail(site, board, pin, opts) {
   let h = (multi ? '<!doctype html><html lang="' + (forced || 'en') + '" data-lang="' + (forced || 'en') + '"><head>' : '<!doctype html><html lang="zh-Hant"><head>') +
     headExtra(opts) + '<meta charset="utf-8"><title>' + esc(pin.title) + ' — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
-    (pin.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '<link rel="canonical" href="https://yuchuntsai.com/' + (teach ? 'teaching/' : 'board/') + esc(pin.slug) + '/">\n') +
+    (pin.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '<link rel="canonical" href="https://yuchuntsai.com/' + (teach ? 'teaching/' : 'board/') + esc(pin.slug) + '/">\n' + (multi ? hreflangLinks('https://yuchuntsai.com/' + (teach ? 'teaching/' : 'board/') + pin.slug + '/', langs) : '')) +
     (multi ? (forced ? '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' : langHead(langs)) : '') +
     '<link rel="stylesheet" href="../../style.css' + cssV(opts) + '"></head><body class="detail">\n' +
     topBar(site, 2, teach ? 'teaching' : 'board') +
     '<main' + (secs.length ? ' class="has-sections"' : '') + '>\n';
   const back = '<p class="back"><a href="../">← ' + esc(backLabel) + '</a></p>';
   const lv = teach ? '' : pinLevel(pin);
-  const levelLine = lv ? '  <p class="level">' + (multi ? perLang(langs, l => LEVEL_LABEL[lv][l], (v, a) => '<span' + a + '>' + esc(v) + '</span>') : esc(LEVEL_LABEL[lv].en)) + '</p>\n' : '';
+  const levelLine = lv ? '  <p class="level">' + (multi ? perLang(langs, l => dictText(LEVEL_LABEL[lv], l), (v, a) => '<span' + a + '>' + esc(v) + '</span>') : esc(LEVEL_LABEL[lv].en)) + '</p>\n' : '';
   if (multi) {
     h += '  <div class="lang-row">' + back + '<div class="langs" role="group" aria-label="Language">' +
       langs.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l] || l) + '">' + esc(LANG_LABEL[l] || l) + '</button>').join('') + '</div></div>\n';
   } else h += '  ' + back + '\n';
   if (secs.length) {
     h += levelLine;
-    h += '  <h1>' + perLang(langs, l => (l === 'en' ? str(pin.title) : tr(pin, l, 'title')).trim(), (v, a) => (a ? '<span' + a + '>' + esc(v) + '</span>' : esc(v))) + '</h1>\n';
-    h += perLang(langs, l => paragraphs(l === 'en' ? pin.description : tr(pin, l, 'description')), (v, a) => '<div class="desc"' + a + '>\n' + v + '</div>\n');
+    h += '  <h1>' + perLang(langs, l => i18nText(pin, l, 'title', pin.title), (v, a) => (a ? '<span' + a + '>' + esc(v) + '</span>' : esc(v))) + '</h1>\n';
+    h += perLang(langs, l => paragraphs(i18nText(pin, l, 'description', pin.description)), (v, a) => '<div class="desc"' + a + '>\n' + v + '</div>\n');
   } else {
     h += levelLine + '  <h1>' + esc(pin.title) + '</h1>\n';
     const desc = paragraphs(pin.description);
     if (desc) h += '<div class="desc">\n' + desc + '</div>\n';
   }
-  if (!teach && pinSchools(pin).length) h += '  <p class="schools-row"><span class="schools-h">Admitted · 錄取</span>' + schoolTags(pin, 'span') + '</p>\n';
+  if (!teach && pinSchools(pin).length) h += '  <p class="schools-row"><span class="schools-h">' + bl({ en: 'Admitted', 'zh-Hant': '錄取' }, 'span') + '</span>' + schoolTags(pin, 'span') + '</p>\n';
   let rest = imgs, shown = 0;
   if (secs.length) {
     const used = new Set();
@@ -694,11 +737,11 @@ function textBlock(s) {
   if (items.length) x += '<ul>\n' + items.map(it => '  <li>' + inline(it) + '</li>\n').join('') + '</ul>\n';
   return x;
 }
-// Bilingual teaching-philosophy section (type "philosophy"): heading, lead, subheading and groups of
-// titled points; every text is { "zh-Hant": ..., "en": ... }. Its EN / 繁中 buttons use the same
-// language switch as project pages (?lang=, remembered in localStorage); the rest of the page is untouched.
+// Teaching-philosophy section (type "philosophy"): heading, lead, subheading and groups of
+// titled points; every authored text is { "zh-Hant", "en" }. Simplified is OpenCC(zh-Hant) unless
+// "zh-Hans" or "hans" is set. EN / 繁中 / 简中 uses the same switch as project pages.
 export const hasPhilosophy = t => (t && Array.isArray(t.sections) ? t.sections : []).some(s => s && s.type === 'philosophy');
-const biText = (o, tag) => LANGS.map(l => '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + esc(str(o && o[l])) + '</' + tag + '>').join('');
+const biText = (o, tag) => LANGS.map(l => '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + esc(dictText(o, l)) + '</' + tag + '>').join('');
 export function philosophyBlock(s) {
   const groups = Array.isArray(s.groups) ? s.groups : [];
   let x = '<section class="t-text t-philo">\n<div class="t-philo-top"><h2>' + biText(s.heading || { 'zh-Hant': s.title, en: s.title }, 'span') + '</h2>' +
@@ -706,7 +749,7 @@ export function philosophyBlock(s) {
   if (s.lead) x += '<p class="t-philo-lead">' + biText(s.lead, 'span') + '</p>\n';
   if (s.subheading) x += '<h3 class="t-philo-sub">' + biText(s.subheading, 'span') + '</h3>\n';
   if (groups.length) x += '<div class="t-philo-cols">\n' + groups.map(g => '<div class="t-philo-col"><h4>' + biText(g.title, 'span') + '</h4>\n<ul>\n' +
-    (Array.isArray(g.items) ? g.items : []).map(it => '  <li>' + LANGS.map(l => '<span data-l="' + l + '" lang="' + l + '"><strong>' + esc(str(it.title && it.title[l])) + '</strong>' + esc(str(it.body && it.body[l])) + '</span>').join('') + '</li>\n').join('') +
+    (Array.isArray(g.items) ? g.items : []).map(it => '  <li>' + LANGS.map(l => '<span data-l="' + l + '" lang="' + l + '"><strong>' + esc(dictText(it.title, l)) + '</strong>' + esc(dictText(it.body, l)) + '</span>').join('') + '</li>\n').join('') +
     '</ul></div>\n').join('') + '</div>\n';
   return x + '</section>\n';
 }
@@ -715,7 +758,7 @@ function renderTeachingWall(site, t, opts) {
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.teaching) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/teaching/">\n' +
-    (hasPhilosophy(t) ? langHead(LANGS) : '') +
+    (hasPhilosophy(t) ? hreflangLinks('https://yuchuntsai.com/teaching/', LANGS) + langHead(LANGS) : '') +
     '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="teach-wall">\n' +
     topBar(site, 1, 'teaching');
   let open = '';
@@ -1050,7 +1093,7 @@ export function validate(all) {
     if (s.images !== undefined && (!Array.isArray(s.images) || s.images.some(x => typeof x !== 'string'))) errs.push('教學頁段落「' + (s.title || i + 1) + '」的圖片必須是路徑清單');
     if (s.captions !== undefined && !Array.isArray(s.captions)) errs.push('教學頁段落「' + (s.title || i + 1) + '」的圖說必須是清單');
     if (s.type === 'philosophy') {
-      const bi = o => !!o && LANGS.every(l => String(o[l] || '').trim());
+      const bi = o => !!o && AUTHORED_LANGS.every(l => String(o[l] || '').trim());
       const nm = '教學頁理念段落「' + (s.title || i + 1) + '」';
       if (!bi(s.heading) || !bi(s.lead)) errs.push(nm + '的標題與導言需要中英文');
       if (!Array.isArray(s.groups) || s.groups.some(g => !g || !bi(g.title) || !Array.isArray(g.items) || g.items.some(it => !it || !bi(it.title) || !bi(it.body)))) errs.push(nm + '的條目每項都需要中英文標題與內文');

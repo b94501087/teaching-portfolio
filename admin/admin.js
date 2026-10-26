@@ -269,7 +269,7 @@ function capList(s, l) {
 function langPicker() {
   return el('div', { class: 'field' }, el('span', {}, '編輯語言'),
     el('div', { class: 'seg' }, ...LANGS.map(l => el('button', { type: 'button', class: 'small' + (state.editLang === l ? ' on' : ''), 'aria-pressed': state.editLang === l ? 'true' : 'false', onclick: () => { state.editLang = l; renderEditor(); updatePreview(false); } }, LANG_NAME[l] || l))),
-    el('p', { class: 'hint' }, '英文是原文。切換到其他語言後，標題、說明、段落標題、內文和圖說都可以另外填；留白的欄位會顯示英文。網址、圖片和排列各語言共用。有翻譯時，內頁右上角會出現語言切換，記住訪客上次的選擇。'));
+    el('p', { class: 'hint' }, '英文是原文，繁中是譯文。簡中留白時由繁中自動轉換，填了就用你寫的版本。其他語言留白會顯示英文。網址、圖片和排列各語言共用。有翻譯時，內頁右上角會出現語言切換，記住訪客上次的選擇。'));
 }
 function sectionsEditor(p) {
   const L = state.editLang, LT = L === 'en' ? '' : '・' + LANG_NAME[L];

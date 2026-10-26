@@ -12,11 +12,12 @@ import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { mergeBoard, renderAll, fillPlaceholders, validate, imgGuardTag } from '../admin/render.js';
+import { injectHans } from '../admin/hans.js';
 import { renderBlog, validateBlog, renderFeed, renderSitemap, renderRobots, renderLlms, blogPosts } from '../admin/blog.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const out = path.join(root, '_site');
-const EXCLUDE = new Set(['.git', '.github', '_site', 'build', 'worker', 'node_modules', 'tests', 'README.md', '.gitignore', 'package.json']);
+const EXCLUDE = new Set(['.git', '.github', '_site', 'build', 'worker', 'node_modules', 'tests', 'README.md', '.gitignore', 'package.json', 'package-lock.json']);
 
 async function copyDir(src, dst) {
   await fs.mkdir(dst, { recursive: true });
@@ -76,8 +77,10 @@ for (const [rel, html] of Object.entries(pages)) {
 for (const rel of [...(await fs.readdir(path.join(out, 'A-Z'))).map(f => 'A-Z/' + f), 'cv/index.html']) {
   if (!rel.endsWith('.html')) continue;
   const p = path.join(out, rel);
-  const src = await fs.readFile(p, 'utf8');
-  if (src.includes('{{')) await fs.writeFile(p, fillPlaceholders(src, all.site));
+  let src = await fs.readFile(p, 'utf8');
+  if (src.includes('{{')) src = fillPlaceholders(src, all.site);
+  if (rel === 'cv/index.html') src = injectHans(src);
+  await fs.writeFile(p, src);
 }
 
 await fs.mkdir(path.join(out, 'a-z'), { recursive: true });

@@ -71,12 +71,13 @@ test('post page: static body, TL;DR, author box, related, meta, hreflang, JSON-L
   const a = g.find(x => x['@type'] === 'BlogPosting');
   assert.equal(a.headline, '測試文章：作品集要放幾個項目？'); assert.equal(a.datePublished, '2026-03-04'); assert.equal(a.dateModified, '2026-03-10');
   assert.equal(a.author.name, 'Yu Chun Tsai'); assert.equal(a.author.url, 'https://yuchuntsai.com/cv/');
-  assert.deepEqual(a.inLanguage, ['zh-Hant', 'en']);
+  assert.deepEqual(a.inLanguage, ['zh-Hant', 'zh-Hans', 'en']);
   assert.deepEqual(g.find(x => x['@type'] === 'Person').sameAs, ['https://example.com/profile']);
   assert.equal(g.find(x => x['@type'] === 'FAQPage').mainEntity[0].acceptedAnswer.text, '測試答。');
   for (const s of scripts(h)) assert.doesNotThrow(() => new Function(s));
   const zhOnly = renderBlogPost(site, FIXTURE, FIXTURE.posts[0], {});
-  assert.ok(!zhOnly.includes('hreflang') && !zhOnly.includes('data-set-lang') && !types(ldOf(zhOnly)).includes('FAQPage'));
+  assert.ok(zhOnly.includes('data-set-lang="zh-Hans"') && zhOnly.includes('测试内文旧') && zhOnly.includes('hreflang="zh-Hans"'));
+  assert.ok(!zhOnly.includes('hreflang="en"') && !zhOnly.includes('data-set-lang="en"') && !types(ldOf(zhOnly)).includes('FAQPage'));
   assert.match(renderBlogPost(site, FIXTURE, FIXTURE.posts[2], {}), /noindex/);
   assert.deepEqual(relatedPosts(FIXTURE, FIXTURE.posts[0]).map(x => x.slug), ['fixture-post']);
 });
@@ -124,6 +125,10 @@ test('language switch: default Chinese, shared EN/繁中 control, hreflang witho
   assert.match(index, /data-set-lang="zh-Hant"/);
   assert.match(index, /title="English">EN</);
   assert.match(index, /title="繁體中文">繁中</);
+  assert.match(index, /title="简体中文">简中</);
+  assert.ok(index.indexOf('data-set-lang="en"') < index.indexOf('data-set-lang="zh-Hant"') && index.indexOf('data-set-lang="zh-Hant"') < index.indexOf('data-set-lang="zh-Hans"'));
+  assert.match(index, /function canon\(x\)/);
+  assert.match(index, /hreflang="zh-Hans" href="https:\/\/yuchuntsai\.com\/blog\/\?lang=zh-Hans"/);
   assert.match(index, /localStorage.getItem\("lang"\)/);
   assert.match(index, /localStorage.setItem\("lang",l\)/);
   // Unset visitors stay on Chinese. Project pages fall back to English; the blog must not.
@@ -136,12 +141,13 @@ test('language switch: default Chinese, shared EN/繁中 control, hreflang witho
   for (const p of blogPosts(blog)) {
     const h = renderBlogPost(site, blog, p, {});
     assert.match(h, /<html lang="zh-Hant" data-lang="zh-Hant">/, p.slug);
-    assert.ok(h.includes('data-set-lang="en"') && h.includes('data-l="en"') && h.includes('data-l="zh-Hant"'), p.slug + ' switch');
+    assert.ok(h.includes('data-set-lang="en"') && h.includes('data-set-lang="zh-Hans"') && h.includes('data-l="en"') && h.includes('data-l="zh-Hant"') && h.includes('data-l="zh-Hans"'), p.slug + ' switch');
     const article = h.indexOf('<article>');
     assert.ok(article > 0 && h.indexOf('data-l="zh-Hant"', article) < h.indexOf('data-l="en"', article), p.slug + ' Chinese is the default copy');
     assert.match(h, new RegExp('<link rel="canonical" href="https://yuchuntsai\\.com/blog/' + p.slug + '/">'), p.slug);
     assert.match(h, new RegExp('hreflang="en" href="https://yuchuntsai\\.com/blog/' + p.slug + '/\\?lang=en"'), p.slug);
     assert.match(h, new RegExp('hreflang="zh-Hant" href="https://yuchuntsai\\.com/blog/' + p.slug + '/">'), p.slug);
+    assert.match(h, new RegExp('hreflang="zh-Hans" href="https://yuchuntsai\\.com/blog/' + p.slug + '/\\?lang=zh-Hans"'), p.slug);
     assert.doesNotMatch(h, /rel="canonical"[^>]*\?lang=/, p.slug);
   }
 });
@@ -163,14 +169,16 @@ test('flat English fields render, and a post or field without English falls back
   const h = renderBlogPost(site, data, bilingual, {});
   assert.ok(h.includes('Flat English title') && h.includes('只有中文標題'));
   assert.ok(h.includes('Flat English body') && h.includes('中文內文') && h.includes('See the full project: Card'));
-  assert.ok(h.includes('中文摘要沒有英文') && !h.includes('data-l="en">中文摘要'), 'missing English excerpt stays Chinese, untagged');
+  assert.ok(h.includes('中文摘要沒有英文') && h.includes('data-l="zh-Hans" lang="zh-Hans">中文重点'), 'tldr is converted; the meta description stays Traditional');
   assert.ok(h.includes('English question?') && h.includes('English answer.') && h.includes('中文問？'));
   assert.match(h, /rel="canonical" href="https:\/\/yuchuntsai\.com\/blog\/flat-en\/"/);
   assert.ok(h.indexOf('中文內文') < h.indexOf('Flat English body'));
   const z = renderBlogPost(site, data, zhOnly, {});
-  assert.ok(!z.includes('data-set-lang') && !z.includes('hreflang') && z.includes('僅中文內文'));
+  assert.ok(z.includes('data-set-lang="zh-Hant"') && z.includes('data-set-lang="zh-Hans"') && z.includes('仅中文内文') && z.includes('僅中文內文'));
+  assert.ok(z.includes('hreflang="zh-Hans"') && !z.includes('hreflang="en"') && !z.includes('data-set-lang="en"'));
   const list = renderBlogIndex(site, data, {});
   assert.ok(list.includes('Flat English title') && list.includes('僅中文') && list.includes('中文摘要沒有英文'));
+  assert.ok(list.includes('data-l="en" lang="en">中文摘要沒有英文') && list.includes('data-l="zh-Hans" lang="zh-Hans">中文摘要没有英文'));
 });
 
 test('post student works link to existing board pins and reuse local images', () => {
