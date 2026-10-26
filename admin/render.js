@@ -460,13 +460,16 @@ function perLang(langs, get, wrap) {
   return langs.map((l, i) => vals[i] ? wrap(vals[i], ' data-l="' + l + '" lang="' + l + '"') : '').join('');
 }
 
-// Picks the language before first paint: ?lang= (remembered), else the remembered choice, else the browser's.
-export function langHead(langs) {
+// Picks the language before first paint: ?lang= (remembered), else the remembered choice, else the
+// browser's. `fallback` is used when the browser is not Chinese (project pages pass nothing and stay
+// on English; the blog passes zh-Hant so an unset visitor still reads Chinese).
+export function langHead(langs, fallback = 'en') {
+  const fb = langs.includes(fallback) ? fallback : (langs[0] || 'en');
   return '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' +
     '<script>(function(){var L=' + JSON.stringify(langs) + ',d=document.documentElement,q=(/[?&]lang=([A-Za-z-]+)/.exec(location.search)||[])[1],s=null;' +
     'try{s=localStorage.getItem("lang")}catch(e){}' +
     'var n=(navigator.languages||[navigator.language||""]).join(",").toLowerCase(),z=L.filter(function(x){return x.indexOf("zh")===0})[0];' +
-    'var l=L.indexOf(q)>=0?q:L.indexOf(s)>=0?s:(z&&/(^|,)zh/.test(n)?z:"en");' +
+    'var l=L.indexOf(q)>=0?q:L.indexOf(s)>=0?s:(z&&/(^|,)zh/.test(n)?z:' + JSON.stringify(fb) + ');' +
     'if(L.indexOf(q)>=0){try{localStorage.setItem("lang",q)}catch(e){}}d.setAttribute("data-lang",l);d.lang=l})();</script>\n';
 }
 export const LANG_SWITCH_JS = '<script>(function(){var d=document.documentElement;function mark(){[].forEach.call(document.querySelectorAll("[data-set-lang]"),function(b){var on=b.getAttribute("data-set-lang")===d.getAttribute("data-lang");b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")})}' +

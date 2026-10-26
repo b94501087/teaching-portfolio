@@ -8,18 +8,24 @@
 // post = {
 //   "slug": "lowercase-with-hyphens",             // URL /blog/<slug>/
 //   "title": { "zh-Hant": "…", "en": "…" },       // zh primary; en optional (a plain string = zh only)
+//   "title_en": "…",                              // flat alias of title.en (also summary_en / excerpt_en / description_en, tldr_en, body_en)
 //   "date": "YYYY-MM-DD", "updated": "YYYY-MM-DD", // published / last updated (updated optional)
 //   "categories": ["school-selection", …],         // 1+ of BLOG_CATEGORIES ids
 //   "cover": "assets/blog/<slug>/cover.webp",      // optional, local file (never a WeChat URL)
-//   "summary": { "zh-Hant": "…", "en": "…" },     // 1–2 sentences: meta description + listing
+//   "summary": { "zh-Hant": "…", "en": "…" },     // 1–2 sentences: meta description + listing card excerpt
 //   "tldr": { "zh-Hant": "…", "en": "…" },        // short direct answer shown in a box at the top
 //   "body": { "zh-Hant": "<h2>…？</h2><p>…</p>", "en": "…" },  // trusted HTML; H2s phrased as questions
-//   "keywords": ["…"], "faq": [{ "q": {…}, "a": {…} }],        // optional
+//   "keywords": ["…"], "faq": [{ "q": {…}, "a": {…} }],        // optional; flat q_en / a_en also accepted
 //   "source": { "type": "wechat", "date": "YYYY-MM-DD", "url": "…" },   // optional (original publication)
-//   "abstract_en": "…",                            // optional ~120-word English summary (shown as a block; also in llms-full.txt)
+//   "abstract_en": "…",                            // optional ~120-word English summary (shown on the Chinese view; also in llms-full.txt)
 //   Student works in body: <div class="work-grid"><figure class="post-work"><a href="../../board/<slug>/"><img src="../../assets/board/<slug>/NN.webp" …></a>
 //     <figcaption><strong>Title</strong>｜caption (no student names)<br><a class="work-link" href="../../board/<slug>/">看完整作品：Title →</a></figcaption></figure>…</div>
-//     Reuse the matching board pin images; works with no board match keep a local assets/blog/<slug>/ image and no link.
+//     Those figcaptions are the work-card captions. Translate them inside body.en / body_en
+//     (English link text: "See the full project: Title →"). Reuse the matching board pin images;
+//     works with no board match keep a local assets/blog/<slug>/ image and no link.
+//   The language switch (same EN / 繁中 control as project pages) appears when both an English
+//   title and an English body exist. Any missing English field falls back to Chinese. The page
+//   defaults to zh-Hant; ?lang= and the shared localStorage "lang" key still follow the site switch.
 //   "draft": true                                   // optional: page built with noindex, not listed
 // }
 import { esc, safeUrl, assetUrl, headExtra, cssV, langHead, LANG_SWITCH_JS, LANGS, LANG_LABEL, LANG_NAME,
@@ -65,7 +71,42 @@ const UI = {
 // A localized field: { "zh-Hant", "en" } or a plain string (= Chinese only).
 export const loc = (v, l) => (v && typeof v === 'object' ? String(v[l] || '') : (l === 'zh-Hant' && typeof v === 'string' ? v : '')).trim();
 const zhOr = v => loc(v, 'zh-Hant') || loc(v, 'en');
-export const postHasEn = p => !!(loc(p.title, 'en') && loc(p.body, 'en'));
+// Flat English aliases for new posts. Nested title.en / summary.en / … wins when both are set.
+const FLAT_EN = {
+  title: ['title_en'],
+  summary: ['summary_en', 'excerpt_en', 'description_en'],
+  tldr: ['tldr_en'],
+  body: ['body_en']
+};
+const flatEn = (post, key) => {
+  for (const k of FLAT_EN[key] || []) {
+    if (typeof post[k] === 'string' && post[k].trim()) return post[k].trim();
+  }
+  return '';
+};
+// One view of a post with title/summary/tldr/body/faq normalised to { "zh-Hant", "en" }.
+function mergeLoc(post) {
+  if (!post || post.__loc) return post;
+  const out = { ...post, __loc: true };
+  for (const key of Object.keys(FLAT_EN)) {
+    const zh = loc(post[key], 'zh-Hant'), en = loc(post[key], 'en') || flatEn(post, key);
+    if (zh || en) out[key] = { ...(zh ? { 'zh-Hant': zh } : {}), ...(en ? { en } : {}) };
+  }
+  if (Array.isArray(post.faq)) {
+    out.faq = post.faq.map(f => {
+      if (!f || typeof f !== 'object') return f;
+      const qen = loc(f.q, 'en') || (typeof f.q_en === 'string' ? f.q_en.trim() : '');
+      const aen = loc(f.a, 'en') || (typeof f.a_en === 'string' ? f.a_en.trim() : '');
+      return { ...f,
+        q: { 'zh-Hant': loc(f.q, 'zh-Hant'), ...(qen ? { en: qen } : {}) },
+        a: { 'zh-Hant': loc(f.a, 'zh-Hant'), ...(aen ? { en: aen } : {}) } };
+    });
+  }
+  return out;
+}
+export const postHasEn = p => { const m = mergeLoc(p); return !!(loc(m.title, 'en') && loc(m.body, 'en')); };
+// Chinese is the default reading order. Buttons stay EN then 繁中, matching project pages.
+const CONTENT_LANGS = ['zh-Hant', 'en'];
 const plain = h => String(h || '').replace(/<[^>]*>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
 const clip = (t, n) => (t.length > n ? t.slice(0, n - 1).replace(/\s+\S*$/, '') + '…' : t);
 export const postUrl = slug => SITE_URL + '/blog/' + slug + '/';
@@ -76,13 +117,24 @@ export const blogPostsAll = blog => (blog && Array.isArray(blog.posts) ? blog.po
 export const blogPosts = blog => blogPostsAll(blog).filter(p => p.draft !== true)
   .slice().sort((a, b) => String(b.date || '').localeCompare(String(a.date || '')) || String(a.slug).localeCompare(String(b.slug)));
 
-// Text in both languages when it differs (CSS shows the chosen one); untagged when only one exists.
+// Text in both languages when it differs (CSS shows the chosen one). A missing English string falls
+// back to Chinese and is written once, untagged, so it stays visible in either language.
 function bi(v, tag, langs, raw) {
   const f = x => (raw ? x : esc(x));
-  if (langs.length < 2) { const t = zhOr(v); return t ? '<' + tag + '>' + f(t) + '</' + tag + '>' : ''; }
-  return langs.map(l => { const t = loc(v, l) || zhOr(v); return t ? '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + f(t) + '</' + tag + '>' : ''; }).join('');
+  const texts = langs.map(l => loc(v, l) || zhOr(v));
+  if (!texts.some(Boolean)) return '';
+  if (langs.length < 2 || texts.every(t => t === texts[0])) return '<' + tag + '>' + f(texts[0]) + '</' + tag + '>';
+  return langs.map((l, i) => texts[i] ? '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + f(texts[i]) + '</' + tag + '>' : '').join('');
 }
 const langButtons = () => '<div class="langs" role="group" aria-label="Language">' + LANGS.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l]) + '">' + esc(LANG_LABEL[l]) + '</button>').join('') + '</div>';
+// Label and date stay in the same span so each language reads as one phrase ("發表於 2026-04-07" / "Published 2026-04-07").
+function metaDate(key, iso, langs) {
+  return langs.map(l => {
+    const label = loc(UI[key], l) || loc(UI[key], 'zh-Hant');
+    const inner = esc(label) + ' <time datetime="' + esc(iso) + '">' + esc(iso) + '</time>';
+    return langs.length > 1 ? '<span data-l="' + l + '" lang="' + l + '">' + inner + '</span>' : '<span>' + inner + '</span>';
+  }).join('');
+}
 const catLabel = (id, langs) => bi(CAT[id], 'span', langs);
 
 function socialMeta(o) {
@@ -109,16 +161,16 @@ const BLOG_FILTER_JS = '<script>(function(){var bs=[].slice.call(document.queryS
   'window.addEventListener("hashchange",apply);apply()})();</script>\n';
 
 export function renderBlogIndex(site, blog, opts) {
-  const posts = blogPosts(blog), L = LANGS;
+  const posts = blogPosts(blog).map(mergeLoc), L = CONTENT_LANGS;
   const url = SITE_URL + '/blog/';
   const ld = { '@context': 'https://schema.org', '@graph': [personJsonLd(),
     { '@type': 'Blog', '@id': url + '#blog', url, name: 'Yu Chun Tsai — Blog', description: loc(UI.lead, 'en'), inLanguage: 'zh-Hant', author: { '@id': SITE_URL + '/#person' },
       blogPost: posts.map(p => ({ '@type': 'BlogPosting', headline: zhOr(p.title), url: postUrl(p.slug), datePublished: p.date, dateModified: p.updated || p.date })) },
     breadcrumbs([['Home', SITE_URL + '/'], ['Blog', url]])] };
-  let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>部落格 Blog — 作品集與藝術設計留學 — ' + esc(site.name) + '</title>\n' +
+  let h = '<!doctype html><html lang="zh-Hant" data-lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>部落格 Blog — 作品集與藝術設計留學 — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     socialMeta({ type: 'website', title: '部落格 Blog — ' + site.name, description: loc(UI.lead, 'zh-Hant') + ' ' + loc(UI.lead, 'en'), url, hreflang: true }) +
-    jsonLdScript(ld) + langHead(L) +
+    jsonLdScript(ld) + langHead(LANGS, 'zh-Hant') +
     '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="blog-page">\n' +
     topBar(site, 1, 'blog') +
     '<main class="blog">\n<div class="blog-head"><h1>' + bi(UI.blog, 'span', L) + '</h1>' + langButtons() + '</div>\n' +
@@ -135,6 +187,7 @@ export function renderBlogIndex(site, blog, opts) {
   return finishPage(h + '</main>\n' + BLOG_FILTER_JS + LANG_SWITCH_JS + '</body></html>\n', 1);
 }
 function postCard(p, depth, L) {
+  p = mergeLoc(p);
   const cats = postCats(p);
   return '  <li class="post-card" data-cat="' + esc(cats.join(' ')) + '"><a href="' + (depth === 1 ? '' : '../') + esc(p.slug) + '/">' +
     (p.cover ? '<img src="' + esc(assetUrl(p.cover, depth)) + '" alt="" draggable="false" loading="lazy">' : '') +
@@ -153,6 +206,7 @@ export function relatedPosts(blog, post, n = 3) {
   return others.filter(p => score(p) > 0).sort((a, b) => score(b) - score(a)).concat(others.filter(p => score(p) === 0)).slice(0, n);
 }
 export function postJsonLd(post) {
+  post = mergeLoc(post);
   const url = postUrl(post.slug), en = postHasEn(post);
   const g = [personJsonLd(),
     { '@type': 'BlogPosting', '@id': url + '#article', mainEntityOfPage: url, url,
@@ -172,31 +226,32 @@ export function postJsonLd(post) {
   return { '@context': 'https://schema.org', '@graph': g };
 }
 export function renderBlogPost(site, blog, post, opts) {
-  const en = postHasEn(post), L = en ? LANGS : ['zh-Hant'], url = postUrl(post.slug), cats = postCats(post);
+  post = mergeLoc(post);
+  const en = postHasEn(post), L = en ? CONTENT_LANGS : ['zh-Hant'], url = postUrl(post.slug), cats = postCats(post);
   const sameAs = blog && blog.author && Array.isArray(blog.author.sameAs) ? blog.author.sameAs.filter(Boolean) : [];
   const ld = postJsonLd(post); if (sameAs.length) ld['@graph'][0].sameAs = sameAs;
   const title = zhOr(post.title);
   const desc = clip(zhOr(post.summary) || plain(zhOr(post.body)), 160);
   const ui = (k, tag = 'span') => bi(UI[k], tag, L);
   const faq = (Array.isArray(post.faq) ? post.faq : []).filter(f => f && zhOr(f.q) && zhOr(f.a));
-  let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(title) + (en ? ' | ' + esc(loc(post.title, 'en')) : '') + ' — ' + esc(site.name) + '</title>\n' +
+  let h = '<!doctype html><html lang="zh-Hant" data-lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(title) + (en ? ' | ' + esc(loc(post.title, 'en')) : '') + ' — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     (post.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '') +
     socialMeta({ type: 'article', title, description: desc, url, hreflang: en, image: absAsset(post.cover) }) +
     '<meta property="article:published_time" content="' + esc(post.date) + '">\n<meta property="article:modified_time" content="' + esc(post.updated || post.date) + '">\n<meta property="article:author" content="' + SITE_URL + '/cv/">\n' +
     (Array.isArray(post.keywords) && post.keywords.length ? '<meta name="keywords" content="' + esc(post.keywords.join(', ')) + '">\n' : '') +
-    jsonLdScript(ld) + (en ? langHead(LANGS) : '') +
+    jsonLdScript(ld) + (en ? langHead(LANGS, 'zh-Hant') : '') +
     '<link rel="stylesheet" href="../../style.css' + cssV(opts) + '"></head><body class="blog-post-page">\n' +
     topBar(site, 2, 'blog') +
     '<main class="post">\n<div class="crumbs"><nav aria-label="Breadcrumb"><a href="../">' + ui('blog') + '</a>' + cats.map(c => ' / <a href="../#cat=' + c + '">' + catLabel(c, L) + '</a>').join('') + '</nav>' + (en ? langButtons() : '') + '</div>\n' +
     '<article>\n<h1>' + bi(post.title, 'span', L) + '</h1>\n' +
-    '<p class="post-meta"><span>' + ui('published') + ' <time datetime="' + esc(firstPub(post)) + '">' + esc(firstPub(post)) + '</time></span>' +
-    (post.updated && post.updated !== firstPub(post) ? ' · <span>' + ui('updated') + ' <time datetime="' + esc(post.updated) + '">' + esc(post.updated) + '</time></span>' : '') +
+    '<p class="post-meta">' + metaDate('published', firstPub(post), L) +
+    (post.updated && post.updated !== firstPub(post) ? ' · ' + metaDate('updated', post.updated, L) : '') +
     ' · <span>' + AUTHOR_NAME + '</span></p>\n';
   if (zhOr(post.tldr)) h += '<aside class="tldr"><p class="tldr-h">' + ui('tldr') + '</p>' + bi(post.tldr, 'p', L) + '</aside>\n';
   if (post.cover) h += '<figure class="post-cover"><img src="' + esc(assetUrl(post.cover, 2)) + '" alt="' + esc(title) + '" draggable="false"></figure>\n';
   h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (loc(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n';
-  if (post.abstract_en) h += '<section class="en-abstract" lang="en"><h2>English summary</h2><p>' + esc(post.abstract_en) + '</p></section>\n';
+  if (post.abstract_en) h += '<section class="en-abstract" lang="en"' + (en ? ' data-l="zh-Hant"' : '') + '><h2>English summary</h2><p>' + esc(post.abstract_en) + '</p></section>\n';
   if (faq.length) h += '<section class="faq"><h2>' + ui('faq') + '</h2>\n' + faq.map(f => '<details open><summary>' + bi(f.q, 'span', L) + '</summary>' + bi(f.a, 'p', L) + '</details>\n').join('') + '</section>\n';
   // post.source (original publication) stays internal data only; it is not shown on the page.
   h += '</article>\n' +
@@ -211,7 +266,7 @@ export function renderBlogPost(site, blog, post, opts) {
 /* ---------- feed, sitemap, robots, llms ---------- */
 const xml = s => esc(s).replace(/'/g, '&apos;');
 export function renderFeed(blog, now) {
-  const posts = blogPosts(blog);
+  const posts = blogPosts(blog).map(mergeLoc);
   const upd = posts.map(p => p.updated || p.date).sort().pop() || now;
   return '<?xml version="1.0" encoding="utf-8"?>\n<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-Hant">\n' +
     '  <title>Yu Chun Tsai — Blog</title>\n  <subtitle>' + xml(loc(UI.lead, 'en')) + '</subtitle>\n' +
@@ -236,7 +291,7 @@ export function renderRobots() {
     '\nUser-agent: *\nAllow: /\nDisallow: /admin/\n\nSitemap: ' + SITE_URL + '/sitemap.xml\n';
 }
 export function renderLlms(all, full) {
-  const posts = blogPosts(all.blog), pins = all.board ? listedPins(all.board) : [], studios = teachingStudios(all.teaching);
+  const posts = blogPosts(all.blog).map(mergeLoc), pins = all.board ? listedPins(all.board) : [], studios = teachingStudios(all.teaching);
   let t = '# Yu Chun Tsai — architecture & design portfolio mentor\n\n' +
     '> ' + SITE_DESCRIPTION + '\n\n' +
     'Yu Chun Tsai mentors architecture, landscape, urban, interior and art/design students on portfolios and study-abroad applications (master\'s and undergraduate), and is a Senior External Design Consultant at S&J Design, Hong Kong (2017–2026). Education: UC Berkeley, Master of Architecture (2016); National Taiwan University, BSc Civil Engineering.\n\n' +
@@ -264,7 +319,8 @@ export function validateBlog(blog) {
   if (blog == null) return errs;
   if (typeof blog !== 'object' || !Array.isArray(blog.posts)) return ['部落格資料格式錯誤（需要 posts 清單）'];
   const seen = new Set();
-  blog.posts.forEach((p, i) => {
+  blog.posts.forEach((raw, i) => {
+    const p = raw && typeof raw === 'object' ? mergeLoc(raw) : raw;
     const nm = '部落格文章「' + ((p && zhOr(p.title)) || i + 1) + '」';
     if (!p || typeof p !== 'object') { errs.push('部落格文章 ' + (i + 1) + ' 格式錯誤'); return; }
     if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(p.slug || '')) errs.push(nm + '的網址代稱只能用小寫英文、數字和連字號');

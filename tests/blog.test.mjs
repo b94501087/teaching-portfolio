@@ -117,6 +117,62 @@ test('blog link in every navigation; A–Z lists posts with a blog tag', () => {
   assert.ok(renderAZ(site, all.az, {}, null, null, FIXTURE).includes('<span class="az-k">blog</span>'));
 });
 
+test('language switch: default Chinese, shared EN/繁中 control, hreflang without new URLs', () => {
+  const index = renderBlogIndex(site, blog, {});
+  assert.match(index, /<html lang="zh-Hant" data-lang="zh-Hant">/);
+  assert.match(index, /data-set-lang="en"/);
+  assert.match(index, /data-set-lang="zh-Hant"/);
+  assert.match(index, /title="English">EN</);
+  assert.match(index, /title="繁體中文">繁中</);
+  assert.match(index, /localStorage.getItem\("lang"\)/);
+  assert.match(index, /localStorage.setItem\("lang",l\)/);
+  // Unset visitors stay on Chinese. Project pages fall back to English; the blog must not.
+  assert.match(index, /:"zh-Hant"\);/);
+  assert.doesNotMatch(index, /:"en"\);/);
+  assert.match(index, /hreflang="zh-Hant" href="https:\/\/yuchuntsai\.com\/blog\/"/);
+  assert.match(index, /hreflang="en" href="https:\/\/yuchuntsai\.com\/blog\/\?lang=en"/);
+  assert.match(index, /hreflang="x-default" href="https:\/\/yuchuntsai\.com\/blog\/"/);
+  assert.match(index, /<link rel="canonical" href="https:\/\/yuchuntsai\.com\/blog\/">/);
+  for (const p of blogPosts(blog)) {
+    const h = renderBlogPost(site, blog, p, {});
+    assert.match(h, /<html lang="zh-Hant" data-lang="zh-Hant">/, p.slug);
+    assert.ok(h.includes('data-set-lang="en"') && h.includes('data-l="en"') && h.includes('data-l="zh-Hant"'), p.slug + ' switch');
+    const article = h.indexOf('<article>');
+    assert.ok(article > 0 && h.indexOf('data-l="zh-Hant"', article) < h.indexOf('data-l="en"', article), p.slug + ' Chinese is the default copy');
+    assert.match(h, new RegExp('<link rel="canonical" href="https://yuchuntsai\\.com/blog/' + p.slug + '/">'), p.slug);
+    assert.match(h, new RegExp('hreflang="en" href="https://yuchuntsai\\.com/blog/' + p.slug + '/\\?lang=en"'), p.slug);
+    assert.match(h, new RegExp('hreflang="zh-Hant" href="https://yuchuntsai\\.com/blog/' + p.slug + '/">'), p.slug);
+    assert.doesNotMatch(h, /rel="canonical"[^>]*\?lang=/, p.slug);
+  }
+});
+
+test('flat English fields render, and a post or field without English falls back to Chinese', () => {
+  const bilingual = {
+    slug: 'flat-en', title: '只有中文標題', title_en: 'Flat English title',
+    date: '2026-04-01', categories: ['essay'],
+    summary: '中文摘要沒有英文', description_en: '',
+    excerpt_en: '',
+    tldr: { 'zh-Hant': '中文重點' },
+    body: '<p>中文內文</p><figure class="post-work"><figcaption><strong>卡片</strong>｜說明<br><a class="work-link" href="../../board/x/">看完整作品：卡片 →</a></figcaption></figure>',
+    body_en: '<p>Flat English body</p><figure class="post-work"><figcaption><strong>Card</strong>｜caption<br><a class="work-link" href="../../board/x/">See the full project: Card →</a></figcaption></figure>',
+    faq: [{ q: '中文問？', q_en: 'English question?', a: '中文答。', a_en: 'English answer.' }]
+  };
+  const zhOnly = { slug: 'no-en', title: '僅中文', date: '2026-01-01', categories: ['essay'], summary: '僅摘要', body: '<p>僅中文內文</p>' };
+  const data = { posts: [bilingual, zhOnly] };
+  assert.deepEqual(validateBlog(data), []);
+  const h = renderBlogPost(site, data, bilingual, {});
+  assert.ok(h.includes('Flat English title') && h.includes('只有中文標題'));
+  assert.ok(h.includes('Flat English body') && h.includes('中文內文') && h.includes('See the full project: Card'));
+  assert.ok(h.includes('中文摘要沒有英文') && !h.includes('data-l="en">中文摘要'), 'missing English excerpt stays Chinese, untagged');
+  assert.ok(h.includes('English question?') && h.includes('English answer.') && h.includes('中文問？'));
+  assert.match(h, /rel="canonical" href="https:\/\/yuchuntsai\.com\/blog\/flat-en\/"/);
+  assert.ok(h.indexOf('中文內文') < h.indexOf('Flat English body'));
+  const z = renderBlogPost(site, data, zhOnly, {});
+  assert.ok(!z.includes('data-set-lang') && !z.includes('hreflang') && z.includes('僅中文內文'));
+  const list = renderBlogIndex(site, data, {});
+  assert.ok(list.includes('Flat English title') && list.includes('僅中文') && list.includes('中文摘要沒有英文'));
+});
+
 test('post student works link to existing board pins and reuse local images', () => {
   const slugs = new Set(board.pins.map(p => p.slug));
   for (const p of blogPosts(blog)) {
@@ -150,7 +206,11 @@ test('post pages: 發表於 = original date, 更新於 = latest; no visible WeCh
   for (const p of blogPosts(blog)) {
     const html = Object.entries(out).find(([f]) => f.includes(p.slug + '/'))[1];
     const orig = (p.source && p.source.date) || p.date;
-    assert.ok(html.includes('發表於</span> <time datetime="' + orig + '"'), p.slug + ' published date');
-    if (p.updated && p.updated !== orig) assert.ok(html.includes('更新於</span> <time datetime="' + p.updated + '"'), p.slug + ' updated date');
+    assert.ok(html.includes('發表於 <time datetime="' + orig + '"'), p.slug + ' published date');
+    assert.ok(html.includes('Published <time datetime="' + orig + '"'), p.slug + ' English published date');
+    if (p.updated && p.updated !== orig) {
+      assert.ok(html.includes('更新於 <time datetime="' + p.updated + '"'), p.slug + ' updated date');
+      assert.ok(html.includes('Updated <time datetime="' + p.updated + '"'), p.slug + ' English updated date');
+    }
   }
 });
