@@ -90,6 +90,7 @@ await fs.writeFile(path.join(out, 'a-z', 'index.html'),
   '<link rel="canonical" href="https://yuchuntsai.com/A-Z/">\n' +
   '</head><body>\n<p><a href="../A-Z/">A–Z</a></p>\n' + imgGuardTag(1) + '</body></html>\n');
 // Search / answer-engine files: Atom feed, robots.txt, sitemap.xml (every public page, drafts excluded), llms.txt.
+// lastmod only where a real date exists (blog posts); stamping every page with the build date made it meaningless to crawlers.
 const today = new Date().toISOString().slice(0, 10);
 const SITE = 'https://yuchuntsai.com';
 const drafts = new Set((all.board.pins || []).filter(p => p.draft === true).map(p => 'board/' + p.slug + '/index.html')
@@ -98,7 +99,7 @@ const postMod = Object.fromEntries(blogPosts(all.blog).map(p => ['blog/' + p.slu
 const blogMod = blogPosts(all.blog).map(p => p.updated || p.date).sort().pop();
 const staticPages = ['cv/index.html', ...(await fs.readdir(path.join(root, 'A-Z'))).filter(f => f.endsWith('.html') && f !== 'index.html').map(f => 'A-Z/' + f)];
 const urls = [...Object.keys(pages), ...staticPages].filter(rel => !drafts.has(rel)).sort()
-  .map(rel => ({ loc: SITE + '/' + rel.replace(/(^|\/)index\.html$/, '$1'), lastmod: postMod[rel] || (rel === 'blog/index.html' && blogMod) || today }));
+  .map(rel => ({ loc: SITE + '/' + rel.replace(/(^|\/)index\.html$/, '$1'), lastmod: postMod[rel] || (rel === 'blog/index.html' && blogMod) || undefined }));
 await fs.writeFile(path.join(out, 'sitemap.xml'), renderSitemap(urls));
 await fs.writeFile(path.join(out, 'robots.txt'), renderRobots());
 await fs.writeFile(path.join(out, 'blog', 'feed.xml'), renderFeed(all.blog, today));
