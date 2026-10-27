@@ -700,6 +700,7 @@ const AZ_KIND = { board: 'board', workshop: 'workshop', blog: 'blog' };
 export function renderAZ(site, az, opts, board, teaching, blog) {
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
+    '<link rel="canonical" href="https://yuchuntsai.com/A-Z/">\n' +
     '<link rel="stylesheet" href="style.css"></head><body>\n' +
     sideNav(site, true, 'az') +
     '<main>\n';
