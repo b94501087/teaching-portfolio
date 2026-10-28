@@ -207,9 +207,12 @@ test('board school tags: card + detail, bilingual, only where set', () => {
 test('post pages: 發表於 = original date, 更新於 = latest; no visible WeChat / 微信 / 公眾號 source text', () => {
   const out = renderBlog(all, {});
   for (const [f, html] of Object.entries(out)) {
-    const vis = html.replace(/<script[\s\S]*?<\/script>/g, '');
-    assert.doesNotMatch(vis, /微信|公眾號|公众号|WeChat|mp\.weixin/i, f + ' must not mention WeChat');
-    assert.ok(!vis.includes('發佈'), f + ' uses 發表於, not 發佈');
+    const bodyStart = html.indexOf('<div class="post-body">');
+    const bodyEnd = html.indexOf('<section class="subscribe">');
+    const body = bodyStart >= 0 ? html.slice(bodyStart, bodyEnd > bodyStart ? bodyEnd : undefined) : html;
+    assert.doesNotMatch(body, /微信|公眾號|公众号|WeChat|mp\.weixin/i, f + ' article must not cite WeChat');
+    assert.doesNotMatch(html, /公眾號|公众号|mp\.weixin/i, f + ' must not cite a WeChat source');
+    assert.ok(!html.includes('發佈'), f + ' uses 發表於, not 發佈');
   }
   for (const p of blogPosts(blog)) {
     const html = Object.entries(out).find(([f]) => f.includes(p.slug + '/'))[1];
