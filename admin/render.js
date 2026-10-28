@@ -347,7 +347,7 @@ const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".boar
   'else a.sort(function(x,y){return x.i-y.i});var same=true;for(var i=0;i<a.length;i++)if(b.children[i]!==a[i].p){same=false;break}if(!same)a.forEach(function(k){b.appendChild(k.p)})}' +
   'function apply(){mark("data-filter",st.f);mark("data-cat-filter",st.cat);mark("data-scale-filter",st.scale);mark("data-sort",st.sort);var sub=document.querySelector(".subfilters");if(sub)sub.hidden=false;var zr=document.querySelector(".scalefilters");if(zr)zr.hidden=st.f!=="master";order();' +
   'pins.forEach(function(p){p.hidden=st.f!=="all"&&!p.classList.contains("lv-"+st.f)||st.cat!=="all"&&(" "+(p.getAttribute("data-cat")||"")+" ").indexOf(" "+st.cat+" ")<0||st.f==="master"&&st.scale!=="all"&&p.getAttribute("data-scale")!==st.scale});b.setAttribute("data-scale",st.scale);b.setAttribute("data-filter",st.f);b.setAttribute("data-cat",st.cat);b.setAttribute("data-sort",st.sort);' +
-  'var e=document.querySelector(".board-empty");if(e)e.hidden=!!b.querySelector(".pin:not([hidden])");if(b.classList.contains("masonry"))dispatchEvent(new Event("resize"))}' +
+  'var e=document.querySelector(".board-empty");if(e)e.hidden=!!b.querySelector(".pin:not([hidden])")}' +
   'function save(){try{history.replaceState(null,"",hash()||location.pathname+location.search)}catch(z){}}' +
   'document.addEventListener("click",function(e){var c=e.target.closest&&e.target.closest("[data-filter],[data-cat-filter],[data-scale-filter],[data-sort]");if(!c)return;' +
   'if(c.hasAttribute("data-filter")){st.f=c.getAttribute("data-filter");if(st.f!=="master")st.scale="all"}else if(c.hasAttribute("data-cat-filter"))st.cat=c.getAttribute("data-cat-filter");else if(c.hasAttribute("data-scale-filter"))st.scale=c.getAttribute("data-scale-filter");else st.sort=c.getAttribute("data-sort");apply();save()});' +
@@ -356,7 +356,7 @@ const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".boar
 
 // How many board cards load with the document. 32 is eight rows of the desktop 4-column grid,
 // enough that a tall window is already filled; the rest stay lazy. Width and height are always
-// set for those, so a lazy image occupies its cell before it downloads and the columns do not reflow.
+// set for those, so a lazy image occupies its cell before it downloads and the grid does not reflow.
 export const BOARD_EAGER = 32;
 export const BOARD_HIGH = 4;
 function boardCover(p, opts) {
@@ -396,7 +396,6 @@ export function renderBoard(site, board, opts) {
   const n = site.nav;
   const pins = listedPins(board);
   const covers = pins.map(p => boardCover(p, opts));
-  const anyBig = pins.some(p => p.big);
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.board) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/board/">\n' +
@@ -423,7 +422,6 @@ export function renderBoard(site, board, opts) {
   });
   h += '</div>\n<p class="board-empty" hidden>' + bl({ en: 'No projects in this category yet.', 'zh-Hant': '這個類別目前還沒有作品。' }, 'span') + '</p>\n';
   if (board.foot) h += '<p class="foot">' + inline(board.foot) + '</p>\n';
-  if (anyBig) h += BOARD_MASONRY;
   h += BOARD_FILTER_JS + LANG_SWITCH_JS + '</body></html>\n';
   return finishPage(h, 1);
 }
@@ -649,46 +647,6 @@ export function renderDetail(site, board, pin, opts) {
     '</main>\n' + ZOOM_JS + (multi ? LANG_SWITCH_JS : '') + '</body></html>\n';
   return finishPage(h, 2);
 }
-
-// Only emitted when at least one pin is marked 大圖 (big). CSS columns cannot span exactly two
-// columns, so with big pins the board switches to a small JS masonry that keeps the locked
-// column count from style.css (read via getComputedStyle). Without JS it falls back to columns.
-const BOARD_MASONRY = `<script>
-(function () {
-  var b = document.querySelector('.board');
-  function lay() {
-    b.classList.remove('masonry');
-    var cs = getComputedStyle(b);
-    var n = parseInt(cs.columnCount, 10) || 4;
-    var gap = parseFloat(cs.columnGap) || 16;
-    var padL = parseFloat(cs.paddingLeft) || 0, padT = parseFloat(cs.paddingTop) || 0;
-    var inner = b.clientWidth - padL - (parseFloat(cs.paddingRight) || 0);
-    var w = (inner - gap * (n - 1)) / n;
-    var hs = []; for (var i = 0; i < n; i++) hs.push(0);
-    b.classList.add('masonry');
-    Array.prototype.forEach.call(b.querySelectorAll('.pin'), function (p) {
-      if (p.hidden) return;
-      var span = p.classList.contains('big') && n > 1 ? 2 : 1;
-      var best = 0, bestY = Infinity;
-      for (var c = 0; c + span <= n; c++) {
-        var y = Math.max.apply(null, hs.slice(c, c + span));
-        if (y < bestY) { bestY = y; best = c; }
-      }
-      p.style.width = (w * span + gap * (span - 1)) + 'px';
-      p.style.left = (padL + best * (w + gap)) + 'px';
-      p.style.top = (padT + bestY) + 'px';
-      var ph = p.offsetHeight + gap;
-      for (var k = best; k < best + span; k++) hs[k] = bestY + ph;
-    });
-    b.style.height = (padT + Math.max.apply(null, hs) + (parseFloat(cs.paddingBottom) || 0) - gap) + 'px';
-  }
-  var t; function soon() { clearTimeout(t); t = setTimeout(lay, 50); }
-  Array.prototype.forEach.call(b.querySelectorAll('img'), function (im) { if (!im.complete) im.addEventListener('load', soon); });
-  addEventListener('resize', soon);
-  lay();
-})();
-</script>
-`;
 
 /* ---------- A–Z ---------- */
 export function groupAZ(entries) {
