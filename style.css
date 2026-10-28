@@ -13,7 +13,7 @@ button.zoom{appearance:none;border:0;padding:0;margin:0;background:none;font:inh
 .bar a:hover,.bar a.on{color:#111}
 .board{column-count:4;column-gap:16px;padding:16px}
 .pin{break-inside:avoid;display:block;background:#fff;border-radius:6px;margin:0 0 16px;overflow:hidden;color:inherit;text-decoration:none}
-.pin img{display:block;width:100%;height:auto;vertical-align:top}
+.pin img{display:block;width:100%;height:auto;vertical-align:top;background:#e8e8e8}
 .pin .cap{display:block;padding:10px 12px 12px;font-size:13px;font-weight:400;color:#555}
 .foot{text-align:center;color:#999;font-size:12px;padding:8px 16px 32px}
 @media(max-width:1100px){.board{column-count:3}}

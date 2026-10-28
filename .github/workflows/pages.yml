@@ -21,6 +21,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      # cwebp (Debian package webp) writes the small /board/ card thumbnails during the build.
+      - run: sudo apt-get update && sudo apt-get install -y webp
       # Render pages from content/*.json into _site/ (worker/, build/, .github/ are not published)
       - run: node build/build.mjs
       - uses: actions/configure-pages@v5
