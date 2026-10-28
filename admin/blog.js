@@ -35,6 +35,11 @@ import { esc, safeUrl, assetUrl, headExtra, cssV, langHead, hreflangLinks, LANG_
   topBar, SITE_URL, SITE_DESCRIPTION, personJsonLd, siteJsonLd, jsonLdScript, listedPins, teachingStudios, finishPage } from './render.js';
 import { toHans } from './hans.js';
 
+// The one front-end config value for the public engagement Worker (worker/engage).
+export const ENGAGE_API = 'https://yuchuntsai.com/engage';
+// Keep in step with VIEW_WINDOW_MS in worker/engage/worker.js (tests lock them together).
+export const ENGAGE_VIEW_WINDOW_MS = 12 * 60 * 60 * 1000;
+
 export const BLOG_CATEGORIES = [
   { id: 'school-selection', 'zh-Hant': '選校策略', en: 'School selection' },
   { id: 'portfolio-strategy', 'zh-Hant': '作品集呈現策略', en: 'Portfolio strategy' },
@@ -69,7 +74,34 @@ const UI = {
   cvLink: { 'zh-Hant': '完整履歷', en: 'Full CV' },
   boardLink: { 'zh-Hant': '學生作品', en: 'Student projects' },
   teachLink: { 'zh-Hant': '教學與工作營', en: 'Teaching & workshops' },
-  consultLink: { 'zh-Hant': '一對一諮詢', en: 'One-to-one consulting' }
+  consultLink: { 'zh-Hant': '一對一諮詢', en: 'One-to-one consulting' },
+  views: { 'zh-Hant': '閱讀', 'zh-Hans': '阅读', en: 'Reads' },
+  like: { 'zh-Hant': '喜歡', 'zh-Hans': '喜欢', en: 'Like' },
+  liked: { 'zh-Hant': '已喜歡', 'zh-Hans': '已喜欢', en: 'Liked' },
+  bookmark: { 'zh-Hant': '收藏', 'zh-Hans': '收藏', en: 'Save' },
+  bookmarked: { 'zh-Hant': '已收藏', 'zh-Hans': '已收藏', en: 'Saved' },
+  savedList: { 'zh-Hant': '收藏清單', 'zh-Hans': '收藏清单', en: 'Saved list' },
+  savedEmpty: { 'zh-Hant': '還沒有收藏的文章。', 'zh-Hans': '还没有收藏的文章。', en: 'No saved posts yet.' },
+  remove: { 'zh-Hant': '移除', 'zh-Hans': '移除', en: 'Remove' },
+  subscribe: { 'zh-Hant': '訂閱新文章', 'zh-Hans': '订阅新文章', en: 'Subscribe' },
+  subscribeHint: { 'zh-Hant': '新文章會寄到這個信箱。', 'zh-Hans': '新文章会寄到这个邮箱。', en: 'New posts will be emailed to this address.' },
+  subscribeBtn: { 'zh-Hant': '訂閱', 'zh-Hans': '订阅', en: 'Subscribe' },
+  emailLabel: { 'zh-Hant': '電子郵件', 'zh-Hans': '电子邮件', en: 'Email' },
+  subscribeOk: { 'zh-Hant': '已訂閱。', 'zh-Hans': '已订阅。', en: 'Subscribed.' },
+  subscribeErr: { 'zh-Hant': '暫時無法訂閱，請稍後再試。', 'zh-Hans': '暂时无法订阅，请稍后再试。', en: 'Could not subscribe. Please try again.' },
+  nativeShare: { 'zh-Hant': '分享', 'zh-Hans': '分享', en: 'Share' },
+  wechat: { 'zh-Hant': '微信', 'zh-Hans': '微信', en: 'WeChat' },
+  copy: { 'zh-Hant': '複製連結', 'zh-Hans': '复制链接', en: 'Copy link' },
+  copied: { 'zh-Hant': '已複製', 'zh-Hans': '已复制', en: 'Copied' },
+  dcardDone: { 'zh-Hant': '已複製連結，請到 Dcard 貼上。', 'zh-Hans': '已复制链接，请到 Dcard 贴上。', en: 'Link copied. Paste it on Dcard.' },
+  discordDone: { 'zh-Hant': '已複製連結，請貼到 Discord。', 'zh-Hans': '已复制链接，请贴到 Discord。', en: 'Link copied. Paste it into Discord.' },
+  qr: { 'zh-Hant': '產生 QR code', 'zh-Hans': '生成 QR code', en: 'Generate QR code' },
+  qrDownload: { 'zh-Hant': '下載 PNG', 'zh-Hans': '下载 PNG', en: 'Download PNG' },
+  close: { 'zh-Hant': '關閉', 'zh-Hans': '关闭', en: 'Close' },
+  wechatHint: { 'zh-Hant': '用微信掃描這張 QR code 即可分享。', 'zh-Hans': '用微信扫描这张 QR code 即可分享。', en: 'Scan this QR code with WeChat to share.' },
+  qrHint: { 'zh-Hant': '掃描或下載這張 QR code。', 'zh-Hans': '扫描或下载这张 QR code。', en: 'Scan or download this QR code.' },
+  qrFail: { 'zh-Hant': '無法產生 QR code。', 'zh-Hans': '无法生成 QR code。', en: 'Could not generate a QR code.' },
+  feed: { 'zh-Hant': 'RSS / Atom', 'zh-Hans': 'RSS / Atom', en: 'RSS / Atom' }
 };
 
 // A localized field: { "zh-Hant", "en", "zh-Hans"? } or a plain string (= Chinese only).
@@ -187,18 +219,83 @@ function socialMeta(o) {
     (o.image ? '<meta property="og:image" content="' + esc(o.image) + '">\n' : '') +
     '<meta name="twitter:card" content="' + (o.image ? 'summary_large_image' : 'summary') + '">\n<meta name="twitter:title" content="' + esc(o.title) + '">\n<meta name="twitter:description" content="' + esc(o.description) + '">\n' +
     (o.image ? '<meta name="twitter:image" content="' + esc(o.image) + '">\n' : '') +
-    '<link rel="alternate" type="application/atom+xml" title="Yu Chun Tsai — Blog" href="' + SITE_URL + '/blog/feed.xml">\n';
+    '<link rel="alternate" type="application/atom+xml" title="Yu Chun Tsai — Blog" href="' + SITE_URL + '/blog/feed.xml">\n' +
+    '<meta name="engage-api" content="' + esc(ENGAGE_API) + '">\n';
 }
 const absAsset = src => (!src ? '' : /^https?:/i.test(src) ? src : SITE_URL + '/' + String(src).replace(/^\/+/, ''));
 
 /* ---------- /blog/ ---------- */
 // Category filter in the URL hash (#cat=<id>), like the board's filters; "all" shows every post.
-const BLOG_FILTER_JS = '<script>(function(){var bs=[].slice.call(document.querySelectorAll("[data-blog-cat]")),ps=[].slice.call(document.querySelectorAll(".post-card")),none=document.querySelector(".blog-none");' +
+const BLOG_FILTER_JS = '<script>(function(){var bs=[].slice.call(document.querySelectorAll("[data-blog-cat]")),ps=[].slice.call(document.querySelectorAll(".blog > .post-list > .post-card")),none=document.querySelector(".blog-none"),main=document.querySelector(".blog > .post-list"),empty=document.querySelector(".blog-empty"),panel=document.querySelector(".saved-panel"),sb=document.querySelector("[data-blog-saved]");' +
   'function cur(){var m=/(?:^#|&)cat=([a-z-]+)/.exec(location.hash);var c=m?m[1]:"all";return bs.some(function(b){return b.getAttribute("data-blog-cat")===c})?c:"all"}' +
-  'function apply(){var c=cur(),n=0;bs.forEach(function(b){var on=b.getAttribute("data-blog-cat")===c;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")});' +
-  'ps.forEach(function(p){var show=c==="all"||(" "+p.getAttribute("data-cat")+" ").indexOf(" "+c+" ")>=0;p.hidden=!show;if(show)n++});if(none)none.hidden=!(ps.length&&!n)}' +
+  'function saved(){return location.hash==="#saved"}' +
+  'function apply(){var onSaved=saved();if(sb){sb.classList.toggle("on",onSaved);sb.setAttribute("aria-pressed",onSaved?"true":"false")}if(panel)panel.hidden=!onSaved;if(onSaved){bs.forEach(function(b){b.classList.remove("on");b.setAttribute("aria-pressed","false")});if(main)main.hidden=true;if(empty)empty.hidden=true;if(none)none.hidden=true;if(window.yctRenderSaved)window.yctRenderSaved();return}if(main)main.hidden=false;if(empty)empty.hidden=false;var c=cur(),n=0;bs.forEach(function(b){var on=b.getAttribute("data-blog-cat")===c;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")});ps.forEach(function(p){var show=c==="all"||(" "+p.getAttribute("data-cat")+" ").indexOf(" "+c+" ")>=0;p.hidden=!show;if(show)n++});if(none)none.hidden=!(ps.length&&!n)}' +
   'bs.forEach(function(b){b.addEventListener("click",function(){var c=b.getAttribute("data-blog-cat");history.replaceState(null,"",c==="all"?location.pathname+location.search:"#cat="+c);apply()})});' +
+  'if(sb)sb.addEventListener("click",function(){history.replaceState(null,"",saved()?location.pathname+location.search:"#saved");apply()});' +
   'window.addEventListener("hashchange",apply);apply()})();</script>\n';
+
+function engageScripts(depth, withQr) {
+  const p = '../'.repeat(depth);
+  return (withQr ? '<script src="' + p + 'assets/qrcode.js"></script>\n' : '') + '<script src="' + p + 'assets/engage.js"></script>\n';
+}
+function hiddenMsg(cls, key, L) {
+  return '<span class="' + cls + '" hidden>' + bi(UI[key], 'span', L) + '</span>';
+}
+function shareUrls(url, title) {
+  const u = encodeURIComponent(url), t = encodeURIComponent(title), both = encodeURIComponent(title ? title + '\n' + url : url);
+  return {
+    line: 'https://social-plugins.line.me/lineit/share?url=' + u,
+    facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + u,
+    email: 'mailto:?subject=' + t + '&body=' + u,
+    gmail: 'https://mail.google.com/mail/?view=cm&fs=1&su=' + t + '&body=' + u,
+    whatsapp: 'https://wa.me/?text=' + both
+  };
+}
+function shareLink(kind, label, href, blank) {
+  return '<a data-share="' + kind + '" href="' + esc(href) + '"' + (blank ? ' target="_blank" rel="noopener noreferrer"' : '') + '>' + label + '</a>';
+}
+function toggleBtn(act, countKey, offKey, onKey, L) {
+  return '<button type="button" class="stat ' + act + '" data-act="' + act + '" aria-pressed="false"><span class="stat-n" data-n="' + countKey + '" hidden></span>' +
+    '<span class="when-off">' + bi(UI[offKey], 'span', L) + '</span><span class="when-on">' + bi(UI[onKey], 'span', L) + '</span></button>';
+}
+function subscribeBlock(feedHref, L) {
+  return '<section class="subscribe"><h2>' + bi(UI.subscribe, 'span', L) + '</h2>\n<p class="sub-lead">' + bi(UI.subscribeHint, 'span', L) + '</p>\n' +
+    '<form class="subscribe-form"><label>' + bi(UI.emailLabel, 'span', L) +
+    '<input type="email" name="email" required maxlength="254" autocomplete="email" inputmode="email" placeholder="you@example.com"></label>' +
+    '<button type="submit">' + bi(UI.subscribeBtn, 'span', L) + '</button></form>\n' +
+    '<p class="sub-msg" role="status" hidden></p>\n' + hiddenMsg('sub-ok', 'subscribeOk', L) + hiddenMsg('sub-err', 'subscribeErr', L) +
+    '<p class="feed-link"><a href="' + esc(feedHref) + '" rel="alternate" type="application/atom+xml">' + bi(UI.feed, 'span', L) + '</a></p></section>\n';
+}
+function savedPanel(L) {
+  return '<div class="saved-panel" hidden><p class="saved-empty" hidden>' + bi(UI.savedEmpty, 'span', L) + '</p>\n<ul class="post-list saved-list"></ul>\n' +
+    '<span class="saved-remove-label" hidden>' + bi(UI.remove, 'span', L) + '</span></div>\n';
+}
+function engageBlock(post, L) {
+  const url = postUrl(post.slug), title = zhOr(post.title), links = shareUrls(url, title);
+  const titles = {};
+  for (const l of ['zh-Hant', 'zh-Hans', 'en']) {
+    const t = textOf(post.title, l) || zhOr(post.title);
+    if (t) titles[l] = t;
+  }
+  const payload = JSON.stringify({ slug: post.slug, url, date: post.date || '', title: titles }).replace(/</g, '\\u003c');
+  return '<div class="engage" data-slug="' + esc(post.slug) + '" data-url="' + esc(url) + '" data-view-window="' + ENGAGE_VIEW_WINDOW_MS + '">\n' +
+    '<div class="engage-stats"><span class="stat views" data-stat="views" hidden><span class="stat-n" data-n="views" hidden></span>' + bi(UI.views, 'span', L) + '</span>' +
+    toggleBtn('like', 'likes', 'like', 'liked', L) + toggleBtn('bookmark', 'bookmarks', 'bookmark', 'bookmarked', L) +
+    '<a class="saved-jump" href="../#saved">' + bi(UI.savedList, 'span', L) + '</a></div>\n' +
+    '<div class="share" role="group"><button type="button" class="share-native" data-share="native" hidden>' + bi(UI.nativeShare, 'span', L) + '</button>' +
+    shareLink('line', 'LINE', links.line, true) + '<button type="button" data-share="wechat">' + bi(UI.wechat, 'span', L) + '</button>' +
+    shareLink('facebook', 'Facebook', links.facebook, true) + shareLink('email', 'Email', links.email, false) + shareLink('gmail', 'Gmail', links.gmail, true) +
+    '<button type="button" data-share="dcard">Dcard</button><button type="button" data-share="discord">Discord</button>' +
+    shareLink('whatsapp', 'WhatsApp', links.whatsapp, true) + '<button type="button" data-share="copy">' + bi(UI.copy, 'span', L) + '</button>' +
+    '<button type="button" data-share="qr">' + bi(UI.qr, 'span', L) + '</button></div>\n' +
+    '<p class="share-status" role="status" hidden></p>\n' +
+    hiddenMsg('msg-copied', 'copied', L) + hiddenMsg('msg-dcard', 'dcardDone', L) + hiddenMsg('msg-discord', 'discordDone', L) + hiddenMsg('msg-qrfail', 'qrFail', L) +
+    '<div class="qr-pop" hidden role="dialog" aria-modal="true"><div class="qr-card"><div class="qr-canvas"></div>' +
+    '<p class="qr-hint-wechat">' + bi(UI.wechatHint, 'span', L) + '</p><p class="qr-hint-link" hidden>' + bi(UI.qrHint, 'span', L) + '</p>' +
+    '<div class="qr-actions"><button type="button" data-qr-download">' + bi(UI.qrDownload, 'span', L) + '</button>' +
+    '<button type="button" data-qr-close>' + bi(UI.close, 'span', L) + '</button></div></div></div>\n' +
+    '<script type="application/json" id="engage-post">' + payload + '</script></div>\n';
+}
 
 export function renderBlogIndex(site, blog, opts) {
   const posts = blogPosts(blog).map(mergeLoc), L = contentOrder(LANGS), buttons = LANGS;
@@ -218,13 +315,14 @@ export function renderBlogIndex(site, blog, opts) {
     '<div class="board-tools blog-tools"><div class="filters" role="group" aria-label="Category">' +
     [{ id: 'all' }].concat(BLOG_CATEGORIES).map(c => '<button type="button" data-blog-cat="' + c.id + '"' + (c.id === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' +
       bi(c.id === 'all' ? UI.all : c, 'span', L) + (c.id === 'all' ? '' : ' <small>' + posts.filter(p => postCats(p).includes(c.id)).length + '</small>') + '</button>').join('') +
-    '</div></div>\n';
+    '</div><button type="button" class="saved-btn" data-blog-saved aria-pressed="false">' + bi(UI.savedList, 'span', L) + '</button></div>\n' +
+    savedPanel(L);
   if (!posts.length) h += '<p class="blog-empty">' + bi(UI.empty, 'span', L) + '</p>\n';
   else {
     h += '<ul class="post-list">\n' + posts.map(p => postCard(p, 1, L)).join('') + '</ul>\n';
     h += '<p class="blog-none" hidden>' + bi(UI.none, 'span', L) + '</p>\n';
   }
-  return finishPage(h + '</main>\n' + BLOG_FILTER_JS + LANG_SWITCH_JS + '</body></html>\n', 1);
+  return finishPage(h + subscribeBlock('feed.xml', L) + '</main>\n' + BLOG_FILTER_JS + LANG_SWITCH_JS + engageScripts(1, false) + '</body></html>\n', 1);
 }
 function postCard(p, depth, L) {
   p = mergeLoc(p);
@@ -287,7 +385,7 @@ export function renderBlogPost(site, blog, post, opts) {
     '<article>\n<h1>' + bi(post.title, 'span', L) + '</h1>\n' +
     '<p class="post-meta">' + metaDate('published', firstPub(post), L) +
     (post.updated && post.updated !== firstPub(post) ? ' · ' + metaDate('updated', post.updated, L) : '') +
-    ' · <span>' + AUTHOR_NAME + '</span></p>\n';
+    ' · <span>' + AUTHOR_NAME + '</span></p>\n' + engageBlock(post, L);
   if (zhOr(post.tldr)) h += '<aside class="tldr"><p class="tldr-h">' + ui('tldr') + '</p>' + bi(post.tldr, 'p', L) + '</aside>\n';
   if (post.cover) h += '<figure class="post-cover"><img src="' + esc(assetUrl(post.cover, 2)) + '" alt="' + esc(title) + '" draggable="false"></figure>\n';
   h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (textOf(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n';
@@ -298,13 +396,13 @@ export function renderBlogPost(site, blog, post, opts) {
   }
   if (faq.length) h += '<section class="faq"><h2>' + ui('faq') + '</h2>\n' + faq.map(f => '<details open><summary>' + bi(f.q, 'span', L) + '</summary>' + bi(f.a, 'p', L) + '</details>\n').join('') + '</section>\n';
   // post.source (original publication) stays internal data only; it is not shown on the page.
-  h += '</article>\n' +
+  h += subscribeBlock('../feed.xml', L) + '</article>\n' +
     '<section class="author-box"><p class="ab-h">' + ui('author') + '</p><p class="ab-name"><a href="../../cv/">' + AUTHOR_NAME + '</a></p>' +
     '<p class="ab-role">' + ui('role') + '</p><p class="ab-facts">' + bi(AUTHOR_FACTS, 'span', L) + '</p>' +
     '<p class="ab-links"><a href="../../cv/">' + ui('cvLink') + '</a> · <a href="../../board/">' + ui('boardLink') + '</a> · <a href="../../teaching/">' + ui('teachLink') + '</a> · <a href="../../consulting/">' + ui('consultLink') + '</a></p></section>\n';
   const rel = relatedPosts(blog, post);
   if (rel.length) h += '<section class="related"><h2>' + ui('related') + '</h2><ul class="post-list">\n' + rel.map(p => postCard(p, 2, L)).join('') + '</ul></section>\n';
-  return finishPage(h + '</main>\n' + (buttons.length > 1 ? LANG_SWITCH_JS : '') + '</body></html>\n', 2);
+  return finishPage(h + '</main>\n' + (buttons.length > 1 ? LANG_SWITCH_JS : '') + engageScripts(2, true) + '</body></html>\n', 2);
 }
 
 /* ---------- feed, sitemap, robots, llms ---------- */

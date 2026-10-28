@@ -1,0 +1,29 @@
+# Public engagement API for the blog (view counts, likes, bookmark counts, email subscribers).
+# This is NOT the CMS worker in ../worker.js. Do not put this route behind Cloudflare Access.
+#
+# Deploy steps: see README.md in this folder.
+name = "yuchuntsai-engage"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+workers_dev = false
+
+# Requires the yuchuntsai.com DNS records to be proxied (orange cloud).
+routes = [
+  { pattern = "yuchuntsai.com/engage/*", zone_name = "yuchuntsai.com" }
+]
+
+# Paste the database_id from `npx wrangler d1 create yuchuntsai-engage`.
+[[d1_databases]]
+binding = "DB"
+database_name = "yuchuntsai-engage"
+database_id = "00000000-0000-0000-0000-000000000000"
+
+[vars]
+ALLOWED_ORIGIN = "https://yuchuntsai.com"
+# Optional overrides (defaults live in worker.js):
+# VIEW_WINDOW_MS = "43200000"
+# VIEW_LIMIT = "60"
+# LIKE_LIMIT = "40"
+# BOOKMARK_LIMIT = "40"
+# SUBSCRIBE_LIMIT = "8"
+# RATE_WINDOW_SEC = "3600"

@@ -190,4 +190,40 @@ body.blog-page,body.blog-post-page{background:#fff}
 .ab-links{font-size:13px;margin-top:8px!important}
 .related{margin:40px 0 0}
 .related .pc-title{font-size:16px}
-@media(max-width:700px){.blog{padding:20px 16px 56px}.post{padding:18px 16px 64px}.post h1{font-size:25px}.post-card a{flex-direction:column;gap:10px}.post-card img{width:100%;height:auto;aspect-ratio:3/2}.post-body{font-size:16px}}
+.engage{margin:0 0 22px}
+.engage-stats{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;margin:0 0 10px;font-size:13px;color:#666}
+.engage-stats button,.engage-stats a,.share a,.share button,.qr-actions button,.saved-remove,.subscribe button{appearance:none;border:0;background:none;padding:0;font:inherit;cursor:pointer}
+.engage-stats button,.engage-stats a{font-size:13px;color:#555;text-decoration:none}
+.engage-stats button.on{color:#111;font-weight:700}
+.engage-stats a:hover,.engage-stats button:hover{color:#111}
+.engage .when-on{display:none}
+.engage .on .when-on{display:inline}
+.engage .on .when-off{display:none}
+.stat-n{font-variant-numeric:tabular-nums;color:#111;margin-right:4px}
+.share{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 12px;padding:8px 0 0;border-top:1px solid #eee}
+.share a,.share button{font-size:13px;color:#555;text-decoration:none}
+.share a:hover,.share button:hover{color:#111;text-decoration:underline;text-underline-offset:3px}
+.share-status,.sub-msg{font-size:13px;color:#444;margin:8px 0 0}
+.qr-pop{position:fixed;inset:0;z-index:30;display:flex;align-items:center;justify-content:center;padding:20px;background:rgba(0,0,0,.4)}
+.qr-card{background:#fff;border-radius:8px;padding:18px 18px 14px;width:min(320px,100%);text-align:center}
+.qr-canvas canvas{width:220px;max-width:100%;height:auto;image-rendering:pixelated}
+.qr-card p{margin:10px 0;font-size:13px;line-height:1.6;color:#555}
+.qr-actions{display:flex;justify-content:center;gap:18px}
+.qr-actions button{font-size:13px;color:#111;text-decoration:underline;text-underline-offset:3px}
+.blog-tools .saved-btn{margin-left:auto}
+.saved-card{display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:1px solid #eee}
+.saved-card a{flex:1;min-width:0;border-bottom:0}
+.saved-remove{flex:none;font-size:12px;color:#888;padding:0 0 0 8px}
+.saved-remove:hover{color:#111}
+.subscribe{margin:28px 0 0;padding:16px 18px;background:#f6f6f4;border-radius:6px}
+.subscribe h2{font-size:16px;font-weight:700;margin:0 0 6px}
+.subscribe .sub-lead,.feed-link{margin:0 0 10px;font-size:14px;line-height:1.6;color:#444}
+.feed-link{margin:10px 0 0;font-size:13px}
+.feed-link a{color:#111;text-decoration:underline;text-underline-offset:3px}
+.subscribe form{display:flex;flex-wrap:wrap;gap:8px;align-items:flex-end}
+.subscribe label{display:flex;flex-direction:column;gap:4px;flex:1;min-width:180px;font-size:13px;color:#666}
+.subscribe input{width:100%;border:1px solid #ddd;border-radius:4px;padding:8px 10px;font:inherit;font-size:14px;color:#111;background:#fff}
+.subscribe button{border:1px solid #111;border-radius:4px;padding:8px 14px;font-size:14px;color:#111;background:#fff}
+.subscribe button:hover{background:#111;color:#fff}
+.qr-pop[hidden],.qr-hint-link[hidden],.qr-hint-wechat[hidden],.share-native[hidden],.share-status[hidden],.sub-msg[hidden],.saved-panel[hidden],.saved-empty[hidden],.stat.views[hidden],.stat-n[hidden],.sub-ok[hidden],.sub-err[hidden],.saved-remove-label[hidden]{display:none !important}
+@media(max-width:700px){.blog{padding:20px 16px 56px}.post{padding:18px 16px 64px}.post h1{font-size:25px}.post-card a{flex-direction:column;gap:10px}.post-card img{width:100%;height:auto;aspect-ratio:3/2}.post-body{font-size:16px}.subscribe form{flex-direction:column;align-items:stretch}.subscribe button{width:100%}.saved-card{align-items:flex-start}.share{gap:8px 10px}}
