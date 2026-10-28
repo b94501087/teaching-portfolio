@@ -3,6 +3,8 @@
 //  2. render the landing page (site root /index.html), the board (/board/), one detail page per
 //     visible pin (/board/<slug>/), A–Z, teaching (plus one detail page per
 //     teaching studio, /teaching/<slug>/) and consulting pages from content/*.json
+//     Board cards are in that HTML. Each card image is a small WebP thumbnail written here
+//     (cwebp) so the grid is not waiting on the full cover files.
 //  3. fill {{name}} / {{email}} in the static doc pages (cv/, A-Z/*.html)
 //  4. write the lowercase /a-z/ redirect (generated here, not committed, because
 //     a-z/ and A-Z/ would collide on case-insensitive file systems such as macOS)
@@ -10,13 +12,20 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 import { fileURLToPath } from 'node:url';
-import { mergeBoard, renderAll, fillPlaceholders, validate, imgGuardTag } from '../admin/render.js';
+import { mergeBoard, renderAll, fillPlaceholders, validate, imgGuardTag, listedPins, pinImages } from '../admin/render.js';
 import { injectHans } from '../admin/hans.js';
 import { renderBlog, validateBlog, renderFeed, renderSitemap, renderRobots, renderLlms, blogPosts } from '../admin/blog.js';
 
+const execFileP = promisify(execFile);
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const out = path.join(root, '_site');
+// Card thumbnails: wide enough for a retina column (~240–460 CSS px), never upscaled.
+const THUMB_MAX_W = 480;
+const THUMB_MAX_H = 1600;
+const THUMB_Q = 66;
 const EXCLUDE = new Set(['.git', '.github', '_site', 'build', 'worker', 'node_modules', 'tests', 'README.md', '.gitignore', 'package.json', 'package-lock.json']);
 
 async function copyDir(src, dst) {
@@ -67,7 +76,10 @@ for (const p of all.board.pins || []) for (const src of p.images || []) {
   if (typeof src !== 'string' || dims[src] || /^(https?:|data:|\/)/i.test(src)) continue;
   try { const d = imgSize(await fs.readFile(path.join(root, src))); if (d && d[0] > 0 && d[1] > 0) dims[src] = d; } catch {}
 }
-const pages = Object.assign(renderAll(all, { v, dims }), renderBlog(all, { v }));
+const thumbs = await buildBoardThumbs(all.board);
+const categories = await readFile('categories.json');
+const scales = await readFile('scale.json');
+const pages = Object.assign(renderAll(all, { v, dims, thumbs, categories, scales }), renderBlog(all, { v }));
 for (const [rel, html] of Object.entries(pages)) {
   await fs.mkdir(path.dirname(path.join(out, rel)), { recursive: true });
   await fs.writeFile(path.join(out, rel), html);
@@ -125,3 +137,58 @@ await injectImgGuard(out);
 console.log('sitemap urls:', urls.length, '· blog posts:', blogPosts(all.blog).length);
 console.log('detail pages:', Object.keys(pages).filter(k => /^board\/[^/]+\/index\.html$/.test(k)).length);
 console.log('build ok →', path.relative(process.cwd(), out) || '.');
+
+async function mapPool(items, n, fn) {
+  const ret = new Array(items.length);
+  let next = 0;
+  async function worker() {
+    for (;;) {
+      const k = next++;
+      if (k >= items.length) return;
+      ret[k] = await fn(items[k], k);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(n, items.length) }, () => worker()));
+  return ret;
+}
+
+// One small WebP per listed board card, under _site/assets/board-thumbs/<slug>.webp.
+// The detail page keeps the original cover URL. Requires the cwebp binary (apt package webp).
+async function buildBoardThumbs(board) {
+  try { await execFileP('cwebp', ['-version']); }
+  catch {
+    console.error('cwebp is required to build /board/ thumbnails. Install it with: sudo apt-get install webp');
+    process.exit(1);
+  }
+  const pins = listedPins(board);
+  const dir = path.join(out, 'assets', 'board-thumbs');
+  await fs.mkdir(dir, { recursive: true });
+  const made = await mapPool(pins, 6, async p => {
+    const srcRel = pinImages(p)[0];
+    if (!srcRel || /^(https?:|data:|\/)/i.test(srcRel)) throw new Error('pin ' + p.slug + ' has no local cover');
+    const src = path.join(root, srcRel);
+    const raw = await fs.readFile(src);
+    const dim = imgSize(raw);
+    if (!dim) throw new Error('could not read image size: ' + srcRel);
+    const scale = Math.min(THUMB_MAX_W / dim[0], THUMB_MAX_H / dim[1], 1);
+    const destRel = 'assets/board-thumbs/' + p.slug + '.webp';
+    const dest = path.join(out, destRel);
+    const args = ['-quiet', '-q', String(THUMB_Q), '-m', '4'];
+    if (scale < 1) args.push('-resize', String(Math.max(1, Math.round(dim[0] * scale))), String(Math.max(1, Math.round(dim[1] * scale))));
+    args.push(src, '-o', dest);
+    await execFileP('cwebp', args, { maxBuffer: 1024 * 1024 });
+    const buf = await fs.readFile(dest);
+    const outDim = imgSize(buf);
+    if (!outDim || outDim[0] < 1 || outDim[1] < 1) throw new Error('thumbnail has no size: ' + destRel);
+    return { slug: p.slug, src: destRel, w: outDim[0], h: outDim[1], coverBytes: raw.length, thumbBytes: buf.length };
+  });
+  const thumbs = {};
+  let coverBytes = 0, thumbBytes = 0;
+  for (const t of made) {
+    thumbs[t.slug] = { src: t.src, w: t.w, h: t.h };
+    coverBytes += t.coverBytes;
+    thumbBytes += t.thumbBytes;
+  }
+  console.log('board thumbs:', made.length, '· covers', (coverBytes / 1048576).toFixed(1) + 'MB', '→ thumbs', (thumbBytes / 1048576).toFixed(1) + 'MB');
+  return thumbs;
+}

@@ -344,7 +344,7 @@ const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".boar
   'function order(){var a=pins.map(key),s=st.sort,has=function(v){return v!==null};' +
   'if(s==="az"||s==="za"){var d=s==="az"?1:-1;a.sort(function(x,y){return d*x.title.localeCompare(y.title,"en",{sensitivity:"base",numeric:true})||x.i-y.i})}' +
   'else if(s==="newest"||s==="oldest"){var e=s==="oldest"?1:-1;a.sort(function(x,y){return has(x.date)&&has(y.date)?e*(x.date-y.date)||x.i-y.i:has(x.date)?-1:has(y.date)?1:e*(x.i-y.i)})}' +
-  'else a.sort(function(x,y){return x.i-y.i});a.forEach(function(k){b.appendChild(k.p)})}' +
+  'else a.sort(function(x,y){return x.i-y.i});var same=true;for(var i=0;i<a.length;i++)if(b.children[i]!==a[i].p){same=false;break}if(!same)a.forEach(function(k){b.appendChild(k.p)})}' +
   'function apply(){mark("data-filter",st.f);mark("data-cat-filter",st.cat);mark("data-scale-filter",st.scale);mark("data-sort",st.sort);var sub=document.querySelector(".subfilters");if(sub)sub.hidden=false;var zr=document.querySelector(".scalefilters");if(zr)zr.hidden=st.f!=="master";order();' +
   'pins.forEach(function(p){p.hidden=st.f!=="all"&&!p.classList.contains("lv-"+st.f)||st.cat!=="all"&&(" "+(p.getAttribute("data-cat")||"")+" ").indexOf(" "+st.cat+" ")<0||st.f==="master"&&st.scale!=="all"&&p.getAttribute("data-scale")!==st.scale});b.setAttribute("data-scale",st.scale);b.setAttribute("data-filter",st.f);b.setAttribute("data-cat",st.cat);b.setAttribute("data-sort",st.sort);' +
   'var e=document.querySelector(".board-empty");if(e)e.hidden=!!b.querySelector(".pin:not([hidden])");if(b.classList.contains("masonry"))dispatchEvent(new Event("resize"))}' +
@@ -354,15 +354,55 @@ const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".boar
   'st=parse();apply();' +
   'if(window.fetch)fetch("../content/categories.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var c=m[p.getAttribute("data-slug")];c=(Array.isArray(c)?c:[c]).filter(function(x){return C.indexOf(x)>=0});if(c.length)p.setAttribute("data-cat",c.join(" "))});apply()}).catch(function(){});if(window.fetch)fetch("../content/scale.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var z=m[p.getAttribute("data-slug")];if(Z.indexOf(z)>=0)p.setAttribute("data-scale",z)});apply()}).catch(function(){})})();</script>\n';
 
+// How many board cards load with the document. 32 is eight rows of the desktop 4-column grid,
+// enough that a tall window is already filled; the rest stay lazy. Width and height are always
+// set for those, so a lazy image occupies its cell before it downloads and the columns do not reflow.
+export const BOARD_EAGER = 32;
+export const BOARD_HIGH = 4;
+function boardCover(p, opts) {
+  const t = opts && opts.thumbs && opts.thumbs[p.slug];
+  if (t && t.src && t.w > 0 && t.h > 0) return { src: assetUrl(t.src, 1), w: t.w | 0, h: t.h | 0 };
+  const src = pinImages(p)[0];
+  const d = opts && opts.dims && opts.dims[src];
+  return { src: assetUrl(src, 1), w: d && d[0] > 0 ? d[0] | 0 : 0, h: d && d[1] > 0 ? d[1] | 0 : 0 };
+}
+function boardImg(cover, i) {
+  const sized = cover.w > 0 && cover.h > 0;
+  const eager = !sized || i < BOARD_EAGER;
+  const pri = sized ? (i < BOARD_HIGH ? 'high' : (eager ? '' : 'low')) : '';
+  let a = '<img src="' + esc(cover.src) + '" alt=""';
+  if (sized) a += ' width="' + cover.w + '" height="' + cover.h + '"';
+  a += ' draggable="false" decoding="async"';
+  if (pri) a += ' fetchpriority="' + pri + '"';
+  if (sized) a += ' loading="' + (eager ? 'eager' : 'lazy') + '"';
+  return a + '>';
+}
+function boardPreload(covers) {
+  return covers.slice(0, BOARD_HIGH).filter(c => c.w > 0 && c.h > 0).map(c =>
+    '<link rel="preload" as="image" href="' + esc(c.src) + '" fetchpriority="high">\n').join('');
+}
+function boardCatAttr(slug, opts) {
+  if (!opts || !opts.categories) return '';
+  const c = catList(opts.categories[slug]);
+  return c.length ? ' data-cat="' + esc(c.join(' ')) + '"' : '';
+}
+function boardScaleAttr(slug, opts) {
+  if (!opts || !opts.scales) return '';
+  const z = opts.scales[slug];
+  return SCALES.includes(z) ? ' data-scale="' + z + '"' : '';
+}
+
 export function renderBoard(site, board, opts) {
   const n = site.nav;
   const pins = listedPins(board);
+  const covers = pins.map(p => boardCover(p, opts));
   const anyBig = pins.some(p => p.big);
   let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.board) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/board/">\n' +
     hreflangLinks('https://yuchuntsai.com/board/', LANGS) +
     langHead(LANGS) +
+    boardPreload(covers) +
     '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="board-page">\n' +
     topBar(site, 1) +
     '<div class="board-tools"><div class="filters" role="group" aria-label="Filter">' +
@@ -379,7 +419,7 @@ export function renderBoard(site, board, opts) {
     '<div class="board">\n';
   pins.forEach((p, i) => {
     const lv = pinLevel(p), d = pinDate(p);
-    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '" href="' + esc(p.slug) + '/"><img src="' + esc(assetUrl(pinImages(p)[0], 1)) + '" alt="" draggable="false"><span class="cap">' + esc(p.title) + '</span>' + schoolTags(p, 'span', CARD_SCHOOLS) + '</a>\n';
+    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '"' + boardCatAttr(p.slug, opts) + boardScaleAttr(p.slug, opts) + ' href="' + esc(p.slug) + '/">' + boardImg(covers[i], i) + '<span class="cap">' + esc(p.title) + '</span>' + schoolTags(p, 'span', CARD_SCHOOLS) + '</a>\n';
   });
   h += '</div>\n<p class="board-empty" hidden>' + bl({ en: 'No projects in this category yet.', 'zh-Hant': '這個類別目前還沒有作品。' }, 'span') + '</p>\n';
   if (board.foot) h += '<p class="foot">' + inline(board.foot) + '</p>\n';
