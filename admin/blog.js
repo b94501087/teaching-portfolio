@@ -66,8 +66,8 @@ const UI = {
   none: { 'zh-Hant': '這個分類暫時沒有文章。', en: 'No posts in this category yet.' },
   tldr: { 'zh-Hant': '重點摘要', en: 'TL;DR' },
   faq: { 'zh-Hant': '常見問題', en: 'FAQ' },
-  updated: { 'zh-Hant': '更新於', en: 'Updated' },
-  published: { 'zh-Hant': '發表於', en: 'Published' },
+  updated: { 'zh-Hant': '更新於', 'zh-Hans': '更新于', en: 'Updated' },
+  published: { 'zh-Hant': '發表於', 'zh-Hans': '发表于', en: 'Published' },
   related: { 'zh-Hant': '相關文章', en: 'Related posts' },
   author: { 'zh-Hant': '作者', en: 'Author' },
   role: { 'zh-Hant': '建築與設計作品集導師（Mentor）・香港 S&J Design 資深外聘設計顧問', en: 'Architecture & design portfolio mentor · Senior External Design Consultant, S&J Design, Hong Kong' },
@@ -198,9 +198,10 @@ function bi(v, tag, langs, raw) {
 }
 const langButtons = langs => '<div class="langs" role="group" aria-label="Language">' + langs.map(l => '<button type="button" data-set-lang="' + l + '" lang="' + l + '" title="' + esc(LANG_NAME[l]) + '">' + esc(LANG_LABEL[l]) + '</button>').join('') + '</div>';
 // Label and date stay in the same span so each language reads as one phrase ("發表於 2026-04-07" / "Published 2026-04-07").
+// zh-Hans uses the stored label, else OpenCC, so 發表於／更新於 do not stay Traditional in 简中.
 function metaDate(key, iso, langs) {
   return langs.map(l => {
-    const label = loc(UI[key], l) || loc(UI[key], 'zh-Hant');
+    const label = textOf(UI[key], l) || loc(UI[key], 'zh-Hant');
     const inner = esc(label) + ' <time datetime="' + esc(iso) + '">' + esc(iso) + '</time>';
     return langs.length > 1 ? '<span data-l="' + l + '" lang="' + l + '">' + inner + '</span>' : '<span>' + inner + '</span>';
   }).join('');
