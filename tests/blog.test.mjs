@@ -3,7 +3,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync, existsSync } from 'node:fs';
-import { renderAll, mergeBoard, azEntries, renderAZ } from '../admin/render.js';
+import vm from 'node:vm';
+import { renderAll, mergeBoard, azEntries, renderAZ, LANG_SWITCH_JS } from '../admin/render.js';
 import { BLOG_CATEGORIES, renderBlog, renderBlogIndex, renderBlogPost, blogPosts, validateBlog, renderFeed, renderSitemap, renderRobots, renderLlms, AI_BOTS, relatedPosts } from '../admin/blog.js';
 
 const read = f => JSON.parse(readFileSync(new URL('../content/' + f, import.meta.url)));
@@ -222,6 +223,94 @@ test('post pages: 發表於 = original date, 更新於 = latest; no visible WeCh
     if (p.updated && p.updated !== orig) {
       assert.ok(html.includes('更新於 <time datetime="' + p.updated + '"'), p.slug + ' updated date');
       assert.ok(html.includes('Updated <time datetime="' + p.updated + '"'), p.slug + ' English updated date');
+      assert.ok(html.includes('data-l="zh-Hans" lang="zh-Hans">更新于 <time datetime="' + p.updated + '"'), p.slug + ' simplified updated date');
     }
+    assert.ok(html.includes('data-l="zh-Hans" lang="zh-Hans">发表于 <time datetime="' + orig + '"'), p.slug + ' simplified published date');
   }
+});
+
+test('HCI posts cross-link UCI MHCID and CMU ETC; ETC states the Jan 1 online deadline', () => {
+  const gt = blog.posts.find(p => p.slug === 'georgia-tech-ms-hci-human-computer-interaction-masters-2027');
+  const uci = blog.posts.find(p => p.slug === 'uci-mhcid-human-computer-interaction-design-masters-2027');
+  const etc = blog.posts.find(p => p.slug === 'cmu-etc-master-of-entertainment-technology-2027');
+  const mhci = blog.posts.find(p => p.slug === 'cmu-mhci-human-computer-interaction-masters-2027');
+  assert.equal(mhci.slug, 'cmu-mhci-human-computer-interaction-masters-2027');
+  for (const lang of ['zh-Hant', 'en']) {
+    const g = gt.body[lang], u = uci.body[lang];
+    assert.ok(g.includes('../uci-mhcid-human-computer-interaction-design-masters-2027/'), lang);
+    assert.ok(g.includes('../cmu-etc-master-of-entertainment-technology-2027/'), lang);
+    assert.ok(u.includes('../cmu-etc-master-of-entertainment-technology-2027/'), lang);
+    assert.equal(gt.body['zh-Hans'], undefined);
+    assert.equal(uci.body['zh-Hans'], undefined);
+  }
+  for (const lang of ['zh-Hant', 'en']) {
+    assert.ok(etc.body[lang].includes(lang === 'en' ? 'The online application must be submitted by Jan 1, 2027' : '線上申請須在 2027/1/1 前送出'));
+    assert.ok(etc.body[lang].includes(lang === 'en' ? '1 February 2027' : '2027 年 2 月 1 日'));
+    assert.ok(etc.body[lang].includes(lang === 'en' ? 'after 15 January' : '1 月 15 日後開始審查'));
+    assert.ok(etc.body[lang].includes(lang === 'en' ? '15 March' : '3 月 15 日'));
+  }
+  const faq = etc.faq.find(f => f.q.en.startsWith('When are the deadlines'));
+  assert.ok(faq.a['zh-Hant'].includes('線上申請須在 2027/1/1 前送出'));
+  assert.ok(faq.a.en.includes('The online application must be submitted by Jan 1, 2027'));
+  assert.ok(faq.a['zh-Hant'].includes('2 月 1 日') && faq.a['zh-Hant'].includes('1 月 15 日後') && faq.a['zh-Hant'].includes('3 月 15 日'));
+  const html = renderBlogPost(site, blog, gt, {});
+  const article = html.slice(html.indexOf('<div class="post-body">'), html.indexOf('<section class="subscribe">'));
+  const hans = article.slice(article.indexOf('<div data-l="zh-Hans"'), article.indexOf('<div data-l="en"'));
+  assert.ok(hans.includes('../uci-mhcid-human-computer-interaction-design-masters-2027/'));
+  assert.ok(hans.includes('../cmu-etc-master-of-entertainment-technology-2027/'));
+  assert.ok(hans.includes('尔湾'));
+});
+
+test('language switch is bound in the head and a text-node click switches once', () => {
+  const html = renderBlogPost(site, blog, blog.posts.find(p => p.slug === 'georgia-tech-ms-hci-human-computer-interaction-masters-2027'), {});
+  const head = html.slice(0, html.indexOf('</head>'));
+  assert.ok(head.includes('data-lang-bound'), 'binder is in the head, before the long article');
+  assert.ok(head.indexOf('data-lang-bound') < html.indexOf('<body'));
+  const script = LANG_SWITCH_JS.replace(/^<script>/, '').replace(/<\/script>\n?$/, '');
+  const btn = {
+    nodeType: 1,
+    lang: 'zh-Hans',
+    pressed: '',
+    on: false,
+    getAttribute(n) { return n === 'data-set-lang' ? this.lang : null; },
+    setAttribute(n, v) { if (n === 'aria-pressed') this.pressed = v; },
+    classList: { toggle(c, on) { if (c === 'on') btn.on = on; } },
+    closest(sel) { return sel === '[data-set-lang]' ? btn : null; }
+  };
+  const text = { nodeType: 3, parentElement: btn };
+  const listeners = [];
+  const root = {
+    attrs: { 'data-lang': 'zh-Hant' },
+    lang: 'zh-Hant',
+    hasAttribute(n) { return Object.prototype.hasOwnProperty.call(this.attrs, n); },
+    getAttribute(n) { return this.attrs[n] || null; },
+    setAttribute(n, v) { this.attrs[n] = String(v); }
+  };
+  const document = {
+    documentElement: root,
+    readyState: 'loading',
+    querySelectorAll() { return [btn]; },
+    addEventListener(type, fn) { listeners.push({ type, fn }); }
+  };
+  const stored = {};
+  vm.runInNewContext(script, {
+    document,
+    localStorage: { setItem(k, v) { stored[k] = v; }, getItem(k) { return stored[k] || null; } }
+  });
+  const click = listeners.find(l => l.type === 'click');
+  click.fn({ target: text });
+  assert.equal(root.getAttribute('data-lang'), 'zh-Hans');
+  assert.equal(root.lang, 'zh-Hans');
+  assert.equal(stored.lang, 'zh-Hans');
+  assert.equal(btn.on, true);
+  vm.runInNewContext(script, { document, localStorage: { setItem() {}, getItem() { return null; } } });
+  assert.equal(listeners.filter(l => l.type === 'click').length, 1);
+});
+
+test('mobile engagement controls keep a 44px tap target', () => {
+  const css = readFileSync(new URL('../style.css', import.meta.url), 'utf8');
+  const mq = css.slice(css.indexOf('@media(max-width:700px)'));
+  assert.match(mq, /\.engage-stats button,\.engage-stats a,\.share a,\.share button\{[^}]*min-width:44px;min-height:44px/);
+  assert.match(mq, /\.share\{align-items:center;gap:12px\}/);
+  assert.ok(!css.slice(0, css.indexOf('@media(max-width:700px)')).includes('min-width:44px'));
 });

@@ -547,7 +547,8 @@ export function langHead(langs, fallback = 'en') {
     'q=canon(q);s=canon(s);' +
     'var n=(navigator.languages||[navigator.language||""]).join(",").toLowerCase(),z=L.filter(function(x){return x.indexOf("zh")===0})[0];' +
     'var l=q||s||(z&&/(^|,)zh/.test(n)?z:' + JSON.stringify(fb) + ');' +
-    'if(q){try{localStorage.setItem("lang",q)}catch(e){}}d.setAttribute("data-lang",l);d.lang=l})();</script>\n';
+    'if(q){try{localStorage.setItem("lang",q)}catch(e){}}d.setAttribute("data-lang",l);d.lang=l})();</script>\n' +
+    LANG_SWITCH_JS;
 }
 // zh-Hant (and x-default) keep the clean URL. Other languages use ?lang=, matching the switch.
 export function hreflangLinks(url, langs) {
@@ -555,8 +556,15 @@ export function hreflangLinks(url, langs) {
   return order.map(l => '<link rel="alternate" hreflang="' + l + '" href="' + esc(l === 'zh-Hant' ? url : url + '?lang=' + l) + '">').join('\n') +
     '\n<link rel="alternate" hreflang="x-default" href="' + esc(url) + '">\n';
 }
-export const LANG_SWITCH_JS = '<script>(function(){var d=document.documentElement;function mark(){[].forEach.call(document.querySelectorAll("[data-set-lang]"),function(b){var on=b.getAttribute("data-set-lang")===d.getAttribute("data-lang");b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")})}' +
-  'document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("[data-set-lang]");if(!b)return;var l=b.getAttribute("data-set-lang");d.setAttribute("data-lang",l);d.lang=l;try{localStorage.setItem("lang",l)}catch(x){}mark()});mark()})();</script>\n';
+// Bound from the head as well as the end of <body>. On long pages (the board, a post) the
+// buttons paint before a footer-only listener exists, so the first tap was dropped. A click on
+// the button label can target a text node, which has no closest(); walk up to an element.
+// The footer copy no-ops once the head copy has set data-lang-bound.
+export const LANG_SWITCH_JS = '<script>(function(){var d=document.documentElement;if(d.hasAttribute("data-lang-bound"))return;d.setAttribute("data-lang-bound","1");' +
+  'function mark(){[].forEach.call(document.querySelectorAll("[data-set-lang]"),function(b){var on=b.getAttribute("data-set-lang")===d.getAttribute("data-lang");b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")})}' +
+  'function target(e){var t=e.target;if(t&&t.nodeType!==1)t=t.parentElement;return t&&t.closest?t.closest("[data-set-lang]"):null}' +
+  'document.addEventListener("click",function(e){var b=target(e);if(!b)return;var l=b.getAttribute("data-set-lang");if(!l)return;d.setAttribute("data-lang",l);d.lang=l;try{localStorage.setItem("lang",l)}catch(x){}mark()},true);' +
+  'if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",mark);else mark()})();</script>\n';
 
 // ?v=<hash of style.css> (passed by build/build.mjs) so returning visitors fetch the new stylesheet.
 export const cssV = opts => (opts && opts.v ? '?v=' + esc(opts.v) : '');
@@ -596,7 +604,7 @@ export function renderDetail(site, board, pin, opts) {
     headExtra(opts) + '<meta charset="utf-8"><title>' + esc(pin.title) + ' — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     (pin.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '<link rel="canonical" href="https://yuchuntsai.com/' + (teach ? 'teaching/' : 'board/') + esc(pin.slug) + '/">\n' + (multi ? hreflangLinks('https://yuchuntsai.com/' + (teach ? 'teaching/' : 'board/') + pin.slug + '/', langs) : '')) +
-    (multi ? (forced ? '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' : langHead(langs)) : '') +
+    (multi ? (forced ? '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' + LANG_SWITCH_JS : langHead(langs)) : '') +
     '<link rel="stylesheet" href="../../style.css' + cssV(opts) + '"></head><body class="detail">\n' +
     topBar(site, 2, teach ? 'teaching' : 'board') +
     '<main' + (secs.length ? ' class="has-sections"' : '') + '>\n';
