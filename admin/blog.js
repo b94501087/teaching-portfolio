@@ -51,7 +51,7 @@ const CAT = Object.fromEntries(BLOG_CATEGORIES.map(c => [c.id, c]));
 export const AUTHOR_NAME = 'Yu Chun Tsai';
 export const AUTHOR_FACTS = {
   'zh-Hant': '2017 年至今，設計教學與設計諮詢時數合計 12,000+ 小時・370+ 位學生・1,800+ 個錄取。',
-  en: 'Since 2017: 12,000+ combined hours of design teaching and design consultation · 370+ students · 1,800+ offers.'
+  en: 'Since 2017: 12,000+ hours of design teaching and design consultation · 370+ students · 1,800+ offers.'
 };
 export const ADMISSIONS = ['Princeton University', 'Harvard University', 'MIT', 'Columbia University', 'Cornell University', 'UC Berkeley',
   'Rice University', 'University of Cambridge', 'UCL', 'Politecnico di Milano', 'KU Leuven', 'TU Berlin', 'Lund University',

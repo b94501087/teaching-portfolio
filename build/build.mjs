@@ -15,7 +15,7 @@ import { createHash } from 'node:crypto';
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 import { fileURLToPath } from 'node:url';
-import { mergeBoard, renderAll, fillPlaceholders, validate, imgGuardTag, listedPins, pinImages } from '../admin/render.js';
+import { mergeBoard, renderAll, fillPlaceholders, validate, imgGuardTag, listedPins, pinImages, deferredBoardCards, SITEMAP_SKIP_RE } from '../admin/render.js';
 import { injectHans } from '../admin/hans.js';
 import { renderBlog, validateBlog, renderFeed, renderSitemap, renderRobots, renderLlms, blogPosts } from '../admin/blog.js';
 
@@ -79,7 +79,8 @@ for (const p of all.board.pins || []) for (const src of p.images || []) {
 const thumbs = await buildBoardThumbs(all.board);
 const categories = await readFile('categories.json');
 const scales = await readFile('scale.json');
-const pages = Object.assign(renderAll(all, { v, dims, thumbs, categories, scales }), renderBlog(all, { v }));
+const buildOpts = { v, dims, thumbs, categories, scales, deferBoard: true };
+const pages = Object.assign(renderAll(all, buildOpts), renderBlog(all, { v }));
 for (const [rel, html] of Object.entries(pages)) {
   await fs.mkdir(path.dirname(path.join(out, rel)), { recursive: true });
   await fs.writeFile(path.join(out, rel), html);
@@ -95,9 +96,14 @@ for (const rel of [...(await fs.readdir(path.join(out, 'A-Z'))).map(f => 'A-Z/' 
   await fs.writeFile(p, src);
 }
 
+await fs.mkdir(path.join(out, 'board'), { recursive: true });
+await fs.writeFile(path.join(out, 'board', 'cards.json'), JSON.stringify(deferredBoardCards(all.board, buildOpts)));
 await fs.mkdir(path.join(out, 'a-z'), { recursive: true });
+// GitHub Pages cannot emit a per-path HTTP 301, so /a-z/ stays a meta-refresh stub
+// with rel=canonical. /pins/ and /ksteinfe/* are the same kind of stub. None of them are in sitemap.xml.
 await fs.writeFile(path.join(out, 'a-z', 'index.html'),
   '<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>' + all.site.name.replace(/[<&]/g, '') + '</title>\n' +
+  '<!-- GitHub Pages cannot send a per-path 301. Meta refresh plus rel=canonical; omitted from sitemap.xml. -->\n' +
   '<meta http-equiv="refresh" content="0; url=../A-Z/">\n' +
   '<link rel="canonical" href="https://yuchuntsai.com/A-Z/">\n' +
   '</head><body>\n<p><a href="../A-Z/">A–Z</a></p>\n' + imgGuardTag(1) + '</body></html>\n');
@@ -110,7 +116,7 @@ const drafts = new Set((all.board.pins || []).filter(p => p.draft === true).map(
 const postMod = Object.fromEntries(blogPosts(all.blog).map(p => ['blog/' + p.slug + '/index.html', p.updated || p.date]));
 const blogMod = blogPosts(all.blog).map(p => p.updated || p.date).sort().pop();
 const staticPages = ['cv/index.html', ...(await fs.readdir(path.join(root, 'A-Z'))).filter(f => f.endsWith('.html') && f !== 'index.html').map(f => 'A-Z/' + f)];
-const urls = [...Object.keys(pages), ...staticPages].filter(rel => !drafts.has(rel)).sort()
+const urls = [...Object.keys(pages), ...staticPages].filter(rel => !drafts.has(rel) && !rel.endsWith('.json') && !SITEMAP_SKIP_RE.test(rel.replace(/(^|\/)index\.html$/, ''))).sort()
   .map(rel => ({ loc: SITE + '/' + rel.replace(/(^|\/)index\.html$/, '$1'), lastmod: postMod[rel] || (rel === 'blog/index.html' && blogMod) || undefined }));
 await fs.writeFile(path.join(out, 'sitemap.xml'), renderSitemap(urls));
 await fs.writeFile(path.join(out, 'robots.txt'), renderRobots());

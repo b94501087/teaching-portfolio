@@ -5,6 +5,8 @@
 // Locked design (fonts, colours, spacing, radius, column count) lives in the page CSS files,
 // not in content, and cannot be changed from /admin.
 import { toHans } from './hans.js';
+import { BOARD_CAPTIONS } from './board-captions.js';
+import { STUDIO_EN } from './teaching-en.js';
 
 // Board shards. content/board.json may list extra pin files in "shards" (e.g. ["board-2.json"]),
 // each { "pins": [...] }; the full board is board.json's pins followed by each shard's pins, in order.
@@ -179,15 +181,17 @@ export function letterOf(title) {
 // Layout is fixed; only the name and the link labels come from content/site.json.
 export function renderLanding(site, opts) {
   const n = site.nav;
-  return finishPage('<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + '</title>\n' +
+  const title = site.name + ' — 建築與設計作品集指導';
+  return finishPage('<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(title) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/">\n' +
-    '<meta name="description" content="' + esc(SITE_DESCRIPTION) + '">\n' +
+    hreflangLinks('https://yuchuntsai.com/', ['zh-Hant']) +
+    shareTags({ title, description: SITE_DESCRIPTION, url: 'https://yuchuntsai.com/', image: DEFAULT_SHARE_IMAGE, type: 'website', langs: ['zh-Hant'] }) +
     '<link rel="alternate" type="application/atom+xml" title="Blog" href="blog/feed.xml">\n' +
     jsonLdScript(siteJsonLd()) +
     '<link rel="stylesheet" href="style.css' + cssV(opts) + '"></head><body class="landing">\n' +
     '<main>\n' +
-    '  <h1>' + esc(site.name) + '</h1>\n' +
+    '  <h1>' + esc(site.name) + '<span>建築與設計作品集指導從哪裡開始？</span></h1>\n' +
     '  <nav>\n' +
     '    <a href="board/">' + esc(n.board) + '</a>\n' +
     '    <a href="A-Z/">' + esc(n.az) + '</a>\n' +
@@ -225,19 +229,87 @@ export function topBar(site, depth, here) {
 
 // Site-wide identity for search / answer engines (JSON-LD on the landing page, /cv/ and blog pages).
 export const SITE_URL = 'https://yuchuntsai.com';
-export const SITE_DESCRIPTION = 'Yu Chun Tsai — architecture & design portfolio mentor. 12,000+ hours of design teaching and design consultation since 2017, 370+ students, 1,800+ offers. 建築與設計作品集指導、留學申請諮詢。';
+// The hours phrase is fixed: 「12,000+ 小時」 in Chinese and "12,000+ hours" in English. 370+ and 1,800+ are the published totals.
+export const SITE_DESCRIPTION = 'YU CHUN TSAI — 建築與設計作品集指導。2017 年至今，設計教學與設計諮詢時數合計 12,000+ 小時。Architecture and design portfolio mentor: 12,000+ hours of design teaching and design consultation since 2017, 370+ students, 1,800+ offers.';
+export const HOURS_ZH = '12,000+ 小時';
+export const HOURS_EN = '12,000+ hours';
+export const DEFAULT_SHARE_IMAGE = SITE_URL + '/assets/teaching/a-01-poster.webp';
 export function personJsonLd() {
   return { '@type': 'Person', '@id': SITE_URL + '/#person', name: 'Yu Chun Tsai', url: SITE_URL + '/cv/',
     jobTitle: 'Architecture & design portfolio mentor; Senior External Design Consultant, S&J Design (Hong Kong)',
     alumniOf: [{ '@type': 'CollegeOrUniversity', name: 'University of California, Berkeley' }, { '@type': 'CollegeOrUniversity', name: 'National Taiwan University' }],
     knowsAbout: ['architecture portfolio', 'design portfolio', 'art and design study abroad applications', 'school selection', 'statement of purpose', 'architecture education'] };
 }
+export function teachingOrgJsonLd() {
+  return { '@type': 'EducationalOrganization', '@id': SITE_URL + '/#teaching', name: 'YU CHUN TSAI',
+    url: SITE_URL + '/teaching/',
+    description: '建築與設計作品集指導。2017 年至今，設計教學與設計諮詢時數合計 ' + HOURS_ZH + '。',
+    founder: { '@id': SITE_URL + '/#person' } };
+}
 export function siteJsonLd() {
-  return { '@context': 'https://schema.org', '@graph': [personJsonLd(),
+  return { '@context': 'https://schema.org', '@graph': [personJsonLd(), teachingOrgJsonLd(),
     { '@type': 'WebSite', '@id': SITE_URL + '/#website', url: SITE_URL + '/', name: 'Yu Chun Tsai', inLanguage: ['zh-Hant', 'en'], publisher: { '@id': SITE_URL + '/#person' } }] };
 }
 // JSON-LD inside <script type="application/ld+json">; "<" is escaped so content cannot close the tag.
 export const jsonLdScript = o => '<script type="application/ld+json">' + JSON.stringify(o).replace(/</g, '\\u003c') + '</script>\n';
+
+export function absUrl(src) {
+  const s = String(src || '').trim();
+  if (!s) return '';
+  if (/^https?:\/\//i.test(s)) return s;
+  return SITE_URL + '/' + s.replace(/^\.\//, '').replace(/^\/+/, '');
+}
+export function clipShare(s, n = 160) {
+  const t = String(s || '').replace(/\s+/g, ' ').trim();
+  if (t.length <= n) return t;
+  return t.slice(0, n - 1).replace(/[，。、；,;:\s]+$/u, '') + '…';
+}
+// Drop the credit line (student project / mentor) and any student name or admission-number token.
+const CREDIT_LINE = /student project|學生作品|design mentor|設計指導/i;
+export function stripPrivate(text) {
+  return String(text || '')
+    .replace(/學生(?:姓名)?\s*[:：]\s*[\u4e00-\u9fffA-Za-z·.\s]{1,40}/g, '')
+    .replace(/\b(?:student|applicant)\s*[:：]\s*[A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,3}\b/gi, '')
+    .replace(/學號\s*[:：]?\s*[A-Za-z0-9-]*/g, '')
+    .replace(/\b[A-Z]{1,4}-?\d{4,}\b/g, '')
+    .replace(/\b\d{6,}\b/g, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+export function publicParagraph(text) {
+  const parts = String(text || '').replace(/\r\n?/g, '\n').split(/\n[ \t]*\n+/).map(s => s.trim()).filter(Boolean);
+  const prose = parts.filter(p => !CREDIT_LINE.test(p));
+  return stripPrivate(prose[0] || '');
+}
+// Meta description for a board page. The first 49 slugs use the written one-line caption.
+// Every other page is built from its Traditional Chinese title and first public paragraph.
+export function pinShareText(pin) {
+  const written = pin && BOARD_CAPTIONS[pin.slug];
+  if (written) return written;
+  const zhTitle = i18nText(pin, 'zh-Hant', 'title', '').trim();
+  const title = zhTitle || str(pin && pin.title).trim();
+  const body = publicParagraph(i18nText(pin, 'zh-Hant', 'description', '')) || publicParagraph(pin && pin.description);
+  const text = body && title && body !== title ? title + '。' + body : (body || title);
+  return clipShare(stripPrivate(text));
+}
+export function shareTags(o) {
+  const desc = clipShare(o.description || '');
+  const img = o.image || '';
+  let h = '<meta name="description" content="' + esc(desc) + '">\n';
+  h += '<meta property="og:type" content="' + (o.type || 'website') + '">\n<meta property="og:site_name" content="Yu Chun Tsai">\n';
+  h += '<meta property="og:title" content="' + esc(o.title) + '">\n<meta property="og:description" content="' + esc(desc) + '">\n';
+  h += '<meta property="og:url" content="' + esc(o.url) + '">\n<meta property="og:locale" content="zh_TW">\n';
+  if (o.langs && o.langs.includes('zh-Hans')) h += '<meta property="og:locale:alternate" content="zh_CN">\n';
+  if (o.langs && o.langs.includes('en')) h += '<meta property="og:locale:alternate" content="en_US">\n';
+  if (img) h += '<meta property="og:image" content="' + esc(img) + '">\n';
+  h += '<meta name="twitter:card" content="' + (img ? 'summary_large_image' : 'summary') + '">\n';
+  h += '<meta name="twitter:title" content="' + esc(o.title) + '">\n<meta name="twitter:description" content="' + esc(desc) + '">\n';
+  if (img) h += '<meta name="twitter:image" content="' + esc(img) + '">\n';
+  return h;
+}
+// GitHub Pages cannot emit a per-path HTTP 301. These HTML stubs stay out of sitemap.xml.
+// Case-sensitive: the public index is /A-Z/. Only the lowercase /a-z/ stub is skipped.
+export const SITEMAP_SKIP_RE = /^(?:pins|a-z|ksteinfe)(?:\/|$)/;
 
 export const pinImages = p => (Array.isArray(p.images) ? p.images : []).filter(x => String(x || '').trim());
 export const visiblePins = board => (board.pins || []).filter(p => p.visible !== false);
@@ -351,8 +423,12 @@ const BOARD_FILTER_JS = '<script>(function(){var b=document.querySelector(".boar
   'function save(){try{history.replaceState(null,"",hash()||location.pathname+location.search)}catch(z){}}' +
   'document.addEventListener("click",function(e){var c=e.target.closest&&e.target.closest("[data-filter],[data-cat-filter],[data-scale-filter],[data-sort]");if(!c)return;' +
   'if(c.hasAttribute("data-filter")){st.f=c.getAttribute("data-filter");if(st.f!=="master")st.scale="all"}else if(c.hasAttribute("data-cat-filter"))st.cat=c.getAttribute("data-cat-filter");else if(c.hasAttribute("data-scale-filter"))st.scale=c.getAttribute("data-scale-filter");else st.sort=c.getAttribute("data-sort");apply();save()});' +
+  'function paint(){pins.forEach(function(p){if(window.__boardCat){var c=window.__boardCat[p.getAttribute("data-slug")];c=(Array.isArray(c)?c:[c]).filter(function(x){return C.indexOf(x)>=0});if(c.length)p.setAttribute("data-cat",c.join(" "))}if(window.__boardScale){var z=window.__boardScale[p.getAttribute("data-slug")];if(Z.indexOf(z)>=0)p.setAttribute("data-scale",z)}})}' +
+  'function reload(){pins=[].slice.call(b.querySelectorAll(".pin"));paint();apply()}' +
   'st=parse();apply();' +
-  'if(window.fetch)fetch("../content/categories.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var c=m[p.getAttribute("data-slug")];c=(Array.isArray(c)?c:[c]).filter(function(x){return C.indexOf(x)>=0});if(c.length)p.setAttribute("data-cat",c.join(" "))});apply()}).catch(function(){});if(window.fetch)fetch("../content/scale.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){pins.forEach(function(p){var z=m[p.getAttribute("data-slug")];if(Z.indexOf(z)>=0)p.setAttribute("data-scale",z)});apply()}).catch(function(){})})();</script>\n';
+  'if(window.fetch)fetch("../content/categories.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){window.__boardCat=m;reload()}).catch(function(){});' +
+  'if(window.fetch)fetch("../content/scale.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():{}}).then(function(m){window.__boardScale=m;reload()}).catch(function(){});' +
+  'var more=b.getAttribute("data-more");if(more&&window.fetch)fetch(more,{cache:"force-cache"}).then(function(r){return r.ok?r.json():[]}).then(function(rows){if(!rows||!rows.length)return;b.insertAdjacentHTML("beforeend",rows.join(""));reload()}).catch(function(){})})();</script>\n';
 
 // How many board cards load with the document. 32 is eight rows of the desktop 4-column grid,
 // enough that a tall window is already filled; the rest stay lazy. Width and height are always
@@ -392,15 +468,38 @@ function boardScaleAttr(slug, opts) {
   return SCALES.includes(z) ? ' data-scale="' + z + '"' : '';
 }
 
+function boardCard(p, i, cover, opts) {
+  const lv = pinLevel(p), d = pinDate(p);
+  return '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '"' + boardCatAttr(p.slug, opts) + boardScaleAttr(p.slug, opts) + ' href="' + esc(p.slug) + '/">' + boardImg(cover, i) + '<span class="cap">' + esc(p.title) + '</span>' + schoolTags(p, 'span', CARD_SCHOOLS) + '</a>\n';
+}
+export function boardCardHtml(board, opts) {
+  const pins = listedPins(board);
+  const covers = pins.map(p => boardCover(p, opts));
+  return pins.map((p, i) => boardCard(p, i, covers[i], opts));
+}
+// Cards after the first screen. The build writes these to /board/cards.json so the HTML stays small.
+// They are appended in this order, which is the order CSS columns read top to bottom.
+export function deferredBoardCards(board, opts) {
+  return boardCardHtml(board, opts).slice(BOARD_EAGER);
+}
+
 export function renderBoard(site, board, opts) {
   const n = site.nav;
   const pins = listedPins(board);
   const covers = pins.map(p => boardCover(p, opts));
+  const cards = pins.map((p, i) => boardCard(p, i, covers[i], opts));
+  const defer = !!(opts && opts.deferBoard) && cards.length > BOARD_EAGER;
+  const shown = defer ? cards.slice(0, BOARD_EAGER) : cards;
   const anyBig = pins.some(p => p.big);
-  let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.board) + '</title>\n' +
+  const boardTitle = site.name + ' — ' + n.board;
+  const boardDesc = '學生建築、景觀、城市、室內與舞台設計作品，含碩士申請與大學部申請作品集。';
+  const thumb0 = pins[0] && opts && opts.thumbs && opts.thumbs[pins[0].slug];
+  const boardImgUrl = thumb0 && thumb0.src ? absUrl(thumb0.src) : (pins[0] ? absUrl(pinImages(pins[0])[0]) : '');
+  let h = '<!doctype html><html lang="zh-Hant" data-lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(boardTitle) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/board/">\n' +
     hreflangLinks('https://yuchuntsai.com/board/', LANGS) +
+    shareTags({ title: boardTitle, description: boardDesc, url: 'https://yuchuntsai.com/board/', image: boardImgUrl, type: 'website', langs: LANGS }) +
     langHead(LANGS) +
     boardPreload(covers) +
     '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="board-page">\n' +
@@ -416,11 +515,8 @@ export function renderBoard(site, board, opts) {
     ['all', ...CATEGORIES].map(c => '<button type="button" data-cat-filter="' + c + '"' + (c === 'all' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(CATEGORY_FILTER[c], 'span') + '</button>').join('') +
     '</div><div class="sorts" role="group" aria-label="Sort">' +
     SORTS.map(o => '<button type="button" data-sort="' + o + '"' + (o === 'default' ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"') + '>' + bl(SORT_LABEL[o], 'span') + '</button>').join('') + '</div></div>\n' +
-    '<div class="board">\n';
-  pins.forEach((p, i) => {
-    const lv = pinLevel(p), d = pinDate(p);
-    h += '  <a class="pin' + (p.big ? ' big' : '') + (lv ? ' lv-' + lv : '') + '" data-i="' + i + '" data-slug="' + esc(p.slug) + '"' + (d ? ' data-date="' + d + '"' : '') + ' data-title="' + esc(sortTitle(p.title)) + '"' + boardCatAttr(p.slug, opts) + boardScaleAttr(p.slug, opts) + ' href="' + esc(p.slug) + '/">' + boardImg(covers[i], i) + '<span class="cap">' + esc(p.title) + '</span>' + schoolTags(p, 'span', CARD_SCHOOLS) + '</a>\n';
-  });
+    '<div class="board"' + (defer ? ' data-more="cards.json"' : '') + '>\n';
+  h += shown.join('');
   h += '</div>\n<p class="board-empty" hidden>' + bl({ en: 'No projects in this category yet.', 'zh-Hant': '這個類別目前還沒有作品。' }, 'span') + '</p>\n';
   if (board.foot) h += '<p class="foot">' + inline(board.foot) + '</p>\n';
   if (anyBig) h += BOARD_MASONRY;
@@ -536,9 +632,9 @@ function perLang(langs, get, wrap) {
 }
 
 // Picks the language before first paint: ?lang= (remembered), else the remembered choice, else the
-// browser's. `fallback` is used when the browser is not Chinese (project pages pass nothing and stay
-// on English; the blog passes zh-Hant so an unset visitor still reads Chinese).
-export function langHead(langs, fallback = 'en') {
+// browser's Chinese when it asks for Chinese. Otherwise Traditional Chinese, the site default.
+// ?lang= and localStorage still override. English and OpenCC Simplified stay on the switch.
+export function langHead(langs, fallback = 'zh-Hant') {
   const fb = langs.includes(fallback) ? fallback : (langs[0] || 'en');
   return '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' +
     '<script>(function(){var L=' + JSON.stringify(langs) + ',d=document.documentElement,m=/[?&]lang=([A-Za-z-]+)/.exec(location.search),q=m?m[1]:"",s="";' +
@@ -599,12 +695,20 @@ export function renderDetail(site, board, pin, opts) {
   const langs = secs.length ? pinLangs(pin) : ['en'];
   const multi = langs.length > 1;
   const forced = multi && opts && langs.includes(opts.lang) ? opts.lang : '';
+  const initial = forced || 'zh-Hant';
   const alt = src => pin.title + (imgs.length > 1 ? '（' + (imgs.indexOf(src) + 1) + '／' + imgs.length + '）' : '');
-  let h = (multi ? '<!doctype html><html lang="' + (forced || 'en') + '" data-lang="' + (forced || 'en') + '"><head>' : '<!doctype html><html lang="zh-Hant"><head>') +
-    headExtra(opts) + '<meta charset="utf-8"><title>' + esc(pin.title) + ' — ' + esc(site.name) + '</title>\n' +
+  const pageUrl = SITE_URL + '/' + (teach ? 'teaching/' : 'board/') + pin.slug + '/';
+  const zhTitle = i18nText(pin, 'zh-Hant', 'title', '').trim();
+  const docTitle = (zhTitle || pin.title) + ' — ' + site.name;
+  const shareDesc = teach
+    ? clipShare([zhTitle || pin.title, publicParagraph(i18nText(pin, 'zh-Hant', 'description', pin.description))].filter(Boolean).join('。'))
+    : pinShareText(pin);
+  let h = '<!doctype html><html lang="' + initial + '" data-lang="' + initial + '"><head>' +
+    headExtra(opts) + '<meta charset="utf-8"><title>' + esc(docTitle) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
-    (pin.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '<link rel="canonical" href="https://yuchuntsai.com/' + (teach ? 'teaching/' : 'board/') + esc(pin.slug) + '/">\n' + (multi ? hreflangLinks('https://yuchuntsai.com/' + (teach ? 'teaching/' : 'board/') + pin.slug + '/', langs) : '')) +
-    (multi ? (forced ? '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' + LANG_SWITCH_JS : langHead(langs)) : '') +
+    (pin.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '<link rel="canonical" href="' + pageUrl + '">\n' + (multi ? hreflangLinks(pageUrl, langs) : hreflangLinks(pageUrl, ['zh-Hant']))) +
+    shareTags({ title: docTitle, description: shareDesc, url: pageUrl, image: absUrl(imgs[0]), type: 'article', langs: multi ? langs : ['zh-Hant'] }) +
+    (multi ? (forced ? '<style>' + langs.map(l => 'html:not([data-lang="' + l + '"]) [data-l="' + l + '"]').join(',') + '{display:none}</style>\n' + LANG_SWITCH_JS : langHead(langs, 'zh-Hant')) : '') +
     '<link rel="stylesheet" href="../../style.css' + cssV(opts) + '"></head><body class="detail">\n' +
     topBar(site, 2, teach ? 'teaching' : 'board') +
     '<main' + (secs.length ? ' class="has-sections"' : '') + '>\n';
@@ -755,7 +859,15 @@ export function renderAZ(site, az, opts, board, teaching, blog) {
   const cmp = (x, y) => sortTitle(x.title).localeCompare(sortTitle(y.title), 'en', { sensitivity: 'base', numeric: true });
   for (const g of groupAZ(azEntries(az, board, teaching, blog))) {
     h += '<section><h2>' + esc(g.label) + '</h2><ul>\n';
-    for (const e of g.entries.slice().sort(cmp)) h += '  <li><a href="' + esc(safeUrl(e.link)) + '">' + esc(e.title) + '</a>' + (AZ_KIND[e.kind] ? ' <span class="az-k">' + AZ_KIND[e.kind] + '</span>' : '') + '</li>\n';
+    for (const e of g.entries.slice().sort(cmp)) {
+      const title = esc(e.title);
+      const kind = AZ_KIND[e.kind] ? ' <span class="az-k">' + AZ_KIND[e.kind] + '</span>' : '';
+      const link = String(e.link || '').trim();
+      // "#" is an unresolved placeholder. Only a real page URL becomes a link.
+      h += link && link !== '#'
+        ? '  <li><a href="' + esc(safeUrl(link)) + '">' + title + '</a>' + kind + '</li>\n'
+        : '  <li><span class="az-plain">' + title + '</span>' + kind + '</li>\n';
+    }
     h += '</ul></section>\n';
   }
   h += '</main>\n</body></html>\n';
@@ -772,9 +884,34 @@ export const teachingDetailPath = slug => 'teaching/' + slug + '/index.html';
 export function studioPin(s) {
   const imgs = [];
   for (const x of [s.cover, ...(Array.isArray(s.sections) ? s.sections.flatMap(q => (q && Array.isArray(q.images) ? q.images : [])) : [])]) if (x && !imgs.includes(x)) imgs.push(x);
-  const head = [s.subtitle, s.meta].filter(x => String(x || '').trim()).join('\n');
-  return { slug: s.slug, title: s.title, description: [head, s.description].filter(x => String(x || '').trim()).join('\n\n'), images: imgs,
-    sections: [{ heading: '', body: '', images: s.cover ? [s.cover] : [], captions: [s.coverCaption || ''] }, ...(Array.isArray(s.sections) ? s.sections : [])] };
+  const en = STUDIO_EN[s.slug] || {};
+  const zhTitle = String(s.title || '').trim();
+  const enTitle = String(s.subtitle || en.title || zhTitle).trim();
+  const zhMeta = String(s.meta || '').trim();
+  const enMeta = String(en.meta || '').trim();
+  const zhDesc = [String(s.description || '').trim(), zhMeta].filter(Boolean).join('\n\n');
+  const enDesc = [String(en.description || '').trim(), enMeta].filter(Boolean).join('\n\n');
+  const enSections = Array.isArray(en.sections) ? en.sections : [];
+  const sections = [{
+    heading: '', body: '', images: s.cover ? [s.cover] : [],
+    captions: [en.coverCaption || s.coverCaption || ''],
+    i18n: { 'zh-Hant': { captions: [s.coverCaption || en.coverCaption || ''] } }
+  }];
+  (Array.isArray(s.sections) ? s.sections : []).forEach((q, i) => {
+    const t = enSections[i] || {};
+    const images = q && Array.isArray(q.images) ? q.images : [];
+    const zhCaps = q && Array.isArray(q.captions) ? q.captions : [];
+    const enCaps = Array.isArray(t.captions) ? t.captions : [];
+    sections.push({
+      heading: t.heading || (q && q.heading) || '',
+      body: t.body || '',
+      images,
+      captions: images.map((_, k) => enCaps[k] || ''),
+      i18n: { 'zh-Hant': { heading: (q && q.heading) || '', body: (q && q.body) || '', captions: zhCaps } }
+    });
+  });
+  return { slug: s.slug, title: enTitle, description: enDesc || zhDesc, images: imgs,
+    i18n: { 'zh-Hant': { title: zhTitle, description: zhDesc } }, sections };
 }
 export function renderTeachingDetail(site, t, s, opts) {
   return renderDetail(site, { pins: [] }, studioPin(s), Object.assign({}, opts, { kind: 'teaching' }));
@@ -804,10 +941,16 @@ export function philosophyBlock(s) {
 }
 function renderTeachingWall(site, t, opts) {
   const n = site.nav, secs = t.sections || [];
-  let h = '<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(site.name) + ' — ' + esc(n.teaching) + '</title>\n' +
+  const studios = teachingStudios(t);
+  const teachTitle = site.name + ' — ' + n.teaching;
+  const teachDesc = '2017 年至今，設計教學與設計諮詢時數合計 ' + HOURS_ZH + '。370+ 位學生・1,800+ 個錄取。';
+  const teachImg = studios[0] && studios[0].cover ? absUrl(studios[0].cover) : DEFAULT_SHARE_IMAGE;
+  let h = '<!doctype html><html lang="zh-Hant" data-lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(teachTitle) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/teaching/">\n' +
-    (hasPhilosophy(t) ? hreflangLinks('https://yuchuntsai.com/teaching/', LANGS) + langHead(LANGS) : '') +
+    hreflangLinks('https://yuchuntsai.com/teaching/', LANGS) +
+    shareTags({ title: teachTitle, description: teachDesc, url: 'https://yuchuntsai.com/teaching/', image: teachImg, type: 'website', langs: LANGS }) +
+    langHead(LANGS, 'zh-Hant') +
     '<link rel="stylesheet" href="../style.css' + cssV(opts) + '"></head><body class="teach-wall">\n' +
     topBar(site, 1, 'teaching');
   let open = '';
@@ -828,7 +971,7 @@ function renderTeachingWall(site, t, opts) {
   });
   if (open === 'board') h += '</div>\n';
   if (t.closing) h += '<p class="t-closing">' + inline(t.closing) + '</p>\n';
-  return finishPage(h + (hasPhilosophy(t) ? LANG_SWITCH_JS : '') + '</body></html>\n', 1);
+  return finishPage(h + LANG_SWITCH_JS + '</body></html>\n', 1);
 }
 export function renderTeaching(site, t, opts) {
   if (teachingStudios(t).length) return renderTeachingWall(site, t, opts);
@@ -891,12 +1034,25 @@ export function renderConsulting(site, c, opts) {
     '<small>CNY · 基準 CNY ' + fmt(p.price.CNY) + '</small></div>' +
     '<button type="button" class="pick" data-pick="' + esc(p.id) + '">選擇此方案</button>' +
     '</div></div>').join('');
+  const pageTitle = '設計諮詢怎麼開始？ — ' + site.name;
+  const pageDesc = String(c.lead || '').replace(/\s+/g, ' ').trim();
+  const serviceLd = siteJsonLd();
+  serviceLd['@graph'].push({
+    '@type': 'Service', '@id': SITE_URL + '/consulting/#service', name: '設計諮詢',
+    url: SITE_URL + '/consulting/', provider: { '@id': SITE_URL + '/#person' },
+    description: pageDesc,
+    offers: plans.map(p => ({ '@type': 'Offer', name: p.title, description: p.meta, price: String(p.price.CNY), priceCurrency: 'CNY' }))
+  });
   return finishPage(`<!doctype html>
 <html lang="zh-Hant">
 <head>${headExtra(opts)}
 <meta charset="utf-8">
-<title>Consulting — ${esc(site.name)}</title>
+<title>${esc(pageTitle)}</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="canonical" href="https://yuchuntsai.com/consulting/">
+${hreflangLinks('https://yuchuntsai.com/consulting/', ['zh-Hant'])}
+${shareTags({ title: pageTitle, description: pageDesc, url: 'https://yuchuntsai.com/consulting/', image: DEFAULT_SHARE_IMAGE, type: 'website', langs: ['zh-Hant'] })}
+${jsonLdScript(serviceLd)}
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -912,7 +1068,8 @@ export function renderConsulting(site, c, opts) {
   </nav>
 </header>
 <main class="wrap">
-  <h1>${esc(c.title)}</h1>
+  <h1>設計諮詢怎麼開始？</h1>
+  <p class="kicker">${esc(c.title)}</p>
   <p class="lead">${inline(c.lead)}</p>
 
   <div class="notice">
@@ -931,7 +1088,7 @@ export function renderConsulting(site, c, opts) {
   <div class="list" id="pkgs">${rows}</div>
 
   <section class="pay">
-    <h2>支付偏好</h2>
+    <h2>想用哪種方式支付？</h2>
     <div class="pay-list" id="payMethods">
 ${pays.map((p, i) => `      <label><input type="radio" name="pay" value="${esc(p.value)}"${i === 0 ? ' checked' : ''}> ${esc(p.label)}</label>\n`).join('')}    </div>
     <ul class="terms">
@@ -939,7 +1096,7 @@ ${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}
   </section>
 
   <section class="checkout" id="checkout">
-    <h2>確認方案</h2>
+    <h2>如何確認方案並索取付款指示？</h2>
     <p id="selected" class="selected">尚未選擇方案。</p>
     <label for="name">姓名</label>
     <input id="name" name="name" autocomplete="name" required>
