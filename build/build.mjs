@@ -115,7 +115,15 @@ const drafts = new Set((all.board.pins || []).filter(p => p.draft === true).map(
   .concat((all.blog.posts || []).filter(p => p && p.draft === true).map(p => 'blog/' + p.slug + '/index.html')));
 const postMod = Object.fromEntries(blogPosts(all.blog).map(p => ['blog/' + p.slug + '/index.html', p.updated || p.date]));
 const blogMod = blogPosts(all.blog).map(p => p.updated || p.date).sort().pop();
-const staticPages = ['cv/index.html', ...(await fs.readdir(path.join(root, 'A-Z'))).filter(f => f.endsWith('.html') && f !== 'index.html').map(f => 'A-Z/' + f)];
+// A–Z/*.html content pages are listed. Meta-refresh stubs (emi.html, portfolio.html, and
+// the lowercase /a-z/, /pins/, /ksteinfe/ stubs) are not: their canonical targets are already listed.
+const azHtml = [];
+for (const f of (await fs.readdir(path.join(root, 'A-Z'))).filter(f => f.endsWith('.html') && f !== 'index.html')) {
+  const src = await fs.readFile(path.join(root, 'A-Z', f), 'utf8');
+  if (/http-equiv="refresh"/i.test(src)) continue;
+  azHtml.push('A-Z/' + f);
+}
+const staticPages = ['cv/index.html', ...azHtml];
 const urls = [...Object.keys(pages), ...staticPages].filter(rel => !drafts.has(rel) && !rel.endsWith('.json') && !SITEMAP_SKIP_RE.test(rel.replace(/(^|\/)index\.html$/, ''))).sort()
   .map(rel => ({ loc: SITE + '/' + rel.replace(/(^|\/)index\.html$/, '$1'), lastmod: postMod[rel] || (rel === 'blog/index.html' && blogMod) || undefined }));
 await fs.writeFile(path.join(out, 'sitemap.xml'), renderSitemap(urls));
