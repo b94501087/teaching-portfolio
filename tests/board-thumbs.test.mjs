@@ -22,7 +22,8 @@ test('every listed project is a card in the initial board HTML', () => {
   const h = renderBoard(site, board, { thumbs: thumbsFor(pins), categories, scales });
   assert.equal((h.match(/<a class="pin\b/g) || []).length, pins.length);
   pins.forEach((p, i) => assert.ok(h.includes('data-i="' + i + '" data-slug="' + p.slug + '"'), p.slug));
-  assert.equal((h.match(/assets\/board-thumbs\/[a-z0-9-]+\.webp/g) || []).length, pins.length + Math.min(BOARD_HIGH, pins.length));
+  const shareImgs = (h.match(/property="og:image"|name="twitter:image"/g) || []).length;
+  assert.equal((h.match(/assets\/board-thumbs\/[a-z0-9-]+\.webp/g) || []).length, pins.length + Math.min(BOARD_HIGH, pins.length) + shareImgs);
   assert.equal((h.match(/assets\/board\/[a-z0-9-]+\//g) || []).length, 0);
 });
 

@@ -132,7 +132,7 @@ test('language switch: default Chinese, shared EN/繁中 control, hreflang witho
   assert.match(index, /hreflang="zh-Hans" href="https:\/\/yuchuntsai\.com\/blog\/\?lang=zh-Hans"/);
   assert.match(index, /localStorage.getItem\("lang"\)/);
   assert.match(index, /localStorage.setItem\("lang",l\)/);
-  // Unset visitors stay on Chinese. Project pages fall back to English; the blog must not.
+  // Unset visitors stay on Traditional Chinese, including the board and the CV.
   assert.match(index, /:"zh-Hant"\);/);
   assert.doesNotMatch(index, /:"en"\);/);
   assert.match(index, /hreflang="zh-Hant" href="https:\/\/yuchuntsai\.com\/blog\/"/);

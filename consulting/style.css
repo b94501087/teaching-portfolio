@@ -11,6 +11,7 @@ figcaption{-webkit-touch-callout:default;-webkit-user-drag:auto;user-select:text
 .bar a:hover,.bar a.on{color:#111}
 .wrap{max-width:720px;margin:0 auto;padding:28px 20px 64px}
 h1{font-weight:400;font-size:26px;margin:0 0 8px}
+.kicker{margin:0 0 8px;color:#888;font-size:13px;letter-spacing:.04em}
 .lead{color:#666;margin:0 0 20px;max-width:40em}
 .notice{border-top:1px solid #e8e8e8;border-bottom:1px solid #e8e8e8;padding:14px 0;margin:0 0 24px;font-size:14px;color:#444}
 .notice strong{color:#111}

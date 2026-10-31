@@ -46,6 +46,7 @@ button.zoom{appearance:none;border:0;padding:0;margin:0;background:none;font:inh
 body.landing{background:#fff;min-height:100vh;display:flex;align-items:center;justify-content:center}
 .landing main{text-align:center;padding:24px}
 .landing h1{margin:0 0 14px;font-weight:400;font-size:22px;letter-spacing:.04em}
+.landing h1 span{display:block;margin-top:8px;font-size:15px;letter-spacing:0;color:#444;font-weight:400}
 .landing nav{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 18px}
 .landing nav a{color:#888;text-decoration:none;font-size:14px}
 .landing nav a:hover{color:#111;text-decoration:underline;text-underline-offset:3px}
