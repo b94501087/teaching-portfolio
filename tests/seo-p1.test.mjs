@@ -1,11 +1,12 @@
 // P1: share tags, Traditional Chinese as the default, teaching studios, consulting/home, board weight, legacy stubs.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { readFileSync } from 'node:fs';
+import { readFileSync, statSync } from 'node:fs';
 import {
   mergeBoard, renderBoard, renderDetail, renderLanding, renderConsulting, renderTeachingDetail,
   pinShareText, stripPrivate, deferredBoardCards, BOARD_EAGER, SITEMAP_SKIP_RE, HOURS_ZH, HOURS_EN, listedPins
 } from '../admin/render.js';
+import { toHans } from '../admin/hans.js';
 
 const read = f => JSON.parse(readFileSync(new URL('../content/' + f, import.meta.url), 'utf8'));
 const site = read('site.json');
@@ -65,6 +66,10 @@ test('home and consulting expose the hours phrase, a question heading, and organ
   const home = renderLanding(site, {});
   assert.match(home, /<title>YU CHUN TSAI — 建築與設計作品集指導<\/title>/);
   assert.match(home, /<h1>YU CHUN TSAI<span>建築與設計作品集指導從哪裡開始？<\/span><\/h1>/);
+  assert.match(home, /class="hours"[\s\S]*data-l="zh-Hant"[^>]*>12,000\+ 小時設計教學與設計諮詢</);
+  assert.match(home, /data-l="en"[^>]*>12,000\+ hours of design teaching and consultation</);
+  assert.ok(home.includes('>' + toHans('12,000+ 小時設計教學與設計諮詢') + '<'));
+  assert.ok(home.indexOf('class="hours"') < home.indexOf('<nav>'));
   assert.ok(home.includes(HOURS_ZH) && home.includes(HOURS_EN));
   assert.match(home, /property="og:image"/);
   assert.match(home, /"@type":"EducationalOrganization"/);
@@ -105,6 +110,21 @@ test('CV opens in Traditional Chinese and states the hours phrase exactly', () =
   assert.doesNotMatch(cv, /:"en"\);/);
   assert.ok(cv.includes('12,000+ 小時'));
   assert.ok(cv.includes('12,000+ hours'));
+  assert.match(cv, /property="og:title" content="cv — \{\{name\}\}"/);
+  assert.match(cv, /property="og:description" content="Yu Chun Tsai — CV:/);
+  assert.match(cv, /property="og:image" content="https:\/\/yuchuntsai\.com\/assets\/teaching\/a-01-poster\.webp"/);
+  assert.match(cv, /property="og:url" content="https:\/\/yuchuntsai\.com\/cv\/"/);
+  assert.match(cv, /name="twitter:card" content="summary_large_image"/);
+});
+
+test('the four previously oversized WebPs are under 300KB', () => {
+  const cap = {
+    'assets/board/clay-through-the-frame-stick-lattice-and-flowing-clay/07-stick-and-clay-drawing.webp': 290000,
+    'assets/board/city-lighthouse/01-crime-hotspots.webp': 300000,
+    'assets/blog/lund-university-architecture-masters-2027/04.webp': 290000,
+    'assets/board/windows-of-cast-light-polygon-openings-in-a-cast-box/10-imagined-section-b.webp': 290000
+  };
+  for (const [f, max] of Object.entries(cap)) assert.ok(statSync(new URL('../' + f, import.meta.url)).size < max, f);
 });
 
 test('legacy stubs are canonical and kept out of the sitemap', () => {

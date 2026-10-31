@@ -182,16 +182,22 @@ export function letterOf(title) {
 export function renderLanding(site, opts) {
   const n = site.nav;
   const title = site.name + ' — 建築與設計作品集指導';
-  return finishPage('<!doctype html><html lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(title) + '</title>\n' +
+  const hoursZh = '12,000+ 小時設計教學與設計諮詢';
+  const hoursEn = '12,000+ hours of design teaching and consultation';
+  return finishPage('<!doctype html><html lang="zh-Hant" data-lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(title) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/">\n' +
-    hreflangLinks('https://yuchuntsai.com/', ['zh-Hant']) +
-    shareTags({ title, description: SITE_DESCRIPTION, url: 'https://yuchuntsai.com/', image: DEFAULT_SHARE_IMAGE, type: 'website', langs: ['zh-Hant'] }) +
+    hreflangLinks('https://yuchuntsai.com/', LANGS) +
+    shareTags({ title, description: SITE_DESCRIPTION, url: 'https://yuchuntsai.com/', image: DEFAULT_SHARE_IMAGE, type: 'website', langs: LANGS }) +
+    langHead(LANGS, 'zh-Hant') +
     '<link rel="alternate" type="application/atom+xml" title="Blog" href="blog/feed.xml">\n' +
     jsonLdScript(siteJsonLd()) +
     '<link rel="stylesheet" href="style.css' + cssV(opts) + '"></head><body class="landing">\n' +
     '<main>\n' +
     '  <h1>' + esc(site.name) + '<span>建築與設計作品集指導從哪裡開始？</span></h1>\n' +
+    '  <p class="hours"><span data-l="zh-Hant" lang="zh-Hant">' + esc(hoursZh) + '</span>' +
+    '<span data-l="en" lang="en">' + esc(hoursEn) + '</span>' +
+    '<span data-l="zh-Hans" lang="zh-Hans">' + esc(toHans(hoursZh)) + '</span></p>\n' +
     '  <nav>\n' +
     '    <a href="board/">' + esc(n.board) + '</a>\n' +
     '    <a href="A-Z/">' + esc(n.az) + '</a>\n' +
