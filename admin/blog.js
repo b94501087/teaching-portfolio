@@ -329,7 +329,7 @@ function postCard(p, depth, L) {
   p = mergeLoc(p);
   const cats = postCats(p);
   return '  <li class="post-card" data-cat="' + esc(cats.join(' ')) + '"><a href="' + (depth === 1 ? '' : '../') + esc(p.slug) + '/">' +
-    (p.cover ? '<img src="' + esc(assetUrl(p.cover, depth)) + '" alt="" draggable="false" loading="lazy">' : '') +
+    (p.cover ? '<img src="' + esc(assetUrl(p.cover, depth)) + '" alt="' + esc(zhOr(p.title)) + '" draggable="false" loading="lazy">' : '') +
     '<span class="pc-text"><span class="pc-meta"><time datetime="' + esc(p.date) + '">' + esc(p.date) + '</time> · ' + cats.map(c => catLabel(c, L)).join(' / ') + '</span>' +
     '<strong class="pc-title">' + bi(p.title, 'span', L) + '</strong>' +
     (zhOr(p.summary) ? '<span class="pc-sum">' + bi(p.summary, 'span', L) + '</span>' : '') + '</span></a></li>\n';
