@@ -33,7 +33,7 @@ test('live content: posts valid, rebranded, local images; empty state still rend
   const txt = JSON.stringify(blog);
   assert.doesNotMatch(txt, /宇乔|宇喬|YUCIAO|Ycer|qpic\.cn/i, 'no third-party brand or WeChat image URLs');
   for (const p of live) {
-    assert.ok(p.source && p.source.type === 'wechat' && /^\d{4}-\d{2}-\d{2}$/.test(p.source.date));
+    assert.ok(p.source && ['wechat', 'official'].includes(p.source.type) && /^\d{4}-\d{2}-\d{2}$/.test(p.source.date));
     for (const m of (JSON.stringify(p.body) + (p.cover || '')).matchAll(/assets\/blog\/[a-z0-9-]+\/[\w.-]+\.webp/g))
       assert.ok(existsSync(new URL('../' + m[0], import.meta.url)), m[0]);
     const h = renderBlogPost(site, blog, p, {});

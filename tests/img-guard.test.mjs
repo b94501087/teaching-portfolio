@@ -17,7 +17,9 @@ function assertGuarded(html, label) {
   for (const a of html.match(/<a\b[^>]*>/gi) || []) {
     assert.doesNotMatch(a, /(?:^|\s)download(?:\s|=|>)/i, label + ' download link ' + a);
     const href = (a.match(/\bhref\s*=\s*"([^"]*)"/i) || [])[1] || '';
-    assert.doesNotMatch(href.replace(/&amp;/gi, '&'), IMAGE_HREF, label + ' image href ' + a);
+    const h = href.replace(/&amp;/gi, '&');
+    if (/\/wiki\/(?:File|Image):/i.test(h)) continue; // Wikimedia file description page (HTML), not image bytes
+    assert.doesNotMatch(h, IMAGE_HREF, label + ' image href ' + a);
   }
   assert.match(html, /assets\/img-guard\.js/, label + ' missing image guard script');
 }
@@ -86,4 +88,12 @@ test('legacy teaching image links are buttons, and a direct image href is not le
   assert.doesNotMatch(h, /<a\b[^>]*href="[^"]+\.webp"/);
   assert.match(h, /<figcaption>A caption<\/figcaption>/);
   for (const s of h.match(/<script>([\s\S]*?)<\/script>/g) || []) assert.doesNotThrow(() => new Function(s.replace(/<\/?script>/g, '')));
+});
+
+test('Wikimedia File: description pages stay links; real images still zoom', async () => {
+  const { hardenImages: h } = await import('../admin/render.js');
+  const desc = h('<a href="https://commons.wikimedia.org/wiki/File:Politecnico_di_Milano_Bovisa_6.jpg">x</a>');
+  assert.match(desc, /^<a href="https:\/\/commons\.wikimedia\.org\/wiki\/File:/);
+  assert.ok(h('<a href="https://upload.wikimedia.org/wikipedia/commons/a/ab/X.jpg">x</a>').includes('class="zoom"'));
+  assert.ok(h('<a href="/assets/blog/a/01.webp">x</a>').includes('class="zoom"'));
 });

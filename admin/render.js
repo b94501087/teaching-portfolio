@@ -126,6 +126,10 @@ function addClass(attrs, cls) {
 function isImageHref(href) {
   if (href == null) return false;
   const path = String(href).replace(/&amp;/gi, '&').split(/[?#]/)[0].trim();
+  // Wikimedia/Wikipedia file description pages (/wiki/File:X.jpg) are HTML, not image bytes.
+  let decoded = path;
+  try { decoded = decodeURIComponent(path); } catch (e) {}
+  if (/\/wiki\/(File|Image|檔案|文件):/i.test(decoded)) return false;
   return IMAGE_HREF.test(path);
 }
 function withDraggable(tag) {
