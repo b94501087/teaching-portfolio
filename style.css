@@ -210,6 +210,25 @@ body.blog-page,body.blog-post-page{background:#fff}
 .share a,.share button{font-size:13px;color:#555;text-decoration:none}
 @media (hover:hover){.share a:hover,.share button:hover{color:#111;text-decoration:underline;text-underline-offset:3px}}
 .share-status,.sub-msg{font-size:13px;color:#444;margin:8px 0 0}
+/* Icon share row under the article body: 36px line icons in the body colour, brand colour on hover / keyboard focus. */
+.share-row{margin:28px 0 8px;padding:16px 0 0;border-top:1px solid #eee}
+.share-row-h{margin:0 0 10px;font-size:13px;line-height:1.4;color:#666}
+.share-icons{display:flex;flex-wrap:wrap;gap:12px}
+.share-icons .si{appearance:none;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;padding:0;margin:0;border:1px solid #d6d6d6;border-radius:50%;background:transparent;color:#222;font:inherit;line-height:0;cursor:pointer;text-decoration:none;position:relative;touch-action:manipulation;transition:color .15s ease,border-color .15s ease,background-color .15s ease}
+.share-icons .si svg{display:block;width:20px;height:20px}
+/* 44×44 touch target around the 36px circle (4px each side; the 12px visible gap leaves 4px between targets). */
+.share-icons .si::after{content:"";position:absolute;inset:-5px}
+.share-icons .si:focus{outline:none}
+.share-icons .si:focus-visible{outline:2px solid #111;outline-offset:2px}
+.share-icons .si-x{--brand:#000}
+.share-icons .si-threads{--brand:#000}
+.share-icons .si-instagram{--brand:#E4405F}
+.share-icons .si-facebook{--brand:#1877F2}
+.share-icons .si:focus-visible{color:var(--brand);border-color:var(--brand);background:#f6f6f6}
+@media (hover:hover){.share-icons .si:hover{color:var(--brand);border-color:var(--brand);background:#f6f6f6}}
+.share-row .share-status{margin:10px 0 0}
+.share-row .share-status[hidden],.share-row .msg-ig[hidden]{display:none !important}
+@media (prefers-reduced-motion:reduce){.share-icons .si{transition:none}}
 .qr-pop{position:fixed;inset:0;z-index:30;display:flex;align-items:center;justify-content:center;padding:20px;background:rgba(0,0,0,.4)}
 .qr-card{background:#fff;border-radius:8px;padding:18px 18px 14px;width:min(320px,100%);text-align:center}
 .qr-canvas canvas{width:220px;max-width:100%;height:auto;image-rendering:pixelated}
