@@ -80,6 +80,9 @@
       var raw = document.getElementById('engage-post');
       data = raw ? JSON.parse(raw.textContent || '{}') : {};
     } catch (e) { data = {}; }
+    // Icon share row under the article body (outside .engage); shares the same handlers.
+    var row = document.querySelector('.share-row');
+    var scopes = row ? [root, row] : [root];
     var likeGen = 0;
     var markGen = 0;
 
@@ -106,26 +109,58 @@
       var t = data.title || {};
       return t[lang()] || t['zh-Hant'] || t.en || '';
     }
-    function setStatus(cls) {
-      var el = root.querySelector('.share-status');
+    // The shared URL follows the language on screen: zh-Hant = canonical, else ?lang=en / ?lang=zh-Hans.
+    function shareUrl() {
+      var base = url.split('#')[0].split('?')[0];
+      var l = lang();
+      return l === 'en' || l === 'zh-Hans' ? base + '?lang=' + l : base;
+    }
+    function setStatus(cls, scope) {
+      var box = scope || root;
+      var el = box.querySelector('.share-status');
       if (!el) return;
-      el.textContent = textIn(root.querySelector('.' + cls));
+      el.textContent = textIn(box.querySelector('.' + cls));
       el.hidden = !el.textContent;
+      el.setAttribute('data-msg', cls);
+    }
+    // After a language switch, re-translate any status message already on screen.
+    function retranslateStatus() {
+      scopes.forEach(function (scope) {
+        var el = scope.querySelector('.share-status');
+        var cls = el && !el.hidden ? el.getAttribute('data-msg') : '';
+        if (cls) setStatus(cls, scope);
+      });
     }
     function fillLinks() {
-      var page = url;
+      var page = shareUrl();
       var text = title();
+      var both = encodeURIComponent(text ? text + '\n' + page : page);
       var pairs = {
         line: 'https://social-plugins.line.me/lineit/share?url=' + encodeURIComponent(page),
         facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(page),
+        x: 'https://x.com/intent/post?text=' + encodeURIComponent(text) + '&url=' + encodeURIComponent(page),
+        threads: 'https://www.threads.net/intent/post?text=' + both,
         email: 'mailto:?subject=' + encodeURIComponent(text) + '&body=' + encodeURIComponent(page),
         gmail: 'https://mail.google.com/mail/?view=cm&fs=1&su=' + encodeURIComponent(text) + '&body=' + encodeURIComponent(page),
-        whatsapp: 'https://wa.me/?text=' + encodeURIComponent(text ? text + '\n' + page : page)
+        whatsapp: 'https://wa.me/?text=' + both
       };
-      Object.keys(pairs).forEach(function (k) {
-        var a = root.querySelector('a[data-share="' + k + '"]');
-        if (a) a.setAttribute('href', pairs[k]);
+      scopes.forEach(function (scope) {
+        Object.keys(pairs).forEach(function (k) {
+          var a = scope.querySelector('a[data-share="' + k + '"]');
+          if (a) a.setAttribute('href', pairs[k]);
+        });
       });
+      retranslateStatus();
+      if (row) {
+        var icons = row.querySelectorAll('[data-labels]');
+        for (var i = 0; i < icons.length; i++) {
+          try {
+            var labels = JSON.parse(icons[i].getAttribute('data-labels') || '{}');
+            var label = labels[lang()] || labels['zh-Hant'];
+            if (label) icons[i].setAttribute('aria-label', label);
+          } catch (e) {}
+        }
+      }
     }
     function copyText(value) {
       if (navigator.clipboard && navigator.clipboard.writeText) {
@@ -179,7 +214,7 @@
     }
     function openQR(mode) {
       if (!pop) return;
-      var canvas = drawQR(url);
+      var canvas = drawQR(shareUrl());
       if (!canvas) { setStatus('msg-qrfail'); return; }
       var box = pop.querySelector('.qr-canvas');
       box.textContent = '';
@@ -255,24 +290,35 @@
       pushMark(on).then(show);
     });
 
-    root.addEventListener('click', function (e) {
+    function onShareClick(e) {
+      var scope = this;
       var btn = e.target.closest && e.target.closest('[data-share]');
       if (!btn || btn.tagName === 'A') return;
       var kind = btn.getAttribute('data-share');
+      var page = shareUrl();
       if (kind === 'native') {
         var shareText = title();
-        navigator.share({ title: shareText, text: shareText, url: url }).catch(function () {});
+        navigator.share({ title: shareText, text: shareText, url: page }).catch(function () {});
         return;
       }
       if (kind === 'wechat') { openQR('wechat'); return; }
       if (kind === 'qr') { openQR('qr'); return; }
+      if (kind === 'instagram') {
+        // Instagram has no web share URL: copy the link, and on touch devices also open the system share sheet.
+        var copying = copyText(page);
+        var coarse = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+        if (coarse && navigator.share) navigator.share({ title: title(), url: page }).catch(function () {});
+        copying.then(function (ok) { if (ok) setStatus('msg-ig', scope); });
+        return;
+      }
       if (kind === 'copy' || kind === 'dcard' || kind === 'discord') {
         if (kind === 'dcard') window.open('https://www.dcard.tw/', '_blank', 'noopener,noreferrer');
-        copyText(url).then(function (ok) {
-          if (ok) setStatus(kind === 'dcard' ? 'msg-dcard' : kind === 'discord' ? 'msg-discord' : 'msg-copied');
+        copyText(page).then(function (ok) {
+          if (ok) setStatus(kind === 'dcard' ? 'msg-dcard' : kind === 'discord' ? 'msg-discord' : 'msg-copied', scope);
         });
       }
-    });
+    }
+    scopes.forEach(function (scope) { scope.addEventListener('click', onShareClick); });
     if (pop) {
       pop.addEventListener('click', function (e) { if (e.target === pop) closeQR(); });
       var dl = pop.querySelector('[data-qr-download]');

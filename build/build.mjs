@@ -80,7 +80,9 @@ const thumbs = await buildBoardThumbs(all.board);
 const categories = await readFile('categories.json');
 const scales = await readFile('scale.json');
 const buildOpts = { v, dims, thumbs, categories, scales, deferBoard: true };
-const pages = Object.assign(renderAll(all, buildOpts), renderBlog(all, { v }));
+// ?v= on assets/engage.js too, so a new blog build never pairs fresh HTML with a cached old engage.js.
+const ev = createHash('sha256').update(await fs.readFile(path.join(root, 'assets', 'engage.js'))).digest('hex').slice(0, 10);
+const pages = Object.assign(renderAll(all, buildOpts), renderBlog(all, { v, ev }));
 for (const [rel, html] of Object.entries(pages)) {
   await fs.mkdir(path.dirname(path.join(out, rel)), { recursive: true });
   await fs.writeFile(path.join(out, rel), html);

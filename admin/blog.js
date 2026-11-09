@@ -94,6 +94,12 @@ const UI = {
   copy: { 'zh-Hant': '複製連結', 'zh-Hans': '复制链接', en: 'Copy link' },
   copied: { 'zh-Hant': '已複製', 'zh-Hans': '已复制', en: 'Copied' },
   dcardDone: { 'zh-Hant': '已複製連結，請到 Dcard 貼上。', 'zh-Hans': '已复制链接，请到 Dcard 贴上。', en: 'Link copied. Paste it on Dcard.' },
+  igDone: { 'zh-Hant': '已複製，可貼到 IG', 'zh-Hans': '已复制，可贴到 IG', en: 'Copied. Paste it on Instagram.' },
+  shareThis: { 'zh-Hant': '分享這篇', 'zh-Hans': '分享这篇', en: 'Share' },
+  shareX: { 'zh-Hant': '分享到 X', 'zh-Hans': '分享到 X', en: 'Share on X' },
+  shareThreads: { 'zh-Hant': '分享到 Threads', 'zh-Hans': '分享到 Threads', en: 'Share on Threads' },
+  shareIg: { 'zh-Hant': '複製連結，分享到 Instagram', 'zh-Hans': '复制链接，分享到 Instagram', en: 'Copy link to share on Instagram' },
+  shareFb: { 'zh-Hant': '分享到 Facebook', 'zh-Hans': '分享到 Facebook', en: 'Share on Facebook' },
   discordDone: { 'zh-Hant': '已複製連結，請貼到 Discord。', 'zh-Hans': '已复制链接，请贴到 Discord。', en: 'Link copied. Paste it into Discord.' },
   qr: { 'zh-Hant': '產生 QR code', 'zh-Hans': '生成 QR code', en: 'Generate QR code' },
   qrDownload: { 'zh-Hant': '下載 PNG', 'zh-Hans': '下载 PNG', en: 'Download PNG' },
@@ -235,9 +241,10 @@ const BLOG_FILTER_JS = '<script>(function(){var bs=[].slice.call(document.queryS
   'if(sb)sb.addEventListener("click",function(){history.replaceState(null,"",saved()?location.pathname+location.search:"#saved");apply()});' +
   'window.addEventListener("hashchange",apply);apply()})();</script>\n';
 
-function engageScripts(depth, withQr) {
-  const p = '../'.repeat(depth);
-  return (withQr ? '<script src="' + p + 'assets/qrcode.js"></script>\n' : '') + '<script src="' + p + 'assets/engage.js"></script>\n';
+// opts.ev = short hash of assets/engage.js (build/build.mjs), appended as ?v= for cache busting.
+function engageScripts(depth, withQr, opts) {
+  const p = '../'.repeat(depth), ev = opts && opts.ev ? '?v=' + esc(opts.ev) : '';
+  return (withQr ? '<script src="' + p + 'assets/qrcode.js"></script>\n' : '') + '<script src="' + p + 'assets/engage.js' + ev + '"></script>\n';
 }
 function hiddenMsg(cls, key, L) {
   return '<span class="' + cls + '" hidden>' + bi(UI[key], 'span', L) + '</span>';
@@ -247,6 +254,8 @@ function shareUrls(url, title) {
   return {
     line: 'https://social-plugins.line.me/lineit/share?url=' + u,
     facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + u,
+    x: 'https://x.com/intent/post?text=' + t + '&url=' + u,
+    threads: 'https://www.threads.net/intent/post?text=' + both,
     email: 'mailto:?subject=' + t + '&body=' + u,
     gmail: 'https://mail.google.com/mail/?view=cm&fs=1&su=' + t + '&body=' + u,
     whatsapp: 'https://wa.me/?text=' + both
@@ -298,6 +307,32 @@ function engageBlock(post, L) {
     '<script type="application/json" id="engage-post">' + payload + '</script></div>\n';
 }
 
+// Icon share row under the article body: X / Threads / Facebook are plain official share URLs (no
+// platform scripts); Instagram has no web share URL, so it copies the link (and opens the system share
+// sheet on touch devices). Icons are inline SVG line drawings in currentColor (self-hosted, no icon CDN).
+// engage.js rewrites every share URL to the language being shown (?lang=en / ?lang=zh-Hans).
+const SHARE_ICONS = {
+  x: '<path d="M4.5 4h3.8L19.5 20h-3.8z"/><path d="M19 4l-5.9 6.6M5 20l5.9-6.6"/>',
+  threads: '<path d="M17.6 7.6C16.6 5.3 14.6 4 12 4 7.4 4 4.5 7.2 4.5 12s2.9 8 7.5 8c3.9 0 6.5-2.2 6.5-5.2 0-2.6-2.1-4.3-5.2-4.3-2.4 0-4 1.2-4 2.9 0 1.5 1.3 2.4 2.9 2.4 2.5 0 3.7-1.9 3.7-4.8 0-2.6-1.3-4.3-3.6-4.3-1.5 0-2.6.6-3.3 1.6"/>',
+  instagram: '<rect x="3.75" y="3.75" width="16.5" height="16.5" rx="4.75"/><circle cx="12" cy="12" r="3.9"/><circle cx="17.1" cy="6.9" r=".45" fill="currentColor"/>',
+  facebook: '<path d="M13.6 20.5v-7.3h2.5l.4-2.9h-2.9V8.5c0-.8.3-1.4 1.5-1.4h1.5V4.5c-.3 0-1.1-.1-2.1-.1-2.2 0-3.7 1.3-3.7 3.8v2.1H8.3v2.9h2.5v7.3z"/>'
+};
+const shareSvg = k => '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">' + SHARE_ICONS[k] + '</svg>';
+function iconAttrs(key, L) {
+  const labels = {};
+  for (const l of L) labels[l] = textOf(UI[key], l);
+  return ' aria-label="' + esc(labels[L[0]] || textOf(UI[key], 'zh-Hant')) + '" data-labels="' + esc(JSON.stringify(labels)) + '"';
+}
+function shareRow(post, L) {
+  const links = shareUrls(postUrl(post.slug), zhOr(post.title));
+  const a = (kind, key, href) => '<a class="si si-' + kind + '" data-share="' + kind + '" href="' + esc(href) + '" target="_blank" rel="noopener noreferrer"' + iconAttrs(key, L) + '>' + shareSvg(kind) + '</a>';
+  return '<div class="share-row" role="group" aria-labelledby="share-row-h"><p class="share-row-h" id="share-row-h">' + bi(UI.shareThis, 'span', L) + '</p>' +
+    '<div class="share-icons">' + a('x', 'shareX', links.x) + a('threads', 'shareThreads', links.threads) +
+    '<button type="button" class="si si-instagram" data-share="instagram"' + iconAttrs('shareIg', L) + '>' + shareSvg('instagram') + '</button>' +
+    a('facebook', 'shareFb', links.facebook) + '</div>\n' +
+    '<p class="share-status" role="status" hidden></p>' + hiddenMsg('msg-ig', 'igDone', L) + '</div>\n';
+}
+
 export function renderBlogIndex(site, blog, opts) {
   const posts = blogPosts(blog).map(mergeLoc), L = contentOrder(LANGS), buttons = LANGS;
   const url = SITE_URL + '/blog/';
@@ -323,7 +358,7 @@ export function renderBlogIndex(site, blog, opts) {
     h += '<ul class="post-list">\n' + posts.map(p => postCard(p, 1, L)).join('') + '</ul>\n';
     h += '<p class="blog-none" hidden>' + bi(UI.none, 'span', L) + '</p>\n';
   }
-  return finishPage(h + subscribeBlock('feed.xml', L) + '</main>\n' + BLOG_FILTER_JS + LANG_SWITCH_JS + engageScripts(1, false) + '</body></html>\n', 1);
+  return finishPage(h + subscribeBlock('feed.xml', L) + '</main>\n' + BLOG_FILTER_JS + LANG_SWITCH_JS + engageScripts(1, false, opts) + '</body></html>\n', 1);
 }
 function postCard(p, depth, L) {
   p = mergeLoc(p);
@@ -389,7 +424,7 @@ export function renderBlogPost(site, blog, post, opts) {
     ' · <span>' + AUTHOR_NAME + '</span></p>\n' + engageBlock(post, L);
   if (zhOr(post.tldr)) h += '<aside class="tldr"><p class="tldr-h">' + ui('tldr') + '</p>' + bi(post.tldr, 'p', L) + '</aside>\n';
   if (post.cover) h += '<figure class="post-cover"><img src="' + esc(assetUrl(post.cover, 2)) + '" alt="' + esc(title) + '" draggable="false"></figure>\n';
-  h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (textOf(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n';
+  h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (textOf(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n' + shareRow(post, L);
   if (post.abstract_en) {
     const zhViews = L.filter(l => l !== 'en');
     if (hans && zhViews.length) h += zhViews.map(l => '<section class="en-abstract" lang="en" data-l="' + l + '"><h2>English summary</h2><p>' + esc(post.abstract_en) + '</p></section>\n').join('');
@@ -403,7 +438,7 @@ export function renderBlogPost(site, blog, post, opts) {
     '<p class="ab-links"><a href="../../cv/">' + ui('cvLink') + '</a> · <a href="../../board/">' + ui('boardLink') + '</a> · <a href="../../teaching/">' + ui('teachLink') + '</a> · <a href="../../consulting/">' + ui('consultLink') + '</a></p></section>\n';
   const rel = relatedPosts(blog, post);
   if (rel.length) h += '<section class="related"><h2>' + ui('related') + '</h2><ul class="post-list">\n' + rel.map(p => postCard(p, 2, L)).join('') + '</ul></section>\n';
-  return finishPage(h + '</main>\n' + (buttons.length > 1 ? LANG_SWITCH_JS : '') + engageScripts(2, true) + '</body></html>\n', 2);
+  return finishPage(h + '</main>\n' + (buttons.length > 1 ? LANG_SWITCH_JS : '') + engageScripts(2, true, opts) + '</body></html>\n', 2);
 }
 
 /* ---------- feed, sitemap, robots, llms ---------- */

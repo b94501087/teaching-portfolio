@@ -105,6 +105,144 @@ test('build output: post and index engagement, feed link, unchanged URLs', () =>
   for (const stmt of SCHEMA) assert.ok(schema.includes(stmt), stmt.slice(0, 40));
 });
 
+test('icon share row: X / Threads / Instagram / Facebook under the article body, self-hosted SVG, language-aware', () => {
+  const h = renderBlogPost(site, blog, post, {});
+  const m = /<div class="share-row"[\s\S]*?<\/div>\n<p class="share-status"[\s\S]*?<\/div>\n/.exec(h);
+  assert.ok(m, 'share row present');
+  const row = m[0];
+  // Directly after the article body, before the English summary / FAQ / subscribe box.
+  assert.ok(h.indexOf(row) > h.indexOf('<div class="post-body">'));
+  assert.match(h, /<\/div>\n<div class="share-row"/);
+  for (const sec of ['class="en-abstract"', 'class="faq"', 'class="subscribe"']) {
+    if (h.includes(sec)) assert.ok(h.indexOf(row) < h.indexOf(sec), sec);
+  }
+  for (const s of ['分享這篇', '分享这篇', '>Share<']) assert.ok(row.includes(s), s);
+  const kinds = [...row.matchAll(/class="si si-([a-z]+)" data-share="([a-z]+)"/g)].map(x => x[1] + '/' + x[2]);
+  assert.deepEqual(kinds, ['x/x', 'threads/threads', 'instagram/instagram', 'facebook/facebook']);
+  assert.match(row, /<a class="si si-x" data-share="x" href="https:\/\/x\.com\/intent\/post\?text=[^"]*&amp;url=https%3A%2F%2Fyuchuntsai\.com%2Fblog%2F/);
+  assert.match(row, /<a class="si si-threads" data-share="threads" href="https:\/\/www\.threads\.net\/intent\/post\?text=/);
+  assert.match(row, /<a class="si si-facebook" data-share="facebook" href="https:\/\/www\.facebook\.com\/sharer\/sharer\.php\?u=https%3A%2F%2Fyuchuntsai\.com%2Fblog%2F/);
+  assert.match(row, /<button type="button" class="si si-instagram" data-share="instagram"/);
+  assert.doesNotMatch(row, /instagram\.com/);
+  assert.equal((row.match(/<svg viewBox="0 0 24 24"[^>]*aria-hidden="true"[^>]*stroke="currentColor"/g) || []).length, 4);
+  assert.equal((row.match(/ aria-label="[^"]+"/g) || []).length, 4);
+  for (const s of ['分享到 X', 'Share on X', '分享到 Threads', 'Share on Threads', '複製連結，分享到 Instagram', '复制链接，分享到 Instagram', 'Copy link to share on Instagram', '分享到 Facebook', 'Share on Facebook']) assert.ok(row.includes(s), s);
+  assert.match(row, /class="msg-ig" hidden/);
+  for (const s of ['已複製，可貼到 IG', '已复制，可贴到 IG', 'Copied. Paste it on Instagram.']) assert.ok(row.includes(s), s);
+  assert.match(row, /<p class="share-status" role="status" hidden><\/p>/);
+  // No platform embed scripts / widgets / external icon libraries.
+  assert.doesNotMatch(h, /platform\.twitter\.com|connect\.facebook\.net|widgets\.js|sdk\.js|threads\.net\/embed|instagram\.com\/embed|font-?awesome|simpleicons|iconify/i);
+  // The old full share row keeps LINE / WeChat / Facebook / Dcard … but no longer has X / Threads / IG text links.
+  const old = /<div class="share" role="group">[\s\S]*?<\/div>/.exec(h)[0];
+  for (const k of ['line', 'wechat', 'facebook', 'email', 'gmail', 'dcard', 'discord', 'whatsapp', 'copy', 'qr']) assert.match(old, new RegExp('data-share="' + k + '"'), k);
+  for (const k of ['x', 'threads', 'instagram']) assert.doesNotMatch(old, new RegExp('data-share="' + k + '"'), k);
+  // engage.js: language-aware URLs, Instagram copies (no new tab), native sheet only on coarse pointers.
+  const js = readFileSync(new URL('../assets/engage.js', import.meta.url), 'utf8');
+  assert.match(js, /'\?lang=' \+ l/);
+  assert.match(js, /l === 'en' \|\| l === 'zh-Hans'/);
+  assert.match(js, /x: 'https:\/\/x\.com\/intent\/post\?text='/);
+  assert.match(js, /threads: 'https:\/\/www\.threads\.net\/intent\/post\?text='/);
+  assert.match(js, /\(pointer: coarse\)/);
+  assert.match(js, /setStatus\('msg-ig', scope\)/);
+  assert.doesNotMatch(js, /instagram\.com/);
+  const css = readFileSync(new URL('../style.css', import.meta.url), 'utf8');
+  assert.match(css, /\.share-icons\{display:flex;flex-wrap:wrap;gap:12px\}/);
+  assert.match(css, /\.share-icons \.si\{[^}]*width:36px;height:36px;[^}]*border-radius:50%/);
+  for (const c of ['--brand:#000', '--brand:#E4405F', '--brand:#1877F2']) assert.ok(css.includes(c), c);
+  assert.match(css, /\.share-icons \.si:focus-visible\{/);
+  assert.match(css, /@media \(prefers-reduced-motion:reduce\)\{\.share-icons \.si\{transition:none\}\}/);
+});
+
+function runEngage(langNow, opts = {}) {
+  // Minimal DOM stub: enough for bootPost to fill links and handle the Instagram click.
+  const els = {}, listeners = {};
+  const mk = (attrs = {}, extra = {}) => ({ attrs: { ...attrs }, hidden: true, textContent: '', tagName: extra.tag || 'DIV',
+    getAttribute(k) { return k in this.attrs ? this.attrs[k] : null; }, setAttribute(k, v) { this.attrs[k] = String(v); },
+    classList: { toggle() {} }, addEventListener(t, f) { (this._l = this._l || {})[t] = f; }, ...extra });
+  const links = {};
+  for (const k of ['line', 'facebook', 'x', 'threads', 'email', 'gmail', 'whatsapp']) links[k] = [mk({}, { tag: 'A' }), mk({}, { tag: 'A' })];
+  const status = [mk(), mk()];
+  const docEl = mk({ 'data-lang': langNow });
+  const igMsg = mk(), icons = [mk({ 'data-labels': JSON.stringify({ 'zh-Hant': '分享到 X', en: 'Share on X', 'zh-Hans': '分享到 X' }) })];
+  igMsg.querySelector = sel => ({ textContent: { 'zh-Hant': '已複製，可貼到 IG', en: 'Copied. Paste it on Instagram.', 'zh-Hans': '已复制，可贴到 IG' }[docEl.attrs['data-lang']] });
+  let observer = null;
+  const scope = i => mk({}, { querySelector(sel) {
+    const a = /^a\[data-share="([a-z]+)"\]$/.exec(sel); if (a) return links[a[1]] ? links[a[1]][i] : null;
+    if (sel === '.share-status') return status[i];
+    if (sel === '.msg-ig') return i === 1 ? igMsg : null;
+    return null; }, querySelectorAll(sel) { return sel === '[data-labels]' && i === 1 ? icons : []; } });
+  const root = scope(0); root.attrs = { 'data-slug': post.slug, 'data-url': 'https://yuchuntsai.com/blog/' + post.slug + '/', 'data-view-window': '1' };
+  const row = scope(1);
+  let copied = null, shared = null;
+  const ctx = {
+    document: { readyState: 'complete', documentElement: docEl, referrer: '', addEventListener() {},
+      querySelector(sel) { return sel === '.engage[data-slug]' ? root : sel === '.share-row' ? row : null; },
+      querySelectorAll() { return []; }, getElementById() { return null; } },
+    localStorage: { getItem() { return null; }, setItem() {} },
+    navigator: { clipboard: { writeText(v) { copied = v; return Promise.resolve(); } }, share: opts.share ? (d => { shared = d; return Promise.resolve(); }) : undefined },
+    window: { MutationObserver: true, matchMedia: q => ({ matches: q === '(pointer: coarse)' ? !!opts.coarse : false }), open() { throw new Error('no new tab'); }, innerWidth: 1280 },
+    MutationObserver: function (cb) { observer = cb; this.observe = function () {}; },
+    location: { href: '', host: 'yuchuntsai.com' }, fetch: () => Promise.resolve({ ok: false }), Promise, JSON, Date, Math, Uint8Array, Number, String, Object, setTimeout
+  };
+  vm.createContext(ctx);
+  vm.runInContext(readFileSync(new URL('../assets/engage.js', import.meta.url), 'utf8'), ctx);
+  const igBtn = { tagName: 'BUTTON', getAttribute: k => (k === 'data-share' ? 'instagram' : null) };
+  const switchLang = l => { docEl.attrs['data-lang'] = l; if (observer) observer([]); };
+  return { links, icons, status, row, igBtn, switchLang, get copied() { return copied; }, get shared() { return shared; } };
+}
+
+test('engage.js: share URLs follow the shown language; Instagram copies it and shows the IG status', async () => {
+  const base = 'https://yuchuntsai.com/blog/' + post.slug + '/';
+  for (const [l, want, msg] of [['zh-Hant', base, '已複製，可貼到 IG'], ['en', base + '?lang=en', 'Copied. Paste it on Instagram.'], ['zh-Hans', base + '?lang=zh-Hans', '已复制，可贴到 IG']]) {
+    const r = runEngage(l);
+    const enc = encodeURIComponent(want);
+    for (const i of [0, 1]) {
+      assert.ok(r.links.facebook[i].attrs.href.endsWith('?u=' + enc), l + ' facebook');
+      assert.ok(r.links.x[i].attrs.href.endsWith('&url=' + enc), l + ' x');
+      assert.ok(r.links.threads[i].attrs.href.endsWith(enc), l + ' threads');
+      assert.ok(r.links.line[i].attrs.href.endsWith('?url=' + enc), l + ' line');
+    }
+    assert.equal(r.icons[0].attrs['aria-label'], l === 'en' ? 'Share on X' : '分享到 X');
+    r.row._l.click.call(r.row, { target: { closest: () => r.igBtn } });
+    await new Promise(res => setTimeout(res, 0));
+    assert.equal(r.copied, want, l + ' copied');
+    assert.equal(r.status[1].textContent, msg);
+    assert.equal(r.status[1].hidden, false);
+    assert.equal(r.shared, null, 'no share sheet on desktop');
+  }
+  // S03: a status already on screen follows a later language switch; links follow too.
+  const sw = runEngage('zh-Hant');
+  sw.row._l.click.call(sw.row, { target: { closest: () => sw.igBtn } });
+  await new Promise(res => setTimeout(res, 0));
+  assert.equal(sw.status[1].textContent, '已複製，可貼到 IG');
+  sw.switchLang('en');
+  assert.equal(sw.status[1].textContent, 'Copied. Paste it on Instagram.');
+  assert.ok(sw.links.x[1].attrs.href.endsWith(encodeURIComponent(base + '?lang=en')));
+  sw.switchLang('zh-Hans');
+  assert.equal(sw.status[1].textContent, '已复制，可贴到 IG');
+  assert.equal(sw.status[1].hidden, false);
+  assert.equal(sw.status[0].textContent, '', 'top-row status stays empty');
+  const m = runEngage('en', { share: true, coarse: true });
+  m.row._l.click.call(m.row, { target: { closest: () => m.igBtn } });
+  await new Promise(res => setTimeout(res, 0));
+  assert.equal(m.shared.url, base + '?lang=en');
+  assert.equal(m.copied, base + '?lang=en');
+});
+
+test('build: engage.js gets a ?v= content hash; share icons have a 44px touch target', () => {
+  const h = renderBlogPost(site, blog, post, { v: 'abc1234567', ev: 'def7654321' });
+  assert.match(h, /<script src="\.\.\/\.\.\/assets\/engage\.js\?v=def7654321"><\/script>/);
+  assert.match(h, /href="\.\.\/\.\.\/style\.css\?v=abc1234567"/);
+  assert.match(renderBlogIndex(site, blog, { v: 'a', ev: 'b9' }), /src="\.\.\/assets\/engage\.js\?v=b9"/);
+  assert.match(renderBlogPost(site, blog, post, {}), /src="\.\.\/\.\.\/assets\/engage\.js"/);
+  const build = readFileSync(new URL('../build/build.mjs', import.meta.url), 'utf8');
+  assert.match(build, /createHash\('sha256'\)\.update\(await fs\.readFile\(path\.join\(root, 'assets', 'engage\.js'\)\)\)/);
+  assert.match(build, /renderBlog\(all, \{ v, ev \}\)/);
+  const css = readFileSync(new URL('../style.css', import.meta.url), 'utf8');
+  assert.match(css, /\.share-icons \.si\{[^}]*position:relative/);
+  assert.match(css, /\.share-icons \.si::after\{content:"";position:absolute;inset:-5px\}/);
+});
+
 test('vendored QR library encodes a post URL without a network', () => {
   const src = readFileSync(new URL('../assets/qrcode.js', import.meta.url), 'utf8');
   assert.match(src, /MIT/);
