@@ -248,7 +248,7 @@ export function personJsonLd() {
   return { '@type': 'Person', '@id': SITE_URL + '/#person', name: 'Yu Chun Tsai', url: SITE_URL + '/cv/',
     jobTitle: 'Architecture & design portfolio mentor; Senior External Design Consultant, S&J Design (Hong Kong)',
     alumniOf: [{ '@type': 'CollegeOrUniversity', name: 'University of California, Berkeley' }, { '@type': 'CollegeOrUniversity', name: 'National Taiwan University' }],
-    knowsAbout: ['architecture portfolio', 'design portfolio', 'art and design study abroad applications', 'school selection', 'statement of purpose', 'architecture education'] };
+    knowsAbout: ['architecture portfolio', 'design portfolio', 'art and design study-abroad portfolio consulting', 'school selection', 'statement of purpose (SOP) consulting and feedback', 'architecture education'] };
 }
 export function teachingOrgJsonLd() {
   return { '@type': 'EducationalOrganization', '@id': SITE_URL + '/#teaching', name: 'YU CHUN TSAI',
@@ -1081,7 +1081,7 @@ ${jsonLdScript(serviceLd)}
   <h1>設計諮詢怎麼開始？</h1>
   <p class="kicker">${esc(c.title)}</p>
   <p class="lead">${inline(c.lead)}</p>
-
+${c.scope ? `  <p class="lead scope">${inline(c.scope)}</p>\n` : ''}
   <div class="notice">
     ${inline(c.notice, '    ')}
   </div>
@@ -1100,8 +1100,8 @@ ${jsonLdScript(serviceLd)}
   <section class="pay">
     <h2>想用哪種方式支付？</h2>
     <div class="pay-list" id="payMethods">
-${pays.map((p, i) => `      <label><input type="radio" name="pay" value="${esc(p.value)}"${i === 0 ? ' checked' : ''}> ${esc(p.label)}</label>\n`).join('')}    </div>
-    <ul class="terms">
+${pays.map((p, i) => `      <label><input type="radio" name="pay" value="${esc(p.value)}"${i === 0 ? ' checked' : ''}> ${esc(p.label)}${p.note ? ` <small class="pay-note">${esc(p.note)}</small>` : ''}</label>\n`).join('')}    </div>
+${c.payee ? `    <p class="payee">${inline(c.payee)}</p>\n` : ''}    <ul class="terms">
 ${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}</li>\n`).join('')}    </ul>
   </section>
 
@@ -1113,7 +1113,7 @@ ${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}
     <label for="email">Email</label>
     <input id="email" name="email" type="email" autocomplete="email" required>
     <label for="note">需求簡述（選填）</label>
-    <textarea id="note" name="note" placeholder="例如：作品集申請／單案設計輔導／時區偏好"></textarea>
+    <textarea id="note" name="note" placeholder="例如：作品集輔導／單案設計輔導／時區偏好"></textarea>
     <div class="actions">
       <button type="button" class="submit" id="submit">索取付款指示</button>
     </div>

@@ -1,6 +1,7 @@
 {
   "title": "Design consulting",
   "lead": "建築／空間設計諮詢與作品集輔導。選定方案與支付偏好後，先完成付款，確認入帳再開諮詢時段。",
+  "scope": "本頁服務為作品集與設計諮詢（設計項目輔導），不代辦留學申請、不代寫申請文件。",
   "notice": "**先付費，後諮詢。**\n參考單價 ¥1,000 CNY／小時；最小購買單位 10 小時。\n**尚未開通線上收款**——商戶號／收款碼就緒前，會以 Email 回覆付款指示。",
   "rateNote": "標價為各幣種整數參考價（非即時匯率逐筆乘算）；實收以入帳／付款指示為準。",
   "plans": [
@@ -14,16 +15,18 @@
       "price": { "CNY": 99000, "USD": 15000, "EUR": 13000, "TWD": 470000 } }
   ],
   "payments": [
-    { "value": "WeChat Pay", "label": "WeChat Pay 微信支付", "enabled": true },
-    { "value": "Alipay", "label": "Alipay 支付寶", "enabled": true },
-    { "value": "LINE Pay", "label": "LINE Pay", "enabled": true },
-    { "value": "Visa", "label": "Visa", "enabled": true },
-    { "value": "Mastercard", "label": "Mastercard", "enabled": true },
+    { "value": "WeChat Pay", "label": "WeChat Pay 微信支付", "enabled": true, "note": "即將開通，目前請索取付款指示" },
+    { "value": "Alipay", "label": "Alipay 支付寶", "enabled": true, "note": "即將開通，目前請索取付款指示" },
+    { "value": "LINE Pay", "label": "LINE Pay", "enabled": true, "note": "即將開通，目前請索取付款指示" },
+    { "value": "Visa", "label": "Visa", "enabled": true, "note": "即將開通，目前請索取付款指示" },
+    { "value": "Mastercard", "label": "Mastercard", "enabled": true, "note": "即將開通，目前請索取付款指示" },
     { "value": "Bank transfer", "label": "銀行轉帳", "enabled": true }
   ],
+  "payee": "收款人：YU CHUN TSAI 本人（個人名義收款）",
   "terms": [
     "諮詢時段於**款項確認後**安排；未付款不開諮詢。",
-    "購買後請於六個月內用完（方案另有註明者除外）；未用完可轉讓，原則不退費。",
+    "購買後請於六個月內用完（方案另有註明者除外）。",
+    "退費：首次會面 7 天前取消全額退費；3 天前取消退 80%；首次會面開始後 48 小時內取消退 70%；第二次會面後退 60%；第三次會面後不退費。",
     "各幣種為整數參考標價；**實收以入帳／付款指示為準**。"
   ],
   "checkoutHint": "會開啟 Email 草稿。線上收款開通前，僅能依回覆完成付款。",
