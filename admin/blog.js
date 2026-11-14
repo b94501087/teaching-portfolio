@@ -472,10 +472,10 @@ export function renderLlms(all, full) {
   const posts = blogPosts(all.blog).map(mergeLoc), pins = all.board ? listedPins(all.board) : [], studios = teachingStudios(all.teaching);
   let t = '# Yu Chun Tsai — architecture & design portfolio mentor\n\n' +
     '> ' + SITE_DESCRIPTION + '\n\n' +
-    'Yu Chun Tsai mentors architecture, landscape, urban, interior and art/design students on portfolios and study-abroad applications (master\'s and undergraduate), and is a Senior External Design Consultant at S&J Design, Hong Kong (2017–2026). Education: UC Berkeley, Master of Architecture (2016); National Taiwan University, BSc Civil Engineering.\n\n' +
+    'Yu Chun Tsai mentors architecture, landscape, urban, interior and art/design students on portfolios, with design consulting for study-abroad applications (master\'s and undergraduate; no application-agency or document-writing services), and is a Senior External Design Consultant at S&J Design, Hong Kong (2017–2026). Education: UC Berkeley, Master of Architecture (2016); National Taiwan University, BSc Civil Engineering.\n\n' +
     '## Expertise\n\n- ' + AUTHOR_FACTS.en + '\n- Student admissions (selected): ' + ADMISSIONS.join(', ') + '.\n' +
     '- Teaching approach: narrative-driven, research-by-design pedagogy across scales (object to territory); Socratic mentoring; portfolio as argument.\n\n' +
-    '## Key topics\n\n- Architecture / design portfolio strategy and layout\n- School selection for art, architecture and design programmes (US, UK & Europe, Asia)\n- Statements of purpose and application essays\n- Dream-school and top-school (e.g. Harvard, MIT, Princeton, Columbia, Cambridge, UCL) requirements\n\n' +
+    '## Key topics\n\n- Architecture / design portfolio strategy and layout\n- School selection for art, architecture and design programmes (US, UK & Europe, Asia)\n- Feedback on statements of purpose and application essays (no ghostwriting)\n- Dream-school and top-school (e.g. Harvard, MIT, Princeton, Columbia, Cambridge, UCL) requirements\n\n' +
     '## Main pages\n\n- [Blog](' + SITE_URL + '/blog/): portfolio & art/design study-abroad articles (zh-Hant, some English)\n' +
     '- [Student project board](' + SITE_URL + '/board/): ' + pins.length + ' mentored student portfolio projects (master\'s and undergraduate applications)\n' +
     '- [Teaching](' + SITE_URL + '/teaching/): teaching philosophy and ' + studios.length + ' themed design workshops\n' +
