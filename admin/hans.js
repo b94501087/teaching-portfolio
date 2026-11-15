@@ -16,7 +16,9 @@ const SKIP = new Set([
   '裝置',
   '互動', '互動式',
   '介面',
-  '程式'
+  '程式',
+  '核心',
+  '進階', '高階'
 ]);
 
 const GUARDS = ['投影片'];
@@ -32,7 +34,9 @@ function filteredFrom() {
 }
 
 // 介面 in this portfolio is a UI, so 界面 rather than OpenCC's 接口.
-const convert = ConverterFactory(filteredFrom(), ['介面 界面'], Locale.to.cn);
+// 官方資料, 以上資料, 舊資料 and 申請資料 mean "information" here, so they stay 资料; listed in the
+// phrase group so they win over 資料. 機率 is 概率 (OpenCC twp gives the less standard form).
+const convert = ConverterFactory([...filteredFrom(), '官方資料 官方资料', '以上資料 以上资料', '舊資料 旧资料', '申請資料 申请资料', '機率 概率'], ['介面 界面'], Locale.to.cn);
 
 export function toHans(text) {
   const s = typeof text === 'string' ? text : '';
