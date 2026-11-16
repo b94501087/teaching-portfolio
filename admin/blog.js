@@ -100,6 +100,13 @@ const UI = {
   shareThreads: { 'zh-Hant': '分享到 Threads', 'zh-Hans': '分享到 Threads', en: 'Share on Threads' },
   shareIg: { 'zh-Hant': '複製連結，分享到 Instagram', 'zh-Hans': '复制链接，分享到 Instagram', en: 'Copy link to share on Instagram' },
   shareFb: { 'zh-Hant': '分享到 Facebook', 'zh-Hans': '分享到 Facebook', en: 'Share on Facebook' },
+  shareLine: { 'zh-Hant': '分享到 LINE', 'zh-Hans': '分享到 LINE', en: 'Share on LINE' },
+  shareWechat: { 'zh-Hant': '分享到微信', 'zh-Hans': '分享到微信', en: 'Share on WeChat' },
+  shareEmail: { 'zh-Hant': '用 Email 分享', 'zh-Hans': '用 Email 分享', en: 'Share by email' },
+  shareGmail: { 'zh-Hant': '用 Gmail 分享', 'zh-Hans': '用 Gmail 分享', en: 'Share with Gmail' },
+  shareDcard: { 'zh-Hant': '分享到 Dcard', 'zh-Hans': '分享到 Dcard', en: 'Share on Dcard' },
+  shareDiscord: { 'zh-Hant': '分享到 Discord', 'zh-Hans': '分享到 Discord', en: 'Share on Discord' },
+  shareWhatsapp: { 'zh-Hant': '分享到 WhatsApp', 'zh-Hans': '分享到 WhatsApp', en: 'Share on WhatsApp' },
   discordDone: { 'zh-Hant': '已複製連結，請貼到 Discord。', 'zh-Hans': '已复制链接，请贴到 Discord。', en: 'Link copied. Paste it into Discord.' },
   qr: { 'zh-Hant': '產生 QR code', 'zh-Hans': '生成 QR code', en: 'Generate QR code' },
   qrDownload: { 'zh-Hant': '下載 PNG', 'zh-Hans': '下载 PNG', en: 'Download PNG' },
@@ -261,8 +268,40 @@ function shareUrls(url, title) {
     whatsapp: 'https://wa.me/?text=' + both
   };
 }
-function shareLink(kind, label, href, blank) {
-  return '<a data-share="' + kind + '" href="' + esc(href) + '"' + (blank ? ' target="_blank" rel="noopener noreferrer"' : '') + '>' + label + '</a>';
+// Brand-coloured rounded-square icons for the .share bar (inline SVG, no icon CDN).
+// LINE, WeChat, WhatsApp, Facebook, Discord: Simple Icons paths used as-is (CC0-1.0).
+// Gmail: official 2020 multicolour mark from Wikimedia Commons (File:Gmail_icon_(2020).svg);
+//   original viewBox 52 42 88 66, padded here to 48 38 96 74.
+// Dcard: official D monogram taken from https://www.dcard.tw/images/logo.svg
+//   (the wordmark's first letter; Simple Icons has no Dcard icon).
+// Email, native share, copy-link, and QR: simple generic stroke glyphs drawn for this bar
+//   (not from Simple Icons or another icon set).
+const SHARE_BAR_ICONS = {
+  line: { fill: '<path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63h2.386c.346 0 .627.285.627.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63.346 0 .628.285.628.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.282.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"/>' },
+  wechat: { fill: '<path d="M8.691 2.188C3.891 2.188 0 5.476 0 9.53c0 2.212 1.17 4.203 3.002 5.55a.59.59 0 0 1 .213.665l-.39 1.48c-.019.07-.048.141-.048.213 0 .163.13.295.29.295a.326.326 0 0 0 .167-.054l1.903-1.114a.864.864 0 0 1 .717-.098 10.16 10.16 0 0 0 2.837.403c.276 0 .543-.027.811-.05-.857-2.578.157-4.972 1.932-6.446 1.703-1.415 3.882-1.98 5.853-1.838-.576-3.583-4.196-6.348-8.596-6.348zM5.785 5.991c.642 0 1.162.529 1.162 1.18a1.17 1.17 0 0 1-1.162 1.178A1.17 1.17 0 0 1 4.623 7.17c0-.651.52-1.18 1.162-1.18zm5.813 0c.642 0 1.162.529 1.162 1.18a1.17 1.17 0 0 1-1.162 1.178 1.17 1.17 0 0 1-1.162-1.178c0-.651.52-1.18 1.162-1.18zm5.34 2.867c-1.797-.052-3.746.512-5.28 1.786-1.72 1.428-2.687 3.72-1.78 6.22.942 2.453 3.666 4.229 6.884 4.229.826 0 1.622-.12 2.361-.336a.722.722 0 0 1 .598.082l1.584.926a.272.272 0 0 0 .14.047c.134 0 .24-.111.24-.247 0-.06-.023-.12-.038-.177l-.327-1.233a.582.582 0 0 1-.023-.156.49.49 0 0 1 .201-.398C23.024 18.48 24 16.82 24 14.98c0-3.21-2.931-5.837-6.656-6.088V8.89c-.135-.01-.27-.027-.407-.03zm-2.53 3.274c.535 0 .969.44.969.982a.976.976 0 0 1-.969.983.976.976 0 0 1-.969-.983c0-.542.434-.982.97-.982zm4.844 0c.535 0 .969.44.969.982a.976.976 0 0 1-.969.983.976.976 0 0 1-.969-.983c0-.542.434-.982.969-.982z"/>' },
+  facebook: { fill: '<path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/>' },
+  discord: { fill: '<path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/>' },
+  whatsapp: { fill: '<path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/>' },
+  native: { stroke: '<path d="M8 10.5h-.5A2.5 2.5 0 0 0 5 13v6a2.5 2.5 0 0 0 2.5 2.5h9A2.5 2.5 0 0 0 19 19v-6a2.5 2.5 0 0 0-2.5-2.5H16"/><path d="M12 15.5V3.5"/><path d="M8.5 7 12 3.5 15.5 7"/>' },
+  email: { stroke: '<rect x="3.5" y="5.5" width="17" height="13" rx="1.8"/><path d="m4.2 7.2 7.2 5.3c.35.26.85.26 1.2 0l7.2-5.3"/>' },
+  copy: { stroke: '<path d="M10 13.2a4.8 4.8 0 0 0 6.8.07l1.7-1.7a4.8 4.8 0 1 0-6.79-6.79L10.3 6.2"/><path d="M14 10.8a4.8 4.8 0 0 0-6.8-.07l-1.7 1.7a4.8 4.8 0 1 0 6.79 6.79L13.7 17.8"/>' },
+  qr: { stroke: '<rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1"/><rect x="5.3" y="5.3" width="2.9" height="2.9"/><rect x="14" y="3.5" width="6.5" height="6.5" rx="1"/><rect x="15.8" y="5.3" width="2.9" height="2.9"/><rect x="3.5" y="14" width="6.5" height="6.5" rx="1"/><rect x="5.3" y="15.8" width="2.9" height="2.9"/><path d="M14 14h2.4v2.4H14zM18.2 14H20.5v2.2M14 18.2h2.2V20.5M18.5 17.6h2v2.9h-3.1v-1.2"/>' },
+  gmail: { vb: '48 38 96 74', raw: '<path fill="#4285f4" d="M58 108h14V74L52 59v43c0 3.32 2.69 6 6 6"/><path fill="#34a853" d="M120 108h14c3.32 0 6-2.69 6-6V59l-20 15"/><path fill="#fbbc04" d="M120 48v26l20-15v-8c0-7.42-8.47-11.65-14.4-7.2"/><path fill="#ea4335" d="M72 74V48l24 18 24-18v26L96 92"/><path fill="#c5221f" d="M52 51v8l20 15V48l-5.6-4.2c-5.94-4.45-14.4-.22-14.4 7.2"/>' },
+  dcard: { vb: '-40 -16 298 304', raw: '<g fill="currentColor" fill-rule="evenodd"><path d="M146.313 104.458c-12.424 0-22.5 10.072-22.5 22.491 0 12.42 10.075 22.492 22.5 22.492 12.424 0 22.5-10.072 22.5-22.492 0-12.419-10.076-22.491-22.5-22.491"/><g transform="translate(1 1)"><path d="M189 162.025c0 2.805-.145 5.572-.423 8.303-2.943 2.088-6.494 3.371-10.378 3.371-1.461 0-2.861-.227-4.224-.554a49.594 49.594 0 0 1-19.755-11.974l-19.107 19.107c11.484 11.407 26.595 19.11 43.42 21.423-13.91 24.617-40.289 41.3-70.533 41.3H27V133.216c55.35-7.376 103.576-37.152 135.409-79.86 7.025 4.872 12.911 10.497 17.028 16.523A80.394 80.394 0 0 1 189 107.972v54.053zM108 0H0v270h108c59.647 0 108-48.349 108-107.975v-54.053C216 48.342 167.661 0 108 0z"/></g></g>' }
+};
+function shareBarSvg(kind) {
+  const ic = SHARE_BAR_ICONS[kind];
+  if (!ic) return '';
+  const vb = ic.vb || '0 0 24 24';
+  if (ic.raw) return '<svg viewBox="' + vb + '" width="22" height="22" aria-hidden="true" focusable="false">' + ic.raw + '</svg>';
+  if (ic.stroke) return '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">' + ic.stroke + '</svg>';
+  return '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false" fill="currentColor">' + ic.fill + '</svg>';
+}
+function shareBarLink(kind, key, href, blank, L) {
+  return '<a class="sb sb-' + kind + '" data-share="' + kind + '" href="' + esc(href) + '"' + (blank ? ' target="_blank" rel="noopener noreferrer"' : '') + iconAttrs(key, L) + '>' + shareBarSvg(kind) + '</a>';
+}
+function shareBarBtn(kind, key, L) {
+  return '<button type="button" class="sb sb-' + kind + '" data-share="' + kind + '"' + iconAttrs(key, L) + '>' + shareBarSvg(kind) + '</button>';
 }
 function toggleBtn(act, countKey, offKey, onKey, L) {
   return '<button type="button" class="stat ' + act + '" data-act="' + act + '" aria-pressed="false"><span class="stat-n" data-n="' + countKey + '" hidden></span>' +
@@ -292,12 +331,12 @@ function engageBlock(post, L) {
     '<div class="engage-stats"><span class="stat views" data-stat="views" hidden><span class="stat-n" data-n="views" hidden></span>' + bi(UI.views, 'span', L) + '</span>' +
     toggleBtn('like', 'likes', 'like', 'liked', L) + toggleBtn('bookmark', 'bookmarks', 'bookmark', 'bookmarked', L) +
     '<a class="saved-jump" href="../#saved">' + bi(UI.savedList, 'span', L) + '</a></div>\n' +
-    '<div class="share" role="group"><button type="button" class="share-native" data-share="native" hidden>' + bi(UI.nativeShare, 'span', L) + '</button>' +
-    shareLink('line', 'LINE', links.line, true) + '<button type="button" data-share="wechat">' + bi(UI.wechat, 'span', L) + '</button>' +
-    shareLink('facebook', 'Facebook', links.facebook, true) + shareLink('email', 'Email', links.email, false) + shareLink('gmail', 'Gmail', links.gmail, true) +
-    '<button type="button" data-share="dcard">Dcard</button><button type="button" data-share="discord">Discord</button>' +
-    shareLink('whatsapp', 'WhatsApp', links.whatsapp, true) + '<button type="button" data-share="copy">' + bi(UI.copy, 'span', L) + '</button>' +
-    '<button type="button" data-share="qr">' + bi(UI.qr, 'span', L) + '</button></div>\n' +
+    '<div class="share" role="group"><button type="button" class="sb sb-native share-native" data-share="native" hidden' + iconAttrs('nativeShare', L) + '>' + shareBarSvg('native') + '</button>' +
+    shareBarLink('line', 'shareLine', links.line, true, L) + shareBarBtn('wechat', 'shareWechat', L) +
+    shareBarLink('facebook', 'shareFb', links.facebook, true, L) + shareBarLink('email', 'shareEmail', links.email, false, L) + shareBarLink('gmail', 'shareGmail', links.gmail, true, L) +
+    shareBarBtn('dcard', 'shareDcard', L) + shareBarBtn('discord', 'shareDiscord', L) +
+    shareBarLink('whatsapp', 'shareWhatsapp', links.whatsapp, true, L) + shareBarBtn('copy', 'copy', L) +
+    shareBarBtn('qr', 'qr', L) + '</div>\n' +
     '<p class="share-status" role="status" hidden></p>\n' +
     hiddenMsg('msg-copied', 'copied', L) + hiddenMsg('msg-dcard', 'dcardDone', L) + hiddenMsg('msg-discord', 'discordDone', L) + hiddenMsg('msg-qrfail', 'qrFail', L) +
     '<div class="qr-pop" hidden role="dialog" aria-modal="true"><div class="qr-card"><div class="qr-canvas"></div>' +
@@ -320,8 +359,9 @@ const SHARE_ICONS = {
 const shareSvg = k => '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">' + SHARE_ICONS[k] + '</svg>';
 function iconAttrs(key, L) {
   const labels = {};
-  for (const l of L) labels[l] = textOf(UI[key], l);
-  return ' aria-label="' + esc(labels[L[0]] || textOf(UI[key], 'zh-Hant')) + '" data-labels="' + esc(JSON.stringify(labels)) + '"';
+  for (const l of ['zh-Hant', 'zh-Hans', 'en']) labels[l] = textOf(UI[key], l);
+  const def = esc(labels[(L && L[0]) || 'zh-Hant'] || labels['zh-Hant']);
+  return ' aria-label="' + def + '" title="' + def + '" data-labels="' + esc(JSON.stringify(labels)) + '"';
 }
 function shareRow(post, L) {
   const links = shareUrls(postUrl(post.slug), zhOr(post.title));

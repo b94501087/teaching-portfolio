@@ -206,9 +206,27 @@ body.blog-page,body.blog-post-page{background:#fff}
 .engage .on .when-on{display:inline}
 .engage .on .when-off{display:none}
 .stat-n{font-variant-numeric:tabular-nums;color:#111;margin-right:4px}
-.share{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 12px;padding:8px 0 0;border-top:1px solid #eee}
+.share{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:8px 0 0;border-top:1px solid #eee}
 .share a,.share button{font-size:13px;color:#555;text-decoration:none}
 @media (hover:hover){.share a:hover,.share button:hover{color:#111;text-decoration:underline;text-underline-offset:3px}}
+/* Rounded-square share badges: 44px, brand fill + white glyph (or Gmail's official colours on white). */
+.share .sb{appearance:none;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;padding:0;margin:0;border:0;border-radius:10px;background:var(--brand,#6B7280);color:#fff;font:inherit;line-height:0;cursor:pointer;text-decoration:none;position:relative;touch-action:manipulation;transition:filter .15s ease,box-shadow .15s ease,border-color .15s ease}
+.share .sb svg{display:block;width:22px;height:22px}
+.share .sb-native{--brand:#6B7280}
+.share .sb-line{--brand:#06C755}
+.share .sb-wechat{--brand:#07C160}
+.share .sb-facebook{--brand:#0866FF}
+.share .sb-email{--brand:#6B7280}
+.share .sb-gmail{--brand:#fff;color:#111;border:1px solid #e5e7eb}
+.share .sb-dcard{--brand:#006AA6}
+.share .sb-discord{--brand:#5865F2}
+.share .sb-whatsapp{--brand:#25D366}
+.share .sb-copy{--brand:#6B7280}
+.share .sb-qr{--brand:#6B7280}
+.share .sb:focus{outline:none}
+.share .sb:focus-visible{outline:2px solid #111;outline-offset:2px;filter:brightness(1.06);box-shadow:0 1px 4px rgba(0,0,0,.18);text-decoration:none}
+@media (hover:hover){.share a.sb:hover,.share button.sb:hover{color:#fff;text-decoration:none;filter:brightness(1.08);box-shadow:0 1px 4px rgba(0,0,0,.18)}.share a.sb-gmail:hover,.share button.sb-gmail:hover{color:#111;filter:none;border-color:#9ca3af;background:#fff}}
+@media (prefers-reduced-motion:reduce){.share .sb{transition:none}}
 .share-status,.sub-msg{font-size:13px;color:#444;margin:8px 0 0}
 /* Icon share row under the article body: 36px line icons in the body colour, brand colour on hover / keyboard focus. */
 .share-row{margin:28px 0 8px;padding:16px 0 0;border-top:1px solid #eee}
@@ -252,3 +270,5 @@ body.blog-page,body.blog-post-page{background:#fff}
 .subscribe button:hover{background:#111;color:#fff}
 .qr-pop[hidden],.qr-hint-link[hidden],.qr-hint-wechat[hidden],.share-native[hidden],.share-status[hidden],.sub-msg[hidden],.saved-panel[hidden],.saved-empty[hidden],.stat.views[hidden],.stat-n[hidden],.sub-ok[hidden],.sub-err[hidden],.saved-remove-label[hidden]{display:none !important}
 @media(max-width:700px){.blog{padding:20px 16px 56px}.post{padding:18px 16px 64px}.post h1{font-size:25px}.post-card a{flex-direction:column;gap:10px}.post-card img{width:100%;height:auto;aspect-ratio:3/2}.post-body{font-size:16px}.subscribe form{flex-direction:column;align-items:stretch}.subscribe button{width:100%}.saved-card{align-items:flex-start}.engage-stats{align-items:center;gap:12px}.share{align-items:center;gap:12px}.engage-stats button,.engage-stats a,.share a,.share button{display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;min-width:44px;min-height:44px;padding:10px 12px;font-size:14px;line-height:1.2}}
+.share .sb{min-width:44px;min-height:44px}
+@media(max-width:700px){.share{gap:8px}.share .sb{width:44px;height:44px;min-width:44px;min-height:44px;padding:0;font-size:0;line-height:0}}
