@@ -151,16 +151,19 @@
         });
       });
       retranslateStatus();
-      if (row) {
-        var icons = row.querySelectorAll('[data-labels]');
+      scopes.forEach(function (scope) {
+        var icons = scope.querySelectorAll('[data-labels]');
         for (var i = 0; i < icons.length; i++) {
           try {
             var labels = JSON.parse(icons[i].getAttribute('data-labels') || '{}');
             var label = labels[lang()] || labels['zh-Hant'];
-            if (label) icons[i].setAttribute('aria-label', label);
+            if (label) {
+              icons[i].setAttribute('aria-label', label);
+              icons[i].setAttribute('title', label);
+            }
           } catch (e) {}
         }
-      }
+      });
     }
     function copyText(value) {
       if (navigator.clipboard && navigator.clipboard.writeText) {
