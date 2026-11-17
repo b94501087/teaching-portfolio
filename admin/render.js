@@ -1034,14 +1034,19 @@ function jsonForScript(v) { return JSON.stringify(v).replace(/</g, '\\u003c').re
 
 export function renderConsulting(site, c, opts) {
   const n = site.nav;
-  const plans = (c.plans || []).map(p => ({ id: p.id, title: p.title, meta: p.meta, price: p.price }));
+  // {{tax}} in the text fields = c.taxLabel (whether prices include business tax), shown next to every price.
+  const tax = String(c.taxLabel || '').trim();
+  const fill = s => String(s == null ? '' : s).replace(/\{\{tax\}\}/g, tax)
+    .replace(/\{\{email\}\}/g, '[' + site.email + '](mailto:' + site.email + ')');
+  const line = x => inline(fill(x));
+  const plans = (c.plans || []).map(p => ({ id: p.id, title: p.title, meta: fill(p.meta), price: p.price }));
   const pays = (c.payments || []).filter(p => p.enabled !== false);
   const rows = plans.map(p =>
     '<div class="row" data-id="' + esc(p.id) + '">' +
     '<div><h2>' + esc(p.title) + '</h2><p class="meta">' + esc(p.meta) + '</p></div>' +
     '<div class="right">' +
     '<div class="price">' + SYMBOL.CNY + ' ' + fmt(p.price.CNY) +
-    '<small>CNY · 基準 CNY ' + fmt(p.price.CNY) + '</small></div>' +
+    '<small>CNY · 基準 CNY ' + fmt(p.price.CNY) + '</small>' + (tax ? '<small class="tax">' + esc(tax) + '</small>' : '') + '</div>' +
     '<button type="button" class="pick" data-pick="' + esc(p.id) + '">選擇此方案</button>' +
     '</div></div>').join('');
   const pageTitle = '設計諮詢怎麼開始？ — ' + site.name;
@@ -1051,7 +1056,11 @@ export function renderConsulting(site, c, opts) {
     '@type': 'Service', '@id': SITE_URL + '/consulting/#service', name: '設計諮詢',
     url: SITE_URL + '/consulting/', provider: { '@id': SITE_URL + '/#person' },
     description: pageDesc,
-    offers: plans.map(p => ({ '@type': 'Offer', name: p.title, description: p.meta, price: String(p.price.CNY), priceCurrency: 'CNY' }))
+    // taxIncluded (consulting.json) → priceSpecification.valueAddedTaxIncluded; the tax note goes on every offer.
+    offers: plans.map(p => Object.assign({ '@type': 'Offer', name: p.title,
+      description: tax && !String(p.meta || '').includes(tax) ? (p.meta ? p.meta + '（' + tax + '）' : tax) : p.meta,
+      price: String(p.price.CNY), priceCurrency: 'CNY' },
+      typeof c.taxIncluded === 'boolean' ? { priceSpecification: { '@type': 'PriceSpecification', price: String(p.price.CNY), priceCurrency: 'CNY', valueAddedTaxIncluded: c.taxIncluded } } : {}))
   });
   return finishPage(`<!doctype html>
 <html lang="zh-Hant">
@@ -1083,7 +1092,7 @@ ${jsonLdScript(serviceLd)}
   <p class="lead">${inline(c.lead)}</p>
 ${c.scope ? `  <p class="lead scope">${inline(c.scope)}</p>\n` : ''}
   <div class="notice">
-    ${inline(c.notice, '    ')}
+    ${inline(fill(c.notice), '    ')}
   </div>
 
   <div class="curr" role="group" aria-label="Currency">
@@ -1101,10 +1110,16 @@ ${c.scope ? `  <p class="lead scope">${inline(c.scope)}</p>\n` : ''}
     <h2>想用哪種方式支付？</h2>
     <div class="pay-list" id="payMethods">
 ${pays.map((p, i) => `      <label><input type="radio" name="pay" value="${esc(p.value)}"${i === 0 ? ' checked' : ''}> ${esc(p.label)}${p.note ? ` <small class="pay-note">${esc(p.note)}</small>` : ''}</label>\n`).join('')}    </div>
-${c.payee ? `    <p class="payee">${inline(c.payee)}</p>\n` : ''}    <ul class="terms">
-${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}</li>\n`).join('')}    </ul>
+${c.payee ? `    <p class="payee">${inline(c.payee)}</p>\n` : ''}    <ul class="terms" id="terms">
+${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${line(x)}</li>\n`).join('')}    </ul>
   </section>
-
+${Array.isArray(c.delivery) && c.delivery.length ? `
+  <section class="checkout" id="delivery">
+    <h2>服務如何交付？</h2>
+    <ul class="terms">
+${c.delivery.filter(x => String(x).trim()).map(x => `      <li>${line(x)}</li>\n`).join('')}    </ul>
+  </section>
+` : ''}
   <section class="checkout" id="checkout">
     <h2>如何確認方案並索取付款指示？</h2>
     <p id="selected" class="selected">尚未選擇方案。</p>
@@ -1120,6 +1135,11 @@ ${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}
     <p class="hint">${inline(c.checkoutHint)}</p>
   </section>
 </main>
+${Array.isArray(c.contact) && c.contact.length ? `<footer class="wrap"><div class="notice">
+    <strong>客服與聯絡</strong><br>
+${c.contact.filter(x => String(x).trim()).map(x => `    ${line(x)}`).join('<br>\n')}
+  </div></footer>
+` : ''}
 <script>
 (function () {
   var SYMBOL = { CNY: '¥', USD: '$', EUR: '€', TWD: 'NT$' };
@@ -1127,6 +1147,7 @@ ${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}
   var PACKAGES = ${jsonForScript(plans)};
   var RATE_NOTE = ${jsonForScript(c.rateNote || '')};
   var MAIL_NOTE = ${jsonForScript(c.mailNote || '')};
+  var TAX = ${jsonForScript(tax)};
   var cur = 'CNY';
   var selected = null;
   var CONTACT = ${jsonForScript(site.email)};
@@ -1152,7 +1173,7 @@ ${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}
         '<div><h2>' + esc(p.title) + '</h2><p class="meta">' + esc(p.meta) + '</p></div>' +
         '<div class="right">' +
         '<div class="price">' + SYMBOL[cur] + ' ' + amount(p) +
-        '<small>' + cur + ' · 基準 CNY ' + fmt(p.price.CNY) + '</small></div>' +
+        '<small>' + cur + ' · 基準 CNY ' + fmt(p.price.CNY) + '</small>' + (TAX ? '<small class="tax">' + esc(TAX) + '</small>' : '') + '</div>' +
         '<button type="button" class="pick" data-pick="' + esc(p.id) + '">選擇此方案</button>' +
         '</div></div>'
       );
@@ -1167,7 +1188,7 @@ ${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}
     var pay = (document.querySelector('input[name="pay"]:checked') || {}).value || '';
     el.textContent =
       selected.title + ' · ' + SYMBOL[cur] + ' ' + amount(selected) + ' ' + cur +
-      '（基準 CNY ' + fmt(selected.price.CNY) + '）· 支付偏好：' + pay;
+      '（基準 CNY ' + fmt(selected.price.CNY) + '）' + (TAX ? '（' + TAX + '）' : '') + '· 支付偏好：' + pay;
   }
   document.querySelector('.curr').addEventListener('click', function (e) {
     var btn = e.target.closest('button[data-cur]');
@@ -1209,7 +1230,7 @@ ${(c.terms || []).filter(x => String(x).trim()).map(x => `      <li>${inline(x)}
       'Email：' + email + nl +
       '方案：' + selected.title + nl +
       '金額：' + SYMBOL[cur] + ' ' + amount(selected) + ' ' + cur +
-      '（基準 CNY ' + fmt(selected.price.CNY) + '）' + nl +
+      '（基準 CNY ' + fmt(selected.price.CNY) + '）' + (TAX ? '（' + TAX + '）' : '') + nl +
       '支付偏好：' + pay + nl +
       '需求：' + (note || '（無）') + nl + nl +
       MAIL_NOTE
