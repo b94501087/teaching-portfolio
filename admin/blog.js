@@ -49,6 +49,9 @@ export const BLOG_CATEGORIES = [
 ];
 const CAT = Object.fromEntries(BLOG_CATEGORIES.map(c => [c.id, c]));
 export const AUTHOR_NAME = 'Yu Chun Tsai';
+// Optional per-post byline (post.author: a string or { "zh-Hant", "en", "zh-Hans" }). When set, the byline,
+// author box, JSON-LD author and feed entry author use it instead of AUTHOR_NAME and do not link to /cv/.
+const postAuthor = p => (p && (typeof p.author === 'string' ? p.author.trim() : zhOr(p.author))) ? p.author : null;
 export const AUTHOR_FACTS = {
   'zh-Hant': '2017 年至今，設計教學與設計諮詢時數合計 12,000+ 小時・370+ 位學生・1,800+ 個錄取。',
   en: 'Since 2017: 12,000+ hours of design teaching and design consultation · 370+ students · 1,800+ offers.'
@@ -428,7 +431,7 @@ export function postJsonLd(post) {
       description: zhOr(post.summary) || clip(plain(zhOr(post.body)), 160),
       datePublished: post.date, dateModified: post.updated || post.date,
       inLanguage: contentOrder(switchLangs(post)),
-      author: { '@type': 'Person', '@id': SITE_URL + '/#person', name: AUTHOR_NAME, url: SITE_URL + '/cv/' },
+      author: postAuthor(post) ? { '@type': 'Organization', name: zhOr(postAuthor(post)) } : { '@type': 'Person', '@id': SITE_URL + '/#person', name: AUTHOR_NAME, url: SITE_URL + '/cv/' },
       publisher: { '@id': SITE_URL + '/#person' },
       ...(post.cover ? { image: absAsset(post.cover) } : {}),
       ...(Array.isArray(post.keywords) && post.keywords.length ? { keywords: post.keywords.join(', ') } : {}),
@@ -447,12 +450,13 @@ export function renderBlogPost(site, blog, post, opts) {
   const title = zhOr(post.title);
   const desc = clip(zhOr(post.summary) || plain(zhOr(post.body)), 160);
   const ui = (k, tag = 'span') => bi(UI[k], tag, L);
+  const byline = postAuthor(post);
   const faq = (Array.isArray(post.faq) ? post.faq : []).filter(f => f && zhOr(f.q) && zhOr(f.a));
   let h = '<!doctype html><html lang="zh-Hant" data-lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(title) + (en ? ' | ' + esc(loc(post.title, 'en')) : '') + ' — ' + esc(site.name) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     (post.draft === true ? '<meta name="robots" content="noindex,nofollow">\n' : '') +
     socialMeta({ type: 'article', title, description: desc, url, langs: buttons.length > 1 ? buttons : null, image: absAsset(post.cover) }) +
-    '<meta property="article:published_time" content="' + esc(post.date) + '">\n<meta property="article:modified_time" content="' + esc(post.updated || post.date) + '">\n<meta property="article:author" content="' + SITE_URL + '/cv/">\n' +
+    '<meta property="article:published_time" content="' + esc(post.date) + '">\n<meta property="article:modified_time" content="' + esc(post.updated || post.date) + '">\n' + (byline ? '' : '<meta property="article:author" content="' + SITE_URL + '/cv/">\n') +
     (Array.isArray(post.keywords) && post.keywords.length ? '<meta name="keywords" content="' + esc(post.keywords.join(', ')) + '">\n' : '') +
     jsonLdScript(ld) + (buttons.length > 1 ? langHead(buttons, 'zh-Hant') : '') +
     '<link rel="stylesheet" href="../../style.css' + cssV(opts) + '"></head><body class="blog-post-page">\n' +
@@ -461,7 +465,7 @@ export function renderBlogPost(site, blog, post, opts) {
     '<article>\n<h1>' + bi(post.title, 'span', L) + '</h1>\n' +
     '<p class="post-meta">' + metaDate('published', firstPub(post), L) +
     (post.updated && post.updated !== firstPub(post) ? ' · ' + metaDate('updated', post.updated, L) : '') +
-    ' · <span>' + AUTHOR_NAME + '</span></p>\n' + engageBlock(post, L);
+    ' · <span>' + (byline ? bi(byline, 'span', L) : AUTHOR_NAME) + '</span></p>\n' + engageBlock(post, L);
   if (zhOr(post.tldr)) h += '<aside class="tldr"><p class="tldr-h">' + ui('tldr') + '</p>' + bi(post.tldr, 'p', L) + '</aside>\n';
   if (post.cover) h += '<figure class="post-cover"><img src="' + esc(assetUrl(post.cover, 2)) + '" alt="' + esc(title) + '" draggable="false"></figure>\n';
   h += '<div class="post-body">' + (L.length > 1 ? L.map(l => '<div data-l="' + l + '" lang="' + l + '">\n' + (textOf(post.body, l) || zhOr(post.body)) + '\n</div>').join('') : '\n' + zhOr(post.body) + '\n') + '</div>\n' + shareRow(post, L);
@@ -473,7 +477,7 @@ export function renderBlogPost(site, blog, post, opts) {
   if (faq.length) h += '<section class="faq"><h2>' + ui('faq') + '</h2>\n' + faq.map(f => '<details open><summary>' + bi(f.q, 'span', L) + '</summary>' + bi(f.a, 'p', L) + '</details>\n').join('') + '</section>\n';
   // post.source (original publication) stays internal data only; it is not shown on the page.
   h += subscribeBlock('../feed.xml', L) + '</article>\n' +
-    '<section class="author-box"><p class="ab-h">' + ui('author') + '</p><p class="ab-name"><a href="../../cv/">' + AUTHOR_NAME + '</a></p>' +
+    '<section class="author-box"><p class="ab-h">' + ui('author') + '</p><p class="ab-name">' + (byline ? bi(byline, 'span', L) : '<a href="../../cv/">' + AUTHOR_NAME + '</a>') + '</p>' +
     '<p class="ab-role">' + ui('role') + '</p><p class="ab-facts">' + bi(AUTHOR_FACTS, 'span', L) + '</p>' +
     '<p class="ab-links"><a href="../../cv/">' + ui('cvLink') + '</a> · <a href="../../board/">' + ui('boardLink') + '</a> · <a href="../../teaching/">' + ui('teachLink') + '</a> · <a href="../../consulting/">' + ui('consultLink') + '</a></p></section>\n';
   const rel = relatedPosts(blog, post);
@@ -493,6 +497,7 @@ export function renderFeed(blog, now) {
     posts.map(p => '  <entry>\n    <title>' + xml(zhOr(p.title)) + '</title>\n    <link href="' + postUrl(p.slug) + '"/>\n    <id>' + postUrl(p.slug) + '</id>\n' +
       '    <published>' + p.date + 'T00:00:00Z</published>\n    <updated>' + (p.updated || p.date) + 'T00:00:00Z</updated>\n' +
       postCats(p).map(c => '    <category term="' + c + '" label="' + xml(CAT[c].en) + '"/>\n').join('') +
+      (postAuthor(p) ? '    <author><name>' + xml(zhOr(postAuthor(p))) + '</name></author>\n' : '') +
       '    <summary>' + xml(zhOr(p.summary) || clip(plain(zhOr(p.body)), 200)) + '</summary>\n  </entry>\n').join('') +
     '</feed>\n';
 }
@@ -553,6 +558,7 @@ export function validateBlog(blog) {
     if (/mmbiz\.(qpic|qlogo)\.cn|qpic\.cn/i.test(html + (p.cover || ''))) errs.push(nm + '含微信圖片網址（會被防盜鏈擋），請下載到 assets/blog/ 再引用');
     if (/<script/i.test(html)) errs.push(nm + '的內文不能含 <script>');
     if (p.faq != null && (!Array.isArray(p.faq) || p.faq.some(f => !f || !zhOr(f.q) || !zhOr(f.a)))) errs.push(nm + '的 FAQ 每項需要 q 與 a');
+    if (p.author != null && !(typeof p.author === 'string' ? p.author.trim() : p.author && typeof p.author === 'object' && zhOr(p.author))) errs.push(nm + '的作者署名必須是文字');
     if (p.keywords != null && (!Array.isArray(p.keywords) || p.keywords.some(k => typeof k !== 'string'))) errs.push(nm + '的關鍵字必須是文字清單');
   });
   return errs;
