@@ -65,11 +65,13 @@ test('board and teaching detail pages default to zh-Hant and carry share tags', 
 test('home and consulting expose the hours phrase, a question heading, and organization data', () => {
   const home = renderLanding(site, {});
   assert.match(home, /<title>YU CHUN TSAI — 建築與設計作品集指導<\/title>/);
-  assert.match(home, /<h1>YU CHUN TSAI<span>建築與設計作品集指導從哪裡開始？<\/span><\/h1>/);
-  assert.match(home, /class="hours"[\s\S]*data-l="zh-Hant"[^>]*>12,000\+ 小時設計教學與設計諮詢</);
-  assert.match(home, /data-l="en"[^>]*>12,000\+ hours of design teaching and consultation</);
-  assert.ok(home.includes('>' + toHans('12,000+ 小時設計教學與設計諮詢') + '<'));
-  assert.ok(home.indexOf('class="hours"') < home.indexOf('<nav>'));
+  assert.equal((home.match(/<h1[\s>]/g) || []).length, 1);
+  assert.match(home, /<h1><span data-l="zh-Hant" lang="zh-Hant"><span class="hab-nw">建築與設計作品集指導<\/span><span class="hab-nw">從哪裡開始？<\/span><\/span>/);
+  assert.match(home, /<h1>[\s\S]*data-l="en"[^>]*>Where to start with architecture and design portfolio mentoring\?</);
+  assert.match(home, /建築與設計作品集指導。2017 年至今，設計教學與設計諮詢時數<span class="hab-nw">合計 12,000\+ 小時<\/span>/);
+  assert.match(home, /Architecture and design portfolio mentoring\. Since 2017: <span class="hab-nw">12,000\+ hours<\/span> of design teaching and design consultation/);
+  assert.ok(home.includes('錄取件數，不是人數'));
+  assert.equal((home.match(/class="hab-offer-frame"/g) || []).length, 6);
   assert.ok(home.includes(HOURS_ZH) && home.includes(HOURS_EN));
   assert.match(home, /property="og:image"/);
   assert.match(home, /"@type":"EducationalOrganization"/);

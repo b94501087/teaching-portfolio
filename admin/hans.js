@@ -56,9 +56,9 @@ const LINK_CONNECT = [
 ];
 
 // 介面 in this portfolio is a UI, so 界面 rather than OpenCC's 接口.
-// 官方資料, 以上資料, 舊資料 and 申請資料 mean "information" here, so they stay 资料; listed in the
+// 官方資料, 以上資料, 舊資料, 申請資料 and 資料待補 mean "information" here, so they stay 资料; listed in the
 // phrase group so they win over 資料. 機率 is 概率 (OpenCC twp gives the less standard form).
-const PHRASES = [...filteredFrom(), '官方資料 官方资料', '以上資料 以上资料', '舊資料 旧资料', '申請資料 申请资料', '機率 概率', '業界連結 业界联系', '校友連結 校友联系', ...LINK_CONNECT.map(k => k + ' ' + k.split('連結').join('連接')),
+const PHRASES = [...filteredFrom(), '官方資料 官方资料', '以上資料 以上资料', '舊資料 旧资料', '申請資料 申请资料', '資料待補 资料待补', '機率 概率', '業界連結 业界联系', '校友連結 校友联系', ...LINK_CONNECT.map(k => k + ' ' + k.split('連結').join('連接')),
   '建立連結 創建連接'];
 const convert = ConverterFactory(PHRASES, ['介面 界面'], Locale.to.cn);
 
