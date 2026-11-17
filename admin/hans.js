@@ -58,10 +58,19 @@ const LINK_CONNECT = [
 // 介面 in this portfolio is a UI, so 界面 rather than OpenCC's 接口.
 // 官方資料, 以上資料, 舊資料 and 申請資料 mean "information" here, so they stay 资料; listed in the
 // phrase group so they win over 資料. 機率 is 概率 (OpenCC twp gives the less standard form).
-const convert = ConverterFactory([...filteredFrom(), '官方資料 官方资料', '以上資料 以上资料', '舊資料 旧资料', '申請資料 申请资料', '機率 概率', '業界連結 业界联系', '校友連結 校友联系', ...LINK_CONNECT.map(k => k + ' ' + k.split('連結').join('連接')),
-  '建立連結 創建連接'], ['介面 界面'], Locale.to.cn);
+const PHRASES = [...filteredFrom(), '官方資料 官方资料', '以上資料 以上资料', '舊資料 旧资料', '申請資料 申请资料', '機率 概率', '業界連結 业界联系', '校友連結 校友联系', ...LINK_CONNECT.map(k => k + ' ' + k.split('連結').join('連接')),
+  '建立連結 創建連接'];
+const convert = ConverterFactory(PHRASES, ['介面 界面'], Locale.to.cn);
 
-export function toHans(text) {
+// Legal pages (/privacy/, /terms/) only: keep Taiwan's statute name and the statutory wording of the
+// Personal Data Protection Act (個人資料, 查詢或閱覽, 製給複製本) and 申請文件, which the general table would turn
+// into 个人数据 / 查找 / 拷贝本 / 申请文档. Scoped to those pages so blog posts and other pages convert exactly as before.
+// 資料 stays 资料 on these pages (資料庫 still becomes 数据库).
+export const LEGAL_PHRASES = ['個人資料保護法 个人资料保护法', '個人資料 个人资料', '查詢或閱覽 查询或阅览', '製給複製本 制给复制本', '複製本 复制本', '申請文件 申请文件', '資料 资料', '資料庫 数据库', '資料中心 数据中心', '查詢字串 查询字符串'];
+const convertLegal = ConverterFactory([...PHRASES, ...LEGAL_PHRASES], ['介面 界面'], Locale.to.cn);
+
+// opts.legal: use the legal-page phrase table (see LEGAL_PHRASES).
+export function toHans(text, opts) {
   const s = typeof text === 'string' ? text : '';
   if (!s || !/[\u3400-\u9fff]/.test(s)) return s;
   let t = s;
@@ -72,15 +81,15 @@ export function toHans(text) {
     held.push([token, word]);
     t = t.split(word).join(token);
   });
-  t = convert(t);
+  t = (opts && opts.legal ? convertLegal : convert)(t);
   for (const [token, word] of held) t = t.split(token).join(word);
   return t;
 }
 
 // Clone every Traditional span into a Simplified sibling. Used for the static CV, which is
 // not produced by the renderers. Idempotent: a page that already has zh-Hans spans is left alone.
-export function injectHans(html) {
+export function injectHans(html, opts) {
   if (!html.includes('<span data-l="zh-Hant"') || html.includes('<span data-l="zh-Hans"')) return html;
   return html.replace(/<span data-l="zh-Hant" lang="zh-Hant">([\s\S]*?)<\/span>/g, (m, inner) =>
-    m + '<span data-l="zh-Hans" lang="zh-Hans">' + toHans(inner) + '</span>');
+    m + '<span data-l="zh-Hans" lang="zh-Hans">' + toHans(inner, opts) + '</span>');
 }

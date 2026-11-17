@@ -5,7 +5,7 @@
 //     teaching studio, /teaching/<slug>/) and consulting pages from content/*.json
 //     Board cards are in that HTML. Each card image is a small WebP thumbnail written here
 //     (cwebp) so the grid is not waiting on the full cover files.
-//  3. fill {{name}} / {{email}} in the static doc pages (cv/, A-Z/*.html)
+//  3. fill {{name}} / {{email}} in the static doc pages (cv/, privacy/, terms/, A-Z/*.html)
 //  4. write the lowercase /a-z/ redirect (generated here, not committed, because
 //     a-z/ and A-Z/ would collide on case-insensitive file systems such as macOS)
 // Run locally with: node build/build.mjs   (then serve _site/)
@@ -89,12 +89,16 @@ for (const [rel, html] of Object.entries(pages)) {
   console.log('rendered', rel);
 }
 
-for (const rel of [...(await fs.readdir(path.join(out, 'A-Z'))).map(f => 'A-Z/' + f), 'cv/index.html']) {
+// Static trilingual doc pages built from the /cv/ template (zh-Hans spans added by injectHans).
+const DOC_PAGES = ['cv/index.html', 'privacy/index.html', 'terms/index.html'];
+// Legal pages use the legal phrase table in admin/hans.js (LEGAL_PHRASES); every other page converts as before.
+const LEGAL_PAGES = ['privacy/index.html', 'terms/index.html'];
+for (const rel of [...(await fs.readdir(path.join(out, 'A-Z'))).map(f => 'A-Z/' + f), ...DOC_PAGES]) {
   if (!rel.endsWith('.html')) continue;
   const p = path.join(out, rel);
   let src = await fs.readFile(p, 'utf8');
   if (src.includes('{{')) src = fillPlaceholders(src, all.site);
-  if (rel === 'cv/index.html') src = injectHans(src);
+  if (DOC_PAGES.includes(rel)) src = injectHans(src, { legal: LEGAL_PAGES.includes(rel) });
   await fs.writeFile(p, src);
 }
 
@@ -125,7 +129,7 @@ for (const f of (await fs.readdir(path.join(root, 'A-Z'))).filter(f => f.endsWit
   if (/http-equiv="refresh"/i.test(src)) continue;
   azHtml.push('A-Z/' + f);
 }
-const staticPages = ['cv/index.html', ...azHtml];
+const staticPages = [...DOC_PAGES, ...azHtml];
 const urls = [...Object.keys(pages), ...staticPages].filter(rel => !drafts.has(rel) && !rel.endsWith('.json') && !SITEMAP_SKIP_RE.test(rel.replace(/(^|\/)index\.html$/, ''))).sort()
   .map(rel => ({ loc: SITE + '/' + rel.replace(/(^|\/)index\.html$/, '$1'), lastmod: postMod[rel] || (rel === 'blog/index.html' && blogMod) || undefined }));
 await fs.writeFile(path.join(out, 'sitemap.xml'), renderSitemap(urls));
