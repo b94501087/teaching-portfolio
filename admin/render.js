@@ -182,12 +182,100 @@ export function letterOf(title) {
 }
 
 /* ---------- landing (site root) ---------- */
-// Layout is fixed; only the name and the link labels come from content/site.json.
+// Homepage A＋B (design 聶永真, 2026-11-17). First screen: the question h1, the r2 statement plus hours as the
+// lead, the three published totals, two buttons and a names-only list of admitted schools. Then six anonymous
+// board cases, an empty 「頂尖學校錄取 Offer（資料待補）」 wall (six blank A4 frames, no letters) and the awards slot.
+// Copy is fixed here; zh-Hans is OpenCC(zh-Hant) like the rest of the site. Classes are hab-* under body.home-ab
+// so nothing leaks. One h1 only. The English question was not on the old landing (Chinese-only h1 at c6644a70);
+// it reuses the r2 English statement inside the question, to match the Chinese.
+const habContent = () => ({
+  h1: ['建築與設計作品集指導從哪裡開始？', 'Where to start with architecture and design portfolio mentoring?'],
+  deck: [['建築與設計作品集指導。2017 年至今，設計教學與設計諮詢時數', '合計 ' + HOURS_ZH, '。'], ['Architecture and design portfolio mentoring. Since 2017: ', HOURS_EN, ' of design teaching and design consultation.']],
+  stats: [
+    { num: '12,000+', unit: ['小時', 'hours'], lbl: ['設計教學與設計諮詢', 'Design teaching and design consultation'] },
+    { num: '370+', unit: ['位學生', 'students'], lbl: ['2017 年至今', 'Since 2017'] },
+    { num: '1,800+', unit: ['個錄取', 'offers'], lbl: ['錄取件數，不是人數', 'Number of offers, not people'] }
+  ],
+  cta: [['consulting/', 'btn-primary', '預約諮詢', 'Book a consultation'], ['board/', 'btn-ghost', '看學生案例', 'See student cases']],
+  schoolsH: ['學生錄取院校（節選，只列校名）', 'Where students were admitted (selected, school names only)'],
+  regions: [
+    [['美國', 'United States'], [['普林斯頓大學', 'Princeton University'], ['哈佛大學', 'Harvard University'], ['麻省理工學院', 'MIT'], ['哥倫比亞大學', 'Columbia University'], ['康乃爾大學', 'Cornell University'], ['加州大學柏克萊分校', 'University of California, Berkeley'], ['萊斯大學', 'Rice University']]],
+    [['英國與歐洲', 'UK & Europe'], [['劍橋大學', 'University of Cambridge'], ['倫敦大學學院', 'UCL'], ['米蘭理工大學', 'Politecnico di Milano'], ['魯汶大學', 'KU Leuven'], ['柏林工業大學', 'TU Berlin'], ['隆德大學', 'Lund University'], ['瑞典皇家理工學院', 'KTH Royal Institute of Technology']]],
+    [['亞洲', 'Asia'], [['香港大學', 'The University of Hong Kong'], ['新加坡國立大學', 'National University of Singapore']]]
+  ],
+  casesH: ['作品的作者始終是學生', 'The student is always the author of the work'],
+  casesDeck: ['下面是已公開於 board 的不具名案例。', 'Below are anonymous cases already published on the board.'],
+  // schools: [zh-Hant short name, en board label]; more = schools not shown (board card rule: first 4, then 「等 N 校」).
+  cases: [
+    { slug: 'forest-of-pressing-planes-pvc-board-feeling-model', img: 'assets/board/forest-of-pressing-planes-pvc-board-feeling-model/01-planes-model.webp',
+      alt: ['白色薄板層疊與弧圈組成的密集建築模型，放在淺色方板上，背景為黑色。', 'A dense architectural model of layered thin white sheets and curved loops on a light base, against a black background.'],
+      schools: [['麻省理工', 'MIT'], ['普林斯頓', 'Princeton'], ['布朗', 'Brown'], ['羅德島設計', 'RISD']], more: 7,
+      type: [['大學部申請', '情感空間研究'], ['Undergraduate application', 'Emotional space study']] },
+    { slug: 'layered-street-elevated-walkway-redesign-model', img: 'assets/board/layered-street-elevated-walkway-redesign-model/01-street-model.webp',
+      alt: ['木色底座上的白色高架步道模型，步道上有綠植與小人偶，下方有兩輛模型車。', 'A white elevated-walkway model on a wooden base, with greenery and small figures on the walkway and two model cars below.'],
+      schools: [['普林斯頓', 'Princeton'], ['南加大', 'USC'], ['密西根', 'UMich'], ['德州奧斯汀', 'UT Austin']], more: 3,
+      type: [['大學部申請', '都市設計'], ['Undergraduate application', 'Urban design']] },
+    { slug: 'scraps-to-soil-kitchen-waste-compost-system', img: 'assets/board/scraps-to-soil-kitchen-waste-compost-system/01-composting-model.webp',
+      alt: ['灰色混凝土底座上的建築模型：一側是白石與圓形草地，中央是橘色骨架與白色小人偶，背景為黑色。', 'An architectural model on a grey concrete base: white stones and a round lawn on one side, an orange frame and small white figures in the middle, against a black background.'],
+      schools: [['康乃爾', 'Cornell'], ['柏克萊', 'UCB'], ['萊斯', 'Rice'], ['南加大', 'USC']], more: 12,
+      type: [['大學部申請', '產品與系統設計'], ['Undergraduate application', 'Product and system design']] },
+    { slug: 'identity-sculpting-for-kharkiv', img: 'assets/board/identity-sculpting-for-kharkiv/01-cover.webp',
+      alt: ['白色線稿剖視圖，顯示多層建築內部的樓梯、樓板與人形尺度。', 'A white line-drawing section of a multi-storey building, showing stairs, floor slabs and human figures for scale.'],
+      schools: [['賓州大學', 'UPenn'], ['魯汶大學', 'KU Leuven'], ['倫敦大學學院', 'UCL'], ['密西根', 'University of Michigan']], more: 2,
+      type: [['競圖作品', '戰後住宅重建'], ['Competition entry', 'Post-war housing reconstruction']] },
+    { slug: 'ual-ma-cities-dock-reimagined-macau-shipyard', img: 'assets/board/ual-ma-cities-dock-reimagined-macau-shipyard/01-birds-eye-model.webp',
+      alt: ['黑色背景前的船塢模型：兩座長形棚架以白虛線標出，左側註 Minor-scale renovation，右側註 Major-scale renovation，前景為藍色水面。', 'A shipyard model against a black background: two long sheds outlined in white dashed lines, labelled Minor-scale renovation on the left and Major-scale renovation on the right, with blue water in the foreground.'],
+      schools: [['倫敦藝大', 'UAL MA Cities'], ['雪梨大學', 'USyd MUD'], ['愛丁堡', 'Edinburgh MA Interior'], ['曼徹斯特', 'Manchester MA AAR']], more: 2,
+      type: [['碩士申請', '城市更新／', '多功能文化空間'], ["Master's application", 'Urban renewal / ', 'multi-use cultural space']] },
+    { slug: 'tower-of-five-layers-stone-wood-acrylic-bubbles', img: 'assets/board/tower-of-five-layers-stone-wood-acrylic-bubbles/01-tower-of-five-layers.webp',
+      alt: ['直立的分層塔模型：底部是石頭與木構，中段為透明壓克力與紅色小人偶，頂部是白色摺紙與透明圓球。', 'An upright layered tower model: stone and timber at the base, clear acrylic and small red figures in the middle, white folded paper and clear spheres at the top.'],
+      schools: [['康乃爾', 'Cornell'], ['密西根', 'University of Michigan'], ['南加大', 'USC'], ['喬治亞理工', 'Georgia Tech']], more: 0,
+      type: [['大學部申請', '記憶與城市研究'], ['Undergraduate application', 'Memory and urban study']] }
+  ],
+  offersH: ['頂尖學校錄取 Offer（資料待補）', 'Offers from top schools (to be added)'],
+  offersLead: ['錄取通知書・待提供', 'Offer letters · to be provided'],
+  awards: ['獲獎（資料待補）', 'Awards (to be added)']
+});
+// Keep the Chinese question in two nowrap units so 「從哪裡開始？」 cannot split (no single-character last line).
+function habH1(s, l) {
+  if (l === 'en') return esc(s);
+  const zh = String(s);
+  const tail = zh.includes('從哪裡開始？') ? '從哪裡開始？' : (zh.includes('从哪里开始？') ? '从哪里开始？' : '');
+  const i = tail ? zh.indexOf(tail) : -1;
+  if (i > 0) return habNw(zh.slice(0, i)) + habNw(zh.slice(i));
+  return esc(zh);
+}
+// [zh-Hant, en] -> one tagged copy per language; zh-Hans is OpenCC(zh-Hant). fn(text, lang) returns HTML (default: escaped).
+function habL(pair, tag, fn) {
+  const f = fn || (s => esc(s));
+  const val = { 'zh-Hant': pair[0], en: pair[1], 'zh-Hans': Array.isArray(pair[0]) ? pair[0].map(toHans) : toHans(pair[0]) };
+  return ['zh-Hant', 'en', 'zh-Hans'].map(l => '<' + tag + ' data-l="' + l + '" lang="' + l + '">' + f(val[l], l) + '</' + tag + '>').join('');
+}
+const habNw = s => '<span class="hab-nw">' + esc(s) + '</span>';
+function habCase(c, opts) {
+  const t = opts && opts.thumbs && opts.thumbs[c.slug];
+  const d = opts && opts.dims && opts.dims[c.img];
+  const img = t && t.src && t.w > 0 && t.h > 0 ? { src: t.src, w: t.w | 0, h: t.h | 0 } : { src: c.img, w: d ? d[0] | 0 : 0, h: d ? d[1] | 0 : 0 };
+  const schools = c.schools.map(s => '<span class="hab-school">' + habL(s, 'span') + '</span>').join('') +
+    (c.more ? '<span class="hab-school hab-more">' + habL(['等 ' + c.more + ' 校', '+' + c.more + ' more'], 'span') + '</span>' : '');
+  // Each phrase of the type line is kept whole (no lone 「間」 at 768px); lines break only between phrases.
+  const type = habL(c.type, 'span', (parts, l) => parts.map((p, i) => habNw(i === 0 && parts.length > 1 ? p + ' · ' : p)).join(''));
+  return '      <a class="hab-card" href="board/' + esc(c.slug) + '/">' +
+    '<div class="hab-fig"><img src="' + esc(img.src) + '" alt="' + esc(c.alt[0]) + '" data-alt-en="' + esc(c.alt[1]) + '" data-alt-zh-hans="' + esc(toHans(c.alt[0])) + '"' +
+    (img.w && img.h ? ' width="' + img.w + '" height="' + img.h + '"' : '') + ' loading="lazy" decoding="async"></div>' +
+    '<div class="hab-meta"><div class="hab-schools">' + schools + '</div><div class="hab-type">' + type + '</div></div></a>\n';
+}
+// One <img> per card; its alt follows the page language chosen in <head>.
+const HAB_ALT_JS = '<script>(function(){var l=document.documentElement.getAttribute("data-lang"),k=l==="en"?"data-alt-en":l==="zh-Hans"?"data-alt-zh-hans":"";if(!k)return;' +
+  '[].forEach.call(document.querySelectorAll(".hab-fig img["+k+"]"),function(i){i.alt=i.getAttribute(k)})})();</script>\n';
 export function renderLanding(site, opts) {
-  const n = site.nav;
   const title = site.name + ' — 建築與設計作品集指導';
-  const hoursZh = '12,000+ 小時設計教學與設計諮詢';
-  const hoursEn = '12,000+ hours of design teaching and consultation';
+  const h = habContent();
+  const stats = h.stats.map(s => '        <div class="hab-stat"><div class="hab-num">' + esc(s.num) + ' <span class="hab-unit">' + habL(s.unit, 'span') + '</span></div>' +
+    '<div class="hab-lbl">' + habL(s.lbl, 'span') + '</div></div>\n').join('');
+  const cta = h.cta.map(b => '        <a class="hab-btn hab-' + b[1] + '" href="' + b[0] + '">' + habL([b[2], b[3]], 'span') + '</a>\n').join('');
+  const regions = h.regions.map(r => '      <p class="hab-region"><b>' + habL(r[0], 'span') + '</b>' +
+    habL([r[1].map(x => x[0]), r[1].map(x => x[1])], 'span', (names, l) => names.map(habNw).join(l === 'en' ? ', ' : '、')) + '</p>\n').join('');
   return finishPage('<!doctype html><html lang="zh-Hant" data-lang="zh-Hant"><head>' + headExtra(opts) + '<meta charset="utf-8"><title>' + esc(title) + '</title>\n' +
     '<meta name="viewport" content="width=device-width,initial-scale=1">\n' +
     '<link rel="canonical" href="https://yuchuntsai.com/">\n' +
@@ -196,21 +284,33 @@ export function renderLanding(site, opts) {
     langHead(LANGS, 'zh-Hant') +
     '<link rel="alternate" type="application/atom+xml" title="Blog" href="blog/feed.xml">\n' +
     jsonLdScript(siteJsonLd()) +
-    '<link rel="stylesheet" href="style.css' + cssV(opts) + '"></head><body class="landing">\n' +
+    '<link rel="stylesheet" href="style.css' + cssV(opts) + '"></head><body class="home-ab">\n' +
+    topBar(site, 0, 'home') +
     '<main>\n' +
-    '  <h1>' + esc(site.name) + '<span>建築與設計作品集指導從哪裡開始？</span></h1>\n' +
-    '  <p class="hours"><span data-l="zh-Hant" lang="zh-Hant">' + esc(hoursZh) + '</span>' +
-    '<span data-l="en" lang="en">' + esc(hoursEn) + '</span>' +
-    '<span data-l="zh-Hans" lang="zh-Hans">' + esc(toHans(hoursZh)) + '</span></p>\n' +
-    '  <nav>\n' +
-    '    <a href="board/">' + esc(n.board) + '</a>\n' +
-    '    <a href="A-Z/">' + esc(n.az) + '</a>\n' +
-    '    <a href="teaching/">' + esc(n.teaching) + '</a>\n' +
-    '    <a href="consulting/">' + esc(n.consulting) + '</a>\n' +
-    '    <a href="cv/">' + esc(n.cv) + '</a>\n' +
-    '    <a href="blog/">' + esc(navBlog(n)) + '</a>\n' +
-    '  </nav>\n' +
+    '<div class="hab-fold">\n' +
+    '  <section class="hab-hero"><div class="hab-wrap">\n' +
+    '      <h1>' + habL(h.h1, 'span', habH1) + '</h1>\n' +
+    '      <p class="hab-deck">' + habL(h.deck, 'span', (p) => esc(p[0]) + habNw(p[1]) + esc(p[2])) + '</p>\n' +
+    '      <div class="hab-stats">\n' + stats + '      </div>\n' +
+    '      <div class="hab-cta">\n' + cta + '      </div>\n' +
+    '  </div></section>\n' +
+    '  <section class="hab-schools-list"><div class="hab-wrap">\n' +
+    '      <h2>' + habL(h.schoolsH, 'span') + '</h2>\n' + regions +
+    '  </div></section>\n' +
+    '</div>\n' +
+    '<section class="hab-cases" aria-labelledby="hab-cases-title"><div class="hab-wrap">\n' +
+    '    <h2 id="hab-cases-title">' + habL(h.casesH, 'span') + '</h2>\n' +
+    '    <p class="hab-deck">' + habL(h.casesDeck, 'span') + '</p>\n' +
+    '    <div class="hab-cards">\n' + h.cases.map(c => habCase(c, opts)).join('') + '    </div>\n' +
+    '</div></section>\n' +
+    '<section class="hab-offers" aria-labelledby="hab-offers-title"><div class="hab-wrap">\n' +
+    '    <h2 id="hab-offers-title">' + habL(h.offersH, 'span') + '</h2>\n' +
+    '    <p class="hab-offer-lead">' + habL(h.offersLead, 'span') + '</p>\n' +
+    '    <ul class="hab-offer-grid">' + '<li><div class="hab-offer-frame" aria-hidden="true"></div></li>'.repeat(6) + '</ul>\n' +
+    '    <p class="hab-awards">' + habL(h.awards, 'span') + '</p>\n' +
+    '</div></section>\n' +
     '</main>\n' +
+    HAB_ALT_JS +
     '</body></html>\n', 0);
 }
 

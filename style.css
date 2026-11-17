@@ -42,15 +42,74 @@ button.zoom{appearance:none;border:0;padding:0;margin:0;background:none;font:inh
 @media(max-width:700px){.board-tools .sorts{margin-left:0}}
 .board-empty{padding:8px 16px 40px;margin:0;font-size:13px;color:#888}
 .board-empty[hidden]{display:none}
-/* landing page (site root): name + links, centred on white. Layout locked. */
-body.landing{background:#fff;min-height:100vh;display:flex;align-items:center;justify-content:center}
-.landing main{text-align:center;padding:24px}
-.landing h1{margin:0 0 8px;font-weight:400;font-size:22px;letter-spacing:.04em}
-.landing h1 span{display:block;margin-top:8px;font-size:15px;letter-spacing:0;color:#444;font-weight:400}
-.landing .hours{margin:0 0 16px;font-size:14px;line-height:1.5;color:#555}
-.landing nav{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 18px}
-.landing nav a{color:#888;text-decoration:none;font-size:14px}
-.landing nav a:hover{color:#111;text-decoration:underline;text-underline-offset:3px}
+/* homepage (site root): A＋B hero (design 聶永真 2026-11-17). Everything is hab-* under body.home-ab.
+   .hab-fold fills the first screen under the sticky .bar (53px; 76px when the bar wraps at <=700px). */
+body.home-ab{--hab-bg:#fff;--hab-bg2:#f0f0f0;--hab-bg3:#f6f6f4;--hab-ink:#111;--hab-body:#444;--hab-muted:#555;--hab-nav:#888;--hab-line:#e5e5e5;--hab-ph:#e8e8e8;background:var(--hab-bg2);color:var(--hab-ink);font-size:15px;line-height:1.6}
+.home-ab .hab-wrap{max-width:1240px;margin:0 auto;padding:0 32px}
+.home-ab .hab-nw{white-space:nowrap}
+.home-ab .hab-fold{background:var(--hab-bg2);min-height:calc(100vh - 53px);display:flex;flex-direction:column}
+.home-ab .hab-hero{background:var(--hab-bg);padding:40px 0 32px;flex:1 1 auto;display:flex;align-items:center}
+.home-ab .hab-hero h1{margin:0 0 14px;font-size:52px;font-weight:700;line-height:1.15;letter-spacing:0;max-width:22em;text-wrap:balance}
+.home-ab .hab-deck{margin:0 0 28px;font-size:17px;line-height:1.55;color:var(--hab-muted);max-width:36em}
+.home-ab .hab-hero .hab-deck{max-width:48em;text-wrap:pretty}
+.home-ab .hab-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:24px 32px;margin:0 0 32px;max-width:960px}
+.home-ab .hab-num{font-size:36px;font-weight:700;line-height:1.15;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.home-ab .hab-unit{font-size:.62em;letter-spacing:0;margin-left:.12em}
+.home-ab .hab-lbl{margin-top:8px;font-size:13px;line-height:1.45;color:var(--hab-muted)}
+.home-ab .hab-cta{display:flex;flex-wrap:wrap;gap:12px}
+.home-ab .hab-btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:8px 18px;border-radius:4px;font-size:14px;text-decoration:none;border:1px solid var(--hab-ink)}
+.home-ab .hab-btn-primary{background:var(--hab-ink);color:#fff}
+.home-ab .hab-btn-primary:hover{background:#fff;color:var(--hab-ink)}
+.home-ab .hab-btn-ghost{background:#fff;color:var(--hab-ink)}
+.home-ab .hab-btn-ghost:hover{background:var(--hab-ink);color:#fff}
+.home-ab .hab-btn:focus-visible{outline:2px solid var(--hab-ink);outline-offset:2px}
+.home-ab .hab-schools-list{background:var(--hab-bg2);padding:22px 0 28px;border-top:1px solid var(--hab-line)}
+.home-ab .hab-schools-list h2{margin:0 0 10px;font-size:13px;font-weight:400;color:var(--hab-nav)}
+.home-ab .hab-region{margin:0 0 2px;font-size:16px;line-height:1.7;color:var(--hab-body);overflow-wrap:anywhere}
+.home-ab .hab-region b{font-weight:700;color:var(--hab-ink);margin-right:.5em}
+.home-ab .hab-cases{background:var(--hab-bg);padding:40px 0 48px;border-top:1px solid var(--hab-line)}
+.home-ab .hab-cases h2,.home-ab .hab-offers h2{margin:0 0 8px;font-size:28px;font-weight:700;line-height:1.3;max-width:20em}
+.home-ab .hab-cases .hab-deck{margin:0 0 24px}
+.home-ab .hab-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px 16px}
+.home-ab .hab-card{min-width:0;background:#fff;border-radius:6px;overflow:hidden;text-decoration:none;color:inherit;display:flex;flex-direction:column}
+.home-ab .hab-fig{aspect-ratio:4/5;background:var(--hab-ph);overflow:hidden}
+.home-ab .hab-fig img{display:block;width:100%;height:100%;object-fit:cover}
+.home-ab .hab-meta{padding:12px 12px 14px}
+.home-ab .hab-schools{display:flex;flex-wrap:wrap;gap:4px;margin:0 0 8px}
+.home-ab .hab-school{display:inline-block;font-size:11px;line-height:1.4;padding:2px 7px;border-radius:999px;background:var(--hab-ink);color:#fff;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.home-ab .hab-school.hab-more{background:transparent;color:var(--hab-muted);padding-left:2px}
+.home-ab .hab-type{font-size:12px;line-height:1.4;color:var(--hab-muted);text-wrap:balance}
+.home-ab .hab-offers{background:var(--hab-bg3);padding:40px 0 48px;border-top:1px solid var(--hab-line)}
+.home-ab .hab-offers h2{line-height:1.35}
+.home-ab .hab-offer-lead{margin:0 0 24px;font-size:15px;line-height:1.55;color:var(--hab-muted)}
+.home-ab .hab-offer-grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,200px));gap:20px 16px}
+.home-ab .hab-offer-grid li{min-width:0;display:flex;justify-content:center}
+.home-ab .hab-offer-frame{aspect-ratio:210/297;width:100%;background:#fff;border:2px dashed #c8c8c8;border-radius:2px}
+.home-ab .hab-awards{margin:32px 0 0;padding-top:12px;border-top:1px dashed var(--hab-line);font-size:13px;line-height:1.45;color:var(--hab-nav)}
+@media(max-width:700px){
+.home-ab .hab-fold{min-height:calc(100vh - 76px)}
+.home-ab .hab-wrap{padding-left:16px;padding-right:16px}
+.home-ab .hab-hero{padding:22px 0 20px;align-items:flex-start}
+.home-ab .hab-hero h1{font-size:30px}
+.home-ab .hab-deck{font-size:15px;margin-bottom:20px}
+.home-ab .hab-stats{grid-template-columns:1fr;gap:14px;margin-bottom:20px}
+.home-ab .hab-stat{display:grid;grid-template-columns:auto 1fr;gap:8px 14px;align-items:baseline}
+.home-ab .hab-num{font-size:28px}
+.home-ab .hab-lbl{margin-top:0}
+.home-ab .hab-cta{flex-direction:column}
+.home-ab .hab-btn{width:100%}
+.home-ab .hab-schools-list{padding:18px 0 24px}
+.home-ab .hab-cases{padding:28px 0 32px}
+.home-ab .hab-cases h2,.home-ab .hab-offers h2{font-size:22px}
+.home-ab .hab-cases .hab-deck{font-size:15px;margin-bottom:16px}
+.home-ab .hab-cards{display:flex;gap:12px;overflow:auto;scrollbar-width:none}
+.home-ab .hab-cards::-webkit-scrollbar{display:none}
+.home-ab .hab-card{flex:0 0 78%}
+.home-ab .hab-offers{padding:28px 0 36px}
+.home-ab .hab-offer-lead{font-size:13px;margin-bottom:16px}
+.home-ab .hab-offer-grid{grid-template-columns:1fr 1fr;gap:16px 12px}
+.home-ab .hab-awards{margin-top:20px}
+}
 /* pin detail pages (/board/<slug>/) */
 body.detail{background:#fff}
 .detail main{max-width:880px;margin:0 auto;padding:22px 20px 56px}
