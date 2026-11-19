@@ -184,7 +184,7 @@ export function letterOf(title) {
 /* ---------- landing (site root) ---------- */
 // Homepage A＋B (design 聶永真, 2026-11-17). First screen: the question h1, the r2 statement plus hours as the
 // lead, the three published totals, two buttons and a names-only list of admitted schools. Then six anonymous
-// board cases, an empty 「頂尖學校錄取 Offer（資料待補）」 wall (six blank A4 frames, no letters) and the awards slot.
+// board cases, the 「頂尖學校錄取 Offer（節選）」 wall (ten masked, watermarked admission letters, 11/19) and the awards slot.
 // Copy is fixed here; zh-Hans is OpenCC(zh-Hant) like the rest of the site. Classes are hab-* under body.home-ab
 // so nothing leaks. One h1 only. The English question was not on the old landing (Chinese-only h1 at c6644a70);
 // it reuses the r2 English statement inside the question, to match the Chinese.
@@ -232,8 +232,30 @@ const habContent = () => ({
       schools: [['康乃爾', 'Cornell'], ['密西根', 'University of Michigan'], ['南加大', 'USC'], ['喬治亞理工', 'Georgia Tech']], more: 0,
       type: [['大學部申請', '記憶與城市研究'], ['Undergraduate application', 'Memory and urban study']] }
   ],
-  offersH: ['頂尖學校錄取 Offer（資料待補）', 'Offers from top schools (to be added)'],
-  offersLead: ['錄取通知書・待提供', 'Offer letters · to be provided'],
+  offers: [
+    { id: 'harvard-gsd-mla-i-ap-2025', w: 1122, h: 985, tw: 480, th: 421,
+      cap: [['哈佛大學設計研究所（GSD）', '景觀建築碩士 MLA I AP', '2025–26 學年入學'], ['Harvard Graduate School of Design (GSD)', 'Master in Landscape Architecture (MLA I AP)', 'Entering 2025\u201326']] },
+    { id: 'penn-weitzman-ms-aad-2026-a', w: 1200, h: 872, tw: 480, th: 348,
+      cap: [['賓州大學 Weitzman 設計學院', '設計理學碩士：進階建築設計', '2026 年入學'], ['University of Pennsylvania Weitzman School of Design', 'MS in Design: Advanced Architectural Design', 'Entering 2026']] },
+    { id: 'penn-weitzman-ms-aad-2026-b', w: 1105, h: 1430, tw: 480, th: 621,
+      cap: [['賓州大學 Weitzman 設計學院', '設計理學碩士：進階建築設計', '2026 年入學'], ['University of Pennsylvania Weitzman School of Design', 'MS in Design: Advanced Architectural Design', 'Entering 2026']] },
+    { id: 'cornell-cals-landscape-2026', w: 1080, h: 1408, tw: 480, th: 625,
+      cap: [['康乃爾大學農業與生命科學學院', '景觀建築（大學部）', '2026 年秋季入學'], ['Cornell University College of Agriculture and Life Sciences', 'Landscape Architecture (undergraduate)', 'Fall 2026']] },
+    { id: 'cornell-caap-2026-a', w: 1105, h: 1120, tw: 480, th: 486,
+      cap: [['康乃爾大學建築・藝術・規劃學院', '大學部', '2026 年秋季入學'], ['Cornell University College of Architecture, Art, and Planning', 'Undergraduate', 'Fall 2026']] },
+    { id: 'cornell-caap-2026-b', w: 1105, h: 1120, tw: 480, th: 486,
+      cap: [['康乃爾大學建築・藝術・規劃學院', '大學部', '2026 年秋季入學'], ['Cornell University College of Architecture, Art, and Planning', 'Undergraduate', 'Fall 2026']] },
+    { id: 'columbia-tcd-dual-degree-2026', w: 1176, h: 1080, tw: 480, th: 440,
+      cap: [['哥倫比亞大學與都柏林聖三一學院雙學位', '藝術與建築史（大學部）', '2026 年秋季入學'], ['Columbia University and Trinity College Dublin Dual Degree Program', 'History of Art and Architecture (undergraduate)', 'Fall 2026']] },
+    { id: 'princeton-2030', w: 1075, h: 1521, tw: 480, th: 679,
+      cap: [['普林斯頓大學', '大學部', '2030 屆'], ['Princeton University', 'Undergraduate', 'Class of 2030']] },
+    { id: 'mit-2025', w: 1200, h: 705, tw: 480, th: 282,
+      cap: [['麻省理工學院', '大學部', '2025 屆（2021 年錄取）'], ['Massachusetts Institute of Technology', 'Undergraduate', 'Class of 2025 (admitted 2021)']] },
+    { id: 'brown-2025', w: 1200, h: 1500, tw: 480, th: 600,
+      cap: [['布朗大學', '大學部', '2025 屆（2021 年錄取）'], ['Brown University', 'Undergraduate', 'Class of 2025 (admitted 2021)']] }
+  ],
+  offersH: ['頂尖學校錄取 Offer（節選）', 'Offers from top schools (selected)'],
+  offersLead: ['錄取通知書節選。個人資料已遮蔽，並加上網站浮水印。', 'Selected admission letters. Personal details are covered and a site watermark is added.'],
   awards: ['獲獎（資料待補）', 'Awards (to be added)']
 });
 // Keep the Chinese question in two nowrap units so 「從哪裡開始？」 cannot split (no single-character last line).
@@ -265,9 +287,20 @@ function habCase(c, opts) {
     (img.w && img.h ? ' width="' + img.w + '" height="' + img.h + '"' : '') + ' loading="lazy" decoding="async"></div>' +
     '<div class="hab-meta"><div class="hab-schools">' + schools + '</div><div class="hab-type">' + type + '</div></div></a>\n';
 }
+// One admission letter per box: the masked, watermarked 480px thumbnail opens the 1200px file in the shared zoom overlay. The caption names
+// the school, programme and entry year only (never a student). The alt follows the page language like the case cards.
+function habOffer(o) {
+  const altZh = o.cap[0].join('，') + '：錄取通知書（個人資料已遮蔽）';
+  const altEn = o.cap[1].join(', ') + ': admission letter (personal details covered)';
+  const base = 'assets/offers/' + o.id;
+  const capHtml = habL([o.cap[0], o.cap[1]], 'span', (parts, l) => '<b>' + esc(parts[0]) + '</b>' + parts.slice(1).map(esc).join(l === 'en' ? ' · ' : '・'));
+  return '<li><button type="button" class="hab-offer-frame zoom" draggable="false" data-full="' + base + '-full.webp">' +
+    '<img src="' + base + '-thumb.webp" alt="' + esc(altZh) + '" data-alt-en="' + esc(altEn) + '" data-alt-zh-hans="' + esc(toHans(altZh)) + '" width="' + o.tw + '" height="' + o.th + '" loading="lazy" decoding="async" draggable="false"></button>' +
+    '<p class="hab-offer-cap">' + capHtml + '</p></li>';
+}
 // One <img> per card; its alt follows the page language chosen in <head>.
 const HAB_ALT_JS = '<script>(function(){var l=document.documentElement.getAttribute("data-lang"),k=l==="en"?"data-alt-en":l==="zh-Hans"?"data-alt-zh-hans":"";if(!k)return;' +
-  '[].forEach.call(document.querySelectorAll(".hab-fig img["+k+"]"),function(i){i.alt=i.getAttribute(k)})})();</script>\n';
+  '[].forEach.call(document.querySelectorAll(".hab-fig img["+k+"],.hab-offer-frame img["+k+"]"),function(i){i.alt=i.getAttribute(k)})})();</script>\n';
 export function renderLanding(site, opts) {
   const title = site.name + ' — 建築與設計作品集指導';
   const h = habContent();
@@ -306,11 +339,11 @@ export function renderLanding(site, opts) {
     '<section class="hab-offers" aria-labelledby="hab-offers-title"><div class="hab-wrap">\n' +
     '    <h2 id="hab-offers-title">' + habL(h.offersH, 'span') + '</h2>\n' +
     '    <p class="hab-offer-lead">' + habL(h.offersLead, 'span') + '</p>\n' +
-    '    <ul class="hab-offer-grid">' + '<li><div class="hab-offer-frame" aria-hidden="true"></div></li>'.repeat(6) + '</ul>\n' +
+    '    <ul class="hab-offer-grid">' + h.offers.map(habOffer).join('') + '</ul>\n' +
     '    <p class="hab-awards">' + habL(h.awards, 'span') + '</p>\n' +
     '</div></section>\n' +
     '</main>\n' +
-    HAB_ALT_JS +
+    ZOOM_JS + HAB_ALT_JS +
     '</body></html>\n', 0);
 }
 
