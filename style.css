@@ -67,7 +67,7 @@ body.home-ab{--hab-bg:#fff;--hab-bg2:#f0f0f0;--hab-bg3:#f6f6f4;--hab-ink:#111;--
 .home-ab .hab-schools-list h2{margin:0 0 10px;font-size:13px;font-weight:400;color:var(--hab-nav)}
 .home-ab .hab-region{margin:0 0 2px;font-size:16px;line-height:1.7;color:var(--hab-body);overflow-wrap:anywhere}
 .home-ab .hab-region b{font-weight:700;color:var(--hab-ink);margin-right:.5em}
-.home-ab .hab-cases{background:var(--hab-bg);padding:40px 0 48px;border-top:1px solid var(--hab-line)}
+.home-ab .hab-cases{background:var(--hab-bg3);padding:40px 0 48px;border-top:1px solid var(--hab-line)}
 .home-ab .hab-cases h2,.home-ab .hab-offers h2{margin:0 0 8px;font-size:28px;font-weight:700;line-height:1.3;max-width:20em}
 .home-ab .hab-cases .hab-deck{margin:0 0 24px}
 .home-ab .hab-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px 16px}
@@ -79,7 +79,7 @@ body.home-ab{--hab-bg:#fff;--hab-bg2:#f0f0f0;--hab-bg3:#f6f6f4;--hab-ink:#111;--
 .home-ab .hab-school{display:inline-block;font-size:11px;line-height:1.4;padding:2px 7px;border-radius:999px;background:var(--hab-ink);color:#fff;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .home-ab .hab-school.hab-more{background:transparent;color:var(--hab-muted);padding-left:2px}
 .home-ab .hab-type{font-size:12px;line-height:1.4;color:var(--hab-muted);text-wrap:balance}
-.home-ab .hab-offers{background:var(--hab-bg3);padding:40px 0 48px;border-top:1px solid var(--hab-line)}
+.home-ab .hab-offers{background:var(--hab-bg);padding:40px 0 48px;border-top:1px solid var(--hab-line)}
 .home-ab .hab-offers h2{line-height:1.35}
 .home-ab .hab-offer-lead{margin:0 0 24px;font-size:15px;line-height:1.55;color:var(--hab-muted)}
 .home-ab .hab-offer-grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:24px 16px;align-items:start}
