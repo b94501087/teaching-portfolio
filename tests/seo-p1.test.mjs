@@ -72,6 +72,7 @@ test('home and consulting expose the hours phrase, a question heading, and organ
   assert.match(home, /Architecture and design portfolio mentoring\. Since 2017: <span class="hab-nw">12,000\+ hours<\/span> of design teaching and design consultation/);
   assert.ok(home.includes('錄取件數，不是人數'));
   assert.equal((home.match(/class="hab-offer-frame[ "]/g) || []).length, 10);
+  assert.ok(home.indexOf('class="hab-offers"') > 0 && home.indexOf('class="hab-offers"') < home.indexOf('class="hab-cases"'), 'offers section comes before the board cases');
   assert.ok(home.includes(HOURS_ZH) && home.includes(HOURS_EN));
   assert.match(home, /property="og:image"/);
   assert.match(home, /"@type":"EducationalOrganization"/);
